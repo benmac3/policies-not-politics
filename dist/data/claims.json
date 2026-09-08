@@ -1,0 +1,218 @@
+[
+  {
+    "id": "C01",
+    "timestamp": "9:10–9:24; 29:43–29:51",
+    "claim": "63% live pay cheque to pay cheque, lack emergency savings, or have less than $500.",
+    "indicator": "Household resilience",
+    "verdict": "Definition mismatch",
+    "assessment": "These are different measures. SHED reports 63% could meet a $400 expense with cash or equivalent in 2025. The transcript’s original survey is unidentified.",
+    "source": "fed_def"
+  },
+  {
+    "id": "C02",
+    "timestamp": "9:16–9:24",
+    "claim": "Prices are rising faster than wages.",
+    "indicator": "Real wages",
+    "verdict": "Testable; country and period needed",
+    "assessment": "Use matched WPI and CPI indexes and calculate their ratio; include household living-cost indexes.",
+    "source": "abs_prices"
+  },
+  {
+    "id": "C03",
+    "timestamp": "10:33–12:40; 28:34–28:45",
+    "claim": "Government involvement causes higher education, health and housing costs.",
+    "indicator": "Service prices and public funding",
+    "verdict": "Causal claim unproven here",
+    "assessment": "Compare demand subsidies with supply policy, staffing intensity, quality and demographics; co-movement alone cannot isolate causation.",
+    "source": "housing"
+  },
+  {
+    "id": "C04",
+    "timestamp": "11:20–11:34",
+    "claim": "University administrative staff rose from 10% to 60% over 30 years.",
+    "indicator": "University workforce mix",
+    "verdict": "Unverified",
+    "assessment": "Need original classification, institution coverage and denominator. US NCES/IPEDS and Australian Department of Education higher-education staff collections are candidate sources.",
+    "source": ""
+  },
+  {
+    "id": "C05",
+    "timestamp": "12:59–15:05; 26:21–26:32",
+    "claim": "Success should mean 2% a year moving from labour dependence to capital independence.",
+    "indicator": "Asset ownership and income mobility",
+    "verdict": "Normative target; custom metric",
+    "assessment": "Define accessible assets, sustainable after-tax income and household essential spending. Superannuation access limits matter. No standard OECD transition series identified.",
+    "source": "wealth"
+  },
+  {
+    "id": "C06",
+    "timestamp": "14:16–14:24; 18:00–18:32",
+    "claim": "10% annual returns illustrate financial freedom and rapid compounding.",
+    "indicator": "Investment compounding",
+    "verdict": "Illustration, not a forecast",
+    "assessment": "A tenfold increase at 10% takes about 24.2 years before taxes, fees and withdrawals. Average market returns are not guaranteed retirement income.",
+    "source": ""
+  },
+  {
+    "id": "C07",
+    "timestamp": "16:20–17:05",
+    "claim": "Debt is paid through money creation, explaining inflation.",
+    "indicator": "Debt, monetary financing and CPI",
+    "verdict": "Mechanism oversimplified",
+    "assessment": "Separate bond issuance, central-bank purchases, private credit, demand, supply shocks and monetary-policy response.",
+    "source": "money"
+  },
+  {
+    "id": "C08",
+    "timestamp": "17:26–17:50; 35:44–35:59",
+    "claim": "Close to half of Americans are government employees, contractors or pension recipients.",
+    "indicator": "Employment and government income exposure",
+    "verdict": "Mixed populations; not an employment rate",
+    "assessment": "Employees, beneficiaries and contractors overlap. Count unique people for income exposure; use employed people as denominator for employment shares.",
+    "source": "sector"
+  },
+  {
+    "id": "C09",
+    "timestamp": "18:32–18:59; 21:28–22:10",
+    "claim": "Labour is taxed more heavily than capital, and asset-backed borrowing avoids realisation.",
+    "indicator": "Effective tax burdens",
+    "verdict": "Testable policy proposition",
+    "assessment": "Compare effective lifetime tax wedges; account for company tax, imputation, inflation, realisation timing and superannuation. Borrowing creates a liability, not net wealth.",
+    "source": ""
+  },
+  {
+    "id": "C10",
+    "timestamp": "25:13–25:32",
+    "claim": "California’s top 1% pays 40–50% of personal income tax.",
+    "indicator": "Tax concentration",
+    "verdict": "Unverified in this edition",
+    "assessment": "Use California Franchise Tax Board tables for the same year; do not substitute all government revenue for personal income tax.",
+    "source": ""
+  },
+  {
+    "id": "C11",
+    "timestamp": "25:51–26:13",
+    "claim": "France lost more revenue from wealth-tax migration than the tax raised.",
+    "indicator": "Tax migration effects",
+    "verdict": "Causal claim unverified",
+    "assessment": "Require French official reform evaluations, defined time period and counterfactual; distinguish migration from asset repricing.",
+    "source": ""
+  },
+  {
+    "id": "C12",
+    "timestamp": "26:40–29:10",
+    "claim": "Housing wealth growth reduces access for subsequent buyers.",
+    "indicator": "Housing affordability",
+    "verdict": "Testable distributional question",
+    "assessment": "Use housing prices, rent, income, mortgage rates and tenure by age; total owner returns must include costs and imputed rent.",
+    "source": "housing"
+  },
+  {
+    "id": "C13",
+    "timestamp": "29:10–29:32",
+    "claim": "40–45 million Americans graduated over ten years and face debt and difficult jobs.",
+    "indicator": "Education debt and graduate outcomes",
+    "verdict": "Unverified",
+    "assessment": "Count people rather than qualifications; US Education/NCES and Australian Education/ATO collections need consistent cohorts.",
+    "source": ""
+  },
+  {
+    "id": "C14",
+    "timestamp": "32:02–32:45",
+    "claim": "China’s GDP per person grew from roughly 3,000 to 30,000 due to market freedom.",
+    "indicator": "Real GDP per capita",
+    "verdict": "Units and dates unspecified",
+    "assessment": "Establish currency and PPP/price basis before checking growth; China is outside the OECD membership cohort.",
+    "source": "members"
+  },
+  {
+    "id": "C15",
+    "timestamp": "37:53–40:00",
+    "claim": "Inequality is necessary for progress.",
+    "indicator": "Innovation and distribution",
+    "verdict": "Hypothesis; not established identity",
+    "assessment": "Compare productivity and median income with wealth shares, business formation and R&D. Test competing explanations.",
+    "source": "wealth"
+  },
+  {
+    "id": "C16",
+    "timestamp": "40:08–43:09",
+    "claim": "Career politicians and election cycles encourage excess spending.",
+    "indicator": "Parliamentary careers and fiscal incentives",
+    "verdict": "Hypothesis; descriptive data cannot prove it",
+    "assessment": "Code employment spells and tenure; test policy outcomes separately. Career background is not a competence score.",
+    "source": "aph"
+  },
+  {
+    "id": "C17",
+    "timestamp": "43:23–46:36",
+    "claim": "Denmark offers security but little entrepreneurship or opportunity to progress.",
+    "indicator": "Innovation, mobility and welfare",
+    "verdict": "Overstated binary",
+    "assessment": "Statistics Denmark publishes business births and high-growth enterprise statistics. Compare innovation and distribution separately; avoid equating social insurance with central planning.",
+    "source": "denmark"
+  },
+  {
+    "id": "C18",
+    "timestamp": "48:46–49:14",
+    "claim": "High spending and taxes reduce UK productivity.",
+    "indicator": "Productivity and fiscal settings",
+    "verdict": "Causal hypothesis",
+    "assessment": "Control for investment, industry mix, skills, trade and demographics; allow public infrastructure and health to improve capacity.",
+    "source": "oecd_p"
+  },
+  {
+    "id": "C19",
+    "timestamp": "52:58–53:05; 1:02:50–1:02:57; 1:15:50–1:16:38",
+    "claim": "AI improves output per hour; early-career employment may fall despite low aggregate unemployment.",
+    "indicator": "AI adoption, productivity and jobs",
+    "verdict": "Competing hypotheses",
+    "assessment": "Track hours, real pay, vacancies and age/occupation employment. The cited 13% estimate requires its underlying Stanford study and data; it is not a national unemployment rate.",
+    "source": ""
+  },
+  {
+    "id": "C20",
+    "timestamp": "1:29:44–1:29:52",
+    "claim": "Public jobs may create less value than their wages.",
+    "indicator": "Non-market productivity",
+    "verdict": "Illustration; not measured result",
+    "assessment": "Measured output and social benefit differ. Do not infer unproductive work from public funding.",
+    "source": "sector"
+  },
+  {
+    "id": "C21",
+    "timestamp": "1:31:59–1:32:52",
+    "claim": "US wealth totals $183tn; billionaires $8tn; $50m+ households $23tn; bottom half $6tn.",
+    "indicator": "Wealth distribution and fiscal scale",
+    "verdict": "Unverified snapshot",
+    "assessment": "Check dates, households versus people, market valuation and overlapping groups. A wealth stock is not annual revenue.",
+    "source": "wealth"
+  },
+  {
+    "id": "C22",
+    "timestamp": "1:46:31–1:48:10",
+    "claim": "Public retirement arrangements are unreliable; asset ownership offers a better route.",
+    "indicator": "Pension sustainability and coverage",
+    "verdict": "Mixed institutional claims",
+    "assessment": "US Social Security, defined-benefit schemes and Australian superannuation are different. Compare replacement rates, funded assets, risk and access.",
+    "source": ""
+  },
+  {
+    "id": "C23",
+    "timestamp": "1:50:38–1:51:17; 2:00:06–2:00:29",
+    "claim": "Oil reserve constraints and data-centre power demand affect living costs.",
+    "indicator": "Energy security and prices",
+    "verdict": "Time-sensitive claims unverified",
+    "assessment": "Use energy department fuel stocks and AEMO demand/capacity; separate US reserves from Australian import cover.",
+    "source": ""
+  },
+  {
+    "id": "C24",
+    "timestamp": "1:56:54–1:59:24",
+    "claim": "AI productivity gains spread to wages and jobs.",
+    "indicator": "Productivity diffusion and labour share",
+    "verdict": "Forecast hypothesis",
+    "assessment": "Track adoption, output per hour, labour share and real median earnings; higher profits do not automatically become higher wages.",
+    "source": "income"
+  }
+]
