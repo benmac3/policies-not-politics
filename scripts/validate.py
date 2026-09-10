@@ -32,7 +32,7 @@ for name in ('index.html', 'app.js'):
     for link in re.findall(r'(?:href|src)="([^"$]+)"', text):
         if link.startswith(('http', '#', '${')):
             continue
-        assert (ROOT / 'dist' / link).is_file(), f'Missing local asset: {link}'
+        assert (ROOT / 'dist' / link.split('?')[0]).is_file(), f'Missing local asset: {link}'
 assert (ROOT / 'dist/data.js').stat().st_size > 1000
 for name in ('panel','budget','extensions'):
     rows=load(name)

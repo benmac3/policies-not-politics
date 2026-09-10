@@ -4,7 +4,11 @@ const path=require('path'),root=path.join(__dirname,'..');
 const data={};for(const name of ['observations','sources','countries','claims','panel','metrics','budget','extensions','parliament'])data[name]=JSON.parse(fs.readFileSync(path.join(root,'data',name+'.json')));
 const elements={};const el=id=>elements[id]??={value:'',innerHTML:'',dataset:{},addEventListener(){},classList:{toggle(){}}};
 const ctx={DATA:data,document:{querySelector:el,querySelectorAll:()=>[]},window:{addEventListener(){},scrollTo(){}},location:{hash:'#dashboard'},console};
-vm.createContext(ctx);vm.runInContext(fs.readFileSync(path.join(root,'dist/app.js'),'utf8'),ctx);
+vm.createContext(ctx);
+// Reserve the browser's unforgeable Window names. Node VM does not enforce
+// browser global-property restrictions, so use lexical reservations here.
+vm.runInContext('const top = null, window = globalThis.window, location = globalThis.location, document = globalThis.document;',ctx);
+vm.runInContext(fs.readFileSync(path.join(root,'dist/app.js'),'utf8'),ctx);
 for(const route of ['dashboard','learn','countries','ndis','scenarios','representatives','evidence']){
   const html=vm.runInContext(route+'()',ctx);assert(html.includes('<h1>'));assert(!html.includes('undefined'));
 }
