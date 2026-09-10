@@ -1,19 +1,25 @@
 # Policy not politics
 
-An Australian economic education pack and static dashboard centred on productivity. Research snapshot: 8 September 2026.
+An Australian economic education pack and static dashboard centred on productivity. Research snapshot: 10 September 2026.
 
 ## What is included
 
-- A seven-view static website with official Australian time series, selected OECD comparisons, NDIS spending and integrity evidence, and two interactive teaching calculators.
-- 24 timestamped, paraphrased economic claims from the supplied Diary of a CEO transcript.
-- 79 source-linked observations and historical projections, a 38-country source directory and a source register.
-- Transparent equations, a career-history codebook, contribution templates and a GitHub Pages workflow.
+- Seven populated views: dashboard, productivity education, countries, NDIS, policy scenarios, parliamentary experience, and evidence.
+- 18,016 annual WDI observations across 20 indicators and all 38 OECD countries (2000–2025 requested; missingness varies).
+- 226 parliamentarians and 910 official occupation records, with source links and provisional sector hints.
+- Australian fiscal history, Budget forecasts, NDIS costs/participants/outcomes, household-income history and earlier national-accounts extracts.
+- 24 timestamped paraphrased transcript claims, reproducible import/build code, raw API snapshots and public contribution templates.
 
-## Coverage is incomplete
+See [release notes](docs/data-release.md) for definitions, coverage and limitations. All pages contain data, but the original research agenda remains incomplete: full hourly productivity, several household/technology measures, verified career durations, causal NDIS impacts and independently costed policy alternatives are still outstanding. Missing data never becomes zero.
 
-This is a research edition, not a completed OECD database or a costed party forecast. Only eight countries have selected comparable productivity levels; four have both 1995 and 2024 endpoints. The full House and Senate career census is not populated. NDIS workforce displacement, net benefits, and attributable debt have not been estimated. One Nation's headline savings are party claims, not verified model inputs.
+## Refresh official data
 
-The OECD API request returned HTTP 403 from this execution environment. A candidate import adapter is included but has not passed a live API run. Public source repository: https://github.com/benmac3/policies-not-politics . The private research preview is hosted separately.
+```sh
+python scripts/import_worldbank.py
+python scripts/import_parliament.py
+```
+
+These explicitly refresh source snapshots; builds use the committed data. Review definitions and source revisions before publishing. The WDI source layer is intergovernmental, with national offices and original organisations identified separately. Budget Table 11.4 can be reproduced using `python scripts/import_budget.py path/to/bp1_2026-27.pdf` (Poppler required).
 
 ## Reproduce locally
 
@@ -49,9 +55,8 @@ The importer writes a review-stage file and a raw-response checksum manifest; it
 
 Source and contributions: https://github.com/benmac3/policies-not-politics . Use Issues to challenge data or models; issue templates are included.
 
-To activate public website hosting, open Settings → Pages and choose GitHub Actions as the source, then run the **Build and publish static pack** workflow. The expected Pages address is https://benmac3.github.io/policies-not-politics/ once a deployment succeeds. The workflow validates the data and calculators before publishing.
+The public website is https://benmac3.github.io/policies-not-politics/ . Pushes to main run the **Build and publish static pack** workflow. The workflow validates the data and calculators before publishing.
 
-The separately hosted private research preview is https://policy-not-politics.benmac853144.chatgpt.site . This public export excludes its hosting identity and credentials.
 
 ## Scrutiny
 

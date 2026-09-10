@@ -10,7 +10,7 @@
   {
     "id": "abs_a",
     "agency": "ABS",
-    "title": "Australian System of National Accounts 2024–25",
+    "title": "Australian System of National Accounts 2024\u201325",
     "url": "https://www.abs.gov.au/statistics/economy/national-accounts/australian-system-national-accounts/2024-25",
     "note": "Key figures; financial years; 24 October 2025 vintage; may differ from later revisions",
     "retrieved": "2026-09-08"
@@ -34,7 +34,7 @@
   {
     "id": "ndis_a",
     "agency": "NDIA",
-    "title": "Annual Financial Sustainability Report 2024–25",
+    "title": "Annual Financial Sustainability Report 2024\u201325",
     "url": "https://www.ndis.gov.au/media/8183/download?attachment=",
     "note": "Table 6.11 p134: actual participant costs (accrual); historical AFSR projection vintage 30 June 2025. Excludes agency administration; includes Commonwealth and state scheme funding",
     "retrieved": "2026-09-08"
@@ -42,7 +42,7 @@
   {
     "id": "pbo",
     "agency": "Parliamentary Budget Office",
-    "title": "2026–27 Medium-Term Budget Outlook",
+    "title": "2026\u201327 Medium-Term Budget Outlook",
     "url": "https://www.pbo.gov.au/publications-and-data/publications/2026-27-medium-term-budget-outlook",
     "note": "Sections 5.3 and Box 1; 2026 Budget baseline and PBO scenarios; forecasts are conditional",
     "retrieved": "2026-09-08"
@@ -100,7 +100,7 @@
     "agency": "Federal Reserve",
     "title": "Emergency expenses, SHED survey",
     "url": "https://www.federalreserve.gov/consumerscommunities/sheddataviz/unexpectedexpenses-table.html",
-    "note": "Adults who would cover a $400 expense entirely with cash or equivalent; annual survey 2013–2025",
+    "note": "Adults who would cover a $400 expense entirely with cash or equivalent; annual survey 2013\u20132025",
     "retrieved": "2026-09-08"
   },
   {
@@ -146,7 +146,7 @@
   {
     "id": "abs_wealth",
     "agency": "ABS",
-    "title": "Household Income and Wealth 2019–20",
+    "title": "Household Income and Wealth 2019\u201320",
     "url": "https://www.abs.gov.au/statistics/economy/finance/household-income-and-wealth-australia/2019-20",
     "note": "Older survey vintage; do not represent as current household wealth",
     "retrieved": "2026-09-08"
@@ -190,5 +190,205 @@
     "url": "https://www.oecd.org/en/about/members-partners.html",
     "note": "38 members checked 8 September 2026; China shown only if separately added as a non-OECD comparator",
     "retrieved": "2026-09-08"
+  },
+  {
+    "id": "wdi_SL.GDP.PCAP.EM.KD",
+    "agency": "World Bank WDI; Staff estimates, World Bank (WB), note: Estimates are based on employment, population, GDP, and PPP data obtained from International Labour Organization, United Nations Population Division, Eurostat, OECD, and World Bank., type: estimates based on external database;\nInternational Labour Organization (ILO);\nUnited Nations (UN), publisher: UN Population Division;\nEurostat (ESTAT);\nOrganisation for Economic Co-operation and Development (OECD);\nWorld Development Indicators database, World Bank (WB)",
+    "title": "Output per employed person, PPP",
+    "url": "https://api.worldbank.org/v2/country/AUS;AUT;BEL;CAN;CHL;COL;CRI;CZE;DNK;EST;FIN;FRA;DEU;GRC;HUN;ISL;IRL;ISR;ITA;JPN;KOR;LVA;LTU;LUX;MEX;NLD;NZL;NOR;POL;PRT;SVK;SVN;ESP;SWE;CHE;TUR;GBR;USA/indicator/SL.GDP.PCAP.EM.KD?format=json&date=2000:2025&per_page=20000",
+    "note": "GDP per person employed is gross domestic product (GDP) divided by total employment in the economy. Purchasing power parity (PPP) GDP is GDP converted to 2021 constant international dollars using PPP rates. An international dollar has the same purchasing power over GDP that a U.S. dollar has in the United States.",
+    "retrieved": "2026-09-10"
+  },
+  {
+    "id": "wdi_NY.GDP.PCAP.KD.ZG",
+    "agency": "World Bank WDI; Country official statistics, National Statistical Organizations and/or Central Banks;\nNational Accounts data files, Organisation for Economic Co-operation and Development (OECD);\nStaff estimates, World Bank (WB)",
+    "title": "Real GDP per person growth",
+    "url": "https://api.worldbank.org/v2/country/AUS;AUT;BEL;CAN;CHL;COL;CRI;CZE;DNK;EST;FIN;FRA;DEU;GRC;HUN;ISL;IRL;ISR;ITA;JPN;KOR;LVA;LTU;LUX;MEX;NLD;NZL;NOR;POL;PRT;SVK;SVN;ESP;SWE;CHE;TUR;GBR;USA/indicator/NY.GDP.PCAP.KD.ZG?format=json&date=2000:2025&per_page=20000",
+    "note": "Gross domestic product is the total income earned through the production of goods and services in an economic territory during an accounting period. It can be measured in three different ways: using either the expenditure approach, the income approach, or the production approach. The core indicator has been divided by the general population to achieve a per capita estimate.This indicator denotes the percentage change over each previous year of the constant price (base year 2015) series in United States dollars.",
+    "retrieved": "2026-09-10"
+  },
+  {
+    "id": "wdi_NY.GDP.PCAP.PP.KD",
+    "agency": "World Bank WDI; International Comparison Program (ICP), World Bank (WB), uri: https://www.worldbank.org/en/programs/icp/data, note: This information is for ICP\u2019s PPPs utilized in WDI, publisher: International Comparison Program (ICP), date accessed: May 30, 2024, date published: May 30, 2024;\nThe Eurostat PPP Programme, Eurostat (ESTAT), uri: https://ec.europa.eu/eurostat/databrowser/explore/all/all_themes, publisher: Eurostat;\nThe OECD PPP Programme, Organisation for Economic Co-operation and Development (OECD), uri: https://data-explorer.oecd.org/, publisher: OECD;\nStaff estimates, World Bank (WB);\nNational Accounts data files, Organisation for Economic Co-operation and Development (OECD);\nWorld Economic Outlook database, International Monetary Fund (IMF)",
+    "title": "Real GDP per person, PPP",
+    "url": "https://api.worldbank.org/v2/country/AUS;AUT;BEL;CAN;CHL;COL;CRI;CZE;DNK;EST;FIN;FRA;DEU;GRC;HUN;ISL;IRL;ISR;ITA;JPN;KOR;LVA;LTU;LUX;MEX;NLD;NZL;NOR;POL;PRT;SVK;SVN;ESP;SWE;CHE;TUR;GBR;USA/indicator/NY.GDP.PCAP.PP.KD?format=json&date=2000:2025&per_page=20000",
+    "note": "This indicator provides values for gross domestic product (GDP) per person expressed in constant international dollars, converted by purchasing power parities (PPPs). PPPs account for the different price levels across countries and thus PPP-based comparisons of economic output are more appropriate for comparing the output of economies and the average material well-being of their inhabitants than exchange-rate based comparisons. \n\nGross domestic product is the total income earned through the production of goods and services in an economic territory during an accounting period. It can be measured in three different ways: using either the expenditure approach, the income approach, or the production approach. The core indicator has been divided by the general population to achieve a per capita estimate. This indicator is expressed in constant prices, meaning the series has been adjusted to account for price changes over time. The reference year for this adjustment is 2021. The PPP conversion factor is a currency conversion factor and a spatial price deflator. PPPs convert different currencies to a common currency and, in the process of conversion, equalize their purchasing power by eliminating the differences in price levels between countries, thereby allowing volume or output comparisons of GDP and its expenditure components.",
+    "retrieved": "2026-09-10"
+  },
+  {
+    "id": "wdi_NY.GDP.MKTP.KD.ZG",
+    "agency": "World Bank WDI; Country official statistics, National Statistical Organizations and/or Central Banks;\nNational Accounts data files, Organisation for Economic Co-operation and Development (OECD);\nStaff estimates, World Bank (WB)",
+    "title": "Real GDP growth",
+    "url": "https://api.worldbank.org/v2/country/AUS;AUT;BEL;CAN;CHL;COL;CRI;CZE;DNK;EST;FIN;FRA;DEU;GRC;HUN;ISL;IRL;ISR;ITA;JPN;KOR;LVA;LTU;LUX;MEX;NLD;NZL;NOR;POL;PRT;SVK;SVN;ESP;SWE;CHE;TUR;GBR;USA/indicator/NY.GDP.MKTP.KD.ZG?format=json&date=2000:2025&per_page=20000",
+    "note": "Gross domestic product is the total income earned through the production of goods and services in an economic territory during an accounting period. It can be measured in three different ways: using either the expenditure approach, the income approach, or the production approach. This indicator denotes the percentage change over each previous year of the constant price (base year 2015) series in United States dollars.",
+    "retrieved": "2026-09-10"
+  },
+  {
+    "id": "wdi_NY.GDP.PCAP.KD",
+    "agency": "World Bank WDI; Country official statistics, National Statistical Organizations and/or Central Banks;\nNational Accounts data files, Organisation for Economic Co-operation and Development (OECD);\nStaff estimates, World Bank (WB)",
+    "title": "Real GDP per person",
+    "url": "https://api.worldbank.org/v2/country/AUS;AUT;BEL;CAN;CHL;COL;CRI;CZE;DNK;EST;FIN;FRA;DEU;GRC;HUN;ISL;IRL;ISR;ITA;JPN;KOR;LVA;LTU;LUX;MEX;NLD;NZL;NOR;POL;PRT;SVK;SVN;ESP;SWE;CHE;TUR;GBR;USA/indicator/NY.GDP.PCAP.KD?format=json&date=2000:2025&per_page=20000",
+    "note": "Gross domestic product is the total income earned through the production of goods and services in an economic territory during an accounting period. It can be measured in three different ways: using either the expenditure approach, the income approach, or the production approach. The core indicator has been divided by the general population to achieve a per capita estimate.This indicator is expressed in constant prices, meaning the series has been adjusted to account for price changes over time. The reference year for this adjustment is 2015. This indicator is expressed in United States dollars.",
+    "retrieved": "2026-09-10"
+  },
+  {
+    "id": "wdi_FP.CPI.TOTL.ZG",
+    "agency": "World Bank WDI; International Financial Statistics database, International Monetary Fund (IMF)",
+    "title": "Consumer price inflation",
+    "url": "https://api.worldbank.org/v2/country/AUS;AUT;BEL;CAN;CHL;COL;CRI;CZE;DNK;EST;FIN;FRA;DEU;GRC;HUN;ISL;IRL;ISR;ITA;JPN;KOR;LVA;LTU;LUX;MEX;NLD;NZL;NOR;POL;PRT;SVK;SVN;ESP;SWE;CHE;TUR;GBR;USA/indicator/FP.CPI.TOTL.ZG?format=json&date=2000:2025&per_page=20000",
+    "note": "Inflation as measured by the consumer price index reflects the annual percentage change in the cost to the average consumer of acquiring a basket of goods and services that may be fixed or changed at specified intervals, such as yearly.",
+    "retrieved": "2026-09-10"
+  },
+  {
+    "id": "wdi_SL.TLF.CACT.ZS",
+    "agency": "World Bank WDI; ILO Modelled Estimates database (ILOEST), International Labour Organization (ILO), uri: https://ilostat.ilo.org/data/bulk/, publisher: ILOSTAT, type: external database, date accessed: January 17, 2026",
+    "title": "Labour force participation, modelled ILO estimate",
+    "url": "https://api.worldbank.org/v2/country/AUS;AUT;BEL;CAN;CHL;COL;CRI;CZE;DNK;EST;FIN;FRA;DEU;GRC;HUN;ISL;IRL;ISR;ITA;JPN;KOR;LVA;LTU;LUX;MEX;NLD;NZL;NOR;POL;PRT;SVK;SVN;ESP;SWE;CHE;TUR;GBR;USA/indicator/SL.TLF.CACT.ZS?format=json&date=2000:2025&per_page=20000",
+    "note": "Labor force participation rate is the proportion of the population ages 15 and older that is economically active: all people who supply labor for the production of goods and services during a specified period.",
+    "retrieved": "2026-09-10"
+  },
+  {
+    "id": "wdi_SL.UEM.TOTL.ZS",
+    "agency": "World Bank WDI; ILO Modelled Estimates database (ILOEST), International Labour Organization (ILO), uri: https://ilostat.ilo.org/data/bulk/, publisher: ILOSTAT, type: external database, date accessed: January 17, 2026",
+    "title": "Unemployment, modelled ILO estimate",
+    "url": "https://api.worldbank.org/v2/country/AUS;AUT;BEL;CAN;CHL;COL;CRI;CZE;DNK;EST;FIN;FRA;DEU;GRC;HUN;ISL;IRL;ISR;ITA;JPN;KOR;LVA;LTU;LUX;MEX;NLD;NZL;NOR;POL;PRT;SVK;SVN;ESP;SWE;CHE;TUR;GBR;USA/indicator/SL.UEM.TOTL.ZS?format=json&date=2000:2025&per_page=20000",
+    "note": "Unemployment refers to the share of the labor force that is without work but available for and seeking employment.",
+    "retrieved": "2026-09-10"
+  },
+  {
+    "id": "wdi_SI.POV.GINI",
+    "agency": "World Bank WDI; World Bank, Poverty and Inequality Platform. Data are based on primary household survey data obtained from government statistical agencies and World Bank country departments. Data for high-income economies are mostly from the Luxembourg Income Study database. For more information and methodology, please see http://pip.worldbank.org., World Bank (WB), uri: http://pip.worldbank.org, note: Data are based on primary household survey data obtained from government statistical agencies and World Bank country departments. Data for high-income economies are mostly from the Luxembourg Income Study database.",
+    "title": "Income or consumption Gini",
+    "url": "https://api.worldbank.org/v2/country/AUS;AUT;BEL;CAN;CHL;COL;CRI;CZE;DNK;EST;FIN;FRA;DEU;GRC;HUN;ISL;IRL;ISR;ITA;JPN;KOR;LVA;LTU;LUX;MEX;NLD;NZL;NOR;POL;PRT;SVK;SVN;ESP;SWE;CHE;TUR;GBR;USA/indicator/SI.POV.GINI?format=json&date=2000:2025&per_page=20000",
+    "note": "Gini index measures the extent to which the distribution of income (or, in some cases, consumption expenditure) among individuals or households within an economy deviates from a perfectly equal distribution. A Lorenz curve plots the cumulative percentages of total income received against the cumulative number of recipients, starting with the poorest individual or household. The Gini index measures the area between the Lorenz curve and a hypothetical line of absolute equality, expressed as a percentage of the maximum area under the line. Thus a Gini index of 0 represents perfect equality, while an index of 100 implies perfect inequality.",
+    "retrieved": "2026-09-10"
+  },
+  {
+    "id": "wdi_NE.GDI.FTOT.ZS",
+    "agency": "World Bank WDI; Country official statistics, National Statistical Organizations and/or Central Banks;\nNational Accounts data files, Organisation for Economic Co-operation and Development (OECD);\nStaff estimates, World Bank (WB)",
+    "title": "Gross fixed capital formation",
+    "url": "https://api.worldbank.org/v2/country/AUS;AUT;BEL;CAN;CHL;COL;CRI;CZE;DNK;EST;FIN;FRA;DEU;GRC;HUN;ISL;IRL;ISR;ITA;JPN;KOR;LVA;LTU;LUX;MEX;NLD;NZL;NOR;POL;PRT;SVK;SVN;ESP;SWE;CHE;TUR;GBR;USA/indicator/NE.GDI.FTOT.ZS?format=json&date=2000:2025&per_page=20000",
+    "note": "Gross fixed capital formation includes acquisitions less disposals of fixed assets during the accounting period, including certain specified expenditures on services that add to the value of non-produced assets. This indicator is expressed as a percentage of Gross Domestic Product (GDP) which is the total income earned through the production of goods and services in an economic territory during an accounting period.",
+    "retrieved": "2026-09-10"
+  },
+  {
+    "id": "wdi_GB.XPD.RSDV.GD.ZS",
+    "agency": "World Bank WDI; Stat Bulk Data Download Service, UN Educational, Scientific and Cultural Organization (UNESCO), uri: https://databrowser.uis.unesco.org/resources/bulk, publisher: UNESCO Institute for Statistics (UIS), date accessed: 2025-03-26, date published: 2025-02",
+    "title": "Research and development expenditure",
+    "url": "https://api.worldbank.org/v2/country/AUS;AUT;BEL;CAN;CHL;COL;CRI;CZE;DNK;EST;FIN;FRA;DEU;GRC;HUN;ISL;IRL;ISR;ITA;JPN;KOR;LVA;LTU;LUX;MEX;NLD;NZL;NOR;POL;PRT;SVK;SVN;ESP;SWE;CHE;TUR;GBR;USA/indicator/GB.XPD.RSDV.GD.ZS?format=json&date=2000:2025&per_page=20000",
+    "note": "Gross domestic expenditures on research and development (R&D), expressed as a percent of GDP. They include both capital and current expenditures in the four main sectors: Business enterprise, Government, Higher education and Private non-profit. R&D covers basic research, applied research, and experimental development.",
+    "retrieved": "2026-09-10"
+  },
+  {
+    "id": "wdi_GC.XPN.INTP.RV.ZS",
+    "agency": "World Bank WDI; Government Finance Statistics Yearbook and data files, International Monetary Fund (IMF)",
+    "title": "Interest payments",
+    "url": "https://api.worldbank.org/v2/country/AUS;AUT;BEL;CAN;CHL;COL;CRI;CZE;DNK;EST;FIN;FRA;DEU;GRC;HUN;ISL;IRL;ISR;ITA;JPN;KOR;LVA;LTU;LUX;MEX;NLD;NZL;NOR;POL;PRT;SVK;SVN;ESP;SWE;CHE;TUR;GBR;USA/indicator/GC.XPN.INTP.RV.ZS?format=json&date=2000:2025&per_page=20000",
+    "note": "Interest payments include interest payments on government debt (including long-term bonds, long-term loans, and other debt instruments) to domestic and foreign residents. This indicator is expressed as a percentage of revenue which includes all transactions that add to the amount of economic value of a unit or sector.",
+    "retrieved": "2026-09-10"
+  },
+  {
+    "id": "wdi_FS.AST.PRVT.GD.ZS",
+    "agency": "World Bank WDI; International Financial Statistics database, International Monetary Fund (IMF);\nWorld Development Indicators Database, World Bank (WB);\nNational Accounts data files, Organisation for Economic Co-operation and Development (OECD)",
+    "title": "Domestic credit to private sector",
+    "url": "https://api.worldbank.org/v2/country/AUS;AUT;BEL;CAN;CHL;COL;CRI;CZE;DNK;EST;FIN;FRA;DEU;GRC;HUN;ISL;IRL;ISR;ITA;JPN;KOR;LVA;LTU;LUX;MEX;NLD;NZL;NOR;POL;PRT;SVK;SVN;ESP;SWE;CHE;TUR;GBR;USA/indicator/FS.AST.PRVT.GD.ZS?format=json&date=2000:2025&per_page=20000",
+    "note": "Domestic credit to private sector refers to financial resources provided to the private sector by financial corporations, such as through loans, purchases of nonequity securities, and trade credits and other accounts receivable, that establish a claim for repayment. For some countries these claims include credit to public enterprises. The financial corporations include monetary authorities and deposit money banks, as well as other financial corporations where data are available (including corporations that do not accept transferable deposits but do incur such liabilities as time and savings deposits). Examples of other financial corporations are finance and leasing companies, money lenders, insurance corporations, pension funds, and foreign exchange companies. This indicator is expressed as a percentage of Gross Domestic Product (GDP) which is the total income earned through the production of goods and services in an economic territory during an accounting period.",
+    "retrieved": "2026-09-10"
+  },
+  {
+    "id": "wdi_GC.XPN.TOTL.GD.ZS",
+    "agency": "World Bank WDI; Government Finance Statistics Yearbook and data files, International Monetary Fund (IMF);\nWorld Development Indicators, World Bank (WB);\nNational Accounts data files, Organisation for Economic Co-operation and Development (OECD)",
+    "title": "Government expense, GFS reporting scope",
+    "url": "https://api.worldbank.org/v2/country/AUS;AUT;BEL;CAN;CHL;COL;CRI;CZE;DNK;EST;FIN;FRA;DEU;GRC;HUN;ISL;IRL;ISR;ITA;JPN;KOR;LVA;LTU;LUX;MEX;NLD;NZL;NOR;POL;PRT;SVK;SVN;ESP;SWE;CHE;TUR;GBR;USA/indicator/GC.XPN.TOTL.GD.ZS?format=json&date=2000:2025&per_page=20000",
+    "note": "Expense is a decrease in net worth resulting from a transaction. This indicator is expressed as a percentage of Gross Domestic Product (GDP) which is the total income earned through the production of goods and services in an economic territory during an accounting period.",
+    "retrieved": "2026-09-10"
+  },
+  {
+    "id": "wdi_GC.DOD.TOTL.GD.ZS",
+    "agency": "World Bank WDI; Government Finance Statistics Yearbook and data files, International Monetary Fund (IMF)",
+    "title": "Central government debt",
+    "url": "https://api.worldbank.org/v2/country/AUS;AUT;BEL;CAN;CHL;COL;CRI;CZE;DNK;EST;FIN;FRA;DEU;GRC;HUN;ISL;IRL;ISR;ITA;JPN;KOR;LVA;LTU;LUX;MEX;NLD;NZL;NOR;POL;PRT;SVK;SVN;ESP;SWE;CHE;TUR;GBR;USA/indicator/GC.DOD.TOTL.GD.ZS?format=json&date=2000:2025&per_page=20000",
+    "note": "Debt is the entire stock of direct government fixed-term contractual obligations to others outstanding on a particular date. It includes domestic and foreign liabilities such as currency and money deposits, securities other than shares, and loans. It is the gross amount of government liabilities reduced by the amount of equity and financial derivatives held by the government. Because debt is a stock rather than a flow, it is measured as of a given date, usually the last day of the fiscal year. Central government is the part of general government that includes all administrative departments of the national executive, legislative, and judicial functions, other central agencies and those non-market producers controlled by the central government, whose competence extends normally over the whole economic territory. This indicator is expressed as a percentage of Gross Domestic Product (GDP) which is the total income earned through the production of goods and services in an economic territory during an accounting period.",
+    "retrieved": "2026-09-10"
+  },
+  {
+    "id": "wdi_GC.TAX.TOTL.GD.ZS",
+    "agency": "World Bank WDI; Government Finance Statistics Yearbook and data files, International Monetary Fund (IMF)",
+    "title": "Tax revenue excluding most social contributions",
+    "url": "https://api.worldbank.org/v2/country/AUS;AUT;BEL;CAN;CHL;COL;CRI;CZE;DNK;EST;FIN;FRA;DEU;GRC;HUN;ISL;IRL;ISR;ITA;JPN;KOR;LVA;LTU;LUX;MEX;NLD;NZL;NOR;POL;PRT;SVK;SVN;ESP;SWE;CHE;TUR;GBR;USA/indicator/GC.TAX.TOTL.GD.ZS?format=json&date=2000:2025&per_page=20000",
+    "note": "Taxes are compulsory, unrequited payments, in cash or in kind, made by institutional\n\n\n\n\nunits to government units. This indicator is expressed as a percentage of Gross Domestic Product (GDP) which is the total income earned through the production of goods and services in an economic territory during an accounting period.",
+    "retrieved": "2026-09-10"
+  },
+  {
+    "id": "wdi_SP.POP.TOTL",
+    "agency": "World Bank WDI; World Population Prospects, United Nations (UN), uri: https://population.un.org/wpp/, publisher: UN Population Division;\nStatistical databases and publications from national statistical offices, National Statistical Offices (NSOs), uri: https://unstats.un.org/home/nso_sites/, publisher: National Statistical Offices;\nEurostat: Demographic Statistics, Eurostat (ESTAT), uri: https://ec.europa.eu/eurostat/data/database?node_code=earn_ses_monthly, publisher: Eurostat;\nPopulation and Vital Statistics Report (various years), United Nations (UN), uri: https://unstats.un.org, publisher: UN Statistics Division",
+    "title": "Population",
+    "url": "https://api.worldbank.org/v2/country/AUS;AUT;BEL;CAN;CHL;COL;CRI;CZE;DNK;EST;FIN;FRA;DEU;GRC;HUN;ISL;IRL;ISR;ITA;JPN;KOR;LVA;LTU;LUX;MEX;NLD;NZL;NOR;POL;PRT;SVK;SVN;ESP;SWE;CHE;TUR;GBR;USA/indicator/SP.POP.TOTL?format=json&date=2000:2025&per_page=20000",
+    "note": "Total population is based on the de facto definition of population, which counts all residents regardless of legal status or citizenship. The values shown are midyear estimates.",
+    "retrieved": "2026-09-10"
+  },
+  {
+    "id": "wdi_EG.FEC.RNEW.ZS",
+    "agency": "World Bank WDI; IEA Energy Statistics Data Browser, International Energy Agency (IEA), uri: https://www.iea.org/data-and-statistics/data-tools/energy-statistics-data-browser, publisher: International Energy Agency (IEA), date accessed: 2025-03-25",
+    "title": "Renewable energy consumption",
+    "url": "https://api.worldbank.org/v2/country/AUS;AUT;BEL;CAN;CHL;COL;CRI;CZE;DNK;EST;FIN;FRA;DEU;GRC;HUN;ISL;IRL;ISR;ITA;JPN;KOR;LVA;LTU;LUX;MEX;NLD;NZL;NOR;POL;PRT;SVK;SVN;ESP;SWE;CHE;TUR;GBR;USA/indicator/EG.FEC.RNEW.ZS?format=json&date=2000:2025&per_page=20000",
+    "note": "Renewable energy consumption is the share of renewable energy in total final energy consumption.",
+    "retrieved": "2026-09-10"
+  },
+  {
+    "id": "wdi_SP.POP.65UP.TO.ZS",
+    "agency": "World Bank WDI; World Population Prospects, United Nations (UN), publisher: UN Population Division",
+    "title": "Population aged 65+",
+    "url": "https://api.worldbank.org/v2/country/AUS;AUT;BEL;CAN;CHL;COL;CRI;CZE;DNK;EST;FIN;FRA;DEU;GRC;HUN;ISL;IRL;ISR;ITA;JPN;KOR;LVA;LTU;LUX;MEX;NLD;NZL;NOR;POL;PRT;SVK;SVN;ESP;SWE;CHE;TUR;GBR;USA/indicator/SP.POP.65UP.TO.ZS?format=json&date=2000:2025&per_page=20000",
+    "note": "Population ages 65 and above as a percentage of the total population. Population is based on the de facto definition of population, which counts all residents regardless of legal status or citizenship.",
+    "retrieved": "2026-09-10"
+  },
+  {
+    "id": "wdi_EG.IMP.CONS.ZS",
+    "agency": "World Bank WDI; IEA Energy Statistics Data Browser, International Energy Agency (IEA), uri: https://www.iea.org/data-and-statistics/data-tools/energy-statistics-data-browser, publisher: International Energy Agency (IEA), date accessed: 2025-03-25",
+    "title": "Net energy imports",
+    "url": "https://api.worldbank.org/v2/country/AUS;AUT;BEL;CAN;CHL;COL;CRI;CZE;DNK;EST;FIN;FRA;DEU;GRC;HUN;ISL;IRL;ISR;ITA;JPN;KOR;LVA;LTU;LUX;MEX;NLD;NZL;NOR;POL;PRT;SVK;SVN;ESP;SWE;CHE;TUR;GBR;USA/indicator/EG.IMP.CONS.ZS?format=json&date=2000:2025&per_page=20000",
+    "note": "Net energy imports are estimated as gross imports less gross exports, both measured in tons of oil equivalents (toe). A negative value indicates that the country is a net exporter. Energy use refers to use of primary energy before transformation to other end-use fuels, which is equal to indigenous production plus imports and stock changes, minus exports and fuels supplied to ships and aircraft engaged in international transport.",
+    "retrieved": "2026-09-10"
+  },
+  {
+    "id": "budget26",
+    "agency": "Australian Treasury",
+    "title": "2026\u201327 Budget Paper 1",
+    "url": "https://budget.gov.au/content/bp1/download/bp1_2026-27.pdf",
+    "note": "Tables 1.1, 1.2, 6.9.2 and 11.4. Forecast vintage, not September actuals; Commonwealth general government unless noted.",
+    "retrieved": "2026-09-10"
+  },
+  {
+    "id": "ndis26",
+    "agency": "NDIA",
+    "title": "June 2026 quarterly report",
+    "url": "https://www.ndis.gov.au/media/8796/download?attachment=",
+    "note": "Figures 1, 29, 36 and Table 8; outcome survey comparisons are descriptive, not causal.",
+    "retrieved": "2026-09-10"
+  },
+  {
+    "id": "ndis_july",
+    "agency": "NDIA",
+    "title": "July 2026 monthly statistics",
+    "url": "https://dataresearch.ndis.gov.au/media/4578/download?attachment=",
+    "note": "Monthly management accounts; supports include an allowance for delivered services not yet paid.",
+    "retrieved": "2026-09-10"
+  },
+  {
+    "id": "aph_api",
+    "agency": "Australian Parliament",
+    "title": "Parliamentary Handbook public data",
+    "url": "https://handbook.aph.gov.au/",
+    "note": "Official occupation records and prior service, retrieved 10 September 2026; occupation counts overlap.",
+    "retrieved": "2026-09-10"
+  },
+  {
+    "id": "abs_wpi26",
+    "agency": "ABS",
+    "title": "Wage Price Index June 2026",
+    "url": "https://www.abs.gov.au/statistics/economy/price-indexes-and-inflation/wage-price-index-australia/jun-2026",
+    "note": "All-sector WPI, seasonally adjusted; through-year June growth.",
+    "retrieved": "2026-09-10"
   }
 ]

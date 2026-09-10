@@ -1,5 +1,7 @@
 # Research method
 
+For the 10 September 2026 expansion, see [data-release.md](data-release.md). The release notes supersede the original edition’s coverage statements below.
+
 Version 0.1 — 8 September 2026
 
 The pack explains how policy may change productive capacity, household living standards and fiscal resilience. It tests the supplied interview's economic propositions rather than adopting its conclusions. The transcript contains automated transcription errors; its timestamps are used as supplied. Twenty-four representative economic claims have been paraphrased. Advertising, personal investment prescriptions, medical speculation and election predictions are outside the economic indicator extraction.

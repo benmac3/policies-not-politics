@@ -1,6 +1,6 @@
 # Parliamentary career codebook
 
-Target population: all serving federally elected representatives in the House and Senate at the declared snapshot date. Include casual-vacancy appointees serving in an elected chamber, noting appointment status. Publish House and Senate totals separately. Vacancies and unknown biographies remain visible. No full roster is loaded in this edition.
+Target population: all serving federally elected representatives in the House and Senate at the declared snapshot date. Include casual-vacancy appointees serving in an elected chamber, noting appointment status. Publish House and Senate totals separately. Vacancies and unknown biographies remain visible. The 10 September 2026 release contains 226 parliamentarians and 910 occupation records. Complete dated employment spells and verified employer ownership are not yet established. See data-release.md for the snapshot and provisional sector-hint method.
 
 One row per employment spell. Fields: person_id, name, chamber, party_at_snapshot, snapshot_date, employer, role, start_date, end_date, date_precision, category, government_control_at_time, public_funding_share, fte_fraction, source_url, source_locator, evidence_note, coding_status.
 

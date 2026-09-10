@@ -9,15 +9,28 @@ ROOT = Path(__file__).resolve().parents[1]
 
 
 def main():
+    raw_files=sorted((ROOT/'data/raw').glob('*.json.gz'))
+    if raw_files:
+        with zipfile.ZipFile(ROOT/'data/raw-snapshots.zip','w',compression=zipfile.ZIP_STORED) as z:
+            for p in raw_files:
+                info=zipfile.ZipInfo(p.name,date_time=(2026,9,10,0,0,0))
+                z.writestr(info,p.read_bytes())
     bundle = {}
-    for name in ('sources', 'observations', 'claims', 'countries'):
+    for name in ('sources', 'observations', 'claims', 'countries', 'panel', 'metrics', 'budget', 'extensions'):
         values = json.loads((ROOT / 'data' / f'{name}.json').read_text())
         bundle[name] = values
         with (ROOT / 'data' / f'{name}.csv').open('w', newline='') as f:
             writer = csv.DictWriter(f, fieldnames=list(values[0]))
             writer.writeheader()
             writer.writerows(values)
-    (ROOT / 'dist/data.js').write_text('const DATA = ' + json.dumps(bundle, ensure_ascii=False) + ';\n')
+    bundle['parliament'] = json.loads((ROOT/'data/parliament.json').read_text())
+    with (ROOT/'data/parliament.csv').open('w', newline='') as f:
+        writer=csv.writer(f)
+        writer.writerow(['id','name','chamber','party','state','electorate','occupation','sector_hint','source'])
+        for r in bundle['parliament']['roster']:
+            for role,hint in zip(r['occupations'] or ['Not recorded'],r['sector_hints'] or ['Unknown']):
+                writer.writerow([r['id'],r['name'],r['chamber'],r['party'],r['state'],r['electorate'],role,hint,r['source']])
+    (ROOT / 'dist/data.js').write_text('const DATA = ' + json.dumps(bundle, ensure_ascii=False, separators=(',',':')) + ';\n')
     for folder in ('data', 'docs'):
         destination = ROOT / 'dist' / folder
         destination.mkdir(exist_ok=True)
