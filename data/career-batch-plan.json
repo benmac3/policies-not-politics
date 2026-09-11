@@ -1,0 +1,21 @@
+{
+  "snapshot_source": "data/parliament.json",
+  "snapshot_retrieved": "2026-09-10",
+  "assignment_rule": "Within each state/territory, sort roster rows by name ascending, then take the zero-based half-open slice [start, end).",
+  "coverage_rule": "Every roster member must appear in exactly one batch. Re-run scripts/career_batches.py --check before starting or integrating research.",
+  "batches": [
+    {"id":"nsw-1","branch":"work/parliament-nsw-1","state":"NSW","start":0,"end":20,"expected_members":20},
+    {"id":"nsw-2","branch":"work/parliament-nsw-2","state":"NSW","start":20,"end":39,"expected_members":19},
+    {"id":"nsw-3","branch":"work/parliament-nsw-3","state":"NSW","start":39,"end":58,"expected_members":19},
+    {"id":"vic-1","branch":"work/parliament-vic-1","state":"Vic","start":0,"end":25,"expected_members":25},
+    {"id":"vic-2","branch":"work/parliament-vic-2","state":"Vic","start":25,"end":50,"expected_members":25},
+    {"id":"qld-1","branch":"work/parliament-qld-1","state":"Qld","start":0,"end":21,"expected_members":21},
+    {"id":"qld-2","branch":"work/parliament-qld-2","state":"Qld","start":21,"end":42,"expected_members":21},
+    {"id":"wa-1","branch":"work/parliament-wa-1","state":"WA","start":0,"end":14,"expected_members":14},
+    {"id":"wa-2","branch":"work/parliament-wa-2","state":"WA","start":14,"end":28,"expected_members":14},
+    {"id":"sa","branch":"work/parliament-sa","state":"SA","start":0,"end":22,"expected_members":22},
+    {"id":"tas","branch":"work/parliament-tas","state":"Tas","start":0,"end":17,"expected_members":17},
+    {"id":"act","branch":"work/parliament-act","state":"ACT","start":0,"end":5,"expected_members":5},
+    {"id":"nt","branch":"work/parliament-nt","state":"NT","start":0,"end":4,"expected_members":4}
+  ]
+}
