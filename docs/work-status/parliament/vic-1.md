@@ -20,6 +20,7 @@ State: in-progress
 - 281503 CICCONE, Raffaele (Raff): blocked durable record.
 - 263547 COKER, Elizabeth (Libby) Ann: blocked durable record.
 - 301128 DARMANIN, Lisa: blocked durable record.
+- 299962 DOYLE, Mary: blocked durable record.
 
 ## Evidence/data added or changed
 - Per-member source-linked career spells, exclusions and explicit evidence gaps. Only assigned member files and this checkpoint changed.
@@ -31,7 +32,6 @@ State: in-progress
 - python scripts/validate.py — PASS.
 
 ## Remaining
-- 299962 DOYLE, Mary
 - HWG DREYFUS, the Hon. Mark Alfred, KC
 - 299964 FERNANDO, Cassandra
 - 295588 GARLAND, Dr Carina Mary Lindsay
@@ -49,4 +49,4 @@ State: in-progress
 - No new month-conversion or FTE-inference convention has been introduced. Year-only dates remain year precision.
 
 ## Next action
-- Research 299962 DOYLE, Mary, validate and commit before moving on.
+- Research HWG DREYFUS, the Hon. Mark Alfred, KC, validate and commit before moving on.
