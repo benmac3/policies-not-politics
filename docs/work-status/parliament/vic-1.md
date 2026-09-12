@@ -10,6 +10,7 @@ State: in-progress
 - 316915 ABDO, Basem: blocked durable record.
 - 11788 ALDRED, Mary: blocked durable record.
 - 290544 ANANDA-RAJAH, Dr Michelle: blocked durable record.
+- 300706 BABET, Ralph: blocked durable record.
 
 ## Evidence/data added or changed
 - Per-member source-linked career spells, exclusions and explicit evidence gaps. Only assigned member files and this checkpoint changed.
@@ -21,7 +22,6 @@ State: in-progress
 - python scripts/validate.py — PASS.
 
 ## Remaining
-- 300706 BABET, Ralph
 - 309484 BELYEA, Jodie Anne
 - 288713 BIRRELL, Samuel (Sam) James
 - 263427 BRISKEY, Jo
@@ -49,4 +49,4 @@ State: in-progress
 - No new month-conversion or FTE-inference convention has been introduced. Year-only dates remain year precision.
 
 ## Next action
-- Research 300706 BABET, Ralph, validate and commit before moving on.
+- Research 309484 BELYEA, Jodie Anne, validate and commit before moving on.
