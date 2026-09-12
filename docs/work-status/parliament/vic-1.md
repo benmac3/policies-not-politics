@@ -12,6 +12,7 @@ State: in-progress
 - 290544 ANANDA-RAJAH, Dr Michelle: blocked durable record.
 - 300706 BABET, Ralph: blocked durable record.
 - 309484 BELYEA, Jodie Anne: blocked durable record.
+- 288713 BIRRELL, Samuel (Sam) James: blocked durable record.
 
 ## Evidence/data added or changed
 - Per-member source-linked career spells, exclusions and explicit evidence gaps. Only assigned member files and this checkpoint changed.
@@ -23,7 +24,6 @@ State: in-progress
 - python scripts/validate.py — PASS.
 
 ## Remaining
-- 288713 BIRRELL, Samuel (Sam) James
 - 263427 BRISKEY, Jo
 - 278522 BURNS, Joshua (Josh) Solomon
 - IPZ CHESTER, the Hon. Darren Jeffrey
@@ -49,4 +49,4 @@ State: in-progress
 - No new month-conversion or FTE-inference convention has been introduced. Year-only dates remain year precision.
 
 ## Next action
-- Research 288713 BIRRELL, Samuel (Sam) James, validate and commit before moving on.
+- Research 263427 BRISKEY, Jo, validate and commit before moving on.
