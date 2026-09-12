@@ -14,6 +14,7 @@ State: in-progress
 - 309484 BELYEA, Jodie Anne: blocked durable record.
 - 288713 BIRRELL, Samuel (Sam) James: blocked durable record.
 - 263427 BRISKEY, Jo: blocked durable record.
+- 278522 BURNS, Joshua (Josh) Solomon: blocked durable record.
 
 ## Evidence/data added or changed
 - Per-member source-linked career spells, exclusions and explicit evidence gaps. Only assigned member files and this checkpoint changed.
@@ -25,7 +26,6 @@ State: in-progress
 - python scripts/validate.py — PASS.
 
 ## Remaining
-- 278522 BURNS, Joshua (Josh) Solomon
 - IPZ CHESTER, the Hon. Darren Jeffrey
 - 249710 CHESTERS, Lisa Marie
 - 281503 CICCONE, Raffaele (Raff)
@@ -49,4 +49,4 @@ State: in-progress
 - No new month-conversion or FTE-inference convention has been introduced. Year-only dates remain year precision.
 
 ## Next action
-- Research 278522 BURNS, Joshua (Josh) Solomon, validate and commit before moving on.
+- Research IPZ CHESTER, the Hon. Darren Jeffrey, validate and commit before moving on.
