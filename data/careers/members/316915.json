@@ -1,0 +1,124 @@
+{
+  "person_id": "316915",
+  "name": "ABDO, Basem",
+  "snapshot_state": "Vic",
+  "snapshot_chamber": "Member",
+  "snapshot_party": "Australian Labor Party",
+  "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/316915",
+  "research_status": "blocked",
+  "last_reviewed": "2026-09-12",
+  "headline": {
+    "public_full_time_years": null,
+    "private_full_time_years": null,
+    "calculation_status": "not_calculable",
+    "note": "Unknown, not zero. No exact total is calculated where full-time status or interval boundaries remain unverified. Political roles, elected office, unions/associations, nonprofits and study are kept separate. Year-only dates are retained without invented day boundaries."
+  },
+  "career_spells": [
+    {
+      "spell_id": "316915-01",
+      "employer": "Institution not identified",
+      "role": "Teaching studies",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-2",
+        "src-4"
+      ],
+      "evidence_note": "Teaching qualification/study is supported; do not turn this into a paid teaching spell.",
+      "counting_note": "Outside the two employment headlines under the codebook; retained as career context."
+    },
+    {
+      "spell_id": "316915-02",
+      "employer": "Office of Maria Vamvakinou MP",
+      "role": "Adviser",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "political_staff",
+      "headline_sector": "excluded",
+      "government_control_at_time": "public",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-3"
+      ],
+      "evidence_note": "Described as a former adviser by June 2024; neither start nor end is established.",
+      "counting_note": "Outside the two employment headlines under the codebook; retained as career context."
+    },
+    {
+      "spell_id": "316915-03",
+      "employer": "Australian Parliament",
+      "role": "Member for Calwell",
+      "start_date": "2025-05-03",
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "elected_office",
+      "headline_sector": "excluded",
+      "government_control_at_time": "public",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-1"
+      ],
+      "evidence_note": "Election year verified in official biography; exact first-service date from frozen roster. Ongoing at snapshot.",
+      "counting_note": "Outside the two employment headlines under the codebook; retained as career context."
+    }
+  ],
+  "sources": [
+    {
+      "source_id": "src-1",
+      "url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=316915",
+      "publisher": "Australian Parliament",
+      "title": "Mr Basem Abdo MP",
+      "retrieved": "2026-09-12",
+      "source_type": "official_biography",
+      "locator": "Career/biography or relevant appointment section",
+      "note": "Elected for Calwell in 2025; no employment chronology supplied."
+    },
+    {
+      "source_id": "src-2",
+      "url": "https://www.alp.org.au/our-people/our-people/basem-abdo/",
+      "publisher": "Australian Labor Party",
+      "title": "Basem Abdo",
+      "retrieved": "2026-09-12",
+      "source_type": "other",
+      "locator": "Career/biography or relevant appointment section",
+      "note": "Teaching study; does not establish a teaching job."
+    },
+    {
+      "source_id": "src-3",
+      "url": "https://www.theguardian.com/australia-news/article/2024/jun/09/labor-mp-maria-vamvakinou-backs-palestinian-australian-basem-abdo-melbourne-seat-calwell",
+      "publisher": "The Guardian",
+      "title": "Outgoing federal Labor MP backs Palestinian-Australian to replace her in Melbourne seat of Calwell",
+      "retrieved": "2026-09-12",
+      "source_type": "news",
+      "locator": "Career/biography or relevant appointment section",
+      "note": "9 June 2024 report identifies Abdo as Vamvakinou's former adviser; no employment endpoints."
+    },
+    {
+      "source_id": "src-4",
+      "url": "https://www.basemabdo.com.au/",
+      "publisher": "Basem Abdo",
+      "title": "A Message from Basem",
+      "retrieved": "2026-09-12",
+      "source_type": "other",
+      "locator": "Career/biography or relevant appointment section",
+      "note": "Confirms local teaching study, without dates or teaching employment."
+    }
+  ],
+  "research_notes": [
+    "Blocked for headline calculation: official biography, member and party biographies plus independent appointment coverage do not establish a dated full-time nonpolitical employment history.",
+    "Searched Basem Abdo biography, work history and employment dates with both search engines on 2026-09-12. No usable dated public professional profile found. Saudi engineering/research profiles with the same name refer to a different person and were rejected.",
+    "Teaching study is not evidence that he worked as a teacher. Need named employer, dates and full-time status before either sector can be counted.",
+    "No omitted occupation is treated as zero; political staff and federal elected office are excluded under project rules."
+  ]
+}
