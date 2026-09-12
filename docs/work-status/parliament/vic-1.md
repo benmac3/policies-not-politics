@@ -16,6 +16,7 @@ State: in-progress
 - 263427 BRISKEY, Jo: blocked durable record.
 - 278522 BURNS, Joshua (Josh) Solomon: blocked durable record.
 - IPZ CHESTER, the Hon. Darren Jeffrey: blocked durable record.
+- 249710 CHESTERS, Lisa Marie: blocked durable record.
 
 ## Evidence/data added or changed
 - Per-member source-linked career spells, exclusions and explicit evidence gaps. Only assigned member files and this checkpoint changed.
@@ -27,7 +28,6 @@ State: in-progress
 - python scripts/validate.py — PASS.
 
 ## Remaining
-- 249710 CHESTERS, Lisa Marie
 - 281503 CICCONE, Raffaele (Raff)
 - 263547 COKER, Elizabeth (Libby) Ann
 - 301128 DARMANIN, Lisa
@@ -49,4 +49,4 @@ State: in-progress
 - No new month-conversion or FTE-inference convention has been introduced. Year-only dates remain year precision.
 
 ## Next action
-- Research 249710 CHESTERS, Lisa Marie, validate and commit before moving on.
+- Research 281503 CICCONE, Raffaele (Raff), validate and commit before moving on.
