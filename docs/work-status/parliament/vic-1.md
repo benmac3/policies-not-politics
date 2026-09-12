@@ -19,6 +19,7 @@ State: in-progress
 - 249710 CHESTERS, Lisa Marie: blocked durable record.
 - 281503 CICCONE, Raffaele (Raff): blocked durable record.
 - 263547 COKER, Elizabeth (Libby) Ann: blocked durable record.
+- 301128 DARMANIN, Lisa: blocked durable record.
 
 ## Evidence/data added or changed
 - Per-member source-linked career spells, exclusions and explicit evidence gaps. Only assigned member files and this checkpoint changed.
@@ -30,7 +31,6 @@ State: in-progress
 - python scripts/validate.py — PASS.
 
 ## Remaining
-- 301128 DARMANIN, Lisa
 - 299962 DOYLE, Mary
 - HWG DREYFUS, the Hon. Mark Alfred, KC
 - 299964 FERNANDO, Cassandra
@@ -49,4 +49,4 @@ State: in-progress
 - No new month-conversion or FTE-inference convention has been introduced. Year-only dates remain year precision.
 
 ## Next action
-- Research 301128 DARMANIN, Lisa, validate and commit before moving on.
+- Research 299962 DOYLE, Mary, validate and commit before moving on.
