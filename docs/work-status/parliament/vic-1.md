@@ -22,6 +22,7 @@ State: in-progress
 - 301128 DARMANIN, Lisa: blocked durable record.
 - 299962 DOYLE, Mary: blocked durable record.
 - HWG DREYFUS, the Hon. Mark Alfred, KC: blocked durable record.
+- 299964 FERNANDO, Cassandra: blocked durable record.
 
 ## Evidence/data added or changed
 - Per-member source-linked career spells, exclusions and explicit evidence gaps. Only assigned member files and this checkpoint changed.
@@ -33,7 +34,6 @@ State: in-progress
 - python scripts/validate.py — PASS.
 
 ## Remaining
-- 299964 FERNANDO, Cassandra
 - 295588 GARLAND, Dr Carina Mary Lindsay
 - 243609 GILES, the Hon. Andrew James
 - 315154 GREGG, Matt
@@ -49,4 +49,4 @@ State: in-progress
 - No new month-conversion or FTE-inference convention has been introduced. Year-only dates remain year precision.
 
 ## Next action
-- Research 299964 FERNANDO, Cassandra, validate and commit before moving on.
+- Research 295588 GARLAND, Dr Carina Mary Lindsay, validate and commit before moving on.
