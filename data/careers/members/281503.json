@@ -1,0 +1,214 @@
+{
+  "person_id": "281503",
+  "name": "CICCONE, Raffaele (Raff)",
+  "snapshot_state": "Vic",
+  "snapshot_chamber": "Senator",
+  "snapshot_party": "Australian Labor Party",
+  "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/281503",
+  "research_status": "blocked",
+  "last_reviewed": "2026-09-12",
+  "headline": {
+    "public_full_time_years": null,
+    "private_full_time_years": null,
+    "calculation_status": "not_calculable",
+    "note": "Unknown, not zero. No exact total is calculated where full-time status or interval boundaries remain unverified. Political roles, elected office, unions/associations, nonprofits and study are kept separate. Year-only dates are retained without invented day boundaries."
+  },
+  "career_spells": [
+    {
+      "spell_id": "281503-01",
+      "employer": "Local dry-cleaning business (not named)",
+      "role": "Teenage employee",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "private_enterprise",
+      "headline_sector": "private",
+      "government_control_at_time": "private",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-2"
+      ],
+      "evidence_note": "Early job supported; no ages converted to dates and hours unknown.",
+      "counting_note": "Not counted: dates and/or substantive full-time status are insufficiently evidenced; year labels are not exact boundaries."
+    },
+    {
+      "spell_id": "281503-02",
+      "employer": "Financial planning employer not named",
+      "role": "Financial planning work",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "unknown",
+      "government_control_at_time": "unknown",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-2",
+        "src-5"
+      ],
+      "evidence_note": "Occupation is insufficient to establish employer ownership or full-time interval.",
+      "counting_note": "Not counted: dates and/or substantive full-time status are insufficiently evidenced; year labels are not exact boundaries."
+    },
+    {
+      "spell_id": "281503-03",
+      "employer": "Office of Senator Jacinta Collins",
+      "role": "Adviser",
+      "start_date": "2008",
+      "end_date": "2013",
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "political_staff",
+      "headline_sector": "excluded",
+      "government_control_at_time": "public",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-1"
+      ],
+      "evidence_note": "Official chronology retained; later promotional prose describes a different ordering but supplies no new dates.",
+      "counting_note": "Outside the two employment headlines under the codebook; retained as career context."
+    },
+    {
+      "spell_id": "281503-04",
+      "employer": "Shop, Distributive and Allied Employees Association (Victoria)",
+      "role": "Industrial/research officer",
+      "start_date": "2013",
+      "end_date": "2019",
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "union",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-1"
+      ],
+      "evidence_note": "Trade-union employment separate from two headline sectors.",
+      "counting_note": "Outside the two employment headlines under the codebook; retained as career context."
+    },
+    {
+      "spell_id": "281503-05",
+      "employer": "Link Health and Community",
+      "role": "Volunteer director",
+      "start_date": "2010-11",
+      "end_date": "2019-02",
+      "date_precision": "month",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unpaid_work",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-1",
+        "src-2",
+        "src-3"
+      ],
+      "evidence_note": "Month dates self-reported in visible volunteer section; volunteer status explicit on senator's site.",
+      "counting_note": "Outside the two employment headlines under the codebook; retained as career context."
+    },
+    {
+      "spell_id": "281503-06",
+      "employer": "Link Health and Community",
+      "role": "Volunteer board chair",
+      "start_date": "2017-12",
+      "end_date": "2019-02",
+      "date_precision": "month",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unpaid_work",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-2",
+        "src-3",
+        "src-4"
+      ],
+      "evidence_note": "Overlapping responsibility within director interval, not another full-time job.",
+      "counting_note": "Outside the two employment headlines under the codebook; retained as career context."
+    },
+    {
+      "spell_id": "281503-07",
+      "employer": "Australian Parliament",
+      "role": "Senator for Victoria",
+      "start_date": "2019-03-06",
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "elected_office",
+      "headline_sector": "excluded",
+      "government_control_at_time": "public",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-1",
+        "src-2"
+      ],
+      "evidence_note": "Initial appointment to casual vacancy, ongoing service at frozen snapshot.",
+      "counting_note": "Outside the two employment headlines under the codebook; retained as career context."
+    }
+  ],
+  "sources": [
+    {
+      "source_id": "src-1",
+      "url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=281503",
+      "publisher": "Australian Parliament",
+      "title": "Raff Ciccone biography",
+      "retrieved": "2026-09-12",
+      "source_type": "official_biography",
+      "locator": "Career/biography or relevant appointment section",
+      "note": "Adviser 2008–2013, SDA 2013–2019 and Link board years."
+    },
+    {
+      "source_id": "src-2",
+      "url": "https://senatorciccone.com.au/meet-raff/",
+      "publisher": "Raff Ciccone",
+      "title": "Meet Raff",
+      "retrieved": "2026-09-12",
+      "source_type": "other",
+      "locator": "Career/biography or relevant appointment section",
+      "note": "Teenage dry-cleaning work, financial planning and explicitly voluntary Link board role."
+    },
+    {
+      "source_id": "src-3",
+      "url": "https://au.linkedin.com/in/senraffciccone",
+      "publisher": "Raff Ciccone",
+      "title": "Public professional profile",
+      "retrieved": "2026-09-12",
+      "source_type": "professional_profile",
+      "locator": "Career/biography or relevant appointment section",
+      "note": "Visible volunteer section: Link director November 2010–February 2019, chair December 2017–February 2019; employment dates not exposed."
+    },
+    {
+      "source_id": "src-4",
+      "url": "https://www.linkhc.org.au/supporting-children-better-life/",
+      "publisher": "Link Health and Community",
+      "title": "Supporting children, 8 December 2018",
+      "retrieved": "2026-09-12",
+      "source_type": "employer",
+      "locator": "Career/biography or relevant appointment section",
+      "note": "Contemporaneous chair identification."
+    },
+    {
+      "source_id": "src-5",
+      "url": "https://www.salesian.vic.edu.au/profile/senator-raff-ciccone/",
+      "publisher": "Salesian College",
+      "title": "Raff Ciccone alumni profile",
+      "retrieved": "2026-09-12",
+      "source_type": "other",
+      "locator": "Career/biography or relevant appointment section",
+      "note": "Corroborates financial planning and political/union roles without dates."
+    }
+  ],
+  "research_notes": [
+    "Blocked for public/private headline years: nonpolitical dry-cleaning and financial-planning work has no usable dates/FTE. Official, member, employer and public professional sources checked.",
+    "The profile's volunteer dates improve the timeline but are excluded. No gated employment section was accessed.",
+    "Some narrative biographies place union work before the adviser role; official dated intervals are preferred without inventing a separate early SDA spell. Need employer/CV evidence for unresolved early work."
+  ]
+}
