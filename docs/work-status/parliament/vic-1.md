@@ -26,6 +26,7 @@ State: in-progress
 - 295588 GARLAND, Dr Carina Mary Lindsay: blocked durable record.
 - 243609 GILES, the Hon. Andrew James: blocked durable record.
 - 315154 GREGG, Matt: blocked durable record.
+- 282335 HAINES, Dr Helen Mary: blocked durable record.
 
 ## Evidence/data added or changed
 - Per-member source-linked career spells, exclusions and explicit evidence gaps. Only assigned member files and this checkpoint changed.
@@ -37,7 +38,6 @@ State: in-progress
 - python scripts/validate.py — PASS.
 
 ## Remaining
-- 282335 HAINES, Dr Helen Mary
 - ZN4 HENDERSON, the Hon. Sarah Moya
 - 86256 HILL, the Hon. Julian Christopher
 - 310860 HODGINS-MAY, Steph
@@ -49,4 +49,4 @@ State: in-progress
 - No new month-conversion or FTE-inference convention has been introduced. Year-only dates remain year precision.
 
 ## Next action
-- Research 282335 HAINES, Dr Helen Mary, validate and commit before moving on.
+- Research ZN4 HENDERSON, the Hon. Sarah Moya, validate and commit before moving on.
