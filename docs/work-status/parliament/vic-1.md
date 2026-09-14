@@ -24,6 +24,7 @@ State: in-progress
 - HWG DREYFUS, the Hon. Mark Alfred, KC: blocked durable record.
 - 299964 FERNANDO, Cassandra: blocked durable record.
 - 295588 GARLAND, Dr Carina Mary Lindsay: blocked durable record.
+- 243609 GILES, the Hon. Andrew James: blocked durable record.
 
 ## Evidence/data added or changed
 - Per-member source-linked career spells, exclusions and explicit evidence gaps. Only assigned member files and this checkpoint changed.
@@ -35,7 +36,6 @@ State: in-progress
 - python scripts/validate.py — PASS.
 
 ## Remaining
-- 243609 GILES, the Hon. Andrew James
 - 315154 GREGG, Matt
 - 282335 HAINES, Dr Helen Mary
 - ZN4 HENDERSON, the Hon. Sarah Moya
@@ -49,4 +49,4 @@ State: in-progress
 - No new month-conversion or FTE-inference convention has been introduced. Year-only dates remain year precision.
 
 ## Next action
-- Research 243609 GILES, the Hon. Andrew James, validate and commit before moving on.
+- Research 315154 GREGG, Matt, validate and commit before moving on.
