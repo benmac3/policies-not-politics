@@ -103,14 +103,14 @@
       "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
-      "category": "university",
+      "category": "unknown",
       "headline_sector": "unknown",
       "government_control_at_time": "unknown",
       "counting_status": "insufficient_evidence",
       "source_ids": [
         "src-1"
       ],
-      "evidence_note": "May be part of university research appointment; not independently summed. Employing entity and FTE unresolved.",
+      "evidence_note": "Official roster lists network directorship; employing entity is not established. It may overlap the university appointment and must not be independently summed without contract evidence.",
       "counting_note": "Not counted: dates and/or substantive full-time status are insufficiently evidenced; year labels are not exact boundaries."
     },
     {
@@ -122,14 +122,14 @@
       "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
-      "category": "unpaid_work",
+      "category": "unknown",
       "headline_sector": "excluded",
       "government_control_at_time": "unknown",
       "counting_status": "excluded",
       "source_ids": [
         "src-1"
       ],
-      "evidence_note": "Advisory governance only; no paid full-time employment demonstrated. Category records non-employment context, not proof of remuneration terms.",
+      "evidence_note": "Advisory-board governance; payment status is unknown, so not labelled unpaid. No substantive full-time employment demonstrated.",
       "counting_note": "Outside the two employment headlines under the codebook; retained as career context."
     },
     {
@@ -222,12 +222,12 @@
       "fte_fraction": null,
       "category": "private_enterprise",
       "headline_sector": "excluded",
-      "government_control_at_time": "private",
+      "government_control_at_time": "unknown",
       "counting_status": "excluded",
       "source_ids": [
         "src-1"
       ],
-      "evidence_note": "Company directorship is retained but not assumed substantive full-time employment; remuneration and control need historical confirmation.",
+      "evidence_note": "Company directorship retained as governance context, not substantive full-time employment. Historical control and remuneration have not been established.",
       "counting_note": "Outside the two employment headlines under the codebook; retained as career context."
     },
     {

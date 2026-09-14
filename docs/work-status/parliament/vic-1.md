@@ -51,6 +51,7 @@ State: ready-for-integration
 - Follow-up needs are recorded per member: appointment/cessation dates, substantive full-time hours, leave and overlap reconciliation, and historical employer control. Broad career-length statements and senior titles were not substituted for FTE evidence.
 - Integration should review historical sector cases including TAB privatisation, pre-SBS NITV, AustralianSuper versus nonprofit trustee structures, and French public control of Transdev.
 - Blocked means a sourced partial timeline is durable, but dates, employer control or full-time evidence remain insufficient for the requested headlines. It does not mean zero experience.
+- Final evidence audit preserved unknown remuneration/control for Haines advisory and company-director roles, and unknown control across Jordan-Baird’s whole undated Transdev spell.
 - No new month-conversion or FTE-inference convention has been introduced. Year-only dates remain year precision.
 
 ## Next action
