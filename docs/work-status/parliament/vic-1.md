@@ -4,7 +4,7 @@ Last updated: 2026-09-14
 Branch: work/parliament-vic-1
 Branch HEAD: PRE-COMMIT (this checkpoint is committed with the member record; use git log -1)
 Main base observed: 8f7179c6accfe62d4c547bb8cfed1129e3dcf796
-State: in-progress
+State: ready-for-integration
 
 ## Completed
 - 316915 ABDO, Basem: blocked durable record.
@@ -31,6 +31,7 @@ State: in-progress
 - 86256 HILL, the Hon. Julian Christopher: blocked durable record.
 - 310860 HODGINS-MAY, Steph: blocked durable record.
 - 266499 HUME, the Hon. Edwina Jane (Jane): blocked durable record.
+- 316021 JORDAN-BAIRD, Alice: blocked durable record.
 
 ## Evidence/data added or changed
 - Per-member source-linked career spells, exclusions and explicit evidence gaps. Only assigned member files and this checkpoint changed.
@@ -42,11 +43,11 @@ State: in-progress
 - python scripts/validate.py — PASS.
 
 ## Remaining
-- 316021 JORDAN-BAIRD, Alice
+- No unprocessed assigned members. Explicitly blocked records retain follow-up needs.
 
 ## Ambiguities / decisions needed
 - Blocked means a sourced partial timeline is durable, but dates, employer control or full-time evidence remain insufficient for the requested headlines. It does not mean zero experience.
 - No new month-conversion or FTE-inference convention has been introduced. Year-only dates remain year precision.
 
 ## Next action
-- Research 316021 JORDAN-BAIRD, Alice, validate and commit before moving on.
+- Parliament aggregation workstream may inspect and integrate this batch; preserve unknown totals and record-specific gaps.
