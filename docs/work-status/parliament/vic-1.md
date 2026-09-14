@@ -30,6 +30,7 @@ State: in-progress
 - ZN4 HENDERSON, the Hon. Sarah Moya: blocked durable record.
 - 86256 HILL, the Hon. Julian Christopher: blocked durable record.
 - 310860 HODGINS-MAY, Steph: blocked durable record.
+- 266499 HUME, the Hon. Edwina Jane (Jane): blocked durable record.
 
 ## Evidence/data added or changed
 - Per-member source-linked career spells, exclusions and explicit evidence gaps. Only assigned member files and this checkpoint changed.
@@ -41,7 +42,6 @@ State: in-progress
 - python scripts/validate.py — PASS.
 
 ## Remaining
-- 266499 HUME, the Hon. Edwina Jane (Jane)
 - 316021 JORDAN-BAIRD, Alice
 
 ## Ambiguities / decisions needed
@@ -49,4 +49,4 @@ State: in-progress
 - No new month-conversion or FTE-inference convention has been introduced. Year-only dates remain year precision.
 
 ## Next action
-- Research 266499 HUME, the Hon. Edwina Jane (Jane), validate and commit before moving on.
+- Research 316021 JORDAN-BAIRD, Alice, validate and commit before moving on.
