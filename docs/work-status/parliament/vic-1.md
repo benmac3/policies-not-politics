@@ -34,6 +34,7 @@ State: ready-for-integration
 - 316021 JORDAN-BAIRD, Alice: blocked durable record.
 
 ## Evidence/data added or changed
+- All 25 assigned members processed sequentially and individually committed: 205 career entries and 125 source entries. All 25 records are explicitly blocked; no complete full-time public/private headline totals were established.
 - Per-member source-linked career spells, exclusions and explicit evidence gaps. Only assigned member files and this checkpoint changed.
 
 ## Validation run
@@ -43,11 +44,15 @@ State: ready-for-integration
 - python scripts/validate.py — PASS.
 
 ## Remaining
+- Ready for integration of sourced partial timelines only. This is not completion of the requested numerical employment-years census.
 - No unprocessed assigned members. Explicitly blocked records retain follow-up needs.
 
 ## Ambiguities / decisions needed
+- Follow-up needs are recorded per member: appointment/cessation dates, substantive full-time hours, leave and overlap reconciliation, and historical employer control. Broad career-length statements and senior titles were not substituted for FTE evidence.
+- Integration should review historical sector cases including TAB privatisation, pre-SBS NITV, AustralianSuper versus nonprofit trustee structures, and French public control of Transdev.
 - Blocked means a sourced partial timeline is durable, but dates, employer control or full-time evidence remain insufficient for the requested headlines. It does not mean zero experience.
 - No new month-conversion or FTE-inference convention has been introduced. Year-only dates remain year precision.
 
 ## Next action
-- Parliament aggregation workstream may inspect and integrate this batch; preserve unknown totals and record-specific gaps.
+- Parliament aggregation workstream may inspect and integrate the sourced partial timelines; preserve null headline totals and record-specific gaps. Obtain further evidence before publishing numerical headlines.
+- All member commits are saved on the remote work/parliament-vic-1 branch. Final scope audit: exactly 25 assigned member files plus this checkpoint; no shared UI/data edits, main merge or deployment.
