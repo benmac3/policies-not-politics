@@ -27,6 +27,7 @@ State: in-progress
 - 243609 GILES, the Hon. Andrew James: blocked durable record.
 - 315154 GREGG, Matt: blocked durable record.
 - 282335 HAINES, Dr Helen Mary: blocked durable record.
+- ZN4 HENDERSON, the Hon. Sarah Moya: blocked durable record.
 
 ## Evidence/data added or changed
 - Per-member source-linked career spells, exclusions and explicit evidence gaps. Only assigned member files and this checkpoint changed.
@@ -38,7 +39,6 @@ State: in-progress
 - python scripts/validate.py — PASS.
 
 ## Remaining
-- ZN4 HENDERSON, the Hon. Sarah Moya
 - 86256 HILL, the Hon. Julian Christopher
 - 310860 HODGINS-MAY, Steph
 - 266499 HUME, the Hon. Edwina Jane (Jane)
@@ -49,4 +49,4 @@ State: in-progress
 - No new month-conversion or FTE-inference convention has been introduced. Year-only dates remain year precision.
 
 ## Next action
-- Research ZN4 HENDERSON, the Hon. Sarah Moya, validate and commit before moving on.
+- Research 86256 HILL, the Hon. Julian Christopher, validate and commit before moving on.
