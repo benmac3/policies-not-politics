@@ -1,0 +1,268 @@
+{
+  "career_spells": [
+    {
+      "category": "unknown",
+      "counting_note": "Excluded from full-time public/private employment headline under codebook; no additive duration calculated.",
+      "counting_status": "excluded",
+      "date_precision": "unknown",
+      "employer": "Unidentified newspaper seller/distributor",
+      "employment_status": "part_time",
+      "end_date": null,
+      "evidence_note": "Indexed first-person account says started selling newspapers after school at age 13; no legal employer, dates or FTE.",
+      "fte_fraction": null,
+      "government_control_at_time": "unknown",
+      "headline_sector": "unknown",
+      "role": "After-school newspaper seller",
+      "source_ids": [
+        "src-vpta"
+      ],
+      "spell_id": "R36-newspapers",
+      "start_date": null
+    },
+    {
+      "category": "private_enterprise",
+      "counting_note": "Excluded from full-time public/private employment headline under codebook; no additive duration calculated.",
+      "counting_status": "excluded",
+      "date_precision": "unknown",
+      "employer": "Grace Brothers",
+      "employment_status": "part_time",
+      "end_date": null,
+      "evidence_note": "Indexed first-person account explicitly identifies part-time work at age 15. Retail employer named, exact employing entity and dates not established.",
+      "fte_fraction": null,
+      "government_control_at_time": "private",
+      "headline_sector": "private",
+      "role": "School-age retail job; title unspecified",
+      "source_ids": [
+        "src-vpta"
+      ],
+      "spell_id": "R36-grace-brothers",
+      "start_date": null
+    },
+    {
+      "category": "private_enterprise",
+      "counting_note": "Excluded from full-time public/private employment headline under codebook; no additive duration calculated.",
+      "counting_status": "excluded",
+      "date_precision": "unknown",
+      "employer": "McDonald's (franchise/legal employer unidentified)",
+      "employment_status": "part_time",
+      "end_date": null,
+      "evidence_note": "Indexed first-person account explicitly identifies part-time work at age 15. Restaurant brand is not assumed to be legal employer.",
+      "fte_fraction": null,
+      "government_control_at_time": "private",
+      "headline_sector": "private",
+      "role": "School-age job; title unspecified",
+      "source_ids": [
+        "src-vpta"
+      ],
+      "spell_id": "R36-mcdonalds",
+      "start_date": null
+    },
+    {
+      "category": "public_corporation",
+      "counting_note": "Full-time and public control supported; year-only endpoints and unverified breaks prevent an exact total. No invented day boundaries.",
+      "counting_status": "insufficient_evidence",
+      "date_precision": "year",
+      "employer": "Commonwealth Bank of Australia, Holme Building branch",
+      "employment_status": "full_time",
+      "end_date": "1981",
+      "evidence_note": "NAA and frozen occupations give year labels; PM's first-person speech establishes full-time commencement, branch and then-public ownership. Employer history dates privatisation to 1991–1996.",
+      "fte_fraction": null,
+      "government_control_at_time": "public",
+      "headline_sector": "public",
+      "role": "Bank officer",
+      "source_ids": [
+        "src-snapshot",
+        "src-naa",
+        "src-pm",
+        "src-cba"
+      ],
+      "spell_id": "R36-cba",
+      "start_date": "1980"
+    },
+    {
+      "category": "study",
+      "counting_note": "Excluded from full-time public/private employment headline under codebook; no additive duration calculated.",
+      "counting_status": "excluded",
+      "date_precision": "mixed",
+      "employer": "University of Sydney",
+      "employment_status": "unknown",
+      "end_date": "1984",
+      "evidence_note": "NAA gives degree year 1984, not complete enrolment dates. Study is not employment.",
+      "fte_fraction": null,
+      "government_control_at_time": "unknown",
+      "headline_sector": "excluded",
+      "role": "Bachelor of Economics student",
+      "source_ids": [
+        "src-naa"
+      ],
+      "spell_id": "R36-study",
+      "start_date": null
+    },
+    {
+      "category": "political_staff",
+      "counting_note": "Excluded from full-time public/private employment headline under codebook; no additive duration calculated.",
+      "counting_status": "excluded",
+      "date_precision": "year",
+      "employer": "Office of the Hon. Tom Uren MP",
+      "employment_status": "unknown",
+      "end_date": "1989",
+      "evidence_note": "Parliamentary occupation identifies research work for Uren, rather than a nonpolitical public-service appointment; hours and legal payroll entity unverified.",
+      "fte_fraction": null,
+      "government_control_at_time": "public",
+      "headline_sector": "excluded",
+      "role": "Research officer",
+      "source_ids": [
+        "src-snapshot",
+        "src-naa",
+        "src-nexus"
+      ],
+      "spell_id": "R36-uren",
+      "start_date": "1985"
+    },
+    {
+      "category": "party_organisation",
+      "counting_note": "Excluded from full-time public/private employment headline under codebook; no additive duration calculated.",
+      "counting_status": "excluded",
+      "date_precision": "year",
+      "employer": "Australian Labor Party",
+      "employment_status": "unknown",
+      "end_date": "1995",
+      "evidence_note": "Official occupation/NAA labels establish party work and year endpoints, not hours. Specific office title not filled from memory.",
+      "fte_fraction": null,
+      "government_control_at_time": "private",
+      "headline_sector": "excluded",
+      "role": "Party official",
+      "source_ids": [
+        "src-snapshot",
+        "src-naa"
+      ],
+      "spell_id": "R36-party",
+      "start_date": "1989"
+    },
+    {
+      "category": "political_staff",
+      "counting_note": "Excluded from full-time public/private employment headline under codebook; no additive duration calculated.",
+      "counting_status": "excluded",
+      "date_precision": "year",
+      "employer": "Office of NSW Premier the Hon. Bob Carr",
+      "employment_status": "unknown",
+      "end_date": "1996",
+      "evidence_note": "Political adviser to Premier, not automatically public-service employment. Exact dates/hours unknown.",
+      "fte_fraction": null,
+      "government_control_at_time": "public",
+      "headline_sector": "excluded",
+      "role": "Senior Policy Adviser",
+      "source_ids": [
+        "src-snapshot",
+        "src-naa",
+        "src-nexus"
+      ],
+      "spell_id": "R36-carr",
+      "start_date": "1995"
+    },
+    {
+      "category": "elected_office",
+      "counting_note": "Excluded from full-time public/private employment headline under codebook; no additive duration calculated.",
+      "counting_status": "excluded",
+      "date_precision": "day",
+      "employer": "Parliament of Australia",
+      "employment_status": "unknown",
+      "end_date": null,
+      "evidence_note": "Frozen roster supplies first-service date; ongoing at snapshot. End null denotes ongoing, not an invented termination. NAA confirms House service since 1996.",
+      "fte_fraction": null,
+      "government_control_at_time": "public",
+      "headline_sector": "excluded",
+      "role": "Member for Grayndler; ministerial and parliamentary leadership roles nested within service",
+      "source_ids": [
+        "src-snapshot",
+        "src-naa"
+      ],
+      "spell_id": "R36-parliament",
+      "start_date": "1996-03-02"
+    }
+  ],
+  "headline": {
+    "calculation_status": "partial",
+    "note": "Commonwealth Bank work is explicitly described as full-time and publicly owned. Only 1980–1981 year labels are established: no exact scalar duration is justified. The year-label envelope is approximately 0–2 years, not an estimate of actual service. Political employment, elected office, study and school-age part-time work are excluded. Unknown is not zero.",
+    "private_full_time_years": null,
+    "public_full_time_years": null
+  },
+  "last_reviewed": "2026-09-16",
+  "name": "ALBANESE, the Hon. Anthony Norman",
+  "person_id": "R36",
+  "research_notes": [
+    "Initial research pass 2026-09-16. Preserves frozen roster and its four occupation entries. Live APH/ParlInfo retrieval failed; the repository's 2026-09-10 snapshot is identified separately, not represented as a successful fresh fetch.",
+    "Bank: PM's 15 July 2026 speech explicitly describes entering full-time work after HSC and immediately identifies Commonwealth Bank Holme Building branch; also explicitly says bank was publicly owned. This resolves hours/control without inferring them from a title. Exact commencement/cessation and any breaks remain unverified.",
+    "School employment: VPTA indexed first-person profile establishes newspaper selling at 13 and part-time Grace Brothers/McDonalds work at 15. Full-page retrieval timed out twice. Dates are deliberately null; ages are not silently converted into calendar boundaries. Legal newspaper employer and McDonald's franchise entity remain unknown.",
+    "Follow-up priority: historical bank staff/appointment records or public detailed professional biography for dates and breaks; bank annual reports establish institutional control but cannot establish personal service dates. Obtain accessible VPTA full text; investigate university-period work and exact party/political staff boundaries. No outreach or access-control bypass.",
+    "Queries attempted: parliamentary qualifications/occupations; NAA fast facts; Commonwealth Bank employment dates; full-time/full time bank work; Grace Brothers/McDonalds/newspaper jobs; employer privatisation history. The AI speech media-release URL is distinct from the substantive speech at /ai-australias-interests-0.",
+    "Year-only overlapping transitions 1989 and 1995 are not summed; ministerial/leadership roles are nested within elected service, not additive employment. No documented countable private full-time spell was found, which is not proof of zero private experience. Follow-up last attempted 2026-09-16; move to next unstarted member before repeating these searches."
+  ],
+  "research_status": "blocked",
+  "snapshot_chamber": "Member",
+  "snapshot_party": "Australian Labor Party",
+  "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/R36",
+  "snapshot_state": "NSW",
+  "sources": [
+    {
+      "locator": "data/parliament.json, roster id R36",
+      "note": "Existing official snapshot; fresh APH/ParlInfo attempts failed on 2026-09-16.",
+      "publisher": "Australian Parliament",
+      "retrieved": "2026-09-10",
+      "source_id": "src-snapshot",
+      "source_type": "official_biography",
+      "title": "Frozen parliamentary roster and occupation extract",
+      "url": "https://handbook.aph.gov.au/parliamentarians/R36"
+    },
+    {
+      "locator": "Education; Employment; Political profile",
+      "note": "Four employment date ranges and degree year; does not establish hours.",
+      "publisher": "National Archives of Australia",
+      "retrieved": "2026-09-16",
+      "source_id": "src-naa",
+      "source_type": "government_record",
+      "title": "Anthony Albanese: fast facts",
+      "url": "https://www.naa.gov.au/explore-collection/australias-prime-ministers/anthony-albanese/fast-facts"
+    },
+    {
+      "locator": "Closing autobiographical passage, paragraphs beginning 'I was the first member' through bank ownership recollection",
+      "note": "Explicit full-time commencement, Commonwealth Bank branch and public ownership.",
+      "publisher": "Prime Minister of Australia",
+      "retrieved": "2026-09-16",
+      "source_id": "src-pm",
+      "source_type": "government_record",
+      "title": "AI in Australia's interests — speech, 15 July 2026",
+      "url": "https://www.pm.gov.au/media/ai-australias-interests-0"
+    },
+    {
+      "locator": "1991 entry",
+      "note": "Privatisation commenced 1991 and completed 1996, after bank spell.",
+      "publisher": "Commonwealth Bank of Australia",
+      "retrieved": "2026-09-16",
+      "source_id": "src-cba",
+      "source_type": "employer",
+      "title": "History — 1991 onwards",
+      "url": "https://www.commbank.com.au/about-us/our-company/history/1991-onwards.html"
+    },
+    {
+      "locator": "Indexed first-person paragraph on starting work at 13/15",
+      "note": "Search-index excerpt only; full page timed out. School jobs and part-time status, no calendar dates.",
+      "publisher": "Victorian Public Tenants Association",
+      "retrieved": "2026-09-16",
+      "source_id": "src-vpta",
+      "source_type": "other",
+      "title": "Anthony Albanese PM",
+      "url": "https://vpta.org.au/public-proud2/public-and-proud/anthony-albanese/"
+    },
+    {
+      "locator": "Who is Anthony Albanese?; published 23 February 2023",
+      "note": "Corroborates bank employer and political staff date ranges. Secondary corporate profile.",
+      "publisher": "Nexus Group",
+      "retrieved": "2026-09-16",
+      "source_id": "src-nexus",
+      "source_type": "other",
+      "title": "Political Profile: Prime Minister, the Hon Anthony Albanese MP",
+      "url": "https://nexusapac.com.au/pm-political-profile/"
+    }
+  ]
+}
