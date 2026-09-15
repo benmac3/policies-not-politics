@@ -1,0 +1,312 @@
+{
+  "career_spells": [
+    {
+      "category": "university",
+      "counting_note": "Missing dates, full-time status and/or historical control; no duration counted.",
+      "counting_status": "insufficient_evidence",
+      "date_precision": "unknown",
+      "employer": "University of Sydney",
+      "employment_status": "unknown",
+      "end_date": null,
+      "evidence_note": "Official employer/title; first-person interview confirms anatomy teaching. UTS describes science before law. Employment boundaries and overlap with study unknown.",
+      "fte_fraction": null,
+      "government_control_at_time": "unknown",
+      "headline_sector": "unknown",
+      "role": "Scientist / Anatomy Technical Officer; anatomy teaching",
+      "source_ids": [
+        "src-snapshot",
+        "src-uts",
+        "src-interview"
+      ],
+      "spell_id": "315618-sydney",
+      "start_date": null
+    },
+    {
+      "category": "union",
+      "counting_note": "Excluded category under codebook; no FTE or additive duration inferred.",
+      "counting_status": "excluded",
+      "date_precision": "unknown",
+      "employer": "Australian Nursing and Midwifery Federation (NSW Branch)",
+      "employment_status": "unknown",
+      "end_date": null,
+      "evidence_note": "Official occupation; dates, hours and legal employing entity within branch arrangements not established.",
+      "fte_fraction": null,
+      "government_control_at_time": "private",
+      "headline_sector": "excluded",
+      "role": "Legal Counsel",
+      "source_ids": [
+        "src-snapshot"
+      ],
+      "spell_id": "315618-anmf",
+      "start_date": null
+    },
+    {
+      "category": "union",
+      "counting_note": "Excluded category under codebook; no FTE or additive duration inferred.",
+      "counting_status": "excluded",
+      "date_precision": "unknown",
+      "employer": "Electrical Trades Union of Australia",
+      "employment_status": "unknown",
+      "end_date": null,
+      "evidence_note": "Official occupation; dates/hours unknown. UTS supports general union-law career without allocating its duration.",
+      "fte_fraction": null,
+      "government_control_at_time": "private",
+      "headline_sector": "excluded",
+      "role": "Legal Counsel",
+      "source_ids": [
+        "src-snapshot"
+      ],
+      "spell_id": "315618-etu",
+      "start_date": null
+    },
+    {
+      "category": "employer_association",
+      "counting_note": "Excluded category under codebook; no FTE or additive duration inferred.",
+      "counting_status": "excluded",
+      "date_precision": "unknown",
+      "employer": "Australian Hotels Association (NSW)",
+      "employment_status": "unknown",
+      "end_date": null,
+      "evidence_note": "Official occupation; employer-association work separate from private-enterprise headline. Potential overlap with related law firm unresolved.",
+      "fte_fraction": null,
+      "government_control_at_time": "private",
+      "headline_sector": "excluded",
+      "role": "Senior Lawyer",
+      "source_ids": [
+        "src-snapshot",
+        "src-ownership"
+      ],
+      "spell_id": "315618-aha",
+      "start_date": null
+    },
+    {
+      "category": "private_enterprise",
+      "counting_note": "Missing dates, full-time status and/or historical control; no duration counted.",
+      "counting_status": "insufficient_evidence",
+      "date_precision": "unknown",
+      "employer": "Hospitality Legal Pty Ltd",
+      "employment_status": "unknown",
+      "end_date": null,
+      "evidence_note": "Legal company/title from Parliament; association ownership from launch report and successor description. Category describes law-firm form, not final headline eligibility; association-control treatment remains unresolved.",
+      "fte_fraction": null,
+      "government_control_at_time": "private",
+      "headline_sector": "unknown",
+      "role": "Senior Associate",
+      "source_ids": [
+        "src-snapshot",
+        "src-ownership",
+        "src-memberpack"
+      ],
+      "spell_id": "315618-hospitality",
+      "start_date": null
+    },
+    {
+      "category": "nonprofit",
+      "counting_note": "Excluded category under codebook; no FTE or additive duration inferred.",
+      "counting_status": "excluded",
+      "date_precision": "month",
+      "employer": "St Vincent de Paul Society NSW",
+      "employment_status": "unknown",
+      "end_date": null,
+      "evidence_note": "June 2023 start from secondary biography, pending primary confirmation. Employer confirms director at October 2023 forum; first-person interview confirms September 2024 role. Exact cessation unknown; no assumption that election date ended employment.",
+      "fte_fraction": null,
+      "government_control_at_time": "private",
+      "headline_sector": "excluded",
+      "role": "Regional Director, metropolitan services",
+      "source_ids": [
+        "src-snapshot",
+        "src-vinnies",
+        "src-interview",
+        "src-secondary"
+      ],
+      "spell_id": "315618-vinnies",
+      "start_date": "2023-06"
+    },
+    {
+      "category": "study",
+      "counting_note": "Excluded category under codebook; no FTE or additive duration inferred.",
+      "counting_status": "excluded",
+      "date_precision": "mixed",
+      "employer": "University of Sydney",
+      "employment_status": "unknown",
+      "end_date": "2008",
+      "evidence_note": "Degree and university corroborated; 2008 completion is secondary evidence, not a start date for scientist employment.",
+      "fte_fraction": null,
+      "government_control_at_time": "unknown",
+      "headline_sector": "excluded",
+      "role": "Bachelor of Science student",
+      "source_ids": [
+        "src-interview",
+        "src-secondary"
+      ],
+      "spell_id": "315618-bsc",
+      "start_date": null
+    },
+    {
+      "category": "study",
+      "counting_note": "Excluded category under codebook; no FTE or additive duration inferred.",
+      "counting_status": "excluded",
+      "date_precision": "year",
+      "employer": "University of Technology Sydney",
+      "employment_status": "unknown",
+      "end_date": null,
+      "evidence_note": "Primary university profile explicitly says enrolled in 2013. Graduation date left unknown due conflicting secondary claim.",
+      "fte_fraction": null,
+      "government_control_at_time": "unknown",
+      "headline_sector": "excluded",
+      "role": "Juris Doctor student",
+      "source_ids": [
+        "src-uts"
+      ],
+      "spell_id": "315618-jd",
+      "start_date": "2013"
+    },
+    {
+      "category": "elected_office",
+      "counting_note": "Excluded category under codebook; no FTE or additive duration inferred.",
+      "counting_status": "excluded",
+      "date_precision": "day",
+      "employer": "Georges River Council",
+      "employment_status": "unknown",
+      "end_date": "2025-05-27",
+      "evidence_note": "First-person interview confirms elected in 2022; secondary biography dates term 21 September 2022–27 May 2025. Primary exact-date confirmation pending; overlap with professional roles and House service is not summed.",
+      "fte_fraction": null,
+      "government_control_at_time": "public",
+      "headline_sector": "excluded",
+      "role": "Councillor, Mortdale Ward",
+      "source_ids": [
+        "src-interview",
+        "src-secondary",
+        "src-uts"
+      ],
+      "spell_id": "315618-council",
+      "start_date": "2022-09-21"
+    },
+    {
+      "category": "elected_office",
+      "counting_note": "Excluded category under codebook; no FTE or additive duration inferred.",
+      "counting_status": "excluded",
+      "date_precision": "day",
+      "employer": "Parliament of Australia",
+      "employment_status": "unknown",
+      "end_date": null,
+      "evidence_note": "Frozen first-service date; ongoing at snapshot. No assumed termination.",
+      "fte_fraction": null,
+      "government_control_at_time": "public",
+      "headline_sector": "excluded",
+      "role": "Member for Barton",
+      "source_ids": [
+        "src-snapshot",
+        "src-uts"
+      ],
+      "spell_id": "315618-house",
+      "start_date": "2025-05-03"
+    }
+  ],
+  "headline": {
+    "calculation_status": "not_calculable",
+    "note": "Employment is documented but spell dates and full-time status are not established. University control and association-owned law-firm treatment require review. Union, employer-association, nonprofit, study and elected roles are not counted as private/public full-time employment. Unknown is not zero.",
+    "private_full_time_years": null,
+    "public_full_time_years": null
+  },
+  "last_reviewed": "2026-09-16",
+  "name": "AMBIHAIPAHAR, Ashvini (Ash)",
+  "person_id": "315618",
+  "research_notes": [
+    "Initial pass 2026-09-16. Retained all six undated occupations in frozen parliamentary roster. Live handbook is a JavaScript shell; indexed official occupation excerpts corroborate roles but do not add dates/hours.",
+    "Important conflicting evidence: UTS primary alumni profile states JD enrolment in 2013, whereas Wikipedia says qualification achieved in 2013. Retain primary enrolment year and leave graduation unknown; do not assign 2013 as start of legal employment.",
+    "Indian Link first-person interview (10 September 2024) describes approximately a decade in employment law. That is not an exact, employer-specific or full-time duration and is not apportioned among union/AHA/law-firm jobs.",
+    "LinkedIn public search excerpt identifies PSI/Public Services International, Oceania Region, July 2015–2017, but not role, remuneration or hours. Direct profile retrieval failed; retain as follow-up lead only, not proven paid employment. Do not bypass sign-in.",
+    "Vinnies employer article confirms regional director in October 2023; Indian Link confirms role in September 2024. Wikipedia June 2023 start retained at month precision with secondary provenance, pending primary appointment confirmation. Neither observation date is silently used as a start/end date; final departure and campaign leave unknown.",
+    "Hospitality Legal is reported as AHA NSW's own law firm; 2023 association membership pack calls successor HTA Legal its firm. Do not treat two possibly overlapping AHA/Hospitality Legal titles as independent full-time intervals. Private company legal form alone does not settle codebook treatment of association-controlled work.",
+    "Attempts: official biography; UTS alumni/study pages; public professional-profile search; employer/Vinnies articles and annual-publication searches; union and law-firm date/full-time queries; Indian Link interview; association ownership material. Australian Hotelier full-page access returned 402; only public indexed summary used, no bypass.",
+    "Next follow-up: dated CV or historical staff pages for Sydney, ANMF NSW, ETU, AHA and Hospitality Legal; verify PSI role and whether paid; Vinnies appointment/cessation; historical university and firm control; leave and overlaps around 2022 council/2023 and 2025 campaigns. Last follow-up 2026-09-16. Advance initial nationwide pass before repeating exhausted searches."
+  ],
+  "research_status": "blocked",
+  "snapshot_chamber": "Member",
+  "snapshot_party": "Australian Labor Party",
+  "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/315618",
+  "snapshot_state": "NSW",
+  "sources": [
+    {
+      "locator": "data/parliament.json roster id 315618",
+      "note": "Snapshot retrieved 2026-09-10; live indexed roles corroborated 2026-09-16; full handbook extraction yielded shell only.",
+      "publisher": "Australian Parliament",
+      "retrieved": "2026-09-10",
+      "source_id": "src-snapshot",
+      "source_type": "official_biography",
+      "title": "Frozen official occupation extract",
+      "url": "https://handbook.aph.gov.au/parliamentarians/315618"
+    },
+    {
+      "locator": "Opening and From science to the law",
+      "note": "Primary profile: science-to-law transition, 2013 enrolment, subsequent broad career sequence.",
+      "publisher": "University of Technology Sydney",
+      "retrieved": "2026-09-16",
+      "source_id": "src-uts",
+      "source_type": "official_biography",
+      "title": "One degree, countless careers",
+      "url": "https://www.uts.edu.au/for-students/experience-uts/law/one-degree-countless-careers"
+    },
+    {
+      "locator": "10 September 2024; question asking professional background",
+      "note": "First-person account of teaching, employment-law experience, Vinnies role and council election.",
+      "publisher": "Indian Link",
+      "retrieved": "2026-09-16",
+      "source_id": "src-interview",
+      "source_type": "news",
+      "title": "Ashvini Ambihaipahar: Know your Local Council candidate",
+      "url": "https://www.indianlink.com.au/ashvini-ambihaipahar-know-your-local-council-candidate/"
+    },
+    {
+      "locator": "20 October 2023; host identification; charity footer",
+      "note": "Employer identifies regional director at forum; charity identity, no appointment dates/hours.",
+      "publisher": "St Vincent de Paul Society NSW",
+      "retrieved": "2026-09-16",
+      "source_id": "src-vinnies",
+      "source_type": "employer",
+      "title": "Who pays the price for a society divided? – Rosalie Rendu Forum 2023",
+      "url": "https://www.vinnies.org.au/nsw/articles/who-pays-the-price-for-a-society-divided-rosalie-rendu-forum-2023"
+    },
+    {
+      "locator": "Education and career; councillor infobox",
+      "note": "Secondary date leads only: June 2023 Vinnies start, 2008 BSc and council term; JD completion claim conflicts with primary UTS enrolment evidence.",
+      "publisher": "Wikipedia",
+      "retrieved": "2026-09-16",
+      "source_id": "src-secondary",
+      "source_type": "other",
+      "title": "Ash Ambihaipahar",
+      "url": "https://en.wikipedia.org/wiki/Ash_Ambihaipahar"
+    },
+    {
+      "locator": "Public search excerpt of launch announcement",
+      "note": "AHA's own firm; full-page retrieval returned 402 and was not bypassed.",
+      "publisher": "Australian Hotelier / The Shout",
+      "retrieved": "2026-09-16",
+      "source_id": "src-ownership",
+      "source_type": "news",
+      "title": "AHA NSW launches Hospitality Legal",
+      "url": "https://theshout.com.au/australian-hotelier/aha-nsw-launches-hospitality-legal/"
+    },
+    {
+      "locator": "Indexed HTA Legal subsection",
+      "note": "Association describes HTA Legal, formerly Hospitality Legal, as its firm; no personal employment dates.",
+      "publisher": "Accommodation Australia NSW",
+      "retrieved": "2026-09-16",
+      "source_id": "src-memberpack",
+      "source_type": "employer",
+      "title": "Membership Pack, December 2023",
+      "url": "https://accommodationaustraliansw.org/Portals/12/Documents/AA%20NSW%20Member%20Pack%20-%20Digital_1.pdf?ver=2023-12-14-094659-783"
+    },
+    {
+      "locator": "Indexed PSI entry",
+      "note": "July 2015–2017 PSI Oceania lead; role/paid status unknown; direct retrieval failed.",
+      "publisher": "LinkedIn / Ashvini Ambihaipahar",
+      "retrieved": "2026-09-16",
+      "source_id": "src-profile",
+      "source_type": "professional_profile",
+      "title": "Public professional-profile search excerpt",
+      "url": "https://au.linkedin.com/in/ashvini-ambihaipahar-089024b1"
+    }
+  ]
+}
