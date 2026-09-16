@@ -6,7 +6,9 @@ Base observed: 8f7179c6accfe62d4c547bb8cfed1129e3dcf796
 
 ## Durable cursor
 
-- Initial pass: 01 R36 ALBANESE, 02 315618 AMBIHAIPAHAR, 03 16913 AYRES, 04 319142 BELL and 05 23497 BERRY saved, blocked/partial; next: 06 26417 BOELE, Nicolette.
+- Initial pass: 01 R36 ALBANESE, 02 315618 AMBIHAIPAHAR, 03 16913 AYRES, 04 319142 BELL, 05 23497 BERRY and 06 26417 BOELE saved, blocked/partial; next: 07 DZS BOWEN, Christopher.
+- BOELE follow-up (2026-09-17): exact dates/hours/leave for all roles; investigate 1999–2000, 2004–2006, 2008–2009 and post-2023 gaps; resolve CEFC/IGCC overlap and payer/control; Good Car Company governance pay/status; verify historical NSW department name.
+- Verified remote BERRY commit: fa5f17b326880b369b41dc0d7d40456072374a97.
 - BERRY follow-up (2026-09-17): establish hours/leave for every dated spell; Family Planning legal employer/dates; Greens national-secretary and Michael Organ adviser appointment/payroll dates; primary personnel evidence for month transitions and the 3–5 May 2025 Trust/House overlap. Six consecutive month-dated employer spells plus the Trust endpoint are now preserved.
 - Verified remote BELL commit: f970507ef8e84c7949d5c97bbf7ccda55a565383.
 - BELL follow-up (2026-09-17): identify labour-hire employer and four-year calendar endpoints/hours; claims-assessor business/contract dates; precise 2016 political appointment/payroll/leave. First speech now preserves the detailed pre-political sequence.
@@ -20,8 +22,8 @@ Base observed: 8f7179c6accfe62d4c547bb8cfed1129e3dcf796
 
 ## Remote inspection and national coverage
 
-All 13 assigned branch heads inspected via GitHub on 2026-09-16. Twelve batches plus main and aggregation were then at the base above, with no member files; vic-1 at c1d7fe74ec61b56e3420250cc0541c6e1d2fa50b contains 25 blocked records. Its checkpoint was read; those records were not restarted or overwritten. After this member: 30/226 initial records; 196 unstarted; 30 unresolved; zero research-complete. These counts span branch-owned records, not the released site.
+All 13 assigned branch heads inspected via GitHub on 2026-09-16. Twelve batches plus main and aggregation were then at the base above, with no member files; vic-1 at c1d7fe74ec61b56e3420250cc0541c6e1d2fa50b contains 25 blocked records. Its checkpoint was read; those records were not restarted or overwritten. After this member: 31/226 initial records; 195 unstarted; 31 unresolved; zero research-complete. These counts span branch-owned records, not the released site.
 
 ## Validation and saving
 
-Batch check passes: 226 assigned exactly once across 13 batches; nsw-1 assignment resolved in plan order. JSON, required fields, source references and codebook enums checked with load_records plus per-spell checks; repository validation passes before commit. Only 23497.json and this checkpoint belong to this change. Git network fetch unavailable; use GitHub Git-data commit and non-force ref update, verify remote SHA before moving to next member. No shared output changes, merge or deployment.
+Batch check passes: 226 assigned exactly once across 13 batches; nsw-1 assignment resolved in plan order. JSON, required fields, source references and codebook enums checked with load_records plus per-spell checks; repository validation passes before commit. Only 26417.json and this checkpoint belong to this change. Git network fetch unavailable; use GitHub Git-data commit and non-force ref update, verify remote SHA before moving to next member. No shared output changes, merge or deployment.
