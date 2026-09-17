@@ -6,7 +6,9 @@ Base observed: 8f7179c6accfe62d4c547bb8cfed1129e3dcf796
 
 ## Durable cursor
 
-- Initial pass: 01 R36 ALBANESE through 08 256063 BRAGG saved, blocked/partial; next: 09 DYW BURKE, Anthony.
+- Initial pass: 01 R36 ALBANESE through 09 DYW BURKE saved, blocked/partial; next: 10 299145 BYRNES, Alison.
+- BURKE follow-up (2026-09-18): exact dates/hours/pay for overlapping retail jobs; political-staff appointments; resolve 1995–1997 Euthanasia No!/Aticus/ARM legal entities, pay and overlaps; verify Aticus/Atticus corporate identity; exact SDA dates/hours/leave; June–October 2004 work/campaign gap. NSW Parliament biography adds named retail employers, study completion years, advocacy roles and exact state service dates.
+- Verified remote BRAGG commit: 3077ebb0c2a8b4034bb76d91ce3aea89ca55a3c6.
 - BRAGG follow-up (2026-09-18): exact EY/FSC dates, hours and leave; reconcile FSC 2016/2017 endpoint; resolve Menzies/Liberal/Yes-campaign payer and overlap; Bragg PPC services/hours/campaign overlap; study dates. Public LinkedIn index added month-level BCA and Bragg PPC/candidate periods.
 - Verified remote BOWEN commit: 08b4c75262004cdbdb78df14744164a004fb1d4d.
 - BOWEN follow-up (2026-09-18): pre-1994 work; exact staff/union appointment dates, payroll, hours and leave; council/mayor/WSROC remuneration and term detail; postgraduate study dates. Career sequence is complete at year precision from 1994 to federal entry, but every employment category is excluded from public/private headlines.
@@ -26,8 +28,8 @@ Base observed: 8f7179c6accfe62d4c547bb8cfed1129e3dcf796
 
 ## Remote inspection and national coverage
 
-All 13 assigned branch heads inspected via GitHub on 2026-09-16. Twelve batches plus main and aggregation were then at the base above, with no member files; vic-1 at c1d7fe74ec61b56e3420250cc0541c6e1d2fa50b contains 25 blocked records. Its checkpoint was read; those records were not restarted or overwritten. After this member: 33/226 initial records; 193 unstarted; 33 unresolved; zero research-complete. These counts span branch-owned records, not the released site.
+All 13 assigned branch heads inspected via GitHub on 2026-09-16. Twelve batches plus main and aggregation were then at the base above, with no member files; vic-1 at c1d7fe74ec61b56e3420250cc0541c6e1d2fa50b contains 25 blocked records. Its checkpoint was read; those records were not restarted or overwritten. After this member: 34/226 initial records; 192 unstarted; 34 unresolved; zero research-complete. These counts span branch-owned records, not the released site.
 
 ## Validation and saving
 
-Batch check passes: 226 assigned exactly once across 13 batches; nsw-1 assignment resolved in plan order. JSON, required fields, source references and codebook enums checked with load_records plus per-spell checks; repository validation passes before commit. Only 256063.json and this checkpoint belong to this change. Git network fetch unavailable; use GitHub Git-data commit and non-force ref update, verify remote SHA before moving to next member. No shared output changes, merge or deployment.
+Batch check passes: 226 assigned exactly once across 13 batches; nsw-1 assignment resolved in plan order. JSON, required fields, source references and codebook enums checked with load_records plus per-spell checks; repository validation passes before commit. Only DYW.json and this checkpoint belong to this change. Git network fetch unavailable; use GitHub Git-data commit and non-force ref update, verify remote SHA before moving to next member. No shared output changes, merge or deployment.
