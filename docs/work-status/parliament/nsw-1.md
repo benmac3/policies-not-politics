@@ -1,12 +1,14 @@
 # Parliament nsw-1 checkpoint
 
-Last updated: 2026-09-18
+Last updated: 2026-09-19
 Branch: work/parliament-nsw-1
 Base observed: 8f7179c6accfe62d4c547bb8cfed1129e3dcf796
 
 ## Durable cursor
 
-- Initial pass: 01 R36 ALBANESE through 09 DYW BURKE saved, blocked/partial; next: 10 299145 BYRNES, Alison.
+- Initial pass: 01 R36 ALBANESE through 10 299145 BYRNES saved, blocked/partial; next: 11 300134 CADELL, Ross.
+- BYRNES follow-up (2026-09-19): exact NSW Labor dates; Stephen Martin appointment/payroll/hours and end date; 2002–2005 gap; exact Bird role transition, hours, ministerial-office payroll and campaign leave; postgraduate study dates; March–May 2022 campaign/work status. First speech adds her first full-time party job and Stephen Martin role; public LinkedIn result splits Bird service into 2005–2007 and July 2007–March 2022 roles.
+- Verified remote BURKE commit: b0f86de61c6f89fdf26a2db662daeacbd8c2229d.
 - BURKE follow-up (2026-09-18): exact dates/hours/pay for overlapping retail jobs; political-staff appointments; resolve 1995–1997 Euthanasia No!/Aticus/ARM legal entities, pay and overlaps; verify Aticus/Atticus corporate identity; exact SDA dates/hours/leave; June–October 2004 work/campaign gap. NSW Parliament biography adds named retail employers, study completion years, advocacy roles and exact state service dates.
 - Verified remote BRAGG commit: 3077ebb0c2a8b4034bb76d91ce3aea89ca55a3c6.
 - BRAGG follow-up (2026-09-18): exact EY/FSC dates, hours and leave; reconcile FSC 2016/2017 endpoint; resolve Menzies/Liberal/Yes-campaign payer and overlap; Bragg PPC services/hours/campaign overlap; study dates. Public LinkedIn index added month-level BCA and Bragg PPC/candidate periods.
@@ -28,8 +30,8 @@ Base observed: 8f7179c6accfe62d4c547bb8cfed1129e3dcf796
 
 ## Remote inspection and national coverage
 
-All 13 assigned branch heads inspected via GitHub on 2026-09-16. Twelve batches plus main and aggregation were then at the base above, with no member files; vic-1 at c1d7fe74ec61b56e3420250cc0541c6e1d2fa50b contains 25 blocked records. Its checkpoint was read; those records were not restarted or overwritten. After this member: 34/226 initial records; 192 unstarted; 34 unresolved; zero research-complete. These counts span branch-owned records, not the released site.
+All 13 assigned branch heads inspected via GitHub on 2026-09-16. Twelve batches plus main and aggregation were then at the base above, with no member files; vic-1 at c1d7fe74ec61b56e3420250cc0541c6e1d2fa50b contains 25 blocked records. Its checkpoint was read; those records were not restarted or overwritten. After this member: 35/226 initial records; 191 unstarted; 35 unresolved; zero research-complete. These counts span branch-owned records, not the released site.
 
 ## Validation and saving
 
-Batch check passes: 226 assigned exactly once across 13 batches; nsw-1 assignment resolved in plan order. JSON, required fields, source references and codebook enums checked with load_records plus per-spell checks; repository validation passes before commit. Only DYW.json and this checkpoint belong to this change. Git network fetch unavailable; use GitHub Git-data commit and non-force ref update, verify remote SHA before moving to next member. No shared output changes, merge or deployment.
+Batch check passes: 226 assigned exactly once across 13 batches; nsw-1 assignment resolved in plan order. JSON, required fields, source references and codebook enums checked with load_records plus per-spell checks; repository validation passes before commit. Only 299145.json and this checkpoint belong to this change. Git network fetch unavailable; use GitHub Git-data commit and non-force ref update, verify remote SHA before moving to next member. No shared output changes, merge or deployment.
