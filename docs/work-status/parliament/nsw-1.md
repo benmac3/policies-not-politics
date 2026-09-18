@@ -6,7 +6,9 @@ Base observed: 8f7179c6accfe62d4c547bb8cfed1129e3dcf796
 
 ## Durable cursor
 
-- Initial pass: 01 R36 ALBANESE through 11 300134 CADELL saved, blocked/partial; next: 12 316312 CHAFFEY, Jamie.
+- Initial pass: 01 R36 ALBANESE through 12 316312 CHAFFEY saved, blocked/partial; next: 13 I8M CHARLTON, Andrew.
+- CHAFFEY follow-up (2026-09-19): exact Woolworths dates/hours and store transitions; family manufacturing legal entity, dates, hours, ownership and council overlap; governance remuneration/dates; AICD study dates; campaign pay and exact September 2024 start. First speech and candidate interview establish the supermarket-to-family-business sequence, stated 28-year business duration and full-time campaign, without converting relative durations into invented dates.
+- Verified remote CADELL commit: 2719838d47252359ba9a15aefb6ac210df44438e.
 - CADELL follow-up (2026-09-19): pre-2002 career/study; legal employers, exact dates/hours and overlaps for festival/Knights/motorsport; post-Prodigy to 2010 gap; exact Nationals roles/leave; Port full-time status, mixed-control treatment and campaign leave/cessation. Older career sequence and January 2020 Port transition added; Port's 50/50 fund/China Merchants ownership is preserved as mixed rather than silently coded private.
 - Verified remote BYRNES commit: 341b915d7ffbf86a9b29bab66754d91bce74f228.
 - BYRNES follow-up (2026-09-19): exact NSW Labor dates; Stephen Martin appointment/payroll/hours and end date; 2002–2005 gap; exact Bird role transition, hours, ministerial-office payroll and campaign leave; postgraduate study dates; March–May 2022 campaign/work status. First speech adds her first full-time party job and Stephen Martin role; public LinkedIn result splits Bird service into 2005–2007 and July 2007–March 2022 roles.
@@ -32,8 +34,8 @@ Base observed: 8f7179c6accfe62d4c547bb8cfed1129e3dcf796
 
 ## Remote inspection and national coverage
 
-All 13 assigned branch heads inspected via GitHub on 2026-09-16. Twelve batches plus main and aggregation were then at the base above, with no member files; vic-1 at c1d7fe74ec61b56e3420250cc0541c6e1d2fa50b contains 25 blocked records. Its checkpoint was read; those records were not restarted or overwritten. After this member: 36/226 initial records; 190 unstarted; 36 unresolved; zero research-complete. These counts span branch-owned records, not the released site.
+All 13 assigned branch heads inspected via GitHub on 2026-09-16. Twelve batches plus main and aggregation were then at the base above, with no member files; vic-1 at c1d7fe74ec61b56e3420250cc0541c6e1d2fa50b contains 25 blocked records. Its checkpoint was read; those records were not restarted or overwritten. After this member: 37/226 initial records; 189 unstarted; 37 unresolved; zero research-complete. These counts span branch-owned records, not the released site.
 
 ## Validation and saving
 
-Batch check passes: 226 assigned exactly once across 13 batches; nsw-1 assignment resolved in plan order. JSON, required fields, source references and codebook enums checked with load_records plus per-spell checks; repository validation passes before commit. Only 300134.json and this checkpoint belong to this change. Git network fetch unavailable; use GitHub Git-data commit and non-force ref update, verify remote SHA before moving to next member. No shared output changes, merge or deployment.
+Batch check passes: 226 assigned exactly once across 13 batches; nsw-1 assignment resolved in plan order. JSON, required fields, source references and codebook enums checked with load_records plus per-spell checks; repository validation passes before commit. Only 316312.json and this checkpoint belong to this change. Git network fetch unavailable; use GitHub Git-data commit and non-force ref update, verify remote SHA before moving to next member. No shared output changes, merge or deployment.
