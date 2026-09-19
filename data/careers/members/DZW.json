@@ -1,0 +1,167 @@
+{
+  "person_id": "DZW",
+  "name": "ELLIOT, the Hon. Maria Justine (Justine)",
+  "snapshot_state": "NSW",
+  "snapshot_chamber": "Member",
+  "snapshot_party": "Australian Labor Party",
+  "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/DZW",
+  "research_status": "blocked",
+  "last_reviewed": "2026-09-20",
+  "headline": {
+    "public_full_time_years": null,
+    "private_full_time_years": null,
+    "calculation_status": "not_calculable",
+    "note": "Queensland Police and the NSW Department of Juvenile Justice are documented public employers, but only year-level boundaries and no substantive full-time evidence are available. Study, party activity and elected office are excluded. The 1997–2002 and 2003–2004 intervals remain unresolved; missing evidence is not zero."
+  },
+  "career_spells": [
+    {
+      "spell_id": "DZW-uq-study",
+      "employer": "University of Queensland",
+      "role": "Bachelor of Arts student (English and history)",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "public",
+      "counting_status": "excluded",
+      "source_ids": ["src-secondary"],
+      "evidence_note": "The secondary biography, citing parliamentary material, records a Bachelor of Arts from the University of Queensland with English and history majors. Enrolment dates, load, completion date and employment overlap are unresolved.",
+      "counting_note": "Study is excluded under the codebook."
+    },
+    {
+      "spell_id": "DZW-qps",
+      "employer": "Queensland Police Service",
+      "role": "Police officer",
+      "start_date": "1990",
+      "end_date": "1997",
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "public_service",
+      "headline_sector": "public",
+      "government_control_at_time": "public",
+      "counting_status": "insufficient_evidence",
+      "source_ids": ["src-snapshot", "src-member", "src-secondary"],
+      "evidence_note": "The frozen official extract records police service from 1990 to 1997. Her current first-party biography describes front-line police work, and the secondary biography identifies Queensland Police. Exact appointment and cessation dates, rank, postings, hours, leave and any study overlap are unresolved.",
+      "counting_note": "Public employment is supported, but year-only boundaries and absent substantive full-time evidence do not establish an exact countable interval."
+    },
+    {
+      "spell_id": "DZW-griffith-study",
+      "employer": "Griffith University",
+      "role": "Graduate Diploma in Human Resource Management and Industrial Relations student",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "public",
+      "counting_status": "excluded",
+      "source_ids": ["src-secondary"],
+      "evidence_note": "The secondary biography records this Griffith University qualification. Dates, study load and overlap with police or later work are unresolved.",
+      "counting_note": "Study is excluded under the codebook."
+    },
+    {
+      "spell_id": "DZW-alp",
+      "employer": "Australian Labor Party",
+      "role": "Member from 1995; Tweed Coast branch president, 2003–2004",
+      "start_date": "1995",
+      "end_date": null,
+      "date_precision": "mixed",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "party_organisation",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": ["src-secondary"],
+      "evidence_note": "The secondary biography, citing parliamentary and party material, records party membership from 1995 and branch presidency from 2003 to 2004. Exact term dates, remuneration, hours and overlaps are unresolved; governance is not assumed to be employment.",
+      "counting_note": "Party activity is excluded under the codebook."
+    },
+    {
+      "spell_id": "DZW-juvenile-justice",
+      "employer": "NSW Department of Juvenile Justice",
+      "role": "Juvenile Justice Conference Convener",
+      "start_date": "2002",
+      "end_date": "2003",
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "public_service",
+      "headline_sector": "public",
+      "government_control_at_time": "public",
+      "counting_status": "insufficient_evidence",
+      "source_ids": ["src-snapshot", "src-secondary"],
+      "evidence_note": "The frozen official extract names the department and role and gives 2002–2003 boundaries. Exact appointment and cessation dates, employment basis, hours, leave and overlap with party activity are unresolved.",
+      "counting_note": "Public employment is supported, but year-only boundaries and absent substantive full-time evidence do not establish an exact countable interval."
+    },
+    {
+      "spell_id": "DZW-house",
+      "employer": "Parliament of Australia",
+      "role": "Member for Richmond; ministerial and parliamentary-secretary duties during elected service",
+      "start_date": "2004-10-09",
+      "end_date": null,
+      "date_precision": "day",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "elected_office",
+      "headline_sector": "excluded",
+      "government_control_at_time": "public",
+      "counting_status": "excluded",
+      "source_ids": ["src-snapshot", "src-member", "src-secondary"],
+      "evidence_note": "The frozen roster establishes House service from 9 October 2004. Current first-party and secondary biographies corroborate continuing representation; ministerial duties are nested within the elected-office spell.",
+      "counting_note": "Elected office is excluded under the codebook."
+    }
+  ],
+  "sources": [
+    {
+      "source_id": "src-snapshot",
+      "url": "https://handbook.aph.gov.au/parliamentarians/DZW",
+      "publisher": "Australian Parliament",
+      "title": "Frozen official occupation/service extract",
+      "retrieved": "2026-09-10",
+      "source_type": "official_biography",
+      "locator": "data/parliament.json roster id DZW",
+      "note": "Frozen official record for 1990–1997 police service, 2002–2003 Juvenile Justice work and House service from 9 October 2004; no roster refresh."
+    },
+    {
+      "source_id": "src-member",
+      "url": "https://www.justineelliot.com.au/",
+      "publisher": "Justine Elliot MP",
+      "title": "About Justine",
+      "retrieved": "2026-09-20",
+      "source_type": "professional_profile",
+      "locator": "About Justine / Meet Justine Elliot",
+      "note": "Current first-party biography corroborating front-line police service before federal office and continuing representation of Richmond."
+    },
+    {
+      "source_id": "src-secondary",
+      "url": "https://en.wikipedia.org/wiki/Justine_Elliot",
+      "publisher": "Wikipedia",
+      "title": "Justine Elliot",
+      "retrieved": "2026-09-20",
+      "source_type": "other",
+      "locator": "Early life and Political career sections, with parliamentary and party citations",
+      "note": "Secondary synthesis naming Queensland Police, both tertiary qualifications, ALP membership and branch presidency, and corroborating the official employment sequence."
+    }
+  ],
+  "research_notes": [
+    "The frozen official record documents two public-service spells but supplies only year-level boundaries and no hours.",
+    "The current member biography corroborates police work but does not supply dates or full-time status.",
+    "No unsupported occupation is inserted for the five-year interval after police service or the interval before election.",
+    "Ministerial roles after 2004 are nested within elected service and do not form additional headline employment."
+  ],
+  "open_questions": [
+    "What were the exact Queensland Police appointment, posting, rank, hours, leave and cessation details?",
+    "What work, family-care or other activity occurred between police service in 1997 and Juvenile Justice work in 2002?",
+    "What were the dates and study loads for both tertiary qualifications, and how did they overlap employment?",
+    "What were the exact Juvenile Justice appointment, employment basis, hours, leave and cessation details?",
+    "What paid work or campaign activity occurred from the 2003 role ending until election on 9 October 2004?",
+    "Was the Tweed Coast branch presidency remunerated, and how did it overlap public employment and campaigning?"
+  ]
+}
+
