@@ -1,12 +1,14 @@
 # Parliament nsw-1 checkpoint
 
-Last updated: 2026-09-19
+Last updated: 2026-09-20
 Branch: work/parliament-nsw-1
 Base observed: 8f7179c6accfe62d4c547bb8cfed1129e3dcf796
 
 ## Durable cursor
 
-- Initial pass: 01 R36 ALBANESE through 15 248181 CLAYDON saved, blocked/partial; next: 16 297964 COLLINS, Dr Jessica.
+- Initial pass: 01 R36 ALBANESE through 16 297964 COLLINS saved, blocked/partial; next: 17 279991 CONAGHAN, Patrick.
+- COLLINS follow-up (2026-09-20): exact education dates/load and scholarship terms; identify any pre-November 2021 paid research/teaching/publication work; exact Lowy appointment dates/hours/leave and campaign overlap; campaign pay/hours. Her current biography adds month-level Lowy start, promotion and resignation dates plus seven years of unpaid family care, without back-calculating unstated calendar endpoints or treating senior titles as proof of full-time work.
+- Verified remote CLAYDON commit: add60eb4993ef21da4b25b05d566d906e423d9f5.
 - CLAYDON follow-up (2026-09-19): exact study dates/load; Helen Springs legal employer/dates/hours; disability provider identity/control/dates; remote-community employers/control/dates; named electorate-office appointment and payroll boundaries; council, party and campaign dates/remuneration/overlaps. The available narrative adds the station-to-disability-to-anthropology sequence and names both MPs, while retaining relative durations and unidentified employers as unresolved.
 - Verified remote CLARE commit: b2735c67eb4f410f71bd5ddf9d1f38ea7b7c9bd4.
 - CLARE follow-up (2026-09-19): exact UNSW dates/load and overlap; Cabramatta branch role pay/hours; exact Whelan/Carr appointment and payroll boundaries; Transurban exact dates/hours/leave; campaign pay, dates and overlap. The frozen occupation extract gives a continuous 1995–2007 sequence and current first-party material corroborates the Carr and Transurban roles, without treating a management title as proof of full-time work.
@@ -40,8 +42,8 @@ Base observed: 8f7179c6accfe62d4c547bb8cfed1129e3dcf796
 
 ## Remote inspection and national coverage
 
-All 13 assigned branch heads inspected via GitHub on 2026-09-16. Twelve batches plus main and aggregation were then at the base above, with no member files; vic-1 at c1d7fe74ec61b56e3420250cc0541c6e1d2fa50b contains 25 blocked records. Its checkpoint was read; those records were not restarted or overwritten. After this member: 40/226 initial records; 186 unstarted; 40 unresolved; zero research-complete. These counts span branch-owned records, not the released site.
+All 13 assigned branch heads inspected via GitHub on 2026-09-16. Twelve batches plus main and aggregation were then at the base above, with no member files; vic-1 at c1d7fe74ec61b56e3420250cc0541c6e1d2fa50b contains 25 blocked records. Its checkpoint was read; those records were not restarted or overwritten. After this member: 41/226 initial records; 185 unstarted; 41 unresolved; zero research-complete. These counts span branch-owned records, not the released site.
 
 ## Validation and saving
 
-Batch check passes: 226 assigned exactly once across 13 batches; nsw-1 assignment resolved in plan order. JSON, required fields, source references and codebook enums checked with load_records plus per-spell checks; repository validation passes before commit. Only 248181.json and this checkpoint belong to this change. Git network fetch unavailable; use GitHub Git-data commit and non-force ref update, verify remote SHA before moving to next member. No shared output changes, merge or deployment.
+Batch check passes: 226 assigned exactly once across 13 batches; nsw-1 assignment resolved in plan order. JSON, required fields, source references and codebook enums checked with load_records plus per-spell checks; repository validation passes before commit. Only 297964.json and this checkpoint belong to this change. Git network fetch unavailable; use GitHub Git-data commit and non-force ref update, verify remote SHA before moving to next member. No shared output changes, merge or deployment.
