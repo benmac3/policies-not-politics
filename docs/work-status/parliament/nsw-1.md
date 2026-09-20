@@ -1,13 +1,15 @@
 
 # Parliament nsw-1 checkpoint
 
-Last updated: 2026-09-20
+Last updated: 2026-09-21
 Branch: work/parliament-nsw-1
 Base observed: 8f7179c6accfe62d4c547bb8cfed1129e3dcf796
 
 ## Durable cursor
 
-- Initial pass: 01 R36 ALBANESE through 19 DZW ELLIOT saved, blocked/partial; next: 20 62329 FARLEY, David.
+- Initial pass complete: all 20 assigned members have durable records; follow-up remains required for every record. National initial-coverage priority now moves to nsw-2.
+- FARLEY follow-up (2026-09-21): legal employers, exact dates/hours/leave for F.S. Falkiner and Colly; resolve the 1982/1983 Colly start and cessation; exact Calcot dates/terms; AACo full-time evidence and start day; Matrix work start/hours/ownership/overlaps and post-election status; distinguish paid Waverley/Speak Up 4 Water work from governance. The frozen roster has no occupations; current party, company, government and public-profile evidence establishes a long private agribusiness sequence without supporting an exact headline total.
+- Verified remote ELLIOT commit: 807047cf5f473d4c1ed16456378611c3ff29b62a.
 - ELLIOT follow-up (2026-09-20): exact Queensland Police appointment/rank/postings/hours/leave; resolve the 1997–2002 gap; both qualification dates/load and work overlaps; exact Juvenile Justice appointment/hours/leave; 2003–2004 work and campaign status; branch-president remuneration and overlaps. Current first-party material corroborates front-line police service, while the frozen extract supplies only year-level public-employment boundaries.
 - Verified remote CONROY commit: 1aa621f3b11db4e6d7e8cb2af3d3d3c629309cb0.
 - CONROY follow-up (2026-09-20): exact Coles entity/store/dates/hours and study overlap; University of Sydney dates/load; exact electorate-office, union and Combet-office appointments/payroll/hours/leave; resolve the 2000 overlap; 2013 campaign leave/cessation. The frozen record supplies a continuous 1995–2013 year-level sequence, but only the excluded categories are continuous and Coles lacks full-time evidence.
@@ -49,9 +51,9 @@ Base observed: 8f7179c6accfe62d4c547bb8cfed1129e3dcf796
 
 ## Remote inspection and national coverage
 
-All 13 assigned branch heads inspected via GitHub on 2026-09-16. Twelve batches plus main and aggregation were then at the base above, with no member files; vic-1 at c1d7fe74ec61b56e3420250cc0541c6e1d2fa50b contains 25 blocked records. Its checkpoint was read; those records were not restarted or overwritten. After this member: 44/226 initial records; 182 unstarted; 44 unresolved; zero research-complete. These counts span branch-owned records, not the released site.
+All 13 assigned branch heads inspected via GitHub on 2026-09-16. Twelve batches plus main and aggregation were then at the base above, with no member files; vic-1 at c1d7fe74ec61b56e3420250cc0541c6e1d2fa50b contains 25 blocked records. Its checkpoint was read; those records were not restarted or overwritten. After this member: 45/226 initial records; 181 unstarted; 45 unresolved; zero research-complete. These counts span branch-owned records, not the released site.
 
 ## Validation and saving
 
-Batch check passes: 226 assigned exactly once across 13 batches; nsw-1 assignment resolved in plan order. JSON, required fields, source references and codebook enums checked with load_records plus per-spell checks; repository validation passes before commit. Only DZW.json and this checkpoint belong to this change. Git network fetch unavailable; use GitHub Git-data commit and non-force ref update, verify remote SHA before moving to next member. No shared output changes, merge or deployment.
+Batch check passes: 226 assigned exactly once across 13 batches; nsw-1 assignment resolved in plan order. JSON, required fields, source references and codebook enums checked with load_records plus per-spell checks; repository validation passes before commit. Only 62329.json and this checkpoint belong to this change. Git network fetch unavailable; use GitHub Git-data commit and non-force ref update, verify remote SHA before moving to the nsw-2 branch. No shared output changes, merge or deployment.
 
