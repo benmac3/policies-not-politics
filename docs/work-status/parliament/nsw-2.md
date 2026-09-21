@@ -6,7 +6,9 @@ Base observed: 8f7179c6accfe62d4c547bb8cfed1129e3dcf796
 
 ## Durable cursor
 
-- Initial pass: 01 250362 FARUQI through 04 HWO HAWKE saved, blocked/partial; next: 05 218019 HOGAN, the Hon. Kevin John.
+- Initial pass: 01 250362 FARUQI through 05 218019 HOGAN saved, blocked/partial; next: 06 91219 HUSIC, the Hon. Edham (Ed) Nurredin.
+- HOGAN follow-up (2026-09-22): reconcile finance employers/entities and government control from 1989–1998; exact dates/hours/leave for finance, St Mary's and CSRF; separate CSRF board and paid investment work; small-business entity/dates/hours; active farm work versus ownership before/after election; remuneration during 2010/2013 candidacies. Narrative sources add important roles but do not prove substantive full-time intervals.
+- Verified remote HAWKE commit: af69e91870625602efb8aaca1b21f3de2187b485.
 - HAWKE follow-up (2026-09-22): exact study dates; Army Reserve paid-duty/hours/breaks; Woolworths dates/hours/FTE; Ross Cameron electorate-office dates/payroll/hours; exact dates/payroll/hours/leave for all 2001–2007 adviser roles; remuneration of Young Liberal/Liberal organisational offices. The official record establishes most roles, but hours and exact boundaries remain insufficient for headline totals.
 - Verified remote GEE commit: 04fde73350f1aa5b14e206788c4037972cb1d996.
 - GEE follow-up (2026-09-22): initial solicitor employer/admission/dates/hours; family licensing-business legal entity/ownership/Hong Kong dates/hours; exact Colin Biggers & Paisley dates/hours; barrister practice entity/dates/hours/breaks and any continuation after the 2011 election; direct primary support for the 1999 return and exact NSW Parliament endpoint; remuneration for the May–July 2016 federal campaign interval. Official speeches establish the sequence but not enough hours or dates for a full-time total.
@@ -17,8 +19,8 @@ Base observed: 8f7179c6accfe62d4c547bb8cfed1129e3dcf796
 
 ## Remote inspection and national coverage
 
-Remote branch inspected on 2026-09-22 and advanced through verified GEE commit 04fde73350f1aa5b14e206788c4037972cb1d996. NSW-1 has completed its 20-member initial pass and vic-1 contains 25 blocked records. After this member: 49/226 initial records; 177 unstarted; 49 unresolved; zero research-complete. These counts span branch-owned records, not the released site.
+Remote branch inspected on 2026-09-22 and advanced through verified HAWKE commit af69e91870625602efb8aaca1b21f3de2187b485. NSW-1 has completed its 20-member initial pass and vic-1 contains 25 blocked records. After this member: 50/226 initial records; 176 unstarted; 50 unresolved; zero research-complete. These counts span branch-owned records, not the released site.
 
 ## Validation and saving
 
-Batch check passes: 226 assigned exactly once across 13 batches; nsw-2 assignment resolved in plan order. JSON, required fields, source references and codebook enums checked with load_records plus per-spell checks; repository validation passes before commit. Only HWO.json and this checkpoint belong to this change. Git network fetch unavailable; use GitHub Git-data commit and non-force ref update, verify remote SHA before moving to the next member. No shared output changes, merge or deployment.
+Batch check passes: 226 assigned exactly once across 13 batches; nsw-2 assignment resolved in plan order. JSON, required fields, source references and codebook enums checked with load_records plus per-spell checks; repository validation passes before commit. Only 218019.json and this checkpoint belong to this change. Git network fetch unavailable; use GitHub Git-data commit and non-force ref update, verify remote SHA before moving to the next member. No shared output changes, merge or deployment.
