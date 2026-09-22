@@ -6,7 +6,9 @@ Base observed: 8f7179c6accfe62d4c547bb8cfed1129e3dcf796
 
 ## Durable cursor
 
-- Initial pass: 01 250362 FARUQI through 06 91219 HUSIC saved, blocked/partial; next: 07 E5D JOYCE, the Hon. Barnaby Thomas Gerard.
+- Initial pass: 01 250362 FARUQI through 07 E5D JOYCE saved, blocked/partial; next: 08 267506 KENNEDY, Simon Peter.
+- JOYCE follow-up (2026-09-23): name farms/nightclub work and dates/hours; identify chartered firm, US multinational and regional bank with exact dates/control/hours; reconcile Barnaby Joyce & Co. 1998/1999 start and claimed ten-year operation, including post-2005 work; Army Reserve paid-duty/rank/hours; any paid work during the 2017 parliamentary gap. No full-time total is inferred from year-only titles.
+- Verified remote HUSIC commit: 0e7c2ca74a4e4b85b9f3a91dd7b7a810e2669f7c.
 - HUSIC follow-up (2026-09-23): exact dates/hours/leave/payroll for early adviser roles; Burson-Marsteller appointment and hours; paid employment versus elected-office dates for CEPU roles; exact Integral Energy dates/hours and union overlap; explain 2004–2005 transition; NSW chief-of-staff minister/payroll/dates/hours; CEPU cessation at the 2010 election. Integral Energy is treated as government-controlled at the time, but no substantive full-time interval is inferred.
 - Verified remote HOGAN commit: 938ae589eb77943b353451ea17ed67ecdf2f96ad.
 - HOGAN follow-up (2026-09-22): reconcile finance employers/entities and government control from 1989–1998; exact dates/hours/leave for finance, St Mary's and CSRF; separate CSRF board and paid investment work; small-business entity/dates/hours; active farm work versus ownership before/after election; remuneration during 2010/2013 candidacies. Narrative sources add important roles but do not prove substantive full-time intervals.
@@ -21,8 +23,8 @@ Base observed: 8f7179c6accfe62d4c547bb8cfed1129e3dcf796
 
 ## Remote inspection and national coverage
 
-Remote branch inspected on 2026-09-23 at verified HOGAN commit 938ae589eb77943b353451ea17ed67ecdf2f96ad. NSW-1 has completed its 20-member initial pass and vic-1 contains 25 blocked records. After this member: 51/226 initial records; 175 unstarted; 51 unresolved; zero research-complete. These counts span branch-owned records, not the released site.
+Remote branch inspected on 2026-09-23 and advanced through verified HUSIC commit 0e7c2ca74a4e4b85b9f3a91dd7b7a810e2669f7c. NSW-1 has completed its 20-member initial pass and vic-1 contains 25 blocked records. After this member: 52/226 initial records; 174 unstarted; 52 unresolved; zero research-complete. These counts span branch-owned records, not the released site.
 
 ## Validation and saving
 
-Batch check passes: 226 assigned exactly once across 13 batches; nsw-2 assignment resolved in plan order. JSON, required fields, source references and codebook enums checked with load_records plus per-spell checks; repository validation passes before commit. Only 91219.json and this checkpoint belong to this change. Git network fetch unavailable; use GitHub Git-data commit and non-force ref update, verify remote SHA before moving to the next member. No shared output changes, merge or deployment.
+Batch check passes: 226 assigned exactly once across 13 batches; nsw-2 assignment resolved in plan order. JSON, required fields, source references and codebook enums checked with load_records plus per-spell checks; repository validation passes before commit. Only E5D.json and this checkpoint belong to this change. Git network fetch unavailable; use GitHub Git-data commit and non-force ref update, verify remote SHA before moving to the next member. No shared output changes, merge or deployment.
