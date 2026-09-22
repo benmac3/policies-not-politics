@@ -1,12 +1,14 @@
 # Parliament nsw-2 checkpoint
 
-Last updated: 2026-09-22
+Last updated: 2026-09-23
 Branch: work/parliament-nsw-2
 Base observed: 8f7179c6accfe62d4c547bb8cfed1129e3dcf796
 
 ## Durable cursor
 
-- Initial pass: 01 250362 FARUQI through 05 218019 HOGAN saved, blocked/partial; next: 06 91219 HUSIC, the Hon. Edham (Ed) Nurredin.
+- Initial pass: 01 250362 FARUQI through 06 91219 HUSIC saved, blocked/partial; next: 07 E5D JOYCE, the Hon. Barnaby Thomas Gerard.
+- HUSIC follow-up (2026-09-23): exact dates/hours/leave/payroll for early adviser roles; Burson-Marsteller appointment and hours; paid employment versus elected-office dates for CEPU roles; exact Integral Energy dates/hours and union overlap; explain 2004–2005 transition; NSW chief-of-staff minister/payroll/dates/hours; CEPU cessation at the 2010 election. Integral Energy is treated as government-controlled at the time, but no substantive full-time interval is inferred.
+- Verified remote HOGAN commit: 938ae589eb77943b353451ea17ed67ecdf2f96ad.
 - HOGAN follow-up (2026-09-22): reconcile finance employers/entities and government control from 1989–1998; exact dates/hours/leave for finance, St Mary's and CSRF; separate CSRF board and paid investment work; small-business entity/dates/hours; active farm work versus ownership before/after election; remuneration during 2010/2013 candidacies. Narrative sources add important roles but do not prove substantive full-time intervals.
 - Verified remote HAWKE commit: af69e91870625602efb8aaca1b21f3de2187b485.
 - HAWKE follow-up (2026-09-22): exact study dates; Army Reserve paid-duty/hours/breaks; Woolworths dates/hours/FTE; Ross Cameron electorate-office dates/payroll/hours; exact dates/payroll/hours/leave for all 2001–2007 adviser roles; remuneration of Young Liberal/Liberal organisational offices. The official record establishes most roles, but hours and exact boundaries remain insufficient for headline totals.
@@ -19,8 +21,8 @@ Base observed: 8f7179c6accfe62d4c547bb8cfed1129e3dcf796
 
 ## Remote inspection and national coverage
 
-Remote branch inspected on 2026-09-22 and advanced through verified HAWKE commit af69e91870625602efb8aaca1b21f3de2187b485. NSW-1 has completed its 20-member initial pass and vic-1 contains 25 blocked records. After this member: 50/226 initial records; 176 unstarted; 50 unresolved; zero research-complete. These counts span branch-owned records, not the released site.
+Remote branch inspected on 2026-09-23 at verified HOGAN commit 938ae589eb77943b353451ea17ed67ecdf2f96ad. NSW-1 has completed its 20-member initial pass and vic-1 contains 25 blocked records. After this member: 51/226 initial records; 175 unstarted; 51 unresolved; zero research-complete. These counts span branch-owned records, not the released site.
 
 ## Validation and saving
 
-Batch check passes: 226 assigned exactly once across 13 batches; nsw-2 assignment resolved in plan order. JSON, required fields, source references and codebook enums checked with load_records plus per-spell checks; repository validation passes before commit. Only 218019.json and this checkpoint belong to this change. Git network fetch unavailable; use GitHub Git-data commit and non-force ref update, verify remote SHA before moving to the next member. No shared output changes, merge or deployment.
+Batch check passes: 226 assigned exactly once across 13 batches; nsw-2 assignment resolved in plan order. JSON, required fields, source references and codebook enums checked with load_records plus per-spell checks; repository validation passes before commit. Only 91219.json and this checkpoint belong to this change. Git network fetch unavailable; use GitHub Git-data commit and non-force ref update, verify remote SHA before moving to the next member. No shared output changes, merge or deployment.
