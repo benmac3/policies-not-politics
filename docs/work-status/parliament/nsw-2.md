@@ -6,7 +6,9 @@ Base observed: 8f7179c6accfe62d4c547bb8cfed1129e3dcf796
 
 ## Durable cursor
 
-- Initial pass: 01 250362 FARUQI through 09 306168 KOVACIC saved, blocked/partial; next: 10 299174 LAXALE, Jerome.
+- Initial pass: 01 250362 FARUQI through 10 299174 LAXALE saved, blocked/partial; next: 11 295676 LE, Dai Trang.
+- LAXALE follow-up (2026-09-24): exact UNSW dates and study/work overlap; family-business legal entity, ownership, pay, hours, leave and title transitions; primary evidence for local-office dates; remuneration and workload for council-linked governance, StateCover, LGNSW and Venture Café; LGP payroll basis, hours, leave and government control; June/July 2022 cessation dates and federal-election overlap; party and campaign remuneration. No full-time interval is inferred from senior titles or overlapping public biographies.
+- Verified remote KOVACIC commit: 56063dcfcb15cebfc747d5eb27ffcd1f17d6ef79.
 - KOVACIC follow-up (2026-09-24): identify all pre-2006 work, especially the claimed public-sector experience; ANZ franchise entity/start day/hours/leave; Western Sydney Advisory equity/remuneration/hours and ANZ overlap; remuneration and operational status for community/board/association roles; Hills title transitions and Western Sydney Executive Women details; campaign and party-office remuneration. No full-time years are inferred from business or senior governance titles.
 - Verified remote KENNEDY commit: dc7b74bece29debe73fba087a0996d75b9e64026.
 - KENNEDY follow-up (2026-09-23): identify supermarket and dates/hours; exact Clayton Utz dates/title/hours and study overlap; PM&C branch/classification/appointment basis/dates/hours; exact McKinsey dates/hours/leave and 2022 campaign arrangement; Banksia legal entity/equity/remuneration/dates/hours; campaign remuneration and private-work overlap. The 2008–2022 McKinsey sequence is not treated as full-time without hours and exact boundaries.
@@ -27,8 +29,8 @@ Base observed: 8f7179c6accfe62d4c547bb8cfed1129e3dcf796
 
 ## Remote inspection and national coverage
 
-Remote branch inspected on 2026-09-24 and advanced through verified KENNEDY commit dc7b74bece29debe73fba087a0996d75b9e64026. NSW-1 has completed its 20-member initial pass and vic-1 contains 25 blocked records. After this member: 54/226 initial records; 172 unstarted; 54 unresolved; zero research-complete. These counts span branch-owned records, not the released site.
+Remote branch inspected on 2026-09-24 and advanced through verified KOVACIC commit 56063dcfcb15cebfc747d5eb27ffcd1f17d6ef79. NSW-1 has completed its 20-member initial pass and vic-1 contains 25 blocked records. After this member: 55/226 initial records; 171 unstarted; 55 unresolved; zero research-complete. These counts span branch-owned records, not the released site.
 
 ## Validation and saving
 
-Batch check passes: 226 assigned exactly once across 13 batches; nsw-2 assignment resolved in plan order. JSON, required fields, source references and codebook enums checked with load_records plus per-spell checks; repository validation passes before commit. Only 306168.json and this checkpoint belong to this change. Git network fetch unavailable; use GitHub Git-data commit and non-force ref update, verify remote SHA before moving to the next member. No shared output changes, merge or deployment.
+Batch check passes: 226 assigned exactly once across 13 batches; nsw-2 assignment resolved in plan order. JSON, required fields, source references and codebook enums checked with load_records plus per-spell checks; repository validation passes before commit. Only 299174.json and this checkpoint belong to this change. Git network fetch unavailable; use GitHub Git-data commit and non-force ref update, verify remote SHA before moving to the next member. No shared output changes, merge or deployment.
