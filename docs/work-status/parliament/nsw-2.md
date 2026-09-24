@@ -6,7 +6,9 @@ Base observed: 8f7179c6accfe62d4c547bb8cfed1129e3dcf796
 
 ## Durable cursor
 
-- Initial pass: 01 250362 FARUQI through 12 109556 LEESER saved, blocked/partial; next: 13 316540 MONCRIEFF, David.
+- Initial pass: 01 250362 FARUQI through 13 316540 MONCRIEFF saved, blocked/partial; next: 14 121628 McALLISTER, the Hon. Jennifer (Jenny) Ryll.
+- MONCRIEFF follow-up (2026-09-25): identify private-finance employers, roles, dates/hours/leave; identify the federal financial regulator, branch/title, dates/hours/leave; name postgraduate qualifications/providers and study/work overlap; exact Maryanne Stuart office appointment/payroll/title/dates/hours; formal preselection date, campaign remuneration and overlap. The frozen occupations array is empty and no duration is inferred from sector-level biographies.
+- Verified remote LEESER checkpoint commit: 967e1e177e752c343f28207c69a3794a55a42a29 (member record parent 00e084bcb05eb7569dc307522861d0f320ac13b8).
 - LEESER follow-up (2026-09-25): exact dates/hours/leave for High Court and Mallesons; exact appointments/payroll/hours for Abbott and Ruddock adviser roles; Menzies and ACU boundaries/hours/leave and Harvard overlap; identify dates/remuneration/workload for Mercy Health, Teach For Australia and Playwriting Australia boards and reconcile the official company-director label; UNSW dates and work overlap; 2016 ACU/campaign transition and campaign remuneration. No full-time years are inferred from year-only boundaries or senior titles.
 - Verified remote LE checkpoint commit: 468524a0b6e23a6af801d2a7f21fb9f65441bc7b (member record parent 093cd752d69addb9fc671d4414c578b25c7c0ed6).
 - LE follow-up (2026-09-25): reconcile 1990 versus official 1991 journalism start; exact dates/hours/leave and transition across the Champion newspapers and ABC; identify any 2008–2014 paid work; identify the legal entity, activities, pay/hours/leave and exact dates behind the official 2014–2022 business-owner spell; test for a cancer-treatment work interruption; date and determine remuneration/workload for DAWN, Multicultural NSW, STARTTS, Ethnic Communities Council and any DAWN Media Productions role; campaign remuneration and work overlaps. ABC public control is supported, but no full-time interval is inferred without hours.
@@ -33,8 +35,8 @@ Base observed: 8f7179c6accfe62d4c547bb8cfed1129e3dcf796
 
 ## Remote inspection and national coverage
 
-Remote branch inspected on 2026-09-25 and advanced through verified LE checkpoint commit 468524a0b6e23a6af801d2a7f21fb9f65441bc7b. NSW-1 has completed its 20-member initial pass and vic-1 contains 25 blocked records. After this member: 57/226 initial records; 169 unstarted; 57 unresolved; zero research-complete. These counts span branch-owned records, not the released site.
+Remote branch inspected on 2026-09-25 and advanced through verified LEESER checkpoint commit 967e1e177e752c343f28207c69a3794a55a42a29. NSW-1 has completed its 20-member initial pass and vic-1 contains 25 blocked records. After this member: 58/226 initial records; 168 unstarted; 58 unresolved; zero research-complete. These counts span branch-owned records, not the released site.
 
 ## Validation and saving
 
-Batch check passes: 226 assigned exactly once across 13 batches; nsw-2 assignment resolved in plan order. JSON, required fields, source references and codebook enums checked with load_records plus per-spell checks; repository validation passes before commit. Only 109556.json and this checkpoint belong to this change. Git network fetch unavailable; use the authenticated GitHub save path and verify remote contents before moving to the next member. No shared output changes, merge or deployment.
+Batch check passes: 226 assigned exactly once across 13 batches; nsw-2 assignment resolved in plan order. JSON, required fields, source references and codebook enums checked with load_records plus per-spell checks; repository validation passes before commit. Only 316540.json and this checkpoint belong to this change. Git network fetch unavailable; use the authenticated GitHub save path and verify remote contents before moving to the next member. No shared output changes, merge or deployment.
