@@ -6,7 +6,9 @@ Base observed: 8f7179c6accfe62d4c547bb8cfed1129e3dcf796
 
 ## Durable cursor
 
-- Initial pass: 01 250362 FARUQI through 10 299174 LAXALE saved, blocked/partial; next: 11 295676 LE, Dai Trang.
+- Initial pass: 01 250362 FARUQI through 11 295676 LE saved, blocked/partial; next: 12 109556 LEESER, Julian Martin.
+- LE follow-up (2026-09-25): reconcile 1990 versus official 1991 journalism start; exact dates/hours/leave and transition across the Champion newspapers and ABC; identify any 2008–2014 paid work; identify the legal entity, activities, pay/hours/leave and exact dates behind the official 2014–2022 business-owner spell; test for a cancer-treatment work interruption; date and determine remuneration/workload for DAWN, Multicultural NSW, STARTTS, Ethnic Communities Council and any DAWN Media Productions role; campaign remuneration and work overlaps. ABC public control is supported, but no full-time interval is inferred without hours.
+- Verified remote LAXALE checkpoint commit: 043dbc5b41ca88270dbfa3fc80ef8b42c5e8f6ca (member record parent 3077647043e1c020100cc8248b18354962d870df).
 - LAXALE follow-up (2026-09-24): exact UNSW dates and study/work overlap; family-business legal entity, ownership, pay, hours, leave and title transitions; primary evidence for local-office dates; remuneration and workload for council-linked governance, StateCover, LGNSW and Venture Café; LGP payroll basis, hours, leave and government control; June/July 2022 cessation dates and federal-election overlap; party and campaign remuneration. No full-time interval is inferred from senior titles or overlapping public biographies.
 - Verified remote KOVACIC commit: 56063dcfcb15cebfc747d5eb27ffcd1f17d6ef79.
 - KOVACIC follow-up (2026-09-24): identify all pre-2006 work, especially the claimed public-sector experience; ANZ franchise entity/start day/hours/leave; Western Sydney Advisory equity/remuneration/hours and ANZ overlap; remuneration and operational status for community/board/association roles; Hills title transitions and Western Sydney Executive Women details; campaign and party-office remuneration. No full-time years are inferred from business or senior governance titles.
@@ -29,8 +31,8 @@ Base observed: 8f7179c6accfe62d4c547bb8cfed1129e3dcf796
 
 ## Remote inspection and national coverage
 
-Remote branch inspected on 2026-09-24 and advanced through verified KOVACIC commit 56063dcfcb15cebfc747d5eb27ffcd1f17d6ef79. NSW-1 has completed its 20-member initial pass and vic-1 contains 25 blocked records. After this member: 55/226 initial records; 171 unstarted; 55 unresolved; zero research-complete. These counts span branch-owned records, not the released site.
+Remote branch inspected on 2026-09-25 and advanced through verified LAXALE checkpoint commit 043dbc5b41ca88270dbfa3fc80ef8b42c5e8f6ca. NSW-1 has completed its 20-member initial pass and vic-1 contains 25 blocked records. After this member: 56/226 initial records; 170 unstarted; 56 unresolved; zero research-complete. These counts span branch-owned records, not the released site.
 
 ## Validation and saving
 
-Batch check passes: 226 assigned exactly once across 13 batches; nsw-2 assignment resolved in plan order. JSON, required fields, source references and codebook enums checked with load_records plus per-spell checks; repository validation passes before commit. Only 299174.json and this checkpoint belong to this change. Git network fetch unavailable; use GitHub Git-data commit and non-force ref update, verify remote SHA before moving to the next member. No shared output changes, merge or deployment.
+Batch check passes: 226 assigned exactly once across 13 batches; nsw-2 assignment resolved in plan order. JSON, required fields, source references and codebook enums checked with load_records plus per-spell checks; repository validation passes before commit. Only 295676.json and this checkpoint belong to this change. Git network fetch unavailable; use the authenticated GitHub save path and verify remote contents before moving to the next member. No shared output changes, merge or deployment.
