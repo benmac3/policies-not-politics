@@ -6,7 +6,9 @@ Base observed: 8f7179c6accfe62d4c547bb8cfed1129e3dcf796
 
 ## Durable cursor
 
-- Initial pass: 01 250362 FARUQI through 14 121628 McALLISTER saved, blocked/partial; next: 15 281988 McBAIN, the Hon. Kristy Louise.
+- Initial pass: 01 250362 FARUQI through 15 281988 McBAIN saved, blocked/partial; next: 16 248353 McBRIDE, the Hon. Emma Margaret.
+- McBAIN follow-up (2026-09-26): identify the pharmacy, hospitality and library employers and dates/hours/leave; identify every paralegal/law-practice employer, including whether the 86 Gipps Street directory lead establishes Clark Rideaux service; plumbing-business entity/equity/operational duties/pay/hours/leave; reconcile legal and business work with council, mayoral and regional-governance duties; exact council/business cessation and campaign remuneration. No full-time duration is inferred from overlapping year ranges, professional title or business ownership.
+- Verified remote McALLISTER checkpoint commit: 0876d2e9c0b435ed03521ed0bafa884293a913a5 (member record parent c264a0730a0337e00f231403dd14c837d266bf1c).
 - McALLISTER follow-up (2026-09-26): exact appointments/payroll/hours/leave for Plibersek and Debus adviser roles; exact NSW department classifications/title transitions/hours/leave; contemporaneous AECOM confirmation of titles/change dates/hours/leave and 2015 cessation; campaign remuneration/work overlaps; LEAN and ALP presidency remuneration/workload; whether AECOM continued after Senate commencement. No full-time years are inferred from senior titles or year-only boundaries.
 - Verified remote MONCRIEFF checkpoint commit: 3c8310ff43e08b609de4996d88efcbb205d2d2ac (member record parent 5ba2145a65b34dc350d27b0cf34d2aebf69f8052).
 - MONCRIEFF follow-up (2026-09-25): identify private-finance employers, roles, dates/hours/leave; identify the federal financial regulator, branch/title, dates/hours/leave; name postgraduate qualifications/providers and study/work overlap; exact Maryanne Stuart office appointment/payroll/title/dates/hours; formal preselection date, campaign remuneration and overlap. The frozen occupations array is empty and no duration is inferred from sector-level biographies.
@@ -37,8 +39,8 @@ Base observed: 8f7179c6accfe62d4c547bb8cfed1129e3dcf796
 
 ## Remote inspection and national coverage
 
-Remote branch inspected on 2026-09-26 and advanced through verified MONCRIEFF checkpoint commit 3c8310ff43e08b609de4996d88efcbb205d2d2ac. NSW-1 has completed its 20-member initial pass and vic-1 contains 25 blocked records. After this member: 59/226 initial records; 167 unstarted; 59 unresolved; zero research-complete. These counts span branch-owned records, not the released site.
+Remote branch inspected on 2026-09-26 and advanced through verified McALLISTER checkpoint commit 0876d2e9c0b435ed03521ed0bafa884293a913a5. NSW-1 has completed its 20-member initial pass and vic-1 contains 25 blocked records. After this member: 60/226 initial records; 166 unstarted; 60 unresolved; zero research-complete. These counts span branch-owned records, not the released site.
 
 ## Validation and saving
 
-Batch check passes: 226 assigned exactly once across 13 batches; nsw-2 assignment resolved in plan order. JSON, required fields, source references and codebook enums checked directly plus per-spell checks; repository validation passes before commit. Only 121628.json and this checkpoint belong to this change. Git network fetch unavailable; use the authenticated GitHub save path and verify remote contents before moving to the next member. No shared output changes, merge or deployment.
+Batch check passes: 226 assigned exactly once across 13 batches; nsw-2 assignment resolved in plan order. JSON, required fields, source references and codebook enums checked directly plus per-spell checks; repository validation passes before commit. Only 281988.json and this checkpoint belong to this change. Git network fetch unavailable; use the authenticated GitHub save path and verify remote contents before moving to the next member. No shared output changes, merge or deployment.
