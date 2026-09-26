@@ -6,7 +6,9 @@ Base observed: 8f7179c6accfe62d4c547bb8cfed1129e3dcf796
 
 ## Durable cursor
 
-- Initial pass: 01 250362 FARUQI through 18 281513 McINTOSH saved, blocked/partial; next: 19 140651 O'NEILL, Deborah (Deb) Mary.
+- Initial pass complete: 01 250362 FARUQI through 19 140651 O'NEILL saved, blocked/partial. Continue nationwide plan order at nsw-3, 01 248895 PENFOLD, Alison Louise; after all initial records exist, return to unresolved cases using recorded gaps and follow-up dates.
+- O'NEILL follow-up (2026-09-27): exact St Edward's and Corpus Christi teaching dates/subjects/hours/leave/career breaks and any omitted schools; Mercy practicum conditions; degree dates and study/work overlap; University of Newcastle appointment/title/FTE/leave and cessation; lawn-business entity/ownership/pay/hours/continuation; party/campaign remuneration and work in the September–November 2013 parliamentary gap. The directly described full-time St Edward's role is a nonprofit exclusion, university work remains separate, and no private years are inferred from business ownership.
+- Verified remote McINTOSH checkpoint commit: 2662c7552749c1eba84f69d0895b5082dd2916ff (member record parent f5235a8b6edf755c0c592edd2486288434da9e48).
 - McINTOSH follow-up (2026-09-27): exact Jackie Kelly, John Howard and Alex Hawke appointments/titles/payroll/hours/leave; identify the circa-2000 corporate employer/role and career-pause boundaries; small-business entity/website/ownership/pay/hours; exact USSC title transitions/hours/leave and 2015 Hawke overlap; Wentworth appointment/cessation/hours/leave and campaign overlap; party-office and campaign remuneration/workload. No headline years are inferred from year-only ranges, unidentified corporate work or business ownership; university, political-staff and nonprofit work remain separate exclusions.
 - Verified remote McCORMACK checkpoint commit: 398a62a30af035e0e45c8274a931aa714ee638d9 (member record parent a2b7d39e323c720401f419d8d2e9d6d8fadf4df2).
 - McCORMACK follow-up (2026-09-27): exact Daily Advertiser/Riverina Media Group appointments, promotion dates, employing entities, hours and leave; exact February 2002 cessation; MSS legal entity/start/end/clients/pay/hours/leave and whether it continued after election; Turf Club director/historian remuneration/workload; campaign and party-office remuneration and MSS overlap. No private years are inferred from year-only title ranges or self-employment ownership.
@@ -45,8 +47,8 @@ Base observed: 8f7179c6accfe62d4c547bb8cfed1129e3dcf796
 
 ## Remote inspection and national coverage
 
-Remote branch inspected on 2026-09-27 and advanced through verified McCORMACK checkpoint commit 398a62a30af035e0e45c8274a931aa714ee638d9. NSW-1 has completed its 20-member initial pass and vic-1 contains 25 blocked records. After this member: 63/226 initial records; 163 unstarted; 63 unresolved; zero research-complete. These counts span branch-owned records, not the released site.
+Remote branch inspected on 2026-09-27 and advanced through verified McINTOSH checkpoint commit 2662c7552749c1eba84f69d0895b5082dd2916ff. NSW-1 and NSW-2 have completed their initial passes; vic-1 contains 25 blocked records. After this member: 64/226 initial records; 162 unstarted; 64 unresolved; zero research-complete. These counts span branch-owned records, not the released site.
 
 ## Validation and saving
 
-Batch check passes: 226 assigned exactly once across 13 batches; nsw-2 assignment resolved in plan order. JSON, required fields, source references and codebook enums checked directly plus per-spell checks; repository validation passes before commit. Only 281513.json and this checkpoint belong to this change. Git network fetch unavailable; use the authenticated GitHub save path and verify remote contents before moving to the next member. No shared output changes, merge or deployment.
+Batch check passes: 226 assigned exactly once across 13 batches; nsw-2 assignment resolved in plan order. JSON, required fields, source references and codebook enums checked directly plus per-spell checks; repository validation passes before commit. Only 140651.json and this checkpoint belong to this change. Git network fetch unavailable; use the authenticated GitHub save path and verify remote contents before moving to the next batch. No shared output changes, merge or deployment.
