@@ -6,7 +6,9 @@ Base observed: 8f7179c6accfe62d4c547bb8cfed1129e3dcf796
 
 ## Durable cursor
 
-- Initial pass: 01 250362 FARUQI through 16 248353 McBRIDE saved, blocked/partial; next: 17 219646 McCORMACK, the Hon. Michael Francis.
+- Initial pass: 01 250362 FARUQI through 17 219646 McCORMACK saved, blocked/partial; next: 18 281513 McINTOSH, Melissa Iris.
+- McCORMACK follow-up (2026-09-27): exact Daily Advertiser/Riverina Media Group appointments, promotion dates, employing entities, hours and leave; exact February 2002 cessation; MSS legal entity/start/end/clients/pay/hours/leave and whether it continued after election; Turf Club director/historian remuneration/workload; campaign and party-office remuneration and MSS overlap. No private years are inferred from year-only title ranges or self-employment ownership.
+- Verified remote McBRIDE checkpoint commit: b2cd99a6da83c2d0cea5b4f4122a8cadb37ac3cf (member record parent 62e0df2564541b185f3b65fcb8d09dbd697ebdd8).
 - McBRIDE follow-up (2026-09-27): identify employers/roles/dates/sectors for pharmacy work in Forbes, North Sydney, Newtown, Berkeley Vale, Belmont and Oxford; exact Central Coast LHD appointments/classifications/hours/leave/title overlaps and cessation; determine whether specialist duties continued after the 2008 chief-pharmacist appointment; deputy-director start and 2016 campaign leave; remuneration/workload for Central Coast Heart and campaign arrangements. No public years are inferred from senior titles, overlapping year ranges or a narrative 20-year career statement.
 - Verified remote McBAIN checkpoint commit: 2dd9482623278e9196575dee5c6b2e2afa3745f1 (member record parent f55bdc6af43e972d91e548c9706d99952c8ae2bc).
 - McBAIN follow-up (2026-09-26): identify the pharmacy, hospitality and library employers and dates/hours/leave; identify every paralegal/law-practice employer, including whether the 86 Gipps Street directory lead establishes Clark Rideaux service; plumbing-business entity/equity/operational duties/pay/hours/leave; reconcile legal and business work with council, mayoral and regional-governance duties; exact council/business cessation and campaign remuneration. No full-time duration is inferred from overlapping year ranges, professional title or business ownership.
@@ -41,8 +43,8 @@ Base observed: 8f7179c6accfe62d4c547bb8cfed1129e3dcf796
 
 ## Remote inspection and national coverage
 
-Remote branch inspected on 2026-09-27 and advanced through verified McBAIN checkpoint commit 2dd9482623278e9196575dee5c6b2e2afa3745f1. NSW-1 has completed its 20-member initial pass and vic-1 contains 25 blocked records. After this member: 61/226 initial records; 165 unstarted; 61 unresolved; zero research-complete. These counts span branch-owned records, not the released site.
+Remote branch inspected on 2026-09-27 and advanced through verified McBRIDE checkpoint commit b2cd99a6da83c2d0cea5b4f4122a8cadb37ac3cf. NSW-1 has completed its 20-member initial pass and vic-1 contains 25 blocked records. After this member: 62/226 initial records; 164 unstarted; 62 unresolved; zero research-complete. These counts span branch-owned records, not the released site.
 
 ## Validation and saving
 
-Batch check passes: 226 assigned exactly once across 13 batches; nsw-2 assignment resolved in plan order. JSON, required fields, source references and codebook enums checked directly plus per-spell checks; repository validation passes before commit. Only 248353.json and this checkpoint belong to this change. Git network fetch unavailable; use the authenticated GitHub save path and verify remote contents before moving to the next member. No shared output changes, merge or deployment.
+Batch check passes: 226 assigned exactly once across 13 batches; nsw-2 assignment resolved in plan order. JSON, required fields, source references and codebook enums checked directly plus per-spell checks; repository validation passes before commit. Only 219646.json and this checkpoint belong to this change. Git network fetch unavailable; use the authenticated GitHub save path and verify remote contents before moving to the next member. No shared output changes, merge or deployment.
