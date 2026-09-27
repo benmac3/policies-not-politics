@@ -1,0 +1,19 @@
+# Parliament nsw-3 checkpoint
+
+Last updated: 2026-09-28
+Branch: work/parliament-nsw-3
+Base observed: 8f7179c6accfe62d4c547bb8cfed1129e3dcf796
+
+## Durable cursor
+
+- Initial pass: 01 248895 PENFOLD saved, blocked/partial; next: 02 147140 PHILLIPS, Fiona Evon.
+- PENFOLD follow-up (2026-09-28): dated appointments/payroll/hours/leave for parliamentary administration and Reith, Vaile, Truss, Mills, Littleproud, Hogan and Gillespie offices; Woolworths dates/hours; identify boutique advisory agency/entity/equity/pay/workload; exact ALEC February 2012 start day/hours/leave; ANU dates and early-career overlap; campaign remuneration and work overlap. No headline years are inferred from senior titles, an undated 30-plus-year narrative or a directorship.
+- Nationwide handoff observed from verified nsw-2 checkpoint commit a9be3e613ae49d0fb64ff0c8ea67e67645c18fc8; nsw-1 and nsw-2 initial passes complete.
+
+## Remote inspection and national coverage
+
+Remote branch inspected on 2026-09-28 and was identical to main at 8f7179c6accfe62d4c547bb8cfed1129e3dcf796 with no existing checkpoint or assigned member records. After this member: 65/226 initial records; 161 unstarted; 65 unresolved; zero research-complete. These counts span branch-owned records, not the released site.
+
+## Validation and saving
+
+Batch check passes: 226 assigned exactly once across 13 batches; nsw-3 assignment resolved in plan order. JSON, required fields, source references and codebook enums checked directly plus per-spell checks; repository validation passes before commit. Only 248895.json and this checkpoint belong to this change. Git network fetch unavailable; use the authenticated GitHub save path and verify remote contents before moving to the next member. No shared output changes, merge or deployment.
