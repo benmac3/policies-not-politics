@@ -2,25 +2,33 @@
 
 Last updated: 2026-09-29
 Branch: work/parliament-nsw-3
-Base observed: 8f7179c6accfe62d4c547bb8cfed1129e3dcf796
+Branch HEAD: this commit (use git log -1)
+Main base observed: 8f7179c6accfe62d4c547bb8cfed1129e3dcf796
+State: in-progress
 
 ## Durable cursor
 
-- Initial pass: 01 248895 PENFOLD, 02 147140 PHILLIPS, 03 83M PLIBERSEK, 04 300126 REID, 05 298840 REPACHOLI, 06 159771 ROWLAND, 07 299623 SCAMPS and 08 274506 SHARMA saved, blocked/partial; next: 09 168275 SHELDON, Anthony (Tony) Vincent.
-- PENFOLD follow-up (2026-09-28): dated appointments/payroll/hours/leave for parliamentary administration and Reith, Vaile, Truss, Mills, Littleproud, Hogan and Gillespie offices; Woolworths dates/hours; identify boutique advisory agency/entity/equity/pay/workload; exact ALEC February 2012 start day/hours/leave; ANU dates and early-career overlap; campaign remuneration and work overlap. No headline years are inferred from senior titles, an undated 30-plus-year narrative or a directorship.
-- PHILLIPS follow-up (2026-09-28): exact dates/hours/leave for Westpac, Shoalhaven council and full-time Defence role; appointment types/workloads and overlaps for Workplace Learning, TAFE and UOW; identify 1997–2000 Workplace Learning employing entity; 1995–1996 and 2017–2019 employment gaps; political-staff/campaign overlap and remuneration. No exact headline years are inferred from year-only ranges.
-- PLIBERSEK follow-up (2026-09-29): dates/pay/hours for UTS Women's Officer; exact appointment/title/hours/leave for NSW Domestic Violence Unit; dated payroll records separating Bruce Childs and George Campbell service; Macquarie study and 1998 campaign overlaps. No public years are inferred from the undated NSW role; missing private evidence is not zero.
-- REID follow-up (2026-09-29): University of Newcastle graduation record; exact CCLHD appointments/transfers and full-time hours/leave across Gosford, Woy Woy and Wyong; paid-employment cessation versus post-election pro-bono practice; campaign remuneration and overlap. No public years are inferred from professional titles or approximate narratives.
-- REPACHOLI follow-up (2026-09-29): D&H Rodwell apprenticeship/payroll dates, hours and Ford/Toyota contract relationship; identify 2009 travelling line-boring employer; Mount Thorley Warkworth payroll entity, exact full-time dates, grades, hours and leave; Double R appointment/hours/leave and 2021 campaign overlap; sporting pay/sponsorship status; January–May 2022 gap. No exact private years are inferred from year-only ranges, a seven-year narrative or the manager title.
-- ROWLAND follow-up (2026-09-29): identify Blacktown supermarket and hours/dates; identify electorate-office employer and payroll details; NRMA and Gilbert + Tobin exact dates/hours/leave and campaign overlap; governance appointment instruments, remuneration/workloads and exact dates for health service, parklands trust, school and Screen NSW; exact Blacktown council dates. No private years are inferred from senior titles/year-only ranges; overlapping directorships are not summed.
-- SCAMPS follow-up (2026-09-29): exact hospital appointments, payroll entities, dates/hours/leave and transfers, including primary confirmation or rejection of historical-profile leads for Canberra and Royal North Shore alongside the supported Mona Vale placement; Narrabeen GP employment/contractor status, exact dates/hours/leave and cessation; identify the South Western Sydney health-promotion title, business unit, payroll, hours, end date and GP overlap; resolve the 2000–2010 gap and postgraduate-study dates; athletics pay/sponsorship and Our Blue Dot remuneration/workload; campaign overlap. No public or private years are inferred from medical titles or year-only ranges.
-- SHARMA follow-up (2026-09-29): Commonwealth payroll, appointments, exact dates/hours/leave, classifications and secondments from the 1999 DFAT graduate intake through Bougainville, Port Moresby, Downer office, Washington, PM&C, Africa Branch and the 2017 ambassador cessation; resolve 2003–2004, 2009–2010 and study overlaps; Kelly+Partners contract/hours/cessation and campaign overlap; enumerate and date technology boards/consultancies without treating titles as full-time work; SWG 2022 director appointment, partner terms, hours and exact Senate transition. No headline years are inferred from senior diplomatic, director or partner titles.
-- Nationwide handoff observed from verified nsw-2 checkpoint commit a9be3e613ae49d0fb64ff0c8ea67e67645c18fc8; nsw-1 and nsw-2 initial passes complete.
+- Next initial record: 169119 SHOEBRIDGE, David.
+- Initial records in this batch: 9/19. Blocked records remain unresolved and require later systematic follow-up.
 
-## Remote inspection and national coverage
+## Saved records and follow-up
 
-Remote checkpoint and prior records were reverified on 2026-09-29 before resuming. After these members: 72/226 initial records; 154 unstarted; 72 unresolved; zero research-complete. These counts span branch-owned records, not the released site.
+- 248895 PENFOLD, Alison Louise: blocked; last review 2026-09-28. Follow-up: Blocked pending a dated CV or appointment records separating receptionist, whips-clerk, adviser, senior-adviser and chief-of-staff service across the Reith, Vaile, Truss, Mills, Littleproud, Hogan and Gillespie offices, including payroll, hours, leave and breaks.
+- 147140 PHILLIPS, Fiona Evon: blocked; last review 2026-09-28. Follow-up: Obtain month/day appointment and cessation records, hours and leave for Westpac, Shoalhaven City Council and Defence; resolve the unreported 1995–1996 period.
+- 83M PLIBERSEK, the Hon. Tanya Joan: blocked; last review 2026-09-29. Follow-up: Obtain appointment/payroll records giving exact dates, hours and leave for the UTS Students' Association Women's Officer role and determine whether it was paid employment.
+- 300126 REID, Gordon James: blocked; last review 2026-09-29. Follow-up: Obtain the University of Newcastle graduation record and Central Coast Local Health District employment statement or payroll history with exact appointment, transfer and cessation dates across Gosford, Woy Woy and Wyong.
+- 298840 REPACHOLI, Dan: blocked; last review 2026-09-29. Follow-up: Obtain payroll or employer records for D&H Rodwell Tooling, including apprenticeship commencement/completion, full-time hours, leave, breaks and whether Ford and Toyota production-line work was performed as a D&H employee or under separate employment.
+- 159771 ROWLAND, the Hon. Michelle Anne: blocked; last review 2026-09-29. Follow-up: Identify the Blacktown supermarket and obtain exact appointment/cessation dates, hours and leave; resolve how checkout work overlapped University of Sydney study.
+- 299623 SCAMPS, Sophie: blocked; last review 2026-09-29. Follow-up: Obtain appointment and payroll records for hospital and emergency-medicine work from 1995 to 2000, confirming or rejecting historical-profile leads for Canberra and Royal North Shore and separating those from the supported Mona Vale placement with exact dates, hours, leave and breaks.
+- 274506 SHARMA, Devanand (Dave) Noel: blocked; last review 2026-09-29. Follow-up: Obtain Commonwealth payroll and appointment records from the 1999 DFAT graduate intake through the 2017 ambassador cessation, including exact transfer dates, classifications, substantive hours, leave and secondment arrangements across Bougainville, Port Moresby, the Downer office, Washington, PM&C, Africa Branch and Israel.
+- 168275 SHELDON, Anthony (Tony) Vincent: blocked; last review 2026-09-29. Follow-up: Identify early cleaning, hospitality and waste employers, dates, hours, control and any breaks; retain explicitly supported full-time cleaning without inventing a duration. Seek dated TWU organiser appointments, pre-TWU union work, TWUSUPER reports, governance tenure and study overlaps.
+
+Detailed attempted avenues, discrepancies and remaining leads are preserved in each member record; follow-up must read those notes.
+
+## National coverage
+
+73/226 initial records; 153 unstarted; 73 unresolved; 0 research-complete. Counts use branch-owned remote records plus this commit, not the deployed site. All 13 branch heads and integration branches inspected on 2026-09-29.
 
 ## Validation and saving
 
-Batch check passes: 226 assigned exactly once across 13 batches; nsw-3 assignment resolved in plan order. JSON, required fields, source references and codebook enums checked directly plus per-spell checks; repository validation passes before each commit. Only the assigned member JSON and this checkpoint belong to each change. Git network fetch unavailable; use the authenticated GitHub save path and verify remote contents before moving to the next member. No shared output changes, merge or deployment.
+Batch coverage, record fields, dates, enums, source references, build_careers.load_records() and repository validation pass. Each member and checkpoint are committed together; remote push and exact tree/content comparison must pass before researching the next member. Git network access restored this run. Only assigned member files and this checkpoint changed; no merge or deployment.
