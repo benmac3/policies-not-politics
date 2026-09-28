@@ -1,0 +1,231 @@
+{
+  "person_id": "300126",
+  "name": "REID, Gordon James",
+  "snapshot_state": "NSW",
+  "snapshot_chamber": "Member",
+  "snapshot_party": "Australian Labor Party",
+  "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/300126",
+  "research_status": "blocked",
+  "last_reviewed": "2026-09-29",
+  "headline": {
+    "public_full_time_years": null,
+    "private_full_time_years": null,
+    "calculation_status": "not_calculable",
+    "note": "Primary and reliable secondary sources establish a public-hospital medical career through internship, junior and senior residency and emergency medicine at Gosford, Woy Woy and Wyong hospitals, followed by volunteer clinical service while in Parliament. They do not provide exact appointment dates, paid hours, leave or boundaries between hospitals and grades. Elected office, campaigning, study and volunteer medicine are excluded; no public full-time total is inferred from professional titles or approximate year narratives."
+  },
+  "career_spells": [
+    {
+      "spell_id": "300126-medical-study",
+      "employer": "University of Newcastle",
+      "role": "Bachelor of Medicine student and Central Coast clinical student",
+      "start_date": null,
+      "end_date": "2016",
+      "date_precision": "mixed",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "public",
+      "counting_status": "excluded",
+      "source_ids": ["src-member", "src-ama", "src-pm", "src-secondary"],
+      "evidence_note": "Reid and the University identify his Newcastle medical degree and clinical training at Gosford; secondary biographical reporting dates completion to 2016. Enrolment start, study load, placements and paid-work overlap are unresolved.",
+      "counting_note": "Study and clinical placements are excluded unless separate paid employment is documented."
+    },
+    {
+      "spell_id": "300126-cclhd-doctor",
+      "employer": "Central Coast Local Health District, NSW Health",
+      "role": "Intern; junior and senior resident medical officer; emergency career medical officer",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "public_service",
+      "headline_sector": "public",
+      "government_control_at_time": "public",
+      "counting_status": "insufficient_evidence",
+      "source_ids": ["src-member", "src-ama", "src-senate", "src-abc", "src-pm"],
+      "evidence_note": "AMA NSW records internship, junior and senior residencies and emergency rotations at Gosford, Woy Woy and Wyong hospitals. Parliament's Senate inquiry identifies Reid as Emergency Career Medical Officer at Wyong, while his 2024 first-person account confirms the progression from medical student through senior resident and later emergency work. Exact appointments, hospital transfers, paid hours, leave and cessation of paid employment are unresolved.",
+      "counting_note": "The public employer and substantive medical work are supported, but full-time status and countable dates are not sufficiently documented."
+    },
+    {
+      "spell_id": "300126-labor-candidate",
+      "employer": "Australian Labor Party",
+      "role": "Federal candidate for Robertson",
+      "start_date": "2021-09",
+      "end_date": "2022-05-21",
+      "date_precision": "mixed",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "party_organisation",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": ["src-announcement", "src-abc", "src-aph-current"],
+      "evidence_note": "Contemporaneous reporting announced the candidacy in September 2021; ABC profiled Reid as the Labor candidate and Parliament records election on 21 May 2022. Exact preselection day, campaign remuneration, workload and overlap with hospital employment are unresolved.",
+      "counting_note": "Party candidacy and campaigning are excluded under the codebook."
+    },
+    {
+      "spell_id": "300126-house",
+      "employer": "Parliament of Australia",
+      "role": "Member of the House of Representatives for Robertson",
+      "start_date": "2022-05-21",
+      "end_date": null,
+      "date_precision": "day",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "elected_office",
+      "headline_sector": "excluded",
+      "government_control_at_time": "public",
+      "counting_status": "excluded",
+      "source_ids": ["src-snapshot", "src-aph-current"],
+      "evidence_note": "The frozen roster and current Parliament profile establish continuous House service from the 21 May 2022 election.",
+      "counting_note": "Federal elected office is excluded under the codebook."
+    },
+    {
+      "spell_id": "300126-volunteer-doctor",
+      "employer": "Central Coast public hospitals / Wyong Hospital",
+      "role": "Volunteer emergency doctor",
+      "start_date": "2022-05-21",
+      "end_date": null,
+      "date_precision": "mixed",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unpaid_work",
+      "headline_sector": "excluded",
+      "government_control_at_time": "public",
+      "counting_status": "excluded",
+      "source_ids": ["src-member-volunteer", "src-health-2023", "src-pm", "src-probono"],
+      "evidence_note": "Reid's current biography says he continues medical service at local hospitals in a volunteer capacity, and a 2024 release expressly calls his Wyong practice pro bono. Government transcripts in 2023 and 2024 confirm continuing practice after election. The election date is used only as the boundary between clearly pre-parliament employment and post-election service; exact volunteering dates and hours are unresolved.",
+      "counting_note": "Documented volunteer/pro-bono medicine is visible but excluded from paid public/private full-time totals."
+    }
+  ],
+  "sources": [
+    {
+      "source_id": "src-snapshot",
+      "url": "https://handbook.aph.gov.au/parliamentarians/300126",
+      "publisher": "Parliamentary Handbook, Parliament of Australia",
+      "title": "REID, Gordon James — frozen 48th Parliament record",
+      "retrieved": "2026-09-10",
+      "source_type": "official_biography",
+      "locator": "Frozen roster entry; occupation recorded as unavailable",
+      "note": "Establishes the frozen parliamentary identity but supplies no occupation history."
+    },
+    {
+      "source_id": "src-aph-current",
+      "url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=300126",
+      "publisher": "Parliament of Australia",
+      "title": "Dr Gordon Reid MP",
+      "retrieved": "2026-09-29",
+      "source_type": "official_biography",
+      "locator": "Parliamentary service and current member profile",
+      "note": "Confirms election and continuing service for Robertson; no detailed prior occupation chronology is published."
+    },
+    {
+      "source_id": "src-member",
+      "url": "https://www.drgordonreidmp.com.au/",
+      "publisher": "Gordon Reid MP",
+      "title": "Dr Gordon Reid MP — Federal Member for Robertson",
+      "retrieved": "2026-09-29",
+      "source_type": "professional_profile",
+      "locator": "Homepage biography",
+      "note": "First-person confirmation of the Newcastle medical degree and work in Wyong and Gosford emergency departments."
+    },
+    {
+      "source_id": "src-member-volunteer",
+      "url": "https://www.drgordonreidmp.com.au/meet-dr-reid/meet-dr-gordon-reid/",
+      "publisher": "Gordon Reid MP",
+      "title": "Meet Dr Gordon Reid",
+      "retrieved": "2026-09-29",
+      "source_type": "professional_profile",
+      "locator": "Career biography",
+      "note": "States that Reid continues to provide medical services to Central Coast hospitals in a volunteer capacity."
+    },
+    {
+      "source_id": "src-ama",
+      "url": "https://www.amansw.com.au/doctors-in-politics/",
+      "publisher": "Australian Medical Association (NSW)",
+      "title": "Doctors in politics — Dr Gordon Reid",
+      "retrieved": "2026-09-29",
+      "source_type": "professional_profile",
+      "locator": "Gordon Reid candidate profile",
+      "note": "Contemporaneous professional profile detailing internship, junior and senior residencies, emergency rotations and pandemic work at Gosford, Woy Woy and Wyong."
+    },
+    {
+      "source_id": "src-senate",
+      "url": "https://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Community_Affairs/PrimaryHealthServices/Interim_Report/section?id=committees%2Freportsen%2F024767%2F78966",
+      "publisher": "Parliament of Australia",
+      "title": "Provision of primary health services in outer metropolitan, rural and regional Australia — interim report",
+      "retrieved": "2026-09-29",
+      "source_type": "government_record",
+      "locator": "Chapter 4, evidence of Dr Gordon Reid",
+      "note": "Official committee record naming Reid as Emergency Career Medical Officer at Wyong District Hospital before election."
+    },
+    {
+      "source_id": "src-abc",
+      "url": "https://www.abc.net.au/news/elections/federal/2022/guide/robe",
+      "publisher": "Australian Broadcasting Corporation",
+      "title": "Robertson — Federal Election 2022 electorate guide",
+      "retrieved": "2026-09-29",
+      "source_type": "news",
+      "locator": "Gordon Reid candidate profile",
+      "note": "Corroborates the medical training sequence, hospital employers and Wyong pandemic work."
+    },
+    {
+      "source_id": "src-health-2023",
+      "url": "https://www.health.gov.au/ministers/the-hon-mark-butler-mp/media/minister-butler-doorstop-in-kincumber-2-march-2023?language=en",
+      "publisher": "Australian Government Department of Health and Aged Care",
+      "title": "Minister Butler doorstop in Kincumber — 2 March 2023",
+      "retrieved": "2026-09-29",
+      "source_type": "government_record",
+      "locator": "Transcript, Gordon Reid remarks",
+      "note": "First-person post-election confirmation that Reid was then practising in Wyong Hospital emergency department."
+    },
+    {
+      "source_id": "src-pm",
+      "url": "https://www.pm.gov.au/media/doorstop-interview-gosford",
+      "publisher": "Prime Minister of Australia",
+      "title": "Doorstop interview — Gosford, 19 May 2024",
+      "retrieved": "2026-09-29",
+      "source_type": "government_record",
+      "locator": "Transcript, opening remarks by Gordon Reid",
+      "note": "First-person chronology from medical student through intern, resident, senior resident and emergency work, plus continuing Wyong practice."
+    },
+    {
+      "source_id": "src-probono",
+      "url": "https://drgordonreidmp.com.au/media/media-releases/gosford-public-school-visits-parliament-house/",
+      "publisher": "Gordon Reid MP",
+      "title": "Gosford Public School visits Parliament House",
+      "retrieved": "2026-09-29",
+      "source_type": "professional_profile",
+      "locator": "Member quotation on balancing roles",
+      "note": "Expressly describes post-election medical work at Wyong Hospital as pro bono."
+    },
+    {
+      "source_id": "src-announcement",
+      "url": "https://coastcommunitynews.com.au/central-coast/news/2021/09/albanese-announces-labors-new-candidate-for-robertson/",
+      "publisher": "Coast Community News",
+      "title": "Albanese announces Labor's new candidate for Robertson",
+      "retrieved": "2026-09-29",
+      "source_type": "news",
+      "locator": "September 2021 candidacy announcement and career summary",
+      "note": "Contemporaneous evidence of candidacy and local-hospital employment."
+    },
+    {
+      "source_id": "src-secondary",
+      "url": "https://everything.explained.today/Gordon_Reid_(politician)/",
+      "publisher": "Everything Explained Today",
+      "title": "Gordon Reid (politician)",
+      "retrieved": "2026-09-29",
+      "source_type": "other",
+      "locator": "Education summary",
+      "note": "Secondary evidence dating completion of the Bachelor of Medicine to 2016; primary graduation records remain preferable."
+    }
+  ],
+  "research_notes": [
+    "Obtain the University of Newcastle graduation record and Central Coast Local Health District employment statement or payroll history with exact appointment, transfer and cessation dates across Gosford, Woy Woy and Wyong.",
+    "Determine substantive full-time status, hours, leave and breaks for internship, junior/senior residency and emergency career medical officer service; do not infer hours from medical titles.",
+    "Resolve paid-employment cessation and the transition to post-election volunteer/pro-bono clinical service, including whether any paid shifts continued after 21 May 2022.",
+    "Determine campaign remuneration and workload from September 2021 to election and its overlap with hospital work. No private-sector employment is documented, but missing evidence is not zero."
+  ]
+}
