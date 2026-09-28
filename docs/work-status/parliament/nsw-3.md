@@ -6,15 +6,16 @@ Base observed: 8f7179c6accfe62d4c547bb8cfed1129e3dcf796
 
 ## Durable cursor
 
-- Initial pass: 01 248895 PENFOLD, 02 147140 PHILLIPS and 03 83M PLIBERSEK saved, blocked/partial; next: 04 300126 REID, Gordon James.
+- Initial pass: 01 248895 PENFOLD, 02 147140 PHILLIPS, 03 83M PLIBERSEK and 04 300126 REID saved, blocked/partial; next: 05 298840 REPACHOLI, Dan.
 - PENFOLD follow-up (2026-09-28): dated appointments/payroll/hours/leave for parliamentary administration and Reith, Vaile, Truss, Mills, Littleproud, Hogan and Gillespie offices; Woolworths dates/hours; identify boutique advisory agency/entity/equity/pay/workload; exact ALEC February 2012 start day/hours/leave; ANU dates and early-career overlap; campaign remuneration and work overlap. No headline years are inferred from senior titles, an undated 30-plus-year narrative or a directorship.
 - PHILLIPS follow-up (2026-09-28): exact dates/hours/leave for Westpac, Shoalhaven council and full-time Defence role; appointment types/workloads and overlaps for Workplace Learning, TAFE and UOW; identify 1997–2000 Workplace Learning employing entity; 1995–1996 and 2017–2019 employment gaps; political-staff/campaign overlap and remuneration. No exact headline years are inferred from year-only ranges.
 - PLIBERSEK follow-up (2026-09-29): dates/pay/hours for UTS Women's Officer; exact appointment/title/hours/leave for NSW Domestic Violence Unit; dated payroll records separating Bruce Childs and George Campbell service; Macquarie study and 1998 campaign overlaps. No public years are inferred from the undated NSW role; missing private evidence is not zero.
+- REID follow-up (2026-09-29): University of Newcastle graduation record; exact CCLHD appointments/transfers and full-time hours/leave across Gosford, Woy Woy and Wyong; paid-employment cessation versus post-election pro-bono practice; campaign remuneration and overlap. No public years are inferred from professional titles or approximate narratives.
 - Nationwide handoff observed from verified nsw-2 checkpoint commit a9be3e613ae49d0fb64ff0c8ea67e67645c18fc8; nsw-1 and nsw-2 initial passes complete.
 
 ## Remote inspection and national coverage
 
-Remote checkpoint and prior two member records were reverified on 2026-09-29 before resuming. After these members: 67/226 initial records; 159 unstarted; 67 unresolved; zero research-complete. These counts span branch-owned records, not the released site.
+Remote checkpoint and prior records were reverified on 2026-09-29 before resuming. After these members: 68/226 initial records; 158 unstarted; 68 unresolved; zero research-complete. These counts span branch-owned records, not the released site.
 
 ## Validation and saving
 
