@@ -8,8 +8,8 @@ State: in-progress
 
 ## Durable cursor
 
-- Next initial record: 181810 TEMPLEMAN, Susan Raye.
-- Initial records in this batch: 17/19. Blocked records remain unresolved and require later systematic follow-up.
+- Next initial record: 182468 THISTLETHWAITE, the Hon. Matthew (Matt) James.
+- Initial records in this batch: 18/19. Blocked records remain unresolved and require later systematic follow-up.
 
 ## Saved records and follow-up
 
@@ -30,12 +30,13 @@ State: in-progress
 - 175696 STEGGALL, Zali, OAM: blocked; last review 2026-09-29. Follow-up: Follow up bounded full-time legal practice intervals, breaks, early solicitor/paralegal dates and employers; verify Kemp Strang lead and chambers transitions. Resolve paid sporting contracts and control rather than treating scholarship as public work.
 - 264170 SWANSON, Meryl Jane: blocked; last review 2026-09-29. Follow-up: Follow up full-time status and breaks across all paid work; identify café and Melbourne broadcast employers, 2HD start and 2NURFM dates/pay status; establish 1993–1997 HROC/Hunter Tourism legal employer control.
 - 231027 TAYLOR, the Hon. Angus James: blocked; last review 2026-09-29. Follow-up: Follow up substantive full-time consulting periods and breaks, Farmshed tenure/secondment, PJP final date, and contract-level dates for Rabobank and university teaching. Distinguish agribusiness investment/board roles from any paid advisory work.
+- 181810 TEMPLEMAN, Susan Raye: blocked; last review 2026-09-29. Follow-up: Follow up exact 2UE dates and leave to narrow its full-time range; resolve overseas employment versus freelance contracts, Telecom hours and business intensity/breaks. Verify LBC historical control and legal transitions between Media Skills and Templeman Consulting.
 
 Detailed attempted avenues, discrepancies and remaining leads are preserved in each member record; follow-up must read those notes.
 
 ## National coverage
 
-81/226 initial records; 145 unstarted; 81 unresolved; 0 research-complete. Counts use branch-owned remote records plus this commit, not the deployed site. All 13 branch heads and integration branches inspected on 2026-09-29.
+82/226 initial records; 144 unstarted; 82 unresolved; 0 research-complete. Counts use branch-owned remote records plus this commit, not the deployed site. All 13 branch heads and integration branches inspected on 2026-09-29.
 
 ## Validation and saving
 
