@@ -8,8 +8,8 @@ State: in-progress
 
 ## Durable cursor
 
-- Next initial record: 298121 SITOU, Sally.
-- Initial records in this batch: 10/19. Blocked records remain unresolved and require later systematic follow-up.
+- Next initial record: 298618 SOON, Zhi.
+- Initial records in this batch: 11/19. Blocked records remain unresolved and require later systematic follow-up.
 
 ## Saved records and follow-up
 
@@ -23,12 +23,13 @@ State: in-progress
 - 274506 SHARMA, Devanand (Dave) Noel: blocked; last review 2026-09-29. Follow-up: Obtain Commonwealth payroll and appointment records from the 1999 DFAT graduate intake through the 2017 ambassador cessation, including exact transfer dates, classifications, substantive hours, leave and secondment arrangements across Bougainville, Port Moresby, the Downer office, Washington, PM&C, Africa Branch and Israel.
 - 168275 SHELDON, Anthony (Tony) Vincent: blocked; last review 2026-09-29. Follow-up: Identify early cleaning, hospitality and waste employers, dates, hours, control and any breaks; retain explicitly supported full-time cleaning without inventing a duration. Seek dated TWU organiser appointments, pre-TWU union work, TWUSUPER reports, governance tenure and study overlaps.
 - 169119 SHOEBRIDGE, David: blocked; last review 2026-09-29. Follow-up: Seek court and Taylor and Scott appointment/hours/leave evidence, Denman practice workload and cessation records, and identity/dates of brief corporate-law role; resolve March–June 1998 transition and overlaps with council, party and community governance.
+- 298121 SITOU, Sally: blocked; last review 2026-09-29. Follow-up: Resolve pre-2009 work, Parliament House employer and campaign pay, exact Community Alliance placement dates/terms, Clare appointments, AusAID payroll/contract/hours, university dates/hours/leave/control and doctoral overlap; date DAWN and Chinese Australian Forum governance.
 
 Detailed attempted avenues, discrepancies and remaining leads are preserved in each member record; follow-up must read those notes.
 
 ## National coverage
 
-74/226 initial records; 152 unstarted; 74 unresolved; 0 research-complete. Counts use branch-owned remote records plus this commit, not the deployed site. All 13 branch heads and integration branches inspected on 2026-09-29.
+75/226 initial records; 151 unstarted; 75 unresolved; 0 research-complete. Counts use branch-owned remote records plus this commit, not the deployed site. All 13 branch heads and integration branches inspected on 2026-09-29.
 
 ## Validation and saving
 
