@@ -8,8 +8,8 @@ State: in-progress
 
 ## Durable cursor
 
-- Next initial record: 264170 SWANSON, Meryl Jane.
-- Initial records in this batch: 15/19. Blocked records remain unresolved and require later systematic follow-up.
+- Next initial record: 231027 TAYLOR, the Hon. Angus James.
+- Initial records in this batch: 16/19. Blocked records remain unresolved and require later systematic follow-up.
 
 ## Saved records and follow-up
 
@@ -28,12 +28,13 @@ State: in-progress
 - 286042 SPENDER, Allegra: blocked; last review 2026-09-29. Follow-up: Seek McKinsey, Treasury and King's College Hospital appointment/hours/leave records, Carla Zampatti employment and later management capacity, ABCN start-day reconciliation, solar governance boundaries and study overlaps. Verify the secondary lead for a 2007 Women's Health & Research Centre consultancy before adding a factual spell.
 - 265990 STANLEY, Anne Maree: blocked; last review 2026-09-29. Follow-up: Follow up financial-institution names, role-specific dates, substantive full-time status and any leave; identify the 2008–2016 electorate-office employer. Seek historical bank records only after employers are verified.
 - 175696 STEGGALL, Zali, OAM: blocked; last review 2026-09-29. Follow-up: Follow up bounded full-time legal practice intervals, breaks, early solicitor/paralegal dates and employers; verify Kemp Strang lead and chambers transitions. Resolve paid sporting contracts and control rather than treating scholarship as public work.
+- 264170 SWANSON, Meryl Jane: blocked; last review 2026-09-29. Follow-up: Follow up full-time status and breaks across all paid work; identify café and Melbourne broadcast employers, 2HD start and 2NURFM dates/pay status; establish 1993–1997 HROC/Hunter Tourism legal employer control.
 
 Detailed attempted avenues, discrepancies and remaining leads are preserved in each member record; follow-up must read those notes.
 
 ## National coverage
 
-79/226 initial records; 147 unstarted; 79 unresolved; 0 research-complete. Counts use branch-owned remote records plus this commit, not the deployed site. All 13 branch heads and integration branches inspected on 2026-09-29.
+80/226 initial records; 146 unstarted; 80 unresolved; 0 research-complete. Counts use branch-owned remote records plus this commit, not the deployed site. All 13 branch heads and integration branches inspected on 2026-09-29.
 
 ## Validation and saving
 
