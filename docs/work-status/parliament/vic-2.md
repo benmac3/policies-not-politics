@@ -8,8 +8,8 @@ State: in-progress
 
 ## Durable cursor
 
-- Next initial record: 280304 THORPE, Lidia Alma.
-- Initial records in this batch: 16/25. Blocked records remain unresolved and require later systematic follow-up.
+- Next initial record: 282212 THWAITES, the Hon. Kate Lynne.
+- Initial records in this batch: 17/25. Blocked records remain unresolved and require later systematic follow-up.
 
 ## Saved records and follow-up
 
@@ -29,12 +29,13 @@ State: in-progress
 - 297660 RYAN, Monique Marie: blocked; last review 2026-09-29. Follow-up: Follow-up: obtain substantive clinical FTE, leave and payroll/secondment evidence for each hospital; verify historical control and pay for US fellowships and university posts. Resolve 2021 CV leadership endpoints against APH's occupation through 2022; establish campaign leave/resignation and any private practice or paid expert work.
 - 299352 STEWART, Jana Naretha Ann: blocked; last review 2026-09-29. Follow-up: Follow-up: identify early retail employer and dates, verify DPC facilitation appointment, ministerial office boundaries, DJCS executive/acting terms, hours and leave. Resolve 2021–2022 work and Bouverie clinical/study overlap; establish VACCA historical governance and university treatment.
 - 210911 TEHAN, the Hon. Daniel (Dan) Thomas: blocked; last review 2026-09-29. Follow-up: Follow-up: locate public DFAT annual-report/posting and gazette evidence for appointment, full-time terms, leave and 2001–2002 transition; identify farm/bar employers, student-work dates and 2009–2010 work. Verify university course boundaries and separate departmental from ministerial payroll.
+- 280304 THORPE, Lidia Alma: blocked; last review 2026-09-29. Follow-up: Follow-up: date Koori Information Centre, health/funeral/children's-services and Centrelink jobs; identify payroll entities, hours and breaks. Obtain Lake Tyers, council, MAV and business contracts/governance records, including 2010–2013 overlap. Resolve undated consulting, NAIDOC pay, Clan control and inter-parliamentary roles.
 
 Detailed attempted avenues, discrepancies and remaining leads are preserved in each member record; follow-up must read those notes.
 
 ## National coverage
 
-99/226 initial records; 127 unstarted; 99 unresolved; 0 research-complete. Counts use branch-owned remote records plus this commit, not the deployed site. All 13 branch heads and integration branches inspected on 2026-09-29.
+100/226 initial records; 126 unstarted; 100 unresolved; 0 research-complete. Counts use branch-owned remote records plus this commit, not the deployed site. All 13 branch heads and integration branches inspected on 2026-09-29.
 
 ## Validation and saving
 
@@ -42,10 +43,10 @@ Batch coverage, record fields, dates, enums, source references, build_careers.lo
 
 ## Attempt measurement — 2026-09-29
 
-- Active attempt started: 2026-09-29T14:20:20+10:00; last checkpoint: 2026-09-29T14:33:37+10:00.
+- Active attempt started: 2026-09-29T14:20:20+10:00; last checkpoint: 2026-09-29T14:35:02+10:00.
 - Starting national coverage: 90/226; complete: 0; unresolved: 90.
-- This attempt: 9 new initial records; 0 enriched existing; 0 newly research-complete. Counts contingent on remote verification before proceeding.
-- Brisbane-day initial additions: 33 (24 verified additions before this attempt, deduplicated by person ID).
+- This attempt: 10 new initial records; 0 enriched existing; 0 newly research-complete. Counts contingent on remote verification before proceeding.
+- Brisbane-day initial additions: 34 (24 verified additions before this attempt, deduplicated by person ID).
 - Stopping reason: still processing at this checkpoint. No system token/usage warning observed. If no later closure exists, termination reason is unknown.
 - Earlier 11-record run: no stopping reason/token warning found in its durable checkpoint; reason unknown. Seven later VIC-2 records were already remote at start.
 - Starting remote branch heads: {"act": "8f7179c6accfe62d4c547bb8cfed1129e3dcf796", "nsw-1": "c0dae12c0ce41288b38d3f02f9b661e532b91b24", "nsw-2": "a9be3e613ae49d0fb64ff0c8ea67e67645c18fc8", "nsw-3": "7298fa554d277b48374af242a87c75060258f4b0", "nt": "8f7179c6accfe62d4c547bb8cfed1129e3dcf796", "qld-1": "8f7179c6accfe62d4c547bb8cfed1129e3dcf796", "qld-2": "8f7179c6accfe62d4c547bb8cfed1129e3dcf796", "sa": "8f7179c6accfe62d4c547bb8cfed1129e3dcf796", "tas": "8f7179c6accfe62d4c547bb8cfed1129e3dcf796", "vic-1": "c1d7fe74ec61b56e3420250cc0541c6e1d2fa50b", "vic-2": "fd518828cd28526474355410aa29f8a693de24a9", "wa-1": "8f7179c6accfe62d4c547bb8cfed1129e3dcf796", "wa-2": "8f7179c6accfe62d4c547bb8cfed1129e3dcf796"}.
