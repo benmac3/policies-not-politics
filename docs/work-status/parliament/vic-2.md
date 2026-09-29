@@ -8,18 +8,19 @@ State: in-progress
 
 ## Durable cursor
 
-- Next initial record: 101351 KHALIL, the Hon. Peter.
-- Initial records in this batch: 1/25. Blocked records remain unresolved and require later systematic follow-up.
+- Next initial record: 00AMR KING, the Hon. Catherine Fiona.
+- Initial records in this batch: 2/25. Blocked records remain unresolved and require later systematic follow-up.
 
 ## Saved records and follow-up
 
 - LTU KEARNEY, the Hon. Gerardine (Ged) Mary: blocked; last review 2026-09-29. Follow-up: Follow-up: locate Austin personnel/annual reports, including the Cowin name variant, for complete nursing dates, hours changes and leave; reconcile the 2002/2003 transition to paid ANF work; identify any additional acute-sector employers and board tenure dates.
+- 101351 KHALIL, the Hon. Peter: blocked; last review 2026-09-29. Follow-up: Follow-up: identify earlier agriculture/trade/banking and student employers; obtain Defence start and secondment/payroll record, Eurasia/Hawker dates and hours, SBS departure/full-time terms, and any post-SBS consultancy. Resolve VMC commission versus RAC endpoints and adjunct terms.
 
 Detailed attempted avenues, discrepancies and remaining leads are preserved in each member record; follow-up must read those notes.
 
 ## National coverage
 
-84/226 initial records; 142 unstarted; 84 unresolved; 0 research-complete. Counts use branch-owned remote records plus this commit, not the deployed site. All 13 branch heads and integration branches inspected on 2026-09-29.
+85/226 initial records; 141 unstarted; 85 unresolved; 0 research-complete. Counts use branch-owned remote records plus this commit, not the deployed site. All 13 branch heads and integration branches inspected on 2026-09-29.
 
 ## Validation and saving
 
