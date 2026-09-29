@@ -1,0 +1,179 @@
+{
+  "person_id": "E0F",
+  "name": "WOOD, the Hon. Jason Peter",
+  "snapshot_state": "Vic",
+  "snapshot_chamber": "Member",
+  "snapshot_party": "Liberal Party of Australia",
+  "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/E0F",
+  "research_status": "blocked",
+  "last_reviewed": "2026-09-29",
+  "headline": {
+    "public_full_time_years": null,
+    "private_full_time_years": null,
+    "calculation_status": "not_calculable",
+    "note": "Police service is documented, but continuity, full-time status and exact boundaries are unresolved; early camp work and the 2010–2013 interval also remain incomplete. Neither headline can be calculated."
+  },
+  "career_spells": [
+    {
+      "spell_id": "E0F-01",
+      "employer": "School camp employer unidentified",
+      "role": "School camp coordinator",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "unknown",
+      "government_control_at_time": "unknown",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-3"
+      ],
+      "evidence_note": "Historical self-description reports two years of camp work after school. Employer, years, pay basis and hours are not established; do not infer 1986–1988.",
+      "counting_note": "Dates, employer control and/or substantive full-time status remain insufficient for a duration calculation; unknown is not zero."
+    },
+    {
+      "spell_id": "E0F-02",
+      "employer": "Victoria Police",
+      "role": "Police officer; detective, Organised Crime Squad; senior sergeant, Counter Terrorism Coordination Unit",
+      "start_date": "1988",
+      "end_date": "2004",
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "public_service",
+      "headline_sector": "public",
+      "government_control_at_time": "public",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-1",
+        "src-2",
+        "src-3",
+        "src-4"
+      ],
+      "evidence_note": "Official sources place police service within 1988–2004, detective work in 1990–2000 and senior sergeant work in 2003–2004. These are nested roles, not additive spells. A historical campaign page says he resigned for the 2001 election; reinstatement date and break length are unknown, so this enclosing interval does not assert continuous employment. Full-time status is unverified.",
+      "counting_note": "Dates, employer control and/or substantive full-time status remain insufficient for a duration calculation; unknown is not zero."
+    },
+    {
+      "spell_id": "E0F-03",
+      "employer": "Educational institution not established by retrieved primary material",
+      "role": "Master's in Innovation Service Management; counter-terrorism thesis",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-2",
+        "src-3"
+      ],
+      "evidence_note": "Qualification confirmed; study timing and overlap with police employment remain unknown. No employment inferred from study.",
+      "counting_note": "Excluded from the two employment headlines under the codebook."
+    },
+    {
+      "spell_id": "E0F-04",
+      "employer": "Parliament of Australia",
+      "role": "Member for La Trobe",
+      "start_date": "2004-10-09",
+      "end_date": "2010",
+      "date_precision": "mixed",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "elected_office",
+      "headline_sector": "excluded",
+      "government_control_at_time": "public",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-1",
+        "src-2",
+        "src-4"
+      ],
+      "evidence_note": "First election date preserved from frozen roster; first parliamentary term ended after the 2010 defeat. Not counted as public-service employment.",
+      "counting_note": "Excluded from the two employment headlines under the codebook."
+    },
+    {
+      "spell_id": "E0F-05",
+      "employer": "Parliament of Australia",
+      "role": "Member for La Trobe, returned to Parliament",
+      "start_date": "2013",
+      "end_date": null,
+      "date_precision": "mixed",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "elected_office",
+      "headline_sector": "excluded",
+      "government_control_at_time": "public",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-1",
+        "src-5"
+      ],
+      "evidence_note": "December 2013 parliamentary speech confirms return. Home Affairs mentions re-election in 2016 but does not establish first return as 2016. Open-ended entry is not evidence of continuity beyond the frozen roster.",
+      "counting_note": "Excluded from the two employment headlines under the codebook."
+    }
+  ],
+  "sources": [
+    {
+      "source_id": "src-1",
+      "url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=E0F",
+      "publisher": "Parliament of Australia",
+      "title": "Hon Jason Wood MP",
+      "retrieved": "2026-09-29",
+      "source_type": "official_biography",
+      "locator": "Qualifications and occupation before entering Federal Parliament; Parliamentary service",
+      "note": "Official indexed biography and frozen roster preserve police roles and service dates."
+    },
+    {
+      "source_id": "src-2",
+      "url": "https://minister.homeaffairs.gov.au/ministers-for-home-affairs/the-hon-jason-wood-mp/biography",
+      "publisher": "Department of Home Affairs",
+      "title": "Jason Wood biography",
+      "retrieved": "2026-09-29",
+      "source_type": "government_record",
+      "locator": "Career and qualifications paragraphs",
+      "note": "Archived ministerial biography supplies police years; its election summary omits the 2013 return."
+    },
+    {
+      "source_id": "src-3",
+      "url": "https://jasonwoodlatrobe.weebly.com/",
+      "publisher": "Jason Wood campaign biography (attribution not independently verified)",
+      "title": "About Jason Wood",
+      "retrieved": "2026-09-29",
+      "source_type": "other",
+      "locator": "School camp, police career and 2001 resignation paragraphs",
+      "note": "First-person historical campaign page; useful leads, but erroneous-looking 2006 police promotion requires corroboration."
+    },
+    {
+      "source_id": "src-4",
+      "url": "https://www.abc.net.au/news/elections/federal/2013/guide/ltro",
+      "publisher": "Australian Broadcasting Corporation",
+      "title": "La Trobe — 2013 election guide",
+      "retrieved": "2026-09-29",
+      "source_type": "news",
+      "locator": "Jason Wood candidate profile and electorate history",
+      "note": "Contemporaneous profile describes a 13-year police career, a duration requiring reconciliation with official dates."
+    },
+    {
+      "source_id": "src-5",
+      "url": "https://www.openaustralia.org.au/debate/?id=2013-12-11.111.1",
+      "publisher": "OpenAustralia Foundation / House of Representatives Hansard",
+      "title": "Jason Wood — Address-in-Reply, 11 December 2013",
+      "retrieved": "2026-09-29",
+      "source_type": "other",
+      "locator": "Opening paragraph",
+      "note": "Republished parliamentary speech confirms his return to Parliament in 2013."
+    }
+  ],
+  "research_notes": [
+    "Follow up Victoria Police appointment, resignation, reinstatement and leave records, especially the stated 2001 resignation; verify substantive full-time service, precise boundaries, early school-camp employer and all paid work during 2010–2013.",
+    "The 1988–2004 interval is an enclosing career range, not 16 countable full-time years. ABC's 13-year description and the 2001 resignation suggest a break requiring documentary resolution. Do not silently reconcile them by inventing dates.",
+    "Historical campaign page gives 2006 for a police promotion despite parliamentary service commencing in 2004; this is retained as an unresolved source discrepancy, not adopted as a job boundary. Its attribution and early camp claim need stronger archival corroboration.",
+    "Searched official parliamentary and ministerial biographies, Victoria Police employer material, 2013 election reporting, historical campaign biography, public professional-profile results and 2010–2013 employment terms. Namesake results and another ABC candidate's IT consultancy were excluded. No reliable full-time or gap-employment evidence was retrieved.",
+    "Potential follow-up: National Library archived campaign site catalogue nla.arc-79223 and original first speech; archive content not yet retrieved. Last follow-up 2026-09-29. Political appointments, party candidacy and community activities do not prove qualifying paid employment."
+  ]
+}
