@@ -42,7 +42,39 @@ Batch coverage, record fields, dates, enums, source references, build_careers.lo
 - Starting national coverage: 90/226; complete: 0; unresolved: 90.
 - This attempt: 30 new initial records; 0 enriched existing; 0 newly research-complete. Counts contingent on remote verification before proceeding.
 - Brisbane-day initial additions: 54 (24 verified additions before this attempt, deduplicated by person ID).
-- Stopping reason: still processing at this checkpoint. No system token/usage warning observed. If no later closure exists, termination reason is unknown.
+- Stopping reason: voluntary end after sustained sequential research and final remote audit; no system token/usage limit or time-limit signal was observed. The nationwide research is not complete. See verified closure below.
 - Earlier 11-record run: no stopping reason/token warning found in its durable checkpoint; reason unknown. Seven later VIC-2 records were already remote at start.
 - Starting remote branch heads: {"act": "8f7179c6accfe62d4c547bb8cfed1129e3dcf796", "nsw-1": "c0dae12c0ce41288b38d3f02f9b661e532b91b24", "nsw-2": "a9be3e613ae49d0fb64ff0c8ea67e67645c18fc8", "nsw-3": "7298fa554d277b48374af242a87c75060258f4b0", "nt": "8f7179c6accfe62d4c547bb8cfed1129e3dcf796", "qld-1": "8f7179c6accfe62d4c547bb8cfed1129e3dcf796", "qld-2": "8f7179c6accfe62d4c547bb8cfed1129e3dcf796", "sa": "8f7179c6accfe62d4c547bb8cfed1129e3dcf796", "tas": "8f7179c6accfe62d4c547bb8cfed1129e3dcf796", "vic-1": "c1d7fe74ec61b56e3420250cc0541c6e1d2fa50b", "vic-2": "fd518828cd28526474355410aa29f8a693de24a9", "wa-1": "8f7179c6accfe62d4c547bb8cfed1129e3dcf796", "wa-2": "8f7179c6accfe62d4c547bb8cfed1129e3dcf796"}.
 - No active-run markers found at start; clean checkout and remote heads checked before writes.
+
+## Verified attempt closure
+
+- Brisbane cycle date: 2026-09-29. Start: 2026-09-29T14:20:20+10:00. Research/audit end: 2026-09-29T15:29:23+10:00. Elapsed: 69.1 minutes. Final checkpoint save/verification follows this timestamp.
+- Active attempt: closed. No overlapping remote writes or active-run conflict observed. This closure also closes the VIC-2 portion of this same attempt; its older processing label is superseded here.
+- Actual reason: agent voluntarily ended this attempt after the final nationwide audit and durable handoff; no system token warning, usage exhaustion or forced interruption was observed. Recurring continuation remains enabled.
+- Remotely verified substantive progress: 30 new initial records (18 VIC-2, 12 QLD-1); 0 materially enriched pre-existing records; 0 newly research-complete. Checkpoint-only closure is excluded.
+- Next initial cursor: QLD-1 member 13, 316537 COOK, Kara. Finish remaining QLD-1 assignments, then QLD-2 and subsequent batches in plan order. After all initial records, revisit every unresolved case using saved gaps and least-recent follow-up dates.
+- Final national coverage: 120/226 initial; 106 unstarted; 120 unresolved among saved records; 0 research-complete. All 226 remain outstanding against the full specification.
+- Re-fetched all remote heads and inspected member paths across every remote branch, including main, integration-release and parliament-experience. No additional frozen-roster records were found outside assigned branch coverage. No earlier completed record was overwritten.
+- Brisbane-day deduplicated totals: 54 newly added member IDs, 0 enriched existing records and 0 newly complete. Remote git history was filtered by 2026-09-29 Brisbane commit dates and member-file additions; no modified member files occurred that day. Earlier 17 additions plus 7 later VIC-2 additions already present at start plus this attempt's 30 = 54. The user-supplied 83 baseline had already advanced to 90 before this attempt.
+- Earlier 11-record attempt stop remains unknown: no durable token warning or confirmed stopping reason was found. Do not infer exhaustion.
+- Access issues: individual source 403/999 responses and occasional unavailable search pages; no source restriction bypassed. CLI push credentials unavailable; authorized GitHub connector saved non-force updates, followed by exact remote tree/file comparison. No unresolved repository-saving error and no user action required.
+- Verified member commit range: VIC-2 fd518828cd28526474355410aa29f8a693de24a9..8095f70c11c614d88c38f21a55e5f2306e9f3178; QLD-1 8f7179c6accfe62d4c547bb8cfed1129e3dcf796..c49c6656f70dd03eb604f8ea676ccf03470577d7.
+
+| Batch | Starting initial | Ending initial | Unresolved | Research-complete | Last observed remote head before closure |
+|---|---:|---:|---:|---:|---|
+| nsw-1 | 20 | 20 | 20 | 0 | c0dae12c0ce41288b38d3f02f9b661e532b91b24 |
+| nsw-2 | 19 | 19 | 19 | 0 | a9be3e613ae49d0fb64ff0c8ea67e67645c18fc8 |
+| nsw-3 | 19 | 19 | 19 | 0 | 7298fa554d277b48374af242a87c75060258f4b0 |
+| vic-1 | 25 | 25 | 25 | 0 | c1d7fe74ec61b56e3420250cc0541c6e1d2fa50b |
+| vic-2 | 7 | 25 | 25 | 0 | 8095f70c11c614d88c38f21a55e5f2306e9f3178 |
+| qld-1 | 0 | 12 | 12 | 0 | c49c6656f70dd03eb604f8ea676ccf03470577d7 |
+| qld-2 | 0 | 0 | 0 | 0 | 8f7179c6accfe62d4c547bb8cfed1129e3dcf796 |
+| wa-1 | 0 | 0 | 0 | 0 | 8f7179c6accfe62d4c547bb8cfed1129e3dcf796 |
+| wa-2 | 0 | 0 | 0 | 0 | 8f7179c6accfe62d4c547bb8cfed1129e3dcf796 |
+| sa | 0 | 0 | 0 | 0 | 8f7179c6accfe62d4c547bb8cfed1129e3dcf796 |
+| tas | 0 | 0 | 0 | 0 | 8f7179c6accfe62d4c547bb8cfed1129e3dcf796 |
+| act | 0 | 0 | 0 | 0 | 8f7179c6accfe62d4c547bb8cfed1129e3dcf796 |
+| nt | 0 | 0 | 0 | 0 | 8f7179c6accfe62d4c547bb8cfed1129e3dcf796 |
+
+Deduplicated Brisbane-day new member IDs: 00AMR, 101351, 124514, 132880, 140590, 144138, 159771, 168275, 169119, 175696, 181810, 182468, 193430, 207825, 210911, 230531, 231027, 245212, 249224, 252157, 264170, 265990, 274506, 280304, 281688, 282212, 282981, 286042, 297660, 298121, 298618, 298839, 298840, 299352, 299498, 299623, 300122, 300126, 300147, 306489, 312323, 312823, 315478, 316052, 316551, 316660, 37998, 39801, 83M, E0F, HWQ, IMW, LTU, M3E.
