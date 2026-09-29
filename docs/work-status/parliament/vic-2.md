@@ -8,8 +8,8 @@ State: in-progress
 
 ## Durable cursor
 
-- Next initial record: 207825 McKENZIE, the Hon. Bridget.
-- Initial records in this batch: 7/25. Blocked records remain unresolved and require later systematic follow-up.
+- Next initial record: 316052 NG, Gabriel.
+- Initial records in this batch: 8/25. Blocked records remain unresolved and require later systematic follow-up.
 
 ## Saved records and follow-up
 
@@ -20,13 +20,25 @@ State: in-progress
 - M3E MITCHELL, Robert (Rob) George: blocked; last review 2026-09-29. Follow-up: Follow-up: identify footwear, towing/roadside and parts-supply employers; obtain public historical employment/contract evidence for hours, breaks, legal employer and control. Reconcile overlapping 1989–2000 and 1998–2000 descriptions before any calculation.
 - 132880 MULINO, the Hon. Dr Daniel: blocked; last review 2026-09-29. Follow-up: Follow-up: recover public CV or appointment records for Monash, Nous, Pottinger and early departmental hours; resolve World Bank/Federal Reserve internship pay and contracting status, ministerial chronology, Yale teaching lead, and the 2018–2019 inter-parliamentary interval. Check leave and overlaps before calculation.
 - 124514 McKENZIE, Zoe Anne: blocked; last review 2026-09-29. Follow-up: Follow-up: recover legal and KPMG employment dates/hours, advisory-business start/end and full-time evidence; establish seconding employer/payroll and overlap; date Melbourne research and ministerial roles. Resolve April/May 2021 committee discrepancy and any employment during breaks.
+- 207825 McKENZIE, the Hon. Bridget: blocked; last review 2026-09-29. Follow-up: Follow-up: verify Yarram school appointment and legal employer, full-time terms, dates and breaks; inspect Monash 2009–2010 faculty records and appointment terms; date Deakin study and establish student-presidency remuneration. Check pre-2005 and 2010–2011 employment and author activity without assuming gaps were unemployment.
 
 Detailed attempted avenues, discrepancies and remaining leads are preserved in each member record; follow-up must read those notes.
 
 ## National coverage
 
-90/226 initial records; 136 unstarted; 90 unresolved; 0 research-complete. Counts use branch-owned remote records plus this commit, not the deployed site. All 13 branch heads and integration branches inspected on 2026-09-29.
+91/226 initial records; 135 unstarted; 91 unresolved; 0 research-complete. Counts use branch-owned remote records plus this commit, not the deployed site. All 13 branch heads and integration branches inspected on 2026-09-29.
 
 ## Validation and saving
 
 Batch coverage, record fields, dates, enums, source references, build_careers.load_records() and repository validation pass. Each member and checkpoint are committed together; remote push and exact tree/content comparison must pass before researching the next member. Git network access restored this run. Only assigned member files and this checkpoint changed; no merge or deployment.
+
+## Attempt measurement — 2026-09-29
+
+- Active attempt started: 2026-09-29T14:20:20+10:00; last checkpoint: 2026-09-29T14:22:35+10:00.
+- Starting national coverage: 90/226; complete: 0; unresolved: 90.
+- This attempt: 1 new initial records; 0 enriched existing; 0 newly research-complete. Counts contingent on remote verification before proceeding.
+- Brisbane-day initial additions: 25 (24 verified additions before this attempt, deduplicated by person ID).
+- Stopping reason: still processing at this checkpoint. No system token/usage warning observed. If no later closure exists, termination reason is unknown.
+- Earlier 11-record run: no stopping reason/token warning found in its durable checkpoint; reason unknown. Seven later VIC-2 records were already remote at start.
+- Starting remote branch heads: {"act": "8f7179c6accfe62d4c547bb8cfed1129e3dcf796", "nsw-1": "c0dae12c0ce41288b38d3f02f9b661e532b91b24", "nsw-2": "a9be3e613ae49d0fb64ff0c8ea67e67645c18fc8", "nsw-3": "7298fa554d277b48374af242a87c75060258f4b0", "nt": "8f7179c6accfe62d4c547bb8cfed1129e3dcf796", "qld-1": "8f7179c6accfe62d4c547bb8cfed1129e3dcf796", "qld-2": "8f7179c6accfe62d4c547bb8cfed1129e3dcf796", "sa": "8f7179c6accfe62d4c547bb8cfed1129e3dcf796", "tas": "8f7179c6accfe62d4c547bb8cfed1129e3dcf796", "vic-1": "c1d7fe74ec61b56e3420250cc0541c6e1d2fa50b", "vic-2": "fd518828cd28526474355410aa29f8a693de24a9", "wa-1": "8f7179c6accfe62d4c547bb8cfed1129e3dcf796", "wa-2": "8f7179c6accfe62d4c547bb8cfed1129e3dcf796"}.
+- No active-run markers found at start; clean checkout and remote heads checked before writes.
