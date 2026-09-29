@@ -8,8 +8,8 @@ State: in-progress
 
 ## Durable cursor
 
-- Next initial record: 316537 COOK, Kara.
-- Initial records in this batch: 12/21. Blocked records remain unresolved and require later systematic follow-up.
+- Next initial record: 53517 DICK, the Hon. Dugald (Milton) Milton.
+- Initial records in this batch: 13/21. Blocked records remain unresolved and require later systematic follow-up.
 
 ## Saved records and follow-up
 
@@ -25,12 +25,22 @@ State: in-progress
 - 39801 CHISHOLM, the Hon. Anthony David: blocked; last review 2026-09-29. Follow-up: Follow up Santos hours/FTE, actual cessation and leave; clarify pre-2004 paid work, Swan role and dates, and organiser transitions. Do not equate a strategist or adviser title with full-time status.
 - 312323 COFFEY, Renee: blocked; last review 2026-09-29. Follow-up: Follow up missing public-service employers and intervals behind seven-year claim; establish Library and Education hours, employment boundaries, leave and overlap. Reconcile AIEF Pathways/Programs titles and possible 2009 start; obtain primary Kookaburra Kids cessation details.
 - 316551 COMER, Emma: blocked; last review 2026-09-29. Follow-up: Follow up hospitality employers/hours/intervals, military full-time service and injury/leave boundaries, and dates for Nicklin, D'Ath and Chisholm offices. Resolve whether environmental-management experience includes any paid employment beyond study/governance/political work.
+- 316537 COOK, Kara: blocked; last review 2026-09-29. Follow-up: Identify private-practice employers, exact WLS dates/leave and Cook Legal cessation/workload; resolve overlaps with council. Obtain precise BRQ appointment/cessation and campaign-leave records. Governance roles are excluded but their remuneration/time commitments remain contextual gaps.
 
 Detailed attempted avenues, discrepancies and remaining leads are preserved in each member record; follow-up must read those notes.
 
 ## National coverage
 
-120/226 initial records; 106 unstarted; 120 unresolved; 0 research-complete. Counts use branch-owned remote records plus this commit, not the deployed site. All 13 branch heads and integration branches inspected on 2026-09-29.
+121/226 initial records; 105 unstarted; 121 unresolved; 0 research-complete. Counts use branch-owned remote records plus this commit, not the deployed site. All 13 branch heads and integration branches inspected on 2026-09-29.
+
+## Attempt measurement — 2026-09-30 08:00 Brisbane cycle
+
+- Continuation: 0 (scheduled-cycle invocation). Active attempt started: 2026-09-30T08:03:58+10:00.
+- Starting durable national coverage: 120/226; complete: 0; unresolved: 120. Starting QLD-1 head: 374029cb6184a7e38ac2b809f4a0c9874029f0a2.
+- Recovered Kara Cook draft from the interrupted 2026-09-29 16:00 invocation. That earlier invocation produced no remotely verified member commit or terminal report; its final status and stopping reason are unknown. It is not counted as completed work for that run.
+- Progress at this checkpoint: 1 new initial record validated for remote saving in this invocation; 0 enriched existing; 0 newly research-complete. Brisbane-day initial additions: 1.
+- No overlapping remote write or active-run marker observed at start. Batch assignment and repository validation pass.
+- Stopping reason: still processing at this checkpoint. No system token/usage warning observed.
 
 ## Validation and saving
 
