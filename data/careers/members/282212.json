@@ -1,0 +1,180 @@
+{
+  "person_id": "282212",
+  "name": "THWAITES, the Hon. Kate Lynne",
+  "snapshot_state": "Vic",
+  "snapshot_chamber": "Member",
+  "snapshot_party": "Australian Labor Party",
+  "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/282212",
+  "research_status": "blocked",
+  "last_reviewed": "2026-09-29",
+  "headline": {
+    "public_full_time_years": null,
+    "private_full_time_years": null,
+    "calculation_status": "not_calculable",
+    "note": "ABC and Victorian departmental employment are evidenced, but individual full-time status, exact transitions and the 2013–2015 gap remain unresolved. No public or private total is calculable; unknown is not zero."
+  },
+  "career_spells": [
+    {
+      "spell_id": "282212-01",
+      "employer": "Australian Broadcasting Corporation",
+      "role": "Television and radio news journalist",
+      "start_date": "2002",
+      "end_date": "2008",
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "public_corporation",
+      "headline_sector": "public",
+      "government_control_at_time": "public",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-1",
+        "src-2",
+        "src-5"
+      ],
+      "evidence_note": "Official year range; Commonwealth public broadcaster. No hours, leave or transition dates established.",
+      "counting_note": "Dates, employer control and/or substantive full-time status remain insufficient for a duration calculation; unknown is not zero."
+    },
+    {
+      "spell_id": "282212-02",
+      "employer": "Oxfam Australia",
+      "role": "Media adviser / media coordinator",
+      "start_date": "2008",
+      "end_date": "2010",
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "nonprofit",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-1",
+        "src-4",
+        "src-5"
+      ],
+      "evidence_note": "Charitable employer is separate from private enterprise under codebook; contemporaneous employer contact corroborates role.",
+      "counting_note": "Excluded from the two employment headlines under the codebook."
+    },
+    {
+      "spell_id": "282212-03",
+      "employer": "Office of Jenny Macklin MP",
+      "role": "Adviser",
+      "start_date": "2010",
+      "end_date": "2013",
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "political_staff",
+      "headline_sector": "excluded",
+      "government_control_at_time": "public",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-1",
+        "src-2",
+        "src-5"
+      ],
+      "evidence_note": "Parliamentary/ministerial staff role, excluded from public-service headline.",
+      "counting_note": "Excluded from the two employment headlines under the codebook."
+    },
+    {
+      "spell_id": "282212-04",
+      "employer": "Victorian Department of Health and Human Services",
+      "role": "Public servant; assistant director in reform/portfolio communications",
+      "start_date": "2015",
+      "end_date": "2019",
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "public_service",
+      "headline_sector": "public",
+      "government_control_at_time": "public",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-1",
+        "src-2",
+        "src-3"
+      ],
+      "evidence_note": "Official general public-service range combined with 2016 departmental chart and 2017 profile naming DHHS. Changes in title are not separately dated or treated as additional employment. Verify exact departmental tenure before calculating.",
+      "counting_note": "Dates, employer control and/or substantive full-time status remain insufficient for a duration calculation; unknown is not zero."
+    },
+    {
+      "spell_id": "282212-05",
+      "employer": "Parliament of Australia",
+      "role": "Member for Jagajaga",
+      "start_date": "2019-05-18",
+      "end_date": null,
+      "date_precision": "mixed",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "elected_office",
+      "headline_sector": "excluded",
+      "government_control_at_time": "public",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-1"
+      ],
+      "evidence_note": "First service from frozen official roster; subsequent ministry part of elected career, not public-service employment.",
+      "counting_note": "Excluded from the two employment headlines under the codebook."
+    }
+  ],
+  "sources": [
+    {
+      "source_id": "src-1",
+      "url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=282212&lang=en",
+      "publisher": "Parliament of Australia",
+      "title": "Kate Thwaites parliamentary biography",
+      "retrieved": "2026-09-29",
+      "source_type": "official_biography",
+      "locator": "Qualifications and occupations before entering Federal Parliament; parliamentary service",
+      "note": "Indexed official occupation entries agree with the frozen roster; direct page fetch failed. Retained year precision."
+    },
+    {
+      "source_id": "src-2",
+      "url": "https://www.leadershipvictoria.org/wp-content/uploads/2019/09/2017-yearbook-web-version.pdf",
+      "publisher": "Leadership Victoria",
+      "title": "Yearbook 2017: Embracing Disruption",
+      "retrieved": "2026-09-29",
+      "source_type": "professional_profile",
+      "locator": "PDF page 7, Kate Thwaites profile, lines 1101–1140",
+      "note": "Contemporaneous participant profile identifies Assistant Director, Portfolio Communications, Department of Health and Human Services, and earlier ABC/minister work. Qualification as yoga teacher is not evidence of paid employment."
+    },
+    {
+      "source_id": "src-3",
+      "url": "https://vahpa.asn.au/wp-content/uploads/2016/03/DHHS-Org-Chart-16-Feb-20161.pdf",
+      "publisher": "Victorian Department of Health and Human Services, copy hosted by VAHPA",
+      "title": "Senior management effective 1 March 2016",
+      "retrieved": "2026-09-29",
+      "source_type": "government_record",
+      "locator": "PDF page 1, Assistant Director, Reform Communications",
+      "note": "Government organisation chart identifies employer and role at this date; it does not establish a start date or hours."
+    },
+    {
+      "source_id": "src-4",
+      "url": "https://www.oxfam.org.au/media-releases/archive/sumatra-and-samoa-oxfam-responds-with-emergency-staff-and-equipment/",
+      "publisher": "Oxfam Australia",
+      "title": "Sumatra and Samoa: Oxfam responds with emergency staff and equipment",
+      "retrieved": "2026-09-29",
+      "source_type": "employer",
+      "locator": "Media contact: Media Coordinator Kate Thwaites",
+      "note": "Contemporaneous 2009 employer release independently corroborates media employment; not a contract or hours record."
+    },
+    {
+      "source_id": "src-5",
+      "url": "https://www.abc.net.au/news/elections/federal/2019/guide/jaga",
+      "publisher": "ABC News",
+      "title": "Jagajaga 2019 election guide",
+      "retrieved": "2026-09-29",
+      "source_type": "news",
+      "locator": "More Information: Kate Thwaites",
+      "note": "2019 biography corroborates ABC reporting, Oxfam and Macklin adviser roles."
+    }
+  ],
+  "research_notes": [
+    "Seek ABC appointment/leave records, DHHS 2015–2019 employment dates and individual hours; resolve 2013–2015 activity and any private or paid yoga work before totals.",
+    "2026-09-29 initial research checked official biography/frozen occupations, ABC election profile, Oxfam employer releases, Leadership Victoria 2017 yearbook and 2016 DHHS chart. Searches for 2014 work and department communications roles found no reliable full chronology. Public contact aggregators were not accepted as evidence.",
+    "The 2016 chart names Assistant Director, Reform Communications and the 2017 yearbook names Assistant Director, Portfolio Communications; these refine a single departmental spell, not two additive jobs. A newer mental-health nurse named Kate Thwaites is a namesake and was not conflated.",
+    "A first-speech search result says she now worked full time while her partner worked three days. That describes her elected-office arrangement in 2019 and does not prove earlier employment hours. Direct APH first-speech fetch returned 403; no access controls bypassed. Personal-site fetch timed out.",
+    "Year-only ranges and same-year transitions cannot be summed as exact elapsed full-time years. No missing period or hours is assigned zero. Last follow-up 2026-09-29; retain blocked status until substantive hours, gaps and date evidence can be resolved."
+  ]
+}
