@@ -8,8 +8,8 @@ State: in-progress
 
 ## Durable cursor
 
-- Next initial record: 124514 McKENZIE, Zoe Anne.
-- Initial records in this batch: 6/25. Blocked records remain unresolved and require later systematic follow-up.
+- Next initial record: 207825 McKENZIE, the Hon. Bridget.
+- Initial records in this batch: 7/25. Blocked records remain unresolved and require later systematic follow-up.
 
 ## Saved records and follow-up
 
@@ -19,12 +19,13 @@ State: in-progress
 - HWQ MARLES, the Hon. Richard Donald: blocked; last review 2026-09-29. Follow-up: Follow-up: resolve Slater and Gordon 1990 versus 1993 start using employer/admission/articles records and establish full-time hours, breaks and actual departure. Check pre-1993 jobs, paid student-office terms, ACTU campaign leave and ASCC end date.
 - M3E MITCHELL, Robert (Rob) George: blocked; last review 2026-09-29. Follow-up: Follow-up: identify footwear, towing/roadside and parts-supply employers; obtain public historical employment/contract evidence for hours, breaks, legal employer and control. Reconcile overlapping 1989–2000 and 1998–2000 descriptions before any calculation.
 - 132880 MULINO, the Hon. Dr Daniel: blocked; last review 2026-09-29. Follow-up: Follow-up: recover public CV or appointment records for Monash, Nous, Pottinger and early departmental hours; resolve World Bank/Federal Reserve internship pay and contracting status, ministerial chronology, Yale teaching lead, and the 2018–2019 inter-parliamentary interval. Check leave and overlaps before calculation.
+- 124514 McKENZIE, Zoe Anne: blocked; last review 2026-09-29. Follow-up: Follow-up: recover legal and KPMG employment dates/hours, advisory-business start/end and full-time evidence; establish seconding employer/payroll and overlap; date Melbourne research and ministerial roles. Resolve April/May 2021 committee discrepancy and any employment during breaks.
 
 Detailed attempted avenues, discrepancies and remaining leads are preserved in each member record; follow-up must read those notes.
 
 ## National coverage
 
-89/226 initial records; 137 unstarted; 89 unresolved; 0 research-complete. Counts use branch-owned remote records plus this commit, not the deployed site. All 13 branch heads and integration branches inspected on 2026-09-29.
+90/226 initial records; 136 unstarted; 90 unresolved; 0 research-complete. Counts use branch-owned remote records plus this commit, not the deployed site. All 13 branch heads and integration branches inspected on 2026-09-29.
 
 ## Validation and saving
 
