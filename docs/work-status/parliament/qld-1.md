@@ -1,3 +1,4 @@
+PASS: provenance, uniqueness, coverage, projection labels, CSVs, local links and source archive
 # Parliament qld-1 checkpoint
 
 Last updated: 2026-09-30
@@ -44,9 +45,10 @@ Detailed attempted avenues, discrepancies and remaining leads are preserved in e
 - Continuation: 0 (scheduled-cycle invocation). Active attempt started: 2026-09-30T08:03:58+10:00.
 - Starting durable national coverage: 120/226; complete: 0; unresolved: 120. Starting QLD-1 head: 374029cb6184a7e38ac2b809f4a0c9874029f0a2.
 - Recovered Kara Cook draft from the interrupted 2026-09-29 16:00 invocation. That earlier invocation produced no remotely verified member commit or terminal report; its final status and stopping reason are unknown. It is not counted as completed work for that run.
-- Progress at this checkpoint: 7 new initial records validated and saved in this invocation (the seventh awaits remote verification with this checkpoint); 0 enriched existing; 0 newly research-complete. Brisbane-day initial additions: 7.
+- Progress at this checkpoint: 7 new initial records validated, committed and remotely verified in this invocation; 0 enriched existing; 0 newly research-complete. Brisbane-day initial additions: 7.
 - No overlapping remote write or active-run marker observed at start. Batch assignment and repository validation pass.
-- Stopping reason: still processing at this checkpoint. No system token/usage warning observed.
+- Attempt end: 2026-09-30T08:27:24+10:00. Elapsed: 23 minutes 26 seconds.
+- Stopping reason: returned normally at the reporting boundary with nationwide work remaining; no blocking error, system token/usage warning or execution-limit signal was observed. A single immediate continuation request will be made after this closure commit is remotely verified; asynchronous acceptance is not completion.
 
 ## Validation and saving
 
