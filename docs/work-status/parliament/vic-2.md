@@ -8,8 +8,8 @@ State: in-progress
 
 ## Durable cursor
 
-- Next initial record: M3E MITCHELL, Robert (Rob) George.
-- Initial records in this batch: 4/25. Blocked records remain unresolved and require later systematic follow-up.
+- Next initial record: 132880 MULINO, the Hon. Dr Daniel.
+- Initial records in this batch: 5/25. Blocked records remain unresolved and require later systematic follow-up.
 
 ## Saved records and follow-up
 
@@ -17,12 +17,13 @@ State: in-progress
 - 101351 KHALIL, the Hon. Peter: blocked; last review 2026-09-29. Follow-up: Follow-up: identify earlier agriculture/trade/banking and student employers; obtain Defence start and secondment/payroll record, Eurasia/Hawker dates and hours, SBS departure/full-time terms, and any post-SBS consultancy. Resolve VMC commission versus RAC endpoints and adjunct terms.
 - 00AMR KING, the Hon. Catherine Fiona: blocked; last review 2026-09-29. Follow-up: Follow-up: resolve 1994–1997 history and NPHP appointment/payroll identity; seek KPMG and health-department records for hours, exact endpoints and leave; verify Birmingham work and its overlap with Ballarat social work; check any earlier student jobs.
 - HWQ MARLES, the Hon. Richard Donald: blocked; last review 2026-09-29. Follow-up: Follow-up: resolve Slater and Gordon 1990 versus 1993 start using employer/admission/articles records and establish full-time hours, breaks and actual departure. Check pre-1993 jobs, paid student-office terms, ACTU campaign leave and ASCC end date.
+- M3E MITCHELL, Robert (Rob) George: blocked; last review 2026-09-29. Follow-up: Follow-up: identify footwear, towing/roadside and parts-supply employers; obtain public historical employment/contract evidence for hours, breaks, legal employer and control. Reconcile overlapping 1989–2000 and 1998–2000 descriptions before any calculation.
 
 Detailed attempted avenues, discrepancies and remaining leads are preserved in each member record; follow-up must read those notes.
 
 ## National coverage
 
-87/226 initial records; 139 unstarted; 87 unresolved; 0 research-complete. Counts use branch-owned remote records plus this commit, not the deployed site. All 13 branch heads and integration branches inspected on 2026-09-29.
+88/226 initial records; 138 unstarted; 88 unresolved; 0 research-complete. Counts use branch-owned remote records plus this commit, not the deployed site. All 13 branch heads and integration branches inspected on 2026-09-29.
 
 ## Validation and saving
 
