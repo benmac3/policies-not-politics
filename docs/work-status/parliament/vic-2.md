@@ -8,8 +8,8 @@ State: in-progress
 
 ## Durable cursor
 
-- Next initial record: 144138 PATERSON, James William.
-- Initial records in this batch: 10/25. Blocked records remain unresolved and require later systematic follow-up.
+- Next initial record: 300122 RAE, the Hon. Samuel (Sam) Thomas.
+- Initial records in this batch: 11/25. Blocked records remain unresolved and require later systematic follow-up.
 
 ## Saved records and follow-up
 
@@ -23,12 +23,13 @@ State: in-progress
 - 207825 McKENZIE, the Hon. Bridget: blocked; last review 2026-09-29. Follow-up: Follow-up: verify Yarram school appointment and legal employer, full-time terms, dates and breaks; inspect Monash 2009–2010 faculty records and appointment terms; date Deakin study and establish student-presidency remuneration. Check pre-2005 and 2010–2011 employment and author activity without assuming gaps were unemployment.
 - 316052 NG, Gabriel: blocked; last review 2026-09-29. Follow-up: Follow-up: locate County Court annual reports/associate lists for Judge Pillay, Ng's public professional CV, departmental appointment records and Slater start/cessation/hours. Identify any earlier plaintiff-law employers, union employer/pay status, and overseas work; date education and volunteer overlaps.
 - 140590 O'NEIL, the Hon. Clare Ellen: blocked; last review 2026-09-29. Follow-up: Follow-up: seek McKinsey appointment/hours/leave records and resolve 2011 Marngarr payroll/secondment status; identify historical control of Marngarr. Establish NYSE internship terms, any earlier student jobs and course dates; verify author activity without conflating royalties with full-time work.
+- 144138 PATERSON, James William: blocked; last review 2026-09-29. Follow-up: Follow-up: establish pre-2006 jobs and complete study dates; seek Fifield and VECCI dated position records and IPA 2011/2016 appointment/departure records for hours, leave and role transitions. Date fellowships and patronage and determine whether paid, without assuming executive titles prove full-time work.
 
 Detailed attempted avenues, discrepancies and remaining leads are preserved in each member record; follow-up must read those notes.
 
 ## National coverage
 
-93/226 initial records; 133 unstarted; 93 unresolved; 0 research-complete. Counts use branch-owned remote records plus this commit, not the deployed site. All 13 branch heads and integration branches inspected on 2026-09-29.
+94/226 initial records; 132 unstarted; 94 unresolved; 0 research-complete. Counts use branch-owned remote records plus this commit, not the deployed site. All 13 branch heads and integration branches inspected on 2026-09-29.
 
 ## Validation and saving
 
@@ -36,10 +37,10 @@ Batch coverage, record fields, dates, enums, source references, build_careers.lo
 
 ## Attempt measurement — 2026-09-29
 
-- Active attempt started: 2026-09-29T14:20:20+10:00; last checkpoint: 2026-09-29T14:26:01+10:00.
+- Active attempt started: 2026-09-29T14:20:20+10:00; last checkpoint: 2026-09-29T14:27:08+10:00.
 - Starting national coverage: 90/226; complete: 0; unresolved: 90.
-- This attempt: 3 new initial records; 0 enriched existing; 0 newly research-complete. Counts contingent on remote verification before proceeding.
-- Brisbane-day initial additions: 27 (24 verified additions before this attempt, deduplicated by person ID).
+- This attempt: 4 new initial records; 0 enriched existing; 0 newly research-complete. Counts contingent on remote verification before proceeding.
+- Brisbane-day initial additions: 28 (24 verified additions before this attempt, deduplicated by person ID).
 - Stopping reason: still processing at this checkpoint. No system token/usage warning observed. If no later closure exists, termination reason is unknown.
 - Earlier 11-record run: no stopping reason/token warning found in its durable checkpoint; reason unknown. Seven later VIC-2 records were already remote at start.
 - Starting remote branch heads: {"act": "8f7179c6accfe62d4c547bb8cfed1129e3dcf796", "nsw-1": "c0dae12c0ce41288b38d3f02f9b661e532b91b24", "nsw-2": "a9be3e613ae49d0fb64ff0c8ea67e67645c18fc8", "nsw-3": "7298fa554d277b48374af242a87c75060258f4b0", "nt": "8f7179c6accfe62d4c547bb8cfed1129e3dcf796", "qld-1": "8f7179c6accfe62d4c547bb8cfed1129e3dcf796", "qld-2": "8f7179c6accfe62d4c547bb8cfed1129e3dcf796", "sa": "8f7179c6accfe62d4c547bb8cfed1129e3dcf796", "tas": "8f7179c6accfe62d4c547bb8cfed1129e3dcf796", "vic-1": "c1d7fe74ec61b56e3420250cc0541c6e1d2fa50b", "vic-2": "fd518828cd28526474355410aa29f8a693de24a9", "wa-1": "8f7179c6accfe62d4c547bb8cfed1129e3dcf796", "wa-2": "8f7179c6accfe62d4c547bb8cfed1129e3dcf796"}.
