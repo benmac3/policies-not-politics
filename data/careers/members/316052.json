@@ -1,0 +1,193 @@
+{
+  "person_id": "316052",
+  "name": "NG, Gabriel",
+  "snapshot_state": "Vic",
+  "snapshot_chamber": "Member",
+  "snapshot_party": "Australian Labor Party",
+  "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/316052",
+  "research_status": "blocked",
+  "last_reviewed": "2026-09-29",
+  "headline": {
+    "public_full_time_years": null,
+    "private_full_time_years": null,
+    "calculation_status": "not_calculable",
+    "note": "Private legal and public-service work are documented but hours and full chronology are not. No defensible full-time total can yet be calculated."
+  },
+  "career_spells": [
+    {
+      "spell_id": "316052-01",
+      "employer": "Government department not identified",
+      "role": "Public servant, migrant/refugee settlement",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "public_service",
+      "headline_sector": "public",
+      "government_control_at_time": "public",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-2",
+        "src-5"
+      ],
+      "evidence_note": "Public-service capacity supported, employing department and dated postings unknown.",
+      "counting_note": "Dates, employer control and/or substantive full-time status remain insufficient for a duration calculation; unknown is not zero."
+    },
+    {
+      "spell_id": "316052-02",
+      "employer": "County Court of Victoria",
+      "role": "Associate to Judge Pillay",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "public_service",
+      "headline_sector": "public",
+      "government_control_at_time": "public",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-3"
+      ],
+      "evidence_note": "Employer announcement places this before the 2024 Slater appointment; no exact endpoint or start established.",
+      "counting_note": "Dates, employer control and/or substantive full-time status remain insufficient for a duration calculation; unknown is not zero."
+    },
+    {
+      "spell_id": "316052-03",
+      "employer": "Slater and Gordon, Ringwood Work & Road team",
+      "role": "Lawyer",
+      "start_date": "2024",
+      "end_date": "2025",
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "private_enterprise",
+      "headline_sector": "private",
+      "government_control_at_time": "private",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-3",
+        "src-4"
+      ],
+      "evidence_note": "Employer states 2024 commencement and subsequently former-colleague status on entering Parliament in 2025. Legal practice classified private; hours, leave and exact cessation unverified.",
+      "counting_note": "Dates, employer control and/or substantive full-time status remain insufficient for a duration calculation; unknown is not zero."
+    },
+    {
+      "spell_id": "316052-04",
+      "employer": "Union organisation unidentified",
+      "role": "Work in union movement, role unresolved",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "union",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-4"
+      ],
+      "evidence_note": "Employer retrospectively mentions union experience; paid employment versus other participation needs clarification.",
+      "counting_note": "Excluded from the two employment headlines under the codebook."
+    },
+    {
+      "spell_id": "316052-05",
+      "employer": "Community legal centre(s), aged-care home and other community organisations unidentified",
+      "role": "Volunteer",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unpaid_work",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-2",
+        "src-5"
+      ],
+      "evidence_note": "First-person account expressly identifies volunteering; do not count it as paid legal/public work.",
+      "counting_note": "Excluded from the two employment headlines under the codebook."
+    },
+    {
+      "spell_id": "316052-06",
+      "employer": "Parliament of Australia",
+      "role": "Member for Menzies",
+      "start_date": "2025-05-03",
+      "end_date": null,
+      "date_precision": "mixed",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "elected_office",
+      "headline_sector": "excluded",
+      "government_control_at_time": "public",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-1"
+      ],
+      "evidence_note": "Frozen roster start retained; ongoing elected service excluded.",
+      "counting_note": "Excluded from the two employment headlines under the codebook."
+    }
+  ],
+  "sources": [
+    {
+      "source_id": "src-1",
+      "url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=316052",
+      "publisher": "Australian Parliament",
+      "title": "Gabriel Ng biography",
+      "retrieved": "2026-09-29",
+      "source_type": "official_biography",
+      "locator": "Parliamentary service",
+      "note": "2025 entry; no occupation timeline."
+    },
+    {
+      "source_id": "src-2",
+      "url": "https://gabrielngmp.com/about/",
+      "publisher": "Gabriel Ng MP",
+      "title": "About",
+      "retrieved": "2026-09-29",
+      "source_type": "official_biography",
+      "locator": "Career paragraph",
+      "note": "Law/public service and community volunteering; broad fields rather than dated jobs."
+    },
+    {
+      "source_id": "src-3",
+      "url": "https://www.linkedin.com/posts/slater-%26-gordon_were-thrilled-to-announce-that-our-very-activity-7294885238323691520-6ks9",
+      "publisher": "Slater and Gordon",
+      "title": "Election candidates announcement",
+      "retrieved": "2026-09-29",
+      "source_type": "employer",
+      "locator": "Gabriel paragraph (publicly indexed)",
+      "note": "Joined Ringwood Work & Road in 2024 after County Court associate role to Judge Pillay; do not apply Matt Gregg's dates to Ng."
+    },
+    {
+      "source_id": "src-4",
+      "url": "https://www.linkedin.com/posts/slater-%26-gordon_leadership-isnt-always-about-being-seen-activity-7338423432373510146-5UJZ",
+      "publisher": "Slater and Gordon",
+      "title": "Farewell to parliamentary entrants",
+      "retrieved": "2026-09-29",
+      "source_type": "employer",
+      "locator": "Gabriel paragraph (publicly indexed)",
+      "note": "Confirms 2024 arrival and former colleague status; mentions courts, union movement and community legal centres without tenure."
+    },
+    {
+      "source_id": "src-5",
+      "url": "https://www.openaustralia.org.au/debate/?id=2025-07-22.32.1",
+      "publisher": "OpenAustralia (Hansard transcript)",
+      "title": "First speech, 22 July 2025",
+      "retrieved": "2026-09-29",
+      "source_type": "government_record",
+      "locator": "Paragraph beginning That good fortune",
+      "note": "First-person description of volunteer aged-care/community legal work, migrant/refugee public service and plaintiff law."
+    }
+  ],
+  "research_notes": [
+    "Follow-up: locate County Court annual reports/associate lists for Judge Pillay, Ng's public professional CV, departmental appointment records and Slater start/cessation/hours. Identify any earlier plaintiff-law employers, union employer/pay status, and overseas work; date education and volunteer overlaps.",
+    "Reviewed 2026-09-29: official biography, own biography, first speech and public employer statements. Targeted queries for Slater join date and public-service department supplied 2024 and court role but no department or full-time terms. No login-restricted professional content accessed.",
+    "Identity checked against Menzies candidacy and employer statements. UK Better Society Capital/Shearman solicitor and overseas architects or namesakes are not this verified record. Matt Gregg's 2019 start belongs to Gregg, not Ng.",
+    "Year-level 2024–2025 is not one exact year; no boundaries or FTE inferred. The frozen roster's empty occupation list is not zero career experience. Initial partial record; last follow-up 2026-09-29."
+  ]
+}
