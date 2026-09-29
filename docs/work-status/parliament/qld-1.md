@@ -8,8 +8,8 @@ State: in-progress
 
 ## Durable cursor
 
-- Next initial record: 259819 GREEN, the Hon. Nita Louise.
-- Initial records in this batch: 15/21. Blocked records remain unresolved and require later systematic follow-up.
+- Next initial record: 291387 HAMILTON, Garth Russell.
+- Initial records in this batch: 16/21. Blocked records remain unresolved and require later systematic follow-up.
 
 ## Saved records and follow-up
 
@@ -28,19 +28,20 @@ State: in-progress
 - 316537 COOK, Kara: blocked; last review 2026-09-29. Follow-up: Identify private-practice employers, exact WLS dates/leave and Cook Legal cessation/workload; resolve overlaps with council. Obtain precise BRQ appointment/cessation and campaign-leave records. Governance roles are excluded but their remuneration/time commitments remain contextual gaps.
 - 53517 DICK, the Hon. Dugald (Milton) Milton: blocked; last review 2026-09-30. Follow-up: Obtain payroll/personnel evidence for exact electorate-office and party transitions, hours and leave; determine whether the 2016 full-time candidacy was paid and whether any paid work accompanied university study. Do not treat a full-time campaign as proof of employment.
 - 270198 FRANCE, Ali: blocked; last review 2026-09-30. Follow-up: Confirm journalism and UK communications payroll dates/hours, resolve Westminster/Healthcare Commission overlap, Carbon and Karuna boundaries, Ali France Creative workload, and the Steven Miles staff role. Reconcile care, recovery, campaign and 2022-24 family-care gaps without treating missing work as zero.
+- 259819 GREEN, the Hon. Nita Louise: blocked; last review 2026-09-30. Follow-up: Identify early traineeship, retail and hospitality employers/dates/hours; obtain Maurice Blackburn payroll boundaries and full-time evidence; resolve Equality Campaign employing entity/paid status; obtain AMWU and Senator Murray Watt appointment, cessation, hours, leave and overlap evidence.
 
 Detailed attempted avenues, discrepancies and remaining leads are preserved in each member record; follow-up must read those notes.
 
 ## National coverage
 
-123/226 initial records; 103 unstarted; 123 unresolved; 0 research-complete. Counts use branch-owned remote records plus this commit, not the deployed site. All 13 branch heads and integration branches were inspected at this cycle's start.
+124/226 initial records; 102 unstarted; 124 unresolved; 0 research-complete. Counts use branch-owned remote records plus this commit, not the deployed site. All 13 branch heads and integration branches were inspected at this cycle's start.
 
 ## Attempt measurement — 2026-09-30 08:00 Brisbane cycle
 
 - Continuation: 0 (scheduled-cycle invocation). Active attempt started: 2026-09-30T08:03:58+10:00.
 - Starting durable national coverage: 120/226; complete: 0; unresolved: 120. Starting QLD-1 head: 374029cb6184a7e38ac2b809f4a0c9874029f0a2.
 - Recovered Kara Cook draft from the interrupted 2026-09-29 16:00 invocation. That earlier invocation produced no remotely verified member commit or terminal report; its final status and stopping reason are unknown. It is not counted as completed work for that run.
-- Progress at this checkpoint: 3 new initial records validated and remotely saved in this invocation; 0 enriched existing; 0 newly research-complete. Brisbane-day initial additions: 3.
+- Progress at this checkpoint: 4 new initial records validated and saved in this invocation (the fourth awaits remote verification with this checkpoint); 0 enriched existing; 0 newly research-complete. Brisbane-day initial additions: 4.
 - No overlapping remote write or active-run marker observed at start. Batch assignment and repository validation pass.
 - Stopping reason: still processing at this checkpoint. No system token/usage warning observed.
 
