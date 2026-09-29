@@ -1,4 +1,3 @@
-PASS: provenance, uniqueness, coverage, projection labels, CSVs, local links and source archive
 # Parliament qld-1 checkpoint
 
 Last updated: 2026-09-30
