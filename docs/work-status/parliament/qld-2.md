@@ -1,6 +1,6 @@
 # Parliament qld-2 checkpoint
 
-Last updated: 2026-09-30
+Last updated: 2026-10-01
 Branch: work/parliament-qld-2
 Branch HEAD: this commit (use git log -1)
 Main base observed: 8f7179c6accfe62d4c547bb8cfed1129e3dcf796
@@ -8,8 +8,8 @@ State: in-progress
 
 ## Durable cursor
 
-- Next initial record: 245759 WATT, the Hon. Murray Patrick.
-- Initial records in this batch: 17/21. The saved blocked records remain unresolved and require later systematic follow-up.
+- Next initial record: 264121 WELLS, the Hon. Anika Shay.
+- Initial records in this batch: 18/21. The saved blocked records remain unresolved and require later systematic follow-up.
 
 ## Saved records and follow-up
 
@@ -30,12 +30,21 @@ State: in-progress
 - 265967 WALLACE, Andrew Bruce: blocked; last review 2026-09-30. Follow-up: Identify apprenticeship and building-business employers/entities and exact dates/hours/leave; resolve the Handbook's builder-through-2016 overlap with 2000-16 barrister practice; obtain QUT dates, bar/practice boundaries and government-report contracts; resolve community-role remuneration.
 - 192970 WATERS, Larissa Joy: blocked; last review 2026-09-30. Follow-up: Obtain study dates; obtain Tribunal appointment/control, Freehills and EDO exact boundaries/hours/leave; resolve EDO cessation; identify any paid employment during the 2017-18 out-of-Parliament interval; preserve current Senate service despite September 2026 leadership resignation/medical leave.
 - 300127 WATSON-BROWN, Elizabeth: blocked; last review 2026-09-30. Follow-up: Resolve the 1981 independent-practice start versus 21-year practice-duration discrepancy; obtain exact dates/entities/hours/leave for early firms, private practice and Architectus; determine UQ adjunct remuneration/workload; resolve advisory-role remuneration and the 2021-22 interval.
+- 245759 WATT, the Hon. Murray Patrick: blocked; last review 2026-10-01. Follow-up: Obtain exact dates/hours/leave for private legal and Federal Court roles; resolve 2002 and 2007 transitions and the reported 2008 chief-of-staff/public-service overlap; obtain departmental appointment evidence; resolve Maurice Blackburn 2012-16 boundaries and campaign leave.
 
 Detailed attempted avenues, discrepancies and remaining leads are preserved in each member record; follow-up must read those notes.
 
 ## National coverage
 
-146/226 initial records; 80 unstarted; 146 unresolved; 0 research-complete. Counts use branch-owned remote records plus this commit, not the deployed site.
+147/226 initial records; 79 unstarted; 147 unresolved; 0 research-complete. Counts use branch-owned remote records plus this commit, not the deployed site.
+
+## Attempt measurement — 2026-10-01 08:00 Brisbane cycle
+
+- Continuation: 0 (scheduled-cycle invocation). Active attempt started: 2026-10-01T07:55:34+10:00.
+- Starting durable national coverage: 146/226; complete: 0; unresolved: 146. Starting QLD-2 head: b782d8e9f183293c97de92cefc6ff342dad34b16.
+- The previous cycle's immediate successor request was accepted asynchronously, but no later remote member commit, checkpoint change or terminal execution report was observable before this cycle. Acceptance is not treated as execution completion.
+- Progress at this checkpoint: 1 new initial record validated and saved in this invocation (Murray Watt); 0 enriched existing; 0 newly research-complete. Brisbane-day initial additions after remote verification: 1.
+- No overlapping remote write or active-run marker was observed. Batch assignment and repository validation pass.
 
 ## Attempt measurement — 2026-09-30 16:00 Brisbane cycle
 
