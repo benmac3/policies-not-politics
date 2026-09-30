@@ -8,8 +8,8 @@ State: in-progress
 
 ## Durable cursor
 
-- Next initial record: HX4 KATTER, the Hon. Robert (Bob) Carl.
-- Initial records in this batch: 20/21. Blocked records remain unresolved and require later systematic follow-up.
+- Next initial record: none; initial pass complete. Continue with qld-2, then return in the national follow-up pass.
+- Initial records in this batch: 21/21. All 21 remain unresolved and require later systematic follow-up.
 
 ## Saved records and follow-up
 
@@ -33,19 +33,20 @@ State: in-progress
 - BK6 HANSON, Pauline Lee: blocked; last review 2026-09-30. Follow-up: Obtain employers/business legal entities, exact dates, hours and leave for early retail/clerical work, plumbing, club and food businesses; resolve potato processing and cattle activity; investigate paid work in the 1998-2016 gap, 2006 real-estate role and property entities without conflating ownership or party activity with employment.
 - 88411 HOLZBERGER, Rowan: blocked; last review 2026-09-30. Follow-up: Identify private employers and business entities for Broken Hill, stations, mustering, marketing, construction and insurance; obtain exact dates/hours/leave; resolve Peter Duncan, Murray Watt and Shannon Fentiman office dates, campaign leave and overlaps.
 - 298574 JARRETT, Madonna: blocked; last review 2026-09-30. Follow-up: Identify radiography employer/control and dates; identify each NSW/Queensland ministerial office and distinguish political staff from public service; obtain primary Deloitte commencement, entity, title-transition, hours, leave and cessation evidence. Public profile aggregations are leads, not full-time proof.
+- HX4 KATTER, the Hon. Robert (Bob) Carl: blocked; last review 2026-09-30. Follow-up: Identify entities/dates/hours for family retail/cinema, mining, cattle and insurance; obtain Mount Isa Mines employment evidence; resolve AWU representative role, ongoing business overlap with elected office, 1992–93 gap and state retirement-date discrepancy.
 
 Detailed attempted avenues, discrepancies and remaining leads are preserved in each member record; follow-up must read those notes.
 
 ## National coverage
 
-128/226 initial records; 98 unstarted; 128 unresolved; 0 research-complete. Counts use branch-owned remote records plus this commit, not the deployed site. All 13 branch heads and integration branches were inspected at this cycle's start.
+129/226 initial records; 97 unstarted; 129 unresolved; 0 research-complete. Counts use branch-owned remote records plus this commit, not the deployed site. All 13 branch heads and integration branches were inspected at this cycle's start.
 
 ## Attempt measurement — 2026-09-30 12:00 Brisbane cycle
 
 - Continuation: 0 (scheduled-cycle invocation). Active attempt started: 2026-09-30T12:03:35+10:00.
 - Starting durable national coverage: 127/226; complete: 0; unresolved: 127. Starting QLD-1 head: 7fddc2698a7d6f2c7ded761431cc3d0cb5fcefe9.
 - The 08:00 cycle's immediate successor request was accepted asynchronously, but no later remote member commit, checkpoint change or terminal execution report was observable before this scheduled cycle. Acceptance is not treated as execution completion.
-- Progress at this checkpoint: 1 new initial record validated and pending remote verification in this invocation; 0 enriched existing; 0 newly research-complete. Brisbane-day initial additions after remote verification: 8.
+- Progress at this checkpoint: 2 new initial records validated, committed and pending final remote verification in this invocation; 0 enriched existing; 0 newly research-complete. Brisbane-day initial additions after remote verification: 9.
 - No overlapping remote write or active-run marker observed at start. Batch assignment and repository validation pass.
 
 ## Attempt measurement — 2026-09-30 08:00 Brisbane cycle
@@ -104,4 +105,3 @@ Batch coverage, record fields, dates, enums, source references, build_careers.lo
 | nt | 0 | 0 | 0 | 0 | 8f7179c6accfe62d4c547bb8cfed1129e3dcf796 |
 
 Deduplicated Brisbane-day new member IDs: 00AMR, 101351, 124514, 132880, 140590, 144138, 159771, 168275, 169119, 175696, 181810, 182468, 193430, 207825, 210911, 230531, 231027, 245212, 249224, 252157, 264170, 265990, 274506, 280304, 281688, 282212, 282981, 286042, 297660, 298121, 298618, 298839, 298840, 299352, 299498, 299623, 300122, 300126, 300147, 306489, 312323, 312823, 315478, 316052, 316551, 316660, 37998, 39801, 83M, E0F, HWQ, IMW, LTU, M3E.
-
