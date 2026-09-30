@@ -8,25 +8,26 @@ State: in-progress
 
 ## Durable cursor
 
-- Next initial record: 265585 LITTLEPROUD, the Hon. David Kelly.
-- Initial records in this batch: 1/21. The saved blocked record remains unresolved and requires later systematic follow-up.
+- Next initial record: 277110 MULHOLLAND, Corinne.
+- Initial records in this batch: 2/21. The saved blocked records remain unresolved and require later systematic follow-up.
 
 ## Saved records and follow-up
 
 - 249764 LANDRY, the Hon. Michelle Leanne: blocked; last review 2026-09-30. Follow-up: Identify laboratory employer/control; obtain NAB progression/hours/leave; identify family construction and bookkeeping business entities and overlaps; identify 2010–12 electorate office and campaign arrangements; verify paid/substantive status of childhood Lucky Daniels work.
+- 265585 LITTLEPROUD, the Hon. David Kelly: blocked; last review 2026-09-30. Follow-up: Identify cotton employer; obtain NAB and Suncorp exact role/payroll/hours/leave evidence; separate Mr Rental operational work from ownership/spouse employment; resolve acquisition/cessation and party-council dates/paid status.
 
 Detailed attempted avenues, discrepancies and remaining leads are preserved in each member record; follow-up must read those notes.
 
 ## National coverage
 
-130/226 initial records; 96 unstarted; 130 unresolved; 0 research-complete. Counts use branch-owned remote records plus this commit, not the deployed site. QLD-1's 21-member initial pass completed earlier in this invocation.
+131/226 initial records; 95 unstarted; 131 unresolved; 0 research-complete. Counts use branch-owned remote records plus this commit, not the deployed site. QLD-1's 21-member initial pass completed earlier in this invocation.
 
 ## Attempt measurement — 2026-09-30 12:00 Brisbane cycle
 
 - Continuation: 0 (scheduled-cycle invocation). Active attempt started: 2026-09-30T12:03:35+10:00.
 - Starting durable national coverage: 127/226; complete: 0; unresolved: 127. Starting QLD-1 head: 7fddc2698a7d6f2c7ded761431cc3d0cb5fcefe9. Starting QLD-2 head: 8f7179c6accfe62d4c547bb8cfed1129e3dcf796.
 - The 08:00 cycle's immediate successor request was accepted asynchronously, but no later remote member commit, checkpoint change or terminal execution report was observable before this scheduled cycle. Acceptance is not treated as execution completion.
-- Progress at this checkpoint: 3 new initial records validated, committed and pending final remote verification in this invocation (Madonna Jarrett, Bob Katter, Michelle Landry); 0 enriched existing; 0 newly research-complete. Brisbane-day initial additions after remote verification: 10.
+- Progress at this checkpoint: 4 new initial records validated, committed and pending final remote verification in this invocation (Madonna Jarrett, Bob Katter, Michelle Landry, David Littleproud); 0 enriched existing; 0 newly research-complete. Brisbane-day initial additions after remote verification: 11.
 - QLD-1 initial pass completed at 21/21; processing continued into QLD-2. No overlapping remote write or active-run marker observed at either branch boundary. Batch assignment and repository validation pass.
 
 ## Validation and saving
