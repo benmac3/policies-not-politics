@@ -8,8 +8,8 @@ State: in-progress
 
 ## Durable cursor
 
-- Next initial record: 266524 ROBERTS, Malcolm Ieuan.
-- Initial records in this batch: 10/21. The saved blocked records remain unresolved and require later systematic follow-up.
+- Next initial record: 282997 SCARR, Paul Martin.
+- Initial records in this batch: 11/21. The saved blocked records remain unresolved and require later systematic follow-up.
 
 ## Saved records and follow-up
 
@@ -23,12 +23,21 @@ State: in-progress
 - 265991 O'BRIEN, Llewellyn (Llew) Stephen: blocked; last review 2026-09-30. Follow-up: Identify labouring/factory employers and hours/leave; obtain QPS appointment, posting and extended-leave evidence; resolve exact employment transitions; verify excluded LNP role remuneration.
 - 300120 PIKE, Henry Jon: blocked; last review 2026-09-30. Follow-up: Identify all pre-2014 employment; obtain QFF and Property Council exact role dates/hours/leave and transitions; resolve campaign overlaps; verify excluded party-role remuneration.
 - 316547 REBELLO, Leon: blocked; last review 2026-09-30. Follow-up: Identify all study/employment intervals; obtain DPS attendant and Julie Bishop staff dates/hours/leave; obtain KWM admission/start/cessation/hours/leave and campaign arrangements; resolve nonprofit board term/remuneration.
+- 266524 ROBERTS, Malcolm Ieuan: blocked; last review 2026-09-30. Follow-up: Identify vineyard and five coal-mine employers; disaggregate Peabody/Consolidation Coal and Coal & Allied role boundaries; obtain hours/leave/exact dates; resolve Gordonstone and consulting boundaries, client workloads and post-2008 paid work versus unpaid advocacy.
 
 Detailed attempted avenues, discrepancies and remaining leads are preserved in each member record; follow-up must read those notes.
 
 ## National coverage
 
-139/226 initial records; 87 unstarted; 139 unresolved; 0 research-complete. Counts use branch-owned remote records plus this commit, not the deployed site. QLD-1's 21-member initial pass completed earlier in this invocation.
+140/226 initial records; 86 unstarted; 140 unresolved; 0 research-complete. Counts use branch-owned remote records plus this commit, not the deployed site.
+
+## Attempt measurement — 2026-09-30 16:00 Brisbane cycle
+
+- Continuation: 0 (scheduled-cycle invocation). Active attempt started: 2026-09-30T16:03:39+10:00.
+- Starting durable national coverage: 139/226; complete: 0; unresolved: 139. Starting QLD-2 head: 3b044504972cb95edef28fdbc6741cad3c00368b.
+- The noon cycle's immediate successor request was accepted asynchronously, but no later remote member commit, checkpoint change or terminal execution report was observable before this scheduled cycle. Acceptance is not treated as execution completion.
+- Progress at this checkpoint: 1 new initial record validated and saved in this invocation (Malcolm Roberts); 0 enriched existing; 0 newly research-complete. Brisbane-day initial additions after remote verification: 20.
+- No overlapping remote write or active-run marker was observed. Batch assignment and repository validation pass.
 
 ## Attempt measurement — 2026-09-30 12:00 Brisbane cycle
 
