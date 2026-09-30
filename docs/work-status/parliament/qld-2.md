@@ -8,8 +8,8 @@ State: in-progress
 
 ## Durable cursor
 
-- Next initial record: 192970 WATERS, Larissa Joy.
-- Initial records in this batch: 15/21. The saved blocked records remain unresolved and require later systematic follow-up.
+- Next initial record: 300127 WATSON-BROWN, Elizabeth.
+- Initial records in this batch: 16/21. The saved blocked records remain unresolved and require later systematic follow-up.
 
 ## Saved records and follow-up
 
@@ -28,19 +28,20 @@ State: in-progress
 - 312393 SMITH, Matt: blocked; last review 2026-09-30. Follow-up: Identify all pre-Cairns professional clubs and contracts; resolve Cairns four-season/five-year discrepancy; obtain political staff titles/dates; identify the state agency and exact government boundaries/hours/leave; resolve Marlins paid status; obtain Together dates and candidate arrangements; investigate paid MC/media work.
 - 281826 THOMPSON, Phillip Bruce, OAM: blocked; last review 2026-09-30. Follow-up: Obtain primary Defence enlistment/separation and medical-leave evidence; identify the 2015 peer-support employer and boundaries; obtain selectability exact title/dates/hours/leave and candidate arrangements; separate paid advocacy from volunteering; resolve governance appointments/remuneration.
 - 265967 WALLACE, Andrew Bruce: blocked; last review 2026-09-30. Follow-up: Identify apprenticeship and building-business employers/entities and exact dates/hours/leave; resolve the Handbook's builder-through-2016 overlap with 2000-16 barrister practice; obtain QUT dates, bar/practice boundaries and government-report contracts; resolve community-role remuneration.
+- 192970 WATERS, Larissa Joy: blocked; last review 2026-09-30. Follow-up: Obtain study dates; obtain Tribunal appointment/control, Freehills and EDO exact boundaries/hours/leave; resolve EDO cessation; identify any paid employment during the 2017-18 out-of-Parliament interval; preserve current Senate service despite September 2026 leadership resignation/medical leave.
 
 Detailed attempted avenues, discrepancies and remaining leads are preserved in each member record; follow-up must read those notes.
 
 ## National coverage
 
-144/226 initial records; 82 unstarted; 144 unresolved; 0 research-complete. Counts use branch-owned remote records plus this commit, not the deployed site.
+145/226 initial records; 81 unstarted; 145 unresolved; 0 research-complete. Counts use branch-owned remote records plus this commit, not the deployed site.
 
 ## Attempt measurement — 2026-09-30 16:00 Brisbane cycle
 
 - Continuation: 0 (scheduled-cycle invocation). Active attempt started: 2026-09-30T16:03:39+10:00.
 - Starting durable national coverage: 139/226; complete: 0; unresolved: 139. Starting QLD-2 head: 3b044504972cb95edef28fdbc6741cad3c00368b.
 - The noon cycle's immediate successor request was accepted asynchronously, but no later remote member commit, checkpoint change or terminal execution report was observable before this scheduled cycle. Acceptance is not treated as execution completion.
-- Progress at this checkpoint: 5 new initial records validated and saved in this invocation (Malcolm Roberts, Paul Scarr, Matt Smith, Phillip Thompson, Andrew Wallace); 0 enriched existing; 0 newly research-complete. Brisbane-day initial additions after remote verification: 24.
+- Progress at this checkpoint: 6 new initial records validated and saved in this invocation (Malcolm Roberts, Paul Scarr, Matt Smith, Phillip Thompson, Andrew Wallace, Larissa Waters); 0 enriched existing; 0 newly research-complete. Brisbane-day initial additions after remote verification: 25.
 - No overlapping remote write or active-run marker was observed. Batch assignment and repository validation pass.
 
 ## Attempt measurement — 2026-09-30 12:00 Brisbane cycle
