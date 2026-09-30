@@ -8,8 +8,8 @@ State: in-progress
 
 ## Durable cursor
 
-- Next initial record: 201906 YOUNG, Terry James.
-- Initial records in this batch: 20/21. The saved blocked records remain unresolved and require later systematic follow-up.
+- Next initial record: none; the QLD-2 initial pass is complete. National processing continues with WA-1 before QLD-2 follow-up.
+- Initial records in this batch: 21/21. All saved blocked records remain unresolved and require later systematic follow-up.
 
 ## Saved records and follow-up
 
@@ -33,19 +33,21 @@ State: in-progress
 - 245759 WATT, the Hon. Murray Patrick: blocked; last review 2026-10-01. Follow-up: Obtain exact dates/hours/leave for private legal and Federal Court roles; resolve 2002 and 2007 transitions and the reported 2008 chief-of-staff/public-service overlap; obtain departmental appointment evidence; resolve Maurice Blackburn 2012-16 boundaries and campaign leave.
 - 264121 WELLS, the Hon. Anika Shay: blocked; last review 2026-10-01. Follow-up: Identify the early aged-care employer; obtain study/admission dates; identify all federal advisory offices/titles/dates; resolve the 2012-14 interval; obtain Maurice Blackburn appointment/hours/leave/cessation and campaign arrangements.
 - 286535 WILLCOX, Andrew: blocked; last review 2026-10-01. Follow-up: Identify farming and small-business entities and exact boundaries; resolve the 22-year private-sector statement against the 2010 farm sale and 2012 council transition; obtain workload evidence; resolve 2022 mayoral leave/resignation and candidate arrangements.
+- 201906 YOUNG, Terry James: blocked; last review 2026-10-01. Follow-up: Obtain exact dates/hours/leave for all employee roles; resolve Chandler ownership wording and 1995-96/2000-01/2013-15 gaps; identify franchise entities/workload; separate post-election franchise ownership from work; obtain campaign arrangements.
 
 Detailed attempted avenues, discrepancies and remaining leads are preserved in each member record; follow-up must read those notes.
 
 ## National coverage
 
-149/226 initial records; 77 unstarted; 149 unresolved; 0 research-complete. Counts use branch-owned remote records plus this commit, not the deployed site.
+150/226 initial records; 76 unstarted; 150 unresolved; 0 research-complete. Counts use branch-owned remote records plus this commit, not the deployed site.
 
 ## Attempt measurement — 2026-10-01 08:00 Brisbane cycle
 
 - Continuation: 0 (scheduled-cycle invocation). Active attempt started: 2026-10-01T07:55:34+10:00.
 - Starting durable national coverage: 146/226; complete: 0; unresolved: 146. Starting QLD-2 head: b782d8e9f183293c97de92cefc6ff342dad34b16.
 - The previous cycle's immediate successor request was accepted asynchronously, but no later remote member commit, checkpoint change or terminal execution report was observable before this cycle. Acceptance is not treated as execution completion.
-- Progress at this checkpoint: 3 new initial records validated and saved in this invocation (Murray Watt, Anika Wells, Andrew Willcox); 0 enriched existing; 0 newly research-complete. Brisbane-day initial additions after remote verification: 3.
+- Progress at this checkpoint: 4 new initial records validated and saved in this invocation (Murray Watt, Anika Wells, Andrew Willcox, Terry Young); 0 enriched existing; 0 newly research-complete. Brisbane-day initial additions after remote verification: 4.
+- QLD-2 initial pass completed at 21/21; the next national initial-record cursor is WA-1.
 - No overlapping remote write or active-run marker was observed. Batch assignment and repository validation pass.
 
 ## Attempt measurement — 2026-09-30 16:00 Brisbane cycle
