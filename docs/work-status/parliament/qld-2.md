@@ -44,6 +44,8 @@ Detailed attempted avenues, discrepancies and remaining leads are preserved in e
 - The noon cycle's immediate successor request was accepted asynchronously, but no later remote member commit, checkpoint change or terminal execution report was observable before this scheduled cycle. Acceptance is not treated as execution completion.
 - Progress at this checkpoint: 7 new initial records validated and saved in this invocation (Malcolm Roberts, Paul Scarr, Matt Smith, Phillip Thompson, Andrew Wallace, Larissa Waters, Elizabeth Watson-Brown); 0 enriched existing; 0 newly research-complete. Brisbane-day initial additions after remote verification: 26.
 - No overlapping remote write or active-run marker was observed. Batch assignment and repository validation pass.
+- Recovered source/tool error: direct search-service access to some `aph.gov.au` pages returned `Blocked by robots.txt`; indexed official text, the Parliamentary Handbook and corroborating sources remained available, so this did not terminate the run.
+- Attempt ended: 2026-09-30T17:00:33+10:00; elapsed 56m 54s. Outcome: Returned normally — no blocking error observed. Error code/message: none. Work remains; exactly one immediate successor is to be requested after this closure checkpoint is remotely verified, as continuation 1 of the 16:00 Brisbane cycle.
 
 ## Attempt measurement — 2026-09-30 12:00 Brisbane cycle
 
