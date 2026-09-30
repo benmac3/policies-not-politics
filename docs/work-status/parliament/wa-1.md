@@ -33,4 +33,4 @@ Detailed attempted avenues, discrepancies and remaining leads are preserved in e
 - Active attempt ended: 2026-10-01T08:19:20+10:00. Observable elapsed time: 23m46s.
 - Run outcome: Returned normally — no blocking error observed. Error code/message: none. Scheduler terminal status: not exposed.
 - Recovered, non-terminal source errors: the search service returned `Blocked by robots.txt` for direct aph.gov.au access and one `Internal Error`/HTTP 403 while opening an indexed APH page; indexed official text and corroborating primary sources remained available.
-- Successor status at closure checkpoint: not yet requested; exactly one immediate continuation will be requested after this checkpoint is remotely verified.
+- Successor status: requested/accepted after the closure checkpoint was remotely verified — result pending. The saved schedule was unchanged; acceptance does not establish execution completion or delivery.
