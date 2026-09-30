@@ -30,3 +30,7 @@ Detailed attempted avenues, discrepancies and remaining leads are preserved in e
 - Progress at this checkpoint: 7 new initial records validated and saved in this invocation (Murray Watt, Anika Wells, Andrew Willcox, Terry Young, Anne Aly, Slade Brockman, Michaelia Cash); 0 enriched existing; 0 newly research-complete. Brisbane-day initial additions after remote verification: 7.
 - QLD-2 initial pass completed at 21/21 and national processing advanced into WA-1.
 - No overlapping remote write or active-run marker was observed. Batch assignment and repository validation pass.
+- Active attempt ended: 2026-10-01T08:19:20+10:00. Observable elapsed time: 23m46s.
+- Run outcome: Returned normally — no blocking error observed. Error code/message: none. Scheduler terminal status: not exposed.
+- Recovered, non-terminal source errors: the search service returned `Blocked by robots.txt` for direct aph.gov.au access and one `Internal Error`/HTTP 403 while opening an indexed APH page; indexed official text and corroborating primary sources remained available.
+- Successor status at closure checkpoint: not yet requested; exactly one immediate continuation will be requested after this checkpoint is remotely verified.
