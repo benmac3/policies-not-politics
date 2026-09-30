@@ -1,0 +1,136 @@
+{
+  "person_id": "I0M",
+  "name": "CASH, the Hon. Michaelia Clare",
+  "snapshot_state": "WA",
+  "snapshot_chamber": "Senator",
+  "snapshot_party": "Liberal Party of Australia",
+  "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/I0M",
+  "research_status": "blocked",
+  "last_reviewed": "2026-10-01",
+  "headline": {
+    "public_full_time_years": null,
+    "private_full_time_years": null,
+    "calculation_status": "not_calculable",
+    "note": "Official, employer-adjacent and first-person biographies consistently identify Cash's legal career at Freehills from 1999 until entering the Senate in 2008. They do not publish exact appointment/cessation dates, hours, leave or campaign arrangements. The 1990-99 period contains travel and legal study but no sufficiently documented employment chronology. No full-time private-sector total is calculated."
+  },
+  "career_spells": [
+    {
+      "spell_id": "I0M-01",
+      "employer": "Freehills (now Herbert Smith Freehills Kramer)",
+      "role": "Solicitor and senior associate, employment and industrial relations",
+      "start_date": "1999",
+      "end_date": "2008-07-01",
+      "date_precision": "mixed",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "private_enterprise",
+      "headline_sector": "private",
+      "government_control_at_time": "private",
+      "counting_status": "insufficient_evidence",
+      "source_ids": ["src-1", "src-2", "src-3", "src-4", "src-5"],
+      "evidence_note": "The official parliamentary biography and multiple professional/party biographies record legal practice at Freehills from 1999 to entry into Parliament in 2008, ultimately as a senior associate in employment and industrial relations. The exact 1999 start, promotion date, hours, leave, election campaign arrangements and final day are not published; 1 July 2008 is the Senate term start, not proved as the employment cessation date.",
+      "counting_note": "Private employment is well supported, but substantive full-time status, exact boundaries and leave are insufficient for a documented full-time-years calculation."
+    },
+    {
+      "spell_id": "I0M-02",
+      "employer": "Liberal Party of Australia",
+      "role": "Party office-holder and Senate candidate",
+      "start_date": "1988",
+      "end_date": "2008-07-01",
+      "date_precision": "mixed",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "party_organisation",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": ["src-1", "src-6"],
+      "evidence_note": "Biographies record Young Liberal, state-council, divisional and state-executive activity before Senate election. No paid party employment is established.",
+      "counting_note": "Party and candidate activity is excluded."
+    },
+    {
+      "spell_id": "I0M-03",
+      "employer": "Parliament of Australia",
+      "role": "Senator for Western Australia",
+      "start_date": "2008-07-01",
+      "end_date": null,
+      "date_precision": "day",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "elected_office",
+      "headline_sector": "excluded",
+      "government_control_at_time": "public",
+      "counting_status": "excluded",
+      "source_ids": ["src-1", "src-6"],
+      "evidence_note": "The official parliamentary biography records election in 2007 with the Senate term beginning 1 July 2008 and subsequent re-elections.",
+      "counting_note": "Federal elected office is excluded."
+    }
+  ],
+  "sources": [
+    {
+      "source_id": "src-1",
+      "url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=I0M",
+      "publisher": "Parliament of Australia",
+      "title": "Senator the Hon Michaelia Cash",
+      "retrieved": "2026-10-01",
+      "source_type": "official_biography",
+      "locator": "Qualifications and occupation before entering Federal Parliament; party positions; Senate service",
+      "note": "Primary official chronology; direct page access was blocked, so indexed official text was used."
+    },
+    {
+      "source_id": "src-2",
+      "url": "https://insight.thomsonreuters.com.au/legal/posts/senator-cash-workplace-reform",
+      "publisher": "Thomson Reuters",
+      "title": "Senator Michaelia Cash's journey from lawyer to workplace reformer",
+      "retrieved": "2026-10-01",
+      "source_type": "primary_employer_or_professional",
+      "locator": "Career biography, 4 April 2016",
+      "note": "Professional profile identifying senior-associate status and 1999-2008 service in Freehills' Perth employment and industrial-relations practice."
+    },
+    {
+      "source_id": "src-3",
+      "url": "https://www.michaeliacash.com.au/about/",
+      "publisher": "Senator Michaelia Cash",
+      "title": "About Michaelia",
+      "retrieved": "2026-10-01",
+      "source_type": "first_person",
+      "locator": "Career before Parliament",
+      "note": "First-person biography describing Cash as a senior Freehills employment and industrial lawyer."
+    },
+    {
+      "source_id": "src-4",
+      "url": "https://www.waliberal.org.au/senator/michaelia-cash/",
+      "publisher": "Liberal Party of Australia (WA Division)",
+      "title": "Senator Michaelia Cash",
+      "retrieved": "2026-10-01",
+      "source_type": "first_person_or_party",
+      "locator": "Biography",
+      "note": "Party biography corroborating senior-lawyer status and the practice area."
+    },
+    {
+      "source_id": "src-5",
+      "url": "https://news.curtin.edu.au/media-releases/curtin-graduate-appointed-minister-for-women-and-minister-for-employment/",
+      "publisher": "Curtin University",
+      "title": "Curtin graduate appointed Minister for Women and Minister for Employment",
+      "retrieved": "2026-10-01",
+      "source_type": "primary_employer_or_professional",
+      "locator": "6 October 2015 graduate profile",
+      "note": "University profile corroborating education and the pre-Parliament legal career."
+    },
+    {
+      "source_id": "src-6",
+      "url": "https://handbook.aph.gov.au/parliamentarians/I0M",
+      "publisher": "Parliamentary Handbook",
+      "title": "CASH, the Hon. Michaelia Clare",
+      "retrieved": "2026-10-01",
+      "source_type": "official_biography",
+      "locator": "Frozen roster and parliamentary service",
+      "note": "Frozen-roster identity and Senate-service source."
+    }
+  ],
+  "research_notes": [
+    "Identify any paid employment between Cash's 1990 Curtin graduation and 1999 Freehills commencement, distinguishing overseas travel and legal study from employment.",
+    "Obtain Freehills appointment, admission and promotion dates, hours, leave and exact cessation, including the 2007 election campaign and interval before the Senate term began on 1 July 2008.",
+    "Confirm whether any Liberal Party position was paid employment rather than party governance or candidacy."
+  ]
+}
