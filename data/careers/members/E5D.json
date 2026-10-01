@@ -6,12 +6,12 @@
   "snapshot_party": "One Nation",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/E5D",
   "research_status": "blocked",
-  "last_reviewed": "2026-09-23",
+  "last_reviewed": "2026-10-01",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
     "calculation_status": "not_calculable",
-    "note": "Joyce's private farm, accounting, banking and self-employment sequence is documented only at year precision without hours, leave or complete employer names. Army Reserve service does not establish a public full-time interval. Study, party activity and elected office are excluded; missing evidence is not zero."
+    "note": "Private farm, nightclub, accounting and self-employment roles lack full-time evidence. Parliamentary testimony identifies QIDC banking employment, initially government-owned and later affected by Suncorp Metway restructuring; the banking interval needs a control-sensitive split. Reserve service is not assumed full-time. Ownership of the practice is distinguished from labour. Missing evidence is not zero."
   },
   "career_spells": [
     {
@@ -27,7 +27,10 @@
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-member-education", "src-secondary"],
+      "source_ids": [
+        "src-member-education",
+        "src-secondary"
+      ],
       "evidence_note": "Joyce's website gives study from 1986 to 1989; sources vary between Bachelor of Accounting, Financial Accounting and Bachelor of Financial Administration wording. Study load and employment overlap are unresolved.",
       "counting_note": "Study is excluded under the codebook."
     },
@@ -44,9 +47,32 @@
       "headline_sector": "private",
       "government_control_at_time": "private",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-snapshot", "src-sbs", "src-secondary"],
+      "source_ids": [
+        "src-snapshot",
+        "src-sbs",
+        "src-secondary"
+      ],
       "evidence_note": "The frozen extract supplies the role and years; biographical accounts place farm work around northern NSW and Queensland and also mention nightclub work without dates. Employers, exact dates, hours, remuneration, leave and continuity are unresolved.",
       "counting_note": "Private farm employment is supported, but no substantive full-time interval is established."
+    },
+    {
+      "employer": "Unidentified nightclub(s)",
+      "role": "Bouncer",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "private_enterprise",
+      "headline_sector": "private",
+      "government_control_at_time": "unknown",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-sbs-bouncer"
+      ],
+      "evidence_note": "SBS biography identifies nightclub bouncer work after university. Venue, employing entity, dates, hours, remuneration, leave and overlap with farm/accounting roles unresolved. No invented allocation into the 1989–1991 farm interval.",
+      "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
+      "spell_id": "E5D-nightclub"
     },
     {
       "spell_id": "E5D-accountant",
@@ -61,26 +87,37 @@
       "headline_sector": "private",
       "government_control_at_time": "private",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-snapshot", "src-member-education"],
+      "source_ids": [
+        "src-snapshot",
+        "src-member-education"
+      ],
       "evidence_note": "The frozen extract gives accountant from 1991 to 1994. Joyce's website says three years at a chartered firm followed by a short American-multinational cost-accounting role, but does not name either employer or identify the transition. Exact dates, hours and leave are unresolved.",
       "counting_note": "Private employment is supported, but employer boundaries and full-time status are not established."
     },
     {
       "spell_id": "E5D-rural-banker",
-      "employer": "Unidentified major regional bank",
+      "employer": "Queensland Industry Development Corporation (QIDC); Suncorp Metway transition requires clarification",
       "role": "Rural banker",
       "start_date": "1994",
       "end_date": "1998",
       "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
-      "category": "private_enterprise",
-      "headline_sector": "private",
-      "government_control_at_time": "unknown",
+      "category": "unknown",
+      "headline_sector": "unknown",
+      "government_control_at_time": "mixed",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-snapshot", "src-member-education", "src-sbs"],
-      "evidence_note": "The frozen record supplies role and years; Joyce's website describes five years with a major regional bank, creating a boundary discrepancy with the official four-year outer range. Employer, government control, exact dates, hours and leave are unresolved.",
-      "counting_note": "Bank employment is supported, but employer control, exact interval and full-time status are not established."
+      "source_ids": [
+        "src-snapshot",
+        "src-member-education",
+        "src-sbs",
+        "src-bank-hansard",
+        "src-house-speech",
+        "src-bank-rba",
+        "src-bank-annual"
+      ],
+      "evidence_note": "Frozen 1994–1998 banking range retained. Joyce names QIDC in 2009 official testimony; his 2013 speech says five years as it moved toward Suncorp Metway. RBA confirms wholly state-owned QIDC before 1 December 1996 merger. The 1998 annual report describes partial sale, capital notes, trustee voting and limited state governance rights. Overall interval is not uniformly private or public: exact payroll transitions, substantive control dates, appointment/departure, hours and leave remain unresolved. Rounded five years does not justify a guessed start.",
+      "counting_note": "Government enterprise employment is identified, but a control-sensitive split of the banking interval and full-time status require further evidence; neither headline total calculated."
     },
     {
       "spell_id": "E5D-accountancy-firm",
@@ -95,8 +132,15 @@
       "headline_sector": "private",
       "government_control_at_time": "private",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-snapshot", "src-member", "src-member-education", "src-secondary"],
-      "evidence_note": "The frozen extract gives self-employed accountant from 1998 to 2005. Narrative sources identify the firm and location but variously say it began in 1999 or operated for ten years. Legal registration, exact start/end, hours, leave, staff and whether work continued after Senate commencement are unresolved; the frozen range is retained.",
+      "source_ids": [
+        "src-snapshot",
+        "src-member",
+        "src-member-education",
+        "src-secondary",
+        "src-abr",
+        "src-abc-business"
+      ],
+      "evidence_note": "The frozen extract gives self-employed accountant from 1998 to 2005. Narrative sources identify the firm and location but variously say it began in 1999 or operated for ten years. Legal registration, exact start/end, hours, leave, staff and whether work continued after Senate commencement are unresolved; the frozen range is retained. ABR identifies sole-trader entity ABN 48 726 796 727 and trading name from 16 December 1999; registration date is not substituted for official 1998 commencement. September 2005 ABC interview says brother Michael had taken over management while Barnaby retained an interest. No evidence that ownership meant continuing paid labour; official 2005 work end retained without inventing exact departure.",
       "counting_note": "Private self-employment is supported, but conflicting boundaries and unknown hours prevent calculation."
     },
     {
@@ -112,7 +156,9 @@
       "headline_sector": "public",
       "government_control_at_time": "public",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-secondary"],
+      "source_ids": [
+        "src-secondary"
+      ],
       "evidence_note": "Secondary material, citing biographical sources, records Army Reserve service from 1996 to 2001. Paid-duty days, hours, rank, breaks and overlap with banking and accountancy work are unresolved; Reserve service is not assumed full-time.",
       "counting_note": "Public military service is supported, but no substantive full-time interval or FTE is established."
     },
@@ -129,7 +175,9 @@
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-secondary"],
+      "source_ids": [
+        "src-secondary"
+      ],
       "evidence_note": "Secondary material records Nationals membership from 1995, Queensland LNP affiliation during Senate service, and resignation from the Nationals on 27 November 2025. Separate party remuneration and hours are unresolved; parliamentary offices are recorded within elected service.",
       "counting_note": "Party activity is excluded under the codebook."
     },
@@ -146,7 +194,10 @@
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-snapshot", "src-secondary"],
+      "source_ids": [
+        "src-snapshot",
+        "src-secondary"
+      ],
       "evidence_note": "The frozen roster gives first federal service; secondary parliamentary chronology gives Senate service from 1 July 2005 until resignation on 8 August 2013.",
       "counting_note": "Elected office is excluded under the codebook."
     },
@@ -163,7 +214,9 @@
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-secondary"],
+      "source_ids": [
+        "src-secondary"
+      ],
       "evidence_note": "Parliamentary chronology records House service from the 7 September 2013 election until the High Court held the 2016 election invalid on 27 October 2017. Ministerial and party-room offices are nested within this spell.",
       "counting_note": "Elected office is excluded under the codebook."
     },
@@ -180,7 +233,10 @@
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-snapshot", "src-secondary"],
+      "source_ids": [
+        "src-snapshot",
+        "src-secondary"
+      ],
       "evidence_note": "Joyce returned at the 2 December 2017 by-election and remains the frozen-roster Member for New England. Ministerial, shadow and party-room offices are nested within elected service. No employment is inferred for the parliamentary gap.",
       "counting_note": "Elected office is excluded under the codebook."
     },
@@ -197,7 +253,10 @@
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-snapshot", "src-secondary"],
+      "source_ids": [
+        "src-snapshot",
+        "src-secondary"
+      ],
       "evidence_note": "The frozen roster identifies One Nation; secondary material records formal joining on 8 December 2025 after a short independent interval. Remuneration and hours are unresolved and parliamentary service is recorded separately.",
       "counting_note": "Party activity is excluded under the codebook."
     }
@@ -252,20 +311,93 @@
       "source_type": "other",
       "locator": "Early life and career; parliamentary chronology; move to crossbench",
       "note": "Secondary synthesis supplies Army Reserve, party and exact parliamentary dates with parliamentary, court, media and biographical citations."
+    },
+    {
+      "url": "https://www.aph.gov.au/~/media/wopapub/senate/senate/commttee/S12270_pdf.ashx",
+      "publisher": "Australian Senate",
+      "title": "Economics References Committee: Bank funding guarantees, 28 July 2009",
+      "source_type": "government_record",
+      "locator": "PDF p22 / testimony: Senator Joyce immediately before question about securitisation",
+      "note": "Joyce directly identifies employment at QIDC before it became Suncorp. No appointment dates or working hours.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-bank-hansard"
+    },
+    {
+      "url": "https://www.openaustralia.org.au/debates/?id=2013-11-14.3.2",
+      "publisher": "OpenAustralia reproduction of House Hansard",
+      "title": "Address-in-Reply, Barnaby Joyce, 14 November 2013, 9:01 am",
+      "source_type": "other",
+      "locator": "Paragraph beginning The clarity to these views; following paragraph",
+      "note": "First-person speech states five years with QIDC and names colleagues as organisation moved toward Suncorp Metway merger. Original Hansard link returned Internal Error; accessible reproduction read. Rounded duration not converted into precise dates.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-house-speech"
+    },
+    {
+      "url": "https://www.rba.gov.au/publications/bulletin/1997/dec/2.html",
+      "publisher": "Reserve Bank of Australia",
+      "title": "Privatisation in Australia, December 1997",
+      "source_type": "government_record",
+      "locator": "Table footnote(e)",
+      "note": "QIDC and Suncorp wholly Queensland Government-owned before merger with Metway on 1 December 1996; subsequent share sell-down.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-bank-rba"
+    },
+    {
+      "url": "https://www.suncorpgroup.com.au/assets/documents/suncorpgroup/reports/1998-consolidated-annual-report-0.pdf",
+      "publisher": "Suncorp Metway",
+      "title": "1998 consolidated annual report",
+      "source_type": "employer",
+      "locator": "Printed pp3,6–7 capital structure; p27 Corporate Governance; p107 noteholders",
+      "note": "State interest, note conversion and governance rights complicate treating headline ownership percentages as control. Government limited to four of nine directors and covenanted not to conduct operations; noteholders could direct trustee votes.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-bank-annual"
+    },
+    {
+      "url": "https://abr.business.gov.au/AbnHistory/View?id=48726796727",
+      "publisher": "Australian Business Register",
+      "title": "Historical details for ABN 48 726 796 727",
+      "source_type": "government_record",
+      "locator": "Entity name, ABN status, entity type and trading-name tables; extracted 1 October 2026",
+      "note": "Barnaby Thomas Joyce sole trader; active ABN and Barnaby Joyce & Co trading name from 16 December 1999. Registration is not actual work commencement or proof of continuing labour; historical trading-name records stopped being updated in 2012.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-abr"
+    },
+    {
+      "url": "https://www.abc.net.au/listen/programs/backgroundbriefing/barnaby-joyce-a-most-interesting-senator/3370114",
+      "publisher": "ABC Radio National",
+      "title": "Barnaby Joyce: A Most Interesting Senator, 11 September 2005",
+      "source_type": "news",
+      "locator": "Transcript: visit to St George practice; Michael Joyce interview",
+      "note": "Brother Michael says he has taken over running the practice while Barnaby retains an interest. Establishes ownership/management distinction after Senate commencement, not Barnaby’s continuing work hours.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-abc-business"
+    },
+    {
+      "url": "https://www.sbs.com.au/news/article/the-battle-for-deputy-prime-minister-barnaby-joyce-vs-richard-marles/pndy2h1kh",
+      "publisher": "SBS News",
+      "title": "The battle for deputy prime minister: Barnaby Joyce vs Richard Marles, 2022",
+      "source_type": "news",
+      "locator": "Joyce early-career section",
+      "note": "Reports post-graduation farm work, rural banking and nightclub bouncer employment; individual venue and precise dates not supplied.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-sbs-bouncer"
     }
   ],
   "research_notes": [
     "The frozen official 1998–2005 self-employment range is retained despite narrative claims that Barnaby Joyce & Co. began in 1999 and operated for ten years.",
     "Unnamed early employers remain unresolved rather than being guessed from industry descriptions.",
     "Army Reserve service overlapped private employment and is not treated as full-time public employment.",
-    "House service is split around the 2017 High Court disqualification and by-election; no work is invented for the gap."
+    "House service is split around the 2017 High Court disqualification and by-election; no work is invented for the gap.",
+    "2026-10-01 follow-up: primary Senate testimony resolves QIDC identity; RBA history and 1998 employer report replace unsupported private-bank classification with unresolved mixed-control interval. No whole-period public total inferred from state ownership before merger.",
+    "Business-register identity and contemporaneous ABC brother interview resolve registration and ownership/management distinctions; separate nightclub role added without guessed dates. Searched chartered-firm/multinational names, bank/history reports and Reserve sources; no exact hours, early employer identities or service-duty records found. Member education page timed out; old ABC URL inaccessible, current ABC transcript recovered. Original 2013 Hansard link inaccessible; reproduction labelled. Continue with payroll/control records, original practice succession documents and specific employer identities."
   ],
   "open_questions": [
     "Which farms employed Joyce from 1989 to 1991, and what were the dates, hours and breaks, including any nightclub work?",
     "What were the names, exact dates, hours and leave for the chartered accountancy firm and American multinational roles?",
-    "Which regional bank employed Joyce, under what government control, and on what exact dates and hours?",
-    "What were Barnaby Joyce & Co.'s registration, operating dates, staff, hours, leave and any continuation after July 2005?",
     "What paid-duty days, rank, hours and breaks applied to Army Reserve service?",
-    "Was there paid non-parliamentary work during the 27 October–2 December 2017 eligibility gap?"
+    "Was there paid non-parliamentary work during the 27 October–2 December 2017 eligibility gap?",
+    "What were precise QIDC/Suncorp payroll and control transitions, working hours and leave within official 1994–1998 banking range, and how does the five-year narrative reconcile?",
+    "When did Michael take over practice management, when did Barnaby cease personal client work, and what hours/leave applied before and after Senate commencement? ABR dates alone cannot answer.",
+    "Which nightclub employed Joyce, on what dates and work pattern?"
   ]
 }
