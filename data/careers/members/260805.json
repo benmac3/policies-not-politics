@@ -1,0 +1,219 @@
+{
+  "person_id": "260805",
+  "name": "HASTIE, the Hon. Andrew William",
+  "snapshot_state": "WA",
+  "snapshot_chamber": "Member",
+  "snapshot_party": "Liberal Party of Australia",
+  "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/260805",
+  "research_status": "blocked",
+  "last_reviewed": "2026-10-01",
+  "headline": {
+    "public_full_time_years": null,
+    "private_full_time_years": null,
+    "calculation_status": "not_calculable",
+    "note": "Full-time Army employment is explicitly supported, with official officer service from 2007 and resignation in August 2015. Mixed date precision, earlier training treatment and service breaks prevent an exact headline total. A conditional elapsed boundary envelope is documented separately."
+  },
+  "career_spells": [
+    {
+      "employer": "Australian Army Reserve, University of New South Wales Regiment",
+      "role": "Part-time reservist / officer cadet",
+      "start_date": "2001",
+      "end_date": "2002",
+      "date_precision": "year",
+      "employment_status": "part_time",
+      "fte_fraction": null,
+      "category": "public_service",
+      "headline_sector": "public",
+      "government_control_at_time": "public",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-6"
+      ],
+      "evidence_note": "Secondary evidence describes reserve service before ADFA transfer; hours and exact dates unresolved.",
+      "counting_note": "Part-time reserve service excluded from full-time headline; not treated as a full-time year.",
+      "spell_id": "260805-01"
+    },
+    {
+      "employer": "Australian Defence Force, ADFA and Royal Military College Duntroon",
+      "role": "Cadet / officer trainee",
+      "start_date": "2003",
+      "end_date": "2006",
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "public_service",
+      "headline_sector": "public",
+      "government_control_at_time": "public",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-2",
+        "src-5",
+        "src-6"
+      ],
+      "evidence_note": "Secondary ADFA start, primary Duntroon graduation. Salaried-service status and precise boundaries need personnel evidence; study and military employment must not be duplicated.",
+      "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
+      "spell_id": "260805-02"
+    },
+    {
+      "employer": "Australian Army, 2nd Cavalry Regiment and Special Air Service Regiment",
+      "role": "Army officer / troop commander",
+      "start_date": "2007",
+      "end_date": "2015-08",
+      "date_precision": "mixed",
+      "employment_status": "full_time",
+      "fte_fraction": null,
+      "category": "public_service",
+      "headline_sector": "public",
+      "government_control_at_time": "public",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-1",
+        "src-2",
+        "src-3",
+        "src-4",
+        "src-5",
+        "src-7"
+      ],
+      "evidence_note": "Official officer range starts 2007; own interview explicitly describes resignation from full-time Army in August 2015. Deployments and SAS transfer are roles within the same employer, not additional overlapping jobs.",
+      "counting_note": "Full-time status supported by first-person statement, but year/month precision and continuity/leave are unresolved. No exact total or assumed 1 January boundary.",
+      "spell_id": "260805-03"
+    },
+    {
+      "employer": "Australian Army Standby Reserve",
+      "role": "Inactive standby membership",
+      "start_date": "2015-08",
+      "end_date": "2016-06",
+      "date_precision": "month",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "public_service",
+      "headline_sector": "excluded",
+      "government_control_at_time": "public",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-3"
+      ],
+      "evidence_note": "Own account says no unit assignment, parade or responsibilities; reported removal in June 2016. Not continuing full-time Army employment.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "260805-04"
+    },
+    {
+      "employer": "UNSW / ADFA / Harvard Extension School",
+      "role": "University and later certificate study",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-2",
+        "src-5",
+        "src-6"
+      ],
+      "evidence_note": "Separate education context; ADFA study overlaps military training, and later certificate overlaps Parliament.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "260805-05"
+    },
+    {
+      "employer": "Parliament of Australia",
+      "role": "Member for Canning",
+      "start_date": "2015-09-19",
+      "end_date": null,
+      "date_precision": "day",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "elected_office",
+      "headline_sector": "excluded",
+      "government_control_at_time": "public",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-1"
+      ],
+      "evidence_note": "Frozen first-service date; campaign period not automatically employment.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "260805-06"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://handbook.aph.gov.au/parliamentarians/260805",
+      "publisher": "Parliament of Australia",
+      "title": "Frozen Parliamentary Handbook occupation and service extract",
+      "source_type": "official_biography",
+      "locator": "data/parliament.json; roster 260805; snapshot 2026-09-10",
+      "note": "Frozen official occupations and first-service evidence read from repository; roster not refreshed.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-1"
+    },
+    {
+      "url": "https://www.minister.defence.gov.au/previous-ministers/2020-12/andrew-hastie",
+      "publisher": "Department of Defence",
+      "title": "Former minister Andrew Hastie biography",
+      "source_type": "employer",
+      "locator": "Minister profile",
+      "note": "Duntroon graduation 2006; cavalry deployment 2009; SAS selection 2010; deployment 2013; resignation 2015.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-2"
+    },
+    {
+      "url": "https://www.yourlocalexaminer.com.au/hastie-to-tighten-his-admin/",
+      "publisher": "Your Local Examiner / Andrew Hastie interview",
+      "title": "Hastie to tighten his admin, 16 June 2016",
+      "source_type": "news",
+      "locator": "Paragraphs on full-time Army resignation and standby reserves",
+      "note": "Direct first-person statement identifies full-time service ending August 2015, followed by inactive standby reserve.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-3"
+    },
+    {
+      "url": "https://www.andrewhastie.com.au/about",
+      "publisher": "Andrew Hastie MP",
+      "title": "About Andrew",
+      "source_type": "official_biography",
+      "locator": "Former career",
+      "note": "Corroborates 2nd Cavalry Regiment and SASR service.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-4"
+    },
+    {
+      "url": "https://assets.nationbuilder.com/andrewhastie/pages/414/attachments/original/1780367607/260602-_Updated_Hon_Andrew_Hastie_MP_Bio.pdf?1780367607=",
+      "publisher": "Andrew Hastie MP",
+      "title": "Formal biography, June 2026",
+      "source_type": "official_biography",
+      "locator": "p.1 training and military service",
+      "note": "Formal biography corroborates Defence account without precise employment boundaries.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-5"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Andrew_Hastie",
+      "publisher": "Wikipedia",
+      "title": "Andrew Hastie",
+      "source_type": "other",
+      "locator": "Early life and military career",
+      "note": "Secondary evidence for 2001–02 part-time UNSW Regiment and 2003 ADFA transfer; primary personnel confirmation remains required.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-6"
+    },
+    {
+      "url": "https://www.abc.net.au/news/2015-08-22/wa-state-liberal-conference-to-focus-on-canning-by-election/6716360",
+      "publisher": "ABC News",
+      "title": "Combat skills will benefit Canning electorate",
+      "source_type": "news",
+      "locator": "22 August 2015 candidate profile",
+      "note": "Contemporaneous former-soldier/candidate status corroborates 2015 transition.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-7"
+    }
+  ],
+  "research_notes": [
+    "2026-10-01 avenues: official frozen range, Defence employer biography, own formal biography, direct reported 2016 interview, ABC transition report, secondary reserve chronology and targeted full-time searches. Army Research Centre contributor page supplies no substantive biography.",
+    "Obtain precise reserve-to-regular transfer, ADFA and Duntroon salaried-service periods, commissioning date, actual separation date and non-service breaks. Determine whether earlier paid civilian work exists.",
+    "Calculation note: the 2007 to August 2015 officer labels imply an elapsed boundary envelope of approximately 7.58–8.67 years (earliest/latest calendar boundaries, days divided by 365.2425); this is not a certified continuous full-time-years total, does not include pre-2007 training and is not written into the headline. No new aggregation convention is introduced.",
+    "Do not count inactive standby membership after August 2015 as full-time service. Part-time UNSW Regiment service is separate; do not sum deployment durations on top of Army tenure."
+  ]
+}
