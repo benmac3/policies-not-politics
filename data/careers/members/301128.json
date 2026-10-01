@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/301128",
   "research_status": "blocked",
-  "last_reviewed": "2026-09-12",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -38,9 +38,9 @@
       "spell_id": "301128-02",
       "employer": "Australian Services Union",
       "role": "Earlier organiser / assistant branch secretary",
-      "start_date": null,
+      "start_date": "2000",
       "end_date": null,
-      "date_precision": "unknown",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "union",
@@ -49,9 +49,10 @@
       "counting_status": "excluded",
       "source_ids": [
         "src-2",
-        "src-4"
+        "src-4",
+        "oct2-genvic"
       ],
-      "evidence_note": "Assistant branch secretary documented in 2011; early role boundaries not verified.",
+      "evidence_note": "Assistant branch secretary documented in 2011; early role boundaries not verified. Conference biography establishes organiser start2000; subsequent promotion boundaries still unknown. Not a continuous organiser title across later offices.",
       "counting_note": "Outside the two employment headlines under the codebook; retained as career context."
     },
     {
@@ -127,9 +128,11 @@
       "government_control_at_time": "public",
       "counting_status": "insufficient_evidence",
       "source_ids": [
-        "src-1"
+        "src-1",
+        "oct2-genvic",
+        "oct2-first"
       ],
-      "evidence_note": "Official department employment dates overlap union presidency. Secondment/payroll arrangements and FTE require confirmation.",
+      "evidence_note": "Official department employment dates overlap union presidency. Secondment/payroll arrangements and FTE require confirmation. Conference host explicitly describes departmental secondment, but payroll, hours and exact dates remain absent. Own speech situates family-violence reform work after2016 royal commission; no2006 departmental date adopted.",
       "counting_note": "Not counted: dates and/or substantive full-time status are insufficiently evidenced; year labels are not exact boundaries."
     },
     {
@@ -146,18 +149,19 @@
       "government_control_at_time": "private",
       "counting_status": "excluded",
       "source_ids": [
-        "src-1"
+        "src-1",
+        "oct2-genvic"
       ],
-      "evidence_note": "Official months retained; overlapping elected-office transition does not create double counting.",
+      "evidence_note": "Official months retained; overlapping elected-office transition does not create double counting. Conference bio gives June2018 commencement versus APHMay2018. Retain existing official date pending election/assumption documentation.",
       "counting_note": "Outside the two employment headlines under the codebook; retained as career context."
     },
     {
       "spell_id": "301128-08",
       "employer": "Vision Super",
       "role": "Board member",
-      "start_date": "2018",
-      "end_date": "2024",
-      "date_precision": "year",
+      "start_date": "2018-03-06",
+      "end_date": "2024-05-10",
+      "date_precision": "day",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "unknown",
@@ -167,18 +171,20 @@
       "source_ids": [
         "src-1",
         "src-2",
-        "src-5"
+        "src-5",
+        "oct2-vision",
+        "oct2-visionmirror"
       ],
-      "evidence_note": "Board role overlaps union office.",
+      "evidence_note": "Board role overlaps union office. Employer2024 report supplies exact boundaries.2024 directors fees were paid directly to nominating union; do not treat as separate personal salary or FT job.",
       "counting_note": "Outside the two employment headlines under the codebook; retained as career context."
     },
     {
       "spell_id": "301128-09",
       "employer": "Vision Super",
       "role": "Chair",
-      "start_date": "2021",
-      "end_date": "2024",
-      "date_precision": "year",
+      "start_date": "2021-07-01",
+      "end_date": "2024-05-10",
+      "date_precision": "day",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "unknown",
@@ -188,7 +194,9 @@
       "source_ids": [
         "src-1",
         "src-2",
-        "src-5"
+        "src-5",
+        "oct2-vision",
+        "oct2-visionmirror"
       ],
       "evidence_note": "Subset of board interval, not another job-year stream.",
       "counting_note": "Outside the two employment headlines under the codebook; retained as career context."
@@ -271,6 +279,82 @@
       ],
       "evidence_note": "Casual-vacancy appointment and ongoing service at snapshot.",
       "counting_note": "Outside the two employment headlines under the codebook; retained as career context."
+    },
+    {
+      "employer": "Safeway",
+      "role": "First retail job",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "part_time",
+      "fte_fraction": null,
+      "category": "private_enterprise",
+      "headline_sector": "private",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "oct2-first"
+      ],
+      "evidence_note": "Own first speech explicitly says part-time. No job dates or FTE; family strike narrative is not a calendar boundary. Excluded from substantive full-time headline.",
+      "counting_note": "Explicit part-time work is outside substantive full-time headline; no FTE conversion.",
+      "spell_id": "301128-safeway"
+    },
+    {
+      "employer": "Victorian Trades Hall Council",
+      "role": "Seconded role, duties unspecified",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "union",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "oct2-genvic"
+      ],
+      "evidence_note": "Conference biography confirms a separate Trades Hall secondment, without dates or detailed role; do not merge it into department employment.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "301128-vthc"
+    },
+    {
+      "employer": "Victorian Government Equal Workplaces Advisory Committee",
+      "role": "Committee member",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "excluded",
+      "government_control_at_time": "public",
+      "counting_status": "excluded",
+      "source_ids": [
+        "oct2-genvic"
+      ],
+      "evidence_note": "Advisory appointment listed in conference biography; no paid substantive employment or exact tenure evidenced.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "301128-equalwork"
+    },
+    {
+      "employer": "Vision Super",
+      "role": "Deputy chair",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "oct2-genvic"
+      ],
+      "evidence_note": "Conference biography identifies deputy chair before later chair tenure; date boundaries absent. Nested board role, not extra employment years.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "301128-visiondeputy"
     }
   ],
   "sources": [
@@ -323,12 +407,55 @@
       "source_type": "employer",
       "locator": "Career/biography or relevant appointment section",
       "note": "Board and chair context, not an executive employee appointment."
+    },
+    {
+      "url": "https://lisadarmanin.com.au/media/senator-lisa-darmanins-first-speech/",
+      "publisher": "Lisa Darmanin",
+      "title": "First speech,21 August2024",
+      "source_type": "other",
+      "locator": "Early family/first job paragraphs; family-violence reform passage",
+      "note": "Explicit first job at Safeway was part-time; personal24-year ASU description; Victorian reform work after2016 royal commission context.",
+      "retrieved": "2026-10-02",
+      "source_id": "oct2-first"
+    },
+    {
+      "url": "https://www.genvic.org.au/events/past-events/defining-equity-gender-equity-practice-and-exchange-conference/",
+      "publisher": "Gender Equity Victoria",
+      "title": "Defining Equity conference speaker biographies",
+      "source_type": "other",
+      "locator": "Lisa Darmanin (ASU) biography",
+      "note": "Organiser since2000; department and Trades Hall secondments, undated; Vision March2018 appointment and deputy chair; Equal Workplaces Advisory Committee. Gives secretaryJune2018, differing from APHMay2018.",
+      "retrieved": "2026-10-02",
+      "source_id": "oct2-genvic"
+    },
+    {
+      "url": "https://www.visionsuper.com.au/wp-content/uploads/LASF-Financial-Statements-2024.pdf",
+      "publisher": "Vision Super",
+      "title": "Local Authorities Superannuation Fund financial statements2024",
+      "source_type": "employer",
+      "locator": "Directors report p2; remuneration report, Lisa Darmanin row and footnote10",
+      "note": "Director6 March2018–10 May2024; chair1 July2021–10 May2024.2024 fees paid to nominating union, not personal salary; indexed remuneration row verified on employer docs mirror.",
+      "retrieved": "2026-10-02",
+      "source_id": "oct2-vision"
+    },
+    {
+      "url": "https://docs.visionsuper.com.au/reports/lasf-financial-statements-2024",
+      "publisher": "Vision Super",
+      "title": "Financial statements2024, employer document mirror",
+      "source_type": "employer",
+      "locator": "Remuneration table, Lisa Darmanin",
+      "note": "Indexed full row provides exact director and chair dates.",
+      "retrieved": "2026-10-02",
+      "source_id": "oct2-visionmirror"
     }
   ],
   "research_notes": [
     "Blocked: public department spell dated only to years with unresolved full-time/secondment status. Board roles and union jobs do not contribute to the two narrow headlines.",
     "Official, personal, employer annual-report and regulator-hosted union evidence checked. Public LinkedIn returned 999; no bypass attempted.",
     "Some secondary sources conflate 2006 and 2016 departmental secondment, and party biography gives 2017 branch-secretary timing against APH May 2018. Retain official dates pending primary appointment confirmation.",
-    "Direct full-time evidence found for one excluded union reporting interval; this is not transferred to the 2016–2017 department role. Earlier ASU dates still need primary confirmation."
+    "Direct full-time evidence found for one excluded union reporting interval; this is not transferred to the 2016–2017 department role. Earlier ASU dates still need primary confirmation.",
+    "Follow-up2026-10-02: added explicitly part-time Safeway first job, organiser start2000, confirmed department and Trades Hall secondments, recovered Vision exact board/chair dates and deputy role, and Equal Workplaces advisory membership.",
+    "Searches of official/state, union, employer and conference records did not resolve department hours, payroll or exact secondment dates, or early ASU promotion dates.2006 date in derivative biographies remains unadopted.2024 Vision fees paid to union are not personal full-time employment evidence.",
+    "Next follow-up: DPC appointment/secondment agreement or staff biography; historical ASU reports covering assistant-secretary appointment and2018 transition. Preserve headline nulls pending supported public FT interval; partial private job is not proof of zero lifetime FT work."
   ]
 }
