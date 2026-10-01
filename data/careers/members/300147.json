@@ -6,7 +6,7 @@
   "snapshot_party": "Liberal Party of Australia",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/300147",
   "research_status": "blocked",
-  "last_reviewed": "2026-09-29",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -89,18 +89,19 @@
       "counting_status": "insufficient_evidence",
       "source_ids": [
         "src-2",
-        "src-4"
+        "src-4",
+        "src-6"
       ],
-      "evidence_note": "Succeeded snack-food role and preceded 2019 digital-industry transition. Exact start, intra-company titles and hours require confirmation; role seniority does not prove full-time status.",
+      "evidence_note": "Succeeded snack-food role and preceded 2019 digital-industry transition. Exact start, intra-company titles and hours require confirmation; role seniority does not prove full-time status. Profile places Mars Wrigley role Dec2017–May2019; earlier Wrigley service remains unverified.",
       "counting_note": "Dates, employer control and/or substantive full-time status remain insufficient for a duration calculation; unknown is not zero."
     },
     {
       "spell_id": "300147-05",
       "employer": "Ritual",
-      "role": "Partnerships and growth roles in Asia Pacific",
-      "start_date": "2019",
-      "end_date": null,
-      "date_precision": "mixed",
+      "role": "Regional partnerships manager; growth senior manager; APAC partnerships head",
+      "start_date": "2019-05",
+      "end_date": "2022-06",
+      "date_precision": "month",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "private_enterprise",
@@ -109,18 +110,19 @@
       "counting_status": "insufficient_evidence",
       "source_ids": [
         "src-2",
-        "src-4"
+        "src-4",
+        "src-6"
       ],
-      "evidence_note": "Startup named in interview; 2019 transition supplied by biography. Equity compensation supports employee context, not full-time hours or end date.",
+      "evidence_note": "Profile dates regional role from May2019, growth Jan2020–May2021, head May2021–Jun2022. Potential overlap with May2022 election retained; hours and leave unknown.",
       "counting_note": "Dates, employer control and/or substantive full-time status remain insufficient for a duration calculation; unknown is not zero."
     },
     {
       "spell_id": "300147-06",
       "employer": "Office of Senator James Paterson",
-      "role": "Adviser",
-      "start_date": null,
-      "end_date": null,
-      "date_precision": "unknown",
+      "role": "Electorate officer / adviser",
+      "start_date": "2016-03",
+      "end_date": "2016-09",
+      "date_precision": "month",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "political_staff",
@@ -128,9 +130,10 @@
       "government_control_at_time": "public",
       "counting_status": "excluded",
       "source_ids": [
-        "src-5"
+        "src-5",
+        "src-6"
       ],
-      "evidence_note": "Former staff role documented by 2021 reporting. Dates and possible overlap with commercial work remain unknown; excluded from both headlines.",
+      "evidence_note": "Public profile dates electorate-office role; contemporary2021 reporting calls him a former adviser. Political staffing excluded.",
       "counting_note": "Excluded from the two employment headlines under the codebook."
     },
     {
@@ -241,6 +244,16 @@
       "source_type": "news",
       "locator": "December 2021–January 2022 issue 82, printed page 9",
       "note": "Contemporaneous report describes Violi as a former adviser to Senator James Paterson; no tenure supplied."
+    },
+    {
+      "url": "https://au.linkedin.com/in/aaronviolimp",
+      "publisher": "Aaron Violi",
+      "title": "Public professional profile",
+      "source_type": "professional_profile",
+      "locator": "Public search-index Experience snippets:Paterson,Ritual,Mars Wrigley",
+      "note": "Paterson electorate officer Mar–Sep2016; Ritual regional partnerships from May2019, growth Jan2020–May2021, head of partnerships May2021–Jun2022; Mars Wrigley Dec2017–May2019. No full-time label retrieved.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-6"
     }
   ],
   "research_notes": [
@@ -248,6 +261,7 @@
     "2026-09-29 checked frozen APH occupations, member first speech/about page, Liberal biography, IPAC profile, September 2026 interview publisher and contemporaneous 2021 local reporting. Targeted Mars/Ritual/Paterson searches located contact-aggregator dates but these were not accepted as employment evidence. LinkedIn URL linked by interview publisher returned 999; no access restriction bypassed.",
     "Frozen occupation labels retained here for future reconciliation: Head of Partnerships; Senior Manager; Regional Partnerships Manager; Field Sales Head; Field Sales Manager; National Sales Manager. They cannot yet be individually dated or conclusively mapped to each employer, so employer-level spells avoid inventing six additive tenures.",
     "The fifteen-year commercial-career narrative cannot establish fifteen substantive full-time years, particularly with an undated political-staff spell. Approximate seven-year snack-food duration is preserved only in evidence prose. No duration arithmetic or double counting applied.",
-    "Member's current about page mentions local business work, community volunteering and sporting committees but does not add an employment chronology. Last follow-up 2026-09-29; unresolved cases remain blocked, not complete."
+    "Member's current about page mentions local business work, community volunteering and sporting committees but does not add an employment chronology. Last follow-up 2026-09-29; unresolved cases remain blocked, not complete.",
+    "2026-10-02 follow-up: publicly indexed professional profile supplies month boundaries for Paterson political staffing and Ritual, plus Mars Wrigley interval. No direct LinkedIn retry or gated access. Snack-food profile snippet describes eight years one month versus biography seven-year narrative; exact original entry boundaries need verification before changing2007 start. Aggregator suggests earlier Wrigley and several snack-food positions, but these remain leads, not adopted dates. Next: original dated employer records and hours,Prestige catering dates,snack-food start conflict and2022 Ritual/election overlap. Do not sum promotions or assume stock options mean full-time. Remains unresolved."
   ]
 }
