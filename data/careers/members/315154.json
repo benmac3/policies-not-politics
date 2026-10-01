@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/315154",
   "research_status": "blocked",
-  "last_reviewed": "2026-09-14",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -57,7 +57,7 @@
     },
     {
       "spell_id": "315154-03",
-      "employer": "Unidentified other public and specialist schools",
+      "employer": "Unidentified other public, private and specialist schools",
       "role": "Teacher",
       "start_date": null,
       "end_date": null,
@@ -69,9 +69,10 @@
       "government_control_at_time": "unknown",
       "counting_status": "insufficient_evidence",
       "source_ids": [
-        "src-3"
+        "src-3",
+        "oct2-abc"
       ],
-      "evidence_note": "First speech names categories of schools, not employers or intervals. May overlap Sale College; not added as independent elapsed years.",
+      "evidence_note": "First speech names categories of schools, not employers or intervals. May overlap Sale College; not added as independent elapsed years. ABC2022 also reports private-school teaching, so not all unnamed school employment can be classified public. School-by-school employer control remains unresolved.",
       "counting_note": "Not counted: dates and/or substantive full-time status are insufficiently evidenced; year labels are not exact boundaries."
     },
     {
@@ -127,9 +128,11 @@
       "government_control_at_time": "private",
       "counting_status": "excluded",
       "source_ids": [
-        "src-2"
+        "src-2",
+        "oct2-youthlaw13",
+        "oct2-youthlaw17"
       ],
-      "evidence_note": "Employer biography reports four years; boundaries absent, board service not assumed full-time employment.",
+      "evidence_note": "Employer biography reports four years; boundaries absent, board service not assumed full-time employment. Primary reports now establish secretary observation in2012–13 and secretary service ending13 November2016, successor from14 November2016. Combined board/secretary entry retains null boundaries because board departure and appointment date are not expressly established; four-year description is not converted to exact dates.",
       "counting_note": "Outside the two employment headlines under the codebook; retained as career context."
     },
     {
@@ -240,12 +243,45 @@
       "source_type": "employer",
       "locator": "Career/biography or relevant appointment section",
       "note": "Public search extract confirms former colleagues after election; exact cessation date absent."
+    },
+    {
+      "url": "https://youthlaw.asn.au/wp-content/uploads/2016/05/Youthlaw-AR-2012-2013-FINAL.pdf",
+      "publisher": "Youthlaw",
+      "title": "Annual Report2012–2013",
+      "source_type": "employer",
+      "locator": "Printed p10, Youthlaw Board2012–13",
+      "note": "Matthew Gregg listed as secretary; observation within report period, not appointment date.",
+      "retrieved": "2026-10-02",
+      "source_id": "oct2-youthlaw13"
+    },
+    {
+      "url": "https://youthlaw.asn.au/wp-content/uploads/2016/05/Youthlaw-Annual-Report-2016-17.pdf",
+      "publisher": "Youthlaw",
+      "title": "Annual Report2016–17",
+      "source_type": "employer",
+      "locator": "Printed p23, board list; successor secretary from14 November2016",
+      "note": "Gregg secretary to13 November2016; board and staff lists separate. Does not expressly give separate board-member departure.",
+      "retrieved": "2026-10-02",
+      "source_id": "oct2-youthlaw17"
+    },
+    {
+      "url": "https://www.abc.net.au/news/elections/federal/2022/guide/deak",
+      "publisher": "ABC News",
+      "title": "Deakin2022 candidate guide",
+      "source_type": "news",
+      "locator": "Matt Gregg candidate biography (not adjoining Michael Sukkar biography)",
+      "note": "Reports teaching in regional/metro public/private/specialist schools. No school names, intervals or full-time status.",
+      "retrieved": "2026-10-02",
+      "source_id": "oct2-abc"
     }
   ],
   "research_notes": [
     "Blocked: teaching and legal employment are documented but full-time status and full appointment boundaries remain unavailable after employer post, first speech, local reporting and targeted employment/school searches.",
     "The first speech's explicit full-time schoolteacher reference describes his mother, not Gregg. It is not evidence for his hours.",
     "Do not assign Gabriel Ng's court or public-service roles from the joint employer post to Gregg. Unrelated sports and overseas namesakes were excluded.",
-    "Four-year board tenure, study and honorary student-association membership do not count toward employment headlines."
+    "Four-year board tenure, study and honorary student-association membership do not count toward employment headlines.",
+    "Follow-up2026-10-02: Youthlaw annual reports recover secretary observation2012–13 and departure13 November2016; governance remains excluded and not assumed paid. ABC identifies private as well as public/specialist school teaching, requiring employer-by-employer classification.",
+    "Searched university staff/course records, school history, association records and annual reports for legal and teaching boundaries. Public LinkedIn profile open returned (429) Too Many Requests; no retry in this cycle. Source-specific rate limit did not terminate research using other sources. Unrelated overseas trainer, engineer and lawyer namesakes excluded.",
+    "Next leads: school employment biography naming each institution and status; university appointment evidence; earlier law-firm employer and dates. Aggregated contact-profile claims are not adopted as employment evidence. Existing employer January2019 Slater and Gordon appointment retained; senior title does not prove full-time."
   ]
 }
