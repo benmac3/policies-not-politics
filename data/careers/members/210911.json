@@ -6,7 +6,7 @@
   "snapshot_party": "Liberal Party of Australia",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/210911",
   "research_status": "blocked",
-  "last_reviewed": "2026-09-29",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -74,7 +74,7 @@
     },
     {
       "spell_id": "210911-04",
-      "employer": "University of Melbourne; University of Kent; Monash University",
+      "employer": "University of Melbourne; University of Kent",
       "role": "University student",
       "start_date": null,
       "end_date": null,
@@ -89,7 +89,7 @@
         "src-1",
         "src-3"
       ],
-      "evidence_note": "Degree periods unestablished; study breaks require chronological reconciliation.",
+      "evidence_note": "Melbourne and Kent course boundaries unknown; Monash graduation separately recorded. Study and farm/bar-work breaks require chronological reconciliation.",
       "counting_note": "Excluded from the two employment headlines under the codebook."
     },
     {
@@ -116,7 +116,7 @@
     {
       "spell_id": "210911-06",
       "employer": "Department of Foreign Affairs and Trade, Australian Embassy Mexico",
-      "role": "Diplomat",
+      "role": "Diplomat; second secretary documented May1999",
       "start_date": "1999",
       "end_date": "2001",
       "date_precision": "year",
@@ -129,9 +129,10 @@
       "source_ids": [
         "src-1",
         "src-2",
-        "src-4"
+        "src-4",
+        "src-6"
       ],
-      "evidence_note": "Mexico embassy identified; retain separate official date interval pending continuity evidence.",
+      "evidence_note": "Mexico embassy identified; retain separate official date interval pending continuity evidence. Contemporary May1999 delegation report names him second secretary in Mexico and Oceania representative on credentials committee. This corroborates a posting snapshot, not full-time duration.",
       "counting_note": "Dates, employer control and/or substantive full-time status remain insufficient for a duration calculation; unknown is not zero."
     },
     {
@@ -249,6 +250,25 @@
       ],
       "evidence_note": "Frozen roster date retained; continuing elected office excluded.",
       "counting_note": "Excluded from the two employment headlines under the codebook."
+    },
+    {
+      "employer": "Monash University",
+      "role": "Master of Foreign Affairs and Trade student",
+      "start_date": null,
+      "end_date": "1999",
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-7"
+      ],
+      "evidence_note": "University alumni entry gives1999 graduation; no enrolment start, study load or DFAT leave evidence. Potential overlap with public employment retained.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "210911-13"
     }
   ],
   "sources": [
@@ -301,12 +321,33 @@
       "source_type": "government_record",
       "locator": "Status; DFAT replies 4 June and 2 July 2026",
       "note": "Existing public request refused; no employment records disclosed in retrieved thread. Applicant assertions are not adopted as dates."
+    },
+    {
+      "url": "https://www.agriculture.gov.au/sites/default/files/documents/delegation-1999.pdf",
+      "publisher": "Environment Australia",
+      "title": "Ramsar seventh conference: report of Australian delegation, May1999",
+      "source_type": "government_record",
+      "locator": "Printed p.7, delegation table; p.5 credentials committee",
+      "note": "Contemporary report identifies Daniel Tehan as DFAT second secretary, Australian Embassy Mexico, attending first three days. Does not establish appointment boundaries or full-time terms.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-6"
+    },
+    {
+      "url": "https://www.monash.edu/arts/alumni/our-alumni/prominent-alumni",
+      "publisher": "Monash University",
+      "title": "Notable alumni",
+      "source_type": "employer",
+      "locator": "Government and International Relations, Dan Tehan entry",
+      "note": "Lists Master of Foreign Affairs and Trade1999. Graduation year is not enrolment duration or evidence of employment leave.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-7"
     }
   ],
   "research_notes": [
     "Follow-up: locate public DFAT annual-report/posting and gazette evidence for appointment, full-time terms, leave and 2001–2002 transition; identify farm/bar employers, student-work dates and 2009–2010 work. Verify university course boundaries and separate departmental from ministerial payroll.",
     "Reviewed APH, two government biographies and maiden speech on 2026-09-29. First speech adds overseas/student work not represented in short occupation list. Three nights per week supports part-time coding only; no FTE estimated.",
     "A third party's existing public FOI request was inspected read-only: thread is marked refused and shows June decision/July internal-review correspondence. It supplies no disclosed personnel evidence here; requested date range is not proof of actual employment. No new FOI, contact or outreach initiated.",
-    "Year-only intervals and possible adjacent-year gaps are preserved. Do not count farm upbringing as employment or extend DFAT years from the FOI question. Last follow-up 2026-09-29; initial record remains unresolved."
+    "Year-only intervals and possible adjacent-year gaps are preserved. Do not count farm upbringing as employment or extend DFAT years from the FOI question. Last follow-up 2026-09-29; initial record remains unresolved.",
+    "2026-10-02 follow-up: contemporary government Ramsar delegation report independently identifies second-secretary role in May1999; Monash confirms1999 qualification year. Targeted DFAT/annual-report/gazette and farm-work searches did not resolve hours, leave, exact posting boundaries or farm/bar employers. ABC2019 Wannon profile search result describes two years Danish agricultural exchange, whereas first speech describes a year out; do not convert either into dated tenure without reconciliation. Additional public archives-request thread https://www.righttoknow.org.au/request/archives_act_access_request_dan could not be fetched (DisabledError); no personnel disclosure established, applicant assertions not adopted. Next: contemporary DFAT appointment/separation instruments,1999 study overlap,2001–02 transition and2009–10 work. No duration calculated."
   ]
 }
