@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/132880",
   "research_status": "blocked",
-  "last_reviewed": "2026-09-29",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -105,9 +105,10 @@
       "counting_status": "insufficient_evidence",
       "source_ids": [
         "src-3",
-        "src-4"
+        "src-4",
+        "src-13"
       ],
-      "evidence_note": "Own biography confirms lecturing; Yale records Monash placement in 2004–05 cohort. Contract start/end, hours and historical institutional control require follow-up; do not convert placement cohort into exact employment dates.",
+      "evidence_note": "Own biography confirms lecturing; Yale records Monash placement in 2004–05 cohort. Contract start/end, hours and historical institutional control require follow-up; do not convert placement cohort into exact employment dates. A Monash-hosted paper dated31August2005 supplies a contemporaneous Department of Economics affiliation, but no appointment start/end or hours.",
       "counting_note": "Dates, employer control and/or substantive full-time status remain insufficient for a duration calculation; unknown is not zero."
     },
     {
@@ -155,9 +156,9 @@
       "spell_id": "132880-08",
       "employer": "Nous Group",
       "role": "Senior consultant",
-      "start_date": null,
-      "end_date": null,
-      "date_precision": "unknown",
+      "start_date": "2008-06",
+      "end_date": "2010-11",
+      "date_precision": "month",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "private_enterprise",
@@ -165,18 +166,19 @@
       "government_control_at_time": "private",
       "counting_status": "insufficient_evidence",
       "source_ids": [
-        "src-8"
+        "src-8",
+        "src-11"
       ],
-      "evidence_note": "Named commercial consulting employer in speaker biography; no dates or hours. Pottinger biography corroborates earlier management consulting without naming the firm.",
+      "evidence_note": "Named commercial consulting employer in speaker biography; no dates or hours. Pottinger biography corroborates earlier management consulting without naming the firm. Public indexed self-profile now supplies June2008–November2010, retained at month precision; employer corroboration and working hours remain missing. Council service2008–2010 overlaps and is separately excluded; dates alone do not justify full-time years.",
       "counting_note": "Dates, employer control and/or substantive full-time status remain insufficient for a duration calculation; unknown is not zero."
     },
     {
       "spell_id": "132880-09",
       "employer": "Pottinger",
       "role": "Director, Policy",
-      "start_date": null,
-      "end_date": null,
-      "date_precision": "unknown",
+      "start_date": "2012-09",
+      "end_date": "2014-04",
+      "date_precision": "month",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "private_enterprise",
@@ -187,9 +189,10 @@
         "src-5",
         "src-6",
         "src-7",
-        "src-10"
+        "src-10",
+        "src-11"
       ],
-      "evidence_note": "Independent corporate advisory firm; directly documented April and July 2013, later described as former role. These observations are not contract endpoints. Public-sector clients do not make this public employment.",
+      "evidence_note": "Independent corporate advisory firm; directly documented April and July 2013, later described as former role. These observations are not contract endpoints. Public-sector clients do not make this public employment. Public indexed self-profile gives September2012–April2014, consistent with contemporaneous2013 observations. These are self-reported months, not exact days; hours, leave and continuity unconfirmed.",
       "counting_note": "Dates, employer control and/or substantive full-time status remain insufficient for a duration calculation; unknown is not zero."
     },
     {
@@ -274,9 +277,9 @@
       "spell_id": "132880-14",
       "employer": "City of Casey",
       "role": "Councillor; deputy and acting mayor",
-      "start_date": null,
-      "end_date": null,
-      "date_precision": "unknown",
+      "start_date": "2008",
+      "end_date": "2010",
+      "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -285,9 +288,10 @@
       "counting_status": "excluded",
       "source_ids": [
         "src-8",
-        "src-9"
+        "src-9",
+        "src-12"
       ],
-      "evidence_note": "Local elected roles verified; dates left unresolved rather than filled from officeholder assumptions.",
+      "evidence_note": "Local elected roles verified; dates left unresolved rather than filled from officeholder assumptions. Official council honour board now establishes2008–2010 councillor years; deputy/acting mayor subterms remain undated.",
       "counting_note": "Excluded from the two employment headlines under the codebook."
     },
     {
@@ -513,6 +517,36 @@
       "source_type": "employer",
       "locator": "Page 46, Daniel Mulino, observer biography",
       "note": "Confirms ACFS observer role and prior Pottinger work. Governance observation is distinct from paid academic employment."
+    },
+    {
+      "url": "https://au.linkedin.com/in/danielmulinomp",
+      "publisher": "Daniel Mulino / LinkedIn",
+      "title": "Daniel Mulino public professional profile",
+      "source_type": "professional_profile",
+      "locator": "Public search-indexed experience entries: Nous Group and Pottinger",
+      "note": "Public snippets retrieved on this follow-up show Nous senior consultant Jun2008–Nov2010 and Pottinger Sep2012–Apr2014. Search result locators turn1288search2 and turn1289search0; Pottinger independently reproduced in turn1293search0. Direct profile not retried after previously recorded429. No full-time label observed; month-level self-report requires employer corroboration.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-11"
+    },
+    {
+      "url": "https://www.casey.vic.gov.au/meet-councillors",
+      "publisher": "City of Casey",
+      "title": "Meet the councillors: Councillor honour board",
+      "source_type": "government_record",
+      "locator": "Past Councillors table, Daniel Mulino row",
+      "note": "Official council history gives2008–2010. Does not date deputy/acting mayor appointments separately.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-12"
+    },
+    {
+      "url": "https://www.monash.edu/__data/assets/pdf_file/0005/925610/welfare,_population_growth_and_dynamic_inefficiency_in_an_olg_framework.pdf",
+      "publisher": "Daniel Mulino / Monash University",
+      "title": "Welfare, Population Growth and Dynamic Inefficiency in an OLG Framework,31 August2005",
+      "source_type": "employer",
+      "locator": "PDFpage1 author affiliation and date",
+      "note": "Contemporaneous Department of Economics affiliation; observation not a contract endpoint or proof of full-time hours.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-13"
     }
   ],
   "research_notes": [
@@ -520,6 +554,7 @@
     "2026-09-29 initial pass inspected APH indexed biography, first speech, own biography, Yale placement archive, April/July 2013 Pottinger publications, ACFS 2013 author profile and 2015 annual review, 2018 conference host biography and 2026 publisher biography. LinkedIn https://au.linkedin.com/in/danielmulinomp returned 429; deferred, no bypass or paid alternative.",
     "Targeted searches for Monash 2006, Nous chronology, CV, full-time economist work and Federal Reserve research produced no admissible full-time evidence. A 2006 workshop chair listing and research publication affiliations are leads, not contract-duration proof. Excluded contact-aggregation profiles and unrelated full-time job advertisements.",
     "A 2026 author biography explicitly calls overseas engagements internships, while earlier professional biography uses consultant/research descriptions. Preserve the ambiguity and do not assume they were unpaid, salaried, continuous or full-time. Yale teaching appears in secondary biography and needs primary appointment verification.",
-    "Year-level early departmental dates remain intact. No durations calculated from titles or sequential labels. Missing intervals, including 1996–1997 and state-to-federal transition, remain unknown rather than unemployment. Party membership/policy committee activity and campaigning are separate from paid employment; blocked initial record is not completion."
+    "Year-level early departmental dates remain intact. No durations calculated from titles or sequential labels. Missing intervals, including 1996–1997 and state-to-federal transition, remain unknown rather than unemployment. Party membership/policy committee activity and campaigning are separate from paid employment; blocked initial record is not completion.",
+    "2026-10-02 follow-up materially dates Nous and Pottinger from public indexed professional-profile entries and Casey council from its own honour board; adds a contemporaneous31August2005 Monash affiliation. Direct LinkedIn was not retried after429. Targeted searches for employer dates and Monash roles yielded no full-time evidence; generic exact-site searches were inconsistent, so retrieval method is explicit. Follow-up leads: employer corroboration of self-reported consulting months; academic appointment/annual-report payroll categories; ministerial appointment records; early departmental hours and US internship status. McKinsey2019 automation report advisory committee and Curtin Research Centre advisory council are governance leads, not evidence of salaried consulting or a2018–19 employment bridge. Retain all unresolved breaks/overlaps and null totals; blocked is not complete."
   ]
 }
