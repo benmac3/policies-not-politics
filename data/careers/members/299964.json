@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/299964",
   "research_status": "blocked",
-  "last_reviewed": "2026-09-12",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -16,7 +16,7 @@
   "career_spells": [
     {
       "spell_id": "299964-01",
-      "employer": "Woolworths, Dandenong Plaza",
+      "employer": "Woolworths, initially Dandenong Plaza and other south-eastern Melbourne stores",
       "role": "Shop assistant",
       "start_date": "2002",
       "end_date": "2017",
@@ -30,14 +30,16 @@
       "source_ids": [
         "src-1",
         "src-2",
-        "src-3"
+        "src-3",
+        "oct2-ames",
+        "oct2-first"
       ],
-      "evidence_note": "Broad employer interval starts as teenage work; no continuous full-time assumption.",
+      "evidence_note": "Broad employer interval starts as teenage work; no continuous full-time assumption. AMES interview explicitly describes early part-time work while studying, without dated status transitions. First speech says multiple stores; Dandenong Plaza is first workplace, not established sole site throughout. Age15/15-year retrospective duration is approximate and not used to alter official2002–2017 labels.",
       "counting_note": "Not counted: dates and/or substantive full-time status are insufficiently evidenced; year labels are not exact boundaries."
     },
     {
       "spell_id": "299964-02",
-      "employer": "Woolworths, Dandenong Plaza",
+      "employer": "Woolworths, south-eastern Melbourne stores (including Dandenong Plaza)",
       "role": "Pastry chef",
       "start_date": "2008",
       "end_date": "2017",
@@ -50,34 +52,37 @@
       "counting_status": "insufficient_evidence",
       "source_ids": [
         "src-1",
-        "src-2"
+        "src-2",
+        "oct2-first"
       ],
-      "evidence_note": "Nested role within same employer's 2002–2017 interval, not an additional nine years to add.",
+      "evidence_note": "Nested role within same employer's 2002–2017 interval, not an additional nine years to add. Individual store dates and pastry-specific full-time status remain unknown.",
       "counting_note": "Not counted: dates and/or substantive full-time status are insufficiently evidenced; year labels are not exact boundaries."
     },
     {
       "spell_id": "299964-03",
-      "employer": "Shop, Distributive and Allied Employees Association (employer name to confirm against appointment record)",
+      "employer": "Shop, Distributive and Allied Employees' Association, Victorian Branch",
       "role": "Trade union official / organiser",
       "start_date": "2017",
       "end_date": "2022",
       "date_precision": "year",
-      "employment_status": "unknown",
-      "fte_fraction": null,
+      "employment_status": "full_time",
+      "fte_fraction": 1,
       "category": "union",
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
       "source_ids": [
         "src-1",
-        "src-3"
+        "src-3",
+        "oct2-sda",
+        "oct2-abc"
       ],
-      "evidence_note": "Official dates and organising role; narrow headline excludes union employment.",
+      "evidence_note": "Official dates and organising role; narrow headline excludes union employment. Employer2017 journal establishes metropolitan organiser and branch.2022 ABC expressly describes full-time organiser for past five years; no exact start/end or leave history inferred. Excluded union employment even where FT evidenced.",
       "counting_note": "Outside the two employment headlines under the codebook; retained as career context."
     },
     {
       "spell_id": "299964-04",
-      "employer": "Community tutoring (organisation unspecified)",
+      "employer": "AMES Australia, Noble Park",
       "role": "Volunteer English tutor",
       "start_date": null,
       "end_date": null,
@@ -89,9 +94,10 @@
       "government_control_at_time": "unknown",
       "counting_status": "excluded",
       "source_ids": [
-        "src-2"
+        "src-2",
+        "oct2-ames"
       ],
-      "evidence_note": "Volunteer work explicitly stated; not paid school employment.",
+      "evidence_note": "Volunteer work explicitly stated; not paid school employment. Host organisation interview identifies Noble Park volunteering; no appointment/cessation dates supplied.",
       "counting_note": "Outside the two employment headlines under the codebook; retained as career context."
     },
     {
@@ -112,6 +118,26 @@
       ],
       "evidence_note": "Frozen roster first-service date.",
       "counting_note": "Outside the two employment headlines under the codebook; retained as career context."
+    },
+    {
+      "employer": "Woolworths / SDA workplace representation",
+      "role": "Union delegate and health and safety representative",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "union",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "oct2-first",
+        "oct2-ames"
+      ],
+      "evidence_note": "Own account places these workplace responsibilities before paid organiser work. No dates or separate salary; nested within retail employment rather than additional full-time job-years.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "299964-delegate"
     }
   ],
   "sources": [
@@ -144,11 +170,54 @@
       "source_type": "other",
       "locator": "Career/biography or relevant appointment section",
       "note": "Confirms Woolworths work followed by union delegate/organiser roles."
+    },
+    {
+      "url": "https://amesnews.com.au/lead-story/migrant-mp-passionate-about-equality-and-her-community/",
+      "publisher": "AMES Australia",
+      "title": "Migrant MP passionate about equality and her community,13 October2022",
+      "source_type": "employer",
+      "locator": "Volunteering and early union-work paragraphs",
+      "note": "Organisation identifies its own Noble Park volunteer tutor; interview reports part-time work while studying, then delegate/HSR and organiser.",
+      "retrieved": "2026-10-02",
+      "source_id": "oct2-ames"
+    },
+    {
+      "url": "https://www.sdavic.org/sites/sdavic.org/files/resources/live/Journals/Summer-2017/inc/html/2.html",
+      "publisher": "SDA Victorian Branch",
+      "title": "The Shop Assistant,Summer2017",
+      "source_type": "employer",
+      "locator": "p2, Metropolitan organisers list and publisher identification",
+      "note": "Contemporaneous employer lists Cassandra Fernando as metropolitan organiser, confirming branch identity.",
+      "retrieved": "2026-10-02",
+      "source_id": "oct2-sda"
+    },
+    {
+      "url": "https://www.openaustralia.org.au/debate/?id=2022-09-06.99.2",
+      "publisher": "Australian House Hansard / OpenAustralia",
+      "title": "First speech,6 September2022",
+      "source_type": "other",
+      "locator": "Cassandra Fernando speech, Woolworths and delegate/organiser paragraphs",
+      "note": "Own account describes multiple south-eastern Melbourne Woolworths stores,15-year duration since age15, delegate/HSR before organiser. Approximate recollection not converted to exact dates.",
+      "retrieved": "2026-10-02",
+      "source_id": "oct2-first"
+    },
+    {
+      "url": "https://www.abc.net.au/news/elections/federal/2022/guide/holt",
+      "publisher": "ABC News",
+      "title": "Holt election guide2022",
+      "source_type": "news",
+      "locator": "Cassandra Fernando candidate biography",
+      "note": "Explicitly describes full-time SDA organiser for preceding five years; does not establish full-time Woolworths employment.",
+      "retrieved": "2026-10-02",
+      "source_id": "oct2-abc"
     }
   ],
   "research_notes": [
     "Blocked: private employer and broad job dates established, but full-time hours and precise interval endpoints not found in official, party, public-post or targeted full-time searches using both search engines.",
     "Woolworths pastry and shop-assistant entries overlap and must be merged if later counted. Nearly fifteen years of association with employer is not fifteen documented full-time years.",
-    "Need employment confirmation showing casual/part-time/full-time transitions and start/end dates. Tutor volunteering is excluded; missing public history remains unknown."
+    "Need employment confirmation showing casual/part-time/full-time transitions and start/end dates. Tutor volunteering is excluded; missing public history remains unknown.",
+    "Follow-up2026-10-02: named AMES Noble Park as volunteering host; primary employer journal confirms SDA Victoria role; contemporary ABC expressly establishes full-time organiser. Part-time retail while studying is evidenced, but no calendar bounds for that status or later changes.",
+    "First-speech account broadens worksite history beyond Dandenong Plaza and adds delegate/HSR responsibilities. Study qualifications are not paid teaching. An AMES article about chief of staff Hafiz and his full-time employment concerns another person and is excluded.",
+    "Next leads: Woolworths work-history confirmation with store and contract changes, dated training/apprenticeship records, exact SDA appointment/cessation and AMES volunteer dates. Private FT headline stays null because excluded union FT evidence cannot be transferred to retail."
   ]
 }
