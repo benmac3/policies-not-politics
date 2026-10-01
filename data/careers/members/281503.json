@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/281503",
   "research_status": "blocked",
-  "last_reviewed": "2026-09-12",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -48,9 +48,11 @@
       "counting_status": "insufficient_evidence",
       "source_ids": [
         "src-2",
-        "src-5"
+        "src-5",
+        "oct2-link2014",
+        "oct2-glenferrie"
       ],
-      "evidence_note": "Occupation is insufficient to establish employer ownership or full-time interval.",
+      "evidence_note": "Occupation is insufficient to establish employer ownership or full-time interval.2020 local interview places work after university graduation2008, but gives no precise employment boundary or employer. Possible overlap with official Collins2008–2013 interval remains unresolved; no calendar dates inserted.",
       "counting_note": "Not counted: dates and/or substantive full-time status are insufficiently evidenced; year labels are not exact boundaries."
     },
     {
@@ -67,9 +69,10 @@
       "government_control_at_time": "public",
       "counting_status": "excluded",
       "source_ids": [
-        "src-1"
+        "src-1",
+        "oct2-glenferrie"
       ],
-      "evidence_note": "Official chronology retained; later promotional prose describes a different ordering but supplies no new dates.",
+      "evidence_note": "Official chronology retained; later promotional prose describes a different ordering but supplies no new dates. Local2020 interview additionally describes research-officer work while studying. Retain official dates; duration, job-title progression and finance overlap need reconciliation.",
       "counting_note": "Outside the two employment headlines under the codebook; retained as career context."
     },
     {
@@ -93,7 +96,7 @@
     },
     {
       "spell_id": "281503-05",
-      "employer": "Link Health and Community",
+      "employer": "Link Health and Community Limited (formerly MonashLink Community Health Service Limited)",
       "role": "Volunteer director",
       "start_date": "2010-11",
       "end_date": "2019-02",
@@ -107,14 +110,15 @@
       "source_ids": [
         "src-1",
         "src-2",
-        "src-3"
+        "src-3",
+        "oct2-link2019"
       ],
-      "evidence_note": "Month dates self-reported in visible volunteer section; volunteer status explicit on senator's site.",
+      "evidence_note": "Month dates self-reported in visible volunteer section; volunteer status explicit on senator's site. Employer2019 financial report independently corroborates February2019 resignation and December2017–February2019 chair tenure. Aggregate KMP pay is not evidence of personal remuneration.",
       "counting_note": "Outside the two employment headlines under the codebook; retained as career context."
     },
     {
       "spell_id": "281503-06",
-      "employer": "Link Health and Community",
+      "employer": "Link Health and Community Limited (formerly MonashLink Community Health Service Limited)",
       "role": "Volunteer board chair",
       "start_date": "2017-12",
       "end_date": "2019-02",
@@ -128,9 +132,10 @@
       "source_ids": [
         "src-2",
         "src-3",
-        "src-4"
+        "src-4",
+        "oct2-link2019"
       ],
-      "evidence_note": "Overlapping responsibility within director interval, not another full-time job.",
+      "evidence_note": "Overlapping responsibility within director interval, not another full-time job. Employer2019 financial report independently corroborates February2019 resignation and December2017–February2019 chair tenure. Aggregate KMP pay is not evidence of personal remuneration.",
       "counting_note": "Outside the two employment headlines under the codebook; retained as career context."
     },
     {
@@ -152,6 +157,47 @@
       ],
       "evidence_note": "Initial appointment to casual vacancy, ongoing service at frozen snapshot.",
       "counting_note": "Outside the two employment headlines under the codebook; retained as career context."
+    },
+    {
+      "employer": "Link Health and Community Limited / MonashLink Community Health Service Limited",
+      "role": "Volunteer board vice chair",
+      "start_date": "2011-11-28",
+      "end_date": "2017-12-05",
+      "date_precision": "day",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unpaid_work",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-2",
+        "oct2-link2017",
+        "oct2-link2019"
+      ],
+      "evidence_note": "Employer2019 report gives exact vice-chair boundaries;2017 report independently confirms start. Responsibility overlaps existing voluntary director interval; not additional employment.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "281503-vicechair"
+    },
+    {
+      "employer": "Link Health and Community Limited",
+      "role": "Chair, Finance and Investments Committee",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unpaid_work",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-2",
+        "oct2-link2017"
+      ],
+      "evidence_note": "Listed in2016–17 report as board responsibility; appointment/cessation dates absent. Within existing voluntary board service, no separate salary or FT years.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "281503-financechair"
     }
   ],
   "sources": [
@@ -204,11 +250,54 @@
       "source_type": "other",
       "locator": "Career/biography or relevant appointment section",
       "note": "Corroborates financial planning and political/union roles without dates."
+    },
+    {
+      "url": "https://www.linkhc.org.au/wp-content/uploads/2017/11/Link-HC-2016-17-Financial-Report.pdf",
+      "publisher": "Link Health and Community Limited",
+      "title": "Financial Report2016–17",
+      "source_type": "employer",
+      "locator": "Printed p4 / PDF p6, Raffaele Ciccone biography",
+      "note": "Vice chair from28 November2011; finance/investments chair and other committees; industrial officer with prior government/finance experience.",
+      "retrieved": "2026-10-02",
+      "source_id": "oct2-link2017"
+    },
+    {
+      "url": "https://www.linkhc.org.au/wp-content/uploads/2020/11/Link-Health-and-Community-Limited-2019-Signed-Financial-statements.pdf",
+      "publisher": "Link Health and Community Limited",
+      "title": "Consolidated Financial Statements2019",
+      "source_type": "employer",
+      "locator": "Printed p4 / PDF p6, Raffaele Ciccone; note17 p33",
+      "note": "Vice chair28 November2011–5 December2017; chairDecember2017–February2019; resignationFebruary2019. KMP remuneration pooled across directors/senior management, not individual salary proof.",
+      "retrieved": "2026-10-02",
+      "source_id": "oct2-link2019"
+    },
+    {
+      "url": "https://www.linkhc.org.au/wp-content/uploads/2017/05/2014-MonashLink-Annual-Reportweb.pdf",
+      "publisher": "MonashLink Community Health Service Limited",
+      "title": "Annual Report2014",
+      "source_type": "employer",
+      "locator": "Printed pp17–19 / PDF pp10–11, members guarantee and directors",
+      "note": "Contemporaneous director election2010 and committee responsibilities; company limited by guarantee,147 members. Funding does not establish public control.",
+      "retrieved": "2026-10-02",
+      "source_id": "oct2-link2014"
+    },
+    {
+      "url": "https://www.theglenferrietimes.com/single-post/2020/09/04/senator-raff-ciccone",
+      "publisher": "The Glenferrie Times",
+      "title": "Senator Raff Ciccone,4 September2020",
+      "source_type": "news",
+      "locator": "Opening career paragraphs",
+      "note": "Reports Collins research work while studying, university graduation2008 then financial planning; chronology conflicts with simplistic sequencing of official adviser2008–2013. Names dry cleaner as customer, not employee.",
+      "retrieved": "2026-10-02",
+      "source_id": "oct2-glenferrie"
     }
   ],
   "research_notes": [
     "Blocked for public/private headline years: nonpolitical dry-cleaning and financial-planning work has no usable dates/FTE. Official, member, employer and public professional sources checked.",
     "The profile's volunteer dates improve the timeline but are excluded. No gated employment section was accessed.",
-    "Some narrative biographies place union work before the adviser role; official dated intervals are preferred without inventing a separate early SDA spell. Need employer/CV evidence for unresolved early work."
+    "Some narrative biographies place union work before the adviser role; official dated intervals are preferred without inventing a separate early SDA spell. Need employer/CV evidence for unresolved early work.",
+    "Follow-up2026-10-02: historical2014/2017/2019 employer reports recover exact vice-chair period, committee chair role and independent board resignation evidence. Finance employer remains unnamed.",
+    "Own first speech reviewed: represented7-Eleven workers; did not claim employment at7-Eleven. Father/grandfather manufacturing careers not imported.2020 local interview names Debonaires as current dry-cleaning supplier, not teenage employer. Italian municipal/accountancy namesakes rejected.",
+    "Next leads: finance employer or public CV, university/Collins/financial-work sequence and working hours; identify teenage dry cleaner. Keep historical governance control unknown pending constitution/appointment powers; public funding alone insufficient. All headline values remain null."
   ]
 }
