@@ -6,7 +6,7 @@
   "snapshot_party": "The Nationals",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/207825",
   "research_status": "blocked",
-  "last_reviewed": "2026-09-29",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -55,7 +55,7 @@
     },
     {
       "spell_id": "207825-03",
-      "employer": "Secondary school employer unresolved (Yarram Secondary College lead)",
+      "employer": "Yarram Secondary College (legal payroll entity and full-period coverage unresolved)",
       "role": "Mathematics and physical education teacher",
       "start_date": "2005",
       "end_date": "2009",
@@ -68,15 +68,18 @@
       "counting_status": "insufficient_evidence",
       "source_ids": [
         "src-1",
-        "src-4"
+        "src-4",
+        "src-7",
+        "src-9",
+        "src-10"
       ],
-      "evidence_note": "APH establishes occupation interval; Yarram identification is secondary and has not been mapped to every year or verified against payroll.",
+      "evidence_note": "APH establishes occupation interval; Yarram identification is secondary and has not been mapped to every year or verified against payroll. Primary parliamentary inquiry identifies her with this school on24May2006. Indexed self-profile gives2005–2008, conflicting with APH teaching2005–2009; retain official broad years without asserting all belong to Yarram. School identity is now corroborated; precise appointment and historical employing entity still unresolved.",
       "counting_note": "Dates, employer control and/or substantive full-time status remain insufficient for a duration calculation; unknown is not zero."
     },
     {
       "spell_id": "207825-04",
       "employer": "Monash University, Faculty of Education, Gippsland campus",
-      "role": "Lecturer",
+      "role": "Lecturer; professional-experience unit coordinator",
       "start_date": "2009",
       "end_date": "2010",
       "date_precision": "year",
@@ -89,9 +92,11 @@
       "source_ids": [
         "src-1",
         "src-2",
-        "src-5"
+        "src-5",
+        "src-8",
+        "src-9"
       ],
-      "evidence_note": "Institution and years supported; historical control assessment, appointment terms and hours outstanding.",
+      "evidence_note": "Institution and years supported; historical control assessment, appointment terms and hours outstanding. Monash2010 handbook names her as coordinator for Gippsland professional-experience units in both semesters. This is actual employer role evidence, but published student workload and credits cannot be treated as her paid hours. Indexed self-profile starts2008, conflicting with APH2009; retained official dates pending contract evidence.",
       "counting_note": "Dates, employer control and/or substantive full-time status remain insufficient for a duration calculation; unknown is not zero."
     },
     {
@@ -150,6 +155,25 @@
       ],
       "evidence_note": "Volunteer activity attested in 2011; tenure unknown.",
       "counting_note": "Excluded from the two employment headlines under the codebook."
+    },
+    {
+      "employer": "Father’s milk-delivery business (legal name unresolved)",
+      "role": "Paid milk-round assistant",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "private_enterprise",
+      "headline_sector": "private",
+      "government_control_at_time": "private",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-6"
+      ],
+      "evidence_note": "First speech recalls payment of $2 for a three-hour round in childhood. Weekly frequency, ages, calendar years and continuity unknown; no full-time designation or FTE inferred. Family bus-line history does not establish a separate job.",
+      "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
+      "spell_id": "207825-08"
     }
   ],
   "sources": [
@@ -202,12 +226,63 @@
       "source_type": "official_biography",
       "locator": "2011 statement",
       "note": "Describes Monash Churchill lecturing and volunteer surf lifesaving."
+    },
+    {
+      "url": "https://www.bridgetmckenzie.com.au/about/first-speech/",
+      "publisher": "Bridget McKenzie / Senate Hansard",
+      "title": "First speech,2011",
+      "source_type": "government_record",
+      "locator": "Father’s milk round paragraphs; GConnect paragraph",
+      "note": "First-person evidence of paid three-hour milk rounds and unfinished research thesis. No calendar dates, weekly frequency or separately paid research appointment.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-6"
+    },
+    {
+      "url": "https://citeseerx.ist.psu.edu/document?doi=636c7a7cdf331e1556223c2480db62dfa69aab12&repid=rep1&type=pdf",
+      "publisher": "Parliament of Victoria / CiteSeerX mirror",
+      "title": "Inquiry into Retaining Young People in Rural Towns and Communities,September2006",
+      "source_type": "government_record",
+      "locator": "Printedp76,para2.149 and footnote139",
+      "note": "Indexed report text identifies McKenzie of Yarram Secondary College at24May2006 hearing. Direct mirror open502; government-library fulltext link also InternalError. Indexed passage retained, not claimed full PDF retrieval.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-7"
+    },
+    {
+      "url": "https://www3.monash.edu/pubs/2010handbooks/units/faculty-pg-edu.html",
+      "publisher": "Monash University",
+      "title": "2010 Handbook,Faculty of Education postgraduate units",
+      "source_type": "employer",
+      "locator": "EDF4070/4071/4072/4073 coordinator entries and EDF4730-series",
+      "note": "Contemporaneous primary employer identifies McKenzie as Gippsland professional-experience coordinator in first/second semesters2010. Student credit/contact hours are NOT employee hours.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-8"
+    },
+    {
+      "url": "https://au.linkedin.com/in/bridget-mckenzie-8083095b",
+      "publisher": "Bridget McKenzie / LinkedIn",
+      "title": "Public professional profile",
+      "source_type": "professional_profile",
+      "locator": "Search-indexed Monash and Yarram experience entries",
+      "note": "Indexed self-profile gives Monash2008–2010 and Yarram2005–2008, differing from APH2009–2010 and2005–2009. Direct profile not opened; no full-time label observed. Preserve conflict rather than overwrite official years.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-9"
+    },
+    {
+      "url": "https://www.vic.gov.au/yarram-secondary-college-number-8490",
+      "publisher": "Victorian Government",
+      "title": "Yarram Secondary College,Number8490",
+      "source_type": "government_record",
+      "locator": "School identity and opening date",
+      "note": "Government school directory identifies school8490,opened1951,formerlyYarram High/Technical School. Does not establish McKenzie’s legal payroll employer or personal hours.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-10"
     }
   ],
   "research_notes": [
     "Follow-up: verify Yarram school appointment and legal employer, full-time terms, dates and breaks; inspect Monash 2009–2010 faculty records and appointment terms; date Deakin study and establish student-presidency remuneration. Check pre-2005 and 2010–2011 employment and author activity without assuming gaps were unemployment.",
     "Searches on 2026-09-29: APH, own biography/first-speech leads, Yarram employer identity, Deakin 2003 presidency and Monash full-time terms. APH and contemporary MP account corroborate lecturer role but no hours evidence surfaced; contact aggregators and unrelated UK namesakes not used as employment evidence.",
     "Year labels are retained without fabricated boundaries. Teaching/party/university overlaps cannot be summed. University employment is not automatically private or public; no headline duration calculated.",
-    "Frozen roster retained. Initial record is partial/blocked, not research-complete. Last follow-up 2026-09-29; public school archives and university annual reports remain leads, not inspected appointment evidence."
+    "Frozen roster retained. Initial record is partial/blocked, not research-complete. Last follow-up 2026-09-29; public school archives and university annual reports remain leads, not inspected appointment evidence.",
+    "2026-10-02 follow-up adds previously omitted paid family milk-round work; corroborates Yarram affiliation via2006 parliamentary inquiry and adds Monash2010 unit-coordination duties. Self-profile school/university transition2008 conflicts with APH2009; both preserved, no invented overlap resolution. First speech identifies unfinished GConnect research; no evidence of separately paid research role. Government-library report link InternalError and CiteSeerX502 are source-specific, not terminal. Next:24May2006 Yarram hearingpp14–15,school2005–2009 staffing archives,Monash2008 appointment records to resolve transition,Deakin presidency pay and pre2005 work. NamesakeUK museum educator and contact aggregators not used. Totals remain null; do not interpret student workload as lecturer FTE."
   ]
 }
