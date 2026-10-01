@@ -6,7 +6,7 @@
   "snapshot_party": "United Australia Party [2018]",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/300706",
   "research_status": "blocked",
-  "last_reviewed": "2026-09-12",
+  "last_reviewed": "2026-10-01",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -16,7 +16,7 @@
   "career_spells": [
     {
       "spell_id": "300706-01",
-      "employer": "Babet family real estate business",
+      "employer": "Babet Brothers Pty Ltd / Babet Brothers Real Estate (formerly Nude Fit Nutrition Pty Ltd)",
       "role": "Business owner / real estate agent",
       "start_date": null,
       "end_date": null,
@@ -29,14 +29,18 @@
       "counting_status": "insufficient_evidence",
       "source_ids": [
         "src-1",
-        "src-2"
+        "src-2",
+        "src-company",
+        "src-abr",
+        "src-alias",
+        "src-first"
       ],
-      "evidence_note": "Business ownership and real-estate work supported; founding date, personal operating interval and full-time status unresolved.",
+      "evidence_note": "Business ownership and real-estate work supported; founding date, personal operating interval and full-time status unresolved. Primary agency history now establishes2017 business founding and ABR establishes company rename18November2020, previously Nude Fit Nutrition. These do not identify his personal start or prove employment in nutrition. Earlier combined sales experience cannot be allocated to him. Existing unknown personal endpoints retained.",
       "counting_note": "Not counted: dates and/or substantive full-time status are insufficiently evidenced; year labels are not exact boundaries."
     },
     {
       "spell_id": "300706-02",
-      "employer": "Family business",
+      "employer": "Babet Brothers Pty Ltd / Babet Brothers Real Estate",
       "role": "Unpaid assistance during Senate service",
       "start_date": null,
       "end_date": null,
@@ -48,9 +52,11 @@
       "government_control_at_time": "private",
       "counting_status": "excluded",
       "source_ids": [
-        "src-3"
+        "src-3",
+        "src-company",
+        "src-alias"
       ],
-      "evidence_note": "Reported in March 2023.",
+      "evidence_note": "Reported in March 2023. Agency team now labels Deej Babet sales assistant. This corroborates a role, not remuneration or unchanged unpaid terms beyond the2023 statement; no new paid spell inferred.",
       "counting_note": "Outside the two employment headlines under the codebook; retained as career context."
     },
     {
@@ -71,6 +77,44 @@
       ],
       "evidence_note": "First-service date from frozen official roster; ongoing at snapshot.",
       "counting_note": "Outside the two employment headlines under the codebook; retained as career context."
+    },
+    {
+      "employer": "Babet Brothers Pty Ltd",
+      "role": "Director",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "private_enterprise",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-interests-lead"
+      ],
+      "evidence_note": "Separate governance capacity reflected in register transcription; declaration26July2022/removal26April2023 are observations, not service boundaries. Primary register pending verification; no salaried full-time directorship assumed.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "300706-04"
+    },
+    {
+      "employer": "United Australia Party [2018]",
+      "role": "Parliamentary leader; also party whip from26July2022",
+      "start_date": "2022-07-01",
+      "end_date": null,
+      "date_precision": "day",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "party_organisation",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-aph-live"
+      ],
+      "evidence_note": "Official biography dates parliamentary leadership; parliamentary party function overlaps Senate service and is excluded from employment headlines.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "300706-05"
     }
   ],
   "sources": [
@@ -103,11 +147,73 @@
       "source_type": "news",
       "locator": "Career/biography or relevant appointment section",
       "note": "Reports unpaid family-business work during Senate service."
+    },
+    {
+      "url": "https://www.babetbrothers.com.au/",
+      "publisher": "Babet Brothers Real Estate",
+      "title": "Agency history and team",
+      "source_type": "employer",
+      "locator": "Est.2017 introduction; team list and combined-sales-experience section",
+      "note": "Primary website identifies Narre Warren founding in2017 and lists Deej Babet as sales assistant. Combined30-year sales/customer-service claim is not an individual employment duration.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-company"
+    },
+    {
+      "url": "https://abr.business.gov.au/AbnHistory/View?id=99614671135",
+      "publisher": "Australian Business Register",
+      "title": "Historical details for ABN99614671135",
+      "source_type": "government_record",
+      "locator": "Entity name, entity type and business-name history",
+      "note": "Australian Private Company: Nude Fit Nutrition Pty Ltd from8September2016; Babet Brothers Pty Ltd from18November2020. Babet Brothers Real Estate business name registered18November2020. Company dates are not personal operating dates.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-abr"
+    },
+    {
+      "url": "https://www.sbs.com.au/news/article/united-australia-party-wins-one-senate-seat-after-100-million-election-campaign/9hofuyyph",
+      "publisher": "SBS News",
+      "title": "United Australia Party wins one Senate seat,20June2022",
+      "source_type": "news",
+      "locator": "Key points and introductory paragraphs",
+      "note": "Connects Ralph with Deej Babet and confirms pre-election Melbourne real-estate work.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-alias"
+    },
+    {
+      "url": "https://www.openaustralia.org.au/senate/?id=2022-08-03.154.1",
+      "publisher": "OpenAustralia reproducing Senate Hansard",
+      "title": "Ralph Babet first speech,3August2022",
+      "source_type": "government_record",
+      "locator": "Paragraph beginning They taught me not to be afraid, line40",
+      "note": "First-person account of starting a business with his brother after completing a degree. No personal work boundaries or hours. Full-time jobs elsewhere in speech belong to his parents.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-first"
+    },
+    {
+      "url": "https://shorted.com.au/politicians/ralph-babet",
+      "publisher": "Shorted",
+      "title": "Ralph Babet declared interests transcription",
+      "source_type": "other",
+      "locator": "Directorship entry and source-document links; methodology line224",
+      "note": "Secondary transcription shows Babet Brothers directorship declared26July2022 and removed26April2023. These are declaration dates, not appointment/resignation dates. Linked primary register PDFs returned Internal Error; retained as lead with limitations.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-interests-lead"
+    },
+    {
+      "url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=300706",
+      "publisher": "Australian Parliament",
+      "title": "Senator Ralph Babet biography",
+      "source_type": "official_biography",
+      "locator": "Party positions and qualifications/occupation",
+      "note": "Official indexed profile records parliamentary UAP leadership from1July2022, whip from26July2022; occupation small-business owner without dates.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-aph-live"
     }
   ],
   "research_notes": [
     "Blocked: official occupation list, employer-site attempt and independent career/work coverage do not establish a dated full-time business interval. Business ownership alone is insufficient.",
     "Searches for career dates and full-time status produced no verifiable employment chronology. Babet Brothers website could not be opened; APH live biography returned 403, so preserved official snapshot was used.",
-    "Need documented business-operating dates, hours and separation of pre-Senate work from subsequent unpaid assistance. No zero public-sector history is inferred from silence."
+    "Need documented business-operating dates, hours and separation of pre-Senate work from subsequent unpaid assistance. No zero public-sector history is inferred from silence.",
+    "2026-10-01: recovered primary business website and historical ABR entity details; resolved legal/trading names and Deej alias, added distinct governance and parliamentary-party roles. Business2017 foundation,2016 incorporation/ABN and2020 rename are not invented individual employment starts. Earlier employer/hours history remains missing; no numeric totals.",
+    "Avenues: live APH indexed biography, first speech, primary company team/history, ABR historical names, SBS identity reporting, interests transcription with failed linked primary PDFs, targeted Deej/Ralph professional-profile and earlier-career searches. No verified public CV found. First-speech full-time references describe parents, not Babet. Follow-up: his personal operating interval and earlier sales employers, change to unpaid assistance, directorship appointment/resignation primary disclosure, any substantive prior nutrition business work. Company rename alone does not establish that he personally worked in nutrition."
   ]
 }
