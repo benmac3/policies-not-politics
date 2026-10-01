@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/248353",
   "research_status": "blocked",
-  "last_reviewed": "2026-09-27",
+  "last_reviewed": "2026-10-01",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -27,9 +27,33 @@
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-aph-current", "src-first-speech", "src-secondary"],
-      "evidence_note": "The official parliamentary biography identifies the BPharm and McBride's first speech says she left the Central Coast to study pharmacy. Enrolment and completion dates, load and work overlap are not published in the reviewed sources.",
+      "source_ids": [
+        "src-aph-current",
+        "src-first-speech",
+        "src-secondary",
+        "src-student-placement"
+      ],
+      "evidence_note": "The official parliamentary biography identifies the BPharm and McBride's first speech says she left the Central Coast to study pharmacy. Enrolment and completion dates, load and work overlap are not published in the reviewed sources. Her public professional post confirms she was a pharmacy student undertaking a placement in 1996; this is a study milestone, not the degree start or finish.",
       "counting_note": "Study is excluded under the codebook."
+    },
+    {
+      "employer": "Unidentified pharmacy placement host",
+      "role": "Pharmacy student on placement",
+      "start_date": "1996",
+      "end_date": "1996",
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-student-placement"
+      ],
+      "evidence_note": "First-person public post identifies a placement during 1996. Host, exact dates, pay and hours unknown; the year does not imply a year-long placement.",
+      "counting_note": "Student placement excluded pending evidence of a distinct paid employment arrangement.",
+      "spell_id": "248353-student-placement"
     },
     {
       "spell_id": "248353-public-management-study",
@@ -44,7 +68,10 @@
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-aph-current", "src-secondary"],
+      "source_ids": [
+        "src-aph-current",
+        "src-secondary"
+      ],
       "evidence_note": "The qualification and institution are published, but dates, study load and overlap with pharmacy employment are unresolved.",
       "counting_note": "Study is excluded under the codebook."
     },
@@ -58,16 +85,22 @@
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "unknown",
-      "headline_sector": "excluded",
+      "headline_sector": "unknown",
       "government_control_at_time": "unknown",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-first-speech", "src-health-bio", "src-member", "src-secondary"],
-      "evidence_note": "McBride's 2016 first speech says she had worked in health for 20 years and had lived and worked in Forbes, North Sydney, Newtown, Berkeley Vale, Belmont and Oxford during her twenties. Official biographies describe health-sector work in Australia and abroad. They do not identify employers, job dates, sectors, hours or leave, and the 20-year statement is not converted into a start date.",
+      "source_ids": [
+        "src-first-speech",
+        "src-health-bio",
+        "src-member",
+        "src-secondary",
+        "src-community-pharmacy"
+      ],
+      "evidence_note": "McBride's 2016 first speech says she had worked in health for 20 years and had lived and worked in Forbes, North Sydney, Newtown, Berkeley Vale, Belmont and Oxford during her twenties. Official biographies describe health-sector work in Australia and abroad. They do not identify employers, job dates, sectors, hours or leave, and the 20-year statement is not converted into a start date. First speech describes an overseas locum post in mental health. A 2023 ministerial transcript separately confirms community pharmacy experience. Neither identifies individual employers or dates; these are components of the existing early-career span, not extra additive durations.",
       "counting_note": "Unidentified employers and undated work cannot be allocated to the public or private headline."
     },
     {
       "spell_id": "248353-wyong-mental-health",
-      "employer": "Central Coast Local Health District — Wyong Hospital",
+      "employer": "Wyong Hospital — NSW public health service (successive area/network/district administrations)",
       "role": "Specialist Mental Health Pharmacist",
       "start_date": "2006",
       "end_date": "2015",
@@ -78,13 +111,23 @@
       "headline_sector": "public",
       "government_control_at_time": "public",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-snapshot", "src-aph-current", "src-health-bio", "src-first-speech", "src-member"],
-      "evidence_note": "The frozen and current parliamentary biographies give the 2006–2015 specialist role. Australian Government and member biographies place the work at Wyong Hospital within Central Coast Local Health District. Exact appointment and cessation dates, classification, hours, leave and overlap with later titles are unresolved.",
+      "source_ids": [
+        "src-snapshot",
+        "src-aph-current",
+        "src-health-bio",
+        "src-first-speech",
+        "src-member",
+        "src-area-history",
+        "src-network-history",
+        "src-district-history",
+        "src-bank-annual"
+      ],
+      "evidence_note": "The frozen and current parliamentary biographies give the 2006–2015 specialist role. Australian Government and member biographies place the work at Wyong Hospital within Central Coast Local Health District. Exact appointment and cessation dates, classification, hours, leave and overlap with later titles are unresolved. State archives distinguish Northern Sydney-Central Coast Area Health Service to January 2011, Central Coast Local Health Network January–June 2011, then Central Coast Local Health District from July 2011. The 2013 bank director profile lists both pharmacy titles contemporaneously; exact allocation of functions remains unknown.",
       "counting_note": "The employer was NSW-government controlled, but year-only boundaries and missing full-time evidence prevent a public-sector duration."
     },
     {
       "spell_id": "248353-wyong-chief",
-      "employer": "Central Coast Local Health District — Wyong Hospital",
+      "employer": "Wyong Hospital — NSW public health service (successive area/network/district administrations)",
       "role": "Chief Pharmacist",
       "start_date": "2008",
       "end_date": "2016",
@@ -95,25 +138,42 @@
       "headline_sector": "public",
       "government_control_at_time": "public",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-snapshot", "src-aph-current", "src-health-bio", "src-member", "src-labor"],
-      "evidence_note": "Official biographies record chief-pharmacist service from 2008 to 2016, overlapping the specialist mental-health pharmacist range. Exact title-change date, whether the specialist function continued concurrently, classification, hours, leave and cessation date are unresolved.",
+      "source_ids": [
+        "src-snapshot",
+        "src-aph-current",
+        "src-health-bio",
+        "src-member",
+        "src-labor",
+        "src-area-history",
+        "src-network-history",
+        "src-district-history",
+        "src-bank-annual"
+      ],
+      "evidence_note": "Official biographies record chief-pharmacist service from 2008 to 2016, overlapping the specialist mental-health pharmacist range. Exact title-change date, whether the specialist function continued concurrently, classification, hours, leave and cessation date are unresolved. State archives distinguish Northern Sydney-Central Coast Area Health Service to January 2011, Central Coast Local Health Network January–June 2011, then Central Coast Local Health District from July 2011. The 2013 bank director profile lists both pharmacy titles contemporaneously; exact allocation of functions remains unknown.",
       "counting_note": "A senior title does not establish substantive full-time status; the overlap must not be double-counted."
     },
     {
       "spell_id": "248353-pharmacy-deputy-director",
-      "employer": "Central Coast Local Health District",
+      "employer": "NSW Health Service — Central Coast Local Health District",
       "role": "Deputy Director of Pharmacy",
       "start_date": "2016",
-      "end_date": "2016-07-02",
-      "date_precision": "mixed",
+      "end_date": "2016",
+      "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "public_service",
       "headline_sector": "public",
       "government_control_at_time": "public",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-snapshot", "src-aph-current", "src-health-bio", "src-member", "src-labor"],
-      "evidence_note": "The frozen biography lists the deputy-director role in 2016, while government and member biographies describe it as her role immediately before Parliament. The 2 July endpoint is bounded by election, not evidence of the employment cessation day; appointment date, hours, leave and overlap with the chief-pharmacist title are unresolved.",
+      "source_ids": [
+        "src-snapshot",
+        "src-aph-current",
+        "src-health-bio",
+        "src-member",
+        "src-labor",
+        "src-district-history"
+      ],
+      "evidence_note": "Official biographies place this role in 2016 immediately before Parliament. Removed the election day as a purported exact employment endpoint: election only bounds the transition. Appointment and cessation days, hours, campaign leave and overlap with chief-pharmacist duties remain unknown. State archives describe district staff as employed through NSW Health Service.",
       "counting_note": "Public control is clear, but the mixed-precision boundary and missing hours prevent a countable interval."
     },
     {
@@ -129,7 +189,11 @@
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-aph-current", "src-council-minutes", "src-heart"],
+      "source_ids": [
+        "src-aph-current",
+        "src-council-minutes",
+        "src-heart"
+      ],
       "evidence_note": "The official biography and Central Coast Heart profile record council service from 2008 to 2012. Council minutes of 22 August 2012 state that McBride would not contest the 8 September election. Exact commencement date, allowance and workload are unresolved; the role overlapped public-hospital employment.",
       "counting_note": "Local elected office is excluded under the codebook."
     },
@@ -137,17 +201,21 @@
       "spell_id": "248353-bendigo-director",
       "employer": "Wyong Town Financial Services Limited — Wyong Community Bank branch of Bendigo Bank",
       "role": "Director (volunteer)",
-      "start_date": "2009",
+      "start_date": "2009-08",
       "end_date": "2013",
-      "date_precision": "year",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "unpaid_work",
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-snapshot", "src-aph-current", "src-bank-annual"],
-      "evidence_note": "Official biographies explicitly describe the 2009–2013 directorship as volunteer. The company's 2013 annual report names Emma McBride among the directors and identifies the company as operator of the Wyong Community Bank branch. Exact appointment and resignation dates and workload are unresolved.",
+      "source_ids": [
+        "src-snapshot",
+        "src-aph-current",
+        "src-bank-annual"
+      ],
+      "evidence_note": "Official biography labels the directorship voluntary, ending in 2013. The 2013 company annual report dates joining to August 2009 and records 12 of 12 board meetings attended. Appointment day, resignation day and workload remain unknown; attendance is not employment hours.",
       "counting_note": "Volunteer governance is excluded under the codebook."
     },
     {
@@ -163,7 +231,10 @@
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-secondary", "src-abc-2013"],
+      "source_ids": [
+        "src-secondary",
+        "src-abc-2013"
+      ],
       "evidence_note": "Public election records and secondary chronology identify Labor selection on 7 August and the federal election on 7 September 2013. Campaign remuneration, hours and leave from hospital work are unresolved.",
       "counting_note": "Party candidacy and campaigning are excluded under the codebook."
     },
@@ -180,7 +251,11 @@
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-snapshot", "src-aph-current", "src-heart"],
+      "source_ids": [
+        "src-snapshot",
+        "src-aph-current",
+        "src-heart"
+      ],
       "evidence_note": "Official biographies list a Central Coast Heart Netball Premier League board role in 2016. The organisation's current profile documents McBride's long netball association and patronage but does not establish board dates, remuneration or workload.",
       "counting_note": "Nonprofit sporting governance is excluded from the narrow employment headline."
     },
@@ -197,7 +272,11 @@
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-snapshot", "src-aph-current", "src-secondary"],
+      "source_ids": [
+        "src-snapshot",
+        "src-aph-current",
+        "src-secondary"
+      ],
       "evidence_note": "Official records establish election on 2 July 2016 after renewed Labor candidacy. Preselection date, campaign remuneration, hours and arrangement with Central Coast Local Health District are unresolved.",
       "counting_note": "Party candidacy and campaigning are excluded under the codebook."
     },
@@ -214,9 +293,52 @@
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-snapshot", "src-aph-current", "src-health-bio", "src-directory"],
+      "source_ids": [
+        "src-snapshot",
+        "src-aph-current",
+        "src-health-bio",
+        "src-directory"
+      ],
       "evidence_note": "Official records establish House service from 2 July 2016. Shadow and assistant-ministerial responsibilities are nested within elected office.",
       "counting_note": "Federal elected office is excluded under the codebook."
+    },
+    {
+      "employer": "Wyong District Netball Association",
+      "role": "Patron",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "nonprofit",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-bank-annual"
+      ],
+      "evidence_note": "The 2013 annual-report biography records patronage distinct from the later Central Coast Heart board. Dates, pay and workload unknown.",
+      "counting_note": "Community patronage/volunteering excluded from employment headline.",
+      "spell_id": "248353-wyong-netball-patron"
+    },
+    {
+      "employer": "Toowoon Bay Surf Life Saving Club; Long Jetty Landcare",
+      "role": "Surf lifesaving patrol participant and Landcare volunteer",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unpaid_work",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-volunteering-profile"
+      ],
+      "evidence_note": "First-person conference biography describes these community activities. Individual start/end dates unknown; no paid employment inferred.",
+      "counting_note": "Community patronage/volunteering excluded from employment headline.",
+      "spell_id": "248353-surf-landcare"
     }
   ],
   "sources": [
@@ -255,10 +377,10 @@
       "url": "https://www.aph.gov.au/Senators_and_Members/Members/FirstSpeeches/45th_Parliament/Emma_McBride",
       "publisher": "Parliament of Australia",
       "title": "First Speech: Ms Emma McBride MP",
-      "retrieved": "2026-09-27",
+      "retrieved": "2026-10-01",
       "source_type": "parliamentary_record",
       "locator": "Education, places worked and pharmacist career description",
-      "note": "First-person speech identifies places lived and worked, 20 years in health, 15 years in mental health and a decade at Wyong Hospital without naming the earlier employers."
+      "note": "First-person speech identifies places lived and worked, 20 years in health, 15 years in mental health and a decade at Wyong Hospital without naming the earlier employers. Search-indexed speech also describes an overseas locum mental-health post; direct page returned 403 on follow-up."
     },
     {
       "source_id": "src-member",
@@ -295,10 +417,10 @@
       "url": "https://www.bendigobank.com.au/siteassets/branchassets/communitycompanies/wyongtownfinancialserviceslimited/investorshareholder/financialstatements/2013-annual-report.pdf",
       "publisher": "Wyong Town Financial Services Limited",
       "title": "Annual Report 2013",
-      "retrieved": "2026-09-27",
+      "retrieved": "2026-10-01",
       "source_type": "annual_report",
-      "locator": "Directors and company operations",
-      "note": "Primary company record names Emma McBride as a director and identifies the company as operator of the Wyong Community Bank branch."
+      "locator": "PDF page 6, printed page 4, Emma McBride director profile (visually checked)",
+      "note": "Director profile dates joining board to August 2009, records concurrent mental-health and chief-pharmacist titles, and Wyong District Netball Association patronage."
     },
     {
       "source_id": "src-heart",
@@ -339,6 +461,66 @@
       "source_type": "other",
       "locator": "Early life, early career and political career",
       "note": "Secondary synthesis supplies career leads and campaign chronology retained with explicit uncertainty where primary evidence was not located."
+    },
+    {
+      "url": "https://www.linkedin.com/posts/emma-mcbride-mp_today-is-world-pharmacists-day-activity-7244633940169269248-aZcn",
+      "publisher": "Emma McBride",
+      "title": "World Pharmacists Day — student placement recollection",
+      "source_type": "professional_profile",
+      "locator": "Public post text accompanying photograph",
+      "note": "First-person post identifies a pharmacy student placement in 1996. Employer, duration and remuneration are not stated; no graduation or paid-work start inferred.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-student-placement"
+    },
+    {
+      "url": "https://researchdata.edu.au/agy-5344-northern-health-service/167698",
+      "publisher": "NSW State Archives Collection via Research Data Australia",
+      "title": "AGY-5344 Northern Sydney-Central Coast Area Health Service",
+      "source_type": "government_record",
+      "locator": "Area Health Services, hospital list and abolition paragraph",
+      "note": "Wyong was within this public area health service formed 1 January 2005 and replaced on 1 January 2011. Administrative history, not McBride appointment dates.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-area-history"
+    },
+    {
+      "url": "https://researchdata.edu.au/agy-6412-central-health-network/2753718",
+      "publisher": "NSW State Archives Collection via Research Data Australia",
+      "title": "AGY-6412 Central Coast Local Health Network",
+      "source_type": "government_record",
+      "locator": "Establishment and abolition paragraphs",
+      "note": "Central Coast network operated from 1 January to 1 July 2011 before replacement by district; public control retained.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-network-history"
+    },
+    {
+      "url": "https://researchdata.edu.au/agy-6933-central-health-district/2755077",
+      "publisher": "NSW State Archives Collection via Research Data Australia",
+      "title": "AGY-6933 Central Coast Local Health District",
+      "source_type": "government_record",
+      "locator": "Establishment, hospital list, governance and staff provisions",
+      "note": "District established 1 July 2011; includes Wyong Hospital. Minister-appointed board; staff employed through NSW Health Service, not directly by district.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-district-history"
+    },
+    {
+      "url": "https://www.health.gov.au/ministers/the-hon-emma-mcbride-mp/media/assistant-minister-mcbride-press-conference-in-lismore-16-may-2023",
+      "publisher": "Australian Government Department of Health",
+      "title": "Press conference in Lismore, 16 May 2023",
+      "source_type": "government_record",
+      "locator": "McBride statement about her community-pharmacy experience",
+      "note": "First-person account confirms community pharmacy work; employers, dates and hours not specified.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-community-pharmacy"
+    },
+    {
+      "url": "https://www.ruralhealth.org.au/9rrhss/program-speakers/",
+      "publisher": "National Rural Health Alliance",
+      "title": "9th Rural and Remote Health Scientific Symposium — speakers",
+      "source_type": "professional_profile",
+      "locator": "Emma McBride first-person biography",
+      "note": "Describes Toowoon Bay surf lifesaving patrols and Long Jetty Landcare volunteering; no dates or paid role specified.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-volunteering-profile"
     }
   ],
   "research_notes": [
@@ -346,7 +528,9 @@
     "McBride's first-person statement of 20 years in health is retained as context, not converted into an invented start date or full-time duration.",
     "Earlier pharmacist employers in Australia and England remain unidentified, preventing sector allocation.",
     "Council service, volunteer company governance, sporting governance, candidacy and federal elected office are separated from paid employment and excluded under the codebook.",
-    "No public or private full-time total is calculated because hours, leave and exact title/employment transitions remain unsupported."
+    "No public or private full-time total is calculated because hours, leave and exact title/employment transitions remain unsupported.",
+    "2026-10-01 follow-up adds the 1996 placement milestone, overseas locum and community-pharmacy detail, August 2009 bank appointment, concurrent-title evidence and distinct community activities. Corrected unknown early employers from excluded to unknown sector and removed election day as a hospital cessation date.",
+    "State archives support successive public hospital administrations; their change dates are not new personal employment boundaries. Searched employer reports, Oxford/Forbes leads, professional profiles, full-time and campaign leave wording. LinkedIn profile returned 999 but the public placement post was accessible. APH speech direct retrieval returned 403 while indexed passages remained available; 2014 bank report URL was inaccessible. Same-name overseas researchers, lawyers and other profiles were excluded. No hours inferred from seniority, rounded experience or board attendance."
   ],
   "open_questions": [
     "Which employers, roles and dates correspond to the Forbes, North Sydney, Newtown, Berkeley Vale, Belmont and Oxford work, and were they public or private?",
@@ -354,6 +538,10 @@
     "Did the specialist mental-health pharmacist function continue concurrently after appointment as chief pharmacist in 2008?",
     "When did the deputy-director appointment begin and hospital employment cease relative to preselection, campaigning and the 2 July 2016 election?",
     "What were the dates, remuneration and workload for Central Coast Heart governance, and did any other professional or nonprofit roles overlap hospital work?",
-    "What leave or work arrangements applied during the 2013 and 2016 federal campaigns?"
+    "What leave or work arrangements applied during the 2013 and 2016 federal campaigns?",
+    "Which organisation hosted the 1996 placement, and was it separately paid employment or a study requirement?",
+    "Which employer or agency engaged McBride for the overseas mental-health locum post and community pharmacy work?",
+    "Can hospital personnel records establish continuity, legal employer and leave across the 2011 administrative changes?",
+    "Can bank records establish the exact 2013 directorship cessation and distinguish Wyong District Netball patronage from Central Coast Heart roles?"
   ]
 }
