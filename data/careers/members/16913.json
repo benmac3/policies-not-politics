@@ -66,14 +66,15 @@
       "employer": "Australian Manufacturing Workers' Union (NSW/ACT Branch)",
       "employment_status": "unknown",
       "end_date": "2004",
-      "evidence_note": "Official endpoints retained; party biography places Sydney move in 2000. Representing manufacturing workers does not mean employment by those manufacturers.",
+      "evidence_note": "Official endpoints retained; party biography places Sydney move in 2000. Representing manufacturing workers does not mean employment by those manufacturers. First-person2017 address recalls organising Eveleigh refurbishment and a1995 site visit; possible earlier/overlapping union work is retained separately as an unresolved lead rather than silently replacing the official1996 start.",
       "fte_fraction": null,
       "government_control_at_time": "private",
       "headline_sector": "excluded",
       "role": "Organiser; Riverina, then aviation/defence coordination from Sydney",
       "source_ids": [
         "src-snapshot",
-        "src-party"
+        "src-party",
+        "src-eveleigh2017"
       ],
       "spell_id": "16913-organiser",
       "start_date": "1996"
@@ -105,7 +106,7 @@
       "employer": "Australian Manufacturing Workers' Union (NSW/ACT Branch)",
       "employment_status": "unknown",
       "end_date": "2017",
-      "evidence_note": "Official endpoints preserved. Employer successor article confirms departure after Senate preselection; no exact date or continuing payroll evidence.",
+      "evidence_note": "Official endpoints preserved. Employer successor article confirms departure after Senate preselection; no exact date or continuing payroll evidence. Follow-up2026-10-01: 2016 report identifies personal salary/super/service-increment remuneration $122,604 plus $637 travel/other allowances and vehicle benefit. Hours are not stated. Signed certification24February2017 establishes continued office then. State Council membership ended22September2017; this is not independently proven to be the final payroll/secretary-service day, so the official2017 employment endpoint is retained. National Council pays branch salaries, explaining the reporting unit zero-employee figure; it does not establish unpaid work.",
       "fte_fraction": null,
       "government_control_at_time": "private",
       "headline_sector": "excluded",
@@ -113,7 +114,9 @@
       "source_ids": [
         "src-snapshot",
         "src-party",
-        "src-amwu"
+        "src-amwu",
+        "src-amwu2016",
+        "src-amwu2017"
       ],
       "spell_id": "16913-secretary",
       "start_date": "2010"
@@ -156,6 +159,124 @@
       ],
       "spell_id": "16913-senate",
       "start_date": "2019-07-01"
+    },
+    {
+      "employer": "Unidentified union / ACTU cadet host unresolved",
+      "role": "Union organiser, Eveleigh refurbishment",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "union",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-eveleigh2017"
+      ],
+      "evidence_note": "Ayres recalls organising this site at age21 and separately recalls1995. No employer, employment boundaries, pay or hours supplied. Could overlap cadetship or the AMWU spell; not a second counted job.",
+      "counting_note": "Governance/union role; not established substantive full-time employment, no headline duration or overlapping years added.",
+      "spell_id": "16913-eveleigh"
+    },
+    {
+      "employer": "United Super Pty Ltd, trustee of Cbus",
+      "role": "Alternate non-executive director",
+      "start_date": "2008-08",
+      "end_date": null,
+      "date_precision": "month",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-cbus2012",
+        "src-cbus2014",
+        "src-amwu2013",
+        "src-cbus2013"
+      ],
+      "evidence_note": "Appointment month explicit. Retirement recorded in2013/14 review; exact date and calendar year unresolved, so null end does not mean ongoing. Board service is distinct from salaried staff employment. Historical trustee-sector treatment remains to be resolved.",
+      "counting_note": "Governance/union role; not established substantive full-time employment, no headline duration or overlapping years added.",
+      "spell_id": "16913-cbus"
+    },
+    {
+      "employer": "Auscoal superannuation trustee",
+      "role": "Board member",
+      "start_date": null,
+      "end_date": "2013-07",
+      "date_precision": "month",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-amwu2013"
+      ],
+      "evidence_note": "Term expiredJuly2013. Start, trustee legal entity/control and personal fees unresolved; governance only.",
+      "counting_note": "Governance/union role; not established substantive full-time employment, no headline duration or overlapping years added.",
+      "spell_id": "16913-auscoal"
+    },
+    {
+      "employer": "McKell Institute",
+      "role": "Board director",
+      "start_date": null,
+      "end_date": "2018",
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "nonprofit",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-amwu2013",
+        "src-mckell2018"
+      ],
+      "evidence_note": "2013 union filing identifies appointment;2018 review thanks departing board member. Start, exact resignation and pay unresolved; nonprofit governance.",
+      "counting_note": "Governance/union role; not established substantive full-time employment, no headline duration or overlapping years added.",
+      "spell_id": "16913-mckell"
+    },
+    {
+      "employer": "Industry Capability Network, NSW",
+      "role": "Nominated board member/director",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-amwu2013"
+      ],
+      "evidence_note": "2013 union filing identifies role. Legal employer/control, boundaries and pay unresolved; no inference from public funding or network name.",
+      "counting_note": "Governance/union role; not established substantive full-time employment, no headline duration or overlapping years added.",
+      "spell_id": "16913-icn"
+    },
+    {
+      "employer": "Mechanical and Electrical Redundancy Trust (MERT)",
+      "role": "Nominated alternate director",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-amwu2013"
+      ],
+      "evidence_note": "2013 union filing identifies alternate role. Historical trustee entity/control, dates and pay unresolved; not assumed ordinary employment.",
+      "counting_note": "Governance/union role; not established substantive full-time employment, no headline duration or overlapping years added.",
+      "spell_id": "16913-mert"
     }
   ],
   "headline": {
@@ -164,7 +285,7 @@
     "private_full_time_years": null,
     "public_full_time_years": null
   },
-  "last_reviewed": "2026-09-16",
+  "last_reviewed": "2026-10-01",
   "name": "AYRES, the Hon. Timothy (Tim)",
   "person_id": "16913",
   "research_notes": [
@@ -173,7 +294,10 @@
     "Unresolved gap: official secretary endpoint is 2017, Senate service starts 2019-07-01. AMWU successor announcement confirms departure after preselection but no exact cessation date or payroll status through 2019. Do not extend union employment to Senate entry or assume paid campaigning.",
     "First speech's broad statement about 25 years of workplace experience does not identify employer-specific dates or FTE and cannot replace the 1996 official organiser start. Cadet date must not be inferred from the national program's 1994 inception.",
     "Searches attempted: official/party/personal biography; first speech; AMWU successor and archives; 2017–2019 employment and annual-report searches; full-time and director searches. Namesake results for British artist/Canadian realtor excluded. Superannuation search results referring to other people not adopted.",
-    "Follow-up priority: ACTU cadet cohort and host union/payroll evidence, early jobs/university dates, AMWU annual officer returns and financial reports around 2017–2019, leave/cessation, ALP national-executive remuneration/dates and any paid governance roles. Last attempted 2026-09-16. Advance initial national pass before repeating queries."
+    "Follow-up priority: ACTU cadet cohort and host union/payroll evidence, early jobs/university dates, AMWU annual officer returns and financial reports around 2017–2019, leave/cessation, ALP national-executive remuneration/dates and any paid governance roles. Last attempted 2026-09-16. Advance initial national pass before repeating queries.",
+    "Systematic follow-up2026-10-01: primary union filings add five external governance roles, personal remuneration and State Council cessation. Cbus annual report dates alternate appointment; McKell review documents departure. Original supported employment spells and null headlines preserved.",
+    "FWC2018/290 and2019/269 NSW financial reports searched for Ayres, no match; absence from those reports does not prove no continuing national employment.2017 report identifies other departing employees but not him in that table. Next lead is National Council payroll/annual returns and leave records across2017–2019, using State Council22September2017 as an office boundary only.",
+    "Earlier first-person Eveleigh account merits ACTU cohort/host-union follow-up; no calendar date inferred from age21, and broad years-of-experience statements do not prove continuous service. Cbus and Media Super-hosted archival PDFs intermittently returned404 on further extraction; indexed primary appointment/retirement passages preserved with limitation. MERT and ICN historical control, complete governance terms/remuneration, substantive hours and pre-1996 work remain unresolved. Last follow-up2026-10-01; advance in national plan order."
   ],
   "research_status": "blocked",
   "snapshot_chamber": "Senator",
@@ -240,6 +364,86 @@
       "source_type": "other",
       "title": "Indexed archive profile: Tim Ayres — AMWU NSW Secretary",
       "url": "https://essentialvision.com.au/"
+    },
+    {
+      "url": "https://regorgs.fwc.gov.au/sites/default/files/migration/318/188vnsw-fr2013-395.pdf",
+      "publisher": "AMWU / Fair Work Commission",
+      "title": "NSW Branch financial report2013",
+      "source_type": "government_record",
+      "locator": "Printed pp4,6 (PDF8,10)",
+      "note": "Governance appointments; Auscoal cessation.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-amwu2013"
+    },
+    {
+      "url": "https://regorgs.fwc.gov.au/sites/default/files/migration/318/188vnsw-fr2016-330.pdf",
+      "publisher": "AMWU / Fair Work Commission",
+      "title": "NSW Branch financial report2016",
+      "source_type": "government_record",
+      "locator": "Printed p3, PDF9; certification PDF4",
+      "note": "Personal remuneration, not proof of full-time hours.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-amwu2016"
+    },
+    {
+      "url": "https://regorgs.fwc.gov.au/sites/default/files/migration/318/188vnsw-fr2017-284.pdf",
+      "publisher": "AMWU / Fair Work Commission",
+      "title": "NSW Branch financial report2017",
+      "source_type": "government_record",
+      "locator": "Printed pp3,5,13 (PDF7,9,17)",
+      "note": "State Council cessation and national payroll accounting.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-amwu2017"
+    },
+    {
+      "url": "https://www.cbussuper.com.au/content/dam/cbus/files/governance/reporting/Cbus-Annual-Report-2011-2012.pdf",
+      "publisher": "Cbus",
+      "title": "Annual Report2011/12",
+      "source_type": "employer",
+      "locator": "Printed p35, Tim Ayres biography",
+      "note": "Indexed primary biography gives alternate appointment August2008; later direct retrieval failed.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-cbus2012"
+    },
+    {
+      "url": "https://www.cbussuper.com.au/content/dam/cbus/files/governance/reporting/Cbus-Annual-Report-2013-14.pdf",
+      "publisher": "Cbus",
+      "title": "Annual Report2013/14",
+      "source_type": "employer",
+      "locator": "Opening Chair/CEO report, printed p3",
+      "note": "Indexed primary report states retirement; financial-year range is not a calendar-year endpoint.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-cbus2014"
+    },
+    {
+      "url": "https://mckellinstitute.org.au/wp-content/uploads/2019/02/McKell_Annual-Review_A4_20PG_WEB.pdf",
+      "publisher": "McKell Institute",
+      "title": "Annual Review2018",
+      "source_type": "employer",
+      "locator": "Printed p6 outgoing chair statement, PDF3",
+      "note": "Departure acknowledged during2018 review; commencement not supplied.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-mckell2018"
+    },
+    {
+      "url": "https://www.labourhistory.org.au/hummer/hummer-vol-12-no-2-2017/mcmanus/",
+      "publisher": "Australian Society for the Study of Labour History",
+      "title": "Tim Ayres: The1917 Great Strike, address17July2017",
+      "source_type": "other",
+      "locator": "Opening paragraphs, union organiser recollection",
+      "note": "First-person employment lead, with a separate recollection of the site in1995; no age-based calendar back-calculation.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-eveleigh2017"
+    },
+    {
+      "url": "https://www.resources.mediasuper.com.au/content/dam/cbus/files/governance/reporting/Annual-Report-2012-13.pdf",
+      "publisher": "Cbus",
+      "title": "Annual Report2012/13",
+      "source_type": "employer",
+      "locator": "Printed pp56,58: trustee and board governance",
+      "note": "United Super trustee; equal member/employer sponsor representation, all directors non-executive.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-cbus2013"
     }
   ]
 }
