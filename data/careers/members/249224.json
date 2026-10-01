@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/249224",
   "research_status": "blocked",
-  "last_reviewed": "2026-09-29",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -62,15 +62,16 @@
       "date_precision": "unknown",
       "employment_status": "unknown",
       "fte_fraction": null,
-      "category": "unknown",
-      "headline_sector": "unknown",
-      "government_control_at_time": "unknown",
+      "category": "public_service",
+      "headline_sector": "public",
+      "government_control_at_time": "public",
       "counting_status": "insufficient_evidence",
       "source_ids": [
         "src-1",
-        "src-2"
+        "src-2",
+        "src-9"
       ],
-      "evidence_note": "School named; historical employing entity and dates require verification.",
+      "evidence_note": "School named; historical employing entity and dates require verification. Government institutional history establishes public control; exact departmental payroll name at personal appointment still unknown.",
       "counting_note": "Dates, employer control and/or substantive full-time status remain insufficient for a duration calculation; unknown is not zero."
     },
     {
@@ -82,16 +83,18 @@
       "date_precision": "unknown",
       "employment_status": "unknown",
       "fte_fraction": null,
-      "category": "unknown",
-      "headline_sector": "unknown",
-      "government_control_at_time": "unknown",
+      "category": "public_service",
+      "headline_sector": "public",
+      "government_control_at_time": "public",
       "counting_status": "insufficient_evidence",
       "source_ids": [
         "src-1",
         "src-2",
-        "src-3"
+        "src-3",
+        "src-11",
+        "src-10"
       ],
-      "evidence_note": "Assistant-principal presence in 2008 attested; role boundaries unknown. Roles grouped to avoid double counting.",
+      "evidence_note": "Assistant-principal presence in 2008 attested; role boundaries unknown. Roles grouped to avoid double counting. Government institutional history establishes public control; exact departmental payroll name at personal appointment still unknown.2011–2014 school strategic plan cover names Ryan as Acting Principal, with blank date/signature fields. Not evidence she held role throughout plan or from its first day.",
       "counting_note": "Dates, employer control and/or substantive full-time status remain insufficient for a duration calculation; unknown is not zero."
     },
     {
@@ -120,7 +123,7 @@
     {
       "spell_id": "249224-06",
       "employer": "Werribee community campaign",
-      "role": "Campaign organiser",
+      "role": "Campaign organiser; co-writer of Hole in the Ground",
       "start_date": null,
       "end_date": null,
       "date_precision": "unknown",
@@ -131,9 +134,10 @@
       "government_control_at_time": "unknown",
       "counting_status": "excluded",
       "source_ids": [
-        "src-8"
+        "src-8",
+        "src-2"
       ],
-      "evidence_note": "Late-1990s anti-toxic-dump campaign; no evidence of paid employment.",
+      "evidence_note": "Late-1990s anti-toxic-dump campaign; no evidence of paid employment. First speech describes co-writing a play about the campaign; no paid author contract or separate employment duration established.",
       "counting_note": "Excluded from the two employment headlines under the codebook."
     },
     {
@@ -155,6 +159,44 @@
       ],
       "evidence_note": "Frozen roster start and first speech agree; parliamentary whip duties are within elected service.",
       "counting_note": "Excluded from the two employment headlines under the codebook."
+    },
+    {
+      "employer": "Employer unidentified",
+      "role": "Packer",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "unknown",
+      "government_control_at_time": "unknown",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-2"
+      ],
+      "evidence_note": "First speech recounts this work before discussing teaching degree begun1980. No employer, exact endpoints, control or hours; do not infer a full year or full-time status.",
+      "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
+      "spell_id": "249224-08"
+    },
+    {
+      "employer": "Employer unidentified",
+      "role": "Sales worker",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "unknown",
+      "government_control_at_time": "unknown",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-2"
+      ],
+      "evidence_note": "First speech recounts this work before discussing teaching degree begun1980. No employer, exact endpoints, control or hours; do not infer a full year or full-time status.",
+      "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
+      "spell_id": "249224-09"
     }
   ],
   "sources": [
@@ -173,9 +215,9 @@
       "url": "https://www.joanneryan.com.au/first_speech_to_parliament",
       "publisher": "Joanne Ryan MP",
       "title": "First speech, 18 November 2013",
-      "retrieved": "2026-09-29",
+      "retrieved": "2026-10-02",
       "source_type": "government_record",
-      "locator": "Teaching degree and former students paragraphs",
+      "locator": "Paragraphs on packing/sales,1980 study,schools and Hole in the Ground play",
       "note": "1980 course start and four schools including Darwin."
     },
     {
@@ -237,12 +279,43 @@
       "source_type": "official_biography",
       "locator": "Pre-parliament/community career",
       "note": "Teacher/principal and late-1990s local campaign."
+    },
+    {
+      "url": "https://www.vic.gov.au/laverton-secondary-college-number-7988",
+      "publisher": "Victorian Government",
+      "title": "Laverton Secondary College,No.7988",
+      "source_type": "government_record",
+      "locator": "Government Schools Directory; key dates and Details",
+      "note": "Government-school history: opened1967, renamed High to Secondary1991, merged2008. Institutional dates are not Ryan employment boundaries.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-9"
+    },
+    {
+      "url": "https://www.wyndhamcentralsc.vic.edu.au/wp-content/uploads/2013/04/WCC-Strategic-Plan-2011-2014-WEB.pdf",
+      "publisher": "Galvin Park Secondary College",
+      "title": "School Strategic Plan2011–2014",
+      "source_type": "employer",
+      "locator": "Cover p.1 endorsement by School Acting Principal",
+      "note": "Names Joanne Ryan as acting principal; signature/date fields blank. Plan period is not tenure.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-10"
+    },
+    {
+      "url": "https://www.parliament.vic.gov.au/495ed3/contentassets/e7db074109c54e749382b59c128709c9/submission-documents/20a.-department-of-education-and-training_redacted.pdf",
+      "publisher": "Victorian Department of Education and Training / Parliament of Victoria",
+      "title": "School Infrastructure Inquiry submission20a",
+      "source_type": "government_record",
+      "locator": "Printed p.40 / PDF p.42, Wyndham Central case study",
+      "note": "Government-school portfolio/departmental oversight and2011 roof collapse at former Galvin Park. Establishes historical public control, not personal payroll terms.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-11"
     }
   ],
   "research_notes": [
     "Follow-up: obtain school annual reports/departmental appointment lists for Darwin, Laverton, Galvin Park and Moonee Ponds, including substantive hours, leave and role transitions. Verify historical legal employer/control for Laverton/Galvin Park and exact Moonee Ponds appointment/resignation; investigate earlier jobs and teaching breaks.",
     "Reviewed 2026-09-29 APH, first speech, 2008 role recollection, own profile, contemporaneous ABC report, Victorian government school history, ABN history and Darwin school history. Targeted school annual-report and 2011/2012 searches did not produce personal appointment dates.",
     "Secondary accounts describe an 18-month principalship; do not back-calculate an exact start date without the underlying 2013 farewell report. APH says Central, speech says Primary: official 2013 name change resolves identity without creating two jobs.",
-    "2008 role presence is not a start boundary. Job seniority and lengthy teaching descriptions do not prove continuous full-time service. Years/FTE remain unknown; no totals calculated. Last follow-up 2026-09-29; partial initial record."
+    "2008 role presence is not a start boundary. Job seniority and lengthy teaching descriptions do not prove continuous full-time service. Years/FTE remain unknown; no totals calculated. Last follow-up 2026-09-29; partial initial record.",
+    "2026-10-02 follow-up: added previously omitted packing/sales work from first speech. Government directory and departmental historical case study resolve public control of Laverton/Galvin Park;2011–14 strategic-plan cover supplies contemporary acting-principal evidence without tenure endpoints. Moonee Ponds farewell article found but direct open returned Failed to fetch restricted URL;18-month secondary claim remains unconverted. VRQA result naming Joanne Ryan concerns Lightning Reef Primary in Bendigo: identity unverified and not added. Next: early employers, departmental appointment/leave/hours records, Galvin transition and Moonee Ponds2012–13 annual reports. Dates/FTE/totals remain unknown; public classification is not full-time proof."
   ]
 }
