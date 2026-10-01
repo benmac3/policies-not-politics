@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Greens",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/169119",
   "research_status": "blocked",
-  "last_reviewed": "2026-09-29",
+  "last_reviewed": "2026-10-01",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -34,6 +34,26 @@
       "counting_note": "Excluded from the two employment headlines under the codebook."
     },
     {
+      "employer": "Royal Agricultural Society (exact employing entity to verify)",
+      "role": "Cellarman and superintendent",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "unknown",
+      "government_control_at_time": "unknown",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-2",
+        "src-ras"
+      ],
+      "evidence_note": "First speech identifies these jobs before legal work. Dates, pay, hours and whether separate seasonal spells are unknown. NSW society is a nonprofit-classification lead; historical employer identity/control not established.",
+      "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
+      "spell_id": "169119-12"
+    },
+    {
       "spell_id": "169119-02",
       "employer": "Family Court of Australia",
       "role": "Associate to Justice Eric Baker",
@@ -50,7 +70,7 @@
         "src-1",
         "src-2"
       ],
-      "evidence_note": "Official month-level interval. Commonwealth court employment; hours and leave unknown.",
+      "evidence_note": "Official month-level interval. Commonwealth court employment; hours and leave unknown. First speech describes nearly three years with Baker, which conflicts with the two-year month-level interval in the official biography. Retain the explicit dates pending appointment/cessation records; do not extend the interval.",
       "counting_note": "Dates, employer control and/or substantive full-time status remain insufficient for a duration calculation; unknown is not zero."
     },
     {
@@ -112,13 +132,13 @@
         "src-3",
         "src-4"
       ],
-      "evidence_note": "Official interval and speech corroborate practice. Chambers location is not proof of employee status; remuneration structure and substantive workload unresolved. Bar interview says private practice ended on entering Parliament.",
+      "evidence_note": "Official interval and speech corroborate practice. Chambers location is not proof of employee status; remuneration structure and substantive workload unresolved. Bar interview says private practice ended on entering Parliament. The 22 September 2010 speech describes seven-and-a-half years at the bar and intended cessation of practice while in Parliament, retaining his certificate. This is not proof of ongoing commercial work.",
       "counting_note": "Dates, employer control and/or substantive full-time status remain insufficient for a duration calculation; unknown is not zero."
     },
     {
       "spell_id": "169119-06",
       "employer": "Woollahra Municipal Council",
-      "role": "Councillor",
+      "role": "Councillor; deputy mayor during part of term",
       "start_date": "2004-03",
       "end_date": "2012-09",
       "date_precision": "month",
@@ -129,9 +149,10 @@
       "government_control_at_time": "public",
       "counting_status": "excluded",
       "source_ids": [
-        "src-1"
+        "src-1",
+        "src-deputy"
       ],
-      "evidence_note": "Council term overlaps legal practice and state office; excluded.",
+      "evidence_note": "Council term overlaps legal practice and state office; excluded. ABC identifies him as deputy mayor on 19 November 2004. Secondary leads suggest September 2004\u2013September 2005, but exact boundaries are not adopted without primary council records.",
       "counting_note": "Excluded from the two employment headlines under the codebook."
     },
     {
@@ -237,20 +258,20 @@
       "url": "https://www.parliament.nsw.gov.au/members-and-electorates/members-and-ministers/members-details?memberId=55",
       "publisher": "Parliament of NSW",
       "title": "David Shoebridge member record",
-      "retrieved": "2026-09-29",
+      "retrieved": "2026-10-01",
       "source_type": "official_biography",
       "locator": "Biography and Legislative Council service row",
       "note": "Month-level legal career, council, community and party roles; degree years."
     },
     {
       "source_id": "src-2",
-      "url": "https://www.parliament.nsw.gov.au/member/files/55/Mr%20David%20Shoebridge%20-%20Inaugural%20speech.pdf",
+      "url": "https://files.parliament.nsw.gov.au/fileapi/ParlFiles/GetArtifact?serverRelativeUrl=/member/files/55/Mr+David+Shoebridge+-+Inaugural+speech.pdf",
       "publisher": "Parliament of NSW",
       "title": "Inaugural speech, 22 September 2010",
-      "retrieved": "2026-09-29",
+      "retrieved": "2026-10-01",
       "source_type": "government_record",
-      "locator": "Career paragraphs: Eric Baker, Taylor and Scott, Denman Chambers (indexed passage)",
-      "note": "First-person identification of employer, clients and seven-and-a-half years at the bar."
+      "locator": "PDF pp5\u20136 (indexes4\u20135), personal employment paragraphs",
+      "note": "Original parliamentary PDF URL returned 404; current file link recovered from official member biography. First-person RAS work, court-duration account, Taylor and Scott and Denman practice; no full-time hours for those jobs."
     },
     {
       "source_id": "src-3",
@@ -267,7 +288,7 @@
       "url": "https://bn.nswbar.asn.au/article/between-worlds-barristers-in-new-south-wales-politics",
       "publisher": "NSW Bar Association",
       "title": "Between worlds: barristers in NSW politics",
-      "retrieved": "2026-09-29",
+      "retrieved": "2026-10-01",
       "source_type": "professional_profile",
       "locator": "What challenges did they face upon election?",
       "note": "First-person account of ceasing private practice on parliamentary entry; date typo elsewhere."
@@ -291,12 +312,34 @@
       "source_type": "official_biography",
       "locator": "data/parliament.json, 10 September 2026 snapshot",
       "note": "Senate commencement; no occupation entries in frozen import."
+    },
+    {
+      "url": "https://www.rasnsw.com.au/about-us/",
+      "publisher": "Royal Agricultural Society of NSW",
+      "title": "About Us",
+      "source_type": "employer",
+      "locator": "Organisation description and Careers and Volunteering",
+      "note": "Current self-description as nonprofit is a classification lead, not proof of the precise employing entity or its historical control during Shoebridge\u2019s undated work.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-ras"
+    },
+    {
+      "url": "https://www.abc.net.au/worldtoday/archive/articles/2004/11/19/s1247422.htm",
+      "publisher": "ABC The World Today",
+      "title": "Sydney residents propose building own desalination plants, 19 November 2004",
+      "source_type": "news",
+      "locator": "Indexed introduction identifies Deputy Mayor David Shoebridge",
+      "note": "Contemporary point-in-time confirmation of deputy-mayor role; direct opening returned 503, indexed text available. Exact term boundaries require council records.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-deputy"
     }
   ],
   "research_notes": [
-    "Seek court and Taylor and Scott appointment/hours/leave evidence, Denman practice workload and cessation records, and identity/dates of brief corporate-law role; resolve March–June 1998 transition and overlaps with council, party and community governance.",
+    "Seek court and Taylor and Scott appointment/hours/leave evidence, Denman practice workload and cessation records, and identity/dates of brief corporate-law role; resolve March\u2013June 1998 transition and overlaps with council, party and community governance.",
     "2026-09-29 initial avenues: NSW detailed biography, inaugural speech indexed passages, BenchTV professional profile, NSW Bar Association interview, contemporary retrospective press and explicit full-time searches. APH direct opening failed; frozen roster contains no occupations. State record supplies missing month dates.",
     "NSW Bar article calls Shoebridge's Legislative Council appointment 2008; official state service record establishes 7 September 2010. Preserve correct official date and do not propagate the article's apparent typo. Its first-person cessation account is separately useful.",
-    "Corporate-law interview is a lead with unnamed employer; do not infer exact dates from the March–June 1998 gap. Retained practising certificate and self-represented litigation are not evidence of continuing commercial employment. Month precision and unknown hours prevent headline calculation under the approved methodology."
+    "Corporate-law interview is a lead with unnamed employer; do not infer exact dates from the March\u2013June 1998 gap. Retained practising certificate and self-represented litigation are not evidence of continuing commercial employment. Month precision and unknown hours prevent headline calculation under the approved methodology.",
+    "2026-10-01 systematic follow-up: reopened NSW biography and recovered full inaugural speech using its replacement file link; reviewed NSW Bar interview, targeted corporate-firm and deputy-mayor searches, RAS employer description and contemporary ABC index. Added previously missing RAS work, court-duration discrepancy and deputy-mayor point evidence. Searches did not name the short corporate-law employer or establish workload/leave; do not repeat identical searches without new leads.",
+    "Next evidence priorities: RAS payroll/seasonal appointment records and exact entity; Family Court associate appointment/cessation records resolving speech versus biography; Taylor and Scott/Denman hours, breaks and departure records; corporate-firm name; council minutes for deputy-mayor boundaries. No dates inferred from career gaps; all headline totals remain null."
   ]
 }
