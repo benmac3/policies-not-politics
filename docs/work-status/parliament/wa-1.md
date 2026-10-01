@@ -67,3 +67,5 @@ Detailed attempted avenues, discrepancies and remaining leads are preserved in e
 - Outcome: ongoing. STOPPING REASON: none; continuing to next member after remote verification. Scheduler terminal status not exposed. Successor not requested while research remains active.
 - Validation: record schema/enums/source references/date syntax, build_careers.load_records(), batch coverage and repository validation. Only assigned member and checkpoint changed.
 - Recovered source errors: APH open (403) Forbidden; obsolete biography URL inaccessible; Anglicare PDF open (400) Content length is too large: 15893687. Alternative first-party and indexed evidence used.
+
+- Keogh source-type normalization: annual reports use employer; Hansard uses government_record. Metadata-only correction, excluded from substantive progress counts.
