@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/182468",
   "research_status": "blocked",
-  "last_reviewed": "2026-09-29",
+  "last_reviewed": "2026-10-01",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -14,6 +14,26 @@
     "note": "Private legal work is established, but full-time status is not. Union, party, governance, community and parliamentary roles are excluded. No numerical employment headline can yet be supported."
   },
   "career_spells": [
+    {
+      "employer": "South Sydney Junior Rugby League Club",
+      "role": "Work while a university student; job title unresolved",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "nonprofit",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-first2011",
+        "src-club"
+      ],
+      "evidence_note": "First speech explicitly recalls several years working at this club while studying. Distinct from grandfather’s South Sydney rugby administration and own surf lifesaving. Later club submission identifies nonprofit member ownership; historical constitution, remuneration, title, dates and hours still need confirmation. Student status alone does not prove part-time.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "182468-15"
+    },
     {
       "spell_id": "182468-01",
       "employer": "Australian Workers Union",
@@ -59,9 +79,9 @@
       "spell_id": "182468-03",
       "employer": "Australian Labor Party, NSW",
       "role": "General secretary",
-      "start_date": "2008",
+      "start_date": "2008-10",
       "end_date": "2010",
-      "date_precision": "year",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "party_organisation",
@@ -70,9 +90,10 @@
       "counting_status": "excluded",
       "source_ids": [
         "src-1",
-        "src-2"
+        "src-2",
+        "src-sta2009"
       ],
-      "evidence_note": "Party employment excluded regardless of hours.",
+      "evidence_note": "Party employment excluded regardless of hours. State Transit2008–09 report places appointment in October2008; end retains APH year precision.",
       "counting_note": "Excluded from the two employment headlines under the codebook."
     },
     {
@@ -91,7 +112,8 @@
       "source_ids": [
         "src-1",
         "src-2",
-        "src-3"
+        "src-3",
+        "src-linkedin-lead"
       ],
       "evidence_note": "APH provides year dates and solicitor title; DFAT senior consultant. Defence retrospectively uses King & Wood Mallesons. Preserve contemporaneous employer, one spell, no inferred full-time status or employment beyond 2011.",
       "counting_note": "Dates, employer control and/or substantive full-time status remain insufficient for a duration calculation; unknown is not zero."
@@ -100,9 +122,9 @@
       "spell_id": "182468-05",
       "employer": "State Transit Authority of NSW",
       "role": "Director",
-      "start_date": null,
-      "end_date": null,
-      "date_precision": "unknown",
+      "start_date": "2005-07",
+      "end_date": "2008-10",
+      "date_precision": "month",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "public_corporation",
@@ -111,9 +133,11 @@
       "counting_status": "excluded",
       "source_ids": [
         "src-2",
-        "src-4"
+        "src-4",
+        "src-sta2007",
+        "src-sta2009"
       ],
-      "evidence_note": "Public authority board governance, not demonstrated substantive public employment. Appointment dates, remuneration and workload unresolved.",
+      "evidence_note": "State Transit reports explicitly establish appointment July2005 and resignation October2008 on transition to NSW Labor general secretary. Report-period attendance heading July–September2008 is not the original commencement. Public authority board governance remains excluded; no substantive employment or hours inferred.",
       "counting_note": "Excluded from the two employment headlines under the codebook."
     },
     {
@@ -187,9 +211,10 @@
       "government_control_at_time": "private",
       "counting_status": "excluded",
       "source_ids": [
-        "src-2"
+        "src-2",
+        "src-first2011"
       ],
-      "evidence_note": "Biography reports four years without dates; duration not converted into invented endpoints. Community governance excluded.",
+      "evidence_note": "Biography reports four years without dates; duration not converted into invented endpoints. Community governance excluded. First speech confirms presidency during2006 centenary, a point within tenure; it does not establish endpoints of the reported four years.",
       "counting_note": "Excluded from the two employment headlines under the codebook."
     },
     {
@@ -340,6 +365,56 @@
       "source_type": "other",
       "locator": "Author biography",
       "note": "Contemporaneous profile corroborates broader experience; no full-time evidence."
+    },
+    {
+      "url": "https://www.parliament.nsw.gov.au/tp/files/46781/State%20Transit%200607_AnnualReport.pdf",
+      "publisher": "State Transit Authority of NSW",
+      "title": "Annual Report2006–07",
+      "source_type": "government_record",
+      "locator": "State Transit Board members2006/07, Matt Thistlethwaite biography, indexed extract",
+      "note": "Explicitly appointed July2005; repeated in2005–06 and2007–08 reports. PDF opens but subsequent text find failed, so relied on primary indexed paragraph; no exact day inferred.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-sta2007"
+    },
+    {
+      "url": "https://www.parliament.nsw.gov.au/tp/files/60863/State%20Transit%200809_AnnualReport.pdf",
+      "publisher": "State Transit Authority of NSW",
+      "title": "Annual Report2008–09",
+      "source_type": "government_record",
+      "locator": "State Transit Board Members2008/09, Thistlethwaite paragraph and attendance table",
+      "note": "Narrative says resigned October2008 on appointment as NSW Labor general secretary; attendance heading July–September2008 describes report-period service and is not original appointment date. Two meetings attended; not a measure of employment hours.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-sta2009"
+    },
+    {
+      "url": "https://www.openaustralia.org.au/senate/?id=2011-08-18.169.2",
+      "publisher": "OpenAustralia reproducing Senate Hansard",
+      "title": "First speech,18August2011,5pm",
+      "source_type": "government_record",
+      "locator": "Paragraph beginning For many years during my time as a university student; Maroubra centenary paragraph",
+      "note": "First-person evidence of previously missing work at South Sydney Junior Rugby League Club while studying and presidency of Maroubra SLSC in2006. No club job title, dates or hours.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-first2011"
+    },
+    {
+      "url": "https://majorprojects.planningportal.nsw.gov.au/prweb/PRRestService/mp/01/getContent?AttachRef=EXH-2%2120191212T025206.419+GMT",
+      "publisher": "South Sydney Junior Rugby League Club, submission hosted by NSW Planning",
+      "title": "CBD and South East Light Rail Project submission",
+      "source_type": "employer",
+      "locator": "Opening organisational description, indexed text",
+      "note": "Club describes itself as a nonprofit member-owned community organisation employing paid staff. Later statement does not establish historical terms of Thistlethwaite’s individual work.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-club"
+    },
+    {
+      "url": "https://au.linkedin.com/in/mattthistlethwaitemp",
+      "publisher": "Matt Thistlethwaite / LinkedIn",
+      "title": "Public professional profile",
+      "source_type": "professional_profile",
+      "locator": "Search-index result displaying Senior Consultant and September2010–July2011",
+      "note": "Potential primary corroboration of earlier month-date lead; direct public profile returned999 and subsequent searches failed to expose full experience block. Retain lead, not definitive finer personal employment boundaries or full-time status.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-linkedin-lead"
     }
   ],
   "research_notes": [
@@ -349,6 +424,8 @@
     "2026-09-29: attempted first-speech Hansard retrieval (18 August 2011) without usable full transcript. No career facts inferred from inaccessible text. Legitimately public LinkedIn result showed current activity, not employment chronology.",
     "Unverified lead only: SignalHire supplied month-level dates for Mallesons (September 2010–July 2011), party (October 2008–August 2010), Unions NSW (June 2004–October 2008), AWU (May 1995–July 2004). Do not promote these data-broker dates without reliable confirmation; no contact data collected.",
     "Study/qualifications: economics degree and law diploma (graduated 2001) do not establish paid work. Potential study/work overlap remains unresolved; no study time counted.",
-    "All headline values remain null: incomplete history and hours evidence are missing evidence, not zero. Later follow-up must cover excluded roles as chronology as well as potentially countable employment."
+    "All headline values remain null: incomplete history and hours evidence are missing evidence, not zero. Later follow-up must cover excluded roles as chronology as well as potentially countable employment.",
+    "2026-10-01 follow-up: recovered full2011 first speech through OpenAustralia, adding previously absent student-period club work and anchoring surf-club presidency within2006. Relatives’ jobs are not attributed to member. State Transit primary annual reports resolve July2005 appointment and October2008 resignation; old unknown-date notes superseded. NSW Labor commencement refined to October2008 only.",
+    "Avenues: State Transit2005–06/2006–07/2007–08/2008–09 indexed board paragraphs;2007–08 direct PDF redirect500 and data.nsw copy inaccessible;2011 Senate and2013 House first-speech transcripts; primary club submission; public professional profile indexed result, direct999; Mallesons/full-time searches and manufacturing-council searches. No reliable full-time evidence obtained. Month-level Mallesons lead remains provisional because full experience block unavailable. Next leads: historical club employment and constitution, Mallesons appointment/cessation and hours, council/racing/jockey appointments, surf presidency endpoints and any2013 inter-house-gap work. No outreach or contact data collected."
   ]
 }
