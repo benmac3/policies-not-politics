@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/LTU",
   "research_status": "blocked",
-  "last_reviewed": "2026-09-29",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -54,9 +54,10 @@
         "src-3",
         "src-4",
         "src-5",
-        "src-6"
+        "src-6",
+        "oct2-anmj"
       ],
-      "evidence_note": "Direct accounts establish full-time shift nursing and nursing during honorary union service. Public hospital identity supported by contemporaneous account of public-sector work and unsuccessful privatisation. Endpoints, changes in hours and leave unknown; do not apply full-time status to an invented 15-year interval.",
+      "evidence_note": "Direct accounts establish full-time shift nursing and nursing during honorary union service. Public hospital identity supported by contemporaneous account of public-sector work and unsuccessful privatisation. Endpoints, changes in hours and leave unknown; do not apply full-time status to an invented 15-year interval.2019 union interview corroborates full-time nursing during honorary presidencies, but no exact continuous interval.",
       "counting_note": "Dates, employer control and/or substantive full-time status remain insufficient for a duration calculation; unknown is not zero."
     },
     {
@@ -118,9 +119,11 @@
       "counting_status": "excluded",
       "source_ids": [
         "src-2",
-        "src-3"
+        "src-3",
+        "oct2-return",
+        "oct2-alias"
       ],
-      "evidence_note": "Honorary role while nursing. Exact tenure unresolved.",
+      "evidence_note": "Honorary role while nursing. Exact tenure unresolved. Statutory return lodged5 February2003 lists Cowin as federal president. Observation not appointment/end date.",
       "counting_note": "Excluded from the two employment headlines under the codebook."
     },
     {
@@ -140,9 +143,13 @@
         "src-1",
         "src-2",
         "src-3",
-        "src-6"
+        "src-6",
+        "oct2-return",
+        "oct2-poverty",
+        "oct2-alias",
+        "oct2-anmj"
       ],
-      "evidence_note": "APH and union retrospective say 2002; first speech says elected in 2003, and ACTU 2010 biography also uses 2003 for elected official. Preserve conflict, no unsupported precise transition date.",
+      "evidence_note": "APH and union retrospective say 2002; first speech says elected in 2003, and ACTU 2010 biography also uses 2003 for elected official. Preserve conflict, no unsupported precise transition date. Contemporaneous return still lists Denis Jones in this office on5 February2003; Cowin signs as assistant secretary7 April2003. This narrows the observed office transition but not nursing cessation or payroll commencement. Official2002 year retained as disputed pending appointment record.",
       "counting_note": "Excluded from the two employment headlines under the codebook."
     },
     {
@@ -213,8 +220,8 @@
       "employer": "Cbus",
       "role": "Board member",
       "start_date": null,
-      "end_date": null,
-      "date_precision": "unknown",
+      "end_date": "2018-03",
+      "date_precision": "month",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "unknown",
@@ -222,9 +229,10 @@
       "government_control_at_time": "private",
       "counting_status": "excluded",
       "source_ids": [
-        "src-9"
+        "src-9",
+        "oct2-cbus"
       ],
-      "evidence_note": "First-person retrospective places this after HESTA; no endpoints. Governance excluded without assuming full-time employment or personal receipt of fees.",
+      "evidence_note": "First-person retrospective places this after HESTA; no endpoints. Governance excluded without assuming full-time employment or personal receipt of fees. Employer annual report supplies resignation month March2018; start remains unknown.",
       "counting_note": "Excluded from the two employment headlines under the codebook."
     },
     {
@@ -264,6 +272,25 @@
       ],
       "evidence_note": "Federal elected service and ministerial appointments excluded.",
       "counting_note": "Excluded from the two employment headlines under the codebook."
+    },
+    {
+      "employer": "Australian Nursing Federation",
+      "role": "Workplace job representative",
+      "start_date": "1993",
+      "end_date": null,
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "union",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "oct2-anmj"
+      ],
+      "evidence_note": "Union journal dates initial job-representative activity to1993. Concurrent nursing; pay and end unknown.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "LTU-rep"
     }
   ],
   "sources": [
@@ -366,6 +393,56 @@
       "source_type": "employer",
       "locator": "Mercy Private Hospital history",
       "note": "Religious health ministry established by Sisters of Mercy; private does not mean for-profit business employment."
+    },
+    {
+      "url": "https://regorgs.fwc.gov.au/sites/default/files/migration/342/145v-ar2003-119.pdf",
+      "publisher": "Australian Nursing Federation / Australian Industrial Registry",
+      "title": "Annual return for2002, lodged5 February2003",
+      "source_type": "government_record",
+      "locator": "Cover and Attachment A, PDF pp1–3; table visually checked",
+      "note": "Ged Cowin listed as Federal President and Denis Jones as Assistant Federal Secretary; election scheduled20 February–13 March2003.",
+      "retrieved": "2026-10-02",
+      "source_id": "oct2-return"
+    },
+    {
+      "url": "https://www.aph.gov.au/~/media/wopapub/senate/committee/clac_ctte/completed_inquiries/2002_04/poverty/submissions/sub175_pdf.ashx",
+      "publisher": "Australian Nursing Federation / Senate committee",
+      "title": "Poverty inquiry submission cover,7 April2003",
+      "source_type": "government_record",
+      "locator": "Indexed cover letter, signature block",
+      "note": "Ged Cowin signs as Assistant Federal Secretary. Direct open Internal Error; readable official indexed text used.",
+      "retrieved": "2026-10-02",
+      "source_id": "oct2-poverty"
+    },
+    {
+      "url": "https://otr.anmfvic.asn.au/articles/new-leadership-for-victorian-nurses-and-midwives-union/",
+      "publisher": "ANMF Victorian Branch",
+      "title": "New leadership for Victorian nurses and midwives union",
+      "source_type": "employer",
+      "locator": "Paragraph listing former branch presidents",
+      "note": "Explicitly identifies Ged Kearney (Cowin), supporting name reconciliation.",
+      "retrieved": "2026-10-02",
+      "source_id": "oct2-alias"
+    },
+    {
+      "url": "https://www.cbussuper.com.au/content/dam/cbus/files/governance/reporting/Annual-Integrated-Report-2018.pdf",
+      "publisher": "Cbus / United Super Pty Ltd",
+      "title": "Annual Integrated Report2018",
+      "source_type": "employer",
+      "locator": "Printed p53 footnote and nominations committee; p6 chair",
+      "note": "Resigned March2018; Kara Keys replacement. Month, not an exact final day.",
+      "retrieved": "2026-10-02",
+      "source_id": "oct2-cbus"
+    },
+    {
+      "url": "https://anmj.org.au/wp-content/uploads/2019/05/ANMJ-%E2%80%93-Apr-Jun-2019-LO-RES-COMPLETE-correx.pdf",
+      "publisher": "Australian Nursing and Midwifery Journal",
+      "title": "Nurses in politics: advocacy and leadership, Apr–Jun2019",
+      "source_type": "employer",
+      "locator": "Printed p30, PDF p32",
+      "note": "Job representative from1993; honorary presidencies alongside full-time nursing; assistant secretary election2003. Training description differs from direct first speech.",
+      "retrieved": "2026-10-02",
+      "source_id": "oct2-anmj"
     }
   ],
   "research_notes": [
@@ -374,6 +451,9 @@
     "The 15-year public-sector description in the 2008 author bio is a rounded retrospective without endpoints, and does not establish that every year was full-time or leave-free. Do not subtract 15 from the 2002/2003 union transition to invent a start date.",
     "Training interruption: first speech describes a return seven weeks after childbirth. Start of leave and calendar dates are unknown. Other family-related breaks or hour changes are not established; do not assume none. Nursing registration in 1985 and education degree are study/qualification evidence rather than separate jobs.",
     "2026-09-29: searched historical Austin annual-report catalogues, full-time nursing terms, Cbus appointment records and Skills Australia board leads. Retrieved catalogues did not resolve the historical personnel dates. HESTA annual report confirms resignation, but Cbus/Skills appointment endpoints remain follow-up work.",
-    "Potential early family hotel work is not established from the father's occupation and is not entered as employment. Public/private sector descriptions in biographies do not override nonprofit employer classification. All headline totals remain null; overlapping nursing and union roles are not additive."
+    "Potential early family hotel work is not established from the father's occupation and is not entered as employment. Public/private sector descriptions in biographies do not override nonprofit employer classification. All headline totals remain null; overlapping nursing and union roles are not additive.",
+    "Follow-up2026-10-02: regulator-held union return and7 April2003 submission narrow the observed president-to-assistant-secretary transition; preserved2002/2003 source conflict. Cbus resignation month resolved. Added1993 workplace representative role separately.",
+    "Searched Austin/Cowin historical records and employer/union/government reports. ANMJ2019 says trained at Austin, whereas direct first speech identifies Mercy; do not replace stronger first-person training account. PUPPS2004 article acknowledgement naming Cowin on a working group is a follow-up lead, not proof of employment.",
+    "APH submission direct open Internal Error and AWPA report403; official indexed cover usable. No exact nursing start/cessation, hours changes or leave recovered. Next:2003 election/appointment result and Austin cessation record; earliest Cbus/HESTA appointments; Skills Australia/AWPA appointment terms."
   ]
 }
