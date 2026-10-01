@@ -6,7 +6,7 @@
   "snapshot_party": "Liberal Party of Australia",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/124514",
   "research_status": "blocked",
-  "last_reviewed": "2026-09-29",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -67,9 +67,10 @@
       "counting_status": "insufficient_evidence",
       "source_ids": [
         "src-2",
-        "src-4"
+        "src-4",
+        "src-15"
       ],
-      "evidence_note": "Commercial legal employment. Articles and practice confirmed; no full-time or precise period evidence.",
+      "evidence_note": "Commercial legal employment. Articles and practice confirmed; no full-time or precise period evidence. Her2026 NESA speech places Corrs then Freehills practice broadly in the late1990s and early2000s; no invented calendar endpoints.",
       "counting_note": "Dates, employer control and/or substantive full-time status remain insufficient for a duration calculation; unknown is not zero."
     },
     {
@@ -108,9 +109,10 @@
       "source_ids": [
         "src-2",
         "src-6",
-        "src-8"
+        "src-8",
+        "src-15"
       ],
-      "evidence_note": "Own speech confirms firm and senior-associate role. Later biographies use Herbert Smith Freehills retrospectively; no assertion she worked after that merger. Hours and endpoints unresolved.",
+      "evidence_note": "Own speech confirms firm and senior-associate role. Later biographies use Herbert Smith Freehills retrospectively; no assertion she worked after that merger. Hours and endpoints unresolved. Her2026 NESA speech places Corrs then Freehills practice broadly in the late1990s and early2000s; no invented calendar endpoints.",
       "counting_note": "Dates, employer control and/or substantive full-time status remain insufficient for a duration calculation; unknown is not zero."
     },
     {
@@ -134,11 +136,11 @@
     },
     {
       "spell_id": "124514-07",
-      "employer": "Federal education, communications and arts ministerial offices",
-      "role": "Policy adviser / senior political staff",
-      "start_date": null,
-      "end_date": null,
-      "date_precision": "unknown",
+      "employer": "Offices of Ministers for Education, Science and Training, Brendan Nelson and Julie Bishop",
+      "role": "Senior adviser",
+      "start_date": "2003",
+      "end_date": "2006",
+      "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "political_staff",
@@ -147,15 +149,17 @@
       "counting_status": "excluded",
       "source_ids": [
         "src-4",
-        "src-12"
+        "src-12",
+        "src-14",
+        "src-15"
       ],
-      "evidence_note": "School speech confirms portfolio sequence. Secondary account identifies Brendan Nelson and a 2004 return; appointment records needed before exact segmentation.",
+      "evidence_note": "The March2009 former-employer author biography supplies2003–2006 across Nelson and Bishop. Retain the earlier secondary2004 return-to-policy description as an unresolved start-year conflict. Transition between ministers, hours and continuity unproven. Previously combined communications and arts roles are now separate spells; no duplicate counting. Her2026 speech confirms Nelson advice during2004 but does not settle the starting-year conflict.",
       "counting_note": "Excluded from the two employment headlines under the codebook."
     },
     {
       "spell_id": "124514-08",
       "employer": "Fondation pour l'innovation politique, France",
-      "role": "Researcher",
+      "role": "Senior researcher / associate researcher",
       "start_date": "2008",
       "end_date": null,
       "date_precision": "mixed",
@@ -167,9 +171,10 @@
       "counting_status": "excluded",
       "source_ids": [
         "src-5",
-        "src-13"
+        "src-13",
+        "src-14"
       ],
-      "evidence_note": "French report identifies 2008 research and an offer for one year; employment end and hours not proven. March 2009 publication is not an endpoint. Think-tank work is not government service merely because government hosts the biography.",
+      "evidence_note": "French report identifies 2008 research and an offer for one year; employment end and hours not proven. March 2009 publication is not an endpoint. Think-tank work is not government service merely because government hosts the biography. Former employer March2009 biography explicitly calls her Senior Researcher during2008, retrospectively; this narrows the known role but does not establish exact cessation or a full year of work.",
       "counting_note": "Excluded from the two employment headlines under the codebook."
     },
     {
@@ -487,6 +492,45 @@
       ],
       "evidence_note": "Study distinct from concurrent research and part-time political work.",
       "counting_note": "Excluded from the two employment headlines under the codebook."
+    },
+    {
+      "employer": "Office of Minister for Arts and Sport, Senator George Brandis",
+      "role": "Chief of staff",
+      "start_date": "2007",
+      "end_date": "2007",
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "political_staff",
+      "headline_sector": "excluded",
+      "government_control_at_time": "public",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-14"
+      ],
+      "evidence_note": "Former-employer2009 biography places this political appointment in2007; year label not twelve months or exact endpoints. Distinct from departmental service.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "124514-25"
+    },
+    {
+      "employer": "Federal communications ministerial office",
+      "role": "Senior policy / political staff",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "political_staff",
+      "headline_sector": "excluded",
+      "government_control_at_time": "public",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-4",
+        "src-12"
+      ],
+      "evidence_note": "Previously included in combined portfolio spell; retained separately to preserve supported sequence while dates and principal remain unresolved. Do not infer uninterrupted2003–2007 employment.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "124514-26"
     }
   ],
   "sources": [
@@ -619,6 +663,26 @@
       "source_type": "employer",
       "locator": "Indexed publications listing, Zoe McKenzie, 13 March 2009",
       "note": "Corroborates publication after 2008 appointment; publication date is not contract end."
+    },
+    {
+      "url": "https://www.fondapol.org/etude/mckenzie-reformer-enseignement-superieur-experience-australie/",
+      "publisher": "Fondation pour l’innovation politique",
+      "title": "La réforme de l’enseignement supérieur en Australie, March2009",
+      "source_type": "employer",
+      "locator": "Author biography immediately before Introduction",
+      "note": "Former employer identifies Senior Researcher during2008, senior adviser to Brendan Nelson and Julie Bishop2003–2006, and chief of staff to George Brandis in2007. This contemporary chronology differs from secondary2004 start; neither proves hours.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-14"
+    },
+    {
+      "url": "https://www.zoemckenzie.com.au/speeches/nesa-national-conference-2026/",
+      "publisher": "Zoe McKenzie MP",
+      "title": "NESA National Conference2026 speech",
+      "source_type": "official_biography",
+      "locator": "Paragraphs beginning When I practiced and The schools were founded",
+      "note": "First-person recollection places Corrs then Freehills in late1990s/early2000s and Nelson advice in2004; no exact contract endpoints or hours.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-15"
     }
   ],
   "research_notes": [
@@ -627,6 +691,7 @@
     "Targeted searches for Corrs, Freehills, KPMG, full-time work, Trade and Investment Advisory founding and Fondation chronology did not supply employment hours or complete endpoints. Excluded unrelated US/Canadian namesakes and profile aggregators. Remaining leads include law-firm alumni archives, foundation annual staffing records and public professional CV.",
     "Primary speech reveals a departmental secondment omitted from standard biography; do not count as public service without employer evidence or double-count underlying legal work. A 2003 promotion and 2004 policy return appear in secondary biography, not yet substantiated by inspected primary records.",
     "French original describes chief adviser to Victorian Premier in 2011–2013 and former head of KPMG chairman's office. Research offer was for one year in 2008; hours and actual endpoint remain unknown. Broader council biography mentions French government advice but does not identify a separate appointment; retain that as a lead, not invented public employment.",
-    "Concurrent directorships, advisory committees and business operation remain separate. Board fees, principal and senior-associate titles cannot establish full-time duration. Unknown is not zero; record remains blocked despite substantial chronology recovery."
+    "Concurrent directorships, advisory committees and business operation remain separate. Board fees, principal and senior-associate titles cannot establish full-time duration. Unknown is not zero; record remains blocked despite substantial chronology recovery.",
+    "2026-10-02 follow-up located contemporary Fondapol author biography, separating dated Nelson/Bishop2003–2006 and Brandis2007 political roles and confirming senior research in2008. The2003/2004 start conflict is explicit; no full-time inference. Searches for KPMG tenure, law-firm promotion records and advisory-business founding produced no admissible hours/endpoints. An aggregation profile suggests July2016 business founding and November2013 Robb appointment, but is discovery-only and not entered as dates; seek primary business/ministerial records. Namesake professional profiles excluded. Next: KPMG chairman/CEO office archives, Freehills2003 promotions, and business registration corroborated with actual work rather than registration alone. Both totals remain null."
   ]
 }
