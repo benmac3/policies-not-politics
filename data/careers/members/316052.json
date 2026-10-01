@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/316052",
   "research_status": "blocked",
-  "last_reviewed": "2026-09-29",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -16,8 +16,8 @@
   "career_spells": [
     {
       "spell_id": "316052-01",
-      "employer": "Government department not identified",
-      "role": "Public servant, migrant/refugee settlement",
+      "employer": "Commonwealth Department of Home Affairs",
+      "role": "Public servant; protection obligations decision-maker",
       "start_date": null,
       "end_date": null,
       "date_precision": "unknown",
@@ -29,9 +29,10 @@
       "counting_status": "insufficient_evidence",
       "source_ids": [
         "src-2",
-        "src-5"
+        "src-5",
+        "src-6"
       ],
-      "evidence_note": "Public-service capacity supported, employing department and dated postings unknown.",
+      "evidence_note": "First-person30October2025 Hansard identifies Home Affairs and assessment of protection visas, including interviewing applicants and assessing claims. Dates/hours unknown. Earlier migrant/refugee settlement descriptions may span this and other departments. His phrase last job is not used to overwrite the documented court-to-Slater sequence; last departmental role versus later return is unresolved.",
       "counting_note": "Dates, employer control and/or substantive full-time status remain insufficient for a duration calculation; unknown is not zero."
     },
     {
@@ -76,7 +77,7 @@
     {
       "spell_id": "316052-04",
       "employer": "Union organisation unidentified",
-      "role": "Work in union movement, role unresolved",
+      "role": "Union delegate during public-service work",
       "start_date": null,
       "end_date": null,
       "date_precision": "unknown",
@@ -87,14 +88,15 @@
       "government_control_at_time": "unknown",
       "counting_status": "excluded",
       "source_ids": [
-        "src-4"
+        "src-4",
+        "src-3"
       ],
-      "evidence_note": "Employer retrospectively mentions union experience; paid employment versus other participation needs clarification.",
+      "evidence_note": "Employer retrospectively mentions union experience; paid employment versus other participation needs clarification. Re-inspected public employer announcement expressly says Union Delegate during public-service experience. Union identity, dates and paid release unknown; no separate salaried union position inferred.",
       "counting_note": "Excluded from the two employment headlines under the codebook."
     },
     {
       "spell_id": "316052-05",
-      "employer": "Community legal centre(s), aged-care home and other community organisations unidentified",
+      "employer": "Fitzroy Legal Service; local kindergarten committee; other community legal centre(s) and aged-care home unidentified",
       "role": "Volunteer",
       "start_date": null,
       "end_date": null,
@@ -107,9 +109,10 @@
       "counting_status": "excluded",
       "source_ids": [
         "src-2",
-        "src-5"
+        "src-5",
+        "src-3"
       ],
-      "evidence_note": "First-person account expressly identifies volunteering; do not count it as paid legal/public work.",
+      "evidence_note": "First-person account expressly identifies volunteering; do not count it as paid legal/public work. Public Slater announcement identifies Fitzroy Legal Service and local kindergarten committee; no dates or paid employment claimed.",
       "counting_note": "Excluded from the two employment headlines under the codebook."
     },
     {
@@ -130,6 +133,27 @@
       ],
       "evidence_note": "Frozen roster start retained; ongoing elected service excluded.",
       "counting_note": "Excluded from the two employment headlines under the codebook."
+    },
+    {
+      "employer": "Other government department(s) unidentified",
+      "role": "Public-service work; migrant/refugee settlement and aged-care fields",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "public_service",
+      "headline_sector": "public",
+      "government_control_at_time": "public",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-2",
+        "src-5",
+        "src-7"
+      ],
+      "evidence_note": "August2025 Hansard explicitly refers to various departments. This residual entry preserves other undated public-service work rather than attributing every role to Home Affairs; department names, specific functions and overlaps unknown. Not an additional calculable interval.",
+      "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
+      "spell_id": "316052-07"
     }
   ],
   "sources": [
@@ -158,7 +182,7 @@
       "url": "https://www.linkedin.com/posts/slater-%26-gordon_were-thrilled-to-announce-that-our-very-activity-7294885238323691520-6ks9",
       "publisher": "Slater and Gordon",
       "title": "Election candidates announcement",
-      "retrieved": "2026-09-29",
+      "retrieved": "2026-10-02",
       "source_type": "employer",
       "locator": "Gabriel paragraph (publicly indexed)",
       "note": "Joined Ringwood Work & Road in 2024 after County Court associate role to Judge Pillay; do not apply Matt Gregg's dates to Ng."
@@ -182,12 +206,33 @@
       "source_type": "government_record",
       "locator": "Paragraph beginning That good fortune",
       "note": "First-person description of volunteer aged-care/community legal work, migrant/refugee public service and plaintiff law."
+    },
+    {
+      "url": "https://www.openaustralia.org.au/debate/?id=2025-10-30.27.1",
+      "publisher": "House of Representatives Hansard / OpenAustralia",
+      "title": "Administrative Review Tribunal bill, Gabriel Ng,30 October2025,12:21pm",
+      "source_type": "government_record",
+      "locator": "Opening paragraph and paragraph beginning This brings me back",
+      "note": "Names Home Affairs and protection obligations decision-maker work. Phrase last job is contextually ambiguous given independently documented court/Slater sequence; no ordering inferred.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-6"
+    },
+    {
+      "url": "https://www.openaustralia.org.au/debates/?id=2025-08-27.126.1",
+      "publisher": "House of Representatives Hansard / OpenAustralia",
+      "title": "Commonwealth Workplace Protection Orders bill, Gabriel Ng,27 August2025,7:19pm",
+      "source_type": "government_record",
+      "locator": "Ng contribution,paragraph beginning Having worked",
+      "note": "Expressly says various government departments. Do not assign all public service to Home Affairs or infer employment at agencies he merely discusses.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-7"
     }
   ],
   "research_notes": [
     "Follow-up: locate County Court annual reports/associate lists for Judge Pillay, Ng's public professional CV, departmental appointment records and Slater start/cessation/hours. Identify any earlier plaintiff-law employers, union employer/pay status, and overseas work; date education and volunteer overlaps.",
     "Reviewed 2026-09-29: official biography, own biography, first speech and public employer statements. Targeted queries for Slater join date and public-service department supplied 2024 and court role but no department or full-time terms. No login-restricted professional content accessed.",
     "Identity checked against Menzies candidacy and employer statements. UK Better Society Capital/Shearman solicitor and overseas architects or namesakes are not this verified record. Matt Gregg's 2019 start belongs to Gregg, not Ng.",
-    "Year-level 2024–2025 is not one exact year; no boundaries or FTE inferred. The frozen roster's empty occupation list is not zero career experience. Initial partial record; last follow-up 2026-09-29."
+    "Year-level 2024–2025 is not one exact year; no boundaries or FTE inferred. The frozen roster's empty occupation list is not zero career experience. Initial partial record; last follow-up 2026-09-29.",
+    "2026-10-02 follow-up identified Home Affairs protection-visa decision-making from30October2025 Hansard, with27August2025 confirmation of multiple departments. Re-inspected employer material names union delegate and Fitzroy Legal Service/local kindergarten volunteering. Targeted court/department searches did not establish dates or hours. December2023 LawLife case notes by Gabriel Ng and September2024 Law Institute Journal admission list are new leads requiring identity corroboration; not employment evidence by themselves. Next: Pillay associate lists, departmental annual reports/public CV and Slater appointment terms. Do not treat last job rhetoric as an exact chronology or infer Services Australia employment from policy discussion. Totals remain unknown."
   ]
 }
