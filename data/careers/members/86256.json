@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/86256",
   "research_status": "blocked",
-  "last_reviewed": "2026-09-14",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -37,27 +37,8 @@
       "spell_id": "86256-02",
       "employer": "City of Port Phillip",
       "role": "Councillor",
-      "start_date": null,
-      "end_date": null,
-      "date_precision": "unknown",
-      "employment_status": "unknown",
-      "fte_fraction": null,
-      "category": "elected_office",
-      "headline_sector": "excluded",
-      "government_control_at_time": "public",
-      "counting_status": "excluded",
-      "source_ids": [
-        "src-4"
-      ],
-      "evidence_note": "Council service confirmed; broader councillor boundaries not supplied by accessed primary sources.",
-      "counting_note": "Outside the two employment headlines under the codebook; retained as career context."
-    },
-    {
-      "spell_id": "86256-03",
-      "employer": "City of Port Phillip",
-      "role": "Mayor",
-      "start_date": "2000",
-      "end_date": "2002",
+      "start_date": "1999",
+      "end_date": "2004",
       "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
@@ -66,10 +47,31 @@
       "government_control_at_time": "public",
       "counting_status": "excluded",
       "source_ids": [
-        "src-1",
-        "src-2"
+        "src-4",
+        "oct2-aph"
       ],
-      "evidence_note": "Nested within council tenure; not additional employment years.",
+      "evidence_note": "Council service confirmed; broader councillor boundaries not supplied by accessed primary sources. Official parliamentary local-government section now supplies1999–2004; excludes elected work, which overlaps state public service.",
+      "counting_note": "Outside the two employment headlines under the codebook; retained as career context."
+    },
+    {
+      "spell_id": "86256-03",
+      "employer": "City of Port Phillip",
+      "role": "Mayor",
+      "start_date": "2000-03-31",
+      "end_date": "2002-03-20",
+      "date_precision": "day",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "elected_office",
+      "headline_sector": "excluded",
+      "government_control_at_time": "public",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-1",
+        "src-2",
+        "oct2-mayors"
+      ],
+      "evidence_note": "Nested within council tenure; not additional employment years. Council table supplies first appointment31 March2000 and reappointment30 March2001. End is successor appointment20 March2002, treated as exclusive boundary for the mayoral term; source does not imply employment hours.",
       "counting_note": "Outside the two employment headlines under the codebook; retained as career context."
     },
     {
@@ -135,7 +137,7 @@
     {
       "spell_id": "86256-07",
       "employer": "Victorian Department of Economic Development, Jobs, Transport and Resources",
-      "role": "Executive director",
+      "role": "Executive director, International Education and Migration",
       "start_date": "2014",
       "end_date": "2016",
       "date_precision": "year",
@@ -147,9 +149,10 @@
       "counting_status": "insufficient_evidence",
       "source_ids": [
         "src-1",
-        "src-2"
+        "src-2",
+        "oct2-paec"
       ],
-      "evidence_note": "Official years; actual transfer and resignation dates not recovered. No public-service years inferred from subsequent federal office.",
+      "evidence_note": "Official years; actual transfer and resignation dates not recovered. No public-service years inferred from subsequent federal office. Verified14 May2015 hearing explicitly identifies this portfolio within Economic Development Employment and Innovation Group. Observation is not transfer date or FTE evidence.",
       "counting_note": "Not counted: dates and/or substantive full-time status are insufficiently evidenced; year labels are not exact boundaries."
     },
     {
@@ -170,6 +173,25 @@
       ],
       "evidence_note": "First federal entry per frozen roster.",
       "counting_note": "Outside the two employment headlines under the codebook; retained as career context."
+    },
+    {
+      "employer": "Australian Labor Party, Victorian Branch",
+      "role": "Local branch president and secretary; State Conference delegate",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "party_organisation",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "oct2-aph"
+      ],
+      "evidence_note": "Official undated party offices; no employment or remuneration inferred. Membership itself not treated as employment.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "86256-alp"
     }
   ],
   "sources": [
@@ -212,11 +234,44 @@
       "source_type": "official_biography",
       "locator": "Career/biography or relevant appointment section",
       "note": "Confirms state public service and elected council service; law degree is not legal employment."
+    },
+    {
+      "url": "https://www.portphillip.vic.gov.au/about-the-council/who-we-are/your-mayor",
+      "publisher": "City of Port Phillip",
+      "title": "Your Mayor: former mayors",
+      "source_type": "government_record",
+      "locator": "Indexed former-mayors table, Hill and successor Ray",
+      "note": "Hill appointments31 March2000 and30 March2001; Ray appointed20 March2002. Direct open403; indexed official table readable.",
+      "retrieved": "2026-10-02",
+      "source_id": "oct2-mayors"
+    },
+    {
+      "url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=86256",
+      "publisher": "Australian Parliament",
+      "title": "Julian Hill biography",
+      "source_type": "official_biography",
+      "locator": "Local government service and party positions; confirmed also in2020 Parliamentary Handbook p120",
+      "note": "Sandridge councillor1999–2004; party local-branch president/secretary and state conference delegate.",
+      "retrieved": "2026-10-02",
+      "source_id": "oct2-aph"
+    },
+    {
+      "url": "https://www.parliament.vic.gov.au/4ae84c/contentassets/f88c50c705f64596951569d035e02347/training_skills_-_verified_2015-16_beh.pdf",
+      "publisher": "Parliament of Victoria",
+      "title": "PAEC Budget Estimates2015–16: Training and Skills,14 May2015",
+      "source_type": "government_record",
+      "locator": "Verified transcript pp1–2 witness list",
+      "note": "Identifies Executive Director International Education and Migration within Economic Development Employment and Innovation Group, DEDJTR. Earlier indexed URL404; this official version opened.",
+      "retrieved": "2026-10-02",
+      "source_id": "oct2-paec"
     }
   ],
   "research_notes": [
     "Blocked: primary sources substantiate a fourteen-year public-service career, but individual employment hours, breaks and exact transfer/cessation dates remain unverified after official and conference biography searches plus first speech.",
     "Fourteen years is a self-reported career duration, not a verified full-time headline. Contiguous year labels must be merged with proper boundaries if future evidence establishes FTE.",
-    "No private employment is documented in these sources; this is unknown rather than zero. Overseas company directors, researchers and sportspeople of the same name were not used."
+    "No private employment is documented in these sources; this is unknown rather than zero. Overseas company directors, researchers and sportspeople of the same name were not used.",
+    "Follow-up2026-10-02: official council table resolves mayoral term31 March2000 to successor20 March2002; official parliamentary profile supplies councillor1999–2004. Verified state hearing identifies final departmental portfolio on14 May2015. Added undated party offices separately.",
+    "Council direct page and PDF screenshots403; indexed official information used only for explicit facts. First state-hearing URL404 recovered through another indexed official version. Searched historical departmental records and public profiles; overseas public-service, surveying and consulting namesakes rejected.",
+    "Next leads: individual departmental appointment/FTE/leave records and2002 public-service commencement evidence;2016 resignation date. Departmental year spans and fourteen-year narrative remain insufficient for exact full-time total."
   ]
 }
