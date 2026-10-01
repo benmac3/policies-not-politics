@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/91219",
   "research_status": "blocked",
-  "last_reviewed": "2026-09-23",
+  "last_reviewed": "2026-10-01",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -27,7 +27,10 @@
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-secondary", "src-profile"],
+      "source_ids": [
+        "src-secondary",
+        "src-profile"
+      ],
       "evidence_note": "Current biographical material identifies the university and qualification. Enrolment, completion, study load and overlap with early parliamentary staff work are unresolved.",
       "counting_note": "Study is excluded under the codebook."
     },
@@ -44,7 +47,11 @@
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-snapshot", "src-profile", "src-secondary"],
+      "source_ids": [
+        "src-snapshot",
+        "src-profile",
+        "src-secondary"
+      ],
       "evidence_note": "The frozen official extract supplies role and year boundaries; profiles identify Roger Price as the office-holder. Exact appointment dates, employing department, hours, leave and any study overlap are unresolved.",
       "counting_note": "Political staff employment is excluded under the codebook."
     },
@@ -61,7 +68,10 @@
       "headline_sector": "private",
       "government_control_at_time": "private",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-snapshot", "src-profile"],
+      "source_ids": [
+        "src-snapshot",
+        "src-profile"
+      ],
       "evidence_note": "The frozen official extract and current professional profile identify the private communications consultancy, senior role and year boundaries. Exact dates, hours, client allocation, leave and overlap with adjacent roles are unresolved.",
       "counting_note": "Private employment is supported, but substantive full-time status and an exact interval are not established."
     },
@@ -78,7 +88,10 @@
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-snapshot", "src-profile"],
+      "source_ids": [
+        "src-snapshot",
+        "src-profile"
+      ],
       "evidence_note": "The frozen official extract supplies the portfolio, role and year boundaries. Exact office-holder transition, appointment dates, employing department, hours and leave are unresolved.",
       "counting_note": "Political staff employment is excluded under the codebook."
     },
@@ -95,7 +108,10 @@
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-snapshot", "src-secondary"],
+      "source_ids": [
+        "src-snapshot",
+        "src-secondary"
+      ],
       "evidence_note": "The frozen extract supplies roles and year boundaries. Secondary material describes election as a branch organiser in 1997 and vice-president in 1998, which does not fully reconcile with the official 1996 start. Exact paid appointment, elected-office transitions, hours and leave are unresolved.",
       "counting_note": "Union employment and office are displayed separately and excluded from the narrow public/private headline."
     },
@@ -108,17 +124,22 @@
       "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
-      "category": "public_service",
+      "category": "public_corporation",
       "headline_sector": "public",
       "government_control_at_time": "public",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-snapshot", "src-aer", "src-secondary"],
-      "evidence_note": "The frozen extract provides the employer, role and year boundaries. Contemporary organisational history identifies Integral Energy as a NSW state-owned energy corporation during this period; the retail/network restructuring occurred later. Exact appointment and departure dates, hours, leave and any continuing union office are unresolved.",
+      "source_ids": [
+        "src-snapshot",
+        "src-aer",
+        "src-secondary",
+        "src-sbs-2017"
+      ],
+      "evidence_note": "The frozen extract provides the employer, role and year boundaries. Contemporary organisational history identifies Integral Energy as a NSW state-owned energy corporation during this period; the retail/network restructuring occurred later. Exact appointment and departure dates, hours, leave and any continuing union office are unresolved. Classified public_corporation to distinguish state-owned enterprise from departmental service. SBS describes media relations duties; 2003 secondary end conflicts with official 2004, retained pending personnel/annual-report evidence.",
       "counting_note": "Government-controlled employment is supported, but full-time status and exact boundaries are not established."
     },
     {
       "spell_id": "91219-chief-staff",
-      "employer": "Office of the NSW Minister for Water Utilities, Regional Development, Small Business and the Illawarra",
+      "employer": "Office of the NSW Minister for Water Utilities, Regional Development, Small Business and the Illawarra (David Campbell)",
       "role": "Chief of Staff",
       "start_date": "2005",
       "end_date": "2006",
@@ -129,26 +150,73 @@
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-snapshot"],
-      "evidence_note": "The frozen official extract supplies the role, portfolio and year boundaries. The 2004–2005 transition, exact appointment dates, office-holder, payroll entity, hours and leave are unresolved.",
+      "source_ids": [
+        "src-snapshot",
+        "src-nsw-2005"
+      ],
+      "evidence_note": "Frozen extract supplies 2005–2006 role/portfolio. NSW committee minutes explicitly identify David Campbell as minister in correspondence received 16 November 2005. Exact appointment/departure, payroll, hours, leave and 2004–2005 transition remain unresolved; receipt date is not appointment date.",
       "counting_note": "Political staff employment is excluded under the codebook."
     },
     {
       "spell_id": "91219-cepu-leadership",
       "employer": "Communications, Electrical and Plumbing Union — Communications Division",
-      "role": "National President and Divisional Secretary",
-      "start_date": "2006",
-      "end_date": "2010",
-      "date_precision": "year",
+      "role": "Divisional Secretary",
+      "start_date": "2006-07-24",
+      "end_date": "2010-09-07",
+      "date_precision": "day",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "union",
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-snapshot", "src-secondary"],
-      "evidence_note": "The frozen extract supplies the paired offices and year boundaries; secondary material places the Divisional Secretary commencement in July 2006. Exact President and Secretary terms, paid status, hours, leave and election transition are unresolved.",
+      "source_ids": [
+        "src-snapshot",
+        "src-secondary",
+        "src-cepu-2007",
+        "src-cepu-2011"
+      ],
+      "evidence_note": "Frozen paired leadership entry is separated into divisional and national offices. Contemporary regulatory filings give Divisional Secretary appointment 24 July 2006 and resignation 7 September 2010. This office overlapped House service beginning 21 August 2010; no assumption that paid work continued for all of that overlap. Hours, remuneration and leave remain unknown.",
       "counting_note": "Union employment and office are excluded from the narrow public/private headline."
+    },
+    {
+      "employer": "Communications, Electrical and Plumbing Union — National Council",
+      "role": "National President",
+      "start_date": "2006",
+      "end_date": "2010-08",
+      "date_precision": "mixed",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "union",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-snapshot",
+        "src-cepu-national-2011"
+      ],
+      "evidence_note": "Frozen extract gives 2006 start. National Council 2011 report records resignation in August 2010, annotated TBA; precise day and appointment date unresolved. Distinct from divisional secretary resignation 7 September 2010. Council zero employees at 31 March 2011 does not establish Husic’s earlier remuneration or hours.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "91219-cepu-president"
+    },
+    {
+      "employer": "Australia Post Superannuation Scheme",
+      "role": "Trustee / superannuation officeholder",
+      "start_date": null,
+      "end_date": "2010-09-07",
+      "date_precision": "day",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-cepu-2011"
+      ],
+      "evidence_note": "CEPU 2011 report identifies APSS trusteeship during 1 April–7 September 2010 within that reporting year. Original appointment and legal trustee entity unresolved; 1 April is not treated as original commencement. Remuneration, hours and control unresolved. Governance overlapped union and parliamentary roles and is not substantive full-time employment.",
+      "counting_note": "Governance role excluded from narrow full-time employment headline.",
+      "spell_id": "91219-apss"
     },
     {
       "spell_id": "91219-alp",
@@ -163,7 +231,9 @@
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-secondary"],
+      "source_ids": [
+        "src-secondary"
+      ],
       "evidence_note": "Secondary material records party membership from 1989 and federal candidacies in 2004 and 2010. Remuneration, hours and overlaps are unresolved; membership and candidacy are not assumed to be employment.",
       "counting_note": "Party activity is excluded under the codebook."
     },
@@ -180,7 +250,10 @@
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-snapshot", "src-secondary"],
+      "source_ids": [
+        "src-snapshot",
+        "src-secondary"
+      ],
       "evidence_note": "The frozen roster and current biographies establish House service from the 21 August 2010 election. Ministerial, shadow, committee and parliamentary-party roles are nested within elected service.",
       "counting_note": "Elected office is excluded under the codebook."
     }
@@ -225,13 +298,65 @@
       "source_type": "other",
       "locator": "Early life and education; Early career and union involvement; Political career",
       "note": "Secondary synthesis supplies qualification wording, party membership/candidacies and more detailed CEPU transitions with parliamentary, union and media citations."
+    },
+    {
+      "url": "https://regorgs.fwc.gov.au/sites/default/files/migration/361/128vcom-fr2007-203.pdf",
+      "publisher": "CEPU / Australian Industrial Registry (FWC archive)",
+      "title": "Communications Division financial report year ended 31 March 2007",
+      "source_type": "government_record",
+      "locator": "PDF p19 (zero-based18), operating report; repeated p31 and p49",
+      "note": "Office-holder table identifies Divisional Secretary E. Husic appointed 24 July 2006. This establishes office commencement, not hours or leave.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-cepu-2007"
+    },
+    {
+      "url": "https://regorgs.fwc.gov.au/sites/default/files/migration/361/128vcom-fr2011-2511.pdf",
+      "publisher": "CEPU / Fair Work registered organisations archive",
+      "title": "Communications Division financial report year ended 31 March 2011",
+      "source_type": "government_record",
+      "locator": "PDF p8 superannuation officeholders; p9 operating-report office table; repeated pp20–21",
+      "note": "Husic resigned as Divisional Secretary 7 September 2010. APSS trustee listed within reporting period 1 April–7 September 2010; 1 April is not assumed to be original appointment. Aggregate staffing does not establish individual hours.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-cepu-2011"
+    },
+    {
+      "url": "https://regorgs.fwc.gov.au/sites/default/files/migration/361/128v-fr2011-2505.pdf",
+      "publisher": "CEPU / Fair Work registered organisations archive",
+      "title": "National Council financial report year ended 31 March 2011",
+      "source_type": "government_record",
+      "locator": "PDF p11 section7 National Executive (repeated p19)",
+      "note": "Lists Husic as National President, resigned August 2010, with TBA annotation. No exact resignation day; do not substitute the different divisional resignation date.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-cepu-national-2011"
+    },
+    {
+      "url": "https://www.parliament.nsw.gov.au/lcdocs/inquiries/2182/Final%20Pac%20Hwy%20Interim%20Report.pdf",
+      "publisher": "NSW Legislative Council",
+      "title": "Pacific Highway Upgrades interim report, December 2005",
+      "source_type": "government_record",
+      "locator": "Printed p167 / PDF p181; 30 November 2005 committee minutes, correspondence received",
+      "note": "Letter received 16 November 2005 explicitly identifies Husic as Chief of Staff to Minister for Regional Development David Campbell; receipt date is evidence of role, not appointment date.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-nsw-2005"
+    },
+    {
+      "url": "https://www.sbs.com.au/voices/creative/faith-in-politics-australias-first-muslim-mp/9k8zrfr31",
+      "publisher": "SBS / Jana Wendt",
+      "title": "Faith in politics: Australia’s first Muslim MP, 1 February 2017",
+      "source_type": "news",
+      "locator": "Career discussion beginning with 1995 preselection and 1999 Integral job",
+      "note": "Describes Integral media-relations work from 1999, corroborates Price office and union organiser work. No hours or exact departure supplied.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-sbs-2017"
     }
   ],
   "research_notes": [
     "The frozen official sequence is preserved even where secondary dates differ, notably the 1996–1999 CEPU role and 1999–2004 Integral Energy role.",
     "Integral Energy is treated as government-controlled at the time; later retail sale and network rebranding do not retroactively change employer control.",
     "The unexplained 2004–2005 transition is retained as an evidence gap rather than silently filled by candidacy or party activity.",
-    "Union and political-staff employment are excluded from the narrow headline even though they were likely paid roles."
+    "Union and political-staff employment are excluded from the narrow headline even though they were likely paid roles.",
+    "2026-10-01 systematic follow-up: original CEPU regulatory annual/financial reports resolve divisional office dates, distinguish national presidency and reveal APSS governance. NSW 2005 committee minutes resolve minister identity. None proves full-time hours.",
+    "Searched Integral historical annual-report and Burson-Marsteller hours leads, union filings, university/alumni and interview profiles. No individual payroll/hours or Integral 2003/2004 departure reconciliation found. APH live open returned Internal Error; frozen extract preserved and independent primary filings used. Public professional/profile results added no hour evidence. Retain employer reports/personnel chronology and APSS reports as next leads."
   ],
   "open_questions": [
     "What were the exact dates, hours, leave and payroll entities for both early federal adviser roles?",
@@ -239,7 +364,8 @@
     "What were the paid employment versus elected-office dates and hours for each CEPU role?",
     "What were Integral Energy's exact appointment/departure dates, hours, leave and any union overlap?",
     "What work or candidacy activity occupied the 2004–2005 transition, and was it remunerated?",
-    "What were the exact NSW chief-of-staff dates, minister, payroll entity, hours and leave?",
-    "Did CEPU employment end before or on the 21 August 2010 election date?"
+    "What were exact David Campbell office appointment/departure dates, payroll, hours and leave?",
+    "How did CEPU paid duties/leave relate to Divisional Secretary office ending 7 September 2010 and House election 21 August 2010?",
+    "What were National President appointment and August 2010 resignation day, and APSS original appointment, legal trustee, remuneration and hours?"
   ]
 }
