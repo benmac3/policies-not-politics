@@ -6,12 +6,12 @@
   "snapshot_party": "Independent",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/295676",
   "research_status": "blocked",
-  "last_reviewed": "2026-09-25",
+  "last_reviewed": "2026-10-01",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
     "calculation_status": "not_calculable",
-    "note": "The frozen official record establishes journalism from 1991 to 2008 and business ownership from 2014 to 2022. Public biographies separate early private community-newspaper work from ABC employment beginning around 1994, but do not establish exact transition dates, hours, leave or substantive full-time status. Nonprofit leadership, advisory and board service, party/campaign activity, elected office and study are excluded. Missing evidence, including the 2008–2014 employment gap and possible cancer-treatment interruption, is not zero."
+    "note": "Full-time status is now explicitly supported for the Liverpool cadetship, but its start conflict and missing end prevent a duration. Fairfield newspaper and ABC working patterns remain unknown. Earlier hospitality/retail jobs are recorded with unknown dates. Business entity, post-2008 work and leave gaps remain unresolved; excluded activities and missing evidence are not counted as zero."
   },
   "career_spells": [
     {
@@ -27,9 +27,106 @@
       "headline_sector": "unknown",
       "government_control_at_time": "unknown",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-abc-first-person"],
+      "source_ids": [
+        "src-abc-first-person"
+      ],
       "evidence_note": "In a first-person ABC account, Le states that she left the Hong Kong refugee camp each day to work in a factory, ironing branded T-shirts and assembling watches, when she was ten. The employer, pay, exact dates, hours and coercive circumstances are not identified.",
       "counting_note": "The work is retained as career-history evidence but cannot be classified or counted as documented adult full-time employment."
+    },
+    {
+      "employer": "Unidentified German restaurant",
+      "role": "Kitchen hand",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "private_enterprise",
+      "headline_sector": "private",
+      "government_control_at_time": "private",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-money-interview"
+      ],
+      "evidence_note": "First-person account places this first job at age 15; dates and hours unspecified.",
+      "counting_note": "No dated full-time interval established.",
+      "spell_id": "295676-kitchen"
+    },
+    {
+      "employer": "Unidentified hospitality employer(s)",
+      "role": "Waitress",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "private_enterprise",
+      "headline_sector": "private",
+      "government_control_at_time": "private",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-money-interview"
+      ],
+      "evidence_note": "Interview describes waitressing after university; ABC account follows withdrawal from law. Dates and hours unknown.",
+      "counting_note": "No dated full-time interval established.",
+      "spell_id": "295676-waitress"
+    },
+    {
+      "employer": "Unidentified Cabramatta nightclub",
+      "role": "Bartender",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "private_enterprise",
+      "headline_sector": "private",
+      "government_control_at_time": "private",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-money-interview"
+      ],
+      "evidence_note": "Interview places bartending before journalism; dates, employer and hours unknown.",
+      "counting_note": "No dated full-time interval established.",
+      "spell_id": "295676-nightclub"
+    },
+    {
+      "employer": "Katies (legal employer unresolved)",
+      "role": "Retail worker",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "private_enterprise",
+      "headline_sector": "private",
+      "government_control_at_time": "private",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-money-interview"
+      ],
+      "evidence_note": "Interview names Katies before the cadetship; dates and hours unknown.",
+      "counting_note": "No dated full-time interval established.",
+      "spell_id": "295676-katies"
+    },
+    {
+      "employer": "University of Sydney",
+      "role": "Law student; withdrew",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "public",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-abc-education"
+      ],
+      "evidence_note": "ABC first-person transcript describes a few months of law lectures then withdrawal before waitressing. No calendar dates; not treated as a completed degree.",
+      "counting_note": "Study excluded.",
+      "spell_id": "295676-sydney-law"
     },
     {
       "spell_id": "295676-macquarie-study",
@@ -44,15 +141,39 @@
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-secondary"],
+      "source_ids": [
+        "src-secondary"
+      ],
       "evidence_note": "The secondary synthesis, citing public profiles, identifies the degree and major but supplies no enrolment dates, load or overlap with early journalism.",
       "counting_note": "Study is excluded under the codebook."
     },
     {
       "spell_id": "295676-community-newspapers",
-      "employer": "Liverpool City Champion and Fairfield City Champion (Fairfax Community Media network)",
-      "role": "Cadet journalist and journalist",
+      "employer": "Liverpool City Champion (Fairfax Community Media network)",
+      "role": "Cadet journalist",
       "start_date": "1991",
+      "end_date": null,
+      "date_precision": "year",
+      "employment_status": "full_time",
+      "fte_fraction": null,
+      "category": "private_enterprise",
+      "headline_sector": "private",
+      "government_control_at_time": "private",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-snapshot",
+        "src-member-story",
+        "src-secondary",
+        "src-money-interview",
+        "src-abc-education"
+      ],
+      "evidence_note": "The frozen journalism start is 1991; secondary reporting gives 1990 for this cadetship, so that conflict remains explicit. Money’s first-person interview identifies the Liverpool cadet job as full-time; ABC’s interview independently corroborates her first newspaper job as full-time. Cadetship end is unknown. The prior combined newspaper interval ended in 1994 at the reported ABC transition; that does not establish when this particular job ended.",
+      "counting_note": "Explicit full-time status is supported, but unresolved start conflict, cessation, leave and later newspaper transition prevent a defensible duration. No full-time status transferred to Fairfield or ABC."
+    },
+    {
+      "employer": "Fairfield City Champion (Fairfax Community Media network)",
+      "role": "Journalist; helped establish newspaper",
+      "start_date": null,
       "end_date": "1994",
       "date_precision": "year",
       "employment_status": "unknown",
@@ -61,9 +182,13 @@
       "headline_sector": "private",
       "government_control_at_time": "private",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-snapshot", "src-member-story", "src-secondary"],
-      "evidence_note": "The frozen extract records journalism from 1991 to 2008. Le's own account says she began at the Liverpool City Champion, helped establish the Fairfield City Champion and then moved into an ABC researcher role. Secondary reporting places the newspaper start in 1990 and ABC commencement in 1994, creating a one-year discrepancy with the frozen start. Exact transition dates, hours, leave and employment terms are unresolved.",
-      "counting_note": "Private newspaper employment is supported, but year-boundary conflict and missing substantive full-time evidence prevent a headline duration."
+      "source_ids": [
+        "src-member-story",
+        "src-secondary"
+      ],
+      "evidence_note": "Member biography and secondary chronology identify this subsequent newspaper role before ABC. The 1994 end is the previously recorded year-only ABC transition; exact dates, separate employer contract, overlap with Liverpool, hours and leave remain unresolved. Split from original combined newspaper spell to avoid extending cadetship full-time evidence.",
+      "counting_note": "Later newspaper hours unknown; no duration calculated.",
+      "spell_id": "295676-fairfield-newspaper"
     },
     {
       "spell_id": "295676-abc",
@@ -78,7 +203,12 @@
       "headline_sector": "public",
       "government_control_at_time": "public",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-snapshot", "src-member-story", "src-avld", "src-secondary"],
+      "source_ids": [
+        "src-snapshot",
+        "src-member-story",
+        "src-avld",
+        "src-secondary"
+      ],
       "evidence_note": "Le's current biography describes progression from an ABC researcher role into reporting and broadcasting. An archived Australia Vietnam Leadership Dialogue profile calls her a former ABC journalist, film-maker and broadcaster; secondary synthesis reports ABC service from 1994 to 2008 across television and radio. The frozen extract confirms the overall journalism endpoint in 2008, but exact start/end dates, hours, appointment basis, leave and internal role transitions remain unresolved.",
       "counting_note": "ABC is government-controlled, but a long professional career and senior duties do not alone establish a countable full-time interval."
     },
@@ -95,7 +225,9 @@
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-secondary"],
+      "source_ids": [
+        "src-secondary"
+      ],
       "evidence_note": "Secondary synthesis reports selection for the 1996–1997 fellowship and travel during the program. It does not establish employment, hours or how the fellowship overlapped ABC work.",
       "counting_note": "Professional development/fellowship activity is excluded from the narrow employment headline."
     },
@@ -112,7 +244,11 @@
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-member-story", "src-abc-party", "src-secondary"],
+      "source_ids": [
+        "src-member-story",
+        "src-abc-party",
+        "src-secondary"
+      ],
       "evidence_note": "Member and secondary accounts identify Le as the Liberal candidate at the 18 October 2008 by-election. The nomination date, remuneration, campaign hours and relationship to the end of ABC employment are unresolved.",
       "counting_note": "Party candidacy and campaigning are excluded under the codebook."
     },
@@ -129,7 +265,10 @@
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-abc-party", "src-secondary"],
+      "source_ids": [
+        "src-abc-party",
+        "src-secondary"
+      ],
       "evidence_note": "ABC and secondary accounts identify a second Liberal candidacy at the 26 March 2011 state election. The nomination date, remuneration, campaign hours and any concurrent employment are unresolved.",
       "counting_note": "Party candidacy and campaigning are excluded under the codebook."
     },
@@ -146,7 +285,10 @@
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-avld", "src-secondary"],
+      "source_ids": [
+        "src-avld",
+        "src-secondary"
+      ],
       "evidence_note": "Archived organisational and secondary profiles report appointment to the state-government advisory board in August 2012. The end date, remuneration and workload are unresolved; advisory governance is not assumed to be employment.",
       "counting_note": "Government advisory-board service is excluded from the narrow employment headline."
     },
@@ -163,7 +305,11 @@
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-member-story", "src-fairfield-oral", "src-secondary"],
+      "source_ids": [
+        "src-member-story",
+        "src-fairfield-oral",
+        "src-secondary"
+      ],
       "evidence_note": "The Fairfield heritage record and member biography corroborate council service since 2012; secondary election chronology supplies 9 September 2012 and the 4 December 2021 ward transition. The office continued after federal election and was current at the frozen snapshot.",
       "counting_note": "Local elected office is excluded under the codebook."
     },
@@ -180,8 +326,12 @@
       "headline_sector": "private",
       "government_control_at_time": "private",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-snapshot"],
-      "evidence_note": "The frozen official extract provides only 'Business owner from 2014 to 2022'. Public biographies identify several DAWN/media, leadership and entrepreneurial initiatives but do not reliably identify which legal entity or activity the official business-owner interval denotes. Hours, revenue/remuneration, leave, exact boundaries and overlap with cancer treatment, council and governance roles are unresolved.",
+      "source_ids": [
+        "src-snapshot",
+        "src-dawn-interest-lead",
+        "src-dawn-abr-lead"
+      ],
+      "evidence_note": "The frozen official extract provides only 'Business owner from 2014 to 2022'. Public biographies identify several DAWN/media, leadership and entrepreneurial initiatives but do not reliably identify which legal entity or activity the official business-owner interval denotes. Hours, revenue/remuneration, leave, exact boundaries and overlap with cancer treatment, council and governance roles are unresolved. Follow-up finds Dawn Media Productions Pty Ltd as a declared-shareholding lead and matching ABR company name. Neither source maps the entire 2014–2022 employment interval to it; ownership is not labour, and ABN cancellation is not an employment end.",
       "counting_note": "Business ownership does not by itself prove self-employment or substantive full-time work."
     },
     {
@@ -197,7 +347,11 @@
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-avld", "src-abc-first-person", "src-secondary"],
+      "source_ids": [
+        "src-avld",
+        "src-abc-first-person",
+        "src-secondary"
+      ],
       "evidence_note": "An archived Australia Vietnam Leadership Dialogue profile identifies Le as founder and CEO and explicitly describes DAWN as a nonprofit association; a 2016 ABC author note corroborates her as founder. Exact formation/cessation dates, remuneration, hours and relationship to the frozen business-owner spell are unresolved.",
       "counting_note": "Nonprofit leadership is displayed separately and excluded from the narrow public/private employment headline."
     },
@@ -214,7 +368,9 @@
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-avld"],
+      "source_ids": [
+        "src-avld"
+      ],
       "evidence_note": "The archived 2022 organisation profile reports directorship but gives no dates, remuneration, workload or operational employment relationship.",
       "counting_note": "Nonprofit board governance is excluded from the narrow employment headline."
     },
@@ -231,7 +387,9 @@
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-avld"],
+      "source_ids": [
+        "src-avld"
+      ],
       "evidence_note": "The archived 2022 organisation profile reports the Deputy Chair title but gives no dates, remuneration, workload or operational employment relationship.",
       "counting_note": "Nonprofit governance is excluded from the narrow employment headline."
     },
@@ -248,7 +406,9 @@
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-secondary"],
+      "source_ids": [
+        "src-secondary"
+      ],
       "evidence_note": "Secondary chronology cites Fairfield City Council minutes for election on 21 December 2021 and records the term ending 27 September 2022. This office was nested within the councillor term and overlapped federal service after May 2022.",
       "counting_note": "Local elected office is excluded under the codebook."
     },
@@ -265,7 +425,10 @@
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-abc-election", "src-secondary"],
+      "source_ids": [
+        "src-abc-election",
+        "src-secondary"
+      ],
       "evidence_note": "ABC contemporary reporting and secondary chronology identify Le as the independent candidate elected on 21 May 2022. Nomination date, campaign remuneration and overlap with business, council and nonprofit activity are unresolved.",
       "counting_note": "Candidacy and campaign activity are excluded under the codebook."
     },
@@ -282,7 +445,11 @@
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-snapshot", "src-member-story", "src-abc-election"],
+      "source_ids": [
+        "src-snapshot",
+        "src-member-story",
+        "src-abc-election"
+      ],
       "evidence_note": "The frozen roster and current member biography record House service from the 21 May 2022 election. Parliamentary responsibilities are nested within elected service.",
       "counting_note": "Federal elected office is excluded under the codebook."
     },
@@ -299,7 +466,9 @@
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-secondary"],
+      "source_ids": [
+        "src-secondary"
+      ],
       "evidence_note": "Secondary chronology reports that Le and Frank Carbone founded the local political organisation in 2023. Remuneration, workload and exact date are unresolved; Le remained classified as Independent in the frozen federal roster.",
       "counting_note": "Party-organisational activity is excluded under the codebook."
     },
@@ -316,7 +485,9 @@
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-secondary"],
+      "source_ids": [
+        "src-secondary"
+      ],
       "evidence_note": "Secondary chronology cites Fairfield City Council minutes for re-election as Deputy Mayor on 8 October 2024. The office remained current at the frozen snapshot and overlaps both council and federal elected service.",
       "counting_note": "Local elected office is excluded under the codebook."
     }
@@ -401,6 +572,46 @@
       "source_type": "other",
       "locator": "Early life, journalism career, Fairfield City Council, federal politics and personal life",
       "note": "Secondary synthesis supplies the 1990/1994 employer sequence, degree, fellowship, precise elected-office dates and additional governance/party milestones, with underlying official and media citations. Primary follow-up remains necessary where the frozen record does not independently support dates."
+    },
+    {
+      "url": "https://www.moneymag.com.au/hot-seat-dai-le",
+      "publisher": "Money magazine",
+      "title": "Dai Le shares how cancer changed her thoughts about money, 9 October 2020",
+      "source_type": "news",
+      "locator": "First-job question; DAWN discussion",
+      "note": "First-person interview names early hospitality/retail jobs and a full-time Liverpool cadetship; no calendar dates. DAWN monetisation is discussed without establishing legal form.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-money-interview"
+    },
+    {
+      "url": "https://www.abc.net.au/education/creating-a-nation-ch-4-dais-story/13579910",
+      "publisher": "Australian Broadcasting Corporation",
+      "title": "Creating a Nation, Chapter 4: Dai’s story, 11 October 2021",
+      "source_type": "professional_profile",
+      "locator": "Transcript: university, waitressing and first newspaper job",
+      "note": "Le describes brief Sydney law study, withdrawal, waitressing and obtaining her first full-time newspaper job. No employment boundaries; rounded two-decades wording is not used for arithmetic.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-abc-education"
+    },
+    {
+      "url": "https://shorted.com.au/politicians/dai-le",
+      "publisher": "Shorted",
+      "title": "Dai Le — Declared Interests",
+      "source_type": "other",
+      "locator": "Shareholdings and directorships, linked 47P original",
+      "note": "Index identifies Dawn Media Productions Pty Ltd shareholding and Dawn Foundation directorship. Original parliamentary PDF could not be fetched; retained as leads, not proof of employment.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-dawn-interest-lead"
+    },
+    {
+      "url": "https://abr.business.gov.au/ABN/View?abn=79646365120",
+      "publisher": "Australian Business Register",
+      "title": "DAWN MEDIA PRODUCTIONS PTY LTD, ABN 79 646 365 120",
+      "source_type": "government_record",
+      "locator": "Search-index entity and ABN-status excerpt only",
+      "note": "Indexed Australian private company; ABN cancelled 6 January 2023. Full record inaccessible; no registration/employment commencement inferred.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-dawn-abr-lead"
     }
   ],
   "research_notes": [
@@ -408,7 +619,9 @@
     "ABC is coded as a public corporation under government control, but no full-time duration is calculated because available biographies do not state hours or employment status.",
     "The unidentified 2014–2022 business-owner spell is not conflated with DAWN: the available organisation profile describes DAWN as a nonprofit association, while the official extract does not name the business entity.",
     "Council, deputy-mayor, party/campaign, advisory and board roles are displayed but excluded from the narrow employment headline.",
-    "Public sources do not establish whether 2014–2015 cancer treatment interrupted or reduced any business, council or nonprofit work."
+    "Public sources do not establish whether 2014–2015 cancer treatment interrupted or reduced any business, council or nonprofit work.",
+    "2026-10-01 follow-up adds four early hospitality/retail jobs and brief Sydney law study. Explicit full-time Liverpool cadetship evidence is isolated from later newspaper/ABC work; no duration inferred from rounded career descriptions.",
+    "Searched ABC employer material, first-person interviews, company and interest records. Money interview and ABC transcript readable. Direct ABR company record and original 47P parliamentary interest PDF inaccessible; indexed legal-entity/shareholding leads retained without claiming verification of employment dates. Searches did not resolve 2008–2014 paid-work gap or treatment-related leave."
   ],
   "open_questions": [
     "What were the exact start/end dates, hours, leave and employment terms at the Liverpool City Champion, Fairfield City Champion and ABC, and how should the 1990 versus 1991 start discrepancy be resolved?",
@@ -416,6 +629,9 @@
     "Which legal entity and activities comprise the official 2014–2022 business-owner spell, and what were ownership, remuneration, hours, leave and exact boundaries?",
     "Did cancer treatment in 2014–2015 create a break or reduced-hours interval in business or other work?",
     "What were the dates, remuneration and workload for DAWN, Multicultural NSW, STARTTS, the Ethnic Communities Council and any DAWN Media Productions activity?",
-    "Were the 2008, 2011 or 2022 campaigns remunerated, and what employment overlapped those campaigns?"
+    "Were the 2008, 2011 or 2022 campaigns remunerated, and what employment overlapped those campaigns?",
+    "When did the full-time Liverpool cadetship end, and when did Fairfield newspaper work begin; was the latter also full-time?",
+    "Which employers and dates apply to the restaurant, waitressing, nightclub and Katies roles?",
+    "Can original interest/company records distinguish Dawn Foundation, the DAWN network and Dawn Media Productions employment and ownership intervals?"
   ]
 }
