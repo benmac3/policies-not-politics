@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/243609",
   "research_status": "blocked",
-  "last_reviewed": "2026-09-14",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -49,9 +49,11 @@
       "source_ids": [
         "src-1",
         "src-2",
-        "src-3"
+        "src-3",
+        "oct2-judgment",
+        "oct2-firstspeech"
       ],
-      "evidence_note": "Commercial legal practice; employment confirmed but interval and hours unresolved.",
+      "evidence_note": "Commercial legal practice; employment confirmed but interval and hours unresolved. Judgment records his conduct of Holding Redlich litigation on15 November2000 and11 January2001. These observations support work at those dates, not a continuous interval, senior-associate appointment date or full-time status.",
       "counting_note": "Not counted: dates and/or substantive full-time status are insufficiently evidenced; year labels are not exact boundaries."
     },
     {
@@ -68,9 +70,12 @@
       "government_control_at_time": "public",
       "counting_status": "excluded",
       "source_ids": [
-        "src-1"
+        "src-1",
+        "oct2-apec",
+        "oct2-abc",
+        "oct2-firstspeech"
       ],
-      "evidence_note": "Official combined entry; minister-by-minister sequence and boundaries unavailable, so not split into invented intervals.",
+      "evidence_note": "Official combined entry; minister-by-minister sequence and boundaries unavailable, so not split into invented intervals. Follow-up resolves chief-of-staff title for each minister: government exchange report lists him with D’Ambrosio in April2010; ABC2020 identifies him as Jennings former chief of staff. Exact sequence and the separately listed senior-adviser role remain unresolved. Keeping combined entry avoids fabricated boundaries; political work excluded.",
       "counting_note": "Outside the two employment headlines under the codebook; retained as career context."
     },
     {
@@ -89,7 +94,8 @@
       "source_ids": [
         "src-1",
         "src-2",
-        "src-4"
+        "src-4",
+        "oct2-firstspeech"
       ],
       "evidence_note": "Official year labels; principal title does not itself prove full-time work. No exact year total calculated.",
       "counting_note": "Not counted: dates and/or substantive full-time status are insufficiently evidenced; year labels are not exact boundaries."
@@ -154,11 +160,54 @@
       "source_type": "employer",
       "locator": "Career/biography or relevant appointment section",
       "note": "Private legal-practice history; political/union clients do not make its employees union or political staff."
+    },
+    {
+      "url": "https://www.casechat.au/cases/au/mildura-aboriginal-corporation-stewart-v-australian-broadcasting-corporation",
+      "publisher": "Supreme Court of Victoria (CaseChat reproduction)",
+      "title": "Mildura Aboriginal Corporation & Stewart v ABC [2001] VSC82,27 March2001",
+      "source_type": "government_record",
+      "locator": "Judgment facts concerning15 November2000 and11 January2001 correspondence",
+      "note": "Identifies Andrew Giles as Holding Redlich solicitor conducting the matter; dated work observations, not employment boundaries.",
+      "retrieved": "2026-10-02",
+      "source_id": "oct2-judgment"
+    },
+    {
+      "url": "https://www.auspolexchange.gov.au/sites/default/files/2020-10/apec_ar_07-10.pdf",
+      "publisher": "Australian Political Exchange Council",
+      "title": "Report2007–08,2008–09 and2009–10",
+      "source_type": "government_record",
+      "locator": "Printed p92 / PDF p98: US delegation9–20 April2010",
+      "note": "Lists Giles as chief of staff to Lily D’Ambrosio, Victorian Community Development Minister; trip dates do not establish job boundaries.",
+      "retrieved": "2026-10-02",
+      "source_id": "oct2-apec"
+    },
+    {
+      "url": "https://www.abc.net.au/news/2020-03-19/gavin-jennings-retires-from-victorian-politics-after-21-years/12071430",
+      "publisher": "ABC News",
+      "title": "Gavin Jennings retires from politics,19 March2020",
+      "source_type": "reliable_secondary",
+      "locator": "Paragraph identifying former chief-of-staff Andrew Giles",
+      "note": "Confirms Jennings chief-of-staff role but no tenure dates.",
+      "retrieved": "2026-10-02",
+      "source_id": "oct2-abc"
+    },
+    {
+      "url": "https://www.openaustralia.org.au/debate/?id=2013-11-14.26.1",
+      "publisher": "Australian Parliament (OpenAustralia transcript)",
+      "title": "Andrew Giles first speech,14 November2013",
+      "source_type": "hansard",
+      "locator": "Acknowledgements of two legal firms and Victorian ministers",
+      "note": "Confirms both legal firms and work for Jennings and D’Ambrosio; Tanner called mentor, which does not identify electorate-office employer.",
+      "retrieved": "2026-10-02",
+      "source_id": "oct2-firstspeech"
     }
   ],
   "research_notes": [
     "Blocked: full-time evidence for legal work, dates at Holding Redlich and political employment chronology are missing after official/employer research, targeted historical searches and public profile lookup.",
     "Public LinkedIn profile returned 999. Searches for full-time work returned unrelated mining and overseas namesakes; those facts are not assigned to this member.",
-    "No private experience total is inferred from admission, university dates, seniority or union clientele; neither headline is zero."
+    "No private experience total is inferred from admission, university dates, seniority or union clientele; neither headline is zero.",
+    "Follow-up2026-10-02: recovered dated Holding Redlich litigation observations2000–2001 and government report identifying D’Ambrosio chief of staff in April2010; clarified that chief-of-staff title also applied to Jennings. No period inferred from isolated observations.",
+    "Searched firm biographies, historical court decisions, political exchange annual reports, contemporary2012 preselection reporting and public profiles. Aggregated professional-profile dates were not independently verified and not adopted; namesake academic/umpiring/legal records excluded. Electorate office unidentified; calling Tanner a mentor is not proof he employed Giles.",
+    "Next leads: archived firm appointment/departure notices and legitimate professional CV; Victorian ministerial staffing records for Jennings/D’Ambrosio; electorate-office appointment evidence. Full-time, leave and exact legal-work boundaries remain unknown; no numerical headline calculated."
   ]
 }
