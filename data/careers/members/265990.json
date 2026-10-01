@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/265990",
   "research_status": "blocked",
-  "last_reviewed": "2026-09-29",
+  "last_reviewed": "2026-10-01",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -31,12 +31,12 @@
         "src-1",
         "src-3"
       ],
-      "evidence_note": "APH gives 1979–2008 banking span. ABC describes various institutions and over 30 years; this is not proof of one continuous employer or uninterrupted full-time work. Institution-level dates and control require research.",
+      "evidence_note": "APH gives 1979\u20132008 banking span. ABC describes various institutions and over 30 years; this is not proof of one continuous employer or uninterrupted full-time work. Institution-level dates and control require research.",
       "counting_note": "Dates, employer control and/or substantive full-time status remain insufficient for a duration calculation; unknown is not zero."
     },
     {
       "spell_id": "265990-02",
-      "employer": "Parliamentary electorate office (member/employer unresolved)",
+      "employer": "Paul Lynch MP, Liverpool electorate office (NSW Parliament)",
       "role": "Electorate officer",
       "start_date": "2008",
       "end_date": "2016",
@@ -45,12 +45,14 @@
       "fte_fraction": null,
       "category": "political_staff",
       "headline_sector": "excluded",
-      "government_control_at_time": "unknown",
+      "government_control_at_time": "public",
       "counting_status": "excluded",
       "source_ids": [
-        "src-1"
+        "src-1",
+        "src-2",
+        "src-full-first"
       ],
-      "evidence_note": "Political staff employment is distinct from public-service employment. No employer name or hours established.",
+      "evidence_note": "Official occupational biography identifies electorate-officer role; first speech names Paul Lynch, Loretta Fletcher and Alfat Karnib as work colleagues for nine years. These sources together identify the office; exact legal employing entity/contract remains to verify. Nine-year recollection conflicts with a simple elapsed reading of2008\u20132016; retain official year boundaries rather than back-calculate2007. Hours and within-year transitions unknown. Political staff remains excluded.",
       "counting_note": "Excluded from the two employment headlines under the codebook."
     },
     {
@@ -150,6 +152,25 @@
       ],
       "evidence_note": "Federal elected service; associated whip duties are parliamentary positions, not additional employment.",
       "counting_note": "Excluded from the two employment headlines under the codebook."
+    },
+    {
+      "employer": "Australian Labor Party, federal electorate council (Werriwa context)",
+      "role": "President",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "party_organisation",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-fec"
+      ],
+      "evidence_note": "2023 first-person recollection identifies FEC presidency when hosting a fundraiser for Laurie Ferguson and newly elected to council. No event date or appointment boundaries supplied; do not infer2008 from newly elected. Pay status unknown.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "265990-08"
     }
   ],
   "sources": [
@@ -168,10 +189,10 @@
       "url": "https://www.aph.gov.au/Senators_and_Members/Members/FirstSpeeches/45th_Parliament/Anne_Stanley",
       "publisher": "Parliament of Australia",
       "title": "First speech, 12 October 2016",
-      "retrieved": "2026-09-29",
+      "retrieved": "2026-10-01",
       "source_type": "official_parliament",
-      "locator": "Passages on Liverpool Council and community sport, indexed text",
-      "note": "Direct fetch failed; indexed text corroborates council service and community activity."
+      "locator": "Closing acknowledgements naming Loretta Fletcher, Alfat Karnib and Paul Lynch; council and community passages",
+      "note": "Official indexed employment passage corroborates full OpenAustralia transcript; direct fetch403."
     },
     {
       "source_id": "src-3",
@@ -192,12 +213,34 @@
       "source_type": "party_biography",
       "locator": "Biographical text",
       "note": "Council and volunteering context; not proof of paid employment."
+    },
+    {
+      "url": "https://www.openaustralia.org.au/debate/?id=2016-10-12.97.1",
+      "publisher": "Parliament of Australia, reproduced by OpenAustralia",
+      "title": "First speech, 12 October 2016, 5:05pm",
+      "source_type": "government_record",
+      "locator": "Closing acknowledgements: paragraph beginning To Loretta Fletcher, Alfat Karnib and Paul Lynch",
+      "note": "Full transcript identifies Lynch and colleagues as work colleagues for nine years. Official APH indexed text corroborates wording; direct APH and linked Hansard returned403.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-full-first"
+    },
+    {
+      "url": "https://annestanley.com.au/news/speeches/vale-the-hon-simon-findlay-crean/",
+      "publisher": "Anne Stanley MP",
+      "title": "Vale the Hon Simon Findlay Crean, 2 August 2023",
+      "source_type": "official_biography",
+      "locator": "Paragraph beginning Several years ago, recounting a fundraising function",
+      "note": "First-person evidence of FEC presidency; retrospective recollection has no event date.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-fec"
     }
   ],
   "research_notes": [
-    "Follow up financial-institution names, role-specific dates, substantive full-time status and any leave; identify the 2008–2016 electorate-office employer. Seek historical bank records only after employers are verified.",
+    "Follow up financial-institution names, role-specific dates, substantive full-time status and any leave; identify the 2008\u20132016 electorate-office employer. Seek historical bank records only after employers are verified.",
     "Initial avenues 2026-09-29: APH biography, 2017/2020 handbooks, first speech, ALP biography, ABC 2022 guide, banking/employer/full-time searches and public LinkedIn lead. LinkedIn direct fetch returned 429; search index did not expose usable experience. Second search engine produced irrelevant employment results. No access controls bypassed.",
-    "ABC's over-30-years description is not converted into a duration or used to extend the official 1979–2008 range. Shares, loans or family financial interests do not identify her employer. Commonwealth Bank and St George search leads remain unverified, not facts.",
-    "APH also lists ALP electorate-council secretarial and conference-delegate roles with incomplete dates; these are excluded party activity, not assumed jobs. Banking, council and staff transitions within 2008 cannot be resolved from year-only dates. Last follow-up 2026-09-29; initial record is not completion."
+    "ABC's over-30-years description is not converted into a duration or used to extend the official 1979\u20132008 range. Shares, loans or family financial interests do not identify her employer. Commonwealth Bank and St George search leads remain unverified, not facts.",
+    "APH also lists ALP electorate-council secretarial and conference-delegate roles with incomplete dates; these are excluded party activity, not assumed jobs. Banking, council and staff transitions within 2008 cannot be resolved from year-only dates. Last follow-up 2026-09-29; initial record is not completion.",
+    "2026-10-01 follow-up resolved staff office through full2016 first-speech transcript and official indexed corroboration: Paul Lynch/Liverpool, not assumed employment by federal predecessors Ferguson or Hayes. Preserve2008\u20132016 APH dates with nine-year discrepancy. Added separately evidenced FEC presidency; no invented dates.",
+    "Avenues: full first speech, personal2023 Crean and NSW-election speeches, APH2020 handbook, ABC2016/2019/2022 biographies, two search engines for bank employers and Lynch employment, public professional-profile leads. Bank identities, individual dates, control, hours and leave remain absent. Unrelated US/UK Anne Stanley professionals rejected; mother\u2019s BWIU employment is not Anne\u2019s. Family/childbirth facts do not establish maternity-leave dates. No unverified Commonwealth Bank/St George attribution. Next useful evidence is historical electorate staffing/payroll and bank-specific professional records; avoid repeating exhausted generic biographies."
   ]
 }
