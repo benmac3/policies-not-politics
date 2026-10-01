@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/300122",
   "research_status": "blocked",
-  "last_reviewed": "2026-09-29",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -17,7 +17,7 @@
     {
       "spell_id": "300122-01",
       "employer": "Hospitality employer unidentified",
-      "role": "Hospitality worker",
+      "role": "Hospitality worker; dishwashing",
       "start_date": "2002",
       "end_date": "2004",
       "date_precision": "year",
@@ -28,14 +28,15 @@
       "government_control_at_time": "unknown",
       "counting_status": "insufficient_evidence",
       "source_ids": [
-        "src-1"
+        "src-1",
+        "src-5"
       ],
-      "evidence_note": "Employer and hours absent.",
+      "evidence_note": "Employer and hours absent. First speech confirms dishwashing among earlier work; associated with hospitality umbrella without inventing separate employment interval.",
       "counting_note": "Dates, employer control and/or substantive full-time status remain insufficient for a duration calculation; unknown is not zero."
     },
     {
       "spell_id": "300122-02",
-      "employer": "Factory employer unidentified",
+      "employer": "Factory employer unidentified, Queanbeyan",
       "role": "Labourer",
       "start_date": "2004",
       "end_date": "2005",
@@ -47,9 +48,10 @@
       "government_control_at_time": "unknown",
       "counting_status": "insufficient_evidence",
       "source_ids": [
-        "src-1"
+        "src-1",
+        "src-5"
       ],
-      "evidence_note": "Occupation does not identify employer/control.",
+      "evidence_note": "Occupation does not identify employer/control. First speech locates factory in Queanbeyan and places work immediately after leaving school; identity/control/hours still unknown.",
       "counting_note": "Dates, employer control and/or substantive full-time status remain insufficient for a duration calculation; unknown is not zero."
     },
     {
@@ -66,7 +68,8 @@
       "government_control_at_time": "unknown",
       "counting_status": "insufficient_evidence",
       "source_ids": [
-        "src-1"
+        "src-1",
+        "src-5"
       ],
       "evidence_note": "Could overlap call-centre/factory work; paid terms unresolved.",
       "counting_note": "Dates, employer control and/or substantive full-time status remain insufficient for a duration calculation; unknown is not zero."
@@ -85,7 +88,8 @@
       "government_control_at_time": "unknown",
       "counting_status": "insufficient_evidence",
       "source_ids": [
-        "src-1"
+        "src-1",
+        "src-5"
       ],
       "evidence_note": "Client and actual employer not established.",
       "counting_note": "Dates, employer control and/or substantive full-time status remain insufficient for a duration calculation; unknown is not zero."
@@ -286,12 +290,23 @@
       "source_type": "news",
       "locator": "Education/career paragraph",
       "note": "Reports ANU science graduation 2009; supplementary education lead."
+    },
+    {
+      "url": "https://www.openaustralia.org.au/debate/?id=2022-08-01.109.1",
+      "publisher": "House of Representatives Hansard / OpenAustralia",
+      "title": "Sam Rae first speech,1 August2022,5pm",
+      "source_type": "government_record",
+      "locator": "Paragraph beginning Like the people I represent",
+      "note": "First-person factory work in Queanbeyan after school; washing dishes, childcare, call-centre and subsequent roles. No named early employers or hours.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-5"
     }
   ],
   "research_notes": [
     "Follow-up: identify hospitality, factory, childcare and call-centre employers and hours/breaks. Recover PwC partner appointment/cessation and campaign-leave records, resolve employment in 2021–2022, and date study. Locate original September 2019 appointment article or employer announcement.",
     "Searches 2026-09-29: APH career, PwC employer-domain/appointment/end-date/full-time queries and NAFI records. Indexed 2009 employer submission adds contemporary corroboration. No full-time evidence found; similarly named musician, UK church staff and US professionals rejected.",
     "Secondary summaries say PwC until election, but official APH gives 2019–2021. Do not extend to 2022 without stronger evidence. Secondary Conroy summaries also compress timing; retain APH 2009–2015.",
-    "Study and concurrent early jobs require overlap checks. Dates retained at year precision with null FTE; unknown employers are not assumed private from job title. Last follow-up 2026-09-29; initial record unresolved."
+    "Study and concurrent early jobs require overlap checks. Dates retained at year precision with null FTE; unknown employers are not assumed private from job title. Last follow-up 2026-09-29; initial record unresolved.",
+    "2026-10-02 follow-up: first speech adds Queanbeyan factory location and dishwashing duties, providing specific early-employer search leads. Checked APH, original11September2019 PwC appointment URL in both p526q6/p52qe6 variants (web open Internal Error), PwC domain,2019 transition reporting and early-job queries.18September2019 Australian indexed story forecasts departure next month; a forecast does not establish actual October start, so retain2019. No confirmed early employer identities/full-time terms or2021–22 work found. Next: Queanbeyan factory employment, hospitality/childcare/call-centre public CV; primary PwC partnership entry/cessation and campaign leave; historical ALP staffing records. Searches returned unrelated NZ call-centre professional, US musician and Harvard student; excluded. No chronology/hours or numerical totals invented."
   ]
 }
