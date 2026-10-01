@@ -6,29 +6,76 @@
   "snapshot_party": "The Nationals",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/219646",
   "research_status": "blocked",
-  "last_reviewed": "2026-09-27",
+  "last_reviewed": "2026-10-01",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
     "calculation_status": "not_calculable",
-    "note": "Official biographies establish a private-media career at The Daily Advertiser and Riverina Media Group from 1981 to 2002, followed by McCormack's own media and publishing business from 2002 to 2010. Sources corroborate the sequence and private control but do not establish exact transition dates, hours, leave or the substantive full-time nature of the self-employed interval. Overlapping editor titles are not double-counted, and no private duration is inferred from year-only ranges."
+    "note": "Private newspaper work is established from 1981 to 2002, followed by publishing in 2002–2010. Explicit full-time evidence now supports the initial cadetship, whose end is unknown; it is not extended to later roles. MSS legal entity and newspaper family control are documented. Unresolved boundaries, leave, later hours and overlaps prevent public/private full-time totals."
   },
   "career_spells": [
     {
+      "employer": "Unidentified rugby league organisation at Eric Weissel Oval, Wagga Wagga",
+      "role": "Ground announcer while at school",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "unknown",
+      "government_control_at_time": "unknown",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-announcer-speech"
+      ],
+      "evidence_note": "First-person parliamentary speech identifies this as his first job at age 16. Employer, dates, pay and hours unknown; age is not converted into employment boundaries.",
+      "counting_note": "No sector or full-time duration assigned.",
+      "spell_id": "219646-ground-announcer"
+    },
+    {
+      "employer": "The Daily Advertiser / Riverina Media Group",
+      "role": "Cadet journalist",
+      "start_date": "1981",
+      "end_date": null,
+      "date_precision": "year",
+      "employment_status": "full_time",
+      "fte_fraction": null,
+      "category": "private_enterprise",
+      "headline_sector": "private",
+      "government_control_at_time": "private",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-snapshot",
+        "src-cadet-fulltime",
+        "src-csu-archive"
+      ],
+      "evidence_note": "Member chronology gives 1981 entry; first-person professional post explicitly calls the initial cadet job full-time. End of cadetship and leave unknown; status is not extended automatically to later positions.",
+      "counting_note": "Full-time status supported for cadetship, but an unbounded interval cannot support a numerical duration.",
+      "spell_id": "219646-daily-cadet"
+    },
+    {
       "spell_id": "219646-daily-reporter",
       "employer": "The Daily Advertiser / Riverina Media Group",
-      "role": "Journalist and reporter",
-      "start_date": "1981",
+      "role": "Journalist and reporter after cadetship",
+      "start_date": null,
       "end_date": "1988",
-      "date_precision": "year",
+      "date_precision": "unknown",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "private_enterprise",
       "headline_sector": "private",
       "government_control_at_time": "private",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-snapshot", "src-aph-current", "src-member-history", "src-member-about"],
-      "evidence_note": "Official and member biographies record commencement with a Daily Advertiser journalism cadetship in 1981 and promotion in 1988. Exact appointment date, employment basis, hours and leave are unresolved.",
+      "source_ids": [
+        "src-snapshot",
+        "src-aph-current",
+        "src-member-history",
+        "src-member-about",
+        "src-cadet-fulltime",
+        "src-csu-archive"
+      ],
+      "evidence_note": "Official combined journalist/reporter range is 1981–1988. Follow-up separates the explicitly full-time initial cadetship; qualification/transition into the subsequent reporter phase is undated. Later hours and leave remain unknown. CSU archives support private family control during this employment; the 2007 Rural Press acquisition was later.",
       "counting_note": "Private employer control is supported, but year-only boundaries and missing full-time evidence prevent a duration."
     },
     {
@@ -44,8 +91,13 @@
       "headline_sector": "private",
       "government_control_at_time": "private",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-snapshot", "src-aph-current", "src-member-history"],
-      "evidence_note": "Official and member biographies give the 1988–1991 title range. Exact promotion dates, hours, leave and any break are unresolved.",
+      "source_ids": [
+        "src-snapshot",
+        "src-aph-current",
+        "src-member-history",
+        "src-csu-archive"
+      ],
+      "evidence_note": "Official and member biographies give the 1988–1991 title range. Exact promotion dates, hours, leave and any break are unresolved. CSU archives support private family control during this employment; the 2007 Rural Press acquisition was later.",
       "counting_note": "A title and year range do not independently establish a substantive full-time interval."
     },
     {
@@ -61,8 +113,13 @@
       "headline_sector": "private",
       "government_control_at_time": "private",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-snapshot", "src-aph-current", "src-member-history"],
-      "evidence_note": "Official biographies record acting-editor service in 1991–1992. Exact dates, hours and leave are unresolved.",
+      "source_ids": [
+        "src-snapshot",
+        "src-aph-current",
+        "src-member-history",
+        "src-csu-archive"
+      ],
+      "evidence_note": "Official biographies record acting-editor service in 1991–1992. Exact dates, hours and leave are unresolved. CSU archives support private family control during this employment; the 2007 Rural Press acquisition was later.",
       "counting_note": "This title transition is retained separately without inventing calendar boundaries."
     },
     {
@@ -78,8 +135,15 @@
       "headline_sector": "private",
       "government_control_at_time": "private",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-snapshot", "src-aph-current", "src-member-history", "src-csu-archive", "src-abc-dismissal"],
-      "evidence_note": "Official records give 1992–2002; Charles Sturt University archives corroborate the editor years, and contemporaneous ABC reporting places suspension and departure in February 2002. Exact appointment and cessation days, hours and leave remain unresolved.",
+      "source_ids": [
+        "src-snapshot",
+        "src-aph-current",
+        "src-member-history",
+        "src-csu-archive",
+        "src-abc-dismissal",
+        "src-settlement-abc"
+      ],
+      "evidence_note": "Official records give 1992–2002; Charles Sturt University archives corroborate the editor years, and contemporaneous ABC reporting places suspension and departure in February 2002. Exact appointment and cessation days, hours and leave remain unresolved. CSU archives support private family control during this employment; the 2007 Rural Press acquisition was later. A September 2003 ABC report confirms an out-of-court dismissal settlement, not continued work through that date.",
       "counting_note": "The private-media employer and broad continuity are established, but mixed-precision boundaries and missing full-time evidence prevent an exact duration."
     },
     {
@@ -95,25 +159,38 @@
       "headline_sector": "private",
       "government_control_at_time": "private",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-snapshot", "src-aph-current", "src-member-history", "src-member-about"],
-      "evidence_note": "Official biographies and McCormack's published history record the group-editor appointment from 1996 within the continuing Daily Advertiser editorship. Exact scope, transition date, hours and leave are unresolved.",
+      "source_ids": [
+        "src-snapshot",
+        "src-aph-current",
+        "src-member-history",
+        "src-member-about",
+        "src-csu-archive"
+      ],
+      "evidence_note": "Official biographies and McCormack's published history record the group-editor appointment from 1996 within the continuing Daily Advertiser editorship. Exact scope, transition date, hours and leave are unresolved. CSU archives support private family control during this employment; the 2007 Rural Press acquisition was later.",
       "counting_note": "This concurrent senior title must not be added to the underlying newspaper employment."
     },
     {
       "spell_id": "219646-mss",
-      "employer": "MSS Media Services & Solutions",
+      "employer": "McCormack Sheather Shaw Pty Ltd (later MSS Media Pty Ltd), trading as MSS Media Services and Solutions",
       "role": "Founder, publisher and media consultant",
       "start_date": "2002",
-      "end_date": "2010-08-21",
-      "date_precision": "mixed",
+      "end_date": "2010",
+      "date_precision": "year",
       "employment_status": "self_employed",
       "fte_fraction": null,
       "category": "private_enterprise",
       "headline_sector": "private",
       "government_control_at_time": "private",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-snapshot", "src-aph-current", "src-member-history", "src-member-about", "src-secondary"],
-      "evidence_note": "Official biographies give publisher service from 2002 to 2010; McCormack's own history says he started MSS in 2002. The election date bounds the endpoint but does not prove business cessation. Legal entity, exact dates, clients, hours, leave and continuity during campaign work are unresolved.",
+      "source_ids": [
+        "src-snapshot",
+        "src-aph-current",
+        "src-member-history",
+        "src-member-about",
+        "src-secondary",
+        "src-mss-abr"
+      ],
+      "evidence_note": "Official publisher range remains 2002–2010. ABR identifies the legal company and registered trading name, resolving the entity gap. The exact election-day endpoint is removed: it was not an employment cessation date. Later company registration/renaming does not establish continued personal work. Clients, hours, leave, ownership changes and actual cessation remain unknown.",
       "counting_note": "Self-employment may count only when substantive full-time work and boundaries are supported; ownership and title alone are insufficient."
     },
     {
@@ -129,7 +206,10 @@
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-member-history", "src-secondary"],
+      "source_ids": [
+        "src-member-history",
+        "src-secondary"
+      ],
       "evidence_note": "McCormack's published history and secondary synthesis record the 1994–2003 directorship. Remuneration, workload, exact dates and the historian arrangement are unresolved; the role overlapped newspaper employment and MSS.",
       "counting_note": "Sporting-club governance is excluded from the narrow employment headline."
     },
@@ -146,7 +226,9 @@
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-member-history"],
+      "source_ids": [
+        "src-member-history"
+      ],
       "evidence_note": "McCormack's published history identifies chairmanship of the 2004 and 2007 election campaign committees. It does not establish continuous service between elections, remuneration, hours or MSS overlap.",
       "counting_note": "Party campaign organisation is excluded under the codebook."
     },
@@ -163,7 +245,9 @@
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-member-history"],
+      "source_ids": [
+        "src-member-history"
+      ],
       "evidence_note": "McCormack's published history records this party office across 2010–2011, overlapping MSS and federal service. Remuneration, hours and exact dates are unresolved.",
       "counting_note": "Party organisational office is excluded under the codebook."
     },
@@ -180,9 +264,90 @@
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-snapshot", "src-aph-current", "src-member-about", "src-directory"],
+      "source_ids": [
+        "src-snapshot",
+        "src-aph-current",
+        "src-member-about",
+        "src-directory"
+      ],
       "evidence_note": "Official and member biographies establish House service from 21 August 2010. Ministerial, party-leadership and shadow-ministerial responsibilities are nested within elected office.",
       "counting_note": "Federal elected office is excluded under the codebook."
+    },
+    {
+      "employer": "St Michael’s Cricket Club, Wagga Wagga",
+      "role": "President",
+      "start_date": "1988",
+      "end_date": "1992",
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "nonprofit",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-member-history"
+      ],
+      "evidence_note": "Member biography supplies role and years; pay and workload unknown.",
+      "counting_note": "Sporting organisation role excluded.",
+      "spell_id": "219646-cricket"
+    },
+    {
+      "employer": "Harlequins Hockey Club, Wagga Wagga",
+      "role": "Secretary",
+      "start_date": "1991",
+      "end_date": "1991",
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "nonprofit",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-member-history"
+      ],
+      "evidence_note": "Member biography supplies role and years; pay and workload unknown.",
+      "counting_note": "Sporting organisation role excluded.",
+      "spell_id": "219646-hockey"
+    },
+    {
+      "employer": "Henwood Park Soccer Club",
+      "role": "Junior team coach and manager",
+      "start_date": "2003",
+      "end_date": "2008",
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "nonprofit",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-member-history"
+      ],
+      "evidence_note": "Member biography supplies role and years; pay and workload unknown.",
+      "counting_note": "Sporting organisation role excluded.",
+      "spell_id": "219646-soccer"
+    },
+    {
+      "employer": "Wagga Wagga Basketball Association",
+      "role": "President",
+      "start_date": "2009",
+      "end_date": "2009",
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "nonprofit",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-member-history"
+      ],
+      "evidence_note": "Member biography supplies role and years; pay and workload unknown.",
+      "counting_note": "Sporting organisation role excluded.",
+      "spell_id": "219646-basketball"
     }
   ],
   "sources": [
@@ -211,10 +376,10 @@
       "url": "https://www.michaelmccormack.com.au/past-member/michael-francis-mccormack/",
       "publisher": "Michael McCormack MP",
       "title": "Michael Francis McCormack — employment history",
-      "retrieved": "2026-09-27",
+      "retrieved": "2026-10-01",
       "source_type": "professional_profile",
       "locator": "Career, company, governance and party chronology",
-      "note": "Member-controlled history supplies the newspaper promotions, MSS founding, Turf Club directorship and party campaign roles."
+      "note": "Member career chronology and sporting roles; no hours or pay for club offices stated."
     },
     {
       "source_id": "src-member-about",
@@ -231,10 +396,10 @@
       "url": "https://archives.csu.edu.au/index.php/daily-advertiser",
       "publisher": "Charles Sturt University Regional Archives",
       "title": "The Daily Advertiser",
-      "retrieved": "2026-09-27",
+      "retrieved": "2026-10-01",
       "source_type": "archive",
-      "locator": "Editors chronology",
-      "note": "Regional archive corroborates Michael McCormack as editor from 1992 to 2002."
+      "locator": "Agency history, Henderson/Jarrett ownership, 2007 acquisition and editor chronology",
+      "note": "Archives trace private Henderson/Jarrett family ownership through the relevant period; Rural Press acquisition occurred in 2007, after McCormack left."
     },
     {
       "source_id": "src-abc-dismissal",
@@ -265,6 +430,46 @@
       "source_type": "other",
       "locator": "Early life and career",
       "note": "Secondary synthesis supplies dismissal, unfair-dismissal settlement and governance context retained as follow-up rather than calculation-grade evidence."
+    },
+    {
+      "url": "https://www.linkedin.com/posts/michael-mccormack-24243a199_waggawagga-activity-6863412086383505409-2pKz",
+      "publisher": "Michael McCormack",
+      "title": "Anniversary of beginning full-time journalism career",
+      "source_type": "professional_profile",
+      "locator": "Public post text, opening sentence",
+      "note": "Explicitly describes starting as a full-time cadet journalist at The Daily Advertiser. Relative anniversary display does not establish an exact calendar day; later role hours are not stated.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-cadet-fulltime"
+    },
+    {
+      "url": "https://abr.business.gov.au/AbnHistory/View/48100208277",
+      "publisher": "Australian Business Register",
+      "title": "Historical details, ABN 48 100 208 277",
+      "source_type": "government_record",
+      "locator": "Entity, ABN and business-name history; extract 1 October 2026",
+      "note": "McCormack Sheather Shaw Pty Ltd name from 17 May 2002, renamed MSS Media Pty Ltd on 23 September 2010; MSS Media Services and Solutions business name from 24 April 2002. ABN active 12 April 2002–17 December 2021. Company dates are not personal work dates.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-mss-abr"
+    },
+    {
+      "url": "https://www.abc.net.au/news/2003-09-02/former-newspaper-editor-accepts-out-of-court/1472750",
+      "publisher": "Australian Broadcasting Corporation",
+      "title": "Former newspaper editor accepts out of court settlement",
+      "source_type": "news",
+      "locator": "Article body, September 2003",
+      "note": "Contemporaneous report confirms settlement of the Riverina Media Group dismissal dispute. Settlement terms undisclosed; no reinstatement or employment continuity inferred.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-settlement-abc"
+    },
+    {
+      "url": "https://www.michaelmccormack.com.au/bills-major-sporting-events-indicia-and-images-protection-amendment-bill-2026-second-reading/",
+      "publisher": "Michael McCormack MP",
+      "title": "Major Sporting Events amendment bill — second reading, 2026",
+      "source_type": "government_record",
+      "locator": "First-person recollection of first job at Eric Weissel Oval",
+      "note": "Describes ground-announcing work while aged 16. Legal employer, remuneration, hours and exact dates unstated.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-announcer-speech"
     }
   ],
   "research_notes": [
@@ -272,7 +477,9 @@
     "The Daily Advertiser and Riverina Media Group are treated as private media employers at the time.",
     "MSS is treated as private self-employment, but founding and publishing titles do not establish full-time work or exact continuity through the 2010 campaign.",
     "Turf Club governance, party campaign roles, party office and federal elected office are separated and excluded under the codebook.",
-    "No private full-time total is calculated because exact boundaries, hours, leave and the substantive status of MSS remain unsupported."
+    "No private full-time total is calculated because exact boundaries, hours, leave and the substantive status of MSS remain unsupported.",
+    "2026-10-01 follow-up separates explicitly full-time cadetship from the broader official reporter interval, adds the earlier ground-announcer role and four sporting organisation roles, and identifies MSS company/ABN history. Election day is removed as an unsupported business cessation date.",
+    "Searched public professional posts, registry history, employer ownership archives, member career and first-speech material, exact newspaper entry/exit dates, business clients and dismissal reporting. Full-time evidence applies only to the initial cadetship. ABC’s original suspension page was inaccessible but its September 2003 settlement report was retrieved. An anniversary post with relative timestamp does not justify an exact start date. Unrelated namesakes and other workers’ full-time arrangements excluded."
   ],
   "open_questions": [
     "What were the exact appointment and promotion dates, contracted hours and leave across the Daily Advertiser and Riverina Media Group roles?",
@@ -280,6 +487,9 @@
     "What was the exact Daily Advertiser cessation date and the start date, legal entity, clients, remuneration, hours and leave for MSS?",
     "Did MSS continue after the 21 August 2010 election or pause during preselection and campaigning?",
     "Were the Murrumbidgee Turf Club director or historian roles remunerated, and what workload did they involve?",
-    "Were the 2004, 2007 and 2010 party/campaign roles remunerated, and how did they overlap MSS work?"
+    "Were the 2004, 2007 and 2010 party/campaign roles remunerated, and how did they overlap MSS work?",
+    "When did the full-time cadetship end, and what evidence establishes working arrangements in later reporter/editor phases?",
+    "Which rugby league organisation engaged the school-age ground announcer, on what dates, pay and hours?",
+    "When did McCormack cease work or ownership in McCormack Sheather Shaw Pty Ltd relative to its September 2010 renaming, and what leave or reduced activity applied during the campaign?"
   ]
 }
