@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/316021",
   "research_status": "blocked",
-  "last_reviewed": "2026-09-14",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -16,7 +16,7 @@
   "career_spells": [
     {
       "spell_id": "316021-01",
-      "employer": "Unidentified family-support organisation",
+      "employer": "Royal Children's Hospital, Parkville (likely organisation for parliamentary family-support entry)",
       "role": "Family support volunteer",
       "start_date": "2013",
       "end_date": "2016",
@@ -25,12 +25,13 @@
       "fte_fraction": null,
       "category": "unpaid_work",
       "headline_sector": "excluded",
-      "government_control_at_time": "unknown",
+      "government_control_at_time": "public",
       "counting_status": "excluded",
       "source_ids": [
-        "src-1"
+        "src-1",
+        "oct2-speech"
       ],
-      "evidence_note": "Explicit volunteer role; organisation not identified.",
+      "evidence_note": "Explicit volunteer role; organisation not identified. Speech identifies ward volunteering supporting music/play therapists and families; association with official2013–16 entry is a reconciliation inference, not separately dated proof. No additive role created.",
       "counting_note": "Outside the two employment headlines under the codebook; retained as career context."
     },
     {
@@ -70,9 +71,10 @@
       "source_ids": [
         "src-2",
         "src-3",
-        "src-4"
+        "src-4",
+        "oct2-control"
       ],
-      "evidence_note": "Nested within official communications period, not additive. Parent controlled by French state-owned CDC in2019; earlier control chronology, direct employing subsidiary and appointment dates remain unresolved. Control is unknown across the whole undated spell; public control is evidenced at the 2019 observation.",
+      "evidence_note": "Nested within official communications period, not additive. Parent controlled by French state-owned CDC in2019; earlier control chronology, direct employing subsidiary and appointment dates remain unresolved. Control is unknown across the whole undated spell; public control is evidenced at the 2019 observation. Parent annual report dates CDC sole control to21 December2016 at70% ownership, preceding observed2017 role. Whole undated interval remains unknown because appointment start and direct subsidiary remain unresolved; no assumed corporate-control employment boundary.",
       "counting_note": "Not counted: dates and/or substantive full-time status are insufficiently evidenced; year labels are not exact boundaries."
     },
     {
@@ -132,6 +134,44 @@
       ],
       "evidence_note": "Frozen roster first service.",
       "counting_note": "Outside the two employment headlines under the codebook; retained as career context."
+    },
+    {
+      "employer": "Unnamed local burger business",
+      "role": "Hospitality worker / trainee",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "private_enterprise",
+      "headline_sector": "private",
+      "government_control_at_time": "private",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "oct2-speech"
+      ],
+      "evidence_note": "First speech identifies paid teenage work under a traineeship; business name, dates and hours absent. No dates inferred from age.",
+      "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
+      "spell_id": "316021-burger"
+    },
+    {
+      "employer": "Unidentified bus-depot employer",
+      "role": "Customer-team worker",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "unknown",
+      "government_control_at_time": "unknown",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "oct2-survey"
+      ],
+      "evidence_note": "Published career survey lists this work without employer or dates. May overlap later Transdev work; not additive and not assigned to Transdev without evidence.",
+      "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
+      "spell_id": "316021-bus"
     }
   ],
   "sources": [
@@ -214,6 +254,36 @@
       "source_type": "other",
       "locator": "Career/biography or relevant appointment section",
       "note": "Search extract suggests Melissa Horne office and senior Transdev role May–June2019; unverified lead, not adopted as precise dates."
+    },
+    {
+      "url": "https://www.openaustralia.org.au/debate/?id=2025-07-28.102.1",
+      "publisher": "Australian Parliament / OpenAustralia transcript",
+      "title": "First speech28 July2025",
+      "source_type": "government_record",
+      "locator": "3:33pm contribution; paragraphs on teenage work and Medicare",
+      "note": "Self-described burger-shop traineeship and hospital volunteering.",
+      "retrieved": "2026-10-02",
+      "source_id": "oct2-speech"
+    },
+    {
+      "url": "https://www.thesaturdaypaper.com.au/news/politics/2025/06/28/exclusive-labor-has-first-left-majority-caucus",
+      "publisher": "The Saturday Paper",
+      "title": "Exclusive: Labor has first Left-majority caucus,28 June2025",
+      "source_type": "reliable_secondary",
+      "locator": "Alice Jordan-Baird, Previous job; indexed excerpt",
+      "note": "Lists bus-depot customer team among earlier work. Direct open403; limited to readable indexed excerpt, not mirror.",
+      "retrieved": "2026-10-02",
+      "source_id": "oct2-survey"
+    },
+    {
+      "url": "https://www.transdev.com/wp-content/uploads/2017/06/401eb23-3239-EN-FINANCIAL-REPORT-2016.pdf",
+      "publisher": "Transdev Group",
+      "title": "Financial Report2016",
+      "source_type": "employer",
+      "locator": "Management report, shareholder reorganisation21 December2016",
+      "note": "CDC acquired additional20%, reaching70% and sole control; earlier joint control not retrospectively classified.",
+      "retrieved": "2026-10-02",
+      "source_id": "oct2-control"
     }
   ],
   "research_notes": [
@@ -221,6 +291,9 @@
     "2017 scholarship and 2019 RAP are point-in-time role evidence, not appointment start/end dates. Transdev work is nested in the2015–19 umbrella entry and must not be counted twice.",
     "Transdev's public-transport contracts alone do not establish sector; historical corporate control does. The2019 primary release establishes French public control at that date, while the whole employment interval remains unresolved.",
     "Speech describes sister Clara's parliamentary, court and property-law career; none is assigned to Alice. Neuroscience study, parents' rail work and husband's apprenticeship are not her employment.",
-    "A secondary site converts year labels to1January dates; those artificial boundaries were rejected. Melbourne Water month dates retained without a new duration convention or invented FTE."
+    "A secondary site converts year labels to1January dates; those artificial boundaries were rejected. Melbourne Water month dates retained without a new duration convention or invented FTE.",
+    "Follow-up2026-10-02: added previously omitted teenage hospitality and bus-depot work; identified hospital volunteering, with explicit caution reconciling it to official year range. Transdev2016 accounts resolve parent sole-control transition, not employment dates.",
+    "Searched personal biography, first-speech transcript, published career survey, public profiles and historical parent accounts. Professional-profile mirror remains lead only. Saturday Paper direct open403; used indexed excerpt. Later OpenAustralia speech returned Internal Error; earlier transcript accessible. Staff job ads do not evidence her own FTE.",
+    "Next leads: burger business name and traineeship dates, depot employer and overlap, individual Transdev/Melbourne Water contracts and hours, ministerial assignments and2022–23 gap. No full-time total defensible."
   ]
 }
