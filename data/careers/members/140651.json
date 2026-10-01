@@ -6,12 +6,12 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/140651",
   "research_status": "blocked",
-  "last_reviewed": "2026-09-27",
+  "last_reviewed": "2026-10-01",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
     "calculation_status": "not_calculable",
-    "note": "Official and first-person biographical sources establish secondary-school teaching followed by University of Newcastle lecturing, while a 2013 interview identifies St Edward's as O'Neill's first full-time teaching job, later teaching at Corpus Christi, part-time university lecturing and a family lawn-mowing business. The Catholic-school roles are nonprofit and university employment is separated under the codebook; the business lacks dates, hours and evidence of substantive full-time work. Exact teaching and university boundaries, leave and overlaps remain unknown, so neither public nor private full-time years can be calculated."
+    "note": "Professional profile supplies St Edward’s teaching 1986–1996 and Newcastle lecturing 1996–2010. Initial school full-time status is directly described, while the university role is part-time; both sectors are excluded under the codebook. Additional Corpus Christi teaching, union governance and party roles are documented, but precise transitions, leave and family-business employment arrangements remain unresolved. No public/private full-time total is supportable."
   },
   "career_spells": [
     {
@@ -23,13 +23,16 @@
       "date_precision": "unknown",
       "employment_status": "unknown",
       "fte_fraction": null,
-      "category": "unpaid_work",
-      "headline_sector": "excluded",
+      "category": "unknown",
+      "headline_sector": "unknown",
       "government_control_at_time": "private",
-      "counting_status": "excluded",
-      "source_ids": ["src-goodsams", "src-secondary"],
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-goodsams",
+        "src-secondary"
+      ],
       "evidence_note": "Biographical accounts say O'Neill took responsibility for invoicing in her parents' construction and plant-hire business from about age 11. The entity, exact dates, pay, hours and legal employment status are not identified.",
-      "counting_note": "Childhood family assistance is not treated as documented adult paid employment."
+      "counting_note": "Remuneration is not documented; neither unpaid status nor a countable private full-time interval is inferred."
     },
     {
       "spell_id": "140651-tertiary-study",
@@ -44,7 +47,12 @@
       "headline_sector": "excluded",
       "government_control_at_time": "unknown",
       "counting_status": "excluded",
-      "source_ids": ["src-snapshot", "src-aph-current", "src-goodsams", "src-secondary"],
+      "source_ids": [
+        "src-snapshot",
+        "src-aph-current",
+        "src-goodsams",
+        "src-secondary"
+      ],
       "evidence_note": "The official biography lists four qualifications. O'Neill's 2013 interview describes interruption of her initial arts degree, later teacher training and a master's undertaken while teaching and raising children. Enrolment, completion dates, study loads and employment overlaps are unresolved.",
       "counting_note": "Study is excluded under the codebook."
     },
@@ -61,7 +69,10 @@
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-goodsams", "src-secondary"],
+      "source_ids": [
+        "src-goodsams",
+        "src-secondary"
+      ],
       "evidence_note": "In the Sisters of the Good Samaritan interview O'Neill says she was a student teacher at Mercy College, where she met her future husband. The source does not establish paid employment, dates, hours or placement conditions.",
       "counting_note": "A student-teaching placement is treated as study unless paid employment is established."
     },
@@ -69,22 +80,27 @@
       "spell_id": "140651-st-edwards",
       "employer": "St Edward's College, East Gosford",
       "role": "High school teacher",
-      "start_date": null,
-      "end_date": null,
-      "date_precision": "unknown",
+      "start_date": "1986",
+      "end_date": "1996",
+      "date_precision": "year",
       "employment_status": "full_time",
       "fte_fraction": 1.0,
       "category": "nonprofit",
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-snapshot", "src-goodsams", "src-secondary"],
-      "evidence_note": "O'Neill's 2013 interview identifies St Edward's as her first full-time job after moving to the Central Coast. The official biography confirms a high-school teaching career, but exact appointment/cessation dates, subjects, leave and the employer entity are unresolved.",
+      "source_ids": [
+        "src-snapshot",
+        "src-goodsams",
+        "src-secondary",
+        "src-linkedin-years"
+      ],
+      "evidence_note": "First-person 2013 interview explicitly identifies this as her first full-time job. Public professional profile now supplies 1986–1996. Exact commencement, cessation, leave and any changes from the initial full-time arrangement remain unresolved; no uninterrupted ten-year full-time tenure is inferred.",
       "counting_note": "The source directly supports full-time status, but employment by a nongovernment Catholic school is classified nonprofit and excluded from the narrow public/private headline."
     },
     {
       "spell_id": "140651-corpus-christi",
-      "employer": "Corpus Christi College, Central Coast",
+      "employer": "Corpus Christi College, Tuggerah (later amalgamated into St Peter’s Catholic College)",
       "role": "High school teacher",
       "start_date": null,
       "end_date": null,
@@ -95,25 +111,42 @@
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-snapshot", "src-goodsams", "src-secondary"],
-      "evidence_note": "The 2013 interview says O'Neill later taught at Corpus Christi College, during a period in which her three children were born. Exact appointment dates, subjects, hours, leave, career breaks and transition from St Edward's are unresolved.",
+      "source_ids": [
+        "src-snapshot",
+        "src-goodsams",
+        "src-secondary",
+        "src-corpus-history",
+        "src-atca-2017"
+      ],
+      "evidence_note": "The 2013 interview says O'Neill later taught at Corpus Christi College, during a period in which her three children were born. Exact appointment dates, subjects, hours, leave, career breaks and transition from St Edward's are unresolved. College history resolves the campus identity. The conference biography gives aggregate school teaching through 2000, but does not prove that this school employed her continuously until then. Its amalgamation date is not used as her cessation date.",
       "counting_note": "Nongovernment Catholic-school employment is classified nonprofit and excluded from the narrow headline; full-time status is not assumed from the teacher title."
     },
     {
       "spell_id": "140651-newcastle",
       "employer": "University of Newcastle, School of Education, Central Coast Campus",
-      "role": "Lecturer",
-      "start_date": null,
-      "end_date": "2010-08-21",
-      "date_precision": "mixed",
+      "role": "Lecturer in Education; teacher-education course coordinator",
+      "start_date": "1996",
+      "end_date": "2010",
+      "date_precision": "year",
       "employment_status": "part_time",
       "fte_fraction": null,
       "category": "university",
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-snapshot", "src-aph-current", "src-alp", "src-goodsams", "src-abc-2010", "src-abc-2013"],
-      "evidence_note": "Official and party biographies identify the University of Newcastle role before Parliament; O'Neill's 2013 interview explicitly calls the lecturing part-time and says it occurred while she was teaching and raising children. ABC described her as a university academic at the March 2010 preselection and as a local lecturer in its 2013 election guide. Start date, FTE fraction, leave, exact cessation and overlap with school teaching and campaigning are unresolved; the federal election date is only an upper bound for the pre-parliamentary description.",
+      "source_ids": [
+        "src-snapshot",
+        "src-aph-current",
+        "src-alp",
+        "src-goodsams",
+        "src-abc-2010",
+        "src-abc-2013",
+        "src-linkedin-years",
+        "src-atca-2017",
+        "src-senator-about",
+        "src-nteu-return"
+      ],
+      "evidence_note": "Professional profile supplies 1996–2010; conference biography corroborates the 2010 end year and course coordination. The 2013 interview explicitly describes part-time lecturing concurrent with school teaching, study and parenting. NTEU’s 2010 return records her occupation as lecturer. Removed election day as unsupported cessation precision. Exact FTE, breaks and transitions remain unresolved.",
       "counting_note": "University employment is separately classified and excluded under the current codebook; part-time work without a defensible FTE fraction would not support a full-time duration in any event."
     },
     {
@@ -129,8 +162,12 @@
       "headline_sector": "private",
       "government_control_at_time": "private",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-goodsams"],
-      "evidence_note": "O'Neill's 2013 interview says she and her husband established a lawn-mowing business while she was teaching, studying and raising children. The legal entity, ownership split, dates, duties, customers, revenue or remuneration, hours, leave and continuation are unresolved.",
+      "source_ids": [
+        "src-goodsams",
+        "src-senator-about",
+        "src-awr"
+      ],
+      "evidence_note": "O'Neill's 2013 interview says she and her husband established a lawn-mowing business while she was teaching, studying and raising children. The legal entity, ownership split, dates, duties, customers, revenue or remuneration, hours, leave and continuation are unresolved. Member biography corroborates joint ownership; the Women’s Register also describes running a small business in its earlier candidacy account. Entity, labour supplied and full-time basis remain unresolved.",
       "counting_note": "Self-employment may count only when substantive full-time work and boundaries are supported; co-founding or ownership alone is insufficient."
     },
     {
@@ -146,7 +183,10 @@
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-aph-current", "src-secondary"],
+      "source_ids": [
+        "src-aph-current",
+        "src-secondary"
+      ],
       "evidence_note": "The current parliamentary biography records State Conference delegate service from 1996 and national-conference delegations in 2007 and 2009, plus undated junior vice-president and national-policy roles. Secondary synthesis reports NSW party vice-presidency from December 2011 to 2024. Remuneration, workload and exact boundaries for each office are unresolved.",
       "counting_note": "Party organisational activity is excluded under the codebook."
     },
@@ -163,7 +203,10 @@
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-abc-2013", "src-secondary"],
+      "source_ids": [
+        "src-abc-2013",
+        "src-secondary"
+      ],
       "evidence_note": "ABC's 2013 Robertson guide and secondary chronology identify the unsuccessful 2003 candidacy. Nomination and election dates, remuneration, hours and overlap with teaching, lecturing and the family business are unresolved.",
       "counting_note": "Party candidacy and campaigning are excluded under the codebook."
     },
@@ -180,7 +223,10 @@
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-abc-2013", "src-secondary"],
+      "source_ids": [
+        "src-abc-2013",
+        "src-secondary"
+      ],
       "evidence_note": "ABC's 2013 Robertson guide and secondary chronology identify the unsuccessful 2007 candidacy. Nomination and election dates, remuneration, hours and overlap with employment are unresolved.",
       "counting_note": "Party candidacy and campaigning are excluded under the codebook."
     },
@@ -197,7 +243,10 @@
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-abc-2010", "src-aph-current"],
+      "source_ids": [
+        "src-abc-2010",
+        "src-aph-current"
+      ],
       "evidence_note": "ABC reported O'Neill winning Labor preselection on 6 March 2010; the parliamentary biography records election on 21 August 2010. Campaign remuneration, hours and overlap with university or other employment are unresolved.",
       "counting_note": "Party candidacy and campaigning are excluded under the codebook."
     },
@@ -214,7 +263,11 @@
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-snapshot", "src-aph-current", "src-alp"],
+      "source_ids": [
+        "src-snapshot",
+        "src-aph-current",
+        "src-alp"
+      ],
       "evidence_note": "Official parliamentary service history records election in 2010 and defeat at the 7 September 2013 general election.",
       "counting_note": "Federal elected office is excluded under the codebook."
     },
@@ -231,7 +284,10 @@
       "headline_sector": "unknown",
       "government_control_at_time": "unknown",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-aph-current", "src-abc-2013"],
+      "source_ids": [
+        "src-aph-current",
+        "src-abc-2013"
+      ],
       "evidence_note": "Official service history establishes a gap after House defeat and before the NSW Parliament selected O'Neill for the Senate vacancy. Reviewed sources do not identify paid employment in this interval; absence of evidence is not coded as unemployment.",
       "counting_note": "No sector or duration is inferred for an unresolved interval."
     },
@@ -248,7 +304,11 @@
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-snapshot", "src-aph-current", "src-abc-2013"],
+      "source_ids": [
+        "src-snapshot",
+        "src-aph-current",
+        "src-abc-2013"
+      ],
       "evidence_note": "The official parliamentary biography records selection by the NSW Parliament on 13 November 2013 to replace Bob Carr and service through 30 June 2014.",
       "counting_note": "Federal elected office is excluded under the codebook."
     },
@@ -265,9 +325,70 @@
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-snapshot", "src-aph-current", "src-alp"],
+      "source_ids": [
+        "src-snapshot",
+        "src-aph-current",
+        "src-alp"
+      ],
       "evidence_note": "The parliamentary biography records a renewed NSW parliamentary choice on 2 July 2014, election to the Senate in 2016 and re-election in 2022; service was current at the frozen snapshot.",
       "counting_note": "Federal elected office is excluded under the codebook."
+    },
+    {
+      "employer": "National Tertiary Education Industry Union, University of Newcastle branch",
+      "role": "Branch committee member",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "union",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-nteu-return"
+      ],
+      "evidence_note": "Named in the union’s statutory 2010 return, alongside lecturer occupation. Exact term, remuneration and hours are unknown; not assumed to be paid union staff.",
+      "counting_note": "Union governance is excluded.",
+      "spell_id": "140651-nteu-committee"
+    },
+    {
+      "employer": "Australian Labor Party — NSW Branch",
+      "role": "President, Terrigal State Electorate Committee",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "party_organisation",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-senator-about"
+      ],
+      "evidence_note": "Member biography identifies this party role without dates, pay or workload.",
+      "counting_note": "Party organisational activity excluded.",
+      "spell_id": "140651-alp-terrigal"
+    },
+    {
+      "employer": "Australian Labor Party — NSW Branch",
+      "role": "Member, Health Policy Committee",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "party_organisation",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-senator-about"
+      ],
+      "evidence_note": "Member biography identifies this party role without dates, pay or workload.",
+      "counting_note": "Party organisational activity excluded.",
+      "spell_id": "140651-alp-health"
     }
   ],
   "sources": [
@@ -340,6 +461,66 @@
       "source_type": "other",
       "locator": "Early life and Political career; citations to parliamentary, party, institutional and news sources",
       "note": "Secondary synthesis used to cross-check school names, qualifications, party chronology and candidacies; exact employment dates still require primary records."
+    },
+    {
+      "url": "https://au.linkedin.com/in/senator-deborah-o-neill-542526aa",
+      "publisher": "Senator Deborah O’Neill / LinkedIn",
+      "title": "Public professional profile",
+      "source_type": "professional_profile",
+      "locator": "Public search-indexed Experience entries; direct page retrieval unavailable",
+      "note": "Explicitly lists St Edward’s high-school teacher 1986–1996 and University of Newcastle Lecturer in Education 1996–2010. Public indexed content supplies years, not exact boundaries, leave or hours.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-linkedin-years"
+    },
+    {
+      "url": "https://atca.com.au/wp-content/uploads/2021/12/ATCA-E-News-August-2017.pdf",
+      "publisher": "Australasian Therapeutic Communities Association",
+      "title": "ATCA E-News August 2017",
+      "source_type": "professional_profile",
+      "locator": "Printed page 6 / PDF index 5, Deborah O’Neill speaker biography",
+      "note": "Speaker biography gives overall high-school teaching 1986–2000 and Newcastle lecturing until 2010, including teacher-education course coordination. It does not allocate all school years to a named school.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-atca-2017"
+    },
+    {
+      "url": "https://regorgs.fwc.gov.au/sites/default/files/migration/393/283v-ar2010-2682.pdf",
+      "publisher": "National Tertiary Education Industry Union / Fair Work Australia",
+      "title": "NTEU annual return 2010, AR 2010/2682",
+      "source_type": "government_record",
+      "locator": "Attachment B, PDF index 42, Newcastle branch table; cover dated 26 July 2010",
+      "note": "Lists O’Neill Deborah Mary as branch committee member with occupation lecturer. Does not establish union pay, hours or tenure endpoints.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-nteu-return"
+    },
+    {
+      "url": "https://senatoroneill.com.au/about/",
+      "publisher": "Senator Deborah O’Neill",
+      "title": "About Deborah O’Neill",
+      "source_type": "professional_profile",
+      "locator": "Opening career summary and Party positions",
+      "note": "Confirms teacher-education course coordination, jointly owned lawn-mowing business, Terrigal electorate committee presidency and ALP health-policy committee membership. Broad teaching-duration language is not used for arithmetic.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-senator-about"
+    },
+    {
+      "url": "https://www.womenaustralia.info/entries/oneill-deborah/",
+      "publisher": "Australian Women’s Register / Annette Alafaci",
+      "title": "O’Neill, Deborah, AWE1946",
+      "source_type": "other",
+      "locator": "2003 candidacy account; created 1 February 2006, modified 28 September 2010",
+      "note": "Describes teaching, Newcastle lecturing and running a small business with her husband in the earlier candidacy context; no legal entity or precise dates.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-awr"
+    },
+    {
+      "url": "https://www.stpetersdbb.catholic.edu.au/about/our-history/",
+      "publisher": "St Peter’s Catholic College",
+      "title": "Our History",
+      "source_type": "employer",
+      "locator": "College development and amalgamation paragraphs",
+      "note": "Identifies Corpus Christi as the Tuggerah senior campus developed in 1987, amalgamated with Mater Dei as St Peter’s in 2000. Institutional dates are not O’Neill’s employment boundaries.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-corpus-history"
     }
   ],
   "research_notes": [
@@ -348,6 +529,9 @@
     "Obtain University of Newcastle appointment records, title progression, campus/school, start and cessation dates, FTE fraction, leave and overlap with teaching, study, business and campaigns.",
     "Identify the lawn-mowing business entity, dates, ownership, duties, customers, remuneration, hours, leave and whether it continued through candidacies or federal service.",
     "Determine remuneration and workload for ALP offices and the 2003, 2007 and 2010 campaigns; identify any paid work in the September–November 2013 parliamentary gap.",
-    "No public/private full-time duration is inferred from the generic teacher/lecturer labels. The directly described full-time St Edward's role remains a nonprofit exclusion; missing evidence is not zero."
+    "No public/private full-time duration is inferred from the generic teacher/lecturer labels. The directly described full-time St Edward's role remains a nonprofit exclusion; missing evidence is not zero.",
+    "2026-10-01 follow-up: added publicly indexed professional-profile years, conference biography, statutory NTEU office, school history and additional party roles. Corrected election-day university cessation precision and unsupported unpaid classification of childhood family assistance.",
+    "Overall school range 1986–2000 in the 2017 conference biography extends beyond the St Edward’s 1986–1996 profile entry; preserve later Corpus Christi teaching and possible overlap with part-time Newcastle work rather than force a sequential full-time timeline. Exact school transfer and leave remain gaps.",
+    "Searched Newcastle institutional pages, school chronology, professional profile, conference biographies, statutory union records and small-business references including spouse name. Direct LinkedIn and Good Samaritan pages returned retrieval errors; public profile search indexing supplied explicit years. No business entity or full-time labour evidence found. Generic university profile and music-teacher namesakes excluded."
   ]
 }
