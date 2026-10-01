@@ -6,7 +6,7 @@
   "snapshot_party": "The Nationals",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/281688",
   "research_status": "blocked",
-  "last_reviewed": "2026-09-29",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -128,9 +128,10 @@
         "src-1",
         "src-2",
         "src-3",
-        "src-4"
+        "src-4",
+        "src-8"
       ],
-      "evidence_note": "APH gives founder/director period starting 2011, while employer report says service commenced 2012. Preserve distinction between formation and operations; do not invent salaried start date. Nonprofit role excluded.",
+      "evidence_note": "APH gives founder/director period starting 2011, while employer report says service commenced 2012. Preserve distinction between formation and operations; do not invent salaried start date. Nonprofit role excluded. Coauthored2014 article dates physical Zoe Centre opening to April2013 under council family-day-care scheme; distinguish centre launch from2011 founding and2012 service commencement. Council scheme does not prove public ownership or employment.",
       "counting_note": "Excluded from the two employment headlines under the codebook."
     },
     {
@@ -156,9 +157,9 @@
       "spell_id": "281688-08",
       "employer": "La Trobe University",
       "role": "BA and Bachelor of Social Work (Honours) study",
-      "start_date": null,
+      "start_date": "2006",
       "end_date": null,
-      "date_precision": "unknown",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "study",
@@ -167,9 +168,12 @@
       "counting_status": "excluded",
       "source_ids": [
         "src-1",
-        "src-2"
+        "src-2",
+        "src-6",
+        "src-7",
+        "src-8"
       ],
-      "evidence_note": "Degrees not treated as paid social-work employment. Any placements require separate evidence.",
+      "evidence_note": "Zoe2017 report indexed biography dates concurrent degree commencement to2006. MASP2010 profile describes full-time final-year social-work honours study; this is study status, not full-time employment. Coauthored2014 article confirms degrees completed by then but no precise conferral date. Music/study overlap remains unresolved.",
       "counting_note": "Excluded from the two employment headlines under the codebook."
     },
     {
@@ -230,6 +234,25 @@
       ],
       "evidence_note": "Frozen first-service date; elected role excluded.",
       "counting_note": "Excluded from the two employment headlines under the codebook."
+    },
+    {
+      "employer": "Mallee Accommodation and Support Program Inc.",
+      "role": "Board member; vice-president evidenced in 2010",
+      "start_date": "2005",
+      "end_date": null,
+      "date_precision": "mixed",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "nonprofit",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-6"
+      ],
+      "evidence_note": "2010 organisation report gives 2005 board entry and vice-presidency at report date. End and officer appointment date unknown; governance not assumed salaried employment.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "281688-12"
     }
   ],
   "sources": [
@@ -241,7 +264,7 @@
       "retrieved": "2026-09-29",
       "source_type": "official_biography",
       "locator": "Qualifications and occupations; honours; party positions",
-      "note": "Indexed official text confirms frozen career years, scholarships and 2014–2015 party-office role; no working hours or early employers."
+      "note": "Indexed official text confirms frozen career years, scholarships and 2014\u20132015 party-office role; no working hours or early employers."
     },
     {
       "source_id": "src-2",
@@ -270,7 +293,7 @@
       "title": "Annual Report 2019",
       "retrieved": "2026-09-29",
       "source_type": "employer",
-      "locator": "Printed pages 4–6 / PDF pages 6–8: chair report and founder/patron biography",
+      "locator": "Printed pages 4\u20136 / PDF pages 6\u20138: chair report and founder/patron biography",
       "note": "Documents executive departure and subsequent patronage; service commencement stated as 2012. Individual hours and pay not established."
     },
     {
@@ -282,6 +305,36 @@
       "source_type": "other",
       "locator": "Angela Gowers story, flute tuition paragraph",
       "note": "Locally relevant teaching lead: pupil attending Red Cliffs Secondary College studied flute with Anne Webster. Does not prove the college employed her or establish tenure."
+    },
+    {
+      "url": "https://www.yumpu.com/en/document/view/4833354/vice-president-mallee-accommodation-and-support-program",
+      "publisher": "Mallee Accommodation and Support Program / Yumpu mirror",
+      "title": "2010 Annual Report \u2014 Board of Management",
+      "source_type": "employer",
+      "locator": "Page 10 listing; public indexed Anne Webster vice-president profile",
+      "note": "Organisation report identifies board entry in 2005 and current full-time final-year social-work honours study. Page-specific click reached verification screen; indexed text used without bypass. Hosting upload date 2012 is not report year.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-6"
+    },
+    {
+      "url": "https://acncpubfilesprodstorage.blob.core.windows.net/public/9004affc-39af-e811-a963-000d3ad244fd-246e6ffe-6522-4c66-8742-5d7863f04974-Annual%20Report-17b3cf07-4db0-e811-a960-000d3ad24282-2017_Annual__Report.pdf",
+      "publisher": "Zoe Support Australia / ACNC filing",
+      "title": "Annual Report 2017",
+      "source_type": "employer",
+      "locator": "Indexed executive biography: began two degrees concurrently in 2006",
+      "note": "Public index supplies study commencement and concurrent music teaching, community volunteering and family responsibilities. Direct PDF returned 404; locator page number unavailable.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-7"
+    },
+    {
+      "url": "https://www.earlychildhoodaustralia.org.au/wp-content/uploads/2014/12/EC1404_zoe_support.pdf",
+      "publisher": "Early Childhood Australia / Anne Webster and Katrina McGarry",
+      "title": "Zoe Support \u2014 re-engaging young mums in education",
+      "source_type": "other",
+      "locator": "Every Child volume20 number4 (2014), one-page article; founder narrative and opening paragraph",
+      "note": "First-person coauthored report distinguishes April2013 centre opening from earlier organisational founding. Two degrees completed by publication; no payroll/hours evidence.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-8"
     }
   ],
   "research_notes": [
@@ -290,6 +343,8 @@
     "Targeted school/music/seamstress/full-time searches found multiple overseas and Australian namesakes; their employment histories were not imported. Red Cliffs Secondary College is a pupil's school in the source, not a verified employing school for Webster.",
     "Zoe annual report documents stepping down, successor arrangements and patron role but not individual hours/pay. Its 2012 service commencement differs from APH's 2011 founder period; both retained without altering dates to produce a total. Board experience is mentioned but complete organisation-level governance chronology remains a lead.",
     "Secondary reporting identifies Mallee Accommodation and Support Program board service from 2005 and chair tenure; targeted employer-domain search did not retrieve a confirming primary record. Follow historical MASP reports. Social-worker label may describe Zoe work and must not become an invented additional employer spell.",
-    "Known overlapping year ranges cannot be added. Missing employer control and hours remain unknown, not public/private zero. Last follow-up 2026-09-29; blocked record requires later systematic evidence follow-up."
+    "Known overlapping year ranges cannot be added. Missing employer control and hours remain unknown, not public/private zero. Last follow-up 2026-09-29; blocked record requires later systematic evidence follow-up.",
+    "2026-10-02 follow-up located MASP2010 annual-report board biography (public indexed mirror), Zoe2017 annual-report indexed biography and Webster-coauthored2014 Early Childhood Australia article. Added MASP governance and2006 concurrent degree start; captured2010 full-time study snapshot without applying it to employment.",
+    "Remaining: actual teaching employers, seamstress and image-consultancy trading entities, hours/pay and breaks; MASP resignation/chair dates and Zoe employment basis. Targeted searches mostly namesakes; no new supported school employer. Zoe2018PDF timeout,2017ACNCblob404, LinkedIn999 and ParliamentVictoria transcript inaccessible; indexed primary extracts and accessible coauthored article used. Do not endlessly repeat these failed URLs without new leads. Last follow-up2026-10-02; unresolved, totals null."
   ]
 }
