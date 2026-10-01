@@ -6,12 +6,12 @@
   "snapshot_party": "Liberal Party of Australia",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/297964",
   "research_status": "blocked",
-  "last_reviewed": "2026-09-20",
+  "last_reviewed": "2026-10-01",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
     "calculation_status": "not_calculable",
-    "note": "The documented paid role is at the nonprofit Lowy Institute, which is excluded from the public/private headline. Study, unpaid family care, party campaigning and elected office are also excluded. The available sources do not establish any countable public- or private-sector full-time spell; missing evidence is not zero."
+    "note": "Lowy nonprofit employment, ministerial study internship, party work, study, unpaid family care and elected office are excluded from public/private headlines. No sufficiently supported countable full-time interval established. Missing evidence is not zero."
   },
   "career_spells": [
     {
@@ -27,7 +27,10 @@
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-personal", "src-lowy"],
+      "source_ids": [
+        "src-personal",
+        "src-lowy"
+      ],
       "evidence_note": "Current first-party and former-employer biographies identify undergraduate anthropology study at the University of Sydney. Dates, load and concurrent employment are unresolved.",
       "counting_note": "Study is excluded under the codebook."
     },
@@ -44,7 +47,10 @@
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-personal", "src-lowy"],
+      "source_ids": [
+        "src-personal",
+        "src-lowy"
+      ],
       "evidence_note": "Collins' current biography identifies an honours year at QUT; the Lowy biography says the project studied Samoan communities in Australia. Dates, scholarship terms, load and concurrent employment are unresolved.",
       "counting_note": "Study is excluded under the codebook."
     },
@@ -61,7 +67,11 @@
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-personal", "src-lowy", "src-journal"],
+      "source_ids": [
+        "src-personal",
+        "src-lowy",
+        "src-journal"
+      ],
       "evidence_note": "Her current and Lowy biographies identify the PhD subject. A journal author biography says Jessica Nancy Bird completed the QUT PhD between 2010 and 2013. A scholarship is mentioned but its funding, work obligations and any concurrent paid employment are unresolved.",
       "counting_note": "Study is excluded; a scholarship does not by itself establish employment."
     },
@@ -78,8 +88,12 @@
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-personal"],
-      "evidence_note": "Collins' current biography states that she spent seven years as a stay-at-home mother, published four academic papers and completed a Master of Global Development with Distinction. Calendar endpoints, any paid publishing or research contracts, and the master's institution and study dates are not supplied; the relative duration is not converted into invented dates.",
+      "source_ids": [
+        "src-personal",
+        "src-first-speech",
+        "src-qualifications"
+      ],
+      "evidence_note": "Collins' current biography states that she spent seven years as a stay-at-home mother, published four academic papers and completed a Master of Global Development with Distinction. Calendar endpoints, any paid publishing or research contracts, and the master's institution and study dates are not supplied; the relative duration is not converted into invented dates. Follow-up identifies master’s institution as Griffith, recorded separately below. First speech confirms a study-linked ministerial internship during this broader period; neither seven-year care duration nor children’s ages is converted into endpoints.",
       "counting_note": "Unpaid family care and study are excluded under the codebook; publications do not establish paid employment."
     },
     {
@@ -95,8 +109,14 @@
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-snapshot", "src-personal", "src-lowy"],
-      "evidence_note": "The frozen official extract records Lowy service within 2021–2025. Collins' current biography gives a November 2021 start and July 2024 promotion; the Lowy profile corroborates the research-fellow role. Exact days, hours, leave and any preceding employment are unresolved.",
+      "source_ids": [
+        "src-snapshot",
+        "src-personal",
+        "src-lowy",
+        "src-first-speech",
+        "src-lowy-entity"
+      ],
+      "evidence_note": "The frozen official extract records Lowy service within 2021–2025. Collins' current biography gives a November 2021 start and July 2024 promotion; the Lowy profile corroborates the research-fellow role. Exact days, hours, leave and any preceding employment are unresolved. First speech credits Jonathan Pryke with hiring her after family care. Current institutional page confirms charitable company limited by guarantee; public company legal form does not mean government control. No personal hours or leave evidence found.",
       "counting_note": "The Lowy Institute is an independent nonprofit think tank; nonprofit employment is excluded from the public/private headline under the codebook."
     },
     {
@@ -112,8 +132,14 @@
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-snapshot", "src-personal", "src-lowy"],
-      "evidence_note": "Collins' current biography dates her promotion to July 2024 and resignation before the election to March 2025. The Lowy profile corroborates both titles. Exact transition and cessation days, hours, leave and campaign overlap are unresolved; the director title is not treated as proof of full-time work.",
+      "source_ids": [
+        "src-snapshot",
+        "src-personal",
+        "src-lowy",
+        "src-first-speech",
+        "src-lowy-entity"
+      ],
+      "evidence_note": "Collins' current biography dates her promotion to July 2024 and resignation before the election to March 2025. The Lowy profile corroborates both titles. Exact transition and cessation days, hours, leave and campaign overlap are unresolved; the director title is not treated as proof of full-time work. First speech credits Jonathan Pryke with hiring her after family care. Current institutional page confirms charitable company limited by guarantee; public company legal form does not mean government control. No personal hours or leave evidence found.",
       "counting_note": "Nonprofit employment is excluded from the public/private headline."
     },
     {
@@ -129,7 +155,11 @@
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-personal", "src-news", "src-snapshot"],
+      "source_ids": [
+        "src-personal",
+        "src-news",
+        "src-snapshot"
+      ],
       "evidence_note": "Contemporaneous reporting records Collins winning the second Coalition Senate-ticket position on 25 May 2024. Her biography records Lowy resignation in March 2025 and the frozen roster records Senate service from 1 July 2025. Campaign pay, hours, exact active-work period and overlap with Lowy are unresolved.",
       "counting_note": "Party and campaign activity is excluded under the codebook."
     },
@@ -146,9 +176,74 @@
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-snapshot", "src-personal"],
-      "evidence_note": "The frozen roster and Collins' current biography establish Senate service from 1 July 2025. Committee offices are nested within elected service.",
+      "source_ids": [
+        "src-snapshot",
+        "src-personal",
+        "src-first-speech"
+      ],
+      "evidence_note": "The frozen roster and Collins' current biography establish Senate service from 1 July 2025. Committee offices are nested within elected service. First speech describes July2025 ADF Parliamentary Program participation with3RAR; this is parliamentary familiarisation, not evidence of military employment.",
       "counting_note": "Elected office is excluded under the codebook."
+    },
+    {
+      "employer": "Griffith University",
+      "role": "Master of Global Development student",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "public",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-qualifications",
+        "src-first-speech",
+        "src-linkedin-public"
+      ],
+      "evidence_note": "Personal qualifications page names Griffith University; study included a ministerial-office internship. Public professional-profile index records Griffith academic-excellence award2020, an observation rather than graduation/enrolment boundary. Dates, load and funding unknown.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "297964-griffith-master"
+    },
+    {
+      "employer": "Office of the Minister for International Development and the Pacific (minister/payroll entity not conclusively verified)",
+      "role": "Intern as part of Master of Global Development",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "political_staff",
+      "headline_sector": "excluded",
+      "government_control_at_time": "public",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-first-speech",
+        "src-wiki-lead"
+      ],
+      "evidence_note": "First speech explicitly describes a short internship in the minister’s office during master’s study. It gives no dates, pay or hours. Secondary biography names Alex Hawke’s office, requiring primary confirmation; do not assume regular paid staff appointment.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "297964-ministerial-internship"
+    },
+    {
+      "employer": "Liberal Party of Australia — NSW Division",
+      "role": "Party member; unsuccessful preselection bids before Senate endorsement",
+      "start_date": "2019",
+      "end_date": null,
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "party_organisation",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-personal",
+        "src-first-speech"
+      ],
+      "evidence_note": "Personal biography and first speech date joining2019 and recount earlier North Sydney/Senate nomination attempts. Membership and candidacy do not prove paid party employment. Exact bid dates and campaign workload unresolved.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "297964-liberal-membership"
     }
   ],
   "sources": [
@@ -201,18 +296,75 @@
       "source_type": "news",
       "locator": "25 May 2024 report on NSW Liberal Senate preselection",
       "note": "Contemporaneous report establishing Collins' second ticket position on the publication date."
+    },
+    {
+      "url": "https://www.openaustralia.org.au/senate/?id=2025-07-30.189.1",
+      "publisher": "Australian Parliament / OpenAustralia transcript",
+      "title": "Jessica Collins first speech,30July2025",
+      "source_type": "government_record",
+      "locator": "Personal career narrative: Fiji offer, ministerial internship, family care and Lowy",
+      "note": "Primary evidence of study-linked internship; job offer is not employment.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-first-speech"
+    },
+    {
+      "url": "https://www.jessicacollins.com.au/journals-and-publications/",
+      "publisher": "Senator Jess Collins",
+      "title": "Journals and Publications",
+      "source_type": "official_biography",
+      "locator": "Qualifications; scholarly works;4March2025 podcast",
+      "note": "Names Griffith University as master’s institution and links Bird-authored research. Publishing/podcast dates are not employment boundaries.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-qualifications"
+    },
+    {
+      "url": "https://www.lowyinstitute.org/about",
+      "publisher": "Lowy Institute",
+      "title": "About the Lowy Institute",
+      "source_type": "employer",
+      "locator": "Funding and support; board of directors",
+      "note": "Current primary legal-form evidence: charitable nonprofit company limited by guarantee. Current page does not alone resolve all historical governance.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-lowy-entity"
+    },
+    {
+      "url": "https://au.linkedin.com/in/jessica-collins-7aa50142",
+      "publisher": "Jessica Collins / LinkedIn",
+      "title": "Jessica Collins — Parliament of Australia",
+      "source_type": "professional_profile",
+      "locator": "Publicly indexed honours: Griffith Award for Academic Excellence2020",
+      "note": "Award year only; direct page returned999. No authenticated/private content accessed or enrolment dates inferred.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-linkedin-public"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/Jessica_Collins_(politician)",
+      "publisher": "Wikipedia",
+      "title": "Jessica Collins (politician)",
+      "source_type": "other",
+      "locator": "Career paragraph citing Crikey24May2024",
+      "note": "Hawke-office identification remains secondary lead; cited article’s relevant section requires login, not bypassed.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-wiki-lead"
     }
   ],
   "research_notes": [
     "The current first-party biography materially improves the frozen year-only Lowy record with month-level start, promotion and resignation dates.",
     "Senior research and director titles are not treated as proof of substantive full-time status.",
     "Government grants or policy influence do not make an independently controlled nonprofit a public-sector employer.",
-    "Seven years of family care are preserved as unpaid work without back-calculating calendar endpoints."
+    "Seven years of family care are preserved as unpaid work without back-calculating calendar endpoints.",
+    "Systematic follow-up2026-10-01 added previously omitted ministerial internship, identified Griffith as master’s institution, recorded2019 party entry and clarified declined University of Fiji lectureship. Lowy employment hours remain unknown.",
+    "First speech says she was offered Fiji lecturing while awaiting doctoral examination and chose family formation instead; no Fiji employment spell created. Scholarly authorship and research affiliations do not establish university paid appointments. ADF Parliamentary Program participation is not military employment.",
+    "Public professional-profile2020 Griffith award is not a degree completion date. Master’s institution question resolved; calendar dates, scholarship conditions and teaching/research contracts remain open.",
+    "Searched personal qualifications, first speech, public LinkedIn, Lowy institutional material and annual/financial reports, QUT thesis and Hawke-office lead. LinkedIn direct999; QUT thesis restricted URL; official Parlinfo403, recovered through public Hansard transcript. Personal publications page timeout recovered. Crikey login wall not bypassed. No usable dated Lowy annual report or individual hours/leave record located.",
+    "Next follow-up: public Griffith internship/award records, QUT study funding and paid-teaching acknowledgements, historical Lowy governance and personnel terms; confirm whether Hawke-office work is solely the study internship. National queue advances without assuming no earlier employment."
   ],
   "open_questions": [
     "What were the exact undergraduate, honours, master's and PhD dates, loads, scholarship conditions and overlaps with paid work?",
     "Did Collins hold any paid employment before November 2021, including research, teaching or paid publication work?",
     "What were the exact Lowy appointment dates, hours, leave and campaign arrangements?",
-    "What were the campaign's paid status, hours and exact active-work dates between preselection and Senate commencement?"
+    "What were the campaign's paid status, hours and exact active-work dates between preselection and Senate commencement?",
+    "What were the ministerial internship dates, responsible minister, duties, pay and weekly hours?",
+    "Were there any distinct paid university appointments or private-sector jobs during study/family-care periods?"
   ]
 }
