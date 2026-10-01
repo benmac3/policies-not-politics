@@ -6,12 +6,12 @@
   "snapshot_party": "Liberal Party of Australia",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/281513",
   "research_status": "blocked",
-  "last_reviewed": "2026-09-27",
+  "last_reviewed": "2026-10-01",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
     "calculation_status": "not_calculable",
-    "note": "The frozen official record establishes university-centre, political-staff and community-housing roles from 2011 to 2018. McIntosh's first speech also discloses earlier electorate and prime-ministerial staff work, an unidentified corporate job, a career pause and a small-business venture, but does not identify complete dates, employers, hours or leave. University, political-staff, nonprofit, party, study and elected roles are excluded from the narrow public/private headline; the unidentified corporate and business work cannot be counted without boundaries and substantive full-time evidence."
+    "note": "American Express public-affairs work in September 2001 and undated Travelex communications work are now identified, but ordinary hours and employment boundaries remain unresolved. Australian Canoeing, university-centre, political-staff, nonprofit housing, party, study and elected roles are excluded. Wentworth resignation is documented on 7 December 2018. Private full-time years cannot be calculated from the remaining corporate and small-business evidence; missing evidence is not zero."
   },
   "career_spells": [
     {
@@ -27,7 +27,10 @@
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-first-speech", "src-secondary"],
+      "source_ids": [
+        "src-first-speech",
+        "src-secondary"
+      ],
       "evidence_note": "McIntosh's first speech says her political career began at age 21, fresh out of Western Sydney University. Secondary synthesis identifies a Bachelor of Communications covering journalism, public relations and video production, but enrolment and graduation dates are unresolved.",
       "counting_note": "Study is excluded under the codebook."
     },
@@ -44,14 +47,17 @@
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-first-speech", "src-secondary"],
+      "source_ids": [
+        "src-first-speech",
+        "src-secondary"
+      ],
       "evidence_note": "In her first speech McIntosh calls Kelly her first political boss, says Kelly gave her a first job when she was fresh out of university and dates the start of her political career to age 21. The title, payroll, exact dates, hours and leave are not published in the reviewed sources.",
       "counting_note": "Political-staff employment is displayed separately and excluded from the narrow headline."
     },
     {
       "spell_id": "281513-howard-office",
       "employer": "Office of Prime Minister John Howard",
-      "role": "Political staff member (exact title unresolved)",
+      "role": "Press-office political staff member (exact title unresolved)",
       "start_date": null,
       "end_date": null,
       "date_precision": "unknown",
@@ -61,26 +67,54 @@
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-first-speech", "src-secondary"],
-      "evidence_note": "McIntosh's first speech says she worked for Prime Minister Howard in Canberra at age 22 and served in his office. Exact title, payroll, appointment dates, hours, leave and the transition from Kelly's office are unresolved.",
+      "source_ids": [
+        "src-first-speech",
+        "src-secondary",
+        "src-wentworth-2017",
+        "src-amex-account"
+      ],
+      "evidence_note": "McIntosh's first speech says she worked for Prime Minister Howard in Canberra at age 22 and served in his office. Exact title, payroll, appointment dates, hours, leave and the transition from Kelly's office are unresolved. Employer biography specifies the Press Office. Her later first-person account places Howard-office service approximately a year before September 2001, without establishing boundaries.",
       "counting_note": "Political-staff employment is excluded from the narrow public/private headline."
     },
     {
       "spell_id": "281513-corporate",
-      "employer": "Unidentified corporate employer in Sydney",
-      "role": "Unidentified corporate role",
+      "employer": "American Express (Australian employing legal entity unresolved)",
+      "role": "Public affairs team member; exact title unresolved",
       "start_date": null,
       "end_date": null,
       "date_precision": "unknown",
       "employment_status": "unknown",
       "fte_fraction": null,
-      "category": "unknown",
-      "headline_sector": "unknown",
-      "government_control_at_time": "unknown",
+      "category": "private_enterprise",
+      "headline_sector": "private",
+      "government_control_at_time": "private",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-first-speech"],
-      "evidence_note": "McIntosh says that at age 23 she entered the corporate world, commuted to a Sydney office and had a planned New York work trip cancelled shortly before 11 September 2001. She does not identify the employer, role, dates, pay, hours or leave and says she later put her career on hold to travel with her family.",
-      "counting_note": "A narrative reference to corporate work cannot be assigned to the private headline without the employer, boundaries and substantive full-time evidence."
+      "source_ids": [
+        "src-first-speech",
+        "src-amex-account",
+        "src-wentworth-2017"
+      ],
+      "evidence_note": "The previously unnamed Sydney corporate role is identified as American Express public affairs by her first-person September 2001 account and employer biography. Observed working there in September 2001; this is not a start/end date. The first speech describes subsequent family travel and a career pause, whose boundaries remain unknown. One crisis day with long hours does not prove substantive full-time status.",
+      "counting_note": "Private-sector employer identified; dates, ordinary hours and leave remain insufficient for a duration."
+    },
+    {
+      "employer": "Travelex (employing legal entity unresolved)",
+      "role": "Corporate communications and public affairs work; exact title unresolved",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "private_enterprise",
+      "headline_sector": "private",
+      "government_control_at_time": "private",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-wentworth-2017"
+      ],
+      "evidence_note": "Wentworth employer biography names Travelex among previous corporate communications/public-affairs employers. Sequence relative to American Express, appointment dates, pay, hours and leave unknown.",
+      "counting_note": "No bounded full-time interval supported.",
+      "spell_id": "281513-travelex"
     },
     {
       "spell_id": "281513-small-business",
@@ -95,14 +129,35 @@
       "headline_sector": "private",
       "government_control_at_time": "private",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-first-speech"],
+      "source_ids": [
+        "src-first-speech"
+      ],
       "evidence_note": "McIntosh's first speech describes a period in which she had her own small business and developed a travelling-with-kids website with Rebecca Collins. The legal entity, product, exact dates, ownership, revenue or pay, hours, leave and whether the activity was substantive employment are unresolved.",
       "counting_note": "Business activity may count only when substantive paid work and boundaries are supported; a founder narrative alone is insufficient."
     },
     {
+      "employer": "Australian Canoeing Inc. (event payroll entity unconfirmed)",
+      "role": "Event Director",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "nonprofit",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-canoeing-2005"
+      ],
+      "evidence_note": "Listed among professional staff at June 2005. This is an operational staff title, not the separately listed board of Australian Canoeing Events Limited. Exact payroll entity, start/end dates, pay, ordinary hours and leave unresolved.",
+      "counting_note": "Sporting association employment excluded; point-in-time staff listing is not a full-year interval.",
+      "spell_id": "281513-canoeing"
+    },
+    {
       "spell_id": "281513-ussc",
       "employer": "United States Studies Centre, University of Sydney",
-      "role": "Director of W21, Head of Partnerships and Director of Events",
+      "role": "Director of W21 / Women in Leadership project, Head of Partnerships and Director of Events and Project Management",
       "start_date": "2011",
       "end_date": "2015",
       "date_precision": "year",
@@ -112,8 +167,16 @@
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-snapshot", "src-first-speech", "src-member-about", "src-secondary"],
-      "evidence_note": "The frozen official extract supplies the combined roles and 2011–2015 range. McIntosh's first speech corroborates work at the Centre, says she started W21 there, and dates her International Dialogue on Women in Leadership to 2014. Exact appointment dates, title transitions, hours, leave and any overlap with other work are unresolved.",
+      "source_ids": [
+        "src-snapshot",
+        "src-first-speech",
+        "src-member-about",
+        "src-secondary",
+        "src-ussc-2013",
+        "src-ussc-2014",
+        "src-abc-author"
+      ],
+      "evidence_note": "The frozen official extract supplies the combined roles and 2011–2015 range. McIntosh's first speech corroborates work at the Centre, says she started W21 there, and dates her International Dialogue on Women in Leadership to 2014. Exact appointment dates, title transitions, hours, leave and any overlap with other work are unresolved. A 29 October 2013 author footer identifies the Women in Leadership project title; the November 2014 event programme confirms W21 director. ABC supplies the fuller events/project-management title. These observations do not partition the 2011–2015 interval or prove full-time work.",
       "counting_note": "University employment is kept distinct and excluded from the two narrow headline totals under the current codebook."
     },
     {
@@ -129,7 +192,12 @@
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-snapshot", "src-first-speech", "src-member-about", "src-secondary"],
+      "source_ids": [
+        "src-snapshot",
+        "src-first-speech",
+        "src-member-about",
+        "src-secondary"
+      ],
       "evidence_note": "The frozen official extract records Chief of Staff to Assistant Minister to the Treasurer Alex Hawke from 2015 to 2016. McIntosh's first speech confirms service in Hawke's office. Exact appointment and cessation dates, payroll, hours, leave and overlap with the USSC role are unresolved.",
       "counting_note": "Political-staff employment is excluded from the narrow public/private headline."
     },
@@ -138,16 +206,23 @@
       "employer": "Wentworth Community Housing",
       "role": "Executive Manager (Communications)",
       "start_date": "2016",
-      "end_date": "2018",
-      "date_precision": "year",
+      "end_date": "2018-12-07",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "nonprofit",
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-snapshot", "src-first-speech", "src-abc-election", "src-secondary"],
-      "evidence_note": "The frozen official extract provides the employer, title and 2016–2018 range. ABC election coverage describes Wentworth as a not-for-profit community-housing company in western Sydney, and McIntosh's first speech describes creating a program for a community-housing provider. Exact appointment dates, hours, leave, 2018 cessation and campaign overlap are unresolved.",
+      "source_ids": [
+        "src-snapshot",
+        "src-first-speech",
+        "src-abc-election",
+        "src-secondary",
+        "src-wentworth-2017",
+        "src-wentworth-2019"
+      ],
+      "evidence_note": "Official start year remains 2016. The employer’s 2019 report explicitly gives resignation on 7 December 2018, resolving cessation. The 2017 report describes establishing the position that reporting year. Appointment day, ordinary hours, leave and overlap with campaigning still unresolved.",
       "counting_note": "Nonprofit employment is excluded from the narrow public/private headline under the codebook."
     },
     {
@@ -155,16 +230,18 @@
       "employer": "Liberal Party of Australia — NSW Division",
       "role": "Vice-President and State Executive member",
       "start_date": null,
-      "end_date": "2019-05-18",
-      "date_precision": "mixed",
+      "end_date": null,
+      "date_precision": "unknown",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "party_organisation",
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-secondary"],
-      "evidence_note": "Secondary synthesis identifies these organisational offices before federal election. Appointment and cessation dates, remuneration, workload and overlap with paid employment and campaigning are unresolved; the election date is used only as an upper bound for the pre-parliamentary description, not proof of cessation.",
+      "source_ids": [
+        "src-secondary"
+      ],
+      "evidence_note": "Secondary synthesis identifies these offices before federal election. Dates, remuneration and workload remain unknown. Removed election day as an unsupported cessation date.",
       "counting_note": "Party organisational office is excluded under the codebook."
     },
     {
@@ -180,7 +257,9 @@
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-secondary"],
+      "source_ids": [
+        "src-secondary"
+      ],
       "evidence_note": "Secondary synthesis, citing contemporary local reporting, records an unsuccessful Fourth Ward candidacy in 2016. Nomination and election dates, campaign remuneration, hours and overlap with the Hawke and Wentworth roles are unresolved.",
       "counting_note": "Candidacy and campaign activity are excluded under the codebook."
     },
@@ -197,7 +276,11 @@
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-first-speech", "src-abc-election", "src-secondary"],
+      "source_ids": [
+        "src-first-speech",
+        "src-abc-election",
+        "src-secondary"
+      ],
       "evidence_note": "Public election accounts identify McIntosh as the Liberal candidate elected for Lindsay on 18 May 2019. The record uses only the published year for the campaign start; exact preselection and campaign dates, remuneration, hours and overlap with Wentworth Community Housing are unresolved.",
       "counting_note": "Party candidacy and campaigning are excluded under the codebook."
     },
@@ -214,7 +297,11 @@
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-snapshot", "src-aph-current", "src-first-speech"],
+      "source_ids": [
+        "src-snapshot",
+        "src-aph-current",
+        "src-first-speech"
+      ],
       "evidence_note": "The frozen roster and current Parliament profile establish continuing House service for Lindsay from the 18 May 2019 election.",
       "counting_note": "Federal elected office is excluded under the codebook."
     }
@@ -279,14 +366,83 @@
       "source_type": "other",
       "locator": "Early life and Career; citations to Parliament, Sydney Morning Herald and Blue Mountains Gazette",
       "note": "Secondary synthesis used for the degree, pre-2011 sequence, party offices and 2016 council candidacy; primary or contemporaneous confirmation remains a follow-up need."
+    },
+    {
+      "url": "https://www.menziesrc.org/news-feed/my-near-miss",
+      "publisher": "Menzies Research Centre / Melissa McIntosh",
+      "title": "My near miss, 10 September 2021",
+      "source_type": "professional_profile",
+      "locator": "Opening account of September 2001; author attribution and republication notice",
+      "note": "First-person AFR article republished with permission identifies American Express public-affairs work in Sydney in September 2001. No appointment, departure or substantive hours given.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-amex-account"
+    },
+    {
+      "url": "https://www.linkwentworth.org.au/wp-content/uploads/2021/09/2017-annual-report.pdf",
+      "publisher": "Wentworth Community Housing",
+      "title": "Annual Report 2017",
+      "source_type": "employer",
+      "locator": "Printed page 47 executive biography; printed page 50 new communications position",
+      "note": "Employer biography names previous communications/public-affairs work at Travelex and American Express and Howard press-office work. The role was established during the reporting year, not an exact personal appointment date.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-wentworth-2017"
+    },
+    {
+      "url": "https://www.linkwentworth.org.au/wp-content/uploads/2021/09/2019-annual-report.pdf",
+      "publisher": "Wentworth Community Housing",
+      "title": "Annual Report 2019",
+      "source_type": "employer",
+      "locator": "Printed page 60, footnote below communications manager profile; PDF index 61",
+      "note": "Explicitly records resignation as Executive Manager, Communications on 7 December 2018. Report also identifies the organisation as a nonprofit housing company.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-wentworth-2019"
+    },
+    {
+      "url": "https://paddle.org.au/wp-content/uploads/2020/04/Annual-Report-2005.pdf",
+      "publisher": "Australian Canoeing Inc.",
+      "title": "56th Annual Report 2005",
+      "source_type": "employer",
+      "locator": "Our People, printed page 5 / PDF index 4; Professional Staff (at June 2005)",
+      "note": "Staff roster lists Melissa Grah-McIntosh as Event Director, separately from the boards of Australian Canoeing Inc. and Australian Canoeing Events Limited. Point-in-time listing does not establish the full employment interval or hours.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-canoeing-2005"
+    },
+    {
+      "url": "https://www.ussc.edu.au/women-shut-out-from-corridors-of-power",
+      "publisher": "United States Studies Centre",
+      "title": "Women shut out from corridors of power, 29 October 2013",
+      "source_type": "employer",
+      "locator": "Article-end author biography",
+      "note": "Contemporaneous footer identifies Women in Leadership project director; current former-staff header is not treated as a 2013 cessation statement.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-ussc-2013"
+    },
+    {
+      "url": "https://www.ussc.edu.au/international-dialogue-on-women-in-leadership",
+      "publisher": "United States Studies Centre",
+      "title": "International dialogue on women in leadership, 16–17 November 2014",
+      "source_type": "employer",
+      "locator": "Conference programme and introductions",
+      "note": "Identifies W21 director at this event; does not establish the appointment date or hours.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-ussc-2014"
+    },
+    {
+      "url": "https://www.abc.net.au/news/melissa-grah-mcintosh/5234594",
+      "publisher": "Australian Broadcasting Corporation",
+      "title": "Grah-McIntosh — contributor profile",
+      "source_type": "professional_profile",
+      "locator": "Author biography and associated 3 February 2014 article",
+      "note": "Identifies Director of Events and Project Management at USSC; profile itself is undated and not an employment boundary.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-abc-author"
     }
   ],
   "research_notes": [
-    "Blocked pending exact appointments, payroll, hours, leave and transition dates for the Jackie Kelly, John Howard and Alex Hawke political-staff roles.",
-    "Identify the corporate employer and role around 2000–2001, the date and duration of the disclosed career pause, and any paid work while travelling or caring for children.",
-    "Identify the small-business legal entity, website, ownership, dates, revenue or remuneration, hours and whether it was substantive self-employment.",
-    "Obtain contemporaneous USSC material separating the W21, partnerships and events titles, with appointment dates, hours, leave and any 2015 overlap with Hawke's office.",
-    "Confirm Wentworth appointment and cessation dates, employment basis, hours, leave and overlap with 2018 preselection/campaigning; determine remuneration and workload for party offices and campaigns.",
-    "No public or private full-time duration is calculated from job titles, year-only ranges, an unidentified corporate employer or business ownership. Missing evidence is not zero."
+    "2026-10-01 follow-up: corporate employer identified as American Express; added Travelex and Australian Canoeing staff roles. Employer annual report resolves Wentworth cessation. USSC contemporary title observations added; unsupported party-office election-day cessation removed.",
+    "Unresolved: exact dates, payroll, hours, leave and transitions across Kelly/Howard/Hawke offices, American Express, Travelex, canoeing and USSC; the duration and nature of the disclosed career pause; small-business name, website, ownership, remuneration and substantive working arrangements.",
+    "Searched name variants, employer annual reports, public professional and author profiles, contemporary USSC events and first-person September 2001 account. Corporate searches did not yield Travelex boundaries or full-time evidence. Canoeing staff table is June 2005 only; archived event-news indexing is not an employment interval.",
+    "Wentworth report text retrieved; initial PDF screenshots timed out. Canoeing PDF initially timed out on reopening, with indexed staff text and a later screenshot response available. These are individual-source retrieval errors, not job-wide blockers.",
+    "Follow up small-business website with Rebecca Collins, earlier/later canoeing annual reports and employment arrangements. Preserve unknown ordinary hours rather than infer full-time from executive titles, professional-staff classification or a single long crisis workday."
   ]
 }
