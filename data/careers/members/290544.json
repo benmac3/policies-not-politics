@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/290544",
   "research_status": "blocked",
-  "last_reviewed": "2026-09-12",
+  "last_reviewed": "2026-10-01",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -30,7 +30,7 @@
       "source_ids": [
         "src-2"
       ],
-      "evidence_note": "26-year experience claim is not a continuous full-time employment interval; early employers and boundaries missing.",
+      "evidence_note": "26-year experience claim is not a continuous full-time employment interval; early employers and boundaries missing. Austin registrar role now separately identified at a 2004 observation; this residual placeholder is not an additional additive spell.",
       "counting_note": "Not counted: dates and/or substantive full-time status are insufficiently evidenced; year labels are not exact boundaries."
     },
     {
@@ -50,14 +50,15 @@
         "src-1",
         "src-2",
         "src-3",
-        "src-5"
+        "src-5",
+        "src-monash-trip"
       ],
       "evidence_note": "APH provides medical-doctor dates; employer biographies identify Alfred. Full-time fraction and whether every month belongs to this employer require confirmation.",
       "counting_note": "Not counted: dates and/or substantive full-time status are insufficiently evidenced; year labels are not exact boundaries."
     },
     {
       "spell_id": "290544-03",
-      "employer": "Host employer unresolved (MRFF TRIP fellowship)",
+      "employer": "Monash University / Monash Partners (MRFF TRIP fellowship; salaried employer unconfirmed)",
       "role": "Research Fellow",
       "start_date": "2019",
       "end_date": "2020",
@@ -70,9 +71,10 @@
       "counting_status": "insufficient_evidence",
       "source_ids": [
         "src-1",
-        "src-4"
+        "src-4",
+        "src-monash-trip"
       ],
-      "evidence_note": "Research award is not itself proof of a separate salaried employer or full-time appointment.",
+      "evidence_note": "Research award is not itself proof of a separate salaried employer or full-time appointment. Monash’s October2019 institutional article identifies the Monash Partners fellowship and Alfred collaboration; host connection resolved, separate employment contract and funded fraction unresolved.",
       "counting_note": "Not counted: dates and/or substantive full-time status are insufficiently evidenced; year labels are not exact boundaries."
     },
     {
@@ -110,9 +112,11 @@
       "counting_status": "insufficient_evidence",
       "source_ids": [
         "src-1",
-        "src-2"
+        "src-2",
+        "src-sbs-interview",
+        "src-monash-adjunct"
       ],
-      "evidence_note": "Institution named in party biography; employment versus honorary/adjunct appointment and FTE unverified.",
+      "evidence_note": "Institution named in party biography; employment versus honorary/adjunct appointment and FTE unverified. SBS also reports medtech co-directorship; separate undated adjunct directory listing cannot establish promotion dates or extend this APH interval.",
       "counting_note": "Not counted: dates and/or substantive full-time status are insufficiently evidenced; year labels are not exact boundaries."
     },
     {
@@ -172,6 +176,84 @@
       ],
       "evidence_note": "Ongoing Senate service; chamber reflects frozen snapshot.",
       "counting_note": "Outside the two employment headlines under the codebook; retained as career context."
+    },
+    {
+      "employer": "Austin Health",
+      "role": "Infectious diseases registrar",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "public_service",
+      "headline_sector": "public",
+      "government_control_at_time": "public",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-austin-role",
+        "src-austin-control"
+      ],
+      "evidence_note": "Contemporaneous November2004 medical-journal author information identifies role and employer. Employment started by that observation but neither boundary is established; publication year is not set as an invented start/end. Full-time fraction, earlier rotations and breaks unknown.",
+      "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
+      "spell_id": "290544-09"
+    },
+    {
+      "employer": "Monash University",
+      "role": "Adjunct lecturer, infectious diseases",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "university",
+      "headline_sector": "unknown",
+      "government_control_at_time": "unknown",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-monash-adjunct"
+      ],
+      "evidence_note": "Undated institutional directory affiliation. May overlap or precede associate professorship; no distinct salaried employment, substantive hours or current tenure inferred.",
+      "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
+      "spell_id": "290544-10"
+    },
+    {
+      "employer": "Monash University; medtech entity not named",
+      "role": "Co-director of medtech entity",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "university",
+      "headline_sector": "unknown",
+      "government_control_at_time": "unknown",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-sbs-interview"
+      ],
+      "evidence_note": "Reported in June2022 interview article following fellowship/associate-professor discussion. Entity name, boundaries, salary and whether appointment formed part of other Monash duties unknown. Do not guess a specific institute or add concurrent years.",
+      "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
+      "spell_id": "290544-11"
+    },
+    {
+      "employer": "Health Care Workers Australia",
+      "role": "Co-founder; healthcare-worker safety advocacy",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "nonprofit",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-sbs-interview",
+        "src-first-speech"
+      ],
+      "evidence_note": "Pandemic-era advocacy group co-founded with Benjamin Veness. Exact establishment date, legal form, salary and hours not established. Retained separately from clinical employment; no paid full-time inference.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "290544-12"
     }
   ],
   "sources": [
@@ -224,11 +306,73 @@
       "source_type": "other",
       "locator": "Career/biography or relevant appointment section",
       "note": "Identifies Alfred consultant physician and her description of working in a public hospital."
+    },
+    {
+      "url": "https://www.mja.com.au/journal/2004/181/9/are-australian-guidelines-asking-too-much-pneumonia-severity-index-psi",
+      "publisher": "Medical Journal of Australia",
+      "title": "Are the Australian guidelines asking too much of the Pneumonia Severity Index?, 1 November 2004",
+      "source_type": "professional_profile",
+      "locator": "Author information, Michelle Ananda-Rajah dagger-marked Infectious Diseases Registrar, Austin Health",
+      "note": "Contemporaneous author role identifies a previously missing early clinical employer. Publication date is a point observation, not an employment boundary.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-austin-role"
+    },
+    {
+      "url": "https://vgls.sdp.sirsidynix.net.au/client/search/asset/1265226",
+      "publisher": "Austin Health / Victorian Government Library Service",
+      "title": "Austin Health annual report 2009–10",
+      "source_type": "government_record",
+      "locator": "Printed p13, Mandatory Reporting; PDF p14",
+      "note": "Retrospective institutional history: established by Governor in Council in 2000 under Health Services Act; renamed 2003; designated public health service in 2004. Supports public control at the registrar observation.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-austin-control"
+    },
+    {
+      "url": "https://www.monash.edu/medicine/news/latest/2019-articles/using-ai-to-tackle-invasive-fungal-infections",
+      "publisher": "Monash University",
+      "title": "Using AI to tackle invasive fungal infections, 24 October 2019",
+      "source_type": "employer",
+      "locator": "Researcher biography and final paragraph, extracted lines98–115",
+      "note": "Identifies Alfred consultant physician and Monash Partners MRFF TRIP fellowship. University/Alfred research collaboration does not establish a separate salary employer or FTE.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-monash-trip"
+    },
+    {
+      "url": "https://www.monash.edu/medicine/translational/infectious-diseases/staff",
+      "publisher": "Monash University",
+      "title": "Department of Infectious Diseases staff directory",
+      "source_type": "employer",
+      "locator": "Indexed Adjunct Lecturers list",
+      "note": "Indexed official directory lists Dr Michelle Ananda-Rajah as adjunct lecturer; direct retrieval timed out. Undated listing may be stale; no inference of current appointment, salary, dates or relationship to associate-professor interval.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-monash-adjunct"
+    },
+    {
+      "url": "https://www.sbs.com.au/language/tamil/en/podcast-episode/i-represent-australias-migrant-story-tamil-origin-mp-says-diverse-parliament-benefits-all/rkcdio8wj",
+      "publisher": "SBS Tamil",
+      "title": "I represent Australia’s migrant story, 9 June 2022, updated 15 August 2022",
+      "source_type": "news",
+      "locator": "Politicised in medicine section, lines154–164",
+      "note": "Reports Monash medtech co-directorship without entity name or dates and co-founding Health Care Workers Australia with Benjamin Veness. Neither constitutes proof of additional full-time paid work.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-sbs-interview"
+    },
+    {
+      "url": "https://speakola.com/political/michelle-ananda-rajah-first-speech-parliament-2022",
+      "publisher": "Speakola reproducing first parliamentary speech",
+      "title": "Michelle Ananda-Rajah first speech, 1 August 2022",
+      "source_type": "other",
+      "locator": "Pandemic advocacy and public-hospital experience passages",
+      "note": "First-person confirmation of co-founding Health Care Workers Australia and broad 25-year public-hospital experience. Aggregate experience statement does not identify all employers or paid full-time intervals.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-first-speech"
     }
   ],
   "research_notes": [
     "Blocked for headline years after official, employer, professional and targeted full-time/fellowship searches: medical tenure is dated but FTE is not; earlier medical experience lacks employer intervals.",
     "Concurrent clinical, fellowship, academic and editorial roles must not be added as separate full-time years. Clinical end August 2022 overlaps elected service and is retained as published, not truncated to election day.",
-    "University and journal affiliations do not establish employer control or salaried appointment. Obtain contracts/CV with hours and leave for calculation."
+    "University and journal affiliations do not establish employer control or salaried appointment. Obtain contracts/CV with hours and leave for calculation.",
+    "2026-10-01 follow-up: added Austin Health registrar observation in2004 with historical public-control evidence; identified Monash Partners fellowship connection, undated adjunct affiliation, reported unnamed medtech co-directorship, and healthcare-worker advocacy co-founding. No additional employment years calculated: appointment dates, FT fractions and overlap allocation remain unverified.",
+    "Avenues: 2004 MJA author roles; Austin2009–10 annual report; Monash2019 institutional research news and infectious-diseases directory; MASSIVE2019–20 report; SBS interview and first-speech reproduction; MRFF grant-recipient searches and fellowship biographies. Health.gov grant-recipient2025 PDF returned404; older indexed grant table could not safely map salary/employment or precise personal appointment dates. Direct Monash staff page timed out but official indexed role is preserved with limitation. Education-only affiliations and coauthors’ hospitals not attributed as jobs. Follow-up: pre2009 rotations/employers and Austin interval; Alfred continuous tenure/hours/leave; paid status and relationship of Monash roles, medtech entity name, fellowship allocation; editorial remuneration and endpoints."
   ]
 }
