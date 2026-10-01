@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/316915",
   "research_status": "blocked",
-  "last_reviewed": "2026-09-12",
+  "last_reviewed": "2026-10-01",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -14,6 +14,25 @@
     "note": "Unknown, not zero. No exact total is calculated where full-time status or interval boundaries remain unverified. Political roles, elected office, unions/associations, nonprofits and study are kept separate. Year-only dates are retained without invented day boundaries."
   },
   "career_spells": [
+    {
+      "employer": "Unidentified car-washing employer, Brighton near Nepean Highway",
+      "role": "Car washer; teenage job",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "unknown",
+      "government_control_at_time": "unknown",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-first"
+      ],
+      "evidence_note": "First speech explicitly recalls this teenage job. Location and task supported, but legal employer, calendar boundaries, remuneration terms and substantive hours are missing. Age description not converted into invented dates.",
+      "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
+      "spell_id": "316915-05"
+    },
     {
       "spell_id": "316915-01",
       "employer": "Institution not identified",
@@ -37,7 +56,7 @@
     {
       "spell_id": "316915-02",
       "employer": "Office of Maria Vamvakinou MP",
-      "role": "Adviser",
+      "role": "Adviser; first of two reported periods",
       "start_date": null,
       "end_date": null,
       "date_precision": "unknown",
@@ -48,10 +67,31 @@
       "government_control_at_time": "public",
       "counting_status": "excluded",
       "source_ids": [
-        "src-3"
+        "src-3",
+        "src-two-spells"
       ],
-      "evidence_note": "Described as a former adviser by June 2024; neither start nor end is established.",
+      "evidence_note": "June2024 reporting identifies former adviser and two periods working for Vamvakinou after university. First period represented here; neither endpoint nor length of intervening break established. Not assumed continuously employed.",
       "counting_note": "Outside the two employment headlines under the codebook; retained as career context."
+    },
+    {
+      "employer": "Office of Maria Vamvakinou MP",
+      "role": "Staff work; second of two reported periods",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "political_staff",
+      "headline_sector": "excluded",
+      "government_control_at_time": "public",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-3",
+        "src-two-spells"
+      ],
+      "evidence_note": "Employer interview reported two periods working for Vamvakinou. Second period boundaries, exact title and hours remain unknown; do not collapse across an unmeasured break.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "316915-04"
     },
     {
       "spell_id": "316915-03",
@@ -59,7 +99,7 @@
       "role": "Member for Calwell",
       "start_date": "2025-05-03",
       "end_date": null,
-      "date_precision": "unknown",
+      "date_precision": "day",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -113,12 +153,44 @@
       "source_type": "other",
       "locator": "Career/biography or relevant appointment section",
       "note": "Confirms local teaching study, without dates or teaching employment."
+    },
+    {
+      "url": "https://www.openaustralia.org.au/debates/?id=2025-07-28.100.2",
+      "publisher": "OpenAustralia reproducing House Hansard",
+      "title": "Basem Abdo first speech,28July2025,5:03pm",
+      "source_type": "government_record",
+      "locator": "Abdo contribution, paragraph beginning We see it in the teenager, extracted line388",
+      "note": "First-person teenage job washing cars near Nepean Highway in Brighton. No employer name, calendar dates or hours. Statements about his father and constituents are not his own employment.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-first"
+    },
+    {
+      "url": "https://neoskosmos.com/en/2024/06/09/news/maria-vamvakinou-mp-announces-retirement-from-politics/",
+      "publisher": "Neos Kosmos",
+      "title": "Maria Vamvakinou MP announces retirement,9June2024",
+      "source_type": "news",
+      "locator": "Paragraph following endorsement, line88",
+      "note": "Interview report says Abdo worked for Vamvakinou on two occasions after university. Supports interrupted staff history, not continuous tenure or dates.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-two-spells"
+    },
+    {
+      "url": "https://au.linkedin.com/school/st-monica%27s-college-epping---official/",
+      "publisher": "St Monica’s College Epping",
+      "title": "Public institutional update on2026 Youth Parliament visit",
+      "source_type": "employer",
+      "locator": "Indexed post beginning We were honoured to welcome Basem Abdo",
+      "note": "School describes teaching experience but gives no employer, paid position, dates or hours. Visiting the college is not evidence that he was its employee; retain as follow-up lead.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-teaching-lead"
     }
   ],
   "research_notes": [
     "Blocked for headline calculation: official biography, member and party biographies plus independent appointment coverage do not establish a dated full-time nonpolitical employment history.",
     "Searched Basem Abdo biography, work history and employment dates with both search engines on 2026-09-12. No usable dated public professional profile found. Saudi engineering/research profiles with the same name refer to a different person and were rejected.",
     "Teaching study is not evidence that he worked as a teacher. Need named employer, dates and full-time status before either sector can be counted.",
-    "No omitted occupation is treated as zero; political staff and federal elected office are excluded under project rules."
+    "No omitted occupation is treated as zero; political staff and federal elected office are excluded under project rules.",
+    "2026-10-01: recovered full first speech and added previously missing teenage car-washing job. Split Vamvakinou employment into two undated periods on employer-interview reporting, preserving the unknown break. No private/public duration or full-time status inferred. Original study-only caution still applies: school’s recent public reference to teaching experience is a lead, not a dated paid teaching spell.",
+    "Avenues: APH biography direct inaccessible; official party/member bios,28July2025 Hansard reproduction, Neos Kosmos interview, public St Monica’s College institutional post, education/employment searches. Meadow Heights Education Centre2023 annual report at https://mhec.vic.edu.au/wp-content/uploads/2024/06/Annual-Report-23.pdf indexes the name but fetch failed and surrounding role is unverified; do not infer employment or governance from a bare name. Saudi researcher/auditor and dental namesakes rejected. SBS Josh Burns teacher-aide/factory history is not Abdo’s. Follow-up: car-wash employer/dates/hours, two staff appointments and intervening work, teaching employer/pay/dates, MHEC report context."
   ]
 }
