@@ -6,7 +6,7 @@
   "snapshot_party": "Liberal Party of Australia",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/231027",
   "research_status": "blocked",
-  "last_reviewed": "2026-09-29",
+  "last_reviewed": "2026-10-01",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -70,9 +70,10 @@
       "source_ids": [
         "src-1",
         "src-2",
-        "src-5"
+        "src-5",
+        "src-rabo2012"
       ],
-      "evidence_note": "Contemporaneous employer report confirms active consulting, not merely board seat. Later official-host biography locates this before parliament in 2013; exact final date/hours unavailable. Public clients do not change employer control.",
+      "evidence_note": "Contemporaneous employer report confirms active consulting, not merely board seat. Later official-host biography locates this before parliament in 2013; exact final date/hours unavailable. Public clients do not change employer control. Rabobank2012 announcement independently identifies concurrent PJP directorship. Outstanding dividends shown by secondary register transcription are not evidence of subsequent employment.",
       "counting_note": "Dates, employer control and/or substantive full-time status remain insufficient for a duration calculation; unknown is not zero."
     },
     {
@@ -128,9 +129,11 @@
       "government_control_at_time": "private",
       "counting_status": "insufficient_evidence",
       "source_ids": [
-        "src-1"
+        "src-1",
+        "src-rabo2012",
+        "src-interest-lead"
       ],
-      "evidence_note": "Bank education role could be episodic consultancy, not separate continuous full-time employment. End and contract relationship unverified.",
+      "evidence_note": "Bank education role could be episodic consultancy, not separate continuous full-time employment. End and contract relationship unverified. Employer15March2012 announcement specifically appoints Executive Development Program director after John Morris; broad APH1998 commencement cannot be applied to every programme.44P register secondary transcription describes occasional presentations; original unavailable. Not proof of continuous full-time work.",
       "counting_note": "Dates, employer control and/or substantive full-time status remain insufficient for a duration calculation; unknown is not zero."
     },
     {
@@ -195,9 +198,9 @@
       "spell_id": "231027-10",
       "employer": "St Andrew's College, University of Sydney",
       "role": "Council member",
-      "start_date": null,
-      "end_date": null,
-      "date_precision": "unknown",
+      "start_date": "1999",
+      "end_date": "2014",
+      "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "nonprofit",
@@ -206,9 +209,10 @@
       "counting_status": "excluded",
       "source_ids": [
         "src-2",
-        "src-6"
+        "src-6",
+        "src-college"
       ],
-      "evidence_note": "Governance confirmed; fifteen years mentioned without endpoints. No duration back-calculation.",
+      "evidence_note": "College\u2019s own public institutional post specifies Council1999\u20132014, resolving formerly undated fifteen-year description. Governance excluded; exact days/pay unknown.",
       "counting_note": "Excluded from the two employment headlines under the codebook."
     },
     {
@@ -268,6 +272,63 @@
       ],
       "evidence_note": "Federal elected and ministerial work excluded.",
       "counting_note": "Excluded from the two employment headlines under the codebook."
+    },
+    {
+      "employer": "Rabobank Executive Development Program",
+      "role": "Programme director",
+      "start_date": "2012",
+      "end_date": null,
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "private_enterprise",
+      "headline_sector": "private",
+      "government_control_at_time": "private",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-rabo2012"
+      ],
+      "evidence_note": "Appointment announced15March2012 as successor to John Morris. Actual commencement day, cessation and contract/hours unresolved. Component of broad Rabobank spell06; never add both durations.",
+      "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
+      "spell_id": "231027-14"
+    },
+    {
+      "employer": "Victorian Government, Gas Market Taskforce",
+      "role": "Advisory taskforce member",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "public_service",
+      "headline_sector": "excluded",
+      "government_control_at_time": "public",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-gas"
+      ],
+      "evidence_note": "Contemporary6November2013 membership list establishes advisory role. Taskforce formation/report dates do not establish personal appointment boundaries. Public advisory appointment is not demonstrated substantive full-time public service.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "231027-15"
+    },
+    {
+      "employer": "St Andrew\u2019s College, University of Sydney",
+      "role": "Senior Student",
+      "start_date": "1989",
+      "end_date": "1989",
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "nonprofit",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-college"
+      ],
+      "evidence_note": "Institution identifies Senior Student1989; student leadership, not assumed paid employment or a full year.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "231027-16"
     }
   ],
   "sources": [
@@ -360,12 +421,54 @@
       "source_type": "reliable_secondary",
       "locator": "Taylor statement and ownership paragraphs",
       "note": "Statement ends all association before parliament; does not give exact EAI resignation date."
+    },
+    {
+      "url": "https://www.scoop.co.nz/stories/BU1203/S00528/increased-commercial-focus-way-forward-for-farm-businesses.htm",
+      "publisher": "Rabobank, press release distributed by Scoop",
+      "title": "Increased commercial focus way forward for farm businesses,15March2012",
+      "source_type": "employer",
+      "locator": "Appointment paragraphs naming Taylor and retiring John Morris",
+      "note": "Indexed employer announcement appoints Taylor Executive Development Program director succeeding Morris after13years; describes concurrent Port Jackson Partners directorship. Direct full page unavailable; do not invent exact commencement day.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-rabo2012"
+    },
+    {
+      "url": "https://www.linkedin.com/posts/st-andrew%27s-college_we-congratulate-the-honourable-angus-taylor-activity-7427916976783810560-SHNL",
+      "publisher": "St Andrew\u2019s College within the University of Sydney",
+      "title": "College statement on alumnus Angus Taylor",
+      "source_type": "employer",
+      "locator": "Second paragraph, Council1999\u20132014; first paragraph Senior Student1989",
+      "note": "Public institutional post retrieved in full. Provides actual council year boundaries, not back-calculation from fifteen years.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-college"
+    },
+    {
+      "url": "https://www.abc.net.au/news/2013-11-06/victorian-premier-denis-napthine-won27t-be-pressured-into-maki/5073310",
+      "publisher": "ABC News",
+      "title": "Victorian Premier will not be pressured into coal seam gas decision,6November2013",
+      "source_type": "news",
+      "locator": "Taskforce membership list",
+      "note": "Contemporary report names Taylor as taskforce member; no personal appointment date, payment or working hours.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-gas"
+    },
+    {
+      "url": "https://shorted.com.au/politicians/angus-taylor",
+      "publisher": "Shorted",
+      "title": "Transcription of parliamentary interests, Angus Taylor",
+      "source_type": "other",
+      "locator": "Other income,44th Parliament row, linked original TaylorA_44P.pdf",
+      "note": "Secondary transcription identifies occasional Rabobank presentations and outstanding PJP dividends; linked official44P PDF returned403. Evidence is labelled secondary pending original verification; dividends not treated as continued work.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-interest-lead"
     }
   ],
   "research_notes": [
     "Follow up substantive full-time consulting periods and breaks, Farmshed tenure/secondment, PJP final date, and contract-level dates for Rabobank and university teaching. Distinguish agribusiness investment/board roles from any paid advisory work.",
     "2026-09-29 avenues: APH occupation text, contemporaneous PJP/ANZ report, McKinsey ownership history, ASX July 2001 indexed filing, government-hosted speaker biography, public conference profile, ABC and business reporting, targeted full-time/early-career/Rabobank/EAI searches. ASX current page lacked announcement body; retained transparent indexed evidence. No paid registries or access restrictions bypassed.",
     "Follow-up corporate leads, not confirmed employment spells: Centaurus Partners, Agricultural Managers Limited, Agriculture Managers Australia, Australian Agricultural Securitisation, Resolution Manager and JRAT. Search reporting describes directorships/consulting, but legal entities, contracts and paid activity require primary filings. Victorian gas taskforce is an advisory appointment lead, not automatically public-service employment.",
-    "No assumption that founding or owning a farm means full-time farming. Resolve 1998/1999 Growth Farms discrepancy and EAI resignation separately from EAA's 2009 end. Dates and senior titles alone do not establish hours. All consulting, directorship and educational overlaps remain non-additive. Last follow-up 2026-09-29; initial record unresolved."
+    "No assumption that founding or owning a farm means full-time farming. Resolve 1998/1999 Growth Farms discrepancy and EAI resignation separately from EAA's 2009 end. Dates and senior titles alone do not establish hours. All consulting, directorship and educational overlaps remain non-additive. Last follow-up 2026-09-29; initial record unresolved.",
+    "2026-10-01 follow-up: resolved college council1999\u20132014 via own public post; distinguished Rabobank2012 Executive Development Program appointment from broad1998 farm-programme entry; added contemporaneously documented Victorian gas advisory taskforce. Secondary interests transcription records occasional presentations, not continuous bank employment. No hours or numeric total inferred.",
+    "Avenues: employer Rabobank2012 press release/index, college public professional-network post,2013 ABC taskforce membership, linked44P interests original403, Farmshed ASX and corporate-report leads, full-time consulting searches, Centaurus/JRAT reporting and farm-manager programme history. Source searches sometimes returned irrelevant names; rejected. Corporate reportage does not independently show Taylor personally performed paid consulting for Centaurus; report authorship by a firm is insufficient. Keep JRAT, other corporate offices, historical Farmshed contracts, consulting leave and paid teaching as follow-up needs. Gas final-report obsolete URLs not recovered. Secondary ownership/dividend dates are not work boundaries."
   ]
 }
