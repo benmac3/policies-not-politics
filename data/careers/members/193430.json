@@ -6,21 +6,21 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/193430",
   "research_status": "blocked",
-  "last_reviewed": "2026-09-29",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
     "calculation_status": "not_calculable",
-    "note": "Two commercial-employer spells are evidenced, separated by political staff roles. Individual full-time status, leave and exact dates are not established, so public and private full-time totals remain unknown. Telstra's historical public ownership is not carried into the 2009–2013 spell."
+    "note": "Two commercial-employer spells are evidenced, separated by political staff roles. Individual full-time status, leave and exact dates are not established, so public and private full-time totals remain unknown. Telstra's historical public ownership is not carried into the 2009\u20132013 spell."
   },
   "career_spells": [
     {
       "spell_id": "193430-01",
       "employer": "Mallesons Stephen Jaques",
       "role": "Solicitor",
-      "start_date": "2003",
-      "end_date": "2005",
-      "date_precision": "year",
+      "start_date": "2003-02",
+      "end_date": "2005-02",
+      "date_precision": "month",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "private_enterprise",
@@ -31,18 +31,19 @@
         "src-1",
         "src-2",
         "src-4",
-        "src-5"
+        "src-5",
+        "src-6"
       ],
-      "evidence_note": "Commercial law firm, now King & Wood Mallesons; original employer name retained. No full-time or exact boundary evidence.",
+      "evidence_note": "Public professional-profile index refines Mallesons tenure to February 2003\u2013February 2005; competition-law work. Original firm name retained. Days, hours and leave unknown.",
       "counting_note": "Dates, employer control and/or substantive full-time status remain insufficient for a duration calculation; unknown is not zero."
     },
     {
       "spell_id": "193430-02",
       "employer": "Office of Senator Stephen Conroy",
       "role": "Deputy chief of staff",
-      "start_date": "2005",
-      "end_date": "2007",
-      "date_precision": "year",
+      "start_date": "2005-02",
+      "end_date": "2007-07",
+      "date_precision": "month",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "political_staff",
@@ -52,9 +53,10 @@
       "source_ids": [
         "src-1",
         "src-4",
-        "src-5"
+        "src-5",
+        "src-9"
       ],
-      "evidence_note": "Political staff role excluded; not treated as continuous with later appointment across undetermined 2007–2008 interval.",
+      "evidence_note": "Political staff role excluded; not treated as continuous with later appointment across undetermined 2007\u20132008 interval. Contemporaneous Delimiter report refines boundaries and describes senior policy-adviser duties; official deputy-chief title retained, possible progression unresolved.",
       "counting_note": "Excluded from the two employment headlines under the codebook."
     },
     {
@@ -92,18 +94,19 @@
       "source_ids": [
         "src-1",
         "src-4",
-        "src-5"
+        "src-5",
+        "src-9"
       ],
-      "evidence_note": "Single calendar year does not prove a full year's tenure; excluded staff work.",
+      "evidence_note": "Single calendar year does not prove a full year's tenure; excluded staff work. Delimiter reports a 2008 start and one-year tenure, conflicting with official 2009 range; no replacement without further primary appointment evidence.",
       "counting_note": "Excluded from the two employment headlines under the codebook."
     },
     {
       "spell_id": "193430-05",
       "employer": "Telstra Corporation Limited",
       "role": "Manager / senior manager, government relations",
-      "start_date": "2009",
+      "start_date": "2009-07",
       "end_date": "2013",
-      "date_precision": "year",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "private_enterprise",
@@ -115,9 +118,11 @@
         "src-2",
         "src-3",
         "src-4",
-        "src-5"
+        "src-5",
+        "src-9",
+        "src-10"
       ],
-      "evidence_note": "Corporate-employer role. Telstra's 2010 prospectus says no shareholder controlled it and describes minority Future Fund holdings after privatisation; public-origin history does not make this public employment. Senior title supplies no hours evidence.",
+      "evidence_note": "Corporate-employer role. Telstra's 2010 prospectus says no shareholder controlled it and describes minority Future Fund holdings after privatisation; public-origin history does not make this public employment. Senior title supplies no hours evidence. Delimiter dates corporate-affairs appointment to July 2009 and regulatory-affairs responsibility from September 2010; retain one employer spell to avoid overlapping role totals. End remains year-only.",
       "counting_note": "Dates, employer control and/or substantive full-time status remain insufficient for a duration calculation; unknown is not zero."
     },
     {
@@ -172,9 +177,10 @@
       "government_control_at_time": "unknown",
       "counting_status": "excluded",
       "source_ids": [
-        "src-1"
+        "src-1",
+        "src-7"
       ],
-      "evidence_note": "Study dates not established; not automatically used to fill the 2007–2008 interval.",
+      "evidence_note": "Institution-hosted MSc dissertation establishes September 2008 submission, not enrolment or conferral boundaries. Study/employment overlap and the 2007\u20132008 interval remain unresolved; no inferred leave.",
       "counting_note": "Excluded from the two employment headlines under the codebook."
     },
     {
@@ -195,6 +201,25 @@
       ],
       "evidence_note": "Frozen first-service date; ministry and envoy responsibilities remain part of elected career.",
       "counting_note": "Excluded from the two employment headlines under the codebook."
+    },
+    {
+      "employer": "Asialink, University of Melbourne",
+      "role": "Asialink Leaders Program participant",
+      "start_date": null,
+      "end_date": "2017",
+      "date_precision": "mixed",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "public",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-8"
+      ],
+      "evidence_note": "Provider dates completion to 2017; start, duration and attendance pattern unknown. Training is not university employment.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "193430-10"
     }
   ],
   "sources": [
@@ -205,7 +230,7 @@
       "title": "Biography of The Hon Tim Watts MP",
       "retrieved": "2026-09-29",
       "source_type": "government_record",
-      "locator": "Qualifications and occupation before entering Federal Parliament, lines 60–70",
+      "locator": "Qualifications and occupation before entering Federal Parliament, lines 60\u201370",
       "note": "Official government republication explicitly sourced to Parliament of Australia; supplies five occupation ranges matching frozen roster."
     },
     {
@@ -247,13 +272,65 @@
       "source_type": "professional_profile",
       "locator": "Tim Watts biography",
       "note": "Conference profile corroborates named employers and separation of ministerial staff from corporate work."
+    },
+    {
+      "url": "https://au.linkedin.com/in/tim-watts-au",
+      "publisher": "Tim Watts / LinkedIn",
+      "title": "Tim Watts professional profile",
+      "source_type": "professional_profile",
+      "locator": "Public search-index extract: Mallesons Stephen Jaques, February 2003\u2013February 2005",
+      "note": "Publicly indexed self-report retrieved this follow-up; direct page later returned Internal Error / (999) Unknown Status Code. No hours label observed.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-6"
+    },
+    {
+      "url": "https://www.lse.ac.uk/media-and-communications/assets/documents/research/msc-dissertations/2008/Watts-final.pdf",
+      "publisher": "London School of Economics and Political Science",
+      "title": "Psephological Peer Production \u2014 Tim Watts MSc dissertation",
+      "source_type": "education",
+      "locator": "PDF pages 1\u20132 (zero-index 0\u20131), title and submission statement",
+      "note": "Institution-hosted dissertation submitted September 2008; publication copyright 2009 is not course completion. Degree and subject match official biography.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-7"
+    },
+    {
+      "url": "https://asialink.unimelb.edu.au/leaders/30-years/shaping-the-national-agenda/tim-watts/",
+      "publisher": "Asialink, University of Melbourne",
+      "title": "The Hon Tim Watts MP (2017 Alumnus)",
+      "source_type": "professional_profile",
+      "locator": "Final biographical paragraph, programme completion in 2017",
+      "note": "Provider confirms training completion; no employment hours established.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-8"
+    },
+    {
+      "url": "https://delimiter.com.au/2013/09/07/conroy-staffer-telstra-pr-enters-parliament/",
+      "publisher": "Delimiter / Renai LeMay",
+      "title": "Conroy staffer + Telstra PR enters Parliament",
+      "source_type": "news",
+      "locator": "7 September 2013, career chronology paragraphs",
+      "note": "Contemporaneous report citing public professional profile: Conroy February 2005\u2013July 2007, Telstra July 2009 and regulatory role from September 2010. Brumby 2008 start conflicts with official 2009 chronology; retained as conflict.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-9"
+    },
+    {
+      "url": "https://www.openaustralia.org.au/debate/?id=2013-12-02.89.2",
+      "publisher": "Parliament of Australia / OpenAustralia transcript",
+      "title": "Tim Watts first speech, 2 December 2013",
+      "source_type": "parliament",
+      "locator": "Tim Watts at 3:50 pm, paragraph beginning The second must-win debate",
+      "note": "Broad account of nearly ten years in ICT is not ten years of corporate full-time employment; political and legal work cannot be double-counted.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-10"
     }
   ],
   "research_notes": [
-    "Seek Mallesons and Telstra employment/CV records establishing individual full-time status, exact appointments and leave; investigate 2007–2008 break and education/employment overlaps before totals.",
+    "Seek Mallesons and Telstra employment/CV records establishing individual full-time status, exact appointments and leave; investigate 2007\u20132008 break and education/employment overlaps before totals.",
     "2026-09-29 initial research checked DFAT's official APH-derived chronology, member biography, 2013 ABC election profile, ACYD 2015 delegate profile and Telstra 2010 ASX prospectus. Targeted full-time and 2009-appointment searches produced no individual contract or hours evidence; similarly named overseas executives and journalists excluded.",
     "First-speech debate page was inspected but returned multiple speakers and no useful employer match. A snippet about qualifying as a lawyer at age 31 was not attributed to Watts. DFAT's linked professional profile did not return content; no restricted material accessed.",
     "Telstra source expressly addresses ownership/control in the employment era; public-sector clients, NBN policy responsibilities and government-relations duties do not make a commercial employee a public servant. Precise legal-employer entity and any intra-group transfer remain follow-up questions.",
-    "No four-year plus two-year calculation is made from year-only ranges without hours and transition evidence; missing public employment evidence is not a verified zero. Last follow-up 2026-09-29; blocked status retained pending substantive evidence."
+    "No four-year plus two-year calculation is made from year-only ranges without hours and transition evidence; missing public employment evidence is not a verified zero. Last follow-up 2026-09-29; blocked status retained pending substantive evidence.",
+    "2026-10-02 follow-up: public professional-profile extract, LSE dissertation, Asialink provider biography, contemporary Delimiter chronology and Watts-specific first-speech section checked. Refined Mallesons and Conroy months and Telstra start; recorded September 2008 dissertation milestone and 2017 training. Direct LinkedIn open returned Internal Error and then (999) Unknown Status Code; no restricted material accessed.",
+    "Remaining leads: primary Telstra/Mallesons appointment and departure records, individual hours and leave; reconcile Brumby 2008/2009 and Conroy return chronology. First-speech broad ICT experience is not additive paid employment. Melbourne-law research-page Tim Watts and foreign executives lack identity matching and were not adopted. Last follow-up 2026-10-02; research remains blocked, totals null."
   ]
 }
