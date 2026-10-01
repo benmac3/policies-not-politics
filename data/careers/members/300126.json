@@ -6,12 +6,12 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/300126",
   "research_status": "blocked",
-  "last_reviewed": "2026-09-29",
+  "last_reviewed": "2026-10-01",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
     "calculation_status": "not_calculable",
-    "note": "Primary and reliable secondary sources establish a public-hospital medical career through internship, junior and senior residency and emergency medicine at Gosford, Woy Woy and Wyong hospitals, followed by volunteer clinical service while in Parliament. They do not provide exact appointment dates, paid hours, leave or boundaries between hospitals and grades. Elected office, campaigning, study and volunteer medicine are excluded; no public full-time total is inferred from professional titles or approximate year narratives."
+    "note": "Primary and reliable secondary sources establish a public-hospital medical career through internship, junior and senior residency and emergency medicine at Gosford, Woy Woy and Wyong hospitals, followed by volunteer clinical service while in Parliament. They do not provide exact appointment dates, paid hours, leave or boundaries between hospitals and grades. Elected office, campaigning, study and volunteer medicine are excluded; no public full-time total is inferred from professional titles or approximate year narratives. Follow-up identifies part-time clinical activity in August 2025 and recurring podcast co-hosting with unresolved remuneration; neither supplies countable full-time years."
   },
   "career_spells": [
     {
@@ -27,7 +27,13 @@
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-member", "src-ama", "src-pm", "src-secondary"],
+      "source_ids": [
+        "src-member",
+        "src-ama",
+        "src-pm",
+        "src-secondary",
+        "src-first-speech"
+      ],
       "evidence_note": "Reid and the University identify his Newcastle medical degree and clinical training at Gosford; secondary biographical reporting dates completion to 2016. Enrolment start, study load, placements and paid-work overlap are unresolved.",
       "counting_note": "Study and clinical placements are excluded unless separate paid employment is documented."
     },
@@ -44,8 +50,16 @@
       "headline_sector": "public",
       "government_control_at_time": "public",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-member", "src-ama", "src-senate", "src-abc", "src-pm"],
-      "evidence_note": "AMA NSW records internship, junior and senior residencies and emergency rotations at Gosford, Woy Woy and Wyong hospitals. Parliament's Senate inquiry identifies Reid as Emergency Career Medical Officer at Wyong, while his 2024 first-person account confirms the progression from medical student through senior resident and later emergency work. Exact appointments, hospital transfers, paid hours, leave and cessation of paid employment are unresolved.",
+      "source_ids": [
+        "src-member",
+        "src-ama",
+        "src-senate",
+        "src-abc",
+        "src-pm",
+        "src-hearing-date",
+        "src-first-speech"
+      ],
+      "evidence_note": "AMA NSW records internship, junior and senior residencies and emergency rotations at Gosford, Woy Woy and Wyong hospitals. Parliament's Senate inquiry identifies Reid as Emergency Career Medical Officer at Wyong, while his 2024 first-person account confirms the progression from medical student through senior resident and later emergency work. Exact appointments, hospital transfers, paid hours, leave and cessation of paid employment are unresolved. The hearing programme dates his testimony to 14 December 2021, a point-in-time corroboration of the report’s Wyong role, not an appointment boundary. Witness private capacity is not a sector classification.",
       "counting_note": "The public employer and substantive medical work are supported, but full-time status and countable dates are not sufficiently documented."
     },
     {
@@ -61,7 +75,11 @@
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-announcement", "src-abc", "src-aph-current"],
+      "source_ids": [
+        "src-announcement",
+        "src-abc",
+        "src-aph-current"
+      ],
       "evidence_note": "Contemporaneous reporting announced the candidacy in September 2021; ABC profiled Reid as the Labor candidate and Parliament records election on 21 May 2022. Exact preselection day, campaign remuneration, workload and overlap with hospital employment are unresolved.",
       "counting_note": "Party candidacy and campaigning are excluded under the codebook."
     },
@@ -78,7 +96,10 @@
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-snapshot", "src-aph-current"],
+      "source_ids": [
+        "src-snapshot",
+        "src-aph-current"
+      ],
       "evidence_note": "The frozen roster and current Parliament profile establish continuous House service from the 21 May 2022 election.",
       "counting_note": "Federal elected office is excluded under the codebook."
     },
@@ -86,18 +107,44 @@
       "spell_id": "300126-volunteer-doctor",
       "employer": "Central Coast public hospitals / Wyong Hospital",
       "role": "Volunteer emergency doctor",
-      "start_date": "2022-05-21",
+      "start_date": null,
       "end_date": null,
-      "date_precision": "mixed",
-      "employment_status": "unknown",
+      "date_precision": "unknown",
+      "employment_status": "part_time",
       "fte_fraction": null,
       "category": "unpaid_work",
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-member-volunteer", "src-health-2023", "src-pm", "src-probono"],
-      "evidence_note": "Reid's current biography says he continues medical service at local hospitals in a volunteer capacity, and a 2024 release expressly calls his Wyong practice pro bono. Government transcripts in 2023 and 2024 confirm continuing practice after election. The election date is used only as the boundary between clearly pre-parliament employment and post-election service; exact volunteering dates and hours are unresolved.",
+      "source_ids": [
+        "src-member-volunteer",
+        "src-health-2023",
+        "src-pm",
+        "src-probono",
+        "src-breaking-politics"
+      ],
+      "evidence_note": "Official member material describes continuing volunteer/pro-bono hospital medicine, corroborated by government transcripts in 2023 and 2024. The Breaking Politics programme description on 29 August 2025 explicitly describes concurrent emergency work as part-time; this supports part-time activity at that point, not a paid contract or a constant historical workload. Exact transition from paid medicine and hours remain unknown. Removed election day as an unsupported volunteer commencement date.",
       "counting_note": "Documented volunteer/pro-bono medicine is visible but excluded from paid public/private full-time totals."
+    },
+    {
+      "employer": "Dan & The Doctor podcast (producer credited as Dan Repacholi MP; contractual employer unknown)",
+      "role": "Co-host with Dan Repacholi MP",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "unknown",
+      "government_control_at_time": "unknown",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-podcast",
+        "src-official-links"
+      ],
+      "evidence_note": "Producer’s catalogue identifies both hosts and dates activity to 2023–2025, with individual 2024–2025 episodes. Reid’s authorised page links the show. Preparation, production dates, remuneration, sponsorship, ordinary hours and legal employment relationship are unstated. Concurrent with parliamentary service; no publication date treated as a contract boundary.",
+      "counting_note": "Recurring media activity is recorded without presuming paid private employment or volunteer status; no headline years calculated.",
+      "spell_id": "300126-podcast"
     }
   ],
   "sources": [
@@ -220,12 +267,65 @@
       "source_type": "other",
       "locator": "Education summary",
       "note": "Secondary evidence dating completion of the Bachelor of Medicine to 2016; primary graduation records remain preferable."
+    },
+    {
+      "url": "https://www.drgordonreidmp.com.au/meet-dr-reid/maiden-speech/",
+      "publisher": "Gordon Reid MP",
+      "title": "Maiden speech transcript",
+      "source_type": "official_biography",
+      "locator": "University graduation recollection and emergency-department account",
+      "note": "First-person confirmation of Newcastle graduation and emergency work; no degree year, appointment dates or ordinary hours. Parents’ business careers are not Reid’s employment.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-first-speech"
+    },
+    {
+      "url": "https://www.aph.gov.au/DocumentStore.ashx?hearingid=30361&submissions=false",
+      "publisher": "Parliament of Australia",
+      "title": "Primary health services public hearing programme, 14 December 2021",
+      "source_type": "government_record",
+      "locator": "11.40 am witness entry, submission 202",
+      "note": "Dates Reid’s appearance at Erina; the interim report identifies his Wyong emergency role. A witness appearing in a private capacity is not private-sector employment.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-hearing-date"
+    },
+    {
+      "url": "https://podcasts.apple.com/no/podcast/breaking-politics-podcast/id1267115552",
+      "publisher": "Breaking Politics / Macquarie Media, distributed by Apple Podcasts",
+      "title": "Labor’s Gordon Reid on the healthcare system, 29 August 2025",
+      "source_type": "news",
+      "locator": "Episode description dated 29/08/2025",
+      "note": "Programme description explicitly calls the concurrent hospital work part-time. No paid status, hours, FTE or appointment interval supplied.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-breaking-politics"
+    },
+    {
+      "url": "https://podcasts.apple.com/au/podcast/dan-the-doctor/id1720051188",
+      "publisher": "Dan Repacholi MP, distributed by Apple Podcasts",
+      "title": "Dan & The Doctor",
+      "source_type": "professional_profile",
+      "locator": "Creator, programme description, years active and dated episodes",
+      "note": "Credits Reid and Repacholi as co-hosts; catalogue years active 2023–2025 and dated 2024–2025 episodes corroborate recurring activity. Publication metadata does not establish an employment contract or its dates.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-podcast"
+    },
+    {
+      "url": "https://linktr.ee/drgordonreidmp",
+      "publisher": "Gordon Reid MP",
+      "title": "Official public link page",
+      "source_type": "professional_profile",
+      "locator": "Dan and The Doctor Podcast; Breaking Politics episode links",
+      "note": "Member-authorised page links both programmes, corroborating identification; not evidence of separate pay or an employer.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-official-links"
     }
   ],
   "research_notes": [
     "Obtain the University of Newcastle graduation record and Central Coast Local Health District employment statement or payroll history with exact appointment, transfer and cessation dates across Gosford, Woy Woy and Wyong.",
     "Determine substantive full-time status, hours, leave and breaks for internship, junior/senior residency and emergency career medical officer service; do not infer hours from medical titles.",
     "Resolve paid-employment cessation and the transition to post-election volunteer/pro-bono clinical service, including whether any paid shifts continued after 21 May 2022.",
-    "Determine campaign remuneration and workload from September 2021 to election and its overlap with hospital work. No private-sector employment is documented, but missing evidence is not zero."
+    "Determine campaign remuneration and workload from September 2021 to election and its overlap with hospital work. No private-sector employment is documented, but missing evidence is not zero.",
+    "2026-10-01 follow-up: new contemporaneous hearing-date corroboration, first-speech primary evidence, explicit August 2025 part-time clinical description and podcast co-hosting. Election-day volunteering boundary removed. Part-time description is not retrospectively applied to pre-parliament employment.",
+    "Searched Newcastle graduation/alumni records, named hospital and internship chronology, full-time/part-time terms, inquiry material, first speech and public professional profiles. No primary graduation year, precise employment interval or ordinary paid hours found; 2016 remains explicitly secondary. Excluded same-name overseas tennis, retail and psychology careers and staff vacancies from Reid’s history.",
+    "Next leads: submission 202 and 14 December 2021 hearing transcript, historical university conferral lists, hospital appointment/leave disclosures and the paid-to-volunteer transition. Resolve podcast commercial or parliamentary-office status and boundaries. Direct full Omny episode inaccessible and Apple all-episodes returned HTTP 500; public programme descriptions and official links remained available. No audio testimony inferred from an unplayed recording."
   ]
 }
