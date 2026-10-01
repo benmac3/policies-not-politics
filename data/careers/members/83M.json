@@ -6,12 +6,12 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/83M",
   "research_status": "blocked",
-  "last_reviewed": "2026-09-29",
+  "last_reviewed": "2026-10-01",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
     "calculation_status": "not_calculable",
-    "note": "Official and first-person sources establish pre-parliament work as UTS Women's Officer, in the NSW Domestic Violence Unit and in the offices of Senators Bruce Childs and George Campbell. They do not supply appointment dates, hours, leave or breaks. Political staff, party activity, study, student-association work and elected office are excluded; the NSW public-service interval cannot be counted without dates and substantive full-time evidence."
+    "note": "Pre-parliament UTS student-association, NSW Domestic Violence Unit and senator-staff work is documented, but dates and full-time status remain unresolved. Follow-up records conflicting study/work sequences, government-unit history and concurrent 2020 book editing with unknown pay and workload. No public/private full-time total is supportable; book publication and election dates are not employment endpoints."
   },
   "career_spells": [
     {
@@ -27,7 +27,11 @@
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-aph-current", "src-uts", "src-awr"],
+      "source_ids": [
+        "src-aph-current",
+        "src-uts",
+        "src-awr"
+      ],
       "evidence_note": "UTS records completion of the honours degree in 1993. The start date, study load and overlap with Women's Officer duties are not established.",
       "counting_note": "Study is excluded under the codebook."
     },
@@ -44,8 +48,15 @@
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-aph-current", "src-first-person", "src-awr", "src-uts-event"],
-      "evidence_note": "Parliament lists Women's Officer; Plibersek and the Australian Women's Register identify the UTS Students' Association role while she studied, including campaigning on campus safety and sexual harassment. Appointment dates, pay, hours and legal employment status are unresolved.",
+      "source_ids": [
+        "src-aph-current",
+        "src-first-person",
+        "src-awr",
+        "src-uts-event",
+        "src-womens-agenda",
+        "src-evatt-bio"
+      ],
+      "evidence_note": "Parliament lists Women's Officer; Plibersek and the Australian Women's Register identify the UTS Students' Association role while she studied, including campaigning on campus safety and sexual harassment. Appointment dates, pay, hours and legal employment status are unresolved. A 2014 interview describes one year after the arts degree, while other accounts place the elected role during study. This may reflect undergraduate/honours sequencing but is unresolved; no start year, pay or full-time interval is invented.",
       "counting_note": "Student-association work is classified as nonprofit and excluded; the available sources do not prove substantive paid full-time employment."
     },
     {
@@ -61,8 +72,14 @@
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-aph-current", "src-alp", "src-member"],
-      "evidence_note": "Official and member biographies establish the degree; the ALP biography says it was studied while Plibersek worked in the NSW Domestic Violence Unit. Enrolment, completion, load and overlap dates are unresolved.",
+      "source_ids": [
+        "src-aph-current",
+        "src-alp",
+        "src-member",
+        "src-womens-agenda",
+        "src-evatt-bio"
+      ],
+      "evidence_note": "Official and member biographies establish the degree; the ALP biography says it was studied while Plibersek worked in the NSW Domestic Violence Unit. Enrolment, completion, load and overlap dates are unresolved. The Women’s Agenda introduction reverses the study/work sequence relative to the ALP and Evatt biographies. Preserve the discrepancy pending university or appointment records.",
       "counting_note": "Study is excluded under the codebook."
     },
     {
@@ -78,8 +95,15 @@
       "headline_sector": "public",
       "government_control_at_time": "public",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-snapshot", "src-aph-current", "src-first-person", "src-alp", "src-abc"],
-      "evidence_note": "Parliament and Plibersek identify the NSW government unit. The ALP biography places it after graduation and during her master's study; ABC describes domestic-violence policy and research before her move to Senator Bruce Childs' staff. Exact title, employing department, appointment and cessation dates, hours and leave are unresolved.",
+      "source_ids": [
+        "src-snapshot",
+        "src-aph-current",
+        "src-first-person",
+        "src-alp",
+        "src-abc",
+        "src-cedaw-unit"
+      ],
+      "evidence_note": "Parliament and Plibersek identify the NSW government unit. The ALP biography places it after graduation and during her master's study; ABC describes domestic-violence policy and research before her move to Senator Bruce Childs' staff. Exact title, employing department, appointment and cessation dates, hours and leave are unresolved. Australia’s CEDAW report traces the unit’s formation in March 1993 within the Women’s Coordination Unit and subsequent Ministry location. This confirms organisational context, not her personal appointment date.",
       "counting_note": "Government control is clear, but missing dates and full-time evidence prevent a public-sector duration calculation."
     },
     {
@@ -95,7 +119,12 @@
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-snapshot", "src-aph-current", "src-awr", "src-abc"],
+      "source_ids": [
+        "src-snapshot",
+        "src-aph-current",
+        "src-awr",
+        "src-abc"
+      ],
       "evidence_note": "Parliament lists electorate-officer work. The Australian Women's Register and ABC identify Senator Bruce Childs as the first parliamentary employer after the Domestic Violence Unit. Appointment dates, payroll title, hours, leave and transition to George Campbell are unresolved.",
       "counting_note": "Political-staff employment is excluded under the codebook."
     },
@@ -104,16 +133,22 @@
       "employer": "Office of Senator George Campbell",
       "role": "Research officer / electorate officer",
       "start_date": null,
-      "end_date": "1998-10-03",
-      "date_precision": "mixed",
+      "end_date": null,
+      "date_precision": "unknown",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "political_staff",
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-snapshot", "src-aph-current", "src-awr", "src-secondary", "src-directory"],
-      "evidence_note": "Biographical sources place Campbell after Childs and describe research-officer duties. The election date is only an upper boundary: it does not prove employment continued until 3 October 1998. Start date, payroll title, hours, leave and campaign overlap are unresolved.",
+      "source_ids": [
+        "src-snapshot",
+        "src-aph-current",
+        "src-awr",
+        "src-secondary",
+        "src-directory"
+      ],
+      "evidence_note": "Biographical sources place Campbell after Childs and describe research-officer duties. Start date, payroll title, hours, leave and campaign overlap remain unresolved. Election day has been removed as an unsupported employment cessation date.",
       "counting_note": "Political-staff employment is excluded under the codebook."
     },
     {
@@ -129,7 +164,9 @@
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-aph-current"],
+      "source_ids": [
+        "src-aph-current"
+      ],
       "evidence_note": "Parliament records Status of Women Committee membership from 1994 to 1998, Economics Committee membership from 1996 to 1998 and State Conference delegation from 1996 to 2004. Pay and workload are not stated; part of the interval follows election to Parliament.",
       "counting_note": "Party organisational activity is excluded under the codebook."
     },
@@ -146,9 +183,33 @@
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-snapshot", "src-aph-current", "src-directory"],
+      "source_ids": [
+        "src-snapshot",
+        "src-aph-current",
+        "src-directory"
+      ],
       "evidence_note": "The frozen roster, current Parliament profile and Australian Government Directory establish continuous House service from 3 October 1998.",
       "counting_note": "Federal elected office is excluded under the codebook."
+    },
+    {
+      "employer": "NewSouth / UNSW Press (publisher; employment or contracting relationship unresolved)",
+      "role": "Editor, Upturn: A better normal after COVID-19",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "unknown",
+      "government_control_at_time": "unknown",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-upturn-publisher",
+        "src-upturn-event"
+      ],
+      "evidence_note": "Publisher credits her as editor of the book published November 2020; UTS launch corroborates the work. Publication date is not the editing interval. Remuneration, royalties, contract, workload and breaks unknown; concurrent with elected office.",
+      "counting_note": "Publication is not proof of paid full-time employment or university employment. No sector duration calculated.",
+      "spell_id": "83M-upturn-editor"
     }
   ],
   "sources": [
@@ -261,12 +322,65 @@
       "source_type": "government_record",
       "locator": "Substantive role and start date",
       "note": "Government directory confirmation of House service from 3 October 1998."
+    },
+    {
+      "url": "https://womensagenda.com.au/latest/a-conversation-with-tanya-plibersek-quotas-pay-gap-gender-in-cabinet-and-returning-to-work-after-a-baby/",
+      "publisher": "Women’s Agenda / Georgie Dent",
+      "title": "A conversation with Tanya Plibersek, 30 April 2014",
+      "source_type": "news",
+      "locator": "Opening career account",
+      "note": "Describes a year as UTS Women’s Officer after the arts degree, then government-unit work after masters graduation. Sequence differs from other biographies; not converted into calendar boundaries.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-womens-agenda"
+    },
+    {
+      "url": "https://www.evatt.org.au/event-details/2014-h-v-evatt-memorial-dinner-with-tanya-plibersek",
+      "publisher": "Evatt Foundation",
+      "title": "2014 H. V. Evatt Memorial Dinner, 12 April 2014",
+      "source_type": "professional_profile",
+      "locator": "Guest speaker biography",
+      "note": "Describes election as Students’ Association Women’s Officer and government-unit work alongside obtaining the masters; useful sequence corroboration, not dates or pay.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-evatt-bio"
+    },
+    {
+      "url": "https://www.un.org/esa/documents/ga/cedaw/17/country/Australia/cedawc-aust3en.htm",
+      "publisher": "Australian Government / United Nations CEDAW",
+      "title": "Australia third periodic report, CEDAW/C/AUL/3",
+      "source_type": "government_record",
+      "locator": "Violence against women; New State and Territory initiatives — New South Wales; public indexed text",
+      "note": "Reports March 1993 establishment of the Domestic Violence Unit in the Women’s Coordination Unit, later within the Ministry for the Status and Advancement of Women. Organisational formation is not Plibersek’s appointment.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-cedaw-unit"
+    },
+    {
+      "url": "https://unsw.press/books/upturn/",
+      "publisher": "UNSW Press / NewSouth",
+      "title": "Upturn: A better normal after COVID-19",
+      "source_type": "employer",
+      "locator": "Title, editor credit and publication metadata, ISBN 9781742237206",
+      "note": "Publisher credits Tanya Plibersek as editor and dates publication to November 2020. Contract, pay/royalties and working interval unstated.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-upturn-publisher"
+    },
+    {
+      "url": "https://www.uts.edu.au/news/2020/11/recording-upturn",
+      "publisher": "University of Technology Sydney",
+      "title": "Recording: UPTURN, 6 November 2020",
+      "source_type": "other",
+      "locator": "Event transcript introduction and editor discussion",
+      "note": "Contemporaneous university launch corroborates editorial work during parliamentary service; no employment relationship with the university inferred.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-upturn-event"
     }
   ],
   "research_notes": [
     "Obtain appointment/payroll records giving exact dates, hours and leave for the UTS Students' Association Women's Officer role and determine whether it was paid employment.",
     "Obtain exact title, employing department, appointment and cessation dates, hours and leave for the NSW Domestic Violence Unit role; resolve its overlap with Macquarie study.",
     "Obtain dated employment records separating Bruce Childs and George Campbell service, including payroll titles, hours, leave, breaks and overlap with 1998 preselection/campaigning.",
-    "No public-sector duration is inferred from the undated NSW role. No private-sector employment is documented in the sources reviewed, but absence of evidence is not treated as zero."
+    "No public-sector duration is inferred from the undated NSW role. No private-sector employment is documented in the sources reviewed, but absence of evidence is not treated as zero.",
+    "2026-10-01 follow-up adds publisher-confirmed Upturn editorial activity, records UTS/masters sequence discrepancies and government-unit formation context, and removes unsupported Campbell-office election-day cessation.",
+    "Searched university/alumni/event transcripts, first-job and retail references, explicit hours/pay terms, ministerial/parliamentary biographies, historical CEDAW material and publisher/launch records. No dependable appointment dates, ordinary hours or leave found. A social-media commenter’s suggested UTS year is not treated as a personnel record. First-person UTS transcript confirms duties but no pay or tenure.",
+    "Next leads: contemporaneous UTS Students’ Association election/payroll and Vertigo archives; Macquarie graduation and NSW unit appointment records; separate Childs/Campbell payroll chronology; publishing contract/royalty disclosures and newspaper contribution terms. UN and Evatt retrospective article direct retrieval failed, while relevant indexed institutional text was available. No third-party worker’s hours are attributed to Plibersek."
   ]
 }
