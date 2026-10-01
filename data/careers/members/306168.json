@@ -6,7 +6,7 @@
   "snapshot_party": "Liberal Party of Australia",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/306168",
   "research_status": "blocked",
-  "last_reviewed": "2026-09-24",
+  "last_reviewed": "2026-10-01",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -27,7 +27,9 @@
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-snapshot"],
+      "source_ids": [
+        "src-snapshot"
+      ],
       "evidence_note": "The frozen official extract records the TAFE qualification but supplies no institution, dates, load or overlap with employment.",
       "counting_note": "Study is excluded under the codebook."
     },
@@ -44,7 +46,9 @@
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-snapshot"],
+      "source_ids": [
+        "src-snapshot"
+      ],
       "evidence_note": "The frozen official extract records GAICD but not course dates, study load or overlap with work.",
       "counting_note": "Professional study and credentialing are excluded under the codebook."
     },
@@ -61,8 +65,15 @@
       "headline_sector": "private",
       "government_control_at_time": "private",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-snapshot", "src-liberal", "src-nsw-liberal", "src-parramatta-times"],
-      "evidence_note": "The frozen official extract supplies January 2006 to 30 November 2021 and describes Kovacic as an ANZ Bank franchise business owner. Party and local profiles corroborate that she founded and ran a mortgage and finance business for about sixteen years. The legal entity, exact January start day, hours, leave, staffing and overlap with advisory and governance roles are unresolved.",
+      "source_ids": [
+        "src-snapshot",
+        "src-liberal",
+        "src-nsw-liberal",
+        "src-parramatta-times",
+        "src-firstspeech",
+        "src-advoc8-lead"
+      ],
+      "evidence_note": "The frozen official extract supplies January 2006 to 30 November 2021 and describes Kovacic as an ANZ Bank franchise business owner. Party and local profiles corroborate that she founded and ran a mortgage and finance business for about sixteen years. The legal entity, exact January start day, hours, leave, staffing and overlap with advisory and governance roles are unresolved. First speech describes long hours and weekend work, but no hours threshold, dated pattern or leave. Advoc8 names Mobile Home and Investment Solutions Pty Ltd from 2007; primary register/employer link not verified, so legal entity and its differing start remain unresolved.",
       "counting_note": "Private self-employment is well supported, but substantive full-time status and non-overlapping time are not established."
     },
     {
@@ -78,7 +89,11 @@
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-snapshot", "src-hca", "src-nsw-liberal"],
+      "source_ids": [
+        "src-snapshot",
+        "src-hca",
+        "src-nsw-liberal"
+      ],
       "evidence_note": "The frozen extract supplies month boundaries and combined board titles. The organisation's 2021 annual report identifies Kovacic as leading the board. Remuneration, title transitions, meeting load and any operational employment are not stated; governance is not assumed to be paid employment.",
       "counting_note": "Nonprofit governance is displayed separately and excluded from the narrow public/private employment headline."
     },
@@ -95,8 +110,14 @@
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-snapshot", "src-liberal", "src-nsw-liberal"],
-      "evidence_note": "The frozen extract supplies the co-founder title and month boundaries; current party biographies corroborate the community initiative. Legal form, remuneration, hours and relationship to Western Sydney Executive Women are unresolved.",
+      "source_ids": [
+        "src-snapshot",
+        "src-liberal",
+        "src-nsw-liberal",
+        "src-firstspeech",
+        "src-abr-wsa"
+      ],
+      "evidence_note": "The frozen extract supplies the co-founder title and month boundaries; current party biographies corroborate the community initiative. Legal form, remuneration, hours and relationship to Western Sydney Executive Women are unresolved. First speech names Amanda Rose as co-founder. Later private-company business-name registration in 2024 does not establish earlier legal form; existing community/nonprofit classification remains provisional pending original organisational records.",
       "counting_note": "Community/association activity is excluded from the narrow public/private employment headline."
     },
     {
@@ -112,8 +133,12 @@
       "headline_sector": "private",
       "government_control_at_time": "private",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-snapshot", "src-employer-profile"],
-      "evidence_note": "The frozen extract supplies the employer, title and month boundaries; the firm's public profile identifies Kovacic as Managing Partner in 2018. The legal entity, equity/remuneration, hours, leave and allocation against the simultaneous ANZ franchise are unresolved.",
+      "source_ids": [
+        "src-snapshot",
+        "src-employer-profile",
+        "src-abr-wsa"
+      ],
+      "evidence_note": "The frozen extract supplies the employer, title and month boundaries; the firm's public profile identifies Kovacic as Managing Partner in 2018. The legal entity, equity/remuneration, hours, leave and allocation against the simultaneous ANZ franchise are unresolved. ABR records this business name under Shoshanna Group only from 25 April 2023, after the official 2016–2019 interval; do not project that company backward as her legal employer.",
       "counting_note": "Private advisory work is supported, but the senior title does not prove full-time work and the interval overlaps the mortgage business."
     },
     {
@@ -129,7 +154,11 @@
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-snapshot", "src-liberal", "src-parramatta-times"],
+      "source_ids": [
+        "src-snapshot",
+        "src-liberal",
+        "src-parramatta-times"
+      ],
       "evidence_note": "The frozen extract records two simultaneous committee appointments with the same February 2018 to May 2023 boundaries. Party and local profiles corroborate them. Remuneration, meeting load and any employment relationship are unresolved; committee service is not assumed to be paid work.",
       "counting_note": "Advisory and steering-committee service is excluded from the narrow public/private employment headline."
     },
@@ -146,7 +175,11 @@
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-snapshot", "src-nsw-liberal", "src-parramatta-times"],
+      "source_ids": [
+        "src-snapshot",
+        "src-nsw-liberal",
+        "src-parramatta-times"
+      ],
       "evidence_note": "The frozen extract supplies the directorship and month boundaries; 2022 profiles corroborate current board service. Remuneration, meeting load and any executive employment are unresolved.",
       "counting_note": "Employer-association governance is excluded from the narrow public/private employment headline."
     },
@@ -163,9 +196,51 @@
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-snapshot", "src-croatian-summit", "src-nsw-liberal"],
+      "source_ids": [
+        "src-snapshot",
+        "src-croatian-summit",
+        "src-nsw-liberal"
+      ],
       "evidence_note": "The frozen extract supplies the role and month boundaries; the organisation's 2022 summit program lists Kovacic as Deputy Chair. Remuneration, meeting load and legal form are unresolved.",
       "counting_note": "Association governance is excluded from the narrow public/private employment headline."
+    },
+    {
+      "employer": "Western Sydney Executive Women",
+      "role": "Co-founder",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "nonprofit",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-candidate-primary"
+      ],
+      "evidence_note": "Primary 2 April 2022 candidate announcement identifies this community role. Exact start/end, legal form, remuneration and hours unresolved; do not equate membership/founding with substantive employment or copy Western Sydney Women dates.",
+      "counting_note": "Community/association activity excluded pending evidence of a distinct substantive employment role.",
+      "spell_id": "306168-executive-women"
+    },
+    {
+      "employer": "Committee for Western Sydney",
+      "role": "Member",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "nonprofit",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-candidate-primary"
+      ],
+      "evidence_note": "Primary 2 April 2022 candidate announcement identifies this community role. Exact start/end, legal form, remuneration and hours unresolved; do not equate membership/founding with substantive employment or copy Western Sydney Women dates.",
+      "counting_note": "Community/association activity excluded pending evidence of a distinct substantive employment role.",
+      "spell_id": "306168-western-sydney-committee"
     },
     {
       "spell_id": "306168-parramatta-candidate",
@@ -180,8 +255,12 @@
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-parramatta-times", "src-secondary"],
-      "evidence_note": "Contemporary profiles identify Kovacic as the Liberal candidate for Parramatta at the 21 May 2022 federal election. Public reporting places the announcement in April. Remuneration, campaign hours and overlap with other roles are unresolved; candidacy is not assumed to be employment.",
+      "source_ids": [
+        "src-parramatta-times",
+        "src-secondary",
+        "src-candidate-primary"
+      ],
+      "evidence_note": "Contemporary profiles identify Kovacic as the Liberal candidate for Parramatta at the 21 May 2022 federal election. Public reporting places the announcement in April. Remuneration, campaign hours and overlap with other roles are unresolved; candidacy is not assumed to be employment. Primary NSW Liberal announcement is dated 2 April 2022, confirming endorsement by that date; month-level commencement retained because actual selection date is unstated.",
       "counting_note": "Party and campaign activity is excluded under the codebook."
     },
     {
@@ -197,7 +276,10 @@
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-nsw-liberal", "src-secondary"],
+      "source_ids": [
+        "src-nsw-liberal",
+        "src-secondary"
+      ],
       "evidence_note": "The NSW Liberal Party records election as President on 5 October 2022; secondary reporting records the April 2023 cessation before the Senate vacancy contest. Remuneration, hours and formal office conditions are unresolved.",
       "counting_note": "Party office is excluded under the codebook."
     },
@@ -214,9 +296,32 @@
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-snapshot", "src-member", "src-secondary"],
+      "source_ids": [
+        "src-snapshot",
+        "src-member",
+        "src-secondary"
+      ],
       "evidence_note": "The frozen roster records Senate service from appointment by the NSW Parliament on 31 May 2023. Parliamentary, shadow and party-room roles are nested within elected service.",
       "counting_note": "Elected office is excluded under the codebook."
+    },
+    {
+      "employer": "National Library of Australia",
+      "role": "Council member",
+      "start_date": "2026-08-12",
+      "end_date": null,
+      "date_precision": "day",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "public_service",
+      "headline_sector": "excluded",
+      "government_control_at_time": "public",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-nla"
+      ],
+      "evidence_note": "Library primary council page gives appointment 12 August 2026 and scheduled three-year term through 11 August 2029. Future term end is not recorded as an observed cessation. Parliamentary/governance role overlaps Senate service; pay and hours not supplied.",
+      "counting_note": "Public-body governance is not counted as substantive full-time public employment.",
+      "spell_id": "306168-nla-council"
     }
   ],
   "sources": [
@@ -235,10 +340,10 @@
       "url": "https://www.senatorkovacic.com/about",
       "publisher": "Senator Maria Kovacic",
       "title": "About Senator Maria Kovacic",
-      "retrieved": "2026-09-24",
+      "retrieved": "2026-10-01",
       "source_type": "professional_profile",
-      "locator": "Biography",
-      "note": "Member-controlled biography corroborates Senate service and current parliamentary roles but contains little pre-parliamentary chronology."
+      "locator": "Biography, pre-parliamentary business and regulatory work",
+      "note": "Member biography reports helping business responses to banking Royal Commission; no client, employer, dates or hours. Cannot assign to an existing business or create an extra overlapping paid interval."
     },
     {
       "source_id": "src-liberal",
@@ -309,6 +414,56 @@
       "source_type": "other",
       "locator": "Early life; Politics; Senate",
       "note": "Secondary synthesis, with parliamentary and media citations, corroborates the 2022 candidacy, party presidency and 31 May 2023 Senate appointment."
+    },
+    {
+      "url": "https://www.senatorkovacic.com/first-speech",
+      "publisher": "Senator Maria Kovacic",
+      "title": "First speech, 5 September 2023",
+      "source_type": "official_biography",
+      "locator": "Financial services business and Western Sydney Women paragraphs",
+      "note": "Describes long hours and weekend mortgage/small-business lending work; no threshold, dated work pattern or leave. Co-founding with Amanda Rose corroborated.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-firstspeech"
+    },
+    {
+      "url": "https://www.library.gov.au/visit/about-us/library-council",
+      "publisher": "National Library of Australia",
+      "title": "Library Council: Senator Maria Kovacic",
+      "source_type": "government_record",
+      "locator": "Maria Kovacic entry, appointment term",
+      "note": "Council appointment from 12 August 2026 for scheduled term ending 11 August 2029. Governance role; planned term is not an observed employment end. Biography mentions regulatory-response work without an employer or dates.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-nla"
+    },
+    {
+      "url": "https://nswliberal.org.au/rory-amon-(6)/news/maria-kovacic-will-put-parramatta-first",
+      "publisher": "NSW Liberal Party",
+      "title": "Maria Kovacic will put Parramatta first, 2 April 2022",
+      "source_type": "official_biography",
+      "locator": "Opening and community-role paragraphs",
+      "note": "Primary endorsement announcement dated 2 April; lists Western Sydney Executive Women co-founder and Committee for Western Sydney membership. Announcement date is not assumed to be appointment date.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-candidate-primary"
+    },
+    {
+      "url": "https://abr.business.gov.au/ABN/View/28144471054",
+      "publisher": "Australian Business Register",
+      "title": "Shoshanna Group Pty Ltd, ABN 28 144 471 054",
+      "source_type": "government_record",
+      "locator": "Business-name table; displayed extract 4 September 2026, retrieved 1 October",
+      "note": "Western Sydney Advisory name from 25 April 2023; Western Sydney Executive Women from 10 September 2024; Western Sydney Women from 1 October 2024. These later registrations do not establish legal employer/form during Kovacic’s earlier involvement.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-abr-wsa"
+    },
+    {
+      "url": "https://app.advoc8.co/public/profiles/6mC1yj",
+      "publisher": "Advoc8",
+      "title": "Maria Kovacic public biography excerpt",
+      "source_type": "professional_profile",
+      "locator": "Opening biography before restricted full profile",
+      "note": "Names Mobile Home and Investment Solutions Pty Ltd from 2007, but no primary corroboration found. Its childhood account conflicts with first speech; treat legal entity as unverified lead, not resolved employer.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-advoc8-lead"
     }
   ],
   "research_notes": [
@@ -316,7 +471,9 @@
     "ANZ brand affiliation does not make the franchise owner an ANZ employee; the role is coded as private self-employment with the legal franchise entity unresolved.",
     "Managing Partner is not treated as proof of full-time work, especially because the entire Western Sydney Advisory interval overlaps the ANZ franchise and several governance roles.",
     "Board, committee, association and party titles are displayed but not treated as employment without evidence of remuneration and substantive duties.",
-    "A party biography claims more than twenty years across commercial, public and not-for-profit sectors, but supplies no public employer, dates or role; that missing career segment remains unresolved."
+    "A party biography claims more than twenty years across commercial, public and not-for-profit sectors, but supplies no public employer, dates or role; that missing career segment remains unresolved.",
+    "2026-10-01 follow-up adds separately evidenced Executive Women and Committee for Western Sydney roles and National Library Council appointment; first speech supplies qualitative workload evidence only. No full-time interval inferred from long hours/weekends.",
+    "Searched ANZ franchise, earlier public-sector employment, advisory company and public-profile leads. ABR later Shoshanna business-name dates are not evidence of 2016–2019 employment; mortgage company-name lead uncorroborated and profile contains conflicting childhood details. ABR name-search URL inaccessible; individual Shoshanna record read. Reject unrelated same-name construction/food profiles and Deputy President Kovacic tribunal decisions. Pre-2006 employer history remains unresolved."
   ],
   "open_questions": [
     "What work did Kovacic perform before January 2006, particularly the claimed public-sector experience, and for which employers and dates?",
@@ -324,6 +481,10 @@
     "What were Kovacic's equity, remuneration, hours and leave at Western Sydney Advisory, and how were hours allocated against the ANZ franchise?",
     "Were any Hills Community Aid, Western Sydney Women, Eels, FCA or Croatian Women roles remunerated or operational employment rather than governance?",
     "What were the title transition dates within Hills Community Aid and the separate relationship, dates and remuneration status of Western Sydney Executive Women?",
-    "Was the 2022 Parramatta candidacy or NSW Liberal presidency remunerated, and how did each overlap other work?"
+    "Was the 2022 Parramatta candidacy or NSW Liberal presidency remunerated, and how did each overlap other work?",
+    "Can original company/credit-representative records verify the Mobile Home and Investment Solutions Pty Ltd lead and 2007 claim against official January 2006 franchise start?",
+    "Which employer/client and dates account for banking Royal Commission response work, and did it overlap Western Sydney Advisory?",
+    "What were Committee for Western Sydney membership and Western Sydney Executive Women founding/end dates, original legal forms and remuneration?",
+    "What remuneration and meeting load apply to National Library Council governance?"
   ]
 }
