@@ -6,12 +6,12 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/264170",
   "research_status": "blocked",
-  "last_reviewed": "2026-09-29",
+  "last_reviewed": "2026-10-01",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
     "calculation_status": "not_calculable",
-    "note": "Broadcasting, regional organisations and café work documented, but hours and employer-specific chronology/control are incomplete. Public and private full-time totals remain unknown."
+    "note": "Broadcasting, regional organisations and caf\u00e9 work documented, but hours and employer-specific chronology/control are incomplete. Public and private full-time totals remain unknown."
   },
   "career_spells": [
     {
@@ -88,7 +88,8 @@
       "counting_status": "excluded",
       "source_ids": [
         "src-1",
-        "src-5"
+        "src-5",
+        "src-first"
       ],
       "evidence_note": "Political staff, excluded from public-service headline.",
       "counting_note": "Excluded from the two employment headlines under the codebook."
@@ -134,8 +135,8 @@
     },
     {
       "spell_id": "264170-07",
-      "employer": "Own café business (trading entity unresolved)",
-      "role": "Small business owner and café operator",
+      "employer": "Own caf\u00e9 business (trading entity unresolved)",
+      "role": "Small business owner and caf\u00e9 operator",
       "start_date": "2001",
       "end_date": "2004",
       "date_precision": "year",
@@ -186,9 +187,10 @@
       "government_control_at_time": "private",
       "counting_status": "insufficient_evidence",
       "source_ids": [
-        "src-3"
+        "src-3",
+        "src-acra"
       ],
-      "evidence_note": "Contemporaneous report identifies employer and December 2013 resignation/on-air departure. Employment end day, start and hours unknown; syndicated broadcasts are not extra employers.",
+      "evidence_note": "Contemporaneous report identifies employer and December 2013 resignation/on-air departure. Employment end day, start and hours unknown; syndicated broadcasts are not extra employers. Primary2012 awards list places her at2HD/Super Radio Network by2012; do not encode this as commencement.",
       "counting_note": "Dates, employer control and/or substantive full-time status remain insufficient for a duration calculation; unknown is not zero."
     },
     {
@@ -207,9 +209,10 @@
       "source_ids": [
         "src-4",
         "src-5",
-        "src-8"
+        "src-8",
+        "src-radio2015"
       ],
-      "evidence_note": "Former host by July 2016; exact final work date, beginning, pay and hours unverified. University association not automatically private/public employment.",
+      "evidence_note": "Former host by July 2016; exact final work date, beginning, pay and hours unverified. University association not automatically private/public employment. First-person government transcript places her working there on4September2015, without establishing employment start or paid/full-time status.",
       "counting_note": "Dates, employer control and/or substantive full-time status remain insufficient for a duration calculation; unknown is not zero."
     },
     {
@@ -230,6 +233,44 @@
       ],
       "evidence_note": "Elected office and parliamentary duties excluded.",
       "counting_note": "Excluded from the two employment headlines under the codebook."
+    },
+    {
+      "employer": "Swanridge Investments Pty Ltd",
+      "role": "Director",
+      "start_date": null,
+      "end_date": "2019-05-14",
+      "date_precision": "day",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "private_enterprise",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-register"
+      ],
+      "evidence_note": "Register alteration records removal as director14May2019. Appointment unknown. Trustee/investment governance and shareholding do not prove personal operational employment in the family horse-rug business.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "264170-12"
+    },
+    {
+      "employer": "Swanridge Super Pty Ltd",
+      "role": "Director",
+      "start_date": "2019-05-06",
+      "end_date": null,
+      "date_precision": "day",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "private_enterprise",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-register"
+      ],
+      "evidence_note": "Register alteration records appointment6May2019 as director of corporate trustee for Swanridge Superannuation Fund. Excluded family investment governance, not inferred paid work; cessation unknown.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "264170-13"
     }
   ],
   "sources": [
@@ -291,7 +332,7 @@
       "retrieved": "2026-09-29",
       "source_type": "government_record",
       "locator": "Organisational history timeline (indexed)",
-      "note": "HROC established 1990; later incorporation in 2002 and company in 2003–04 cannot be projected backwards."
+      "note": "HROC established 1990; later incorporation in 2002 and company in 2003\u201304 cannot be projected backwards."
     },
     {
       "source_id": "src-7",
@@ -300,7 +341,7 @@
       "title": "The passing of Milton Morris AO",
       "retrieved": "2026-09-29",
       "source_type": "personal_statement",
-      "locator": "1993–1996 business-manager recollection",
+      "locator": "1993\u20131996 business-manager recollection",
       "note": "First-person corroboration of regional council work."
     },
     {
@@ -312,12 +353,54 @@
       "source_type": "employer_record",
       "locator": "2NURFM governance and university links",
       "note": "Documents university relationship; not proof of Swanson's earlier contractual employer or government control."
+    },
+    {
+      "url": "https://www.aph.gov.au/-/media/03_Senators_and_Members/32_Members/Register/46p/SZ/Swanson_46P.pdf",
+      "publisher": "Parliament of Australia",
+      "title": "46th Parliament interests register, Swanson",
+      "source_type": "government_record",
+      "locator": "p7 alteration signed24July2019, processed30July2019",
+      "note": "Official indexed full alteration gives Swanridge Super directorship6May2019 and Investments removal14May2019. Direct PDF restricted/robots unavailable; no access controls bypassed. Ownership/trustee governance does not establish operational paid work.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-register"
+    },
+    {
+      "url": "https://www.minister.defence.gov.au/transcripts/2024-12-05/press-conference-williamtown-new-south-wales",
+      "publisher": "Australian Government, Defence Ministers",
+      "title": "Williamtown press conference,5December2024",
+      "source_type": "government_record",
+      "locator": "Swanson opening remarks, PFAS discovery paragraph",
+      "note": "First-person recollection explicitly places her working at2NURFM when reading4September2015 newspaper. This is a point within service, not its starting date.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-radio2015"
+    },
+    {
+      "url": "https://www.worlddab.org/system/news/documents/000/002/343/original/ACRAs_2012_finalists_announced.pdf?1586190719=",
+      "publisher": "Commercial Radio Australia, hosted by WorldDAB",
+      "title": "2012 Australian Commercial Radio Awards finalists",
+      "source_type": "professional_profile",
+      "locator": "p5/PDFindex4, Best Networked Program",
+      "note": "Names Swanson with2HD Newcastle and Super Radio Network. Confirms2012 affiliation without identifying contract start or weekly hours.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-acra"
+    },
+    {
+      "url": "https://www.openaustralia.org.au/debate/?id=2016-10-10.41.2",
+      "publisher": "Parliament of Australia, reproduced by OpenAustralia",
+      "title": "First speech,10October2016,1:19pm",
+      "source_type": "government_record",
+      "locator": "University/broadcasting and Fitzgibbon paragraphs",
+      "note": "Full transcript corroborates communications study, local TV/radio and political staff role. Direct APH403; no additional employer dates or cafe name.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-first"
     }
   ],
   "research_notes": [
-    "Follow up full-time status and breaks across all paid work; identify café and Melbourne broadcast employers, 2HD start and 2NURFM dates/pay status; establish 1993–1997 HROC/Hunter Tourism legal employer control.",
+    "Follow up full-time status and breaks across all paid work; identify caf\u00e9 and Melbourne broadcast employers, 2HD start and 2NURFM dates/pay status; establish 1993\u20131997 HROC/Hunter Tourism legal employer control.",
     "2026-09-29 searches covered APH biography and handbooks, personal biography/first-speech index, Radio Today/RadioInfo 2013 departure, employer 2NURFM election report, ABC election guides, HROC historical timeline, university governance and public professional-profile leads. Targeted full-time searches yielded unrelated jobs/policies, not her work hours.",
-    "Do not carry present Hunter JO structure back to 1993. 2024 primary timeline locates later incorporation in 2002 and commercial company in 2003–04. Historical constitution/annual reports remain a better avenue for period control. Hunter Tourism could be industry/nonprofit or council-associated; funding alone does not decide.",
-    "Café Delish is an unverified lead from reporting about her spouse, not a verified employer or dates for her. RadioInfo says employment scheduled to expire 20 December 2013 while Radio Today describes earlier on-air departure on 13 December; retain month until contractual end clarified. On-air hours are not total working hours. Last follow-up 2026-09-29; all aggregate/subspell overlaps are non-additive."
+    "Do not carry present Hunter JO structure back to 1993. 2024 primary timeline locates later incorporation in 2002 and commercial company in 2003\u201304. Historical constitution/annual reports remain a better avenue for period control. Hunter Tourism could be industry/nonprofit or council-associated; funding alone does not decide.",
+    "Caf\u00e9 Delish is an unverified lead from reporting about her spouse, not a verified employer or dates for her. RadioInfo says employment scheduled to expire 20 December 2013 while Radio Today describes earlier on-air departure on 13 December; retain month until contractual end clarified. On-air hours are not total working hours. Last follow-up 2026-09-29; all aggregate/subspell overlaps are non-additive.",
+    "2026-10-01 follow-up: added primary-register company governance dates and primary dated observations of2HD in2012 and2NURFM4September2015. Read full first speech, government press conference, industry awards list, APH register index and radio-trade archive. Neither on-air schedule nor awards establish full-time hours. No quantified full-time interval.",
+    "Cafe Delish remains a lead: ChannelNews repeats spouse\u2019s professional-profile description of their joint proposal but spouse\u2019s2002\u20132005 ownership dates cannot replace her APH2001\u20132004 work dates. NEW FM breakfast2009 lead appears on a public discussion forum only; seek station/industry archive before adding. Full-time/part-time and maiden-name searches yielded no personal contract evidence. Historical HROC/Tourism control, Melbourne station and individual broadcasting starts remain unresolved. Register PDF restricted, first-speech APH403; accessible indexed/transcript evidence used without bypass. No duplicate duration across umbrella broadcasting and individual roles."
   ]
 }
