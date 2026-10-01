@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/263547",
   "research_status": "blocked",
-  "last_reviewed": "2026-09-12",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -35,7 +35,7 @@
     },
     {
       "spell_id": "263547-02",
-      "employer": "Secondary school(s) unidentified",
+      "employer": "Secondary school(s) unidentified, Frankston and Geelong",
       "role": "Teacher",
       "start_date": null,
       "end_date": null,
@@ -47,9 +47,10 @@
       "government_control_at_time": "unknown",
       "counting_status": "insufficient_evidence",
       "source_ids": [
-        "src-1"
+        "src-1",
+        "oct2-probus"
       ],
-      "evidence_note": "School type cannot be inferred from occupation.",
+      "evidence_note": "School type cannot be inferred from occupation. November2021 event-host account places early teaching in Frankston and Geelong; these are localities, not specific school names. No dates or hours established.",
       "counting_note": "Not counted: dates and/or substantive full-time status are insufficiently evidenced; year labels are not exact boundaries."
     },
     {
@@ -134,9 +135,9 @@
       "spell_id": "263547-07",
       "employer": "Surf Coast Shire",
       "role": "Councillor and mayor",
-      "start_date": null,
-      "end_date": null,
-      "date_precision": "unknown",
+      "start_date": "2008",
+      "end_date": "2016-05-09",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -145,9 +146,12 @@
       "counting_status": "excluded",
       "source_ids": [
         "src-3",
-        "src-5"
+        "src-5",
+        "oct2-council2017",
+        "oct2-owncouncil",
+        "oct2-mayor"
       ],
-      "evidence_note": "Local elected service retained separately, exact intervals not retrieved.",
+      "evidence_note": "First council election2008; official annual report records resignation9 May2016. Mayoral terms2009–2010 and2012–2013 are nested within this elected role, not additional employment. No exact2008 appointment day inferred.",
       "counting_note": "Outside the two employment headlines under the codebook; retained as career context."
     },
     {
@@ -168,6 +172,26 @@
       ],
       "evidence_note": "Frozen official first-service date.",
       "counting_note": "Outside the two employment headlines under the codebook; retained as career context."
+    },
+    {
+      "employer": "Surf Coast Shire Council",
+      "role": "Councillor, second period",
+      "start_date": "2016-10",
+      "end_date": "2019-05-27",
+      "date_precision": "mixed",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "elected_office",
+      "headline_sector": "excluded",
+      "government_control_at_time": "public",
+      "counting_status": "excluded",
+      "source_ids": [
+        "oct2-council2017",
+        "oct2-council2020"
+      ],
+      "evidence_note": "Official annual reports establish re-electionOctober2016 and resignation effective27 May2019; preserves break after9 May2016. Election month is not an invented oath/appointment day.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "263547-council2"
     }
   ],
   "sources": [
@@ -220,11 +244,64 @@
       "source_type": "other",
       "locator": "Career/biography or relevant appointment section",
       "note": "Corroborates former councillor and mayor status."
+    },
+    {
+      "url": "https://microsites.probussouthpacific.org/microsites/waurnpondscentral/Guest_Speakers",
+      "publisher": "Waurn Ponds Central Combined Probus",
+      "title": "Guest speaker history",
+      "source_type": "other",
+      "locator": "November2021, Libby Coker Zoom address",
+      "note": "Event host reports her early high-school teaching in Frankston and Geelong; no institutions or dates.",
+      "retrieved": "2026-10-02",
+      "source_id": "oct2-probus"
+    },
+    {
+      "url": "https://www.surfcoast.vic.gov.au/files/assets/public/about-us/council/council-meetings-and-minutes/council-agendas-amp-minutes/2017/24-october/item-4.4-appendix-1-surf-coast-shire-annual-report-2016-2017-final-version-2.pdf",
+      "publisher": "Surf Coast Shire Council",
+      "title": "Annual Report2016/17",
+      "source_type": "other",
+      "locator": "Table15, Councillor meeting attendance1 July2016–30 June2017",
+      "note": "Indexed official table records resignation9 May2016 and re-electionOctober2016. Direct alternate PDF open403; indexed text used.",
+      "retrieved": "2026-10-02",
+      "source_id": "oct2-council2017"
+    },
+    {
+      "url": "https://www.surfcoast.vic.gov.au/files/assets/public/01-about-us/council/council-meetings-and-minutes/council-agendas-amp-minutes/2020/8-december-2020/2020-12-08-council-meeting-agenda.pdf",
+      "publisher": "Surf Coast Shire Council",
+      "title": "8 December2020 Council agenda / Annual Report2019–20",
+      "source_type": "other",
+      "locator": "Agenda p190, Annual Report p86, committee table note1",
+      "note": "Indexed official report states resignation effective27 May2019.",
+      "retrieved": "2026-10-02",
+      "source_id": "oct2-council2020"
+    },
+    {
+      "url": "https://www.aph.gov.au/About_Parliament/Parliamentary_departments/Parliamentary_Library/Research/FlagPost/2024/June/FromMayorToMinister",
+      "publisher": "Australian Parliamentary Library",
+      "title": "From mayor to minister,June2024",
+      "source_type": "other",
+      "locator": "Outside of the ministry, former mayors paragraph",
+      "note": "Coker mayoral terms2009–2010 and2012–2013.",
+      "retrieved": "2026-10-02",
+      "source_id": "oct2-mayor"
+    },
+    {
+      "url": "https://libbycoker.au/news/media-release/boost-in-women-on-council-worth-celebrating/",
+      "publisher": "Libby Coker",
+      "title": "Boost in women on council worth celebrating",
+      "source_type": "other",
+      "locator": "Former Surf Coast mayor biography paragraph",
+      "note": "First election2008, mayoral terms2009–2010 and2012–2013; updated accessible URL for existing source5.",
+      "retrieved": "2026-10-02",
+      "source_id": "oct2-owncouncil"
     }
   ],
   "research_notes": [
     "Blocked: official, member and candidate sources identify both public and private employers but do not establish employment durations or full-time fractions.",
     "Targeted teaching/communications and early-date searches did not resolve dates; live APH open returned 403, so official preserved occupation text and search excerpt used.",
-    "Do not map teaching automatically to public schools, or contemporary school visits to former employers. Need CV/employer dates and hours for Education department, journalism, schools and consultancy."
+    "Do not map teaching automatically to public schools, or contemporary school visits to former employers. Need CV/employer dates and hours for Education department, journalism, schools and consultancy.",
+    "Follow-up2026-10-02: recovered council-service break9 May2016–October2016 and second resignation27 May2019, plus mayoral subterms and school-teaching localities. These do not establish substantive FT employment totals.",
+    "Targeted school, department, journalism and consultancy searches yielded no dated CV or hours. Contemporary school/TAFE visits do not identify former employers.2015 council conflict declaration indicates part ownership of an unidentified establishment, not proof of consultancy identity or paid operational work; retain lead, no new employment inferred.",
+    "Next leads: named schools in Frankston/Geelong, historical education-department staff records and journalism bylines/employer archives; identify consultancy and ownership versus active work, then obtain date/hours evidence. All headline values remain null."
   ]
 }
