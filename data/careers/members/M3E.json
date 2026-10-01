@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/M3E",
   "research_status": "blocked",
-  "last_reviewed": "2026-09-29",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -30,9 +30,10 @@
       "source_ids": [
         "src-1",
         "src-2",
-        "src-3"
+        "src-3",
+        "src-6"
       ],
-      "evidence_note": "Paid trade apprenticeship is distinct from classroom study; employer and hours unreported. Do not presume full-time status from apprenticeship.",
+      "evidence_note": "Paid trade apprenticeship is distinct from classroom study; employer and hours unreported. Do not presume full-time status from apprenticeship. In 2011 Hansard he recalls starting at 7.30 am and leaving at 4.30 pm during the apprenticeship. This supplies a daily span, not weekly paid hours, continuity over all four years, or named employer; employment_status and FTE remain unknown.",
       "counting_note": "Dates, employer control and/or substantive full-time status remain insufficient for a duration calculation; unknown is not zero."
     },
     {
@@ -133,7 +134,8 @@
       "counting_status": "excluded",
       "source_ids": [
         "src-1",
-        "src-2"
+        "src-2",
+        "src-8"
       ],
       "evidence_note": "Handbook provides election date; current biography provides resignation date. Elected office excluded.",
       "counting_note": "Excluded from the two employment headlines under the codebook."
@@ -154,9 +156,10 @@
       "source_ids": [
         "src-1",
         "src-2",
-        "src-4"
+        "src-4",
+        "src-7"
       ],
-      "evidence_note": "ABC identifies advice to the state agriculture minister. Excluded political employment; no assumption of a substantive public-service appointment.",
+      "evidence_note": "ABC identifies advice to the state agriculture minister. Excluded political employment; no assumption of a substantive public-service appointment. Material break evidence: ABC reported on 21 November2007 that he said he finished work with the Brumby government the previous month (October2007). Thus the retained official2006–2010 labels are a broad career envelope, NOT continuous employment. Whether this was resignation or leave, any return date and subsequent contract remain unresolved. No duration may be calculated across this break.",
       "counting_note": "Excluded from the two employment headlines under the codebook."
     },
     {
@@ -269,6 +272,36 @@
       "source_type": "official_biography",
       "locator": "Biographical paragraph beginning As a tradie",
       "note": "Corroborates RACV mechanic work and community emergency volunteering; no chronology."
+    },
+    {
+      "url": "https://www.openaustralia.org.au/debate/?id=2011-10-13.33.10",
+      "publisher": "House of Representatives Hansard / OpenAustralia",
+      "title": "Work Health and Safety Bill, Rob Mitchell, 13 October 2011, 11:14 am",
+      "source_type": "government_record",
+      "locator": "Paragraph beginning I said in my maiden speech",
+      "note": "First-person apprenticeship recollection gives 7.30 am to 4.30 pm working day. Weekly frequency, break times and legal employer not supplied; original ParlInfo returned403 but transcript accessible.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-6"
+    },
+    {
+      "url": "https://www.abc.net.au/news/2007-11-21/labor-rejects-candidate-ineligibility-claims/731696",
+      "publisher": "ABC News",
+      "title": "Labor rejects candidate ineligibility claims, 21 November 2007",
+      "source_type": "news",
+      "locator": "Rob Mitchell paragraphs after Tony Zappia",
+      "note": "Direct interview account: finished work with Brumby government last month, i.e. October2007. This prevents treating APH2006–2010 as uninterrupted service. Reappointment not dated.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-7"
+    },
+    {
+      "url": "https://www.parliament.vic.gov.au/members/rob-mitchell/",
+      "publisher": "Parliament of Victoria",
+      "title": "Robert George Mitchell, former member",
+      "source_type": "official_biography",
+      "locator": "Electorate and inaugural speech sections",
+      "note": "Confirms precise state term and identifies 27 February2003 inaugural speech; historical transcript redirects to inaccessible Hansard endpoint.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-8"
     }
   ],
   "research_notes": [
@@ -276,6 +309,7 @@
     "2026-09-29 initial pass: compared current APH indexed biography, 2017 Parliamentary Handbook indexed entry, full 29 September 2010 first speech, ALP biography and ABC 2013 candidate guide. Direct APH and ANU PDF opens failed; no access controls bypassed.",
     "Targeted searches for bootmaker employer, diesel-parts employer, RACV, full-time work and agriculture adviser did not identify the missing companies or admissible hours evidence. Numerous unrelated Rob Mitchell professional profiles and overseas full-time references excluded. Repeat only with a new employer or archive lead.",
     "Historical handbook adds 1987–1989 roadside work omitted from current APH list; omission is not evidence that work did not occur. Speech confirms sequence but cannot prove RACV was employer or fix every contract date. Transport-role titles alone do not prove private control of unidentified entities.",
-    "Campaigns in 1999, 2006 and 2007 and party participation described in first speech are political activity, not presumed paid employment. Professional membership and volunteer work likewise are not substantive paid employment. No unsupported zero or uninterrupted duration entered; initial record remains blocked."
+    "Campaigns in 1999, 2006 and 2007 and party participation described in first speech are political activity, not presumed paid employment. Professional membership and volunteer work likewise are not substantive paid employment. No unsupported zero or uninterrupted duration entered; initial record remains blocked.",
+    "2026-10-02 follow-up: added apprenticeship daily-hours recollection and October2007 cessation of political advisory work, qualifying the existing2006–2010 envelope. State Parliament profile confirms term and supplies 27February2003 first-speech archive lead, but legacy endpoint unavailable. Searches for footwear/diesel/parts employers and ministerial work found no company identity or weekly-hours evidence; overseas BMW, diesel social-media and medical namesakes excluded. Next: accessible Victorian2003 Hansard p56 onward for employer clues, and post-election adviser reappointment record; do not repeat generic company searches without a new lead. Both headline totals remain unknown."
   ]
 }
