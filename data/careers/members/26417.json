@@ -6,12 +6,12 @@
   "snapshot_party": "Independent",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/26417",
   "research_status": "blocked",
-  "last_reviewed": "2026-09-17",
+  "last_reviewed": "2026-10-01",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
     "calculation_status": "not_calculable",
-    "note": "The official history identifies two public, one private-consultancy and several nonprofit roles, but only year-level endpoints and no substantive full-time evidence. The Good Car Company role is governance rather than proven employment. Missing evidence and unlisted years are not zero."
+    "note": "Dated public, consulting and nonprofit roles remain insufficient for full-time totals. Follow-up adds unpaid roles and client projects, which must not be treated as separate paid employment. CEFC/Banarra overlap, hours, leave, project payroll and advisory status remain unresolved; missing evidence is not zero."
   },
   "career_spells": [
     {
@@ -27,7 +27,10 @@
       "headline_sector": "public",
       "government_control_at_time": "public",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-snapshot", "src-profile"],
+      "source_ids": [
+        "src-snapshot",
+        "src-profile"
+      ],
       "evidence_note": "Official frozen biography supplies employer, title and year endpoints. SEDA was a NSW statutory government authority; exact dates, hours and leave are unresolved.",
       "counting_note": "Public control is established, but year-only dates and unknown full-time status do not support a headline duration."
     },
@@ -44,13 +47,16 @@
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-snapshot", "src-profile"],
+      "source_ids": [
+        "src-snapshot",
+        "src-profile"
+      ],
       "evidence_note": "Official frozen biography supplies employer, title and year endpoints. Exact dates, hours and leave are unresolved.",
       "counting_note": "Nonprofit employment is excluded under the codebook."
     },
     {
       "spell_id": "26417-nsw-environment",
-      "employer": "NSW Department of Environment, Climate Change and Water (historical department name as reported)",
+      "employer": "NSW Department of Environment and Conservation (2004 contemporaneous name; frozen biography uses later department name)",
       "role": "Senior Program and Policy Officer",
       "start_date": "2003",
       "end_date": "2004",
@@ -61,8 +67,12 @@
       "headline_sector": "public",
       "government_control_at_time": "public",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-snapshot", "src-profile"],
-      "evidence_note": "Official frozen biography supplies employer, title and year endpoints. Machinery-of-government name at the exact service dates, exact dates, hours and leave require primary personnel evidence.",
+      "source_ids": [
+        "src-snapshot",
+        "src-profile",
+        "src-gap2004"
+      ],
+      "evidence_note": "Official frozen biography supplies employer, title and year endpoints. Machinery-of-government name at the exact service dates, exact dates, hours and leave require primary personnel evidence. Follow-up:2004 forum report identifies Senior Project Officer, Sustainable Programs, Department of Environment and Conservation. This verifies the2004 affiliation/title variant, not every part of the2003–2004 service boundary.",
       "counting_note": "Public control is clear, but year-only dates and unknown full-time status do not support a headline duration."
     },
     {
@@ -78,7 +88,10 @@
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-snapshot", "src-profile"],
+      "source_ids": [
+        "src-snapshot",
+        "src-profile"
+      ],
       "evidence_note": "Official frozen biography supplies employer, title and year endpoints. Exact dates, hours and leave are unresolved; 2004–2006 gap remains open.",
       "counting_note": "Nonprofit employment is excluded under the codebook."
     },
@@ -95,8 +108,13 @@
       "headline_sector": "private",
       "government_control_at_time": "private",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-snapshot", "src-consultancy", "src-profile"],
-      "evidence_note": "Official frozen biography gives year endpoints; a professional-services report describes progression to Associate and about six years at the consultancy. Exact role transitions, dates, hours, ownership and leave remain unresolved.",
+      "source_ids": [
+        "src-snapshot",
+        "src-consultancy",
+        "src-profile",
+        "src-kpmg2015"
+      ],
+      "evidence_note": "Official frozen biography gives year endpoints; a professional-services report describes progression to Associate and about six years at the consultancy. Exact role transitions, dates, hours, ownership and leave remain unresolved. KPMG annual review records acquisition announced August2015. Private control remains; no evidence that Nicolette transferred to KPMG, and acquisition date is not her termination date.",
       "counting_note": "Private control is supported, but year-only dates and unknown full-time status do not support a headline duration."
     },
     {
@@ -112,7 +130,11 @@
       "headline_sector": "public",
       "government_control_at_time": "public",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-snapshot", "src-profile", "src-cefc"],
+      "source_ids": [
+        "src-snapshot",
+        "src-profile",
+        "src-cefc"
+      ],
       "evidence_note": "Official frozen biography records this acting role overlapping the Banarra period. CEFC is an Australian Government-owned corporation. Secondment/contract employer, exact dates, hours and leave are unresolved.",
       "counting_note": "Public control is clear, but employment relationship, year-only dates and full-time status are insufficient; overlap is not added."
     },
@@ -129,8 +151,13 @@
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-snapshot", "src-profile", "src-igcc"],
-      "evidence_note": "Official frozen biography records a 2014 project role, overlapping the Banarra year range. Exact dates, contracting/secondment arrangement, hours and leave are unresolved.",
+      "source_ids": [
+        "src-snapshot",
+        "src-profile",
+        "src-igcc",
+        "src-public-profile"
+      ],
+      "evidence_note": "Official frozen biography records a 2014 project role, overlapping the Banarra year range. Exact dates, contracting/secondment arrangement, hours and leave are unresolved. Public profile dates an IGCC project March2014–March2015. This differs from the frozen2014-only role and may describe wider project participation; retained role boundaries pending reconciliation.",
       "counting_note": "Nonprofit employment is excluded; overlapping calendar time is not double-counted."
     },
     {
@@ -146,7 +173,11 @@
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-snapshot", "src-profile", "src-riaa"],
+      "source_ids": [
+        "src-snapshot",
+        "src-profile",
+        "src-riaa"
+      ],
       "evidence_note": "Official frozen biography supplies employer, broad title and year endpoints; a contemporaneous event profile expands the portfolio. Exact dates, title transitions, hours and leave are unresolved.",
       "counting_note": "Membership-association/nonprofit employment is excluded under the codebook."
     },
@@ -163,8 +194,11 @@
       "headline_sector": "unknown",
       "government_control_at_time": "private",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-snapshot"],
-      "evidence_note": "Official frozen biography supplies organisation, governance title and year endpoints. Board membership does not prove employment, remuneration, hours or operational control; legal entity requires verification.",
+      "source_ids": [
+        "src-snapshot",
+        "src-riaa2025"
+      ],
+      "evidence_note": "Official frozen biography supplies organisation, governance title and year endpoints. Board membership does not prove employment, remuneration, hours or operational control; legal entity requires verification. RIAA2025 biography instead calls her a non-executive director. Advisory-board and statutory-director status, plus apparent2025 versus2024 endpoint conflict, require company evidence; neither title proves substantive employment.",
       "counting_note": "Governance role is not treated as paid full-time employment without further evidence."
     },
     {
@@ -180,8 +214,12 @@
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-snapshot", "src-smart-energy"],
-      "evidence_note": "Official frozen biography supplies employer, title and year endpoints. Exact dates, employment/consultancy arrangement, hours and leave are unresolved.",
+      "source_ids": [
+        "src-snapshot",
+        "src-smart-energy",
+        "src-oct2022"
+      ],
+      "evidence_note": "Official frozen biography supplies employer, title and year endpoints. Exact dates, employment/consultancy arrangement, hours and leave are unresolved. October2022 newsletter announces securing this advisory role; commencement was by then, not necessarily that month.",
       "counting_note": "Nonprofit employment is excluded under the codebook."
     },
     {
@@ -197,9 +235,281 @@
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-snapshot", "src-personal"],
+      "source_ids": [
+        "src-snapshot",
+        "src-personal"
+      ],
       "evidence_note": "Frozen roster records service from 3 May 2025; ongoing at snapshot. Campaign activity is not assumed to be a separate paid employment spell.",
       "counting_note": "Elected office is excluded under the codebook."
+    },
+    {
+      "employer": "Responsible Investment Association Australasia",
+      "role": "Pro bono adviser",
+      "start_date": "2013-10",
+      "end_date": "2015-02",
+      "date_precision": "month",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unpaid_work",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-public-profile"
+      ],
+      "evidence_note": "Explicitly unpaid; separate from subsequent executive service.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "26417-riaa-probono"
+    },
+    {
+      "employer": "Australian Conservation Foundation",
+      "role": "Councillor",
+      "start_date": "2006",
+      "end_date": "2009",
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unpaid_work",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-public-profile"
+      ],
+      "evidence_note": "Listed under volunteer experience; no additional employment duration.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "26417-acf-council"
+    },
+    {
+      "employer": "University of Technology Sydney",
+      "role": "Guest lecturer",
+      "start_date": "2007",
+      "end_date": "2016",
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unpaid_work",
+      "headline_sector": "excluded",
+      "government_control_at_time": "public",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-public-profile"
+      ],
+      "evidence_note": "Listed under volunteer experience; not a salaried academic appointment.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "26417-uts-guest"
+    },
+    {
+      "employer": "KU Barra Brui Preschool",
+      "role": "Treasurer",
+      "start_date": "2006-01",
+      "end_date": "2006-12",
+      "date_precision": "month",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unpaid_work",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-public-profile"
+      ],
+      "evidence_note": "Volunteer governance.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "26417-preschool"
+    },
+    {
+      "employer": "Australian Sustainable Finance Initiative",
+      "role": "Coordinating working-group member",
+      "start_date": "2019-05",
+      "end_date": "2021-11",
+      "date_precision": "month",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unpaid_work",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-public-profile"
+      ],
+      "evidence_note": "Volunteer collaboration; no separate payroll inferred.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "26417-asfi"
+    },
+    {
+      "employer": "Sustainable Digitalisation Project",
+      "role": "Roundtable member",
+      "start_date": "2019-01",
+      "end_date": "2024-09",
+      "date_precision": "month",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unpaid_work",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-public-profile"
+      ],
+      "evidence_note": "Volunteer collaboration; overlaps recorded employment.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "26417-sdp"
+    },
+    {
+      "employer": "Vivid Sydney / Destination NSW (project client; employer unknown)",
+      "role": "Sustainability project",
+      "start_date": "2015-04",
+      "end_date": "2016-06",
+      "date_precision": "month",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "unknown",
+      "government_control_at_time": "unknown",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-public-profile"
+      ],
+      "evidence_note": "Project dates only; client is not assumed to be payroll employer. May overlap consultancy or association duties.",
+      "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
+      "spell_id": "26417-vivid"
+    },
+    {
+      "employer": "NSW environment department (project client; employer unknown)",
+      "role": "Business-plan project",
+      "start_date": "2009-02",
+      "end_date": "2009-04",
+      "date_precision": "month",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "unknown",
+      "government_control_at_time": "unknown",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-public-profile"
+      ],
+      "evidence_note": "Project participation only; contracting entity and public/private employment relationship unresolved.",
+      "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
+      "spell_id": "26417-nsw2009"
+    },
+    {
+      "employer": "WA Premier’s Department (project client; employer unknown)",
+      "role": "Greenhouse strategy project",
+      "start_date": "2001",
+      "end_date": "2001",
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "unknown",
+      "government_control_at_time": "unknown",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-public-profile"
+      ],
+      "evidence_note": "Client assignment; no separate employment relationship inferred.",
+      "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
+      "spell_id": "26417-wa2001"
+    },
+    {
+      "employer": "Snowy Mountains Engineering Corporation (project client; employer unknown)",
+      "role": "Project evaluation",
+      "start_date": "2000",
+      "end_date": "2000",
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "unknown",
+      "government_control_at_time": "unknown",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-public-profile"
+      ],
+      "evidence_note": "Client assignment; payroll employer, paid status and hours unproven.",
+      "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
+      "spell_id": "26417-smec"
+    },
+    {
+      "employer": "California environmental agency (project client; employer unknown)",
+      "role": "Community participation project",
+      "start_date": "1999-07",
+      "end_date": "1999-07",
+      "date_precision": "month",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "unknown",
+      "government_control_at_time": "unknown",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-public-profile"
+      ],
+      "evidence_note": "Same-month participation is not zero duration; no employment relationship inferred.",
+      "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
+      "spell_id": "26417-california"
+    },
+    {
+      "employer": "Property Council of Australia (project client; employer unknown)",
+      "role": "Research project",
+      "start_date": "1993-02",
+      "end_date": "1993-12",
+      "date_precision": "month",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "unknown",
+      "government_control_at_time": "unknown",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-public-profile"
+      ],
+      "evidence_note": "May be study-related research; paid status not established.",
+      "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
+      "spell_id": "26417-property"
+    },
+    {
+      "employer": "British Airways / World Travel & Tourism Council",
+      "role": "Scholarship internship",
+      "start_date": "1995",
+      "end_date": "1995",
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "unknown",
+      "government_control_at_time": "unknown",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-public-profile"
+      ],
+      "evidence_note": "Hosts, not verified employing entities; payment and hours unresolved.",
+      "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
+      "spell_id": "26417-internship"
+    },
+    {
+      "employer": "Climate Venture Capital Fund /2040Ventures (contracting entity unconfirmed)",
+      "role": "Climate Impact Advisory Committee member; impact assessment",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "unknown",
+      "government_control_at_time": "private",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-fund2022",
+        "src-september2024",
+        "src-riaa2025",
+        "src-fund-control"
+      ],
+      "evidence_note": "Membership documented March2022, personal work on FY2024 assessment reported September2024 and role listed in2025 event biography. These observations are not term endpoints. Advisory governance or consulting, remuneration and hours unresolved.",
+      "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
+      "spell_id": "26417-climate-fund"
     }
   ],
   "sources": [
@@ -282,6 +592,86 @@
       "source_type": "employer",
       "locator": "About/mission text",
       "note": "Describes the Council as a not-for-profit renewable-energy peak body; does not establish Boele's work hours."
+    },
+    {
+      "url": "https://au.linkedin.com/in/nicolette-boele",
+      "publisher": "Nicolette Boele / LinkedIn",
+      "title": "Public professional profile",
+      "source_type": "professional_profile",
+      "locator": "Publicly indexed Volunteer Experience, Projects and scholarship entries",
+      "note": "Public index retrieved; direct open returned999. Employment section lacks detail. Project listings do not establish employing entity or paid status.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-public-profile"
+    },
+    {
+      "url": "https://globalaccesspartners.org/eco_report.pdf",
+      "publisher": "Global Access Partners",
+      "title": "GAP Forum on Ecological Sustainability2004 report",
+      "source_type": "other",
+      "locator": "Printed pp4,42 steering committee and attendees",
+      "note": "Contemporaneous named departmental affiliation; primary event record.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-gap2004"
+    },
+    {
+      "url": "https://assets.kpmg.com/content/dam/kpmg/pdf/2015/12/international-annual-review-2015.pdf",
+      "publisher": "KPMG",
+      "title": "International Annual Review2015",
+      "source_type": "employer",
+      "locator": "Printed p36 Banarra acquisition",
+      "note": "Acquisition announced August2015; organisation evidence, not Boele employment-transfer evidence.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-kpmg2015"
+    },
+    {
+      "url": "https://riaa.glueup.com/en/event/riaa-conference-australia-2025-109818/speakers.html",
+      "publisher": "Responsible Investment Association Australasia",
+      "title": "Conference Australia2025 speakers",
+      "source_type": "official_biography",
+      "locator": "Nicolette Boele biography",
+      "note": "Climate fund committee and Good Car non-executive-director descriptions; possible stale biography must be reconciled with frozen dates.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-riaa2025"
+    },
+    {
+      "url": "https://www.nicoletteboele.com.au/september_2024_boele_tin",
+      "publisher": "Nicolette Boele",
+      "title": "September2024 BOELE-tin",
+      "source_type": "official_biography",
+      "locator": "Career highlights paragraph and FY2024 report link",
+      "note": "First-person climate fund project evidence. Linked FY2024 page now serves FY2025 material, so not relied on as a historical report.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-september2024"
+    },
+    {
+      "url": "https://www.nicoletteboele.com.au/newsletter_oct2022",
+      "publisher": "Nicolette Boele",
+      "title": "October2022 BOELE-tin",
+      "source_type": "official_biography",
+      "locator": "Electrifying Australia paragraph",
+      "note": "First-person announcement of Smart Energy Council advisory role.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-oct2022"
+    },
+    {
+      "url": "https://independentaustralia.net/profile-on/nicolette-boele%2C1311",
+      "publisher": "Independent Australia / Nicolette Boele",
+      "title": "Nicolette Boele contributor biography",
+      "source_type": "official_biography",
+      "locator": "26March2022 biography",
+      "note": "Climate Impact Advisory Committee membership already identified in2022.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-fund2022"
+    },
+    {
+      "url": "https://climatevcfund.com/about/team/",
+      "publisher": "Climate Venture Capital Fund",
+      "title": "About and team",
+      "source_type": "employer",
+      "locator": "Fund and manager description",
+      "note": "Private venture fund managed by2040Ventures; current page not personal payroll evidence.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-fund-control"
     }
   ],
   "open_questions": [
@@ -289,6 +679,16 @@
     "What are the exact dates, substantive hours and leave/breaks for each listed role?",
     "Were the CEFC and IGCC roles secondments or contracts overlapping Banarra, and which entity controlled and paid the work?",
     "Was the Good Car Company advisory-board role remunerated employment, unpaid governance or another arrangement?",
-    "What was the exact legal NSW department name during the 2003–2004 public-service spell?"
+    "What was the exact legal NSW department name during the 2003–2004 public-service spell?",
+    "Does the IGCC2014–2015 project correspond to the frozen2014 role or a different assignment?",
+    "Was Good Car service advisory or statutory non-executive directorship, and is the2025 biography stale?",
+    "What were the employing entities, pay and hours for the early internship, client projects and climate-fund work?"
+  ],
+  "research_notes": [
+    "Systematic follow-up2026-10-01; repaired absent required research_notes while preserving existing sources, spells and open_questions. Added project assignments separately from proven employment, so government client names never automatically generate public-service years. All substantive hours remain unknown.",
+    "Contemporaneous2004 forum source resolves the department name at that observation. KPMG acquisition evidence establishes organisational context without inventing a personal transfer or end date. Smart Energy newsletter corroborates advisory entry by October2022. Climate fund work fills an omitted lead into2024, without asserting a continuous full-time spell.",
+    "Publicly indexed professional profile adds dated volunteer and project evidence; direct profile retrieval returned999 and paid employment detail was not publicly exposed. Project dates can differ from employment dates; IGCC discrepancy retained. Additional volunteer, awards and early training entries remain leads for corroboration rather than evidence of full-time work.",
+    "Exhausted this pass: targeted CEFC/Banarra secondment and annual-report queries, historical departmental identity, employer acquisition, public profile, primary newsletters, climate-fund committee/report pages. CEFC personal contract/hours unresolved. OnImpact profile returned402 Payment Required; no paid access attempted. Original full-bio failed retrieval. FY2024 fund link now points to updated content, not treated as historical evidence.",
+    "Follow-up priorities: early paid career/employers; exact1996–1999 and2003–2004 public-service dates/hours/leave; CEFC payroll and secondment; IGCC role/project distinction; Banarra hours/ownership; Good Car legal appointment/term conflict; climate-fund remuneration and boundaries; project contracting entities. No headline duration inferred from seniority, project budgets or general tenure. Last follow-up2026-10-01; advance nationally before repeating these avenues."
   ]
 }
