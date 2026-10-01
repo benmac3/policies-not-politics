@@ -6,12 +6,12 @@
   "snapshot_party": "Independent",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/297660",
   "research_status": "blocked",
-  "last_reviewed": "2026-09-29",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
     "calculation_status": "not_calculable",
-    "note": "Detailed CVs establish many clinical appointments, but not substantive FTE, breaks or all employing entities. Overlapping academic and clinical work cannot be added; full-time totals remain unknown."
+    "note": "RCH employer document explicitly confirms full-time status on6February2012, but a single observation does not establish continuous dated full-time service. Late2021 RCH/MCRI resignation clarified; earlier appointments, breaks and payroll relationships remain unresolved."
   },
   "career_spells": [
     {
@@ -276,9 +276,10 @@
       "counting_status": "insufficient_evidence",
       "source_ids": [
         "src-2",
-        "src-6"
+        "src-6",
+        "src-7"
       ],
-      "evidence_note": "CV employment list; see source locator. Hours and employer terms unresolved.",
+      "evidence_note": "CV employment list; see source locator. Hours and employer terms unresolved. RCH orientation notes revised6February2012 expressly identify Ryan as full time. This establishes status at that observation, not continuous2006–2015 service. Whole-spell employment_status and FTE remain unknown pending dated changes/leave; no duration derived from one observation.",
       "counting_note": "Dates, employer control and/or substantive full-time status remain insufficient for a duration calculation; unknown is not zero."
     },
     {
@@ -299,7 +300,7 @@
         "src-5",
         "src-6"
       ],
-      "evidence_note": "CV leadership dates; occupational endpoint conflict retained in notes.",
+      "evidence_note": "CV leadership dates; occupational endpoint conflict retained in notes. September2022 report Personal Details expressly states RCH resignation in late2021. This confirms2021 employment endpoint at year precision; APH’s neurologist2003–2022 is a broader occupation description, not sufficient to extend RCH payroll.",
       "counting_note": "Dates, employer control and/or substantive full-time status remain insufficient for a duration calculation; unknown is not zero."
     },
     {
@@ -317,9 +318,10 @@
       "counting_status": "insufficient_evidence",
       "source_ids": [
         "src-3",
-        "src-6"
+        "src-6",
+        "src-7"
       ],
-      "evidence_note": "Concurrent clinical leadership; no separate counted duration.",
+      "evidence_note": "Concurrent clinical leadership; no separate counted duration. Same2012 staff document describes full-time neuromuscular clinic work, overlapping senior staff specialist appointment, not a second full-time job.",
       "counting_note": "Dates, employer control and/or substantive full-time status remain insufficient for a duration calculation; unknown is not zero."
     },
     {
@@ -351,22 +353,22 @@
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "university",
-      "headline_sector": "unknown",
+      "headline_sector": "excluded",
       "government_control_at_time": "unknown",
-      "counting_status": "insufficient_evidence",
+      "counting_status": "excluded",
       "source_ids": [
         "src-3"
       ],
-      "evidence_note": "CV employment list; see source locator. Hours and employer terms unresolved.",
-      "counting_note": "Dates, employer control and/or substantive full-time status remain insufficient for a duration calculation; unknown is not zero."
+      "evidence_note": "September2022 report Personal Details expressly calls Monash and Melbourne professorial appointments honorary. No independently remunerated substantive appointment established; dates unknown.",
+      "counting_note": "Honorary academic affiliation excluded; not an additional paid clinical interval."
     },
     {
       "spell_id": "297660-19",
       "employer": "Murdoch Children’s Research Institute",
       "role": "Honorary fellow manager",
       "start_date": null,
-      "end_date": null,
-      "date_precision": "unknown",
+      "end_date": "2021",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "nonprofit",
@@ -376,7 +378,7 @@
       "source_ids": [
         "src-3"
       ],
-      "evidence_note": "Honorary title; pay not established.",
+      "evidence_note": "Honorary title; pay not established. Same appendix expressly says honorary MCRI appointment resigned in late2021.",
       "counting_note": "Excluded from the two employment headlines under the codebook."
     },
     {
@@ -445,10 +447,10 @@
       "url": "https://2022folbigginquiry.dcj.nsw.gov.au/content/dam/dcj/2022-folbigg-inquiry/documents/exhibits/exhibit-12/Exhibit_12_-_Dr_Ryan.pdf",
       "publisher": "NSW Folbigg Inquiry / Monique Ryan",
       "title": "Exhibit 12: updated CV",
-      "retrieved": "2026-09-29",
+      "retrieved": "2026-10-02",
       "source_type": "professional_profile",
-      "locator": "PDF pp23, 48–50; CV pp2, 27–29",
-      "note": "Leadership, honorary appointments and research governance; no full-time wording located."
+      "locator": "PDF p.20 Personal Details;pp23,48–50/CVpp2,27–29",
+      "note": "Personal Details expressly states late2021 resignation from RCH/MCRI and honorary Monash/Melbourne professorships; CV provides role intervals. No patient information copied."
     },
     {
       "source_id": "src-4",
@@ -479,12 +481,23 @@
       "source_type": "official_biography",
       "locator": "Public-hospital career paragraph",
       "note": "Public hospital context; not evidence of continuous full-time service."
+    },
+    {
+      "url": "https://www.rch.org.au/uploadedfiles/main/content/neurology/neurology_registrar_resident_orientation_handout_6_2_12.pdf",
+      "publisher": "Royal Children’s Hospital",
+      "title": "Neurology registrar/resident orientation notes,revised6February2012",
+      "source_type": "employer",
+      "locator": "PDF p.2, A.Personnel, A/Prof Monique Ryan paragraph",
+      "note": "Explicit full-time description of Ryan as neuromuscular clinic neurologist. Text and page screenshot inspected; adjacent colleagues’ hours not attributed to her. Snapshot does not prove status throughout2006–2015.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-7"
     }
   ],
   "research_notes": [
     "Follow-up: obtain substantive clinical FTE, leave and payroll/secondment evidence for each hospital; verify historical control and pay for US fellowships and university posts. Resolve 2021 CV leadership endpoints against APH's occupation through 2022; establish campaign leave/resignation and any private practice or paid expert work.",
     "Reviewed both inquiry CVs, official biography, own career statements and RCH Foundation profile on 2026-09-29. These are public professional evidence; no medical opinions or patient facts were copied. The updated CV search found no full-time wording.",
     "The CVs give overlapping training, academic and hospital appointments. Generic evidence notes refer to source locators; no title is treated as FTE proof. Clinical training is retained as potential employment, not automatically unpaid study. No duration calculated.",
-    "The updated CV also lists journal editing, grant review, teaching and professional governance. Their remuneration and employing relationships need follow-up; they are not automatically independent employment spells. Ongoing marks in an old CV are not extrapolated to the frozen 2026 snapshot. Last follow-up 2026-09-29; unresolved initial record."
+    "The updated CV also lists journal editing, grant review, teaching and professional governance. Their remuneration and employing relationships need follow-up; they are not automatically independent employment spells. Ongoing marks in an old CV are not extrapolated to the frozen 2026 snapshot. Last follow-up 2026-09-29; unresolved initial record.",
+    "2026-10-02 follow-up: found explicit individual full-time RCH description in6February2012 orientation notes, visually verified onp.2. No extension across all2006–2015/2008–2021 years or duplicate hours across clinic/staff roles. Re-read public inquiry professional appendix: late2021 RCH/MCRI resignation and honorary Monash professorship resolve earlier ambiguities. A2022 fellowship advert names Ryan as supervisor but its full-time wording describes the advertised fellow, not Ryan. Westmead2005 annual-report dataset download returned404; historical control/payroll for early hospitals and US fellowships still needs primary annual reports. Next: adjacent-year RCH staff lists/appointment and leave changes, early hospital annual reports, US fellowship contracts and private/expert work terms. No full-time years yet calculable; patient/case detail not retained."
   ]
 }
