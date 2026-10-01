@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Greens",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/310860",
   "research_status": "blocked",
-  "last_reviewed": "2026-09-14",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -88,9 +88,10 @@
       "source_ids": [
         "src-2",
         "src-3",
-        "src-4"
+        "src-4",
+        "oct2-ama"
       ],
-      "evidence_note": "ABC identifies Australian Mission; party shorthand says adviser to UN. Need appointment record to distinguish government employee, intern, unpaid delegate or other arrangement; not automatically UN employment.",
+      "evidence_note": "ABC identifies Australian Mission; party shorthand says adviser to UN. Need appointment record to distinguish government employee, intern, unpaid delegate or other arrangement; not automatically UN employment. First-person2022 AMA says she negotiated for Australia while Gillard was PM and Rudd foreign minister, then returned after Australia secured a temporary Security Council seat. This narrows archival search context without proving start/end dates, paid public-service status or continuous tenure.",
       "counting_note": "Not counted: dates and/or substantive full-time status are insufficiently evidenced; year labels are not exact boundaries."
     },
     {
@@ -134,7 +135,7 @@
     {
       "spell_id": "310860-07",
       "employer": "Greenpeace Australia Pacific",
-      "role": "Head of Pacific",
+      "role": "Campaigner / Head of Pacific",
       "start_date": "2020",
       "end_date": "2023",
       "date_precision": "year",
@@ -146,9 +147,10 @@
       "counting_status": "excluded",
       "source_ids": [
         "src-1",
-        "src-3"
+        "src-3",
+        "oct2-greenpeace"
       ],
-      "evidence_note": "Official year labels; party confirms nonprofit employer context. No government-sector inference from international climate negotiations.",
+      "evidence_note": "Official year labels; party confirms nonprofit employer context. No government-sector inference from international climate negotiations. Employer press release identifies campaigner on30 October2020. This may be descriptive rather than separate appointment, so retained in same spell.",
       "counting_note": "Outside the two employment headlines under the codebook; retained as career context."
     },
     {
@@ -170,6 +172,26 @@
       ],
       "evidence_note": "Casual-vacancy appointment, not first candidacy in2013.",
       "counting_note": "Outside the two employment headlines under the codebook; retained as career context."
+    },
+    {
+      "employer": "Office of Senator Richard Di Natale",
+      "role": "Political staff work; exact title unresolved",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "political_staff",
+      "headline_sector": "excluded",
+      "government_control_at_time": "public",
+      "counting_status": "excluded",
+      "source_ids": [
+        "oct2-ama",
+        "oct2-crikey"
+      ],
+      "evidence_note": "In2022 public AMA she confirms work for Di Natale while he was leader, involving parliamentary groups on drug law, medicinal cannabis and voluntary euthanasia. Reader letter2016 supplies a contemporaneous lead, not confirmed employment boundary. Remuneration/hours and exact appointment remain unknown.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "310860-dinatale"
     }
   ],
   "sources": [
@@ -212,11 +234,44 @@
       "source_type": "news",
       "locator": "Career/biography or relevant appointment section",
       "note": "Distinguishes Australian Mission to UN advisory work and volunteer legal work at Environmental Justice Australia."
+    },
+    {
+      "url": "https://www.reddit.com/r/AustralianPolitics/comments/u6zt38/hi_im_steph_hodginsmay_the_greens_candidate_for/",
+      "publisher": "Steph Hodgins-May / r AustralianPolitics",
+      "title": "Candidate AMA,2022",
+      "source_type": "professional_profile",
+      "locator": "Author answers on career pathway and work for Richard Di Natale",
+      "note": "Author account linked by AMA moderators to candidate campaign; confirms Di Natale work and UN negotiations while Gillard PM/Rudd foreign minister; no contract/hours.",
+      "retrieved": "2026-10-02",
+      "source_id": "oct2-ama"
+    },
+    {
+      "url": "https://www.greenpeace.org.au/news/make-polluters-pay-bushfire-royal-commission-should-have-called-for-disaster-levy-on-fossil-fuel-exports/",
+      "publisher": "Greenpeace Australia Pacific",
+      "title": "Make polluters pay,30 October2020",
+      "source_type": "employer",
+      "locator": "Attributed campaigner quotation",
+      "note": "Employer identifies her as campaigner on30 October2020, corroborating2020 employment observation but not exact appointment date.",
+      "retrieved": "2026-10-02",
+      "source_id": "oct2-greenpeace"
+    },
+    {
+      "url": "https://www.crikey.com.au/2016/04/11/a-mistress-by-any-other-name/",
+      "publisher": "Crikey / reader Douglas Kirsner",
+      "title": "A mistress by any other name,11 April2016",
+      "source_type": "other",
+      "locator": "On Danby reader letter, paragraph2",
+      "note": "Reader asserts Di Natale political staff role inApril2016; this is a reader claim, not independently reported employer evidence. Used as dated lead only.",
+      "retrieved": "2026-10-02",
+      "source_id": "oct2-crikey"
     }
   ],
   "research_notes": [
     "Blocked: after first speech, official/party biographies, election profiles and targeted employer/date/FTE searches, commercial firm's identity, organic business interval, actual UN appointment and substantive hours remain unresolved.",
     "2020–2023 Greenpeace dates follow frozen official occupation record; vague secondary post-2019-election language does not justify changing start to2019.",
-    "Parents' farm/teaching careers and full-time job advertisements for her parliamentary staff are not her employment evidence. Unknown headline years remain null, not zero."
+    "Parents' farm/teaching careers and full-time job advertisements for her parliamentary staff are not her employment evidence. Unknown headline years remain null, not zero.",
+    "Follow-up2026-10-02: added self-confirmed Di Natale political work omitted from initial timeline; employer press release provides dated Greenpeace observation30 October2020; AMA narrows UN research to Gillard/Rudd and Security Council campaign context.",
+    "Searched legal-firm identity, organic business, UN mission archive and nonprofit records. ABR name-match entry does not identify organic business or establish actual work dates, so registration dates not used. Crikey2016 statement is a reader letter and not silently promoted to verified reported chronology.",
+    "Next leads: Di Natale archived office staffing/role biography; UN mission internship/adviser appointment record;2009 legal firm and later environmental-law employment identity; organic business trading name and ownership documents. No outreach or authenticated collection; dates/FTE still unknown."
   ]
 }
