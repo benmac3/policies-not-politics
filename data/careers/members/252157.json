@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/252157",
   "research_status": "blocked",
-  "last_reviewed": "2026-09-29",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -51,9 +51,10 @@
       "source_ids": [
         "src-1",
         "src-2",
-        "src-4"
+        "src-4",
+        "src-8"
       ],
-      "evidence_note": "Nonprofit research organisation; not private enterprise. Exact dates and hours unknown.",
+      "evidence_note": "Nonprofit research organisation; not private enterprise. Exact dates and hours unknown.2002 institute book acknowledges her research contribution; no extension of employment inferred from publication year.",
       "counting_note": "Excluded from the two employment headlines under the codebook."
     },
     {
@@ -176,6 +177,25 @@
       ],
       "evidence_note": "Frozen first-service date; subsequent ministerial service part of elected career.",
       "counting_note": "Excluded from the two employment headlines under the codebook."
+    },
+    {
+      "employer": "Johns Hopkins University, Institute for Policy Studies",
+      "role": "Visiting scholar, documented in June2000",
+      "start_date": "2000",
+      "end_date": "2000",
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "university",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-7"
+      ],
+      "evidence_note": "University magazine describes affiliation in2000 beyond APH fellowship1998–99. May overlap EPI; continuity, remuneration and hours unknown.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "252157-09"
     }
   ],
   "sources": [
@@ -238,6 +258,36 @@
       "source_type": "official_biography",
       "locator": "Education and working-life biography",
       "note": "Corroborates USC masters, Melbourne doctorate and union/research career; no employment hours."
+    },
+    {
+      "url": "https://pages.jh.edu/jhumag/0600web/oncampus.html",
+      "publisher": "Johns Hopkins University",
+      "title": "Johns Hopkins Magazine,June2000",
+      "source_type": "employer",
+      "locator": "Students sit-in for higher worker wages,Jess Walsh attribution",
+      "note": "Contemporary university publication calls her visiting scholar at Institute for Policy Studies and SLAC participant. Extent of paid appointment unknown; does not silently extend1998–99 fellowship.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-7"
+    },
+    {
+      "url": "https://www.epi.org/page/-/old/books/sharedcare_intro.pdf",
+      "publisher": "Economic Policy Institute",
+      "title": "Shared Work,Valued Care,2002",
+      "source_type": "employer",
+      "locator": "PDF p.3, acknowledgments",
+      "note": "Authors credit Jess Walsh with substantive research contributions. Publication year does not establish continued employment through2002.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-8"
+    },
+    {
+      "url": "https://www.openaustralia.org.au/senate/?id=2019-09-11.159.2",
+      "publisher": "Parliament of Australia / OpenAustralia transcript",
+      "title": "First speech,11September2019",
+      "source_type": "government_record",
+      "locator": "Jess Walsh5:29pm speech, universities/policy-centres paragraph",
+      "note": "First-person account describes over a decade in universities and policy centres; combines study/research and gives no complete paid-work timeline.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-9"
     }
   ],
   "research_notes": [
@@ -245,6 +295,7 @@
     "2026-09-29 initial research checked APH/frozen chronology, personal and party biographies, EPI institutional status, Johns Hopkins historical institutional material and 2007 labour-history conference contributor biography. Jess/Jessica Walsh plus EPI/JHU/year/full-time searches found many namesakes and no reliable individual hours record.",
     "The official employer is Johns Hopkins University's Institute for Policy Studies. Secondary pages that link to the unrelated Washington think tank were not accepted as employer identification. Historical union name LHMU is evidenced in the conference proceedings; later United Voice/United Workers Union naming is not an extra job.",
     "First-speech and Melbourne thesis catalogue links identified through reference listings did not return retrievable content; no unseen statements or thesis dates were used. Search snippets relating to an honorary university fellowship describe the next contributor, Fay Woodhouse, and were rejected for Walsh.",
-    "Known excluded jobs are not proof there was no countable earlier or concurrent work. Headline values remain null, not zero; no year-range sum or full-time assumption. Last follow-up 2026-09-29; retain unresolved status and advance initial national pass."
+    "Known excluded jobs are not proof there was no countable earlier or concurrent work. Headline values remain null, not zero; no year-range sum or full-time assumption. Last follow-up 2026-09-29; retain unresolved status and advance initial national pass.",
+    "2026-10-02 follow-up: contemporary Johns Hopkins magazine supplies previously unrecorded2000 visiting-scholar affiliation; preserve official1998–99 fellowship without silently extending salary or resolving EPI overlap. EPI2002 acknowledgments corroborate research participation, not ongoing appointment. First speech now retrieved through Hansard mirror; decade in universities/policy centres is not a decade of paid full-time work. Melbourne thesis catalogue link returned restricted-URL error; secondary2002 completion year not adopted without primary catalogue/thesis. Early-work,full-time and2000–02 targeted searches yielded many namesakes and no hours evidence. Next: visiting-scholar terms and dated fellowship records, doctoral title page and pre1998 employment. No totals calculated."
   ]
 }
