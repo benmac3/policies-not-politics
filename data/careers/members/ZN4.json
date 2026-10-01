@@ -6,7 +6,7 @@
   "snapshot_party": "Liberal Party of Australia",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/ZN4",
   "research_status": "blocked",
-  "last_reviewed": "2026-09-14",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -89,7 +89,7 @@
         "src-1",
         "src-2"
       ],
-      "evidence_note": "Official broad span may contain breaks or concurrent 1994 commercial broadcasting. Full-time continuity unverified.",
+      "evidence_note": "Official broad span may contain breaks or concurrent 1994 commercial broadcasting. Full-time continuity unverified. Confirmed commercial broadcasting observations inMay/June1994 make reconciliation of this broadABC span necessary; cannot count1989–1997 as uninterrupted public employment.",
       "counting_note": "Not counted: dates and/or substantive full-time status are insufficiently evidenced; year labels are not exact boundaries."
     },
     {
@@ -106,9 +106,10 @@
       "government_control_at_time": "private",
       "counting_status": "insufficient_evidence",
       "source_ids": [
-        "src-3"
+        "src-3",
+        "oct2-tvweek"
       ],
-      "evidence_note": "Alumni source reports role omitted from broad official ABC chronology; contract and production employer unverified.",
+      "evidence_note": "Alumni source reports role omitted from broad official ABC chronology; contract and production employer unverified. Historical TV Week review records new hosting role announcement in15–21 January1994 issue; announcement date is not exact employment commencement.",
       "counting_note": "Not counted: dates and/or substantive full-time status are insufficiently evidenced; year labels are not exact boundaries."
     },
     {
@@ -125,9 +126,11 @@
       "government_control_at_time": "private",
       "counting_status": "insufficient_evidence",
       "source_ids": [
-        "src-3"
+        "src-3",
+        "oct2-pm",
+        "oct2-3aw"
       ],
-      "evidence_note": "Alumni source reports role; hours and boundaries unavailable, potential ABC overlap.",
+      "evidence_note": "Alumni source reports role; hours and boundaries unavailable, potential ABC overlap. Primary government transcript independently identifies3AW interview work27 May1994; broadcaster archive confirms afternoon program interview22 June1994. These observations materially corroborate the previously alumni-only role, but are not job boundaries or hours.",
       "counting_note": "Not counted: dates and/or substantive full-time status are insufficiently evidenced; year labels are not exact boundaries."
     },
     {
@@ -381,12 +384,45 @@
       "source_type": "employer",
       "locator": "Career/biography or relevant appointment section",
       "note": "Indigenous channel history; later SBS structure must not be backdated to 2008–09."
+    },
+    {
+      "url": "https://pmtranscripts.pmc.gov.au/release/transcript-9242",
+      "publisher": "Department of the Prime Minister and Cabinet",
+      "title": "Keating interview with Sarah Henderson,3AW,27 May1994",
+      "source_type": "government_record",
+      "locator": "Transcript9242 heading and interviewer initials",
+      "note": "Dated primary evidence of3AW work; not contract appointment/cessation.",
+      "retrieved": "2026-10-02",
+      "source_id": "oct2-pm"
+    },
+    {
+      "url": "https://omny.fm/shows/simon-owens-radio-archive/doug-mulray-with-sarah-henderson-22-june-1994",
+      "publisher": "3AW / Simon Owens Radio Archive",
+      "title": "Doug Mulray with Sarah Henderson,22 June1994",
+      "source_type": "employer",
+      "locator": "Archive episode title and description",
+      "note": "Broadcaster archive identifies Henderson afternoon program and dated interview, corroborating1994 role independently of alumni biography.",
+      "retrieved": "2026-10-02",
+      "source_id": "oct2-3aw"
+    },
+    {
+      "url": "https://televisionau.com/2014/01/1994-january-15-21.html",
+      "publisher": "Television.AU / TV Week historical review",
+      "title": "1994: January15–21",
+      "source_type": "news",
+      "locator": "Australia’s Most Wanted casting paragraph",
+      "note": "Retrospective review of contemporaneous TV Week announcement identifies new hosting role by January1994. Exact commencement and production employer absent.",
+      "retrieved": "2026-10-02",
+      "source_id": "oct2-tvweek"
     }
   ],
   "research_notes": [
     "Blocked after official roster, personal and alumni biographies, historical NITV sources and targeted full-time searches. Need individual hours/contracts, dates within reported years, 1994 ABC overlap resolution and inter-parliamentary work coverage.",
     "Official two legal-employment spells supersede alumni biography's broad articles 1998–2002 description. Alumni page also misdates a Port Arthur award and calls Corangamite a state seat; those claims are not adopted.",
     "NITV government funding and later SBS ownership do not prove government control during Henderson's 2008–09 tenure. Recover contemporary constitution/control evidence if reassessing the nonprofit exclusion.",
-    "No job title or long career span establishes full-time status. Year-only labels remain intact; headlines unknown, not zero."
+    "No job title or long career span establishes full-time status. Year-only labels remain intact; headlines unknown, not zero.",
+    "Follow-up2026-10-02: replaced sole reliance on error-prone alumni chronology for3AW with dated government transcript27 May1994 and broadcaster archive22 June1994; January1994 Australia’s Most Wanted announcement is an additional chronology anchor.",
+    "Targeted historical media appointment, Clifton, NITV, Kudos and full-time searches did not supply exact contracts or individual hours. Unrelated overseas health/PR/academic namesakes and staff recruitment advertisements excluded. Women Australia entry open returned URL not accessible via this tool; other independent sources used.",
+    "Next leads: ABC staff/annual records distinguishing pre1994 and1995 return spells; Seven production contract; archived3AW appointment notices; legal-firm/NewsCorp and consultancy employer biographies; pre-SBS NITV constitution. Do not turn broadcast observations or programme schedules into full-time duration."
   ]
 }
