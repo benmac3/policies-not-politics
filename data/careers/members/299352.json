@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/299352",
   "research_status": "blocked",
-  "last_reviewed": "2026-09-29",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -78,10 +78,10 @@
     {
       "spell_id": "299352-04",
       "employer": "La Trobe University, Bouverie Centre",
-      "role": "Family-therapy student",
+      "role": "Graduate Certificate in Family Therapy for First Nations Workers student",
       "start_date": null,
-      "end_date": null,
-      "date_precision": "unknown",
+      "end_date": "2010",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "study",
@@ -92,13 +92,13 @@
         "src-2",
         "src-7"
       ],
-      "evidence_note": "Graduate certificate undertaken while at VACCA; exact boundaries not supplied.",
+      "evidence_note": "University alumni profile specifies2010 graduation. First speech says certificate undertaken while at VACCA, whose APH interval ends2009; graduation may follow coursework, so do not extend VACCA employment.",
       "counting_note": "Excluded from the two employment headlines under the codebook."
     },
     {
       "spell_id": "299352-05",
-      "employer": "Victorian public service, department unverified",
-      "role": "Aboriginal facilitator",
+      "employer": "Department of Premier and Cabinet, Victoria",
+      "role": "Aboriginal/project facilitator, Right People for Country",
       "start_date": "2013",
       "end_date": "2018",
       "date_precision": "year",
@@ -110,9 +110,11 @@
       "counting_status": "insufficient_evidence",
       "source_ids": [
         "src-1",
-        "src-2"
+        "src-2",
+        "src-8",
+        "src-9"
       ],
-      "evidence_note": "Traditional-owner boundary facilitation supported by first speech. DPC Right People for Country is an unverified employer lead.",
+      "evidence_note": "Departmental2020–21 biography independently confirms DPC employer and traditional-owner boundary/dispute facilitation; public professional profile names programme. APH2013–2018 interval retained; no exact appointment, hours or leave evidence.",
       "counting_note": "Dates, employer control and/or substantive full-time status remain insufficient for a duration calculation; unknown is not zero."
     },
     {
@@ -152,9 +154,10 @@
         "src-1",
         "src-2",
         "src-3",
-        "src-4"
+        "src-4",
+        "src-8"
       ],
-      "evidence_note": "Department and senior titles corroborated; promotion/acting intervals not derivable from forum membership period.",
+      "evidence_note": "Department and senior titles corroborated; promotion/acting intervals not derivable from forum membership period. Contemporary departmental report places her as acting deputy secretary and records executive director appointment at group inception. Report year is not a personal tenure interval.",
       "counting_note": "Dates, employer control and/or substantive full-time status remain insufficient for a duration calculation; unknown is not zero."
     },
     {
@@ -175,6 +178,44 @@
       ],
       "evidence_note": "Casual-vacancy entry replacing Kimberley Kitching; date from frozen roster. Elected-chamber service excluded.",
       "counting_note": "Excluded from the two employment headlines under the codebook."
+    },
+    {
+      "employer": "La Trobe University, Bouverie Centre",
+      "role": "Master of Clinical Family Therapy student",
+      "start_date": null,
+      "end_date": "2013",
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-7"
+      ],
+      "evidence_note": "University alumni profile gives2013 graduation; enrolment dates and overlap with clinical employment unestablished.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "299352-09"
+    },
+    {
+      "employer": "Institution unidentified; may overlap Bouverie trainer appointment",
+      "role": "Lecturer",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "university",
+      "headline_sector": "unknown",
+      "government_control_at_time": "unknown",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-10"
+      ],
+      "evidence_note": "First-person2019 candidate account lists lecturing. It may describe Bouverie training, not a distinct job; no separate duration or payroll assumed.",
+      "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
+      "spell_id": "299352-10"
     }
   ],
   "sources": [
@@ -243,16 +284,47 @@
       "url": "https://www.latrobe.edu.au/news/announcements/2023/la-trobe-celebrates-newest-distinguished-alumni3",
       "publisher": "La Trobe University",
       "title": "Distinguished Alumni 2023",
-      "retrieved": "2026-09-29",
+      "retrieved": "2026-10-02",
       "source_type": "employer",
-      "locator": "Jana Stewart award",
-      "note": "Corroborates university/alumni connection."
+      "locator": "Jana Stewart profile, graduation sentence",
+      "note": "Explicit graduate certificate2010 and Master of Clinical Family Therapy2013 graduation years."
+    },
+    {
+      "url": "https://files.justice.vic.gov.au/2021-10/DJCS-Annual-Report-20-21_Report-of-Operations.pdf?VersionId=4HOO9bDFtWOO3SYI4RPiKYVNP6Aj9eLE",
+      "publisher": "Victorian Department of Justice and Community Safety",
+      "title": "Annual Report2020–21,Report of Operations",
+      "source_type": "employer",
+      "locator": "Printed p.8 / PDF p.7, Jana Stewart biography",
+      "note": "Names DPC facilitator work, subsequent ministerial advice and executive director at Aboriginal Justice group inception, then acting deputy secretary. Does not specify individual acting dates or FTE.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-8"
+    },
+    {
+      "url": "https://au.linkedin.com/in/jana-stewart-ba986389",
+      "publisher": "Jana Stewart",
+      "title": "Public professional profile",
+      "source_type": "professional_profile",
+      "locator": "Public search-index title",
+      "note": "Identifies Project Facilitator,Right People for Country,DPC. Employer independently corroborated by departmental annual report; no gated content accessed.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-9"
+    },
+    {
+      "url": "https://indigenousx.com.au/jana-stewart-labor-candidate-for-kooyong/",
+      "publisher": "Jana Stewart / IndigenousX",
+      "title": "Labor candidate for Kooyong,12May2019",
+      "source_type": "other",
+      "locator": "First-person work-history paragraphs",
+      "note": "States employment since18 and lists lecturer among roles. Neither age nor general employment language proves dates or uninterrupted full-time service.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-10"
     }
   ],
   "research_notes": [
     "Follow-up: identify early retail employer and dates, verify DPC facilitation appointment, ministerial office boundaries, DJCS executive/acting terms, hours and leave. Resolve 2021–2022 work and Bouverie clinical/study overlap; establish VACCA historical governance and university treatment.",
     "2026-09-29 review: APH, first speech, La Trobe employer/alumni source, VACCA organisational sources, official traditional-owner review and IPAA senior-role list. Broader adviser/department queries resolved department and titles but not individual appointment dates/FTE.",
     "DPC Right People for Country appeared only in a contact-aggregator result and is retained as a lead, not adopted as verified payroll identity. Ministerial staff cannot be merged into departmental public service merely because dates are adjacent.",
-    "No day boundaries, FTE or zero totals invented. EPOF 2019–2021 is a collective forum period, not proof of her whole tenure. Last follow-up 2026-09-29; unresolved initial record."
+    "No day boundaries, FTE or zero totals invented. EPOF 2019–2021 is a collective forum period, not proof of her whole tenure. Last follow-up 2026-09-29; unresolved initial record.",
+    "2026-10-02 follow-up: employer annual report resolves DPC identity previously supported only by aggregator, corroborates ministerial sequence and DJCS senior roles. Public profile supplies Right People for Country title. University source dates certificate2010/master2013; study/employment overlap retained. First-person2019 account adds lecturing, potentially same Bouverie work, and employment since18 without proving uninterrupted service. Targeted programme/annual-report/hour searches did not establish exact acting period, FTE, retail employer or2021–22 work. Next: DPC appointment/leave and programme reports, DJCS acting instruments, Bouverie payroll/study dates and historical governance. No years calculated."
   ]
 }
