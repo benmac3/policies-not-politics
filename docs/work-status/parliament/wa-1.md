@@ -8,10 +8,12 @@ State: in-progress
 
 ## Durable cursor
 
-- Next initial record: 300130 LIM, Sam.
-- Initial records in this batch: 13/14; all remain unresolved pending follow-up.
+- Next initial record: none; advance to next batch.
+- Initial records in this batch: 14/14; all remain unresolved pending follow-up.
 
 ## Saved records and follow-up
+
+- 300130 LIM, Sam: blocked; last review 2026-10-01. Follow-up: Resolve early police/dolphin conflict, park employer/control, individual Malaysian/cafe businesses and2002/2005 migration; security employer; WA Police individual hours/leave and academy terms.
 
 - 299150 LAWRENCE, Tania: blocked; last review 2026-10-01. Follow-up: Graduate/DPC start and title transitions; Woodside hours/2018 leave;2019–20 gap; Beelu full-time claim and active-work versus director cessation beforeAug2024; motorcycling annual reports.
 
@@ -41,7 +43,7 @@ Detailed attempted avenues, discrepancies and remaining leads are preserved in e
 
 ## National coverage
 
-163/226 initial records; 63 unstarted; 163 unresolved; 0 research-complete. Counts use branch-owned remote records plus this commit, not the deployed site.
+164/226 initial records; 62 unstarted; 164 unresolved; 0 research-complete. Counts use branch-owned remote records plus this commit, not the deployed site.
 
 ## Attempt measurement — 2026-10-01 08:00 Brisbane cycle
 
@@ -64,12 +66,13 @@ Detailed attempted avenues, discrepancies and remaining leads are preserved in e
 
 
 
+
 ## Active attempt — 2026-10-01 12:00 Brisbane cycle
 
-- Continuation: 0. Started: 2026-10-01T12:03:48+10:00; last checkpoint: 2026-10-01T12:25:54+10:00.
+- Continuation: 0. Started: 2026-10-01T12:03:48+10:00; last checkpoint: 2026-10-01T12:27:19+10:00.
 - Starting WA-1 head: 79b1d5c96ee3dde69dd2f5453e96a2aa434baae2; national baseline 153/226, all unresolved, 0 complete. Branch-owned remote audit: NSW 58, VIC 50, QLD 42, WA 3; no integrated member files on main or parliament-experience.
 - Active writer: this 12:00 invocation; state: processing. Predecessor successor execution unverified: no subsequent member commits found at start. No active conflicting writer observed.
-- Progress: 10 new initial members, 0 enriched existing, 0 newly complete; cycle totals same; Brisbane-day totals 17 new, 0 enriched, 0 newly complete. Count after remote verification only.
+- Progress: 11 new initial members, 0 enriched existing, 0 newly complete; cycle totals same; Brisbane-day totals 18 new, 0 enriched, 0 newly complete. Count after remote verification only.
 - Outcome: ongoing. STOPPING REASON: none; continuing to next member after remote verification. Scheduler terminal status not exposed. Successor not requested while research remains active.
 - Validation: record schema/enums/source references/date syntax, build_careers.load_records(), batch coverage and repository validation. Only assigned member and checkpoint changed.
 - Recovered source errors: APH open (403) Forbidden; obsolete biography URL inaccessible; Anglicare PDF open (400) Content length is too large: 15893687. Alternative first-party and indexed evidence used.
