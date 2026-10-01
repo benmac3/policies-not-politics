@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/HWQ",
   "research_status": "blocked",
-  "last_reviewed": "2026-09-29",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -217,6 +217,28 @@
       ],
       "evidence_note": "Elected service, parliamentary secretary and ministerial appointments excluded.",
       "counting_note": "Excluded from the two employment headlines under the codebook."
+    },
+    {
+      "employer": "Sky News Australia / Sky News Live (programme host organisation)",
+      "role": "Co-presenter, Pyne & Marles (unpaid)",
+      "start_date": "2016-02-06",
+      "end_date": "2019-03-29",
+      "date_precision": "day",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unpaid_work",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-8",
+        "src-9",
+        "src-10",
+        "src-11"
+      ],
+      "evidence_note": "Weekly television co-hosting alongside elected service. Contemporary launch report says presenters would not be paid; primary participant transcripts establish actual appearances and final programme on 29 March 2019. Start is advertised premiere, corroborated by 13 February participant transcript. These are programme dates, not a continuous salaried job or evidence of every-week attendance. No FTE inferred.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "HWQ-11"
     }
   ],
   "sources": [
@@ -289,6 +311,46 @@
       "source_type": "news",
       "locator": "Richard Marles candidate biography",
       "note": "Corroborates employer, Ok Tedi legal work and ACTU February 2000; NOHSC 2002 claim conflicts with primary 20 March 2003 appointment and is not adopted."
+    },
+    {
+      "url": "https://pyneonline.com.au/media-centre/transcripts/pyne-and-marles-12-02-2016",
+      "publisher": "Christopher Pyne MP",
+      "title": "Pyne and Marles transcript, 13 February 2016",
+      "source_type": "other",
+      "locator": "Heading and opening presenters exchange",
+      "note": "Primary participant transcript confirms co-presenting on Sky News Live. Page date/transcript says 13 February despite URL 12-02.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-8"
+    },
+    {
+      "url": "https://www.thenewdaily.com.au/news/2016/01/28/christopher-pyne-host-tv-show",
+      "publisher": "The New Daily",
+      "title": "Christopher Pyne to host his own TV show, 28 January 2016",
+      "source_type": "news",
+      "locator": "Paragraph following Saturday broadcast time",
+      "note": "Contemporaneous report explicitly says both presenters would not be paid.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-9"
+    },
+    {
+      "url": "https://www.mediaweek.com.au/david-speers-to-host-speers-tonight-on-sky-news/",
+      "publisher": "Mediaweek",
+      "title": "David Speers to host Speers Tonight on Sky News",
+      "source_type": "news",
+      "locator": "Saturday programming paragraph",
+      "note": "Contemporary network lineup announcement dates Pyne & Marles premiere 6 February 2016.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-10"
+    },
+    {
+      "url": "https://richardmarles.com.au/wp-content/uploads/files/19.03.29-SKY-NEWS-PYNE-MARLES-TRANSCRIPT-.pdf",
+      "publisher": "Richard Marles MP",
+      "title": "Sky News Live: Pyne and Marles, 29 March 2019",
+      "source_type": "other",
+      "locator": "PDF pp1–2, heading and opening exchange",
+      "note": "Primary transcript explicitly identifies last episode; does not create paid employment.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-11"
     }
   ],
   "research_notes": [
@@ -296,6 +358,7 @@
     "2026-09-29: examined APH biography, first speech, ACTU contemporary material, Slater and Gordon history, NOHSC 2002–03 and 2005–06 annual reports, and ABC election profile. Historical annual report adds primary employer and governance evidence omitted from APH, but introduces an unresolved legal-work start conflict.",
     "2026-09-29: searched employer-site Marles references, full-time terms, student history, additional directorships and ACTU departure. No adequately supported private-law full-time interval or exact exit found. Full-time references about military recruitment are unrelated to his own career and were rejected.",
     "Do not turn legal degrees, union casework or ministerial responsibility into additional private legal or public-service years. Student and government committee roles are chronology entries only unless substantive employment is independently evidenced.",
-    "The record preserves both solicitor start claims in the spell note. No January dates invented for year-only sources; no numerical duration calculated from either conflicting span. Missing public employment evidence is not a confirmed zero."
+    "The record preserves both solicitor start claims in the spell note. No January dates invented for year-only sources; no numerical duration calculated from either conflicting span. Missing public employment evidence is not a confirmed zero.",
+    "2026-10-02 follow-up: added previously omitted unpaid Sky News co-presenting 2016–2019, with primary participant transcripts and contemporary no-payment report. It overlaps Parliament and contributes no headline employment duration. Targeted Slater and Gordon admission/articles/1990–1993, ACTU resignation/campaign leave and ASCC 2006–2008 searches did not resolve the earlier start conflict, private-law hours or later exact exits. Jeff Lawrence succession material concerns replacing Greg Combet, not Marles, and was not applied. Retain those unresolved avenues for future employer/personnel or council membership records; no full-time total newly calculable."
   ]
 }
