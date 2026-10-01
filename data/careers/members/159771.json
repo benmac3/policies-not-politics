@@ -6,12 +6,12 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/159771",
   "research_status": "blocked",
-  "last_reviewed": "2026-09-29",
+  "last_reviewed": "2026-10-01",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
     "calculation_status": "not_calculable",
-    "note": "Official sources establish supermarket, NRMA and Gilbert + Tobin employment, political staff work and several overlapping public or nonprofit governance appointments. They do not provide exact employment dates, substantive hours, leave or breaks. Study, political staff, governance appointments and elected office are excluded, and no private full-time years are inferred from year-only ranges or the senior-lawyer title."
+    "note": "Official sources establish supermarket, NRMA and Gilbert + Tobin employment, political staff work and several overlapping public or nonprofit governance appointments. They do not provide exact employment dates, substantive hours, leave or breaks. Study, political staff, governance appointments and elected office are excluded, and no private full-time years are inferred from year-only ranges or the senior-lawyer title. Follow-up adds exact Parklands retirement, Premier’s Council for Women and party-office records, and removes unsupported law-firm election-day cessation. Governance and party activity remain excluded from employment totals."
   },
   "career_spells": [
     {
@@ -27,7 +27,11 @@
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-snapshot", "src-aph-current", "src-member"],
+      "source_ids": [
+        "src-snapshot",
+        "src-aph-current",
+        "src-member"
+      ],
       "evidence_note": "Parliament records all three University of Sydney qualifications, and Rowland says she was studying law there in 1990. Degree commencement and completion dates, study loads and overlap with paid work remain unresolved.",
       "counting_note": "Study is excluded under the codebook."
     },
@@ -44,7 +48,12 @@
       "headline_sector": "private",
       "government_control_at_time": "private",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-snapshot", "src-aph-current", "src-member", "src-interview"],
+      "source_ids": [
+        "src-snapshot",
+        "src-aph-current",
+        "src-member",
+        "src-interview"
+      ],
       "evidence_note": "The official occupation record gives 1987–1995. Rowland identifies a supermarket in Blacktown and says she worked as a checkout operator for eight years, including while studying. The supermarket, exact dates, hours, leave and study overlap are not published.",
       "counting_note": "The work is private-sector employment, but the unidentified employer, year-only dates and missing hours prevent a full-time duration calculation."
     },
@@ -61,7 +70,11 @@
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-snapshot", "src-aph-current", "src-eo-speech"],
+      "source_ids": [
+        "src-snapshot",
+        "src-aph-current",
+        "src-eo-speech"
+      ],
       "evidence_note": "Parliament records electorate-officer work from 1995 to 1999, and Rowland later described it as one of her first and most important roles. The officeholder, jurisdiction, appointment dates, payroll title, hours and leave are unresolved.",
       "counting_note": "Political-staff employment is excluded under the codebook."
     },
@@ -78,7 +91,11 @@
       "headline_sector": "private",
       "government_control_at_time": "private",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-snapshot", "src-aph-current", "src-ag-bio"],
+      "source_ids": [
+        "src-snapshot",
+        "src-aph-current",
+        "src-ag-bio"
+      ],
       "evidence_note": "The official parliamentary and ministerial biographies identify NRMA Ltd and the 1999–2000 range. Exact dates, business unit, hours, leave and overlap with electorate-office work or legal admission are not published.",
       "counting_note": "The private employer is identified, but year-only dates and missing full-time evidence prevent an exact duration calculation."
     },
@@ -87,16 +104,23 @@
       "employer": "Gilbert + Tobin",
       "role": "Senior lawyer specialising in competition and regulation in telecommunications, media and technology",
       "start_date": "2000",
-      "end_date": "2010-08-21",
-      "date_precision": "mixed",
+      "end_date": "2010",
+      "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "private_enterprise",
       "headline_sector": "private",
       "government_control_at_time": "private",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-snapshot", "src-aph-current", "src-member", "src-gt", "src-law-society"],
-      "evidence_note": "Official biographies record senior-lawyer employment from 2000 to 2010, and member and professional sources identify the competition and communications practice. The House election date is only an upper boundary and does not prove employment continued until 21 August 2010. Exact appointment, promotion and cessation dates, substantive hours, leave and campaign overlap are unresolved.",
+      "source_ids": [
+        "src-snapshot",
+        "src-aph-current",
+        "src-member",
+        "src-gt",
+        "src-law-society",
+        "src-fto-ar"
+      ],
+      "evidence_note": "Official chronology supports 2000–2010. The FTO 2008–09 report contemporaneously identifies corporate regulatory and commercial communications practice at Gilbert + Tobin alongside governance appointments. Removed election day as unsupported employment cessation. Exact appointment, promotion and cessation dates, ordinary hours, leave and campaign overlap remain unresolved.",
       "counting_note": "Private employment is well supported, but a senior title and year-only range do not prove full-time status or an exact interval."
     },
     {
@@ -112,7 +136,12 @@
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-snapshot", "src-aph-current", "src-ag-bio", "src-acma"],
+      "source_ids": [
+        "src-snapshot",
+        "src-aph-current",
+        "src-ag-bio",
+        "src-acma"
+      ],
       "evidence_note": "Official sources record the state health-service directorship from 2000 to 2004, overlapping Gilbert + Tobin. Appointment days, remuneration, workload and attendance are unresolved.",
       "counting_note": "This governance appointment is visible but excluded from full-time employment totals; a director title does not establish substantive full-time work."
     },
@@ -129,7 +158,11 @@
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-aph-current", "src-ag-bio", "src-member-about"],
+      "source_ids": [
+        "src-aph-current",
+        "src-ag-bio",
+        "src-member-about"
+      ],
       "evidence_note": "Parliament and the Attorney-General's biography record councillor service from 2004 to 2008 and deputy-mayoral service from 2007 to 2008. Exact election and cessation days, allowances, workload and overlap with legal work are not established in the cited sources.",
       "counting_note": "Local elected office is excluded under the codebook."
     },
@@ -138,16 +171,23 @@
       "employer": "Western Sydney Parklands Trust",
       "role": "Non-executive director",
       "start_date": "2007",
-      "end_date": "2010",
-      "date_precision": "year",
+      "end_date": "2010-07-07",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "public_service",
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-snapshot", "src-aph-current", "src-ag-bio", "src-acma"],
-      "evidence_note": "Official biographies record a non-executive directorship from 2007 to 2010, overlapping legal practice and council service. Exact appointment dates, remuneration, meeting workload and cessation are unresolved.",
+      "source_ids": [
+        "src-snapshot",
+        "src-aph-current",
+        "src-ag-bio",
+        "src-acma",
+        "src-communities-ar",
+        "src-fto-ar"
+      ],
+      "evidence_note": "Official biographies give 2007 commencement year. The Trust’s 2009–10 financial statements identify retirement on 7 July 2010. FTO contemporaneous biography corroborates the overlapping non-executive appointment and legal practice. Remuneration bands are pooled across members and cannot establish her precise payment or workload; appointment day remains unresolved.",
       "counting_note": "The non-executive public governance role is excluded from full-time employment totals."
     },
     {
@@ -163,13 +203,18 @@
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-snapshot", "src-aph-current", "src-ag-bio"],
-      "evidence_note": "Official biographies record the school directorship from 2008 to 2010. Exact appointment dates, legal entity, pay, workload and cessation are unresolved, and the role overlaps legal practice and other governance work.",
+      "source_ids": [
+        "src-snapshot",
+        "src-aph-current",
+        "src-ag-bio",
+        "src-fto-ar"
+      ],
+      "evidence_note": "Official biographies record the school directorship from 2008 to 2010. Exact appointment dates, legal entity, pay, workload and cessation are unresolved, and the role overlaps legal practice and other governance work. The contemporaneous FTO chair biography corroborates this school governance role during legal practice.",
       "counting_note": "Nonprofit governance is excluded; the director title does not establish substantive paid full-time employment."
     },
     {
       "spell_id": "159771-screen-nsw",
-      "employer": "Screen NSW",
+      "employer": "NSW Film and Television Office, trading as Screen NSW",
       "role": "Chair",
       "start_date": "2009",
       "end_date": "2010",
@@ -180,8 +225,16 @@
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-snapshot", "src-aph-current", "src-ag-bio", "src-screen", "src-member-about"],
-      "evidence_note": "Official sources record the chair appointment from 2009 to 2010. Screen NSW identifies itself as the NSW Government screen agency. Exact appointment dates, remuneration, workload and cessation are unresolved.",
+      "source_ids": [
+        "src-snapshot",
+        "src-aph-current",
+        "src-ag-bio",
+        "src-screen",
+        "src-member-about",
+        "src-fto-ar",
+        "src-screen-ar"
+      ],
+      "evidence_note": "Official sources record the chair appointment from 2009 to 2010. Screen NSW identifies itself as the NSW Government screen agency. Exact appointment dates, remuneration, workload and cessation are unresolved. Agency annual reports corroborate her appointment following the previous chair’s December 2008 retirement and continuing chairmanship at 30 June 2010. Scheduled term expiry 31 December 2011 is not an actual cessation date; retain the official 2010 end year. Agency office opening hours are not her employment hours.",
       "counting_note": "Public-sector governance is excluded from full-time employment totals absent evidence of a substantive employment appointment."
     },
     {
@@ -197,9 +250,89 @@
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-snapshot", "src-aph-current", "src-ag-bio"],
+      "source_ids": [
+        "src-snapshot",
+        "src-aph-current",
+        "src-ag-bio"
+      ],
       "evidence_note": "The frozen roster and current official biographies establish continuous House service from the 21 August 2010 election.",
       "counting_note": "Federal elected office is excluded under the codebook."
+    },
+    {
+      "employer": "NSW Premier’s Council for Women",
+      "role": "Council member",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "public_service",
+      "headline_sector": "excluded",
+      "government_control_at_time": "public",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-fto-ar"
+      ],
+      "evidence_note": "FTO 2008–09 annual report identifies Rowland as a member of the Premier’s Council for Women. Precise appointment and cessation, remuneration, attendance and time commitment are not supplied; concurrent with legal practice and other governance roles.",
+      "counting_note": "Public advisory/governance appointment is not evidence of substantive full-time employment.",
+      "spell_id": "159771-premiers-council-women"
+    },
+    {
+      "employer": "Australian Labor Party",
+      "role": "Secretary; senior vice-president, Young Labor NSW",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "party_organisation",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-aph-current"
+      ],
+      "evidence_note": "Official parliamentary biography identifies these party offices without dates, remuneration or hours. They are separate from electorate-office employment; no paid organising appointment or full-time status inferred.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "159771-young-labor"
+    },
+    {
+      "employer": "Australian Labor Party",
+      "role": "Secretary, ALP Lalor Park and Districts Branch",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "party_organisation",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-aph-current"
+      ],
+      "evidence_note": "Official parliamentary biography identifies these party offices without dates, remuneration or hours. They are separate from electorate-office employment; no paid organising appointment or full-time status inferred.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "159771-branch-party"
+    },
+    {
+      "employer": "Australian Labor Party",
+      "role": "ALP national women’s network executive; NSW administrative committee and women’s forum; conference and electorate-council delegate",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "party_organisation",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-aph-current"
+      ],
+      "evidence_note": "Official parliamentary biography identifies these party offices without dates, remuneration or hours. They are separate from electorate-office employment; no paid organising appointment or full-time status inferred.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "159771-party-committees"
     }
   ],
   "sources": [
@@ -312,12 +445,46 @@
       "source_type": "government_record",
       "locator": "Michelle Rowland biography",
       "note": "Government regulator biography corroborating specialised legal practice and public governance roles."
+    },
+    {
+      "url": "https://www.sport.nsw.gov.au/sites/default/files/2021-06/annual_report_2009_2010_1.pdf",
+      "publisher": "Communities NSW",
+      "title": "Annual Report 2009–10",
+      "source_type": "government_record",
+      "locator": "Western Sydney Parklands Trust financial statements, printed p396 / PDF index397, note13(a)-(b)",
+      "note": "Lists Rowland as retiring 7 July 2010. Remuneration is disclosed in grouped bands, not an individually attributable amount or full-time workload.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-communities-ar"
+    },
+    {
+      "url": "https://www.parliament.nsw.gov.au/tp/files/67087/FTO_AR09_Lo.pdf",
+      "publisher": "NSW Film and Television Office / NSW Parliament",
+      "title": "Annual Report 2008–09",
+      "source_type": "government_record",
+      "locator": "Members of the Board, printed p12 / PDF index15; chair biography and opening message",
+      "note": "Confirms concurrent Gilbert + Tobin practice, Parklands Trust, Premier’s Council for Women and OLMC governance. Chair term scheduled through 31 December 2011 is not actual service to that date.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-fto-ar"
+    },
+    {
+      "url": "https://www.parliament.nsw.gov.au/tp/files/63886/SNSW_AR2010_FINAL_s-s_Small.pdf",
+      "publisher": "Screen NSW / NSW Parliament",
+      "title": "Annual Report 2009–10",
+      "source_type": "government_record",
+      "locator": "Members of the Board as at 30 June 2010, printed p8 / PDF index9; agency charter",
+      "note": "Confirms chair at 30 June 2010 and historical legal entity NSW Film and Television Office trading as Screen NSW. Agency business hours do not establish chair working hours.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-screen-ar"
     }
   ],
   "research_notes": [
     "Identify the Blacktown supermarket and obtain exact appointment/cessation dates, hours and leave; resolve how checkout work overlapped University of Sydney study.",
     "Identify the employing parliamentarian and jurisdiction for the 1995–1999 electorate-officer role and obtain appointment dates, payroll title, hours and leave.",
     "Obtain NRMA and Gilbert + Tobin employment records with exact dates, substantive hours, leave, promotions and 2010 campaign overlap; do not infer full-time status from the senior-lawyer title or ten-year narrative.",
-    "Obtain appointment instruments, remuneration and workloads for the Western Sydney Area Health Service, Western Sydney Parklands Trust, Our Lady of Mercy College and Screen NSW governance roles, plus exact Blacktown council dates. Missing evidence is not zero, and overlapping directorships must not be summed as full-time years."
+    "Obtain appointment instruments, remuneration and workloads for the Western Sydney Area Health Service, Western Sydney Parklands Trust, Our Lady of Mercy College and Screen NSW governance roles, plus exact Blacktown council dates. Missing evidence is not zero, and overlapping directorships must not be summed as full-time years.",
+    "2026-10-01 follow-up: Parklands Trust retirement resolved to 7 July 2010 from annual financial statements; newly documented Premier’s Council for Women and separate party offices; contemporaneous legal/governance overlap and historical Screen NSW entity clarified. Gilbert + Tobin end restored to supported 2010 year precision.",
+    "Searched employer/alumni references, supermarket names, electorate-officer identity, ordinary full-time hours, historical FTO/Screen NSW/Communities annual reports and public profiles. No reliable supermarket name, employing parliamentarian, NRMA business unit, private-employment hours or leave found. Namesake profiles and other workers’ hours excluded.",
+    "Next leads: NSW appointment gazettes and Premier’s Council membership reports, legal practice personnel records and contemporaneous electorate-office staff lists. Chair scheduled term through 2011 conflicts only if mistaken for actual tenure; do not extend service. Pooled director remuneration is not an individual salary.",
+    "Source access: NSW Parliament PDFs exposed indexed primary text but later page/screenshot retrieval returned HTTP500 redirect errors; government-data mirror timed out. Communities NSW financial statements remained readable and retirement entry was recovered. No term start back-calculated from nominal three-year appointment."
   ]
 }
