@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/248181",
   "research_status": "blocked",
-  "last_reviewed": "2026-09-19",
+  "last_reviewed": "2026-10-01",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -27,7 +27,9 @@
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-secondary"],
+      "source_ids": [
+        "src-secondary"
+      ],
       "evidence_note": "A secondary biographical account says Claydon enrolled in arts and law after school and left after two years. Calendar dates, load and concurrent work are unresolved.",
       "counting_note": "Study is excluded under the codebook."
     },
@@ -44,7 +46,9 @@
       "headline_sector": "private",
       "government_control_at_time": "private",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-secondary"],
+      "source_ids": [
+        "src-secondary"
+      ],
       "evidence_note": "A published secondary biographical account identifies recruitment as a gardener at Helen Springs Station in the Northern Territory, followed by jillaroo and camp-cook duties over a period described only as a few years. Legal employer, dates, hours and breaks are unresolved.",
       "counting_note": "The station work appears private, but no exact substantive full-time interval is established."
     },
@@ -61,8 +65,13 @@
       "headline_sector": "unknown",
       "government_control_at_time": "unknown",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-snapshot", "src-personal", "src-secondary"],
-      "evidence_note": "The frozen occupation extract lists disability support work. Claydon's current biography places work in the community-based disability-services sector before Parliament, and a secondary account locates a provider on the NSW South Coast. Employer, legal control, dates, hours and transition back to study are unresolved.",
+      "source_ids": [
+        "src-snapshot",
+        "src-personal",
+        "src-secondary",
+        "src-first-speech"
+      ],
+      "evidence_note": "The frozen occupation extract lists disability support work. Claydon's current biography places work in the community-based disability-services sector before Parliament, and a secondary account locates a provider on the NSW South Coast. Employer, legal control, dates, hours and transition back to study are unresolved. First speech confirms helping create residential group homes, independent-living programmes and organisational policy. It does not name the service or establish whether all these duties belong to the South Coast provider.",
       "counting_note": "Neither employer control nor an exact substantive full-time interval is established."
     },
     {
@@ -78,7 +87,10 @@
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-personal", "src-secondary"],
+      "source_ids": [
+        "src-personal",
+        "src-secondary"
+      ],
       "evidence_note": "Claydon's current biography confirms an honours degree in anthropology. A secondary account says she returned to university for the honours degree and later began a PhD on political representation in the Bunuba community. Institution for the PhD, dates, completion status, load and overlaps are unresolved.",
       "counting_note": "Study is excluded under the codebook."
     },
@@ -95,8 +107,16 @@
       "headline_sector": "unknown",
       "government_control_at_time": "unknown",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-snapshot", "src-personal", "src-secondary"],
-      "evidence_note": "The frozen extract calls Claydon a social anthropologist. Her current biography says she worked in remote Aboriginal communities; a secondary account describes the period as the best part of a decade and connects it to Fitzroy Crossing. Employers, paid status, locations, dates, hours and organisational control are unresolved, so the relative duration is not converted into dates.",
+      "source_ids": [
+        "src-snapshot",
+        "src-personal",
+        "src-secondary",
+        "src-first-speech",
+        "src-aiatsis-speech",
+        "src-mabo-speech",
+        "src-weekly2022"
+      ],
+      "evidence_note": "The frozen extract calls Claydon a social anthropologist. Her current biography says she worked in remote Aboriginal communities; a secondary account describes the period as the best part of a decade and connects it to Fitzroy Crossing. Employers, paid status, locations, dates, hours and organisational control are unresolved, so the relative duration is not converted into dates. Public2018 speeches identify Bunuba land-boundary/culture fieldwork at Fitzroy Crossing and work with Bunuba people at the1992 Mabo decision.2022 interview describes negotiation between pastoralists and native-title holders around Mabo/Wik. These are observations within an unknown interval, not start/end dates. Research deposited at AIATSIS does not establish employment there.",
       "counting_note": "The work cannot be assigned to a public or private headline sector without employer and control evidence."
     },
     {
@@ -112,7 +132,12 @@
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-snapshot", "src-secondary"],
+      "source_ids": [
+        "src-snapshot",
+        "src-secondary",
+        "src-first-speech",
+        "src-abc2022"
+      ],
       "evidence_note": "The frozen extract identifies electorate-officer work, and secondary material names Allan Morris and Sharon Grierson. Exact appointment sequence, dates, payroll entity, hours, leave and overlaps with party or council roles are unresolved.",
       "counting_note": "Political staff employment is excluded under the codebook."
     },
@@ -129,7 +154,9 @@
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-secondary"],
+      "source_ids": [
+        "src-secondary"
+      ],
       "evidence_note": "Secondary material records ALP membership from 1999, state conference delegation from 2002 and national conference delegation from 2007, together with committee and policy-forum roles. Exact terms, pay, hours and overlap are unresolved; these governance roles are not assumed to be employment.",
       "counting_note": "Party activity is excluded under the codebook."
     },
@@ -138,16 +165,20 @@
       "employer": "Newcastle City Council",
       "role": "Councillor",
       "start_date": "2008",
-      "end_date": null,
-      "date_precision": "mixed",
+      "end_date": "2012",
+      "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-secondary"],
-      "evidence_note": "Secondary material records election to Newcastle City Council in 2008. Exact election and cessation dates, remuneration, hours and overlap with electorate-office work and campaigning are unresolved.",
+      "source_ids": [
+        "src-secondary",
+        "src-abc2022",
+        "src-weekly2022"
+      ],
+      "evidence_note": "ABC2022 guide gives council term2008–2012;2022 interview confirms standing in2008. Exact election/cessation dates, remuneration, hours and electorate-office/campaign overlap remain unresolved. Earlier ABC2013 guide indexed2007 start conflicts with2008 and is not adopted.",
       "counting_note": "Elected local-government office is excluded under the codebook."
     },
     {
@@ -163,7 +194,10 @@
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-secondary", "src-snapshot"],
+      "source_ids": [
+        "src-secondary",
+        "src-snapshot"
+      ],
       "evidence_note": "Secondary reporting places her announced preselection bid in July 2012, while the frozen roster records House service from 7 September 2013. Endorsement date, pay, hours and overlap with employment or council duties are unresolved.",
       "counting_note": "Party and campaign activity is excluded under the codebook."
     },
@@ -180,9 +214,110 @@
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-snapshot", "src-personal", "src-secondary"],
+      "source_ids": [
+        "src-snapshot",
+        "src-personal",
+        "src-secondary"
+      ],
       "evidence_note": "The frozen roster establishes House service from 7 September 2013. Claydon's current site confirms she remains Member for Newcastle and Deputy Speaker. Parliamentary offices are nested within elected service.",
       "counting_note": "Elected office is excluded under the codebook."
+    },
+    {
+      "employer": "Kimberley cattle stations (operators and payroll employers unresolved)",
+      "role": "Domestic worker; gardener; stock-camp cook; jillaroo",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "unknown",
+      "government_control_at_time": "unknown",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-first-speech",
+        "src-weekly2022"
+      ],
+      "evidence_note": "First speech describes these roles on Kimberley stations. This is geographically distinct from secondary Helen Springs, Northern Territory account. Possible overlapping/generalised recollections retained without duplication of calculated time; no station ownership or hours inferred.",
+      "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
+      "spell_id": "248181-kimberley-stations"
+    },
+    {
+      "employer": "EMILY’s List Australia Inc",
+      "role": "National co-convenor; national committee governance",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "party_organisation",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-emilys2022"
+      ],
+      "evidence_note": "Association annual report identifies co-convenor service throughout1July2021–30June2022 and describes executive support among volunteers. Full tenure endpoints and any separate employment unresolved; report window is not appointment/cessation.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "248181-emilys-list"
+    },
+    {
+      "employer": "Newcastle Aboriginal Support Group",
+      "role": "Group work; treasurer (title from secondary account)",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "nonprofit",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-jim-wright",
+        "src-secondary"
+      ],
+      "evidence_note": "Personal2015 statement corroborates work with the group before council/federal service. Secondary biography identifies treasurer. Dates, remuneration and any distinct operational employment unverified; governance not full-time employment.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "248181-nasg"
+    },
+    {
+      "employer": "Stockton Historical Society Inc",
+      "role": "Patron",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "nonprofit",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-stockton-foi"
+      ],
+      "evidence_note": "Government conflict declaration approved20March2025 identifies patronage. Appointment/end and pay unknown; honorary/governance role not assumed employment.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "248181-stockton"
+    },
+    {
+      "employer": "Australians for Native Title and Reconciliation (ANTaR)",
+      "role": "Community advocacy and pastoralist/native-title negotiations",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "nonprofit",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-weekly2022"
+      ],
+      "evidence_note": "2022 interview identifies community work through ANTaR with Queensland pastoralists around the Wik decision-making process. Employment versus volunteering, exact dates, hours and legal employing entity remain unknown. Do not treat1996 court decision as appointment date or duplicate fieldwork time.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "248181-antar"
     }
   ],
   "sources": [
@@ -215,13 +350,98 @@
       "source_type": "other",
       "locator": "Early life and politics sections with cited Newcastle Herald and official sources",
       "note": "Secondary synthesis used to identify the station roles, South Coast disability work, remote-community sequence, named MPs, party-governance years, 2008 council election and July 2012 candidacy."
+    },
+    {
+      "url": "https://www.openaustralia.org.au/debate/?id=2013-11-19.79.1",
+      "publisher": "Australian Parliament / OpenAustralia transcript",
+      "title": "First speech, 19 November 2013",
+      "source_type": "government_record",
+      "locator": "Paragraphs on Kimberley station work, disability service and former MPs",
+      "note": "First-person career account; unnamed employers and rounded duration remain unresolved.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-first-speech"
+    },
+    {
+      "url": "https://www.openaustralia.org.au/debate/?id=2018-11-26.160.1",
+      "publisher": "Australian Parliament / OpenAustralia transcript",
+      "title": "AIATSIS speech, 26 November 2018",
+      "source_type": "government_record",
+      "locator": "Research and Fitzroy Crossing fieldwork paragraphs",
+      "note": "Public description only; culturally restricted research itself not accessed. Collection use/deposit does not establish AIATSIS employment.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-aiatsis-speech"
+    },
+    {
+      "url": "https://www.openaustralia.org.au/debate/?id=2018-11-28.157.3",
+      "publisher": "Australian Parliament / OpenAustralia transcript",
+      "title": "Bonita Mabo condolence speech, 28 November 2018",
+      "source_type": "government_record",
+      "locator": "Paragraphs identifying work with Bunuba people at time of Mabo decision",
+      "note": "Historical observation, not appointment or cessation date.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-mabo-speech"
+    },
+    {
+      "url": "https://newcastleweekly.com.au/sharon-claydons-passion-shines-through-for-all-to-see/",
+      "publisher": "Newcastle Weekly / Rod Thompson",
+      "title": "Sharon Claydon’s passion shines through for all to see, 15 July 2022",
+      "source_type": "news",
+      "locator": "Interview: Kimberley, Mabo/Wik and return to Newcastle",
+      "note": "First-person interview corroborates fieldwork and landholder/native-title negotiation; rounded decade not calendar endpoints.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-weekly2022"
+    },
+    {
+      "url": "https://www.abc.net.au/news/elections/federal/2022/guide/newc",
+      "publisher": "ABC / Antony Green",
+      "title": "Newcastle electorate guide, 2022",
+      "source_type": "news",
+      "locator": "Sharon Claydon candidate biography",
+      "note": "Council term2008–12 and prior Grierson staff work.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-abc2022"
+    },
+    {
+      "url": "https://assets.nationbuilder.com/emilyslistaus/pages/549/attachments/original/1670296323/EMILYs_List_Annual_report_2022.pdf?1670296323=",
+      "publisher": "EMILY’s List Australia",
+      "title": "Annual Report2021–22",
+      "source_type": "employer",
+      "locator": "Printed pp7,10,37,40,43: co-convenors, volunteers, committee and financial report",
+      "note": "Reports Claydon as co-convenor throughout1July2021–30June2022; reporting window is not full tenure.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-emilys2022"
+    },
+    {
+      "url": "https://sharonclaydon.com/newsroom/media-releases/statement-jim-wright/",
+      "publisher": "Sharon Claydon MP",
+      "title": "Statement — Jim Wright, 19 June 2015",
+      "source_type": "official_biography",
+      "locator": "Opening personal recollection of Newcastle Aboriginal Support Group",
+      "note": "Primary corroboration of group work; treasurer title remains secondary.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-jim-wright"
+    },
+    {
+      "url": "https://www.infrastructure.gov.au/sites/default/files/documents/foi26-100-documents-released.pdf",
+      "publisher": "Australian Government, Department of Infrastructure",
+      "title": "FOI26-100 documents released",
+      "source_type": "government_record",
+      "locator": "Newcastle conflict declaration approved20March2025: Stockton Historical Society",
+      "note": "Public primary evidence of patronage; approval date is not appointment date.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-stockton-foi"
     }
   ],
   "research_notes": [
     "The official occupation extract contains no dates or employers for the three pre-parliamentary occupation labels.",
     "Relative phrases such as 'a few years' and 'best part of a decade' are preserved as evidence notes and not converted into calendar dates.",
     "Disability and remote-community work remain sector-unknown because the employing legal entities and control are not identified.",
-    "Deputy Speaker and other parliamentary duties are nested within elected office."
+    "Deputy Speaker and other parliamentary duties are nested within elected office.",
+    "Systematic follow-up2026-10-01 added primary disability-service duties, Bunuba fieldwork and1992 contemporaneous observation, distinct Kimberley station roles, council2012 endpoint, EMILY’s List governance and community patron/treasurer roles. No full-time interval established.",
+    "Almost a decade/ten years are narrative durations only.1992 Mabo observation and2021–22 annual-report coverage do not establish whole-spell boundaries. Possible station/research overlaps must be resolved before calculation.",
+    "Checked parliamentary speeches, ABC guides, public first-person interview, EMILY’s List annual report and public FOI declaration. Newcastle Herald profile returned402PaymentRequired; no paywall bypass. APH direct page returned Internal Error; ABC supplies council endpoint. Current office-manager full-time advertisements concern Claydon’s staff, not Claydon.",
+    "AIATSIS source expressly requires traditional-owner permission for cultural research. Only public speech describing work used; restricted material neither sought nor accessed. Next leads: public employment/commission acknowledgements and provider annual reports once organisations can be named; exact dates/hours/leave remain unresolved.",
+    "The2022 interview names ANTaR for later community advocacy with Queensland pastoralists; added separately from unidentified Bunuba fieldwork employers. Paid status not established."
   ],
   "open_questions": [
     "What were the exact University of Sydney enrolment, withdrawal, honours and PhD dates and study loads?",
@@ -229,6 +449,9 @@
     "Which South Coast disability provider employed her, under what control, and for what exact dates and hours?",
     "Which organisations employed or contracted her in remote Aboriginal communities, with what dates, hours and control?",
     "What were the exact electorate-office appointments, payroll entity, hours, leave and transitions between Allan Morris and Sharon Grierson?",
-    "What were the exact council, party-governance and campaign dates, remuneration and overlaps?"
+    "What were the exact council, party-governance and campaign dates, remuneration and overlaps?",
+    "Which Kimberley station operators employed her, and how do these roles relate to Helen Springs and anthropological fieldwork?",
+    "Who commissioned or employed her for Bunuba boundary mapping and pastoralist/native-title negotiations, and on what dates and hours?",
+    "What were full EMILY’s List, support-group and patronage terms, and were any separate roles paid?"
   ]
 }
