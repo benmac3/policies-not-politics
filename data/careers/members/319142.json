@@ -127,7 +127,7 @@
       "employer": "Own business (legal name not established)",
       "employment_status": "self_employed",
       "end_date": "2016",
-      "evidence_note": "First speech explicitly says contracting and working for himself; party says own business. It preceded the post-election One Nation application, but start date/hours/business identity are unknown.",
+      "evidence_note": "First speech explicitly says contracting and working for himself; party says own business. It preceded the post-election One Nation application, but start date/hours/business identity are unknown. Updated party profile specifies subcontracting. No identifiable contracting business or ABN established; the2016 end remains a narrative inference, not a verified cessation of all contracts.",
       "fte_fraction": null,
       "government_control_at_time": "private",
       "headline_sector": "private",
@@ -135,7 +135,8 @@
       "source_ids": [
         "src-aph",
         "src-speech",
-        "src-party"
+        "src-party",
+        "src-nsw-bio"
       ],
       "spell_id": "319142-claims",
       "start_date": null
@@ -148,7 +149,7 @@
       "employer": "Office of Senator Pauline Hanson / One Nation (payroll entity unresolved)",
       "employment_status": "unknown",
       "end_date": "2025-09",
-      "evidence_note": "First speech says he applied after the 2016 election, was offered a job months later and worked for Hanson/One Nation for nine years. Exact appointment, role transitions, payroll entity, hours and leave are unresolved.",
+      "evidence_note": "First speech says he applied after the 2016 election, was offered a job months later and worked for Hanson/One Nation for nine years. Exact appointment, role transitions, payroll entity, hours and leave are unresolved. Party offices are now separately recorded; the2016 team-entry date is not evidence that every senior title began then.",
       "fte_fraction": null,
       "government_control_at_time": "unknown",
       "headline_sector": "excluded",
@@ -157,7 +158,8 @@
         "src-aph",
         "src-speech",
         "src-party",
-        "src-secondary"
+        "src-secondary",
+        "src-nsw-bio"
       ],
       "spell_id": "319142-political-staff",
       "start_date": "2016"
@@ -200,6 +202,104 @@
       ],
       "spell_id": "319142-whip",
       "start_date": "2025-10-27"
+    },
+    {
+      "employer": "One Nation national organisation",
+      "role": "National Secretary",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "party_organisation",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-nsw-bio",
+        "src-secretary2025"
+      ],
+      "evidence_note": "Party biography confirms office; dated18December2025 statement establishes overlap with Senate service. Appointment/cessation and remuneration unknown; not an additional full-time employment interval.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "319142-national-secretary"
+    },
+    {
+      "employer": "One Nation national organisation",
+      "role": "National Executive member",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "party_organisation",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-nsw-bio"
+      ],
+      "evidence_note": "Party governance; term and pay not established. May overlap secretary and parliamentary staff roles; not summed.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "319142-national-executive"
+    },
+    {
+      "employer": "One Nation Queensland Division",
+      "role": "Secretary",
+      "start_date": "2025-06-06",
+      "end_date": null,
+      "date_precision": "day",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "party_organisation",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-qld-secretary"
+      ],
+      "evidence_note": "Appointment date reported from OFT records by The Australian. Primary filing and any cessation remain unverified; paid status/hours unknown.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "319142-qld-secretary"
+    },
+    {
+      "employer": "One Nation / Please Explain production (contracting entity unresolved)",
+      "role": "Producer, Pauline Hanson’s Please Explain",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "party_organisation",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-nsw-bio",
+        "src-imdb-series"
+      ],
+      "evidence_note": "Party profile confirms credit; IMDb lists2024 episodes. Dates of production output do not set personal service boundaries. May be part of political employment; separate fee or employment not established.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "319142-please-explain"
+    },
+    {
+      "employer": "A Super Progressive Movie / Stepmates Studios (personal employer unresolved)",
+      "role": "Producer, A Super Progressive Movie",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "unknown",
+      "government_control_at_time": "unknown",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-film",
+        "src-classification"
+      ],
+      "evidence_note": "Official film credits and government classification establish producer role. Stepmates is the production company, not proven Bell’s employer. Payment, hours and party-versus-commercial relationship unresolved.2026 production/classification dates are output observations, not employment endpoints; no overlapping duration added.",
+      "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
+      "spell_id": "319142-film-producer"
     }
   ],
   "headline": {
@@ -208,7 +308,7 @@
     "private_full_time_years": null,
     "public_full_time_years": null
   },
-  "last_reviewed": "2026-09-17",
+  "last_reviewed": "2026-10-01",
   "name": "BELL, Sean Fredrick",
   "person_id": "319142",
   "research_notes": [
@@ -218,7 +318,10 @@
     "The frozen occupation says 'Claims Investigator'; the first speech and party biography say claims assessor, self-employed/own business. Both descriptions are preserved without inventing a business name or assuming professional hours.",
     "Official qualifications include TAFE Queensland Certificate III in Investigative Services and a Griffith University journalism certificate. His first speech says he dropped out of university, later returned to part-time study and obtained qualifications. Education is not employment.",
     "Searches attempted: official parliamentary biography and speeches; One Nation nomination biography; first-speech/Hansard transcript; claims-assessor business name; warehousing/labour history; public profiles; secondary news. Namesakes were excluded. No accessible business registration, resume or payroll dates found.",
-    "Follow-up priority: legal business name/ABN and claims contracts; labour-hire employer and four-year endpoints/hours; video-store/catering/lawn employers and dates; precise political staff appointment, employer/payroll entity, leave and cessation. Last attempted 2026-09-17; advance initial nationwide pass before repeating."
+    "Follow-up priority: legal business name/ABN and claims contracts; labour-hire employer and four-year endpoints/hours; video-store/catering/lawn employers and dates; precise political staff appointment, employer/payroll entity, leave and cessation. Last attempted 2026-09-17; advance initial nationwide pass before repeating.",
+    "Systematic follow-up2026-10-01: added national party secretary and executive, Queensland secretary appointment reported from OFT records, cartoon production and primary-confirmed feature-film producer credit. The party profile also reports JP qualification; qualification alone does not establish a paid or volunteer service spell.",
+    "ABN/business-name, professional-profile, labour-hire and full-time searches did not identify a reliably matched pre-politics employer or person-specific hours. Gorilla Labour Hire Perth profile, UK QBE/US insurance workers, overseas producer, university researcher and Australian endurance athlete are unverified namesakes and not adopted. APH registrable-interest search returned robots restriction; no bypass attempted.",
+    "Remaining: claims business legal name/contracts and cessation, labour-hire company and four-year endpoints/hours, early retail/hospitality/lawn work, political payroll/leave and exact role transitions, party-office pay/terms, production contracting/fees and JP service if any. Follow-up targeted party governance and film evidence rather than repeating the existing first-speech chronology. Last follow-up2026-10-01; retain blocked status and null totals."
   ],
   "research_status": "blocked",
   "snapshot_chamber": "Senator",
@@ -285,6 +388,66 @@
       "source_type": "news",
       "title": "Queenslander Sean Bell appointed as a senator representing NSW",
       "url": "https://www.abc.net.au/news/2025-09-18/one-nation-queenslander-sean-bell-nsw-senator/105790262"
+    },
+    {
+      "url": "https://nsw.onenation.org.au/sean-bell",
+      "publisher": "One Nation NSW",
+      "title": "Senator Sean Bell biography",
+      "source_type": "official_biography",
+      "locator": "Career, qualifications and production paragraphs",
+      "note": "Primary party profile identifies national secretary/executive, subcontracting and production; no exact role dates or hours.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-nsw-bio"
+    },
+    {
+      "url": "https://www.onenation.org.au/statement-bell-secretary",
+      "publisher": "One Nation",
+      "title": "Statement from Senator Sean Bell One Nation Secretary,18December2025",
+      "source_type": "official_biography",
+      "locator": "Title/date",
+      "note": "Dated secretary observation, not appointment date.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-secretary2025"
+    },
+    {
+      "url": "https://www.theaustralian.com.au/nation/one-nation-faces-losing-legal-status-over-failure-to-produce-financial-records/news-story/8dcb6a946954378fef4defbe2a14b247",
+      "publisher": "The Australian",
+      "title": "One Nation faces losing legal status over failure to produce financial records,29July2026",
+      "source_type": "news",
+      "locator": "Passage attributing appointment to Office of Fair Trading documents",
+      "note": "Secondary report states Queensland secretary appointment6June2025; underlying filing not directly retrieved.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-qld-secretary"
+    },
+    {
+      "url": "https://asuperprogressivemovie.com/",
+      "publisher": "A Super Progressive Movie",
+      "title": "Official film website",
+      "source_type": "employer",
+      "locator": "Footer production credits",
+      "note": "Producer credit; commercial/party contracting relationship not established.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-film"
+    },
+    {
+      "url": "https://www.classification.gov.au/titles/super-progressive-movie-0",
+      "publisher": "Australian Classification",
+      "title": "A Super Progressive Movie, classification6February2026",
+      "source_type": "government_record",
+      "locator": "Industry details; CLAS-1149475",
+      "note": "Names producer Sean Bell and production company Stepmates Studios; production year is not personal employment dates.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-classification"
+    },
+    {
+      "url": "https://www.imdb.com/title/tt29171819/fullcredits/",
+      "publisher": "IMDb",
+      "title": "Pauline Hanson’s Please Explain, full cast and crew",
+      "source_type": "other",
+      "locator": "Producer credits",
+      "note": "Secondary credits11episodes2024; corroborative output dates, not employment endpoints.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-imdb-series"
     }
   ]
 }
