@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/298618",
   "research_status": "blocked",
-  "last_reviewed": "2026-09-29",
+  "last_reviewed": "2026-10-01",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -29,18 +29,20 @@
       "counting_status": "excluded",
       "source_ids": [
         "src-2",
-        "src-11"
+        "src-11",
+        "src-bos2006",
+        "src-bos2008"
       ],
-      "evidence_note": "Qualifications supported; study dates unresolved.",
+      "evidence_note": "Qualifications supported; study dates unresolved. Board biographies show Arts/Law study underway in 2006\u20132008, not exact enrolment or completion dates.",
       "counting_note": "Excluded from the two employment headlines under the codebook."
     },
     {
       "spell_id": "298618-02",
       "employer": "NSW Board of Studies",
       "role": "Board member",
-      "start_date": "2005",
+      "start_date": "2005-08-01",
       "end_date": "2008",
-      "date_precision": "year",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "public_service",
@@ -48,9 +50,11 @@
       "government_control_at_time": "public",
       "counting_status": "excluded",
       "source_ids": [
-        "src-3"
+        "src-3",
+        "src-gazette",
+        "src-bos2006"
       ],
-      "evidence_note": "Government governance role; appointment is not full-time employment.",
+      "evidence_note": "Government governance role; appointment is not full-time employment. Gazette specifies commencement 1 August 2005 and scheduled term through 31 July 2008; actual cessation remains only year-level in prior interview, so do not substitute scheduled expiry as proved actual end.",
       "counting_note": "Excluded from the two employment headlines under the codebook."
     },
     {
@@ -127,9 +131,12 @@
       "government_control_at_time": "private",
       "counting_status": "insufficient_evidence",
       "source_ids": [
-        "src-2"
+        "src-2",
+        "src-bos2007",
+        "src-bos2008",
+        "src-first-speech"
       ],
-      "evidence_note": "Employer biography explicitly calls this private-sector consulting; firm, dates and hours remain unknown.",
+      "evidence_note": "Employer biography explicitly calls this private-sector consulting; firm, dates and hours remain unknown. Contemporary 2007 and 2008 board biographies locate consulting work in Canberra while at ANU; these are point-in-time observations, not appointment boundaries. First speech confirms consulting during university.",
       "counting_note": "Dates, employer control and/or substantive full-time status remain insufficient for a duration calculation; unknown is not zero."
     },
     {
@@ -232,7 +239,7 @@
         "src-7",
         "src-8"
       ],
-      "evidence_note": "Government annual report establishes role in 2022–23. Network-board dates must not be substituted for employment boundaries.",
+      "evidence_note": "Government annual report establishes role in 2022\u201323. Network-board dates must not be substituted for employment boundaries.",
       "counting_note": "Dates, employer control and/or substantive full-time status remain insufficient for a duration calculation; unknown is not zero."
     },
     {
@@ -256,7 +263,7 @@
     },
     {
       "spell_id": "298618-13",
-      "employer": "System 2: Centre for Behavioural and System Change",
+      "employer": "System 2 Limited (Centre for Behavioural and System Change)",
       "role": "Director",
       "start_date": null,
       "end_date": null,
@@ -268,9 +275,10 @@
       "government_control_at_time": "unknown",
       "counting_status": "excluded",
       "source_ids": [
-        "src-10"
+        "src-10",
+        "src-system2-board"
       ],
-      "evidence_note": "Secondary transcription of declaration identifies charity governance; remuneration, appointment and possible executive role require primary confirmation.",
+      "evidence_note": "Primary board page now confirms director status and governance function. Appointment dates, remuneration and any distinct executive employment remain unverified; no full-time directorship inferred.",
       "counting_note": "Excluded from the two employment headlines under the codebook."
     },
     {
@@ -329,6 +337,181 @@
       ],
       "evidence_note": "Ongoing at frozen snapshot.",
       "counting_note": "Excluded from the two employment headlines under the codebook."
+    },
+    {
+      "employer": "Hurlstone Agricultural High School (paying entity unverified)",
+      "role": "Tutor, senior mathematics and English",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "unknown",
+      "government_control_at_time": "unknown",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-bos2006",
+        "src-bos2008"
+      ],
+      "evidence_note": "Tutoring followed 2003 HSC and continued for several years. School location does not establish paying employer, paid status, appointment dates or hours.",
+      "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
+      "spell_id": "298618-17"
+    },
+    {
+      "employer": "NSW Department of Education and Training (engagement terms unknown)",
+      "role": "Various project work",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "unknown",
+      "government_control_at_time": "unknown",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-bos2006",
+        "src-bos2008"
+      ],
+      "evidence_note": "Worked with department before 2006 report; no project titles, contract, dates, pay or hours. Do not automatically treat client/host as employing department.",
+      "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
+      "spell_id": "298618-18"
+    },
+    {
+      "employer": "Unidentified shopping-centre or contractor employer",
+      "role": "Christmas decoration installation",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "unknown",
+      "government_control_at_time": "unknown",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-first-speech"
+      ],
+      "evidence_note": "Job during university. Employer, dates, hours and contract status unknown.",
+      "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
+      "spell_id": "298618-19"
+    },
+    {
+      "employer": "Unidentified football-stadium or catering employer",
+      "role": "Food service",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "unknown",
+      "government_control_at_time": "unknown",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-first-speech"
+      ],
+      "evidence_note": "Job during university. Venue ownership is not employer control; exact employer, dates and hours unknown.",
+      "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
+      "spell_id": "298618-20"
+    },
+    {
+      "employer": "Unidentified tennis organisation",
+      "role": "Tennis linesperson",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "unknown",
+      "government_control_at_time": "unknown",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-first-speech"
+      ],
+      "evidence_note": "Job during university. Tournament, employer, dates, pay and workload not specified.",
+      "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
+      "spell_id": "298618-21"
+    },
+    {
+      "employer": "Federal Law Review (employing entity unverified)",
+      "role": "Business manager",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "unknown",
+      "government_control_at_time": "unknown",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-bos2007",
+        "src-bos2008"
+      ],
+      "evidence_note": "Contemporary 2007\u20132008 profiles identify role while studying and consulting. Paid/voluntary status, hours, dates and legal employer remain unknown; title not proof of FT work.",
+      "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
+      "spell_id": "298618-22"
+    },
+    {
+      "employer": "NSW Youth Advisory Council",
+      "role": "Member; deputy chair by 2006",
+      "start_date": "2004",
+      "end_date": null,
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "public_service",
+      "headline_sector": "excluded",
+      "government_control_at_time": "public",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-youth2006"
+      ],
+      "evidence_note": "Member since 2004 and deputy chair in 2006. Exact departure and deputy-chair commencement unknown; advisory governance excluded.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "298618-23"
+    },
+    {
+      "employer": "NSW Health Futures Strategic Advisory Council",
+      "role": "Member",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "public_service",
+      "headline_sector": "excluded",
+      "government_control_at_time": "public",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-youth2006",
+        "src-bos2006"
+      ],
+      "evidence_note": "Member as at 2006 report; appointment boundaries and remuneration unknown; advisory governance excluded.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "298618-24"
+    },
+    {
+      "employer": "Children and Young People\u2019s Health Priority Taskforce, NSW",
+      "role": "Member",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "public_service",
+      "headline_sector": "excluded",
+      "government_control_at_time": "public",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-youth2006"
+      ],
+      "evidence_note": "2006 report identifies membership; no paid employment or full-time workload inferred.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "298618-25"
     }
   ],
   "sources": [
@@ -346,7 +529,7 @@
       "source_id": "src-2",
       "url": "https://www.aitsl.edu.au/docs/default-source/corporate/annual-report-18-19_1page_final.pdf?sfvrsn=3e43cd3c_4",
       "publisher": "AITSL",
-      "title": "Annual report 2018–19",
+      "title": "Annual report 2018\u201319",
       "retrieved": "2026-09-29",
       "source_type": "employer",
       "locator": "Printed page 17 and appendix 1 page 78",
@@ -360,7 +543,7 @@
       "retrieved": "2026-09-29",
       "source_type": "professional_profile",
       "locator": "Career answer and campaign transition",
-      "note": "First-person account of public-policy work and 2005–2008 Board of Studies tenure."
+      "note": "First-person account of public-policy work and 2005\u20132008 Board of Studies tenure."
     },
     {
       "source_id": "src-4",
@@ -386,7 +569,7 @@
       "source_id": "src-6",
       "url": "https://www.dewr.gov.au/download/4541/australian-institute-teaching-and-school-leadership-budget-statements-2019-20/6761/document/pdf",
       "publisher": "Australian Government",
-      "title": "AITSL Portfolio Budget Statements 2019–20",
+      "title": "AITSL Portfolio Budget Statements 2019\u201320",
       "retrieved": "2026-09-29",
       "source_type": "government_record",
       "locator": "Page 96, entity overview",
@@ -396,7 +579,7 @@
       "source_id": "src-7",
       "url": "https://www.parliament.nsw.gov.au/tp/files/187084/2022-23%20NSW%20Telco%20Authority%20Annual%20Report.pdf",
       "publisher": "NSW Telco Authority",
-      "title": "Annual report 2022–23",
+      "title": "Annual report 2022\u201323",
       "retrieved": "2026-09-29",
       "source_type": "employer",
       "locator": "Page 15 leadership team; indexed extract, full open exceeds tool size limit",
@@ -406,11 +589,11 @@
       "source_id": "src-8",
       "url": "https://www.connectivityinnovationnetwork.com/CIN_ProgressReport_2021-24.pdf",
       "publisher": "Connectivity Innovation Network",
-      "title": "Progress report 2021–2024",
+      "title": "Progress report 2021\u20132024",
       "retrieved": "2026-09-29",
       "source_type": "employer",
       "locator": "Page 9 board chronology",
-      "note": "Soon's network board role 2022–July 2023 with NSW Telco title."
+      "note": "Soon's network board role 2022\u2013July 2023 with NSW Telco title."
     },
     {
       "source_id": "src-9",
@@ -451,12 +634,84 @@
       "source_type": "government_record",
       "locator": "Zhi Soon entry",
       "note": "School and youth participation in 2003."
+    },
+    {
+      "url": "https://cccav.org.au/wp-content/uploads/2025/07/Zhi-Soon-MP-First-Speech-2025-07-23.pdf",
+      "publisher": "Commonwealth Hansard, copy hosted by CCCAV",
+      "title": "Zhi Soon first speech, 23 July 2025",
+      "source_type": "government_record",
+      "locator": "Printed p27 / PDF index1, university jobs paragraph",
+      "note": "Proof Hansard copy; official linked record returned 403. Identifies shopping-centre decorations, football-stadium food service, tennis linesperson and consulting during university. Employers/dates/hours not stated; cross-checked OpenAustralia 2025-07-23.19.1.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-first-speech"
+    },
+    {
+      "url": "https://www.parliament.nsw.gov.au/tp/files/57398/bos_annual_report_06.pdf",
+      "publisher": "NSW Board of Studies",
+      "title": "Annual Report 2006",
+      "source_type": "government_record",
+      "locator": "Printed p108 member profile; board membership/attendance table",
+      "note": "Tutor at Hurlstone following 2003 HSC, education-department projects, youth/health advisory memberships and board commencement August 2005. Indexed relevant extract; follow-up PDF fetch redirected with tool error.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-bos2006"
+    },
+    {
+      "url": "https://www.parliament.nsw.gov.au/tp/files/39204/bos%20annual%20report%2007.pdf",
+      "publisher": "NSW Board of Studies",
+      "title": "Annual Report 2007",
+      "source_type": "government_record",
+      "locator": "Printed p115, Xian-Zhi Soon profile",
+      "note": "Contemporary consulting in Canberra and Federal Law Review business manager while studying. Relevant indexed text available; subsequent direct fetch returned 500 redirect error.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-bos2007"
+    },
+    {
+      "url": "https://www.parliament.nsw.gov.au/tp/files/37268/annual-report-2008.pdf",
+      "publisher": "NSW Board of Studies",
+      "title": "Annual Report 2008",
+      "source_type": "government_record",
+      "locator": "Appendix11, Profiles of Board Members, Xian-Zhi Soon",
+      "note": "Confirms continuing study, consulting and Federal Law Review business-manager role; tutoring described as several years, with no exact boundaries.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-bos2008"
+    },
+    {
+      "url": "https://www.parliament.nsw.gov.au/tp/files/10640/YACAnnualReport2006.pdf",
+      "publisher": "NSW Youth Advisory Council",
+      "title": "Annual Report 2006",
+      "source_type": "government_record",
+      "locator": "Printed p5, Council members in 2006",
+      "note": "Deputy chair, member since 2004, and memberships of Health Futures Strategic Advisory Council and Children and Young People\u2019s Health Priority Taskforce. Governance does not establish paid executive work.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-youth2006"
+    },
+    {
+      "url": "https://resources.reglii.com/NSWGG.2005.12.2.G148.pdf",
+      "publisher": "NSW Government Gazette, reproduced by RegLII",
+      "title": "Gazette148, 2 December 2005",
+      "source_type": "government_record",
+      "locator": "Printed p9872, Notification of Appointment to the Board of Studies",
+      "note": "Appointment commencing 1 August 2005 until 31 July 2008. Scheduled term end is not independent proof of actual cessation or absence of reappointment.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-gazette"
+    },
+    {
+      "url": "https://system2.org.au/about-system-2/board/",
+      "publisher": "System 2 Limited",
+      "title": "Board",
+      "source_type": "employer",
+      "locator": "Board responsibilities, Xian Zhi Soon director entry and ABN footer",
+      "note": "Primary organisation identifies director role and governance function; ABN45 664 500 494. Appointment dates/remuneration not stated; do not infer an executive position.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-system2-board"
     }
   ],
   "research_notes": [
-    "Obtain dated DFAT/PMO/NSW appointments, identify consulting/legal employers and hours, map BIT title and employing-entity changes, AITSL cessation and campaign leave, NSW Telco tenure and 2023–2025 work; confirm System 2 primary governance/executive records.",
-    "2026-09-29 initial avenues: frozen APH occupations; AITSL 2018–19 and 2020–21 reports; historical budget/control statement; first-person Asian Australian Project interview; Nesta speaker record; UK spin-out announcement; NSW Telco and network reports; full-time and employer searches. Large NSW annual report could only be read through indexed leadership extract; no unsupported full-document claim.",
+    "Obtain dated DFAT/PMO/NSW appointments, identify consulting/legal employers and hours, map BIT title and employing-entity changes, AITSL cessation and campaign leave, NSW Telco tenure and 2023\u20132025 work; confirm System 2 primary governance/executive records.",
+    "2026-09-29 initial avenues: frozen APH occupations; AITSL 2018\u201319 and 2020\u201321 reports; historical budget/control statement; first-person Asian Australian Project interview; Nesta speaker record; UK spin-out announcement; NSW Telco and network reports; full-time and employer searches. Large NSW annual report could only be read through indexed leadership extract; no unsupported full-document claim.",
     "AITSL March 2019 start is supported; full-time campaign language does not prove previous employment hours. BIT had mixed ownership after its 2014 spin-out; ownership shares alone are not a control finding. Preserve unknown sector until relevant appointment and control dates are established.",
-    "CIN board interval 2022–July 2023 is not automatically NSW Telco employment duration. Guest teaching, school representation and governance excluded. No senior title or aggregate payroll/FTE statistic is used to infer individual full-time status. Partial record remains unresolved."
+    "CIN board interval 2022\u2013July 2023 is not automatically NSW Telco employment duration. Guest teaching, school representation and governance excluded. No senior title or aggregate payroll/FTE statistic is used to infer individual full-time status. Partial record remains unresolved.",
+    "2026-10-01 follow-up: first-speech proof PDF and OpenAustralia, historical Board of Studies 2006\u20132008 and youth-council 2006 reports, appointment Gazette, System2 board and ACNC index. Added previously missing tutoring, projects, university jobs, Federal Law Review business management and advisory memberships; established precise Board commencement and primary charity directorship. Consulting searches still did not identify firm; Telco searches did not resolve tenure/2023\u20132025 gaps. ACNC full record inaccessible, and NSW PDF follow-up redirects failed; indexed primary extracts and available copies documented without bypass.",
+    "Next priorities: Federal Law Review mastheads or ANU archive and consultant employer name; Hurlstone tutor and education-project terms; shopping-centre/catering/tennis employers; dated PMO/DFAT/BIT/NSW appointments and individual hours/leave; AITSL cessation and Telco/post-July2023 work. Point-in-time reports and intended board expiry must not be used as employment endpoints."
   ]
 }
