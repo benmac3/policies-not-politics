@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/299962",
   "research_status": "blocked",
-  "last_reviewed": "2026-09-12",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -29,9 +29,11 @@
       "counting_status": "insufficient_evidence",
       "source_ids": [
         "src-1",
-        "src-5"
+        "src-5",
+        "oct2-about",
+        "oct2-tab1995"
       ],
-      "evidence_note": "Interval crosses 1994 public-to-private change; requires exact transfer date and hours before splitting/counting.",
+      "evidence_note": "Overall official April1990–April1996 tenure retained. Member describes casual call-centre work and two-month absence in1995; alignment with TAB is an inference from official chronology, not a separately named employer in that account. Exact leave dates and hours outside that episode unknown. Employer report dates privatisation/listing15 August1994; statutory TAB public phase and Tabcorp private phase must not be combined as wholly one sector. No individual payroll-transfer day inferred.",
       "counting_note": "Not counted: dates and/or substantive full-time status are insufficiently evidenced; year labels are not exact boundaries."
     },
     {
@@ -55,21 +57,24 @@
     },
     {
       "spell_id": "299962-03",
-      "employer": "HBA Health Insurance",
+      "employer": "HBA Health Insurance / National Mutual Health Insurance Pty Ltd (individual payroll entity to confirm)",
       "role": "Call centre administration officer",
       "start_date": "1997-08-04",
       "end_date": "2000-02-25",
       "date_precision": "day",
       "employment_status": "unknown",
       "fte_fraction": null,
-      "category": "unknown",
-      "headline_sector": "unknown",
-      "government_control_at_time": "unknown",
+      "category": "private_enterprise",
+      "headline_sector": "private",
+      "government_control_at_time": "private",
       "counting_status": "insufficient_evidence",
       "source_ids": [
-        "src-1"
+        "src-1",
+        "oct2-pc1997",
+        "oct2-accc2000",
+        "oct2-axa2002"
       ],
-      "evidence_note": "Exact tenure supplied; historic fund ownership/profit status and FTE require checking rather than assuming today's Bupa structure.",
+      "evidence_note": "Historical government report identifies HBA as National Mutual commercial for-profit operation before1997 employment; ACCC2000 corroborates legal trading entity. Classified private at the time, not by later Bupa structure. Exact tenure retained; full-time status and individual payroll entity remain unconfirmed.",
       "counting_note": "Not counted: dates and/or substantive full-time status are insufficiently evidenced; year labels are not exact boundaries."
     },
     {
@@ -189,6 +194,25 @@
       ],
       "evidence_note": "Retain four-day overlap with official HESTA end; do not silently change date.",
       "counting_note": "Outside the two employment headlines under the codebook; retained as career context."
+    },
+    {
+      "employer": "Melbourne bands, names not established from primary source",
+      "role": "Singer",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "unknown",
+      "government_control_at_time": "unknown",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "oct2-about"
+      ],
+      "evidence_note": "Member biography places performances in1990s but gives no exact tenure, remuneration or hours. Could be paid or amateur; do not assume self-employment or full-time work.",
+      "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
+      "spell_id": "299962-music"
     }
   ],
   "sources": [
@@ -251,12 +275,65 @@
       "source_type": "employer",
       "locator": "Career/biography or relevant appointment section",
       "note": "H.E.S.T. Australia Limited trustee is a not-for-profit public company limited by guarantee. Public company does not mean government owned."
+    },
+    {
+      "url": "https://marydoyle.com.au/about/about-mary/",
+      "publisher": "Mary Doyle",
+      "title": "About Mary",
+      "source_type": "other",
+      "locator": "Paragraphs on1990s work/music and1995 absence",
+      "note": "Member describes casual call-centre work and two-month absence for treatment/recovery in1995; several early jobs and singing with bands while studying performing arts.",
+      "retrieved": "2026-10-02",
+      "source_id": "oct2-about"
+    },
+    {
+      "url": "https://www.annualreports.com/HostedData/AnnualReportArchive/T/ASX_TAH_1995.pdf",
+      "publisher": "Tabcorp Holdings Limited",
+      "title": "Annual Report1995",
+      "source_type": "employer",
+      "locator": "Chairman report, opening privatisation/float account (indexed text)",
+      "note": "Company listed15 August1994 marking privatisation of Victorian TAB; report is employer primary material hosted in annual-report archive.",
+      "retrieved": "2026-10-02",
+      "source_id": "oct2-tab1995"
+    },
+    {
+      "url": "https://assets.pc.gov.au/2025-05/57privatehealth.pdf",
+      "publisher": "Industry Commission",
+      "title": "Private Health Insurance, report57,28 February1997",
+      "source_type": "government_record",
+      "locator": "Printed pp95–99,102; section4.1, company list and HBA trading names",
+      "note": "National Mutual Health Insurance Pty Ltd a for-profit insurer; HBA its Victorian operation, acquired1991. For-profit change31 December1995 precedes employment.",
+      "retrieved": "2026-10-02",
+      "source_id": "oct2-pc1997"
+    },
+    {
+      "url": "https://www.accc.gov.au/media-release/health-insurer-revises-commercial",
+      "publisher": "ACCC",
+      "title": "Health insurer revises commercial,19 June2000",
+      "source_type": "government_record",
+      "locator": "Opening paragraphs",
+      "note": "National Mutual Health Insurance Pty Ltd traded as HBA in Victoria, contemporaneous legal-entity corroboration.",
+      "retrieved": "2026-10-02",
+      "source_id": "oct2-accc2000"
+    },
+    {
+      "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?announcementId=487681&display=text&documentDate=2002-06-05&documentNumber=190998&issuerId=4285",
+      "publisher": "AXA Asia Pacific / ASX",
+      "title": "Sale of AXA Health Insurance,5 June2002",
+      "source_type": "employer",
+      "locator": "Opening sale announcement",
+      "note": "HBA remained AXA commercial health operation before2002 sale; later Bupa status not retrospectively applied.",
+      "retrieved": "2026-10-02",
+      "source_id": "oct2-axa2002"
     }
   ],
   "research_notes": [
     "Blocked for headline calculation: full-time evidence exists for later excluded union/nonprofit roles; TAB/NEC/HBA hours and historical employer classification remain missing.",
     "Primary employer history verifies 1994 TAB privatisation. Do not classify entire 1990–1996 interval from present ownership. No exact conversion/split invented.",
     "HESTA is governed by a nonprofit corporate trustee; a public company is not the public sector. Aggregator must retain the nonprofit exclusion unless the codebook explicitly changes institutional treatment.",
-    "Official, member, employer governance and contemporary interview sources reviewed. Exact dates establish tenure, not automatically full-time employment for early roles."
+    "Official, member, employer governance and contemporary interview sources reviewed. Exact dates establish tenure, not automatically full-time employment for early roles.",
+    "Follow-up2026-10-02: resolved HBA historical private commercial classification using1997 Industry Commission and2000 ACCC records; employer1995 report gives TAB privatisation/listing15 August1994. Unknown historical HBA classification in earlier notes is superseded by this evidence.",
+    "Recorded1995 two-month absence and casual call-centre status without inventing absence dates or extrapolating casual status to six years. Added music activity with remuneration unknown. Member also mentions several early jobs, still unidentified.",
+    "Next leads: TAB/NEC/HBA employment hours and any changed contracts; exact absence and payroll-transfer boundaries; early jobs around performing-arts study and whether music was paid. Historical sector resolution does not establish headline years. First-speech follow-up open404 was a source-only error; About Mary accessible."
   ]
 }
