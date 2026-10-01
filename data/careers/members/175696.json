@@ -6,7 +6,7 @@
   "snapshot_party": "Community Strong Australia",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/175696",
   "research_status": "blocked",
-  "last_reviewed": "2026-09-29",
+  "last_reviewed": "2026-10-01",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -58,7 +58,7 @@
     },
     {
       "spell_id": "175696-03",
-      "employer": "Own legal practice, including Family Law Chambers",
+      "employer": "Own legal practice, including Sixth Floor Selborne/Wentworth and Family Law Chambers",
       "role": "Barrister",
       "start_date": "2008",
       "end_date": "2019",
@@ -74,9 +74,11 @@
         "src-2",
         "src-3",
         "src-4",
-        "src-6"
+        "src-6",
+        "src-bar2014",
+        "src-care"
       ],
-      "evidence_note": "Own business explicitly described in 2009 interview; ABR identifies sole trader. Full-time as at September 2009 only, not a bounded continuous full-time interval. Chambers affiliation not assumed payroll employment. ABN/GST dates do not extend practice beyond 2019.",
+      "evidence_note": "Own business explicitly described in 2009 interview; ABR identifies sole trader. Full-time as at September 2009 only, not a bounded continuous full-time interval. Chambers affiliation not assumed payroll employment. ABN/GST dates do not extend practice beyond 2019. Professional-body2014 dinner list independently verifies Sixth Floor affiliation, not exact transition.2025 first-person recollection describes sole-trader practice with childcare-related early departures; this does not establish weekly hours or negate2009 full-time point observation.",
       "counting_note": "Dates, employer control and/or substantive full-time status remain insufficient for a duration calculation; unknown is not zero."
     },
     {
@@ -84,7 +86,7 @@
       "employer": "Olympic Winter Institute of Australia",
       "role": "Director, first term",
       "start_date": "1998",
-      "end_date": null,
+      "end_date": "2006-06-14",
       "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
@@ -94,18 +96,19 @@
       "counting_status": "excluded",
       "source_ids": [
         "src-2",
-        "src-7"
+        "src-7",
+        "src-8"
       ],
-      "evidence_note": "CV says 1998–2002; contemporaneous 2006 report says retiring after eight years. End unresolved; board governance not substantive employment.",
+      "evidence_note": "Contemporary2006 board list explicitly resignation14June2006; chairman describes eight years. Preferred to later CV1998\u20132002 summary. Start retained1998 from CV/eight-year account, but2014 chairman retrospectively says inaugural membership1999; original appointment still to verify. Governance excluded.",
       "counting_note": "Excluded from the two employment headlines under the codebook."
     },
     {
       "spell_id": "175696-05",
       "employer": "Olympic Winter Institute of Australia",
       "role": "Independent non-executive director, later term",
-      "start_date": "2014",
-      "end_date": null,
-      "date_precision": "mixed",
+      "start_date": "2013-11-22",
+      "end_date": "2019-05-27",
+      "date_precision": "day",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "nonprofit",
@@ -114,9 +117,10 @@
       "counting_status": "excluded",
       "source_ids": [
         "src-3",
-        "src-8"
+        "src-8",
+        "src-owia2019"
       ],
-      "evidence_note": "2018 CV gives 2014 start; 2014 annual report describes November AGM return, so check exact appointment. Governance distinct from athlete activity.",
+      "evidence_note": "2014 annual report gives appointment22November2013 in board and financial tables;2019 report gives resignation27May2019. Explicit contemporaneous records preferred to abbreviated2014 CV start. Non-executive governance, no employment duration added.",
       "counting_note": "Excluded from the two employment headlines under the codebook."
     },
     {
@@ -303,7 +307,7 @@
       "retrieved": "2026-09-29",
       "source_type": "personal_biography",
       "locator": "Building a career beyond the Olympics",
-      "note": "Barrister 2008–2019; education and sport context."
+      "note": "Barrister 2008\u20132019; education and sport context."
     },
     {
       "source_id": "src-2",
@@ -322,7 +326,7 @@
       "title": "Zali Steggall biography",
       "retrieved": "2026-09-29",
       "source_type": "professional_profile",
-      "locator": "Pages 1–2, appointments, qualifications and professional experience",
+      "locator": "Pages 1\u20132, appointments, qualifications and professional experience",
       "note": "Primary practice and governance evidence; internal Queenwood start-date inconsistency."
     },
     {
@@ -360,26 +364,26 @@
       "url": "https://www.owia.org/uploads/3/9/6/0/39609871/2006_annual_report.pdf",
       "publisher": "Olympic Winter Institute of Australia",
       "title": "Annual report 2006",
-      "retrieved": "2026-09-29",
+      "retrieved": "2026-10-01",
       "source_type": "employer_annual_report",
-      "locator": "Page 4, retirement after eight years (indexed)",
-      "note": "Contradicts chambers CV end date for initial board period."
+      "locator": "Printedpp4 and6; Board of Directors list",
+      "note": "Directly retrieved complete report confirms resignation14June2006; chairman describes eight years. Prefer explicit contemporary resignation over later CV2002 end, retaining discrepancy."
     },
     {
       "source_id": "src-8",
       "url": "https://www.owia.org/uploads/3/9/6/0/39609871/2014_owia_final_annual_report_eyinc.pdf",
       "publisher": "Olympic Winter Institute of Australia",
       "title": "Annual report 2014",
-      "retrieved": "2026-09-29",
+      "retrieved": "2026-10-01",
       "source_type": "employer_annual_report",
-      "locator": "Page 6, November AGM welcome (indexed)",
-      "note": "Reappointment evidence; exact year/month requires page-context confirmation."
+      "locator": "Printedp7/PDFindex6; financial directors reportPDFindex32; attendancePDFindex35",
+      "note": "Explicit appointment22November2013 resolves ambiguous November reference and supersedes abbreviated CV2014 start. Chairman retrospectively calls original board membership1999, conflicting with CV1998; original start retains flag."
     },
     {
       "source_id": "src-9",
       "url": "https://www.sportintegrity.gov.au/sites/default/files/ASADA_Annual%20Report_2018-19.pdf",
       "publisher": "Australian Sports Anti-Doping Authority",
-      "title": "Annual report 2018–19",
+      "title": "Annual report 2018\u201319",
       "retrieved": "2026-09-29",
       "source_type": "government_annual_report",
       "locator": "Footnote 19, ADRVP membership (indexed)",
@@ -393,7 +397,7 @@
       "retrieved": "2026-09-29",
       "source_type": "government_record",
       "locator": "Zali Steggall entry",
-      "note": "Scholarship 1996–2002; not evidence of an employment contract."
+      "note": "Scholarship 1996\u20132002; not evidence of an employment contract."
     },
     {
       "source_id": "src-11",
@@ -403,13 +407,45 @@
       "retrieved": "2026-09-29",
       "source_type": "official_parliament",
       "locator": "Occupations and first service in repository snapshot",
-      "note": "Frozen occupation text gives professional athlete 1990–2002 and barrister 2008–2019; direct APH page blocked this run."
+      "note": "Frozen occupation text gives professional athlete 1990\u20132002 and barrister 2008\u20132019; direct APH page blocked this run."
+    },
+    {
+      "url": "https://www.owia.org/uploads/3/9/6/0/39609871/2019_annual_report_final.pdf",
+      "publisher": "Olympic Winter Institute of Australia",
+      "title": "Annual Report2019",
+      "source_type": "employer",
+      "locator": "Printedp15/PDFindex14; financial report directors atPDFindex43",
+      "note": "Both director lists explicitly give resignation27May2019.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-owia2019"
+    },
+    {
+      "url": "https://inbrief.nswbar.asn.au/posts/f94aa2a92a9039a560bd7a3a480322d6/attachment/bbdtables.pdf",
+      "publisher": "NSW Bar Association",
+      "title": "2014 Bench and Bar Dinner seating list",
+      "source_type": "professional_profile",
+      "locator": "Page13, Steggall row; document footer identifies2014",
+      "note": "Contemporaneous professional-body listing gives Sixth Floor Selborne/Wentworth Chambers. Point-in-time affiliation; not a contract or employment interval.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-bar2014"
+    },
+    {
+      "url": "https://www.zalisteggall.com.au/zali_steggall_speaks_in_support_of_early_ed_three_day_guarantee",
+      "publisher": "Zali Steggall MP",
+      "title": "Early Education and Care Three Day Guarantee speech,13February2025",
+      "source_type": "official_biography",
+      "locator": "Personal recollection paragraph beginning I have been there personally",
+      "note": "Describes sole-trader barrister practice, childcare and sometimes leaving court/chambers early. Does not quantify weekly hours or leave dates; neither part-time nor uninterrupted full-time status inferred.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-care"
     }
   ],
   "research_notes": [
     "Follow up bounded full-time legal practice intervals, breaks, early solicitor/paralegal dates and employers; verify Kemp Strang lead and chambers transitions. Resolve paid sporting contracts and control rather than treating scholarship as public work.",
-    "2026-09-29 avenues: current self biography, two surviving chambers PDFs, contemporaneous Lawyers Weekly interview, FIS, ABR history, OWIA 2006/2014 reports, ASADA 2018–19 and AIS archive. APH direct access blocked; frozen official extraction retained. Public professional-profile searches did not produce a directly verifiable CV for earlier firms.",
-    "Unverified search-index leads from SignalHire (not accepted as employment evidence): Roper & Steggall 2004–2007, Kemp Strang October 2007–April 2008, Sixth Floor May 2008–September 2014, Garfield Barwick September 2014–January 2016, Family Law Chambers January 2016–May 2019; Ski and Snowboard Association board 2002–2006. Verify with firm/bar archives or legitimately public first-party profile. No contact data retained.",
-    "Conflicts retained: athlete 1989 versus 1990 start, initial OWIA term ending 2002 versus 2006, Queenwood 2017 versus 2018 and bar committee 2013 versus 2014. Full-time point observation in 2009 cannot support 11 years. Multiple board and arbitration roles overlap legal practice; no summation. Last follow-up 2026-09-29, unresolved initial record."
+    "2026-09-29 avenues: current self biography, two surviving chambers PDFs, contemporaneous Lawyers Weekly interview, FIS, ABR history, OWIA 2006/2014 reports, ASADA 2018\u201319 and AIS archive. APH direct access blocked; frozen official extraction retained. Public professional-profile searches did not produce a directly verifiable CV for earlier firms.",
+    "Unverified search-index leads from SignalHire (not accepted as employment evidence): Roper & Steggall 2004\u20132007, Kemp Strang October 2007\u2013April 2008, Sixth Floor May 2008\u2013September 2014, Garfield Barwick September 2014\u2013January 2016, Family Law Chambers January 2016\u2013May 2019; Ski and Snowboard Association board 2002\u20132006. Verify with firm/bar archives or legitimately public first-party profile. No contact data retained.",
+    "Conflicts retained: athlete 1989 versus 1990 start, initial OWIA term ending 2002 versus 2006, Queenwood 2017 versus 2018 and bar committee 2013 versus 2014. Full-time point observation in 2009 cannot support 11 years. Multiple board and arbitration roles overlap legal practice; no summation. Last follow-up 2026-09-29, unresolved initial record.",
+    "2026-10-01 follow-up: full OWIA2006/2014/2019 reports resolve first resignation14June2006 and later term22November2013\u201327May2019, preserving contrary CV values in notes. Primary2014 Bar seating list verifies Sixth Floor affiliation; exact chambers transition dates still unverified.2025 childcare speech adds working-pattern evidence, without inferring part-time or leave duration.2020 parental-leave speech supplies policy discussion only, not personal leave dates.",
+    "Remaining avenues: firm/Bar archives for Roper & Steggall and Kemp Strang employment and legal-practice hours; original OWIA1998/1999 appointment; Queenwood and Hall of Fame appointment/cessation records. No independent Kemp Strang corroboration found beyond aggregator.2009 NSW Law Almanac indexed row supports Sixth Floor, but direct retrieval returned400 Content length is too large:14142443; no date-column meaning assumed. Manly Rugby2022/2024 reports identify honorary patronage, not paid employment. Existing sports-contract, hours and break gaps retained; advance pending fresh leads."
   ]
 }
