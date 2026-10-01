@@ -48,13 +48,14 @@
       "employer": "Electrical Trades Union of Australia",
       "employment_status": "unknown",
       "end_date": null,
-      "evidence_note": "Official occupation; dates/hours unknown. UTS supports general union-law career without allocating its duration.",
+      "evidence_note": "Official occupation; dates/hours unknown. UTS supports general union-law career without allocating its duration. Follow-up2026-10-01: FWC-filed correspondence confirms ETU affiliation4April2018. This is a point observation, not an appointment or cessation boundary.",
       "fte_fraction": null,
       "government_control_at_time": "private",
       "headline_sector": "excluded",
       "role": "Legal Counsel",
       "source_ids": [
-        "src-snapshot"
+        "src-snapshot",
+        "src-fwccorr2018"
       ],
       "spell_id": "315618-etu",
       "start_date": null
@@ -87,7 +88,7 @@
       "employer": "Hospitality Legal Pty Ltd",
       "employment_status": "unknown",
       "end_date": null,
-      "evidence_note": "Legal company/title from Parliament; association ownership from launch report and successor description. Category describes law-firm form, not final headline eligibility; association-control treatment remains unresolved.",
+      "evidence_note": "Legal company/title from Parliament; association ownership from launch report and successor description. Category describes law-firm form, not final headline eligibility; association-control treatment remains unresolved. Successor HTA Legal hosts her bylined commentary concerning a May2022 decision; publication date is absent and no employment endpoint is inferred.",
       "fte_fraction": null,
       "government_control_at_time": "private",
       "headline_sector": "unknown",
@@ -95,7 +96,8 @@
       "source_ids": [
         "src-snapshot",
         "src-ownership",
-        "src-memberpack"
+        "src-memberpack",
+        "src-htanews"
       ],
       "spell_id": "315618-hospitality",
       "start_date": null
@@ -169,7 +171,7 @@
       "employer": "Georges River Council",
       "employment_status": "unknown",
       "end_date": "2025-05-27",
-      "evidence_note": "First-person interview confirms elected in 2022; secondary biography dates term 21 September 2022–27 May 2025. Primary exact-date confirmation pending; overlap with professional roles and House service is not summed.",
+      "evidence_note": "First-person interview confirms elected in 2022; secondary biography dates term 21 September 2022–27 May 2025. Primary exact-date confirmation pending; overlap with professional roles and House service is not summed. Primary council June2025 release now confirms resignation27May2025 and oath26September2022 after countback. Existing21September election date remains secondary; oath and election are different events. Council/House overlap retained.",
       "fte_fraction": null,
       "government_control_at_time": "public",
       "headline_sector": "excluded",
@@ -177,7 +179,8 @@
       "source_ids": [
         "src-interview",
         "src-secondary",
-        "src-uts"
+        "src-uts",
+        "src-grc-resign"
       ],
       "spell_id": "315618-council",
       "start_date": "2022-09-21"
@@ -201,6 +204,102 @@
       ],
       "spell_id": "315618-house",
       "start_date": "2025-05-03"
+    },
+    {
+      "employer": "Public Services International, Oceania",
+      "role": "Young Workers Network Coordinator",
+      "start_date": "2015-07",
+      "end_date": "2017",
+      "date_precision": "mixed",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "union",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-profile",
+        "src-psi2016"
+      ],
+      "evidence_note": "Previously unallocated public-profile July2015–2017 lead now has role corroboration in the October2016 union programme. Remuneration and hours still unknown; not treated as a separate salaried full-time job or summed with ETU work.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "315618-psi"
+    },
+    {
+      "employer": "St George Community Transport",
+      "role": "Volunteer board member",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unpaid_work",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-emily2023"
+      ],
+      "evidence_note": "Candidate biography expressly describes this as volunteering; exact governance term unavailable.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "315618-sgct"
+    },
+    {
+      "employer": "Australian Red Cross",
+      "role": "Volunteer",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unpaid_work",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-emily2023"
+      ],
+      "evidence_note": "2023 candidate biography identifies volunteering. No dated term, paid employment or full-time status inferred.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "315618-volunteer-redcross"
+    },
+    {
+      "employer": "Gift of Bread",
+      "role": "Volunteer",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unpaid_work",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-emily2023"
+      ],
+      "evidence_note": "2023 candidate biography identifies volunteering. No dated term, paid employment or full-time status inferred.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "315618-volunteer-bread"
+    },
+    {
+      "employer": "Sydney Homeless Connect",
+      "role": "Volunteer",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unpaid_work",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-emily2023"
+      ],
+      "evidence_note": "2023 candidate biography identifies volunteering. No dated term, paid employment or full-time status inferred.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "315618-volunteer-homeless"
     }
   ],
   "headline": {
@@ -209,7 +308,7 @@
     "private_full_time_years": null,
     "public_full_time_years": null
   },
-  "last_reviewed": "2026-09-16",
+  "last_reviewed": "2026-10-01",
   "name": "AMBIHAIPAHAR, Ashvini (Ash)",
   "person_id": "315618",
   "research_notes": [
@@ -220,7 +319,10 @@
     "Vinnies employer article confirms regional director in October 2023; Indian Link confirms role in September 2024. Wikipedia June 2023 start retained at month precision with secondary provenance, pending primary appointment confirmation. Neither observation date is silently used as a start/end date; final departure and campaign leave unknown.",
     "Hospitality Legal is reported as AHA NSW's own law firm; 2023 association membership pack calls successor HTA Legal its firm. Do not treat two possibly overlapping AHA/Hospitality Legal titles as independent full-time intervals. Private company legal form alone does not settle codebook treatment of association-controlled work.",
     "Attempts: official biography; UTS alumni/study pages; public professional-profile search; employer/Vinnies articles and annual-publication searches; union and law-firm date/full-time queries; Indian Link interview; association ownership material. Australian Hotelier full-page access returned 402; only public indexed summary used, no bypass.",
-    "Next follow-up: dated CV or historical staff pages for Sydney, ANMF NSW, ETU, AHA and Hospitality Legal; verify PSI role and whether paid; Vinnies appointment/cessation; historical university and firm control; leave and overlaps around 2022 council/2023 and 2025 campaigns. Last follow-up 2026-09-16. Advance initial nationwide pass before repeating exhausted searches."
+    "Next follow-up: dated CV or historical staff pages for Sydney, ANMF NSW, ETU, AHA and Hospitality Legal; verify PSI role and whether paid; Vinnies appointment/cessation; historical university and firm control; leave and overlaps around 2022 council/2023 and 2025 campaigns. Last follow-up 2026-09-16. Advance initial nationwide pass before repeating exhausted searches.",
+    "Systematic follow-up2026-10-01: PSI2016 programme resolves coordinator title; FWC2018 correspondence adds dated ETU presence; HTA Legal supplies bylined professional output; council primary release confirms resignation and oath; candidate profile identifies explicit volunteering and community transport governance. These materially extend the record without converting observations into service boundaries.",
+    "Hours searches found no person-specific full-time statement. NSW24March2025 hearing search result mentioning full-time schoolteacher work relates to a different witness; not attributed to Ambihaipahar. Direct public LinkedIn retrieval failed; no signed-in collection attempted. PSI direct PDF unavailable and main domain robots restriction respected; public indexed programme used with limitation.",
+    "Remaining follow-up: primary personal service dates/hours for Sydney, ANMF, ETU, AHA and Hospitality Legal; PSI appointment/remuneration; Vinnies start/end and campaign leave; university historical control and association-owned-firm headline treatment; JD date conflict. Avoid repeating broad career queries unless new staff archives or detailed professional evidence become available."
   ],
   "research_status": "blocked",
   "snapshot_chamber": "Member",
@@ -307,6 +409,56 @@
       "source_type": "professional_profile",
       "title": "Public professional-profile search excerpt",
       "url": "https://au.linkedin.com/in/ashvini-ambihaipahar-089024b1"
+    },
+    {
+      "url": "https://pop-umbrella.s3.amazonaws.com/sites/default/files/en_organising_young_workers_-_invest_in_people_0.pdf?key=",
+      "publisher": "Public Services International",
+      "title": "Organising young workers: invest in people, 9 October2016 programme",
+      "source_type": "other",
+      "locator": "Indexed programme08:30 facilitator",
+      "note": "Names Oceania Young Workers Network Coordinator. Direct PDF inaccessible; indexed primary programme supports role, not paid employment.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-psi2016"
+    },
+    {
+      "url": "https://www.fwc.gov.au/documents/sites/awardsmodernfouryr/am201756-corr-awu-040418.pdf",
+      "publisher": "Fair Work Commission",
+      "title": "AM2017/56 correspondence, 4 April2018",
+      "source_type": "government_record",
+      "locator": "Email recipient listing and award matter",
+      "note": "Publicly filed correspondence identifies ETU affiliation at a dated observation; no personal contact details transcribed.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-fwccorr2018"
+    },
+    {
+      "url": "https://www.htalegal.com.au/news",
+      "publisher": "HTA Legal",
+      "title": "News: Vaccination: Unfair Dismissal",
+      "source_type": "employer",
+      "locator": "Ashvini byline; Gregory John Casper v New Horizons2022 case item",
+      "note": "Firm retains her authored legal commentary. Case decision24May2022 is not article publication or appointment date.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-htanews"
+    },
+    {
+      "url": "https://www.georgesriver.nsw.gov.au/Council/Media/Council-thanks-outgoing-Councillor-Ashvini-Ambihaipahar-2",
+      "publisher": "Georges River Council",
+      "title": "Council thanks outgoing Councillor Ashvini Ambihaipahar, 3 June2025",
+      "source_type": "government_record",
+      "locator": "Opening and countback/oath paragraphs",
+      "note": "Primary council confirms resignation27May2025 and oath26September2022; oath is not substituted for countback election date.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-grc-resign"
+    },
+    {
+      "url": "https://www.emilyslist.org.au/endorsed_candidates_new_south_wales_state_election",
+      "publisher": "EMILY’s List Australia",
+      "title": "Endorsed candidates NSW state election",
+      "source_type": "official_biography",
+      "locator": "Ashvini Ambihaipahar for Oatley",
+      "note": "Candidate biography explicitly identifies volunteer transport board and three volunteering organisations.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-emily2023"
     }
   ]
 }
