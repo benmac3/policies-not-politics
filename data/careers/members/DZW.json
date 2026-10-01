@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/DZW",
   "research_status": "blocked",
-  "last_reviewed": "2026-09-20",
+  "last_reviewed": "2026-10-01",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -27,8 +27,12 @@
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-secondary"],
-      "evidence_note": "The secondary biography, citing parliamentary material, records a Bachelor of Arts from the University of Queensland with English and history majors. Enrolment dates, load, completion date and employment overlap are unresolved.",
+      "source_ids": [
+        "src-secondary",
+        "src-alp-profile",
+        "src-ifa2010"
+      ],
+      "evidence_note": "The secondary biography, citing parliamentary material, records a Bachelor of Arts from the University of Queensland with English and history majors. Enrolment dates, load, completion date and employment overlap are unresolved. First-party ALP biography and2010 ministerial speaker profile independently corroborate qualification, but still no date or load.",
       "counting_note": "Study is excluded under the codebook."
     },
     {
@@ -44,8 +48,13 @@
       "headline_sector": "public",
       "government_control_at_time": "public",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-snapshot", "src-member", "src-secondary"],
-      "evidence_note": "The frozen official extract records police service from 1990 to 1997. Her current first-party biography describes front-line police work, and the secondary biography identifies Queensland Police. Exact appointment and cessation dates, rank, postings, hours, leave and any study overlap are unresolved.",
+      "source_ids": [
+        "src-snapshot",
+        "src-member",
+        "src-secondary",
+        "src-ifa2010"
+      ],
+      "evidence_note": "The frozen official extract records police service from 1990 to 1997. Her current first-party biography describes front-line police work, and the secondary biography identifies Queensland Police. Exact appointment and cessation dates, rank, postings, hours, leave and any study overlap are unresolved.2010 hosted ministerial profile corroborates seven years as a police officer and later youth justice convenor work. Rounded duration does not resolve calendar boundaries or full-time status.",
       "counting_note": "Public employment is supported, but year-only boundaries and absent substantive full-time evidence do not establish an exact countable interval."
     },
     {
@@ -61,8 +70,12 @@
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-secondary"],
-      "evidence_note": "The secondary biography records this Griffith University qualification. Dates, study load and overlap with police or later work are unresolved.",
+      "source_ids": [
+        "src-secondary",
+        "src-alp-profile",
+        "src-ifa2010"
+      ],
+      "evidence_note": "The secondary biography records this Griffith University qualification. Dates, study load and overlap with police or later work are unresolved. First-party ALP biography and2010 ministerial speaker profile independently corroborate qualification, but still no date or load.",
       "counting_note": "Study is excluded under the codebook."
     },
     {
@@ -78,7 +91,9 @@
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-secondary"],
+      "source_ids": [
+        "src-secondary"
+      ],
       "evidence_note": "The secondary biography, citing parliamentary and party material, records party membership from 1995 and branch presidency from 2003 to 2004. Exact term dates, remuneration, hours and overlaps are unresolved; governance is not assumed to be employment.",
       "counting_note": "Party activity is excluded under the codebook."
     },
@@ -95,8 +110,12 @@
       "headline_sector": "public",
       "government_control_at_time": "public",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-snapshot", "src-secondary"],
-      "evidence_note": "The frozen official extract names the department and role and gives 2002–2003 boundaries. Exact appointment and cessation dates, employment basis, hours, leave and overlap with party activity are unresolved.",
+      "source_ids": [
+        "src-snapshot",
+        "src-secondary",
+        "src-ifa2010"
+      ],
+      "evidence_note": "The frozen official extract names the department and role and gives 2002–2003 boundaries. Exact appointment and cessation dates, employment basis, hours, leave and overlap with party activity are unresolved.2010 hosted ministerial profile corroborates seven years as a police officer and later youth justice convenor work. Rounded duration does not resolve calendar boundaries or full-time status.",
       "counting_note": "Public employment is supported, but year-only boundaries and absent substantive full-time evidence do not establish an exact countable interval."
     },
     {
@@ -112,9 +131,91 @@
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-snapshot", "src-member", "src-secondary"],
+      "source_ids": [
+        "src-snapshot",
+        "src-member",
+        "src-secondary"
+      ],
       "evidence_note": "The frozen roster establishes House service from 9 October 2004. Current first-party and secondary biographies corroborate continuing representation; ministerial duties are nested within the elected-office spell.",
       "counting_note": "Elected office is excluded under the codebook."
+    },
+    {
+      "employer": "Northern Rivers Area Health Service — Hospital and Community Health Council",
+      "role": "Community representative",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "public_service",
+      "headline_sector": "excluded",
+      "government_control_at_time": "public",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-ifa2010"
+      ],
+      "evidence_note": "2010 ministerial profile places this before federal election; no precise term, pay or hours. Community governance is not operational health-service employment.",
+      "counting_note": "Community representation/governance or membership is excluded from employment totals; no independent substantive full-time work established.",
+      "spell_id": "DZW-health-council"
+    },
+    {
+      "employer": "Tweed Coastal Committee / Fingal Head Community Association",
+      "role": "Fingal Head community representative",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "nonprofit",
+      "headline_sector": "excluded",
+      "government_control_at_time": "mixed",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-ifa2010",
+        "src-coastal2003",
+        "src-coastal-dec2003"
+      ],
+      "evidence_note": "Council minutes record attendance13August2003 and10December2003 as Fingal Head representative. These are observations within an unknown term, not its endpoints. Community representation on council committee does not establish council payroll employment.",
+      "counting_note": "Community representation/governance or membership is excluded from employment totals; no independent substantive full-time work established.",
+      "spell_id": "DZW-coastal-committee"
+    },
+    {
+      "employer": "Community associations, Neighbourhood Watch groups and RSPCA",
+      "role": "Community group member/participant",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "nonprofit",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-ifa2010"
+      ],
+      "evidence_note": "2010 hosted biography describes participation before federal office. Specific branches, duties, dates and payment unknown; membership is not evidence of paid employment.",
+      "counting_note": "Community representation/governance or membership is excluded from employment totals; no independent substantive full-time work established.",
+      "spell_id": "DZW-community-memberships"
+    },
+    {
+      "employer": "Australian Labor Party — Richmond campaign",
+      "role": "Candidate for Richmond",
+      "start_date": "2004",
+      "end_date": "2004",
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "party_organisation",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-abc-campaign"
+      ],
+      "evidence_note": "Contemporary6October2004 ABC report identifies candidacy. Exact preselection date, campaign remuneration and overlap with other work unknown.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "DZW-campaign2004"
     }
   ],
   "sources": [
@@ -147,13 +248,67 @@
       "source_type": "other",
       "locator": "Early life and Political career sections, with parliamentary and party citations",
       "note": "Secondary synthesis naming Queensland Police, both tertiary qualifications, ALP membership and branch presidency, and corroborating the official employment sequence."
+    },
+    {
+      "url": "https://ifa.ngo/wp-content/uploads/2012/11/SOM-2010-Summary-Report-Final.pdf",
+      "publisher": "International Federation on Ageing",
+      "title": "Senior Officials Meeting summary report, May2010",
+      "source_type": "official_biography",
+      "locator": "Printedp34: ministerial speaker profile",
+      "note": "Names pre-parliament health council and coastal committee representation, community memberships, police and youth justice work, qualifications.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-ifa2010"
+    },
+    {
+      "url": "https://www.tweed.nsw.gov.au/files/assets/public/v/1/documents/council/council-meetings/archived/2003/ordinaryagenda3september2003.pdf",
+      "publisher": "Tweed Shire Council",
+      "title": "Council agenda3September2003",
+      "source_type": "government_record",
+      "locator": "Printedp147: Coastal Committee minutes13August2003, attendance",
+      "note": "Official search-index excerpt names Justine Elliot representing Fingal Head Community Association; bulk PDF extraction/find incomplete.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-coastal2003"
+    },
+    {
+      "url": "https://www.tweed.nsw.gov.au/files/assets/public/documents/council/council-meetings/archived/2004/ordinaryagenda21january2004.pdf",
+      "publisher": "Tweed Shire Council",
+      "title": "Council agenda21January2004",
+      "source_type": "government_record",
+      "locator": "Printedp157: Coastal Committee minutes10December2003",
+      "note": "Official indexed attendance names Justine Elliot for Fingal Head. Attendance observations do not establish appointment/cessation dates.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-coastal-dec2003"
+    },
+    {
+      "url": "https://alp.org.au/our-people/our-people/justine-elliot/",
+      "publisher": "Australian Labor Party",
+      "title": "Justine Elliot, Member for Richmond",
+      "source_type": "professional_profile",
+      "locator": "Biography: university qualifications",
+      "note": "First-party corroboration of both tertiary qualifications; no dates or load.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-alp-profile"
+    },
+    {
+      "url": "https://www.abc.net.au/pm/archive/articles/2004/10/06/s1214536.htm",
+      "publisher": "ABC",
+      "title": "Row over soft on paedophilia accusations,6October2004",
+      "source_type": "news",
+      "locator": "Opening paragraphs identify Labor candidate for Richmond",
+      "note": "Contemporary candidate observation; employment/campaign leave and appointment date not stated.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-abc-campaign"
     }
   ],
   "research_notes": [
     "The frozen official record documents two public-service spells but supplies only year-level boundaries and no hours.",
     "The current member biography corroborates police work but does not supply dates or full-time status.",
     "No unsupported occupation is inserted for the five-year interval after police service or the interval before election.",
-    "Ministerial roles after 2004 are nested within elected service and do not form additional headline employment."
+    "Ministerial roles after 2004 are nested within elected service and do not form additional headline employment.",
+    "Systematic follow-up2026-10-01 added omitted health-council/coastal-committee community representation and community memberships, with two official2003 coastal-committee attendance observations; upgraded qualifications with first-party sources and documented2004 candidacy.",
+    "Checked official/parliamentary biography, ALP/member profiles,2010 IFA speaker report, Tweed council2003/2004 minutes, ABC historical election coverage and queries for police academy/postings, full-time/part-time work, juvenile-justice casual basis and1997–2002 activities. No individual hours or exact employment/study boundaries located.",
+    "First speech2December2004, parliamentary item0074, remains an unresolved lead: Parlinfo link returned403 and alternate Hansard display restricted URL. Byron Echo volume20 issue52 indexed police profile remains a lead; web opening failed400 Content length is too large:14863597. Individual-source errors did not terminate research.",
+    "Aggregator dates showing1January for1990/1997 and2002/2003 were rejected as unsupported precision; frozen official year boundaries retained. Seven-year police duration and front-line title do not prove full-time service. No family-care interval inferred from family biography."
   ],
   "open_questions": [
     "What were the exact Queensland Police appointment, posting, rank, hours, leave and cessation details?",
@@ -161,7 +316,8 @@
     "What were the dates and study loads for both tertiary qualifications, and how did they overlap employment?",
     "What were the exact Juvenile Justice appointment, employment basis, hours, leave and cessation details?",
     "What paid work or campaign activity occurred from the 2003 role ending until election on 9 October 2004?",
-    "Was the Tweed Coast branch presidency remunerated, and how did it overlap public employment and campaigning?"
+    "Was the Tweed Coast branch presidency remunerated, and how did it overlap public employment and campaigning?",
+    "What were appointment/cessation dates and remuneration, if any, for the health council and coastal committee representative roles?",
+    "Can the2December2004 first speech or a public police employment/alumni record resolve police postings, hours, leave or1997–2002 activities?"
   ]
 }
-
