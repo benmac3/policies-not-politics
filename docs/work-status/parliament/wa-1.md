@@ -8,10 +8,12 @@ State: in-progress
 
 ## Durable cursor
 
-- Next initial record: 257613 GHOSH, Varun.
-- Initial records in this batch: 7/14; all remain unresolved pending follow-up.
+- Next initial record: 74519 GORMAN, the Hon. Patrick.
+- Initial records in this batch: 8/14; all remain unresolved pending follow-up.
 
 ## Saved records and follow-up
+
+- 257613 GHOSH, Varun: blocked; last review 2026-10-01. Follow-up: Obtain exact appointments/cessations, full-time hours and leave for Mallesons, White & Case and KWM; resolve 2010–11 study/training overlap and 2013–14 transitions. Check any earlier paid work before 2007. Obtain World Bank consultant contract, workload and payer; intergovernmental institution is publicly controlled, but consultant versus employee and headline treatment remain unresolved. Confirm barrister practice cessation/suspension in 2024 and substantive workload; clarify university sessional/adjunct remuneration and continuing dates, Australian Book Review paid writing, and governance remuneration/overlap. Year labels are not exact durations; ongoing CV dates apply to 2023, not automatically to snapshot.
 
 - 316550 FRENCH, Tom: blocked; last review 2026-10-01. Follow-up: Identify pub and electrical employers/entities, dates, hours, leave and job changes. Resolve degree/trade sequence discrepancy between ABC 2022 and current first-person summary; obtain university/admission records. Separate employment hours from study and campaign periods. Obtain ETU and UPFU role titles, appointment/cessation dates and employment conditions from union annual reports/staff archives; check whether any private legal-practice employer exists. Do not treat all legal work as private sector.
 
@@ -29,7 +31,7 @@ Detailed attempted avenues, discrepancies and remaining leads are preserved in e
 
 ## National coverage
 
-157/226 initial records; 69 unstarted; 157 unresolved; 0 research-complete. Counts use branch-owned remote records plus this commit, not the deployed site.
+158/226 initial records; 68 unstarted; 158 unresolved; 0 research-complete. Counts use branch-owned remote records plus this commit, not the deployed site.
 
 ## Attempt measurement — 2026-10-01 08:00 Brisbane cycle
 
@@ -46,12 +48,13 @@ Detailed attempted avenues, discrepancies and remaining leads are preserved in e
 
 
 
+
 ## Active attempt — 2026-10-01 12:00 Brisbane cycle
 
-- Continuation: 0. Started: 2026-10-01T12:03:48+10:00; last checkpoint: 2026-10-01T12:12:46+10:00.
+- Continuation: 0. Started: 2026-10-01T12:03:48+10:00; last checkpoint: 2026-10-01T12:14:25+10:00.
 - Starting WA-1 head: 79b1d5c96ee3dde69dd2f5453e96a2aa434baae2; national baseline 153/226, all unresolved, 0 complete. Branch-owned remote audit: NSW 58, VIC 50, QLD 42, WA 3; no integrated member files on main or parliament-experience.
 - Active writer: this 12:00 invocation; state: processing. Predecessor successor execution unverified: no subsequent member commits found at start. No active conflicting writer observed.
-- Progress: 4 new initial members, 0 enriched existing, 0 newly complete; cycle totals same; Brisbane-day totals 11 new, 0 enriched, 0 newly complete. Count after remote verification only.
+- Progress: 5 new initial members, 0 enriched existing, 0 newly complete; cycle totals same; Brisbane-day totals 12 new, 0 enriched, 0 newly complete. Count after remote verification only.
 - Outcome: ongoing. STOPPING REASON: none; continuing to next member after remote verification. Scheduler terminal status not exposed. Successor not requested while research remains active.
 - Validation: record schema/enums/source references/date syntax, build_careers.load_records(), batch coverage and repository validation. Only assigned member and checkpoint changed.
 - Recovered source errors: APH open (403) Forbidden; obsolete biography URL inaccessible; Anglicare PDF open (400) Content length is too large: 15893687. Alternative first-party and indexed evidence used.
