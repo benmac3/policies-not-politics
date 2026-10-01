@@ -6,7 +6,7 @@
   "snapshot_party": "Independent",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/261393",
   "research_status": "blocked",
-  "last_reviewed": "2026-09-22",
+  "last_reviewed": "2026-10-01",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -27,7 +27,10 @@
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-federal-speech", "src-secondary"],
+      "source_ids": [
+        "src-federal-speech",
+        "src-secondary"
+      ],
       "evidence_note": "Gee's federal first speech identifies Sydney University and St Paul's College; his NSW inaugural speech says he studied economics and then law. The secondary biography reports Bachelor of Economics (Honours) and Bachelor of Laws degrees. Enrolment and graduation dates, load and employment overlap are unresolved.",
       "counting_note": "Study is excluded under the codebook."
     },
@@ -44,25 +47,36 @@
       "headline_sector": "private",
       "government_control_at_time": "private",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-nsw-speech", "src-federal-speech"],
+      "source_ids": [
+        "src-nsw-speech",
+        "src-federal-speech"
+      ],
       "evidence_note": "Both inaugural speeches say Gee commenced life as a solicitor before moving to Asia with his brothers. Employer, admission and employment dates, hours and continuity are not identified.",
       "counting_note": "Private legal employment is supported, but no countable full-time interval is established."
     },
     {
       "spell_id": "261393-asia-business",
-      "employer": "Family consumer-products licensing business (legal entity unresolved)",
-      "role": "Co-founder/operator, Hong Kong",
+      "employer": "Wave Licensing International (family business; exact incorporated entity unresolved)",
+      "role": "Co-founder/operator in Hong Kong; reported director",
       "start_date": null,
-      "end_date": "1999",
-      "date_precision": "mixed",
+      "end_date": null,
+      "date_precision": "unknown",
       "employment_status": "self_employed",
       "fte_fraction": null,
       "category": "private_enterprise",
       "headline_sector": "private",
       "government_control_at_time": "private",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-nsw-speech", "src-federal-speech", "src-secondary"],
-      "evidence_note": "Gee says he and his brothers built a multi-country business licensing consumer products and promotions for international entertainment companies; he was based in Hong Kong while his brothers were in Singapore. The secondary biography places his return to Australia in 1999. The legal entity, commencement and cessation dates, ownership, remuneration, hours and breaks are unresolved.",
+      "source_ids": [
+        "src-nsw-speech",
+        "src-federal-speech",
+        "src-secondary",
+        "src-wave-founders",
+        "src-scmp-1998",
+        "src-abc-2015",
+        "src-aph-first-speech"
+      ],
+      "evidence_note": "Gee describes a licensing business with brothers David and Matthew, operating from Hong Kong and Singapore. The brothers company biographies name Wave Licensing International, founded in 1996; a public indexed SCMP excerpt dated 3 December 1998 names Andrew as its Hong Kong director and Matthew in Singapore. Identification is supported by the matching people, business and locations; exact incorporated entity and Andrew ownership/appointment dates require corporate records. ABC 2015 corroborates return to Australia in 1999, but return is not proof of business cessation, so the former 1999 end field is now null. Company founding is not silently used as his employment start. Hours, remuneration and breaks remain unknown.",
       "counting_note": "Private self-employment is supported, but the incomplete dates and unknown hours do not support an exact total."
     },
     {
@@ -78,8 +92,14 @@
       "headline_sector": "private",
       "government_control_at_time": "private",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-nsw-speech", "src-federal-speech", "src-secondary"],
-      "evidence_note": "Gee identifies Colin Biggers & Paisley as his first solicitor role after returning to Australia and describes litigation work there. The secondary biography places the return in 1999; the frozen record and speeches place call to the bar in 2003. Exact appointment and departure dates, hours and leave are unresolved.",
+      "source_ids": [
+        "src-nsw-speech",
+        "src-federal-speech",
+        "src-secondary",
+        "src-abc-2015",
+        "src-aph-first-speech"
+      ],
+      "evidence_note": "Gee identifies Colin Biggers & Paisley as his first solicitor role after returning to Australia and describes litigation work there. The secondary biography places the return in 1999; the frozen record and speeches place call to the bar in 2003. Exact appointment and departure dates, hours and leave are unresolved. ABC 2015 directly corroborates the 1999 return and 2003 Bar chronology. These remain contextual year-level bounds, not precise employment appointment dates.",
       "counting_note": "Private employment is supported, but year-level boundaries and unknown substantive full-time status prevent calculation."
     },
     {
@@ -95,8 +115,15 @@
       "headline_sector": "private",
       "government_control_at_time": "private",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-snapshot", "src-nsw-speech", "src-federal-speech", "src-secondary"],
-      "evidence_note": "The frozen occupation extract gives barrister from 2003 to 2011. Gee says he was called to the bar in 2003, read at Selborne Chambers, then joined Queen's Square Chambers and remained a member after moving to Orange; he says he practised in Orange and Sydney until the 2011 NSW election. Exact admission, reading, chamber and cessation dates, practice entity, hours and leave are unresolved.",
+      "source_ids": [
+        "src-snapshot",
+        "src-nsw-speech",
+        "src-federal-speech",
+        "src-secondary",
+        "src-abc-2015",
+        "src-aph-first-speech"
+      ],
+      "evidence_note": "The frozen occupation extract gives barrister from 2003 to 2011. Gee says he was called to the bar in 2003, read at Selborne Chambers, then joined Queen's Square Chambers and remained a member after moving to Orange; he says he practised in Orange and Sydney until the 2011 NSW election. Exact admission, reading, chamber and cessation dates, practice entity, hours and leave are unresolved. Contemporary ABC 2015 profile places the Orange relocation in 2005; this marks a location change within the practice, not a new employer or additional overlapping duration.",
       "counting_note": "Private self-employment is supported, but year-level dates and unknown hours do not establish a substantive full-time interval."
     },
     {
@@ -112,7 +139,11 @@
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-nsw-speech", "src-federal-speech", "src-secondary"],
+      "source_ids": [
+        "src-nsw-speech",
+        "src-federal-speech",
+        "src-secondary"
+      ],
       "evidence_note": "The NSW inaugural speech confirms election in March 2011; the federal speech describes five years in NSW Parliament. The secondary biography, citing parliamentary and electoral records, gives service from 26 March 2011 until resignation on 30 May 2016.",
       "counting_note": "Elected office is excluded under the codebook."
     },
@@ -129,7 +160,10 @@
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-federal-speech", "src-secondary"],
+      "source_ids": [
+        "src-federal-speech",
+        "src-secondary"
+      ],
       "evidence_note": "Gee's speeches document National Party membership and campaigning; the secondary biography records NSW endorsement in 2010, federal preselection on 30 April 2016 and resignation from the party on 23 December 2022. Membership commencement, campaign remuneration and any separate party employment are unresolved; parliamentary service is recorded separately.",
       "counting_note": "Party activity is excluded under the codebook and is not assumed to be employment."
     },
@@ -146,7 +180,11 @@
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-snapshot", "src-federal-speech", "src-secondary"],
+      "source_ids": [
+        "src-snapshot",
+        "src-federal-speech",
+        "src-secondary"
+      ],
       "evidence_note": "The frozen roster and biographies establish House service from the 2 July 2016 election. Ministerial and committee offices are nested within elected service; he has sat as an Independent since leaving the Nationals on 23 December 2022.",
       "counting_note": "Elected office is excluded under the codebook."
     }
@@ -191,17 +229,60 @@
       "source_type": "other",
       "locator": "Early life and Politics sections with parliamentary, news and archived-profile citations",
       "note": "Secondary synthesis supplies qualification labels, the 1999 return, legal practice fields, exact state-service dates, federal preselection and party-resignation date."
+    },
+    {
+      "url": "https://www.cbdcollegewhitecardvic.edu.au/about-us/",
+      "publisher": "CBD College",
+      "title": "About us — David and Matthew Gee biographies",
+      "source_type": "professional_profile",
+      "locator": "Our Board; David and Matthew profiles",
+      "note": "Both profiles identify co-founding Wave Licensing International in 1996 and operations in Singapore/Hong Kong. This is company/family context, not direct proof of Andrew employment dates; their other jobs are not his.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-wave-founders"
+    },
+    {
+      "url": "https://www.scmp.com/article/264552/undercover-hunt-rogue-teletubbies",
+      "publisher": "South China Morning Post",
+      "title": "Undercover hunt for rogue Teletubbies, 3 December 1998",
+      "source_type": "news",
+      "locator": "Public search-index excerpt naming Andrew Gee as director and Matthew Gee in Singapore",
+      "note": "Search results expose an indexed archived excerpt identifying Andrew Gee as director of Wave Licensing International in Hong Kong. Original publisher open returned 403; archive was not opened to bypass it. Use is limited to the public excerpt, corroborated by family/company biographies and his speech; obtain primary corporate appointment records for exact entity and dates.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-scmp-1998"
+    },
+    {
+      "url": "https://www.abc.net.au/news/elections/nsw/2015/guide/oran",
+      "publisher": "ABC / Antony Green",
+      "title": "Orange — NSW Election 2015",
+      "source_type": "news",
+      "locator": "Andrew Gee candidate biography",
+      "note": "Contemporary profile directly supports return to Australia in 1999, NSW Bar in 2003 and relocation to Orange in 2005. Its separate Legislative Council label is erroneous against the established Legislative Assembly service and is not adopted.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-abc-2015"
+    },
+    {
+      "url": "https://www.aph.gov.au/Senators_and_Members/Members/FirstSpeeches/45th_Parliament/Andrew_Gee",
+      "publisher": "Parliament of Australia",
+      "title": "First Speech: Mr Andrew Gee MP, 14 September 2016",
+      "source_type": "government_record",
+      "locator": "Career paragraphs after law school and return from Asia",
+      "note": "Official parliamentary version supports the brothers business, Hong Kong/Singapore division and subsequent Colin Biggers & Paisley and barrister sequence; supplements existing transcript copy.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-aph-first-speech"
     }
   ],
   "research_notes": [
     "The official occupation line starts with barrister practice in 2003; Gee's two inaugural speeches identify earlier solicitor and self-employed business work, recorded separately without invented dates.",
     "The 1999 return and exact state-service endpoints come from a secondary synthesis tied to cited contemporary and parliamentary material; they remain follow-up targets for direct primary corroboration.",
     "Chamber membership identifies professional affiliation, not an employer or proof of full-time work.",
-    "The interval between resignation from NSW Parliament and the federal election is not classified as paid employment; candidacy and campaigning are recorded as party activity with remuneration unknown."
+    "The interval between resignation from NSW Parliament and the federal election is not classified as paid employment; candidacy and campaigning are recorded as party activity with remuneration unknown.",
+    "Follow-up 2026-10-01: identified the previously unnamed Asian business as Wave Licensing International using the matching family/company biographies and a contemporary indexed director statement. Exact corporate entity/ownership and operational dates still need primary records; the direct SCMP page was inaccessible (403) and the public indexed excerpt is explicitly distinguished from a full-text read.",
+    "Searched named brothers and licensing business, former solicitor/chambers profiles, bar/employer records and full-time terms. No initial law firm, admission day, hours, leave or complete business appointment interval established. Reject same-name British architect/tribunal member, Cambridge academic, Macquarie executive and rugby player; do not assign the brothers later Wave Entertainment, Disney, coffee or CBD College work to Andrew.",
+    "Next avenues: corporate/public trade records for Wave Licensing International in Hong Kong and Singapore; contemporary CBP and NSW Bar directories for appointments; chamber records and employment/leave evidence. The 1996 founding and 1999 return provide leads, not a manufactured full-time interval."
   ],
   "open_questions": [
     "What were the admission date, employer, dates, hours and leave for Gee's initial solicitor work before Asia?",
-    "What was the licensing business's legal name, ownership, Hong Kong dates, remuneration and weekly hours?",
+    "What was Wave Licensing International's exact incorporated entity, Andrew's ownership/director appointment and working dates, remuneration and weekly hours?",
     "What were the exact Colin Biggers & Paisley appointment dates, employment status, hours and leave?",
     "What were the exact dates, practice entity, hours, breaks and overlap for the Selborne and Queen's Square Chambers practice?",
     "Did legal practice continue at any level after the March 2011 election?",
