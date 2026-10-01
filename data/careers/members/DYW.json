@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/DYW",
   "research_status": "blocked",
-  "last_reviewed": "2026-09-18",
+  "last_reviewed": "2026-10-01",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -17,7 +17,7 @@
     {
       "spell_id": "DYW-newsagency",
       "employer": "Beverly Hills Newsagency",
-      "role": "Sales worker",
+      "role": "Sunday newspaper delivery / sales worker",
       "start_date": "1982",
       "end_date": "1987",
       "date_precision": "year",
@@ -27,8 +27,12 @@
       "headline_sector": "private",
       "government_control_at_time": "private",
       "counting_status": "not_counted",
-      "source_ids": ["src-snapshot", "src-nsw-parliament"],
-      "evidence_note": "The NSW Parliament biography identifies the employer and 1982–1987 years, refining the frozen biography's combined 1982–1991 sales/shop-assistant entry. Burke was aged about 12 at commencement; hours, pay, school-term pattern and exact dates are unresolved.",
+      "source_ids": [
+        "src-snapshot",
+        "src-nsw-parliament",
+        "src-inaugural2003"
+      ],
+      "evidence_note": "The NSW Parliament biography identifies the employer and 1982–1987 years, refining the frozen biography's combined 1982–1991 sales/shop-assistant entry. Burke was aged about 12 at commencement; hours, pay, school-term pattern and exact dates are unresolved. Inaugural speech identifies Sunday deliveries, initially10% sales commission later12.5%, and a six-year recollection. Supports paid work, not a full-time roster; original year endpoints retained without age-based recalculation.",
       "counting_note": "Private-sector work is identified, but neither substantive full-time status nor countable day/month boundaries are proven."
     },
     {
@@ -44,8 +48,12 @@
       "headline_sector": "private",
       "government_control_at_time": "private",
       "counting_status": "not_counted",
-      "source_ids": ["src-snapshot", "src-nsw-parliament"],
-      "evidence_note": "The NSW Parliament biography identifies Grace Bros Roselands and 1985–1991, overlapping newsagency work through 1987 and university study. Hours, leave and exact dates are unresolved.",
+      "source_ids": [
+        "src-snapshot",
+        "src-nsw-parliament",
+        "src-inaugural2003"
+      ],
+      "evidence_note": "The NSW Parliament biography identifies Grace Bros Roselands and 1985–1991, overlapping newsagency work through 1987 and university study. Hours, leave and exact dates are unresolved. First speech describes supplementary work begun at15; not enough to establish formal casual/part-time status or weekly hours.",
       "counting_note": "Private-sector work is identified, but full-time status is not established and overlapping intervals cannot be summed."
     },
     {
@@ -54,14 +62,17 @@
       "role": "Bachelor of Arts student",
       "start_date": null,
       "end_date": "1992",
-      "date_precision": "mixed",
+      "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "study",
       "headline_sector": "excluded",
       "government_control_at_time": "unknown",
       "counting_status": "excluded",
-      "source_ids": ["src-minister", "src-nsw-parliament"],
+      "source_ids": [
+        "src-minister",
+        "src-nsw-parliament"
+      ],
       "evidence_note": "Official biographies establish the qualification and the NSW Parliament biography gives 1992 completion. Enrolment date and study load are unresolved.",
       "counting_note": "Study is excluded under the codebook."
     },
@@ -78,7 +89,11 @@
       "headline_sector": "excluded",
       "government_control_at_time": "unknown",
       "counting_status": "excluded",
-      "source_ids": ["src-snapshot", "src-minister", "src-nsw-parliament"],
+      "source_ids": [
+        "src-snapshot",
+        "src-minister",
+        "src-nsw-parliament"
+      ],
       "evidence_note": "Official biographies agree on the role and year endpoints. Exact appointment/payroll dates, hours and leave are unresolved.",
       "counting_note": "Political staff employment is excluded under the codebook."
     },
@@ -88,14 +103,17 @@
       "role": "Bachelor of Laws student",
       "start_date": null,
       "end_date": "1994",
-      "date_precision": "mixed",
+      "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "study",
       "headline_sector": "excluded",
       "government_control_at_time": "unknown",
       "counting_status": "excluded",
-      "source_ids": ["src-minister", "src-nsw-parliament"],
+      "source_ids": [
+        "src-minister",
+        "src-nsw-parliament"
+      ],
       "evidence_note": "Official biographies establish the qualification and the NSW Parliament biography gives 1994 completion. Enrolment date, load and overlap with political employment are unresolved.",
       "counting_note": "Study is excluded under the codebook."
     },
@@ -112,7 +130,11 @@
       "headline_sector": "excluded",
       "government_control_at_time": "unknown",
       "counting_status": "excluded",
-      "source_ids": ["src-snapshot", "src-minister", "src-nsw-parliament"],
+      "source_ids": [
+        "src-snapshot",
+        "src-minister",
+        "src-nsw-parliament"
+      ],
       "evidence_note": "Official biographies agree on the role and year endpoints. Exact appointment/payroll dates, hours and leave are unresolved.",
       "counting_note": "Political staff employment is excluded under the codebook."
     },
@@ -129,7 +151,10 @@
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-nsw-parliament", "src-nsw-hansard"],
+      "source_ids": [
+        "src-nsw-parliament",
+        "src-nsw-hansard"
+      ],
       "evidence_note": "The NSW Parliament biography records lobbyist/director service in 1995–1997; a contemporaneous parliamentary record identifies Burke as the group's coordinator. Legal entity, pay, hours, exact dates and overlap with Aticus are unresolved.",
       "counting_note": "Advocacy/nonprofit work is excluded under the codebook; no private-enterprise classification is inferred from the title 'director'."
     },
@@ -146,7 +171,12 @@
       "headline_sector": "private",
       "government_control_at_time": "private",
       "counting_status": "not_counted",
-      "source_ids": ["src-snapshot", "src-minister", "src-nsw-parliament", "src-smh-secondary"],
+      "source_ids": [
+        "src-snapshot",
+        "src-minister",
+        "src-nsw-parliament",
+        "src-smh-secondary"
+      ],
       "evidence_note": "Official biographies supply the role and years, while secondary reporting describes a business providing advocacy and communication training. Sources vary between Aticus and Atticus. Directorship alone does not establish employee status, substantive hours or remuneration; exact dates and overlap with advocacy work remain unresolved.",
       "counting_note": "A private company is identified, but directorship does not prove full-time employment, so no headline duration is calculated."
     },
@@ -163,7 +193,9 @@
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-nsw-parliament"],
+      "source_ids": [
+        "src-nsw-parliament"
+      ],
       "evidence_note": "The NSW Parliament biography records this 1997 role. Exact dates, pay, hours and overlap with Aticus, Euthanasia No! and the SDA transition are unresolved.",
       "counting_note": "Association/campaign work is excluded under the codebook."
     },
@@ -180,8 +212,14 @@
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-snapshot", "src-minister", "src-nsw-parliament", "src-parlinfo"],
-      "evidence_note": "Official biographies agree on employer, role and year endpoints. Exact appointment and cessation dates, hours, leave and the 1997 overlap with other roles are unresolved.",
+      "source_ids": [
+        "src-snapshot",
+        "src-minister",
+        "src-nsw-parliament",
+        "src-parlinfo",
+        "src-inaugural2003"
+      ],
+      "evidence_note": "Official biographies agree on employer, role and year endpoints. Exact appointment and cessation dates, hours, leave and the 1997 overlap with other roles are unresolved. First speech describes five-and-a-half years as local organiser for Roselands. No exact start inferred from rounded duration; client workplaces are not separate employers.",
       "counting_note": "Union employment is excluded under the codebook."
     },
     {
@@ -197,7 +235,10 @@
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-nsw-parliament", "src-parlinfo"],
+      "source_ids": [
+        "src-nsw-parliament",
+        "src-parlinfo"
+      ],
       "evidence_note": "Official parliamentary biographies provide exact service dates. Committee and officeholder duties are nested within this elected service. Any campaign period or other work between resignation and federal election is unresolved.",
       "counting_note": "Elected office is excluded under the codebook."
     },
@@ -214,9 +255,130 @@
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-snapshot", "src-parlinfo", "src-minister", "src-personal"],
+      "source_ids": [
+        "src-snapshot",
+        "src-parlinfo",
+        "src-minister",
+        "src-personal"
+      ],
       "evidence_note": "The frozen roster and current official biographies establish continuous House service from 9 October 2004. Ministerial and shadow appointments do not create additional employment spells for headline counting.",
       "counting_note": "Elected office is excluded under the codebook."
+    },
+    {
+      "employer": "Bankstown Community College",
+      "role": "President",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "nonprofit",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-inaugural2003"
+      ],
+      "evidence_note": "Presidency observed7May2003; boundaries and remuneration unknown. Governance alone is not substantive employment.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "DYW-bankstown-college"
+    },
+    {
+      "employer": "Unidentified local benevolent foundation",
+      "role": "President",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "nonprofit",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-inaugural2003"
+      ],
+      "evidence_note": "Presidency observed7May2003; name, dates and pay unknown. Lakemba benevolent-society register entries remain an identity lead, not a proven match.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "DYW-benevolent-foundation"
+    },
+    {
+      "employer": "Public-speaking club at Goulburn correctional centre; sponsoring organisation unidentified",
+      "role": "Volunteer public-speaking facilitator",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unpaid_work",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-inaugural2003"
+      ],
+      "evidence_note": "Explicit retrospective volunteering recollection in2003; no start/end dates. Prison location does not prove government employment.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "DYW-goulburn-volunteer"
+    },
+    {
+      "employer": "Australian Young Labor",
+      "role": "National President",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "party_organisation",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-inaugural2003"
+      ],
+      "evidence_note": "Prior presidency recalled in2003. Dates and payment unresolved; not inferred from secondary chronology.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "DYW-young-labor"
+    },
+    {
+      "employer": "Australian Labor Party, Watson Federal Electorate Council",
+      "role": "Secretary",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "party_organisation",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-inaugural2003"
+      ],
+      "evidence_note": "Serving inMay2003; described as over ten years. Rounded duration not converted into an exact appointment date; pay unknown.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "DYW-watson-fec"
+    },
+    {
+      "employer": "University of Technology Sydney",
+      "role": "Council member representing NSW Legislative Council",
+      "start_date": "2003-05-07",
+      "end_date": "2004-06",
+      "date_precision": "mixed",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "university",
+      "headline_sector": "excluded",
+      "government_control_at_time": "public",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-uts-council",
+        "src-uts-ar2003",
+        "src-minister"
+      ],
+      "evidence_note": "Institution gives7May2003–28June2004; ministerial biography gives24June2004 cessation with state resignation. Endpoint retained at common month precision pending reconciliation.2003 annual report names Burke and explicitly reports Council work unpaid; do not add to elected service or treat as university employment.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "DYW-uts-council"
     }
   ],
   "sources": [
@@ -289,6 +451,46 @@
       "source_type": "news",
       "locator": "Account of establishing Atticus and its training work",
       "note": "Secondary detail used only to describe the company activity; official biographies control the recorded years."
+    },
+    {
+      "url": "https://files.parliament.nsw.gov.au/fileapi/ParlFiles/GetArtifact?serverRelativeUrl=%2Fmember%2Ffiles%2F2114%2FBurke.pdf",
+      "publisher": "Parliament of New South Wales",
+      "title": "Tony Burke inaugural speech, 7 May 2003",
+      "source_type": "government_record",
+      "locator": "PDF pp1–3: early work, community roles and volunteering",
+      "note": "First-person detail supplements biography; footer identifies speech date, distinct from20May2003 print/export date.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-inaugural2003"
+    },
+    {
+      "url": "https://www.uts.edu.au/about/leadership-governance/governance/committees/uts-council/former-members-council",
+      "publisher": "University of Technology Sydney",
+      "title": "Former members of Council",
+      "source_type": "other",
+      "locator": "2004 section: Tony Burke",
+      "note": "Institution records7May2003–28June2004; government ministerial biography instead ends24June2004.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-uts-council"
+    },
+    {
+      "url": "https://www.uts.edu.au/sites/default/files/gsu-aboututs-pdf-annualreport03fin.pdf",
+      "publisher": "University of Technology Sydney",
+      "title": "Annual Report2003 financial statements",
+      "source_type": "government_record",
+      "locator": "Printed p16, note7.1 Responsible persons",
+      "note": "Lists Burke commencingMay2003; states university Council members received no remuneration for Council work. This is governance remuneration evidence, not an employment FTE.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-uts-ar2003"
+    },
+    {
+      "url": "https://www.aticus.com/",
+      "publisher": "Aticus",
+      "title": "Aticus services and principal",
+      "source_type": "employer",
+      "locator": "Home: principal Ben Richards; company branding",
+      "note": "Current same-name training business is a lead for historical identity, not proof of Burke tenure or1996 incorporation.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-aticus-current"
     }
   ],
   "open_questions": [
@@ -298,5 +500,14 @@
     "What is the verified corporate name and registration history for Aticus/Atticus Pty Ltd, and did the directorship involve substantive full-time work?",
     "What were the exact SDA appointment/cessation dates, hours and leave, including any overlap with the 2003 state election campaign?",
     "Was there paid employment or campaigning between resignation from the NSW Legislative Council on 24 June 2004 and federal election on 9 October 2004?"
+  ],
+  "research_notes": [
+    "Systematic follow-up2026-10-01; repaired missing research_notes. Added remuneration/work-pattern evidence to retail record and previously omitted community, volunteering, party and university-governance roles. No new full-time duration can be calculated; missing facts remain unknown.",
+    "Preserved official retail and employer year boundaries. Commission is remuneration evidence, not employee/contractor status, weekly hours or full-time work. Senior titles and rounded career recollections are not evidence of hours or precise dates. University Council activity is distinct from academic employment and overlaps elected office.",
+    "UTS institutional term history conflicts by four days with government biography; retain2004-06 endpoint and both exact claims in evidence note. Verified2003 annual-report remuneration note supports exclusion of Council work; avoid generalising into an assertion about all other roles or later years.",
+    "Searched NSW first speech/biography/Hansard, UTS Council history and historical annual financial statements, government biography, Aticus company site/registration indexes, retail hours/casual queries, community-college and benevolent-society references. NSW dynamic biography and Aticus subpage inaccessible; ABR follow-up400Timeout. Primary PDF and institutional histories available; no job-wide error.",
+    "Aticus identity remains partially unresolved: employer site names principal Ben Richards; contemporary2010 reporting names Richards and Ray D’Cruz alongside Burke. Public register lead ABN81078289513/ACN078289513 and1997 incorporation is not yet securely linked to the1996–97 parliamentary claim. Do not overwrite official years or equate company registration with personal work. Current brand alone cannot prove historic continuity.",
+    "Unrelated cinema-industry executive Tony Burke, British unionist Tony Burke and university academics excluded as namesakes. Degree alone does not establish practising solicitor employment. Generic casual-to-permanent policy articles do not establish his personal retail hours.",
+    "Follow-up priorities: retail weekly hours and contractual status; Aticus incorporation/name link and actual operational work; campaign/advocacy payroll and overlaps; SDA exact dates/leave; college and benevolent-foundation entity/term/payment; party terms and Goulburn volunteering dates;2004 transition paid work. Last review2026-10-01; advance to next nationwide follow-up."
   ]
 }
