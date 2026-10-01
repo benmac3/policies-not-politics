@@ -6,7 +6,7 @@
   "snapshot_party": "Independent",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/280304",
   "research_status": "blocked",
-  "last_reviewed": "2026-09-29",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -66,9 +66,10 @@
       "government_control_at_time": "unknown",
       "counting_status": "insufficient_evidence",
       "source_ids": [
-        "src-2"
+        "src-2",
+        "src-8"
       ],
-      "evidence_note": "Official role listing; dates/hours/control incomplete.",
+      "evidence_note": "Official role listing; dates/hours/control incomplete. First-person2023 interview reports seven years of this work, without dated boundaries or full-time terms; not converted into headline years.",
       "counting_note": "Dates, employer control and/or substantive full-time status remain insufficient for a duration calculation; unknown is not zero."
     },
     {
@@ -151,7 +152,7 @@
     {
       "spell_id": "280304-08",
       "employer": "East Gippsland Shire Council",
-      "role": "Manager",
+      "role": "Project manager, Advancing Country Towns",
       "start_date": "2011",
       "end_date": "2013",
       "date_precision": "year",
@@ -162,9 +163,10 @@
       "government_control_at_time": "public",
       "counting_status": "insufficient_evidence",
       "source_ids": [
-        "src-1"
+        "src-1",
+        "src-7"
       ],
-      "evidence_note": "Official role listing; dates/hours/control incomplete.",
+      "evidence_note": "Official role listing; dates/hours/control incomplete. Appointment profile identifies project; APH year boundaries retained.",
       "counting_note": "Dates, employer control and/or substantive full-time status remain insufficient for a duration calculation; unknown is not zero."
     },
     {
@@ -230,9 +232,9 @@
       "spell_id": "280304-12",
       "employer": "Australian Conservation Foundation",
       "role": "First Nations consultant",
-      "start_date": null,
+      "start_date": "2019",
       "end_date": null,
-      "date_precision": "unknown",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "nonprofit",
@@ -241,9 +243,10 @@
       "counting_status": "excluded",
       "source_ids": [
         "src-1",
-        "src-3"
+        "src-3",
+        "src-6"
       ],
-      "evidence_note": "Organisation-specific consultancy; actual contracting employer may differ and needs verification.",
+      "evidence_note": "Co-authored report places ACF engagement in early2019. End and contracting entity unknown; client is not necessarily payroll employer.",
       "counting_note": "Excluded from the two employment headlines under the codebook."
     },
     {
@@ -309,7 +312,7 @@
     {
       "spell_id": "280304-16",
       "employer": "Amnesty International",
-      "role": "Indigenous lead",
+      "role": "Indigenous Rights Lead",
       "start_date": "2019",
       "end_date": "2020",
       "date_precision": "year",
@@ -321,9 +324,11 @@
       "counting_status": "excluded",
       "source_ids": [
         "src-1",
-        "src-3"
+        "src-3",
+        "src-7",
+        "src-9"
       ],
-      "evidence_note": "Nonprofit role between parliaments; no full-time inference.",
+      "evidence_note": "Nonprofit role between parliaments; no full-time inference. Announcement23January2020 and employer statement23March2020 corroborate role; announcement does not disprove APH2019 commencement.",
       "counting_note": "Excluded from the two employment headlines under the codebook."
     },
     {
@@ -382,6 +387,82 @@
       ],
       "evidence_note": "Qualifications attested; course dates not inferred.",
       "counting_note": "Excluded from the two employment headlines under the codebook."
+    },
+    {
+      "employer": "Consulting entity unidentified; clients The Smith Family, Host Plus Superannuation, Holding and Redlich Lawyers, Jesuit Social Services",
+      "role": "Reconciliation action plan and policy adviser",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "unknown",
+      "government_control_at_time": "unknown",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-6"
+      ],
+      "evidence_note": "Clients named in author biography; separate contracts, dates and remuneration unknown.",
+      "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
+      "spell_id": "280304-20"
+    },
+    {
+      "employer": "Environment Victoria (client; contracting entity unknown)",
+      "role": "Partnership adviser for coal campaign",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "unknown",
+      "government_control_at_time": "unknown",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-6"
+      ],
+      "evidence_note": "Author biography describes partnership work; may overlap forest consulting.",
+      "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
+      "spell_id": "280304-21"
+    },
+    {
+      "employer": "Australian Greens",
+      "role": "First Nations policy rewrite consultant",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "party_organisation",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-6"
+      ],
+      "evidence_note": "Author biography identifies policy commission; political work excluded.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "280304-22"
+    },
+    {
+      "employer": "Our Watch (client; contracting entity unknown)",
+      "role": "Intersectionality adviser",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "unknown",
+      "government_control_at_time": "unknown",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-7"
+      ],
+      "evidence_note": "January2020 appointment profile identifies recent work; terms and dates unestablished.",
+      "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
+      "spell_id": "280304-23"
     }
   ],
   "sources": [
@@ -434,12 +515,53 @@
       "source_type": "official_biography",
       "locator": "Northcote service",
       "note": "Reports election 18 November 2017 through 19 December 2018."
+    },
+    {
+      "url": "https://assets.nationbuilder.com/victorianforestalliance/pages/339/attachments/original/1684741573/Respecting_Nature_through_First_Law_Final_Report.pdf?1684741573=",
+      "publisher": "Lidia Thorpe and Anica Niepraschk / Victorian Forest Alliance hosted report",
+      "title": "Respecting Nature through First Law",
+      "source_type": "other",
+      "locator": "Printed pp.5,7 and introduction",
+      "note": "Co-authored report: ACF engagement in early2019; author biography identifies advisory clients, Environment Victoria work and Greens policy commission.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-6"
+    },
+    {
+      "url": "https://thirdsector.com.au/amnesty-appoints-leading-indigenous-activist/",
+      "publisher": "Third Sector",
+      "title": "Amnesty appoints leading Indigenous Activist,23January2020",
+      "source_type": "news",
+      "locator": "Appointment and recent-work paragraphs",
+      "note": "Appointment announcement names OurWatch intersectionality work and council project. Publication date is not contractual commencement; retain APH2019 start pending clarification.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-7"
+    },
+    {
+      "url": "https://7ampodcast.com.au/episodes/the-fight-for-a-voice-the-progressives-voting-no",
+      "publisher": "Schwartz Media / Lidia Thorpe interview",
+      "title": "The Fight for a Voice,10October2023",
+      "source_type": "news",
+      "locator": "Transcript, final Lidia answer about funeral service",
+      "note": "First-person account reports seven years at Aboriginal funeral service; calendar boundaries and hours not given.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-8"
+    },
+    {
+      "url": "https://www.amnesty.org.au/government-must-act-now-to-protect-the-rights-of-indigenous-peoples/",
+      "publisher": "Amnesty International Australia",
+      "title": "Government must act now to protect the rights of Indigenous peoples,23March2020",
+      "source_type": "employer",
+      "locator": "Spokesperson attribution",
+      "note": "Contemporary employer confirmation of Indigenous Rights Lead role.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-9"
     }
   ],
   "research_notes": [
     "Follow-up: date Koori Information Centre, health/funeral/children's-services and Centrelink jobs; identify payroll entities, hours and breaks. Obtain Lake Tyers, council, MAV and business contracts/governance records, including 2010–2013 overlap. Resolve undated consulting, NAIDOC pay, Clan control and inter-parliamentary roles.",
     "Reviewed 2026-09-29: APH, own profile, fellowship profile, Victorian former-member page and MAV 2012/13 report. MAV p35 lists Thorpe as Aboriginal Employment Adviser; p36 says grant-funded group had ten full-time and ten part-time staff. No individual allocation is given.",
     "MAV is statutorily incorporated under the Municipal Association Act 1907, but statute and government grants alone do not settle control/sector. Keep unresolved pending governance/control analysis. Own-business experience is attested but not mapped conclusively to every named directorship.",
-    "Victoria's official page gives 19 December 2018 end, distinct from election-loss day; retain sourced date and do not infer earnings through it. Frozen federal roster party and start retained. No political views or controversies used as career evidence. Last follow-up 2026-09-29; unresolved initial record."
+    "Victoria's official page gives 19 December 2018 end, distinct from election-loss day; retain sourced date and do not infer earnings through it. Frozen federal roster party and start retained. No political views or controversies used as career evidence. Last follow-up 2026-09-29; unresolved initial record.",
+    "2026-10-02 follow-up: co-authored report adds omitted advisory clients and Greens commission; do not sum concurrent engagements. Seven-year funeral-service account has no calendar/FTE bounds. Appointment reporting confirms OurWatch work and provides Amnesty2020 snapshot, with APH2019 start retained. Targeted council/MAV hours and early-employer searches still leave FTE, control, dates and contractual entities unresolved.2019 candidate booklet yielded indexed funeral-service lead but subsequent retrieval redirected to Gellung Warl homepage; insufficient to resolve legal employer. Full-time wording in senator-office job advertisements describes staff vacancies, not Thorpe. Next: original consulting contracts/entity, MAV individual appointment/control evidence and early employment chronology; no years calculated."
   ]
 }
