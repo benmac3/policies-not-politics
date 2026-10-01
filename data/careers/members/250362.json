@@ -6,12 +6,12 @@
   "snapshot_party": "Australian Greens",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/250362",
   "research_status": "blocked",
-  "last_reviewed": "2026-09-21",
+  "last_reviewed": "2026-10-01",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
     "calculation_status": "not_calculable",
-    "note": "Private consulting and two local-government employers are documented at month precision, but substantive full-time status is not established. University employment, study, party activity and elected office are excluded under the codebook. Missing evidence is not zero."
+    "note": "Private consulting and two local-government employers are documented at month precision, but substantive full-time status is not established. University employment, study, party activity and elected office are excluded under the codebook. Missing evidence is not zero. Sole-trader consulting is now separately documented, with operational dates and hours unresolved; registration is not counted as work."
   },
   "career_spells": [
     {
@@ -27,7 +27,10 @@
       "headline_sector": "excluded",
       "government_control_at_time": "unknown",
       "counting_status": "excluded",
-      "source_ids": ["src-unsw", "src-secondary"],
+      "source_ids": [
+        "src-unsw",
+        "src-secondary"
+      ],
       "evidence_note": "UNSW alumni material and the secondary biography record completion of the civil-engineering degree in 1988. Start date, load and employment overlap are unresolved.",
       "counting_note": "Study is excluded under the codebook."
     },
@@ -44,8 +47,11 @@
       "headline_sector": "unknown",
       "government_control_at_time": "unknown",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-secondary"],
-      "evidence_note": "The secondary biography says she became a structural engineer after graduating in 1988 and moved to Sydney in 1992. Employer, exact dates, sector, hours, leave and continuity are unresolved; the endpoints are contextual bounds rather than a complete employment interval.",
+      "source_ids": [
+        "src-secondary",
+        "src-abc-2026"
+      ],
+      "evidence_note": "The secondary biography says she became a structural engineer after graduating in 1988 and moved to Sydney in 1992. Employer, exact dates, sector, hours, leave and continuity are unresolved; the endpoints are contextual bounds rather than a complete employment interval. ABC 2026 interview corroborates engineering employment in Pakistan but does not name the organisation.",
       "counting_note": "Employer control and substantive full-time interval are not established."
     },
     {
@@ -61,7 +67,9 @@
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-snapshot"],
+      "source_ids": [
+        "src-snapshot"
+      ],
       "evidence_note": "The frozen official occupation extract supplies the employer, roles and month-level boundaries. Role transitions, hours, leave and overlap with postgraduate study are unresolved.",
       "counting_note": "University employment is displayed separately and excluded from the narrow public/private headline under the current codebook."
     },
@@ -78,8 +86,12 @@
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-unsw", "src-secondary"],
-      "evidence_note": "The secondary biography records arrival and UNSW study from 1992, completion of the master's degree in 1994 and environmental-engineering doctorate in 2000; UNSW alumni material corroborates the qualifications. Exact enrolment dates, load and research-employment overlap are unresolved.",
+      "source_ids": [
+        "src-unsw",
+        "src-secondary",
+        "src-unsw-alumni-current"
+      ],
+      "evidence_note": "The secondary biography records arrival and UNSW study from 1992, completion of the master's degree in 1994 and environmental-engineering doctorate in 2000; UNSW alumni material corroborates the qualifications. Exact enrolment dates, load and research-employment overlap are unresolved. Current UNSW alumni profile independently confirms MEngSc 1994 and PhD 2000.",
       "counting_note": "Study is excluded under the codebook."
     },
     {
@@ -95,7 +107,9 @@
       "headline_sector": "private",
       "government_control_at_time": "private",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-snapshot"],
+      "source_ids": [
+        "src-snapshot"
+      ],
       "evidence_note": "The frozen official extract supplies the employer, role and month-level boundaries. Exact days, hours, leave and overlap with doctoral study are unresolved.",
       "counting_note": "Private employment is supported, but substantive full-time status is not established."
     },
@@ -112,7 +126,10 @@
       "headline_sector": "public",
       "government_control_at_time": "public",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-snapshot", "src-secondary"],
+      "source_ids": [
+        "src-snapshot",
+        "src-secondary"
+      ],
       "evidence_note": "The frozen official extract provides month-level dates and role wording; the secondary biography corroborates local-government natural-resources/catchments management. Exact days, role transition, hours and leave are unresolved.",
       "counting_note": "Public employment is supported, but substantive full-time status is not established."
     },
@@ -129,7 +146,10 @@
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-snapshot", "src-secondary"],
+      "source_ids": [
+        "src-snapshot",
+        "src-secondary"
+      ],
       "evidence_note": "The frozen extract supplies month-level boundaries and roles; the secondary biography corroborates institute directorship. Exact days, teaching/research allocation, hours and leave are unresolved.",
       "counting_note": "University employment is excluded from the narrow public/private headline under the current codebook."
     },
@@ -146,7 +166,10 @@
       "headline_sector": "public",
       "government_control_at_time": "public",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-snapshot", "src-secondary"],
+      "source_ids": [
+        "src-snapshot",
+        "src-secondary"
+      ],
       "evidence_note": "The frozen extract supplies month-level boundaries and the secondary biography corroborates the management role. The May–December 2008 interval, exact days, hours and leave are unresolved.",
       "counting_note": "Public employment is supported, but substantive full-time status is not established."
     },
@@ -163,8 +186,14 @@
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-snapshot", "src-unsw", "src-secondary"],
-      "evidence_note": "The frozen extract supplies month-level dates and roles; UNSW and secondary material corroborate that she held the positions when entering NSW Parliament. Exact days, hours, leave and election transition are unresolved; senior academic titles are not treated as proof of full-time work.",
+      "source_ids": [
+        "src-snapshot",
+        "src-unsw",
+        "src-secondary",
+        "src-nsw-interests-2014",
+        "src-aap-2022"
+      ],
+      "evidence_note": "The frozen extract supplies month-level dates and roles; UNSW and secondary material corroborate that she held the positions when entering NSW Parliament. Exact days, hours, leave and election transition are unresolved; senior academic titles are not treated as proof of full-time work. Interests return for 6 May–30 June 2013 lists Academic UNSW, without defining a cessation day. The 2022 interview describes full-time work during an unspecified state-election campaign; assignment to this whole appointment would be an inference and is not made.",
       "counting_note": "University employment is excluded from the narrow public/private headline under the current codebook."
     },
     {
@@ -180,7 +209,10 @@
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-greens", "src-secondary"],
+      "source_ids": [
+        "src-greens",
+        "src-secondary"
+      ],
       "evidence_note": "The secondary biography records membership from 2004 and candidacies in 2011 and 2012; the current party biography confirms party leadership. Remuneration, hours and overlaps are unresolved and party activity is not assumed to be employment.",
       "counting_note": "Party activity is excluded under the codebook."
     },
@@ -197,7 +229,9 @@
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-secondary"],
+      "source_ids": [
+        "src-secondary"
+      ],
       "evidence_note": "The secondary biography, citing NSW parliamentary records, gives the 19 June 2013 commencement and records her farewell/resignation on 14 August 2018. Any overlap with UNSW in June 2013 is unresolved.",
       "counting_note": "Elected office is excluded under the codebook."
     },
@@ -214,9 +248,52 @@
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-snapshot", "src-greens", "src-secondary"],
+      "source_ids": [
+        "src-snapshot",
+        "src-greens",
+        "src-secondary"
+      ],
       "evidence_note": "The frozen roster and current biographies establish federal Senate service from the 15 August 2018 casual-vacancy appointment.",
       "counting_note": "Elected office is excluded under the codebook."
+    },
+    {
+      "employer": "Mehreen Faruqi Consulting (sole trader)",
+      "role": "Consultant",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "self_employed",
+      "fte_fraction": null,
+      "category": "private_enterprise",
+      "headline_sector": "private",
+      "government_control_at_time": "private",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-nsw-interests-2014",
+        "src-abr-2026"
+      ],
+      "evidence_note": "NSW 2013–14 interests return declares this business as an income source. ABR identifies the individual sole trader and records the trading name from 25 February 2005 and ABN cancellation on 17 May 2023. Neither registration date is an employment boundary. Actual work dates, clients, hours and overlap with UNSW, council and parliamentary roles remain unknown.",
+      "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
+      "spell_id": "250362-consulting"
+    },
+    {
+      "employer": "Refugee support, bushcare and Landcare groups (individual groups unidentified)",
+      "role": "Community volunteer",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unpaid_work",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-aap-2022"
+      ],
+      "evidence_note": "First-person 2022 interview places these activities during Port Macquarie council employment. Exact dates and organisations are not supplied; council employment dates are not copied into the volunteer spell.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "250362-community-volunteer"
     }
   ],
   "sources": [
@@ -259,13 +336,68 @@
       "source_type": "other",
       "locator": "Early life and Career sections with university and parliamentary citations",
       "note": "Secondary synthesis supplies early structural-engineering context, study milestones, party activity and exact NSW elected-service dates while corroborating the official career sequence."
+    },
+    {
+      "url": "https://abr.business.gov.au/ABN/View/31724127933",
+      "publisher": "Australian Business Register",
+      "title": "Current details for ABN 31 724 127 933",
+      "source_type": "government_record",
+      "locator": "Entity type; trading name; ABN status; extracted 1 October 2026",
+      "note": "Sole trader Mehreen Saeed Faruqi; trading name Mehreen Faruqi Consulting from 25 February 2005; ABN cancelled 17 May 2023. Registration boundaries do not establish actual working periods.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-abr-2026"
+    },
+    {
+      "url": "https://interactive.guim.co.uk/australia/2015/jan/Faruqi_Mehreen.pdf",
+      "publisher": "NSW Parliament, copy hosted by The Guardian",
+      "title": "Mehreen Faruqi pecuniary interests returns",
+      "source_type": "government_record",
+      "locator": "Scanned PDF pages 1, 4, 8 and 9; source-of-income/occupation sections",
+      "note": "2013–14 return lists sole trader Mehreen Faruqi Consulting; earlier return covering 6 May–30 June 2013 lists Academic UNSW. Screenshots inspected. Return coverage is not an employment interval; spouse occupation is separate.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-nsw-interests-2014"
+    },
+    {
+      "url": "https://asianaustralianproject.com/2022/07/02/mehreen-faruqi/",
+      "publisher": "Asian Australian Project",
+      "title": "Mehreen Faruqi — interview, 2 July 2022",
+      "source_type": "professional_profile",
+      "locator": "Answers on community participation and door-knocking",
+      "note": "First-person account of council-era community volunteering and campaigning after a full-time job; employer and exact campaign year absent.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-aap-2022"
+    },
+    {
+      "url": "https://www.abc.net.au/news/2026-08-11/mehreen-faruqi-on-being-a-muslim-woman-in-parliament/106991726",
+      "publisher": "ABC",
+      "title": "Mehreen Faruqi on being a Muslim woman in Parliament, 11 August 2026",
+      "source_type": "news",
+      "locator": "Early career, family and move to Port Macquarie",
+      "note": "Reports engineering work in Pakistan and full-time work before the move to Port Macquarie, without specifying employer or working interval. Partner work is not attributed to Faruqi.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-abc-2026"
+    },
+    {
+      "url": "https://www.unsw.edu.au/engineering/our-schools/civil-and-environmental-engineering/alumni-industry/alumni/alumni-profiles",
+      "publisher": "UNSW",
+      "title": "Civil and Environmental Engineering alumni profiles — Mehreen Faruqi",
+      "source_type": "employer",
+      "locator": "Mehreen Faruqi profile and qualification heading",
+      "note": "University confirms MEngSc 1994 and PhD 2000; graduation years do not establish employment hours.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-unsw-alumni-current"
     }
   ],
   "research_notes": [
     "The frozen official record provides unusually strong month-level continuity for Australian employment from January 1993 to June 2013, except May–December 2008 and July 2001.",
     "The pre-Australia structural-engineering employer remains unidentified and is not coded public or private.",
     "University roles are retained as paid employment but excluded from the narrow headline under the current codebook.",
-    "No management or academic title is treated as proof of substantive full-time status."
+    "No management or academic title is treated as proof of substantive full-time status.",
+    "Follow-up 2026-10-01: ABR and scanned NSW interests returns identify previously omitted self-employment. The business may overlap salaried roles and elected office; no sequential or additive duration is assumed.",
+    "Explicit full-time evidence exists but is not yet sufficiently allocated: AAP interview describes work during an unidentified state-election campaign; ABC 2026 describes full-time work before the Port Macquarie move. Neither justifies assigning full-time status throughout a named spell. These leads replace a blanket assumption that no full-time testimony exists.",
+    "Search avenues: UNSW alumni and archived course material; primary interests returns; ABR; first-person AAP/ABC interviews; Pakistani engineering-employer searches. No corroborated Pakistan employer or leave/hours interval found. March 2011 South Sydney Herald search hit for a small consulting business belongs to James Falk, not Faruqi, and is rejected.",
+    "Follow-up leads: locate clients/invoices or contemporary consulting biographies for operational dates; resolve campaign year/employer in full-time testimony; obtain UNSW/council appointment and leave records; corroborate SBS 2018 reference to Macquarie University before adding a role. A later course-author credit alone does not prove later paid employment.",
+    "Individual source gaps: NSW inaugural PDF returned 404; Queensland tabled interests copy later returned 403; historical ABR view failed. Current ABR and accessible NSW return copy supplied usable alternatives. These are source gaps, not job-wide limits."
   ],
   "open_questions": [
     "Who employed Faruqi as a structural engineer in Pakistan, on what dates and hours, and under what ownership?",
@@ -273,7 +405,8 @@
     "How did postgraduate study overlap the UNSW research and Sinclair Knight Merz roles?",
     "What activity occurred from May through December 2008 and during the July 2001 transition?",
     "Did the final UNSW appointment overlap NSW parliamentary service in June 2013, and what leave/cessation arrangements applied?",
-    "Were any Greens roles or campaigns paid, and how did they overlap employment?"
+    "Were any Greens roles or campaigns paid, and how did they overlap employment?",
+    "When did Mehreen Faruqi Consulting actually trade, with what hours, clients and leave/overlaps? Registration from 2005 to 2023 is not proof of continuous work.",
+    "Which employer and exact period did each explicit full-time-work account describe? Was the campaign account 2011 or 2012, and did it include leave?"
   ]
 }
-
