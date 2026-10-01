@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/140590",
   "research_status": "blocked",
-  "last_reviewed": "2026-09-29",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -144,9 +144,10 @@
       "counting_status": "insufficient_evidence",
       "source_ids": [
         "src-1",
-        "src-2"
+        "src-2",
+        "src-5"
       ],
-      "evidence_note": "Consultancy interval at year precision; no evidence that every year was continuous full-time work.",
+      "evidence_note": "Consultancy interval at year precision; no evidence that every year was continuous full-time work. Employer’s May2013 LNG report names her on its project team, adding contemporary work-product evidence; publication date does not resolve her departure, hours or2011 leave.",
       "counting_note": "Dates, employer control and/or substantive full-time status remain insufficient for a duration calculation; unknown is not zero."
     },
     {
@@ -164,9 +165,11 @@
       "counting_status": "insufficient_evidence",
       "source_ids": [
         "src-1",
-        "src-3"
+        "src-3",
+        "src-6",
+        "src-8"
       ],
-      "evidence_note": "APH names employer and year; event biography says nine months in Arnhem Land. This does not establish nine paid months at Marngarr or whether it was a secondment/volunteer placement.",
+      "evidence_note": "APH names employer and year; event biography says nine months in Arnhem Land. This does not establish nine paid months at Marngarr or whether it was a secondment/volunteer placement. December2013 first speech places nine-month residence two years earlier, consistent with2011. ALP page instead says2010; retain APH2011 while recording conflict. Still no payroll/secondment evidence.",
       "counting_note": "Dates, employer control and/or substantive full-time status remain insufficient for a duration calculation; unknown is not zero."
     },
     {
@@ -188,6 +191,25 @@
       ],
       "evidence_note": "Ongoing elected service; ministerial duties not separately counted.",
       "counting_note": "Excluded from the two employment headlines under the codebook."
+    },
+    {
+      "employer": "Publisher: Text Publishing; employment relationship unestablished",
+      "role": "Coauthor with Tim Watts, Two Futures: Australia at a Critical Moment",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "unknown",
+      "government_control_at_time": "unknown",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-7"
+      ],
+      "evidence_note": "Publisher lists2015 publication; writing dates, remuneration, contractual status and hours unestablished. Concurrent parliamentary service does not turn authorship into a separate full-time interval.",
+      "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
+      "spell_id": "140590-10"
     }
   ],
   "sources": [
@@ -230,12 +252,63 @@
       "source_type": "professional_profile",
       "locator": "Publicly indexed education activity",
       "note": "Kennedy School Review co-editor 2006–2007; no gated content accessed."
+    },
+    {
+      "url": "https://www.mckinsey.com/~/media/McKinsey/Locations/Pacific/Australia%20and%20New%20Zealand/Our%20Insights/Extending%20the%20LNG%20boom%20Improving%20Australian%20LNG%20productivity%20and%20competitiveness/Extending%20the%20LNG%20boom%20Improving%20Australian%20LNG%20productivity%20and%20competitiveness.pdf",
+      "publisher": "McKinsey & Company",
+      "title": "Extending the LNG boom, May 2013",
+      "source_type": "other",
+      "locator": "Preface, printed p.v / PDF p.5",
+      "note": "Contemporary employer report names O’Neil in project team. Publication month is not employment endpoint or hours evidence.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-5"
+    },
+    {
+      "url": "https://australianpolitics.com/2013/12/02/first-speech-clare-oneil-alp-hotham.html/",
+      "publisher": "House of Representatives Hansard / AustralianPolitics.com",
+      "title": "First speech, 2 December 2013",
+      "source_type": "government_record",
+      "locator": "Paragraph beginning Another area of bipartisanship",
+      "note": "First-person account says nine months residence in North East Arnhem Land two years earlier; corroborates 2011, not nine months paid employment.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-6"
+    },
+    {
+      "url": "https://www.textpublishing.com.au/books/two-futures-9781925240214",
+      "publisher": "Text Publishing",
+      "title": "Two Futures: Australia at a Critical Moment",
+      "source_type": "other",
+      "locator": "Title/authors and publication details, public search index",
+      "note": "Coauthored with Tim Watts; paperback published12August2015. Publisher relationship does not establish salaried employment.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-7"
+    },
+    {
+      "url": "https://www.alp.org.au/clare_oneil",
+      "publisher": "Australian Labor Party",
+      "title": "Clare O’Neil biography",
+      "source_type": "official_biography",
+      "locator": "Paragraph on East Arnhem Land",
+      "note": "Indexed page says2010 for nine-month stay, conflicting with2011 APH and2013 first speech. Conflict preserved; no date change.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-8"
+    },
+    {
+      "url": "https://abr.business.gov.au/AbnHistory/View?id=64846299889",
+      "publisher": "Australian Business Register",
+      "title": "Historical ABN64 846299889",
+      "source_type": "government_record",
+      "locator": "Entity name, entity type and ABN status history",
+      "note": "Clare Ellen O’Neil sole-trader registration active16June2008–24April2013 and25September2014–5August2025. Identity/business activity requires corroboration; registration is not actual work duration. No address data retained.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-9"
     }
   ],
   "research_notes": [
     "Follow-up: seek McKinsey appointment/hours/leave records and resolve 2011 Marngarr payroll/secondment status; identify historical control of Marngarr. Establish NYSE internship terms, any earlier student jobs and course dates; verify author activity without conflating royalties with full-time work.",
     "2026-09-29 searches examined APH, ALP, public professional snippet, McKinsey employer-domain results and Marngarr/2011 placement evidence. No complete public CV or full-time terms found. UK Claire Perry O'Neill is a different person and was excluded.",
     "Official biography gives council 2003–2005; the unattached public-profile 2002–2006 snippet lacks sufficient role context to override it. Direct APH fetch restricted; indexed official occupation text matches the frozen roster.",
-    "All year labels retained. Nine months residence is not a measured employment interval. Political, elected and study roles excluded; no overlapping durations summed. Last follow-up 2026-09-29; partial initial record."
+    "All year labels retained. Nine months residence is not a measured employment interval. Political, elected and study roles excluded; no overlapping durations summed. Last follow-up 2026-09-29; partial initial record.",
+    "2026-10-02 follow-up: added contemporary McKinsey project evidence and publisher-confirmed authorship; first speech corroborates2011 Arnhem Land residence but ALP biography says2010. Targeted Marngarr/secondment/leave and historical annual-report searches did not establish payroll, hours, control or leave. ABR exact-full-name sole trader record is a lead only, not a new employment spell; seek declared business activity/contract evidence. Own public LinkedIn post about returning full time eight weeks after2013 birth concerns her MP job, not McKinsey; no private full-time inference. Home Affairs17February2023 podcast/own biography adds background but no missing employment terms. Next: Marngarr2010–11 records/constitution, McKinsey leave/appointment and NYSE internship terms; earlier jobs, author payment and registry identity remain unresolved. No years calculated."
   ]
 }
