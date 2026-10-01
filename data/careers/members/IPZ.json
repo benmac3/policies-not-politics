@@ -6,7 +6,7 @@
   "snapshot_party": "The Nationals",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/IPZ",
   "research_status": "blocked",
-  "last_reviewed": "2026-09-12",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -16,10 +16,10 @@
   "career_spells": [
     {
       "spell_id": "IPZ-01",
-      "employer": "Gippsland Times and other newspaper/TV employers not fully resolved",
-      "role": "Journalist",
+      "employer": "Gippsland Times",
+      "role": "Cadet journalist / journalist",
       "start_date": "1986",
-      "end_date": "1998",
+      "end_date": null,
       "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
@@ -29,9 +29,11 @@
       "counting_status": "insufficient_evidence",
       "source_ids": [
         "src-1",
-        "src-3"
+        "src-3",
+        "oct2-media",
+        "oct2-cadet"
       ],
-      "evidence_note": "Gippsland Times starting employer identified; not every employer or transition within broad journalism span is documented.",
+      "evidence_note": "First journalism employer identified by own2023 speech; official1986 start for journalism career retained. Original broad1986–1998 newspaper/television span now disaggregated by named outlets; Times cessation and other transitions unknown. Historical employing legal entity/control not established, so sector retained unknown.",
       "counting_note": "Not counted: dates and/or substantive full-time status are insufficiently evidenced; year labels are not exact boundaries."
     },
     {
@@ -130,6 +132,103 @@
       ],
       "evidence_note": "First-service date from official frozen roster.",
       "counting_note": "Outside the two employment headlines under the codebook; retained as career context."
+    },
+    {
+      "employer": "Latrobe Valley Express",
+      "role": "Journalist",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "unknown",
+      "government_control_at_time": "unknown",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-1",
+        "oct2-media"
+      ],
+      "evidence_note": "Own2020 release names outlet. Falls within broad official journalism sequence1986–1998; no start/end assigned to this individual employer. Historical employing legal entity and ownership at personal tenure need verification; current brand/control cannot establish earlier employment.",
+      "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
+      "spell_id": "IPZ-express"
+    },
+    {
+      "employer": "WIN Television",
+      "role": "Television journalist",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "unknown",
+      "government_control_at_time": "unknown",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-1",
+        "oct2-media"
+      ],
+      "evidence_note": "Own2020 release names outlet. Falls within broad official journalism sequence1986–1998; no start/end assigned to this individual employer. Historical employing legal entity and ownership at personal tenure need verification; current brand/control cannot establish earlier employment.",
+      "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
+      "spell_id": "IPZ-win"
+    },
+    {
+      "employer": "Surf Lifesaving Lakes Entrance",
+      "role": "Deputy president",
+      "start_date": "2024-07",
+      "end_date": null,
+      "date_precision": "month",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "nonprofit",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "oct2-surf"
+      ],
+      "evidence_note": "Own29 July2024 release reports election at AGM. Month precision retained; report date not treated as exact appointment date. Governance role concurrent with Parliament, not full-time employment.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "IPZ-surf-governance"
+    },
+    {
+      "employer": "Lakes Entrance Surf Lifesaving Club",
+      "role": "Volunteer assisting junior sport",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unpaid_work",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-2"
+      ],
+      "evidence_note": "Defence ministerial biography explicitly describes voluntary assistance with children’s junior sporting interests; no dates or hours. Separate from2024 governance appointment.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "IPZ-surf-volunteer"
+    },
+    {
+      "employer": "Lakes Entrance Football Netball Club",
+      "role": "Volunteer assisting junior sport",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unpaid_work",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-2"
+      ],
+      "evidence_note": "Defence ministerial biography explicitly describes voluntary assistance with children’s junior sporting interests; no dates or hours. Separate from2024 governance appointment.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "IPZ-football-volunteer"
     }
   ],
   "sources": [
@@ -172,11 +271,44 @@
       "source_type": "news",
       "locator": "Career/biography or relevant appointment section",
       "note": "Contemporary corroboration of Champions of the Bush CEO role."
+    },
+    {
+      "url": "https://darrenchester.com.au/welcome-support-for-two-gippsland-newspapers/",
+      "publisher": "Darren Chester MP",
+      "title": "Welcome support for two Gippsland newspapers,18 August2020",
+      "source_type": "official_biography",
+      "locator": "Paragraph beginning Local MP Darren Chester",
+      "note": "Member identifies former journalism work at Gippsland Times, Latrobe Valley Express and WIN Television. No individual tenure dates.",
+      "retrieved": "2026-10-02",
+      "source_id": "oct2-media"
+    },
+    {
+      "url": "https://darrenchester.com.au/surf-club-enjoys-successful-year/",
+      "publisher": "Darren Chester MP",
+      "title": "Surf club enjoys successful year,29 July2024",
+      "source_type": "other",
+      "locator": "Opening two paragraphs and volunteer discussion",
+      "note": "Reports election as Surf Lifesaving Lakes Entrance deputy president at68th AGM; month-level appointment supported, no exact effective date.",
+      "retrieved": "2026-10-02",
+      "source_id": "oct2-surf"
+    },
+    {
+      "url": "https://www.openaustralia.org.au/debate/?id=2023-06-19.220.1",
+      "publisher": "OpenAustralia / House Hansard",
+      "title": "Regional Print Media,19 June2023 — Darren Chester",
+      "source_type": "other",
+      "locator": "Opening paragraph after Deputy Speaker acknowledgement",
+      "note": "Correct member speech locator confirming first cadet job at Gippsland Times more than35 years earlier; original src-3 URL retained but this is corrected speech location.",
+      "retrieved": "2026-10-02",
+      "source_id": "oct2-cadet"
     }
   ],
   "research_notes": [
     "Blocked for headline calculation: official full career sequence recovered, but journalism employer breakdown, working hours and consultancy full-time activity are not established.",
     "Primary ministerial biography, contemporary news and member's parliamentary remarks supplement the official year labels. A member-site about-page fetch failed; no restriction bypassed.",
-    "Do not import third-party January 1 timestamps for these year-only APH entries. Neither marketing nor newspaper work is assumed to have occupied complete calendar years."
+    "Do not import third-party January 1 timestamps for these year-only APH entries. Neither marketing nor newspaper work is assumed to have occupied complete calendar years.",
+    "Follow-up2026-10-02: disaggregated official1986–1998 journalism span into three identified outlets, preserving broad dates here without duplicating them across employers. Added2024 surf-club governance and explicitly voluntary junior-sport work.",
+    "Targeted own-site, newspaper archive, employer/control-history and marketing-name searches did not establish individual journalism transitions or consultancy trading/legal name and substantive full-time hours. UK CDK/Amazing Marketing and NHS plastic surgeon namesakes were rejected. UQ historical newspaper-ownership PDF fetch failed;1958 indexed ownership does not establish whole1986–1998 tenure.",
+    "Next leads: historical mastheads/staff records at each named outlet; consultancy registration or contemporaneous client records; LEBTA annual reports for two presidential terms. No source restriction bypass or outreach. Headline years remain unknown, not zero."
   ]
 }
