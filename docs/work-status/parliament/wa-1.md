@@ -8,10 +8,12 @@ State: in-progress
 
 ## Durable cursor
 
-- Next initial record: 249147 KEOGH, the Hon. Matthew (Matt) James.
-- Initial records in this batch: 10/14; all remain unresolved pending follow-up.
+- Next initial record: 102376 KING, the Hon. Madeleine Mary Harvie.
+- Initial records in this batch: 11/14; all remain unresolved pending follow-up.
 
 ## Saved records and follow-up
+
+- 249147 KEOGH, the Hon. Matthew (Matt) James: blocked; last review 2026-10-01. Follow-up: Resolve CDPP/DPC appointment basis and hours; iiNet/family-firm work-study overlaps; HSF full-time interval and 2015/16 campaign leave; earlier charitable governance records.
 
 - 260805 HASTIE, the Hon. Andrew William: blocked; last review 2026-10-01. Follow-up: Obtain precise reserve-to-regular transfer, ADFA and Duntroon salaried-service periods, commissioning date, actual separation date and non-service breaks. Determine whether earlier paid civilian work exists. Do not count inactive standby membership after August 2015 as full-time service. Part-time UNSW Regiment service is separate; do not sum deployment durations on top of Army tenure.
 
@@ -35,7 +37,7 @@ Detailed attempted avenues, discrepancies and remaining leads are preserved in e
 
 ## National coverage
 
-160/226 initial records; 66 unstarted; 160 unresolved; 0 research-complete. Counts use branch-owned remote records plus this commit, not the deployed site.
+161/226 initial records; 65 unstarted; 161 unresolved; 0 research-complete. Counts use branch-owned remote records plus this commit, not the deployed site.
 
 ## Attempt measurement — 2026-10-01 08:00 Brisbane cycle
 
@@ -55,12 +57,13 @@ Detailed attempted avenues, discrepancies and remaining leads are preserved in e
 
 
 
+
 ## Active attempt — 2026-10-01 12:00 Brisbane cycle
 
-- Continuation: 0. Started: 2026-10-01T12:03:48+10:00; last checkpoint: 2026-10-01T12:17:39+10:00.
+- Continuation: 0. Started: 2026-10-01T12:03:48+10:00; last checkpoint: 2026-10-01T12:21:17+10:00.
 - Starting WA-1 head: 79b1d5c96ee3dde69dd2f5453e96a2aa434baae2; national baseline 153/226, all unresolved, 0 complete. Branch-owned remote audit: NSW 58, VIC 50, QLD 42, WA 3; no integrated member files on main or parliament-experience.
 - Active writer: this 12:00 invocation; state: processing. Predecessor successor execution unverified: no subsequent member commits found at start. No active conflicting writer observed.
-- Progress: 7 new initial members, 0 enriched existing, 0 newly complete; cycle totals same; Brisbane-day totals 14 new, 0 enriched, 0 newly complete. Count after remote verification only.
+- Progress: 8 new initial members, 0 enriched existing, 0 newly complete; cycle totals same; Brisbane-day totals 15 new, 0 enriched, 0 newly complete. Count after remote verification only.
 - Outcome: ongoing. STOPPING REASON: none; continuing to next member after remote verification. Scheduler terminal status not exposed. Successor not requested while research remains active.
 - Validation: record schema/enums/source references/date syntax, build_careers.load_records(), batch coverage and repository validation. Only assigned member and checkpoint changed.
 - Recovered source errors: APH open (403) Forbidden; obsolete biography URL inaccessible; Anglicare PDF open (400) Content length is too large: 15893687. Alternative first-party and indexed evidence used.
