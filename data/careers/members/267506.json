@@ -6,7 +6,7 @@
   "snapshot_party": "Liberal Party of Australia",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/267506",
   "research_status": "blocked",
-  "last_reviewed": "2026-09-23",
+  "last_reviewed": "2026-10-01",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -27,7 +27,10 @@
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-advoc8", "src-consultancy"],
+      "source_ids": [
+        "src-advoc8",
+        "src-consultancy"
+      ],
       "evidence_note": "Advoc8 reports completion of both degrees in 2006; Consultancy.com.au corroborates the UNSW law and commerce double degree. Enrolment dates, study load and overlap with paid work are unresolved.",
       "counting_note": "Study is excluded under the codebook."
     },
@@ -44,14 +47,15 @@
       "headline_sector": "private",
       "government_control_at_time": "private",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-liberal"],
+      "source_ids": [
+        "src-liberal"
+      ],
       "evidence_note": "The Liberal Party profile says Kennedy worked supermarket checkout queues while studying. Employer, dates, hours, remuneration, leave and continuity are not stated.",
       "counting_note": "Paid private work is indicated, but no countable full-time interval is established."
     },
     {
-      "spell_id": "267506-clayton-utz",
-      "employer": "Clayton Utz",
-      "role": "Paralegal / graduate lawyer specialising in mergers and acquisitions",
+      "employer": "Unidentified delivery employer",
+      "role": "Junk-mail delivery worker",
       "start_date": null,
       "end_date": null,
       "date_precision": "unknown",
@@ -59,10 +63,72 @@
       "fte_fraction": null,
       "category": "private_enterprise",
       "headline_sector": "private",
+      "government_control_at_time": "unknown",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-firstspeech"
+      ],
+      "evidence_note": "First-person inaugural speech identifies this early paid-work activity. Employer/legal arrangement, start/end, hours, breaks, remuneration and overlap unresolved. Speech order is not a precise employment chronology.",
+      "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
+      "spell_id": "267506-mail"
+    },
+    {
+      "employer": "Unidentified removalist/employer",
+      "role": "Furniture moving worker",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "private_enterprise",
+      "headline_sector": "private",
+      "government_control_at_time": "unknown",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-firstspeech"
+      ],
+      "evidence_note": "First-person inaugural speech identifies this early paid-work activity. Employer/legal arrangement, start/end, hours, breaks, remuneration and overlap unresolved. Speech order is not a precise employment chronology.",
+      "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
+      "spell_id": "267506-furniture"
+    },
+    {
+      "employer": "Unidentified Kings Cross venue/security employer",
+      "role": "Bouncer",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "private_enterprise",
+      "headline_sector": "private",
+      "government_control_at_time": "unknown",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-firstspeech"
+      ],
+      "evidence_note": "First-person inaugural speech identifies this early paid-work activity. Employer/legal arrangement, start/end, hours, breaks, remuneration and overlap unresolved. Speech order is not a precise employment chronology.",
+      "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
+      "spell_id": "267506-security"
+    },
+    {
+      "spell_id": "267506-clayton-utz",
+      "employer": "Clayton Utz",
+      "role": "Paralegal / graduate lawyer specialising in mergers and acquisitions",
+      "start_date": "2005-12",
+      "end_date": "2007-05",
+      "date_precision": "month",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "private_enterprise",
+      "headline_sector": "private",
       "government_control_at_time": "private",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-snapshot", "src-member"],
-      "evidence_note": "The frozen official extract identifies a paralegal role at Clayton Utz; Kennedy's current biography describes the start of his professional career as a graduate lawyer in mergers and acquisitions. The sources do not reconcile titles or provide appointment dates, hours, leave or the transition to PM&C or McKinsey.",
+      "source_ids": [
+        "src-snapshot",
+        "src-member",
+        "src-linkedin"
+      ],
+      "evidence_note": "Frozen extract names paralegal; member biography describes graduate mergers-and-acquisitions work. Public indexed LinkedIn experience gives Clayton Utz December 2005–May 2007. Direct profile inaccessible (999); month dates provisionally retained with provenance, not exact days. Title progression, hours, leave, study overlap and PM&C arrangement unresolved.",
       "counting_note": "Private legal employment is supported, but no substantive full-time interval is established."
     },
     {
@@ -78,8 +144,11 @@
       "headline_sector": "public",
       "government_control_at_time": "public",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-snapshot"],
-      "evidence_note": "The frozen official extract names the Commonwealth department and adviser role but supplies no dates, branch, classification, appointment basis, hours or leave. A departmental role is treated as public service, not political staff, absent evidence of employment in a ministerial office.",
+      "source_ids": [
+        "src-snapshot",
+        "src-secondary"
+      ],
+      "evidence_note": "The frozen official extract names the Commonwealth department and adviser role but supplies no dates, branch, classification, appointment basis, hours or leave. A departmental role is treated as public service, not political staff, absent evidence of employment in a ministerial office. Secondary synthesis describes energy-reform advice to PM&C from Clayton Utz. Direct APS appointment versus external legal assignment is therefore unresolved; existing departmental classification is provisional, and this spell must not be counted separately from legal work without payroll/secondment evidence.",
       "counting_note": "Government employment is supported, but no exact or substantive full-time interval is established."
     },
     {
@@ -95,7 +164,12 @@
       "headline_sector": "private",
       "government_control_at_time": "private",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-snapshot", "src-member", "src-consultancy", "src-secondary"],
+      "source_ids": [
+        "src-snapshot",
+        "src-member",
+        "src-consultancy",
+        "src-secondary"
+      ],
       "evidence_note": "Consultancy.com.au reports that Kennedy joined in 2008, worked in Washington, New York and Sydney, became a partner in 2016 and left in 2022; his biography describes the Australian practices he co-led. Exact appointment and departure dates, hours, leave, partnership status and any 2022 campaign leave are unresolved.",
       "counting_note": "Long private-sector employment is strongly supported, but year-only boundaries and absent hours prevent a full-time total."
     },
@@ -112,9 +186,52 @@
       "headline_sector": "private",
       "government_control_at_time": "private",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-linkedin", "src-secondary"],
-      "evidence_note": "Kennedy's public LinkedIn summary identifies a former Banksia partnership; the secondary synthesis reports that he formed the technology investment firm after leaving McKinsey in 2022. The legal entity, exact dates, equity/remuneration, hours, leave, 2022 campaign overlap and endpoint before election are unresolved.",
+      "source_ids": [
+        "src-linkedin",
+        "src-secondary",
+        "src-member"
+      ],
+      "evidence_note": "Kennedy's public LinkedIn summary identifies a former Banksia partnership; the secondary synthesis reports that he formed the technology investment firm after leaving McKinsey in 2022. The legal entity, exact dates, equity/remuneration, hours, leave, 2022 campaign overlap and endpoint before election are unresolved. Member biography now independently corroborates former Banksia partnership but supplies no boundaries. Public interest-register index lists Banksia Growth Pty Ltd; original declaration returned 403 Forbidden, so legal-employer identity remains a lead and is not assumed from a shareholding.",
       "counting_note": "Private investment work is supported, but no substantive full-time interval is established."
+    },
+    {
+      "employer": "Committee for Sydney",
+      "role": "Director / Executive Committee member",
+      "start_date": "2020-08",
+      "end_date": null,
+      "date_precision": "month",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "nonprofit",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-cfs-fy21",
+        "src-cfs-2020"
+      ],
+      "evidence_note": "FY2021 officers report gives appointment August 2020; 2020 review identifies concurrent McKinsey partner. End, remuneration and hours unresolved. Governance appointment is separate from paid consulting.",
+      "counting_note": "Nonprofit governance excluded; no substantive full-time employment inferred.",
+      "spell_id": "267506-sydney-committee"
+    },
+    {
+      "employer": "Wharton School, University of Pennsylvania",
+      "role": "Guest lecturer",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "university",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-member"
+      ],
+      "evidence_note": "Member biography reports guest lecturing; no substantive appointment, payment, dates or hours. Recorded as ancillary educational activity rather than university employment.",
+      "counting_note": "Occasional guest lecturing does not establish substantive full-time work.",
+      "spell_id": "267506-wharton"
     },
     {
       "spell_id": "267506-bennelong-candidate",
@@ -129,7 +246,9 @@
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-secondary"],
+      "source_ids": [
+        "src-secondary"
+      ],
       "evidence_note": "Public reporting records Liberal endorsement on 23 March 2022 and candidacy through the 21 May federal election. Remuneration, hours and any leave from McKinsey are unresolved; candidacy is not assumed to be employment.",
       "counting_note": "Party and campaign activity is excluded under the codebook."
     },
@@ -146,7 +265,9 @@
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-secondary"],
+      "source_ids": [
+        "src-secondary"
+      ],
       "evidence_note": "Public reporting records preselection on 4 March 2024 and election on 13 April 2024. Remuneration, hours and overlap with Banksia are unresolved; candidacy is not assumed to be employment.",
       "counting_note": "Party and campaign activity is excluded under the codebook."
     },
@@ -163,7 +284,11 @@
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-snapshot", "src-member", "src-secondary"],
+      "source_ids": [
+        "src-snapshot",
+        "src-member",
+        "src-secondary"
+      ],
       "evidence_note": "The frozen roster and current biographies establish election at the Cook by-election on 13 April 2024 and continuing House service. Parliamentary and shadow-ministry roles are nested within elected office.",
       "counting_note": "Elected office is excluded under the codebook."
     }
@@ -184,10 +309,10 @@
       "url": "https://www.simonkennedymp.com.au/about",
       "publisher": "Simon Kennedy MP",
       "title": "About Simon",
-      "retrieved": "2026-09-23",
+      "retrieved": "2026-10-01",
       "source_type": "professional_profile",
-      "locator": "Professional journey and McKinsey paragraphs",
-      "note": "Member-controlled biography identifies graduate legal work, McKinsey partnership and Australian practice leadership, without dates."
+      "locator": "Professional journey, Banksia and Wharton guest-lecture paragraphs",
+      "note": "First-party biography corroborates legal/consulting careers, former Banksia partnership and guest lecturing at Wharton; no dates or work pattern."
     },
     {
       "source_id": "src-liberal",
@@ -224,10 +349,10 @@
       "url": "https://au.linkedin.com/in/simon-kennedy",
       "publisher": "LinkedIn",
       "title": "Simon Kennedy — public profile summary",
-      "retrieved": "2026-09-23",
+      "retrieved": "2026-10-01",
       "source_type": "professional_profile",
-      "locator": "Search-visible profile summary",
-      "note": "Public summary identifies Kennedy as formerly a Partner at Banksia and a Partner at McKinsey & Company; detailed dates were not publicly exposed."
+      "locator": "Public search-indexed experience excerpt: Clayton Utz December 2005–May 2007",
+      "note": "Search-visible matching profile gives Clayton Utz month boundaries; direct page returned (999) Unknown Status Code. Dates are indexed-profile evidence only, not a full-profile inspection; hours unavailable."
     },
     {
       "source_id": "src-secondary",
@@ -238,13 +363,45 @@
       "source_type": "other",
       "locator": "Early life and education; Politics; Entering Parliament",
       "note": "Secondary synthesis, with linked media and organisational sources, supplies the 2022–2024 Banksia sequence and exact candidacy/election dates."
+    },
+    {
+      "url": "https://www.simonkennedymp.com.au/first-speech",
+      "publisher": "Simon Kennedy MP",
+      "title": "Inaugural speech, 28 May 2024",
+      "source_type": "official_biography",
+      "locator": "Early working career paragraph before McKinsey discussion",
+      "note": "First-person account explicitly identifies junk-mail delivery, furniture moving and bouncer work in Kings Cross. No employers, dates or hours supplied.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-firstspeech"
+    },
+    {
+      "url": "https://sydney.org.au/wp-content/uploads/2021/11/Signed-FY21-Financial-Statements-The-Committee-for-Sydney.pdf",
+      "publisher": "Committee for Sydney",
+      "title": "Financial statements year ended 30 June 2021",
+      "source_type": "employer",
+      "locator": "Printed p2 / PDF p3 Officers Report; note1 p9",
+      "note": "Director/committee list names Simon Kennedy appointed August 2020; notes describe nonprofit entity. Aggregate salaries are not his remuneration.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-cfs-fy21"
+    },
+    {
+      "url": "https://sydney.org.au/wp-content/uploads/2021/11/Committee-for-Sydney-Year-in-Review-2020.pdf",
+      "publisher": "Committee for Sydney",
+      "title": "Year in Review 2020",
+      "source_type": "employer",
+      "locator": "Printed p18 / PDF p18 Leadership: Executive Committee members",
+      "note": "Identifies Simon Kennedy, McKinsey Partner, joined August 2020; establishes matching identity and concurrent governance.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-cfs-2020"
     }
   ],
   "research_notes": [
     "The frozen occupation sequence is preserved, while the unidentified management-consulting employer is resolved to McKinsey from member-controlled and industry sources.",
     "The PM&C role is classified as public service because the frozen source names the department; no evidence was found that it was a ministerial-office appointment.",
     "McKinsey's 2008–2022 tenure and 2016 partner promotion are not converted to full-time years because sources do not establish hours, leave or exact boundaries.",
-    "Candidate intervals are displayed separately and excluded; they are not used to fill employment gaps or infer leave from McKinsey or Banksia."
+    "Candidate intervals are displayed separately and excluded; they are not used to fill employment gaps or infer leave from McKinsey or Banksia.",
+    "2026-10-01 follow-up adds three first-speech early jobs, Committee for Sydney August 2020 appointment from original financial statements and guest lecturing. Clayton Utz month dates are explicitly public indexed-profile evidence; no hours inferred from title or duration.",
+    "Searched original employer reports, Banksia/Kassabgi company leads, public professional dates and PM&C descriptions. Reject Canadian public servant, UK designer and journalist namesakes. Banksia Growth interest-register link remains unverified because APH PDF returned 403; do not equate an investment holding with legal employer. FY2022 Committee PDF timed out; FY2021 and 2020 original reports opened. No campaign leave, full-time terms or precise Banksia endpoint evidence found."
   ],
   "open_questions": [
     "What supermarket employed Kennedy, and on what dates, hours and employment basis?",
@@ -252,6 +409,9 @@
     "What were the PM&C appointment dates, branch, APS classification, appointment basis, hours and leave?",
     "What were the exact McKinsey start, partner-promotion and departure dates, hours, leave and 2022 campaign arrangement?",
     "What was Banksia's legal entity, Kennedy's equity/remuneration and hours, and the exact commencement and cessation dates?",
-    "Was either federal candidacy remunerated, and how did each overlap with private work?"
+    "Was either federal candidacy remunerated, and how did each overlap with private work?",
+    "Was PM&C work direct APS employment, a secondment, or external legal advice while employed by Clayton Utz? Avoid double counting overlapping client work.",
+    "What were employers and dates/hours for delivery, furniture moving and Kings Cross bouncer jobs?",
+    "When did Committee for Sydney governance end, and was it remunerated? What dates/payment applied to Wharton guest lecturing?"
   ]
 }
