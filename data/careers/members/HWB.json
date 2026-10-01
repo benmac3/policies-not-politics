@@ -1,0 +1,386 @@
+{
+  "person_id": "HWB",
+  "name": "ZAPPIA, Antonio (Tony)",
+  "snapshot_state": "SA",
+  "snapshot_chamber": "Member",
+  "snapshot_party": "Australian Labor Party",
+  "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/HWB",
+  "research_status": "blocked",
+  "last_reviewed": "2026-10-01",
+  "headline": {
+    "public_full_time_years": null,
+    "private_full_time_years": null,
+    "calculation_status": "not_calculable",
+    "note": "Full-time banking commencement supported, but year-only boundaries and unverified continuity prevent numeric totals. Fitness businesses have unresolved dates/hours/overlaps. Political staffing, elected office and governance excluded; no missing sector treated as zero."
+  },
+  "career_spells": [
+    {
+      "employer": "ANZ Bank; later Australia and New Zealand Banking Group (payroll entity transition to verify)",
+      "role": "Bank officer",
+      "start_date": "1969",
+      "end_date": "1976",
+      "date_precision": "year",
+      "employment_status": "full_time",
+      "fte_fraction": null,
+      "category": "private_enterprise",
+      "headline_sector": "private",
+      "government_control_at_time": "private",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-1",
+        "src-2",
+        "src-7",
+        "src-8",
+        "src-9",
+        "src-10"
+      ],
+      "evidence_note": "Official years, named bank in primary biography. Conference biography explicitly says full-time work began1969, corroborated by2012 profile. Full-time entry established, but later status, leave and exact boundaries not verified.1970 merger noted without inventing payroll-transfer date.",
+      "counting_note": "Explicit full-time commencement; year-only dates give a conditional gross calendar envelope of about6–8years, not a confirmed employment total. Continuity/status changes/leave remain unresolved; headline null.",
+      "spell_id": "HWB-01"
+    },
+    {
+      "employer": "Office of Senator Jim Cavanagh",
+      "role": "Research assistant / research officer",
+      "start_date": "1976",
+      "end_date": "1981",
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "political_staff",
+      "headline_sector": "excluded",
+      "government_control_at_time": "public",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-1",
+        "src-2",
+        "src-3"
+      ],
+      "evidence_note": "First speech explicitly gives1976 until Cavanagh retirement1981. Some secondary biographies/program say1980; retained official1981 with conflict noted. Political staffing excluded, hours unknown.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "HWB-02"
+    },
+    {
+      "employer": "Fitness centre business(es), including Funlife and Fairview; legal entities unresolved",
+      "role": "Part owner and fitness centre manager, aggregate official interval",
+      "start_date": "1981",
+      "end_date": "2007",
+      "date_precision": "year",
+      "employment_status": "self_employed",
+      "fte_fraction": null,
+      "category": "private_enterprise",
+      "headline_sector": "private",
+      "government_control_at_time": "private",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-1",
+        "src-2",
+        "src-4",
+        "src-5",
+        "src-9"
+      ],
+      "evidence_note": "Primary party biography says established and part-owned a centre1981 and managed to2007; ABC gives Funlife1979 and Fairview1982. Keep official aggregate while separately recording named businesses; overlapping representations must not be summed. Ownership confirms business activity, not full-time hours.",
+      "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
+      "spell_id": "HWB-03"
+    },
+    {
+      "employer": "Funlife Fitness Centre, Ingle Farm (legal partnership/entity to verify)",
+      "role": "Founder/part owner and operator",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "self_employed",
+      "fte_fraction": null,
+      "category": "private_enterprise",
+      "headline_sector": "private",
+      "government_control_at_time": "private",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-2",
+        "src-4",
+        "src-5",
+        "src-11"
+      ],
+      "evidence_note": "ABC attributes establishment1979; party biography1981 and reported register entryApril1983 are different claims. Start left unresolved. June2018 registration cessation is not employment cessation; spokesman says no personal interest or income for years. Do not transfer spouse income to Tony.",
+      "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
+      "spell_id": "HWB-04"
+    },
+    {
+      "employer": "Fairview Fitness Centre, Fairview Park (legal entity to verify)",
+      "role": "Founder/operator",
+      "start_date": "1982",
+      "end_date": null,
+      "date_precision": "year",
+      "employment_status": "self_employed",
+      "fte_fraction": null,
+      "category": "private_enterprise",
+      "headline_sector": "private",
+      "government_control_at_time": "private",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-4"
+      ],
+      "evidence_note": "ABC names1982 establishment. Personal operating interval, exit, ownership form and hours need primary corroboration. Not assumed to continue to2007 or present.",
+      "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
+      "spell_id": "HWB-05"
+    },
+    {
+      "employer": "City of Salisbury",
+      "role": "Councillor; Mayor1997–2007",
+      "start_date": "1977",
+      "end_date": "2007",
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "elected_office",
+      "headline_sector": "excluded",
+      "government_control_at_time": "public",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-2",
+        "src-3"
+      ],
+      "evidence_note": "First speech confirms30years council and last10as mayor; overlaps business and political staff. Council duties not ordinary public employment.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "HWB-06"
+    },
+    {
+      "employer": "Libraries Board of South Australia",
+      "role": "Board member",
+      "start_date": null,
+      "end_date": "2007-10-26",
+      "date_precision": "day",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "excluded",
+      "government_control_at_time": "public",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-2",
+        "src-6"
+      ],
+      "evidence_note": "Historical report separately identifies board membership and remuneration entitlement, retirement26October2007. Start and individual fees unknown; no executive employment assumed.",
+      "counting_note": "Governance appointment excluded from full-time employment headlines; not coded unpaid because remuneration eligibility is explicit.",
+      "spell_id": "HWB-07"
+    },
+    {
+      "employer": "South Australian State Planning Commission (historical entity to verify)",
+      "role": "Member",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "excluded",
+      "government_control_at_time": "public",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-2"
+      ],
+      "evidence_note": "Primary biography names role, no dates or employment terms. Historical agency name and appointment instrument to verify; governance not assumed full-time or unpaid.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "HWB-08"
+    },
+    {
+      "employer": "Local Government Association of South Australia",
+      "role": "Executive member",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-2"
+      ],
+      "evidence_note": "Association governance separately recorded; not automatically public-sector employment merely because members are councils. Remuneration and dates unknown.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "HWB-09"
+    },
+    {
+      "employer": "Australian Migrant Resource Centre",
+      "role": "Board member",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "nonprofit",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-2"
+      ],
+      "evidence_note": "Primary biography names board role. Appointment dates, historical legal name/control and fees to verify; no executive employee claim.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "HWB-10"
+    },
+    {
+      "employer": "Powerlifting organisations and mentoring hosts not identified",
+      "role": "Athlete; mentor and accredited fitness/rehabilitation instructor",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "unknown",
+      "government_control_at_time": "unknown",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-2",
+        "src-4",
+        "src-10"
+      ],
+      "evidence_note": "Sporting titles and accreditation do not prove paid employment. Mentor role/pay and relationship to business activity unresolved; no additional full-time period counted.",
+      "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
+      "spell_id": "HWB-11"
+    },
+    {
+      "employer": "Parliament of Australia",
+      "role": "Member for Makin",
+      "start_date": "2007-11-24",
+      "end_date": null,
+      "date_precision": "day",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "elected_office",
+      "headline_sector": "excluded",
+      "government_control_at_time": "public",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-1",
+        "src-2",
+        "src-3"
+      ],
+      "evidence_note": "Frozen first-service date retained.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "HWB-12"
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://handbook.aph.gov.au/parliamentarians/HWB",
+      "publisher": "Parliament of Australia",
+      "title": "Frozen Parliamentary Handbook occupation and service extract",
+      "source_type": "official_biography",
+      "locator": "data/parliament.json; roster HWB; snapshot 2026-09-10",
+      "note": "Frozen official occupations and first-service evidence read from repository; roster not refreshed.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-1"
+    },
+    {
+      "url": "https://alp.org.au/our-people/our-people/tony-zappia/",
+      "publisher": "Australian Labor Party",
+      "title": "Tony Zappia biography",
+      "source_type": "official_biography",
+      "locator": "career and board paragraphs",
+      "note": "Primary career sequence, part ownership/management 1981–2007, local government and four external governance roles.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-2"
+    },
+    {
+      "url": "https://www.openaustralia.org.au/debate/?id=2008-03-11.80.1",
+      "publisher": "Commonwealth Hansard via OpenAustralia",
+      "title": "First speech, 11 March 2008",
+      "source_type": "government_record",
+      "locator": "1977 council election and closing career acknowledgements",
+      "note": "Explicit first-person 1976–1981 Cavanagh employment; overrides secondary 1980 end claims.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-3"
+    },
+    {
+      "url": "https://www.abc.net.au/news/elections/federal/2022/guide/maki",
+      "publisher": "ABC News / Antony Green",
+      "title": "Makin electorate guide, 2022",
+      "source_type": "news",
+      "locator": "Tony Zappia candidate biography",
+      "note": "Names Funlife Ingle Farm establishment 1979 and Fairview Fitness Centre establishment 1982; conflicts with official aggregate 1981 start retained.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-4"
+    },
+    {
+      "url": "https://www.sbs.com.au/news/article/labor-mp-denies-eligibility-worry-over-gym/391h3mhym",
+      "publisher": "AAP / SBS News",
+      "title": "Labor MP denies eligibility worry over gym, 21 November 2018",
+      "source_type": "news",
+      "locator": "reported register dates and spokesman response",
+      "note": "Registration April 1983–June 2018 reported second-hand, while spokesman says personal interest ended years earlier and no current income; registration is not employment proof.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-5"
+    },
+    {
+      "url": "https://assets.cdn.slsa.sa.gov.au/files/Annual_Report_2007-08_Final.pdf",
+      "publisher": "Libraries Board of South Australia",
+      "title": "Annual Report 2007–08",
+      "source_type": "government_record",
+      "locator": "printed pp 8 and 76, Governing and Note 6 Remuneration of board members",
+      "note": "Names Zappia retirement 26 October 2007 and entitlement to board remuneration; no personal amount or executive employment shown.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-6"
+    },
+    {
+      "url": "https://www.anz.com/shareholder/centre/about/history/",
+      "publisher": "ANZ",
+      "title": "Shareholder Centre: History",
+      "source_type": "employer",
+      "locator": "1951 and 1970 merger chronology",
+      "note": "Private commercial bank history; distinguish ANZ Bank from later ANZ Banking Group entity.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-7"
+    },
+    {
+      "url": "https://www.anz.com/content/dam/anzcom/shareholder/1969AnnualReport.pdf",
+      "publisher": "Australia and New Zealand Banking Group",
+      "title": "Annual Report 1969",
+      "source_type": "employer",
+      "locator": "public indexed merger and shareholders passage",
+      "note": "Contemporary shareholder/merger evidence. PDF is image-based with no reader text; indexed passage used, not a full transcription.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-8"
+    },
+    {
+      "url": "https://s3.ap-southeast-2.amazonaws.com/cranaplus-website-assets/files/CRANAplus-Conference-Program-2016.pdf",
+      "publisher": "CRANAplus",
+      "title": "34th conference program, 12–14 October 2016",
+      "source_type": "other",
+      "locator": "indexed invited-speaker biography: Mr Tony Zappia MP",
+      "note": "Explicitly states full-time ANZ work began 1969. Program also repeats a 1980 Cavanagh end inconsistent with first speech. Initial reader returned PDF, follow-up fetch returned403; relevant biography available in indexed extract only.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-9"
+    },
+    {
+      "url": "https://www.upstart.net.au/tony-zappia-politics-and-power-lifting/",
+      "publisher": "Upstart / Ryan McLaughlin, La Trobe University",
+      "title": "Tony Zappia: politics and powerlifting, 29 June 2012",
+      "source_type": "news",
+      "locator": "career paragraphs",
+      "note": "Student journalism profile corroborates full-time ANZ work at17 and three fitness centres. Electoral figures in same story are unreliable and not used; primary corroboration preferred for precise employment.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-10"
+    },
+    {
+      "url": "https://www.yellowpages.com.au/sa/ingle-farm/funlife-fitness-centre-12914603-listing.html",
+      "publisher": "Yellow Pages / Funlife Fitness Centre",
+      "title": "Business listing",
+      "source_type": "other",
+      "locator": "Established field",
+      "note": "Lists1979 establishment, corroborating business existence rather than Zappia personal employment start.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-11"
+    }
+  ],
+  "research_notes": [
+    "Initial review2026-10-01: retained frozen three employment spells, added named businesses, four governance bodies and sporting/mentoring distinction. Primary first speech resolves Cavanagh year discrepancy in favour of1981; no frozen roster refresh.",
+    "ANZ full-time commencement is explicit in conference biography and corroborating profile, not inferred from bank-officer title. Official1969–1976 years imply conditional gross6–8calendar years if full-time continued; precise months, continuity and breaks absent. No exact7-year claim and no numeric headline. Private banking control supported by historical shareholder/merger evidence.",
+    "Gym chronology is materially unresolved: ABC1979 Funlife, party1981 unnamed centre, ABC1982 Fairview, reported ASICApril1983 registration, manager end2007,2012ownership account and2018spokesman denial of recent interest. Dates may represent different business/ownership/work events; do not flatten them. Three centres reported but only two named. Aggregate and component spells overlap, not additive.",
+    "Government-funded client services do not make fitness business public employment. Library board fee entitlement is supported but cannot be promoted to full-time public work; no individual fee extrapolated from aggregate report bands.",
+    "Avenues checked: party/parliamentary chronology, first speech, historical library annual report, ANZ history/report, ABC election profiles,2016conference biography,2012profile and2018AAP account. Funlife employer site inaccessible; CRANAplus subsequent reader request403 after initial/indexed access. No bypass attempted. No attributable public professional CV found; American cybersecurity/union officers and Cronulla administrator namesakes excluded.",
+    "Follow-up: ANZ dates/status/leave and legal-entity transfer; gym1981vs1979 start, third site, entity/operator dates/hours and ownership exit; library appointment start, planning/LGA/MRC dates and pay; athlete/mentor pay. Last review2026-10-01. South Australian initial pass ends with this record; proceed to Tasmania before unresolved follow-up pass."
+  ]
+}
