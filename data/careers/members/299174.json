@@ -6,12 +6,12 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/299174",
   "research_status": "blocked",
-  "last_reviewed": "2026-09-24",
+  "last_reviewed": "2026-10-01",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
     "calculation_status": "not_calculable",
-    "note": "The official record supplies month boundaries for the family business and Local Government Procurement role, but not hours, leave, payroll basis or substantive full-time status. Local elected office, party activity, board and association governance, advisory service and study are excluded. Overlapping roles and the public/private control of Local Government Procurement remain unresolved; missing evidence is not zero."
+    "note": "Family-business management dates are recorded but hours, leave, payroll basis and substantive full-time status remain unknown. LGP Associate Director is now resolved as excluded board governance. Other elected, party, association, advisory and study spells remain excluded. No supported full-time interval can yet be calculated; missing evidence is not zero."
   },
   "career_spells": [
     {
@@ -27,13 +27,15 @@
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-secondary"],
+      "source_ids": [
+        "src-secondary"
+      ],
       "evidence_note": "The secondary biography reports the UNSW fields of study and says Laxale joined the family business after graduating, but gives no enrolment or graduation dates, load, or work overlap.",
       "counting_note": "Study is excluded under the codebook."
     },
     {
       "spell_id": "299174-family-business",
-      "employer": "Laxale's Hair and Beauty Supplies",
+      "employer": "Laxale's Hair & Beauty Supplies Pty Ltd",
       "role": "General Manager and Director",
       "start_date": "2004-11",
       "end_date": "2017-11",
@@ -44,8 +46,12 @@
       "headline_sector": "private",
       "government_control_at_time": "private",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-snapshot", "src-secondary"],
-      "evidence_note": "The frozen official extract supplies the employer, combined titles and November 2004 to November 2017 boundaries. The secondary biography identifies it as the family hair-and-beauty supplies business. The legal entity, ownership, remuneration, hours, leave and title transitions are unresolved, including overlap with party and elected roles.",
+      "source_ids": [
+        "src-snapshot",
+        "src-secondary",
+        "src-abr-family"
+      ],
+      "evidence_note": "The frozen official extract supplies the employer, combined titles and November 2004 to November 2017 boundaries. The secondary biography identifies it as the family hair-and-beauty supplies business. Ownership, remuneration, hours, leave and title transitions are unresolved, including overlap with party and elected roles. Follow-up: matching ABR entity identifies legal name and ABN 74 098 599 065; its 2001 registration is not the member’s employment commencement. Historical shareholding, actual hours and division between management work and directorship remain unknown.",
       "counting_note": "A senior title in a family business does not prove self-employment or substantive full-time work."
     },
     {
@@ -61,7 +67,9 @@
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-secondary"],
+      "source_ids": [
+        "src-secondary"
+      ],
       "evidence_note": "The secondary biography reports Labor membership from 2004 and Eastwood branch presidency from 2008. No end date, remuneration, hours or employment relationship is stated; the two milestones are retained in one excluded party-activity spell rather than treated as employment.",
       "counting_note": "Party membership and organisational office are excluded under the codebook."
     },
@@ -78,7 +86,11 @@
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-member", "src-alp", "src-secondary"],
+      "source_ids": [
+        "src-member",
+        "src-alp",
+        "src-secondary"
+      ],
       "evidence_note": "Member and party biographies corroborate ten years in local government; the secondary chronology supplies election and resignation dates. The final interval overlaps federal service because resignation from council followed the federal election.",
       "counting_note": "Local elected office is excluded under the codebook."
     },
@@ -95,7 +107,11 @@
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-member", "src-alp", "src-secondary"],
+      "source_ids": [
+        "src-member",
+        "src-alp",
+        "src-secondary"
+      ],
       "evidence_note": "The secondary chronology supplies the first mayoral term dates; member-controlled biographies corroborate service as mayor. This office was nested within the councillor term.",
       "counting_note": "Local elected office is excluded under the codebook."
     },
@@ -112,7 +128,9 @@
       "headline_sector": "excluded",
       "government_control_at_time": "unknown",
       "counting_status": "excluded",
-      "source_ids": ["src-snapshot"],
+      "source_ids": [
+        "src-snapshot"
+      ],
       "evidence_note": "The frozen official extract supplies the organisation, chair title and month boundaries. It does not state the legal form, remuneration, hours or whether the appointment was an incident of local elected office; governance is not assumed to be paid employment.",
       "counting_note": "Intergovernmental/community governance is excluded from the narrow employment headline."
     },
@@ -129,7 +147,11 @@
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-member", "src-alp", "src-secondary"],
+      "source_ids": [
+        "src-member",
+        "src-alp",
+        "src-secondary"
+      ],
       "evidence_note": "The secondary chronology supplies the second mayoral term dates; member-controlled biographies describe five years as mayor in total. This office was nested within the councillor term.",
       "counting_note": "Local elected office is excluded under the codebook."
     },
@@ -146,7 +168,9 @@
       "headline_sector": "excluded",
       "government_control_at_time": "unknown",
       "counting_status": "excluded",
-      "source_ids": ["src-snapshot"],
+      "source_ids": [
+        "src-snapshot"
+      ],
       "evidence_note": "The frozen official extract supplies the organisation, title and month boundaries. Remuneration, hours, legal form and whether the appointment was an incident of council office are unresolved.",
       "counting_note": "Regional council governance is excluded from the narrow employment headline."
     },
@@ -154,17 +178,22 @@
       "spell_id": "299174-statecover",
       "employer": "StateCover Mutual Limited",
       "role": "Non-Executive Director and Risk Committee Chair",
-      "start_date": "2018-09",
+      "start_date": "2018-09-10",
       "end_date": "2022-06",
-      "date_precision": "month",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "private_enterprise",
       "headline_sector": "excluded",
-      "government_control_at_time": "private",
+      "government_control_at_time": "unknown",
       "counting_status": "excluded",
-      "source_ids": ["src-snapshot", "src-statecover", "src-secondary"],
-      "evidence_note": "The frozen extract supplies the non-executive directorship and month boundaries; the secondary biography adds Risk Committee chair. StateCover describes itself as a mutual owned by its member councils. Remuneration and meeting load are unresolved, and non-executive governance is not treated as substantive employment.",
+      "source_ids": [
+        "src-snapshot",
+        "src-statecover",
+        "src-secondary",
+        "src-lgnsw-2021"
+      ],
+      "evidence_note": "The frozen extract supplies the non-executive directorship and month boundaries; the secondary biography adds Risk Committee chair. StateCover describes itself as a mutual owned by its member councils. Remuneration and meeting load are unresolved, and non-executive governance is not treated as substantive employment. LGNSW report refines initial appointment to 10 September 2018, with reappointment 20 November 2019. Council ownership and nomination arrangements do not alone resolve the codebook’s ultimate-control test; prior private-control coding is therefore withheld. Scheduled November 2022 term is not used to replace recorded June 2022 departure.",
       "counting_note": "Board governance is displayed separately and excluded from the narrow public/private employment headline."
     },
     {
@@ -180,8 +209,12 @@
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-snapshot", "src-secondary"],
-      "evidence_note": "The frozen official extract supplies the organisation, office and month boundaries. The secondary biography describes the role as a directorship/treasurer office. Remuneration, hours and any separate employment relationship are unresolved.",
+      "source_ids": [
+        "src-snapshot",
+        "src-secondary",
+        "src-lgnsw-2021"
+      ],
+      "evidence_note": "The frozen official extract supplies the organisation, office and month boundaries. The secondary biography describes the role as a directorship/treasurer office. Hours and any separate employment relationship remain unresolved. Officer disclosure establishes $14,053.23 including superannuation as treasurer and $66,338.04 for external boards in 2020/21. External-board amount is not allocated to particular boards. Remuneration establishes paid governance, not full-time employment.",
       "counting_note": "Employer-association governance is excluded under the codebook."
     },
     {
@@ -194,12 +227,19 @@
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "private_enterprise",
-      "headline_sector": "unknown",
+      "headline_sector": "excluded",
       "government_control_at_time": "unknown",
-      "counting_status": "insufficient_evidence",
-      "source_ids": ["src-snapshot", "src-lgp", "src-lgnsw-lgp", "src-secondary"],
-      "evidence_note": "The frozen official extract supplies the title and month boundaries. LGP describes itself as the procurement organisation for NSW councils and a prescribed entity under section 55 of the Local Government Act; LGNSW describes LGP as a proprietary company for which it recruits directors. Public evidence does not resolve payroll basis, hours, leave, substantive full-time status, or ultimate government control. The interval overlaps council, board and association offices and extends beyond the federal election month.",
-      "counting_note": "The role may be paid employment, but neither substantive full-time status nor a defensible public/private headline classification is established."
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-snapshot",
+        "src-lgp",
+        "src-lgnsw-lgp",
+        "src-secondary",
+        "src-lgp-2021",
+        "src-lgp-2022"
+      ],
+      "evidence_note": "The frozen extract records November 2020–June 2022. LGP’s 2021 annual report identifies Associate Director as a board appointment linking LGP to owner LGNSW, resolving the earlier uncertainty about whether this was an operational job. Its biography gives October 2020 commencement; the one-month disagreement is retained for reconciliation, without changing the frozen boundary. Pay allocation, meeting load and ultimate government control remain unresolved.",
+      "counting_note": "Board governance is excluded; neither the title nor aggregated external-board remuneration supports full-time employment."
     },
     {
       "spell_id": "299174-venture-cafe",
@@ -214,7 +254,9 @@
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-secondary"],
+      "source_ids": [
+        "src-secondary"
+      ],
       "evidence_note": "The secondary biography reports advisory-board service but supplies no dates, remuneration, meeting load or employment relationship.",
       "counting_note": "Advisory governance is excluded from the narrow employment headline."
     },
@@ -231,7 +273,9 @@
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-secondary"],
+      "source_ids": [
+        "src-secondary"
+      ],
       "evidence_note": "The secondary chronology records announcement as Labor candidate on 26 March 2022 and election on 21 May 2022. Remuneration, campaign hours and treatment of concurrent roles are unresolved; candidacy is not assumed to be employment.",
       "counting_note": "Party and campaign activity is excluded under the codebook."
     },
@@ -248,7 +292,12 @@
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-snapshot", "src-member", "src-alp", "src-directory"],
+      "source_ids": [
+        "src-snapshot",
+        "src-member",
+        "src-alp",
+        "src-directory"
+      ],
       "evidence_note": "The frozen roster and current official profiles record House service from the 21 May 2022 election. Parliamentary and party-room responsibilities are nested within elected service.",
       "counting_note": "Elected office is excluded under the codebook."
     }
@@ -333,6 +382,57 @@
       "source_type": "secondary",
       "locator": "Early life, local government and political career sections; infobox chronology",
       "note": "Secondary synthesis supplies education, family-business context, party milestones, exact local-office dates, additional governance roles and candidacy date. These details remain flagged for primary-source follow-up where the frozen official record does not independently support them."
+    },
+    {
+      "url": "https://abr.business.gov.au/ABN/View/74098599065",
+      "publisher": "Australian Business Register",
+      "title": "LAXALE’S HAIR & BEAUTY SUPPLIES PTY LTD — ABN 74 098 599 065",
+      "source_type": "government_record",
+      "locator": "Entity name, type and active-from fields",
+      "note": "Register identifies Australian private company, ACN 098 599 065, active from 30 October 2001. Entity registration does not date Laxale’s work or establish historical shareholding.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-abr-family"
+    },
+    {
+      "url": "https://lgp.org.au/wp-content/uploads/2021/11/LGP-Annual-Report-2021-Lo-res.pdf",
+      "publisher": "Local Government Procurement",
+      "title": "Annual Report 2020/21",
+      "source_type": "employer",
+      "locator": "Printed pages 5 and 8, chair report and Laxale board biography",
+      "note": "Associate directors connect the board with owner LGNSW. Biography dates Laxale’s board service from October 2020, conflicting with frozen November 2020 entry.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-lgp-2021"
+    },
+    {
+      "url": "https://regorgs.fwc.gov.au/sites/default/files/2021-12/142n-fr2021-218.pdf",
+      "publisher": "Local Government NSW / Fair Work Commission",
+      "title": "Annual Report 2020/21",
+      "source_type": "government_record",
+      "locator": "PDF pages 26–27, printed pages 42–45; StateCover appointments and officer disclosure",
+      "note": "Records StateCover appointment 10 September 2018 and reappointment 20 November 2019. Officer disclosure covers 1 July 2020–30 June 2021; external-board remuneration is aggregated.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-lgnsw-2021"
+    },
+    {
+      "url": "https://lgp.org.au/wp-content/uploads/2022/10/LGP-Annual-Report-FY22-Lo-Res.pdf",
+      "publisher": "Local Government Procurement",
+      "title": "Annual Report 2021/22",
+      "source_type": "employer",
+      "locator": "Printed page 8, Laxale board biography",
+      "note": "Corroborates October 2020 board commencement and Associate Director governance title.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-lgp-2022"
     }
+  ],
+  "open_questions": [
+    "What were actual family-business hours, leave, pay basis and management/directorship transitions during November 2004–November 2017, including overlap with council office?",
+    "Can appointment instruments reconcile LGP October versus November 2020 commencement and independently confirm its June 2022 end?",
+    "What were the historical ownership/control arrangements of StateCover, and which external boards account for disclosed aggregate remuneration?",
+    "Are earlier jobs or later business-consulting clients omitted from official occupations, and what are their dates and hours?",
+    "Can primary records refine Venture Café, party and local-government chronology and paid/unpaid conditions?"
+  ],
+  "research_notes": [
+    "2026-10-01 follow-up: official register resolves matching family company; historical LGP report reclassifies Associate Director as excluded governance, and LGNSW report refines StateCover appointment and establishes paid treasurer governance. No salary-to-hours conversion or external-board pay allocation made.",
+    "Searched family company, LGP historical annual reports, StateCover and LGNSW filings, first speech and declarations. LGP 2022 report corroborates board context; 2021/22 LGNSW website PDF failed retrieval, but 2020/21 FWC-hosted report was readable. Member speech page timed out; public Hansard reproduction describes parents’ long hours, not a dated work pattern for the member. Later StateCover membership resignation is not treated as his directorship cessation. No evidence of a calculable full-time family-business interval found."
   ]
 }
