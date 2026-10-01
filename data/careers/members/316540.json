@@ -6,12 +6,12 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/316540",
   "research_status": "blocked",
-  "last_reviewed": "2026-09-25",
+  "last_reviewed": "2026-10-01",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
     "calculation_status": "not_calculable",
-    "note": "The frozen official extract contains no occupation entries. Public biographies establish private finance-industry work, federal financial-regulation work and NSW political-staff work, but do not identify the finance or regulator employers, roles, dates, hours, leave or transitions. Political staff, candidacy, elected office and study are excluded. Missing evidence is not zero."
+    "note": "APRA is now identified as the federal regulatory employer, but its dates, role, hours and leave remain unknown. Private-finance employer(s) and working patterns remain unresolved. Political staff, union/party/campaign activity, elected office and study are excluded. No supported full-time duration; missing evidence is not zero."
   },
   "career_spells": [
     {
@@ -27,7 +27,11 @@
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-member", "src-alp", "src-secondary"],
+      "source_ids": [
+        "src-member",
+        "src-alp",
+        "src-secondary"
+      ],
       "evidence_note": "Member and Labor biographies state that Moncrieff studied Economics and Finance at the University of Wollongong. They do not publish degree title, enrolment or graduation dates, study load or work overlap.",
       "counting_note": "Study is excluded under the codebook."
     },
@@ -44,7 +48,10 @@
       "headline_sector": "excluded",
       "government_control_at_time": "unknown",
       "counting_status": "excluded",
-      "source_ids": ["src-member", "src-alp"],
+      "source_ids": [
+        "src-member",
+        "src-alp"
+      ],
       "evidence_note": "Member-controlled and party biographies report postgraduate qualifications in these three fields but do not name the qualifications or institutions, give dates or state study load and employment overlap.",
       "counting_note": "Study is excluded under the codebook."
     },
@@ -61,13 +68,16 @@
       "headline_sector": "private",
       "government_control_at_time": "private",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-member", "src-alp"],
+      "source_ids": [
+        "src-member",
+        "src-alp"
+      ],
       "evidence_note": "Moncrieff's member and Labor biographies state that he worked in the private sector of the finance industry. No employer, legal entity, role, start/end date, hours, leave, employment basis or relationship to postgraduate study and later regulatory work is published in the sources reviewed.",
       "counting_note": "Private-sector work is supported only at sector level; no defensible full-time interval can be calculated."
     },
     {
       "spell_id": "316540-financial-regulation",
-      "employer": "Unidentified federal financial regulator",
+      "employer": "Australian Prudential Regulation Authority (APRA)",
       "role": "Financial-regulation work",
       "start_date": null,
       "end_date": null,
@@ -78,9 +88,14 @@
       "headline_sector": "public",
       "government_control_at_time": "public",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-member", "src-alp", "src-abc-election"],
-      "evidence_note": "The member and party biographies describe a financial-regulation background, and the contemporary ABC election guide specifically says Moncrieff worked in federal financial regulation. The agency, branch, title, dates, hours, leave, employment basis and transition from private finance are not identified. The employer is deliberately not guessed from possible federal regulators.",
-      "counting_note": "Federal regulatory work supports a public classification, but the absence of employer, dates and substantive full-time evidence prevents a duration."
+      "source_ids": [
+        "src-member",
+        "src-alp",
+        "src-abc-election",
+        "src-first-speech"
+      ],
+      "evidence_note": "Member and party profiles establish financial-regulation experience; ABC describes federal work. Follow-up first speech explicitly names APRA and concurrent CPSU delegate activity. Branch, title, employment boundaries, hours, leave and private-finance transition remain unknown.",
+      "counting_note": "Federal regulator now identified; no dated full-time interval established."
     },
     {
       "spell_id": "316540-stuart-adviser",
@@ -95,8 +110,13 @@
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-leader", "src-secondary", "src-abc-election"],
-      "evidence_note": "Contemporary candidate reporting describes Moncrieff as a former political staffer and policy adviser to Maryanne Stuart, the NSW Member for Heathcote; the ABC election guide corroborates State Parliament adviser work. Exact appointment/cessation dates, parliamentary payroll entity, hours, leave, title changes and overlap with federal regulation or campaigning are unresolved.",
+      "source_ids": [
+        "src-leader",
+        "src-secondary",
+        "src-abc-election",
+        "src-first-speech"
+      ],
+      "evidence_note": "Contemporary candidate reporting describes Moncrieff as a former political staffer and policy adviser to Maryanne Stuart, the NSW Member for Heathcote; the ABC election guide corroborates State Parliament adviser work. Exact appointment/cessation dates, parliamentary payroll entity, hours, leave, title changes and overlap with federal regulation or campaigning are unresolved. First speech independently confirms state staffer work through an electorate-casework anecdote; it adds no appointment dates or hours.",
       "counting_note": "State parliamentary political-staff work is excluded under the codebook."
     },
     {
@@ -112,7 +132,11 @@
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-leader", "src-abc-election", "src-secondary"],
+      "source_ids": [
+        "src-leader",
+        "src-abc-election",
+        "src-secondary"
+      ],
       "evidence_note": "The Leader reported Moncrieff as Labor's candidate on 23 February 2025 and the ABC records his election on 3 May 2025. It is unclear whether 23 February was the formal preselection date or publication date. Campaign remuneration, hours and overlap with political-staff or regulatory work are not published.",
       "counting_note": "Party candidacy and campaign activity are excluded under the codebook."
     },
@@ -129,9 +153,71 @@
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-snapshot", "src-member", "src-alp", "src-abc-election"],
+      "source_ids": [
+        "src-snapshot",
+        "src-member",
+        "src-alp",
+        "src-abc-election"
+      ],
       "evidence_note": "The frozen roster, member and party biographies and ABC election result establish election for Hughes on 3 May 2025. Parliamentary responsibilities are nested within elected service.",
       "counting_note": "Federal elected office is excluded under the codebook."
+    },
+    {
+      "employer": "Community and Public Sector Union",
+      "role": "Workplace delegate",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "union",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-first-speech"
+      ],
+      "evidence_note": "First speech identifies delegate work while employed at APRA. Dates, pay and release time unknown; not presumed separate employment.",
+      "counting_note": "Union/political activity excluded.",
+      "spell_id": "316540-cpsu"
+    },
+    {
+      "employer": "Yes 23 — Sutherland Shire",
+      "role": "Organising committee member; direct voter contact and doorknocking organiser",
+      "start_date": "2023",
+      "end_date": "2023",
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "party_organisation",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-first-speech"
+      ],
+      "evidence_note": "First speech identifies referendum organising activity in 2023. Pay and exact dates unknown.",
+      "counting_note": "Union/political activity excluded.",
+      "spell_id": "316540-yes23"
+    },
+    {
+      "employer": "Labor Environment Action Network",
+      "role": "Participant",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "party_organisation",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-first-speech"
+      ],
+      "evidence_note": "First speech confirms participation; dates, remuneration and formal office unspecified.",
+      "counting_note": "Union/political activity excluded.",
+      "spell_id": "316540-lean"
     }
   ],
   "sources": [
@@ -194,17 +280,29 @@
       "source_type": "other",
       "locator": "Biography and references",
       "note": "Sparse secondary synthesis links the University of Wollongong and Maryanne Stuart policy-adviser facts to contemporary media and records the 3 May 2025 election."
+    },
+    {
+      "url": "https://davidmoncrieffmp.com.au/speeches/first-speech/",
+      "publisher": "David Moncrieff MP",
+      "title": "First speech, 23 July 2025",
+      "source_type": "official_biography",
+      "locator": "APRA/CPSU paragraph; state staffer anecdote; Yes 23 and LEAN passages",
+      "note": "First-person evidence identifies APRA employment and concurrent union representation; no dates or hours.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-first-speech"
     }
   ],
   "research_notes": [
     "The frozen official extract has no occupation entries, so public and private employment cannot be reconstructed from the roster alone.",
-    "Public sources distinguish private finance-sector work from later federal financial-regulation work, but no employer is named for either; possible regulators are not guessed.",
+    "Initial biographies distinguished private finance and federal regulation without naming employers. Follow-up first speech resolves APRA; private employer(s) remain unknown.",
     "The NSW parliamentary adviser role is classified as political staff and excluded from the headline, even though it may have been paid full-time employment.",
-    "No employment duration is calculated because every pre-parliament role lacks exact dates and hours."
+    "No employment duration is calculated because every pre-parliament role lacks exact dates and hours.",
+    "2026-10-01 follow-up resolves regulator identity from first-person speech and separates concurrent CPSU representation, 2023 referendum organising and LEAN activity.",
+    "Searched parliamentary profile, first speech, APRA/CPSU references, finance-employer and publicly indexed professional-profile leads under David and Sidney David Moncrieff. Current APH profile retrieval was restricted. Results for New Zealand ERP, British publishing/aviation and Saudi property professionals were not identity matches. No employment dates/hours or private employer established; future APRA and union historical records are targeted leads, not proof of current findings."
   ],
   "open_questions": [
     "Which private finance employers, roles and dates comprised Moncrieff's finance-industry work, and what were the hours, leave and employment basis?",
-    "Which federal financial regulator employed Moncrieff, in what branch/title and on what dates and hours?",
+    "What branch/title, dates, hours, leave and employment basis apply to APRA service, and when/how much union release time applied to the CPSU delegate role?",
     "When did postgraduate study occur, at which institutions and with what overlap with finance and regulatory work?",
     "What were the exact dates, payroll entity, title, hours and leave for the Maryanne Stuart adviser role?",
     "When was Labor preselection formally completed, was campaign work remunerated, and what employment overlapped the campaign?"

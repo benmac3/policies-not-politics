@@ -65,15 +65,16 @@ Batch check passes: 226 assigned exactly once across 13 batches; nsw-2 assignmen
 
 
 
+
 ## Nationwide follow-up pass — 2026-10-01
 
-- Active writer: original 2026-10-01 12:00 Brisbane cycle, continuation 0. Started 2026-10-01T12:03:48+10:00. Latest checkpoint 2026-10-01T18:36:22+10:00; attempt end not observed. No active remote conflict observed.
+- Active writer: original 2026-10-01 12:00 Brisbane cycle, continuation 0. Started 2026-10-01T12:03:48+10:00. Latest checkpoint 2026-10-01T18:38:37+10:00; attempt end not observed. No active remote conflict observed.
 - Nationwide initial audit at 2026-10-01T16:36:18+10:00: 226/226 initial, 0 unstarted, 226 unresolved, 0 research-complete. Day initial additions 80; this attempt initial additions 73, deduplicated from remote member additions. No completed research restarted.
 - Follow-up pass follows plan/batch/member order, preserving recorded gaps and last-review dates; current batch records retain their individual prior review dates. All batches remain in the unresolved queue; this is not completion.
 - Starting follow-up branch head: a9be3e613ae49d0fb64ff0c8ea67e67645c18fc8; starting batch initial count 19, complete 0. Starting execution national baseline153/226; WA-1 head79b1d5c96ee3dde69dd2f5453e96a2aa434baae2.
 - Isolated checkout tracks the assigned remote branch at detached HEAD because an older local worktree has unrelated modified shared outputs; those files and its local branch are untouched. Commits update only work/parliament-nsw-2 without force. Local branch-switch error was recovered by this isolated checkout.
-- Next follow-up member: 316540 MONCRIEFF, David.
-- This attempt/cycle:73 new initial, 32 materially enriched existing, 0 newly complete. Brisbane-day:80 new initial, 32 enriched existing, 0 newly complete. Counts include current member only after remote verification; checkpoint-only/repeated IDs excluded.
+- Next follow-up member: 121628 McALLISTER, the Hon. Jennifer (Jenny) Ryll.
+- This attempt/cycle:73 new initial, 33 materially enriched existing, 0 newly complete. Brisbane-day:80 new initial, 33 enriched existing, 0 newly complete. Counts include current member only after remote verification; checkpoint-only/repeated IDs excluded.
 - OUTCOME: ongoing. STOPPING REASON: none; continue sequential research after remote verification. Successor not requested. Scheduler terminal status unavailable; predecessor successor execution unverified.
 - Validation: batch check226/13, individual JSON/source/date/enums and build_careers.load_records; only assigned member and this checkpoint changed.
 - Verified national branch heads at initial-pass completion: {"act": "a9c47f619aa170d9df024231e0c3d6631e346837", "nsw-1": "c0dae12c0ce41288b38d3f02f9b661e532b91b24", "nsw-2": "a9be3e613ae49d0fb64ff0c8ea67e67645c18fc8", "nsw-3": "7298fa554d277b48374af242a87c75060258f4b0", "nt": "20e78c5f0d2d2069ead95b0df85fbe49e722fb6b", "qld-1": "af1095e7dc40095c4c2ec7b98363e6d1985c7080", "qld-2": "ee72cfae982567c09bd31c4b2181a4e76882dd9b", "sa": "bdc9586a439bcc400f537a39c7d6ffa305b3e307", "tas": "133fa5642fc57d1046ada547da70105ee64fc4a1", "vic-1": "c1d7fe74ec61b56e3420250cc0541c6e1d2fa50b", "vic-2": "8095f70c11c614d88c38f21a55e5f2306e9f3178", "wa-1": "9a20df4c6e839ed9230b14aeb0deb67d2b548e37", "wa-2": "eb43b3048789389ecba2de0eb34f52a6123ef5f9"}
@@ -103,5 +104,7 @@ Batch check passes: 226 assigned exactly once across 13 batches; nsw-2 assignmen
 - 295676; 2026-10-01; materially enriched=True: Added four early jobs and brief Sydney law study. First-person Money and ABC interviews explicitly support full-time Liverpool cadetship; separated later Fairfield work and retained unresolved dates. DAWN company/shareholding leads do not resolve 2014–2022 employer or post-2008 gaps.
 
 - 109556; 2026-10-01; materially enriched=True: Refined Menzies start to February 2006; separated boards and added Mercy Public Hospitals March 2015 term. Added teaching/community positions, Ramsay founding-study and non-executive roles, and NLA governance. ACU replacement context confirmed; High Court/private-law hours and Ramsay study terms unresolved.
+
+- 316540; 2026-10-01; materially enriched=True: Resolved unidentified federal regulator as APRA from first speech; added concurrent CPSU delegate and separate Yes 23/LEAN activity. State-staffer role independently corroborated. Private employers, role dates, hours and leave remain unknown; rejected unrelated same-name profiles.
 
 - Recovered GitHub error in preceding Farley save: github_create_tree error_code UNKNOWN, "RemoteProtocolError: Server disconnected without sending a response." Remote head was unchanged; a subsequent attempt succeeded and commit 2c2b6b0b0cd894c10f4afed73bb417203976c641 and both files were remotely verified. Not a terminal error.
