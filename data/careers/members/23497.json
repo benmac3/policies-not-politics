@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/23497",
   "research_status": "blocked",
-  "last_reviewed": "2026-09-17",
+  "last_reviewed": "2026-10-01",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -27,7 +27,9 @@
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-speech"],
+      "source_ids": [
+        "src-speech"
+      ],
       "evidence_note": "First speech calls this one of her first jobs and describes reproductive-rights campaign work. Dates, hours and the employer's then-current legal name remain unresolved.",
       "counting_note": "Nonprofit employment is excluded under the codebook; no full-time duration inferred."
     },
@@ -35,17 +37,20 @@
       "spell_id": "23497-greens-secretary",
       "employer": "Australian Greens",
       "role": "National Secretary",
-      "start_date": null,
-      "end_date": null,
-      "date_precision": "unknown",
+      "start_date": "2003-10",
+      "end_date": "2005-11",
+      "date_precision": "month",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "party_organisation",
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-greens"],
-      "evidence_note": "A Greens publication identifies Berry as national secretary in 2004. Appointment endpoints, pay and hours are not established.",
+      "source_ids": [
+        "src-greens",
+        "src-greens-roll"
+      ],
+      "evidence_note": "A Greens publication identifies Berry as national secretary in 2004. Appointment endpoints, pay and hours are not established. Party honour roll now provides October2003 start and November2005 end. Its legend expressly allows known or presumed end dates, so November2005 retains that qualification; no personal pay/hours evidence.",
       "counting_note": "Party-organisation activity is excluded under the codebook."
     },
     {
@@ -61,14 +66,16 @@
       "headline_sector": "excluded",
       "government_control_at_time": "unknown",
       "counting_status": "excluded",
-      "source_ids": ["src-greens"],
+      "source_ids": [
+        "src-greens"
+      ],
       "evidence_note": "A Greens publication identifies Berry as an adviser to Cunningham MP Michael Organ in 2004. Exact appointment/payroll dates, leave and hours are unresolved.",
       "counting_note": "Political staff employment is excluded under the codebook."
     },
     {
       "spell_id": "23497-piac",
       "employer": "Public Interest Advocacy Centre Ltd",
-      "role": "Solicitor",
+      "role": "Solicitor, Health Policy and Advocacy",
       "start_date": "2005-12",
       "end_date": "2008-04",
       "date_precision": "month",
@@ -78,8 +85,15 @@
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-linkedin", "src-speech", "src-party", "src-summit"],
-      "evidence_note": "Public professional-profile index supplies month endpoints; first speech and biographies corroborate public-interest/human-rights legal work and disability-rights test cases. Hours and leave remain unknown.",
+      "source_ids": [
+        "src-linkedin",
+        "src-speech",
+        "src-party",
+        "src-summit",
+        "src-piac2006",
+        "src-piac2008"
+      ],
+      "evidence_note": "Public professional-profile index supplies month endpoints; first speech and biographies corroborate public-interest/human-rights legal work and disability-rights test cases. Hours and leave remain unknown. Follow-up2026-10-01: contemporaneous employer staff lists independently confirm December2005 commencement and April2008 resignation. Other staff have part-time annotations; absence of an annotation for Berry does not prove full-time hours. Maternity-leave notes belong to named colleagues, not Berry.",
       "counting_note": "Nonprofit employment is excluded under the codebook."
     },
     {
@@ -95,7 +109,12 @@
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-linkedin", "src-nsw-parliament", "src-speech", "src-summit"],
+      "source_ids": [
+        "src-linkedin",
+        "src-nsw-parliament",
+        "src-speech",
+        "src-summit"
+      ],
       "evidence_note": "Professional-profile index supplies month endpoints and Executive Director title; a 2009 NSW Parliament submission independently records that role. Later biographies use CEO. Hours and leave remain unknown.",
       "counting_note": "Nonprofit employment is excluded under the codebook."
     },
@@ -112,7 +131,12 @@
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-linkedin", "src-speech", "src-party", "src-summit"],
+      "source_ids": [
+        "src-linkedin",
+        "src-speech",
+        "src-party",
+        "src-summit"
+      ],
       "evidence_note": "Public professional-profile index supplies month endpoints; first speech and biographies corroborate the CEO role. Same-month transitions do not establish overlap or full-time hours.",
       "counting_note": "Nonprofit employment is excluded under the codebook."
     },
@@ -129,7 +153,12 @@
       "headline_sector": "public",
       "government_control_at_time": "public",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-snapshot", "src-linkedin", "src-summit", "src-secondary"],
+      "source_ids": [
+        "src-snapshot",
+        "src-linkedin",
+        "src-summit",
+        "src-secondary"
+      ],
       "evidence_note": "Professional-profile index supplies month endpoints; official frozen occupation text and biographies corroborate title and disability-oversight work. Hours and leave remain unknown.",
       "counting_note": "Public control is clear, but substantive full-time status is not; no headline duration counted."
     },
@@ -146,7 +175,13 @@
       "headline_sector": "public",
       "government_control_at_time": "public",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-snapshot", "src-linkedin", "src-summit", "src-trust-welcome", "src-secondary"],
+      "source_ids": [
+        "src-snapshot",
+        "src-linkedin",
+        "src-summit",
+        "src-trust-welcome",
+        "src-secondary"
+      ],
       "evidence_note": "Professional-profile index supplies month endpoints; employer and role are corroborated by the later employer's welcome announcement and other biographies. Senior title does not establish hours; leave remains unknown.",
       "counting_note": "Public control is clear, but substantive full-time status is not; no headline duration counted."
     },
@@ -163,7 +198,10 @@
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-trust-end", "src-trust-welcome"],
+      "source_ids": [
+        "src-trust-end",
+        "src-trust-welcome"
+      ],
       "evidence_note": "Employer records say she joined in November 2020 as General Manager, Southern Operations, and moved to CEO in January 2023. Hours and leave remain unknown.",
       "counting_note": "Nonprofit employment is excluded under the codebook."
     },
@@ -180,8 +218,15 @@
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-trust-end", "src-party", "src-speech", "src-summit"],
-      "evidence_note": "Employer records give January 2023 CEO commencement and immediate cessation announced 5 May 2025 after the election. The announcement describes four and a half total years at the Trust. Hours and leave remain unknown.",
+      "source_ids": [
+        "src-trust-end",
+        "src-party",
+        "src-speech",
+        "src-summit",
+        "src-campaign-leave",
+        "src-rc2023"
+      ],
+      "evidence_note": "Employer records give January 2023 CEO commencement and immediate cessation announced 5 May 2025 after the election. The announcement describes four and a half total years at the Trust. Hours and leave remain unknown. Former employer’s pre-election interview reports taking campaign leave in2025. Exact leave dates and whether paid are unknown; employment cessation is not necessarily last active working day.15February2023 Royal Commission testimony describes four weeks as CEO, consistent with January2023 without manufacturing a day boundary.",
       "counting_note": "Nonprofit employment is excluded under the codebook."
     },
     {
@@ -197,9 +242,89 @@
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-snapshot", "src-party"],
+      "source_ids": [
+        "src-snapshot",
+        "src-party"
+      ],
       "evidence_note": "Frozen roster records service from 3 May 2025; ongoing at snapshot. The two-day calendar overlap with Trust cessation is preserved and not double-counted.",
       "counting_note": "Elected office is excluded under the codebook."
+    },
+    {
+      "employer": "Community Restorative Centre Inc.",
+      "role": "Board / Committee of Management member, PIAC representative",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "nonprofit",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-piac2008",
+        "src-crc2008"
+      ],
+      "evidence_note": "Both2008 reports identify governance service. Term boundaries and remuneration unknown; no additional full-time employment inferred.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "23497-crc"
+    },
+    {
+      "employer": "Women In Prison Advocacy Network",
+      "role": "PIAC representative",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "nonprofit",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-piac2008"
+      ],
+      "evidence_note": "Employer report records external representation. Could be part of PIAC duties; no separate appointment, pay or hours established.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "23497-win"
+    },
+    {
+      "employer": "NSW Legal Assistance Forum, Mental Illness and Access to Legal Services Working Group",
+      "role": "PIAC representative",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-piac2008"
+      ],
+      "evidence_note": "Recorded as employer representation rather than separate employment; no additional duration counted. Working-group institutional control not assessed because employing relationship remains PIAC.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "23497-legal-forum"
+    },
+    {
+      "employer": "Unspecified Illawarra school P&Cs and sporting clubs",
+      "role": "Volunteer committee work, soccer-team management and netball coaching",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unpaid_work",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-emily-volunteers"
+      ],
+      "evidence_note": "Candidate profile explicitly describes volunteering. Individual organisations and dates unresolved.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "23497-community"
     }
   ],
   "sources": [
@@ -302,12 +427,90 @@
       "source_type": "news",
       "locator": "Carol Berry profile",
       "note": "Secondary cross-check for the identified employer/title sequence; not used to infer hours."
+    },
+    {
+      "url": "https://jec.org.au/wp-content/uploads/2024/05/Annual-Report-2006.pdf",
+      "publisher": "Public Interest Advocacy Centre / Justice and Equity Centre",
+      "title": "Annual Report2005–2006",
+      "source_type": "employer",
+      "locator": "Printed p34 staff appendix",
+      "note": "Primary commencement month and specific solicitor portfolio.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-piac2006"
+    },
+    {
+      "url": "https://jec.org.au/wp-content/uploads/jec-publications/18056/PIAC-Annual-Report-2008.pdf",
+      "publisher": "Public Interest Advocacy Centre / Justice and Equity Centre",
+      "title": "Annual Report2007–2008",
+      "source_type": "employer",
+      "locator": "Printed pp50–52 representative bodies and staff appendix",
+      "note": "Resignation month, CRC governance and advocacy representation.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-piac2008"
+    },
+    {
+      "url": "https://crcnsw.org.au/wp-content/uploads/2016/11/CRC-Annual-Report-2008.pdf",
+      "publisher": "Community Restorative Centre",
+      "title": "Annual Report2008",
+      "source_type": "employer",
+      "locator": "Printed p28 governance and management",
+      "note": "Indexed board list corroborates PIAC representative; direct PDF returned internal retrieval error.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-crc2008"
+    },
+    {
+      "url": "https://greens.org.au/about/office-bearers/honour-roll",
+      "publisher": "Australian Greens",
+      "title": "Honour Roll of Australian Greens Office Bearers",
+      "source_type": "official_biography",
+      "locator": "October2003 entry; introductory end-date convention",
+      "note": "October2003 commencement, November2005 known-or-presumed end.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-greens-roll"
+    },
+    {
+      "url": "https://www.womenshealthcentre.com.au/whitlam-candidate-carol-berry-on-standing-up-for-womens-health-in-federal-parliament/",
+      "publisher": "Illawarra Women’s Health Centre",
+      "title": "Whitlam candidate Carol Berry on standing up for women’s health in Federal Parliament",
+      "source_type": "employer",
+      "locator": "Pre-election interview paragraph on leave of absence",
+      "note": "Reports campaign leave from The Disability Trust; no exact dates, paid status or publication date visible.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-campaign-leave"
+    },
+    {
+      "url": "https://disability.royalcommission.gov.au/public-hearings/public-hearing-32-service-providers-revisited-day-3",
+      "publisher": "Disability Royal Commission",
+      "title": "Public hearing32, day3,15February2023",
+      "source_type": "government_record",
+      "locator": "Governance panel; Berry introduction",
+      "note": "First-person four-week CEO tenure corroborates January2023 start, not exact date/hours.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-rc2023"
+    },
+    {
+      "url": "https://www.emilyslist.org.au/federal_election_2025_candidates",
+      "publisher": "EMILY’s List Australia",
+      "title": "Federal Election2025 candidates",
+      "source_type": "official_biography",
+      "locator": "Carol Berry for Whitlam biography",
+      "note": "Explicit unpaid school and sporting-club community work.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-emily-volunteers"
     }
   ],
   "open_questions": [
     "What were the exact dates, legal employer and hours for the Family Planning role?",
     "What were the appointment/payroll dates, pay status, hours and leave for the Greens national-secretary and Michael Organ adviser roles?",
     "Were the dated PIAC, CID, IWHC, NSW Ombudsman, NDIA and Disability Trust spells substantively full-time, and were there material leave or breaks?",
-    "Do primary employer or government personnel records refine the month-only transitions and explain the 3–5 May 2025 Trust/House overlap?"
+    "Do primary employer or government personnel records refine the month-only transitions and explain the 3–5 May 2025 Trust/House overlap?",
+    "What are the exact dates and paid/unpaid status of2025 campaign leave from The Disability Trust?",
+    "Can the Greens honour-roll presumed end be confirmed, and CRC governance and representative roles be dated?"
+  ],
+  "research_notes": [
+    "Systematic follow-up2026-10-01. Repaired missing required research_notes field; preserved every existing supported spell/source and the separate open_questions. Baseline records supplied month-level paid-work dates and unknown hours; none have been promoted to full-time from title or salary.",
+    "Primary PIAC annual reports now support both2005–2008 employment endpoints, specific role and external governance/advocacy work. Greens honour roll supplies2003–2005 office dates with explicit presumed-end qualification. Trust employer departure notice reread and confirmed5May2025; pre-election interview establishes campaign leave but not its dates/pay.",
+    "Public sources searched for Family Planning dates/legal name, NDIA/Ombudsman hours, professional profiles, historical annual reports, maternity/campaign leave, party office and Royal Commission evidence. Unrelated US realtor, clinician, academic and charity-manager results excluded. Generic full-time staff figures and other employees’ maternity annotations are not evidence about Berry.",
+    "Government hearing15February2023 corroborates CEO entry. Exhibit32-92 (TDT.9999.0001.0001) is a remaining document lead; detailed statement not retrieved in this pass. Further priorities: personal hours/leave for public-sector spells; Family Planning and Organ adviser boundaries; Greens remuneration; exact campaign leave; CRC governance dates. Last follow-up2026-10-01; advance across all batches before revisiting exhausted broad queries."
   ]
 }
