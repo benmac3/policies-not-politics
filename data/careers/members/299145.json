@@ -6,29 +6,51 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/299145",
   "research_status": "blocked",
-  "last_reviewed": "2026-09-19",
+  "last_reviewed": "2026-10-01",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
     "calculation_status": "not_calculable",
-    "note": "The documented career consists of full-time party employment, political staff work, study and elected office, all excluded from the two headline sectors under the codebook. Earlier political-staff transition dates and the 2002–2005 period remain unresolved; missing evidence is not zero."
+    "note": "Documented work includes previously omitted private McDonald’s employment with unknown dates/hours. Full-time party work is explicitly supported; adviser work during an undated study subperiod is also explicitly full-time but excluded as political staff. Remaining transitions and2002–2005 employment are unresolved. Neither headline total is calculable; unknown is not zero."
   },
   "career_spells": [
+    {
+      "employer": "McDonald’s — outlet/franchise legal employer unidentified",
+      "role": "Teenage fast-food work; specific title unknown",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "private_enterprise",
+      "headline_sector": "private",
+      "government_control_at_time": "private",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-first-speech"
+      ],
+      "evidence_note": "First-person first speech expressly mentions McDonald’s work during school-age upbringing. Exact outlet, legal employing entity, dates, weekly hours, contract type and breaks not supplied. Private franchise/chain activity identified; no substantive full-time duration inferred.",
+      "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
+      "spell_id": "299145-mcdonalds"
+    },
     {
       "spell_id": "299145-nsw-labor",
       "employer": "New South Wales Labor",
       "role": "Accountant's assistant",
-      "start_date": "1990",
+      "start_date": null,
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "unknown",
       "employment_status": "full_time",
       "fte_fraction": 1.0,
       "category": "party_organisation",
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-first-speech", "src-abc"],
-      "evidence_note": "Byrnes states that after leaving school in year 11 she completed a business administration course and obtained her first full-time job as NSW Labor's accountant's assistant. She told ABC she started working for Labor at 16; with her official birth year this supports 1990 at year precision. Her first speech says she commuted for a year and a half, but calendar endpoints are not published, so no end date is imposed.",
+      "source_ids": [
+        "src-first-speech",
+        "src-abc"
+      ],
+      "evidence_note": "First speech explicitly describes her first full-time job as NSW Labor accountant’s assistant after a business-administration course and recalls18months commuting. ABC reports starting Labor work at16. Previous1990 date was computed from age/birth year rather than a published employment endpoint and is removed. Full-time status remains supported; precise calendar boundaries and leave unknown.",
       "counting_note": "Employment by a party organisation is excluded from public/private headline totals."
     },
     {
@@ -44,8 +66,12 @@
       "headline_sector": "excluded",
       "government_control_at_time": "unknown",
       "counting_status": "excluded",
-      "source_ids": ["src-first-speech"],
-      "evidence_note": "Her first speech says she moved to Stephen Martin's office after one and a half years at NSW Labor and describes electorate work as the next job. It does not state the appointment or cessation dates, payroll entity, hours or leave. Martin represented Macarthur and later Cunningham, but his service dates are not substituted for Byrnes's employment dates.",
+      "source_ids": [
+        "src-first-speech",
+        "src-watkinson-judgment",
+        "src-martin-thesis"
+      ],
+      "evidence_note": "Her first speech says she moved to Stephen Martin's office after one and a half years at NSW Labor and describes electorate work as the next job. It does not state the appointment or cessation dates, payroll entity, hours or leave. Martin represented Macarthur and later Cunningham, but his service dates are not substituted for Byrnes's employment dates. Contemporary court record names Byrnes among four staff considered at a26March1996 Corrimal-office staffing meeting. This dates an employment observation, not commencement/cessation. Martin’s1999 thesis acknowledges her administrative/computing assistance; remuneration and whether nested staff duties are unknown. Court details of another employee’s salary, dismissal and contract are not transferred to Byrnes.",
       "counting_note": "Political staff employment is excluded under the codebook."
     },
     {
@@ -61,7 +87,11 @@
       "headline_sector": "excluded",
       "government_control_at_time": "unknown",
       "counting_status": "excluded",
-      "source_ids": ["src-linkedin", "src-first-speech", "src-abc"],
+      "source_ids": [
+        "src-linkedin",
+        "src-first-speech",
+        "src-abc"
+      ],
       "evidence_note": "A legitimately public LinkedIn search result separates an executive-assistant role in 2005–2007 from the later adviser role. Byrnes's first speech independently confirms 17 years in Bird's electorate and ministerial offices, while ABC confirms she still worked for Bird in February 2022. Exact dates, payroll entity, hours and leave remain unresolved.",
       "counting_note": "Political staff employment is excluded under the codebook."
     },
@@ -78,8 +108,14 @@
       "headline_sector": "excluded",
       "government_control_at_time": "unknown",
       "counting_status": "excluded",
-      "source_ids": ["src-snapshot", "src-linkedin", "src-first-speech", "src-abc"],
-      "evidence_note": "The frozen official biography records senior policy and media adviser work from 2005 to 2022. The public LinkedIn result refines the senior role to July 2007–March 2022 and lists the prior executive-assistant position separately. Her first speech confirms work across Bird's electorate and ministerial offices but does not identify when office context, title or payroll changed. Hours, leave and any campaign break remain unresolved.",
+      "source_ids": [
+        "src-snapshot",
+        "src-linkedin",
+        "src-first-speech",
+        "src-abc",
+        "src-education-speech2023"
+      ],
+      "evidence_note": "The frozen official biography records senior policy and media adviser work from 2005 to 2022. The public LinkedIn result refines the senior role to July 2007–March 2022 and lists the prior executive-assistant position separately. Her first speech confirms work across Bird's electorate and ministerial offices but does not identify when office context, title or payroll changed. Hours, leave and any campaign break remain unresolved. In4September2023 speech she explicitly describes university study in her30s while a full-time adviser. This establishes full-time work during an undated subperiod, not the entire2007–2022 role. Calendar course boundaries and leave remain unknown; no dates calculated from age.",
       "counting_note": "Political staff employment is excluded under the codebook."
     },
     {
@@ -95,8 +131,13 @@
       "headline_sector": "excluded",
       "government_control_at_time": "unknown",
       "counting_status": "excluded",
-      "source_ids": ["src-parlinfo", "src-first-speech", "src-party"],
-      "evidence_note": "Official parliamentary and party biographies identify the qualification and institution. Byrnes says it followed a sizeable study gap, but the enrolment/completion dates, load and overlap with employment are not published.",
+      "source_ids": [
+        "src-parlinfo",
+        "src-first-speech",
+        "src-party",
+        "src-education-speech2023"
+      ],
+      "evidence_note": "Official parliamentary and party biographies identify the qualification and institution. Byrnes says it followed a sizeable study gap, but the enrolment/completion dates, load and overlap with employment are not published. In4September2023 speech she explicitly describes university study in her30s while a full-time adviser. This establishes full-time work during an undated subperiod, not the entire2007–2022 role. Calendar course boundaries and leave remain unknown; no dates calculated from age.",
       "counting_note": "Study is excluded under the codebook."
     },
     {
@@ -112,9 +153,33 @@
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-snapshot", "src-parlinfo", "src-personal"],
+      "source_ids": [
+        "src-snapshot",
+        "src-parlinfo",
+        "src-personal"
+      ],
       "evidence_note": "The frozen roster and current official biographies establish House service from 21 May 2022. Committee or parliamentary duties are nested within this elected service.",
       "counting_note": "Elected office is excluded under the codebook."
+    },
+    {
+      "employer": "Training provider unidentified",
+      "role": "Business administration course",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-first-speech",
+        "src-education-speech2023"
+      ],
+      "evidence_note": "First speech places course after leaving school and before first full-time party job.2023 speech corroborates sequence. Provider, qualification level, calendar dates and course load unknown.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "299145-business-course"
     }
   ],
   "sources": [
@@ -143,10 +208,10 @@
       "url": "https://alisonbyrnesmp.com.au/media-centre/speeches/my-first-speech-to-parliament/",
       "publisher": "Alison Byrnes MP",
       "title": "My first speech to Parliament",
-      "retrieved": "2026-09-19",
+      "retrieved": "2026-10-01",
       "source_type": "official_biography",
-      "locator": "Career account: business course, NSW Labor, Stephen Martin and Sharon Bird",
-      "note": "First-person primary account establishing her first full-time job, its stated duration, her next electorate-officer job, 17 years in Bird's offices and later postgraduate study."
+      "locator": "Teenage McDonald’s work; first full-time party job; Stephen Martin and Sharon Bird; study",
+      "note": "Reread primary speech. Adds previously omitted McDonald’s work and business-administration study. First full-time job is party work, not a claim of no earlier paid work."
     },
     {
       "source_id": "src-linkedin",
@@ -187,6 +252,36 @@
       "source_type": "official_biography",
       "locator": "About/current office",
       "note": "Corroborates current elected office."
+    },
+    {
+      "url": "https://alisonbyrnesmp.com.au/media-centre/speeches/higher-education-support-amendment-response-to-the-australian-universities-accord-interim-report-bill-2023/",
+      "publisher": "Alison Byrnes MP",
+      "title": "Higher Education Support Amendment speech,4September2023",
+      "source_type": "official_biography",
+      "locator": "Personal account beginning On a personal note",
+      "note": "Explicit full-time adviser work during mature-age university study; no calendar interval supplied.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-education-speech2023"
+    },
+    {
+      "url": "https://www.casechat.au/cases/au/watkinson-v-commonwealth-of-australia",
+      "publisher": "Industrial Relations Court of Australia; judgment reproduced by CaseChat",
+      "title": "Watkinson v Commonwealth of Australia [1997] IRCA84,21March1997",
+      "source_type": "government_record",
+      "locator": "Reasons: evidence about26March1996 electorate-office staffing meeting",
+      "note": "Judgment text, not generated summary, identifies Byrnes among Martin staff. Applicant’s contractual terms and salary are not attributed to Byrnes. AustLII direct copy inaccessible.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-watkinson-judgment"
+    },
+    {
+      "url": "https://ro.uow.edu.au/ndownloader/files/50595228/1",
+      "publisher": "University of Wollongong / Stephen Martin",
+      "title": "Labor and financial deregulation: the Hawke/Keating governments, banking and new labor,1999",
+      "source_type": "other",
+      "locator": "Acknowledgements: Alison Byrnes",
+      "note": "Indexed primary thesis acknowledges computing/administrative assistance; direct download403. Not proof of separate paid university employment.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-martin-thesis"
     }
   ],
   "open_questions": [
@@ -196,5 +291,13 @@
     "What were the exact transition date, payroll entity, hours and leave for the two Sharon Bird roles, including ministerial-office periods and the 2022 campaign?",
     "When did the Master of Management study begin and end, and was it undertaken alongside paid work?",
     "Was there paid work between the LinkedIn-listed March 2022 endpoint and election on 21 May 2022?"
+  ],
+  "research_notes": [
+    "Systematic follow-up2026-10-01. Added omitted private fast-food work and business-administration study; strengthened1996 political-staff observation and explicit full-time evidence during university study. Required research_notes repaired; preserved supported existing facts.",
+    "Corrected age-derived1990 NSW Labor start to null. Neither starting work at16 nor18months commuting supplies a calendar appointment date. This is a precision correction, not a removal of explicit full-time evidence. The frozen roster is untouched.",
+    "Full-time adviser statement is limited to study overlap: the whole adviser spell retains unknown employment_status because unlocated subperiod evidence cannot establish uninterrupted full-time service across2007–2022. No separately additive duplicate employment spell created. Relevant statement retained in both study and work evidence notes.",
+    "Searched own first speech and2023 education speech, official parliamentary/party biographies, public LinkedIn index,1997 court record,1999 university thesis, early work and2002–2005 gap queries, graduation/full-time/campaign searches. LinkedIn direct open failed; AustLII inaccessible; thesis download403. Available primary speeches and reproduced judgment supplied substantive evidence; no source restrictions bypassed.",
+    "Excluded namesakes: US artist/University of Michigan, Ergon worker Allison Byrnes, Ares Management professional and overseas teaching records. Spouse’s NSW parliamentary employment is not hers. Generic association/union thank-you lists are not employment evidence. Thesis assistance is not automatically university employment.",
+    "Follow-up priorities: McDonald’s outlet/franchise identity, dates and hours; party appointment dates and leave; Martin exact boundaries;2002–2005 gap; university graduation/enrolment years to locate full-time adviser subperiod; Bird ministerial-office transitions and2022 campaign leave. Last follow-up2026-10-01; advance nationwide queue before repeating exhausted searches."
   ]
 }
