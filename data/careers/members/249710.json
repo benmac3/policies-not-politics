@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/249710",
   "research_status": "blocked",
-  "last_reviewed": "2026-09-12",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -68,9 +68,10 @@
       "source_ids": [
         "src-1",
         "src-2",
-        "src-3"
+        "src-3",
+        "oct2-payday-copy"
       ],
-      "evidence_note": "Trade union work excluded from narrow public/private employment headlines.",
+      "evidence_note": "Trade union work excluded from narrow public/private employment headlines. Own2025 speech describes cleaning/security divisions using successor name United Workers Union; historical2003–2013 employer names preserved rather than backdating successor organisation.",
       "counting_note": "Outside the two employment headlines under the codebook; retained as career context."
     },
     {
@@ -129,6 +130,65 @@
       ],
       "evidence_note": "First-service date verified by official biography.",
       "counting_note": "Outside the two employment headlines under the codebook; retained as career context."
+    },
+    {
+      "employer": "Family second-hand furniture / holiday-hire businesses (legal names unknown)",
+      "role": "Delivery and till assistance",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "private_enterprise",
+      "headline_sector": "private",
+      "government_control_at_time": "private",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "oct2-payday",
+        "oct2-payday-copy"
+      ],
+      "evidence_note": "Own speech describes family-business help for pocket money. It does not allocate tasks or dates between the two businesses or establish ordinary wages/contract. Businesses privately family-controlled; paid-employment status and hours remain unknown.",
+      "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
+      "spell_id": "249710-family"
+    },
+    {
+      "employer": "Bar employer unidentified",
+      "role": "Casual hospitality worker",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "unknown",
+      "government_control_at_time": "unknown",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "oct2-payday",
+        "oct2-payday-copy"
+      ],
+      "evidence_note": "Own speech reports cash pay and dismissal after questioning missing super while at university. Explicit casual status retained in note because schema has no casual enum; unknown hours does not justify part-time or full-time classification. Legal employer/sector control not independently established.",
+      "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
+      "spell_id": "249710-bar"
+    },
+    {
+      "employer": "Endometriosis Australia",
+      "role": "Ambassador",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "nonprofit",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "oct2-endo"
+      ],
+      "evidence_note": "Primary organisation lists ambassador; no appointment date, pay or hours supplied. Advocacy not assumed paid employment.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "249710-endo"
     }
   ],
   "sources": [
@@ -171,11 +231,44 @@
       "source_type": "other",
       "locator": "Career/biography or relevant appointment section",
       "note": "Member profile; no additional dated nonpolitical employment chronology."
+    },
+    {
+      "url": "https://www.openaustralia.org.au/debates/?id=2025-10-30.18.1",
+      "publisher": "OpenAustralia / House Hansard",
+      "title": "Payday Superannuation bills — Lisa Chesters,30 October2025",
+      "source_type": "other",
+      "locator": "11:06am Lisa Chesters speech; paragraphs on family businesses, first work and university casual bar work",
+      "note": "Indexed speaker-specific text corroborates family work and dismissal from casual bar job. Direct open Internal Error; full transcript also accessible via Spender site.",
+      "retrieved": "2026-10-02",
+      "source_id": "oct2-payday"
+    },
+    {
+      "url": "https://www.allegraspender.com.au/bills_treasury_laws_amendment_payday_superannuation_bill_2025_superannuation_guarantee_charge_amendment_bill_2025_second_reading",
+      "publisher": "Allegra Spender MP / reproduced Hansard",
+      "title": "Payday Superannuation debate — reproduced Lisa Chesters speech",
+      "source_type": "other",
+      "locator": "Text explicitly headed Lisa Chesters; paragraphs beginning I myself grew up, I worked in my family, One of the reasons",
+      "note": "Transcript names family businesses as second-hand furniture and later holiday hire, describes delivery/till help for pocket money and casual bar work at university. Site’s vote-summary time is not speech time. Claims concern Chesters, not Spender.",
+      "retrieved": "2026-10-02",
+      "source_id": "oct2-payday-copy"
+    },
+    {
+      "url": "https://endometriosisaustralia.org/our-people/ambassadors/lisa-chesters-mp/",
+      "publisher": "Endometriosis Australia",
+      "title": "Lisa Chesters MP — Endo Ambassadors",
+      "source_type": "other",
+      "locator": "Our People / Ambassadors / Lisa Chesters heading",
+      "note": "Organisation confirms ambassador role; no tenure dates or remuneration. Unrelated image alt-text about Dr Jane Chalmers is not Chesters employment.",
+      "retrieved": "2026-10-02",
+      "source_id": "oct2-endo"
     }
   ],
   "research_notes": [
     "Blocked for the requested employment headlines: available dated roles are student/union/party or elected roles, all excluded by codebook. This does not establish zero other employment.",
     "Checked official and party biographies, contemporary union inquiry material, ABC candidate history and targeted early-job/hospitality searches. No substantiated additional employer chronology emerged.",
-    "Any public/private total would require new evidence of non-excluded work with dates and full-time status; do not treat union representation of hospitality workers as hospitality employment."
+    "Any public/private total would require new evidence of non-excluded work with dates and full-time status; do not treat union representation of hospitality workers as hospitality employment.",
+    "Follow-up2026-10-02 overturns prior search gap: member’s2025 speech establishes previously omitted family-business assistance and casual bar employment during university. No calendar dates inferred from age14 years9 months. Whether the first formal job was the university bar role is not established; no extra duplicate role invented.",
+    "Targeted early-job/Hansard/own biography and employer-profile searches:2013 first speech and some2025 proceedings contain other members’ careers, which were not attributed to Chesters. Endometriosis ambassador image alt text belongs to another person and was ignored.",
+    "Next evidence: names/dates of family businesses and bar, nature of family remuneration, actual weekly hours, university dates/overlaps and dismissal date. Casual employment and union work do not become full-time public/private years. No gated-profile collection or outreach."
   ]
 }
