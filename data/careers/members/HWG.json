@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/HWG",
   "research_status": "blocked",
-  "last_reviewed": "2026-09-12",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -30,7 +30,8 @@
       "source_ids": [
         "src-1",
         "src-2",
-        "src-3"
+        "src-3",
+        "oct2-tatz"
       ],
       "evidence_note": "Named land council; employer's historical government-control classification and FTE require institutional verification.",
       "counting_note": "Not counted: dates and/or substantive full-time status are insufficiently evidenced; year labels are not exact boundaries."
@@ -38,7 +39,7 @@
     {
       "spell_id": "HWG-02",
       "employer": "National Research Institute of Gerontology and Geriatric Medicine",
-      "role": "Research fellow",
+      "role": "Research fellow, The Law and Older People in Australia project",
       "start_date": "1982",
       "end_date": "1982",
       "date_precision": "year",
@@ -49,9 +50,12 @@
       "government_control_at_time": "unknown",
       "counting_status": "insufficient_evidence",
       "source_ids": [
-        "src-1"
+        "src-1",
+        "oct2-paper",
+        "oct2-rmh",
+        "oct2-elder"
       ],
-      "evidence_note": "Research institute name does not prove public control or full-time salary; overlaps legal work.",
+      "evidence_note": "Research institute name does not prove public control or full-time salary; overlaps legal work. Contemporary article footnote locates institute at Mount Royal Hospital and names Myer Foundation/Sidney Myer Trust project funders. Hospital history confirms joint establishment with University of Melbourne. Actual1982 employer/payroll and controlling arrangements remain unresolved; donor funding is not employer control.",
       "counting_note": "Not counted: dates and/or substantive full-time status are insufficiently evidenced; year labels are not exact boundaries."
     },
     {
@@ -147,9 +151,10 @@
       "government_control_at_time": "private",
       "counting_status": "excluded",
       "source_ids": [
-        "src-2"
+        "src-2",
+        "oct2-bar2003"
       ],
-      "evidence_note": "Professional-governance duties overlap practice, not separate full-time years.",
+      "evidence_note": "Professional-governance duties overlap practice, not separate full-time years. Primary Bar News2003/04 list confirms council/executive and Ethics Committee membership. It names others as vice chairs, so undated later vice-chair service is not assigned to2003/04; governance remuneration unverified.",
       "counting_note": "Outside the two employment headlines under the codebook; retained as career context."
     },
     {
@@ -170,6 +175,25 @@
       ],
       "evidence_note": "Frozen roster first-service date.",
       "counting_note": "Outside the two employment headlines under the codebook; retained as career context."
+    },
+    {
+      "employer": "Australian Institute of Aboriginal Studies (commissioning institution)",
+      "role": "Commissioned researcher, two papers",
+      "start_date": "1980",
+      "end_date": "1981",
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "unknown",
+      "government_control_at_time": "unknown",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "oct2-tatz"
+      ],
+      "evidence_note": "Own2024 oration says commissioned in1980 while NLC field officer, delivered following year. These are commission/delivery years, not verified continuous employment. Fee, contractual employer and hours unknown; retain overlap without adding job-years.",
+      "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
+      "spell_id": "HWG-aias"
     }
   ],
   "sources": [
@@ -202,11 +226,64 @@
       "source_type": "other",
       "locator": "Career/biography or relevant appointment section",
       "note": "First professional job at Northern Land Council and subsequent barrister practice."
+    },
+    {
+      "url": "https://markdreyfus.com/media/speeches/2024-colin-tatz-oration-mark-dreyfus-kc-mp/",
+      "publisher": "Mark Dreyfus",
+      "title": "Colin Tatz Oration,21 October2024",
+      "source_type": "other",
+      "locator": "Opening Colin Tatz recollection",
+      "note": "Met Tatz1980 while NLC field officer; commissioned two AIAS papers delivered following year.",
+      "retrieved": "2026-10-02",
+      "source_id": "oct2-tatz"
+    },
+    {
+      "url": "https://www.cambridge.org/core/journals/federal-law-review/article/abs/nursing-home-fee-determinations-judicial-supervision-of-departmental-procedure/AA076D983353E086017B306BCB8CB105",
+      "publisher": "Federal Law Review / Cambridge University Press",
+      "title": "Nursing Home Fee Determinations: Judicial Supervision of Departmental Procedure,1984",
+      "source_type": "other",
+      "locator": "Author footnote, Volume15 issue2 pp89–108",
+      "note": "Contemporaneous project The Law and Older People in Australia, institute at Mount Royal Hospital; Dreyfus research fellow, project funded by Myer Foundation and Sidney Myer Trust.",
+      "retrieved": "2026-10-02",
+      "source_id": "oct2-paper"
+    },
+    {
+      "url": "https://www.thermh.org.au/about/who-we-are/our-history-and-archives/history-of-rmh-royal-park",
+      "publisher": "Royal Melbourne Hospital",
+      "title": "History of RMH Royal Park",
+      "source_type": "employer",
+      "locator": "1975 institute establishment paragraph",
+      "note": "Hospital and University of Melbourne jointly established research institute; historical affiliation, not specific payroll/appointment-control proof.",
+      "retrieved": "2026-10-02",
+      "source_id": "oct2-rmh"
+    },
+    {
+      "url": "https://markdreyfus.com/media/speeches/labor-s-approach-to-the-problem-of-elder-abuse-mark-dreyfus-qc-mp/",
+      "publisher": "Mark Dreyfus",
+      "title": "Labor approach to elder abuse",
+      "source_type": "other",
+      "locator": "1982 research-fellow recollection",
+      "note": "Own account calls institute University of Melbourne affiliated and describes commissioned report on older Australians and law.",
+      "retrieved": "2026-10-02",
+      "source_id": "oct2-elder"
+    },
+    {
+      "url": "https://www.vicbar.com.au/Common/Uploaded%20files/Bar%20News/VBN_126_2003_Spring.pdf",
+      "publisher": "Victorian Bar",
+      "title": "Bar News126,Spring2003",
+      "source_type": "employer",
+      "locator": "Printed p4/PDF p4,2003/04 Council and Ethics Committee lists",
+      "note": "M.A. Dreyfus QC listed as council/executive member and Ethics Committee member; vice chairs are other people in this term.",
+      "retrieved": "2026-10-02",
+      "source_id": "oct2-bar2003"
     }
   ],
   "research_notes": [
     "Blocked for full-time headline calculation: career spans and private firm are supported, but year-only precision, practice hours and institutional control for early roles remain unresolved.",
     "Official snapshot and detailed self-published 2013 appointment biography reviewed, supplemented by legal-profession speech and full-time searches. Search matches for other Mark Dreyfus professionals were excluded.",
-    "Representing a government client as a private barrister is not public employment. Volunteer and professional board work are separately excluded. No 20-year exact full-time barrister total is inferred."
+    "Representing a government client as a private barrister is not public employment. Volunteer and professional board work are separately excluded. No 20-year exact full-time barrister total is inferred.",
+    "Follow-up2026-10-02: added1980–1981 AIAS commissioned research, recovered gerontology project/funding/host affiliations, and independently corroborated2003/04 Bar council, executive and ethics governance.",
+    "Searched profession roll/history, historical research publications and institutional histories. No full-time law practice or NLC hours obtained. US energy/education/Avaya namesakes rejected. AustLII2010 profile open returned Internal Error; independent primary material available.",
+    "Next leads: NLC1979–81 staff/annual reports and contemporaneous control rules; institute1982 appointment/payroll and governing arrangements; exact legal practice/adviser transitions and work pattern. AIAS commission is not yet evidence of public employment or self-employed consultancy. Existing totals remain null."
   ]
 }
