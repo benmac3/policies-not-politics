@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/265979",
   "research_status": "blocked",
-  "last_reviewed": "2026-09-21",
+  "last_reviewed": "2026-10-01",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -19,39 +19,68 @@
       "employer": "University of Sydney",
       "role": "Medical student (MBBS)",
       "start_date": null,
-      "end_date": null,
-      "date_precision": "unknown",
+      "end_date": "1978",
+      "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "study",
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-secondary"],
-      "evidence_note": "The secondary biography identifies the University of Sydney medical degree. Enrolment, graduation, study load and work overlap are unresolved.",
+      "source_ids": [
+        "src-secondary",
+        "src-sydney-alumni"
+      ],
+      "evidence_note": "University of Sydney alumni record establishes MBBS graduation in 1978. Enrolment date, study load and work overlap remain unknown.",
       "counting_note": "Study is excluded under the codebook."
     },
     {
-      "spell_id": "265979-childrens-training",
-      "employer": "Royal Alexandra Hospital for Children, Camperdown",
-      "role": "Paediatric training and early paediatric practice",
-      "start_date": "1978",
-      "end_date": "1984",
-      "date_precision": "year",
+      "employer": "Royal North Shore Hospital / NSW public health system",
+      "role": "Resident medical officer",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "public_service",
       "headline_sector": "public",
       "government_control_at_time": "public",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-snapshot", "src-alp", "src-secondary"],
-      "evidence_note": "The frozen occupation extract records paediatric work from 1978. Party and secondary biographies identify training at the Children's Hospital before the 1984 move to Campbelltown. Exact appointments, completion milestones, hours, leave and whether all 1978–1984 work was at this hospital are unresolved.",
+      "source_ids": [
+        "src-own-bio",
+        "src-gplink-2021"
+      ],
+      "evidence_note": "Own biography and GP Link introduction identify a residency at Royal North Shore before paediatric training at Royal Alexandra. Dates, appointment terms, hours and leave are unknown; 1978 graduation is not copied as the job start.",
+      "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
+      "spell_id": "265979-north-shore-residency"
+    },
+    {
+      "spell_id": "265979-childrens-training",
+      "employer": "Royal Alexandra Hospital for Children, Camperdown",
+      "role": "Paediatric training and early paediatric practice",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "public_service",
+      "headline_sector": "public",
+      "government_control_at_time": "public",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-snapshot",
+        "src-alp",
+        "src-secondary",
+        "src-own-bio",
+        "src-gplink-2021"
+      ],
+      "evidence_note": "Royal Alexandra paediatric training followed Royal North Shore residency and preceded Campbelltown work from 1984, according to own biography and GP Link. Frozen occupation says paediatrician from 1978, which is also the university graduation year; it does not establish continuous Royal Alexandra employment during 1978–1984. Former contextual boundaries are retained here only as context, not employment dates. Exact appointments, hours, leave and transitions unresolved.",
       "counting_note": "Public medical employment is supported, but the inferred outer bounds and unknown full-time status do not support an exact total."
     },
     {
       "spell_id": "265979-campbelltown-hospital",
       "employer": "Campbelltown Hospital / NSW public health system",
-      "role": "Paediatrician; Head of Paediatrics from 1986 to 2013",
+      "role": "Paediatrician; Head of Paediatrics (start year disputed: 1986 or 1990; ended 2013)",
       "start_date": "1984",
       "end_date": "2016",
       "date_precision": "year",
@@ -61,8 +90,16 @@
       "headline_sector": "public",
       "government_control_at_time": "public",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-alp", "src-council", "src-secondary"],
-      "evidence_note": "The party biography gives a 1984 paediatric residency start; secondary material records Head of Paediatrics from 1986 to 2013 and resignation from the public position for constitutional eligibility before the 2016 election. Exact appointment/resignation dates, payroll entity, hours, FTE allocation and leave are unresolved.",
+      "source_ids": [
+        "src-alp",
+        "src-council",
+        "src-secondary",
+        "src-own-bio",
+        "src-gplink-2021",
+        "src-alp-followup",
+        "src-abc-2017"
+      ],
+      "evidence_note": "The party biography gives a 1984 paediatric residency start; secondary material records Head of Paediatrics from 1986 to 2013 and resignation from the public position for constitutional eligibility before the 2016 election. Exact appointment/resignation dates, payroll entity, hours, FTE allocation and leave are unresolved. Own biography and GP Link give head role 1986–2013, whereas current ALP biography says it began in 1990. Hospital appointment records are needed to resolve this. ABC 2017 corroborates pre-election job relinquishment but supplies no exact cessation date.",
       "counting_note": "Public hospital employment is supported, but substantive full-time status and exact boundaries are not established."
     },
     {
@@ -70,7 +107,7 @@
       "employer": "Freelander paediatric practices in Campbelltown and Camden (legal entities unresolved)",
       "role": "Paediatrician and practice operator",
       "start_date": "1984",
-      "end_date": "2016",
+      "end_date": null,
       "date_precision": "year",
       "employment_status": "self_employed",
       "fte_fraction": null,
@@ -78,8 +115,12 @@
       "headline_sector": "private",
       "government_control_at_time": "private",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-council", "src-secondary"],
-      "evidence_note": "Campbelltown City Council says he moved to the region as a locum in the early 1980s and grew paediatric practices in Campbelltown and Camden; the secondary biography places establishment in 1984. Legal entities, opening/closing dates, hours, staff, ownership and allocation against public-hospital work are unresolved. Election is used only as an outer boundary, not proof of exact cessation.",
+      "source_ids": [
+        "src-council",
+        "src-secondary",
+        "src-own-bio"
+      ],
+      "evidence_note": "Campbelltown City Council says he moved to the region as a locum in the early 1980s and grew paediatric practices in Campbelltown and Camden; the secondary biography places establishment in 1984. Legal entities, opening/closing dates, hours, staff, ownership and allocation against public-hospital work are unresolved. Election is used only as an outer boundary, not proof of exact cessation. Follow-up removes the unsupported 2016 private-practice end field: election/public-hospital resignation does not prove private-business cessation. Earlier 2016 value was contextual only, not sourced closure evidence.",
       "counting_note": "Private self-employment is supported, but hours, precise dates and overlap prevent an exact full-time total."
     },
     {
@@ -95,8 +136,12 @@
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-secondary"],
-      "evidence_note": "The secondary biography records lecturing at the university during his medical career. Appointment dates, title, payroll, remuneration, hours and overlaps are unresolved.",
+      "source_ids": [
+        "src-secondary",
+        "src-own-bio",
+        "src-gplink-2021"
+      ],
+      "evidence_note": "The secondary biography records lecturing at the university during his medical career. Appointment dates, title, payroll, remuneration, hours and overlaps are unresolved. Own biography and 2021 GP Link introduction corroborate lecturing, without appointment boundaries or paid/honorary status.",
       "counting_note": "University employment is excluded from the narrow public/private headline under the current codebook."
     },
     {
@@ -112,8 +157,11 @@
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-secondary"],
-      "evidence_note": "Secondary material cites his public statement that he continued regular voluntary clinics after entering Parliament in 2016. Frequency, exact dates and any reimbursements are unresolved; the work is expressly described as voluntary.",
+      "source_ids": [
+        "src-secondary",
+        "src-gplink-2021"
+      ],
+      "evidence_note": "Secondary material cites his public statement that he continued regular voluntary clinics after entering Parliament in 2016. Frequency, exact dates and any reimbursements are unresolved; the work is expressly described as voluntary. First-person GP Link interview independently establishes ongoing Campbelltown clinical activity in November 2021, but does not itself state remuneration or frequency; unpaid classification still rests on the earlier explicit voluntary-clinic account.",
       "counting_note": "Unpaid work is excluded under the codebook."
     },
     {
@@ -129,9 +177,33 @@
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-snapshot", "src-alp", "src-secondary"],
+      "source_ids": [
+        "src-snapshot",
+        "src-alp",
+        "src-secondary"
+      ],
       "evidence_note": "The frozen roster and current biographies establish House service from 2 July 2016. Committee duties are nested within elected service.",
       "counting_note": "Elected office is excluded under the codebook."
+    },
+    {
+      "employer": "National COVID-19 Health and Research Advisory Committee",
+      "role": "Working-group chair and committee member",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "public_service",
+      "headline_sector": "excluded",
+      "government_control_at_time": "public",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-nhmrc-2021",
+        "src-gplink-2021"
+      ],
+      "evidence_note": "NCHRAC report dated 12 May 2021 identifies him as working-group chair. GP Link interview confirms committee participation in November 2021. Governance/advisory activity, not evidence of a separate full-time clinical job. Appointment dates, hours and remuneration unresolved.",
+      "counting_note": "Advisory/governance participation excluded; report date is not an appointment boundary.",
+      "spell_id": "265979-covid-advisory"
     }
   ],
   "sources": [
@@ -174,13 +246,76 @@
       "source_type": "other",
       "locator": "Medical career section with hospital, news and professional citations",
       "note": "Secondary synthesis supplies the Campbelltown public/private sequence, 1986–2013 departmental leadership, university lecturing, pre-election resignation and voluntary post-election clinics."
+    },
+    {
+      "url": "https://drmikefreelander.com.au/about/",
+      "publisher": "Mike Freelander MP",
+      "title": "About Mike Freelander",
+      "source_type": "official_biography",
+      "locator": "Career paragraphs 1–3",
+      "note": "Royal North Shore residency preceded Royal Alexandra training; Campbelltown work from 1984; head of paediatrics 1986–2013; private practices and university lecturing. Hours absent.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-own-bio"
+    },
+    {
+      "url": "https://www.sydney.edu.au/medicine/museum/alumni/viewuserdetail.php?id=5313",
+      "publisher": "University of Sydney",
+      "title": "FREELANDER Michael Randolph — alumni record",
+      "source_type": "employer",
+      "locator": "Graduated: year and degree fields",
+      "note": "Primary university record establishes MBBS graduation in 1978; no enrolment or employment dates.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-sydney-alumni"
+    },
+    {
+      "url": "https://sswgp.link/2021/11/16/gp-link-lunches-dr-mike-freelander/",
+      "publisher": "Sydney South West GP Link Ltd",
+      "title": "GP Link Lunches — Dr Mike Freelander, 16 November 2021",
+      "source_type": "professional_profile",
+      "locator": "Introduction; answers on pandemic and clinical involvement",
+      "note": "Professional interview corroborates Royal North Shore residency and subsequent training; Freelander confirms continuing Campbelltown clinics in 2021. No clinical hours or payment terms given.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-gplink-2021"
+    },
+    {
+      "url": "https://www.alp.org.au/our-people/our-people/mike-freelander/",
+      "publisher": "Australian Labor Party",
+      "title": "Mike Freelander — Member for Macarthur",
+      "source_type": "professional_profile",
+      "locator": "Biography, head-of-paediatrics sentence",
+      "note": "Party biography says head role began in 1990, conflicting with 1986 in member biography and GP Link; retained as unresolved conflict.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-alp-followup"
+    },
+    {
+      "url": "https://www.nhmrc.gov.au/file/18844/download?token=Mc8jGFRQ",
+      "publisher": "National Health and Medical Research Council",
+      "title": "Severity of COVID-19 illness in children and young adults, 12 May 2021",
+      "source_type": "government_record",
+      "locator": "Page 1, Notes and committee footnote",
+      "note": "Primary report identifies Freelander as chair of NCHRAC working group. Advisory role is distinct from salaried clinical employment; no remuneration or appointment boundaries.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-nhmrc-2021"
+    },
+    {
+      "url": "https://www.abc.net.au/news/2017-11-16/analysis-section-44-constitution-needs-updating/9154540",
+      "publisher": "ABC",
+      "title": "High Court decision shows section 44 needs updating, 16 November 2017",
+      "source_type": "news",
+      "locator": "Mike Freelander example",
+      "note": "Reports giving up Campbelltown job to nominate and offer to see patients unpaid. Does not supply resignation date; article is used for career evidence, not legal advice.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-abc-2017"
     }
   ],
   "research_notes": [
     "The official occupation line collapses a multi-employer medical career into 'paediatrician from 1978'; hospital, private-practice, teaching and volunteer work are separated here.",
     "Public-hospital and private-practice work overlapped, so neither can be treated as a continuous exclusive full-time interval without roster or practice evidence.",
     "The 2016 election is not silently substituted for an exact private-practice endpoint.",
-    "Regular clinics after election are recorded as unpaid because the available statement expressly describes them as voluntary."
+    "Regular clinics after election are recorded as unpaid because the available statement expressly describes them as voluntary.",
+    "Follow-up 2026-10-01: primary university graduation evidence and previously omitted Royal North Shore residency clarify the pre-1984 sequence. Removed inferred Royal Alexandra employment boundaries and the unsourced private-practice election endpoint while retaining the earlier contextual evidence.",
+    "Attempted avenues: official member/party biographies, university alumni database, GP Link interview, RACP podcast, NSW Health service directories and annual-report searches, business-register searches and full-time/part-time/resignation queries. No named private-practice entity, employment FTE or leave/cessation schedule established. NSW Health clinic page timed out; indexed service listing corroborates clinical presence only. HealthShare profile did not expose usable biography on open; university record supplied qualification evidence instead.",
+    "Further leads: Royal North Shore/Royal Alexandra personnel or annual reports; Campbelltown head appointment evidence resolving 1986 versus 1990; private-practice legal entities and closure evidence; WSU appointment classification. Contemporary report describing post-election clinics as part time does not establish payment or pre-election FTE. Governance and teaching remain separate from clinical employment."
   ],
   "open_questions": [
     "What were the exact Children's Hospital training appointments, dates, hours and leave from 1978 to 1984?",
@@ -188,7 +323,8 @@
     "What were the legal entities, dates, ownership and weekly hours of the Campbelltown and Camden private practices?",
     "How were hours allocated between public hospital, private practice and university teaching?",
     "What were the Western Sydney University appointment dates, remuneration and teaching load?",
-    "Did any paid private medical work continue after election, separately from the documented voluntary clinics?"
+    "Did any paid private medical work continue after election, separately from the documented voluntary clinics?",
+    "What were the Royal North Shore residency dates and its transition to Royal Alexandra training?",
+    "Did Campbelltown departmental leadership begin in 1986 or 1990, and why do the primary biographies differ?"
   ]
 }
-
