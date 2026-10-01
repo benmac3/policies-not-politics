@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/181810",
   "research_status": "blocked",
-  "last_reviewed": "2026-09-29",
+  "last_reviewed": "2026-10-01",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -193,9 +193,10 @@
         "src-5",
         "src-8",
         "src-9",
-        "src-10"
+        "src-10",
+        "src-abr-history"
       ],
-      "evidence_note": "Active private training business serving government and private clients. Entity transitions, contract intensity, campaign leave and any career interruptions unresolved. Network cofounding not a second continuous job.",
+      "evidence_note": "Active private training business serving government and private clients. Entity transitions, contract intensity, campaign leave and any career interruptions unresolved. Network cofounding not a second continuous job. ABR history identifies Templeman Consulting Pty Limited ABN88 071147736 under that name from8April2004, previously Dealbeer Pty Limited. It does not establish that Media Skills was renamed within this entity or when Templeman personally began work for it. Retain umbrella1991–2016 chronology, without backdating this legal name or converting ABN registration into employment.",
       "counting_note": "Dates, employer control and/or substantive full-time status remain insufficient for a duration calculation; unknown is not zero."
     },
     {
@@ -203,7 +204,7 @@
       "employer": "Family Planning NSW",
       "role": "Board director",
       "start_date": "2005-11",
-      "end_date": null,
+      "end_date": "2012-11-27",
       "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
@@ -215,7 +216,7 @@
         "src-8",
         "src-9"
       ],
-      "evidence_note": "Primary annual report states elected November 2005; still profiled 2012–13. Governance not assumed paid employment; final date unverified.",
+      "evidence_note": "Elected November2005 per2009 report; resigned27November2012 explicitly in2012–13 directors report and biography. This closes the earlier unverified end-date gap. Governance remains excluded; remuneration and substantive hours not established.",
       "counting_note": "Excluded from the two employment headlines under the codebook."
     },
     {
@@ -343,10 +344,10 @@
       "url": "https://www.fpnsw.org.au/sites/default/files/assets/fpnsw_annualreport_2013.pdf",
       "publisher": "Family Planning NSW",
       "title": "Annual report 2012–2013",
-      "retrieved": "2026-09-29",
+      "retrieved": "2026-10-01",
       "source_type": "employer",
-      "locator": "Page 65, Templeman biography",
-      "note": "Board-era biography and freelance journalism after return."
+      "locator": "Printed pages58 and65 (PDF indices57,64), directors report and Templeman biography; page67 meetings",
+      "note": "Both directors report and biography explicitly state resignation27November2012. Presence in the2012–13 report does not mean she remained on the board into2013. Three of four eligible meetings attended; no employment hours implied."
     },
     {
       "source_id": "src-10",
@@ -357,12 +358,24 @@
       "source_type": "professional_profile",
       "locator": "Jane Jordan-Meier biography",
       "note": "Co-founded Media Skills Network with Templeman; contemporaneous corroboration of business activity."
+    },
+    {
+      "url": "https://abr.business.gov.au/AbnHistory/View?id=88071147736",
+      "publisher": "Australian Business Register",
+      "title": "Historical details ABN88 071147736",
+      "source_type": "government_record",
+      "locator": "Entity-name history rows, Australian Private Company, record extracted1October2026",
+      "note": "Registry identifies Templeman Consulting Pty Limited from8April2004, previously Dealbeer Pty Limited; active ABN from22April2000. These are registration facts, not personal employment dates. No Media Skills legal-name entry on this ABN.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-abr-history"
     }
   ],
   "research_notes": [
     "Follow up exact 2UE dates and leave to narrow its full-time range; resolve overseas employment versus freelance contracts, Telecom hours and business intensity/breaks. Verify LBC historical control and legal transitions between Media Skills and Templeman Consulting.",
     "2026-09-29 avenues: APH biography and first-speech indexed text (direct 403), personal website, Rotary speaker biography, 2023 Hansard reproduction, PM's 1990 ownership statement, parliamentary Telstra history, FPNSW 2009/2010/2011/2013 reports and UCF 2012 professional profile. Searches for early radio work and full-time evidence found the first-speech statement; later roles remain unsupported for full-time duration.",
     "Private scalar is null despite countable 2UE range: schema has no numeric min/max fields, so range is explicitly documented in existing notes without changing shared schema or inventing dates. 1985–1988 is not exactly three years. No summation of London jobs or post-return freelance work with Telecom/training. 2023 speech reports work through pregnancy and early parenthood, not hours or a precisely dated leave interval.",
-    "Further leads: Sexual Health Australia board and school P&C presidencies need primary dates/role confirmation; not paid employment by assumption. Qualifications and Rotary exchange are study. Family work pay unknown, union membership not union employment. Last follow-up 2026-09-29; blocked record still needs systematic follow-up."
+    "Further leads: Sexual Health Australia board and school P&C presidencies need primary dates/role confirmation; not paid employment by assumption. Qualifications and Rotary exchange are study. Family work pay unknown, union membership not union employment. Last follow-up 2026-09-29; blocked record still needs systematic follow-up.",
+    "2026-10-01 follow-up materially resolves Family Planning NSW resignation27November2012, overlooked in the previously cited2012–13 report. Earlier note that final date was unverified is superseded. No extra employment duration arises from governance dates.",
+    "Rechecked2023 paid-parental-leave Hansard, Rotary career biography, FPNSW2013 directors report/biography and ABR historical company record. The two later business names cannot safely be treated as one legal entity solely from a narrative career biography. Secondary2016 interests transcription separately lists spouse interests in Media Skills and Templeman Consulting, a lead for original declarations rather than personal employment evidence. Searches for Sexual Health Australia and P&C dates produced repeated unsourced biographies, not new primary confirmation. Overseas contracts, LBC historical ownership, Telecom hours/maternity transition, company-specific work boundaries and campaign leave remain unresolved. No new scalar years or inferred full-time status."
   ]
 }
