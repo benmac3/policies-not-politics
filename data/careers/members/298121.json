@@ -6,12 +6,12 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/298121",
   "research_status": "blocked",
-  "last_reviewed": "2026-09-29",
+  "last_reviewed": "2026-10-01",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
     "calculation_status": "not_calculable",
-    "note": "Official dated media roles are linked to political staff, AusAID and University of Sydney evidence. Hours, appointment boundaries and university control treatment remain unresolved. Doctoral study, volunteering, governance and elected office are excluded; no missing experience is coded as zero."
+    "note": "Official dated media roles are linked to political staff, AusAID and University of Sydney evidence. Hours, appointment boundaries and university control treatment remain unresolved. Doctoral study, volunteering, governance and elected office are excluded; no missing experience is coded as zero. Fourteen months of parental leave is now documented, with exact dates and return workload unresolved."
   },
   "career_spells": [
     {
@@ -131,10 +131,12 @@
       "source_ids": [
         "src-1",
         "src-6",
-        "src-8"
+        "src-8",
+        "src-parental-leave",
+        "src-leave-year"
       ],
-      "evidence_note": "Employer yearbook confirms 2013 start; official biography gives end year. No hours, leave or employment-control finding for this interval; public funding alone is insufficient.",
-      "counting_note": "Dates, employer control and/or substantive full-time status remain insufficient for a duration calculation; unknown is not zero."
+      "evidence_note": "Employer yearbook confirms 2013 start; official biography gives end year. No hours, leave or employment-control finding for this interval; public funding alone is insufficient. Her 2023 Hansard account establishes 14 months away caring for her child, supported by employer and government paid parental leave; 2022 speech locates the birth in 2016. Attribution to this university interval is chronological inference, not an employer explicitly named in the leave passage. Exact leave boundaries, paid/unpaid portions and return workload remain unknown.",
+      "counting_note": "Dates, employer control and/or substantive full-time status remain insufficient for a duration calculation; unknown is not zero. Do not treat the 2013\u20132021 envelope as uninterrupted work or subtract exactly 14 months from an otherwise unverified full-time duration; preserve leave evidence pending precise boundaries and approved calculation treatment."
     },
     {
       "spell_id": "298121-07",
@@ -152,13 +154,13 @@
       "source_ids": [
         "src-6"
       ],
-      "evidence_note": "University's 2017–18 profile identifies multicultural-leadership advocacy governance; no appointment dates or paid workload.",
+      "evidence_note": "University's 2017\u201318 profile identifies multicultural-leadership advocacy governance; no appointment dates or paid workload.",
       "counting_note": "Excluded from the two employment headlines under the codebook."
     },
     {
       "spell_id": "298121-08",
       "employer": "Chinese Australian Forum",
-      "role": "Steering committee member",
+      "role": "Steering committee member; civics project subcommittee leader",
       "start_date": "2019",
       "end_date": null,
       "date_precision": "mixed",
@@ -169,9 +171,10 @@
       "government_control_at_time": "unknown",
       "counting_status": "excluded",
       "source_ids": [
-        "src-7"
+        "src-7",
+        "src-caf-project"
       ],
-      "evidence_note": "Governance/community role; exact cessation and remuneration unknown.",
+      "evidence_note": "Governance/community role; exact cessation and remuneration unknown. Organisation\u2019s 2023 newsletter identifies her as project subcommittee leader before election and subsequent restructuring; the project began implementation in 2021, which is not independently her appointment date.",
       "counting_note": "Excluded from the two employment headlines under the codebook."
     },
     {
@@ -214,6 +217,44 @@
       ],
       "evidence_note": "Ongoing at frozen roster.",
       "counting_note": "Excluded from the two employment headlines under the codebook."
+    },
+    {
+      "employer": "Australian Labor Party / Maxine McKew Bennelong campaign",
+      "role": "Campaign volunteer",
+      "start_date": "2007",
+      "end_date": "2007",
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unpaid_work",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-volunteer"
+      ],
+      "evidence_note": "First-person recollection explicitly says volunteer. Exact dates and hours unknown; no paid campaign employment inferred.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "298121-11"
+    },
+    {
+      "employer": "UNSW Sydney, Pathways to Politics Program for Women",
+      "role": "Training participant",
+      "start_date": "2021",
+      "end_date": "2021",
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-pathways"
+      ],
+      "evidence_note": "Institution identifies the 2021 cohort. Participation does not establish paid work or full-time study.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "298121-12"
     }
   ],
   "sources": [
@@ -225,7 +266,7 @@
       "retrieved": "2026-09-29",
       "source_type": "official_biography",
       "locator": "Qualifications and occupation",
-      "note": "2009–2012, 2012–2013, 2013–2021 media roles; 2021–2022 PhD."
+      "note": "2009\u20132012, 2012\u20132013, 2013\u20132021 media roles; 2021\u20132022 PhD."
     },
     {
       "source_id": "src-2",
@@ -254,7 +295,7 @@
       "title": "Development for All mid-term review annexes",
       "retrieved": "2026-09-29",
       "source_type": "government_record",
-      "locator": "Page 49, Samoa—AusAID interviewees",
+      "locator": "Page 49, Samoa\u2014AusAID interviewees",
       "note": "Names Sally Sitou in AusAID Media and Communications."
     },
     {
@@ -271,7 +312,7 @@
       "source_id": "src-6",
       "url": "https://www.sydney.edu.au/content/dam/corporate/documents/sydney-southeast-asia-centre/yearbooks/sydney-southeast-asia-centre-yearbook-2017-18.pdf",
       "publisher": "University of Sydney",
-      "title": "SSEAC yearbook 2017–18",
+      "title": "SSEAC yearbook 2017\u201318",
       "retrieved": "2026-09-29",
       "source_type": "employer",
       "locator": "Page 7, Sally Sitou",
@@ -316,12 +357,64 @@
       "source_type": "official_biography",
       "locator": "10 September 2026 snapshot, data/parliament.json",
       "note": "House commencement 21 May 2022."
+    },
+    {
+      "url": "https://www.openaustralia.org.au/debate/?id=2023-02-08.122.1",
+      "publisher": "Commonwealth Hansard via OpenAustralia",
+      "title": "Sally Sitou, Paid Parental Leave Amendment debate, 8 February 2023",
+      "source_type": "government_record",
+      "locator": "4:54pm, opening personal-work recollections",
+      "note": "First-person 14-month absence, supported by employer and government paid parental leave. Does not identify exact dates, pay for every month or actual full-/part-time return choice. Linked official Hansard returned Internal Error.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-parental-leave"
+    },
+    {
+      "url": "https://www.openaustralia.org.au/debates/?id=2022-08-01.212.1",
+      "publisher": "Commonwealth Hansard via OpenAustralia",
+      "title": "Gender Pay Gap debate, 1 August 2022",
+      "source_type": "government_record",
+      "locator": "Sally Sitou, 6:45pm, first two paragraphs",
+      "note": "Her own 2016 parental-leave context; distinguishes this from adjacent speakers\u2019 part-time work histories, which do not belong to Sitou.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-leave-year"
+    },
+    {
+      "url": "https://x.com/SallySitou/status/1526783296705003520",
+      "publisher": "Sally Sitou",
+      "title": "Recollection of volunteering in the 2007 Bennelong campaign",
+      "source_type": "other",
+      "locator": "Search-indexed first-person post",
+      "note": "Explicitly calls her 2007 campaign work volunteering. Direct page returned 403; indexed text available. Not evidence of her separate Parliament House job.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-volunteer"
+    },
+    {
+      "url": "https://www.unsw.edu.au/newsroom/news/2022/03/roadmap-to-achieving-parity-in-parliament-",
+      "publisher": "UNSW Sydney",
+      "title": "Roadmap to achieving parity in Parliament, 8 March 2022",
+      "source_type": "professional_profile",
+      "locator": "Where has the program taken the participants?",
+      "note": "Identifies Sitou as participant in the 2021 NSW Pathways to Politics program; training, not employment.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-pathways"
+    },
+    {
+      "url": "https://www.caf.org.au/single-post/caf-newsletter-september-2023",
+      "publisher": "Chinese Australian Forum",
+      "title": "September 2023 newsletter",
+      "source_type": "employer",
+      "locator": "CAF Civics Course: Funding, paragraphs beginning In 2021 and What followed",
+      "note": "Names Sitou and Jason Li as civics project subcommittee leaders before election, then describes restructuring. Does not state exact appointment/cessation dates or remuneration.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-caf-project"
     }
   ],
   "research_notes": [
     "Resolve pre-2009 work, Parliament House employer and campaign pay, exact Community Alliance placement dates/terms, Clare appointments, AusAID payroll/contract/hours, university dates/hours/leave/control and doctoral overlap; date DAWN and Chinese Australian Forum governance.",
-    "2026-09-29 initial avenues: APH indexed chronology, frozen roster, 2010 ACYD profile, Whitlam and UNSW biographies, University of Sydney 2017–18 employer yearbook, DFAT mid-term-review annexes, first-speech reproduction and explicit full-time/employer searches. Government report identifies AusAID media work more precisely than generic international-development descriptions.",
+    "2026-09-29 initial avenues: APH indexed chronology, frozen roster, 2010 ACYD profile, Whitlam and UNSW biographies, University of Sydney 2017\u201318 employer yearbook, DFAT mid-term-review annexes, first-speech reproduction and explicit full-time/employer searches. Government report identifies AusAID media work more precisely than generic international-development descriptions.",
     "AYAD placement described as a year associated with 2008 in contemporary profile; do not invent its end or infer full-time paid Commonwealth employment. A later press search lead references Beijing in 2009; obtain programme placement record before resolving boundary.",
-    "Do not import third-party January 1 date normalisations. Preserve APH year precision. University sector and full-time employment require evidence, while PhD status remains study unless a separate employment contract is found. Partial record requires follow-up."
+    "Do not import third-party January 1 date normalisations. Preserve APH year precision. University sector and full-time employment require evidence, while PhD status remains study unless a separate employment contract is found. Partial record requires follow-up.",
+    "2026-10-01 follow-up: searched early work, paid/volunteer campaigning, AusAID contracts, university hours/leave, public professional profiles and DAWN; reread contemporary ACYD, party candidate announcement, first-speech reproduction and her Parliament House recollection. No additional paid employer or contract hours established. Added explicit 2007 volunteer campaign, 2021 training and CAF project leadership, and material 14-month parental-leave evidence from two Hansard speeches.",
+    "Next leads: university personnel or public first-person account specifying 2016-era leave and return dates/hours; early Parliament House employer/contract (do not merge with Clare 2009\u20132012); AusAID appointment contract and China placement record. Full-time and part-time phrases in adjacent Hansard speakers or third-party LinkedIn posts are not Sitou\u2019s employment evidence. Dynamic contact cards attached to older university news pages do not backdate doctoral enrolment."
   ]
 }
