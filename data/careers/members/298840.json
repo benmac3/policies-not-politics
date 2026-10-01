@@ -6,12 +6,12 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/298840",
   "research_status": "blocked",
-  "last_reviewed": "2026-09-29",
+  "last_reviewed": "2026-10-01",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
     "calculation_status": "not_calculable",
-    "note": "First-person and official sources establish a private-sector sequence from D&H Rodwell Tooling through mining work, a full-time Mount Thorley Warkworth position and management of Double R's Singleton engineering shop. Exact appointment boundaries, the line-boring employer, payroll entities, hours, leave and breaks remain incomplete. Sporting representation, party candidacy and elected office are excluded, and no exact private full-time total is inferred from year-only occupation ranges or the manager title."
+    "note": "Trade employment, Tefol and Double R line boring, explicitly full-time MTW work and Double R branch management are documented. Follow-up supplies 2010 Double R entry, late-2011 Rio Tinto entry, Rutherford workplace and separate union/podcast activity. MTW’s September 2017 transfer to a state-controlled group requires payroll/control allocation; the entire mine spell cannot safely remain classified private. Precise dates, leave and other ordinary hours remain unresolved; no headline totals calculated."
   },
   "career_spells": [
     {
@@ -27,48 +27,85 @@
       "headline_sector": "private",
       "government_control_at_time": "private",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-snapshot", "src-first-speech", "src-health-speech"],
+      "source_ids": [
+        "src-snapshot",
+        "src-first-speech",
+        "src-health-speech"
+      ],
       "evidence_note": "The frozen Parliamentary Handbook records fitter work from 1997 to 2009. Repacholi's first speech identifies D&H Rodwell Tooling as his apprenticeship employer and says he spent 10 years with the business; a later government speech says he maintained production lines at Ford and Toyota, without establishing whether those companies or D&H Rodwell held the employment contract. The year range and 10-year narrative do not resolve exact dates, hours, leave or breaks.",
       "counting_note": "The private employer and substantive trade work are supported, but year-only boundaries and missing full-time evidence prevent an exact duration calculation."
     },
     {
       "spell_id": "298840-line-boring",
-      "employer": "Unidentified line-boring employer",
+      "employer": "Tefol (legal payroll entity unresolved)",
       "role": "Travelling line borer",
-      "start_date": "2009",
+      "start_date": null,
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "unknown",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "private_enterprise",
       "headline_sector": "private",
       "government_control_at_time": "private",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-snapshot", "src-first-speech"],
-      "evidence_note": "Repacholi says he entered mining in 2009 as a line borer travelling around New South Wales before obtaining a full-time Mount Thorley Warkworth position. The employer, start and end dates, hours and any overlap with his prior fitter work or subsequent mine position are unresolved.",
+      "source_ids": [
+        "src-snapshot",
+        "src-first-speech",
+        "src-coalface-2024",
+        "src-tefol"
+      ],
+      "evidence_note": "The 2024 trade-press profile identifies Tefol and Double R as employers during line-boring work before MTW. The existing 2009 date describes entry to the mining industry, not a proven Tefol appointment boundary. Exact Tefol dates and workload remain unknown; Double R’s separately documented spell is now recorded separately.",
       "counting_note": "No duration is counted without an identified employing entity, bounded dates and substantive full-time evidence."
     },
     {
-      "spell_id": "298840-mtw",
-      "employer": "Mount Thorley Warkworth mining operation (payroll employer unresolved)",
-      "role": "Mine operator; dispatch officer; trainer; union delegate",
-      "start_date": null,
-      "end_date": "2017-12",
-      "date_precision": "mixed",
-      "employment_status": "full_time",
-      "fte_fraction": 1,
+      "employer": "Double R Equipment Repairs (legal payroll entity unresolved)",
+      "role": "Line borer; helped establish line-boring division",
+      "start_date": "2010",
+      "end_date": "2011",
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
       "category": "private_enterprise",
       "headline_sector": "private",
       "government_control_at_time": "private",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-snapshot", "src-first-speech", "src-yancoal"],
-      "evidence_note": "Repacholi's first speech expressly identifies a full-time Mount Thorley Warkworth position, says he spent seven years there and lists operator, dispatch, trainer and union-delegate duties. The frozen occupation record ends coal-mining work in December 2017. The exact commencement date, payroll employer within the mine's ownership/contracting structure, grade changes, leave and breaks are not published. Yancoal's current site page is used only to identify the integrated private mining operation, not to attribute historical payroll control.",
-      "counting_note": "Full-time status and private control are supported, but an approximate seven-year narrative and unresolved payroll/start date are insufficient for an exact headline total."
+      "source_ids": [
+        "src-coalface-2019",
+        "src-coalface-2024"
+      ],
+      "evidence_note": "In the 2019 first-person interview he dates entry to 2010 and subsequent Rio Tinto commencement to late 2011. End year follows that described job transition, not a precise last working day; overlap and leave unresolved. The 2024 profile independently names both Tefol and Double R.",
+      "counting_note": "Year-level boundaries and unknown ordinary hours do not support an exact full-time total.",
+      "spell_id": "298840-double-r-line-boring"
+    },
+    {
+      "spell_id": "298840-mtw",
+      "employer": "Rio Tinto / Mount Thorley Warkworth; operation acquired by Yancoal in September 2017 (payroll entity unresolved)",
+      "role": "Mine operator; dispatch officer; trainer; union delegate",
+      "start_date": "2011",
+      "end_date": "2017-12",
+      "date_precision": "mixed",
+      "employment_status": "full_time",
+      "fte_fraction": 1,
+      "category": "unknown",
+      "headline_sector": "unknown",
+      "government_control_at_time": "mixed",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-snapshot",
+        "src-first-speech",
+        "src-yancoal",
+        "src-coalface-2019",
+        "src-coalface-2024",
+        "src-yancoal-2017",
+        "src-control-panel"
+      ],
+      "evidence_note": "First speech expressly supports full-time employment and operator, dispatch and trainer duties. The 2019 interview explicitly dates Rio Tinto entry to late 2011, describing six years; the later seven-year narrative is approximate and conflicting, not used to back-calculate a start. Frozen mining cessation remains December 2017. Mine ownership changed from Rio Tinto to majority state-controlled Yancoal on 1 September 2017. Mixed denotes changing control across this combined spell, not a stable joint public/private employer. Payroll identity, personal transfer and cessation dates, leave and grade changes remain unresolved; union delegate duties are separately excluded.",
+      "counting_note": "Full-time status supported, but employer/control allocation needs resolution across the 2017 acquisition. Do not classify the entire interval as private or derive exact years from approximate durations."
     },
     {
       "spell_id": "298840-double-r",
-      "employer": "Double R",
-      "role": "Manager of Singleton engineering shop",
+      "employer": "Double R Equipment Repairs",
+      "role": "Hunter Valley branch manager, Singleton then Rutherford",
       "start_date": "2017-12",
       "end_date": "2021-12",
       "date_precision": "month",
@@ -78,8 +115,17 @@
       "headline_sector": "private",
       "government_control_at_time": "private",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-snapshot", "src-first-speech", "src-double-r", "src-about", "src-abc-2022"],
-      "evidence_note": "The frozen Parliamentary Handbook records manager work from December 2017 to December 2021. Repacholi says Double R founder Rusty Russell recruited him at the end of 2017 to manage a new Singleton engineering shop and describes growth from about 15 to more than 70 employees over four years. Double R's employer site corroborates its private machinery-sales, repairs and engineering business. Exact appointment and cessation days, hours, leave and any campaign-related reduction are unresolved.",
+      "source_ids": [
+        "src-snapshot",
+        "src-first-speech",
+        "src-double-r",
+        "src-about",
+        "src-abc-2022",
+        "src-coalface-2019",
+        "src-coalface-2024",
+        "src-shooting-work"
+      ],
+      "evidence_note": "The frozen Parliamentary Handbook records manager work from December 2017 to December 2021. Repacholi says Double R founder Rusty Russell recruited him at the end of 2017 to manage a new Singleton engineering shop and describes growth from about 15 to more than 70 employees over four years. Double R's employer site corroborates its private machinery-sales, repairs and engineering business. Exact appointment and cessation days, hours, leave and any campaign-related reduction are unresolved. The 2019 first-person interview identifies the branch-manager title and relocation to Rutherford; September 2017 is the branch opening, not his proven appointment month. Shooting Australia confirms work at Rutherford by July 2020 and training outside work, without ordinary hours or leave terms.",
       "counting_note": "Month boundaries and employer classification are supported, but the manager title and four-year narrative do not independently prove substantive full-time hours throughout the interval."
     },
     {
@@ -95,7 +141,11 @@
       "headline_sector": "excluded",
       "government_control_at_time": "unknown",
       "counting_status": "excluded",
-      "source_ids": ["src-first-speech", "src-olympics", "src-abc-2024"],
+      "source_ids": [
+        "src-first-speech",
+        "src-olympics",
+        "src-abc-2024"
+      ],
       "evidence_note": "Repacholi says he represented Australia from 1998 across five Olympics and four Commonwealth Games and refers to a first sponsor, while the Australian Olympic Committee and ABC document the sporting career. The sources do not establish a continuous employment relationship, salary, sporting hours or employer control; his first speech says shooting was not financially appealing.",
       "counting_note": "Elite sporting participation and sponsorship are visible but excluded because no substantive paid employment relationship is established."
     },
@@ -112,7 +162,11 @@
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-abc-candidate", "src-abc-2022", "src-aph-current"],
+      "source_ids": [
+        "src-abc-candidate",
+        "src-abc-2022",
+        "src-aph-current"
+      ],
       "evidence_note": "ABC described Repacholi as Labor's candidate by 28 September 2021, and election records establish his election on 21 May 2022. The exact endorsement day, remuneration, workload and overlap with Double R through December 2021 are unresolved.",
       "counting_note": "Party candidacy and campaigning are excluded under the codebook."
     },
@@ -129,9 +183,52 @@
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-snapshot", "src-aph-current", "src-abc-2022"],
+      "source_ids": [
+        "src-snapshot",
+        "src-aph-current",
+        "src-abc-2022"
+      ],
       "evidence_note": "The frozen roster, current Parliament listing and ABC election record establish House service from the 21 May 2022 election.",
       "counting_note": "Federal elected office is excluded under the codebook."
+    },
+    {
+      "employer": "Mine union at Mount Thorley Warkworth (organisation and payroll arrangement unresolved)",
+      "role": "Workplace union delegate",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "union",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-first-speech",
+        "src-coalface-2024"
+      ],
+      "evidence_note": "First speech and 2024 interview identify delegate duties during the MTW period. No separate appointment dates, union salary, release time or hours are documented; do not count alongside mining work as additional full-time years.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "298840-union-delegate"
+    },
+    {
+      "employer": "Dan & The Doctor podcast (creator credited as Dan Repacholi MP; contractual employer unknown)",
+      "role": "Creator and co-host with Gordon Reid MP",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "unknown",
+      "government_control_at_time": "unknown",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-podcast"
+      ],
+      "evidence_note": "Producer catalogue credits Repacholi and Reid and dates programme activity to 2023–2025. Contract boundaries, preparation hours, remuneration and sponsorship are unstated; concurrent with parliamentary service.",
+      "counting_note": "Media activity is not presumed to be paid private employment; no headline years calculated.",
+      "spell_id": "298840-podcast"
     }
   ],
   "sources": [
@@ -244,12 +341,86 @@
       "source_type": "news",
       "locator": "Career biography and sporting activity",
       "note": "Corroborates that Repacholi combined shooting with fitter and coal-mining work and remained active in the sport in 2024."
+    },
+    {
+      "url": "https://assets.componentsonly.com/blog/pdf/AtTheCoalFace-2019-09.pdf",
+      "publisher": "The Coalface, hosted by Components Only",
+      "title": "Supplier Insider: Double R Equipment Repairs, 2019",
+      "source_type": "news",
+      "locator": "Who are you; Where did you start; indexed interview text",
+      "note": "First-person account dates Double R line-boring entry to 2010 and Rio Tinto entry to late 2011, with six years there; describes the Singleton branch opening September 2017 and later Rutherford move. Exact employment days unstated. Direct PDF exceeds tool size limit; relevant public indexed passage retrieved.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-coalface-2019"
+    },
+    {
+      "url": "https://thecoalface.net.au/a-miner-an-olympian-and-an-mp-oh-my/",
+      "publisher": "The Coalface / Jess",
+      "title": "A miner, an Olympian and an MP, oh my! 5 July 2024",
+      "source_type": "news",
+      "locator": "Career paragraphs beginning Dan started working; At the end of 2017",
+      "note": "Names Tefol and Double R as line-boring employers; corroborates subsequent full-time mine employment and return to Double R management. Approximate seven-year mine account differs from 2019 six-year account.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-coalface-2024"
+    },
+    {
+      "url": "https://shootingaustralia.org/in-sight-with-dan-repacholi/",
+      "publisher": "Shooting Australia / Greg Campbell",
+      "title": "In Sight with Dan Repacholi, 2 July 2020",
+      "source_type": "professional_profile",
+      "locator": "Tokyo preparation: Double R warehouse",
+      "note": "Sporting body describes his Rutherford workplace and shooting training before and after work, confirming overlap without contractual hours or paid-leave detail.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-shooting-work"
+    },
+    {
+      "url": "https://www.yancoal.com.au/wp-content/uploads/2024/10/ASX-YAL-2017-Full-Year-Statutory-Accounts-28-February-2018.pdf",
+      "publisher": "Yancoal Australia Ltd",
+      "title": "Annual Financial Report 2017, issued 28 February 2018",
+      "source_type": "employer",
+      "locator": "PDF pages 7 and 125; operations and note E3(a)",
+      "note": "Records MTW operation from 1 September 2017 and ultimate controlling party Yankuang. Organisational ownership evidence does not establish Repacholi’s payroll entity or individual transfer.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-yancoal-2017"
+    },
+    {
+      "url": "https://takeovers.gov.au/reasons-decisions/2017-atp-16",
+      "publisher": "Australian Takeovers Panel",
+      "title": "Yancoal Australia Limited 04R & 05R [2017] ATP 16",
+      "source_type": "government_record",
+      "locator": "Paragraphs 3, 8 and 21(c); reasons published 7 September 2017",
+      "note": "Records Yanzhou majority voting power and its parent Yankuang as a provincial SOE owned by Shandong SASAC and the provincial social-security fund. No inference that all Chinese SOEs share common control.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-control-panel"
+    },
+    {
+      "url": "https://tefol.com.au/",
+      "publisher": "Tefol",
+      "title": "About Tefol",
+      "source_type": "employer",
+      "locator": "Company origin paragraph",
+      "note": "Company account identifies founding by Neil, Brett and John Willis in 2004; supports private business context, not Repacholi’s tenure.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-tefol"
+    },
+    {
+      "url": "https://podcasts.apple.com/au/podcast/dan-the-doctor/id1720051188",
+      "publisher": "Dan Repacholi MP, distributed by Apple Podcasts",
+      "title": "Dan & The Doctor",
+      "source_type": "professional_profile",
+      "locator": "Creator, programme description, years active, dated 2024–2025 episodes",
+      "note": "Credits Repacholi as creator and co-host with Gordon Reid; catalogue active 2023–2025. No employment contract, pay or ordinary hours supplied.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-podcast"
     }
   ],
   "research_notes": [
     "Obtain payroll or employer records for D&H Rodwell Tooling, including apprenticeship commencement/completion, full-time hours, leave, breaks and whether Ford and Toyota production-line work was performed as a D&H employee or under separate employment.",
     "Identify the travelling line-boring employer and exact 2009 transition into Mount Thorley Warkworth; obtain the mine payroll entity, appointment date, grade changes, hours, leave and December 2017 cessation date.",
     "Obtain Double R appointment and cessation records, substantive hours and leave, and resolve whether campaign activity from September 2021 changed employment status before the recorded December 2021 end.",
-    "Determine whether Australian shooting representation, grants or sponsorship ever constituted paid substantive employment; current evidence supports participation and sponsorship but not an employment relationship. Resolve campaign remuneration and the January–May 2022 employment gap."
+    "Determine whether Australian shooting representation, grants or sponsorship ever constituted paid substantive employment; current evidence supports participation and sponsorship but not an employment relationship. Resolve campaign remuneration and the January–May 2022 employment gap.",
+    "2026-10-01 follow-up resolves formerly unnamed line-boring employers, separates Double R 2010–2011 from Tefol with unknown boundaries, adds late-2011 MTW commencement, Rutherford relocation, separate delegate and podcast activity, and historical mine-control evidence.",
+    "Searched trade-press historical interviews, public professional profile, employer and sporting-body records, apprenticeship/full-time terms and historical mine-acquisition accounts. A 5:50 daily start in the interview is not a normal weekly-hours statement. No reliable apprenticeship dates, ordinary Double R hours, sporting paid-leave arrangements or January–May 2022 employment found.",
+    "Resolve the 2019 six-year and later seven-year mine narratives using personnel records. Preserve December 2017 frozen cessation and branch-opening versus appointment distinction. Obtain precise payroll identity across 1 September 2017 before splitting private versus state-controlled service. Yancoal is not presumed privately controlled merely because listed. No shared methodology changed.",
+    "Follow-up leads: Tefol and Double R historical staff material, employment disclosures and appointment records, Rio Tinto/Coal & Allied transfer documents, union delegate release terms and podcast remuneration. The 2019 trade PDF direct open returned content-length error 14983779; indexed first-person passage available, issue date/page still needs direct verification."
   ]
 }
