@@ -6,7 +6,7 @@
   "snapshot_party": "Liberal Party of Australia",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/266499",
   "research_status": "blocked",
-  "last_reviewed": "2026-09-14",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -140,10 +140,10 @@
     {
       "spell_id": "266499-07",
       "employer": "Royal Children's Hospital, Melbourne",
-      "role": "Non-executive director",
+      "role": "Non-executive director; Community Advisory Committee chair; Finance Committee member",
       "start_date": "2011",
-      "end_date": "2016",
-      "date_precision": "year",
+      "end_date": "2016-05-09",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "public_service",
@@ -153,9 +153,10 @@
       "source_ids": [
         "src-1",
         "src-2",
-        "src-3"
+        "src-3",
+        "oct2-rch"
       ],
-      "evidence_note": "Public hospital governance; no full-time executive role inferred.",
+      "evidence_note": "Public hospital governance; no full-time executive role inferred. Annual report gives resignation9 May2016, retained as cessation boundary; chair/committee commencement dates unknown. Governance only; no additional employment years.",
       "counting_note": "Outside the two employment headlines under the codebook; retained as career context."
     },
     {
@@ -173,9 +174,10 @@
       "counting_status": "excluded",
       "source_ids": [
         "src-1",
-        "src-2"
+        "src-2",
+        "oct2-fed"
       ],
-      "evidence_note": "Public entity board work distinct from full-time employment.",
+      "evidence_note": "Public entity board work distinct from full-time employment. 2014 report anticipates her arrival in September2014, conflicting with official2015 start. Prospective statement does not establish actual appointment; retain official year pending confirmation.",
       "counting_note": "Outside the two employment headlines under the codebook; retained as career context."
     },
     {
@@ -195,9 +197,10 @@
         "src-1",
         "src-2",
         "src-4",
-        "src-5"
+        "src-5",
+        "oct2-rch"
       ],
-      "evidence_note": "Trustee's contemporaneous accounts identify for-profit corporate reporting and paid employees. Do not automatically exclude as nonprofit or union employment because fund is member-benefit. Exact employment entity and full-time contract still need confirmation.",
+      "evidence_note": "Trustee's contemporaneous accounts identify for-profit corporate reporting and paid employees. Do not automatically exclude as nonprofit or union employment because fund is member-benefit. Exact employment entity and full-time contract still need confirmation. Hospital2015–16 biography calls her senior industry policy adviser to AustralianSuper, corroborating role but not hours.",
       "counting_note": "Not counted: dates and/or substantive full-time status are insufficiently evidenced; year labels are not exact boundaries."
     },
     {
@@ -280,12 +283,35 @@
       "source_type": "official_biography",
       "locator": "Career/biography or relevant appointment section",
       "note": "Publicly indexed twenty-year career description is not a twenty-year full-time statement."
+    },
+    {
+      "url": "https://www.rch.org.au/uploadedFiles/Main/Content/rch/financial-report-2016.pdf",
+      "publisher": "Royal Children's Hospital",
+      "title": "Annual financial report 2015–16",
+      "source_type": "employer",
+      "locator": "Printed pp8–9 and82; PDF pp10–11 and84",
+      "note": "Explicit resignation9 May2016; community advisory chair and finance committee membership. Fiscal-year reporting start is not original appointment.",
+      "retrieved": "2026-10-02",
+      "source_id": "oct2-rch"
+    },
+    {
+      "url": "https://vgls.sdp.sirsidynix.net.au/client/search/asset/1293170",
+      "publisher": "Fed Square Pty Ltd / Victorian Government Library Service",
+      "title": "Annual report for year ended30 June2014",
+      "source_type": "employer",
+      "locator": "Printed p3 chair report; cover identifies2014 reporting year",
+      "note": "Prospective welcome to Jane Hume on Louise Staley retirement September2014; not proof appointment took effect. Chair text contains inconsistent2014–15 label; chronology needs next report.",
+      "retrieved": "2026-10-02",
+      "source_id": "oct2-fed"
     }
   ],
   "research_notes": [
     "Blocked after official roster, direct interview, contemporaneous hospital bio, trustee accounts and targeted hours searches: missing dates/hours at early brokerage, individual FTE in banking/policy work and leave boundaries.",
     "ASFA interview describes six years maternity leave without exact endpoints and compresses subsequent employment chronology. Do not count an uninterrupted twenty-year career or back-calculate leave dates from children, titles or elections.",
     "AustralianSuper's 2016 trustee accounting classification differs from nonprofit legal structures at some other funds. Retained as privately controlled financial-services employment candidate, subject to precise employing entity and FTE verification.",
-    "Non-executive directorships are excluded even where government controls the organisation. Neither unknown headline becomes zero."
+    "Non-executive directorships are excluded even where government controls the organisation. Neither unknown headline becomes zero.",
+    "Follow-up2026-10-02: employer annual report resolves hospital resignation and committee roles. Government-library Fed Square2014 report reveals prospective September2014 appointment, not safely substituted for parliamentary2015 start. Targeted search did not locate confirming2015 appointment record.",
+    "Searches of historical governance reports and public financial-services profiles did not resolve banking/policy FTE or six-year leave boundaries. Financial Standard profile was subscription-only; no bypass attempted. APH retirement-inquiry footnotes open returned Internal Error; indexed hearing reference remains a lead only.",
+    "Next leads: Fed Square2014–15/2015–16 annual reports or appointment instrument, individual employer appointment/FTE records, original brokerage name and leave endpoints. Totals remain unknown; excluded governance is not employment."
   ]
 }
