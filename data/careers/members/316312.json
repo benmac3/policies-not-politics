@@ -6,12 +6,12 @@
   "snapshot_party": "The Nationals",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/316312",
   "research_status": "blocked",
-  "last_reviewed": "2026-09-19",
+  "last_reviewed": "2026-10-01",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
     "calculation_status": "not_calculable",
-    "note": "Woolworths management and a 28-year family agricultural-equipment business are private-sector work, but exact calendar boundaries and substantive full-time status are not established. Local-government office, association and joint-organisation governance, campaigning, volunteering, study and federal elected office are excluded under the codebook. Missing evidence is not zero."
+    "note": "Private work is identified at Woolworths, Gunnedah Industries and Stripes. Stripes managing-director interval2006–September2024 is supported at mixed precision, but substantive full-time hours remain unknown. Related business spells overlap. Governance, elected office, campaigning, volunteering and study are excluded; totals remain null, not zero."
   },
   "career_spells": [
     {
@@ -27,25 +27,33 @@
       "headline_sector": "private",
       "government_control_at_time": "private",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-first-speech", "src-candidate-profile"],
+      "source_ids": [
+        "src-first-speech",
+        "src-candidate-profile"
+      ],
       "evidence_note": "Chaffey's first speech says that in his late teens he moved to a nearby town for his first real job, a management traineeship with a supermarket chain. His April 2025 candidate interview names Woolworths, Gunnedah, and later store-manager work in Armidale and Maitland. The exact start/end dates, employment hours and transitions between stores are not published.",
       "counting_note": "Private employment is supported, but no exact substantive full-time interval is established."
     },
     {
       "spell_id": "316312-family-business",
-      "employer": "Family agricultural-equipment manufacturing business (legal entity unresolved)",
-      "role": "Apprentice boilermaker; later second-generation co-owner/operator",
+      "employer": "Gunnedah Industries (family business; apprenticeship-era legal entity not established)",
+      "role": "Apprentice boilermaker",
       "start_date": null,
       "end_date": null,
       "date_precision": "unknown",
-      "employment_status": "self_employed",
+      "employment_status": "unknown",
       "fte_fraction": null,
       "category": "private_enterprise",
       "headline_sector": "private",
       "government_control_at_time": "private",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-first-speech", "src-personal-bio", "src-candidate-profile"],
-      "evidence_note": "Primary accounts say Chaffey joined his wife's family agricultural-equipment manufacturing business as an apprentice boilermaker, later became a second-generation owner/operator with his wife, and stepped down after 28 years when their children took over. The legal entity, calendar endpoints, periods of ownership, hours and overlap with council duties are unresolved; the stated 28 years is not converted into invented dates.",
+      "source_ids": [
+        "src-first-speech",
+        "src-personal-bio",
+        "src-candidate-profile",
+        "src-stripes-history"
+      ],
+      "evidence_note": "First speech describes apprenticeship with father-in-law Harold before later ownership. Employer history identifies Harold Hockings and Gunnedah Industries. Its broad2000s joining heading does not resolve apprenticeship dates against the first speech’s28-year business duration. Apprenticeship is separated from later ownership; hours and legal payroll entity unknown.",
       "counting_note": "The work was privately controlled, but the evidence does not establish a calendar-bounded substantive full-time interval."
     },
     {
@@ -61,7 +69,10 @@
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-personal-bio", "src-nationals"],
+      "source_ids": [
+        "src-personal-bio",
+        "src-nationals"
+      ],
       "evidence_note": "Current personal and Nationals biographies identify service as chamber president before election to council. Dates, pay, hours and any overlap with the family business are not published.",
       "counting_note": "Employer-association activity is excluded under the codebook."
     },
@@ -78,7 +89,12 @@
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-personal-bio", "src-nationals", "src-first-speech", "src-candidate-profile"],
+      "source_ids": [
+        "src-personal-bio",
+        "src-nationals",
+        "src-first-speech",
+        "src-candidate-profile"
+      ],
       "evidence_note": "The Nationals biography gives election to council in September 2016, immediate election as mayor, a full term to 2021, and re-election as councillor and mayor in 2021. Chaffey's first speech and current biography state that he served eight years as mayor; his April 2025 interview describes him as the former mayor. The exact 2024 cessation day, remuneration and working hours are unresolved.",
       "counting_note": "Elected local-government office is excluded under the codebook."
     },
@@ -95,25 +111,32 @@
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-personal-bio", "src-nationals"],
+      "source_ids": [
+        "src-personal-bio",
+        "src-nationals"
+      ],
       "evidence_note": "Official biographies say Chaffey was endorsed as chair in 2018 and re-elected in 2020. The cessation date, remuneration, hours and relationship to his mayoral office are unresolved.",
       "counting_note": "This council joint-organisation governance role is treated as attached to elected local-government service and excluded."
     },
     {
       "spell_id": "316312-country-mayors",
       "employer": "Country Mayors Association of New South Wales",
-      "role": "Chair",
-      "start_date": "2022-11",
+      "role": "Delegate; executive member; deputy chair; chair",
+      "start_date": "2016",
       "end_date": "2024",
-      "date_precision": "mixed",
+      "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "nonprofit",
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-council-country-mayors", "src-personal-bio", "src-first-speech"],
-      "evidence_note": "Gunnedah Shire Council reported Chaffey's election as chair on 21 November 2022. His current biography says he served as chair for two years before entering federal Parliament. The exact cessation date, pay and hours are not published.",
+      "source_ids": [
+        "src-council-country-mayors",
+        "src-personal-bio",
+        "src-first-speech"
+      ],
+      "evidence_note": "Council release21November2022 gives delegate since2016, executive since2018, deputy chair since2020 and election as chair inNovember2022. Existing biography gives two years as chair;2024 cessation retained at year precision. Pay/hours and exact transition days unknown.",
       "counting_note": "Association governance is excluded under the codebook."
     },
     {
@@ -129,7 +152,10 @@
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-personal-bio", "src-first-speech"],
+      "source_ids": [
+        "src-personal-bio",
+        "src-first-speech"
+      ],
       "evidence_note": "Chaffey's current biography and first speech identify board service. Dates, remuneration, hours and overlap with other local-government roles are unresolved.",
       "counting_note": "Association governance is excluded under the codebook."
     },
@@ -146,7 +172,9 @@
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-personal-bio"],
+      "source_ids": [
+        "src-personal-bio"
+      ],
       "evidence_note": "The current biography identifies Chaffey as a Graduate of the Australian Institute of Company Directors. Study dates, course load and overlap are not published.",
       "counting_note": "Study is excluded under the codebook."
     },
@@ -163,7 +191,9 @@
       "headline_sector": "excluded",
       "government_control_at_time": "unknown",
       "counting_status": "excluded",
-      "source_ids": ["src-first-speech"],
+      "source_ids": [
+        "src-first-speech"
+      ],
       "evidence_note": "His first speech identifies volunteering with both organisations. Dates, duties and hours are not published; the activity is not represented as paid employment.",
       "counting_note": "Unpaid work is excluded under the codebook."
     },
@@ -173,14 +203,17 @@
       "role": "Candidate for Parkes",
       "start_date": "2024-09",
       "end_date": "2025-05-03",
-      "date_precision": "day",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "party_organisation",
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-candidate-profile", "src-nationals"],
+      "source_ids": [
+        "src-candidate-profile",
+        "src-nationals"
+      ],
       "evidence_note": "In an interview published 30 April 2025 Chaffey said he had campaigned full-time since September 2024. This supports full-time campaign activity, not an assumption of paid employment. Pay, contractual status and the exact September start day are unresolved.",
       "counting_note": "Party and campaign activity is excluded under the codebook."
     },
@@ -197,9 +230,112 @@
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-snapshot", "src-personal-bio", "src-first-speech"],
+      "source_ids": [
+        "src-snapshot",
+        "src-personal-bio",
+        "src-first-speech"
+      ],
       "evidence_note": "The frozen roster establishes House service from 3 May 2025, corroborated by his current biography and first speech. Parliamentary and shadow roles are nested within elected service.",
       "counting_note": "Elected office is excluded under the codebook."
+    },
+    {
+      "employer": "Gunnedah Industries / related family businesses",
+      "role": "Second-generation co-owner/operator with wife",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "self_employed",
+      "fte_fraction": null,
+      "category": "private_enterprise",
+      "headline_sector": "private",
+      "government_control_at_time": "private",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-first-speech",
+        "src-stripes-history",
+        "src-stripes-transition"
+      ],
+      "evidence_note": "First speech reports28years in family business before handover to children. This duration is not back-calculated; operational handover is distinct from continuing company ownership/directorship. Exact ownership start, operating end and hours unresolved.",
+      "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
+      "spell_id": "316312-family-ownership"
+    },
+    {
+      "employer": "Stripes Engineering / Stripes Group (payroll entity unresolved)",
+      "role": "Founder and managing director",
+      "start_date": "2006",
+      "end_date": "2024-09",
+      "date_precision": "mixed",
+      "employment_status": "self_employed",
+      "fte_fraction": null,
+      "category": "private_enterprise",
+      "headline_sector": "private",
+      "government_control_at_time": "private",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-stripes-history",
+        "src-stripes-transition",
+        "src-whitehaven2015"
+      ],
+      "evidence_note": "Company history dates founding Engineering2006, Industrial Supplies2007 and Group consolidation2018.20March2025 report says he led since inception and stepped down the preceding September to campaign, supporting2024-09. Customer publication confirms role25January2015. Neither title nor founder status establishes full-time hours. Related family spells overlap and must not be summed.",
+      "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
+      "spell_id": "316312-stripes-management"
+    },
+    {
+      "employer": "Gunnedah Industries (NW) Pty Ltd",
+      "role": "Director and shareholder",
+      "start_date": null,
+      "end_date": "2025-08-19",
+      "date_precision": "day",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "private_enterprise",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-register2025"
+      ],
+      "evidence_note": "Parliamentary declaration expressly reports resignation as director and cessation as shareholder19August2025. Start unknown; governance/investment is not proof of operational work through that date.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "316312-gunnedah-director"
+    },
+    {
+      "employer": "Nuclear Taskforce (legal entity/control unresolved)",
+      "role": "Advisory board member",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-nuclear-advisory"
+      ],
+      "evidence_note": "Chair’s public appointment announcement identifies advisory governance; precise date, remuneration and entity unresolved. Not treated as substantive paid employment.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "316312-nuclear-taskforce"
+    },
+    {
+      "employer": "Murray Darling Association, Region11",
+      "role": "Chair",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "nonprofit",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-nuclear-advisory"
+      ],
+      "evidence_note": "Public appointment biography identifies regional chair role. Dates, pay and contractual terms unknown; association governance excluded.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "316312-murray-darling"
     }
   ],
   "sources": [
@@ -218,7 +354,7 @@
       "url": "https://www.jamiechaffey.com.au/first-speech/",
       "publisher": "Jamie Chaffey MP",
       "title": "First speech of Jamie Chaffey MP",
-      "retrieved": "2026-09-19",
+      "retrieved": "2026-10-01",
       "source_type": "official_biography",
       "locator": "House of Representatives, 30 July 2025; career and community-service paragraphs",
       "note": "First-person account of the supermarket traineeship, family manufacturing business, 28-year duration, council/mayoral service, association governance and volunteering."
@@ -255,27 +391,82 @@
     },
     {
       "source_id": "src-council-country-mayors",
-      "url": "https://gunnedah.nsw.gov.au/",
+      "url": "https://www.gunnedah.nsw.gov.au/index.php/gunnedah-shire-covid-19-advice/itemlist/user/310-customerrelationscommunicationslifestyle?start=410",
       "publisher": "Gunnedah Shire Council",
       "title": "Gunnedah Shire Mayor to head Country Mayors Association",
-      "retrieved": "2026-09-19",
+      "retrieved": "2026-10-01",
       "source_type": "government_record",
-      "locator": "21 November 2022 media release",
-      "note": "Council record establishing election as association chair."
+      "locator": "21November2022 release: final paragraph before caption",
+      "note": "Replaced generic homepage with indexed council release. Delegate since2016, executive since2018, deputy chair since2020. Direct open timed out; full release available in public search index and council-attributed syndication."
+    },
+    {
+      "url": "https://www.stripes.net.au/about/",
+      "publisher": "Stripes Group",
+      "title": "About us: business history",
+      "source_type": "employer",
+      "locator": "Early Years:2000s,2006,2007;2018 consolidation",
+      "note": "Names family business and dated business milestones; company history is not payroll or hours evidence.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-stripes-history"
+    },
+    {
+      "url": "https://gunnedahtimes.com.au/2025/03/20/new-leadership-at-stripes-group/",
+      "publisher": "Gunnedah Times",
+      "title": "New leadership at Stripes Group,20March2025",
+      "source_type": "news",
+      "locator": "Paragraphs identifying founding, managing-director departure and family handover",
+      "note": "Reports departure in September before the2025 election, interpreted as September2024 in context; no exact day or hours.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-stripes-transition"
+    },
+    {
+      "url": "https://whitehavencoal.com.au/resources-boom-injects-213-million-in-local-economy/",
+      "publisher": "Whitehaven Coal",
+      "title": "Resources boom injects $213 million in local economy,25January2015",
+      "source_type": "employer",
+      "locator": "Stripes Engineering and Jamie Chaffey quotations",
+      "note": "Customer publication corroborates managing-director role; regional full-time job totals do not establish individual hours.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-whitehaven2015"
+    },
+    {
+      "url": "https://www.aph.gov.au/-/media/03_Senators_and_Members/32_Members/Register/48p/CF/Chaffey_48P.pdf",
+      "publisher": "Parliament of Australia",
+      "title": "Jamie Chaffey statement of registrable interests,48th Parliament",
+      "source_type": "government_record",
+      "locator": "Alteration notified23August2025: directorship/shareholdings",
+      "note": "Publicly indexed primary text explicitly dates resignation19August2025. Direct PDF open returned403; not treated as a personal employment cessation date.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-register2025"
+    },
+    {
+      "url": "https://www.linkedin.com/posts/mrmichaelsharpe_as-chairman-of-the-nuclear-taskforce-im-activity-7107132678658818048-dgKj",
+      "publisher": "Michael Sharpe / LinkedIn",
+      "title": "Nuclear Taskforce chair welcomes Jamie Chaffey to advisory board",
+      "source_type": "professional_profile",
+      "locator": "Opening appointment announcement and Murray Darling Association Region11 chair description",
+      "note": "Legitimately public post opened without authentication; relative timestamp not converted to exact appointment date.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-nuclear-advisory"
     }
   ],
   "research_notes": [
     "The frozen official roster contains no occupation entries for Chaffey, so the initial timeline was reconstructed from his first speech, current biography, a contemporaneous candidate interview, the Nationals biography and a council record.",
     "The first speech's stated 28 years in the family business was retained as evidence but not reverse-calculated into calendar dates.",
     "Full-time campaigning describes activity intensity; without payroll evidence it is not coded as full-time employment.",
-    "All potentially countable private-sector spells remain uncounted because exact dates and substantive full-time status are unresolved."
+    "All potentially countable private-sector spells remain uncounted because exact dates and substantive full-time status are unresolved.",
+    "Systematic follow-up2026-10-01 identified family business through its own history, split apprenticeship from ownership, added Stripes management and later corporate resignation, and omitted advisory/association governance. Repaired mixed date precision for campaigning and expanded Country Mayors chronology.",
+    "Preserve apparent chronology tension: company site places joining under2000s, while first speech gives28years before handover. Neither licenses an exact apprenticeship start. September2024 operating departure and19August2025 corporate resignation concern different capacities. Company group branding and payroll legal entities remain distinct unresolved questions.",
+    "Searched official biography/first speech, company history, customer publications, parliamentary interest index, council records, public professional posts and local business reporting. APH PDF403 and council timeout were source-specific; public indexed primary material and open sources supplied evidence. No personal full-time contract or leave evidence found. Gunnedah Gateway and investment-company holdings are follow-up leads, not automatically paid jobs. Spouse directorships must not be attributed to Chaffey."
   ],
   "open_questions": [
     "What were the exact start/end dates, hours and store transitions for the Woolworths management career?",
-    "What was the family manufacturing business's legal name, and what were Chaffey's apprenticeship, ownership and cessation dates, hours and leave?",
     "Did the family-business role overlap with the entire 2016–2024 mayoral term, and if so at what workload?",
     "What were the dates, remuneration and hours for the Chamber, Namoi Unlimited, Country Mayors Association and Local Government NSW roles?",
     "What were the AICD study dates and load?",
-    "Was the September 2024–May 2025 full-time campaign paid, and what was the exact start date?"
+    "Was the September 2024–May 2025 full-time campaign paid, and what was the exact start date?",
+    "What legal entity employed the Gunnedah Industries apprentice, and when did apprenticeship, ownership and operating duties start/end? Resolve2000s company heading versus28-year first-person duration.",
+    "What were Stripes payroll/directorship entities, hours, leave and overlap with2016–2024 elected duties? Does primary departure documentation corroborateSeptember2024?",
+    "Were Nuclear Taskforce, Murray Darling Association or other investment-company duties remunerated, and what were their exact terms?"
   ]
 }
