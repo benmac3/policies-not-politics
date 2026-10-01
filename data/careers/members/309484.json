@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/309484",
   "research_status": "blocked",
-  "last_reviewed": "2026-09-12",
+  "last_reviewed": "2026-10-01",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -29,9 +29,11 @@
       "counting_status": "insufficient_evidence",
       "source_ids": [
         "src-1",
-        "src-2"
+        "src-2",
+        "src-pdpc2005",
+        "src-vichealth2006"
       ],
-      "evidence_note": "Government project affiliation does not establish public employment.",
+      "evidence_note": "Government project affiliation does not establish public employment. Contemporaneous2004–05 PDPC report corroborates appointment at beginning of2005. VicHealth2005–06 p21 lists her under Associates/ConnectUs, identifying institutional connection but not settling the legal employer; sector remains unknown.",
       "counting_note": "Not counted: dates and/or substantive full-time status are insufficiently evidenced; year labels are not exact boundaries."
     },
     {
@@ -76,7 +78,7 @@
     },
     {
       "spell_id": "309484-04",
-      "employer": "Frankston South community support service (employer unresolved)",
+      "employer": "Frankston South Community & Recreation Centre (legal employer for dated interval unconfirmed)",
       "role": "Coordinator",
       "start_date": "2017",
       "end_date": "2018",
@@ -88,15 +90,17 @@
       "government_control_at_time": "unknown",
       "counting_status": "insufficient_evidence",
       "source_ids": [
-        "src-1"
+        "src-1",
+        "src-profile-index",
+        "src-summit"
       ],
-      "evidence_note": "Location is not sufficient to identify council versus community association employer.",
+      "evidence_note": "Location is not sufficient to identify council versus community association employer. Public profile index identifies centre name. First-person2024 speech confirms work for Frankston Council, making council employment a strong lead, but does not explicitly date or map it to this exact2017–18 position; classification retained pending evidence.",
       "counting_note": "Not counted: dates and/or substantive full-time status are insufficiently evidenced; year labels are not exact boundaries."
     },
     {
       "spell_id": "309484-05",
       "employer": "Communities for Children (host employer unresolved)",
-      "role": "Manager",
+      "role": "Manager (APH); coordinator in May2018 submission",
       "start_date": "2018",
       "end_date": "2019",
       "date_precision": "year",
@@ -107,9 +111,10 @@
       "government_control_at_time": "unknown",
       "counting_status": "insufficient_evidence",
       "source_ids": [
-        "src-1"
+        "src-1",
+        "src-cfc2018"
       ],
-      "evidence_note": "Program name is not legal employer; no FTE available.",
+      "evidence_note": "Program name is not legal employer; no FTE available. Contemporaneous May2018 submission cover names her as a CfC coordinator. Title difference may reflect role progression but dates of any promotion are unknown. Anglicare Victoria appears in official-hosted filename; full employer relationship requires verification, not inferred from funding.",
       "counting_note": "Not counted: dates and/or substantive full-time status are insufficiently evidenced; year labels are not exact boundaries."
     },
     {
@@ -213,6 +218,83 @@
       ],
       "evidence_note": "First-service date from frozen official roster.",
       "counting_note": "Outside the two employment headlines under the codebook; retained as career context."
+    },
+    {
+      "employer": "Chisholm TAFE",
+      "role": "Teacher; brief appointment",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "public_service",
+      "headline_sector": "public",
+      "government_control_at_time": "public",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-summit",
+        "src-chisholm-control"
+      ],
+      "evidence_note": "First-person summit speech distinguishes teaching from her studies and describes short duration. Exact dates, subject, paid fraction and leave unknown. Public TAFE institutional control supported; no FT duration calculated.",
+      "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
+      "spell_id": "309484-11"
+    },
+    {
+      "employer": "Mordialloc Council",
+      "role": "Council employment; position unspecified",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "public_service",
+      "headline_sector": "public",
+      "government_control_at_time": "public",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-summit"
+      ],
+      "evidence_note": "Explicitly named in first-person local-government employment list. Role, dates, full-time status and whether later council work reflects transfer after amalgamation unknown.",
+      "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
+      "spell_id": "309484-12"
+    },
+    {
+      "employer": "Kingston Council",
+      "role": "Council employment; position unspecified",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "public_service",
+      "headline_sector": "public",
+      "government_control_at_time": "public",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-summit"
+      ],
+      "evidence_note": "Explicitly named in first-person local-government employment list. No invented interval or assumption of continuity from Mordialloc.",
+      "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
+      "spell_id": "309484-13"
+    },
+    {
+      "employer": "Glen Eira Council",
+      "role": "Council employment; position unspecified",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "public_service",
+      "headline_sector": "public",
+      "government_control_at_time": "public",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-summit"
+      ],
+      "evidence_note": "Explicitly named in first-person local-government employment list. Role, boundaries and substantive hours unknown.",
+      "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
+      "spell_id": "309484-14"
     }
   ],
   "sources": [
@@ -285,11 +367,83 @@
       "source_type": "news",
       "locator": "Career/biography or relevant appointment section",
       "note": "MEGT work and volunteer-led Women's Spirit founding in 2018."
+    },
+    {
+      "url": "https://gsem.squarespace.com/news/summit-speech-by-jodie-belyea-mp",
+      "publisher": "Greater South East Melbourne",
+      "title": "Jodie Belyea Jobs and Skills Summit speech,3May2024, published9May",
+      "source_type": "professional_profile",
+      "locator": "Opening career paragraphs, lines17–21",
+      "note": "First-person account identifies brief Chisholm teaching and work for Mordialloc, Kingston, Glen Eira and Frankston councils. No appointment dates, role titles or hours for council work.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-summit"
+    },
+    {
+      "url": "https://www.chisholm.edu.au/news-and-events/media-release/chisholm-institute-partners-with-cinec-and-alankaed-to-deliver-vet-courses",
+      "publisher": "Chisholm Institute",
+      "title": "Chisholm Institute partners with CINEC and alankaEd",
+      "source_type": "employer",
+      "locator": "About Chisholm",
+      "note": "Institution identifies itself as government-owned; personal teaching dates still unknown, so historical interval cannot yet be calculated.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-chisholm-control"
+    },
+    {
+      "url": "https://vgls.sdp.sirsidynix.net.au/client/search/asset/1285267",
+      "publisher": "Premier’s Drug Prevention Council / Victorian Government Library Service",
+      "title": "Annual report2004–05",
+      "source_type": "government_record",
+      "locator": "Printed p29/PDF34, Connectus Phase2; p31/PDF36 caption",
+      "note": "Records Belyea’s appointment as executive manager at beginning of2005. Beginning of year not converted into1January. Confirms program leadership but not contract employer.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-pdpc2005"
+    },
+    {
+      "url": "https://www.vichealth.vic.gov.au/sites/default/files/Annual_Report_2006.pdf",
+      "publisher": "Victorian Health Promotion Foundation",
+      "title": "Annual report2005–06",
+      "source_type": "government_record",
+      "locator": "Printed/PDF p21, VicHealth staff list, Associates: ConnectUs Business Project",
+      "note": "Names Jodie Belyea with ConnectUs associates. Associate listing does not by itself establish direct salaried VicHealth employment.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-vichealth2006"
+    },
+    {
+      "url": "https://humanrights.gov.au/__data/assets/file/0016/54511/72._communities_for_children_plus_anglicare_victoria_.pdf",
+      "publisher": "Australian Human Rights Commission hosting Communities for Children submission",
+      "title": "Submission to Children’s Commissioner on the Rights of the Child,May2018",
+      "source_type": "government_record",
+      "locator": "Indexed cover, p1of8, version230518",
+      "note": "Cover identifies Jodie Belyea and Cindy Lee Harper as CfC coordinators, Frankston/Cardinia, and Cathie Valentine as program manager. Full PDF inaccessible through tool. Filename identifies Anglicare Victoria but payroll relationship remains to be verified from document body/employer evidence.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-cfc2018"
+    },
+    {
+      "url": "https://jodiebelyea.com.au/media-news/jodies-inaugural-speech/",
+      "publisher": "Jodie Belyea",
+      "title": "Inaugural speech,27March2024",
+      "source_type": "other",
+      "locator": "Career paragraph beginning Over the past30 years, line68",
+      "note": "First-person broad community/state/local-government career account does not supply distinct continuous FT intervals.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-first"
+    },
+    {
+      "url": "https://au.linkedin.com/in/jodie-belyea-mp-132365307",
+      "publisher": "Jodie Belyea / LinkedIn",
+      "title": "Public professional profile search excerpt",
+      "source_type": "professional_profile",
+      "locator": "Indexed experience title Coordinator, Frankston South Community & Recreation Centre",
+      "note": "Search index identifies centre title. Direct profile fetch returned429 Too Many Requests; no retry or guessed unseen dates. Employer/dates not fully visible.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-profile-index"
     }
   ],
   "research_notes": [
     "Blocked for headline calculation: year-level chronology recovered, but Connectus, Communities for Children and Frankston South legal employers and all employment fractions need verification.",
     "Official, charity, member and contemporary program/candidate coverage checked. No dependable full-time dated profile was located; avoid contact-data aggregator dates that conflict with known election history.",
-    "No January/December endpoints inferred. Nonprofit work is excluded under the narrow headline definition; unknown nonpolitical employment is not zero."
+    "No January/December endpoints inferred. Nonprofit work is excluded under the narrow headline definition; unknown nonpolitical employment is not zero.",
+    "2026-10-01: recovered missing Chisholm teaching and three named earlier council employers from her summit speech. Frankston Council work also confirmed in speech, but its mapping to the dated centre coordinator entry remains explicit follow-up rather than an extra potentially duplicate spell. Contemporaneous PDPC and VicHealth reports corroborate Connectus appointment and institutional association; May2018 CfC submission adds coordinator title observation. No full-time totals calculated.",
+    "Avenues: parliamentary/member biography and first speech; GSEM summit transcript; historical PDPC2004–05 and VicHealth2005–06 reports; Human Rights Commission2018 submission index; council-centre and CfC employer searches; public professional-profile index. LinkedIn direct returned429 Too Many Requests, not retried; AHRC PDF unavailable but cover index usable with limitation. Contact aggregators with all dates May2026 rejected. Sussan/Marc Besen early-career claim surfaced only in unsourced derivative accounts; retain unverified lead, do not create employment facts. Follow-up: council titles/dates/amalgamation continuity, Frankston contract employer, Chisholm dates/pay/FTE, Connectus legal employer, CfC full submission/Anglicare contract, Family Life title progression, all breaks/hours."
   ]
 }
