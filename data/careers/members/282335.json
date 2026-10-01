@@ -6,7 +6,7 @@
   "snapshot_party": "Independent",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/282335",
   "research_status": "blocked",
-  "last_reviewed": "2026-09-14",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -46,12 +46,14 @@
       "fte_fraction": null,
       "category": "unknown",
       "headline_sector": "unknown",
-      "government_control_at_time": "unknown",
+      "government_control_at_time": "private",
       "counting_status": "insufficient_evidence",
       "source_ids": [
-        "src-2"
+        "src-2",
+        "oct2-chiltern",
+        "oct2-firstspeech"
       ],
-      "evidence_note": "Role followed initial Wangaratta work. Historical control, dates and hours require employer records; bush nursing title does not imply state ownership.",
+      "evidence_note": "Role followed initial Wangaratta work. Historical control, dates and hours require employer records; bush nursing title does not imply state ownership. Historical employer report supports private community control, resolving public/private control. Category/headline remain unknown pending contemporaneous nonprofit constitution; private control alone is not commercial-enterprise classification. First speech reports appointment aged26 and three years in role; no calendar boundaries are derived from age or rounded duration.",
       "counting_note": "Not counted: dates and/or substantive full-time status are insufficiently evidenced; year labels are not exact boundaries."
     },
     {
@@ -156,9 +158,9 @@
       "spell_id": "282335-08",
       "employer": "Karolinska Institutet, Sweden",
       "role": "Postdoctoral fellow",
-      "start_date": "2014",
-      "end_date": "2014",
-      "date_precision": "year",
+      "start_date": "2014-04",
+      "end_date": "2014-11",
+      "date_precision": "month",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "university",
@@ -167,9 +169,10 @@
       "counting_status": "insufficient_evidence",
       "source_ids": [
         "src-1",
-        "src-2"
+        "src-2",
+        "oct2-rg"
       ],
-      "evidence_note": "Year-only fellowship; payment, dates and FTE not evidenced.",
+      "evidence_note": "Year-only fellowship; payment, dates and FTE not evidenced. Public research profile refines fellowship toApril–November2014, consistent with official year. Contract payment and FTE remain unknown; overlapping affiliations not summed.",
       "counting_note": "Not counted: dates and/or substantive full-time status are insufficiently evidenced; year labels are not exact boundaries."
     },
     {
@@ -186,9 +189,10 @@
       "government_control_at_time": "unknown",
       "counting_status": "insufficient_evidence",
       "source_ids": [
-        "src-1"
+        "src-1",
+        "oct2-rg"
       ],
-      "evidence_note": "Adjunct affiliation is not automatically paid employment; no hours or contract recovered.",
+      "evidence_note": "Adjunct affiliation is not automatically paid employment; no hours or contract recovered. Profile separately describes research associate affiliation fromFebruary2013 to an undated present; official adjunct visiting research fellow2014–2019 retained. Titles/commencement may represent distinct affiliation stages; do not overwrite dated official period or infer post2019 employment.",
       "counting_note": "Not counted: dates and/or substantive full-time status are insufficiently evidenced; year labels are not exact boundaries."
     },
     {
@@ -268,6 +272,25 @@
       ],
       "evidence_note": "Frozen roster first entry.",
       "counting_note": "Outside the two employment headlines under the codebook; retained as career context."
+    },
+    {
+      "employer": "University of Melbourne, Rural Health Academic Centre",
+      "role": "Lecturer, research methods",
+      "start_date": "2006-09",
+      "end_date": null,
+      "date_precision": "month",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "university",
+      "headline_sector": "unknown",
+      "government_control_at_time": "unknown",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "oct2-rg"
+      ],
+      "evidence_note": "Public research profile lists lecturer fromSeptember2006 with stale present endpoint. This may overlap or precede official senior-research-fellow2007–2019 appointment. No independent additive duration, employment contract or hours inferred.",
+      "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
+      "spell_id": "282335-lecturer"
     }
   ],
   "sources": [
@@ -310,12 +333,45 @@
       "source_type": "official_biography",
       "locator": "Career/biography or relevant appointment section",
       "note": "Self-reported three decades across several forms of rural health work, not a full-time duration statement."
+    },
+    {
+      "url": "https://www.researchgate.net/profile/Helen-Haines-2",
+      "publisher": "ResearchGate / Helen Mary Haines",
+      "title": "Public research profile",
+      "source_type": "professional_profile",
+      "locator": "Additional affiliations: Melbourne, Karolinska and Uppsala",
+      "note": "Lists Melbourne lecturer fromSeptember2006, Karolinska postdocApril–November2014 and Uppsala research associate fromFebruary2013. Undated/stale present labels are not current employment evidence.",
+      "retrieved": "2026-10-02",
+      "source_id": "oct2-rg"
+    },
+    {
+      "url": "https://www.inh.org.au/wp/wp-content/uploads/2018/05/Indigo-North-Health-Future-of-Chiltern-Campus-Scenario-and-Contingency-Plan-May-2018-2.pdf",
+      "publisher": "Indigo North Health / Projectura",
+      "title": "Future of Chiltern campus,3 May2018",
+      "source_type": "employer",
+      "locator": "Printed pp14–15, historical ownership and services",
+      "note": "Hospital opened1959 as private community-owned, managed and funded institution; continued private acute-care services in1990s. Historical control evidence, not Haines hours.",
+      "retrieved": "2026-10-02",
+      "source_id": "oct2-chiltern"
+    },
+    {
+      "url": "https://www.helenhaines.org/media/first-speech/",
+      "publisher": "Helen Haines MP",
+      "title": "First speech,1 August2019",
+      "source_type": "official_biography",
+      "locator": "Chiltern matron paragraph and next three years",
+      "note": "Reports matron appointment at age26 and three years in job. Does not establish exact calendar boundaries.",
+      "retrieved": "2026-10-02",
+      "source_id": "oct2-firstspeech"
     }
   ],
   "research_notes": [
     "Blocked after official biography, contemporaneous professional profile, first speech and employer annual report: recover clinical employment dates, historical Chiltern control, individual FTE and whether university/network roles are one joint appointment.",
     "Aggregate hospital workforce FTE does not identify Haines's own hours. The annual report is stronger on May2019 executive end date than the ANMF profile's general statement about deciding to run; neither establishes leave dates.",
     "Hospital-based nursing and midwifery training is not counted as paid work without a dated employment record. Study, fellowships, adjunct affiliations and directorships must not be summed with concurrent clinical years.",
-    "Public professional-profile access returned 429; no bypass attempted. Three-decade career descriptions do not establish thirty full-time public-sector years."
+    "Public professional-profile access returned 429; no bypass attempted. Three-decade career descriptions do not establish thirty full-time public-sector years.",
+    "Follow-up2026-10-02: public research profile provides Karolinska fellowshipApril–November2014 and Melbourne research-methods lecturer affiliation fromSeptember2006. Uppsala research-associateFebruary2013 differs from official adjunct role2014–2019; retained as reconciliation gap rather than erasing facts.",
+    "Employer historical report resolves Chiltern private community control; contemporaneous nonprofit status still needs constitution/annual report. First speech supplies age26 and three-year matron duration, not exact dates or FT. Do not back-calculate calendar boundaries from birthday or narrative sequence.",
+    "Next leads: historical Chiltern governing documents and staffing reports; Melbourne appointment/secondment and hospital joint-funding records; Uppsala title/contract changes; clinical appointment and leave chronology. Nursing training at St Vincent’s/Mercy remains study absent paid-employment evidence. Public research profile accessible; no authenticated profile collection used."
   ]
 }
