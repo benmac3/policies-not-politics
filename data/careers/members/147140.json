@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/147140",
   "research_status": "blocked",
-  "last_reviewed": "2026-09-28",
+  "last_reviewed": "2026-10-01",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -27,7 +27,10 @@
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-aph-current", "src-abc-2025"],
+      "source_ids": [
+        "src-aph-current",
+        "src-abc-2025"
+      ],
       "evidence_note": "The Parliament profile records the BEc; ABC's election guide identifies the major and says the degree was completed in 1991. Start date, study load and any work overlap are not stated.",
       "counting_note": "Study is excluded under the codebook."
     },
@@ -36,17 +39,42 @@
       "employer": "University of New South Wales",
       "role": "Master of Business student",
       "start_date": null,
-      "end_date": null,
-      "date_precision": "unknown",
+      "end_date": "2011",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "study",
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-aph-current", "src-member", "src-first-speech"],
-      "evidence_note": "Official and member biographies establish the MBus; the first speech refers to being a masters student during a local pool campaign. Enrolment and completion dates, load and employment overlap are unresolved.",
+      "source_ids": [
+        "src-aph-current",
+        "src-member",
+        "src-first-speech",
+        "src-abc-2016",
+        "src-abc-2015"
+      ],
+      "evidence_note": "Official/member sources establish the Master of Business; 2015 and 2016 ABC candidate biographies date completion with distinction to 2011. Enrolment, study load, leave and employment overlap remain unresolved.",
       "counting_note": "Study is excluded under the codebook."
+    },
+    {
+      "employer": "Securities Institute of Australia",
+      "role": "Finance and Investment student",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-abc-2016"
+      ],
+      "evidence_note": "2016 candidate biography identifies this additional study. Course, award, dates, load and overlap with banking remain unknown.",
+      "counting_note": "Study excluded.",
+      "spell_id": "147140-securities-study"
     },
     {
       "spell_id": "147140-westpac",
@@ -61,7 +89,11 @@
       "headline_sector": "private",
       "government_control_at_time": "private",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-snapshot", "src-aph-current", "src-abc-2025"],
+      "source_ids": [
+        "src-snapshot",
+        "src-aph-current",
+        "src-abc-2025"
+      ],
       "evidence_note": "Parliament gives 1991–1995 and names Westpac and the role; ABC corroborates a post-degree senior industrial-relations career at a major bank. Exact dates, employment basis, hours, leave and the 1995–1996 transition are unresolved.",
       "counting_note": "The employer is private, but year-only boundaries and missing substantive full-time evidence prevent a headline duration."
     },
@@ -78,7 +110,10 @@
       "headline_sector": "public",
       "government_control_at_time": "public",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-snapshot", "src-aph-current"],
+      "source_ids": [
+        "src-snapshot",
+        "src-aph-current"
+      ],
       "evidence_note": "The official parliamentary biography identifies council employment from 1996 to 1997. Exact dates, employment basis, hours, leave and overlap with the workplace-learning transition are unresolved.",
       "counting_note": "Council control is public, but the record does not support a full-time duration calculation."
     },
@@ -95,13 +130,19 @@
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-snapshot", "src-aph-current", "src-member", "src-workplace-learning", "src-abn"],
+      "source_ids": [
+        "src-snapshot",
+        "src-aph-current",
+        "src-member",
+        "src-workplace-learning",
+        "src-abn"
+      ],
       "evidence_note": "Parliament gives the Shoalhaven program and 1997–2002; Phillips' biography confirms the role. The continuing incorporated entity says it began in 1997 and is a locally based not-for-profit, while ABN history records the incorporated entity from 2000. Exact employing entity before 2000, dates, hours, leave and funding/control arrangements are unresolved.",
       "counting_note": "The role is coded nonprofit and excluded from the narrow public/private headline; public funding alone would not establish public control."
     },
     {
       "spell_id": "147140-tafe",
-      "employer": "TAFE NSW (Nowra; historical institute structure unresolved)",
+      "employer": "TAFE NSW — Illawarra Institute, Nowra campus (historical structure)",
       "role": "TAFE Teacher, including Outreach teaching",
       "start_date": "2002",
       "end_date": "2017",
@@ -112,8 +153,16 @@
       "headline_sector": "public",
       "government_control_at_time": "public",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-snapshot", "src-aph-current", "src-member", "src-first-speech", "src-vet-speech"],
-      "evidence_note": "Official and first-person sources establish teaching at Nowra TAFE from 2002 to 2017, including Outreach work helping learners return to work and training. Exact dates, appointment type, hours, leave and overlap with university, Defence, campaigning and political staff work are unresolved.",
+      "source_ids": [
+        "src-snapshot",
+        "src-aph-current",
+        "src-member",
+        "src-first-speech",
+        "src-vet-speech",
+        "src-abc-2016",
+        "src-nsw-tafe"
+      ],
+      "evidence_note": "Official and first-person sources establish teaching at Nowra TAFE from 2002 to 2017, including Outreach work helping learners return to work and training. Exact dates, appointment type, hours, leave and overlap with university, Defence, campaigning and political staff work are unresolved. Contemporary candidate profile and NSW parliamentary campus record resolve the historical institute name. No employment-basis inference follows from campus structure.",
       "counting_note": "The public employer is supported, but neither full-time status nor countable boundaries are established."
     },
     {
@@ -129,8 +178,13 @@
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-snapshot", "src-aph-current", "src-member"],
-      "evidence_note": "Parliament supplies 2002–2015; Phillips' biography identifies subjects taught at the Shoalhaven Campus. Exact dates, casual/continuing basis, hours, leave and overlap with TAFE and Defence are unresolved.",
+      "source_ids": [
+        "src-snapshot",
+        "src-aph-current",
+        "src-member",
+        "src-abc-2016"
+      ],
+      "evidence_note": "Parliament supplies 2002–2015; Phillips' biography identifies subjects taught at the Shoalhaven Campus. Exact dates, casual/continuing basis, hours, leave and overlap with TAFE and Defence are unresolved. The 2016 ABC guide still uses present-tense tutoring, which may repeat older text. Preserve official 2015 end year pending employer confirmation rather than extend employment automatically.",
       "counting_note": "University employment is shown separately and excluded from the narrow headline under the current codebook."
     },
     {
@@ -146,7 +200,13 @@
       "headline_sector": "public",
       "government_control_at_time": "public",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-snapshot", "src-aph-current", "src-member", "src-abc-2025", "src-first-speech"],
+      "source_ids": [
+        "src-snapshot",
+        "src-aph-current",
+        "src-member",
+        "src-abc-2025",
+        "src-first-speech"
+      ],
       "evidence_note": "Parliament gives 2007–2009. Phillips calls the role civilian and adds strategic-workforce-planner duties; ABC describes it as full-time. Exact start/end dates, leave and how simultaneous TAFE and university work was arranged are unresolved.",
       "counting_note": "Public control and full-time status are supported, but year-only boundaries do not justify an exact headline total."
     },
@@ -163,7 +223,10 @@
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-snapshot", "src-aph-current"],
+      "source_ids": [
+        "src-snapshot",
+        "src-aph-current"
+      ],
       "evidence_note": "The official parliamentary biography establishes the role and 2016–2017 range. Exact dates, payroll, hours, leave and overlap with teaching and campaigning are unresolved.",
       "counting_note": "Political staff employment is excluded under the codebook."
     },
@@ -180,7 +243,9 @@
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-aph-current"],
+      "source_ids": [
+        "src-aph-current"
+      ],
       "evidence_note": "Parliament records South Coast SEC president in 2014–2017, Country Labor Committee membership in 2016–2019 and NSW Administrative Committee membership in 2017–2019. Remuneration, hours and overlap are not stated.",
       "counting_note": "Party organisational activity is excluded under the codebook."
     },
@@ -197,7 +262,10 @@
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-abc-2019", "src-first-speech"],
+      "source_ids": [
+        "src-abc-2019",
+        "src-first-speech"
+      ],
       "evidence_note": "ABC's 2019 election profile and Phillips' first speech describe the multi-election campaign path culminating in election on 18 May 2019. Preselection dates, remuneration, campaign workload and any paid employment after 2017 are unresolved.",
       "counting_note": "Party candidacy and campaigning are excluded under the codebook."
     },
@@ -214,9 +282,31 @@
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-snapshot", "src-aph-current"],
+      "source_ids": [
+        "src-snapshot",
+        "src-aph-current"
+      ],
       "evidence_note": "The frozen roster and current parliamentary profile establish continuous House service from the 18 May 2019 election.",
       "counting_note": "Federal elected office is excluded under the codebook."
+    },
+    {
+      "employer": "Save the Nowra Pool community campaign",
+      "role": "Campaign leader",
+      "start_date": "2009",
+      "end_date": "2015",
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-about-followup"
+      ],
+      "evidence_note": "Member biography gives the campaign interval. Legal organisation, pay, hours and any leave from employment are unknown; community activity is not assumed to be paid work.",
+      "counting_note": "Community campaigning excluded from substantive employment totals.",
+      "spell_id": "147140-pool-campaign"
     }
   ],
   "sources": [
@@ -309,6 +399,46 @@
       "source_type": "news",
       "locator": "Fiona Phillips candidate profile",
       "note": "Contemporaneous candidate profile corroborating education, career outline and earlier candidacies."
+    },
+    {
+      "url": "https://www.abc.net.au/news/elections/federal/2016/guide/gilm",
+      "publisher": "Australian Broadcasting Corporation / Antony Green",
+      "title": "Gilmore — Federal Election 2016",
+      "source_type": "news",
+      "locator": "Fiona Phillips candidate biography",
+      "note": "Supplies UNSW masters completion in 2011, Securities Institute finance/investment study and Illawarra TAFE identity. Present-tense UOW tutoring differs from official 2015 cessation; may be reused biography.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-abc-2016"
+    },
+    {
+      "url": "https://www.abc.net.au/news/elections/nsw/2015/guide/scoa",
+      "publisher": "Australian Broadcasting Corporation / Antony Green",
+      "title": "South Coast — NSW Election 2015",
+      "source_type": "news",
+      "locator": "Fiona Phillips candidate biography",
+      "note": "Contemporaneous guide also identifies the 2011 masters completion and teaching institutions.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-abc-2015"
+    },
+    {
+      "url": "https://www.parliament.nsw.gov.au/parliamentary-business/questions-answers-tracking-details?id=7127&ref=20109",
+      "publisher": "Parliament of New South Wales",
+      "title": "Question 8670 — Illawarra Institute—Nowra Campus",
+      "source_type": "government_record",
+      "locator": "Question text concerning 2006–2009 enrolments",
+      "note": "Institutional evidence that Nowra campus belonged to TAFE NSW Illawarra Institute during the relevant period; no personal hours evidence.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-nsw-tafe"
+    },
+    {
+      "url": "https://www.fionaphillips.com.au/about/",
+      "publisher": "Fiona Phillips MP",
+      "title": "About Fiona",
+      "source_type": "professional_profile",
+      "locator": "Career and Nowra pool campaign paragraphs",
+      "note": "Dates leadership of Save the Nowra Pool campaign to 2009–2015. No remuneration or hours supplied; spouse’s business is not attributed to her employment.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-about-followup"
     }
   ],
   "research_notes": [
@@ -316,6 +446,9 @@
     "Obtain TAFE, University of Wollongong and workplace-learning appointment types, workloads, leave and exact dates, particularly through the 2007–2009 Defence overlap and 2015–2017 campaign/political-staff overlap.",
     "Identify the exact employing entity and government-control/funding arrangements for Shoalhaven Schools Workplace Learning Program in 1997–2000.",
     "Resolve paid employment, campaign remuneration and breaks from the end of the listed 2017 roles to the 18 May 2019 election.",
-    "No exact headline years are inferred from year-only ranges. The ABC full-time description for Defence is retained, but its duration remains uncalculated pending precise boundaries. Missing evidence is not zero."
+    "No exact headline years are inferred from year-only ranges. The ABC full-time description for Defence is retained, but its duration remains uncalculated pending precise boundaries. Missing evidence is not zero.",
+    "2026-10-01 follow-up adds Securities Institute study, 2011 masters completion, historical Illawarra TAFE identity and the 2009–2015 pool campaign. Records conflict between official 2015 university cessation and present-tense tutoring in the 2016 guide; no invented extension.",
+    "Searched public parliamentary/member biographies, contemporary election guides, institutional UOW/UNSW pages, workplace-learning organisation/registry history, historical campus records, banking name variants and teaching hours terms. No exact work appointments, ordinary teaching hours, Defence leave or 1995–1996/2017–2019 paid-work chronology found. Current organisation office opening hours do not establish personal historic hours.",
+    "Next evidence priorities: UOW appointment/cessation confirmation addressing the 2016 guide; TAFE personnel arrangements during Defence work; Securities Institute award and banking overlap; school-workplace programme’s original employer. A secondary generic reference to retail experience was not expanded into a separate employer; it may refer to retail banking. Spouse’s carpentry business is not evidence she worked there."
   ]
 }
