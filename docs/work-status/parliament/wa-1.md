@@ -8,10 +8,12 @@ State: in-progress
 
 ## Durable cursor
 
-- Next initial record: 296215 COX, Dorinda Rose.
-- Initial records in this batch: 5/14; all remain unresolved pending follow-up.
+- Next initial record: 316550 FRENCH, Tom.
+- Initial records in this batch: 6/14; all remain unresolved pending follow-up.
 
 ## Saved records and follow-up
+
+- 296215 COX, Dorinda Rose: blocked; last review 2026-10-01. Follow-up: Identify casual retail employer/dates; obtain police cadet and liaison appointment/hours/leave; resolve 1994–96 precision and any 2002 transition break. Obtain SARC and state project-management employing departments, roles, dates/hours/leave; determine any additional nonprofit payroll employment. Identify ACSSA and National Council terms/remuneration without treating advisory participation as public-service years. Corroborate 2013 consulting start and resolve a commercial aggregator’s March 2015 lead; obtain business entity, actual workload, breaks and 2021 cessation/continuing interests. Review primary interest registers. Resolve board dates/pay and concurrent consulting.
 
 - 312871 COOK, Dr Patricia (Trish): blocked; last review 2026-10-01. Follow-up: Follow up each hospital/community/industrial payroll employer and exact dates/hours/leave; Nurses@Work legal entity, ten-year boundaries, clients and overlapping clinical/teaching work; confirm personal role and payer in Solomon Islands. Obtain TAFE appointment records and ECU/Curtin staff profiles. Secondary search results suggest ECU tutoring 2017–21 and Curtin OHS lecturing 2008–11; these remain leads, not primary-established spells. Reconcile these with first-speech sequence and Darlington residence timing.
 
@@ -25,7 +27,7 @@ Detailed attempted avenues, discrepancies and remaining leads are preserved in e
 
 ## National coverage
 
-155/226 initial records; 71 unstarted; 155 unresolved; 0 research-complete. Counts use branch-owned remote records plus this commit, not the deployed site.
+156/226 initial records; 70 unstarted; 156 unresolved; 0 research-complete. Counts use branch-owned remote records plus this commit, not the deployed site.
 
 ## Attempt measurement — 2026-10-01 08:00 Brisbane cycle
 
@@ -40,12 +42,13 @@ Detailed attempted avenues, discrepancies and remaining leads are preserved in e
 - Successor status: requested/accepted after the closure checkpoint was remotely verified — result pending. The saved schedule was unchanged; acceptance does not establish execution completion or delivery.
 
 
+
 ## Active attempt — 2026-10-01 12:00 Brisbane cycle
 
-- Continuation: 0. Started: 2026-10-01T12:03:48+10:00; last checkpoint: 2026-10-01T12:09:53+10:00.
+- Continuation: 0. Started: 2026-10-01T12:03:48+10:00; last checkpoint: 2026-10-01T12:11:16+10:00.
 - Starting WA-1 head: 79b1d5c96ee3dde69dd2f5453e96a2aa434baae2; national baseline 153/226, all unresolved, 0 complete. Branch-owned remote audit: NSW 58, VIC 50, QLD 42, WA 3; no integrated member files on main or parliament-experience.
 - Active writer: this 12:00 invocation; state: processing. Predecessor successor execution unverified: no subsequent member commits found at start. No active conflicting writer observed.
-- Progress: 2 new initial members, 0 enriched existing, 0 newly complete; cycle totals same; Brisbane-day totals 9 new, 0 enriched, 0 newly complete. Count after remote verification only.
+- Progress: 3 new initial members, 0 enriched existing, 0 newly complete; cycle totals same; Brisbane-day totals 10 new, 0 enriched, 0 newly complete. Count after remote verification only.
 - Outcome: ongoing. STOPPING REASON: none; continuing to next member after remote verification. Scheduler terminal status not exposed. Successor not requested while research remains active.
 - Validation: record schema/enums/source references/date syntax, build_careers.load_records(), batch coverage and repository validation. Only assigned member and checkpoint changed.
 - Recovered source errors: APH open (403) Forbidden; obsolete biography URL inaccessible; Anglicare PDF open (400) Content length is too large: 15893687. Alternative first-party and indexed evidence used.
