@@ -6,14 +6,33 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/168275",
   "research_status": "blocked",
-  "last_reviewed": "2026-09-29",
+  "last_reviewed": "2026-10-01",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
     "calculation_status": "not_calculable",
-    "note": "Full-time cleaning is explicitly supported, but its employer and dates are missing. Other early work is undated; union, party, governance, study and Senate roles are kept separate. Neither public nor private total is calculable."
+    "note": "Full-time cleaning is explicitly supported, but its employer and dates are missing. Other early work is undated; union, party, governance, study and Senate roles are kept separate. Neither public nor private total is calculable. Follow-up adds unpaid Punchbowl fair work, a pre-TWU Queensland union role and NSW statutory advisory membership; no employment dates or hours invented."
   },
   "career_spells": [
+    {
+      "employer": "Punchbowl fair; legal operator unidentified",
+      "role": "Ferris wheel operator",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unpaid_work",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-first-speech"
+      ],
+      "evidence_note": "First speech identifies this as his first job at age 16, lasting six weeks without pay on a promise of further work. Exact dates, employer and ordinary hours absent. Age and rounded lifetime workforce duration are not converted to exact dates or counted paid service.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "168275-punchbowl-fair"
+    },
     {
       "spell_id": "168275-01",
       "employer": "Unidentified employer",
@@ -31,7 +50,7 @@
         "src-2",
         "src-3"
       ],
-      "evidence_note": "Personal biography explicitly describes full-time cleaning at the start of working life; employer, dates and control are unknown.",
+      "evidence_note": "Personal biography explicitly describes full-time cleaning at the start of working life; employer, dates and control are unknown. First speech identifies an earlier unpaid fairground job; this does not contradict cleaning being the start of full-time paid working life. Full-time evidence is not extended to other occupations.",
       "counting_note": "Dates, employer control and/or substantive full-time status remain insufficient for a duration calculation; unknown is not zero."
     },
     {
@@ -77,8 +96,8 @@
       "employer": "Transport Workers Union",
       "role": "Organiser before NSW secretary appointment",
       "start_date": null,
-      "end_date": "1999",
-      "date_precision": "mixed",
+      "end_date": null,
+      "date_precision": "unknown",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "union",
@@ -87,9 +106,10 @@
       "counting_status": "excluded",
       "source_ids": [
         "src-5",
-        "src-1"
+        "src-1",
+        "src-first-speech"
       ],
-      "evidence_note": "Union retrospectively identifies organiser service; 1999 is the next known title boundary, not proven organiser cessation. Thirty-year membership/service narrative is not thirty years of employment.",
+      "evidence_note": "Union retrospectively confirms organiser service. First speech directly recalls working with Steve Hutchins and Wayne Forno in 1994, a point-in-time anchor without appointment or cessation dates. Removed 1999 as an unproven organiser endpoint; later secretary title does not prove an exact preceding role boundary.",
       "counting_note": "Excluded from the two employment headlines under the codebook."
     },
     {
@@ -107,9 +127,10 @@
       "counting_status": "excluded",
       "source_ids": [
         "src-1",
-        "src-2"
+        "src-2",
+        "src-twu-history"
       ],
-      "evidence_note": "Official year-only range; overlaps national secretary role.",
+      "evidence_note": "Official year-only range; overlaps national secretary role. Union history places his unopposed election in 1998 while APH gives 1999 commencement. Retain official year range with explicit discrepancy; actual office/payroll commencement needs election return or appointment evidence.",
       "counting_note": "Excluded from the two employment headlines under the codebook."
     },
     {
@@ -228,9 +249,10 @@
       "counting_status": "excluded",
       "source_ids": [
         "src-1",
-        "src-2"
+        "src-2",
+        "src-first-speech"
       ],
-      "evidence_note": "Vice-presidency dated 2011–2015; administrative committee tenure undated. Party membership from 1988 is not employment.",
+      "evidence_note": "Vice-presidency dated 2011–2015; administrative committee tenure undated. Party membership from 1988 is not employment. First speech says he joined the party at age 14, differing from the official 1988 membership entry. Neither membership statement establishes paid party employment; discrepancy retained.",
       "counting_note": "Excluded from the two employment headlines under the codebook."
     },
     {
@@ -272,6 +294,44 @@
       ],
       "evidence_note": "Frozen roster establishes commencement; ongoing at snapshot. Parliamentary and envoy responsibilities are kept within elected-office context.",
       "counting_note": "Excluded from the two employment headlines under the codebook."
+    },
+    {
+      "employer": "Liquor Trades Union, Queensland branch; exact historical employing entity to verify",
+      "role": "Disputes officer",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "union",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-liquor-contemporary"
+      ],
+      "evidence_note": "A contemporary newspaper clipping dated 28 June 1989 preserved in Queensland parliamentary material identifies this role, preceding TWU work. This is a point-in-time identification, not a start or end date. Employment hours, precise legal union name, commencement, cessation and transition remain unresolved.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "168275-liquor-trades"
+    },
+    {
+      "employer": "NSW Workers Compensation Advisory Council",
+      "role": "Employee representative, Transport Workers Union",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "public_service",
+      "headline_sector": "excluded",
+      "government_control_at_time": "public",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-workcover"
+      ],
+      "evidence_note": "WorkCover annual report lists Sheldon among members at 30 June 2000. The Council’s collective appointment on 25 August 1998 and nominal three-year term do not establish his personal tenure. Advisory governance, fees and attendance do not prove substantive full-time employment.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "168275-workers-comp-council"
     }
   ],
   "sources": [
@@ -344,12 +404,56 @@
       "source_type": "official_biography",
       "locator": "data/parliament.json, retrieved 10 September 2026",
       "note": "Senate commencement 1 July 2019 and four occupation entries."
+    },
+    {
+      "url": "https://www.openaustralia.org.au/senate/?gid=2019-07-31.281.1",
+      "publisher": "Commonwealth Hansard via OpenAustralia",
+      "title": "Tony Sheldon first speech, 31 July 2019",
+      "source_type": "government_record",
+      "locator": "5:03pm speech; Punchbowl fair and 1994 workplace recollections",
+      "note": "First-person account of six unpaid weeks operating a Ferris wheel at age 16 and work alongside TWU colleagues in 1994. Parliamentary source link returned Internal Error; transcript cross-checked against AustralianPolitics reproduction.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-first-speech"
+    },
+    {
+      "url": "https://data.nsw.gov.au/data/dataset/de8657d6-4361-4fc0-8288-ddb518a042f2/resource/81e1f6a3-2e2f-4679-8d76-034fb5430738/download/workcover_nsw_annual_report_1999_2000_14863.pdf",
+      "publisher": "WorkCover Authority NSW",
+      "title": "Annual Report 1999–2000",
+      "source_type": "government_record",
+      "locator": "Appendix 7, printed pp104–105 / PDF indexes105–106, Council members at 30 June 2000",
+      "note": "Names Sheldon as TWU employee representative on Workers Compensation Advisory Council. Council’s collective 1998 appointment and three-year term are not independently his personal boundaries.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-workcover"
+    },
+    {
+      "url": "https://twunsw.org.au/our-history/",
+      "publisher": "Transport Workers Union NSW",
+      "title": "Our History",
+      "source_type": "employer",
+      "locator": "1980–1999 timeline, 1998 entry",
+      "note": "Employer history places election as NSW secretary in 1998, whereas parliamentary biography records service from 1999; election versus effective service may explain the difference but is unverified.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-twu-history"
+    },
+    {
+      "url": "https://www.parliament.qld.gov.au/Work-of-the-Assembly/Tabled-Papers/docs/4690t1960/4690t1960.pdf",
+      "publisher": "Queensland Parliament, tabled archival material",
+      "title": "Appendix LVII, newspaper clipping dated 28 June 1989",
+      "source_type": "news",
+      "locator": "Appendix LVII, occupation identification of Tony Sheldon",
+      "note": "Indexed contemporary clipping identifies Sheldon as Liquor Trades Union disputes officer. Direct PDF retrieval returned Internal Error; role used as dated corroboration only, no unrelated allegations adopted.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-liquor-contemporary"
     }
   ],
   "research_notes": [
     "Identify early cleaning, hospitality and waste employers, dates, hours, control and any breaks; retain explicitly supported full-time cleaning without inventing a duration. Seek dated TWU organiser appointments, pre-TWU union work, TWUSUPER reports, governance tenure and study overlaps.",
     "2026-09-29 initial avenues: official indexed biography and frozen occupations, personal and ALP biographies, union 2018/2019 transition releases, TWUSUPER annual-report search and contemporary trustee conference reporting. Direct APH open returned 403; no bypass attempted. Targeted early-employer/first-speech searches were noisy and did not establish dates.",
     "Resolve title discrepancy: APH gives national secretary 2006–2019; contemporaneous TWU releases establish August 2018 succession and later coordinator work. Do not merge these as uninterrupted national-secretary tenure. Source links retain both accounts.",
-    "First-speech transcript, historical union appointment returns and TWUSUPER annual reports remain follow-up leads. All union/party/governance overlaps are excluded rather than double-counted. This partial record is not research-complete."
+    "First-speech transcript, historical union appointment returns and TWUSUPER annual reports remain follow-up leads. All union/party/governance overlaps are excluded rather than double-counted. This partial record is not research-complete.",
+    "2026-10-01 follow-up: first speech recovered. Added six-week unpaid Ferris wheel work, 1989 Liquor Trades Union disputes-officer evidence and Workers Compensation Advisory Council membership at 30 June 2000. TWU work anchored by 1994 recollection; prior organiser cessation assumption removed.",
+    "Searched early employer names, first speech, historical union roles, TWUSUPER annual reports and WorkCover records. First speech does not name cleaning, bar or waste employers. Brewery/nightclub/Cedar Lake references describe union campaigns and do not establish employment by those businesses. No date subtraction from age or 42-year workforce claim.",
+    "NSW secretary election year differs: TWU timeline 1998 versus APH service from 1999. Seek contemporary election return and payroll transition. TWUSUPER appointment and resignation, Harvard/UNSW study dates, ACTU vice-presidency and earlier job hours remain unresolved. First-person party membership age conflicts with official year; neither counted.",
+    "Access: Queensland archival PDF direct fetch and Parlinfo source returned Internal Error; indexed newspaper occupation and accessible Hansard reproductions explicitly identified. WorkCover annual report read directly. No private personnel records sought or outreach sent."
   ]
 }
