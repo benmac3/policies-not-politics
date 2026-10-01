@@ -6,12 +6,12 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/HWL",
   "research_status": "blocked",
-  "last_reviewed": "2026-09-19",
+  "last_reviewed": "2026-10-01",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
     "calculation_status": "not_calculable",
-    "note": "The frozen official timeline identifies one potentially countable private-sector role at Transurban, but only at year precision and without evidence of substantive full-time status. Political staff, party activity, study and elected office are excluded. Missing evidence is not zero."
+    "note": "Transurban remains potentially countable private employment with unverified full-time hours and exact dates. Newly identified Woolworths and Sizzler work is part-time and excluded from full-time totals. Political staff, party, study and elected service excluded. Missing evidence is not zero."
   },
   "career_spells": [
     {
@@ -19,16 +19,20 @@
       "employer": "University of New South Wales",
       "role": "Bachelor of Arts (Honours) and Bachelor of Laws student",
       "start_date": null,
-      "end_date": null,
-      "date_precision": "unknown",
+      "end_date": "1998",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "study",
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-personal", "src-secondary"],
-      "evidence_note": "Current and secondary biographies identify both degrees but do not publish enrolment or completion dates, load, or concurrent employment.",
+      "source_ids": [
+        "src-personal",
+        "src-secondary",
+        "src-unsw2012"
+      ],
+      "evidence_note": "University alumni publicationJune2012 dates both BA(Hons) and LLB graduation1998. Start, load and actual final attendance date unresolved. Graduation overlaps1995–1999 Whelan adviser spell; do not infer study or work load.",
       "counting_note": "Study is excluded under the codebook."
     },
     {
@@ -36,7 +40,7 @@
       "employer": "Australian Labor Party — Cabramatta Branch",
       "role": "Branch secretary",
       "start_date": "1992",
-      "end_date": "2002",
+      "end_date": "2001",
       "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
@@ -44,8 +48,11 @@
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-secondary"],
-      "evidence_note": "A secondary synthesis with cited sources records ten years as branch secretary from 1992 to 2002. Pay, hours, exact dates and overlap with study and political-staff work are unresolved; the role is not assumed to be paid employment.",
+      "source_ids": [
+        "src-secondary",
+        "src-aph-party"
+      ],
+      "evidence_note": "Primary parliamentary party history gives secretary1992–2001, preferred over secondary1992–2002. Conflict retained for follow-up. Pay, hours and exact dates unknown; party role not assumed employment.",
       "counting_note": "Party activity is excluded under the codebook."
     },
     {
@@ -61,7 +68,9 @@
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-snapshot"],
+      "source_ids": [
+        "src-snapshot"
+      ],
       "evidence_note": "The frozen official parliamentary occupation extract records this role from 1995 to 1999. Exact appointment dates, payroll entity, hours, leave and overlap with study or party activity are unresolved.",
       "counting_note": "Political staff employment is excluded under the codebook."
     },
@@ -78,7 +87,10 @@
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-snapshot", "src-personal"],
+      "source_ids": [
+        "src-snapshot",
+        "src-personal"
+      ],
       "evidence_note": "The frozen official extract records 1999–2003, and Clare's current biography corroborates service as senior adviser to Premier Bob Carr. Exact appointment dates, payroll entity, hours, leave and the transition from the Whelan office are unresolved.",
       "counting_note": "Political staff employment is excluded under the codebook."
     },
@@ -95,8 +107,14 @@
       "headline_sector": "private",
       "government_control_at_time": "private",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-snapshot", "src-personal", "src-transurban"],
-      "evidence_note": "The frozen official occupation extract gives the employer, title and 2003–2007 boundaries; Clare's current biography corroborates the role. Transurban's current corporate page identifies it as an ASX-listed company, supporting private control. Exact start/end dates, hours, leave and campaign transition are unresolved; the managerial title is not treated as proof of full-time work.",
+      "source_ids": [
+        "src-snapshot",
+        "src-personal",
+        "src-transurban",
+        "src-first-speech",
+        "src-transurban2006"
+      ],
+      "evidence_note": "The frozen official occupation extract gives the employer, title and 2003–2007 boundaries; Clare's current biography corroborates the role. Transurban's current corporate page identifies it as an ASX-listed company, supporting private control. Exact start/end dates, hours, leave and campaign transition are unresolved; the managerial title is not treated as proof of full-time work. First speech18February2008 recalls four years with Transurban.2006 report supports contemporary ASX listing, dispersed securities and corporate governance; no individual appointment/hours evidence located. Queensland Investment Corporation’s2.91% register holding is a minority investment, not evidence of government control.",
       "counting_note": "Private control is supported, but year-only boundaries and unproven substantive full-time status do not support an exact headline duration."
     },
     {
@@ -112,7 +130,10 @@
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-secondary", "src-snapshot"],
+      "source_ids": [
+        "src-secondary",
+        "src-snapshot"
+      ],
       "evidence_note": "Secondary reporting records that Clare won Labor preselection in May 2007, and the frozen roster records the start of House service on 24 November 2007. Exact preselection day, campaign work dates, pay, hours and overlap with Transurban are unresolved.",
       "counting_note": "Party and campaign activity is excluded under the codebook."
     },
@@ -129,9 +150,52 @@
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-snapshot", "src-personal", "src-minister"],
+      "source_ids": [
+        "src-snapshot",
+        "src-personal",
+        "src-minister"
+      ],
       "evidence_note": "The frozen roster establishes House service from 24 November 2007. Clare's current site corroborates representation since 2007, and the Australian Government ministerial profile confirms his current Education portfolio. Ministerial and shadow roles are nested within elected service rather than recorded as separate employment spells.",
       "counting_note": "Elected office is excluded under the codebook."
+    },
+    {
+      "employer": "Woolworths, Fairfield (payroll entity not verified)",
+      "role": "Trolley collector",
+      "start_date": "1987",
+      "end_date": null,
+      "date_precision": "year",
+      "employment_status": "part_time",
+      "fte_fraction": null,
+      "category": "private_enterprise",
+      "headline_sector": "private",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-gala2024"
+      ],
+      "evidence_note": "Official speech explicitly describes part-time work after Year10 in summer1987. End date and weekly hours unknown; no age-derived calendar boundary.",
+      "counting_note": "Part-time employment excluded from full-time headline; no FTE conversion.",
+      "spell_id": "HWL-woolworths"
+    },
+    {
+      "employer": "Sizzler, Carramar (legal employing entity unresolved)",
+      "role": "Restaurant worker; cheese-toast preparation",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "part_time",
+      "fte_fraction": null,
+      "category": "private_enterprise",
+      "headline_sector": "private",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-interview2023",
+        "src-sizzler-location"
+      ],
+      "evidence_note": "Official interview gives five years of Sizzler work during UNSW law study in discussion of his part-time student jobs. Personal public post identifies Carramar. Exact endpoints and hours unknown; five years not mapped onto degree duration.",
+      "counting_note": "Part-time employment excluded from full-time headline; no FTE conversion.",
+      "spell_id": "HWL-sizzler"
     }
   ],
   "sources": [
@@ -184,19 +248,96 @@
       "source_type": "other",
       "locator": "Early life and education; preselection sections with cited sources",
       "note": "Secondary synthesis used for branch-secretary years, qualifications and May 2007 preselection timing; unsupported precision remains unresolved."
+    },
+    {
+      "url": "https://ministers.education.gov.au/clare/universities-australia-gala-dinner",
+      "publisher": "Australian Government, Department of Education",
+      "title": "Universities Australia Gala Dinner,27February2024",
+      "source_type": "government_record",
+      "locator": "Personal history: part-time Fairfield Woolies work in summer1987",
+      "note": "First-person explicit part-time status and year; not inferred from age.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-gala2024"
+    },
+    {
+      "url": "https://ministers.education.gov.au/clare/interview-abc-news-tiktok-and-instagram",
+      "publisher": "Australian Government, Department of Education",
+      "title": "ABC News interview,10August2023",
+      "source_type": "government_record",
+      "locator": "Part-time jobs and five years making cheese toast while studying law",
+      "note": "First-person account; duration not back-calculated into dates.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-interview2023"
+    },
+    {
+      "url": "https://www.facebook.com/JasonClareMP/photos/end-of-an-era-carramar-sizzler-closes-today-after-27-years-i-worked-there-for-5-/436764096531445/",
+      "publisher": "Jason Clare MP / Facebook",
+      "title": "Carramar Sizzler closure recollection",
+      "source_type": "official_biography",
+      "locator": "Publicly indexed post identifying Carramar restaurant and five-year work",
+      "note": "Location identification; exact post date not used as employment boundary.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-sizzler-location"
+    },
+    {
+      "url": "https://newsroom.unsw.edu.au/sites/default/files/documents/201206%20UNSWorld%20Issue%2016%20'Generation%20Next'.pdf",
+      "publisher": "University of New South Wales",
+      "title": "UNSWorld,June2012",
+      "source_type": "official_biography",
+      "locator": "Printed p3: Alumni political leaders, Jason Clare",
+      "note": "Institution dates BA(Hons)/LLB graduation1998; not necessarily last attendance day.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-unsw2012"
+    },
+    {
+      "url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=HWL",
+      "publisher": "Parliament of Australia",
+      "title": "Jason Clare biography",
+      "source_type": "official_biography",
+      "locator": "Party positions: Cabramatta secretary1992–2001",
+      "note": "Historical party-role details only; frozen roster not changed. Primary timeline conflicts with secondary2002 endpoint.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-aph-party"
+    },
+    {
+      "url": "https://www.openaustralia.org.au/debates/?id=2008-02-18.55.2",
+      "publisher": "Australian Parliament / OpenAustralia transcript",
+      "title": "Jason Clare first speech,18February2008",
+      "source_type": "government_record",
+      "locator": "Clare speech: four years at Transurban and Westlink M7",
+      "note": "First-person corroboration; round duration is not exact dates or hours.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-first-speech"
+    },
+    {
+      "url": "https://www.transurban.com/content/dam/investor-centre/04/Annual-Report-2006-A4.pdf",
+      "publisher": "Transurban Group",
+      "title": "Annual Report2006",
+      "source_type": "employer",
+      "locator": "Printed pp27–28 governance;75–76 security holders; inside-back-cover ASX listing",
+      "note": "Contemporaneous private listed-company governance and shareholder evidence during employment; no Clare match in report.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-transurban2006"
     }
   ],
   "research_notes": [
     "The frozen official occupation extract supplies a continuous year-level sequence from 1995 to parliamentary entry, but does not establish exact transitions or working hours.",
     "Transurban's ASX listing supports private control; a senior corporate title does not prove substantive full-time work.",
     "The 1992–2002 party branch role overlaps study and political-staff employment and is not assumed to have been paid.",
-    "Ministerial offices held as an MP are treated as duties nested within elected office."
+    "Ministerial offices held as an MP are treated as duties nested within elected office.",
+    "Systematic follow-up2026-10-01 added omitted part-time Woolworths and Sizzler work, confirmed1998 university graduation, resolved branch-secretary endpoint toward primary2001 with conflict preserved, and added relevant-year Transurban ownership/governance evidence.",
+    "Five student-work years and four Transurban years are rounded narrative durations, not exact calendar spells. Graduation is a dated educational milestone, not proof of full-time study or an adviser start/end. Trolley job year1987 explicitly stated by Clare; no birth-year arithmetic used.",
+    "Searched first speech, ministerial speeches/interviews, public social/profile evidence, UNSW alumni publication, official party history and Transurban2006 annual report. Annual-report text contains no Clare match; generic workforce and senior-executive terms cannot prove his hours. LinkedIn direct profile unavailable; no access controls bypassed.",
+    "Follow-up priorities: named payroll employers/store operating entities, precise student-work intervals, Whelan/Carr contracts and leave, Transurban entry/exit and campaign leave. Law degree does not prove practising solicitor employment. No source establishes a countable full-time interval; advance national queue."
   ],
   "open_questions": [
     "What were Clare's exact UNSW enrolment/completion dates, study load and concurrent employment?",
     "Was the Cabramatta branch-secretary role paid, and what were its exact dates and hours?",
     "What were the exact appointment dates, payroll entities, hours and leave for the Whelan and Carr adviser roles?",
     "What were the exact Transurban start/end dates, substantive hours and any campaign leave or overlap?",
-    "What were the precise campaign dates, pay and working status between preselection and election?"
+    "What were the precise campaign dates, pay and working status between preselection and election?",
+    "What were Woolworths and Sizzler exact dates, weekly hours and payroll entities?",
+    "Can party records reconcile primary2001 and secondary2002 secretary endpoint?",
+    "What were actual UNSW attendance/load and overlaps with student work and Whelan adviser duties before graduation1998?"
   ]
 }
