@@ -6,12 +6,12 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/282212",
   "research_status": "blocked",
-  "last_reviewed": "2026-09-29",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
     "calculation_status": "not_calculable",
-    "note": "ABC and Victorian departmental employment are evidenced, but individual full-time status, exact transitions and the 2013–2015 gap remain unresolved. No public or private total is calculable; unknown is not zero."
+    "note": "ABC,NDIA,DHHS and private CPR employment are evidenced, with additional community-radio work. Individual hours, leave and transitions remain incomplete; unknown totals are not zero."
   },
   "career_spells": [
     {
@@ -80,10 +80,10 @@
     {
       "spell_id": "282212-04",
       "employer": "Victorian Department of Health and Human Services",
-      "role": "Public servant; assistant director in reform/portfolio communications",
-      "start_date": "2015",
-      "end_date": "2019",
-      "date_precision": "year",
+      "role": "Communications manager: assistant director portfolio/reform communications; director reform communications",
+      "start_date": "2015-11",
+      "end_date": "2019-03",
+      "date_precision": "month",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "public_service",
@@ -93,9 +93,11 @@
       "source_ids": [
         "src-1",
         "src-2",
-        "src-3"
+        "src-3",
+        "src-6",
+        "src-7"
       ],
-      "evidence_note": "Official general public-service range combined with 2016 departmental chart and 2017 profile naming DHHS. Changes in title are not separately dated or treated as additional employment. Verify exact departmental tenure before calculating.",
+      "evidence_note": "Profile supplies month boundaries and director title; contemporary2016/2017 sources say assistant director. Retain both, no promotion date inferred. Nine months partly unpaid maternity leave reported in2019 speech potentially interrupts this interval; exact leave dates not established.",
       "counting_note": "Dates, employer control and/or substantive full-time status remain insufficient for a duration calculation; unknown is not zero."
     },
     {
@@ -116,6 +118,86 @@
       ],
       "evidence_note": "First service from frozen official roster; subsequent ministry part of elected career, not public-service employment.",
       "counting_note": "Excluded from the two employment headlines under the codebook."
+    },
+    {
+      "employer": "2CUZ FM, Bourke; legal employer to verify",
+      "role": "Community-radio journalist",
+      "start_date": "2002",
+      "end_date": null,
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "unknown",
+      "government_control_at_time": "unknown",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-6",
+        "src-10"
+      ],
+      "evidence_note": "Speech identifies work in2002; potential same-year ABC transition unresolved. Community radio does not establish payroll entity or hours.",
+      "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
+      "spell_id": "282212-06"
+    },
+    {
+      "employer": "CPR Communications and Public Relations Pty Limited",
+      "role": "Senior adviser",
+      "start_date": "2014-06",
+      "end_date": "2015-07",
+      "date_precision": "month",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "private_enterprise",
+      "headline_sector": "private",
+      "government_control_at_time": "private",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-7",
+        "src-8",
+        "src-9"
+      ],
+      "evidence_note": "Public profile supplies month dates; employer corroborates alumni status.2015 annual report establishes commercial-group control. Government-relations consultancy is not ministerial staffing; hours unknown.",
+      "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
+      "spell_id": "282212-07"
+    },
+    {
+      "employer": "National Disability Insurance Agency",
+      "role": "Director, media and communications",
+      "start_date": "2015-07",
+      "end_date": "2015-11",
+      "date_precision": "month",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "public_service",
+      "headline_sector": "public",
+      "government_control_at_time": "public",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-6",
+        "src-7"
+      ],
+      "evidence_note": "First speech corroborates NDIA employment; public profile dates and names role. Part of APH2015–2019 general public-service interval, not additional overlapping years.",
+      "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
+      "spell_id": "282212-08"
+    },
+    {
+      "employer": "RMIT University",
+      "role": "BA Journalism and Master of International Development student",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-1"
+      ],
+      "evidence_note": "Official qualifications; study dates and load unknown.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "282212-09"
     }
   ],
   "sources": [
@@ -168,6 +250,56 @@
       "source_type": "news",
       "locator": "More Information: Kate Thwaites",
       "note": "2019 biography corroborates ABC reporting, Oxfam and Macklin adviser roles."
+    },
+    {
+      "url": "https://www.aph.gov.au/Senators_and_Members/Members/FirstSpeeches/46th_Parliament/Kate_Thwaites",
+      "publisher": "Parliament of Australia",
+      "title": "First speech,24July2019",
+      "source_type": "government_record",
+      "locator": "Public search-index excerpts:2CUZ,NDIA and maternity-leave paragraphs",
+      "note": "Identifies2002 community-radio work and NDIA employment; nine months maternity leave, partly unpaid. Direct fetch restricted; indexed official text and published extract used.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-6"
+    },
+    {
+      "url": "https://au.linkedin.com/in/kate-thwaites-05683926",
+      "publisher": "Kate Thwaites",
+      "title": "Public professional profile",
+      "source_type": "professional_profile",
+      "locator": "Publicly indexed Experience entries:CPR,NDIA,DHHS",
+      "note": "CPR senior adviser Jun2014–Jul2015; NDIA media/communications director Jul–Nov2015; DHHS director reform communications Nov2015–Mar2019. No full-time label retrieved; did not access gated content.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-7"
+    },
+    {
+      "url": "https://www.linkedin.com/posts/brendanrowswell_together-with-rora-furman-i-am-so-proud-activity-7224960003810504704-8uJs",
+      "publisher": "CPR Communications and Public Relations / Brendan Rowswell",
+      "title": "CPR30th anniversary post",
+      "source_type": "employer",
+      "locator": "Public post, parliamentary alumni paragraph",
+      "note": "Employer names Thwaites among alumni; corroborates employment independently of her indexed profile.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-8"
+    },
+    {
+      "url": "https://www.annualreports.com/HostedData/AnnualReportArchive/e/ASX_EGG_2015.pdf",
+      "publisher": "Enero Group Limited",
+      "title": "Annual Report2015",
+      "source_type": "employer",
+      "locator": "Printed p.65 / PDF p.66, Note19 controlled entities",
+      "note": "CPR Communications and Public Relations Pty Limited listed as100% group interest in both2014 and2015. Contemporary listed commercial-group ownership supports private control.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-9"
+    },
+    {
+      "url": "https://womensagenda.com.au/latest/kate-thwaites-first-speech-in-parliament/",
+      "publisher": "Women’s Agenda / Kate Thwaites",
+      "title": "First speech edited extract",
+      "source_type": "news",
+      "locator": "2002Bourke and maternity paragraphs",
+      "note": "Accessible published extract supports community-radio work and leave; article timestamp differs from official speech date, so use parliamentary date.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-10"
     }
   ],
   "research_notes": [
@@ -175,6 +307,7 @@
     "2026-09-29 initial research checked official biography/frozen occupations, ABC election profile, Oxfam employer releases, Leadership Victoria 2017 yearbook and 2016 DHHS chart. Searches for 2014 work and department communications roles found no reliable full chronology. Public contact aggregators were not accepted as evidence.",
     "The 2016 chart names Assistant Director, Reform Communications and the 2017 yearbook names Assistant Director, Portfolio Communications; these refine a single departmental spell, not two additive jobs. A newer mental-health nurse named Kate Thwaites is a namesake and was not conflated.",
     "A first-speech search result says she now worked full time while her partner worked three days. That describes her elected-office arrangement in 2019 and does not prove earlier employment hours. Direct APH first-speech fetch returned 403; no access controls bypassed. Personal-site fetch timed out.",
-    "Year-only ranges and same-year transitions cannot be summed as exact elapsed full-time years. No missing period or hours is assigned zero. Last follow-up 2026-09-29; retain blocked status until substantive hours, gaps and date evidence can be resolved."
+    "Year-only ranges and same-year transitions cannot be summed as exact elapsed full-time years. No missing period or hours is assigned zero. Last follow-up 2026-09-29; retain blocked status until substantive hours, gaps and date evidence can be resolved.",
+    "2026-10-02 follow-up: public professional profile resolves CPR Jun2014–Jul2015, NDIA Jul–Nov2015 and DHHS Nov2015–Mar2019; employer anniversary post and contemporary Enero ownership report independently corroborate private business. First speech adds omitted2002 community-radio work and nine months partly unpaid maternity leave; exact leave interval unresolved and no deduction invented. No direct LinkedIn retry after earlier cycle429; public search index used. Own-site timeout, APH restricted fetch and AustralianPolitics verification screen were source gaps; accessible published extract/index used. Next:2013–Jun2014 chronology,2002 radio/ABC boundary,CPR/NDIA exact transitions,individual FTE and leave; yoga teaching remains qualification-only. All durations null."
   ]
 }
