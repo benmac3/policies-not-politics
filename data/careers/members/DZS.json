@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/DZS",
   "research_status": "blocked",
-  "last_reviewed": "2026-09-18",
+  "last_reviewed": "2026-10-01",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -18,17 +18,21 @@
       "spell_id": "DZS-usyd",
       "employer": "University of Sydney",
       "role": "Bachelor of Economics student",
-      "start_date": null,
+      "start_date": "1991",
       "end_date": "1994",
-      "date_precision": "mixed",
+      "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "study",
       "headline_sector": "excluded",
       "government_control_at_time": "unknown",
       "counting_status": "excluded",
-      "source_ids": ["src-minister", "src-secondary"],
-      "evidence_note": "Official ministerial biography confirms the degree; reliable secondary biography gives 1994 graduation. Enrolment date and study load were not established.",
+      "source_ids": [
+        "src-minister",
+        "src-secondary",
+        "src-fairfield2024"
+      ],
+      "evidence_note": "Official ministerial biography confirms the degree; reliable secondary biography gives 1994 graduation. Enrolment date and study load were not established. First-person25February2024 transcript explicitly dates beginning university to1991. Does not establish course load or absence of concurrent paid work.",
       "counting_note": "Study is excluded under the codebook."
     },
     {
@@ -44,7 +48,11 @@
       "headline_sector": "excluded",
       "government_control_at_time": "unknown",
       "counting_status": "excluded",
-      "source_ids": ["src-snapshot", "src-parlinfo", "src-profile"],
+      "source_ids": [
+        "src-snapshot",
+        "src-parlinfo",
+        "src-profile"
+      ],
       "evidence_note": "Official parliamentary biography supplies employer, role and year endpoints. Exact appointment/payroll dates, hours and leave are unresolved.",
       "counting_note": "Political staff employment is excluded under the codebook."
     },
@@ -61,7 +69,11 @@
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-snapshot", "src-parlinfo", "src-profile"],
+      "source_ids": [
+        "src-snapshot",
+        "src-parlinfo",
+        "src-profile"
+      ],
       "evidence_note": "Official parliamentary biography supplies employer, role and year endpoints. Exact dates, hours and leave are unresolved; representing finance workers is not employment by finance-sector businesses.",
       "counting_note": "Union employment is excluded under the codebook."
     },
@@ -78,7 +90,11 @@
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-parlinfo", "src-nsw-labor", "src-minister"],
+      "source_ids": [
+        "src-parlinfo",
+        "src-nsw-labor",
+        "src-minister"
+      ],
       "evidence_note": "Official parliamentary and government/party biographies establish nine years on Fairfield Council. Exact election and cessation dates, remuneration and hours are unresolved; the role overlaps the union and political-staff sequence.",
       "counting_note": "Elected local office is excluded under the codebook and not added to overlapping employment."
     },
@@ -95,7 +111,11 @@
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-parlinfo", "src-nsw-labor", "src-minister"],
+      "source_ids": [
+        "src-parlinfo",
+        "src-nsw-labor",
+        "src-minister"
+      ],
       "evidence_note": "Official biographies record mayoral service in 1998–1999. This is nested in councillor service; exact term dates and hours are unresolved.",
       "counting_note": "Elected office is excluded and the nested interval is not double-counted."
     },
@@ -112,13 +132,17 @@
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-parlinfo", "src-nsw-parliament", "src-secondary-profile"],
+      "source_ids": [
+        "src-parlinfo",
+        "src-nsw-parliament",
+        "src-secondary-profile"
+      ],
       "evidence_note": "Parliamentary biography and a contemporaneous 2001 NSW parliamentary record establish the presidency. It arose from council representation and overlaps councillor/employment spells; pay, exact dates and hours are unresolved.",
       "counting_note": "Council-association representative leadership is treated as elected-office/governance and excluded."
     },
     {
       "spell_id": "DZS-scully-senior",
-      "employer": "Office of the Hon. Paul Scully MLA (payroll entity unresolved)",
+      "employer": "Office of the Hon. Patrick Carl (Carl) Scully MLA (payroll entity unresolved)",
       "role": "Senior adviser",
       "start_date": "2000",
       "end_date": "2001",
@@ -129,13 +153,20 @@
       "headline_sector": "excluded",
       "government_control_at_time": "unknown",
       "counting_status": "excluded",
-      "source_ids": ["src-snapshot", "src-parlinfo", "src-profile"],
-      "evidence_note": "Official parliamentary biography supplies role and year endpoints. Exact appointment/payroll dates, hours, leave and the 2000 transition from the union are unresolved.",
+      "source_ids": [
+        "src-snapshot",
+        "src-parlinfo",
+        "src-profile",
+        "src-handbook2014",
+        "src-scully-identity",
+        "src-estimates2001"
+      ],
+      "evidence_note": "Official parliamentary biography supplies role and year endpoints. Exact appointment/payroll dates, hours, leave and the 2000 transition from the union are unresolved. Follow-up corrects the previous unsupported expansion to Paul Scully: historical Handbook says PC Scully and NSW Hansard identifies Patrick Carl Scully. September2001 estimates report lists Bowen as Senior Policy Officer and Lisa Hunt as Chief of Staff; this supports an earlier role observation without fixing his promotion date.2001 chief-of-staff commencement remains the official year-level claim.",
       "counting_note": "Political staff employment is excluded under the codebook."
     },
     {
       "spell_id": "DZS-scully-chief",
-      "employer": "Office of the Hon. Paul Scully MLA (payroll entity unresolved)",
+      "employer": "Office of the Hon. Patrick Carl (Carl) Scully MLA (payroll entity unresolved)",
       "role": "Chief of Staff",
       "start_date": "2001",
       "end_date": "2004",
@@ -146,8 +177,15 @@
       "headline_sector": "excluded",
       "government_control_at_time": "unknown",
       "counting_status": "excluded",
-      "source_ids": ["src-snapshot", "src-parlinfo", "src-profile"],
-      "evidence_note": "Official parliamentary biography supplies role and year endpoints. Exact promotion/cessation dates, payroll entity, hours and campaign leave are unresolved.",
+      "source_ids": [
+        "src-snapshot",
+        "src-parlinfo",
+        "src-profile",
+        "src-handbook2014",
+        "src-scully-identity",
+        "src-estimates2001"
+      ],
+      "evidence_note": "Official parliamentary biography supplies role and year endpoints. Exact promotion/cessation dates, payroll entity, hours and campaign leave are unresolved. Follow-up corrects the previous unsupported expansion to Paul Scully: historical Handbook says PC Scully and NSW Hansard identifies Patrick Carl Scully. September2001 estimates report lists Bowen as Senior Policy Officer and Lisa Hunt as Chief of Staff; this supports an earlier role observation without fixing his promotion date.2001 chief-of-staff commencement remains the official year-level claim.",
       "counting_note": "Political staff employment is excluded under the codebook."
     },
     {
@@ -163,8 +201,13 @@
       "headline_sector": "excluded",
       "government_control_at_time": "unknown",
       "counting_status": "excluded",
-      "source_ids": ["src-minister", "src-une", "src-secondary-profile"],
-      "evidence_note": "Qualifications and institutions are corroborated, but enrolment/completion dates and study load are unresolved. No employment status is inferred from study.",
+      "source_ids": [
+        "src-minister",
+        "src-une",
+        "src-secondary-profile",
+        "src-une-alumni"
+      ],
+      "evidence_note": "Qualifications and institutions are corroborated, but enrolment/completion dates and study load are unresolved. No employment status is inferred from study. UNE now explicitly states diploma completion in2018, during federal service. This combined spell retains unknown overall boundaries because the Griffith interval is unresolved;2018 is not applied to both qualifications.",
       "counting_note": "Study is excluded under the codebook."
     },
     {
@@ -180,9 +223,70 @@
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-snapshot", "src-parlinfo", "src-minister"],
+      "source_ids": [
+        "src-snapshot",
+        "src-parlinfo",
+        "src-minister"
+      ],
       "evidence_note": "Official sources record continuous House service from 9 October 2004, first for Prospect and later McMahon. Ministerial/shadow appointments are nested duties, not additive employment spells. Null end means ongoing at the frozen snapshot.",
       "counting_note": "Federal elected office is excluded under the codebook."
+    },
+    {
+      "employer": "Australian Labor Party",
+      "role": "Secretary, Smithfield Branch",
+      "start_date": "1991",
+      "end_date": "2005",
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "party_organisation",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-handbook2020"
+      ],
+      "evidence_note": "Official Handbook records party office; pay, hours and exact boundaries unknown. Overlaps study, staff, union and council roles; no additive full-time employment inferred.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "DZS-party-smithfield"
+    },
+    {
+      "employer": "Australian Labor Party",
+      "role": "President, Fairfield State Electorate Council",
+      "start_date": "1992",
+      "end_date": "2005",
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "party_organisation",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-handbook2020"
+      ],
+      "evidence_note": "Official Handbook records party office; pay, hours and exact boundaries unknown. Overlaps study, staff, union and council roles; no additive full-time employment inferred.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "DZS-party-fairfield-sec"
+    },
+    {
+      "employer": "Australian Labor Party",
+      "role": "Assistant General Returning Officer, NSW",
+      "start_date": "1993",
+      "end_date": "2004",
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "party_organisation",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-handbook2020"
+      ],
+      "evidence_note": "Official Handbook records party office; pay, hours and exact boundaries unknown. Overlaps study, staff, union and council roles; no additive full-time employment inferred.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "DZS-party-returning"
     }
   ],
   "sources": [
@@ -275,6 +379,66 @@
       "source_type": "news",
       "locator": "Early-life and education profile",
       "note": "Secondary support for 1994 Bachelor of Economics completion."
+    },
+    {
+      "url": "https://www.aph.gov.au/~/media/05%20About%20Parliament/54%20Parliamentary%20Depts/544%20Parliamentary%20Library/Handbook/handbook_44th_parliament.pdf?la=en",
+      "publisher": "Parliament of Australia",
+      "title": "Parliamentary Handbook2014",
+      "source_type": "government_record",
+      "locator": "Bowen biography: occupations before Parliament",
+      "note": "Historical biography identifies PC Scully. Current abbreviated P Scully must not be expanded as Paul.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-handbook2014"
+    },
+    {
+      "url": "https://www.parliament.nsw.gov.au/parliamentary-business/hansard/hansard-full-details?id=HANSARD-1323879322-27906&section=HANSARD-1323879322-85455",
+      "publisher": "Parliament of New South Wales",
+      "title": "Legislative Assembly Hansard27June2002",
+      "source_type": "government_record",
+      "locator": "Transport and Roads minister identity",
+      "note": "Indexed official record names Patrick Carl Scully.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-scully-identity"
+    },
+    {
+      "url": "https://www.parliament.nsw.gov.au/lcdocs/inquiries/1948/Budget%20Estimates%202001-02%20%28gpsc4%29.pdf",
+      "publisher": "Parliament of New South Wales",
+      "title": "Budget Estimates2001–02, General Purpose Standing Committee4, Report6 September2001",
+      "source_type": "government_record",
+      "locator": "Printed p23 ministerial staff attending Transport and Roads estimates",
+      "note": "Indexed PDF names Bowen as Senior Policy Officer; direct open returned500 inaccessible redirected artifact. Not used as exact promotion-date evidence.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-estimates2001"
+    },
+    {
+      "url": "https://ministers.education.gov.au/clare/press-conference-fairfield-connect-university-hub-australian-universities-accord-report",
+      "publisher": "Australian Government Department of Education",
+      "title": "Fairfield Connect transcript25February2024",
+      "source_type": "government_record",
+      "locator": "Bowen opening remarks; later Clare remarks separately attributed",
+      "note": "Bowen states university entry in1991. Trolley-collector recollection is Clare’s, not Bowen’s.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-fairfield2024"
+    },
+    {
+      "url": "https://www.une.edu.au/alumni/meet-our-alumni",
+      "publisher": "University of New England",
+      "title": "Meet our alumni",
+      "source_type": "other",
+      "locator": "The Honourable Chris Bowen MP",
+      "note": "Institution confirms diploma completion in2018.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-une-alumni"
+    },
+    {
+      "url": "https://www.aph.gov.au/-/media/05_About_Parliament/54_Parliamentary_Depts/544_Parliamentary_Library/Handbook/handbook_46th_parliament.pdf",
+      "publisher": "Parliament of Australia",
+      "title": "Parliamentary Handbook2020",
+      "source_type": "government_record",
+      "locator": "Printed p47 Bowen, Party Positions",
+      "note": "Year-dated party office history; no remuneration or hours information.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-handbook2020"
     }
   ],
   "open_questions": [
@@ -282,5 +446,12 @@
     "What are the exact appointment dates, payroll entities, substantive hours, leave and campaign breaks for the 1994–2004 staff and union sequence?",
     "What were the exact term/remuneration arrangements for Fairfield Council, mayor and WSROC roles, and did any constitute separate paid employment?",
     "When were the Griffith and UNE postgraduate qualifications undertaken, and did they overlap paid work?"
+  ],
+  "research_notes": [
+    "Systematic follow-up2026-10-01; repaired missing required research_notes and preserved supported existing entries. Material correction:2000–2004 staff employer was Patrick Carl Scully, not Paul Scully. The frozen roster remains unchanged; the record documents resolution of the abbreviated historical name using primary sources.",
+    "Added contemporaneous2001 ministerial staff-title observation, three party offices,1991 university commencement and2018 UNE diploma completion. Political staff, union, party, elected office and study remain excluded under the codebook; no claim that this exhaustive-looking sequence proves zero private/public employment.",
+    "Searched primary parliamentary historical handbooks, NSW estimates/Hansard, union references, government personal recollections, university alumni records and early-job/leave queries. No personal full-time or campaign-leave evidence found. Budget PDF direct open500 and APH profile403 were source-specific; publicly indexed primary historical records remained available. NSW dynamic Hansard page lacked text on open; indexed version supplied identity.",
+    "Excluded false leads: the25February2024 transcript’s1987 Woolworths trolley work belongs to Jason Clare; music executive, US electrician, UK academic and ACT project-officer namesakes were not matched to this member. Newspaper paper-run snippet mixes two leadership candidates and is insufficiently attributable. Partisan claims of no private experience do not establish exhaustive employment history.",
+    "Unresolved priorities: pre1994 jobs and university-period paid work; precise staff/FSU boundaries and hours/leave;2001 senior-policy to chief-of-staff transition; council and WSROC term/payment records; Griffith study interval; party remuneration. Last follow-up2026-10-01; advance across the nationwide queue before repeating exhausted broad searches."
   ]
 }
