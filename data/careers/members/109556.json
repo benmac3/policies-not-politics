@@ -6,7 +6,7 @@
   "snapshot_party": "Liberal Party of Australia",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/109556",
   "research_status": "blocked",
-  "last_reviewed": "2026-09-25",
+  "last_reviewed": "2026-10-01",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -27,7 +27,9 @@
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-aph-current"],
+      "source_ids": [
+        "src-aph-current"
+      ],
       "evidence_note": "The current parliamentary biography records party membership from 1992 and offices including Berowra conference vice-president (2009–2016), Fox Valley branch secretary (2010–2016), Hornsby conference president (2014–2016) and NSW Division vice-president (2015–2016). It does not state remuneration or an employment relationship.",
       "counting_note": "Party membership and organisational offices are excluded under the codebook."
     },
@@ -44,7 +46,11 @@
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-snapshot", "src-aph-current", "src-secondary"],
+      "source_ids": [
+        "src-snapshot",
+        "src-aph-current",
+        "src-secondary"
+      ],
       "evidence_note": "Official biographies list the two UNSW degrees but do not give enrolment or graduation dates, study load or overlap with council and party activity.",
       "counting_note": "Study is excluded under the codebook."
     },
@@ -61,7 +67,11 @@
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-snapshot", "src-aph-current", "src-secondary"],
+      "source_ids": [
+        "src-snapshot",
+        "src-aph-current",
+        "src-secondary"
+      ],
       "evidence_note": "The frozen and current parliamentary biographies establish 1995–1999 council service. Secondary chronology, citing Woollahra Council's alderman and councillor directory, supplies the election-day boundaries. The office overlapped university study and party activity.",
       "counting_note": "Local elected office is excluded under the codebook."
     },
@@ -78,7 +88,11 @@
       "headline_sector": "excluded",
       "government_control_at_time": "unknown",
       "counting_status": "excluded",
-      "source_ids": ["src-aph-current", "src-first-speech", "src-secondary"],
+      "source_ids": [
+        "src-aph-current",
+        "src-first-speech",
+        "src-secondary"
+      ],
       "evidence_note": "The parliamentary biography records election as a 1998 Constitutional Convention delegate and membership of the 1999 official government No Case Committee. The first speech corroborates the delegate and later campaign work. It does not establish employment, remuneration or hours.",
       "counting_note": "Campaign and representative political activity are excluded from the employment headline."
     },
@@ -95,7 +109,11 @@
       "headline_sector": "public",
       "government_control_at_time": "public",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-snapshot", "src-aph-current", "src-first-speech"],
+      "source_ids": [
+        "src-snapshot",
+        "src-aph-current",
+        "src-first-speech"
+      ],
       "evidence_note": "The frozen and current parliamentary biographies place the High Court associateship in 2000; Leeser's first speech identifies Justice Callinan as a former employer. Exact appointment dates, hours, leave and employment status are not published in the sources reviewed.",
       "counting_note": "The public employer is established, but a year label and role title do not prove a countable full-time interval."
     },
@@ -112,7 +130,11 @@
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-snapshot", "src-aph-current", "src-secondary"],
+      "source_ids": [
+        "src-snapshot",
+        "src-aph-current",
+        "src-secondary"
+      ],
       "evidence_note": "Official biographies place the adviser role in 2001. Public sources reviewed do not supply exact dates, payroll basis, hours, leave or overlap with legal study or subsequent private practice.",
       "counting_note": "Ministerial political staff work is excluded under the codebook."
     },
@@ -129,7 +151,11 @@
       "headline_sector": "private",
       "government_control_at_time": "private",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-snapshot", "src-aph-current", "src-secondary"],
+      "source_ids": [
+        "src-snapshot",
+        "src-aph-current",
+        "src-secondary"
+      ],
       "evidence_note": "The official parliamentary chronology identifies the firm, role and 2002–2004 years. Secondary and public event biographies corroborate the predecessor firm's current identity. Exact start/end dates, admission timing, hours, leave and any overlap with the adjoining adviser roles remain unresolved.",
       "counting_note": "Private legal employment is supported, but year-only boundaries and missing substantive full-time evidence prevent a headline duration."
     },
@@ -146,7 +172,12 @@
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-snapshot", "src-aph-current", "src-declaration", "src-secondary"],
+      "source_ids": [
+        "src-snapshot",
+        "src-aph-current",
+        "src-declaration",
+        "src-secondary"
+      ],
       "evidence_note": "The official chronology places the special-adviser role from 2004 to 2006; a professional biography specifies constitutional law. Exact boundaries, payroll basis, hours, leave and the transition from Mallesons are unresolved.",
       "counting_note": "Ministerial political staff work is excluded under the codebook."
     },
@@ -154,17 +185,24 @@
       "spell_id": "109556-menzies",
       "employer": "Menzies Research Centre",
       "role": "Executive Director",
-      "start_date": "2006",
+      "start_date": "2006-02",
       "end_date": "2012",
-      "date_precision": "year",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "nonprofit",
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-snapshot", "src-aph-current", "src-first-speech", "src-austlii-2006", "src-declaration"],
-      "evidence_note": "Official biographies give 2006–2012. A 2006 constitutional-society publication says Leeser had recently been appointed, his 2016 first speech describes running the centre for six and a half years, and a later professional biography confirms the same year range. The centre is a party-aligned policy institute; exact dates, hours, leave and legal employment terms remain unresolved.",
+      "source_ids": [
+        "src-snapshot",
+        "src-aph-current",
+        "src-first-speech",
+        "src-austlii-2006",
+        "src-declaration",
+        "src-menzies-book"
+      ],
+      "evidence_note": "Official biographies give 2006–2012. A 2006 constitutional-society publication says Leeser had recently been appointed, his 2016 first speech describes running the centre for six and a half years, and a later professional biography confirms the same year range. The centre is a party-aligned policy institute; exact dates, hours, leave and legal employment terms remain unresolved. Contemporaneous employer-published 2009 book refines commencement to February 2006 and identifies the legal entity as Menzies Research Centre Limited, ACN 067 379 684. Funding does not change control coding.",
       "counting_note": "Think-tank/nonprofit employment is displayed separately and excluded from the narrow public/private headline."
     },
     {
@@ -180,7 +218,11 @@
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-snapshot", "src-aph-current", "src-declaration"],
+      "source_ids": [
+        "src-snapshot",
+        "src-aph-current",
+        "src-declaration"
+      ],
       "evidence_note": "Official and professional biographies identify the visiting fellowship in 2006–2007, overlapping the Menzies Research Centre role. They do not state appointment dates, location, funding, employment terms, hours or leave from Menzies.",
       "counting_note": "The fellowship is treated as research/professional development and excluded; it is not assumed to be paid employment."
     },
@@ -197,13 +239,20 @@
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-snapshot", "src-aph-current", "src-abc-election", "src-declaration", "src-secondary"],
-      "evidence_note": "The frozen extract and current parliamentary biography record ACU senior-executive service from 2012 to 2016. Contemporary secondary synthesis, citing an ACU appointment notice, specifies the title and a July 2012 start; the ABC 2016 election guide says he held that role immediately before preselection. The exact start day, 2016 cessation date, hours, leave and campaign arrangement are unresolved.",
+      "source_ids": [
+        "src-snapshot",
+        "src-aph-current",
+        "src-abc-election",
+        "src-declaration",
+        "src-secondary",
+        "src-acu-2016"
+      ],
+      "evidence_note": "The frozen extract and current parliamentary biography record ACU senior-executive service from 2012 to 2016. Contemporary secondary synthesis, citing an ACU appointment notice, specifies the title and a July 2012 start; the ABC 2016 election guide says he held that role immediately before preselection. The exact start day, 2016 cessation date, hours, leave and campaign arrangement are unresolved. Employer annual report confirms replacement in mid-2016, but neither replacement timing nor election day is treated as the member’s exact employment cessation.",
       "counting_note": "University employment is excluded from the narrow headline under the codebook, irrespective of seniority."
     },
     {
-      "spell_id": "109556-boards",
-      "employer": "Mercy Health, Teach For Australia and Playwriting Australia",
+      "spell_id": "109556-mercy-health",
+      "employer": "Mercy Health",
       "role": "Board member/company director",
       "start_date": null,
       "end_date": "2016",
@@ -214,8 +263,51 @@
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-snapshot", "src-consilium"],
-      "evidence_note": "The frozen official extract lists an undated company-director occupation. A public professional biography says Leeser served on the boards of Mercy Health, Teach For Australia and Playwriting Australia before entering Parliament. It does not allocate dates, distinguish formal directorships from other board service, or state remuneration, hours or operational employment.",
+      "source_ids": [
+        "src-snapshot",
+        "src-consilium"
+      ],
+      "evidence_note": "Split from original combined board entry. Professional biography identifies this pre-parliamentary board role, but no start, precise cessation, remuneration or operational employment. Original 2016 endpoint is a pre-election upper-bound description, not an exact departure date.",
+      "counting_note": "Nonprofit board governance is excluded and is not treated as substantive employment."
+    },
+    {
+      "spell_id": "109556-teach-australia",
+      "employer": "Teach For Australia",
+      "role": "Board member/company director",
+      "start_date": null,
+      "end_date": "2016",
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "nonprofit",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-snapshot",
+        "src-consilium"
+      ],
+      "evidence_note": "Split from original combined board entry. Professional biography identifies this pre-parliamentary board role, but no start, precise cessation, remuneration or operational employment. Original 2016 endpoint is a pre-election upper-bound description, not an exact departure date.",
+      "counting_note": "Nonprofit board governance is excluded and is not treated as substantive employment."
+    },
+    {
+      "spell_id": "109556-playwriting",
+      "employer": "Playwriting Australia",
+      "role": "Board member/company director",
+      "start_date": null,
+      "end_date": "2016",
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "nonprofit",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-snapshot",
+        "src-consilium"
+      ],
+      "evidence_note": "Split from original combined board entry. Professional biography identifies this pre-parliamentary board role, but no start, precise cessation, remuneration or operational employment. Original 2016 endpoint is a pre-election upper-bound description, not an exact departure date.",
       "counting_note": "Nonprofit board governance is excluded and is not treated as substantive employment."
     },
     {
@@ -231,7 +323,10 @@
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-abc-election", "src-secondary"],
+      "source_ids": [
+        "src-abc-election",
+        "src-secondary"
+      ],
       "evidence_note": "The secondary chronology reports Liberal preselection in April 2016 and the ABC election guide identifies him as the Liberal candidate before the 2 July election. The exact preselection date, remuneration, campaign hours and overlap with ACU employment are unresolved.",
       "counting_note": "Party candidacy and campaign activity are excluded under the codebook."
     },
@@ -248,9 +343,166 @@
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-snapshot", "src-aph-current", "src-member"],
+      "source_ids": [
+        "src-snapshot",
+        "src-aph-current",
+        "src-member"
+      ],
       "evidence_note": "The frozen roster and current parliamentary profile record election on 2 July 2016 and subsequent re-elections. Parliamentary, shadow-ministerial and committee responsibilities are nested within elected service.",
       "counting_note": "Federal elected office is excluded under the codebook."
+    },
+    {
+      "employer": "Mercy Public Hospitals Inc",
+      "role": "Board member",
+      "start_date": "2015-03",
+      "end_date": null,
+      "date_precision": "month",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "nonprofit",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-mercy-2015"
+      ],
+      "evidence_note": "Employer annual report dates this board term from March 2015. Do not apply that date to the separate Mercy Health parent-group role. End, remuneration and meeting load unknown.",
+      "counting_note": "Governance/community/nonprofit role excluded; paid status not presumed.",
+      "spell_id": "109556-mercy-public"
+    },
+    {
+      "employer": "Emanuel Synagogue cheder",
+      "role": "Hebrew and religion teacher",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "nonprofit",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-ajn-2016"
+      ],
+      "evidence_note": "Reported former teaching role; dates, pay and hours unspecified.",
+      "counting_note": "Governance/community/nonprofit role excluded; paid status not presumed.",
+      "spell_id": "109556-emanuel-teaching"
+    },
+    {
+      "employer": "NSW Jewish Board of Deputies",
+      "role": "Executive member; community relations committee chair",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "nonprofit",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-ajn-2016"
+      ],
+      "evidence_note": "Reported executive role and recently ended committee chairmanship in April 2016; exact bounds and remuneration unknown.",
+      "counting_note": "Governance/community/nonprofit role excluded; paid status not presumed.",
+      "spell_id": "109556-jbod"
+    },
+    {
+      "employer": "Executive Council of Australian Jewry",
+      "role": "Councillor",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "nonprofit",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-ajn-2016"
+      ],
+      "evidence_note": "Reported council role in April 2016; dates and remuneration unknown.",
+      "counting_note": "Governance/community/nonprofit role excluded; paid status not presumed.",
+      "spell_id": "109556-ecaj"
+    },
+    {
+      "employer": "Parramatta Synagogue",
+      "role": "Board member",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "nonprofit",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-ajn-2016"
+      ],
+      "evidence_note": "Reported board role in April 2016; dates and remuneration unknown.",
+      "counting_note": "Governance/community/nonprofit role excluded; paid status not presumed.",
+      "spell_id": "109556-parramatta-synagogue"
+    },
+    {
+      "employer": "Paul Ramsay / legal commissioning entity unresolved",
+      "role": "Founding scoping-study researcher",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "unknown",
+      "government_control_at_time": "unknown",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-warrane-2017"
+      ],
+      "evidence_note": "First-person event account describes a commissioned study of overseas and Australian university programs before the centre’s establishment. Contracting party, pay, dates, hours and relationship to ACU duties unresolved; no separate full-time employment inferred.",
+      "counting_note": "Pay, employer, boundaries and hours unresolved; no duration calculated.",
+      "spell_id": "109556-ramsay-scoping"
+    },
+    {
+      "employer": "Ramsay Centre for Western Civilisation Limited",
+      "role": "Non-executive director; nominations-committee member",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "nonprofit",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-ramsay-2018"
+      ],
+      "evidence_note": "2018 directors report establishes governance during reporting period; original appointment and cessation unknown. Later resignation appears in search leads but was not independently resolved.",
+      "counting_note": "Governance/community/nonprofit role excluded; paid status not presumed.",
+      "spell_id": "109556-ramsay-board"
+    },
+    {
+      "employer": "National Library of Australia",
+      "role": "Council member; parliamentary representative",
+      "start_date": "2016-11",
+      "end_date": null,
+      "date_precision": "month",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "public_service",
+      "headline_sector": "excluded",
+      "government_control_at_time": "public",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-consilium",
+        "src-nla-2017-lead"
+      ],
+      "evidence_note": "Professional biography dates election to November 2016; indexed official report specifies 10 November, pending full-page verification. Subsequent terms and cessation unresolved; governance overlaps elected office.",
+      "counting_note": "Governance/community/nonprofit role excluded; paid status not presumed.",
+      "spell_id": "109556-nla"
     }
   ],
   "sources": [
@@ -343,6 +595,76 @@
       "source_type": "other",
       "locator": "Early life, career and parliament sections",
       "note": "Secondary synthesis supplies precise Woollahra Council dates, April 2016 preselection and the July 2012 ACU start, with underlying government, university and media citations. Primary follow-up remains necessary where exact dates are not independently accessible."
+    },
+    {
+      "url": "https://www.mannwest.com/wp-content/uploads/2017/01/Dont-Leave-us-with-the-Bill.pdf",
+      "publisher": "Menzies Research Centre",
+      "title": "Don’t Leave Us with the Bill, 2009",
+      "source_type": "employer",
+      "locator": "Printed page xix, PDF page 20, contributor biography; copyright page",
+      "note": "Dates executive-director commencement to February 2006. Centre is a company limited by guarantee, ACN 067 379 684; a government grant is not government control.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-menzies-book"
+    },
+    {
+      "url": "https://vgls.sdp.sirsidynix.net.au/client/search/asset/1283199",
+      "publisher": "Mercy Public Hospitals Inc / Victorian Government Library Service",
+      "title": "Report of Operations 2014/15",
+      "source_type": "employer",
+      "locator": "Printed page 8, PDF page 5, governance structure",
+      "note": "Lists Leeser’s Mercy Public Hospitals Inc board term commencing March 2015; distinct from an undated Mercy Health parent-group appointment.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-mercy-2015"
+    },
+    {
+      "url": "https://www.acu.edu.au/-/media/feature/pagecontent/richtext/about-acu/leadership-and-governance/_docs/annual-reports/2016_annual_report_web_f.pdf?hash=8592F4CFB57D9C4225F314E8145E28FC&rev=98b824e86e1243a3855cb9ada1731a3a",
+      "publisher": "Australian Catholic University",
+      "title": "Annual Report 2016",
+      "source_type": "employer",
+      "locator": "PDF page 40, Government, Policy & Strategy",
+      "note": "Replacement Ashley Midalia appointed in mid-2016; does not establish Leeser’s actual cessation day or campaign leave.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-acu-2016"
+    },
+    {
+      "url": "https://www.australianjewishnews.com/leeser-sets-sights-canberra/",
+      "publisher": "Australian Jewish News",
+      "title": "Leeser sets sights on Canberra, 21 April 2016",
+      "source_type": "news",
+      "locator": "Community positions paragraph",
+      "note": "Identifies Emanuel Synagogue teaching and separate JBOD, ECAJ and Parramatta Synagogue roles; no employment terms.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-ajn-2016"
+    },
+    {
+      "url": "https://warrane.unsw.edu.au/mp-julian-leeser-on-liberal-arts-being-yourself-and-helping-people/",
+      "publisher": "Warrane College, UNSW",
+      "title": "On liberal arts, being yourself, and helping people, 11 October 2017 event",
+      "source_type": "professional_profile",
+      "locator": "Scoping study and ACU/Mercy passages",
+      "note": "Reports Ramsay commissioned a founding scoping study involving overseas university visits. Rounded duration and Mercy-board recollection do not establish dates, hours or a separate paid contract.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-warrane-2017"
+    },
+    {
+      "url": "https://acncpubfilesprodstorage.blob.core.windows.net/public/7addae91-3aaf-e811-a95e-000d3ad24c60-178a8ce3-6a8d-4356-8ae7-0f4dba5b6873-Annual%20Report-d01c5142-5987-e911-a973-000d3ad24077-2018_Financial_Statements_and_Auditors_Report.pdf",
+      "publisher": "Ramsay Centre for Western Civilisation Limited / ACNC",
+      "title": "Financial Statements and Auditors Report 2018",
+      "source_type": "government_record",
+      "locator": "PDF pages 2–3, directors report; visually inspected scanned pages",
+      "note": "Names Leeser as non-executive director and nominations-committee member. No appointment date stated in inspected section.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-ramsay-2018"
+    },
+    {
+      "url": "https://www.nla.gov.au/sites/default/files/annual_report_2016-2017_1.pdf",
+      "publisher": "National Library of Australia",
+      "title": "Annual Report 2016–2017",
+      "source_type": "government_record",
+      "locator": "Search-index council entry; original now redirects to annual-report index",
+      "note": "Indexed entry gives House election 10 November 2016. Archived PDF failed retrieval; month corroborated by existing Consilium professional biography. Day retained as a lead pending full-page inspection.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-nla-2017-lead"
     }
   ],
   "research_notes": [
@@ -350,7 +672,9 @@
     "High Court service is public-sector employment and Mallesons is private-sector employment, but neither is converted to a duration because exact dates, hours and leave are missing.",
     "Ministerial adviser roles are classified as political staff and excluded; Menzies Research Centre is classified as nonprofit/think-tank work and ACU as university work, also excluded under the codebook.",
     "The 2006–2007 Harvard fellowship overlaps the Menzies role and is treated as fellowship/professional development, not presumed employment.",
-    "The undated official company-director label is linked cautiously to publicly identified nonprofit boards without inferring pay, workload or operational employment."
+    "The undated official company-director label is linked cautiously to publicly identified nonprofit boards without inferring pay, workload or operational employment.",
+    "2026-10-01 follow-up: Menzies commencement refined to February 2006; original combined boards separated and Mercy Public Hospitals March 2015 appointment added without conflating the parent organisation. Added religious teaching/community roles, Ramsay scoping work and non-executive governance, and NLA parliamentary governance.",
+    "Searched legal-employer and court chronology, full-time wording, Menzies publications, ACU/Mercy annual reports, charity filings and library reports. Full-time searches found staff vacancies rather than evidence about Leeser. ACNC scanned report inspected visually after one copy failed retrieval. NLA old PDF redirects and archive failed; exact appointment day remains a labelled indexed lead. No supported High Court/Mallesons full-time interval, leave history or dates found."
   ],
   "open_questions": [
     "What were the exact dates, hours, leave and employment status for the High Court associateship and Mallesons solicitor role?",
@@ -358,6 +682,9 @@
     "What were the exact Menzies Research Centre and ACU boundaries, hours and leave, including the 2006–2007 Harvard arrangement and the 2016 campaign transition?",
     "Which legal offices and dates comprise the official company-director occupation, and were the Mercy Health, Teach For Australia or Playwriting Australia roles remunerated or operational?",
     "What were the UNSW enrolment/graduation dates and overlaps with Woollahra Council, party and campaign activity?",
-    "Was the 2016 preselection/campaign remunerated, and when did ACU employment cease relative to the campaign and election?"
+    "Was the 2016 preselection/campaign remunerated, and when did ACU employment cease relative to the campaign and election?",
+    "Was the Ramsay founding study paid separately, by which entity, on what dates and hours, or undertaken within ACU employment?",
+    "What were the Ramsay board appointment/cessation dates and fees, and National Library Council reappointments and end?",
+    "Can separate Mercy Health and Mercy Public Hospitals appointments, teaching and community-governance dates and remuneration be established?"
   ]
 }
