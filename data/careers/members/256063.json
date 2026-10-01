@@ -6,7 +6,7 @@
   "snapshot_party": "Liberal Party of Australia",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/256063",
   "research_status": "blocked",
-  "last_reviewed": "2026-09-18",
+  "last_reviewed": "2026-10-01",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -17,7 +17,7 @@
     {
       "spell_id": "256063-anu",
       "employer": "Australian National University",
-      "role": "Accounting study",
+      "role": "Bachelor of Arts (International Relations) and Master of Business (Accounting) study",
       "start_date": null,
       "end_date": null,
       "date_precision": "unknown",
@@ -27,8 +27,13 @@
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-parlinfo", "src-secondary"],
-      "evidence_note": "Official biography records a BAcc from ANU; enrolment/completion dates, study load and concurrent work are unresolved.",
+      "source_ids": [
+        "src-parlinfo",
+        "src-secondary",
+        "src-personal",
+        "src-fix2014"
+      ],
+      "evidence_note": "Current personal biography and contemporaneous2014 conference profile identify two ANU qualifications. Previous BAcc claim was an unsupported transcription and is corrected. Both qualifications held by the2014 conference; enrolment/completion dates, study load and concurrent work unknown.",
       "counting_note": "Study is excluded under the codebook."
     },
     {
@@ -44,8 +49,14 @@
       "headline_sector": "private",
       "government_control_at_time": "private",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-snapshot", "src-personal", "src-party", "src-secondary"],
-      "evidence_note": "Official frozen biography records employment in 2008; biographies identify accounting/internal audit. Exact dates, employing EY entity, hours and leave are unresolved.",
+      "source_ids": [
+        "src-snapshot",
+        "src-personal",
+        "src-party",
+        "src-secondary",
+        "src-fix2014"
+      ],
+      "evidence_note": "Official frozen biography records employment in 2008; biographies identify accounting/internal audit. Exact dates, employing EY entity, hours and leave are unresolved. Contemporary2014 profile identifies EY Advisory and Government Practice; this does not resolve legal employing entity or full-time status.",
       "counting_note": "Private control is clear, but year-only dates and unknown full-time status do not support a headline duration."
     },
     {
@@ -61,7 +72,12 @@
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-snapshot", "src-fsc", "src-secondary"],
+      "source_ids": [
+        "src-snapshot",
+        "src-fsc",
+        "src-secondary",
+        "src-fsc-departure"
+      ],
       "evidence_note": "Official frozen biography supplies title and year endpoints. FSC describes itself as a peak body for financial-services member companies. Exact dates, title transitions, hours and leave are unresolved.",
       "counting_note": "Employer-association work is excluded under the codebook."
     },
@@ -70,16 +86,21 @@
       "employer": "Financial Services Council",
       "role": "Director of Policy (also reported as Policy and Global Markets)",
       "start_date": "2014",
-      "end_date": "2017",
-      "date_precision": "year",
+      "end_date": "2016-11",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "employer_association",
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-snapshot", "src-fsc", "src-secondary"],
-      "evidence_note": "Official frozen biography supplies title and year endpoints; other biographies place departure in 2016, creating a year-label ambiguity retained for follow-up. Exact dates, hours and leave are unresolved.",
+      "source_ids": [
+        "src-snapshot",
+        "src-fsc",
+        "src-secondary",
+        "src-fsc-departure"
+      ],
+      "evidence_note": "Frozen official biography gave2014–2017. Employer announcement30September2016 says he resigned and would leave at end of November, corroborated by subsequent Menzies commencement. Endpoint revised to announced2016-11, retaining conflict explicitly; actual last paid day, leave and any continuing relationship into2017 remain unverified. Announcement confirms director appointment2014.",
       "counting_note": "Employer-association work is excluded under the codebook."
     },
     {
@@ -95,8 +116,12 @@
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-parlinfo", "src-secondary"],
-      "evidence_note": "Qualification is documented and reportedly undertaken during FSC employment; dates and study load are unresolved.",
+      "source_ids": [
+        "src-parlinfo",
+        "src-secondary",
+        "src-fix2014"
+      ],
+      "evidence_note": "Qualification is documented and reportedly undertaken during FSC employment; dates and study load are unresolved. Qualification already held at2014 conference; this observation does not supply course dates.",
       "counting_note": "Study is excluded; no employment FTE inferred."
     },
     {
@@ -104,7 +129,7 @@
       "employer": "Menzies Research Centre",
       "role": "Director of Policy and Research / Policy Director",
       "start_date": "2016-11",
-      "end_date": "2017-08",
+      "end_date": "2017-04",
       "date_precision": "month",
       "employment_status": "unknown",
       "fte_fraction": null,
@@ -112,8 +137,13 @@
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-parlinfo", "src-secondary", "src-afr"],
-      "evidence_note": "Official biography records the role in 2016–2017; secondary sources place commencement in November 2016 and the subsequent BCA role in August 2017. Exact days, hours and leave remain unresolved.",
+      "source_ids": [
+        "src-parlinfo",
+        "src-secondary",
+        "src-afr",
+        "src-linkedin"
+      ],
+      "evidence_note": "Public professional-profile index explicitly supplies November2016–April2017. This replaces the earlier unsupported August2017 end inferred from commencement of a different employer. Exact days, employment/secondment relationship to party, substantive hours and leave unknown.",
       "counting_note": "Liberal-aligned party-policy organisation work is excluded under the codebook."
     },
     {
@@ -129,7 +159,11 @@
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-parlinfo", "src-afr", "src-guardian"],
+      "source_ids": [
+        "src-parlinfo",
+        "src-afr",
+        "src-guardian"
+      ],
       "evidence_note": "Contemporaneous reporting and the official biography establish acting appointment from April 2017. Exact cessation date, employment/secondment relationship to Menzies, hours and leave are unresolved.",
       "counting_note": "Party-organisation employment is excluded under the codebook."
     },
@@ -146,7 +180,11 @@
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-party", "src-speech", "src-parlinfo"],
+      "source_ids": [
+        "src-party",
+        "src-speech",
+        "src-parlinfo"
+      ],
       "evidence_note": "Official party biography and first speech establish national-director responsibility during the 2017 postal survey. Payroll, exact dates, hours and overlap with BCA/Menzies are unresolved.",
       "counting_note": "Party/campaign work is excluded and not added to overlapping spells."
     },
@@ -163,7 +201,12 @@
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-snapshot", "src-linkedin", "src-personal", "src-party"],
+      "source_ids": [
+        "src-snapshot",
+        "src-linkedin",
+        "src-personal",
+        "src-party"
+      ],
       "evidence_note": "Official frozen biography gives 2017–2018; public professional-profile index refines the role to August 2017–August 2018. Hours and leave are unresolved.",
       "counting_note": "Employer-association work is excluded under the codebook."
     },
@@ -180,7 +223,10 @@
       "headline_sector": "private",
       "government_control_at_time": "private",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-linkedin", "src-abr"],
+      "source_ids": [
+        "src-linkedin",
+        "src-abr"
+      ],
       "evidence_note": "Public professional-profile index gives month endpoints and managing-director title; ABR confirms the Australian private company. Activities, remuneration, substantive hours and campaign overlap are unresolved.",
       "counting_note": "Private/self-employed classification is supported, but substantive full-time work is not; no headline duration counted."
     },
@@ -197,7 +243,10 @@
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-linkedin", "src-parlinfo"],
+      "source_ids": [
+        "src-linkedin",
+        "src-parlinfo"
+      ],
       "evidence_note": "Public professional-profile index identifies the candidate period, overlapping Bragg PPC. Candidacy itself does not establish paid employment, payroll entity or hours.",
       "counting_note": "Party/campaign activity is excluded; no employment status inferred."
     },
@@ -214,9 +263,147 @@
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-snapshot", "src-parlinfo", "src-personal"],
+      "source_ids": [
+        "src-snapshot",
+        "src-parlinfo",
+        "src-personal"
+      ],
       "evidence_note": "Official sources record Senate service from 1 July 2019, ongoing at the frozen snapshot. Committee and shadow portfolios are nested duties, not additive employment spells.",
       "counting_note": "Elected office is excluded under the codebook."
+    },
+    {
+      "employer": "Commonwealth of Australia — employing department or ministerial office unresolved",
+      "role": "Policy Adviser: financial services, superannuation and corporate governance",
+      "start_date": "2008-09",
+      "end_date": "2009-10",
+      "date_precision": "month",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "unknown",
+      "government_control_at_time": "unknown",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-linkedin",
+        "src-fix2014"
+      ],
+      "evidence_note": "Profile index gives month boundaries; contemporaneous biography corroborates government policy work. Cannot distinguish public-service employment, political staff or other engagement without employer/appointment evidence. Hours, leave and overlap with EY/FSC unresolved; no public years inferred.",
+      "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
+      "spell_id": "256063-commonwealth-adviser"
+    },
+    {
+      "employer": "ASX Corporate Governance Council",
+      "role": "Director / council representative",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-fix2014"
+      ],
+      "evidence_note": "Position observed in2014 conference biography. Term boundaries, remuneration and whether representative duties within FSC employment are unknown. Governance/advisory service alone is not substantive full-time employment; no additive duration.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "256063-asx-council"
+    },
+    {
+      "employer": "Australian Securities and Investments Commission, Market Supervision Taskforce",
+      "role": "Adviser",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "excluded",
+      "government_control_at_time": "public",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-fix2014"
+      ],
+      "evidence_note": "Position observed in2014 conference biography. Term boundaries, remuneration and whether representative duties within FSC employment are unknown. Governance/advisory service alone is not substantive full-time employment; no additive duration.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "256063-asic-taskforce"
+    },
+    {
+      "employer": "Global Investment Performance Standards, Asia Pacific Regional Committee",
+      "role": "Chairman",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-fix2014"
+      ],
+      "evidence_note": "Position observed in2014 conference biography. Term boundaries, remuneration and whether representative duties within FSC employment are unknown. Governance/advisory service alone is not substantive full-time employment; no additive duration.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "256063-gips"
+    },
+    {
+      "employer": "Unidentified employer(s), regional Victoria",
+      "role": "Orchard work",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "unknown",
+      "government_control_at_time": "unknown",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-first-speech-primary"
+      ],
+      "evidence_note": "First-person first-speech recollection places this work in regional Victorian upbringing. Separate activities recorded without inventing employer names, dates, pay, hours, control or seasonal duration; may involve more than one employer.",
+      "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
+      "spell_id": "256063-orchards"
+    },
+    {
+      "employer": "Unidentified employer(s), regional Victoria",
+      "role": "Cannery work",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "unknown",
+      "government_control_at_time": "unknown",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-first-speech-primary"
+      ],
+      "evidence_note": "First-person first-speech recollection places this work in regional Victorian upbringing. Separate activities recorded without inventing employer names, dates, pay, hours, control or seasonal duration; may involve more than one employer.",
+      "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
+      "spell_id": "256063-cannery"
+    },
+    {
+      "employer": "Unidentified employer(s), regional Victoria",
+      "role": "Dairy work",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "unknown",
+      "government_control_at_time": "unknown",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-first-speech-primary"
+      ],
+      "evidence_note": "First-person first-speech recollection places this work in regional Victorian upbringing. Separate activities recorded without inventing employer names, dates, pay, hours, control or seasonal duration; may involve more than one employer.",
+      "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
+      "spell_id": "256063-dairy"
     }
   ],
   "sources": [
@@ -245,10 +432,10 @@
       "url": "https://www.andrewbragg.com/about",
       "publisher": "Senator Andrew Bragg",
       "title": "Biography",
-      "retrieved": "2026-09-18",
+      "retrieved": "2026-10-01",
       "source_type": "official_biography",
-      "locator": "Pre-Parliament career paragraph",
-      "note": "Corroborates EY, FSC and BCA roles."
+      "locator": "Biography; qualifications and early career",
+      "note": "Current primary biography identifies ANU international-relations bachelor and business-accounting master, correcting prior BAcc transcription; not a roster refresh."
     },
     {
       "source_id": "src-party",
@@ -265,10 +452,10 @@
       "url": "https://au.linkedin.com/in/senator-andrew-bragg-3296b823",
       "publisher": "LinkedIn / Andrew Bragg",
       "title": "Senator Andrew Bragg — professional profile",
-      "retrieved": "2026-09-18",
+      "retrieved": "2026-10-01",
       "source_type": "professional_profile",
       "locator": "Public search-index experience snippets",
-      "note": "Month ranges for BCA, Bragg PPC and endorsed-candidate periods. Direct page detail was not bypassed; indexed public text used only as supplemental evidence."
+      "note": "Month ranges for BCA, Bragg PPC and endorsed-candidate periods. Direct page detail was not bypassed; indexed public text used only as supplemental evidence. Follow-up public index supplies Commonwealth Policy Adviser September2008–October2009 and Menzies November2016–April2017. Direct page unavailable; no access controls bypassed."
     },
     {
       "source_id": "src-fsc",
@@ -329,13 +516,53 @@
       "source_type": "news",
       "locator": "Education and career profile",
       "note": "Secondary cross-check for study and career sequence; not used to infer hours."
+    },
+    {
+      "url": "https://fsc.org.au/resources-category/media-releases/702-2016-30septemberstaffannouncement-andrewbragg/file",
+      "publisher": "Financial Services Council",
+      "title": "Staff announcement: Andrew Bragg, 30 September 2016",
+      "source_type": "employer",
+      "locator": "One-page announcement, opening paragraphs",
+      "note": "Employer announces resignation and planned end-of-November departure; confirms joining in 2009 and director appointment in 2014. Prospective announcement is not a payroll termination record.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-fsc-departure"
+    },
+    {
+      "url": "https://www.fix-events.com/Archives/2014/Australia/Speakers.html",
+      "publisher": "FIX Trading Community",
+      "title": "Australia FIX Conference 2014 speakers",
+      "source_type": "professional_profile",
+      "locator": "Andrew Bragg biography",
+      "note": "Contemporaneous profile identifies prior government advisory work, qualifications and three concurrent governance/advisory positions.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-fix2014"
+    },
+    {
+      "url": "https://www.andrewbragg.com/news/first-speech-to-the-australian-senate-vqudgsx8leki4f",
+      "publisher": "Senator Andrew Bragg",
+      "title": "First Speech to the Australian Senate",
+      "source_type": "official_biography",
+      "locator": "Opening paragraph; website republication dated 22 March 2024",
+      "note": "First-person recollection of work in orchards, a cannery and a dairy during regional Victorian upbringing. No employers, pay, hours or dates supplied. Original first-speech date is separately documented by existing source.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-first-speech-primary"
     }
   ],
   "open_questions": [
     "What are the exact dates, employing EY entity, substantive hours and leave for the 2008 accounting spell?",
-    "Why does the frozen FSC endpoint say 2017 while other accounts place departure in 2016, and what were the exact promotion dates/hours?",
     "Were the Menzies, acting Liberal federal-director and Yes-campaign roles separate employment, secondments or overlapping duties, and which entity paid him?",
     "What services, remuneration and substantive hours applied to Bragg PPC during the overlapping Senate campaign?",
-    "What were the ANU and Macquarie study dates and any concurrent paid work?"
+    "What were the ANU and Macquarie study dates and any concurrent paid work?",
+    "Was the announced November2016 FSC departure implemented, and what explains the frozen2017 endpoint?",
+    "Which Commonwealth department or political office employed him in2008–09, and on what hours?",
+    "Who employed him in early orchard, cannery and dairy work, and when?"
+  ],
+  "research_notes": [
+    "Systematic nationwide follow-up2026-10-01. Required research_notes added; supported existing spells preserved. Material additions: previously omitted Commonwealth advisory work and three early work activities; governance observations, education correction and stronger FSC/Menzies endpoints. No substantive full-time evidence found; totals remain null, not zero.",
+    "Government advisory role is not automatically public-service employment. Identify appointing office/department, contractual status and hours before coding.2008–09 overlaps EY/FSC at month/year precision and must not be added mechanically. Three governance roles observed2014 may be FSC representative duties; dates unknown.",
+    "Employer resignation notice is prospective: November2016 is the announced FSC cessation month, with original frozen2017 discrepancy retained. Menzies April2017 comes from indexed professional profile, replacing an inference from BCA commencement. Current own biography and2014 profile correct the earlier ANU BAcc claim without changing frozen roster.",
+    "Searched parliamentary material, employer announcements,2014 conference biography, public professional-profile indexes, ASX submissions, ASIC/taskforce/GIPS queries, member first speech, corporate register/interests and early-work searches. Direct LinkedIn returned999 and parliamentary interests artifact failed restricted-URL fetch; these are source-specific gaps. Broader searches produced unrelated US/UK namesakes, excluded.",
+    "Uncorroborated leads retained for a later targeted pass: ContactOut employment aggregation (https://contactout.com/Andrew-Bragg-158117251) suggests Woolworths traineeship February2002–February2003 and EY January2007–September2008. These are not promoted to supported spells or dates without primary/reliable corroboration. No contact details collected. Public corporate-index leads suggest Bragg PPC non-operating by2022 and deregistered2023; company registration is not personal work duration.",
+    "Follow-up priorities: identify early orchard/cannery/dairy employers and pay/hours; verify Woolworths/EY lead; Commonwealth payroll and staff-versus-public-service classification; precise FSC departure and party secondments/leave; BCA/campaign overlap; Bragg PPC clients, hours and campaign leave; study dates. Advance nationwide queue before repeating exhausted broad queries."
   ]
 }
