@@ -87,13 +87,14 @@
       "employer": "University of Sydney",
       "employment_status": "unknown",
       "end_date": "1984",
-      "evidence_note": "NAA gives degree year 1984, not complete enrolment dates. Study is not employment.",
+      "evidence_note": "NAA gives degree year 1984, not complete enrolment dates. Study is not employment. University alumni listing gives BEc1985, conflicting with NAA1984. Preserve existing completion claim pending conferral/attendance records; neither date establishes paid work or exact cessation.",
       "fte_fraction": null,
       "government_control_at_time": "unknown",
       "headline_sector": "excluded",
       "role": "Bachelor of Economics student",
       "source_ids": [
-        "src-naa"
+        "src-naa",
+        "src-sydney-oct1"
       ],
       "spell_id": "R36-study",
       "start_date": null
@@ -124,17 +125,18 @@
       "counting_note": "Excluded from full-time public/private employment headline under codebook; no additive duration calculated.",
       "counting_status": "excluded",
       "date_precision": "year",
-      "employer": "Australian Labor Party",
+      "employer": "Australian Labor Party, New South Wales branch",
       "employment_status": "unknown",
       "end_date": "1995",
-      "evidence_note": "Official occupation/NAA labels establish party work and year endpoints, not hours. Specific office title not filled from memory.",
+      "evidence_note": "Official occupation/NAA labels establish party work and year endpoints, not hours. Specific office title not filled from memory. Follow-up2026-10-01: National Museum identifies the precise NSW branch office and confirms1989–95; appointment days and hours remain unknown.",
       "fte_fraction": null,
       "government_control_at_time": "private",
       "headline_sector": "excluded",
-      "role": "Party official",
+      "role": "Assistant General Secretary",
       "source_ids": [
         "src-snapshot",
-        "src-naa"
+        "src-naa",
+        "src-nma-oct1"
       ],
       "spell_id": "R36-party",
       "start_date": "1989"
@@ -179,6 +181,25 @@
       ],
       "spell_id": "R36-parliament",
       "start_date": "1996-03-02"
+    },
+    {
+      "employer": "Australian Labor Party, New South Wales Young Labor",
+      "role": "President",
+      "start_date": "1985",
+      "end_date": "1987",
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "party_organisation",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-nma-oct1"
+      ],
+      "evidence_note": "National Museum identifies presidency1985–87. Remuneration and hours unknown; overlaps Uren staff role and is not counted as additional salaried work.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "R36-young-labor"
     }
   ],
   "headline": {
@@ -187,7 +208,7 @@
     "private_full_time_years": null,
     "public_full_time_years": null
   },
-  "last_reviewed": "2026-09-16",
+  "last_reviewed": "2026-10-01",
   "name": "ALBANESE, the Hon. Anthony Norman",
   "person_id": "R36",
   "research_notes": [
@@ -196,7 +217,10 @@
     "School employment: VPTA indexed first-person profile establishes newspaper selling at 13 and part-time Grace Brothers/McDonalds work at 15. Full-page retrieval timed out twice. Dates are deliberately null; ages are not silently converted into calendar boundaries. Legal newspaper employer and McDonald's franchise entity remain unknown.",
     "Follow-up priority: historical bank staff/appointment records or public detailed professional biography for dates and breaks; bank annual reports establish institutional control but cannot establish personal service dates. Obtain accessible VPTA full text; investigate university-period work and exact party/political staff boundaries. No outreach or access-control bypass.",
     "Queries attempted: parliamentary qualifications/occupations; NAA fast facts; Commonwealth Bank employment dates; full-time/full time bank work; Grace Brothers/McDonalds/newspaper jobs; employer privatisation history. The AI speech media-release URL is distinct from the substantive speech at /ai-australias-interests-0.",
-    "Year-only overlapping transitions 1989 and 1995 are not summed; ministerial/leadership roles are nested within elected service, not additive employment. No documented countable private full-time spell was found, which is not proof of zero private experience. Follow-up last attempted 2026-09-16; move to next unstarted member before repeating these searches."
+    "Year-only overlapping transitions 1989 and 1995 are not summed; ministerial/leadership roles are nested within elected service, not additive employment. No documented countable private full-time spell was found, which is not proof of zero private experience. Follow-up last attempted 2026-09-16; move to next unstarted member before repeating these searches.",
+    "Systematic follow-up2026-10-01: added specific NSW ALP job title and separate Young Labor presidency from National Museum; university primary alumni record adds unresolved1984/1985 degree-year discrepancy. Existing supported bank full-time status/control and other facts preserved.",
+    "Targeted bank calendar dates, university employment and appointment searches found no personal appointment/cessation/break evidence beyond existing year labels. VPTA full-page open again returned (400) Timeout fetching; indexed page remains available without further useful chronology. Search results contain unsupported secondary part-time-bank claims; these do not override first-person full-time commencement evidence or establish a later change of hours.",
+    "Next avenues if new evidence emerges: publicly released bank service record or detailed first-person chronology; university attendance/conferral archive; primary political payroll appointments. Do not repeat the same exhausted broad bank-date queries immediately. Retain research_status blocked and null headline years; advance follow-up cursor to Ambihaipahar."
   ],
   "research_status": "blocked",
   "snapshot_chamber": "Member",
@@ -263,6 +287,26 @@
       "source_type": "other",
       "title": "Political Profile: Prime Minister, the Hon Anthony Albanese MP",
       "url": "https://nexusapac.com.au/pm-political-profile/"
+    },
+    {
+      "url": "https://www.nma.gov.au/explore/features/prime-ministers/anthony-albanese",
+      "publisher": "National Museum of Australia",
+      "title": "Anthony Albanese",
+      "source_type": "government_record",
+      "locator": "Entry into federal politics paragraph2",
+      "note": "Young Labor NSW president1985–87 and NSW ALP assistant general secretary1989–95.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-nma-oct1"
+    },
+    {
+      "url": "https://www.sydney.edu.au/engage/alumni/your-impact/notable-alumni.html",
+      "publisher": "University of Sydney",
+      "title": "Notable alumni",
+      "source_type": "employer",
+      "locator": "Politicians and pioneers; Albanese entry",
+      "note": "University labels degree BEc1985, versus NAA1984. Completion/conferral distinction not established.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-sydney-oct1"
     }
   ]
 }
