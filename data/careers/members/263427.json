@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/263427",
   "research_status": "blocked",
-  "last_reviewed": "2026-09-12",
+  "last_reviewed": "2026-10-01",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -28,14 +28,15 @@
       "government_control_at_time": "unknown",
       "counting_status": "insufficient_evidence",
       "source_ids": [
-        "src-3"
+        "src-3",
+        "src-profile-review"
       ],
-      "evidence_note": "Work during postgraduate study; no dates/FTE.",
+      "evidence_note": "Work during postgraduate study; no dates/FTE. Public profile dates master’s studies2008–2010; candidate biography says these roles occurred during postgraduate studies, but exact personal appointment boundaries are not thereby established.",
       "counting_note": "Not counted: dates and/or substantive full-time status are insufficiently evidenced; year labels are not exact boundaries."
     },
     {
       "spell_id": "263427-02",
-      "employer": "Institute of Health and Biomedical Innovation",
+      "employer": "Queensland University of Technology, Institute of Health and Biomedical Innovation (contract employer unconfirmed)",
       "role": "Research therapist",
       "start_date": null,
       "end_date": null,
@@ -47,9 +48,10 @@
       "government_control_at_time": "unknown",
       "counting_status": "insufficient_evidence",
       "source_ids": [
-        "src-3"
+        "src-3",
+        "src-profile-review"
       ],
-      "evidence_note": "University research setting; legal employer and paid full-time status require verification.",
+      "evidence_note": "University research setting; legal employer and paid full-time status require verification. Public profile dates master’s studies2008–2010; candidate biography says these roles occurred during postgraduate studies, but exact personal appointment boundaries are not thereby established.",
       "counting_note": "Not counted: dates and/or substantive full-time status are insufficiently evidenced; year labels are not exact boundaries."
     },
     {
@@ -66,7 +68,8 @@
       "government_control_at_time": "unknown",
       "counting_status": "insufficient_evidence",
       "source_ids": [
-        "src-6"
+        "src-6",
+        "src-first-review"
       ],
       "evidence_note": "Brief experience may be training/placement; do not assume paid public employment.",
       "counting_note": "Not counted: dates and/or substantive full-time status are insufficiently evidenced; year labels are not exact boundaries."
@@ -125,15 +128,18 @@
       "source_ids": [
         "src-2",
         "src-3",
-        "src-4"
+        "src-4",
+        "src-progress2015",
+        "src-author2014",
+        "src-board2020"
       ],
-      "evidence_note": "Five years reported in 2019 and in post February 2016; approximate 2014 commencement is not an exact endpoint.",
+      "evidence_note": "Five years reported in 2019 and in post February 2016; approximate 2014 commencement is not an exact endpoint. FY2014–15 partner annual report records succession from Fiona Sugden and dated December2014 author biography confirms office by then. By1September2020 Georgie Dent is executive director while Briskey is explicitly a board director. Appointment/exit dates remain unknown; board affiliation not used to extend executive employment.",
       "counting_note": "Outside the two employment headlines under the codebook; retained as career context."
     },
     {
       "spell_id": "263427-07",
       "employer": "United Workers Union",
-      "role": "Official / national political coordination",
+      "role": "National political coordinator",
       "start_date": null,
       "end_date": null,
       "date_precision": "unknown",
@@ -144,9 +150,10 @@
       "government_control_at_time": "private",
       "counting_status": "excluded",
       "source_ids": [
-        "src-5"
+        "src-5",
+        "src-national2024"
       ],
-      "evidence_note": "Union evidence identifies role but no complete employment interval.",
+      "evidence_note": "Union evidence identifies role but no complete employment interval. Primary October2024 hearing program confirms national title. Queensland political coordination in2020 is separately retained; no assumed2019 national appointment or continuous role.",
       "counting_note": "Outside the two employment headlines under the codebook; retained as career context."
     },
     {
@@ -167,6 +174,63 @@
       ],
       "evidence_note": "Snapshot first-service date.",
       "counting_note": "Outside the two employment headlines under the codebook; retained as career context."
+    },
+    {
+      "employer": "United Workers Union",
+      "role": "Queensland political coordinator",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "union",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-qld2020"
+      ],
+      "evidence_note": "Identified in10August2020 parliamentary testimony. Earlier United Voice role and later national coordination kept distinct; exact transition dates, hours and breaks unknown.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "263427-09"
+    },
+    {
+      "employer": "The Parenthood",
+      "role": "Board director",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "nonprofit",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-board2020"
+      ],
+      "evidence_note": "Primary1September2020 release identifies Briskey speaking for the board and a different executive director. Governance observed at that date, without appointment/resignation boundaries or paid FT inference.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "263427-10"
+    },
+    {
+      "employer": "Queensland University of Technology",
+      "role": "Master of Psychology studies",
+      "start_date": "2008",
+      "end_date": "2010",
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-profile-review"
+      ],
+      "evidence_note": "Year-precision educational interval from public professional profile. Does not imply that tutoring/research appointments covered the whole period or were FT.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "263427-11"
     }
   ],
   "sources": [
@@ -239,11 +303,83 @@
       "source_type": "professional_profile",
       "locator": "Search excerpt only; full page fetch failed",
       "note": "United Voice Queensland Branch is named. No dates or hours verified."
+    },
+    {
+      "url": "https://au.linkedin.com/in/jo-briskey",
+      "publisher": "Jo Briskey / LinkedIn",
+      "title": "Public professional profile index",
+      "source_type": "professional_profile",
+      "locator": "Education and experience sections visible in search retrieval",
+      "note": "Shows QUT Master of Psychology2008–2010 and IHBI,QUT affiliation. Experience titles/dates hidden in retrieved version; study interval is not an employment interval.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-profile-review"
+    },
+    {
+      "url": "https://static1.squarespace.com/static/5f29f83cbb9bb72075b03a08/t/5f5718fff2eba344a934fa28/1599543561481/_Annual%2Breport.pdf",
+      "publisher": "Australian Progress",
+      "title": "Annual report FY2014–15",
+      "source_type": "employer",
+      "locator": "Printed p12/PDF11, incubation projects",
+      "note": "Records Briskey succeeding Fiona Sugden as Parenthood executive director. Incubation partner reporting, not evidence that Australian Progress was her employer; exact appointment date absent.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-progress2015"
+    },
+    {
+      "url": "https://womensagenda.com.au/latest/think-childcare-is-just-babysitting-think-again/",
+      "publisher": "Women’s Agenda / Jo Briskey",
+      "title": "Think childcare is just babysitting? Think again,10December2014",
+      "source_type": "professional_profile",
+      "locator": "Dated byline and author biography",
+      "note": "Contemporaneous authored article identifies Parenthood executive director by December2014. Observation supports early tenure but is not its start date.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-author2014"
+    },
+    {
+      "url": "https://d3n8a8pro7vhmx.cloudfront.net/theparenthood/pages/20/attachments/original/1598921767/Thrive_By_Five_TPH_Partnership_Announcement_.pdf?1598921767=",
+      "publisher": "The Parenthood",
+      "title": "Partnership with Thrive by Five,1September2020",
+      "source_type": "employer",
+      "locator": "p1 paragraphs naming Georgie Dent and Jo Briskey",
+      "note": "Distinguishes executive director Georgie Dent from director Jo Briskey speaking for the board. Establishes separate governance capacity by2020, not continuous executive employment.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-board2020"
+    },
+    {
+      "url": "https://documents.parliament.qld.gov.au/com/EESBC-92D1/RN3556PCCO-3723/trns-10Aug2020-ccolab.pdf",
+      "publisher": "Queensland Parliament",
+      "title": "Wage Theft Amendment Bill hearing,10August2020",
+      "source_type": "government_record",
+      "locator": "Printed p1/PDF1 witness list and self-identification",
+      "note": "Names Briskey Queensland Political Coordinator, UWU. Individual dates of appointment, promotion and resignation not supplied.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-qld2020"
+    },
+    {
+      "url": "https://www.aph.gov.au/DocumentStore.ashx?hearingid=31808&submissions=false",
+      "publisher": "Australian Parliament",
+      "title": "Wage Justice for Early Childhood Education and Care hearing program,23October2024",
+      "source_type": "government_record",
+      "locator": "p1 UWU witness list",
+      "note": "Lists Briskey National Political Coordinator; distinct from Queensland title in2020.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-national2024"
+    },
+    {
+      "url": "https://www.openaustralia.org.au/debate/?id=2025-07-23.132.1",
+      "publisher": "OpenAustralia reproducing House Hansard",
+      "title": "Jo Briskey first speech,23July2025",
+      "source_type": "government_record",
+      "locator": "Psychology, Logan and Parenthood/union paragraphs, lines66–72",
+      "note": "Confirms brief Logan experience but does not specify paid employment versus placement. Does not establish a2019 move or appointment date.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-first-review"
     }
   ],
   "research_notes": [
     "Blocked: substantial nonparliamentary roles recovered from primary testimony and candidate coverage, but nonpolitical employment dates/FTE are missing. Political, union and advocacy work is separately excluded.",
     "Public LinkedIn profile search showed United Voice and qualifications, but opening the profile failed. No access restriction was bypassed and no unviewed profile dates were used.",
-    "Need dated QUT/IHBI appointments and Logan placement/pay status. Election candidacies are not treated as elected service or employment. Approximate five-year Parenthood claim retained in prose only."
+    "Need dated QUT/IHBI appointments and Logan placement/pay status. Election candidacies are not treated as elected service or employment. Approximate five-year Parenthood claim retained in prose only.",
+    "2026-10-01: recovered Parenthood succession record and December2014 executive-role observation; distinguished later board directorship from executive employment using2020 organisational release. Separated Queensland UWU role observed2020 from national role confirmed2024. Added2008–2010 study context without assigning those dates to paid employment.",
+    "Avenues: first speech, public professional profile retrieval with hidden experience fields, QUT/IHBI psychology/therapist searches,2014–15 Australian Progress annual report, contemporaneous authored article,2020 Parenthood release,2020 Queensland testimony and2024 Senate hearing program. No dated university employment contract or Logan placement/pay evidence found. First speech does not support derivative assertion of2019 move/national appointment; do not adopt it against distinct2020 Queensland title. Follow-up: QUT/IHBI employment dates/FTE/legal contract, Logan placement status, ministerial staff/campaign leave boundaries, United Voice chronology, executive-to-board transition and governance dates, UWU promotion/leave/resignation. Missing evidence remains unknown, not zero."
   ]
 }
