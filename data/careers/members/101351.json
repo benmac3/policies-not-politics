@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/101351",
   "research_status": "blocked",
-  "last_reviewed": "2026-09-29",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -266,9 +266,10 @@
       "counting_status": "insufficient_evidence",
       "source_ids": [
         "src-3",
-        "src-10"
+        "src-10",
+        "oct2-alumni"
       ],
-      "evidence_note": "Commercial consultancy rather than party employment solely because clients include government. SBS announcement identifies immediately previous role. Start and precise departure unknown; no full-time evidence.",
+      "evidence_note": "Commercial consultancy rather than party employment solely because clients include government. SBS announcement identifies immediately previous role. Start and precise departure unknown; no full-time evidence. His June2010 university alumni contribution lists this as current; establishes contemporaneous role/overlap but not appointment endpoint.",
       "counting_note": "Dates, employer control and/or substantive full-time status remain insufficient for a duration calculation; unknown is not zero."
     },
     {
@@ -276,7 +277,7 @@
       "employer": "Special Broadcasting Service",
       "role": "Director, strategy and communications; later corporate affairs",
       "start_date": "2012-05-21",
-      "end_date": "2015",
+      "end_date": "2015-07",
       "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
@@ -288,9 +289,10 @@
         "src-2",
         "src-3",
         "src-8",
-        "src-9"
+        "src-9",
+        "oct2-sbs"
       ],
-      "evidence_note": "Commonwealth public broadcaster, executive employee rather than board appointment. Primary start; still serving May 2015 and described as former executive by November 2015. Retain year-only end and seek employer departure record; titles do not prove full-time.",
+      "evidence_note": "Commonwealth public broadcaster, executive employee rather than board appointment. Primary start; still serving May 2015 and described as former executive by November 2015. Retain year-only end and seek employer departure record; titles do not prove full-time. Employer annual report now resolves departure to July2015, superseding the broader May–November inference. Exact day and FTE remain unknown.",
       "counting_note": "Dates, employer control and/or substantive full-time status remain insufficient for a duration calculation; unknown is not zero."
     },
     {
@@ -308,9 +310,10 @@
       "counting_status": "excluded",
       "source_ids": [
         "src-2",
-        "src-10"
+        "src-10",
+        "oct2-alumni"
       ],
-      "evidence_note": "Adjunct affiliation not evidence of substantive paid employment. Dates, remuneration and duties unresolved; exclude rather than assume full-time.",
+      "evidence_note": "Adjunct affiliation not evidence of substantive paid employment. Dates, remuneration and duties unresolved; exclude rather than assume full-time. His June2010 university alumni contribution lists this as current; establishes contemporaneous role/overlap but not appointment endpoint.",
       "counting_note": "Excluded from the two employment headlines under the codebook."
     },
     {
@@ -463,6 +466,26 @@
       "source_type": "other",
       "locator": "Peter Khalil participant biography",
       "note": "Senior Middle East and Africa analyst at Eurasia before national-security adviser appointment."
+    },
+    {
+      "url": "https://media.sbs.com.au/home/upload_media/site_20_rand_1007358725_sbs_annual_report_2014_15.pdf",
+      "publisher": "Special Broadcasting Service",
+      "title": "Annual Report2014–15",
+      "source_type": "employer",
+      "locator": "Printed pp12 and16 (PDF pp14 and18), organisation/executive footnotes",
+      "note": "Explicitly dates Khalil departure to July2015; no exact day or individual full-time terms.",
+      "retrieved": "2026-10-02",
+      "source_id": "oct2-sbs"
+    },
+    {
+      "url": "https://cpb-ap-se2.wpmucdn.com/blogs.unimelb.edu.au/dist/7/166/files/2016/05/MUM_2010_June-2l9p4wo.pdf",
+      "publisher": "University of Melbourne / Peter Khalil",
+      "title": "Melbourne University Magazine, June2010",
+      "source_type": "professional_profile",
+      "locator": "Printed p36/PDF p38: Class Notes, Peter Khalil",
+      "note": "First-person contribution lists current Hawker Britton consultancy and Sydney adjunct appointment. Describes Defence and later ministerial work; no individual hours.",
+      "retrieved": "2026-10-02",
+      "source_id": "oct2-alumni"
     }
   ],
   "research_notes": [
@@ -471,6 +494,9 @@
     "2026-09-29: Brookings July 2006 author page resolves three month-level spells. Secondary accounts suggesting a year at Brookings conflict with October 2004–May 2005 and are not used. October 2004 DFAT/fellowship boundary remains imprecise, so no simultaneous full-time claim.",
     "2026-09-29: SBS annual-report/departure searches did not establish a precise exit or hours. ABC's November 2015 former-executive description and May 2015 committee appearance bound the departure within 2015. Generic immediately-before-parliament biographies must not silently extend SBS employment to July 2016.",
     "2026-09-29: public LinkedIn result https://au.linkedin.com/in/pkhalil surfaced current activity without usable historical chronology. Full-time queries chiefly returned vacancies in his office, not evidence of his own past hours; those adverts were not used.",
-    "Pre-Defence work and possible later independent consultancy remain major gaps. Degrees or a generic lawyer label do not establish a legal-practice spell. Do not infer work continuity, calculate totals from senior titles, or sum overlapping secondments and adjunct appointments."
+    "Pre-Defence work and possible later independent consultancy remain major gaps. Degrees or a generic lawyer label do not establish a legal-practice spell. Do not infer work continuity, calculate totals from senior titles, or sum overlapping secondments and adjunct appointments.",
+    "Follow-up2026-10-02: employer annual-report footnotes resolve SBS departure July2015. Own June2010 alumni contribution corroborates simultaneous Hawker Britton consultancy and Sydney adjunct role. No double counting or full-time inference.",
+    "Examined SBS2014–15 and2015–16 reports, appointment releases, university alumni profile, historical consultancy and departure searches. Crikey3 September2015 indexed departure lead pointed toward annual reports; restricted article not bypassed. Primary2014–15 report supplies stronger month evidence.",
+    "Next leads: exact SBS cessation/contract and leave, Hawker/Eurasia appointment/FTE records, pre-Defence employer identities and dates, post-July2015 consulting, VMC individual appointment/cessation. Defence commencement cannot be inferred from the alumni degree year."
   ]
 }
