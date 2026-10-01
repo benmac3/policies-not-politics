@@ -6,14 +6,33 @@
   "snapshot_party": "The Nationals",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/279991",
   "research_status": "blocked",
-  "last_reviewed": "2026-09-20",
+  "last_reviewed": "2026-10-01",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
     "calculation_status": "not_calculable",
-    "note": "The official chronology identifies public NSW Police service from 1990 to 2001 and private legal practice from 2001 to 2019, but only at year precision and without substantive full-time evidence. Council office, campaigning, study and federal elected office are excluded. Missing evidence is not zero."
+    "note": "NSW Police1990–2001 and private law practice2001–2019 remain year-precision. Explicit full-time evidence found for a two-year undercover subspell, whose calendar boundaries and leave remain unresolved; no supported headline duration yet. Passive company income/governance, pool work with unknown employer, study and political roles are not assumed countable. Missing evidence is not zero."
   },
   "career_spells": [
+    {
+      "employer": "Kempsey swimming pool (operating/payroll employer unresolved)",
+      "role": "Grounds and facilities cleaner",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "unknown",
+      "government_control_at_time": "unknown",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-first-speech"
+      ],
+      "evidence_note": "First speech identifies this as his first job at age13. No calendar year calculated from age. Pool ownership does not identify whether he worked for council or a contractor; hours and dates unknown.",
+      "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
+      "spell_id": "279991-pool-cleaning"
+    },
     {
       "spell_id": "279991-nsw-police-constable",
       "employer": "NSW Police Force",
@@ -27,7 +46,11 @@
       "headline_sector": "public",
       "government_control_at_time": "public",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-snapshot", "src-personal", "src-nationals"],
+      "source_ids": [
+        "src-snapshot",
+        "src-personal",
+        "src-nationals"
+      ],
       "evidence_note": "The frozen official occupation extract records NSW Police constable service from 1990 to 1993. Current first-party and Nationals biographies corroborate police service. Exact appointment dates, hours, leave and study overlap are unresolved.",
       "counting_note": "Public control is clear, but year-only boundaries and unproven substantive full-time status do not support an exact headline duration."
     },
@@ -44,8 +67,12 @@
       "headline_sector": "public",
       "government_control_at_time": "public",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-snapshot", "src-secondary"],
-      "evidence_note": "The frozen extract records Crime Squad detective service from 1993 to 1997; secondary biographical material corroborates transfer from Kempsey to Sydney and detective work. Exact dates, unit, hours, leave and study overlap are unresolved.",
+      "source_ids": [
+        "src-snapshot",
+        "src-secondary",
+        "src-first-speech"
+      ],
+      "evidence_note": "The frozen extract records Crime Squad detective service from 1993 to 1997; secondary biographical material corroborates transfer from Kempsey to Sydney and detective work. Exact dates, unit, hours, leave and study overlap are unresolved. First speech distinguishes a two-year undercover Drug Enforcement Agency assignment from later investigations while studying law. Nested undercover subspell below has separate full-time evidence; this does not establish full-time status for all1993–1997.",
       "counting_note": "Public control is clear, but no exact substantive full-time interval is established."
     },
     {
@@ -61,8 +88,13 @@
       "headline_sector": "public",
       "government_control_at_time": "public",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-snapshot", "src-personal", "src-secondary"],
-      "evidence_note": "The frozen extract records NSW Police prosecutor service from 1997 to 2001, corroborated by current and secondary biographies. Exact appointment and cessation dates, hours, leave and transition to private practice are unresolved.",
+      "source_ids": [
+        "src-snapshot",
+        "src-personal",
+        "src-secondary",
+        "src-first-speech"
+      ],
+      "evidence_note": "The frozen extract records NSW Police prosecutor service from 1997 to 2001, corroborated by current and secondary biographies. Exact appointment and cessation dates, hours, leave and transition to private practice are unresolved. First speech confirms four years in prosecuting branch then resignation to pursue law; round duration not exact boundaries.",
       "counting_note": "Public control is clear, but year-only boundaries and unproven substantive full-time status do not support an exact headline duration."
     },
     {
@@ -78,13 +110,16 @@
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-secondary"],
-      "evidence_note": "Secondary biographical material identifies an LLB from the University of New England. Enrolment and completion dates, load and overlap with police service are unresolved.",
+      "source_ids": [
+        "src-secondary",
+        "src-first-speech"
+      ],
+      "evidence_note": "Secondary biographical material identifies an LLB from the University of New England. Enrolment and completion dates, load and overlap with police service are unresolved. First speech explicitly places law study alongside later investigative police duties; study load remains unknown.",
       "counting_note": "Study is excluded under the codebook."
     },
     {
       "spell_id": "279991-conaghan-lawyers",
-      "employer": "Conaghan Lawyers Pty Ltd",
+      "employer": "Private legal practices, including Conaghan Lawyers Pty Ltd (separate practice timelines unresolved)",
       "role": "Solicitor; founder/principal criminal defence lawyer",
       "start_date": "2001",
       "end_date": "2019",
@@ -95,8 +130,17 @@
       "headline_sector": "private",
       "government_control_at_time": "private",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-snapshot", "src-abr", "src-secondary", "src-professional"],
-      "evidence_note": "The frozen extract records solicitor work from 2001 to 2019. Secondary material says Conaghan established his own criminal-defence practice, and a public professional-profile result names Conaghan Lawyers. ABN Lookup records the Australian private company as active from 6 July 2001. The corporate registration date does not prove Conaghan's exact work start; exact cessation, hours, ownership period, leave and campaign overlap remain unresolved.",
+      "source_ids": [
+        "src-snapshot",
+        "src-abr",
+        "src-secondary",
+        "src-professional",
+        "src-register2019",
+        "src-practice2014",
+        "src-planner",
+        "src-cancer-council"
+      ],
+      "evidence_note": "The frozen extract records solicitor work from 2001 to 2019. Secondary material says Conaghan established his own criminal-defence practice, and a public professional-profile result names Conaghan Lawyers. ABN Lookup records the Australian private company as active from 6 July 2001. The corporate registration date does not prove Conaghan's exact work start; exact cessation, hours, ownership period, leave and campaign overlap remain unresolved. Public3December2014 professional introduction confirms principal role in Port Macquarie.2019 parliamentary declaration identifies retained shareholding/directorship and calls law-firm income passive; do not extend active legal employment merely because company and income continued. Follow-up profiles identify three businesses/practices and defence, immigration and commercial litigation. The official2001–2019 interval is solicitor work overall, not proof of continuous employment at this one company; retain aggregate pending employer-by-employer disaggregation.",
       "counting_note": "Private control and self-employment are supported, but year-only work boundaries and unproven substantive full-time status prevent an exact headline duration."
     },
     {
@@ -112,7 +156,9 @@
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-secondary"],
+      "source_ids": [
+        "src-secondary"
+      ],
       "evidence_note": "Secondary material citing North Sydney Council records the council term from 27 March 2004 to 13 September 2008. Remuneration, hours and overlap with legal practice are unresolved.",
       "counting_note": "Elected local-government office is excluded under the codebook."
     },
@@ -129,7 +175,10 @@
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-preselection", "src-snapshot"],
+      "source_ids": [
+        "src-preselection",
+        "src-snapshot"
+      ],
       "evidence_note": "Contemporaneous regional reporting records Nationals preselection on 3 November 2018; the frozen roster records House service from 18 May 2019. Pay, hours, legal-practice leave and exact active campaign period are unresolved.",
       "counting_note": "Party and campaign activity is excluded under the codebook."
     },
@@ -146,9 +195,53 @@
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-snapshot", "src-personal", "src-nationals"],
+      "source_ids": [
+        "src-snapshot",
+        "src-personal",
+        "src-nationals"
+      ],
       "evidence_note": "The frozen roster establishes House service from 18 May 2019, corroborated by current first-party and Nationals biographies. Parliamentary roles are nested within elected service.",
       "counting_note": "Elected office is excluded under the codebook."
+    },
+    {
+      "employer": "NSW Police Force — Drug Enforcement Agency",
+      "role": "Undercover operative (subspell within detective service)",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "full_time",
+      "fte_fraction": null,
+      "category": "public_service",
+      "headline_sector": "public",
+      "government_control_at_time": "public",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-bona-clip",
+        "src-bona-caption",
+        "src-first-speech"
+      ],
+      "evidence_note": "Public interview transcript explicitly says full time; publisher caption and first speech describe two years. Exact assignment boundaries and leave unverified. Nested within detective employment, not an additional independent job. Other police roles retain unknown hours.",
+      "counting_note": "Explicit full-time evidence exists for this subspell, but calendar dates/leave are unresolved. Do not convert rounded two-year narrative to precise headline years or double-count the parent detective spell.",
+      "spell_id": "279991-undercover-subspell"
+    },
+    {
+      "employer": "Conaghan Lawyers Pty Ltd",
+      "role": "Director and shareholder; passive legal-services income",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "private_enterprise",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-register2019"
+      ],
+      "evidence_note": "Declaration signed17July2019 records continuing company ownership/directorship and passive legal income. This is a2019 observation, not term boundaries. No additional full-time operational employment established.",
+      "counting_note": "Governance and passive income are not independently counted as full-time employment; overlaps legal practice/elected office.",
+      "spell_id": "279991-practice-governance"
     }
   ],
   "sources": [
@@ -221,19 +314,108 @@
       "source_type": "other",
       "locator": "Early career and office summary with cited council and biographical sources",
       "note": "Secondary synthesis used for UNE study, police-location narrative, creation of the criminal-defence practice and exact council term."
+    },
+    {
+      "url": "https://www.aph.gov.au/Senators_and_Members/Members/FirstSpeeches/46th_Parliament/Pat_Conaghan",
+      "publisher": "Parliament of Australia",
+      "title": "Pat Conaghan first speech,24July2019",
+      "source_type": "government_record",
+      "locator": "Career paragraphs: swimming pool, undercover work, law study and prosecution",
+      "note": "Official indexed transcript; direct page403. Explicit jobs/duties and relative sequence, not exact dates.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-first-speech"
+    },
+    {
+      "url": "https://www.facebook.com/LukeBonaThatRadioGuy/videos/what-you-see-on-tv-is-actually-correct-a-former-undercover-cop-explains-why-watc/1004546892369544/",
+      "publisher": "Luke Bona / Bonafide",
+      "title": "Pat Conaghan undercover-work interview clip",
+      "source_type": "professional_profile",
+      "locator": "Public search-index transcript beginning I was an undercover operative full time",
+      "note": "Direct fetch throttled; public indexed first-person transcript explicitly supplies full-time status only for undercover assignment.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-bona-clip"
+    },
+    {
+      "url": "https://www.instagram.com/reel/Dai9UJ6gDkj/",
+      "publisher": "Luke Bona / Bonafide",
+      "title": "Pat Conaghan interview excerpt",
+      "source_type": "other",
+      "locator": "Public caption: two years as a full-time undercover operative",
+      "note": "Caption corroborates status/duration; precise calendar boundaries unavailable. Direct fetch throttled.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-bona-caption"
+    },
+    {
+      "url": "https://podcasts.apple.com/ca/podcast/an-undercover-mp-a-teen-nuclear-advocate-the/id1801841940?i=1000775184045",
+      "publisher": "Bonafide with Luke Bona / Apple Podcasts",
+      "title": "An Undercover MP, a Teen Nuclear Advocate & the Hume Highway Fireball,2July2026",
+      "source_type": "other",
+      "locator": "Episode metadata;2:25:35 interview and2:28:46 undercover chapter",
+      "note": "Public episode listing links topic/person. Complete audio not reviewed; do not infer unobserved dates.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-bona-episode"
+    },
+    {
+      "url": "https://www.aph.gov.au/-/media/03_Senators_and_Members/32_Members/Register/46p/CF/Conaghan_46P.pdf",
+      "publisher": "Parliament of Australia",
+      "title": "46th Parliament statement of registrable interests",
+      "source_type": "government_record",
+      "locator": "Statement signed17July2019; pp2–4, items1,4,10",
+      "note": "Records own company shareholding/directorship and expressly passive legal-services income. Only career-relevant self declarations used.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-register2019"
+    },
+    {
+      "url": "https://x.com/patconaghan1",
+      "publisher": "Patrick Conaghan",
+      "title": "Professional introduction,3December2014",
+      "source_type": "professional_profile",
+      "locator": "Publicly indexed3December2014 introduction",
+      "note": "Names himself principal lawyer at Conaghan Lawyers in Port Macquarie; observation date is not appointment date.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-practice2014"
+    },
+    {
+      "url": "https://www.professionalplanner.com.au/people/the-hon-pat-conaghan/",
+      "publisher": "Professional Planner",
+      "title": "Pat Conaghan speaker biography",
+      "source_type": "professional_profile",
+      "locator": "Career paragraphs",
+      "note": "Describes three law practices and defence/immigration/commercial work; five-year Drug Enforcement account requires reconciliation.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-planner"
+    },
+    {
+      "url": "https://stars.cancercouncil.com.au/fundraisers/patconaghan/stars-of-coffs-coast",
+      "publisher": "Cancer Council NSW",
+      "title": "Pat Conaghan — Stars of Coffs Coast2026",
+      "source_type": "official_biography",
+      "locator": "Participant biography only",
+      "note": "Corroborates three businesses including defence/immigration practices and law-study overlap; fundraising not employment.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-cancer-council"
     }
   ],
   "research_notes": [
     "The frozen official extract supplies a continuous year-level occupation sequence from 1990 to parliamentary entry but not exact transitions or working hours.",
     "The private company's registration date corroborates legal-entity existence and control, not the exact first day of Conaghan's work.",
     "Police ranks and professional titles are not treated as proof of substantive full-time status.",
-    "Council service overlapped private legal practice and is excluded rather than double-counted."
+    "Council service overlapped private legal practice and is excluded rather than double-counted.",
+    "Systematic follow-up2026-10-01 added omitted pool-cleaning job, explicit full-time evidence limited to undercover subspell, concurrent law study, principal-lawyer2014 observation and retained company governance/passive income2019.",
+    "Full-time status comes from publicly indexed first-person interview, supported by publisher caption, not from police rank. Direct social-source fetches throttled; no bypass/retry. Podcast listing supplies further review lead at2:28:46, not reviewed full audio. Need exact assignment dates before any duration calculation.",
+    "First speech’s two undercover years and four prosecution years are narrative durations only. Birth date/age13/age25 not used to manufacture employment dates. Undercover spell is nested; union overlapping public intervals if eventually countable.",
+    "Searched parliamentary first speech and register, public professional profiles, law-practice site, undergraduate leads and council history. APH first-speech direct403 but official indexed content available; personal site verification screen and law-firm site unavailable. No exact law-study/appointment/hours evidence located. Further public police histories, alumni records, court appearances and practice history remain leads.",
+    "New speaker and charity participant biographies identify three legal businesses/practices, so the2001–2019 solicitor spell is relabelled as overall private practice rather than attributing every year to Conaghan Lawyers. Conaghan Hunter Lawyers appears as a court-listing lead, but no personal employment link or separate term yet established. ABR historical-name pages inaccessible. Professional Planner says five Drug Enforcement years; first speech distinguishes two undercover years from later investigation, and frozen detective interval1993–1997 is retained pending reconciliation."
   ],
   "open_questions": [
     "What were the exact NSW Police appointment, transfer, promotion and cessation dates, hours and leave?",
     "What were the UNE law-study dates, load and overlap with police service?",
     "Did Conaghan work for another legal employer before or alongside Conaghan Lawyers, and what were the exact practice dates, ownership, hours and leave?",
     "What were the council remuneration and hours and the legal-practice overlap?",
-    "What were the campaign's paid status, hours and exact leave/cessation arrangements with the law practice?"
+    "What were the campaign's paid status, hours and exact leave/cessation arrangements with the law practice?",
+    "What were the exact full-time undercover assignment dates and leave, and how did it sit within the1993–1997 detective period?",
+    "Who employed him at Kempsey swimming pool, during which dates and hours?",
+    "When did operational law work stop and passive company/director involvement begin, and did any legal work continue after election?",
+    "What are the names and separate operational/ownership dates of all three practices, including any Conaghan Hunter connection, and how does the five-year Drug Enforcement account reconcile with frozen1993–1997?"
   ]
 }
