@@ -6,29 +6,34 @@
   "snapshot_party": "Independent",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/299623",
   "research_status": "blocked",
-  "last_reviewed": "2026-09-29",
+  "last_reviewed": "2026-10-01",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
     "calculation_status": "not_calculable",
-    "note": "Official and professional sources establish hospital and emergency medicine, general practice and a South Western Sydney health-promotion role, but exact appointments, employers, hours, leave and overlaps remain incomplete. Study, athletics without an established employment relationship, nonprofit work, candidacy and elected office are excluded. No public or private full-time years are inferred from year-only ranges or medical titles."
+    "note": "Official and professional sources establish hospital and emergency medicine, general practice and a South Western Sydney health-promotion role, but exact appointments, employers, hours, leave and overlaps remain incomplete. Study, athletics without an established employment relationship, nonprofit work, candidacy and elected office are excluded. No public or private full-time years are inferred from year-only ranges or medical titles. Follow-up confirms additional hospital locations and records medical qualifications and political movement work, while correcting activity dates and conflicting qualification descriptions."
   },
   "career_spells": [
     {
       "spell_id": "299623-athletics",
-      "employer": "Australian athletics teams and sponsors",
+      "employer": "Athletics teams and any employing or sponsoring entity unresolved",
       "role": "Middle-distance runner and Australian representative",
-      "start_date": "1986",
-      "end_date": "2001",
-      "date_precision": "year",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "unknown",
       "headline_sector": "excluded",
       "government_control_at_time": "unknown",
       "counting_status": "excluded",
-      "source_ids": ["src-snapshot", "src-member", "src-ama", "src-world-athletics"],
-      "evidence_note": "The frozen Parliamentary Handbook calls Scamps a professional middle-distance athlete. Her member biography and AMA profile record Australian representation, a World Junior gold medal and Olympic qualification, while World Athletics records results from 1986 through 2001. The sources do not establish continuous paid employment, an employing entity, salary, hours or sponsorship terms across that interval.",
+      "source_ids": [
+        "src-snapshot",
+        "src-member",
+        "src-ama",
+        "src-world-athletics"
+      ],
+      "evidence_note": "The frozen Parliamentary Handbook calls Scamps a professional middle-distance athlete. Her member biography and AMA profile record Australian representation, a World Junior gold medal and Olympic qualification, while World Athletics records results from 1986 through 2001. The sources do not establish continuous paid employment, an employing entity, salary, hours or sponsorship terms across that interval. The previous 1986–2001 endpoints represented observed sporting performances, not employment boundaries, so employment dates are now unknown. No identified sponsor is assumed to have been an employer.",
       "counting_note": "Sporting participation is visible but excluded because substantive paid employment and employer control are not established."
     },
     {
@@ -44,13 +49,18 @@
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-aph-current", "src-member", "src-ama", "src-abc-2022"],
+      "source_ids": [
+        "src-aph-current",
+        "src-member",
+        "src-ama",
+        "src-abc-2022"
+      ],
       "evidence_note": "Scamps and Parliament identify medical study at the University of Sydney, and the AMA records graduation in 1995. The commencement date, study load and overlap with athletics are not published in the cited sources.",
       "counting_note": "Study is excluded under the codebook."
     },
     {
       "spell_id": "299623-hospital-medicine",
-      "employer": "Mona Vale Hospital and unidentified earlier hospital services",
+      "employer": "Mona Vale Hospital; Royal North Shore Hospital; unidentified Canberra hospital service",
       "role": "Hospital and emergency medicine doctor",
       "start_date": "1995",
       "end_date": "2000",
@@ -61,14 +71,20 @@
       "headline_sector": "public",
       "government_control_at_time": "public",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-snapshot", "src-member", "src-abc-2022", "src-healthengine"],
-      "evidence_note": "The frozen occupation record gives hospital and emergency medicine from 1995 to 2000. Scamps identifies Mona Vale Hospital, and the archived professional profile reproduced by Healthengine describes several years in emergency medicine. Other facilities, transfers, appointment dates, payroll entities, hours, leave and breaks are unresolved; historical-profile leads mentioning Canberra and Royal North Shore require primary confirmation.",
+      "source_ids": [
+        "src-snapshot",
+        "src-member",
+        "src-abc-2022",
+        "src-healthengine",
+        "src-practice-archive"
+      ],
+      "evidence_note": "Frozen and current parliamentary records give the collective hospital/emergency medicine interval 1995–2000. The archived practice biography directly confirms emergency work in Canberra, Royal North Shore and Mona Vale, resolving the previous primary-source gap. It supplies no facility-specific dates, payroll entities, transfer sequence, hours, leave or breaks; Canberra is a location, not a verified hospital name. Do not assign the entire collective range to each hospital.",
       "counting_note": "Public hospital work is supported, but year-only boundaries, unresolved appointments and missing full-time evidence prevent an exact duration calculation."
     },
     {
       "spell_id": "299623-postgraduate-study",
       "employer": "Royal College of Surgeons in Ireland, University of Oxford and University of New South Wales",
-      "role": "Postgraduate student; Masters with Honours, Master of Science and Master of Public Health",
+      "role": "Postgraduate study: public health, Oxford science qualification and Dublin tropical medicine diploma",
       "start_date": null,
       "end_date": null,
       "date_precision": "unknown",
@@ -78,8 +94,14 @@
       "headline_sector": "excluded",
       "government_control_at_time": "mixed",
       "counting_status": "excluded",
-      "source_ids": ["src-aph-current", "src-member", "src-ama", "src-abc-2022"],
-      "evidence_note": "Parliament and Scamps list postgraduate qualifications from Ireland, Oxford and UNSW, and the AMA says the Irish and Oxford study followed her 1995 graduation. Exact institutions or awards differ in the secondary summaries, and dates, loads and overlap with medical work are unresolved.",
+      "source_ids": [
+        "src-aph-current",
+        "src-member",
+        "src-ama",
+        "src-abc-2022",
+        "src-practice-archive"
+      ],
+      "evidence_note": "Current Parliament lists MPH (UNSW), MHScT(Hons) (Oxford) and DipTropMed(Hons) (College of Surgeons, Dublin). The practice biography describes the Oxford award as MSc; the earlier ABC summary described Dublin as a masters. Preserve the discrepancy and prefer the official diploma label rather than representing an Irish masters as settled. Award dates, study loads and work overlaps are unresolved.",
       "counting_note": "Study is excluded under the codebook."
     },
     {
@@ -95,8 +117,16 @@
       "headline_sector": "private",
       "government_control_at_time": "private",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-snapshot", "src-member", "src-ama", "src-abc-2022", "src-healthengine"],
-      "evidence_note": "The frozen occupation record gives general practice from 2010 to 2021. Member, AMA and ABC profiles identify Narrabeen practice, and the ABC says she practised there until November 2021. The practice's archived profile identifies her as a practitioner. Exact start and cessation days, employment or contractor status, hours, leave and overlap with health-promotion work are not published.",
+      "source_ids": [
+        "src-snapshot",
+        "src-member",
+        "src-ama",
+        "src-abc-2022",
+        "src-healthengine",
+        "src-practice-archive",
+        "src-abbotsleigh"
+      ],
+      "evidence_note": "The frozen occupation record gives general practice from 2010 to 2021. Member, AMA and ABC profiles identify Narrabeen practice, and the ABC says she practised there until November 2021. The practice's archived profile identifies her as a practitioner. Exact start and cessation days, employment or contractor status, hours, leave and overlap with health-promotion work are not published. Alumni publication independently corroborates November 2021 cessation. Continued inclusion on the March 2022 archived website is not proof of continued practice. Current practice biographies label other doctors independent contractors, but that cannot establish Scamps’s own historical contract.",
       "counting_note": "Private general practice is supported, but employment status, hours, exact boundaries and overlap are insufficient for a full-time duration calculation."
     },
     {
@@ -112,7 +142,10 @@
       "headline_sector": "public",
       "government_control_at_time": "public",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-snapshot", "src-swslhd"],
+      "source_ids": [
+        "src-snapshot",
+        "src-swslhd"
+      ],
       "evidence_note": "The frozen Parliamentary Handbook records health promotion in the 'Southwest Sydney Local Health District' from 2011. NSW Health identifies the official entity as South Western Sydney Local Health District and records that it was established on 1 January 2011. No located source gives Scamps's title, appointment type, payroll entity, end date, hours, leave or relationship to her overlapping Narrabeen general practice.",
       "counting_note": "The government-controlled health district and start year are supported, but the nature, duration and workload of the role are unresolved, so no public full-time duration is counted."
     },
@@ -129,7 +162,10 @@
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-member", "src-ama"],
+      "source_ids": [
+        "src-member",
+        "src-ama"
+      ],
       "evidence_note": "Scamps says she founded the community-led nonprofit in 2019, and the AMA described it as an NGO in March 2022. Incorporation, appointment and cessation dates, remuneration, hours and continued involvement after election are unresolved.",
       "counting_note": "Nonprofit founding and governance are excluded absent evidence of substantive paid employment."
     },
@@ -146,8 +182,13 @@
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-ama", "src-abc-2022", "src-aph-current"],
-      "evidence_note": "The AMA records that Scamps announced her independent candidacy in December 2021, and election sources establish her election on 21 May 2022. The precise announcement day, campaign remuneration, workload and any overlap with medical or nonprofit work are unresolved.",
+      "source_ids": [
+        "src-ama",
+        "src-abc-2022",
+        "src-aph-current",
+        "src-launch"
+      ],
+      "evidence_note": "The AMA records that Scamps announced her independent candidacy in December 2021, and election sources establish her election on 21 May 2022. The precise announcement day, campaign remuneration, workload and any overlap with medical or nonprofit work are unresolved. Contemporary reporting dates the public launch to 5 December 2021; retain month precision for candidacy because preparations or announcement may precede the launch.",
       "counting_note": "Independent candidacy and campaigning are excluded from employment totals."
     },
     {
@@ -163,9 +204,72 @@
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-snapshot", "src-aph-current", "src-abc-2022"],
+      "source_ids": [
+        "src-snapshot",
+        "src-aph-current",
+        "src-abc-2022"
+      ],
       "evidence_note": "The frozen roster, current Parliament listing and ABC election record establish House service from the 21 May 2022 election.",
       "counting_note": "Federal elected office is excluded under the codebook."
+    },
+    {
+      "employer": "Family Planning Australia and University of Queensland",
+      "role": "Sexual and reproductive health; skin cancer medicine qualifications",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "mixed",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-healthengine",
+        "src-practice-archive"
+      ],
+      "evidence_note": "Healthengine practitioner profile names certificates and awarding providers. The practice archive calls them diplomas in sexual reproductive health and skin cancer management without providers. Award levels therefore differ between profiles; dates and study loads are unknown.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "299623-additional-medical-study"
+    },
+    {
+      "employer": "Mackellar Rising",
+      "role": "Co-founder",
+      "start_date": "2021",
+      "end_date": null,
+      "date_precision": "mixed",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "party_organisation",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-better-futures",
+        "src-candidate-response"
+      ],
+      "evidence_note": "Better Futures speaker biography identifies co-founding a community movement supporting an independent candidate. This is political organisation activity; the code does not assert it was a registered party. Founding and cessation dates, pay and workload are not supplied. Her first-person 2022 candidate response establishes founding in 2021 with Anyo Geddes; exact month and day remain unknown.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "299623-mackellar-rising"
+    },
+    {
+      "employer": "Voices of Mackellar",
+      "role": "Founding member",
+      "start_date": "2020",
+      "end_date": null,
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "nonprofit",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-candidate-response"
+      ],
+      "evidence_note": "In her published 2022 candidate response Scamps identifies founding membership in 2020. The organisation describes itself as non-partisan. Exact exit, remuneration and workload are not verified; community consultation is not assumed to be salaried political organising.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "299623-voices-mackellar"
     }
   ],
   "sources": [
@@ -184,7 +288,7 @@
       "url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=299623",
       "publisher": "Parliament of Australia",
       "title": "Dr Sophie Scamps MP",
-      "retrieved": "2026-09-29",
+      "retrieved": "2026-10-01",
       "source_type": "official_biography",
       "locator": "Qualifications and occupation; parliamentary service",
       "note": "Current official profile for qualifications, occupation and House service; direct page access was restricted, so the indexed official record was cross-checked against the frozen snapshot and other primary profiles."
@@ -224,7 +328,7 @@
       "url": "https://healthengine.com.au/doctor/nsw/turramurra/dr-sophie-scamps/p40132",
       "publisher": "Healthengine",
       "title": "Dr Sophie Scamps — Narrabeen Family Medical Practice",
-      "retrieved": "2026-09-29",
+      "retrieved": "2026-10-01",
       "source_type": "professional_profile",
       "locator": "Archived practitioner overview and practice information",
       "note": "Public professional profile identifying Narrabeen Family Medical Practice and prior emergency-medicine experience; it does not supply employment dates or hours."
@@ -248,12 +352,65 @@
       "source_type": "government_record",
       "locator": "About us and services",
       "note": "Primary agency record that the public health district was established on 1 January 2011 and operates population-health services; it does not identify Scamps or resolve her appointment."
+    },
+    {
+      "url": "https://web.archive.org/web/20220304201716/https://www.narrabeenfamilymedical.com.au/staff.html",
+      "publisher": "Narrabeen Family Medical Practice",
+      "title": "The people at Narrabeen Family Medical — 4 March 2022 capture",
+      "source_type": "employer",
+      "locator": "Dr Sophie Scamps biography; practice history",
+      "note": "Historical practice page names emergency work in Canberra, Royal North Shore and Mona Vale, postgraduate degrees and further qualifications. Capture date is not an employment date; practice hours are not individual hours.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-practice-archive"
+    },
+    {
+      "url": "https://www.betterfutures.org.au/forum_dr_sophie_scamps",
+      "publisher": "Better Futures Australia",
+      "title": "Dr Sophie Scamps — forum speaker",
+      "source_type": "professional_profile",
+      "locator": "Speaker biography, GP and co-founder of Mackellar Rising",
+      "note": "Identifies a distinct community political movement co-founding role and Our Blue Dot involvement; appointment dates, pay and workload absent.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-better-futures"
+    },
+    {
+      "url": "https://www.abbotsleigh.nsw.edu.au/wp-content/uploads/2023/04/TheLoomDecember2022.pdf",
+      "publisher": "Abbotsleigh Old Girls",
+      "title": "The Loom, December 2022",
+      "source_type": "professional_profile",
+      "locator": "Printed p6 / PDF index5, Sophie Scamps",
+      "note": "Alumni account corroborates Narrabeen practice until November 2021 and Our Blue Dot founding in 2019.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-abbotsleigh"
+    },
+    {
+      "url": "https://www.northernbeachesadvocate.com.au/2021/12/10/challenge-for-mackellar/",
+      "publisher": "Northern Beaches Advocate",
+      "title": "Challenge for Mackellar, 10 December 2021",
+      "source_type": "news",
+      "locator": "Campaign launch paragraph",
+      "note": "Reports public launch on 5 December 2021; no claim this was the start of all preparatory campaigning.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-launch"
+    },
+    {
+      "url": "https://www.pittwateronlinenews.com/Mackellar-Candidates-2022-Federal-Election.php",
+      "publisher": "Pittwater Online News",
+      "title": "Mackellar candidates — 2022 federal election",
+      "source_type": "news",
+      "locator": "Sophie Scamps, first-person candidate response",
+      "note": "Scamps identifies founding membership of Voices of Mackellar in 2020 and founding Mackellar Rising with Anyo Geddes in 2021.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-candidate-response"
     }
   ],
   "research_notes": [
     "Obtain appointment and payroll records for hospital and emergency-medicine work from 1995 to 2000, confirming or rejecting historical-profile leads for Canberra and Royal North Shore and separating those from the supported Mona Vale placement with exact dates, hours, leave and breaks.",
     "Obtain Narrabeen Family Medical Practice records for the exact 2010–November 2021 interval, employment or contractor status, substantive hours, leave and cessation; resolve the 2000–2010 employment gap and postgraduate-study overlaps.",
     "Clarify the South Western Sydney Local Health District health-promotion role recorded from 2011: title, business unit, appointment type, payroll entity, end date, hours, leave and overlap with Narrabeen general practice.",
-    "Determine whether athletics or sponsorship constituted paid substantive employment, and obtain Our Blue Dot incorporation, governance, remuneration and workload records. Resolve campaign remuneration and overlap from December 2021 to election."
+    "Determine whether athletics or sponsorship constituted paid substantive employment, and obtain Our Blue Dot incorporation, governance, remuneration and workload records. Resolve campaign remuneration and overlap from December 2021 to election.",
+    "2026-10-01 follow-up: recovered primary archived practice biography confirming Canberra, Royal North Shore and Mona Vale emergency work; no facility dates or ordinary hours. Added named medical qualification providers and Mackellar Rising co-founding. Corrected athletics dates that previously represented performance observations and the unverified Dublin masters description.",
+    "Searched health-promotion role, public professional profiles, hospital names, Oxford dates and part-time references. No Scamps-specific SWSLHD contract, roster, payroll or cessation was found; unrelated doctors’ hours and current independent-contractor arrangements were not transferred. 2000–2010 work/study chronology, individual hospital boundaries and leave remain open.",
+    "Next leads: historical practice personnel biographies, public hospital appointment/department records and contemporaneous university award records. Oxford club athletics indexes a 2004 performance, which is not proof of degree boundaries or professional work; direct club page returned Internal Error. First-person candidate response now confirms Voices of Mackellar founding in 2020 and Mackellar Rising in 2021; January 2021 Voices exit remains unverified. Women in Public Health lists her as a founding member alongside her MP role, without separate employment evidence."
   ]
 }

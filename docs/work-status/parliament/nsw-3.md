@@ -48,15 +48,16 @@ Batch coverage, record fields, dates, enums, source references, build_careers.lo
 
 
 
+
 ## Nationwide follow-up pass — 2026-10-01
 
-- Active writer: original 2026-10-01 12:00 Brisbane cycle, continuation 0. Started 2026-10-01T12:03:48+10:00. Latest checkpoint 2026-10-01T19:23:44+10:00; attempt end not observed. No active remote conflict observed.
+- Active writer: original 2026-10-01 12:00 Brisbane cycle, continuation 0. Started 2026-10-01T12:03:48+10:00. Latest checkpoint 2026-10-01T19:29:48+10:00; attempt end not observed. No active remote conflict observed.
 - Nationwide initial audit at 2026-10-01T16:36:18+10:00: 226/226 initial, 0 unstarted, 226 unresolved, 0 research-complete. Day initial additions 80; this attempt initial additions 73, deduplicated from remote member additions. No completed research restarted.
 - Follow-up pass follows plan/batch/member order, preserving recorded gaps and last-review dates; current batch records retain their individual prior review dates. All batches remain in the unresolved queue; this is not completion.
 - Starting follow-up branch head: 7298fa554d277b48374af242a87c75060258f4b0; starting batch initial count 19, complete 0. Starting execution national baseline153/226; WA-1 head79b1d5c96ee3dde69dd2f5453e96a2aa434baae2.
 - Isolated checkout tracks the assigned remote branch at detached HEAD because an older local worktree has unrelated modified shared outputs; those files and its local branch are untouched. Commits update only work/parliament-nsw-3 without force. Local branch-switch error was recovered by this isolated checkout.
-- Next follow-up member: 299623 SCAMPS, Sophie.
-- This attempt/cycle:73 new initial, 45 materially enriched existing, 0 newly complete. Brisbane-day:80 new initial, 45 enriched existing, 0 newly complete. Counts include current member only after remote verification; checkpoint-only/repeated IDs excluded.
+- Next follow-up member: 274506 SHARMA, Devanand (Dave) Noel.
+- This attempt/cycle:73 new initial, 46 materially enriched existing, 0 newly complete. Brisbane-day:80 new initial, 46 enriched existing, 0 newly complete. Counts include current member only after remote verification; checkpoint-only/repeated IDs excluded.
 - OUTCOME: ongoing. STOPPING REASON: none; continue sequential research after remote verification. Successor not requested. Scheduler terminal status unavailable; predecessor successor execution unverified.
 - Validation: batch check226/13, individual JSON/source/date/enums and build_careers.load_records; only assigned member and this checkpoint changed.
 - Verified national branch heads at initial-pass completion: {"act": "a9c47f619aa170d9df024231e0c3d6631e346837", "nsw-1": "c0dae12c0ce41288b38d3f02f9b661e532b91b24", "nsw-2": "a9be3e613ae49d0fb64ff0c8ea67e67645c18fc8", "nsw-3": "7298fa554d277b48374af242a87c75060258f4b0", "nt": "20e78c5f0d2d2069ead95b0df85fbe49e722fb6b", "qld-1": "af1095e7dc40095c4c2ec7b98363e6d1985c7080", "qld-2": "ee72cfae982567c09bd31c4b2181a4e76882dd9b", "sa": "bdc9586a439bcc400f537a39c7d6ffa305b3e307", "tas": "133fa5642fc57d1046ada547da70105ee64fc4a1", "vic-1": "c1d7fe74ec61b56e3420250cc0541c6e1d2fa50b", "vic-2": "8095f70c11c614d88c38f21a55e5f2306e9f3178", "wa-1": "9a20df4c6e839ed9230b14aeb0deb67d2b548e37", "wa-2": "eb43b3048789389ecba2de0eb34f52a6123ef5f9"}
@@ -74,5 +75,7 @@ Batch coverage, record fields, dates, enums, source references, build_careers.lo
 - 298840; 2026-10-01; materially enriched=True: Identified Tefol and Double R line-boring employers; added 2010 Double R and late-2011 Rio Tinto chronology, Rutherford branch and union/podcast activity. Corrected whole-period private-control assumption after September 2017 Yancoal acquisition; payroll allocation and exact hours/leave remain unresolved.
 
 - 159771; 2026-10-01; materially enriched=True: Resolved Parklands Trust retirement to 7 July 2010; added Premier’s Council for Women and distinct party offices, contemporaneous governance/legal overlap and Screen NSW legal identity. Removed unsupported election-day legal-employment end. Private hours, supermarket and electorate employer remain unresolved.
+
+- 299623; 2026-10-01; materially enriched=True: Primary archive confirms Canberra, Royal North Shore and Mona Vale emergency work; added medical qualification providers and Mackellar Rising role; corrected athletics employment boundaries and conflicting Dublin award description. Hours, hospital dates, 2000–2010 and SWSLHD overlap remain unresolved.
 
 - Recovered GitHub error in preceding Farley save: github_create_tree error_code UNKNOWN, "RemoteProtocolError: Server disconnected without sending a response." Remote head was unchanged; a subsequent attempt succeeded and commit 2c2b6b0b0cd894c10f4afed73bb417203976c641 and both files were remotely verified. Not a terminal error.
