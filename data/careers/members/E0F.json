@@ -6,12 +6,12 @@
   "snapshot_party": "Liberal Party of Australia",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/E0F",
   "research_status": "blocked",
-  "last_reviewed": "2026-09-29",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
     "calculation_status": "not_calculable",
-    "note": "Police service is documented, but continuity, full-time status and exact boundaries are unresolved; early camp work and the 2010–2013 interval also remain incomplete. Neither headline can be calculated."
+    "note": "Two separate Victoria Police periods are evidenced, including a return between parliamentary terms. Exact boundaries, full-time status, leave and2001break remain unresolved; early outdoor work also incomplete. Totals remainnull."
   },
   "career_spells": [
     {
@@ -28,9 +28,10 @@
       "government_control_at_time": "unknown",
       "counting_status": "insufficient_evidence",
       "source_ids": [
-        "src-3"
+        "src-3",
+        "src-6"
       ],
-      "evidence_note": "Historical self-description reports two years of camp work after school. Employer, years, pay basis and hours are not established; do not infer 1986–1988.",
+      "evidence_note": "Historical self-description reports two years of camp work after school. Employer, years, pay basis and hours are not established; do not infer 1986\u20131988. Authorised maiden speech corroborates youth outdoor instruction after school, strengthening attribution; employer remains unidentified.",
       "counting_note": "Dates, employer control and/or substantive full-time status remain insufficient for a duration calculation; unknown is not zero."
     },
     {
@@ -50,9 +51,11 @@
         "src-1",
         "src-2",
         "src-3",
-        "src-4"
+        "src-4",
+        "src-6",
+        "src-5"
       ],
-      "evidence_note": "Official sources place police service within 1988–2004, detective work in 1990–2000 and senior sergeant work in 2003–2004. These are nested roles, not additive spells. A historical campaign page says he resigned for the 2001 election; reinstatement date and break length are unknown, so this enclosing interval does not assert continuous employment. Full-time status is unverified.",
+      "evidence_note": "Official sources place police service within 1988\u20132004, detective work in 1990\u20132000 and senior sergeant work in 2003\u20132004. These are nested roles, not additive spells. A historical campaign page says he resigned for the 2001 election; reinstatement date and break length are unknown, so this enclosing interval does not assert continuous employment. Full-time status is unverified. Maiden speech dates sergeant promotion to1997 and senior-sergeant promotion to2003, resolving the less reliable campaign-page2006claim. The later18-year recollection is inconsistent with enclosing1988\u20132004andABC13years; not accepted as duration.",
       "counting_note": "Dates, employer control and/or substantive full-time status remain insufficient for a duration calculation; unknown is not zero."
     },
     {
@@ -60,8 +63,8 @@
       "employer": "Educational institution not established by retrieved primary material",
       "role": "Master's in Innovation Service Management; counter-terrorism thesis",
       "start_date": null,
-      "end_date": null,
-      "date_precision": "unknown",
+      "end_date": "2003",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "study",
@@ -70,9 +73,10 @@
       "counting_status": "excluded",
       "source_ids": [
         "src-2",
-        "src-3"
+        "src-3",
+        "src-6"
       ],
-      "evidence_note": "Qualification confirmed; study timing and overlap with police employment remain unknown. No employment inferred from study.",
+      "evidence_note": "Authorised maiden speech states masters completion in2003, concurrent with senior-sergeant promotion. Start, attendance mode, leave and educational institution remain unverified by inspected primary material.",
       "counting_note": "Excluded from the two employment headlines under the codebook."
     },
     {
@@ -115,6 +119,25 @@
       ],
       "evidence_note": "December 2013 parliamentary speech confirms return. Home Affairs mentions re-election in 2016 but does not establish first return as 2016. Open-ended entry is not evidence of continuity beyond the frozen roster.",
       "counting_note": "Excluded from the two employment headlines under the codebook."
+    },
+    {
+      "employer": "Victoria Police",
+      "role": "Detective senior sergeant; return after2010 parliamentary defeat",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "public_service",
+      "headline_sector": "public",
+      "government_control_at_time": "public",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-5"
+      ],
+      "evidence_note": "11December2013parliamentary speech explicitly recounts return to Victoria Police after losing the seat in2010. Distinct second police spell before2013return to parliament; appointment/departure dates and hours not supplied. Do not automatically fill the entire2010\u20132013interval.",
+      "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
+      "spell_id": "E0F-06"
     }
   ],
   "sources": [
@@ -152,7 +175,7 @@
       "source_id": "src-4",
       "url": "https://www.abc.net.au/news/elections/federal/2013/guide/ltro",
       "publisher": "Australian Broadcasting Corporation",
-      "title": "La Trobe — 2013 election guide",
+      "title": "La Trobe \u2014 2013 election guide",
       "retrieved": "2026-09-29",
       "source_type": "news",
       "locator": "Jason Wood candidate profile and electorate history",
@@ -162,18 +185,31 @@
       "source_id": "src-5",
       "url": "https://www.openaustralia.org.au/debate/?id=2013-12-11.111.1",
       "publisher": "OpenAustralia Foundation / House of Representatives Hansard",
-      "title": "Jason Wood — Address-in-Reply, 11 December 2013",
-      "retrieved": "2026-09-29",
+      "title": "Jason Wood \u2014 Address-in-Reply, 11 December 2013",
+      "retrieved": "2026-10-02",
       "source_type": "other",
-      "locator": "Opening paragraph",
-      "note": "Republished parliamentary speech confirms his return to Parliament in 2013."
+      "locator": "Closing career paragraph beginning After losing the seat of La Trobe in2010",
+      "note": "Full career paragraph inspected this follow-up: returned to Victoria Police after2010defeat as detective senior sergeant; prior18-year statement conflicts with other chronology and is not converted into full-time years."
+    },
+    {
+      "url": "https://www.jasonwood.com.au/maiden_speech",
+      "publisher": "Jason Wood MP",
+      "title": "Maiden speech,2004",
+      "source_type": "official_biography",
+      "locator": "Outdoor instruction paragraph;1997sergeant and2003senior-sergeant/masters paragraphs",
+      "note": "Authorised member site corroborates early youth outdoor instruction; gives1997sergeant promotion and2003masters completion. No employer for outdoor work or full-time hours.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-6"
     }
   ],
   "research_notes": [
-    "Follow up Victoria Police appointment, resignation, reinstatement and leave records, especially the stated 2001 resignation; verify substantive full-time service, precise boundaries, early school-camp employer and all paid work during 2010–2013.",
-    "The 1988–2004 interval is an enclosing career range, not 16 countable full-time years. ABC's 13-year description and the 2001 resignation suggest a break requiring documentary resolution. Do not silently reconcile them by inventing dates.",
+    "Follow up Victoria Police appointment, resignation, reinstatement and leave records, especially the stated 2001 resignation; verify substantive full-time service, precise boundaries, early school-camp employer and all paid work during 2010\u20132013.",
+    "The 1988\u20132004 interval is an enclosing career range, not 16 countable full-time years. ABC's 13-year description and the 2001 resignation suggest a break requiring documentary resolution. Do not silently reconcile them by inventing dates.",
     "Historical campaign page gives 2006 for a police promotion despite parliamentary service commencing in 2004; this is retained as an unresolved source discrepancy, not adopted as a job boundary. Its attribution and early camp claim need stronger archival corroboration.",
-    "Searched official parliamentary and ministerial biographies, Victoria Police employer material, 2013 election reporting, historical campaign biography, public professional-profile results and 2010–2013 employment terms. Namesake results and another ABC candidate's IT consultancy were excluded. No reliable full-time or gap-employment evidence was retrieved.",
-    "Potential follow-up: National Library archived campaign site catalogue nla.arc-79223 and original first speech; archive content not yet retrieved. Last follow-up 2026-09-29. Political appointments, party candidacy and community activities do not prove qualifying paid employment."
+    "Searched official parliamentary and ministerial biographies, Victoria Police employer material, 2013 election reporting, historical campaign biography, public professional-profile results and 2010\u20132013 employment terms. Namesake results and another ABC candidate's IT consultancy were excluded. No reliable full-time or gap-employment evidence was retrieved.",
+    "Potential follow-up: National Library archived campaign site catalogue nla.arc-79223 and original first speech; archive content not yet retrieved. Last follow-up 2026-09-29. Political appointments, party candidacy and community activities do not prove qualifying paid employment.",
+    "2026-10-02 follow-up read the complete2013speech career paragraph, establishing a previously omitted return to Victoria Police after2010defeat. Added separate undated spell bounded narratively by parliamentary terms. Authorised2004maiden speech confirms early outdoor instruction,1997sergeant promotion and2003masters completion/senior-sergeant promotion.",
+    "Prior initial pass inspected only opening of2013speech; this follow-up corrects that evidence gap without discarding prior sources. Eighteen-year police recollection differs from official1988\u20132004andABC13-year account;2001resignation and reinstatement still need primary service evidence. Neither title nor policing duties prove substantive full-time status.",
+    "Targeted2011police/2010\u201313work and university searches produced namesakes and duplicate summaries, no exact return dates or hours. APH search returned robots restriction; accessible authorised speech used. Next leads: Victoria Police service/appointment material and thesis catalogue; early school-camp employer stillunknown. Last follow-up2026-10-02; blocked retained."
   ]
 }
