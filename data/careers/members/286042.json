@@ -6,7 +6,7 @@
   "snapshot_party": "Community Strong Australia",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/286042",
   "research_status": "blocked",
-  "last_reviewed": "2026-09-29",
+  "last_reviewed": "2026-10-01",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -131,7 +131,7 @@
         "src-2",
         "src-6"
       ],
-      "evidence_note": "Official and professional biographies agree 2008–2016. Year-only dates, family ownership and title do not establish hours. Later reported involvement retained separately.",
+      "evidence_note": "Official and professional biographies agree 2008\u20132016. Year-only dates, family ownership and title do not establish hours. Later reported involvement retained separately.",
       "counting_note": "Dates, employer control and/or substantive full-time status remain insufficient for a duration calculation; unknown is not zero."
     },
     {
@@ -190,9 +190,10 @@
         "src-3",
         "src-4",
         "src-5",
-        "src-6"
+        "src-6",
+        "src-resignation"
       ],
-      "evidence_note": "Employer announcement gives 14 August 2017; annual report says appointment 30 August. Retain month precision pending distinction between employment and board appointment. 2021 report gives December cessation; nonprofit remains separate.",
+      "evidence_note": "Employer announcement states intended CEO commencement14August2017. The30August2017 date appears in the Directors meeting-attendance table and Foundation governance list, so is separately represented as governance appointment. Actual payroll start still requires confirmation; retain August precision. Employer22November2021 statement says she will remain until Christmas; annual report confirms December cessation. Individual hours/leave unresolved.",
       "counting_note": "Excluded from the two employment headlines under the codebook."
     },
     {
@@ -233,6 +234,45 @@
       ],
       "evidence_note": "Ongoing at frozen snapshot; snapshot party preserved independently of older biography labels.",
       "counting_note": "Excluded from the two employment headlines under the codebook."
+    },
+    {
+      "employer": "Australian Business and Community Network",
+      "role": "Board director (concurrent CEO)",
+      "start_date": "2017-08-30",
+      "end_date": null,
+      "date_precision": "day",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "nonprofit",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-4"
+      ],
+      "evidence_note": "2018 Directors attendance table explicitly gives appointment30August2017. Distinct governance capacity concurrent with CEO employment; no extra employment duration. End date unknown.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "286042-12"
+    },
+    {
+      "employer": "ABCN Scholarship Foundation",
+      "role": "Board/committee member (concurrent ABCN CEO)",
+      "start_date": "2017-08-30",
+      "end_date": null,
+      "date_precision": "day",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "nonprofit",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-foundation",
+        "src-4"
+      ],
+      "evidence_note": "2017 report names Foundation board and2018 report committee, with30August2017 appointment. Legal governance structure and cessation remain to verify; no additional full-time employment inferred.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "286042-13"
     }
   ],
   "sources": [
@@ -271,20 +311,20 @@
       "url": "https://abcn.com.au/wp-content/uploads/2020/03/2018-ABCN-Annual-Report.pdf",
       "publisher": "ABCN",
       "title": "Annual report 2018",
-      "retrieved": "2026-09-29",
+      "retrieved": "2026-10-01",
       "source_type": "employer",
-      "locator": "Page 28 board biographies and attendance table",
-      "note": "Lists CEO appointment 30 August 2017, differing from announcement."
+      "locator": "Printed pp22 and30, Foundation committee and Board meeting-attendance table; p28 biographies",
+      "note": "Table is explicitly Directors, includes all directors in office, and gives Allegra Spender appointment30August2017. Foundation committee also names her. Indexed primary extracts used after PDF follow-up fetch failures; dates pertain to governance, not necessarily payroll."
     },
     {
       "source_id": "src-5",
       "url": "https://abcn.com.au/wp-content/uploads/2022/04/2021-ABCN-Annual-Report.pdf",
       "publisher": "ABCN",
       "title": "Annual report 2021",
-      "retrieved": "2026-09-29",
+      "retrieved": "2026-10-01",
       "source_type": "employer",
       "locator": "Page 28, Allegra Spender biography",
-      "note": "CEO August 2017–December 2021."
+      "note": "CEO August2017\u2013December2021. The nearby25November2021 resignation label belongs to Kate Rattigan, not Spender; do not transfer dates between columns."
     },
     {
       "source_id": "src-6",
@@ -294,7 +334,7 @@
       "retrieved": "2026-09-29",
       "source_type": "professional_profile",
       "locator": "Career history",
-      "note": "2008–2016 Carla Zampatti role; public teaching hospital and nonprofit ABCN."
+      "note": "2008\u20132016 Carla Zampatti role; public teaching hospital and nonprofit ABCN."
     },
     {
       "source_id": "src-7",
@@ -304,7 +344,7 @@
       "retrieved": "2026-09-29",
       "source_type": "professional_profile",
       "locator": "Volunteer Experience, TechnoServe; direct opening returned 999",
-      "note": "Indexed September 2003–August 2004 volunteer placement only; full profile not accessed."
+      "note": "Indexed September 2003\u2013August 2004 volunteer placement only; full profile not accessed."
     },
     {
       "source_id": "src-8",
@@ -335,12 +375,34 @@
       "source_type": "news",
       "locator": "Work handover paragraph",
       "note": "Reports ongoing fashion-company involvement in 2021; conflicts with simple 2016 cessation narrative."
+    },
+    {
+      "url": "https://abcn.com.au/allegra-spender-resignation/",
+      "publisher": "Australian Business and Community Network",
+      "title": "Allegra Spender resignation: Statement from ABCN Board, 22 November 2021",
+      "source_type": "employer",
+      "locator": "Statement opening and intended interim CEO paragraph; publication date from media-release archive",
+      "note": "Employer says she will remain until Christmas while Greg George is to become interim CEO. Relevant indexed full text available; direct URL redirects returned500. Christmas is not encoded as an exact cessation day.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-resignation"
+    },
+    {
+      "url": "https://abcn.com.au/wp-content/uploads/2020/03/2017-ABCN-Annual-Report.pdf",
+      "publisher": "Australian Business and Community Network",
+      "title": "Annual Report 2017",
+      "source_type": "employer",
+      "locator": "Printed p20, ABCN Foundation board; Board of Directors biographies",
+      "note": "Identifies Foundation board membership with30August2017 appointment. Governance evidence is separate from announced14August CEO employment start.",
+      "retrieved": "2026-10-01",
+      "source_id": "src-foundation"
     }
   ],
   "research_notes": [
     "Seek McKinsey, Treasury and King's College Hospital appointment/hours/leave records, Carla Zampatti employment and later management capacity, ABCN start-day reconciliation, solar governance boundaries and study overlaps. Verify the secondary lead for a 2007 Women's Health & Research Centre consultancy before adding a factual spell.",
     "2026-09-29 initial avenues: APH chronology and personal biography, ABCN appointment/resignation pages and 2018/2021 reports, Tax Institute biography, public indexed LinkedIn volunteer entry, TechnoServe interview and solar-company offer document. Direct LinkedIn returned 999; no login or bypass. ABCN resignation direct link returned 404, so cessation uses annual report.",
     "Preserve two discrepancies: ABCN announced commencement 14 August 2017 versus annual-report appointment 30 August 2017; official fashion MD end 2016 versus later press description of 2021 management. Neither supports manufactured continuous dates. Do not attribute other ABCN directors' board positions to Spender.",
-    "Searches for personal full-time evidence mainly returned jobs in the MP's office, which do not prove her own hours. CEO and MD titles do not establish full-time status. Broader company directorships and 2007 consultancy remain follow-up; record is partial, not complete."
+    "Searches for personal full-time evidence mainly returned jobs in the MP's office, which do not prove her own hours. CEO and MD titles do not establish full-time status. Broader company directorships and 2007 consultancy remain follow-up; record is partial, not complete.",
+    "2026-10-01 follow-up: ABCN2017/2018 governance tables and2021 annual report, employer resignation statement/archive, public professional-profile index, Treasury/hospital and consultant searches, personal parental-leave commentary, public interests-register leads. Identified separate ABCN and Foundation governance appointments; reconciled30August board date against14August announced CEO date without asserting verified payroll start. November resignation announcement is not employment cessation; nearby25November date is another director\u2019s.",
+    "Women\u2019s Health & Research Centre2007 consultancy remains a Wikipedia-derived lead: no independent primary corroboration found. LinkedIn returned999; ABCN PDF follow-up URLs returned404/500 redirects, while indexed extracts remained available. OpenPolitics detailed interests are subscriber-only and were not accessed; APH register query blocked by robots. No broad directorship list adopted from unverified commentary. Treasury/McKinsey/hospital hours and contracts, Carla post2016 capacity, actual CEO start and all leave remain unresolved; advance pending fresh records."
   ]
 }
