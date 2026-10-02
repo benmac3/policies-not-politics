@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/245392",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-01",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -54,7 +54,7 @@
         "src-6",
         "src-9"
       ],
-      "evidence_note": "Frozen founder interval retained. Public profile lists broader July 2002–June 2022 affiliation; not assumed continuous paid employment. Charity described as volunteer-run; individual pay and operational roles need primary confirmation.",
+      "evidence_note": "Frozen founder interval retained. Public profile lists broader July 2002–June 2022 affiliation; not assumed continuous paid employment. Charity described as volunteer-run; individual pay and operational roles need primary confirmation. Public profile explicitly labels broader2002–2022involvement Volunteer Ops Manager, recorded separately from frozen founder interval.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "245392-02"
     },
@@ -101,9 +101,9 @@
     {
       "employer": "Remote Area Health Corps, Aspen Medical nonprofit subsidiary",
       "role": "Establishment work and first Northern Territory manager",
-      "start_date": "2008",
-      "end_date": null,
-      "date_precision": "year",
+      "start_date": "2008-10",
+      "end_date": "2010-04",
+      "date_precision": "month",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "nonprofit",
@@ -113,9 +113,10 @@
       "source_ids": [
         "src-1",
         "src-4",
-        "src-5"
+        "src-5",
+        "src-6"
       ],
-      "evidence_note": "Frozen founder year expanded using parent company’s identification of first NT Manager. Legal employer payroll, finish date and hours unresolved. Federal funding does not make this a government job; not assumed founding owner.",
+      "evidence_note": "Frozen founder year expanded using parent company’s identification of first NT Manager. Legal employer payroll, finish date and hours unresolved. Federal funding does not make this a government job; not assumed founding owner. Correct public professional profile now independently supplies October2008–April2010. Months refine previous open endpoint; overlap with presidential advisory and coarse Vinnies interval remains unresolved, no assumed full-time duration.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "245392-05"
     },
@@ -261,6 +262,25 @@
       "evidence_note": "Frozen service retained; later envoy duties belong to elected parliamentary career, not pre-election public service.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "245392-12"
+    },
+    {
+      "employer": "Life, Love and Health Inc",
+      "role": "Volunteer operations manager",
+      "start_date": "2002-07",
+      "end_date": "2022-06",
+      "date_precision": "month",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unpaid_work",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-6"
+      ],
+      "evidence_note": "Self-described public profile gives months and volunteer title. Affiliation/activity span, not proof of continuous work or20full-time years; overlaps co-founder record and other employment without addition.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "245392-13"
     }
   ],
   "sources": [
@@ -319,9 +339,9 @@
       "publisher": "Luke Gosling / LinkedIn",
       "title": "Public professional profile",
       "source_type": "professional_profile",
-      "locator": "Indexed Life Love and Health, NT MPs and fellowship entries",
-      "note": "Index shows charity July 2002–June 2022; NT MPs January 2012–April 2016; St James Ethics Centre 2009–2010. Direct open returned (999) Unknown Status Code; unseen role details not inferred.",
-      "retrieved": "2026-10-01",
+      "locator": "Indexed Life Love and Health, NT MPs and fellowship entries; RAHC manager and volunteer operations manager indexed experience entries",
+      "note": "Index shows charity July 2002–June 2022; NT MPs January 2012–April 2016; St James Ethics Centre 2009–2010. Direct open returned (999) Unknown Status Code; unseen role details not inferred. Public index now supplies RAHC October2008–April2010 and Life Love and Health Volunteer Ops Manager July2002–June2022. These are primary self-described entries, distinct from earlier unadopted broker result; hours not exposed.",
+      "retrieved": "2026-10-02",
       "source_id": "src-6"
     },
     {
@@ -391,6 +411,8 @@
     "Follow-up: RAHC first manager contract and termination, Vinnies historical 2010–11 annual/employment records, presidential adviser contracting and whether concurrent with RAHC; charity operational/volunteer history through 2022. Government funding not government control.",
     "Follow-up: resolve 2011 versus January 2012 political-staff start, precise Crossin/Snowdon office transitions and gaps; identify tourism/event contracting and any other paid work. January 2010–January 2011 CEO and October 2008–April 2010 RAHC dates appeared in a people-data broker result but were not adopted without primary corroboration.",
     "Searched own/official/Defence biographies, historical first speech, employer anniversary post, government RAHC evaluation, Vinnies annual-report searches, public professional profile, fellowship alumni and event history. No individual substantive hours established. Direct APH first speech restricted and LinkedIn (999) Unknown Status Code; public indexed evidence used without access bypass. Charity/profile span remains affiliation, not proven salary.",
-    "No new roster or party snapshot applied. Later media allegations unrelated to employment-history task excluded. Missing evidence is not zero; blocked record requires follow-up across remaining gaps."
+    "No new roster or party snapshot applied. Later media allegations unrelated to employment-history task excluded. Missing evidence is not zero; blocked record requires follow-up across remaining gaps.",
+    "Follow-up2026-10-02: public professional index independently establishes RAHC managerOctober2008–April2010 and charity volunteer operations roleJuly2002–June2022. Earlier broker-only RAHC lead now primary-corroborated; broker-only VinniesJanuary2010–January2011 remains unadopted.",
+    "Targeted employer/annual-report and Army full-time searches returned later charity supporter records or general recruiting commentary, not individual historic hours. Another former soldier memoir describes own regular service and work with Gosling; its service conditions cannot be attributed to Gosling. Civilian overlap and regular/reserve dates remain open. Next leads: originalRAHC2008–10staff reports, Vinnies2010–11appointment record, Defence individual service-category chronology."
   ]
 }
