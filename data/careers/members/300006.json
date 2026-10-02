@@ -6,12 +6,12 @@
   "snapshot_party": "Independent",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/300006",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-01",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
     "calculation_status": "not_calculable",
-    "note": "Multiple commercial employers and a nonprofit executive role are established. Chaney explicitly reports long part-time work and career breaks, but their employer-specific boundaries remain unknown. No exact full-time public/private years can be calculated."
+    "note": "Added named MBA and four governance roles, official Trust commencement and conflicting cessation evidence, employer account of Anglicare departure and further first-person part-time history. Employer-specific hours and leave remain unresolved; no full-time years calculated."
   },
   "career_spells": [
     {
@@ -167,9 +167,10 @@
       "source_ids": [
         "src-1",
         "src-2",
-        "src-5"
+        "src-5",
+        "src-10"
       ],
-      "evidence_note": "Official year range; nonprofit community-service work. RAP lists group participation until February 2022, not a proven employment end date.",
+      "evidence_note": "Official year range; nonprofit community-service work. RAP lists group participation until February 2022, not a proven employment end date. Employer annual report places farewell after May 2022 election and describes an acting replacement; employment cessation and campaign leave are not narrowed to election day or RAP membership cessation.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "300006-08"
     },
@@ -193,8 +194,8 @@
       "spell_id": "300006-09"
     },
     {
-      "employer": "University of Western Australia / MBA institution not yet verified",
-      "role": "Arts/law and MBA study",
+      "employer": "University of Western Australia",
+      "role": "Law study",
       "start_date": null,
       "end_date": null,
       "date_precision": "unknown",
@@ -206,9 +207,10 @@
       "counting_status": "excluded",
       "source_ids": [
         "src-1",
-        "src-2"
+        "src-2",
+        "src-9"
       ],
-      "evidence_note": "UWA arts/law established; qualification timing and MBA provider need further primary evidence.",
+      "evidence_note": "UWA alumni profile identifies LLB 1998; actual attendance dates and any separately claimed arts qualification remain to verify. MBA separated below.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "300006-10"
     },
@@ -217,7 +219,7 @@
       "role": "Member for Curtin",
       "start_date": "2022-05-21",
       "end_date": null,
-      "date_precision": "day",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -230,6 +232,111 @@
       "evidence_note": "Frozen roster first federal service date; ongoing at snapshot.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "300006-11"
+    },
+    {
+      "employer": "Australian Graduate School of Management",
+      "role": "MBA study",
+      "start_date": "2002",
+      "end_date": "2003",
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-7",
+        "src-8",
+        "src-9"
+      ],
+      "evidence_note": "Official Parliament and UWA identify institution; public professional profile supplies attendance years. Study excluded; do not treat MBA as employment.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "300006-12"
+    },
+    {
+      "employer": "Next25",
+      "role": "Board member",
+      "start_date": "2013-03",
+      "end_date": "2022-01",
+      "date_precision": "month",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "nonprofit",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-7",
+        "src-8"
+      ],
+      "evidence_note": "Public profile dates corroborate official board identity. Governance, not substantive employment; remuneration unknown.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "300006-13"
+    },
+    {
+      "employer": "Awesome Arts",
+      "role": "Board member",
+      "start_date": "2014-05",
+      "end_date": "2016-07",
+      "date_precision": "month",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "nonprofit",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-7",
+        "src-8",
+        "src-9"
+      ],
+      "evidence_note": "Public profile dates and official/university biographies support governance. Paid status and hours unknown.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "300006-14"
+    },
+    {
+      "employer": "Lifeline WA",
+      "role": "Board member, deputy chair and chair",
+      "start_date": "2010-12",
+      "end_date": "2015-12",
+      "date_precision": "month",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "nonprofit",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-7",
+        "src-8",
+        "src-9"
+      ],
+      "evidence_note": "Public profile provides overall board interval; title-change dates and remuneration unknown. Governance excluded.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "300006-15"
+    },
+    {
+      "employer": "Western Australian Regional Development Trust",
+      "role": "Trust member",
+      "start_date": "2016-12-12",
+      "end_date": null,
+      "date_precision": "mixed",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "public_service",
+      "headline_sector": "excluded",
+      "government_control_at_time": "public",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-7",
+        "src-8",
+        "src-11",
+        "src-12"
+      ],
+      "evidence_note": "Official report states commencement 12 December 2016; 2017–2018 report says retired during year before 30 June 2018. Profile instead labels January 2017–July 2018; discrepancy retained. Exact cessation not supplied. Advisory governance, not substantive public-service employment.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "300006-16"
     }
   ],
   "sources": [
@@ -298,16 +405,79 @@
       "publisher": "Kate Chaney / LinkedIn",
       "title": "Publicly indexed professional profile",
       "source_type": "professional_profile",
-      "locator": "Independent consultant, Jan 2017–Oct 2017",
-      "note": "Search index exposes month-level consulting spell. No authenticated access or scraping used; incomplete profile requires corroboration.",
-      "retrieved": "2026-10-01",
+      "locator": "Education and Organizations, plus previously retrieved independent consultant entry",
+      "note": "Public profile supplies AGSM 2002–2003 and month-level dates for Next25, Awesome Arts, Lifeline WA and Regional Development Trust. Trust dates conflict with official annual reports; primary reports preferred.",
+      "retrieved": "2026-10-02",
       "source_id": "src-7"
+    },
+    {
+      "url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=300006",
+      "publisher": "Parliament of Australia",
+      "title": "Ms Kate Chaney MP",
+      "source_type": "official_biography",
+      "locator": "Qualifications and Other positions",
+      "note": "Names AGSM MBA and four board memberships; official indexed text.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-8"
+    },
+    {
+      "url": "https://alumni.uwa.edu.au/page.aspx?pid=1162",
+      "publisher": "University of Western Australia",
+      "title": "CareerConnect, Kate Chaney panel biography",
+      "source_type": "university_record",
+      "locator": "Kate Chaney LLB 1998 profile",
+      "note": "University identifies LLB 1998, AGSM MBA and corporate/nonprofit roles. Graduation year is not necessarily last attendance year.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-9"
+    },
+    {
+      "url": "https://www.anglicarewa.org.au/getContentAsset/216acf44-b817-4d65-b8e1-e42356e4cce1/fa117f43-b6c2-4f05-8f7b-73a98f1892f0/2021-2022-Annual-Report.pdf?language=en",
+      "publisher": "Anglicare WA",
+      "title": "Annual Report 2021–2022",
+      "source_type": "employer_record",
+      "locator": "Chair and CEO report, executive changes",
+      "note": "Employer says Chaney was farewelled after election to Curtin in May; Claire Lucas initially acted then was appointed permanently. Indexed report retrieved; full PDF timeout. No exact resignation or leave date.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-10"
+    },
+    {
+      "url": "https://www.parliament.wa.gov.au/publications/tabledpapers.nsf/displaypaper/4010570a8bed57c6935555e74825819200274d68/%24file/570.pdf",
+      "publisher": "WA Regional Development Trust / WA Parliament",
+      "title": "Annual Report 2016–2017",
+      "source_type": "government_record",
+      "locator": "Trust membership, Chaney commencement",
+      "note": "Official indexed report states commenced 12 December 2016 for three-year term. Scheduled term is not actual cessation.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-11"
+    },
+    {
+      "url": "https://www.parliament.wa.gov.au/publications/tabledpapers.nsf/displaypaper/4011747aee346e49b8dc3e8e4825830d00163e26/%24file/1747.pdf",
+      "publisher": "WA Regional Development Trust / WA Parliament",
+      "title": "Annual Report 2017–2018",
+      "source_type": "government_record",
+      "locator": "Trust membership changes and attendance",
+      "note": "Reports Chaney retired during reporting year before 30 June 2018; conflicts with public profile July 2018 endpoint. Direct PDF 403; indexed primary text used.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-12"
+    },
+    {
+      "url": "https://nofibs.com.au/podcast-the-most-demanding-job-ive-ever-done-kate-chaney-on-her-first-two-years-as-curtinvotes-mp/",
+      "publisher": "No Fibs / Margo Kingston interview with Kate Chaney",
+      "title": "The most demanding job I have ever done",
+      "source_type": "first_person",
+      "locator": "Closing discussion of work and family, 2024 interview",
+      "note": "Chaney describes 17 years part-time before Parliament. Earlier 2025 Hansard says 16; neither maps employer-specific dates, so discrepancy retained without back-calculation.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-13"
     }
   ],
   "research_notes": [
     "2026-10-01 avenues: frozen official occupations; current first-person biography and parental-leave policy; 2025 Hansard speech; indexed employer RAP and 2015 corporate release; public professional-profile index. Direct APH page returned 403; employer PDF exceeded size limit.",
     "Follow up employer-specific hours, exact appointment/cessation and leave for every commercial role; allocate the reported part-time years and three 18-month breaks without back-calculating dates from children’s ages.",
     "Resolve 2001–03, 2005–07, 2008, 2011–12 and 2015–17 gaps; identify consulting entity/clients and Redfern paid/voluntary status, dates and overlaps; obtain Anglicare 2022 cessation/campaign arrangements.",
-    "Perth Airport is treated as private operating-company employment provisionally; obtain contemporaneous operator/control evidence before any counted interval. No public employment is established, which does not prove zero."
+    "Perth Airport is treated as private operating-company employment provisionally; obtain contemporaneous operator/control evidence before any counted interval. No public employment is established, which does not prove zero.",
+    "Follow-up 2026-10-02: AGSM MBA 2002–2003 resolves provider gap; UWA lists LLB 1998. Added four board roles with profile dates and official corroboration; Trust official commencement differs from profile, and official retirement by June 2018 conflicts with profile July 2018.",
+    "Anglicare annual report says farewell after May 2022 election; RAP February working-group endpoint is not job cessation. No Fibs first-person 17-year part-time account differs from Hansard 16 years; neither permits exact employer allocation or FTE.",
+    "Searches for employer-specific part-time status and historical airport records did not settle hours/control. State Recovery Advisory Group search result appears adjacent to another member in multi-person article; not attributed without primary evidence. Next leads: dated Wesfarmers/Anglicare contracts and leave, airport ownership reports, precise Trust resignation, Redfern remuneration and consultancy clients."
   ]
 }
