@@ -6,7 +6,7 @@
   "snapshot_party": "Liberal Party of Australia",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/249308",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-01",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -132,7 +132,7 @@
     },
     {
       "employer": "Private legal practice, including Clayton Utz Perth",
-      "role": "Solicitor",
+      "role": "Solicitor, construction and commercial law",
       "start_date": "1997",
       "end_date": "2002",
       "date_precision": "year",
@@ -146,9 +146,10 @@
         "src-1",
         "src-2",
         "src-4",
-        "src-8"
+        "src-8",
+        "src-11"
       ],
-      "evidence_note": "Official overall private-practice range; first speech identifies Clayton Utz but does not establish that firm covered entire interval. Other firms, articles/admission, hours and leave require evidence.",
+      "evidence_note": "Official overall private-practice range; first speech identifies Clayton Utz but does not establish that firm covered entire interval. Other firms, articles/admission, hours and leave require evidence. Charity board biography identifies practice areas.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "249308-07"
     },
@@ -176,7 +177,7 @@
     },
     {
       "employer": "Crosslands Resources Ltd",
-      "role": "Vice-President, Legal and Business Development",
+      "role": "Vice-President, Legal and Business Development; Company Secretary",
       "start_date": "2008",
       "end_date": "2012",
       "date_precision": "year",
@@ -191,9 +192,10 @@
         "src-2",
         "src-4",
         "src-5",
-        "src-6"
+        "src-6",
+        "src-10"
       ],
-      "evidence_note": "Official range; corporate ownership50/50Murchison/Mitsubishi in2008; wholly Mitsubishi from20February2012. No government control shown. VP title does not establish full-time terms.",
+      "evidence_note": "Official range; corporate ownership50/50Murchison/Mitsubishi in2008; wholly Mitsubishi from20February2012. No government control shown. VP title does not establish full-time terms. Contemporary ASX report p7 dates appointment to the quarter ended 30 June 2008 (April–June); start remains year precision because no supported month. Kalgoorlie Miner on 26 July 2012 describes this as a former role, providing an upper bound for departure within the official 2012 end year. Neither date is substituted for an exact employment boundary. Company-secretary duties recorded within the same spell, not double-counted.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "249308-09"
     },
@@ -223,7 +225,7 @@
       "role": "Non-executive director",
       "start_date": null,
       "end_date": "2016",
-      "date_precision": "year",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "nonprofit",
@@ -242,8 +244,8 @@
     },
     {
       "employer": "Liberal Party of Australia",
-      "role": "Candidate for Kalgoorlie and Durack",
-      "start_date": "2013",
+      "role": "Preselection candidate, then election candidate for Kalgoorlie and Durack",
+      "start_date": "2012",
       "end_date": "2013",
       "date_precision": "year",
       "employment_status": "unknown",
@@ -254,9 +256,10 @@
       "counting_status": "excluded",
       "source_ids": [
         "src-2",
-        "src-8"
+        "src-8",
+        "src-10"
       ],
-      "evidence_note": "Two campaigns, not evidence of paid employment; possible post-Crosslands work/leave2012–13 unresolved.",
+      "evidence_note": "Two campaigns, not evidence of paid employment; possible post-Crosslands work/leave2012–13 unresolved. Contemporary July 2012 report supports earlier preselection activity, refining political start year from 2013; no pay basis inferred.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "249308-12"
     },
@@ -265,7 +268,7 @@
       "role": "Member for Durack",
       "start_date": "2013-09-07",
       "end_date": null,
-      "date_precision": "day",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -279,6 +282,25 @@
       "evidence_note": "Frozen service date preserved; elected/ministerial roles excluded.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "249308-13"
+    },
+    {
+      "employer": "Corporate advisory employer or clients unidentified",
+      "role": "Corporate adviser",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "unknown",
+      "government_control_at_time": "unknown",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-11"
+      ],
+      "evidence_note": "Charity board biography describes former corporate-adviser work. It may refer to duties within listed jobs or separate advisory engagements; neither independent employment nor a 2012–2013 interval established. Retained as an unresolved role, not additive years.",
+      "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
+      "spell_id": "249308-14"
     }
   ],
   "sources": [
@@ -327,9 +349,9 @@
       "publisher": "Murchison Metals Ltd / ASX",
       "title": "ASX announcement, 22 July2008",
       "source_type": "employer",
-      "locator": "Corporate section, Crosslands ownership",
-      "note": "Crosslands owned50% Murchison and50% Mitsubishi Development; privately controlled commercial miner at time.",
-      "retrieved": "2026-10-01",
+      "locator": "PDF pp2 and7; Corporate ownership and Crosslands Corporate appointments",
+      "note": "Crosslands ownership remains 50/50 Murchison/Mitsubishi. Page7 reports Price appointed VP Legal/Business Development and Company Secretary during June quarter 2008; no exact month or full-time terms.",
+      "retrieved": "2026-10-02",
       "source_id": "src-5"
     },
     {
@@ -371,12 +393,34 @@
       "note": "Broad private commercial/legal experience and former charity directorships; aggregate experience claim not verified full-time years.",
       "retrieved": "2026-10-01",
       "source_id": "src-9"
+    },
+    {
+      "url": "https://www.kalminer.com.au/news/goldfields/liberal-party-candidate-named-ng-ya-305303",
+      "publisher": "Kalgoorlie Miner / Usman Azad",
+      "title": "Liberal Party candidate named, 26 July 2012",
+      "source_type": "news",
+      "locator": "Publication timestamp and final accessible paragraph",
+      "note": "Contemporary article calls Crosslands position former; departure occurred by publication, not necessarily on publication date. Preselection candidacy already underway in July 2012.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-10"
+    },
+    {
+      "url": "https://cancerwa.asn.au/assets/public/2022/07/2015-11-24-Financial-Report.pdf",
+      "publisher": "Cancer Council Western Australia",
+      "title": "Finance and Governance Report 2014–2015",
+      "source_type": "employer",
+      "locator": "PDF p19, Melissa Price board biography",
+      "note": "Former corporate-adviser role and construction/commercial legal specialisms; does not identify advisory employer, dates or remuneration.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-11"
     }
   ],
   "research_notes": [
     "Initial review2026-10-01 covers frozen record, first speech, government biography, charity employer annual report, contemporary corporate ownership filings and host account. Early hospitality/insurance/fast-food/fitness work and Robe River were absent from frozen list and retained without invented dates.",
     "Follow-up: UK employment and relation to other undated roles; early employer names and payroll control; Robe River dates/title; legal practice firm-by-firm dates/articles; CBH role transition; all substantive hours, parental/other leave and overlaps; Crosslands2012 departure and2012–13work gap; BrightSpark appointment/end/pay basis.",
     "Searches for CBH/Crosslands individual annual-report mentions, BrightSpark appointment and full-time evidence did not resolve these gaps. Namesake US clinical executive/physician and their employment contracts excluded. Broad20/30-year experience claims not a calculable full-time history.",
-    "Periods remain year precision except Cancer Council month endpoints. UK ten-year narrative may overlap other identified roles and is retained as a lead, not a duplicate additive spell. Charity board terms excluded even where they overlap Parliament."
+    "Periods remain year precision except Cancer Council month endpoints. UK ten-year narrative may overlap other identified roles and is retained as a lead, not a duplicate additive spell. Charity board terms excluded even where they overlap Parliament.",
+    "Follow-up 2026-10-02: contemporary Murchison ASX quarterly report establishes appointment quarter and company-secretary duties; July 2012 local reporting bounds Crosslands departure and dates preselection activity. Charity annual report adds construction/commercial specialisms and an unresolved corporate-adviser role. Full-time status remains unproved.",
+    "Searched CBH historical report mentions, BrightSpark appointment, UK and maiden-name employment, Crosslands resignation and public professional profile. No reliable employer-by-employer UK dates, CBH transition, leave or hours found. Public LinkedIn education/membership snippets do not establish job dates; unrelated US advisers/accountants and defence-force namesakes excluded. Next leads: CBH 2005–06 annual report and original professional CV; distinguish advisory engagements from executive duties."
   ]
 }
