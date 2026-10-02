@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/HWM",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-01",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -278,7 +278,7 @@
       "role": "Administrative committee member and conference delegate",
       "start_date": "2004",
       "end_date": null,
-      "date_precision": "year",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "party_organisation",
@@ -317,7 +317,7 @@
       "role": "Member for Franklin",
       "start_date": "2007-11-24",
       "end_date": null,
-      "date_precision": "day",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -384,6 +384,16 @@
       "note": "Confirms first election in 2007; no additional historical employer dates or hours found.",
       "retrieved": "2026-10-01",
       "source_id": "src-5"
+    },
+    {
+      "url": "https://au.linkedin.com/in/julie-collins-2b1b5091",
+      "publisher": "Julie Collins via LinkedIn",
+      "title": "Julie Collins public professional profile",
+      "source_type": "professional_profile",
+      "locator": "Public indexed About, Experience and Education headings",
+      "note": "Identity matched through Franklin representation and Australian Government; exposed experience entries lack historical employer titles/dates. No employment inference from missing profile fields. Direct open returned999; public index only.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-6"
     }
   ],
   "research_notes": [
@@ -392,6 +402,9 @@
     "DTPHA Ministerial Unit classification requires a contemporary establishment/appointment record. Searches for 2003–05 annual reports and government directory did not resolve it. Tasmanian Times 2006-01 record-level-of-special-jobs-for-labors-special-friends indexed page names Manager Secretariat and cites 2003 directory/ministerial staff lists; page presented bot wall. Political commentary and ambiguous salary not accepted as appointment or hours evidence.",
     "Hydro employer history direct retrieval restricted; ABS historical evidence used. Obtain 1998 employment dates to distinguish pre/post 1 July reorganisation and overlap with Mackay/Bacon roles. No zero-year calculation from 1998–1998.",
     "Full-time status remains unknown for all dated jobs. Need exact transitions, 1994–95 interval, any parental or study leave and concurrent roles. Childbirth and part-time study do not themselves establish unpaid leave or reduced employment hours. Unverified Young Labor presidency in 1996 retained as follow-up lead, not a paid-employment claim.",
-    "Follow-up: identify early supermarket and full-time employer; seek accessible 2023 profile or contemporary employment records; DTPHA staff establishment/annual reports; actual full-time and leave evidence for Health/Hydro and other jobs. Blocked is unresolved, not research complete."
+    "Follow-up: identify early supermarket and full-time employer; seek accessible 2023 profile or contemporary employment records; DTPHA staff establishment/annual reports; actual full-time and leave evidence for Health/Hydro and other jobs. Blocked is unresolved, not research complete.",
+    "Follow-up2026-10-02: identity-matched public LinkedIn profile inspected through index; no historical dates or hours exposed. Direct profile999not retried. Brisbane Times syndication of2023RachelClun profile returned InternalError/not accessible; no new early-employer evidence promoted. Search results repeating Wikipedia are not independent corroboration.",
+    "DTPHA2003–2005annual-report, staff-directory and ManagerSecretariat searches found budget structure, audit summary and TMAG subdepartmental report leads, but no attributable appointment instrument or employment-status evidence. Previously recorded TasmanianTimes directory lead remains unresolved; salary does not prove full-time. Early supermarket identity, full-time-job continuity, DTPHA appointment class, Hydro dates and leave remain priorities. This pass added no material employment fact; excluded from materially enriched counts.",
+    "Recovered local diagnostic error: git status issued from scratch parent returned128/not a git repository; no repository mutation attempted by that command. Subsequent validation uses the explicit repository root."
   ]
 }
