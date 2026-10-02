@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/159771",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-01",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -30,9 +30,10 @@
       "source_ids": [
         "src-snapshot",
         "src-aph-current",
-        "src-member"
+        "src-member",
+        "src-wsahs-2001-oct2"
       ],
-      "evidence_note": "Parliament records all three University of Sydney qualifications, and Rowland says she was studying law there in 1990. Degree commencement and completion dates, study loads and overlap with paid work remain unresolved.",
+      "evidence_note": "Parliament records all three University of Sydney qualifications, and Rowland says she was studying law there in 1990. Degree commencement and completion dates, study loads and overlap with paid work remain unresolved. The2000–01 report records completed BA(Hons)/LLB and an LLM still in progress, so degrees must not be treated as concurrently completed in1990.",
       "counting_note": "Study is excluded under the codebook."
     },
     {
@@ -59,7 +60,7 @@
     },
     {
       "spell_id": "159771-electorate-officer",
-      "employer": "Unidentified parliamentary electorate office",
+      "employer": "Unidentified federal parliamentary electorate office",
       "role": "Electorate officer",
       "start_date": "1995",
       "end_date": "1999",
@@ -73,9 +74,10 @@
       "source_ids": [
         "src-snapshot",
         "src-aph-current",
-        "src-eo-speech"
+        "src-eo-speech",
+        "src-wsahs-2001-oct2"
       ],
-      "evidence_note": "Parliament records electorate-officer work from 1995 to 1999, and Rowland later described it as one of her first and most important roles. The officeholder, jurisdiction, appointment dates, payroll title, hours and leave are unresolved.",
+      "evidence_note": "Parliament records electorate-officer work from 1995 to 1999, and Rowland later described it as one of her first and most important roles. The officeholder, jurisdiction, appointment dates, payroll title, hours and leave are unresolved. The2000–01 health-service biography identifies prior work advising a federal MP, resolving jurisdiction but not the officeholder.",
       "counting_note": "Political-staff employment is excluded under the codebook."
     },
     {
@@ -94,9 +96,10 @@
       "source_ids": [
         "src-snapshot",
         "src-aph-current",
-        "src-ag-bio"
+        "src-ag-bio",
+        "src-wsahs-2001-oct2"
       ],
-      "evidence_note": "The official parliamentary and ministerial biographies identify NRMA Ltd and the 1999–2000 range. Exact dates, business unit, hours, leave and overlap with electorate-office work or legal admission are not published.",
+      "evidence_note": "The official parliamentary and ministerial biographies identify NRMA Ltd and the 1999–2000 range. Exact dates, business unit, hours, leave and overlap with electorate-office work or legal admission are not published. The2000–01 report identifies the Corporate Affairs and Communications unit; exact hours and boundaries remain unknown.",
       "counting_note": "The private employer is identified, but year-only dates and missing full-time evidence prevent an exact duration calculation."
     },
     {
@@ -127,9 +130,9 @@
       "spell_id": "159771-health-board",
       "employer": "Western Sydney Area Health Service",
       "role": "Director",
-      "start_date": "2000",
+      "start_date": "2000-08-01",
       "end_date": "2004",
-      "date_precision": "year",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "public_service",
@@ -140,9 +143,10 @@
         "src-snapshot",
         "src-aph-current",
         "src-ag-bio",
-        "src-acma"
+        "src-acma",
+        "src-wsahs-2001-oct2"
       ],
-      "evidence_note": "Official sources record the state health-service directorship from 2000 to 2004, overlapping Gilbert + Tobin. Appointment days, remuneration, workload and attendance are unresolved.",
+      "evidence_note": "Annual report dates appointment to 1 August 2000 and records attendance at all ten eligible meetings in 2000–01. Official biographies give end year2004. Remuneration, exact cessation and workload remain unknown; overlaps legal employment.",
       "counting_note": "This governance appointment is visible but excluded from full-time employment totals; a director title does not establish substantive full-time work."
     },
     {
@@ -333,6 +337,25 @@
       "evidence_note": "Official parliamentary biography identifies these party offices without dates, remuneration or hours. They are separate from electorate-office employment; no paid organising appointment or full-time status inferred.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "159771-party-committees"
+    },
+    {
+      "employer": "Australian Labor Party, NSW Branch",
+      "role": "President",
+      "start_date": "2021-10",
+      "end_date": "2024-07",
+      "date_precision": "month",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "party_organisation",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-linkedin-oct2"
+      ],
+      "evidence_note": "Public professional profile gives month boundaries. Remuneration and hours not stated; concurrent with parliamentary office.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "159771-nsw-labor-president"
     }
   ],
   "sources": [
@@ -475,6 +498,26 @@
       "note": "Confirms chair at 30 June 2010 and historical legal entity NSW Film and Television Office trading as Screen NSW. Agency business hours do not establish chair working hours.",
       "retrieved": "2026-10-01",
       "source_id": "src-screen-ar"
+    },
+    {
+      "url": "https://data.nsw.gov.au/data/dataset/28ad23af-b4d4-490e-bbff-7c38fe0274a1/resource/3a823dce-8ddd-4916-885a-37c8d462e66a/download/document_11989.pdf",
+      "publisher": "Western Sydney Area Health Service",
+      "title": "Annual Report 2000–2001",
+      "source_type": "official_biography",
+      "locator": "PDF page9, Michelle Rowland board biography, lines358–366",
+      "note": "Contemporaneous biography distinguishes corporate, parliamentary-adviser, legal and university activities; board appointment dated explicitly.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-wsahs-2001-oct2"
+    },
+    {
+      "url": "https://au.linkedin.com/in/michelle-rowland-mp-b667b16",
+      "publisher": "Michelle Rowland / LinkedIn",
+      "title": "Michelle Rowland MP public professional profile",
+      "source_type": "professional_profile",
+      "locator": "Public search-indexed Experience, NSW Labor president",
+      "note": "Self-reported presidency October2021–July2024; law-firm interval repeats2000–2010 without hours.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-linkedin-oct2"
     }
   ],
   "research_notes": [
@@ -485,6 +528,7 @@
     "2026-10-01 follow-up: Parklands Trust retirement resolved to 7 July 2010 from annual financial statements; newly documented Premier’s Council for Women and separate party offices; contemporaneous legal/governance overlap and historical Screen NSW entity clarified. Gilbert + Tobin end restored to supported 2010 year precision.",
     "Searched employer/alumni references, supermarket names, electorate-officer identity, ordinary full-time hours, historical FTO/Screen NSW/Communities annual reports and public profiles. No reliable supermarket name, employing parliamentarian, NRMA business unit, private-employment hours or leave found. Namesake profiles and other workers’ hours excluded.",
     "Next leads: NSW appointment gazettes and Premier’s Council membership reports, legal practice personnel records and contemporaneous electorate-office staff lists. Chair scheduled term through 2011 conflicts only if mistaken for actual tenure; do not extend service. Pooled director remuneration is not an individual salary.",
-    "Source access: NSW Parliament PDFs exposed indexed primary text but later page/screenshot retrieval returned HTTP500 redirect errors; government-data mirror timed out. Communities NSW financial statements remained readable and retirement entry was recovered. No term start back-calculated from nominal three-year appointment."
+    "Source access: NSW Parliament PDFs exposed indexed primary text but later page/screenshot retrieval returned HTTP500 redirect errors; government-data mirror timed out. Communities NSW financial statements remained readable and retirement entry was recovered. No term start back-calculated from nominal three-year appointment.",
+    "Second follow-up2October2026: health-service annual report materially narrows governance appointment and prior federal adviser/NRMA unit, plus LLM chronology; self-reported NSW Labor presidency added separately. Searches of supermarket identity,1996 university dates, electorate officeholder and NRMA full-time evidence did not resolve employer, hours or leave. Same-name medical alumni, beauty-business and US legal profiles excluded. Academic author-biography lead remains for qualification timing; party and board posts do not establish paid full-time service. Exact employment dates and overlaps remain priority gaps."
   ]
 }
