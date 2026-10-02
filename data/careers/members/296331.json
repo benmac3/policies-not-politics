@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/296331",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-01",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -122,9 +122,10 @@
       "government_control_at_time": "unknown",
       "counting_status": "insufficient_evidence",
       "source_ids": [
-        "src-2"
+        "src-2",
+        "src-12"
       ],
-      "evidence_note": "First-person employment confirmation in Alice Springs; no role, dates or hours. Statutory or representative status alone is not evidence of government control at the time.",
+      "evidence_note": "First-person employment confirmation in Alice Springs; no role, dates or hours. Statutory or representative status alone is not evidence of government control at the time. February2023 Senate recollection describes roughly two years at CLC in Alice Springs within ten years working in NT. These rounded durations do not establish endpoints or full-time service.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "296331-06"
     },
@@ -151,10 +152,10 @@
     },
     {
       "employer": "University of South Australia",
-      "role": "Director, Centre for Participation and Community Engagement",
-      "start_date": null,
-      "end_date": null,
-      "date_precision": "unknown",
+      "role": "Director, Centre for Participation and Community Engagement; interim Head, UniSA College",
+      "start_date": "2009-10",
+      "end_date": "2010-10",
+      "date_precision": "month",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "university",
@@ -163,9 +164,11 @@
       "counting_status": "insufficient_evidence",
       "source_ids": [
         "src-2",
-        "src-3"
+        "src-3",
+        "src-10",
+        "src-11"
       ],
-      "evidence_note": "Contemporary July 2010 conference biography identifies post and disadvantaged participation work. November 2009 centre establishment is not her start date. Endpoints, hours, leave and historical control unresolved.",
+      "evidence_note": "Contemporary July 2010 conference biography identifies post and disadvantaged participation work. November 2009 centre establishment is not her start date. Endpoints, hours, leave and historical control unresolved. Public professional-profile index suppliesOctober2009–October2010 for combined directorship/interim College head; April2010 university event corroborates PACE role. These month endpoints overlap official Butler chief-of-staff startSeptember2010; leave, transition and actual concurrency unresolved, no additive time counted.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "296331-08"
     },
@@ -298,7 +301,7 @@
       "role": "Party executive and committee positions",
       "start_date": "2017",
       "end_date": null,
-      "date_precision": "year",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "party_organisation",
@@ -317,7 +320,7 @@
       "role": "Senator for South Australia",
       "start_date": "2021-09-21",
       "end_date": null,
-      "date_precision": "day",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -331,6 +334,45 @@
       "evidence_note": "Frozen first-service date; October swearing-in and first speech are not substituted for vacancy appointment. Open endpoint means no end established within frozen scope.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "296331-16"
+    },
+    {
+      "employer": "Aboriginal and Torres Strait Islander Services (ATSIS)",
+      "role": "Role unspecified; possible relation to CDEP operations management unresolved",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "public_service",
+      "headline_sector": "public",
+      "government_control_at_time": "public",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-12",
+        "src-13"
+      ],
+      "evidence_note": "First-person speech confirms ATSIS employment. Historical ANAO audit establishes Commonwealth agency/public control. Agency lifespan is not used as personal endpoints; title, hours, leave and relation to following CDEP role unresolved.",
+      "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
+      "spell_id": "296331-17"
+    },
+    {
+      "employer": "CDEP administering employer not established",
+      "role": "Operations manager, Community Development Employment Projects",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "unknown",
+      "government_control_at_time": "unknown",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-12"
+      ],
+      "evidence_note": "Speech separately recalls CDEP operations management before program termination. May describe the ATSIS spell rather than additional employment; payroll entity and intended termination event unresolved. No cessation date imposed and no separate/additive years calculated.",
+      "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
+      "spell_id": "296331-18"
     }
   ],
   "sources": [
@@ -423,6 +465,46 @@
       "note": "Later description as independent nonprofit supports organisational character; historical legal employer still requires confirmation.",
       "retrieved": "2026-10-01",
       "source_id": "src-9"
+    },
+    {
+      "url": "https://au.linkedin.com/in/karen-grogan-8a3434114",
+      "publisher": "Karen Grogan / LinkedIn",
+      "title": "Professional experience",
+      "source_type": "professional_profile",
+      "locator": "Search-indexed University of South Australia experience entry",
+      "note": "Indexed entry gives October2009–October2010 and combined PACE director/interim UniSA College head. Direct profile returned999UnknownStatusCode; narrow indexed evidence used, no access-control bypass.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-10"
+    },
+    {
+      "url": "https://hawkecentre.adelaide.edu.au/events-and-exhibitions/events/2010/understanding-education-outcomes-and-opportunities-an-atlas-of-south-australia/",
+      "publisher": "University of South Australia / Adelaide University archive",
+      "title": "Understanding Education Outcomes and Opportunities",
+      "source_type": "employer",
+      "locator": "27April2010 event, chair and speaker biography",
+      "note": "Contemporary university confirmation of PACE directorship; broad20-year experience is not a dated employment history.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-11"
+    },
+    {
+      "url": "https://www.openaustralia.org.au/senate/?id=2023-02-08.19.1",
+      "publisher": "Parliament of Australia / OpenAustralia transcript",
+      "title": "Northern Territory Safe Measures Bill — Karen Grogan",
+      "source_type": "parliamentary_statement",
+      "locator": "8February2023,10:46am; NT experience, Central Land Council and CDEP paragraphs",
+      "note": "First-person employment testimony; endpoints and substantive hours absent.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-12"
+    },
+    {
+      "url": "https://www.anao.gov.au/work/performance-audit/the-senate-order-departmental-and-agency-contracts-calendar-year-2003-compliance",
+      "publisher": "Australian National Audit Office",
+      "title": "Senate Order departmental and agency contracts, calendar2003 compliance",
+      "source_type": "government",
+      "locator": "Report10 of2004–05,17September2004; audit scope and selected agencies",
+      "note": "ATSIS identified as Commonwealth FMA Act agency; supports public control, not personal job dates.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-13"
     }
   ],
   "research_notes": [
@@ -431,6 +513,9 @@
     "Early employers, UK employment, unidentified private/government/community senior posts described in conference biography, CLC role and period, UniSA endpoints/control, and advisory memberships remain incomplete. Preserve these gaps rather than declare exhaustive career coverage.",
     "Public LinkedIn profile indexed at https://au.linkedin.com/in/karen-grogan-8a3434114 adds SACOSS dates already in official material; no additional authenticated content used. Searches for UniSA annual reports and CLC historical appointments did not establish individual endpoints. Exclude US university, Canadian accounting and poultry-veterinary namesakes.",
     "First speech explicitly describes an interruption in contract work around 1994, but no return date or duration. Do not infer uninterrupted employment between other roles. No full-time fraction established; seniority, month dates and nominal continuity do not prove it.",
-    "Follow up historical UniSA and CLC staff/annual reports, early employer identification, full-time or part-time evidence, leave, ACOSS/government advisory tenure and pay, and precise union payroll transition. All excluded roles kept separate; unknown employment is not zero."
+    "Follow up historical UniSA and CLC staff/annual reports, early employer identification, full-time or part-time evidence, leave, ACOSS/government advisory tenure and pay, and precise union payroll transition. All excluded roles kept separate; unknown employment is not zero.",
+    "Follow-up2026-10-02: UniSA professional-profile months and interim College head identified, with April2010 university corroboration. September–October2010 overlap with Butler office retained for reconciliation; hours and university historical control remain unknown.",
+    "February2023 Senate testimony adds ATSIS employment and CDEP operations management, which may be the same spell. Public ATSIS control supported by contemporary ANAO agency audit. Ten years NT/two years CLC are rounded recollections, not calculable FT intervals.",
+    "Searches for CLC role, ATSIS/CDEP title and earlier employers did not resolve endpoints/hours. UK/US namesake profiles excluded; no PhD completion inferred. Direct LinkedIn999 was a source access gap, not a terminal research error."
   ]
 }
