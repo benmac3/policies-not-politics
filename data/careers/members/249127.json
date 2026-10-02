@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/249127",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-01",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -193,9 +193,10 @@
       "counting_status": "excluded",
       "source_ids": [
         "src-snapshot",
-        "src-secondary"
+        "src-secondary",
+        "src-aap2013-oct2"
       ],
-      "evidence_note": "The frozen extract records the role from 2011 to 2013. Exact promotion and cessation dates, payroll entity, hours, leave and campaign arrangements are unresolved; the senior title is not treated as proof of full-time work.",
+      "evidence_note": "The frozen extract records the role from 2011 to 2013. Exact promotion and cessation dates, payroll entity, hours, leave and campaign arrangements are unresolved; the senior title is not treated as proof of full-time work. Contemporary27July2013 AAP account calls him former deputy chief of staff; role had ceased by that observation, but final payroll/leave date is not specified, so2013 end retains year precision.",
       "counting_note": "Political staff employment is excluded under the codebook."
     },
     {
@@ -222,9 +223,9 @@
     {
       "employer": "Australian Labor Party — Charlton campaign",
       "role": "Preselected candidate",
-      "start_date": "2013",
-      "end_date": "2013",
-      "date_precision": "year",
+      "start_date": "2013-07-27",
+      "end_date": "2013-09-07",
+      "date_precision": "day",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "party_organisation",
@@ -232,9 +233,10 @@
       "government_control_at_time": "private",
       "counting_status": "excluded",
       "source_ids": [
-        "src-first-speech"
+        "src-first-speech",
+        "src-aap2013-oct2"
       ],
-      "evidence_note": "First speech states he was preselected six weeks before the2013 election. No exact preselection day calculated from rounded relative duration. Campaign pay, leave and overlap with Combet office unknown.",
+      "evidence_note": "First speech states he was preselected six weeks before the2013 election. No exact preselection day calculated from rounded relative duration. Campaign pay, leave and overlap with Combet office unknown. Follow-up2October2026: contemporary AAP report dated27July2013 quotes NSW Labor announcing rank-and-file preselection that day, establishing nomination start independently of rounded six-week recollection. Election endpoint7September2013 comes from frozen House service date. Interval denotes candidacy only, not a paid/full-time campaign contract.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "249127-charlton-campaign"
     }
@@ -309,6 +311,16 @@
       "note": "First-person parliamentary account; mirror accessed after official linked transcript unavailable.",
       "retrieved": "2026-10-01",
       "source_id": "src-first-speech"
+    },
+    {
+      "url": "https://www.sbs.com.au/news/article/combet-seat-preselection-won-by-staffer/520g0wfbl",
+      "publisher": "AAP / SBS News",
+      "title": "Combet seat preselection won by staffer,27July2013",
+      "source_type": "news",
+      "locator": "Publication date and NSW Labor announcement / former deputy chief description",
+      "note": "Contemporaneous reporting quotes party announcement of preselection that day; describes Conroy as former deputy chief of staff. Not exact payroll cessation.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-aap2013-oct2"
     }
   ],
   "research_notes": [
@@ -318,7 +330,9 @@
     "Ministerial and electorate changes after 2013 are nested within federal elected service.",
     "Systematic follow-up2026-10-01 resolved honours graduation year2000, corroborated AMWU National Projects Officer title at16May2005 and former-employee description by May2008, and added2013 candidacy without assuming paid/full-time campaign work.",
     "Searched official parliamentary biography/first speech, ministerial and ASPI profiles, AMWU submissions, contemporary Senate inquiry, Rotary Warners Bay10August2020 newsletter, and Coles/Coles Myer historical corporate records. Rotary repeats customer-assistant work without individual hours. Coles Myer2002 SEC20-F provides corporate subsidiary/ownership and workforce context after his employment; it does not establish Conroy’s1995–2000 payroll entity or individual hours and is not used to infer them.",
-    "Queries for Coles full-time/part-time status and2013 campaign transition located no reliable individual hours or exact payroll boundaries. Preserve these gaps for targeted historical store/employer, alumni or public professional-profile leads; repeating generic biographies is unlikely to resolve them. Official first-speech link unavailable; OpenAustralia mirror recovered content. No job-wide tool error."
+    "Queries for Coles full-time/part-time status and2013 campaign transition located no reliable individual hours or exact payroll boundaries. Preserve these gaps for targeted historical store/employer, alumni or public professional-profile leads; repeating generic biographies is unlikely to resolve them. Official first-speech link unavailable; OpenAustralia mirror recovered content. No job-wide tool error.",
+    "Second follow-up2October2026 materially resolves candidacy start27July2013 from contemporary AAP reporting of the party announcement. Former-staffer wording also supplies departure-by observation for Combet office, without inventing an exact cessation day. Campaign end uses known7September election, not assumed payroll duration.",
+    "Targeted Coles store/hours, AMWU transition and professional-profile searches yielded no new individual work terms. Customer-assistant recollections and existing2004–2008 economist interval recur. US author namesake and unrelated Coles security commentary excluded. Remaining work is personal appointment/leave and1995–2000 Coles payroll/hours evidence; union and political staff remain excluded."
   ],
   "open_questions": [
     "What were the exact Coles employer/store dates, hours, leave and overlap with study?",
