@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Greens",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/JKM",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-01",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -210,8 +210,8 @@
       "employer": "Parliament of Tasmania",
       "role": "Member for Franklin; ministerial portfolios2010–14",
       "start_date": "2002-07-20",
-      "end_date": "2015-08",
-      "date_precision": "mixed",
+      "end_date": "2015-08-04",
+      "date_precision": "day",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -221,9 +221,11 @@
       "source_ids": [
         "src-2",
         "src-7",
-        "src-8"
+        "src-8",
+        "src-12",
+        "src-13"
       ],
-      "evidence_note": "State record departure4August versus federal2August2015 conflict; month-level endpoint avoids selecting unsupported day. Ministerial responsibilities overlap same elected service and are excluded.",
+      "evidence_note": "State historical member record and contemporary Integrity Commission2015-16annual report explicitly agree on resignation4August2015; Electoral Commission announced vacancy that day. These state contemporary records preferred over conflicting federal biography2August2015; discrepancy preserved. Elected and ministerial roles excluded.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "JKM-10"
     },
@@ -252,7 +254,7 @@
       "role": "Senator for Tasmania",
       "start_date": "2015-08-19",
       "end_date": null,
-      "date_precision": "day",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -378,6 +380,26 @@
       "note": "Confirms hiking guide, advertising executive, activist and state political career without resolving early dates or hours.",
       "retrieved": "2026-10-01",
       "source_id": "src-11"
+    },
+    {
+      "url": "https://www.integrity.tas.gov.au/__data/assets/pdf_file/0009/472896/integrity-commission-annual-report-2015-16.pdf",
+      "publisher": "Integrity Commission Tasmania",
+      "title": "Annual Report2015-16",
+      "source_type": "government_record",
+      "locator": "Printedp5 / PDFp10, Parliamentary Joint Standing Committee membership",
+      "note": "Contemporary annual report explicitly states McKim resigned from House of Assembly4August2015. Supports state history over conflicting federal biography2August.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-12"
+    },
+    {
+      "url": "https://www.tec.tas.gov.au/house-of-assembly/StateElection2014/media/Franklin%20recount/01%20Franklin%20Recount%20Announced%5B2%5D.pdf",
+      "publisher": "Tasmanian Electoral Commission",
+      "title": "Franklin recount announcement,4August2015",
+      "source_type": "government_record",
+      "locator": "One-page release, opening paragraph and3.30pm4August2015dateline",
+      "note": "Governor advice of resignation announced4August; corroborates vacancy by that day, not alone exact resignation date.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-13"
     }
   ],
   "research_notes": [
@@ -387,6 +409,8 @@
     "First Senate speech explicitly records unemployment between jobs. Travel and study gaps also require dates. Occupation titles and manual work do not establish continuous full-time status. Unknown public and private totals, not zeros.",
     "Searches targeted employer agency, public administration/public relations, Swiss gardening, Scottish farm, wilderness company and annual-report leads. No match identifying pre-parliament legal employers. Exploratory Clemenger and Tasmanian Expeditions searches did not establish employment and are not recorded as employers.",
     "Facebook21February2019 nostalgia post https://www.facebook.com/NickMcKim/posts/fbf-to-my-days-as-a-wilderness-guide/10155858929847056/ returned Online fetch throttled; no retry. Snippet about three seasons may belong to a commenter and is not treated as his tenure. CDU biographical copy returned403. Lake Pedder hosted Senate-speech PDF returned500 non-retryable redirect; full OpenAustralia speech successfully recovered.",
-    "Follow up legitimate historic professional profile, guide-operator staff archives and Hobart agency records; resolve public-administration wording, campaign employment relationship, work/travel breaks and state resignation date. Existing public speeches exhaust broad career summaries; source-specific employer leads needed next."
+    "Follow up legitimate historic professional profile, guide-operator staff archives and Hobart agency records; resolve public-administration wording, campaign employment relationship, work/travel breaks and state resignation date. Existing public speeches exhaust broad career summaries; source-specific employer leads needed next.",
+    "Follow-up2026-10-02: contemporary state Integrity Commission annual report p5 explicitly states4August2015Assembly resignation. TEC4August vacancy release corroborates resignation by that date. Refined end day using agreement with state member history, retaining conflicting federal2August evidence.",
+    "Hobart agency/copywriter, guide-operator and employer-name searches found no person-specific legal employer identification beyond already retained ABC and parliamentary accounts. Advertising industry namesakes and McKim comments about later FontPR ownership do not identify his employer. Public-administration wording, seasons, employment/travel breaks and substantive hours remain unresolved. Next follow-up requires new historical staff/agency evidence; broad biographies exhausted."
   ]
 }
