@@ -6,7 +6,7 @@
   "snapshot_party": "Liberal Party of Australia",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/263418",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-01",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -217,7 +217,7 @@
       "role": "Senator for Tasmania",
       "start_date": "2016-07-02",
       "end_date": null,
-      "date_precision": "day",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -303,6 +303,26 @@
       "note": "Profile identity matched; retrieved index did not establish full historical employment dates or substantive hours.",
       "retrieved": "2026-10-01",
       "source_id": "src-7"
+    },
+    {
+      "url": "https://www.dpac.tas.gov.au/government-information/rti/disclosure-log",
+      "publisher": "Department of Premier and Cabinet, Tasmania",
+      "title": "Right to information disclosure log",
+      "source_type": "government_record",
+      "locator": "Ministerial disclosures2016,7September2016entry",
+      "note": "Current official catalogue confirms release of former deputy chief of staff leave arrangements. Linked1.2MBattachment could not be resolved by reader; exact leave table remains unavailable.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-8"
+    },
+    {
+      "url": "https://icacpls.github.io/interests/jonathon-duniam.html",
+      "publisher": "ICACpls Interests project",
+      "title": "Jonathon Duniam historical interests transcription",
+      "source_type": "other",
+      "locator": "Memberships, update20June2017",
+      "note": "Transcribes voluntary Tasmanian Wool Centre board membership. Original linked APH45thParliament declaration retrieval restricted; retained as specifically sourced lead pending primary corroboration, not new paid work.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-9"
     }
   ],
   "research_notes": [
@@ -311,6 +331,8 @@
     "Childcare searches found unrelated Sarah/ Mae Duniam educators and general political statements; no matched employer identified. A third-party education advisory profile also mentions a family centre but provides no legal entity or dates; it misstates other staffing titles and is not used as proof. Follow up historical declared business interests and legitimate centre records.",
     "Leave disclosure URL returned 404; indexed response establishes paid and unpaid leave but OCR table is incomplete. Seek relocated government release or contemporaneous Estimates attachment before entering separate unpaid intervals. Mercury 29 June 2016 article https://www.themercury.com.au/news/politics/goverment-and-opposition-defend-campaigning-former-staffers/news-story/1a83e7cd4ac8d7fed2f69d20bc8d075a presented No Cookies page; reported May resignation remains a lead, year endpoint retained.",
     "Live UTAS Liberal history inaccessible; a legitimately public 2019 archived first-party page resolved presidency year. No inference that governance or student political activity was paid. Third-party 2006 graduation lead needs university corroboration.",
-    "Need pre-2003 work/study history, KFC dates/hours, childcare business identity and actual work, exact paid staffing transitions and leave dates. No full-time evidence established. Exhausted broad repeated KFC/childcare searches recorded; next follow-up should use source-specific employer, interests or archive leads."
+    "Need pre-2003 work/study history, KFC dates/hours, childcare business identity and actual work, exact paid staffing transitions and leave dates. No full-time evidence established. Exhausted broad repeated KFC/childcare searches recorded; next follow-up should use source-specific employer, interests or archive leads.",
+    "Follow-up2026-10-02: historical interests transcription locates a new voluntary Tasmanian Wool Centre board lead, recorded as updated20June2017, which is not a commencement date. Original APHPDF link returned Failed to fetch restricted URL. Retain as lead until original declaration or centre board record is accessible; do not add income/investment entries as employment.",
+    "Relocated DPAC disclosure catalogue confirms7September2016leave release and1.2MBattachment. Reader click returned Unable to resolve click call due to invalid arguments; direct catalogue retrieval403. Earlier indexed table remains insufficient to allocate paid/unpaid dates. Newly identified Mercury TasWeekend profile repeats childcare-business lead but direct page is NoCookies; legal employer/operational role still unknown. No material employment fact established this pass; excluded from enrichment count."
   ]
 }
