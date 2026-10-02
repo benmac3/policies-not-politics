@@ -6,7 +6,7 @@
   "snapshot_party": "Liberal Party of Australia",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/282981",
   "research_status": "blocked",
-  "last_reviewed": "2026-09-29",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -86,9 +86,10 @@
       "government_control_at_time": "unknown",
       "counting_status": "insufficient_evidence",
       "source_ids": [
-        "src-1"
+        "src-1",
+        "src-12"
       ],
-      "evidence_note": "Agency title does not itself establish self-employment or full-time status.",
+      "evidence_note": "Agency title does not itself establish self-employment or full-time status.2021 profile reports owning a sales agency, but does not link all2002–13 work to that entity; status for this full interval remains unknown.",
       "counting_note": "Dates, employer control and/or substantive full-time status remain insufficient for a duration calculation; unknown is not zero."
     },
     {
@@ -106,14 +107,15 @@
       "counting_status": "excluded",
       "source_ids": [
         "src-1",
-        "src-7"
+        "src-7",
+        "src-9"
       ],
-      "evidence_note": "Employer-association role, not automatically private-enterprise years. Payroll versus consulting arrangement and precise end require confirmation.",
+      "evidence_note": "Employer-association role, not automatically private-enterprise years. Payroll versus consulting arrangement and precise end require confirmation.2008 conference biography describes Bell Retail Solutions working with NRA, supporting a possible consulting-client relationship; avoid counting the own business and association engagement as separate additive employment.",
       "counting_note": "Excluded from the two employment headlines under the codebook."
     },
     {
       "spell_id": "282981-06",
-      "employer": "Angie Bell's own retail consultancy — trading name unverified",
+      "employer": "Angie Bell trading as Bell Retail Solutions",
       "role": "Retail consultant",
       "start_date": null,
       "end_date": null,
@@ -126,15 +128,18 @@
       "counting_status": "insufficient_evidence",
       "source_ids": [
         "src-2",
-        "src-3"
+        "src-3",
+        "src-9",
+        "src-10",
+        "src-11"
       ],
-      "evidence_note": "Own-business description supports self-employment. May overlap or encompass association, merchandising or agency work; not an extra additive spell.",
+      "evidence_note": "Own-business description supports self-employment. May overlap or encompass association, merchandising or agency work; not an extra additive spell. Programme dated September2008 identifies her as principal of Bell Retail Solutions working with NRA;2014 book copyright corroborates the business name. ABR public index matches full name and sole-trader identity. Registration/trading-name dates do not establish continuous work boundaries.",
       "counting_note": "Dates, employer control and/or substantive full-time status remain insufficient for a duration calculation; unknown is not zero."
     },
     {
       "spell_id": "282981-07",
       "employer": "Employer unidentified",
-      "role": "State manager",
+      "role": "State sales manager; retail manager — employer(s) unresolved",
       "start_date": null,
       "end_date": null,
       "date_precision": "unknown",
@@ -145,9 +150,10 @@
       "government_control_at_time": "unknown",
       "counting_status": "insufficient_evidence",
       "source_ids": [
-        "src-2"
+        "src-2",
+        "src-12"
       ],
-      "evidence_note": "First speech mentions this additional role without employer or dates; may be nested within sales work.",
+      "evidence_note": "First speech mentions this additional role without employer or dates; may be nested within sales work.2021 profile explicitly also lists retail manager; dates and whether roles were nested remain unresolved.",
       "counting_note": "Dates, employer control and/or substantive full-time status remain insufficient for a duration calculation; unknown is not zero."
     },
     {
@@ -392,6 +398,46 @@
       "source_type": "official_biography",
       "locator": "Retail career, music studies and community sections",
       "note": "Confirms early retail, training/consulting and music studies; no dated full-time evidence."
+    },
+    {
+      "url": "https://www.newsagencyblog.com.au/wp-content/uploads/2008/08/nx_conference.pdf",
+      "publisher": "newsXpress, hosted by Australian Newsagency Blog",
+      "title": "newsXpress2008 National Conference programme,17–19 September2008",
+      "source_type": "employer",
+      "locator": "PDF p3 Angie Bell biography; p2 Thursday18September visual-merchandising workshops",
+      "note": "Primary conference programme downloaded and OCR read; names Bell Retail Solutions and links its work to NRA. Planned presentation is not proof of delivery/payment.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-9"
+    },
+    {
+      "url": "https://abr.business.gov.au/ABN/View?id=30847093796",
+      "publisher": "Australian Business Register",
+      "title": "ABN30 847 093 796, BELL ANGIE MARION",
+      "source_type": "government_record",
+      "locator": "Publicly indexed entity name/type, ABN cancellation and trading name fields",
+      "note": "Index identifies individual/sole trader, Bell Retail Solutions trading name29May2004 and ABN cancelled8March2023. Direct web open unavailable; registration is not an employment interval.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-10"
+    },
+    {
+      "url": "https://www.abebooks.com/9781452513171/Retail-Rebranded-Twenty-Seven-Secrets-Market-1452513171/plp",
+      "publisher": "Balboa Press / Angie Bell, authorised excerpt on AbeBooks",
+      "title": "Retail Rebranded copyright and excerpt",
+      "source_type": "other",
+      "locator": "Copyright notice in authorised excerpt",
+      "note": "Names Bell Retail Solutions as2014 copyright holder; primary published text reproduced with permission.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-11"
+    },
+    {
+      "url": "https://www.oceanroadmagazine.com.au/last-word-angie-bell-mp-federal-member-for-moncrieff/",
+      "publisher": "Ocean Road Magazine",
+      "title": "Last Word — Angie Bell MP,10November2021",
+      "source_type": "news",
+      "locator": "Paragraph beginning Before entering Parliament",
+      "note": "Reports ownership of consultancy and sales agency, plus state-sales and retail-management roles. No precise boundaries or hours.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-12"
     }
   ],
   "research_notes": [
@@ -400,6 +446,7 @@
     "Historical ACCC filing supports a commercial member-owned paint buying/marketing business, distinct from the NRA employer association. Current Paint Place's 2022 restructuring and current ABN are not used as the 2010–2018 legal employer identity.",
     "Searched official biography/first speech, member site, employer-domain and annual-report terms, publisher testimonial, corporate/government records, historical training material, public professional-profile and full-time searches. No individual full-time evidence or complete sales/music employer list retrieved. Namesake spiritual medium, overseas business executives, school staff and recruitment consultants excluded.",
     "A SkillsIQ July 2017 retail-training endorsement document indexes Angie Bell with NRA, after APH's 2015 end; original PDF returned 404. Treat as an unresolved affiliation lead, not an employment extension: https://www.skillsiq.com.au/site/DefaultSite/filesystem/documents/IRC/SIR%20V3.0%20Case%20for%20Endorsement%20July%202017.pdf . Last follow-up 2026-09-29.",
-    "Surf lifesaving, Rotary scholarship/honorary membership and other community participation do not establish paid employment. Publication and honours do not fill gaps or prove zero public/private experience."
+    "Surf lifesaving, Rotary scholarship/honorary membership and other community participation do not establish paid employment. Publication and honours do not fill gaps or prove zero public/private experience.",
+    "2026-10-02 materially enriched: Bell Retail Solutions name and individual/sole-trader linkage recovered through2008 newsXpress programme,2014 authorised book excerpt and ABR public index.2008 programme says the business had25years experience; not treated as business founding or continuous employment. Planned18September2008 workshop noted, no payment/delivery inferred.2004 trading-name listing and2023 ABN cancellation not used as career boundaries. Public LinkedIn angiebellmp returned999; indexed workshop summary adds no dates. Future leads: Bell Retail Solutions historical contracts/invoices, sales-agency principals, NRA versus contractor distinction and outstanding2017 SkillsIQ affiliation lead. Hours/leave remain unknown; no totals changed."
   ]
 }
