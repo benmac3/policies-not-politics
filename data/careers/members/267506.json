@@ -6,7 +6,7 @@
   "snapshot_party": "Liberal Party of Australia",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/267506",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-01",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -168,9 +168,10 @@
         "src-snapshot",
         "src-member",
         "src-consultancy",
-        "src-secondary"
+        "src-secondary",
+        "src-aap-departure-oct2"
       ],
-      "evidence_note": "Consultancy.com.au reports that Kennedy joined in 2008, worked in Washington, New York and Sydney, became a partner in 2016 and left in 2022; his biography describes the Australian practices he co-led. Exact appointment and departure dates, hours, leave, partnership status and any 2022 campaign leave are unresolved.",
+      "evidence_note": "Consultancy.com.au reports that Kennedy joined in 2008, worked in Washington, New York and Sydney, became a partner in 2016 and left in 2022; his biography describes the Australian practices he co-led. Exact appointment and departure dates, hours, leave, partnership status and any 2022 campaign leave are unresolved. Contemporary AAP reports late2021 departure, conflicting with later2022 account. Existing boundary retained pending employer evidence; neither date establishes hours.",
       "counting_note": "Long private-sector employment is strongly supported, but year-only boundaries and absent hours prevent a full-time total."
     },
     {
@@ -208,9 +209,10 @@
       "counting_status": "excluded",
       "source_ids": [
         "src-cfs-fy21",
-        "src-cfs-2020"
+        "src-cfs-2020",
+        "src-cfs-fy22-oct2"
       ],
-      "evidence_note": "FY2021 officers report gives appointment August 2020; 2020 review identifies concurrent McKinsey partner. End, remuneration and hours unresolved. Governance appointment is separate from paid consulting.",
+      "evidence_note": "FY2021 officers report gives appointment August 2020; 2020 review identifies concurrent McKinsey partner. End, remuneration and hours unresolved. Governance appointment is separate from paid consulting. FY2022 officers report, dated27October2022, still lists Kennedy without a resignation annotation. This corroborates service in that reporting period, not indefinite continuation; end remains unknown.",
       "counting_note": "Nonprofit governance excluded; no substantive full-time employment inferred.",
       "spell_id": "267506-sydney-committee"
     },
@@ -291,6 +293,25 @@
       ],
       "evidence_note": "The frozen roster and current biographies establish election at the Cook by-election on 13 April 2024 and continuing House service. Parliamentary and shadow-ministry roles are nested within elected office.",
       "counting_note": "Elected office is excluded under the codebook."
+    },
+    {
+      "employer": "City of Ryde — Youth Council",
+      "role": "Youth Council member",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "public_service",
+      "headline_sector": "excluded",
+      "government_control_at_time": "public",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-ryde-self-oct2"
+      ],
+      "evidence_note": "First-person2022 candidate questionnaire states service on Ryde City Youth Council alongside school leadership. Dates, terms, remuneration and hours unknown. Advisory participation, not substantive council employment.",
+      "counting_note": "Youth advisory/governance service excluded from employment totals.",
+      "spell_id": "267506-ryde-youth"
     }
   ],
   "sources": [
@@ -393,6 +414,36 @@
       "note": "Identifies Simon Kennedy, McKinsey Partner, joined August 2020; establishes matching identity and concurrent governance.",
       "retrieved": "2026-10-01",
       "source_id": "src-cfs-2020"
+    },
+    {
+      "url": "https://rydedistrictmums.com.au/simon-kennedy-liberal/",
+      "publisher": "Ryde District Mums / Simon Kennedy",
+      "title": "Simon Kennedy candidate questionnaire,27April2022",
+      "source_type": "professional_profile",
+      "locator": "Public indexed first-person school/youth and career responses",
+      "note": "Self-reported service on Ryde City Youth Council; describes leaving private sector for candidacy. Direct reader timed out; indexed response used. No terms or remuneration.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-ryde-self-oct2"
+    },
+    {
+      "url": "https://sydney.org.au/wp-content/uploads/2022/11/The-Committee-for-Sydney-Financial-statement-Fully-signed.pdf",
+      "publisher": "Committee for Sydney",
+      "title": "Financial statements year ended30June2022",
+      "source_type": "employer",
+      "locator": "Printed p2 officers list; p3 report dated27October2022",
+      "note": "Kennedy is listed among directors with no resignation annotated; does not establish present-day service or exact endpoint.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-cfs-fy22-oct2"
+    },
+    {
+      "url": "https://www.theguardian.com/australia-news/live/2022/mar/24/australia-news-live-updates-covid-moderna-coronavirus-omicron-scott-morrison-nsw-victoria-qld-weather-melbourne-sydney?page=with%3Ablock-623ba23e8f08118734a7114e",
+      "publisher": "AAP / Guardian",
+      "title": "24March2022 Bennelong selection report",
+      "source_type": "news",
+      "locator": "Liberals select candidate for Bennelong",
+      "note": "Contemporary departure evidence.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-aap-departure-oct2"
     }
   ],
   "research_notes": [
@@ -401,7 +452,9 @@
     "McKinsey's 2008–2022 tenure and 2016 partner promotion are not converted to full-time years because sources do not establish hours, leave or exact boundaries.",
     "Candidate intervals are displayed separately and excluded; they are not used to fill employment gaps or infer leave from McKinsey or Banksia.",
     "2026-10-01 follow-up adds three first-speech early jobs, Committee for Sydney August 2020 appointment from original financial statements and guest lecturing. Clayton Utz month dates are explicitly public indexed-profile evidence; no hours inferred from title or duration.",
-    "Searched original employer reports, Banksia/Kassabgi company leads, public professional dates and PM&C descriptions. Reject Canadian public servant, UK designer and journalist namesakes. Banksia Growth interest-register link remains unverified because APH PDF returned 403; do not equate an investment holding with legal employer. FY2022 Committee PDF timed out; FY2021 and 2020 original reports opened. No campaign leave, full-time terms or precise Banksia endpoint evidence found."
+    "Searched original employer reports, Banksia/Kassabgi company leads, public professional dates and PM&C descriptions. Reject Canadian public servant, UK designer and journalist namesakes. Banksia Growth interest-register link remains unverified because APH PDF returned 403; do not equate an investment holding with legal employer. FY2022 Committee PDF timed out; FY2021 and 2020 original reports opened. No campaign leave, full-time terms or precise Banksia endpoint evidence found.",
+    "Second follow-up2October2026 adds omitted Ryde youth advisory service, retrieves previously timed-out FY2022 Committee financial report and records conflicting consulting departure evidence. No hours inferred and no unsupported replacement of existing supported dates.",
+    "Searched Banksia legal entity, committee resignation, contemporary consulting departure and supermarket identity. New Zealand Foodstuffs executive Simon Kennedy and Clarence Property employee are namesakes and excluded. Banksia partnership repeats earlier evidence without payroll/control details. Future leads: FY2023/24 Committee officers reports; original McKinsey departure/leave record; Ryde youth committee minutes; original Banksia entity disclosures."
   ],
   "open_questions": [
     "What supermarket employed Kennedy, and on what dates, hours and employment basis?",
@@ -412,6 +465,7 @@
     "Was either federal candidacy remunerated, and how did each overlap with private work?",
     "Was PM&C work direct APS employment, a secondment, or external legal advice while employed by Clayton Utz? Avoid double counting overlapping client work.",
     "What were employers and dates/hours for delivery, furniture moving and Kings Cross bouncer jobs?",
-    "When did Committee for Sydney governance end, and was it remunerated? What dates/payment applied to Wharton guest lecturing?"
+    "When did Committee for Sydney governance end, and was it remunerated? What dates/payment applied to Wharton guest lecturing?",
+    "What dates and remuneration applied to Ryde City Youth Council service; which contemporary employer record resolves McKinsey departure discrepancy?"
   ]
 }
