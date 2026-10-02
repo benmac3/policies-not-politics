@@ -6,7 +6,7 @@
   "snapshot_party": "Liberal Party of Australia",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/291406",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-01",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -160,7 +160,7 @@
       "role": "Co-founder and joint business owner",
       "start_date": "2017",
       "end_date": null,
-      "date_precision": "year",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "private_enterprise",
@@ -170,15 +170,16 @@
       "source_ids": [
         "src-4",
         "src-5",
-        "src-9"
+        "src-9",
+        "src-10"
       ],
-      "evidence_note": "Opened2017; ownership/business activity overlaps Woodside and potentially Parliament. Employee headcount is not owner hours. End date unknown.",
+      "evidence_note": "Opened2017; ownership/business activity overlaps Woodside and potentially Parliament. Employee headcount is not owner hours. End date unknown. Pique biography describes a 300-seat cashless tavern and retained business interest; this does not establish ongoing operational employment.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "291406-08"
     },
     {
-      "employer": "Pique Partners",
-      "role": "Business partner; project and commercial advisory",
+      "employer": "Pique Partners Pty Ltd",
+      "role": "Director and business partner; project and commercial advisory",
       "start_date": null,
       "end_date": null,
       "date_precision": "unknown",
@@ -189,9 +190,11 @@
       "government_control_at_time": "private",
       "counting_status": "insufficient_evidence",
       "source_ids": [
-        "src-7"
+        "src-7",
+        "src-10",
+        "src-11"
       ],
-      "evidence_note": "Public announcement corroborates partnership with Christian Ainsworth. Dates, legal entity, pay basis and own hours unresolved; post-Senate lead not converted to precise interval.",
+      "evidence_note": "Public announcement corroborates partnership with Christian Ainsworth. Dates, legal entity, pay basis and own hours unresolved; post-Senate lead not converted to precise interval. Own capability statement confirms him under Our Directors, strengthening prior third-party attribution. Company footer identifies legal entity and ABN. No inference of personal appointment date from incorporation, nor cessation from omission on current web team page. Consultancy and Pique Capital are related service offerings, not established duplicate full-time jobs.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "291406-09"
     },
@@ -353,7 +356,7 @@
       "role": "Member for Forrest",
       "start_date": "2025",
       "end_date": null,
-      "date_precision": "year",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -366,6 +369,25 @@
       "evidence_note": "House election2025; subsequent parliamentary office excluded.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "291406-18"
+    },
+    {
+      "employer": "Second hospitality business; name and legal entity unresolved",
+      "role": "Co-founder and business interest holder",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "private_enterprise",
+      "headline_sector": "private",
+      "government_control_at_time": "private",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-10"
+      ],
+      "evidence_note": "Pique company biography expressly identifies two co-founded hospitality businesses, including the tavern already recorded separately. Second business identity, active versus passive work, timing and hours unresolved; no additive duration.",
+      "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
+      "spell_id": "291406-19"
     }
   ],
   "sources": [
@@ -458,12 +480,56 @@
       "note": "Indexed parliamentary evidence; direct PDF returned403. Team full-time headcount does not prove Small’s own status.",
       "retrieved": "2026-10-01",
       "source_id": "src-9"
+    },
+    {
+      "url": "https://www.piquepartners.com.au/_files/ugd/8c4bbc_91af539cd0934e5d9fc9ccb387f1d9db.pdf",
+      "publisher": "Pique Partners / Pique Capital",
+      "title": "Capability Statement",
+      "source_type": "employer",
+      "locator": "Printed p8 (PDF p8), Our Directors: Ben Small; p2 business model",
+      "note": "Company-published biography confirms directorship and co-founding two hospitality businesses with retained interests. Undated; no personal hours or role endpoints. Downloaded successfully after search tool size limit.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-10"
+    },
+    {
+      "url": "https://www.piquepartners.com.au/",
+      "publisher": "Pique Partners Pty Ltd",
+      "title": "Home and company details",
+      "source_type": "employer",
+      "locator": "Footer legal entity/ABN; current Who We Are; capability download",
+      "note": "Identifies Australian consultancy as Pique Partners Pty Ltd, ABN 43 660 715 355. Current page omits Small while linked capability PDF retains him; this inconsistency cannot date cessation.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-11"
+    },
+    {
+      "url": "https://company-announcements.afr.com/asx/ciw/293b9226-9eda-11ee-aa32-eacecf917053.pdf",
+      "publisher": "Clime Investment Management Limited via AFR company announcements",
+      "title": "Section 249D notice of meeting, 20 December 2023",
+      "source_type": "employer",
+      "locator": "Notice and explanatory memorandum: proposed director resolutions",
+      "note": "Proposed Benjamin John Small election to board; a proposal is not an appointment.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-12"
+    },
+    {
+      "url": "https://www.marketscreener.com/quote/stock/CLIME-INVESTMENT-MANAGEME-10354807/news/Declaration-of-Voting-Results-by-Clime-Investment-Management-Limited-45872026/",
+      "publisher": "MarketScreener / S&P Capital IQ",
+      "title": "Declaration of Voting Results, 2 February 2024",
+      "source_type": "news",
+      "locator": "Indexed voting-results summary",
+      "note": "Says proposed board replacements were not approved. Conflicts with another syndicated summary claiming approval; no Clime employment/directorship asserted without original poll result.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-13"
     }
   ],
   "research_notes": [
     "Initial research2026-10-01. Searched APH, WA nomination Hansard, both first speeches, Woodside article/Trunkline, own biography, publicly indexed professional material, Pique and JESCO employer pages and interests transcription.",
     "SignalHire search lead suggested month-level Pique/JESCO roles but is an aggregator, not a verified self-authored profile; those dates not adopted. No contact details collected. JESCO role independently confirmed by employer.",
     "Follow-up: historical company biographies/annual reports for Pique and JESCO dates/pay/hours, Farstad employing entity and2017 restructuring, cadet training/leave, business-owner workload and cessation, original parliamentary interests declarations, and overlaps2022–25. Government-control classifications reflect commercial corporations; verify precise legal employers.",
-    "First-entry cutoff25November2020; later commercial work retained as separate inter-parliamentary evidence, not silently added to pre-entry experience. No unsupported public-sector zero."
+    "First-entry cutoff25November2020; later commercial work retained as separate inter-parliamentary evidence, not silently added to pre-entry experience. No unsupported public-sector zero.",
+    "Follow-up 2026-10-02: original Pique capability statement independently confirms director role, identifies two hospitality ventures and retained interests; live website supplies the Australian legal entity. Current team page and undated brochure differ, so no cessation date inferred.",
+    "Clime appointment lead unresolved: December 2023 original notice only proposes election; February 2024 syndicated summaries contradict each other on the vote. Listcorp original results link returned 403; indexed voting-results summary says rejected. Do not add a Clime employment/directorship spell from the erroneous-looking approved summary; seek original 2 February 2024 poll table if revisiting.",
+    "Source attempts: Leeuwin 2023 financial report returned 404; Pique Capital website inaccessible. Capability PDF search retrieval exceeded size limit (400; 15259658 bytes), recovered through ordinary public download and text extraction; first download script lacked requests, recovered with standard-library urllib. US Pique Partners marketing company is a namesake, excluded. SignalHire even associates Australian profile with that US domain; its detailed month dates remain unverified discovery leads.",
+    "Remaining follow-up: maritime contracts, cadet training versus service/leave, Farstad legal employer/restructure, Pique/JESCO appointment and exit, second hospitality business identity and own workload; Leeuwin governance dates. Generic current BP cadet programme conditions cannot establish Small’s 2006 terms."
   ]
 }
