@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/HWA",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-01",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -50,9 +50,10 @@
       "counting_status": "insufficient_evidence",
       "source_ids": [
         "src-5",
-        "src-6"
+        "src-6",
+        "src-12"
       ],
-      "evidence_note": "Commercial US retailer. Report identifies five years and explicitly part-time work; no precise endpoints. Dismissal and reinstatement ruling create an unresolved break.",
+      "evidence_note": "Commercial US retailer. Report identifies five years and explicitly part-time work; no precise endpoints. Dismissal and reinstatement ruling create an unresolved break. Retrospective union-official post gives1999dismissal, conflicting with first-speech age19recollection; no precise endpoint selected until original commission record resolves chronology.",
       "counting_note": "Documented part-time work excluded from full-time headline; FTE unknown. Component of official 1994–1999 retail envelope, not extra elapsed time.",
       "spell_id": "HWA-02"
     },
@@ -77,7 +78,7 @@
       "spell_id": "HWA-03"
     },
     {
-      "employer": "Unidentified lifesaving organisation",
+      "employer": "Seacliff Surf Life Saving Club",
       "role": "Volunteer surf lifesaver",
       "start_date": null,
       "end_date": null,
@@ -86,12 +87,13 @@
       "fte_fraction": null,
       "category": "unpaid_work",
       "headline_sector": "excluded",
-      "government_control_at_time": "unknown",
+      "government_control_at_time": "private",
       "counting_status": "excluded",
       "source_ids": [
-        "src-2"
+        "src-2",
+        "src-11"
       ],
-      "evidence_note": "Volunteering distinguished from salaried work; service dates unknown.",
+      "evidence_note": "Volunteering distinguished from salaried work; service dates unknown. First-person House speech names Seacliff and recalls joining movement aged11. Age does not establish exact dated service; unpaid volunteer role retained.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "HWA-04"
     },
@@ -246,7 +248,7 @@
       "role": "Member for Kingston",
       "start_date": "2007-11-24",
       "end_date": null,
-      "date_precision": "day",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -260,6 +262,25 @@
       "evidence_note": "Frozen first federal service. Ministerial and parliamentary appointments belong to elected-office career, not independent employment.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "HWA-12"
+    },
+    {
+      "employer": "Christies Beach Surf Life Saving Club",
+      "role": "Volunteer club membership",
+      "start_date": "2008",
+      "end_date": null,
+      "date_precision": "mixed",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unpaid_work",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-11"
+      ],
+      "evidence_note": "On22September2008she described this as the new club she was joining. Year-level membership start, not a paid employment contract. Exact date, duties and ending unknown; other volunteers hours not assigned to her.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "HWA-13"
     }
   ],
   "sources": [
@@ -362,6 +383,26 @@
       "note": "Adelaide Northern Division incorporated 1993; renamed December 2012; membership and board organisation with Commonwealth funding. Potential legal-entity match, not proof of Rishworth payroll or 2005–2007 control.",
       "retrieved": "2026-10-01",
       "source_id": "src-10"
+    },
+    {
+      "url": "https://www.openaustralia.org.au/debates/?id=2008-09-22.96.1",
+      "publisher": "Commonwealth Parliament / OpenAustralia transcript",
+      "title": "Kingston Electorate: Surf Lifesaving — Amanda Rishworth",
+      "source_type": "government_record",
+      "locator": "22September2008,9:55pm, paragraphs on personal membership and volunteering",
+      "note": "Identifies Seacliff club and joining Christies Beach club in2008. Other volunteers20–50hours are not her individual hours. Age11recollection not converted to exact start.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-11"
+    },
+    {
+      "url": "https://x.com/Josh_Peak/status/1922047536233087433",
+      "publisher": "Josh Peak / X",
+      "title": "Post on Rishworth retail history",
+      "source_type": "other",
+      "locator": "Indexed opening:1999Toys R Us dismissal",
+      "note": "Union-official retrospective date lead. Conflicts with age19recollection in first speech; underlying industrial decision still needed.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-12"
     }
   ],
   "research_notes": [
@@ -370,6 +411,9 @@
     "Psychology employer lead: indexed LinkedIn identifies Northern Division of General Practice 2005–2007. The Adelaide Northern organisation later used Northern Health Network and Sonder names; 2012–2013 annual report gives earlier history and distinct 2013 staff transfer. Neither later corporate form nor Commonwealth grants prove her payroll entity, ownership/control in 2005–2007 or full-time hours.",
     "Education is not employment: psychology degrees at Flinders and Adelaide retained in source trail. University research-assistant employer and student-union remuneration remain unverified. Searches for those appointments and division annual reports did not recover a contemporaneous personal staff/contract record.",
     "Recovered source-access errors: APH member page and Flinders calendar direct opens returned 403 Forbidden; LinkedIn returned 999 Unknown Status Code. Frozen records, indexed public material and reproduced Hansard used. No job-wide blocking error.",
-    "Follow-up: research-assistant employer, legal division identity and historical governance, exact psychology/training hours and overlap, retail interruption/reinstatement dates, student office remuneration, and whether swimming instruction included paid work separate from volunteering. Last follow-up 2026-10-01; next Anne Ruston."
+    "Follow-up: research-assistant employer, legal division identity and historical governance, exact psychology/training hours and overlap, retail interruption/reinstatement dates, student office remuneration, and whether swimming instruction included paid work separate from volunteering. Last follow-up 2026-10-01; next Anne Ruston.",
+    "Follow-up2026-10-02: first-person2008House speech identifies Seacliff volunteer organisation and Christies Beach membership begun2008. Generic volunteer hours in same speech are not personal paid/full-time evidence.",
+    "Targeted FWC/Toys R Us, Sonder/Northern Division, Flinders research-assistant and university-president searches did not resolve legal employers, appointment hours or reinstatement case. Josh Peak retrospective1999dismissal date logged as conflict lead only. Original industrial commission decision and2005–07division staff records remain preferred next avenues.",
+    "A multi-speaker FRSA conference result juxtaposes Rishworth with a research-assistant biography belonging elsewhere; no Murdoch Childrens position assigned. Ministerial interviews repeat broad psychology experience without employer evidence. All outstanding payroll/control/FT and chronology gaps retained."
   ]
 }
