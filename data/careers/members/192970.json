@@ -6,12 +6,12 @@
   "snapshot_party": "Australian Greens",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/192970",
   "research_status": "blocked",
-  "last_reviewed": "2026-09-30",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
     "calculation_status": "not_calculable",
-    "note": "Official parliamentary and contemporary sources establish legal research at the Queensland Land and Resources Tribunal in 2000-01, Freehills legal work in 2001-02 and community environmental-law employment at EDO Queensland from April 2002 until the Senate term began in 2011. Exact appointment boundaries, hours and leave are not published, so none of these professional roles is assumed full-time. EDO employment is nonprofit and elected office is excluded; no headline total is calculable."
+    "note": "Tribunal2000–2001,Freehillsgraduate2001–2002andEDOApril2002–2011supported; exacthours/leaveunresolved. Journaleditorrole added withpayunknown. Inferredgraduation andemploymentcessationdates removed. Nonprofit/elected/editorialrolesexcluded; totalsremainnull."
   },
   "career_spells": [
     {
@@ -19,16 +19,19 @@
       "employer": "Griffith University and College of Law, New South Wales",
       "role": "Bachelor of Science, Bachelor of Laws and Graduate Diploma in Legal Practice student",
       "start_date": null,
-      "end_date": "2000",
-      "date_precision": "mixed",
+      "end_date": null,
+      "date_precision": "unknown",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "study",
       "headline_sector": "excluded",
       "government_control_at_time": "mixed",
       "counting_status": "excluded",
-      "source_ids": ["src-1", "src-2"],
-      "evidence_note": "The Parliamentary Handbook records the three qualifications. Study commencement and completion dates are not supplied; the legal-employment chronology begins in 2000.",
+      "source_ids": [
+        "src-1",
+        "src-2"
+      ],
+      "evidence_note": "The Parliamentary Handbook records the three qualifications. Study commencement and completion dates are not supplied; the legal-employment chronology begins in 2000. Prior2000completion inferred fromemploymentstart removed; starting work doesnot dateallthreequalifications.",
       "counting_note": "Study is excluded."
     },
     {
@@ -44,25 +47,35 @@
       "headline_sector": "public",
       "government_control_at_time": "public",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-1", "src-3", "src-4"],
+      "source_ids": [
+        "src-1",
+        "src-3",
+        "src-4",
+        "src-15"
+      ],
       "evidence_note": "Official parliamentary and ABC profiles give legal-research service at the Queensland Land and Resources Tribunal from 2000 to 2001. Exact appointment and cessation dates, hours and leave are not published.",
       "counting_note": "Public control and the year interval are supported, but the evidence required for a full-time duration is absent."
     },
     {
       "spell_id": "192970-03",
       "employer": "Freehills, Brisbane",
-      "role": "Lawyer",
+      "role": "Graduate lawyer",
       "start_date": "2001",
-      "end_date": "2002-04",
-      "date_precision": "mixed",
+      "end_date": "2002",
+      "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "private_enterprise",
       "headline_sector": "private",
       "government_control_at_time": "private",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-1", "src-4", "src-5"],
-      "evidence_note": "The Parliamentary Handbook gives 2001-02 legal work at Freehills. A contemporary professional journal says Waters worked in the Brisbane office of a national law firm before joining EDO Queensland in April 2002. Exact start, cessation, hours and leave are not published.",
+      "source_ids": [
+        "src-1",
+        "src-4",
+        "src-5",
+        "src-15"
+      ],
+      "evidence_note": "The Parliamentary Handbook gives 2001-02 legal work at Freehills. A contemporary professional journal says Waters worked in the Brisbane office of a national law firm before joining EDO Queensland in April 2002. Exact start, cessation, hours and leave are not published. Queensland2018parliamentaryrecord identifies graduate role. April2002is nextemployer start,not documentedFreehillslastmonth; endpointreducedtoofficial2002year.",
       "counting_note": "Private employment is supported, but exact dates and full-time evidence are incomplete."
     },
     {
@@ -70,7 +83,7 @@
       "employer": "Environmental Defenders Office Queensland",
       "role": "Community environmental lawyer and solicitor",
       "start_date": "2002-04",
-      "end_date": "2011-06-30",
+      "end_date": "2011",
       "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
@@ -78,8 +91,15 @@
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-1", "src-3", "src-5", "src-6", "src-7"],
-      "evidence_note": "The official Parliamentary Handbook records community environmental-law work from 2002 to 2011. A contemporary professional journal identifies an April 2002 start at EDO Queensland, and Waters has described almost a decade on an award wage there. The exact cessation, hours and leave are not published; 30 June 2011 is used only as the day before her Senate term began, not as a proved payroll endpoint.",
+      "source_ids": [
+        "src-1",
+        "src-3",
+        "src-5",
+        "src-6",
+        "src-7",
+        "src-15"
+      ],
+      "evidence_note": "The official Parliamentary Handbook records community environmental-law work from 2002 to 2011. A contemporary professional journal identifies an April 2002 start at EDO Queensland, and Waters has described almost a decade on an award wage there. The exact cessation, hours and leave are not published; 30 June 2011 is used only as the day before her Senate term began, not as a proved payroll endpoint. Unsupported30June2011cutoff removed fromstructured date; only2011cessationyearis evidenced. Senatecommencementdoesnot establish payrolllastday.",
       "counting_note": "EDO Queensland was a community legal centre/nonprofit, so the employment is reported separately and excluded from public/private headline totals."
     },
     {
@@ -95,43 +115,78 @@
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-1", "src-8", "src-9"],
-      "evidence_note": "Official records show Waters' first Senate term began on 1 July 2011 and ended with her resignation on 18 July 2017 after discovering Canadian citizenship.",
+      "source_ids": [
+        "src-1",
+        "src-8",
+        "src-9",
+        "src-17"
+      ],
+      "evidence_note": "Official records show Waters' first Senate term began on 1 July 2011 and ended with her resignation on 18 July 2017 after discovering Canadian citizenship. Officialrecordalso states2016electionwas ruledvoid27October2017,ineligiblefrom2July2016. This excludedspell represents actualservice chronology,not a legal conclusion aboutvalid tenure.",
       "counting_note": "Federal elected office is excluded."
     },
     {
       "spell_id": "192970-06",
       "employer": "Australian Greens and Queensland Greens",
       "role": "Party and candidate-support work following Senate resignation; paid status unknown",
-      "start_date": "2017-07-18",
-      "end_date": "2018-09-10",
-      "date_precision": "day",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "party_organisation",
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-10", "src-11", "src-12"],
-      "evidence_note": "On resigning, Waters said she would work with the party, state candidates, members and supporters; she later sought preselection and returned via a casual vacancy. Sources reviewed do not identify an employer, employment contract, remuneration, hours or other work during the nearly 14-month interval.",
+      "source_ids": [
+        "src-10",
+        "src-11",
+        "src-12"
+      ],
+      "evidence_note": "On resigning, Waters said she would work with the party, state candidates, members and supporters; she later sought preselection and returned via a casual vacancy. Sources reviewed do not identify an employer, employment contract, remuneration, hours or other work during the nearly 14-month interval. Senate absence is context,not a proven continuous partyemployment period; inferred boundarydates removed. Paidstatus andotherworkremain unresolved.",
       "counting_note": "Party work is excluded; this spell preserves the unresolved interval without assuming paid employment."
     },
     {
       "spell_id": "192970-07",
       "employer": "Parliament of Australia",
       "role": "Senator for Queensland",
-      "start_date": "2018-09-10",
+      "start_date": "2018-09-06",
       "end_date": null,
-      "date_precision": "day",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-1", "src-11", "src-13"],
-      "evidence_note": "Queensland parliamentary and federal records show Waters was appointed to the casual vacancy and sworn into the Senate on 10 September 2018. Her September 2026 resignation from Greens leadership and announced medical leave do not end the underlying Senate office.",
+      "source_ids": [
+        "src-1",
+        "src-11",
+        "src-13",
+        "src-15",
+        "src-17"
+      ],
+      "evidence_note": "OfficialSenateservice and6September2018partyannouncement establish casualvacancyselection6September2018;10Septemberwas swearing-in,not appointment. PriorunsourcedSeptember2026leadership/medicalleaveassertion removed; no rosterchange orsenatecessationinferred.",
       "counting_note": "Federal elected office is excluded."
+    },
+    {
+      "employer": "National Environmental Law Review / environmental-law professional association",
+      "role": "Queensland editor",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-5",
+        "src-16"
+      ],
+      "evidence_note": "Primary journal identifies editor inSpring2005andWinter2007. Publicationobservations notstart/enddates; honorarium,employmentstatus andrelationshiptoEDOduties unknown. Do not double-count as separate paidemployment.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "192970-08"
     }
   ],
   "sources": [
@@ -274,14 +329,67 @@
       "source_type": "official_biography",
       "locator": "Frozen roster and parliamentary service",
       "note": "Snapshot identity and service chronology used by the frozen roster."
+    },
+    {
+      "url": "https://documents.parliament.qld.gov.au/speeches/spk2018/Annastacia_Palaszczuk-Inala-20180906-238714792473.pdf",
+      "publisher": "Queensland Parliament",
+      "title": "Election of Senator — Larissa Waters",
+      "source_type": "government_record",
+      "locator": "6September2018,p1,career chronology",
+      "note": "Premier identifies Freehills graduate role2001–2002 and priortribunal/EDOwork; nominatesWaters forvacancy.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-15"
+    },
+    {
+      "url": "https://classic.austlii.edu.au/au/journals/NatEnvLawRw/2005/39.pdf",
+      "publisher": "National Environmental Law Review viaAustLII",
+      "title": "Queensland — Wild Rivers",
+      "source_type": "professional_profile",
+      "locator": "Spring2005,Queenslandsection heading",
+      "note": "Indexed publication identifies editorLarissaWaters; directopen403. Observationnotappointmentboundary.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-16"
+    },
+    {
+      "url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=192970&lang=en",
+      "publisher": "Parliament of Australia",
+      "title": "SenatorLarissaWaters — service record",
+      "source_type": "official_biography",
+      "locator": "Parliamentary service",
+      "note": "Indexed officialtext gives chosen6September2018;10Septemberwas swearing-in. Also records2016electionvoid ruling; chronology of actual service retained as excluded.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-17"
+    },
+    {
+      "url": "https://archive.sclqld.org.au/judgepub/Koppenol_LRT%20Annual%20Report%2000-01.pdf",
+      "publisher": "Land and Resources Tribunal / Supreme Court LibraryQueensland",
+      "title": "Annual report2000–2001",
+      "source_type": "government_record",
+      "locator": "Report located; contents inaccessible",
+      "note": "Direct403; indexedtextdidnotexposeWatersstaffdetails. Researchleadonly,nohoursasserted.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-18"
+    },
+    {
+      "url": "https://archive.sclqld.org.au/judgepub/Koppenol_LRT%20Annual%20Report%2001-02.pdf",
+      "publisher": "Land and Resources Tribunal / Supreme Court LibraryQueensland",
+      "title": "Annual report2001–2002",
+      "source_type": "government_record",
+      "locator": "Report located; contents inaccessible",
+      "note": "Direct403; noappointment/cessation orworkloadfactadopted.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-19"
     }
   ],
   "research_notes": [
     "Obtain exact Griffith University and College of Law study dates and any employment overlap.",
     "Obtain exact appointment/cessation, hours and leave for the Land and Resources Tribunal and identify whether the legal-research role was a public-service appointment or another arrangement.",
-    "Obtain Freehills exact commencement and April 2002 cessation, hours and leave.",
-    "Obtain EDO Queensland payroll cessation, hours, leave and any internal title changes; 30 June 2011 is only an outer bound from the Senate term.",
-    "Resolve whether Waters had paid party employment or other paid work during 18 July 2017 to 10 September 2018; current evidence establishes party activity but not employment.",
-    "Do not treat the September 2026 resignation from Greens leadership or announced medical leave as an end to elected office unless official Senate service records later show a vacancy."
+    "Obtain Freehills exact commencement and cessation,hours andleave; April2002EDOstartisnotproof ofFreehillscessation.",
+    "Obtain EDO exact2011payrollcessation,hours,leave andtitlechanges; removedassumed30Juneendpoint.",
+    "Resolvepaidparty orotheremploymentduring2017–2018Senateabsence; partyactivity doesnot proveemployment.",
+    "EarlierSeptember2026leadership/medicalleaveclaim lacked a supporting source inrecord and was withdrawn; do not infer tenurechanges fromunsourced narrative.",
+    "Follow-up2026-10-02: primaryQueensland2018careerstatement,officialservice,2005/2007professionaljournal observations;tribunal2000–01and2001–02annualreports locatedbut403. Addededitorrole,graduateclassification andcorrected6September2018appointment.",
+    "Remaining: accessibletribunalstaffappendices,payrollhours/leave;Freehillsemploymentboundaries;EDOmaternity/candidateleave andlastday;editorhonorarium/duties;primarydegreecompletion;2017–2018paidwork. Searchpart-timeEDOprofileconcernedJoBragg,notWaters,and wasnotattributedtoher.",
+    "Recoveredsourceerrors: AustLII2007PDFErrorfetching,2005PDF403;APH403;SupremeCourtLibraryhistoricalreports403. Indexedjournalandofficialtextsupportadoptedfacts; noindividualFTstatusinferred."
   ]
 }
