@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Greens",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/BFQ",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-01",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -190,9 +190,10 @@
       "counting_status": "excluded",
       "source_ids": [
         "src-2",
-        "src-4"
+        "src-4",
+        "src-10"
       ],
-      "evidence_note": "Union employment retained separately from public-service work; no direct full-time evidence used.",
+      "evidence_note": "Union employment retained separately from public-service work; no direct full-time evidence used. Contemporary1987report acknowledges UTLC release from normal work for a13-week European research project; leave payment and exact dates unknown. Do not treat union duties and project as simultaneous additive jobs.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "BFQ-09"
     },
@@ -233,9 +234,10 @@
         "src-1",
         "src-2",
         "src-3",
-        "src-4"
+        "src-4",
+        "src-12"
       ],
-      "evidence_note": "Aggregate institutional sequence; transfer date unresolved. Includes part-time work and leave, so not continuous full-time duration. See overlapping component and research notes.",
+      "evidence_note": "Aggregate institutional sequence; transfer date unresolved. Includes part-time work and leave, so not continuous full-time duration. See overlapping component and research notes. University institutional history dates Labour Studies merger to1991, consistent with CV linkage. Individual payroll transition day still unverified; retained aggregate pending detailed appointment record.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "BFQ-11"
     },
@@ -345,7 +347,7 @@
       "role": "Fellow",
       "start_date": "2005",
       "end_date": null,
-      "date_precision": "year",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "nonprofit",
@@ -388,7 +390,7 @@
       "role": "Emeritus professor",
       "start_date": "2015",
       "end_date": null,
-      "date_precision": "year",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "university",
@@ -445,8 +447,8 @@
       "employer": "The Australia Institute",
       "role": "Board member; later deputy chair",
       "start_date": "2002",
-      "end_date": null,
-      "date_precision": "year",
+      "end_date": "2021-03-20",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "nonprofit",
@@ -457,9 +459,10 @@
         "src-2",
         "src-3",
         "src-4",
-        "src-7"
+        "src-7",
+        "src-11"
       ],
-      "evidence_note": "September 2002 newsletter supports earlier CV date despite short CV stating 2004. End and remuneration unresolved; governance not full-time employment.",
+      "evidence_note": "September 2002 newsletter supports earlier CV date despite short CV stating 2004. End and remuneration unresolved; governance not full-time employment. Follow-up indexed annual-report table supplies resignation20March2021; direct source404limits verification. Governance only; no employment-duration calculation.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "BFQ-22"
     },
@@ -488,7 +491,7 @@
       "role": "Co-founder / co-convenor",
       "start_date": null,
       "end_date": "2014",
-      "date_precision": "year",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "nonprofit",
@@ -508,7 +511,7 @@
       "role": "Strategic council member",
       "start_date": "2008",
       "end_date": null,
-      "date_precision": "year",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "nonprofit",
@@ -567,7 +570,7 @@
       "role": "Senator for South Australia",
       "start_date": "2022-07-01",
       "end_date": null,
-      "date_precision": "day",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -581,6 +584,25 @@
       "evidence_note": "Frozen-roster first Senate service; ministerial/committee roles not independent employment.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "BFQ-28"
+    },
+    {
+      "employer": "TAFE National Centre for Research and Development-sponsored project; payroll unresolved",
+      "role": "European vocational-education research while released from UTLC duties",
+      "start_date": "1987",
+      "end_date": "1987",
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "unknown",
+      "government_control_at_time": "unknown",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-10"
+      ],
+      "evidence_note": "First-person report: mid1987,three months/13weeks, including six weeks of field visits. Separate from1985–1986national project. Sponsor not proven employer; relation to UTLC pay/leave unresolved. No conversion of duration to exact dates or full-time years.",
+      "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
+      "spell_id": "BFQ-29"
     }
   ],
   "sources": [
@@ -673,6 +695,36 @@
       "note": "First-person account of early rural and secretarial work; no complete employer or hours history.",
       "retrieved": "2026-10-01",
       "source_id": "src-9"
+    },
+    {
+      "url": "https://files.eric.ed.gov/fulltext/ED293986.pdf",
+      "publisher": "TAFE National Centre for Research and Development / ERIC",
+      "title": "Man-Made Skill: Women Challenging the Tradition in England, Sweden and Germany",
+      "source_type": "government_record",
+      "locator": "December1987report, preface/acknowledgements/research structure, printediii–vi(PDF5–8)",
+      "note": "Author describes mid1987three-month European study,13weeks total, and relief from normal UTLC work. Distinguish sponsor from payroll; no leave-pay/hours evidence.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-10"
+    },
+    {
+      "url": "https://australiainstitute.org.au/wp-content/uploads/2022/07/Australia-Institute-Annual-Report-20-21-WEB.pdf",
+      "publisher": "The Australia Institute",
+      "title": "Annual Report2020–21",
+      "source_type": "employer",
+      "locator": "Indexed Directors report, appointments and resignations table",
+      "note": "Table reports Barbara Pocock resigned20March2021. DirectPDF404; indexed table read twice. Date retained with retrieval limitation, not presumed current governance.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-11"
+    },
+    {
+      "url": "https://resolve.cambridge.org/core/services/aop-cambridge-core/content/view/91DCB63B95172F5665AB17B810B69E2F/9781922064363c8_p209-234_CBO.pdf/gender-studies-and-social-analysis.pdf",
+      "publisher": "University of Adelaide Press / Margaret Allen and Susan Magarey",
+      "title": "Gender Studies and Social Analysis",
+      "source_type": "employer",
+      "locator": "2012faculty history,pp209–234,indexed Labour Studies merger paragraph",
+      "note": "Institutional history dates Labour Studies merger from SACAE to Adelaide to1991. This supports institutional transition year, not individual payroll day.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-12"
     }
   ],
   "research_notes": [
@@ -682,6 +734,9 @@
     "Further governance/service is evidenced in the full CV, not assumed paid employment: AIRAANZ leadership 2004–2008; Festival of Ideas board 2005–2009; ABS labour advisory group 2008–2011; SA public-sector performance advisory board 2008–2010; federal employment/equality advisory and award panels; earlier vocational-training and women’s-employment committees. These are retained as follow-up leads for remuneration and complete appointment dates, not headline years.",
     "TAFE research: Trading Tradition (1986), https://files.eric.ed.gov/fulltext/ED275843.pdf, identifies Pocock on a steering committee, not as its project director. Do not confuse that publication with her 1985–1986 project. Grant years differ across CV versions and do not supply employment dates.",
     "Source gaps: APH privileges report 126 direct page returned 403; political claims about union hours are not independently verified employment evidence. An obsolete Australia Institute newsletter URL returned 404, and later PDF text opening returned Internal Error; indexed September 2002 director list supplied usable contemporaneous evidence. These were source errors, not job-wide errors.",
-    "Follow-up: identify early employers and research-project payroll entities; obtain actual full-time/part-time appointments for RBA, NSW departments and universities; resolve SACAE transfer, academic leave and fellowship overlap, paid status of visiting/emeritus/consultancy activity, and governance date conflicts. Last follow-up 2026-10-01; advance to Amanda Rishworth after remote save."
+    "Follow-up: identify early employers and research-project payroll entities; obtain actual full-time/part-time appointments for RBA, NSW departments and universities; resolve SACAE transfer, academic leave and fellowship overlap, paid status of visiting/emeritus/consultancy activity, and governance date conflicts. Last follow-up 2026-10-01; advance to Amanda Rishworth after remote save.",
+    "Follow-up2026-10-02: original1987research report newly establishes13-week project and relief from ordinary UTLC work. This resolves the travel year more strongly than conflicting later grant-year summaries; four-month CV wording differs from contemporary three-month/13-week report. Do not infer a full-time contract or unpaid leave.",
+    "Australia Institute indexed2020–21report supplies20March2021board resignation; direct404recorded. Institutional history supplies1991Labour Studies merger year, but no individual payroll day. First-party CV and earlier mirror rechecked; full-time search hits mostly concern research subjects or her staff vacancies, not her employment status.",
+    "Remaining: early employers;1985–86and1988–89project payroll; RBA/NSWhours; university status/control, precise transfer, unpaid/parental/study leave conflicts and fellowship overlap. Original Changing Systems report and historical appointment documents remain leads. Board/service dates in CV remain excluded from employment totals."
   ]
 }
