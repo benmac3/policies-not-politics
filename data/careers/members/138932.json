@@ -6,12 +6,12 @@
   "snapshot_party": "Liberal Party of Australia",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/138932",
   "research_status": "blocked",
-  "last_reviewed": "2026-09-30",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
     "calculation_status": "not_calculable",
-    "note": "Official and first-person sources establish a wholly private pre-Parliament employment sequence through Defiance, the Australian Ricegrowers' Cooperative, Accenture, Barton Deakin and a sole-trader consultancy. They do not publish role-specific dates for the first four employers, hours, leave or overlap; more than ten years at Accenture is only an aggregate duration. The consultancy's registration is precisely bounded but its workload is not. Governance, party roles and elected office are excluded, so no full-time total is calculated."
+    "note": "Private business roles are supported but full-time hours, leave and several employer boundaries remain unknown. Follow-up narrows Barton Deakin to self-reportedNovember2011–November2012 and consultancy startFebruary2014. ABN/GST dates remain registration context only. More than half advisory services reportedly pro bono; no FTE inferred. Governance, study, unpaid activities and elected office are excluded; no public/private total calculated."
   },
   "career_spells": [
     {
@@ -27,14 +27,18 @@
       "headline_sector": "private",
       "government_control_at_time": "private",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-3", "src-4", "src-5"],
+      "source_ids": [
+        "src-3",
+        "src-4",
+        "src-5"
+      ],
       "evidence_note": "O'Brien's biographies and first-speech material identify trainee baking in his family's Defiance business as his first job. Dates, age, hours, leave and employment entity are not published.",
       "counting_note": "The role is private but has no countable full-time interval."
     },
     {
       "spell_id": "138932-02",
       "employer": "University of Queensland; London School of Economics; National Taiwan Normal University; University of Melbourne",
-      "role": "BA, Master of Economics, Asia Pacific Fellow in Mandarin and MBA student",
+      "role": "BA; economics and international-business masters; Mandarin Asia Pacific fellowship student",
       "start_date": null,
       "end_date": null,
       "date_precision": "unknown",
@@ -44,8 +48,14 @@
       "headline_sector": "excluded",
       "government_control_at_time": "mixed",
       "counting_status": "excluded",
-      "source_ids": ["src-1", "src-2", "src-3"],
-      "evidence_note": "Official biographies list the degrees and fellowship but not complete attendance dates or overlap with employment.",
+      "source_ids": [
+        "src-1",
+        "src-2",
+        "src-3",
+        "src-13",
+        "src-14"
+      ],
+      "evidence_note": "Official biographies list the degrees and fellowship but not complete attendance dates or overlap with employment. Follow-up: member and GI primary profiles call Melbourne qualification Master of International Business with first-class honours; inherited MBA description is not relied upon. Attendance dates remain unknown.",
       "counting_note": "Study is excluded."
     },
     {
@@ -61,7 +71,12 @@
       "headline_sector": "private",
       "government_control_at_time": "private",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-1", "src-2", "src-3", "src-5"],
+      "source_ids": [
+        "src-1",
+        "src-2",
+        "src-3",
+        "src-5"
+      ],
       "evidence_note": "The official biography lists both roles and O'Brien's profiles describe progression to senior management in Asia. No dates, hours, leave, exact employing entity or role boundary are supplied.",
       "counting_note": "Senior titles and ordering do not prove a full-time interval."
     },
@@ -78,7 +93,11 @@
       "headline_sector": "private",
       "government_control_at_time": "private",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-1", "src-2", "src-3"],
+      "source_ids": [
+        "src-1",
+        "src-2",
+        "src-3"
+      ],
       "evidence_note": "Official and member biographies identify Asian business-development work for the rice cooperative, including international negotiations and market-entry work, but publish no dates, hours or leave.",
       "counting_note": "No countable full-time interval is established."
     },
@@ -95,43 +114,62 @@
       "headline_sector": "private",
       "government_control_at_time": "private",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-1", "src-2", "src-3", "src-6"],
-      "evidence_note": "O'Brien says he spent more than ten years at Accenture, starting in Sydney strategy consulting and ending in Beijing as Director of Growth and Strategy; the official biography lists Market Maker Lead and Director roles. No start/end dates, role boundaries, hours, leave or secondments are published.",
+      "source_ids": [
+        "src-1",
+        "src-2",
+        "src-3",
+        "src-6",
+        "src-17"
+      ],
+      "evidence_note": "O'Brien says he spent more than ten years at Accenture, starting in Sydney strategy consulting and ending in Beijing as Director of Growth and Strategy; the official biography lists Market Maker Lead and Director roles. No start/end dates, role boundaries, hours, leave or secondments are published. ABC2013candidate profile dates promotion to the Market Maker team to2005 after four strategy years. This dates a role transition, not an exact overall start; no backward subtraction or hours inference.",
       "counting_note": "An aggregate duration and senior titles do not establish exact continuous full-time intervals."
     },
     {
       "spell_id": "138932-06",
       "employer": "Barton Deakin (Queensland)",
       "role": "Managing Director",
-      "start_date": "2011",
-      "end_date": "2013",
-      "date_precision": "year",
+      "start_date": "2011-11",
+      "end_date": "2012-11",
+      "date_precision": "month",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "private_enterprise",
       "headline_sector": "private",
       "government_control_at_time": "private",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-1", "src-3", "src-7", "src-8"],
-      "evidence_note": "The official biography identifies O'Brien as Queensland Managing Director. Contemporary 2012 material identifies him in the role and reports that he established the Queensland operation; the office began in late 2011. He left before establishing his own active sole-trader entity in December 2013. Exact appointment/cessation, hours, leave and any campaign overlap are not established.",
+      "source_ids": [
+        "src-1",
+        "src-3",
+        "src-7",
+        "src-8",
+        "src-12",
+        "src-19"
+      ],
+      "evidence_note": "Public professional-profile index gives Managing Director Barton Deakin November2011–November2012. Contemporary28November2011office-opening announcement corroborates commencement month. Replaces prior inferred2013end from later business registration; profile separately lists2012–13candidacy. Day boundaries, hours, leave and payroll records remain unavailable.",
       "counting_note": "A year-level outer interval is supported, but exact continuous full-time service is not."
     },
     {
       "spell_id": "138932-07",
       "employer": "Ted O'Brien & Associates / Visible Hand Consulting (Edward Lynam O'Brien, sole trader)",
       "role": "Managing Director / consultant",
-      "start_date": "2013-12-01",
-      "end_date": "2016-07-06",
-      "date_precision": "day",
+      "start_date": "2014-02",
+      "end_date": null,
+      "date_precision": "mixed",
       "employment_status": "self_employed",
       "fte_fraction": null,
       "category": "private_enterprise",
       "headline_sector": "private",
       "government_control_at_time": "private",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-1", "src-9", "src-10"],
-      "evidence_note": "The official biography identifies the managing-director role. Australian Business Register history shows the sole trader active and GST-registered from 1 December 2013 to 6 July 2016, Visible Hand Consulting registered from 5 December 2013, and Ted O'Brien & Associates from 11 January 2014. Client list, hours, leave, workload and the four-day overlap with parliamentary service are unpublished.",
-      "counting_note": "Business registration establishes an operating boundary, not full-time work throughout."
+      "source_ids": [
+        "src-1",
+        "src-9",
+        "src-10",
+        "src-12",
+        "src-13"
+      ],
+      "evidence_note": "Self-reported public professional profile gives Ted O’Brien & Associates commencement February2014. ABR records ABN/GST1December2013–6July2016 and business names Visible Hand5December2013 and Ted O’Brien & Associates11January2014: these are registration facts, not personal working boundaries. Profile’s Present label is unresolved against pre-Parliament biography and cancellation. Member states more than50% of advisory services were free to community groups/charities; no client-specific hours or exact unpaid share are available.",
+      "counting_note": "Do not treat ABN/GST life as paid full-time service or infer four days of actual parliamentary overlap. Pro bono share cannot be translated into FTE; paid/unpaid client allocation and cessation unresolved."
     },
     {
       "spell_id": "138932-08",
@@ -146,7 +184,10 @@
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-1", "src-11"],
+      "source_ids": [
+        "src-1",
+        "src-11"
+      ],
       "evidence_note": "The official biography gives a 2005–07 chair term. Paid status, hours and exact dates are not published.",
       "counting_note": "Nonprofit leadership is excluded."
     },
@@ -159,11 +200,13 @@
       "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
-      "category": "governance",
+      "category": "nonprofit",
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-1"],
+      "source_ids": [
+        "src-1"
+      ],
       "evidence_note": "Official biography supplies the role and year-level interval; remuneration, hours and exact dates are not stated.",
       "counting_note": "Governance is excluded."
     },
@@ -176,11 +219,13 @@
       "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
-      "category": "governance",
+      "category": "nonprofit",
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-1"],
+      "source_ids": [
+        "src-1"
+      ],
       "evidence_note": "Official biography supplies the role and year-level interval; remuneration, hours and exact dates are not stated.",
       "counting_note": "Governance is excluded."
     },
@@ -197,25 +242,32 @@
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-1"],
+      "source_ids": [
+        "src-1"
+      ],
       "evidence_note": "Official biography supplies the role and year-level interval; paid status, hours and exact dates are not stated.",
       "counting_note": "Party-organisation roles are excluded."
     },
     {
       "spell_id": "138932-12",
       "employer": "Generation Innovation",
-      "role": "Founder and Chairman",
-      "start_date": null,
+      "role": "Founder; former chairman; later patron",
+      "start_date": "2014",
       "end_date": null,
-      "date_precision": "unknown",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "nonprofit",
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-1"],
-      "evidence_note": "The official biography lists founder/chairman status without dates, paid status, hours or organizational form.",
+      "source_ids": [
+        "src-1",
+        "src-14",
+        "src-15",
+        "src-16"
+      ],
+      "evidence_note": "Primary organisation profile gives2014foundation; founder page identifies O’Brien as patron while current board names another chair. Historical chair role retained from official biography; transition and cessation dates unknown. Organisation says directors volunteer; no personal full-time employment inferred.",
       "counting_note": "Community/nonprofit leadership is excluded."
     },
     {
@@ -224,36 +276,278 @@
       "role": "Member for Fairfax",
       "start_date": "2016-07-02",
       "end_date": null,
-      "date_precision": "day",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-1", "src-2"],
+      "source_ids": [
+        "src-1",
+        "src-2"
+      ],
       "evidence_note": "Official records show election to the House of Representatives for Fairfax on 2 July 2016.",
       "counting_note": "Federal elected office is excluded."
+    },
+    {
+      "employer": "St Leo’s College, University of Queensland",
+      "role": "College student president",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unpaid_work",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-13"
+      ],
+      "evidence_note": "First-person biography confirms college presidency while at university. Extracurricular leadership; no paid employment inferred; term dates unknown.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "138932-14"
+    },
+    {
+      "employer": "Local community groups and charities via Ted O’Brien’s advisory practice",
+      "role": "Pro bono adviser",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unpaid_work",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-13"
+      ],
+      "evidence_note": "Member reports more than half services free of charge during pre-Parliament consultancy. This overlaps the consultancy entry, not a separate additional duration. Clients, dates and hour shares unknown.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "138932-15"
+    },
+    {
+      "employer": "Brisbane Organising Committee for the2032Olympic and Paralympic Games",
+      "role": "Director; Commonwealth nominee",
+      "start_date": "2022-04-07",
+      "end_date": "2022-05-23",
+      "date_precision": "day",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "excluded",
+      "government_control_at_time": "public",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-18"
+      ],
+      "evidence_note": "Indexed primary annual-report table explicitly dates appointment and resignation. Statutory organising-committee governance alongside elected office; no substantive public-service job or additional full-time years inferred. Remuneration and hours require confirmation.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "138932-16"
     }
   ],
   "sources": [
-    {"source_id":"src-1","url":"https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=138932","publisher":"Parliament of Australia","title":"Mr Ted O'Brien MP","retrieved":"2026-09-30","source_type":"official_biography","locator":"Qualifications and occupations; party and other positions; parliamentary service","note":"Official employer/role sequence and dated governance, party and House roles."},
-    {"source_id":"src-2","url":"https://handbook.aph.gov.au/parliamentarians/138932","publisher":"Parliamentary Handbook","title":"O'BRIEN, Edward (Ted) Lynam","retrieved":"2026-09-30","source_type":"official_biography","locator":"Occupations and service","note":"Frozen-roster identity and official pre-Parliament occupation list."},
-    {"source_id":"src-3","url":"https://www.lnp.org.au/tedobrien/meet-ted","publisher":"Liberal National Party of Queensland","title":"Meet Ted","retrieved":"2026-09-30","source_type":"official_biography","locator":"Education and business career","note":"Detailed first-person-style sequence from Defiance through Barton Deakin, including more than ten years at Accenture."},
-    {"source_id":"src-4","url":"https://www.aph.gov.au/Parliamentary_Business/Hansard/Hansard_Display?bid=chamber/hansardr/c0c274cb-cec4-48a6-8038-6873d3f0f9cb/&sid=0080","publisher":"Parliament of Australia","title":"Governor-General's Speech — Address-in-Reply, 31 August 2016","retrieved":"2026-09-30","source_type":"first_person","locator":"Education, family business and corporate-career passages","note":"O'Brien's first speech recounting trainee-baker and international business experience."},
-    {"source_id":"src-5","url":"https://tedobrien.com.au/community-news/teds-spring-road-trip","publisher":"Office of Ted O'Brien MP","title":"Ted's Spring Road Trip","retrieved":"2026-09-30","source_type":"official_biography","locator":"Career summary","note":"Member-office summary of trainee baking, Defiance progression, rice industry and Accenture work."},
-    {"source_id":"src-6","url":"https://app.glueup.com/event/igcc-climate-change-investment-finance-summit-2023-75982/speakers.html","publisher":"Investor Group on Climate Change","title":"Climate Change Investment and Finance Summit 2023 — Speakers","retrieved":"2026-09-30","source_type":"professional_profile","locator":"Ted O'Brien biography","note":"Professional biography corroborating more than a decade at Accenture and final Beijing director role."},
-    {"source_id":"src-7","url":"https://www.parliament.qld.gov.au/docs/find.aspx?id=5413T2692","publisher":"Queensland Parliament","title":"As Queensland power changes, so do top lobbyists","retrieved":"2026-09-30","source_type":"government_record","locator":"Tabled contemporary article","note":"Contemporary 2012 record identifying O'Brien as Barton Deakin Queensland managing director."},
-    {"source_id":"src-8","url":"https://www.parliament.qld.gov.au/Work-of-the-Assembly/Tabled-Papers/docs/5413t2693/5413t2693.pdf","publisher":"Queensland Parliament","title":"Tabled article concerning Queensland lobbyists","retrieved":"2026-09-30","source_type":"government_record","locator":"Barton Deakin Queensland operation passage","note":"Contemporary material stating O'Brien established Barton Deakin's state operations."},
-    {"source_id":"src-9","url":"https://abr.business.gov.au/AbnHistory/View?id=12936801524","publisher":"Australian Business Register","title":"Historical details for ABN 12 936 801 524","retrieved":"2026-09-30","source_type":"government_record","locator":"ABN, GST and business-name history","note":"Primary register dates for the sole trader, Visible Hand Consulting and Ted O'Brien & Associates."},
-    {"source_id":"src-10","url":"https://tedobrien.com.au/meet-ted/","publisher":"Office of Ted O'Brien MP","title":"Meet Ted","retrieved":"2026-09-30","source_type":"official_biography","locator":"Business and community biography","note":"Member biography corroborating more than 20 years in business and community leadership."},
-    {"source_id":"src-11","url":"https://www.smh.com.au/national/republicans-take-their-case-right-to-the-heart-20060604-gdnol3.html","publisher":"Sydney Morning Herald","title":"Republicans take their case right to the heart","retrieved":"2026-09-30","source_type":"news","locator":"Australian Republican Movement leadership","note":"Contemporary reporting corroborating O'Brien's ARM chairmanship."}
+    {
+      "source_id": "src-1",
+      "url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=138932",
+      "publisher": "Parliament of Australia",
+      "title": "Mr Ted O'Brien MP",
+      "retrieved": "2026-09-30",
+      "source_type": "official_biography",
+      "locator": "Qualifications and occupations; party and other positions; parliamentary service",
+      "note": "Official employer/role sequence and dated governance, party and House roles."
+    },
+    {
+      "source_id": "src-2",
+      "url": "https://handbook.aph.gov.au/parliamentarians/138932",
+      "publisher": "Parliamentary Handbook",
+      "title": "O'BRIEN, Edward (Ted) Lynam",
+      "retrieved": "2026-09-30",
+      "source_type": "official_biography",
+      "locator": "Occupations and service",
+      "note": "Frozen-roster identity and official pre-Parliament occupation list."
+    },
+    {
+      "source_id": "src-3",
+      "url": "https://www.lnp.org.au/tedobrien/meet-ted",
+      "publisher": "Liberal National Party of Queensland",
+      "title": "Meet Ted",
+      "retrieved": "2026-09-30",
+      "source_type": "official_biography",
+      "locator": "Education and business career",
+      "note": "Detailed first-person-style sequence from Defiance through Barton Deakin, including more than ten years at Accenture."
+    },
+    {
+      "source_id": "src-4",
+      "url": "https://www.aph.gov.au/Parliamentary_Business/Hansard/Hansard_Display?bid=chamber/hansardr/c0c274cb-cec4-48a6-8038-6873d3f0f9cb/&sid=0080",
+      "publisher": "Parliament of Australia",
+      "title": "Governor-General's Speech — Address-in-Reply, 31 August 2016",
+      "retrieved": "2026-09-30",
+      "source_type": "first_person",
+      "locator": "Education, family business and corporate-career passages",
+      "note": "O'Brien's first speech recounting trainee-baker and international business experience."
+    },
+    {
+      "source_id": "src-5",
+      "url": "https://tedobrien.com.au/community-news/teds-spring-road-trip",
+      "publisher": "Office of Ted O'Brien MP",
+      "title": "Ted's Spring Road Trip",
+      "retrieved": "2026-09-30",
+      "source_type": "official_biography",
+      "locator": "Career summary",
+      "note": "Member-office summary of trainee baking, Defiance progression, rice industry and Accenture work."
+    },
+    {
+      "source_id": "src-6",
+      "url": "https://app.glueup.com/event/igcc-climate-change-investment-finance-summit-2023-75982/speakers.html",
+      "publisher": "Investor Group on Climate Change",
+      "title": "Climate Change Investment and Finance Summit 2023 — Speakers",
+      "retrieved": "2026-09-30",
+      "source_type": "professional_profile",
+      "locator": "Ted O'Brien biography",
+      "note": "Professional biography corroborating more than a decade at Accenture and final Beijing director role."
+    },
+    {
+      "source_id": "src-7",
+      "url": "https://www.parliament.qld.gov.au/docs/find.aspx?id=5413T2692",
+      "publisher": "Queensland Parliament",
+      "title": "As Queensland power changes, so do top lobbyists",
+      "retrieved": "2026-09-30",
+      "source_type": "government_record",
+      "locator": "Tabled contemporary article",
+      "note": "Contemporary 2012 record identifying O'Brien as Barton Deakin Queensland managing director."
+    },
+    {
+      "source_id": "src-8",
+      "url": "https://www.parliament.qld.gov.au/Work-of-the-Assembly/Tabled-Papers/docs/5413t2693/5413t2693.pdf",
+      "publisher": "Queensland Parliament",
+      "title": "Tabled article concerning Queensland lobbyists",
+      "retrieved": "2026-09-30",
+      "source_type": "government_record",
+      "locator": "Barton Deakin Queensland operation passage",
+      "note": "Contemporary material stating O'Brien established Barton Deakin's state operations."
+    },
+    {
+      "source_id": "src-9",
+      "url": "https://abr.business.gov.au/AbnHistory/View?id=12936801524",
+      "publisher": "Australian Business Register",
+      "title": "Historical details for ABN 12 936 801 524",
+      "retrieved": "2026-09-30",
+      "source_type": "government_record",
+      "locator": "ABN, GST and business-name history",
+      "note": "Primary register dates for the sole trader, Visible Hand Consulting and Ted O'Brien & Associates."
+    },
+    {
+      "source_id": "src-10",
+      "url": "https://tedobrien.com.au/meet-ted/",
+      "publisher": "Office of Ted O'Brien MP",
+      "title": "Meet Ted",
+      "retrieved": "2026-09-30",
+      "source_type": "official_biography",
+      "locator": "Business and community biography",
+      "note": "Member biography corroborating more than 20 years in business and community leadership."
+    },
+    {
+      "source_id": "src-11",
+      "url": "https://www.smh.com.au/national/republicans-take-their-case-right-to-the-heart-20060604-gdnol3.html",
+      "publisher": "Sydney Morning Herald",
+      "title": "Republicans take their case right to the heart",
+      "retrieved": "2026-09-30",
+      "source_type": "news",
+      "locator": "Australian Republican Movement leadership",
+      "note": "Contemporary reporting corroborating O'Brien's ARM chairmanship."
+    },
+    {
+      "url": "https://au.linkedin.com/in/tedobrienmp",
+      "publisher": "Ted O’Brien / LinkedIn",
+      "title": "Ted O’Brien MP — public professional profile",
+      "source_type": "professional_profile",
+      "locator": "Indexed experience entries: Barton Deakin;2013Federal Election;Ted O’Brien & Associates",
+      "note": "Public index gives Barton Deakin November2011–November2012, candidacy November2012–November2013 and consultancy fromFebruary2014. Present label is not independent evidence of ongoing consultancy; full profile not fetched.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-12"
+    },
+    {
+      "url": "https://lnp.org.au/tedobrien/meet-ted",
+      "publisher": "Liberal National Party / Ted O’Brien",
+      "title": "Meet Ted",
+      "source_type": "first_person",
+      "locator": "Business career, advisory practice, pro bono and education paragraphs",
+      "note": "Revisited detailed biography: over half advisory services pro bono; college presidency; degree called Master of International Business, unlike inherited MBA wording.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-13"
+    },
+    {
+      "url": "https://www.generationinnovation.com.au/founder/",
+      "publisher": "Generation Innovation",
+      "title": "Founder and Patron — Ted O’Brien",
+      "source_type": "employer_record",
+      "locator": "Founder/patron role and qualifications",
+      "note": "Primary nonprofit record calls O’Brien founder and patron; no transition date.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-14"
+    },
+    {
+      "url": "https://www.generationinnovation.com.au/the-board/",
+      "publisher": "Generation Innovation",
+      "title": "Generation Innovation Board",
+      "source_type": "employer_record",
+      "locator": "Governance introduction; Shane Cunningham chair",
+      "note": "Primary organisation describes registered charity and volunteer directors; O’Brien separately listed as patron. No historical chair cessation supplied.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-15"
+    },
+    {
+      "url": "https://au.linkedin.com/company/generation-innovation",
+      "publisher": "Generation Innovation / LinkedIn",
+      "title": "Generation Innovation Ltd",
+      "source_type": "employer_record",
+      "locator": "Organisation overview; Founded2014",
+      "note": "Primary public organisation profile gives2014foundation; not an exact chair appointment date.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-16"
+    },
+    {
+      "url": "https://www.abc.net.au/news/elections/federal/2013/guide/fair",
+      "publisher": "ABC News",
+      "title": "Fairfax — Federal Election2013",
+      "source_type": "news",
+      "locator": "Ted O’Brien candidate biography",
+      "note": "Contemporary profile places Accenture Market Maker promotion in2005 after four strategy years; rice role after return in mid1990s. Approximate descriptions not exact commencement.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-17"
+    },
+    {
+      "url": "https://www.parliament.qld.gov.au/Work-of-the-Assembly/Tabled-Papers/docs/5723T1524/5723t1524-fb9d.pdf",
+      "publisher": "Brisbane2032 Organising Committee / Queensland Parliament",
+      "title": "Brisbane2032 Annual Report2022–23",
+      "source_type": "annual_report",
+      "locator": "Indexed former director table: Ted O’Brien",
+      "note": "Primary report indexed at parliamentary and Olympic-library hosts gives appointment7April2022 and resignation23May2022. Full parliamentary PDF returned403; library host requires JS/cookies. Dates used from explicit indexed table, not nomination or announcement.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-18"
+    },
+    {
+      "url": "https://mumbrella.com.au/barton-deakin-opens-brisbane-office-66785",
+      "publisher": "Mumbrella",
+      "title": "Barton Deakin opens Brisbane office",
+      "source_type": "news",
+      "locator": "28November2011; managing director announcement",
+      "note": "Contemporary index corroborates appointment announcement. Full article redirects to inaccessible Tollbit endpoint; no bypass.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-19"
+    }
   ],
   "research_notes": [
     "Obtain dates, hours, leave and employing entities for trainee baking and both Defiance International roles.",
     "Obtain exact Australian Ricegrowers' Cooperative and Accenture appointment/cessation dates, role boundaries, payroll entities, hours, leave and international secondments; do not convert 'more than ten years' into exact dates.",
     "Resolve Barton Deakin appointment and cessation dates, hours, leave and any overlap with the 2013 candidacy or new sole-trader registration.",
     "Obtain Ted O'Brien & Associates/Visible Hand client, invoice and workload evidence; ABN/GST registration alone does not prove full-time work.",
-    "Confirm remuneration and time commitment for nonprofit, governance and party roles; they remain excluded."
+    "Confirm remuneration and time commitment for nonprofit, governance and party roles; they remain excluded.",
+    "Follow-up2026-10-02: reviewed primary member/party biography, public professional index, GI founder/board and organisation history, ABC2013profile and Brisbane2032annual-report index. Removed personal-work dates inferred solely from registration; retained original ABR facts in notes. Captured pro bono work and2005Accenture promotion without duration arithmetic.",
+    "Further priorities: Accenture individual appointments/secondments and leave; Defiance/Ricegrowers dates and hours; confirmation of public-profile Barton Deakin months and consultancy closure;2013campaign break and any paid work; named consultancy clients and pro bono hours. Present profile label and cancelled2016ABN do not independently resolve actual employment end.",
+    "Source gaps: Mumbrella open returned(500) redirect to Tollbit inaccessible/non-retryable; Courier Mail launch article inaccessible; parliamentary annual report403; Olympic-library mirror requires JS/cookies. Explicit publicly indexed primary report dates retained with access limits; no source bypass."
   ]
 }
