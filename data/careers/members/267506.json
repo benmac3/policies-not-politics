@@ -6,7 +6,7 @@
   "snapshot_party": "Liberal Party of Australia",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/267506",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-02",
+  "last_reviewed": "2026-10-03",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -199,7 +199,7 @@
       "employer": "Committee for Sydney",
       "role": "Director / Executive Committee member",
       "start_date": "2020-08",
-      "end_date": null,
+      "end_date": "2022-10",
       "date_precision": "month",
       "employment_status": "unknown",
       "fte_fraction": null,
@@ -210,9 +210,10 @@
       "source_ids": [
         "src-cfs-fy21",
         "src-cfs-2020",
-        "src-cfs-fy22-oct2"
+        "src-cfs-fy22-oct2",
+        "src-cfs-fy23-oct3"
       ],
-      "evidence_note": "FY2021 officers report gives appointment August 2020; 2020 review identifies concurrent McKinsey partner. End, remuneration and hours unresolved. Governance appointment is separate from paid consulting. FY2022 officers report, dated27October2022, still lists Kennedy without a resignation annotation. This corroborates service in that reporting period, not indefinite continuation; end remains unknown.",
+      "evidence_note": "FY2021 officers report gives appointment August 2020; 2020 review identifies concurrent McKinsey partner. End, remuneration and hours unresolved. Governance appointment is separate from paid consulting. FY2022 officers report, dated27October2022, still lists Kennedy without a resignation annotation. This corroborates service in that reporting period, not indefinite continuation; end remains unknown. FY2023 Officers Report, visually inspected PDF page3/printed page2, expressly records Simon Kennedy resigned October2022. This resolves the previously unknown endpoint at month precision; no exact day, payment or hours are supplied.",
       "counting_note": "Nonprofit governance excluded; no substantive full-time employment inferred.",
       "spell_id": "267506-sydney-committee"
     },
@@ -444,6 +445,16 @@
       "note": "Contemporary departure evidence.",
       "retrieved": "2026-10-02",
       "source_id": "src-aap-departure-oct2"
+    },
+    {
+      "source_id": "src-cfs-fy23-oct3",
+      "url": "https://sydney.org.au/wp-content/uploads/2023/10/CFS-FY23-Financial-Statements-.pdf",
+      "publisher": "Committee for Sydney",
+      "title": "Financial statements year ended30June2023",
+      "source_type": "employer",
+      "locator": "PDF page3 / printed page2, Officers Report, Simon KENNEDY row",
+      "note": "Original report visually inspected because text extraction was corrupted. Row explicitly records resignation October2022; does not establish remuneration or full-time employment.",
+      "retrieved": "2026-10-03"
     }
   ],
   "research_notes": [
@@ -454,7 +465,8 @@
     "2026-10-01 follow-up adds three first-speech early jobs, Committee for Sydney August 2020 appointment from original financial statements and guest lecturing. Clayton Utz month dates are explicitly public indexed-profile evidence; no hours inferred from title or duration.",
     "Searched original employer reports, Banksia/Kassabgi company leads, public professional dates and PM&C descriptions. Reject Canadian public servant, UK designer and journalist namesakes. Banksia Growth interest-register link remains unverified because APH PDF returned 403; do not equate an investment holding with legal employer. FY2022 Committee PDF timed out; FY2021 and 2020 original reports opened. No campaign leave, full-time terms or precise Banksia endpoint evidence found.",
     "Second follow-up2October2026 adds omitted Ryde youth advisory service, retrieves previously timed-out FY2022 Committee financial report and records conflicting consulting departure evidence. No hours inferred and no unsupported replacement of existing supported dates.",
-    "Searched Banksia legal entity, committee resignation, contemporary consulting departure and supermarket identity. New Zealand Foodstuffs executive Simon Kennedy and Clarence Property employee are namesakes and excluded. Banksia partnership repeats earlier evidence without payroll/control details. Future leads: FY2023/24 Committee officers reports; original McKinsey departure/leave record; Ryde youth committee minutes; original Banksia entity disclosures."
+    "Searched Banksia legal entity, committee resignation, contemporary consulting departure and supermarket identity. New Zealand Foodstuffs executive Simon Kennedy and Clarence Property employee are namesakes and excluded. Banksia partnership repeats earlier evidence without payroll/control details. Future leads: FY2023/24 Committee officers reports; original McKinsey departure/leave record; Ryde youth committee minutes; original Banksia entity disclosures.",
+    "Follow-up3October2026 follows recorded FY2023/24 report lead and resolves Committee for Sydney resignation to October2022 from original FY2023 officers table. FY2024 financial report and2023 AGM minutes contain no Kennedy match and supply no further personal conditions. Generic about-us reader was inaccessible but specific primary reports were accessible. PDF rendered locally to verify corrupted text. No full-time years inferred. Next substantive leads remain McKinsey employer departure evidence, Banksia legal/payroll distinction and Ryde youth minutes."
   ],
   "open_questions": [
     "What supermarket employed Kennedy, and on what dates, hours and employment basis?",
@@ -465,7 +477,7 @@
     "Was either federal candidacy remunerated, and how did each overlap with private work?",
     "Was PM&C work direct APS employment, a secondment, or external legal advice while employed by Clayton Utz? Avoid double counting overlapping client work.",
     "What were employers and dates/hours for delivery, furniture moving and Kings Cross bouncer jobs?",
-    "When did Committee for Sydney governance end, and was it remunerated? What dates/payment applied to Wharton guest lecturing?",
+    "Was Committee for Sydney governance remunerated, and what exact day in October2022 did it end? What dates/payment applied to Wharton guest lecturing?",
     "What dates and remuneration applied to Ryde City Youth Council service; which contemporary employer record resolves McKinsey departure discrepancy?"
   ]
 }
