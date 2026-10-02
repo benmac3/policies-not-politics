@@ -6,12 +6,12 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/74519",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-01",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
     "calculation_status": "not_calculable",
-    "note": "Available evidence identifies political staff, union and party employment, with a disputed early date and incomplete career coverage. These excluded categories do not establish zero private/public experience; both headline totals remain unknown."
+    "note": "Added previously unrecorded McDonalds shift-manager work and 2004/2005 Guild roles, including first-hand full-time presidency evidence. May 2018 party handover and separate parental-leave accounts documented. Private job dates/hours and complete early coverage remain unknown."
   },
   "career_spells": [
     {
@@ -103,8 +103,8 @@
       "employer": "Australian Labor Party, WA Branch",
       "role": "State Secretary / campaign director",
       "start_date": "2015-07",
-      "end_date": "2018",
-      "date_precision": "mixed",
+      "end_date": "2018-05",
+      "date_precision": "month",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "party_organisation",
@@ -116,9 +116,11 @@
         "src-2",
         "src-3",
         "src-4",
-        "src-5"
+        "src-5",
+        "src-12",
+        "src-8"
       ],
-      "evidence_note": "July 2015 appointment documented; exact payroll start and 2018 cessation/campaign leave need confirmation.",
+      "evidence_note": "July 2015 appointment documented; exact payroll start and 2018 cessation/campaign leave need confirmation. Later succession report places Dixon handover in May 2018; final payroll/leave still unknown. First speech reports three months parental leave before entering Parliament; employer and precise dates not expressly attached, so no interval subtraction invented.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "74519-05"
     },
@@ -165,7 +167,7 @@
       "role": "Member for Perth",
       "start_date": "2018-07-28",
       "end_date": null,
-      "date_precision": "day",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -173,11 +175,69 @@
       "government_control_at_time": "public",
       "counting_status": "excluded",
       "source_ids": [
-        "src-1"
+        "src-1",
+        "src-11"
       ],
-      "evidence_note": "Frozen roster first federal service date.",
+      "evidence_note": "Frozen roster first federal service date. April 2021 first-person article reports three months parental leave before returning to Canberra in March 2021; exact day boundaries unknown and elected office remains excluded.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "74519-08"
+    },
+    {
+      "employer": "McDonalds, outlet and legal employer unconfirmed",
+      "role": "Shift manager",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "private_enterprise",
+      "headline_sector": "private",
+      "government_control_at_time": "private",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-8"
+      ],
+      "evidence_note": "First-person speech identifies actual hospitality employment absent from earlier record. Outlet, franchise/company entity, dates and hours remain unknown; management title does not prove full-time work.",
+      "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
+      "spell_id": "74519-09"
+    },
+    {
+      "employer": "Curtin Student Guild",
+      "role": "Humanities Representative",
+      "start_date": "2004",
+      "end_date": "2004",
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "nonprofit",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-9"
+      ],
+      "evidence_note": "Guild historical list identifies representative year; remuneration and hours unknown. Separate from university employment and party sub-branch role.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "74519-10"
+    },
+    {
+      "employer": "Curtin Student Guild",
+      "role": "President",
+      "start_date": "2005",
+      "end_date": "2005",
+      "date_precision": "year",
+      "employment_status": "full_time",
+      "fte_fraction": null,
+      "category": "nonprofit",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-10"
+      ],
+      "evidence_note": "Rikki Hendon, Education VP in 2005, identifies Gorman as president and herself and Gorman as the two full-timers. Retrospective first-hand full-time description; remuneration, exact term days and leave still unknown.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "74519-11"
     }
   ],
   "sources": [
@@ -250,11 +310,64 @@
       "note": "Principal Rudd adviser and state secretary corroboration; direct open 403.",
       "retrieved": "2026-10-01",
       "source_id": "src-7"
+    },
+    {
+      "url": "https://www.patrickgormanmp.com/first-speech",
+      "publisher": "Patrick Gorman MP",
+      "title": "First speech, 10 September 2018",
+      "source_type": "first_person",
+      "locator": "Opening autobiographical paragraph; My Labor Family parental-leave paragraph",
+      "note": "Identifies former McDonalds shift manager and three months paternity leave before Parliament; no employer entity or precise dates.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-8"
+    },
+    {
+      "url": "https://guild.curtin.edu.au/theguild/history/",
+      "publisher": "Curtin Student Guild",
+      "title": "History of the Guild",
+      "source_type": "primary_organisation",
+      "locator": "Student Representatives, Humanities Representative, 2004",
+      "note": "Lists Patrick Gorman as 2004 Humanities Representative, not president.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-9"
+    },
+    {
+      "url": "https://guild.curtin.edu.au/news/article/projects/rikki-hendon/",
+      "publisher": "Curtin Student Guild / Rikki Hendon interview",
+      "title": "50 years of the Guild: standing up for student unions with 05s Rikki Hendon",
+      "source_type": "first_person",
+      "locator": "How did you get involved; paragraph beginning Because I was so involved",
+      "note": "Contemporaneous colleague recalls Gorman as 2005 president and describes them as the two full-timers; does not establish pay or exact days.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-10"
+    },
+    {
+      "url": "https://www.patrickgormanmp.com/opinion-pieces/2021/4/27/ive-found-my-personal-tony-robbins",
+      "publisher": "Patrick Gorman MP",
+      "title": "I have found my personal Tony Robbins",
+      "source_type": "first_person",
+      "locator": "27 April 2021; opening paragraphs",
+      "note": "Separate three-month parental leave before returning to Canberra in March 2021; not the pre-Parliament leave mentioned in 2018.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-11"
+    },
+    {
+      "url": "https://thewest.com.au/news/wa/ex-labor-boss-in-line-to-replace-former-premier-mark-mcgowan-in-partys-safest-seat-of-rockingham-c-10814534",
+      "publisher": "The West Australian",
+      "title": "Ex-Labor boss in line to replace former premier",
+      "source_type": "news",
+      "locator": "Profile of Matt Dixon; succession paragraph",
+      "note": "Public indexed report says Dixon succeeded Gorman in May 2018. Month of office handover not necessarily final payroll date.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-12"
     }
   ],
   "research_notes": [
     "2026-10-01 avenues: frozen/indexed APH, current MP biography, Fabians speaker biography, 2015 ABC appointment report, public professional-index and early-work searches. Old biography URL unavailable; APH returned 403. Full-time/hospitality searches yielded no verified additional employment.",
     "Obtain archived original biography and staff appointment evidence for Travers/Parke/Rudd; resolve Travers 2006–07 versus 2008 conflict, Rudd title/office changes and gaps. Verify whether any early retail/hospitality or other paid work exists; absence is not zero.",
-    "Obtain United Voice and WA Labor exact payroll dates/hours/leave and 2018 resignation; separate paid secretary role from voluntary party governance. Resolve qualification dates, study/work overlap and any career breaks. Political, party and union roles remain excluded regardless of funding or full-time status."
+    "Obtain United Voice and WA Labor exact payroll dates/hours/leave and 2018 resignation; separate paid secretary role from voluntary party governance. Resolve qualification dates, study/work overlap and any career breaks. Political, party and union roles remain excluded regardless of funding or full-time status.",
+    "Follow-up 2026-10-02: full first-speech text on own website recovered after APH restricted-URL failure and identifies McDonalds shift management, overturning earlier unsuccessful hospitality search. Two Guild primary pages establish Humanities Representative 2004 and full-time president 2005; pay still unknown.",
+    "Distinguished three-month leave reported before Parliament in 2018 from separate three-month leave ending around March 2021; neither assigned invented day boundaries. May 2018 secretary handover supported by Dixon succession account, not July election proxy.",
+    "Targeted early-job, union, staff and public professional searches still leave Travers date conflict and hospitality dates/outlet/entity unresolved. US restaurant, cybersecurity and recruitment namesakes excluded. DEWR McDonalds keyword hit was an unrelated recommended Tony Burke interview, not Gorman employment evidence. Next: Guild 2005 remuneration/annual report, McDonalds outlet and dates, original staff appointments and union payroll."
   ]
 }
