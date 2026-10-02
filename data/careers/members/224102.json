@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/224102",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-01",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -67,9 +67,10 @@
       "counting_status": "excluded",
       "source_ids": [
         "src-3",
-        "src-12"
+        "src-12",
+        "src-15"
       ],
-      "evidence_note": "Confirmed former employer by June 2010 and repeated in valedictory speech. Exact title, dates, hours and leave unknown.",
+      "evidence_note": "Confirmed former employer by June 2010 and repeated in valedictory speech. Exact title, dates, hours and leave unknown. Contemporary2010election profile names her as current Kerr staff; publication12March2010is observation only, not employment boundary.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "224102-03"
     },
@@ -105,9 +106,10 @@
       "government_control_at_time": "private",
       "counting_status": "excluded",
       "source_ids": [
-        "src-8"
+        "src-8",
+        "src-16"
       ],
-      "evidence_note": "2024 candidate biography describes recent governance role; may overlap other party offices. Not ordinary employment.",
+      "evidence_note": "2024 candidate biography describes recent governance role; may overlap other party offices. Not ordinary employment. ABC10February2024names her on continuing six-member internal governance committee. Possible same role, not double-counted; no precise term or pay established.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "224102-05"
     },
@@ -372,6 +374,26 @@
       "note": "Federal election 3 May 2025, assistant minister appointments 13 May; direct access restricted.",
       "retrieved": "2026-10-01",
       "source_id": "src-14"
+    },
+    {
+      "url": "https://www.abc.net.au/news/2010-03-12/the-candidates-for-lyons/9389424",
+      "publisher": "ABC / Antony Green",
+      "title": "The Candidates for Lyons",
+      "source_type": "reliable_secondary",
+      "locator": "Rebecca White candidate paragraph; published12March2010, page updated20March2018",
+      "note": "Identifies her as current staff of Duncan Kerr during2010campaign. Point observation corroborates employer; not appointment or separation date.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-15"
+    },
+    {
+      "url": "https://www.abc.net.au/news/2024-02-10/tasmanian-labor-no-longer-under-national-administration/103451772",
+      "publisher": "ABC / Adam Langenberg",
+      "title": "National administration of Tasmania Labor branch has ended",
+      "source_type": "reliable_secondary",
+      "locator": "Final paragraph under Labor tumultuous times;10February2024",
+      "note": "Names White on continuing six-member internal decision committee. May be same governance role as AICD biography; no additional employment or term inferred.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-16"
     }
   ],
   "research_notes": [
@@ -380,6 +402,9 @@
     "Childhood family-farm chores and later references to irrigation do not establish paid farm employment or self-employment. No paid spell manufactured from those anecdotes. Check any adult business role and concurrent work against declarations.",
     "Carol Brown adviser work and Young Labor vice-presidency appear in an uncited Wikipedia passage. White’s 2010 speech names Brown as a supporter, not an employer. Preserve as leads pending independent evidence, not established spells.",
     "Follow up original Wrest Point interview and staff history, university-era employers and hours, Kerr office appointment/separation and leave, governance exact terms/pay, any employment in the February–May 2025 gap and later concurrent work. No full-time duration, public/private zero or total justified.",
-    "Source gaps: direct LinkedIn profile returned DisabledError; public post accessible. Direct APH restricted; health biography returned 400 Timeout; employer ownership submissions returned Internal Error. These individual access failures did not terminate research. Search-indexed ownership material was not used to invent precise historical control dates."
+    "Source gaps: direct LinkedIn profile returned DisabledError; public post accessible. Direct APH restricted; health biography returned 400 Timeout; employer ownership submissions returned Internal Error. These individual access failures did not terminate research. Search-indexed ownership material was not used to invent precise historical control dates.",
+    "Follow-up2026-10-02: contemporaneous ABC2010candidate profile corroborates Kerr office work and ABC2024report corroborates party governance; neither supplies employment start/end or substantive hours. These corroborations do not qualify as material enrichment for run counts.",
+    "Targeted Carol Brown adviser searches returned uncited Wikipedia passage and derivative profiles; ABC Facebook snippets insufficient to verify underlying original profile and direct Facebook returned Online fetch throttled. No new adviser spell asserted. Original SMH Wrest Point interview search found existing GameDeveloper retelling but no new dates/hours. Existing hospitality, party and study exclusions preserved.",
+    "Next useful evidence: original employer personnel/appointment records or publicly accessible dated professional history for university hospitality, Kerr/Brown staff roles and 2025gap; governance remuneration and term records. No FT totals can be calculated."
   ]
 }
