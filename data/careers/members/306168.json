@@ -6,7 +6,7 @@
   "snapshot_party": "Liberal Party of Australia",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/306168",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-01",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -71,9 +71,10 @@
         "src-nsw-liberal",
         "src-parramatta-times",
         "src-firstspeech",
-        "src-advoc8-lead"
+        "src-advoc8-lead",
+        "src-senate-declaration-oct2"
       ],
-      "evidence_note": "The frozen official extract supplies January 2006 to 30 November 2021 and describes Kovacic as an ANZ Bank franchise business owner. Party and local profiles corroborate that she founded and ran a mortgage and finance business for about sixteen years. The legal entity, exact January start day, hours, leave, staffing and overlap with advisory and governance roles are unresolved. First speech describes long hours and weekend work, but no hours threshold, dated pattern or leave. Advoc8 names Mobile Home and Investment Solutions Pty Ltd from 2007; primary register/employer link not verified, so legal entity and its differing start remain unresolved.",
+      "evidence_note": "The frozen official extract supplies January 2006 to 30 November 2021 and describes Kovacic as an ANZ Bank franchise business owner. Party and local profiles corroborate that she founded and ran a mortgage and finance business for about sixteen years. The legal entity, exact January start day, hours, leave, staffing and overlap with advisory and governance roles are unresolved. First speech describes long hours and weekend work, but no hours threshold, dated pattern or leave. Advoc8 names Mobile Home and Investment Solutions Pty Ltd from 2007; primary register/employer link not verified, so legal entity and its differing start remain unresolved. July2023 declaration names Mobile Home & Investment Services, not the earlier Solutions profile lead. Business identity is now corroborated, but link to the entire ANZ franchise period and operational work after2021 remain unproven.",
       "counting_note": "Private self-employment is well supported, but substantive full-time status and non-overlapping time are not established."
     },
     {
@@ -278,9 +279,10 @@
       "counting_status": "excluded",
       "source_ids": [
         "src-nsw-liberal",
-        "src-secondary"
+        "src-secondary",
+        "src-aph-party-oct2"
       ],
-      "evidence_note": "The NSW Liberal Party records election as President on 5 October 2022; secondary reporting records the April 2023 cessation before the Senate vacancy contest. Remuneration, hours and formal office conditions are unresolved.",
+      "evidence_note": "The NSW Liberal Party records election as President on 5 October 2022; secondary reporting records the April 2023 cessation before the Senate vacancy contest. Remuneration, hours and formal office conditions are unresolved. Official indexed biography supplies4October2022–20April2023, differing from5October party announcement. Preserve existing start pending reconciliation; official20April2023 refines cessation.",
       "counting_note": "Party office is excluded under the codebook."
     },
     {
@@ -322,6 +324,85 @@
       "evidence_note": "Library primary council page gives appointment 12 August 2026 and scheduled three-year term through 11 August 2029. Future term end is not recorded as an observed cessation. Parliamentary/governance role overlaps Senate service; pay and hours not supplied.",
       "counting_note": "Public-body governance is not counted as substantive full-time public employment.",
       "spell_id": "306168-nla-council"
+    },
+    {
+      "employer": "Mobile Home & Investment Services Pty Ltd",
+      "role": "Director",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "private_enterprise",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-interests-index-oct2",
+        "src-senate-declaration-oct2"
+      ],
+      "evidence_note": "Financial services and consulting company directorship reported in public Senate-register transcription. Original personal attribution and terms, remuneration, operational duties and hours require confirmation. Primary indexed10July2023 declaration independently corroborates company/shareholding identity, not appointment dates. No additional paid-work interval inferred.",
+      "counting_note": "Governance/ownership excluded from full-time employment totals without substantive work evidence.",
+      "spell_id": "306168-mobile-director"
+    },
+    {
+      "employer": "BorrowRight Pty Ltd",
+      "role": "Director",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "private_enterprise",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-interests-index-oct2",
+        "src-senate-declaration-oct2"
+      ],
+      "evidence_note": "Financial services and consulting company directorship reported in public Senate-register transcription. Original personal attribution and terms, remuneration, operational duties and hours require confirmation. Primary indexed10July2023 declaration independently corroborates company/shareholding identity, not appointment dates. No additional paid-work interval inferred.",
+      "counting_note": "Governance/ownership excluded from full-time employment totals without substantive work evidence.",
+      "spell_id": "306168-borrowright-director"
+    },
+    {
+      "employer": "Kovacic Holdings Pty Ltd",
+      "role": "Director",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "private_enterprise",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-interests-index-oct2",
+        "src-senate-declaration-oct2"
+      ],
+      "evidence_note": "Holding company company directorship reported in public Senate-register transcription. Original personal attribution and terms, remuneration, operational duties and hours require confirmation. Primary indexed10July2023 declaration independently corroborates company/shareholding identity, not appointment dates. No additional paid-work interval inferred.",
+      "counting_note": "Governance/ownership excluded from full-time employment totals without substantive work evidence.",
+      "spell_id": "306168-holding-director"
+    },
+    {
+      "employer": "Liberal Party — Hornsby State Electorate Conference",
+      "role": "President",
+      "start_date": "2021-03",
+      "end_date": "2022-10",
+      "date_precision": "month",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "party_organisation",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-aph-party-oct2"
+      ],
+      "evidence_note": "Indexed official biography gives month boundaries. Remuneration and hours unknown; party office excluded and not presumed to replace other work.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "306168-hornsby-president"
     }
   ],
   "sources": [
@@ -464,6 +545,36 @@
       "note": "Names Mobile Home and Investment Solutions Pty Ltd from 2007, but no primary corroboration found. Its childhood account conflicts with first speech; treat legal entity as unverified lead, not resolved employer.",
       "retrieved": "2026-10-01",
       "source_id": "src-advoc8-lead"
+    },
+    {
+      "url": "https://plainpolitics.com.au/politicians/maria-kovacic/",
+      "publisher": "Plain Politics, reproducing Senate interests",
+      "title": "Maria Kovacic registrable interests",
+      "source_type": "other",
+      "locator": "Directorships; other sources of income",
+      "note": "Lists three company directorships and financial-services business/profit distributions. Secondary transcription does not separate family interests throughout; original personal attribution/terms require verification. Do not infer paid operational hours.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-interests-index-oct2"
+    },
+    {
+      "url": "https://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Senators_Interests/-/media/DC929C7123E24B90B1477163D33A4503.ashx",
+      "publisher": "Australian Senate",
+      "title": "Register of Senators Interests July–December2023",
+      "source_type": "government_record",
+      "locator": "Public indexed Maria Kovacic Form A dated10July2023, sections1–2",
+      "note": "Primary indexed declaration confirms company names and shareholding interests, explicitly distinguishes husband-held360BusinessManagement. Direct site access blocked by robots; no retry. No directorship appointment dates or employment hours established.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-senate-declaration-oct2"
+    },
+    {
+      "url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=306168",
+      "publisher": "Parliament of Australia",
+      "title": "Senator Maria Kovacic biography",
+      "source_type": "official_biography",
+      "locator": "Public indexed Party positions",
+      "note": "Hornsby State Electorate Conference president March2021–October2022; NSW president4October2022–20April2023. Earlier party announcement dated5October conflicts by one day with official commencement.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-aph-party-oct2"
     }
   ],
   "research_notes": [
@@ -473,7 +584,9 @@
     "Board, committee, association and party titles are displayed but not treated as employment without evidence of remuneration and substantive duties.",
     "A party biography claims more than twenty years across commercial, public and not-for-profit sectors, but supplies no public employer, dates or role; that missing career segment remains unresolved.",
     "2026-10-01 follow-up adds separately evidenced Executive Women and Committee for Western Sydney roles and National Library Council appointment; first speech supplies qualitative workload evidence only. No full-time interval inferred from long hours/weekends.",
-    "Searched ANZ franchise, earlier public-sector employment, advisory company and public-profile leads. ABR later Shoshanna business-name dates are not evidence of 2016–2019 employment; mortgage company-name lead uncorroborated and profile contains conflicting childhood details. ABR name-search URL inaccessible; individual Shoshanna record read. Reject unrelated same-name construction/food profiles and Deputy President Kovacic tribunal decisions. Pre-2006 employer history remains unresolved."
+    "Searched ANZ franchise, earlier public-sector employment, advisory company and public-profile leads. ABR later Shoshanna business-name dates are not evidence of 2016–2019 employment; mortgage company-name lead uncorroborated and profile contains conflicting childhood details. ABR name-search URL inaccessible; individual Shoshanna record read. Reject unrelated same-name construction/food profiles and Deputy President Kovacic tribunal decisions. Pre-2006 employer history remains unresolved.",
+    "Second follow-up2October2026 corroborates Services company spelling via original indexed declaration; adds separately flagged company governance from register transcription and omitted Hornsby party presidency. Neither business distributions nor directorships establish employment or hours.",
+    "ANZ/payroll and earlier public-sector searches did not resolve missing employer history. Indian BorrowRight finance firm is unrelated; do not conflate. Direct APH access is robots-blocked and Shorted reader unavailable; primary indexed declaration and openly accessible transcription used with limits. Future priorities: original directorship attribution, historical franchise entity linkage and pre2006 public employer records."
   ],
   "open_questions": [
     "What work did Kovacic perform before January 2006, particularly the claimed public-sector experience, and for which employers and dates?",
@@ -485,6 +598,7 @@
     "Can original company/credit-representative records verify the Mobile Home and Investment Solutions Pty Ltd lead and 2007 claim against official January 2006 franchise start?",
     "Which employer/client and dates account for banking Royal Commission response work, and did it overlap Western Sydney Advisory?",
     "What were Committee for Western Sydney membership and Western Sydney Executive Women founding/end dates, original legal forms and remuneration?",
-    "What remuneration and meeting load apply to National Library Council governance?"
+    "What remuneration and meeting load apply to National Library Council governance?",
+    "Can original register/company records confirm personal attribution and terms of three disclosed directorships, and reconcile NSW presidency4/5October2022 start?"
   ]
 }
