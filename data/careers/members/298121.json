@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/298121",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-01",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -110,9 +110,10 @@
       "source_ids": [
         "src-1",
         "src-4",
-        "src-5"
+        "src-5",
+        "src-unwomen-photo-oct2"
       ],
-      "evidence_note": "Project linkage: official role interval plus departmental interview list and institutional biography establish AusAID Samoa media work. Exact contract type, dates and hours remain unverified.",
+      "evidence_note": "Project linkage: official role interval plus departmental interview list and institutional biography establish AusAID Samoa media work. Exact contract type, dates and hours remain unverified. UN Women credits her AusAID photography of a Samoa community project; conflicting photo metadata cannot date her appointment or establish UN employment.",
       "counting_note": "Dates, employer control and/or substantive full-time status remain insufficient for a duration calculation; unknown is not zero."
     },
     {
@@ -136,7 +137,7 @@
         "src-leave-year"
       ],
       "evidence_note": "Employer yearbook confirms 2013 start; official biography gives end year. No hours, leave or employment-control finding for this interval; public funding alone is insufficient. Her 2023 Hansard account establishes 14 months away caring for her child, supported by employer and government paid parental leave; 2022 speech locates the birth in 2016. Attribution to this university interval is chronological inference, not an employer explicitly named in the leave passage. Exact leave boundaries, paid/unpaid portions and return workload remain unknown.",
-      "counting_note": "Dates, employer control and/or substantive full-time status remain insufficient for a duration calculation; unknown is not zero. Do not treat the 2013\u20132021 envelope as uninterrupted work or subtract exactly 14 months from an otherwise unverified full-time duration; preserve leave evidence pending precise boundaries and approved calculation treatment."
+      "counting_note": "Dates, employer control and/or substantive full-time status remain insufficient for a duration calculation; unknown is not zero. Do not treat the 2013–2021 envelope as uninterrupted work or subtract exactly 14 months from an otherwise unverified full-time duration; preserve leave evidence pending precise boundaries and approved calculation treatment."
     },
     {
       "spell_id": "298121-07",
@@ -154,7 +155,7 @@
       "source_ids": [
         "src-6"
       ],
-      "evidence_note": "University's 2017\u201318 profile identifies multicultural-leadership advocacy governance; no appointment dates or paid workload.",
+      "evidence_note": "University's 2017–18 profile identifies multicultural-leadership advocacy governance; no appointment dates or paid workload.",
       "counting_note": "Excluded from the two employment headlines under the codebook."
     },
     {
@@ -174,7 +175,7 @@
         "src-7",
         "src-caf-project"
       ],
-      "evidence_note": "Governance/community role; exact cessation and remuneration unknown. Organisation\u2019s 2023 newsletter identifies her as project subcommittee leader before election and subsequent restructuring; the project began implementation in 2021, which is not independently her appointment date.",
+      "evidence_note": "Governance/community role; exact cessation and remuneration unknown. Organisation’s 2023 newsletter identifies her as project subcommittee leader before election and subsequent restructuring; the project began implementation in 2021, which is not independently her appointment date.",
       "counting_note": "Excluded from the two employment headlines under the codebook."
     },
     {
@@ -255,6 +256,25 @@
       "evidence_note": "Institution identifies the 2021 cohort. Participation does not establish paid work or full-time study.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "298121-12"
+    },
+    {
+      "employer": "Labor Environment Action Network, NSW",
+      "role": "Federal patron",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "party_organisation",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-lean-oct2"
+      ],
+      "evidence_note": "Organisation and co-patron announcements identify new patronage by15January2025; exact effective appointment date, tenure, remuneration and workload are not given. Concurrent with elected office.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "298121-lean-patron"
     }
   ],
   "sources": [
@@ -266,7 +286,7 @@
       "retrieved": "2026-09-29",
       "source_type": "official_biography",
       "locator": "Qualifications and occupation",
-      "note": "2009\u20132012, 2012\u20132013, 2013\u20132021 media roles; 2021\u20132022 PhD."
+      "note": "2009–2012, 2012–2013, 2013–2021 media roles; 2021–2022 PhD."
     },
     {
       "source_id": "src-2",
@@ -295,7 +315,7 @@
       "title": "Development for All mid-term review annexes",
       "retrieved": "2026-09-29",
       "source_type": "government_record",
-      "locator": "Page 49, Samoa\u2014AusAID interviewees",
+      "locator": "Page 49, Samoa—AusAID interviewees",
       "note": "Names Sally Sitou in AusAID Media and Communications."
     },
     {
@@ -312,7 +332,7 @@
       "source_id": "src-6",
       "url": "https://www.sydney.edu.au/content/dam/corporate/documents/sydney-southeast-asia-centre/yearbooks/sydney-southeast-asia-centre-yearbook-2017-18.pdf",
       "publisher": "University of Sydney",
-      "title": "SSEAC yearbook 2017\u201318",
+      "title": "SSEAC yearbook 2017–18",
       "retrieved": "2026-09-29",
       "source_type": "employer",
       "locator": "Page 7, Sally Sitou",
@@ -374,7 +394,7 @@
       "title": "Gender Pay Gap debate, 1 August 2022",
       "source_type": "government_record",
       "locator": "Sally Sitou, 6:45pm, first two paragraphs",
-      "note": "Her own 2016 parental-leave context; distinguishes this from adjacent speakers\u2019 part-time work histories, which do not belong to Sitou.",
+      "note": "Her own 2016 parental-leave context; distinguishes this from adjacent speakers’ part-time work histories, which do not belong to Sitou.",
       "retrieved": "2026-10-01",
       "source_id": "src-leave-year"
     },
@@ -407,14 +427,35 @@
       "note": "Names Sitou and Jason Li as civics project subcommittee leaders before election, then describes restructuring. Does not state exact appointment/cessation dates or remuneration.",
       "retrieved": "2026-10-01",
       "source_id": "src-caf-project"
+    },
+    {
+      "url": "https://www.facebook.com/NSWLEAN/posts/thank-you-and-welcome-to-our-new-federal-patrons-jerome-laxale-mp-and-sally-sito/993538069476896/",
+      "publisher": "LEAN NSW — Labor Environment Action Network",
+      "title": "Welcome to new Federal Patrons",
+      "source_type": "professional_profile",
+      "locator": "Public indexed organisation announcement referencing15January2025",
+      "note": "Organisation confirms Sitou and Laxale as federal patrons; corroborated by Laxale’s same-day first-person announcement.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-lean-oct2"
+    },
+    {
+      "url": "https://www.flickr.com/photos/unwomen/7902565262",
+      "publisher": "UN Women",
+      "title": "Manono Island women’s committee photo",
+      "source_type": "other",
+      "locator": "Caption and upload metadata lines51–69",
+      "note": "Credits AusAID/Sally Sitou. Upload31August2012 conflicts with taken1July2016; do not treat either as employment boundary.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-unwomen-photo-oct2"
     }
   ],
   "research_notes": [
     "Resolve pre-2009 work, Parliament House employer and campaign pay, exact Community Alliance placement dates/terms, Clare appointments, AusAID payroll/contract/hours, university dates/hours/leave/control and doctoral overlap; date DAWN and Chinese Australian Forum governance.",
-    "2026-09-29 initial avenues: APH indexed chronology, frozen roster, 2010 ACYD profile, Whitlam and UNSW biographies, University of Sydney 2017\u201318 employer yearbook, DFAT mid-term-review annexes, first-speech reproduction and explicit full-time/employer searches. Government report identifies AusAID media work more precisely than generic international-development descriptions.",
+    "2026-09-29 initial avenues: APH indexed chronology, frozen roster, 2010 ACYD profile, Whitlam and UNSW biographies, University of Sydney 2017–18 employer yearbook, DFAT mid-term-review annexes, first-speech reproduction and explicit full-time/employer searches. Government report identifies AusAID media work more precisely than generic international-development descriptions.",
     "AYAD placement described as a year associated with 2008 in contemporary profile; do not invent its end or infer full-time paid Commonwealth employment. A later press search lead references Beijing in 2009; obtain programme placement record before resolving boundary.",
     "Do not import third-party January 1 date normalisations. Preserve APH year precision. University sector and full-time employment require evidence, while PhD status remains study unless a separate employment contract is found. Partial record requires follow-up.",
     "2026-10-01 follow-up: searched early work, paid/volunteer campaigning, AusAID contracts, university hours/leave, public professional profiles and DAWN; reread contemporary ACYD, party candidate announcement, first-speech reproduction and her Parliament House recollection. No additional paid employer or contract hours established. Added explicit 2007 volunteer campaign, 2021 training and CAF project leadership, and material 14-month parental-leave evidence from two Hansard speeches.",
-    "Next leads: university personnel or public first-person account specifying 2016-era leave and return dates/hours; early Parliament House employer/contract (do not merge with Clare 2009\u20132012); AusAID appointment contract and China placement record. Full-time and part-time phrases in adjacent Hansard speakers or third-party LinkedIn posts are not Sitou\u2019s employment evidence. Dynamic contact cards attached to older university news pages do not backdate doctoral enrolment."
+    "Next leads: university personnel or public first-person account specifying 2016-era leave and return dates/hours; early Parliament House employer/contract (do not merge with Clare 2009–2012); AusAID appointment contract and China placement record. Full-time and part-time phrases in adjacent Hansard speakers or third-party LinkedIn posts are not Sitou’s employment evidence. Dynamic contact cards attached to older university news pages do not backdate doctoral enrolment.",
+    "Second follow-up2October2026: added LEAN NSW federal patron role from organisation announcement; AusAID photographic work corroborated by UN Women without treating the UN as employer. Targeted Samoa, university part-time and DAWN searches did not resolve contracts, hours or leave dates. UN photo taken/upload chronology conflicts and was not used for employment dates. Search excerpts for university part-time study refer to her electorate staff, university vice-chancellor or other delegates, not Sitou. Parental-leave repost repeats already documented14-month absence without new boundaries. Continue employer-specific leave/return and early Parliament House appointment evidence; no employment totals inferred."
   ]
 }
