@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/DYW",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-01",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -38,7 +38,7 @@
     {
       "spell_id": "DYW-grace-bros",
       "employer": "Grace Bros, Roselands",
-      "role": "Shop assistant",
+      "role": "Casual shop assistant",
       "start_date": "1985",
       "end_date": "1991",
       "date_precision": "year",
@@ -51,9 +51,10 @@
       "source_ids": [
         "src-snapshot",
         "src-nsw-parliament",
-        "src-inaugural2003"
+        "src-inaugural2003",
+        "src-npc2022-oct2"
       ],
-      "evidence_note": "The NSW Parliament biography identifies Grace Bros Roselands and 1985–1991, overlapping newsagency work through 1987 and university study. Hours, leave and exact dates are unresolved. First speech describes supplementary work begun at15; not enough to establish formal casual/part-time status or weekly hours.",
+      "evidence_note": "The NSW Parliament biography identifies Grace Bros Roselands and 1985–1991, overlapping newsagency work through 1987 and university study. Hours, leave and exact dates are unresolved. First speech describes supplementary work begun at15; not enough to establish formal casual/part-time status or weekly hours. Follow-up2026-10-02:16November2022 first-person address explicitly calls his Grace Brothers job casual, resolving contractual-status gap. His associated recollection describes Thursday-night/Saturday casual rostering, not a quantified individual roster throughout1985–1991. Schema has no casual enum; employment_status remains unknown as to substantive full-time/part-time hours. No FTE inferred.",
       "counting_note": "Private-sector work is identified, but full-time status is not established and overlapping intervals cannot be summed."
     },
     {
@@ -491,10 +492,30 @@
       "note": "Current same-name training business is a lead for historical identity, not proof of Burke tenure or1996 incorporation.",
       "retrieved": "2026-10-01",
       "source_id": "src-aticus-current"
+    },
+    {
+      "url": "https://www.tonyburke.com.au/speechestranscripts/2022/transcript-national-press-club-address-wednesday-16-november-2022",
+      "publisher": "Tony Burke MP",
+      "title": "National Press Club address,16November2022",
+      "source_type": "official_biography",
+      "locator": "Opening insecure-work discussion: paragraph beginning First of all, in terms of who are the casuals",
+      "note": "First-person identification of Grace Brothers job as casual; describes Thursday-night/Saturday casual rostering generally. No individual weekly hours or whole-spell change history.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-npc2022-oct2"
+    },
+    {
+      "url": "https://abr.business.gov.au/ABN/View?id=81078289513",
+      "publisher": "Australian Business Register",
+      "title": "Current details for ABN81 078289513",
+      "source_type": "government_record",
+      "locator": "Entity name/type, ABN status and ASIC number; extracted2October2026",
+      "note": "Confirms ATICUS PTY LTD as Australian private company, ABN active9May2000, ACN078289513. Registration date does not date Burke work or by itself securely link historical directorship.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-abr-oct2"
     }
   ],
   "open_questions": [
-    "What were the exact dates, pay, weekly hours, leave and school/study overlap for the Beverly Hills Newsagency and Grace Bros jobs?",
+    "What were the exact dates, pay, weekly hours, leave and school/study overlap for Beverly Hills Newsagency and the now-confirmed casual Grace Bros job, including any changes in hours/status?",
     "What were the exact appointment/payroll dates and substantive hours for the Richardson and Forshaw electorate-officer roles?",
     "Was work for Euthanasia No!, the Australian Republican Movement and Aticus paid employment, contracting or governance, and how did the 1995–1997 roles overlap?",
     "What is the verified corporate name and registration history for Aticus/Atticus Pty Ltd, and did the directorship involve substantive full-time work?",
@@ -508,6 +529,8 @@
     "Searched NSW first speech/biography/Hansard, UTS Council history and historical annual financial statements, government biography, Aticus company site/registration indexes, retail hours/casual queries, community-college and benevolent-society references. NSW dynamic biography and Aticus subpage inaccessible; ABR follow-up400Timeout. Primary PDF and institutional histories available; no job-wide error.",
     "Aticus identity remains partially unresolved: employer site names principal Ben Richards; contemporary2010 reporting names Richards and Ray D’Cruz alongside Burke. Public register lead ABN81078289513/ACN078289513 and1997 incorporation is not yet securely linked to the1996–97 parliamentary claim. Do not overwrite official years or equate company registration with personal work. Current brand alone cannot prove historic continuity.",
     "Unrelated cinema-industry executive Tony Burke, British unionist Tony Burke and university academics excluded as namesakes. Degree alone does not establish practising solicitor employment. Generic casual-to-permanent policy articles do not establish his personal retail hours.",
-    "Follow-up priorities: retail weekly hours and contractual status; Aticus incorporation/name link and actual operational work; campaign/advocacy payroll and overlaps; SDA exact dates/leave; college and benevolent-foundation entity/term/payment; party terms and Goulburn volunteering dates;2004 transition paid work. Last review2026-10-01; advance to next nationwide follow-up."
+    "Follow-up priorities: retail weekly hours and contractual status; Aticus incorporation/name link and actual operational work; campaign/advocacy payroll and overlaps; SDA exact dates/leave; college and benevolent-foundation entity/term/payment; party terms and Goulburn volunteering dates;2004 transition paid work. Last review2026-10-01; advance to next nationwide follow-up.",
+    "Second follow-up2026-10-02 materially establishes casual contractual status for Grace Bros from own2022 speech; hours remain unknown and existing official dates preserved. General retail rosters/award hours in speech are not assigned wholesale to his personal employment.",
+    "ABR previously inaccessible now retrieved: Aticus Pty Ltd private-company legal spelling and identifiers confirmed, but register supplies no Burke directorship/contract details; historical1996–97 work remains separately sourced. Current Ben Richards site and2010 press link support a lead, not exact employment or incorporation boundaries. Benevolent-foundation searches still mix membership declarations and cinema-industry namesake; no identity claim added. Next follow-up: individual retail roster/leave, Aticus operational/pay evidence, original1990s advocacy contracts and2004 transition."
   ]
 }
