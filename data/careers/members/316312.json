@@ -6,7 +6,7 @@
   "snapshot_party": "The Nationals",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/316312",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-01",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -142,21 +142,25 @@
     {
       "spell_id": "316312-lg-nsw",
       "employer": "Local Government NSW",
-      "role": "Board member",
-      "start_date": null,
-      "end_date": null,
-      "date_precision": "unknown",
+      "role": "Regional/Rural Director; Member Value Working Committee member",
+      "start_date": "2022",
+      "end_date": "2024-09",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
-      "category": "nonprofit",
+      "category": "employer_association",
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
       "source_ids": [
         "src-personal-bio",
-        "src-first-speech"
+        "src-first-speech",
+        "src-council2022-oct2",
+        "src-lgnsw2023-oct2",
+        "src-lgnsw-departure-oct2",
+        "src-lgnsw-confirmation-oct2"
       ],
-      "evidence_note": "Chaffey's current biography and first speech identify board service. Dates, remuneration, hours and overlap with other local-government roles are unresolved.",
+      "evidence_note": "Chaffey's current biography and first speech identify board service. Dates, remuneration, hours and overlap with other local-government roles are unresolved. Follow-up 2 October 2026: council release dated 15 March 2022 says elected earlier that year, supporting 2022 start without an exact date. Annual report 2022–23 identifies Regional/Rural directorship, Member Value Working Committee membership at 30 June 2023, and member-controlled registered employer-association status (refines previous nonprofit category). September 2024 president message announces departure at council-term end; October retrospective confirms vacancy following non-contestation of September elections. End coded September 2024 at month precision, not the announcement date. Director remuneration and personal hours remain unknown; 53 full-time staff in annual report is not evidence about Chaffey.",
       "counting_note": "Association governance is excluded under the codebook."
     },
     {
@@ -448,6 +452,46 @@
       "note": "Legitimately public post opened without authentication; relative timestamp not converted to exact appointment date.",
       "retrieved": "2026-10-01",
       "source_id": "src-nuclear-advisory"
+    },
+    {
+      "url": "https://www.gunnedah.nsw.gov.au/index.php/council/keep-in-touch/latest-news-media/item/2346-gunnedah-s-mayor-to-represent-shire-across-the-state?print=1&tmpl=component",
+      "publisher": "Gunnedah Shire Council",
+      "title": "Gunnedah’s Mayor to represent Shire across the State, 15 March 2022",
+      "source_type": "government_record",
+      "locator": "Paragraphs 2–5",
+      "note": "Elected to LGNSW earlier in 2022; Namoi chair re-election and CMA deputy-chair election in March. Not employment hours.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-council2022-oct2"
+    },
+    {
+      "url": "https://lgnsw.org.au/common/Uploaded%20files/Annual_Report/Annual_Report_2022-23.pdf",
+      "publisher": "Local Government NSW",
+      "title": "Annual Report 2022–23",
+      "source_type": "employer",
+      "locator": "Printed pages 18–20, LGNSW Board / Corporate & Compliance / Member Value Working Committee",
+      "note": "Chaffey is Regional/Rural Director and committee member. LGNSW is registered industrial organisation of employers, democratically controlled by members. Staff counts cannot be attributed to directors; top-five remuneration table does not establish his pay.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-lgnsw2023-oct2"
+    },
+    {
+      "url": "https://lgnsw.org.au/Public/Public/News/President-Message/2024/PM091024.aspx",
+      "publisher": "Local Government NSW",
+      "title": "President’s Message, 10 September 2024",
+      "source_type": "employer",
+      "locator": "Farewell and thank you — Departing Board members",
+      "note": "Chaffey leaving board at end of council term; month-level cessation interpreted with October retrospective confirmation, not exact day.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-lgnsw-departure-oct2"
+    },
+    {
+      "url": "https://lgnsw.org.au/Public/Public/News/President-Message/2024/PM102924.aspx",
+      "publisher": "Local Government NSW",
+      "title": "Vice-President’s Message, 29 October 2024",
+      "source_type": "employer",
+      "locator": "Welcome and congratulations to new LGNSW board members",
+      "note": "Vacancies arose when Chaffey and two others did not contest September local elections; retrospective corroboration of departure.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-lgnsw-confirmation-oct2"
     }
   ],
   "research_notes": [
@@ -457,7 +501,9 @@
     "All potentially countable private-sector spells remain uncounted because exact dates and substantive full-time status are unresolved.",
     "Systematic follow-up2026-10-01 identified family business through its own history, split apprenticeship from ownership, added Stripes management and later corporate resignation, and omitted advisory/association governance. Repaired mixed date precision for campaigning and expanded Country Mayors chronology.",
     "Preserve apparent chronology tension: company site places joining under2000s, while first speech gives28years before handover. Neither licenses an exact apprenticeship start. September2024 operating departure and19August2025 corporate resignation concern different capacities. Company group branding and payroll legal entities remain distinct unresolved questions.",
-    "Searched official biography/first speech, company history, customer publications, parliamentary interest index, council records, public professional posts and local business reporting. APH PDF403 and council timeout were source-specific; public indexed primary material and open sources supplied evidence. No personal full-time contract or leave evidence found. Gunnedah Gateway and investment-company holdings are follow-up leads, not automatically paid jobs. Spouse directorships must not be attributed to Chaffey."
+    "Searched official biography/first speech, company history, customer publications, parliamentary interest index, council records, public professional posts and local business reporting. APH PDF403 and council timeout were source-specific; public indexed primary material and open sources supplied evidence. No personal full-time contract or leave evidence found. Gunnedah Gateway and investment-company holdings are follow-up leads, not automatically paid jobs. Spouse directorships must not be attributed to Chaffey.",
+    "Second follow-up 2 October 2026 materially dates LGNSW governance 2022–September 2024 and resolves association type from its annual report. These excluded roles overlap business and elected office; no headline employment duration added. Council March 2022 release additionally confirms Namoi chair re-election and CMA deputy-chair election but does not redefine original starts.",
+    "Targeted Woolworths/apprenticeship/profile searches did not establish personal employment dates or hours. Namesake overseas corporate profiles excluded. LGNSW 2021–22 report web fetch timed out; 2022–23 PDF downloaded and text-read successfully. Top-five remuneration and overall staff numbers not transferred to Chaffey. Further leads: Woolworths training/payroll history, apprenticeship registration, business leave/operational transition and individual director remuneration."
   ],
   "open_questions": [
     "What were the exact start/end dates, hours and store transitions for the Woolworths management career?",
