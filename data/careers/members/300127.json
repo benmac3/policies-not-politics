@@ -6,12 +6,12 @@
   "snapshot_party": "Australian Greens",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/300127",
   "research_status": "blocked",
-  "last_reviewed": "2026-09-30",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
     "calculation_status": "not_calculable",
-    "note": "Official and first-person sources establish more than 40 years in architecture: early work with Kerry and Lindsay Clare and Robert Morris-Nunn, independent practice, a 2011 merger into Architectus Brisbane and architectural work through 2021. They also establish an overlapping University of Queensland adjunct professorship from 2009 to 2021. Published evidence does not supply reliable boundaries, hours, leave, remuneration or substantive full-time status, and the stated 1981 independent-practice start conflicts with the separately stated 21-year duration before the 2011 merger. No public/private full-time headline total is calculable."
+    "note": "NewQueenslandpracticefrom1990distinguishedfrom1981predecessorusingfirst-personreturnfromTasmaniaaccount;21yearsbefore2011mergercanrefertothislaterstage. Morris-Nunnpartnershipseparated,2017Architectusemployerobservationand2009/2010advisoryserviceadded. Exactentities,overlaps,hours,leaveand2021cessationremainunresolved; totalsnull."
   },
   "career_spells": [
     {
@@ -27,14 +27,19 @@
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-1", "src-4", "src-5", "src-6"],
+      "source_ids": [
+        "src-1",
+        "src-4",
+        "src-5",
+        "src-6"
+      ],
       "evidence_note": "Watson-Brown's first-person accounts say she began architecture at the University of Queensland in 1974. The Digital Archive of Queensland Architecture records a Bachelor of Design Studies in 1976 and Bachelor of Architecture with honours in 1980; the Parliamentary Handbook corroborates the architecture degree.",
       "counting_note": "Study is excluded."
     },
     {
       "spell_id": "300127-02",
-      "employer": "Kerry and Lindsay Clare; Robert Morris-Nunn",
-      "role": "Architectural work and partnership",
+      "employer": "Kerry and Lindsay Clare; early architectural employment",
+      "role": "Architectural employee",
       "start_date": "1980",
       "end_date": null,
       "date_precision": "mixed",
@@ -44,26 +49,37 @@
       "headline_sector": "private",
       "government_control_at_time": "private",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-5", "src-6"],
-      "evidence_note": "The Digital Archive records that Watson-Brown began her career with Kerry and Lindsay Clare on the Sunshine Coast and also practised in Tasmania. Her first-person career essay says she worked for the Clares after graduation and later entered a partnership with Robert Morris-Nunn. The employers, transitions, dates, hours and leave are not fully published.",
+      "source_ids": [
+        "src-5",
+        "src-6"
+      ],
+      "evidence_note": "Professionalarchive andfirst-person2012essayidentifypost-graduationemploymentwithClares,followedlaterbyTasmanianpartnershipwithRobertMorris-Nunn(nowseparatelyrepresented).1980isyear-levelcareerstart,notexactClareappointment. Hours,leave andClarecessationunknown.",
       "counting_note": "Private architectural work is supported, but duration and full-time evidence are insufficient."
     },
     {
       "spell_id": "300127-03",
-      "employer": "Elizabeth Watson Brown Architects and predecessor independent practice",
+      "employer": "Predecessor independent architectural practice, entity unresolved",
       "role": "Architect and practice principal",
       "start_date": "1981",
-      "end_date": "2011",
-      "date_precision": "year",
+      "end_date": null,
+      "date_precision": "mixed",
       "employment_status": "self_employed",
       "fte_fraction": null,
       "category": "private_enterprise",
       "headline_sector": "private",
       "government_control_at_time": "private",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-2", "src-3", "src-4", "src-5", "src-6", "src-7"],
-      "evidence_note": "Her parliamentary first speech says she established her own practice in 1981. Other first-person and professional profiles say Elizabeth Watson Brown Architects operated for 21 years before merging into Architectus Brisbane in 2011, growing from one to twelve staff. Those statements imply different possible boundaries, so 1981 is retained as the supported start of independent practice without treating the whole interval as one proved full-time spell. Exact entity history, hours, leave and overlaps are not published.",
-      "counting_note": "Self-employment in private practice is supported, but the boundary discrepancy and absent workload evidence prevent a full-time duration calculation."
+      "source_ids": [
+        "src-2",
+        "src-3",
+        "src-4",
+        "src-5",
+        "src-6",
+        "src-7",
+        "src-9"
+      ],
+      "evidence_note": "Firstspeech explicitlystatesownpracticeestablished1981.2013first-personessaydescribesreturnfromTasmaniainsummer1990andnewQueenslandpractice; thatlaterstageisnowseparate.1981entity/location anditsrelationshiptoMorris-Nunnpartnershipremainunresolved.21yearsdurationisnotappliedtoentire1981–2011interval.",
+      "counting_note": "Unresolvedpredecessorstage; mayoverlapTasmanianpartnershipandlaterpractice. Noadditivedurationorcontinuousfull-timeassumption."
     },
     {
       "spell_id": "300127-04",
@@ -78,8 +94,17 @@
       "headline_sector": "private",
       "government_control_at_time": "private",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-1", "src-2", "src-3", "src-4", "src-5", "src-6", "src-7"],
-      "evidence_note": "Professional and first-person profiles say Watson-Brown's practice merged with Architectus Brisbane in 2011, when she became design director, and that she later served as a design strategy leader after a national amalgamation. The Parliamentary Handbook records architectural work through 2021. Exact appointment and cessation dates, employing entity, hours and leave are not published.",
+      "source_ids": [
+        "src-1",
+        "src-2",
+        "src-3",
+        "src-4",
+        "src-5",
+        "src-6",
+        "src-7",
+        "src-10"
+      ],
+      "evidence_note": "Professional and first-person profiles say Watson-Brown's practice merged with Architectus Brisbane in 2011, when she became design director, and that she later served as a design strategy leader after a national amalgamation. The Parliamentary Handbook records architectural work through 2021. Exact appointment and cessation dates, employing entity, hours and leave are not published. Employerpublication2March2017specificallycallsherDesignDirector. Nationalamalgamation/designstrategyleadertransitionstillundated; titledoesnotprovehours.",
       "counting_note": "Private employment is supported, but a full-time duration cannot be established."
     },
     {
@@ -95,7 +120,10 @@
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-1", "src-2"],
+      "source_ids": [
+        "src-1",
+        "src-2"
+      ],
       "evidence_note": "The Parliamentary Handbook records an adjunct professorship at the University of Queensland from 2009 to 2021. Published sources reviewed do not establish whether the adjunct appointment was remunerated, its workload, or whether it constituted employment; it overlapped private architectural work.",
       "counting_note": "University work is reported separately and excluded from headline public/private totals; the adjunct appointment's employment status is unresolved."
     },
@@ -104,16 +132,21 @@
       "employer": "Queensland and Brisbane design advisory bodies and professional juries",
       "role": "Panel, roundtable, advisory-board and jury service",
       "start_date": null,
-      "end_date": "2021",
-      "date_precision": "mixed",
+      "end_date": null,
+      "date_precision": "unknown",
       "employment_status": "unknown",
       "fte_fraction": null,
-      "category": "governance",
+      "category": "unknown",
       "headline_sector": "excluded",
       "government_control_at_time": "mixed",
       "counting_status": "excluded",
-      "source_ids": ["src-3", "src-4"],
-      "evidence_note": "Professional profiles list service on government design panels, the Queensland Board for Urban Places, the Cultural Precinct Design and Heritage Roundtable, Brisbane City Council's Independent Design Advisory Panel and multiple awards juries. The sources do not give complete terms, remuneration or workload.",
+      "source_ids": [
+        "src-3",
+        "src-4",
+        "src-11",
+        "src-12"
+      ],
+      "evidence_note": "Professional profiles list service on government design panels, the Queensland Board for Urban Places, the Cultural Precinct Design and Heritage Roundtable, Brisbane City Council's Independent Design Advisory Panel and multiple awards juries. The sources do not give complete terms, remuneration or workload. Contemporarylaunchreport25August2009namesherinitialBoardforUrbanPlacesmembership;2010nationalawardsjuryprofilealsoidentifiesher. Observation/awarddatesare notwhole-serviceboundaries; unsupported2021cessationremoved.",
       "counting_note": "Governance and advisory service is excluded from headline employment totals."
     },
     {
@@ -121,16 +154,18 @@
       "employer": "Australian Greens",
       "role": "Member and campaign volunteer",
       "start_date": "2018",
-      "end_date": "2022-05-20",
+      "end_date": null,
       "date_precision": "mixed",
-      "employment_status": "unpaid",
+      "employment_status": "unknown",
       "fte_fraction": null,
       "category": "unpaid_work",
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-4"],
-      "evidence_note": "A professional profile says Watson-Brown joined the Greens in 2018 and volunteered on local election campaigns before winning Ryan. It does not identify paid party employment.",
+      "source_ids": [
+        "src-4"
+      ],
+      "evidence_note": "A professional profile says Watson-Brown joined the Greens in 2018 and volunteered on local election campaigns before winning Ryan. It does not identify paid party employment. Noevidenceallvolunteeringceased20May2022; unsupportedpre-electioncutoffremoved. Sourceexplicitlydescribesvolunteeringbutnoapprovedunpaidemploymentenum,sohoursstatusunknownandcategoryunpaid_work.",
       "counting_note": "Unpaid political activity is excluded."
     },
     {
@@ -139,16 +174,62 @@
       "role": "Member of the House of Representatives for Ryan",
       "start_date": "2022-05-21",
       "end_date": null,
-      "date_precision": "day",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-1", "src-8"],
+      "source_ids": [
+        "src-1",
+        "src-8"
+      ],
       "evidence_note": "The Parliamentary Handbook records election for Ryan on 21 May 2022 and re-election in 2025.",
       "counting_note": "Federal elected office is excluded."
+    },
+    {
+      "employer": "Partnership with Robert Morris-Nunn, Tasmania; legal name unresolved",
+      "role": "Architect and partner",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "self_employed",
+      "fte_fraction": null,
+      "category": "private_enterprise",
+      "headline_sector": "private",
+      "government_control_at_time": "private",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-6",
+        "src-9"
+      ],
+      "evidence_note": "2012first-personessayidentifiespartnershipafterClareemployment;2013essaydatesreturnfromTasmaniainsummer1990. Returnisnotnecessarilyformalpartnershipcessation; noexactboundaryinferred.",
+      "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
+      "spell_id": "300127-09"
+    },
+    {
+      "employer": "Elizabeth Watson Brown Architects, Queensland",
+      "role": "Architect and practice principal",
+      "start_date": "1990",
+      "end_date": "2011",
+      "date_precision": "year",
+      "employment_status": "self_employed",
+      "fte_fraction": null,
+      "category": "private_enterprise",
+      "headline_sector": "private",
+      "government_control_at_time": "private",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-3",
+        "src-5",
+        "src-6",
+        "src-7",
+        "src-9"
+      ],
+      "evidence_note": "2013first-personaccountidentifiesnewQueenslandpracticeafter1990returnfromTasmania;firstcommissionNgungunHouse. Professionalprofilesgive21yearsand2011merger. ThisdistinguishesaQueenslandstagefrom1981predecessorwithoutclaimingentitycontinuity. Earlyworkcombinedhomepractice/sharedchildcare; noquantifiedhoursorleave.",
+      "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
+      "spell_id": "300127-10"
     }
   ],
   "sources": [
@@ -197,20 +278,20 @@
       "url": "https://qldarch.net/architect/summary?architectId=297",
       "publisher": "Digital Archive of Queensland Architecture",
       "title": "Elizabeth Watson-Brown",
-      "retrieved": "2026-09-30",
+      "retrieved": "2026-10-02",
       "source_type": "professional_profile",
       "locator": "Education and early practice",
-      "note": "Professional archive giving 1976 and 1980 qualifications and early work with Kerry and Lindsay Clare, including practice in Tasmania."
+      "note": "Professional archive giving 1976 and 1980 qualifications and early work with Kerry and Lindsay Clare, including practice in Tasmania. Follow-upindexedtextalsoexplicitlygives1990firmestablishment; emptydirectpage. Claimofleadingformorethan30yearsconflictswith2011mergerandnotadopted."
     },
     {
       "source_id": "src-6",
       "url": "https://parlour.org.au/career-paths/the-seven-ages/",
       "publisher": "Parlour",
       "title": "The Seven Ages",
-      "retrieved": "2026-09-30",
+      "retrieved": "2026-10-02",
       "source_type": "first_person",
-      "locator": "Career chronology; published 29 April 2012",
-      "note": "Watson-Brown's career essay records study from 1974, post-graduation work with the Clares, partnership with Robert Morris-Nunn, independent practice and the 2011 Architectus merger."
+      "locator": "Ages2–3and7",
+      "note": "Watson-Brown's career essay records study from 1974, post-graduation work with the Clares, partnership with Robert Morris-Nunn, independent practice and the 2011 Architectus merger. Sharedchildcare/homeworknotquantifiedpart-time; noemploymenthoursinferred."
     },
     {
       "source_id": "src-7",
@@ -231,13 +312,56 @@
       "source_type": "official_biography",
       "locator": "Frozen roster and parliamentary service",
       "note": "Snapshot identity and parliamentary chronology used by the frozen roster."
+    },
+    {
+      "url": "https://architectureau.com/articles/ngungun-house/",
+      "publisher": "ArchitectureAu / Elizabeth Watson-Brown",
+      "title": "First House: Elizabeth Watson-Brown",
+      "source_type": "first_person",
+      "locator": "12January2013,openingparagraphs; firstpublishedHouses88(2012)",
+      "note": "ReturnsfromTasmaniainsummer1990 and describesfirstcommissionfornewQueenslandpractice; supportsseparatestagewithoutinventingpredecessorend.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-9"
+    },
+    {
+      "url": "https://architectus.com.au/latest/australian-institute-of-architects-life-fellows-honoured-in-brisbane/",
+      "publisher": "Architectus",
+      "title": "Australian Institute of Architects Life Fellows honoured in Brisbane",
+      "source_type": "employer_record",
+      "locator": "2March2017,paragraphidentifyingDesignDirector",
+      "note": "Contemporaneousemployerobservation; notappointmentdate.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-10"
+    },
+    {
+      "url": "https://www.architectureanddesign.com.au/editorial/industry-news/queensland-launches-urban-design-panel",
+      "publisher": "Architecture & Design",
+      "title": "Queensland launches urban design panel",
+      "source_type": "news",
+      "locator": "25August2009,initialBoardforUrbanPlaces membership",
+      "note": "ContemporarylaunchreportnamesWatson-Brown; appointmentday/paynotpublished.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-11"
+    },
+    {
+      "url": "https://architectureau.com/contributors/Jury-2010-National-Architectur/",
+      "publisher": "ArchitectureAu / Australian Institute of Architects",
+      "title": "National Architecture Awards Jury2010",
+      "source_type": "professional_profile",
+      "locator": "2010jurylist",
+      "note": "NamesWatson-Brown as2010nationalawardjuror; awardyearisnotemploymentboundary.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-12"
     }
   ],
   "research_notes": [
-    "Resolve the apparent discrepancy between the 1981 independent-practice start in the first speech and the separate 21-year duration before the 2011 merger; identify predecessor practice names and entity boundaries.",
+    "1990newQueenslandpracticeprimary-supported; distinguishes21-yearstageending2011fromearlier1981practice. Stillresolvepredecessorentity/location,Morris-Nunnpartnershiprelationshipandalllegaltransfers; do notdouble-countumbrellaandpartnership.",
     "Obtain exact dates, employing entities, hours and leave for work with Kerry and Lindsay Clare, Robert Morris-Nunn, Elizabeth Watson Brown Architects and Architectus, including the national amalgamation transition.",
     "Determine whether the 2009-21 University of Queensland adjunct appointment was remunerated employment and, if so, obtain workload and leave evidence and resolve overlap with private practice.",
     "Obtain appointment dates, remuneration and workload for government design panels, advisory bodies and professional juries; retain them as governance unless substantive employment is evidenced.",
-    "Confirm that pre-election Greens activity was wholly unpaid and identify any other paid work between architectural practice ending in 2021 and election on 21 May 2022."
+    "Confirm that pre-election Greens activity was wholly unpaid and identify any other paid work between architectural practice ending in 2021 and election on 21 May 2022.",
+    "Follow-up2026-10-02: firsthandNgungunHouse1990return/newpracticeaccount,2012SevenAgeshomework/childcare,professionalarchiveindexed1990,Architectus2March2017employernews,2009Boardlaunchand2010juryreviewed. NoFTinferencefrompracticeleadershiporstaffcount.",
+    "Remaining: preciseClare/Morris-Nunndatesandentitynames,predecessorpracticehistory,paid/unpaidleave/workload,Architectusnationaltransferandlastpaidday,UQadjunctremuneration,individualpanelcontracts. Childcarecannotbeconvertedtofixedbreakwithoutdates.",
+    "RecoveredArchitectureAuadvantage-of-sizeopen400Timeout; otherfirst-personandemployerpagesaccessible. Digitalarchivebodyempty; indexed1990claimcross-checkedagainstfirst-personprojectessay."
   ]
 }
