@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/00AOU",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-01",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -15,7 +15,7 @@
   },
   "career_spells": [
     {
-      "employer": "Furniture-industry union / CFMEU and predecessor organisation to verify",
+      "employer": "Federated Furnishing Trade Society of Australasia; later CFMEU (personal payroll transfer date unverified)",
       "role": "Industrial officer",
       "start_date": "1990",
       "end_date": "1994",
@@ -30,9 +30,12 @@
         "src-1",
         "src-2",
         "src-3",
-        "src-6"
+        "src-6",
+        "src-10",
+        "src-11",
+        "src-12"
       ],
-      "evidence_note": "Official aggregate year interval. University primary citation establishes a part-time component while studying, not hours throughout 1990–1994. Exact predecessor entity and transition after graduation unresolved; aggregate employment_status left unknown rather than extending part-time across all years.",
+      "evidence_note": "Official aggregate year interval. University primary citation establishes a part-time component while studying, not hours throughout 1990–1994. Exact predecessor entity and transition after graduation unresolved; aggregate employment_status left unknown rather than extending part-time across all years. Follow-up identifies named predecessor through biography review and independently establishes its1993amalgamation from ANU archives. This organisational event is not assumed to date Wong’s individual payroll transfer. Her2025Senate answer corroborates membership only.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "00AOU-01"
     },
@@ -164,7 +167,7 @@
       "role": "Senator for South Australia; ministerial and parliamentary leadership offices",
       "start_date": "2002-07-01",
       "end_date": null,
-      "date_precision": "day",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -271,6 +274,36 @@
       "note": "Historical general practice founded 1970 and South Australian ownership. Successor practice lead; exact Duncan and Hannon payroll entity/partnership history still to verify.",
       "retrieved": "2026-10-01",
       "source_id": "src-9"
+    },
+    {
+      "url": "https://www.lowyinstitute.org/the-interpreter/nobody-ever-teaches-anyone-how-be-minister",
+      "publisher": "Lowy Institute / Mark Pierce",
+      "title": "Review of Penny Wong: Passion and Principle,21July2023",
+      "source_type": "news",
+      "locator": "Paragraph beginning With Wong, reviewing Margaret Simons biography",
+      "note": "Explicitly names Federated Furnishing Trade Society of Australasia as an earlier union employer. Review gives no personal transfer date or hours; its2001Senator shorthand does not replace2002term commencement.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-10"
+    },
+    {
+      "url": "https://archivescollection.anu.edu.au/index.php/records-of-federated-furnishing-trade-society-queensland-branch",
+      "publisher": "Australian National University, Noel Butlin Archives Centre",
+      "title": "Deposit Z579: Federated Furnishing Trade Society Queensland Branch",
+      "source_type": "other",
+      "locator": "Creator biographical history,lines39–45",
+      "note": "Archive authority history establishes name, South Australian branch and1993amalgamation intoCFMEU; not a personnel or payroll record for Wong.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-11"
+    },
+    {
+      "url": "https://www.openaustralia.org.au/senate/?id=2025-03-25.45.1",
+      "publisher": "Parliament of Australia via OpenAustralia",
+      "title": "Senate debate,25March2025,2:05pm",
+      "source_type": "official_biography",
+      "locator": "Penny Wong answer on furnishing union membership",
+      "note": "First-person furnishing trades membership corroborates affiliation only; membership is not employment or evidence of hours.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-12"
     }
   ],
   "research_notes": [
@@ -279,6 +312,8 @@
     "Legal employment must be split between private practice and union employment. Duncan and Hannon dates are year precision, not exactly three years. Without full-time status and precise boundaries/leave, no private full-time range or point estimate is justified. Union and ministerial work excluded under codebook, not recoded as ordinary private/public service.",
     "Open avenues attempted: exact-name employer searches; FWC/AustLII case searches; personal speeches; university citation; research biographies and historical reporting. Broad case searches returned irrelevant namesakes and no dated employment contract. The first speech thanks several unions but does not establish all as employers. Secondary claims of separate CFMEU advisory work in 1995–1996 remain an unresolved lead; avoid duplicate spell until reconciled with Yeadon office.",
     "Source gaps: original Adelaide PDF redirects to staff services, so only indexed content used; personal about-penny URL inaccessible but home biography retrieved; APH direct profile restricted; candidate ABC Q&A URL inaccessible. These are source-level gaps, not run termination.",
-    "Follow-up: firm personnel/partnership history and hours, exact 1996/1999 boundaries and leave, union predecessor and 1990–1994 status transition, 1994–1995 gap/possible second union advisory job, 2002 union cessation, earlier paid work and student governance remuneration. Last follow-up 2026-10-01; next Tony Zappia."
+    "Follow-up: firm personnel/partnership history and hours, exact 1996/1999 boundaries and leave, union predecessor and 1990–1994 status transition, 1994–1995 gap/possible second union advisory job, 2002 union cessation, earlier paid work and student governance remuneration. Last follow-up 2026-10-01; next Tony Zappia.",
+    "Follow-up2026-10-02: predecessor employer now named Federated Furnishing Trade Society of Australasia from2023biography review; ANU archive history supports1993amalgamation context. Retain1990–1994aggregate and unknown status because student part-time component does not establish entire interval. No individual transfer date invented.",
+    "Exact-name furnishing-union, legal-practice and first-job searches checked.2025Senate statement establishes membership only. Professional and speaker biographies repeat known sequence without contracts/hours. Remaining targeted leads: South Australian branch personnel records, historical Duncan and Hannon staff records,1994–1995gap and alleged1995–1996union advisory overlap. Archive description is public; underlying records require an access agreement and were not accessed. Private full-time totals remain unknown."
   ]
 }
