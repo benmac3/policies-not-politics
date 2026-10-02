@@ -6,7 +6,7 @@
   "snapshot_party": "Liberal Party of Australia",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/240756",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-01",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -69,16 +69,17 @@
       "source_ids": [
         "src-1",
         "src-2",
-        "src-5"
+        "src-5",
+        "src-9"
       ],
-      "evidence_note": "Official aggregate career interval. Early Adelaide employer and return date not identified. Includes the separately documented Pasin Lee partnership component below; these rows must not be summed as separate careers.",
+      "evidence_note": "Official aggregate career interval. Early Adelaide employer and return date not identified. Includes the separately documented Pasin Lee partnership component below; these rows must not be summed as separate careers. First-person2020House speech identifies Adelaide commercial-law work before criminal-law practice in Mount Gambier; transition date and earlier firms remain unknown.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "240756-03"
     },
     {
       "employer": "F.J LEE & A PASIN trading as Pasin Lee Lawyers",
       "role": "Partner and legal practitioner",
-      "start_date": null,
+      "start_date": "2009",
       "end_date": "2013",
       "date_precision": "year",
       "employment_status": "self_employed",
@@ -92,10 +93,11 @@
         "src-2",
         "src-3",
         "src-4",
-        "src-7"
+        "src-7",
+        "src-8"
       ],
-      "evidence_note": "Personal biography identifies partnership and ABC confirms own practice in 2013. Start unknown: ABN/trading name begins 1 October 2009 but is not proof of first working day or predecessor practice. End year from official cessation of legal occupation, not an assumed election-day endpoint. Component of aggregate 2000–2013 row; avoid double counting.",
-      "counting_note": "Private partnership activity established, but start, substantive full-time hours and leave unknown. Self-employment does not establish full-time work; no years calculated.",
+      "evidence_note": "Personal biography identifies partnership and ABC confirms own practice in 2013. Start unknown: ABN/trading name begins 1 October 2009 but is not proof of first working day or predecessor practice. End year from official cessation of legal occupation, not an assumed election-day endpoint. Component of aggregate 2000–2013 row; avoid double counting. Follow-up: public professional profile independently lists personal Pasin Lee Lawyers experience2009–2013, so start year now supported. This does not equate ABR1October2009 with first working day.",
+      "counting_note": "Private partnership and year-level interval established; substantive full-time hours, precise endpoints and leave unresolved. Self-employment alone does not establish full-time status.",
       "spell_id": "240756-04"
     },
     {
@@ -124,7 +126,7 @@
       "role": "Branch president, committee member/coordinator, state and federal offices",
       "start_date": "2007",
       "end_date": null,
-      "date_precision": "year",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "party_organisation",
@@ -143,7 +145,7 @@
       "role": "Rural and Regional Council member; chair",
       "start_date": "2007",
       "end_date": null,
-      "date_precision": "year",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "party_organisation",
@@ -163,7 +165,7 @@
       "role": "Member for Barker",
       "start_date": "2013-09-07",
       "end_date": null,
-      "date_precision": "day",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -249,6 +251,26 @@
       "note": "Contemporaneous account confirms own legal practice at election and Rural and Regional Council chair; official biography identifies that council as a party body.",
       "retrieved": "2026-10-01",
       "source_id": "src-7"
+    },
+    {
+      "url": "https://au.linkedin.com/in/tony-pasin-15684a85",
+      "publisher": "Tony Pasin / LinkedIn",
+      "title": "Public professional profile",
+      "source_type": "professional_profile",
+      "locator": "Indexed Experience: Pasin Lee Lawyers,2009–2013,Mount Gambier",
+      "note": "Public profile index supplies personal practice interval at year precision. Direct999; indexed field used, not implied working hours or an ABR event.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-8"
+    },
+    {
+      "url": "https://www.openaustralia.org.au/debate/?id=2020-11-12.24.1",
+      "publisher": "Commonwealth Parliament / OpenAustralia transcript",
+      "title": "Social Security bill — Tony Pasin",
+      "source_type": "government_record",
+      "locator": "12November2020,12:33pm, opening career paragraphs",
+      "note": "First-person account of commercial law firm in Adelaide followed by criminal-law work in Mount Gambier. Does not name firm or date transition.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-9"
     }
   ],
   "research_notes": [
@@ -257,6 +279,8 @@
     "Adelaide employer, earlier Mount Gambier practice/predecessor, partnership commencement, legal-practice working hours, breaks and campaign-related leave require further primary evidence. Preserve year precision of official 2000–2013 span and reconcile component overlap before any duration calculation.",
     "Childhood shop/farm assistance is documented without assuming payment, employment status or full-time years. Law/economics degrees and practical legal training are education, not paid work.",
     "Searched official and party biographies, maiden speech, ABR history, contemporaneous ABC candidate guide, Mount Gambier annual report, law-firm/early-career/full-time queries and public LinkedIn profile. No earlier employer or full-time evidence found. APH direct biography restricted; indexed biography recovered. First-speech Parlinfo click returned Internal Error; reproduced Hansard read. LinkedIn profile returned Internal Error. No source restriction bypassed.",
-    "Follow-up: historical Law Society directories and original practice biographies/court appearances to identify Adelaide and pre-2009 employers; verify individual hours/leave and partnership dates. Recheck primary declared interests only for member’s own subsequent employment, not family finances."
+    "Follow-up: historical Law Society directories and original practice biographies/court appearances to identify Adelaide and pre-2009 employers; verify individual hours/leave and partnership dates. Recheck primary declared interests only for member’s own subsequent employment, not family finances.",
+    "Follow-up2026-10-02: indexed public professional profile supplies2009–2013Pasin Lee personal employment interval, narrowing previously unknown partnership start. Direct999, no restricted profile access attempted. Earlier note of unknown partnership start is superseded at year precision only.",
+    "First-person House account narrows professional sequence to Adelaide commercial law then Mount Gambier criminal law. Employer-specific/court/Law Society queries did not identify pre2009firms or establish full-time status/leave. FWA2011case and2010Gazette name practice only, not a new personal start date. Further work should seek historical firm personnel listings or employer biographies rather than repeat broad biography searches."
   ]
 }
