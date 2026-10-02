@@ -252,3 +252,11 @@ Batch check passes: 226 assigned exactly once across 13 batches; nsw-1 assignmen
 - Current attempt/cycle/Brisbane-day deduplicated totals:0 new,200 materially enriched distinct members,0 newly complete. Repeat enrichment of an already counted person is not another distinct member. National226initial,226unresolved,0complete; all branch heads rechecked after preceding pass, no competing writer observed.
 - Next:I8M CHARLTON, the Hon. Dr Andrew Henry George. OUTCOME:ongoing. STOPPING REASON:none. Successor not requested. Scheduler terminal status unavailable.
 - Validation:226/13 assignment check, selected batch, individual JSON/source/date checks and build_careers.load_records. Counts conditional on exact remote commit/file verification.
+
+## Further follow-up — 2026-10-02T18:47:52+10:00
+
+- Same originating cycle2026-10-02 08:00, continuation0; start07:56:50+10:00; ongoing, end not observed. All226 members received a follow-up in the preceding pass,200 materially enriched,26 no substantive addition. This pass proceeds in plan order using recorded gaps and new leads.
+- Current member:I8M. Added omitted OECD and IPD consultancies; specified Oxford teaching and contemporary LSE Research Officer title. Client-versus-employer uncertainty and unknown dates/hours preserved; already counted today.
+- Current attempt/cycle/Brisbane-day deduplicated totals:0 new,200 materially enriched distinct members,0 newly complete. Repeat enrichment of an already counted person is not another distinct member. National226initial,226unresolved,0complete; all branch heads rechecked after preceding pass, no competing writer observed.
+- Next:HWL CLARE, the Hon. Jason Dean. OUTCOME:ongoing. STOPPING REASON:none. Successor not requested. Scheduler terminal status unavailable.
+- Validation:226/13 assignment check, selected batch, individual JSON/source/date checks and build_careers.load_records. Counts conditional on exact remote commit/file verification.

@@ -71,15 +71,16 @@
       "counting_status": "excluded",
       "source_ids": [
         "src-snapshot",
-        "src-first-speech"
+        "src-first-speech",
+        "src-ipd-book-pass2"
       ],
-      "evidence_note": "Frozen occupation extract gives analyst2003; first speech locates UNDP work inNew York. Contract dates, payroll entity, hours and study overlap remain unknown.",
+      "evidence_note": "Frozen occupation extract gives analyst2003; first speech locates UNDP work inNew York. Contract dates, payroll entity, hours and study overlap remain unknown. Later author biography describes UNDP consultancy; whether identical to the2003 analyst spell or a separate engagement remains unresolved. No duplicate interval added.",
       "counting_note": "Employment by a multilateral international organisation is outside the domestic public/private headline sectors and excluded."
     },
     {
       "spell_id": "I8M-lse",
       "employer": "London School of Economics, Centre for Economic Performance",
-      "role": "Research Fellow",
+      "role": "Research Fellow / Research Officer",
       "start_date": "2005",
       "end_date": "2008",
       "date_precision": "year",
@@ -91,9 +92,10 @@
       "counting_status": "excluded",
       "source_ids": [
         "src-snapshot",
-        "src-lse2007"
+        "src-lse2007",
+        "src-lse-dp825-pass2"
       ],
-      "evidence_note": "The frozen official biography records 2005–2008. Exact appointment dates, employing centre, hours, leave and overlap with doctoral study or government work are unresolved. Contemporary Autumn2007 employer publication names him a research economist in CEP’s globalisation programme; appointment boundaries/hours still unresolved.",
+      "evidence_note": "The frozen official biography records 2005–2008. Exact appointment dates, employing centre, hours, leave and overlap with doctoral study or government work are unresolved. Contemporary Autumn2007 employer publication names him a research economist in CEP’s globalisation programme; appointment boundaries/hours still unresolved. October2007 employer discussion paper uses Research Officer; retained alongside official Research Fellow title without inventing a promotion date.",
       "counting_note": "University employment is excluded under the project codebook."
     },
     {
@@ -250,7 +252,7 @@
     },
     {
       "employer": "University of Oxford",
-      "role": "Economist / role unspecified",
+      "role": "Teaching; economist",
       "start_date": null,
       "end_date": null,
       "date_precision": "unknown",
@@ -261,9 +263,11 @@
       "government_control_at_time": "unknown",
       "counting_status": "excluded",
       "source_ids": [
-        "src-own-story"
+        "src-own-story",
+        "src-ipd-book-pass2",
+        "src-oup-bio-pass2"
       ],
-      "evidence_note": "First-person biography explicitly says worked at Oxford. Distinguished from graduate study; appointment type, dates, remuneration and load unknown.",
+      "evidence_note": "First-person biography explicitly says worked at Oxford. Distinguished from graduate study; appointment type, dates, remuneration and load unknown. Author biography explicitly confirms teaching; no appointment dates or load.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "I8M-oxford-work"
     },
@@ -326,6 +330,46 @@
       "evidence_note": "Institute announcement states co-founding with Greg Kaplan in March 2021; financial statements identify Andrew Henry George Charlton and resignation on 24 March 2022. Founding month is the start of combined founder/director activity; exact initial legal director appointment day, remuneration, personal hours and executive involvement remain unknown. Overlaps Accenture; do not add to headline employment years.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "I8M-e61"
+    },
+    {
+      "employer": "Organisation for Economic Co-operation and Development (consultancy client; contracting entity unresolved)",
+      "role": "Consultant",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "unknown",
+      "government_control_at_time": "unknown",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-ipd-book-pass2",
+        "src-oup-bio-pass2"
+      ],
+      "evidence_note": "Author biography identifies consultancy, corroborated by publisher biography. Personal dates, fee/payment terms, employee versus independent-contract status and hours unknown; publication date not used as boundary. Client identity does not establish legal employing entity or headline sector.",
+      "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
+      "spell_id": "I8M-oecd-consultancy"
+    },
+    {
+      "employer": "Initiative for Policy Dialogue, Columbia University (consultancy client; contracting entity unresolved)",
+      "role": "Consultant",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "unknown",
+      "government_control_at_time": "unknown",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-ipd-book-pass2",
+        "src-oup-bio-pass2"
+      ],
+      "evidence_note": "Author biography identifies consultancy, corroborated by publisher biography. Personal dates, fee/payment terms, employee versus independent-contract status and hours unknown; publication date not used as boundary. Client identity does not establish legal employing entity or headline sector.",
+      "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
+      "spell_id": "I8M-ipd-consultancy"
     }
   ],
   "sources": [
@@ -508,6 +552,36 @@
       "note": "Contemporaneous BCG career-start corroboration and Accenture managing director; neither hours nor exact appointment boundaries.",
       "retrieved": "2026-10-02",
       "source_id": "src-rba2022-oct2"
+    },
+    {
+      "url": "https://ipdcolumbia.org/publication/fair-trade-for-all-how-trade-can-promote-development/",
+      "publisher": "Initiative for Policy Dialogue",
+      "title": "Fair Trade for All — author biography",
+      "source_type": "professional_profile",
+      "locator": "About the Authors, Andrew Charlton",
+      "note": "Organisation-hosted author bio expressly identifies Oxford teaching and three consultancies; dates/hours not supplied.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-ipd-book-pass2"
+    },
+    {
+      "url": "https://books.google.com/books/about/Fair_Trade_for_All.html?id=8yz28hTu3OIC",
+      "publisher": "Oxford University Press via Google Books",
+      "title": "Fair Trade for All,2007 edition",
+      "source_type": "professional_profile",
+      "locator": "About the author (2007)",
+      "note": "Publisher biography independently displays same Oxford teaching and consultancy description. Publication year is not an appointment boundary.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-oup-bio-pass2"
+    },
+    {
+      "url": "https://cep.lse.ac.uk/pubs/download/dp0825.pdf",
+      "publisher": "London School of Economics, Centre for Economic Performance",
+      "title": "Intra-Industry Foreign Direct Investment,October2007",
+      "source_type": "employer",
+      "locator": "Author affiliation before main text",
+      "note": "Contemporaneous Research Officer title; no full-time assertion.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-lse-dp825-pass2"
     }
   ],
   "research_notes": [
@@ -520,7 +594,8 @@
     "Searched institutional scholarship/college records, university publications, employer acquisition release, ABAC historical release, trade reporting, public interview/event biographies and first speech; LinkedIn profile returned999, other sources usable. BCG,Oxford and pre-Oxford jobs need primary appointment documents. Search homonyms include chemistry/laser/meteorology careers and must not be merged.",
     "Further leads: Brasenose2005/2006 college reports identify John Hicks scholarship and doctorate under2005 records, but course transfer/award versus enrolment dates require careful reconciliation. Candidate endorsement appears in reporting by28March2022 whereas existing record says1April; exact formal appointment versus announcement needs resolution. No publication or report date promoted to employment start.",
     "Second follow-up 2 October 2026: added omitted e61 founder/director role, March 2021–24 March 2022, using organisation announcement and financial statements. Exact resignation in accounts takes priority over secondary narrative implying departure at May election. Governance/nonprofit excluded and Accenture overlap preserved.",
-    "Contemporaneous e61 announcement confirms candidacy by 30 March 2022; corrected unsupported 1 April inception to March precision without guessing exact endorsement day. RBA conference profile independently corroborates BCG and Accenture. Full-time, payroll, leave and earlier-job boundaries remain unresolved; next leads are actual personal appointment/cessation documents, not corporate milestones."
+    "Contemporaneous e61 announcement confirms candidacy by 30 March 2022; corrected unsupported 1 April inception to March precision without guessing exact endorsement day. RBA conference profile independently corroborates BCG and Accenture. Full-time, payroll, leave and earlier-job boundaries remain unresolved; next leads are actual personal appointment/cessation documents, not corporate milestones.",
+    "Further2October pass materially adds previously omitted OECD and Initiative for Policy Dialogue consultancies, and specifies Oxford teaching. Client bodies are identified, but contracts/payroll status are not: unknown classification retained pending evidence. UNDP consultancy may duplicate known analyst work and is not counted twice.2003 OECD authorship corroborates research activity, not paid service duration; the March2003 paper affiliates him with Oxford. OECD website PDF clicks returned Internal Error: Unable to resolve click call due to invalid arguments; accessible institutional/publisher biographies used instead. LSE2007 paper confirms Research Officer title. Next: consultant contracts/payment status/dates; Oxford teaching appointment; LSE hours/leave; original BCG appointment. Already materially counted today, so no extra distinct-member increment."
   ],
   "open_questions": [
     "What were the exact University of Sydney and Oxford study dates, loads and overlaps with paid work?",
