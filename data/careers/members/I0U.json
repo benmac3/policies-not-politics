@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Greens",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/I0U",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-01",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -130,7 +130,7 @@
       "source_ids": [
         "src-5"
       ],
-      "evidence_note": "ABC retrospective profile corroborates role. Derivative sources place it in 2006 election campaign but no primary contract or reliable precise interval found. Whether party-funded campaign work or parliamentary payroll needs resolution.",
+      "evidence_note": "ABC retrospective profile corroborates role. Derivative sources place it in 2006 election campaign but no primary contract or reliable precise interval found. Whether party-funded campaign work or parliamentary payroll needs resolution. Official party biography separately identifies2006Greens communications/media officer role; possible same assignment, not treated as independent additive employment.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "I0U-06"
     },
@@ -139,7 +139,7 @@
       "role": "Freelance writer, columnist and author",
       "start_date": "2007",
       "end_date": null,
-      "date_precision": "year",
+      "date_precision": "mixed",
       "employment_status": "self_employed",
       "fte_fraction": null,
       "category": "private_enterprise",
@@ -178,7 +178,7 @@
       "role": "Senator for South Australia",
       "start_date": "2008-07-01",
       "end_date": null,
-      "date_precision": "day",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -193,6 +193,25 @@
       "evidence_note": "Frozen first-service date retained; 2007 election and September 2008 first speech are different events. No end date established within frozen scope.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "I0U-09"
+    },
+    {
+      "employer": "Australian Greens (South Australia)",
+      "role": "Communications and media officer",
+      "start_date": "2006",
+      "end_date": "2006",
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "party_organisation",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-10"
+      ],
+      "evidence_note": "Official biography identifies2006 party communications position. May overlap the separately reported Mark Parnell media-adviser role; identity of contracts and remuneration unknown. Not ordinary public-service employment; no additive duration counted.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "I0U-10"
     }
   ],
   "sources": [
@@ -285,6 +304,16 @@
       "note": "Historical student publication located; direct open redirects to empty DSpace page. No additional dates/pay inferred from inaccessible contents.",
       "retrieved": "2026-10-01",
       "source_id": "src-9"
+    },
+    {
+      "url": "https://www.aph.gov.au/senators_and_members/parliamentarian?mpid=i0u",
+      "publisher": "Parliament of Australia",
+      "title": "Sarah Hanson-Young — party positions",
+      "source_type": "official_biography",
+      "locator": "Indexed Party Positions: Communications and Media Officer, Australian Greens(SA),2006",
+      "note": "Newly captured official role; no payment, hours or link to the Parnell adviser contract established.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-10"
     }
   ],
   "research_notes": [
@@ -294,6 +323,8 @@
     "Searches targeted Amnesty historical annual reports, full-time/part-time work, market employer, student presidency remuneration and professional profile. No applicable working-hours evidence found. Vacancy advertisements for her parliamentary employees do not describe her own earlier work.",
     "Public LinkedIn profile https://au.linkedin.com/in/sarah-hanson-young-7023263 identified, but open returned (999) Unknown Status Code; no authentication or access-control workaround. APH direct biography returned Internal Error; indexed and frozen facts retained. MUP old book link returned Page Not Found; publisher event provides independent book evidence.",
     "Justice for Refugees campaigning appears in derivative biographies; paid status, dates and primary corroboration not established. Retain as follow-up lead rather than paid employment. University On Dit archive and parliamentary witness listing may lead to student association annual accounts/stipend evidence.",
-    "Next follow-up: actual Central Markets employer; BankSA dates/hours and payroll entity; Amnesty leave/fraction/exit; Parnell campaign contract dates/payroll; student association stipends; freelance clients, paid periods and overlaps. Preserve year precision and do not sum overlapping roles."
+    "Next follow-up: actual Central Markets employer; BankSA dates/hours and payroll entity; Amnesty leave/fraction/exit; Parnell campaign contract dates/payroll; student association stipends; freelance clients, paid periods and overlaps. Preserve year precision and do not sum overlapping roles.",
+    "Follow-up2026-10-02: official Party Positions entry adds2006communications/media officer role, keeping possible duplication with Parnell assignment explicit. Targeted searches for Central Markets stall/employer, BankSA hours and Amnesty part-time/leave records found no applicable evidence.",
+    "Contemporary2006Australian candidate profile and CPA Guardian refugee report located through reference trails; both direct opens returned InternalError. Derivative copies are not independent confirmation of2006Parnell employment dates or paid Justice for Refugees work. No inaccessible text used. Student-archive, Amnesty annual-report and freelance-contract gaps remain for later follow-up."
   ]
 }
