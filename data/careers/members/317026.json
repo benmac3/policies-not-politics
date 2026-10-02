@@ -6,7 +6,7 @@
   "snapshot_party": "One Nation",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/317026",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-01",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -51,9 +51,12 @@
         "src-2",
         "src-3",
         "src-4",
-        "src-5"
+        "src-5",
+        "src-11",
+        "src-12",
+        "src-13"
       ],
-      "evidence_note": "Founded with brother2001,2018 employer policy confirms executive director,2025 speech describes recent site work and exit by29July. Retain year end rather than assuming election/first service/share transfer is employment exit. Family-owned contractor; government/mining contracts do not make employer public. Long days/FIFO and title are insufficient full-time evidence. Precise legal payroll entities across rebranding unresolved.",
+      "evidence_note": "Founded with brother2001,2018 employer policy confirms executive director,2025 speech describes recent site work and exit by29July. Retain year end rather than assuming election/first service/share transfer is employment exit. Family-owned contractor; government/mining contracts do not make employer public. Long days/FIFO and title are insufficient full-time evidence. Precise legal payroll entities across rebranding unresolved. ABR identifies operating-brand entity ABN52 132 968 800: Whitten Bros Constructions(2008), Whittens(WA)(2011), Whittens Pty Limited(2012); distinct Group entity ABN21 159 874 085 originated as Whittens WA Civil Constructions in2012. These strengthen legal-entity mapping but do not resolve which paid him in each period or establish employment at incorporation. Business News reports completion of business exit29July2025; preserve year-level operational endpoint pending underlying records distinguishing share transfer from work cessation.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "317026-02"
     },
@@ -104,7 +107,7 @@
       "role": "Senator for Western Australia",
       "start_date": "2025-07-01",
       "end_date": null,
-      "date_precision": "day",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -220,6 +223,36 @@
       "note": "Index exposes Whittens Group shareholding and other investments. Direct retrieval403; full declaration and later correction remain follow-up.",
       "retrieved": "2026-10-01",
       "source_id": "src-10"
+    },
+    {
+      "url": "https://abr.business.gov.au/AbnHistory/View?id=52132968800",
+      "publisher": "Australian Business Register",
+      "title": "Historical details ABN52 132 968 800",
+      "source_type": "government_record",
+      "locator": "Entity name and status history",
+      "note": "Whitten Bros Constructions Pty Limited from28August2008, Whittens (WA) Pty Limited17June2011, Whittens Pty Limited11October2012; Australian private company. Registry dates are entity events, not personal employment dates.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-11"
+    },
+    {
+      "url": "https://abr.business.gov.au/AbnHistory/View?id=21159874085",
+      "publisher": "Australian Business Register",
+      "title": "Historical details ABN21 159 874 085",
+      "source_type": "government_record",
+      "locator": "Entity name history",
+      "note": "Whittens WA Civil Constructions Pty Ltd from10August2012; Whittens Group Pty Ltd from20December2012. Distinct from ABN52 132 968 800, despite shared brand.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-12"
+    },
+    {
+      "url": "https://www.businessnews.com.au/article/Senator-exited-family-business-on-day-of-maiden-speech",
+      "publisher": "Business News / Mark Pownall",
+      "title": "Senator exited family business on day of maiden speech,10June2026",
+      "source_type": "news",
+      "locator": "Public headline/opening paragraph and indexed July29 passage",
+      "note": "Reports completion of business exit on29July2025. Full report subscription restricted; accessible text does not separate ownership transfer, director resignation and operational cessation.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-13"
     }
   ],
   "research_notes": [
@@ -227,6 +260,9 @@
     "No substantiated full-time duration yet. Self-employment is supported but cannot be converted automatically into full-time years; construction and oysters may overlap. Pre2001 employers, operating phases, leave and2025 exit need evidence.",
     "Searched public professional profiles (multiple Tyron Whitten entries; no reliable dated work fields obtained) and explicit full-time wording. Contact-enrichment sites and generic staff vacancies not used as personal employment evidence.",
     "Primary interests PDF direct access returned403 Forbidden; indexed initial declaration lists ownership after stated business departure. Asset ownership can survive operational exit.2026 press coverage prompts reconciliation, not a finding about eligibility or a reason to extend employment. Seek original declaration corrections and employer exit evidence.",
-    "Follow-up: pre2001 construction employers and oyster work; legal entities and dates; personal hours and concurrent work;2021 closure effects; original governance/ownership declarations. Do not use family foundation dates, aggregate experience or company revenue as tenure."
+    "Follow-up: pre2001 construction employers and oyster work; legal entities and dates; personal hours and concurrent work;2021 closure effects; original governance/ownership declarations. Do not use family foundation dates, aggregate experience or company revenue as tenure.",
+    "Follow-up2026-10-02: primary ABR histories distinguish construction operating and Group entities and dated renamings. No additional employment spell invented for each company; original2001 business and subsequent payroll continuity still need evidence.",
+    "Business News public report supplies29July2025 business-exit event, supplementing first-speech assertion. This does not resolve personal paid-work cessation or investment declarations; original share/director documents remain necessary. Do not calculate overlap from declaration dates alone.",
+    "Searched pre2001 employers, historical construction/oyster dates and personal working-time wording. No reliable new personal dates/hours recovered; namesake legal firms, job advertisements and unrelated search matches excluded. APH source search returned Blocked by robots.txt, non-retryable; no retry. NSW company history unavailable; other ABR histories accessible. Next: original business-exit/interest documents, earliest construction contracts/employers, oyster operational duties, individual hours and leave."
   ]
 }
