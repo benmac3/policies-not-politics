@@ -6,7 +6,7 @@
   "snapshot_party": "Centre Alliance",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/265980",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-01",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -118,11 +118,11 @@
       "spell_id": "265980-05"
     },
     {
-      "employer": "Youth Connections National Network; exact employing entity unresolved",
+      "employer": "Youth Connections National Network, hosted by HYPA/SYC; contractual employer unresolved",
       "role": "National Executive Officer",
       "start_date": "2012-04",
       "end_date": null,
-      "date_precision": "month",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "nonprofit",
@@ -132,15 +132,16 @@
       "source_ids": [
         "src-1",
         "src-5",
-        "src-6"
+        "src-6",
+        "src-13"
       ],
-      "evidence_note": "2014 speaker biography says since April 2012. Community-provider network is distinct from Commonwealth funder; payroll entity and any concurrent SYC role unresolved. Program funding ending in December 2014 is not automatically personal employment end.",
+      "evidence_note": "2014 speaker biography says since April 2012. Community-provider network is distinct from Commonwealth funder; payroll entity and any concurrent SYC role unresolved. Program funding ending in December 2014 is not automatically personal employment end. Public professional profile expressly identifies HYPA/SYC as host. Hosting alone does not establish payroll/legal contract or personal exit date.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "265980-06"
     },
     {
       "employer": "SYC Ltd, Helping Young People Achieve division",
-      "role": "Senior manager",
+      "role": "Senior manager, HYPA / Head of donor relations",
       "start_date": null,
       "end_date": null,
       "date_precision": "unknown",
@@ -154,14 +155,15 @@
         "src-1",
         "src-2",
         "src-9",
-        "src-10"
+        "src-10",
+        "src-13"
       ],
-      "evidence_note": "Official handbook and first-person speech identify employer. Nonprofit service provision separated from public/private headline; title does not prove full-time status. Donor-relations title and late-2014 transition require further primary documentation.",
+      "evidence_note": "Official handbook and first-person speech identify employer. Nonprofit service provision separated from public/private headline; title does not prove full-time status. Donor-relations title and late-2014 transition require further primary documentation. Public professional-profile heading corroborates donor-relations role. Nearby date extract lacks safe role association, so no dates imported.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "265980-07"
     },
     {
-      "employer": "Department of Social Inclusion, South Australia (official biography label)",
+      "employer": "Department for Communities and Social Inclusion, South Australia",
       "role": "Principal policy adviser",
       "start_date": "2015",
       "end_date": "2016",
@@ -176,9 +178,10 @@
         "src-1",
         "src-2",
         "src-3",
-        "src-4"
+        "src-4",
+        "src-12"
       ],
-      "evidence_note": "Official departmental appointment; exact legal department name, appointment days, hours and leave not established. Not conflated with previous political adviser work.",
+      "evidence_note": "Official departmental appointment; exact legal department name, appointment days, hours and leave not established. Not conflated with previous political adviser work. First-person2023House speech resolves historical departmental name and describes work with Commonwealth on Ceduna card implementation and support services. Official2015–16years retained; no personal hours/leave/endpoints added.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "265980-08"
     },
@@ -229,7 +232,7 @@
       "role": "Member for Mayo",
       "start_date": "2018-07-28",
       "end_date": null,
-      "date_precision": "day",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -243,6 +246,25 @@
       "evidence_note": "Re-elected at by-election. Deputy Speaker and committee duties are within parliamentary service, not additional employment.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "265980-11"
+    },
+    {
+      "employer": "Mount Torrens District Soldiers Memorial Hall / Committee",
+      "role": "Chairperson",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "nonprofit",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-14"
+      ],
+      "evidence_note": "2016candidate biography documents chairmanship before federal entry. Commencement,end,pay and hours unknown; governance not treated as full-time employment.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "265980-12"
     }
   ],
   "sources": [
@@ -355,6 +377,36 @@
       "note": "Description of taking available hours while parenting is not a dated full-time schedule.",
       "retrieved": "2026-10-01",
       "source_id": "src-11"
+    },
+    {
+      "url": "https://www.openaustralia.org.au/debate/?id=2023-03-28.95.2",
+      "publisher": "Commonwealth Parliament / OpenAustralia transcript",
+      "title": "Income Management Reform Bill — Rebekha Sharkie,28March2023",
+      "source_type": "government_record",
+      "locator": "4:56pm, paragraph beginning In fact I worked",
+      "note": "First-person identification of Department for Communities and Social Inclusion and work on Ceduna implementation; no hours or appointment days.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-12"
+    },
+    {
+      "url": "https://au.linkedin.com/in/rebekha-sharkie-5690586b",
+      "publisher": "Rebekha Sharkie / LinkedIn",
+      "title": "Public professional profile",
+      "source_type": "other",
+      "locator": "Indexed experience headings: Youth Connections hosted by HYPA/SYC; Head of Donor Relations and HYPA Senior Manager",
+      "note": "Only indexed extracts used; prior direct429 not retried. Nearby Dec2014–Jun2016dates not assigned without visible role association. Liked post about another persons appointment not attributed.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-13"
+    },
+    {
+      "url": "https://www.abc.net.au/news/elections/federal/2016/guide/mayo",
+      "publisher": "ABC News / Antony Green",
+      "title": "Mayo2016election guide",
+      "source_type": "news",
+      "locator": "Sharkie candidate biography",
+      "note": "Identifies chair of Mount Torrens Soldiers Memorial Committee before federal election. No commencement or remuneration evidence.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-14"
     }
   ],
   "research_notes": [
@@ -364,6 +416,9 @@
     "Historical employer annual-report avenue: ChangePath SYC listing linked 2014 report https://www.syc.net.au/app/uploads/2018/06/5432-SYC-Annual-Report_OUT2A_WEB-2014.pdf and 2015 report https://www.syc.net.au/app/uploads/2018/06/6989-SYC-Annual-Report_OUT2_LR-2015.pdf . Both returned 404 Not Found. Seek relocated SYC archive or contemporaneous ACNC report without bypassing access controls.",
     "Other source gaps: direct LinkedIn profile https://au.linkedin.com/in/rebekha-sharkie-5690586b returned 429 Too Many Requests; not retried this cycle. Jobs Australia program direct PDF 403, APH direct biography Internal Error; public indexed extracts and historical handbooks supplied usable alternatives. Namesake Rebecca Sharkie marketing profiles not attributed.",
     "Education dates and any work before/alongside study remain unverified. First speech refers to work while parenting but does not prove full-time status or provide dated leave. Employment during the May–July 2018 parliamentary break is unknown; no assumption of zero.",
-    "Last follow-up 2026-10-01. Next initial member Marielle Smith; return after nationwide initial coverage with law-firm, SYC and government appointment leads."
+    "Last follow-up 2026-10-01. Next initial member Marielle Smith; return after nationwide initial coverage with law-firm, SYC and government appointment leads.",
+    "Follow-up2026-10-02: first-person2023Hansard resolves departmental name; professional profile corroborates Youth Connections HYPA/SYC hosting and donor-relations title; contemporaryABCguide documents memorial-hall chairmanship. Employment dates and hours remain unresolved.",
+    "Targeted law-firm,department,Youth Connections andHYPA searches did not yield legal-practice employers or appointment records. Public profile nearbyDec2014–Jun2016date range remains unassigned lead; verify full dated experience and2014–16employerannual reports. Departmental andHYPA envelopes may overlap; do not sum them.",
+    "Recovered local extraction errors: ModuleNotFoundError: No module named bs4; standard-library fetch returned HTTP Error403:Forbidden. Accessible web transcript supplied departmental evidence; no access controls bypassed. Profile liked-post Executive Director appointment belongs to another person, not Sharkie."
   ]
 }
