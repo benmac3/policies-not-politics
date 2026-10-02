@@ -6,12 +6,12 @@
   "snapshot_party": "The Nationals",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/286535",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-01",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
     "calculation_status": "not_calculable",
-    "note": "First-person and party profiles establish a long career in the Willcox family tomato-farming enterprise, including ownership and management before a structured family sale in 2010. Official council records establish local elected office from 2012 to 15 June 2022. The farming commencement, entity history, workload and leave are not sufficiently documented, and local and federal elected office are excluded. No public/private full-time headline total is calculable."
+    "note": "First-person evidence adds deferred study, an adjacent-farm ownership transition and deputy-mayor service. Aggregate 22-year farming claim lacks precise boundaries, leave and personal full-time evidence. Investment disclosures do not establish employment; totals remain null."
   },
   "career_spells": [
     {
@@ -27,8 +27,14 @@
       "headline_sector": "private",
       "government_control_at_time": "private",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-1", "src-2", "src-3", "src-4"],
-      "evidence_note": "Willcox and party profiles describe him as a third-generation tomato farmer who worked in the family farm, later purchased and managed it, expanded domestic and export supply, and operated it with his wife, sister and brother-in-law. A detailed 2017 profile says Willcox and his wife sold their interest to the other family operators in 2010. The commencement, employing entities, ownership transitions, hours and leave are not fully published; the statement that he purchased the business at age 27 is not converted into an invented calendar date.",
+      "source_ids": [
+        "src-1",
+        "src-2",
+        "src-3",
+        "src-4",
+        "src-9"
+      ],
+      "evidence_note": "Willcox and party profiles describe him as a third-generation tomato farmer who worked in the family farm, later purchased and managed it, expanded domestic and export supply, and operated it with his wife, sister and brother-in-law. A detailed 2017 profile says Willcox and his wife sold their interest to the other family operators in 2010. The commencement, employing entities, ownership transitions, hours and leave are not fully published; the statement that he purchased the business at age 27 is not converted into an invented calendar date. First speech describes practical farm duties, an adjacent farm purchase preceding the family partnership, and 22 years of farming. This aggregate duration does not establish exact start, continuous full-time status or leave. Fifteen permanent staff refers to employees, not his personal hours.",
       "counting_note": "Substantive private farming activity is supported, but the unresolved boundaries, entities and workload prevent a documented full-time duration."
     },
     {
@@ -36,16 +42,21 @@
       "employer": "Private investments and small businesses, entities not identified",
       "role": "Owner or manager",
       "start_date": null,
-      "end_date": "2012",
-      "date_precision": "mixed",
-      "employment_status": "self_employed",
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
       "fte_fraction": null,
       "category": "private_enterprise",
       "headline_sector": "private",
       "government_control_at_time": "private",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-1", "src-2", "src-4"],
-      "evidence_note": "Current political profiles call Willcox a small-business owner, while the 2017 career profile refers to off-farm investments that he and his wife managed alongside the farm. The entities, activities, dates, remuneration and workload are not identified, including whether these continued during elected office.",
+      "source_ids": [
+        "src-1",
+        "src-2",
+        "src-4",
+        "src-11"
+      ],
+      "evidence_note": "Current political profiles call Willcox a small-business owner, while the 2017 career profile refers to off-farm investments that he and his wife managed alongside the farm. The entities, activities, dates, remuneration and workload are not identified, including whether these continued during elected office. The 2012 election is not evidence of investment activity ending; endpoint removed. A register transcription identifies trustee/investment companies and property-management trust interests, but beneficial ownership and dividends do not establish remunerated work. Employment status changed to unknown pending evidence of active work.",
       "counting_note": "The evidence is too general to define or count an employment spell."
     },
     {
@@ -61,8 +72,13 @@
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-3", "src-5"],
-      "evidence_note": "Whitsunday Regional Council's 2021-22 annual report says Willcox was first elected in 2012 as Division 6 councillor and was sworn in as mayor on 4 April 2016. The exact 2012 commencement day is not stated in the sources reviewed.",
+      "source_ids": [
+        "src-3",
+        "src-5",
+        "src-9",
+        "src-10"
+      ],
+      "evidence_note": "Whitsunday Regional Council's 2021-22 annual report says Willcox was first elected in 2012 as Division 6 councillor and was sworn in as mayor on 4 April 2016. The exact 2012 commencement day is not stated in the sources reviewed. Deputy-mayor duties March 2013–March 2016 are recorded separately within this council service; no additive duration.",
       "counting_note": "Local elected office is excluded."
     },
     {
@@ -78,7 +94,12 @@
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-3", "src-5", "src-6", "src-7"],
+      "source_ids": [
+        "src-3",
+        "src-5",
+        "src-6",
+        "src-7"
+      ],
       "evidence_note": "Council records give swearing-in on 4 April 2016, unopposed re-election in April 2020 and resignation on 15 June 2022 after the federal poll was declared. Council minutes also record leave during the 2022 federal campaign.",
       "counting_note": "Local elected office is excluded."
     },
@@ -95,7 +116,10 @@
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-6", "src-8"],
+      "source_ids": [
+        "src-6",
+        "src-8"
+      ],
       "evidence_note": "Contemporary reporting records LNP endorsement on 29 August 2021. Council material records campaign leave in April 2022. No separate paid party employment is established.",
       "counting_note": "Candidate and party activity is excluded."
     },
@@ -105,16 +129,77 @@
       "role": "Member of the House of Representatives for Dawson",
       "start_date": "2022-05-21",
       "end_date": null,
-      "date_precision": "day",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-2", "src-8"],
+      "source_ids": [
+        "src-2",
+        "src-8"
+      ],
       "evidence_note": "The Parliamentary Handbook records election for Dawson on 21 May 2022 and re-election in 2025.",
       "counting_note": "Federal elected office is excluded."
+    },
+    {
+      "employer": "University of Queensland, Gatton campus",
+      "role": "Enrolled student; studies deferred",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "public",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-9"
+      ],
+      "evidence_note": "First speech reports enrolment after grade 12 and deferral to continue farming; dates, course and study load unspecified. No completed qualification inferred.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "286535-07"
+    },
+    {
+      "employer": "Whitsunday Regional Council",
+      "role": "Deputy mayor",
+      "start_date": "2013-03",
+      "end_date": "2016-03",
+      "date_precision": "month",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "elected_office",
+      "headline_sector": "excluded",
+      "government_control_at_time": "public",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-9",
+        "src-10"
+      ],
+      "evidence_note": "Public professional index dates deputy role to March 2013–March 2016; first speech corroborates three years. Nested within councillor service, exact days unresolved.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "286535-08"
+    },
+    {
+      "employer": "Adjacent farm, Bowen; legal entity unknown",
+      "role": "Farm purchaser and operator",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "private_enterprise",
+      "headline_sector": "private",
+      "government_control_at_time": "private",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-9"
+      ],
+      "evidence_note": "First speech distinguishes purchase of the neighbouring farm from later family-business partnership. Boundaries and relationship to aggregate farming spell unresolved; do not add as independent full-time duration.",
+      "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
+      "spell_id": "286535-09"
     }
   ],
   "sources": [
@@ -197,6 +282,36 @@
       "source_type": "official_biography",
       "locator": "Frozen roster and parliamentary service",
       "note": "Snapshot identity and federal parliamentary chronology used by the frozen roster."
+    },
+    {
+      "url": "https://www.andrewwillcox.com.au/maiden-speech",
+      "publisher": "Andrew Willcox MP",
+      "title": "Maiden speech, 27 July 2022",
+      "source_type": "first_person",
+      "locator": "Education, farm purchase and local-government chronology",
+      "note": "Describes deferred Gatton study, separate adjacent-farm purchase before family partnership, 22 years farming and three years deputy mayor. No exact farm dates or personal hours.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-9"
+    },
+    {
+      "url": "https://au.linkedin.com/in/andrew-willcox-mp-6157121b0",
+      "publisher": "Andrew Willcox / LinkedIn",
+      "title": "Public professional profile",
+      "source_type": "professional_profile",
+      "locator": "Publicly indexed Deputy Mayor entry",
+      "note": "March 2013–March 2016. Direct open returned Internal Error; no nonpublic fields accessed.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-10"
+    },
+    {
+      "url": "https://plainpolitics.com.au/politicians/andrew-willcox/",
+      "publisher": "Plain Politics",
+      "title": "Andrew Willcox: register of interests transcription",
+      "source_type": "professional_profile",
+      "locator": "Directorships, trusts and other income",
+      "note": "Secondary transcription supplies named investment entities. Linked original APH Willcox.pdf returned 403; retain as leads pending original verification. Dividends/beneficial interests are not employment.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-11"
     }
   ],
   "research_notes": [
@@ -204,6 +319,9 @@
     "Resolve the party biography's 22-year private-sector statement against the 2010 farm sale and 2012 council transition, and identify the off-farm investment and small-business entities and whether they continued during elected office.",
     "Obtain the exact 2012 councillor commencement date and confirm any remuneration/workload details for completeness while retaining local elected office as excluded.",
     "Obtain the exact April 2022 mayoral leave interval, the mayoral resignation notice date and evidence concerning any simultaneous local/federal office between election and 15 June 2022.",
-    "Verify paid status of any LNP candidate or party work; current evidence establishes candidacy but not employment."
+    "Verify paid status of any LNP candidate or party work; current evidence establishes candidacy but not employment.",
+    "Follow-up 2026-10-02: first speech and public professional index reviewed; added study, adjacent farm and deputy mayor. Removed unsupported 2012 investment-work cutoff. No full-time total inferred from staff headcount or 22-year recollection.",
+    "Investment leads from register transcription: A & R Land, AJRW Investments, A & R Property Development, AR Supa Management, A & R Willcox, JSTW Holdings, JSTW Properties, OAG Properties, OAG Investments, R & A Corporation, Rayand, Rayandwill, Rayandwill Holdings, Rayandwill Investments, Rayandwill Properties, Rayandwill Land and JSTW Land. Obtain original disclosures and appointment/work evidence before treating these trustee/passive-investment directorships as substantive jobs; Bowen Farmers Transport dividends alone prove no employment.",
+    "Source gaps: original https://www.aph.gov.au/-/media/03_Senators_and_Members/32_Members/Register/48p/SZ/Willcox.pdf returned 403 Forbidden; public LinkedIn direct open Internal Error, visible indexed deputy dates used. Farm legal identities, start dates, hours and 2010 sale/2012 council transition remain unresolved."
   ]
 }
