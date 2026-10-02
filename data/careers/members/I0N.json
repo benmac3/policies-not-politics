@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/I0N",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-01",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -132,9 +132,10 @@
       "source_ids": [
         "src-1",
         "src-2",
-        "src-3"
+        "src-3",
+        "src-12"
       ],
-      "evidence_note": "Official and first-person years; status not inferred from elected union title.",
+      "evidence_note": "Official and first-person years; status not inferred from elected union title. A2026biographical account places him delivering ACTU training for affiliated unions in Manila in1982. Recorded as activity within union period, not proof of separate ACTU employment or a year-long overseas posting; secondment/payroll and leave unresolved.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "I0N-06"
     },
@@ -184,7 +185,7 @@
       "role": "Director",
       "start_date": null,
       "end_date": "2008-07-01",
-      "date_precision": "day",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "unknown",
@@ -288,7 +289,7 @@
       "role": "Senator for South Australia; ministerial/parliamentary offices",
       "start_date": "2016-07-01",
       "end_date": null,
-      "date_precision": "day",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -434,6 +435,16 @@
       "note": "Senate term ended 30 June 2014; 2016 term deemed to begin 1 July 2016. Supplies historical service boundaries.",
       "retrieved": "2026-10-01",
       "source_id": "src-11"
+    },
+    {
+      "url": "https://www.theaustralian.com.au/weekend-australian-magazine/from-faceless-man-to-kingmaker-inside-the-world-of-labor-powerbroker-don-farrell/news-story/28e339b449c8bf1a1c2ee7350572b22d",
+      "publisher": "The Australian",
+      "title": "Don Farrell: Labor’s Godfather on wokeness, power and wine",
+      "source_type": "news",
+      "locator": "21June2026 profile; paragraph describing1982Manila visit",
+      "note": "Retrieved article excerpt reports delivery of ACTU training for affiliated unions; no separate payroll or duration established.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-12"
     }
   ],
   "research_notes": [
@@ -441,6 +452,8 @@
     "Complete initial occupation list preserved, including early postal, council and hospitality work. Those unresolved employers cannot be assigned public/private totals from job labels. Uncle-operated kiosk is distinguished from public park.",
     "Follow-up: kiosk legal/payroll identity and dates/hours; postal employer; council and waiter employers and short intervals; union hours/leave and federal presidency; REST appointment date and historical pay; vineyard business work hours, breaks and ownership/label transition.",
     "Farrell Wines label/business-name continuity differs from official 2014–2016 occupation entry. ABN activation, GST dates and trading-name changes are not evidence of employment start/end or full-time status.",
-    "Initial first-speech URL returned 400 Timeout fetching; adjacent debate URL supplied full speech. Namesake US accountant/business profiles excluded. No outreach."
+    "Initial first-speech URL returned 400 Timeout fetching; adjacent debate URL supplied full speech. Namesake US accountant/business profiles excluded. No outreach.",
+    "Follow-up2026-10-02 adds1982Manila ACTU training assignment within SDA period from reliable secondary biography. Primary ACTU course/secondment records remain a specific lead. No additional duration or employer inferred.",
+    "Targeted early mail/council/waiter employers, REST appointment, SDA national presidency and vineyard full-time searches found no usable new endpoints or hours; US historian, theatre and fuel-industry namesakes excluded. FWC2005annual-return web reader was inaccessible; this is a source gap, not a job-wide failure. Retain all prior gaps and null totals. Ordinary PDF download also returned TimeoutError: The read operation timed out."
   ]
 }
