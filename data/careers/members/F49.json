@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/F49",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-01",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -90,9 +90,10 @@
       "counting_status": "excluded",
       "source_ids": [
         "src-1",
-        "src-2"
+        "src-2",
+        "src-7"
       ],
-      "evidence_note": "Ministerial staffing, not departmental operational work. Minister name and legal employing entity require contemporary appointment evidence; year boundaries only.",
+      "evidence_note": "Ministerial staffing, not departmental operational work. Minister name and legal employing entity require contemporary appointment evidence; year boundaries only. Contemporary February2003proclamation identifies Bryan Green as portfolio minister, furnishing a named-office lead consistent with her later first-speech acknowledgement. Direct2002–2004staff appointment record still needed; no new personal start/end inferred.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "F49-04"
     },
@@ -162,7 +163,7 @@
       "role": "Senator for Tasmania",
       "start_date": "2005-08-25",
       "end_date": null,
-      "date_precision": "day",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -238,6 +239,16 @@
       "note": "Indexed official speech identified; direct retrieval returned Failed to fetch restricted URL. Read reproduction at src-3; PDF not represented as fully inspected.",
       "retrieved": "2026-10-01",
       "source_id": "src-6"
+    },
+    {
+      "url": "https://www.legislation.tas.gov.au/view/whole/html/inforce/current/sr-2003-004",
+      "publisher": "Tasmanian Government",
+      "title": "Proclamation under Natural Resource Management Act2002,24February2003",
+      "source_type": "government_record",
+      "locator": "Signature block and gazette notification27February2003",
+      "note": "Names Bryan Green as Primary Industries,Water and Environment Minister. Establishes portfolio holder at this point, not Brown individual employment contract or entire tenure.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-7"
     }
   ],
   "research_notes": [
@@ -246,6 +257,8 @@
     "No hours evidence found. Current advertisements for staff in Senator Brown office describe other workers, not her own pre-parliamentary employment. Senior manager title and uninterrupted year ranges do not prove full-time work.",
     "Chronology before 1984 is unresolved, including any earlier jobs or study. The first speech describes party membership at 20 but does not establish that employment began on the membership date. No private-employment absence or zero may be inferred.",
     "Follow-up: locate DPAC 1998-2002 personnel/annual reports; determine political versus ordinary service status, exact dates, hours and leave including 2000 party appointment overlap. Seek early career and named 2002-04 minister/employing entity. All year-only periods retained without invented January boundaries.",
-    "Source access: official first-speech PDF restricted; indexed original and readable reproduction documented separately. This individual access gap did not stop national research."
+    "Source access: official first-speech PDF restricted; indexed original and readable reproduction documented separately. This individual access gap did not stop national research.",
+    "Follow-up2026-10-02: targeted portfolio-services, DPAC1998–2002, minister-office and pre-Senate searches returned repeat biographies and namesakes, no personal classification/hours evidence. Contemporary proclamation identifies Bryan Green holding primary-industries portfolio in February2003, but does not independently establish Brown’s contract. No material employment gap resolved; excluded from enrichment count.",
+    "Historical DPAC2001–02report URL located in a published bibliography: https://www.dpac.tas.gov.au/documents/annualreport/2001-2002/annualreport01-02.pdf ; web reader returned URL is not accessible via this tool. State Service Commissioner2001–02report gives agency aggregates, not Brown-specific terms. Next seek an accessible archived departmental staff/position record or2002ministerial staff schedule; preserve unknown status and2000party overlap."
   ]
 }
