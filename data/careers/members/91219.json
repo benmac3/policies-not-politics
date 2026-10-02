@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/91219",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-01",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -18,9 +18,9 @@
       "spell_id": "91219-uws-study",
       "employer": "University of Western Sydney",
       "role": "Bachelor of Arts (Applied Communications) student",
-      "start_date": null,
-      "end_date": null,
-      "date_precision": "unknown",
+      "start_date": "1988",
+      "end_date": "1990",
+      "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "study",
@@ -29,9 +29,10 @@
       "counting_status": "excluded",
       "source_ids": [
         "src-secondary",
-        "src-profile"
+        "src-profile",
+        "src-linkedin-education-oct2"
       ],
-      "evidence_note": "Current biographical material identifies the university and qualification. Enrolment, completion, study load and overlap with early parliamentary staff work are unresolved.",
+      "evidence_note": "Public professional profile Education section specifies1988–1990 at Western Sydney University; official and member biographies confirm BA(Applied Communications). Calendar-year precision only; exact enrolment/completion days and study load remain unknown. Year sequence precedes recorded1991 adviser work but does not establish absence of other paid work.",
       "counting_note": "Study is excluded under the codebook."
     },
     {
@@ -256,6 +257,44 @@
       ],
       "evidence_note": "The frozen roster and current biographies establish House service from the 21 August 2010 election. Ministerial, shadow, committee and parliamentary-party roles are nested within elected service.",
       "counting_note": "Elected office is excluded under the codebook."
+    },
+    {
+      "employer": "Australian Labor Party — Blacktown Branch",
+      "role": "Branch secretary",
+      "start_date": "1991",
+      "end_date": "2004",
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "party_organisation",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-aph-party-oct2"
+      ],
+      "evidence_note": "Official parliamentary biography gives year boundaries. Remuneration, hours and precise terms unknown; overlaps with professional and union roles are retained without assuming additional full-time employment.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "91219-blacktown-secretary"
+    },
+    {
+      "employer": "Australian Labor Party — Greenway Federal Electorate Council",
+      "role": "Federal Electorate Council secretary",
+      "start_date": "1995",
+      "end_date": "1998",
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "party_organisation",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-aph-party-oct2"
+      ],
+      "evidence_note": "Official parliamentary biography gives year boundaries. Remuneration, hours and precise terms unknown; overlaps with professional and union roles are retained without assuming additional full-time employment.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "91219-greenway-secretary"
     }
   ],
   "sources": [
@@ -348,6 +387,26 @@
       "note": "Describes Integral media-relations work from 1999, corroborates Price office and union organiser work. No hours or exact departure supplied.",
       "retrieved": "2026-10-01",
       "source_id": "src-sbs-2017"
+    },
+    {
+      "url": "https://au.linkedin.com/in/ed-husic-mp-22253513",
+      "publisher": "Ed Husic / LinkedIn",
+      "title": "Public professional profile, education",
+      "source_type": "professional_profile",
+      "locator": "Public search-indexed Education section, Western Sydney University, 1988–1990",
+      "note": "Education years visible in public indexed profile. Direct reader returned999; no authenticated access or retry. Profile experience details are not visible and do not establish employment hours.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-linkedin-education-oct2"
+    },
+    {
+      "url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=91219",
+      "publisher": "Parliament of Australia",
+      "title": "Hon Ed Husic MP biography",
+      "source_type": "official_biography",
+      "locator": "Public indexed Party positions section",
+      "note": "Lists Blacktown Branch secretary1991–2004 and Greenway Federal Electorate Council secretary1995–1998. Direct reader unavailable/restricted; retrieved indexed text used without refreshing frozen roster.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-aph-party-oct2"
     }
   ],
   "research_notes": [
@@ -356,7 +415,9 @@
     "The unexplained 2004–2005 transition is retained as an evidence gap rather than silently filled by candidacy or party activity.",
     "Union and political-staff employment are excluded from the narrow headline even though they were likely paid roles.",
     "2026-10-01 systematic follow-up: original CEPU regulatory annual/financial reports resolve divisional office dates, distinguish national presidency and reveal APSS governance. NSW 2005 committee minutes resolve minister identity. None proves full-time hours.",
-    "Searched Integral historical annual-report and Burson-Marsteller hours leads, union filings, university/alumni and interview profiles. No individual payroll/hours or Integral 2003/2004 departure reconciliation found. APH live open returned Internal Error; frozen extract preserved and independent primary filings used. Public professional/profile results added no hour evidence. Retain employer reports/personnel chronology and APSS reports as next leads."
+    "Searched Integral historical annual-report and Burson-Marsteller hours leads, union filings, university/alumni and interview profiles. No individual payroll/hours or Integral 2003/2004 departure reconciliation found. APH live open returned Internal Error; frozen extract preserved and independent primary filings used. Public professional/profile results added no hour evidence. Retain employer reports/personnel chronology and APSS reports as next leads.",
+    "Second follow-up2October2026 resolves study years through public professional profile and adds two omitted party-secretary offices from indexed official biography. No hours inferred from leadership titles.",
+    "Targeted Integral Energy annual-report/full-time, Burson employment and APSS appointment searches did not resolve qualifying employment hours or Integral2003/2004 departure conflict. Australia Post2009–10 annual report describes Husic negotiating as CEPU president, not Australia Post employment. Reproduced Cooper v Metcher[2015]FCA6 identifies PostSuper as APSS trustee and quotes Husic union correspondence, but does not establish his individual original board appointment; retain trustee annual-report lead. Direct LinkedIn999 and APH restricted-URL reader errors are source-level gaps; public indexed text remains available."
   ],
   "open_questions": [
     "What were the exact dates, hours, leave and payroll entities for both early federal adviser roles?",
