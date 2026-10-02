@@ -6,7 +6,7 @@
   "snapshot_party": "Liberal Party of Australia",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/230531",
   "research_status": "blocked",
-  "last_reviewed": "2026-09-29",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -61,8 +61,8 @@
       "employer": "Own courier businesses; Central Queensland Express / CQX and Toowoomba Express Couriers",
       "role": "Owner-operator / managing director",
       "start_date": "1992",
-      "end_date": null,
-      "date_precision": "mixed",
+      "end_date": "2010",
+      "date_precision": "year",
       "employment_status": "self_employed",
       "fte_fraction": null,
       "category": "private_enterprise",
@@ -74,9 +74,10 @@
         "src-2",
         "src-3",
         "src-4",
-        "src-5"
+        "src-5",
+        "src-8"
       ],
-      "evidence_note": "APH lists managing director from 1992 without end. First speech describes self-employment and substantial divestment before October 2010. Government answer establishes owner-operator activity in 2005. Later retained directorships/shareholdings do not prove continued operational employment; no 2010 or 2018 employment end invented.",
+      "evidence_note": "APH lists managing director from 1992 without end. Primary member biography now explicitly states CQX was founded in 1992, Toowoomba Express followed, and he served as managing director until election in 2010. First speech describes substantial divestment before October 2010; government answer confirms owner-operator activity in 2005. Operational role ends at year precision, separately from retained governance/ownership through 2018. Exact business-specific transitions, staff-work overlap and substantive full-time hours remain unknown.",
       "counting_note": "Dates, employer control and/or substantive full-time status remain insufficient for a duration calculation; unknown is not zero."
     },
     {
@@ -103,8 +104,8 @@
       "employer": "Office of Senator Barnaby Joyce",
       "role": "Chief of staff",
       "start_date": null,
-      "end_date": null,
-      "date_precision": "unknown",
+      "end_date": "2010",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "political_staff",
@@ -113,9 +114,10 @@
       "counting_status": "excluded",
       "source_ids": [
         "src-1",
-        "src-7"
+        "src-7",
+        "src-9"
       ],
-      "evidence_note": "Official biography and contemporaneous election report establish political staff work; dates and hours absent. Former staffer by August 2010 is not an exact cessation date.",
+      "evidence_note": "Official biography and contemporary election report establish chief-of-staff work. ABC 2013 election guide explicitly says the work continued until the 2010 election; year-only cessation recorded, without invented commencement or exact last working day. Hours and overlap with transport management remain unknown.",
       "counting_note": "Excluded from the two employment headlines under the codebook."
     },
     {
@@ -195,6 +197,25 @@
       ],
       "evidence_note": "Federal elected office excluded, including ministerial and parliamentary appointments. Election boundary from frozen roster; no inference that business employment ceased on election.",
       "counting_note": "Excluded from the two employment headlines under the codebook."
+    },
+    {
+      "employer": "University of Southern Queensland",
+      "role": "Graduate Certificate of Business; MBA majoring in International Business",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "public",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-8"
+      ],
+      "evidence_note": "Primary biography identifies both qualifications; attendance and award dates, study load and overlap with work are not stated. Education is not employment.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "230531-10"
     }
   ],
   "sources": [
@@ -267,12 +288,33 @@
       "source_type": "news",
       "locator": "Opening paragraph",
       "note": "Confirms former chief-of-staff status by election, without start or cessation date."
+    },
+    {
+      "url": "https://www.scottbuchholz.com.au/about-scott/",
+      "publisher": "Scott Buchholz MP",
+      "title": "About Scott",
+      "source_type": "official_biography",
+      "locator": "Qualifications and transport-business paragraphs",
+      "note": "Primary biography explicitly places managing-director cessation in 2010; degrees have no dates. Not evidence of continuous full-time status.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-8"
+    },
+    {
+      "url": "https://www.abc.net.au/news/elections/federal/2013/guide/wrig",
+      "publisher": "ABC News / Antony Green",
+      "title": "Wright: 2013 federal election guide",
+      "source_type": "news",
+      "locator": "Candidates: Scott Buchholz",
+      "note": "Dates Joyce chief-of-staff work to the 2010 election; starting date and hours unspecified.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-9"
     }
   ],
   "research_notes": [
     "Resolve station employer/control, AGC legal employer and full-time evidence, 1987–89 gap, 1992 business commencement/operational cessation and hours, Joyce staff dates, and overlaps between business, governance and political work. Review historical company/AGC records and interest-register changes before any headline calculation.",
     "2026-09-29 initial pass: checked official APH biography, primary first speech, conference professional biography, 2005 departmental committee evidence, ABC election/divestment reports, and historical banking archive. Targeted public-profile and annual-report searches did not resolve employment contracts or hours; US Deloitte and musician namesakes rejected.",
     "The six-night courier run and station daylight-to-dark description indicate workload but not a verified continuous substantive full-time spell. Business staff numbers describe other workers, not the member's own FTE. The 25-year transport biography spans ownership and elected office and cannot be converted into eligible years.",
-    "Preserve year precision and unknown boundaries. Do not double count courier company interests, committee roles or party activities. Excluded political/governance periods do not establish zero public/private employment elsewhere. Direct APH requests failed but indexed primary passages were available; repeat only with a new archival lead."
+    "Preserve year precision and unknown boundaries. Do not double count courier company interests, committee roles or party activities. Excluded political/governance periods do not establish zero public/private employment elsewhere. Direct APH requests failed but indexed primary passages were available; repeat only with a new archival lead.",
+    "2026-10-02 follow-up: primary About Scott page resolves transport managing-director cessation to 2010; ABC 2013 Wright guide resolves Joyce staff cessation to 2010. Added postgraduate education without dates. Targeted university graduation, early staff, AGC and Lifeline searches did not resolve remaining dates/hours; unrelated namesakes rejected. A 27 June 2010 newspaper index identifies then-current chief-of-staff status, but direct page failed and is not required for coded boundaries. Next leads: dated employment/professional records for staff commencement, station employer, AGC entity, 1987–89 gap, continuous hours and business/staff overlap; retained company interests must not extend operational duration."
   ]
 }
