@@ -6,7 +6,7 @@
   "snapshot_party": "Jacqui Lambie Network",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/250026",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-01",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -219,7 +219,7 @@
       "role": "Founder and leader",
       "start_date": "2015",
       "end_date": null,
-      "date_precision": "year",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "party_organisation",
@@ -256,9 +256,9 @@
     {
       "employer": "Parliament of Australia",
       "role": "Senator for Tasmania, second period",
-      "start_date": "2019",
+      "start_date": "2019-07-01",
       "end_date": null,
-      "date_precision": "year",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -266,9 +266,10 @@
       "government_control_at_time": "public",
       "counting_status": "excluded",
       "source_ids": [
-        "src-2"
+        "src-2",
+        "src-14"
       ],
-      "evidence_note": "Return year independently confirmed by first-person biography; exact commencement not resolved in this pass.",
+      "evidence_note": "Parliamentary Library2022table explicitly gives second period from1July2019. Open-ended Senate office remains excluded from public/private employment totals.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "250026-13"
     }
@@ -409,9 +410,9 @@
       "publisher": "Parliamentary Library",
       "title": "Aboriginal and Torres Strait Islander parliamentarians, 2022 quick guide",
       "source_type": "government_record",
-      "locator": "Lambie service row; indexed text",
-      "note": "First Senate term1July2014–14November2017; party affiliation history is not employment.",
-      "retrieved": "2026-10-01",
+      "locator": "Table1, Jacquiline(Jacqui)Lambie row; indexed full table",
+      "note": "First Senate term1July2014–14November2017; party affiliation history is not employment. Follow-up indexed table explicitly supplies second period from1July2019. Direct open returned403; indexed primary text used.",
+      "retrieved": "2026-10-02",
       "source_id": "src-14"
     },
     {
@@ -432,6 +433,9 @@
     "Government transcript includes detailed personal medical history; only employment-relevant leave and placement facts retained. Public redacted statement PDF returned (400) Content length is too large:46312143; no confidential material accessed. Follow up accessible public statement text for exact dates.",
     "Employer party statement alleges full-time work but comes from a political dispute, lacks contract dates and has unrelated spam footer. Keep claim attributed and seek independent payroll or contemporaneous self-description. Do not adopt unrelated allegations. All party work excluded regardless.",
     "Television broadcast dates are observations, not employment dates. Need legal contracting parties, employee/self-employed status, substantive hours, preparation/filming terms and leave. SBS programme was a CJZ production, so government broadcaster identity cannot decide her employer sector.",
-    "Network Ten original returned403; accessible indexed profile and trade reporting confirm participation. Publisher original JavaScript-only; indexed publisher catalogue confirms publication. Broad full-time military searches yielded unrelated staff and national policy results, not person-specific whole-term proof. Next follow-up should target public service/contract records rather than repeat these searches."
+    "Network Ten original returned403; accessible indexed profile and trade reporting confirm participation. Publisher original JavaScript-only; indexed publisher catalogue confirms publication. Broad full-time military searches yielded unrelated staff and national policy results, not person-specific whole-term proof. Next follow-up should target public service/contract records rather than repeat these searches.",
+    "Follow-up2026-10-02: official Parliamentary Library indexed table resolves second Senate commencement to1July2019. No employment hours or Army leave boundaries inferred.",
+    "Public Royal Commission2022redacted exhibit44-01.001 still exceeded web reader size limit: (400) Content length is too large:46312143. Ordinary download did not return data and was cancelled(exit130); no access controls bypassed.2024exhibit90-05.001 is scanned; screenshot response exposed text placeholders only, so pages were not visually read and no facts adopted. Public statement leads remain https://defenceveteransuicide.royalcommission.gov.au/publications/exhibit-44-01001-jlb000000010001-r-submission-senator-jacqui-lambie and https://defenceveteransuicide.royalcommission.gov.au/publications/exhibit-90-05001-jlb000000010041-statement-senator-jacqui-lambie .",
+    "Further exact-name/full-time/enlistment searches did not establish precise maternity/paid-return periods. Parliamentary source direct403 is source-specific; indexed primary table supports only the Senate date change. Next follow-up should obtain readable public redacted statement or person-specific service chronology; do not repeat broad Army-policy searches."
   ]
 }
