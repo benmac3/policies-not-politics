@@ -6,12 +6,12 @@
   "snapshot_party": "Liberal Party of Australia",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/260805",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-01",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
     "calculation_status": "not_calculable",
-    "note": "Full-time Army employment is explicitly supported, with official officer service from 2007 and resignation in August 2015. Mixed date precision, earlier training treatment and service breaks prevent an exact headline total. A conditional elapsed boundary envelope is documented separately."
+    "note": "Contemporaneous reporting dates SAS resignation to 21 August 2015; full-time officer service supported, and first-person account distinguishes earlier youth cadets from Army service starting 2003. Training pay/status, precise start and leave still prevent headline calculation."
   },
   "career_spells": [
     {
@@ -48,9 +48,10 @@
       "source_ids": [
         "src-2",
         "src-5",
-        "src-6"
+        "src-6",
+        "src-8"
       ],
-      "evidence_note": "Secondary ADFA start, primary Duntroon graduation. Salaried-service status and precise boundaries need personnel evidence; study and military employment must not be duplicated.",
+      "evidence_note": "Secondary ADFA start, primary Duntroon graduation. Salaried-service status and precise boundaries need personnel evidence; study and military employment must not be duplicated. Own 2022 speech expressly dates Army career 2003–2015, strengthening previously secondary training-start evidence. Five earlier years of youth cadets are separate, not salaried ADF tenure.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "260805-02"
     },
@@ -58,7 +59,7 @@
       "employer": "Australian Army, 2nd Cavalry Regiment and Special Air Service Regiment",
       "role": "Army officer / troop commander",
       "start_date": "2007",
-      "end_date": "2015-08",
+      "end_date": "2015-08-21",
       "date_precision": "mixed",
       "employment_status": "full_time",
       "fte_fraction": null,
@@ -72,10 +73,12 @@
         "src-3",
         "src-4",
         "src-5",
-        "src-7"
+        "src-7",
+        "src-9",
+        "src-10"
       ],
-      "evidence_note": "Official officer range starts 2007; own interview explicitly describes resignation from full-time Army in August 2015. Deployments and SAS transfer are roles within the same employer, not additional overlapping jobs.",
-      "counting_note": "Full-time status supported by first-person statement, but year/month precision and continuity/leave are unresolved. No exact total or assumed 1 January boundary.",
+      "evidence_note": "Official officer range starts 2007; own interview explicitly describes resignation from full-time Army in August 2015. Deployments and SAS transfer are roles within the same employer, not additional overlapping jobs. ABC 21 August 2015 reports resignation that day, corroborated by Friday wording in The West. Boundary records resignation event; final paid day/terminal leave unverified. ABC identifies Operation Sovereign Borders advisory duties, treated within Army service rather than a separate civilian job.",
+      "counting_note": "Full-time status supported by first-person statement. Resignation day now documented, but start-day precision, final payroll/leave and continuity are unresolved. No assumed 1 January start or duplicate deployment/advisory years.",
       "spell_id": "260805-03"
     },
     {
@@ -93,7 +96,7 @@
       "source_ids": [
         "src-3"
       ],
-      "evidence_note": "Own account says no unit assignment, parade or responsibilities; reported removal in June 2016. Not continuing full-time Army employment.",
+      "evidence_note": "Own account says no unit assignment, parade or responsibilities; reported removal in June 2016. Not continuing full-time Army employment. Resignation report narrows preceding Army event to 21 August 2015; precise administrative standby-transfer day still unverified.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "260805-04"
     },
@@ -123,7 +126,7 @@
       "role": "Member for Canning",
       "start_date": "2015-09-19",
       "end_date": null,
-      "date_precision": "day",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -136,6 +139,25 @@
       "evidence_note": "Frozen first-service date; campaign period not automatically employment.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "260805-06"
+    },
+    {
+      "employer": "School/youth military cadets, unit unconfirmed",
+      "role": "Youth cadet",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unpaid_work",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-8"
+      ],
+      "evidence_note": "Own speech describes five years as a cadet including 1998 training at age 15, before later Army service. Participation/training, not salaried Army employment; no calendar endpoints inferred.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "260805-07"
     }
   ],
   "sources": [
@@ -208,12 +230,55 @@
       "note": "Contemporaneous former-soldier/candidate status corroborates 2015 transition.",
       "retrieved": "2026-10-01",
       "source_id": "src-7"
+    },
+    {
+      "url": "https://www.andrewhastie.com.au/cadetsaddress",
+      "publisher": "Andrew Hastie MP",
+      "title": "Speech to Air Force Cadets, 25 January 2022",
+      "source_type": "first_person",
+      "locator": "Paragraphs on five years cadets, 1998 training and Army service 2003–2015",
+      "note": "Distinguishes youth cadet participation from subsequent Army career; does not establish paid status of early training.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-8"
+    },
+    {
+      "url": "https://www.abc.net.au/news/2015-08-21/hastie-liberal-candidate,-keogh-alp-canning-byelection/6713986",
+      "publisher": "ABC News",
+      "title": "Andrew Hastie to run for Liberals, Matt Keogh for ALP in Canning by-election",
+      "source_type": "news",
+      "locator": "21 August 2015; paragraph beginning Mr Hastie, who today resigned",
+      "note": "Contemporaneous today wording dates SAS captain resignation to 21 August 2015; final payroll/terminal leave not specified. Also identifies advisory work on Operation Sovereign Borders.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-9"
+    },
+    {
+      "url": "https://thewest.com.au/news/wa/lib-candidate-defends-war-action-ng-ya-172600",
+      "publisher": "The West Australian",
+      "title": "Lib candidate defends war action",
+      "source_type": "news",
+      "locator": "August 2015 report, paragraph describing resignation on Friday",
+      "note": "Friday resignation corroborates ABC date; no independent personnel separation document.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-10"
+    },
+    {
+      "url": "https://www.andrewhastie.com.au/first-speech",
+      "publisher": "Andrew Hastie MP",
+      "title": "First speech, 13 October 2015",
+      "source_type": "first_person",
+      "locator": "Defence career and public investment in training paragraphs",
+      "note": "Provides first-person service/training context, without precise dates or earlier civilian work.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-11"
     }
   ],
   "research_notes": [
     "2026-10-01 avenues: official frozen range, Defence employer biography, own formal biography, direct reported 2016 interview, ABC transition report, secondary reserve chronology and targeted full-time searches. Army Research Centre contributor page supplies no substantive biography.",
     "Obtain precise reserve-to-regular transfer, ADFA and Duntroon salaried-service periods, commissioning date, actual separation date and non-service breaks. Determine whether earlier paid civilian work exists.",
     "Calculation note: the 2007 to August 2015 officer labels imply an elapsed boundary envelope of approximately 7.58–8.67 years (earliest/latest calendar boundaries, days divided by 365.2425); this is not a certified continuous full-time-years total, does not include pre-2007 training and is not written into the headline. No new aggregation convention is introduced.",
-    "Do not count inactive standby membership after August 2015 as full-time service. Part-time UNSW Regiment service is separate; do not sum deployment durations on top of Army tenure."
+    "Do not count inactive standby membership after August 2015 as full-time service. Part-time UNSW Regiment service is separate; do not sum deployment durations on top of Army tenure.",
+    "Follow-up 2026-10-02: ABC contemporaneous today resignation statement and The West Friday corroboration resolve August resignation event to 21 August 2015. This is not proof of final paid day. Own cadet speech supplies primary 2003 Army start context and separates five earlier years of youth cadets.",
+    "Secondary December 2006 commissioning claim remains in tension with frozen officer range from 2007; searches for individual Duntroon graduation/personnel evidence did not resolve it. A general December graduation ceremony cannot establish personal commissioning. Existing conditional August boundary envelope remains a broad earlier envelope, not certified total.",
+    "Targeted first-job/full-time/personnel and court-domain searches did not establish civilian employment or training contract. ABC local-law-firm first-job quotation belongs to Matt Keogh, not Hastie. Next: individual commissioning/regular-service transfer, ADFA pay status, final payroll and non-service breaks."
   ]
 }
