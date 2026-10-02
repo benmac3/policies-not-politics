@@ -6,12 +6,12 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/312871",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-01",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
     "calculation_status": "not_calculable",
-    "note": "Nursing, small-business and academic work are established, but employer identities, calendar boundaries and substantive full-time evidence are incomplete. University and elected roles remain separate; unknown sector/duration is not zero."
+    "note": "Added named St John of God Subiaco hospital training/work setting, clarified enrolled versus registered nursing teaching, verified council resignation on 28 May 2025 and ECU PhD award in 2026. Clinical payroll employers, career boundaries and hours remain unresolved."
   },
   "career_spells": [
     {
@@ -115,7 +115,7 @@
     },
     {
       "employer": "Kalgoorlie TAFE; historical institute to verify",
-      "role": "Nurse educator",
+      "role": "Lecturer, enrolled nursing",
       "start_date": null,
       "end_date": null,
       "date_precision": "unknown",
@@ -127,7 +127,8 @@
       "counting_status": "insufficient_evidence",
       "source_ids": [
         "src-1",
-        "src-2"
+        "src-2",
+        "src-7"
       ],
       "evidence_note": "Teaching role established; exact institute, appointment dates and hours missing.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
@@ -135,7 +136,7 @@
     },
     {
       "employer": "Northam TAFE; historical institute to verify",
-      "role": "Nurse educator",
+      "role": "Lecturer, enrolled nursing",
       "start_date": null,
       "end_date": null,
       "date_precision": "unknown",
@@ -147,7 +148,8 @@
       "counting_status": "insufficient_evidence",
       "source_ids": [
         "src-1",
-        "src-2"
+        "src-2",
+        "src-7"
       ],
       "evidence_note": "Government TAFE teaching kept separate from university employment; dates and hours unknown.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
@@ -155,7 +157,7 @@
     },
     {
       "employer": "Edith Cowan University",
-      "role": "Nursing academic / educator",
+      "role": "Teacher and mentor, registered nursing",
       "start_date": null,
       "end_date": null,
       "date_precision": "unknown",
@@ -167,7 +169,8 @@
       "counting_status": "excluded",
       "source_ids": [
         "src-1",
-        "src-2"
+        "src-2",
+        "src-7"
       ],
       "evidence_note": "University category kept separate; no full-time assumption.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
@@ -175,7 +178,7 @@
     },
     {
       "employer": "Edith Cowan University and other training providers",
-      "role": "Nursing/OHS qualifications; PhD from 2019",
+      "role": "Nursing and OHS qualifications; PhD study (awarded 2026)",
       "start_date": null,
       "end_date": null,
       "date_precision": "unknown",
@@ -187,9 +190,10 @@
       "counting_status": "excluded",
       "source_ids": [
         "src-2",
-        "src-3"
+        "src-3",
+        "src-8"
       ],
-      "evidence_note": "Degree years 1991 and 2007; PhD started 2019. No paid research appointment inferred.",
+      "evidence_note": "Degree years 1991 and 2007; PhD started 2019. No paid research appointment inferred. ECU repository records integrated PhD award in 2026. Its research interviews began July 2017, before the 2019 commencement stated in first speech; enrolment/research-phase distinction unresolved. No paid research inferred.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "312871-09"
     },
@@ -217,8 +221,8 @@
       "employer": "Shire of Mundaring",
       "role": "Councillor; deputy president from 2023",
       "start_date": "2021",
-      "end_date": "2025",
-      "date_precision": "year",
+      "end_date": "2025-05-28",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -229,7 +233,7 @@
         "src-4",
         "src-5"
       ],
-      "evidence_note": "Second term ended after federal election; exact resignation date needs council record.",
+      "evidence_note": "Shire statement reproduced in Echo on 5 June identifies resignation earlier on 28 May 2025. Separate council term and deputy presidency retained; federal election day not used as endpoint.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "312871-11"
     },
@@ -238,7 +242,7 @@
       "role": "Member for Bullwinkel",
       "start_date": "2025-05-03",
       "end_date": null,
-      "date_precision": "day",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -251,6 +255,27 @@
       "evidence_note": "First service in frozen roster.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "312871-12"
+    },
+    {
+      "employer": "St John of God Subiaco Hospital",
+      "role": "Hospital-based trainee nurse and midwife",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "nonprofit",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-2",
+        "src-6",
+        "src-9"
+      ],
+      "evidence_note": "First-person speech places hospital-based training in the 1980s and discusses trainee work and wages. Exact training/employment dates, personal paid contract, hours and leave unresolved; dates remain null rather than fabricated decade endpoints. Religious hospital training/employment is distinct from later remote clinical work.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "312871-13"
     }
   ],
   "sources": [
@@ -269,9 +294,9 @@
       "publisher": "Trish Cook MP / House Hansard",
       "title": "First speech, 24 July 2025",
       "source_type": "official_biography",
-      "locator": "Career paragraphs: remote nursing through PhD",
-      "note": "Primary account of nursing sites, business, Solomon Islands, Kalgoorlie and teaching; chronology is not a payroll record.",
-      "retrieved": "2026-10-01",
+      "locator": "Opening training paragraph and career paragraphs through PhD",
+      "note": "First-person account explicitly names hospital-based nurse and midwife training at St John of God Subiaco in the 1980s; describes trainee wages generally and later clinical/teaching chronology.",
+      "retrieved": "2026-10-02",
       "source_id": "src-2"
     },
     {
@@ -299,9 +324,9 @@
       "publisher": "Echo Newspaper",
       "title": "Trish Cook resigns from council",
       "source_type": "news",
-      "locator": "June 2025 report quoting Shire president",
-      "note": "Confirms resignation after federal election and two separate council terms.",
-      "retrieved": "2026-10-01",
+      "locator": "5 June 2025 report; May 28 Shire announcement quoted",
+      "note": "Reproduces Shire statement on May 28 that resignation occurred earlier that day, supporting 28 May 2025 endpoint.",
+      "retrieved": "2026-10-02",
       "source_id": "src-5"
     },
     {
@@ -313,12 +338,45 @@
       "note": "Indexed official biography corroborates Nurses@Work ownership and occupational list.",
       "retrieved": "2026-10-01",
       "source_id": "src-6"
+    },
+    {
+      "url": "https://www.openaustralia.org.au/debate/?id=2026-09-07.201.1",
+      "publisher": "House Hansard via OpenAustralia",
+      "title": "Tertiary Education and Training, 7 September 2026",
+      "source_type": "first_person",
+      "locator": "4:57 pm, opening paragraph",
+      "note": "Cook identifies enrolled-nurse lecturing at Kalgoorlie and Northam TAFEs, followed by registered-nurse teaching and mentoring at ECU. Dates and contract hours absent.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-7"
+    },
+    {
+      "url": "https://ro.ecu.edu.au/theses/3108/",
+      "publisher": "Edith Cowan University",
+      "title": "Patient experiences of receiving home-based immunotherapy infusions, Patricia Ann Cook",
+      "source_type": "university_record",
+      "locator": "Date of Award; Degree Name; methods",
+      "note": "Repository records integrated PhD award 2026 and research interviews July 2017–September 2020. Not proof of paid research employment; creates a chronology question with 2019 commencement statement.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-8"
+    },
+    {
+      "url": "https://www.sjog.org.au/our-locations/st-john-of-god-murdoch-hospital/about/murdoch-history-trail",
+      "publisher": "St John of God Health Care",
+      "title": "Murdoch history trail",
+      "source_type": "employer_record",
+      "locator": "Origins: Subiaco hospital, convent and school",
+      "note": "Provider identifies religious-order origins of Subiaco hospital and school. Does not establish Cook employment contract or hours.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-9"
     }
   ],
   "research_notes": [
     "2026-10-01 research: official frozen and indexed APH biography, full first-person first speech, ECU profile, indexed council agenda and local resignation report. Targeted business and full-time searches did not establish employer-specific hours or a complete dated chronology.",
     "Follow up each hospital/community/industrial payroll employer and exact dates/hours/leave; Nurses@Work legal entity, ten-year boundaries, clients and overlapping clinical/teaching work; confirm personal role and payer in Solomon Islands.",
     "Obtain TAFE appointment records and ECU/Curtin staff profiles. Secondary search results suggest ECU tutoring 2017–21 and Curtin OHS lecturing 2008–11; these remain leads, not primary-established spells. Reconcile these with first-speech sequence and Darlington residence timing.",
-    "Resolve training, study and family-care overlaps, any paid PhD work, council workload and 2025 clinical/business cessation or campaign leave. Relative ten-year and four-year durations are not converted into invented endpoints."
+    "Resolve training, study and family-care overlaps, any paid PhD work, council workload and 2025 clinical/business cessation or campaign leave. Relative ten-year and four-year durations are not converted into invented endpoints.",
+    "Follow-up 2026-10-02: first speech and official qualifications identify Subiaco hospital training; university thesis establishes 2026 award, with interviews from 2017 requiring reconciliation with stated 2019 study commencement. Council announcement quoted contemporaneously settles 28 May 2025 resignation.",
+    "Curtin 2008–2011 and ECU 2017–2021 remain secondary leads: Wikipedia links old public professional profile trish-cook-28a36738, but direct 999; renamed trish-cook-mp denied robots and targeted indexes lacked role detail. No authentication or access bypass. Business News visible profile did not supply the claimed oil/gas date interval.",
+    "Gov Insights namesake is an administration specialist without matching nursing biography; not attributed. Searches for Nurses@Work legal entity and TAFE appointments did not identify payroll records. Next leads: historical nursing business registry, public academic CV, TAFE annual reports, and paid hospital-training record."
   ]
 }
