@@ -6,12 +6,12 @@
   "snapshot_party": "Liberal Party of Australia",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/265967",
   "research_status": "blocked",
-  "last_reviewed": "2026-09-30",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
     "calculation_status": "not_calculable",
-    "note": "Official and first-person sources establish a sequence from carpentry apprenticeship to subcontract carpentry, an owned building business and 16 years as a self-employed construction barrister before election. They do not name the apprenticeship employer or building entity, resolve the construction-law overlap reported in the Parliamentary Handbook, or establish hours, leave and exact boundaries. Self-employment and senior professional status are not assumed full-time, so no private-sector headline total is calculated."
+    "note": "Chambers affiliation,registered adjudication,builderlicence and government-review chronology now supported. Earliest reviewappointment21December2012;QUTstudy1997–2000secondary-supported. Building cessation and employmenthours/leave unresolved; legalpracticeend only2016year,not electionday. Clientreviewwork nested withinprivatepractice; totalsnull."
   },
   "career_spells": [
     {
@@ -27,7 +27,9 @@
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-4"],
+      "source_ids": [
+        "src-4"
+      ],
       "evidence_note": "Wallace told ABC that he entered a Pallottine monastery at age 19 and left about eight months later. No evidence identifies this religious formation as paid employment.",
       "counting_note": "Religious formation or study is excluded."
     },
@@ -37,15 +39,21 @@
       "role": "Apprentice carpenter and joiner",
       "start_date": "1987",
       "end_date": null,
-      "date_precision": "unknown",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "private_enterprise",
       "headline_sector": "private",
       "government_control_at_time": "private",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-1", "src-2", "src-4", "src-5"],
-      "evidence_note": "The Parliamentary Handbook begins Wallace's carpenter-and-joiner/builder chronology in 1987. His official biography and ABC profile say his mother arranged an apprenticeship after he left the monastery and that he completed the trade. The employer, exact dates, hours and leave are not published.",
+      "source_ids": [
+        "src-1",
+        "src-2",
+        "src-4",
+        "src-5",
+        "src-16"
+      ],
+      "evidence_note": "The Parliamentary Handbook begins Wallace's carpenter-and-joiner/builder chronology in 1987. His official biography and ABC profile say his mother arranged an apprenticeship after he left the monastery and that he completed the trade. The employer, exact dates, hours and leave are not published. Later first-person speech locates apprenticeship on Melbourne high-rise commercial construction site and recalls around1986or1987; existing1987officialyear retained with approximate recollection noted. BLF membership is not union employment.",
       "counting_note": "Private employment is supported, but employer identity and the evidence needed for a full-time calculation are missing."
     },
     {
@@ -53,41 +61,79 @@
       "employer": "Self-employed subcontract carpentry and building business, entity not identified",
       "role": "Subcontract carpenter, builder and business owner",
       "start_date": null,
-      "end_date": "2000",
-      "date_precision": "mixed",
+      "end_date": null,
+      "date_precision": "unknown",
       "employment_status": "self_employed",
       "fte_fraction": null,
       "category": "private_enterprise",
       "headline_sector": "private",
       "government_control_at_time": "private",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-1", "src-3", "src-4", "src-5", "src-6"],
-      "evidence_note": "Official and first-person sources say Wallace became a subcontract carpenter, then a builder and owner of his own business for about a decade before qualifying as a barrister in 2000. The Parliamentary Handbook records carpenter-and-joiner/builder activity through 2016, creating an unresolved overlap with legal practice; no business name, licence history or exact boundaries are supplied.",
+      "source_ids": [
+        "src-1",
+        "src-3",
+        "src-4",
+        "src-5",
+        "src-6",
+        "src-10"
+      ],
+      "evidence_note": "Official and first-person sources say Wallace became a subcontract carpenter, then a builder and owner of his own business for about a decade before qualifying as a barrister in 2000. The Parliamentary Handbook records carpenter-and-joiner/builder activity through 2016, creating an unresolved overlap with legal practice; no business name, licence history or exact boundaries are supplied. Undated chambers profile lists registered-builder QBCClicence47895. Licence holding alone does not prove continuing paid building activity. Previously encoded2000cessation was an assumed transition and is removed pending resolution ofofficial2016overlap.",
       "counting_note": "Substantive private self-employment is supported, but exact dates, workload, leave and the possible post-2000 continuation cannot be resolved."
     },
     {
       "spell_id": "265967-04",
       "employer": "Queensland University of Technology",
       "role": "Bachelor of Laws student",
-      "start_date": null,
+      "start_date": "1997",
       "end_date": "2000",
-      "date_precision": "mixed",
+      "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "study",
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-1", "src-2", "src-5", "src-6"],
-      "evidence_note": "Wallace's official biography says he completed his QUT law degree in his late twenties while operating his building business; in Parliament he described the study as full-time. The commencement and graduation dates are not published in the sources reviewed, while admission to the bar is reported in 2000.",
+      "source_ids": [
+        "src-1",
+        "src-2",
+        "src-5",
+        "src-6",
+        "src-15"
+      ],
+      "evidence_note": "Wallace's official biography says he completed his QUT law degree in his late twenties while operating his building business; in Parliament he described the study as full-time. The commencement and graduation dates are not published in the sources reviewed, while admission to the bar is reported in 2000. ABC2016electionguide explicitly gives1997–2000lawstudy; retained as secondary year-precision boundaries,not inferred from baradmission.",
       "counting_note": "Study is excluded; its overlap with the building business remains relevant to workload evidence."
     },
     {
       "spell_id": "265967-05",
-      "employer": "Queensland Bar / self-employed legal practice based at Maroochydore",
-      "role": "Barrister specialising in construction law",
+      "employer": "Self-employed legal practice; Alfred Lutwyche Chambers / Inns of Court Sunshine Coast affiliation",
+      "role": "Construction-law barrister and registered adjudicator",
       "start_date": "2000",
-      "end_date": "2016-07-02",
+      "end_date": "2016",
+      "date_precision": "year",
+      "employment_status": "self_employed",
+      "fte_fraction": null,
+      "category": "private_enterprise",
+      "headline_sector": "private",
+      "government_control_at_time": "private",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-1",
+        "src-2",
+        "src-3",
+        "src-4",
+        "src-7",
+        "src-10",
+        "src-12"
+      ],
+      "evidence_note": "The Parliamentary Handbook records barrister practice from 2000 to 2016. Wallace repeatedly described the interval as the 16 years immediately before election, and his official biography says his own practice was based in Maroochydore. Exact admission, first-brief, cessation, hours, leave and the nature of any continuing building business are not supplied. Primary chambers profile names SunshineCoastInns ofCourt and registered-adjudicator status; Minister2014also describes adjudication experience. Chambers are professional affiliation,not assumed employer. Unsupported exact election-day cessation reduced toofficial2016year; undatedprofile doesnot prove post-election work.",
+      "counting_note": "Private self-employment is established but cannot be converted to full-time years without workload, leave and exact boundary evidence."
+    },
+    {
+      "spell_id": "265967-06",
+      "employer": "Self-employed legal practice — Queensland Government/QBCC clients",
+      "role": "Independent construction-law reviewer and report author",
+      "start_date": "2012-12-21",
+      "end_date": "2015",
       "date_precision": "mixed",
       "employment_status": "self_employed",
       "fte_fraction": null,
@@ -95,26 +141,15 @@
       "headline_sector": "private",
       "government_control_at_time": "private",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-1", "src-2", "src-3", "src-4", "src-7"],
-      "evidence_note": "The Parliamentary Handbook records barrister practice from 2000 to 2016. Wallace repeatedly described the interval as the 16 years immediately before election, and his official biography says his own practice was based in Maroochydore. Exact admission, first-brief, cessation, hours, leave and the nature of any continuing building business are not supplied.",
-      "counting_note": "Private self-employment is established but cannot be converted to full-time years without workload, leave and exact boundary evidence."
-    },
-    {
-      "spell_id": "265967-06",
-      "employer": "Queensland Government",
-      "role": "Independent construction-law reviewer and report author",
-      "start_date": "2013",
-      "end_date": "2015",
-      "date_precision": "year",
-      "employment_status": "contractor",
-      "fte_fraction": null,
-      "category": "private_enterprise",
-      "headline_sector": "private",
-      "government_control_at_time": "public",
-      "counting_status": "insufficient_evidence",
-      "source_ids": ["src-8"],
-      "evidence_note": "In Parliament Wallace said that as a barrister he produced three independent reports for the Queensland Government between 2013 and 2015 concerning building-regulation reform, security of payment and private certification. This is recorded as client work within legal practice, not separate public-service employment.",
-      "counting_note": "Contracting for government does not change the private status of the self-employed barrister; workload and exact report periods are not published and must not be double-counted."
+      "source_ids": [
+        "src-8",
+        "src-11",
+        "src-12",
+        "src-13",
+        "src-14"
+      ],
+      "evidence_note": "In Parliament Wallace said that as a barrister he produced three independent reports for the Queensland Government between 2013 and 2015 concerning building-regulation reform, security of payment and private certification. This is recorded as client work within legal practice, not separate public-service employment. Paymentsreview appointment21December2012 explicitly stated in2014evidence; reportdelivered24May2013. May2013governmentresponse identifies separateQBSApanel membership. QBCCcommissioned BuildingAct/certificationreview in2014,followed byconsultation toJanuary2015. These refine umbrella clientwork,not continuous full-time governmentemployment.2015end retained only as broadfirst-personreport interval,not precise contractcessation.",
+      "counting_note": "Private self-employed provider; publicclientdoesnottransferemployercontrol. Entirely nested within legalpractice spell; no duplicateheadlineyears."
     },
     {
       "spell_id": "265967-07",
@@ -129,7 +164,9 @@
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-2"],
+      "source_ids": [
+        "src-2"
+      ],
       "evidence_note": "Wallace's official biography describes several years of club involvement and labels the management roles honorary. Exact dates are not given.",
       "counting_note": "Honorary and volunteer community roles are excluded."
     },
@@ -146,7 +183,9 @@
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-2"],
+      "source_ids": [
+        "src-2"
+      ],
       "evidence_note": "The official biography lists a former presidency but supplies no dates, remuneration or workload.",
       "counting_note": "Nonprofit governance is excluded pending evidence of separate substantive paid employment."
     },
@@ -156,14 +195,17 @@
       "role": "Member of the House of Representatives for Fisher",
       "start_date": "2016-07-02",
       "end_date": null,
-      "date_precision": "day",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-1", "src-9"],
+      "source_ids": [
+        "src-1",
+        "src-9"
+      ],
       "evidence_note": "Official parliamentary records show Wallace was elected to the House of Representatives at the 2 July 2016 federal election.",
       "counting_note": "Federal elected office is excluded."
     }
@@ -258,6 +300,76 @@
       "source_type": "official_biography",
       "locator": "Frozen roster and parliamentary service",
       "note": "Snapshot identity and parliamentary service used by the frozen roster."
+    },
+    {
+      "url": "https://alfredlutwychechambers.com/andrew-wallace",
+      "publisher": "Alfred Lutwyche Chambers",
+      "title": "Andrew Wallace",
+      "source_type": "employer_record",
+      "locator": "Admissions,qualifications,Sunshine Coast Chambers",
+      "note": "Primary professional profile:2000bar admission,registered adjudicator,builder licence47895,Inns of Court Sunshine Coast. Undated page not proof of current paid practice.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-10"
+    },
+    {
+      "url": "https://documents.parliament.qld.gov.au/com/THLGC-9EC2/RN52BCIPAB-9F17/Transcript%20Public%20Hearing%2025June2014-final.pdf",
+      "publisher": "Queensland Parliament",
+      "title": "Public briefing — Building and Construction Industry Payments Amendment Bill2014",
+      "source_type": "first_person",
+      "locator": "25June2014,printedp5/PDFp6,Wallace evidence",
+      "note": "Wallace explicitly states appointment21December2012 toreview payments legislation; engagement withinlegal practice.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-11"
+    },
+    {
+      "url": "https://documents.parliament.qld.gov.au/bills/2014/2708/building-0980.pdf",
+      "publisher": "Queensland Parliament",
+      "title": "Building and Construction Industry Payments Amendment Bill introduction",
+      "source_type": "government_record",
+      "locator": "21May2014,printedp1681/PDFp2",
+      "note": "Minister confirms Wallace report delivered24May2013. Delivery is not necessarily final paid day.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-12"
+    },
+    {
+      "url": "https://www.housing.qld.gov.au/__data/assets/pdf_file/0023/3668/buildingandplumbingnewsflash536.pdf",
+      "publisher": "Queensland Government",
+      "title": "Building and Plumbing Newsflash536",
+      "source_type": "government_record",
+      "locator": "pp1–2,review engagement and public consultation",
+      "note": "QBCC engaged Wallace toreview BuildingAct1975/certification;2014consultation and finalreport received bypublic consultation ending30January2015. Not employment boundaries.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-13"
+    },
+    {
+      "url": "https://cabinet.qld.gov.au/documents/2013/May/BSA%20Ctte%20Report/Attachments/Response.pdf",
+      "publisher": "Queensland Government",
+      "title": "Response to inquiry into Queensland Building Services Authority2012",
+      "source_type": "government_record",
+      "locator": "May2013,introduction:independent panel",
+      "note": "Panel chairedPhilKesby withAndrewWallace,DavidHanna,NeilCastles; appointment/pay dates notgiven.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-14"
+    },
+    {
+      "url": "https://www.abc.net.au/news/elections/federal/2016/guide/fish",
+      "publisher": "ABC News",
+      "title": "Fisher election guide2016",
+      "source_type": "reliable_secondary",
+      "locator": "CandidateAndrewWallace",
+      "note": "Contemporary election profile givesQUTlaw1997–2000; yearprecisionsecondary chronology,not workload ofemployment.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-15"
+    },
+    {
+      "url": "https://www.openaustralia.org.au/debate/?id=2024-06-26.158.1",
+      "publisher": "Parliamentary Hansard viaOpenAustralia",
+      "title": "AndrewWallace,26June2024",
+      "source_type": "first_person",
+      "locator": "Opening career recollection",
+      "note": "Firstapprentice day onMelbourne highrisecommercial site around1986or1987;BLFmembership. Noemployername; notunion employment.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-16"
     }
   ],
   "research_notes": [
@@ -266,6 +378,9 @@
     "Resolve why the Parliamentary Handbook records carpenter-and-joiner/builder activity through 2016 despite the described transition to 16 years at the bar in 2000; do not double-count overlapping self-employment.",
     "Obtain QUT enrolment and graduation dates and quantify the overlap between full-time study and building-business work.",
     "Obtain exact bar admission/cessation, chambers or practice name, workload, leave and campaign arrangements; identify the three Queensland Government reports and contracting periods.",
-    "Resolve appointment, cessation and remuneration for surf-lifesaving and Children's Therapy Centre roles."
+    "Resolve appointment, cessation and remuneration for surf-lifesaving and Children's Therapy Centre roles.",
+    "Follow-up2026-10-02: chambersprofile,2014Queenslandcommittee evidence,ministerialstatement,2013Cabinetresponse,BuildingCodesNewsflash536,ABC2016electionguide and2024first-personapprenticeship account reviewed. Newpracticeaffiliation/licencereference and specificreview appointments retained.",
+    "Remaining: apprenticeshipemployer,exact completion;builderentity/licencehistory and activework versus registration;QUTprimaryenrolment corroboration;chambers joining/leaving,paidpractice cessation,hours/leave;all reviewcontractlastdays/fees/workload;communityoffice dates. Three governmentreviews identified but not three additional employment periods.",
+    "Recovered: historicalBCIPAannualreportdirect403; accessibleministerialstatement andfirst-personhearing supply appointment/deliveryevidence. No controlsbypassed. Searchnamesakes AndrewCameronWallaceABN,UKcriminalbarrister andUSboatbuilder excluded."
   ]
 }
