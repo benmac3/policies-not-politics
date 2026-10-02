@@ -6,7 +6,7 @@
   "snapshot_party": "Liberal Party of Australia",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/243273",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-01",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -72,9 +72,11 @@
         "src-3",
         "src-4",
         "src-5",
-        "src-6"
+        "src-6",
+        "src-12",
+        "src-14"
       ],
-      "evidence_note": "Frozen biography describes entire interval as National Wine Centre CEO. Contemporary 1996 appointment was Manager, Wine and Food Tourism; Centre statutory body arose later. Retain aggregate without assigning all years to later employer. Components below are not additive.",
+      "evidence_note": "Frozen biography describes entire interval as National Wine Centre CEO. Contemporary 1996 appointment was Manager, Wine and Food Tourism; Centre statutory body arose later. Retain aggregate without assigning all years to later employer. Components below are not additive. Contemporary1998conference account identifies a project-director role, supporting the need to separate project work from later CEO service. Extract insufficient to date separate employment spell.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "243273-03"
     },
@@ -83,7 +85,7 @@
       "role": "Manager, Wine and Food Tourism",
       "start_date": "1996",
       "end_date": null,
-      "date_precision": "year",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "unknown",
@@ -91,9 +93,10 @@
       "government_control_at_time": "unknown",
       "counting_status": "insufficient_evidence",
       "source_ids": [
-        "src-4"
+        "src-4",
+        "src-13"
       ],
-      "evidence_note": "Ministerial answer says notified on 12 September and board informed 18 September 1996. Actual commencement, contractual employer and transition into Centre project role need appointment record; no invented day boundary.",
+      "evidence_note": "Ministerial answer says notified on 12 September and board informed 18 September 1996. Actual commencement, contractual employer and transition into Centre project role need appointment record; no invented day boundary. December1996ministerial answer gives a negotiated salary package of66940, supporting paid employment. Salary amount does not establish hours or legal payroll entity.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "243273-04"
     },
@@ -102,7 +105,7 @@
       "role": "Chief executive officer",
       "start_date": null,
       "end_date": "2002",
-      "date_precision": "year",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "public_corporation",
@@ -114,9 +117,10 @@
         "src-3",
         "src-5",
         "src-6",
-        "src-11"
+        "src-11",
+        "src-12"
       ],
-      "evidence_note": "CEO documented by 1999 committee evidence; actual start unresolved. Auditor-General establishes statutory ministerial control. Official end year 2002 retained; reported 2001 intention not to renew contract is not departure date. No hours inferred from CEO title.",
+      "evidence_note": "CEO documented by 1999 committee evidence; actual start unresolved. Auditor-General establishes statutory ministerial control. Official end year 2002 retained; reported 2001 intention not to renew contract is not departure date. No hours inferred from CEO title. June1998Estimates answer already describes a National Wine Centre contract with two-year tenure. This establishes a contract by1998, but neither its first day nor CEO title throughout that term. Do not back-calculate endpoints or replace actual2002departure with contractual expiry.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "243273-05"
     },
@@ -148,7 +152,7 @@
       "role": "Continuing co-owner / director after Senate entry",
       "start_date": "2012",
       "end_date": null,
-      "date_precision": "year",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "private_enterprise",
@@ -188,7 +192,7 @@
       "role": "Vice-president",
       "start_date": "2011",
       "end_date": null,
-      "date_precision": "year",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "party_organisation",
@@ -207,7 +211,7 @@
       "role": "Senator for South Australia",
       "start_date": "2012-09-05",
       "end_date": null,
-      "date_precision": "day",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -333,6 +337,36 @@
       "note": "Confirms inaugural CEO and owner/operator career without full appointment details.",
       "retrieved": "2026-10-01",
       "source_id": "src-11"
+    },
+    {
+      "url": "https://hansardsearch.parliament.sa.gov.au/daily/ecaatq/1998-06-30/pdf/download",
+      "publisher": "Parliament of South Australia",
+      "title": "Estimates Committee A answers,30June1998",
+      "source_type": "government_record",
+      "locator": "Indexed answer beginning Ms Rustons contract with the National Wine Centre",
+      "note": "States contract tenure of two years. Direct PDF returned403Forbidden; indexed text does not identify commencement or full-time hours.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-12"
+    },
+    {
+      "url": "https://hansardsearch.parliament.sa.gov.au/daily/lh/1996-12-03/pdf/download",
+      "publisher": "Parliament of South Australia",
+      "title": "House of Assembly Hansard,3December1996",
+      "source_type": "government_record",
+      "locator": "Ministerial answer on appointment and salary package",
+      "note": "Indexed answer identifies salary package66940 negotiated by Lamb and Gleeson; establishes remuneration, not full-time hours.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-13"
+    },
+    {
+      "url": "https://www.emerald.com/ijwbr/article-pdf/10/1/47/1121067/eb008677.pdf",
+      "publisher": "International Journal of Wine Marketing / Emerald",
+      "title": "The First Australian Wine Tourism Conference,10(1),47–48,1998",
+      "source_type": "other",
+      "locator": "Indexed conference report identifies project director Anne Ruston",
+      "note": "Contemporary project-director title corroboration; direct open InternalError. Exact employment boundaries and contractual employer not established from extract.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-14"
     }
   ],
   "research_notes": [
@@ -342,6 +376,8 @@
     "Post-entry ownership retained separately; 2019 property sale does not extend the pre-entry owner/operator spell or prove salaried directorship. Avoid misattributing uncle David Ruston’s international rose-society presidency to Anne.",
     "Education (business degree) and any work before 1987 are not fully dated; no assumption of no prior employment. The 2002–2003 transition also needs clarification. National Wine Centre later university arrangements are not used to classify her earlier job.",
     "Recovered source errors: SA Hansard direct PDF 403 Forbidden, AustLII committee PDF Internal Error, Weekly Times No Cookies page. Legitimately public indexed extracts and alternative primary audit/business sources supplied evidence; no access controls bypassed.",
-    "Follow-up: pre-1987 work, Wine/Tourism Council legal employer and contract; project/CEO boundaries and full-time status; business active hours, drought interruption and parental/other leave; directorship/party-role term and remuneration. Last follow-up 2026-10-01; next Rebekha Sharkie."
+    "Follow-up: pre-1987 work, Wine/Tourism Council legal employer and contract; project/CEO boundaries and full-time status; business active hours, drought interruption and parental/other leave; directorship/party-role term and remuneration. Last follow-up 2026-10-01; next Rebekha Sharkie.",
+    "Follow-up2026-10-02:1996salary answer establishes remuneration and1998Estimates establishes a two-year National Wine Centre contract. Full contract, position description and renewal/separation papers remain necessary; contract tenure is not actual service duration or full-time evidence.",
+    "Contemporary1998wine-tourism conference report provides project-director corroboration. Direct Emerald InternalError and new1998Hansard403 were source-specific; indexed extracts used transparently. Targeted contract,appointment,project-director anddrought searches did not resolve earlier work, exact transition, business breaks or hours. No unsupported full-time totals. Next priority original1998contract/annual report and contemporaneous drought business interviews."
   ]
 }
