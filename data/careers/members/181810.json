@@ -6,12 +6,12 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/181810",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-01",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
     "calculation_status": "partial",
-    "note": "2UE press-gallery employment is explicitly full-time, with year-only 1985–1988 dates supporting a conservative 2–4 calendar-year envelope for that spell, not an exact scalar or complete private-career total. Other hours/breaks remain unknown; public and private scalar totals stay null."
+    "note": "2UE press-gallery work is explicitly full-time, now dated January1985 to year-only1988. Previously documented2–4calendar-year envelope remains a conservative outer bound, not an exact scalar or complete private-career total. Other hours/breaks remain unknown; headline totals stay null."
   },
   "career_spells": [
     {
@@ -56,9 +56,9 @@
       "spell_id": "181810-03",
       "employer": "2UE",
       "role": "Journalist, federal parliamentary press gallery",
-      "start_date": "1985",
+      "start_date": "1985-01",
       "end_date": "1988",
-      "date_precision": "year",
+      "date_precision": "mixed",
       "employment_status": "full_time",
       "fte_fraction": 1,
       "category": "private_enterprise",
@@ -70,8 +70,8 @@
         "src-2",
         "src-5"
       ],
-      "evidence_note": "First speech explicitly identifies this as first full-time job; official biography dates it 1985–1988. Commercial broadcaster is employer, not Parliament. Year-only boundaries retained.",
-      "counting_note": "Countable only as a year-precision range: a start anywhere in 1985 and end anywhere in 1988 imply a conservative duration envelope of 2–4 calendar years for the reported full-time spell. No January 1 dates assigned, no exact scalar published, no extension to overseas work. Unreported breaks remain a follow-up question."
+      "evidence_note": "First speech explicitly identifies this as first full-time job; official biography dates it 1985–1988. Commercial broadcaster is employer, not Parliament. Year-only boundaries retained. First-speech public index explicitly dates press-gallery arrival to January1985; start refined to month, end remains year-only1988.",
+      "counting_note": "Countable only as a year-precision range: a start anywhere in 1985 and end anywhere in 1988 imply a conservative duration envelope of 2–4 calendar years for the reported full-time spell. No January 1 dates assigned, no exact scalar published, no extension to overseas work. Unreported breaks remain a follow-up question. The January1985 refinement narrows the start uncertainty; existing conservative2–4year envelope remains an outer bound, not an exact total. Exact departure and any breaks still required."
     },
     {
       "spell_id": "181810-04",
@@ -128,9 +128,10 @@
       "counting_status": "insufficient_evidence",
       "source_ids": [
         "src-1",
-        "src-3"
+        "src-3",
+        "src-lbc1989"
       ],
-      "evidence_note": "Separate UK employer; do not conflate LBC with BBC. Historical controlling entity needs verification; overlapping year labels not summed.",
+      "evidence_note": "Separate UK employer; do not conflate LBC with BBC. Historical controlling entity needs verification; overlapping year labels not summed. Historical reporting identifies Crown Communications ownership in1989; primary historical control records still sought.",
       "counting_note": "Dates, employer control and/or substantive full-time status remain insufficient for a duration calculation; unknown is not zero."
     },
     {
@@ -274,10 +275,10 @@
       "url": "https://www.aph.gov.au/Senators_and_Members/Members/FirstSpeeches/45th_Parliament/Susan_Templeman",
       "publisher": "Parliament of Australia",
       "title": "First speech, 14 September 2016",
-      "retrieved": "2026-09-29",
+      "retrieved": "2026-10-02",
       "source_type": "official_biography",
-      "locator": "Opening paragraph and newsagency recollection, indexed text",
-      "note": "Explicitly first full-time job at 2UE press gallery. Direct fetch 403."
+      "locator": "Opening autobiographical paragraph, public search index: January1985 press-gallery arrival and first full-time job",
+      "note": "Explicitly first full-time job at 2UE press gallery. Direct fetch 403. Indexed January1985 detail rechecked2October2026; no day invented."
     },
     {
       "source_id": "src-3",
@@ -368,6 +369,16 @@
       "note": "Registry identifies Templeman Consulting Pty Limited from8April2004, previously Dealbeer Pty Limited; active ABN from22April2000. These are registration facts, not personal employment dates. No Media Skills legal-name entry on this ABN.",
       "retrieved": "2026-10-01",
       "source_id": "src-abr-history"
+    },
+    {
+      "url": "https://www.theguardian.com/media/organgrinder/2008/oct/08/radio",
+      "publisher": "The Guardian",
+      "title": "Happy35th birthday,LBC,8October2008",
+      "source_type": "reliable_secondary",
+      "locator": "Public indexed1989 ownership paragraph",
+      "note": "LBC’s1989 owner was Crown Communications.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-lbc1989"
     }
   ],
   "research_notes": [
@@ -376,6 +387,7 @@
     "Private scalar is null despite countable 2UE range: schema has no numeric min/max fields, so range is explicitly documented in existing notes without changing shared schema or inventing dates. 1985–1988 is not exactly three years. No summation of London jobs or post-return freelance work with Telecom/training. 2023 speech reports work through pregnancy and early parenthood, not hours or a precisely dated leave interval.",
     "Further leads: Sexual Health Australia board and school P&C presidencies need primary dates/role confirmation; not paid employment by assumption. Qualifications and Rotary exchange are study. Family work pay unknown, union membership not union employment. Last follow-up 2026-09-29; blocked record still needs systematic follow-up.",
     "2026-10-01 follow-up materially resolves Family Planning NSW resignation27November2012, overlooked in the previously cited2012–13 report. Earlier note that final date was unverified is superseded. No extra employment duration arises from governance dates.",
-    "Rechecked2023 paid-parental-leave Hansard, Rotary career biography, FPNSW2013 directors report/biography and ABR historical company record. The two later business names cannot safely be treated as one legal entity solely from a narrative career biography. Secondary2016 interests transcription separately lists spouse interests in Media Skills and Templeman Consulting, a lead for original declarations rather than personal employment evidence. Searches for Sexual Health Australia and P&C dates produced repeated unsourced biographies, not new primary confirmation. Overseas contracts, LBC historical ownership, Telecom hours/maternity transition, company-specific work boundaries and campaign leave remain unresolved. No new scalar years or inferred full-time status."
+    "Rechecked2023 paid-parental-leave Hansard, Rotary career biography, FPNSW2013 directors report/biography and ABR historical company record. The two later business names cannot safely be treated as one legal entity solely from a narrative career biography. Secondary2016 interests transcription separately lists spouse interests in Media Skills and Templeman Consulting, a lead for original declarations rather than personal employment evidence. Searches for Sexual Health Australia and P&C dates produced repeated unsourced biographies, not new primary confirmation. Overseas contracts, LBC historical ownership, Telecom hours/maternity transition, company-specific work boundaries and campaign leave remain unresolved. No new scalar years or inferred full-time status.",
+    "Second follow-up2October2026 materially refines2UE start to January1985 from first-speech public index. No end-month or leave evidence found. Historical LBC searches identify Crown Communications, but primary shareholding/control documentation remains outstanding; government_control_at_time not upgraded from secondary name alone. Trade-press March1991 report PDF returned403; IRDP history returned non-retryable safe-open error; Guardian open DisabledError; indexed ownership evidence only. Search hits for part-time work were constituents quoted in later speeches, not Templeman employment. Telecom hours, maternity transition, business intensity and school/sexual-health governance dates remain unresolved. Next seek original Crown annual reports1990–91 (library catalogue lead), personally dated2UE departure and Telecom contract/leave records. No totals added."
   ]
 }
