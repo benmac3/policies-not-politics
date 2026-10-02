@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/316540",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-01",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -17,10 +17,10 @@
     {
       "spell_id": "316540-uow-study",
       "employer": "University of Wollongong",
-      "role": "Economics and Finance student",
+      "role": "Bachelor of Economics and Finance student",
       "start_date": null,
-      "end_date": null,
-      "date_precision": "unknown",
+      "end_date": "2017-12",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "study",
@@ -30,9 +30,11 @@
       "source_ids": [
         "src-member",
         "src-alp",
-        "src-secondary"
+        "src-secondary",
+        "src-uow-roll-oct2",
+        "src-writs-name-oct2"
       ],
-      "evidence_note": "Member and Labor biographies state that Moncrieff studied Economics and Finance at the University of Wollongong. They do not publish degree title, enrolment or graduation dates, study load or work overlap.",
+      "evidence_note": "University2017 graduate roll records Bachelor of Economics and Finance conferred December2017 to Sidney David Moncrieff, matching the official Hughes name and member biography’s university/subjects. Enrolment date, actual coursework finish, load and employment overlap remain unknown; conferral month used as qualification completion marker.",
       "counting_note": "Study is excluded under the codebook."
     },
     {
@@ -290,6 +292,26 @@
       "note": "First-person evidence identifies APRA employment and concurrent union representation; no dates or hours.",
       "retrieved": "2026-10-01",
       "source_id": "src-first-speech"
+    },
+    {
+      "url": "https://documents.uow.edu.au/content/groups/public/@web/@getstarted/documents/doc/uow229526.pdf",
+      "publisher": "University of Wollongong",
+      "title": "Graduate Roll2017",
+      "source_type": "official_report",
+      "locator": "Page48 of82; Moncrieff, Sidney David row; conferral date column",
+      "note": "Matches official full name, university and subject. Conferral is a qualification marker, not proof of enrolment length or study load.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-uow-roll-oct2"
+    },
+    {
+      "url": "https://www.gg.gov.au/sites/default/files/2025-06/250612%20-%20Return%20of%20House%20Writs%20and%20Senate%20Writs%20for%20ACT%20and%20NT.pdf",
+      "publisher": "Australian Electoral Commission / Governor-General",
+      "title": "Return of House writs,12June2025",
+      "source_type": "government_record",
+      "locator": "Public indexed Hughes entry",
+      "note": "Official name Sidney David Moncrieff supports identity matching to university roll; full reader returned internal error.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-writs-name-oct2"
     }
   ],
   "research_notes": [
@@ -298,7 +320,8 @@
     "The NSW parliamentary adviser role is classified as political staff and excluded from the headline, even though it may have been paid full-time employment.",
     "No employment duration is calculated because every pre-parliament role lacks exact dates and hours.",
     "2026-10-01 follow-up resolves regulator identity from first-person speech and separates concurrent CPSU representation, 2023 referendum organising and LEAN activity.",
-    "Searched parliamentary profile, first speech, APRA/CPSU references, finance-employer and publicly indexed professional-profile leads under David and Sidney David Moncrieff. Current APH profile retrieval was restricted. Results for New Zealand ERP, British publishing/aviation and Saudi property professionals were not identity matches. No employment dates/hours or private employer established; future APRA and union historical records are targeted leads, not proof of current findings."
+    "Searched parliamentary profile, first speech, APRA/CPSU references, finance-employer and publicly indexed professional-profile leads under David and Sidney David Moncrieff. Current APH profile retrieval was restricted. Results for New Zealand ERP, British publishing/aviation and Saudi property professionals were not identity matches. No employment dates/hours or private employer established; future APRA and union historical records are targeted leads, not proof of current findings.",
+    "Second follow-up2October2026 resolves undergraduate degree and conferral month using original university roll. Full-name, APRA-domain and postgraduate searches did not identify private employers, APRA dates/hours or postgraduate institutions. Public professional-profile results for Canberra media specialist, Royal Australian Navy, overseas aviation/publishing/ERP and property professionals were not matched to this member and were not adopted. Next leads: later university conferral rolls under Sidney David, public regulator/union delegate records and original staff appointment records; do not repeat generic name-only searches. Totals unchanged and unresolved."
   ],
   "open_questions": [
     "Which private finance employers, roles and dates comprised Moncrieff's finance-industry work, and what were the hours, leave and employment basis?",
