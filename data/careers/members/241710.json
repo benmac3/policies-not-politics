@@ -6,7 +6,7 @@
   "snapshot_party": "Liberal Party of Australia",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/241710",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-01",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -179,10 +179,10 @@
     },
     {
       "employer": "Enhance Corporate Pty Ltd",
-      "role": "Lobbyist / corporate representative",
-      "start_date": null,
-      "end_date": null,
-      "date_precision": "unknown",
+      "role": "Chief executive, Western Australia; lobbyist/corporate representative",
+      "start_date": "2009-02",
+      "end_date": "2011",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "private_enterprise",
@@ -191,9 +191,11 @@
       "counting_status": "insufficient_evidence",
       "source_ids": [
         "src-8",
-        "src-9"
+        "src-9",
+        "src-10",
+        "src-11"
       ],
-      "evidence_note": "Primary contacts11September2009,19January2010 and January–July2011 corroborate role absent frozen extract. These are observations, not start/end dates. Pay/employment versus consultancy basis and continuity unresolved.",
+      "evidence_note": "Primary contacts11September2009,19January2010 and January–July2011 corroborate role absent frozen extract. These are observations, not start/end dates. Pay/employment versus consultancy basis and continuity unresolved. June 2009 reporting specifically dates WA chief-executive appointment to February 2009. Public professional profile gives Enhance 2009–2011, consistent with 2011 government contact records; end month/day unknown. Newer profile index has an incompletely contextualised 2009–2010 interval, retained as a follow-up discrepancy rather than silently shortening the role. Chief executive is not proof of full-time status.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "241710-09"
     },
@@ -213,9 +215,10 @@
         "src-1",
         "src-2",
         "src-7",
-        "src-8"
+        "src-8",
+        "src-11"
       ],
-      "evidence_note": "Official2011–12 retained; ABR partnership registration7July2011 and July–August2011 ministerial meeting records corroborate2011 activity. Secondary2010 founding claim unresolved. Business registration or GST cancellation not employment boundaries.",
+      "evidence_note": "Official2011–12 retained; ABR partnership registration7July2011 and July–August2011 ministerial meeting records corroborate2011 activity. Secondary2010 founding claim unresolved. Business registration or GST cancellation not employment boundaries. Older professional profile also starts Smith&Duda in 2011, supporting official chronology over the unverified 2010 claim.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "241710-10"
     },
@@ -262,7 +265,7 @@
       "role": "Senator for Western Australia",
       "start_date": "2012-05-02",
       "end_date": null,
-      "date_precision": "day",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -277,6 +280,64 @@
       "evidence_note": "Appointed to Senate vacancy; first federal service cutoff; office excluded.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "241710-13"
+    },
+    {
+      "employer": "National Archives of Australia Advisory Council",
+      "role": "Member",
+      "start_date": "2022-07",
+      "end_date": null,
+      "date_precision": "mixed",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "public_service",
+      "headline_sector": "excluded",
+      "government_control_at_time": "public",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-12"
+      ],
+      "evidence_note": "Institution dates advisory appointment July 2022; governance appointment, not evidence of salaried archival employment. End and remuneration unknown.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "241710-14"
+    },
+    {
+      "employer": "Australian National University, Australian Centre on China in the World",
+      "role": "Advisory board member; government representative",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "university",
+      "headline_sector": "excluded",
+      "government_control_at_time": "public",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-12",
+        "src-13"
+      ],
+      "evidence_note": "Institutional government biographies confirm board representation; August 2018 is a point observation, not an appointment boundary.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "241710-15"
+    },
+    {
+      "employer": "Australian Political Exchange Council",
+      "role": "Deputy chair",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "excluded",
+      "government_control_at_time": "public",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-13"
+      ],
+      "evidence_note": "Government speaker biography confirms representative governance role in August 2018. Dates and pay not supplied; no substantive full-time employment inferred.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "241710-16"
     }
   ],
   "sources": [
@@ -369,11 +430,64 @@
       "note": "Smith identified with Enhance; paid/unpaid wording means remuneration unresolved.",
       "retrieved": "2026-10-01",
       "source_id": "src-9"
+    },
+    {
+      "url": "https://www.businessnews.com.au/article/Lobbyists-change-amid-shifting-political-landscape",
+      "publisher": "Business News / Mark Pownall",
+      "title": "Lobbyists change amid shifting political landscape, 11 June 2009",
+      "source_type": "news",
+      "locator": "Publicly indexed paragraph beginning In February",
+      "note": "Identifies February 2009 appointment as Enhance Corporate chief executive in Western Australia. Direct page has subscription wall; only publicly indexed passage used.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-10"
+    },
+    {
+      "url": "https://au.linkedin.com/in/dean-smith-7355ab41",
+      "publisher": "Dean Smith / LinkedIn",
+      "title": "Owner, Smith&Duda Consulting professional profile",
+      "source_type": "professional_profile",
+      "locator": "Indexed Experience: Chief Executive, Enhance Corporate 2009–2011; owner Smith&Duda 2011",
+      "note": "Matches distinctive corporate and consultancy chronology. Direct open unavailable; public index gives years, no hours.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-11"
+    },
+    {
+      "url": "https://www.naa.gov.au/about-us/who-we-are/advisory-council/senator-hon-dean-smith",
+      "publisher": "National Archives of Australia",
+      "title": "Senator the Hon Dean Smith",
+      "source_type": "government_record",
+      "locator": "Final two paragraphs",
+      "note": "Archives advisory council appointment July 2022 and former ANU China in the World advisory-board service; governance not salaried public-service work.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-12"
+    },
+    {
+      "url": "https://www.anao.gov.au/work/events-and-seminars/21st-pasai-congress-28-to-30-august-2018",
+      "publisher": "Australian National Audit Office",
+      "title": "21st PASAI Congress, 28–30 August 2018",
+      "source_type": "government_record",
+      "locator": "Senator Dean Smith speaker biography",
+      "note": "Contemporaneous government account identifies Political Exchange Council deputy chair and ANU advisory-board government representative.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-13"
+    },
+    {
+      "url": "https://au.linkedin.com/in/dean-smith-7733047a",
+      "publisher": "Dean Smith / LinkedIn",
+      "title": "Senator Dean Smith professional profile",
+      "source_type": "professional_profile",
+      "locator": "Indexed experience excerpt 2009–2010",
+      "note": "A newer profile index shows a 2009–2010 interval without sufficient visible surrounding title context. Direct open returned (429) Too Many Requests; not retried, and interval not substituted for supported Enhance chronology.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-14"
     }
   ],
   "research_notes": [
     "Initial review2026-10-01: APH, first speech, own biography, Asialink alumnus profile, IAG/Optus searches, parliamentary hearing and lobbyist records, historical Singtel annual report and ABR searched. No full-time evidence recovered; staff vacancy adverts refer to his employees, not him.",
     "Follow-up: pre1996 career gap,2009–11 Enhance employment/consultancy dates and pay, employer historical reports or public CV proving personal hours,1998 secondment/leave, precise consultation cessation and business transition to FDRW. Do not extend2012 work until2024 ABN cancellation.",
-    "Optus ownership classification explicitly based on foreign state indirect majority ownership; preserve for integration review rather than silently equating listed status with private control. No totals possible without hours and continuity."
+    "Optus ownership classification explicitly based on foreign state indirect majority ownership; preserve for integration review rather than silently equating listed status with private control. No totals possible without hours and continuity.",
+    "Follow-up 2026-10-02: contemporary reporting and public professional profile resolve Enhance chief-executive title and February 2009 commencement, with 2011 end year supported by older profile and governmental contact observations. No exact end or hours established.",
+    "Pre-1996 and IAG/Optus individual working-time searches did not resolve remaining gaps. Asialink old URL 404, WA tabled-paper PDF 403, current LinkedIn profile 429 Too Many Requests (not retried); other public evidence allowed work to continue. Unrelated football coach full-time appointment explicitly discarded.",
+    "Added Archives, ANU and Political Exchange Council governance separately. These appointments during Senate service do not extend pre-entry employment totals. Next leads: original Enhance appointment/release or accessible historical CV; reconciliation of newer profile excerpt, consultancy transition, all full-time/leave evidence and historical Optus control throughout tenure."
   ]
 }
