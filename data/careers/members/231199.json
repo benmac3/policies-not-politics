@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/231199",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-01",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -165,8 +165,8 @@
       "employer": "Australian Manufacturing Workers Union, Tasmania",
       "role": "State secretary",
       "start_date": "2004",
-      "end_date": "2010",
-      "date_precision": "year",
+      "end_date": "2010-08-18",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "union",
@@ -178,9 +178,11 @@
         "src-2",
         "src-3",
         "src-9",
-        "src-10"
+        "src-10",
+        "src-16",
+        "src-17"
       ],
-      "evidence_note": "Frozen end year retained provisionally. First speech says held until May 2011; TasBuild 2010 report describes successor John Short relocating in July 2010. Resolve substantive tenure versus leave/transition. National Council carried employee benefits; branch title alone does not identify payroll unit.",
+      "evidence_note": "Contemporary Tasmanian2010financial return explicitly records resignation18August2010and Short commencing that day, refining frozen2010endpoint.2011annual return also names Short secretary at1January2011. Preferred over retrospective first-speech May2011claim, retained as discrepancy. Whether subsequent union employment/leave explains difference remains unresolved; state-secretary tenure is not all union employment.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "231199-08"
     },
@@ -229,7 +231,7 @@
       "role": "Trustee director",
       "start_date": null,
       "end_date": "2005",
-      "date_precision": "year",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "unknown",
@@ -269,7 +271,7 @@
       "role": "Director, AMWU representative",
       "start_date": null,
       "end_date": "2010-07-17",
-      "date_precision": "day",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "unknown",
@@ -277,9 +279,10 @@
       "government_control_at_time": "private",
       "counting_status": "excluded",
       "source_ids": [
-        "src-9"
+        "src-9",
+        "src-15"
       ],
-      "evidence_note": "Annual report lists board participation in 2009–10 and exact resignation. Employer/union nominated board following 1998 privatisation; governance, not staff employment. Commencement and personal fees unknown.",
+      "evidence_note": "Annual report lists board participation in 2009–10 and exact resignation. Employer/union nominated board following 1998 privatisation; governance, not staff employment. Commencement and personal fees unknown. January2011CEO testimony corroborates Short succession and describes board fees paid to nominating bodies. This later general arrangement does not establish her individual receipts during earlier tenure.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "231199-13"
     },
@@ -328,7 +331,7 @@
       "role": "Vice-president",
       "start_date": "2004",
       "end_date": null,
-      "date_precision": "year",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "party_organisation",
@@ -348,7 +351,7 @@
       "role": "State president",
       "start_date": "2014",
       "end_date": null,
-      "date_precision": "year",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "party_organisation",
@@ -445,7 +448,7 @@
       "role": "Member for Braddon",
       "start_date": "2025-05-03",
       "end_date": null,
-      "date_precision": "day",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -459,6 +462,25 @@
       "evidence_note": "House election date; no ordinary employment duration inferred.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "231199-22"
+    },
+    {
+      "employer": "Australian Manufacturing Workers Union, Food and Confectionery Division",
+      "role": "Divisional Conference Executive Member",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "union",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-17"
+      ],
+      "evidence_note": "Annual return lists her at1January2011as executive member and union official after state-secretary resignation. Appointment/end, remuneration and substantive hours unknown; point-in-time observation is not a full-year spell.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "231199-23"
     }
   ],
   "sources": [
@@ -601,6 +623,36 @@
       "note": "Confirms 1990 organiser and 2004 secretary starts; archived candidate text may predate capture.",
       "retrieved": "2026-10-01",
       "source_id": "src-14"
+    },
+    {
+      "url": "https://www.parliament.tas.gov.au/__data/assets/pdf_file/0021/54615/2520january201120-20hobart.pdf",
+      "publisher": "Parliament of Tasmania",
+      "title": "Housing, building and construction select committee evidence25January2011",
+      "source_type": "government_record",
+      "locator": "Printedp76; TasBuild CEO ChrisAtkins evidence",
+      "note": "Confirms Short replaced Urquhart on TasBuild board; sitting fees paid to nominating organisation rather than directly to individual. Current2011arrangement does not prove her earlier individual remuneration.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-15"
+    },
+    {
+      "url": "https://regorgs.fwc.gov.au/sites/default/files/migration/318/188vtas-fr2010-2806.pdf",
+      "publisher": "AMWU Tasmanian Branch / Fair Work Australia",
+      "title": "Financial report year ended30September2010",
+      "source_type": "employer",
+      "locator": "Operating Report printedp3 / PDFp9; indexed table and certificationPDFp4",
+      "note": "Indexed table explicitly assigns resignation18August2010to Urquhart and commencement same day to Short. Extracted scanned-page text has poor column order; indexed table and Short certification used. Contemporary return preferred over retrospective May2011speech claim.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-16"
+    },
+    {
+      "url": "https://regorgs.fwc.gov.au/sites/default/files/migration/318/188v-ar2011-2502.pdf",
+      "publisher": "AMWU / Fair Work Australia",
+      "title": "Annual return2011",
+      "source_type": "employer",
+      "locator": "PDFp52 Food&Confectionery Divisional Conferences at1January2011; PDFp119 and122 Tasmanian State Secretary",
+      "note": "Names Urquhart as Divisional Conference Executive Member, occupation union official; names Short as Tasmanian State Secretary. Observation date is not appointment/start date; no hours or salary supplied.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-17"
     }
   ],
   "research_notes": [
@@ -609,6 +661,9 @@
     "Union secretary end conflict is material: frozen 2010 and successor biography versus first-person May 2011. Preserve both leads. Wikipedia full-time organiser label was not located in the cited speech; do not import it as established evidence.",
     "No public/private point total or zero justified. Earlier retail, aged-care and hospitality employers/control/hours remain unknown. Excluded governance/union/party terms can overlap factory work and each other without adding headline years.",
     "Follow up primary historical biography for full-time wording, payroll/award evidence for actual factory status and breaks, pre-factory employer names, all governance appointment/pay dates, union amalgamation and exact secretary transition. Archived TasBuild 2005 report had no searchable Urquhart match; 2010 report resolved board exit.",
-    "Primary APH direct URL was restricted, but official indexed biography and accessible parliamentary speeches were retrieved. Annual-report aggregate FTEs and company-wide wages are not individual hours. No outreach or private-profile access used."
+    "Primary APH direct URL was restricted, but official indexed biography and accessible parliamentary speeches were retrieved. Annual-report aggregate FTEs and company-wide wages are not individual hours. No outreach or private-profile access used.",
+    "Follow-up2026-10-02: contemporary2010union return resolves state-secretary resignation to18August2010, independently consistent with2011return naming Short secretary. First-speech May2011statement retained; may refer to broader employment but no such explanation assumed. Added separately documented divisional executive role observed1January2011without invented term boundaries.",
+    "TasBuild CEO parliamentary evidenceJanuary2011describes sitting-fee routing to nominating organisations; does not prove Urquhart personal remuneration before July2010exit. Foundation primary news page returned InternalError; archived personal biography request inaccessible. Full-time factory wording remains only an unverified directory copy; no new hours or factory-start reconciliation.",
+    "Further follow-up should distinguish secretary office from any continuing paid union employment/leave, corroborate factory hours and1979/July1980conflict, and identify earlier retail/aged-care/hospitality employers. Governance records strengthen exclusions but do not make employment totals calculable."
   ]
 }
