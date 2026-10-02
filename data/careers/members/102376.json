@@ -6,12 +6,12 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/102376",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-01",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
     "calculation_status": "not_calculable",
-    "note": "Employer names for private law practice, substantive full-time status, exact transitions and UWA/USAsia overlap are unresolved. University sector treatment remains open; political and nonprofit work is separately recorded. Both totals unknown."
+    "note": "Added five volunteer governance/advisory roles with self-reported month-level dates and government corroboration of local roles. Private legal employers, hours, university control and UWA/USAsia overlap remain unresolved; totals unknown."
   },
   "career_spells": [
     {
@@ -185,7 +185,7 @@
       "role": "Volunteer board member",
       "start_date": "2015-03",
       "end_date": null,
-      "date_precision": "month",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "unpaid_work",
@@ -224,7 +224,7 @@
       "role": "Member for Brand",
       "start_date": "2016-07-02",
       "end_date": null,
-      "date_precision": "day",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -237,6 +237,103 @@
       "evidence_note": "Frozen service boundary.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "102376-11"
+    },
+    {
+      "employer": "University of Western Australia Hockey Club",
+      "role": "Volunteer board member",
+      "start_date": "2009-09",
+      "end_date": "2013-09",
+      "date_precision": "month",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unpaid_work",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-6"
+      ],
+      "evidence_note": "Self-reported volunteer board dates; no paid club employment inferred.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "102376-12"
+    },
+    {
+      "employer": "University of Western Australia Sports and Recreation Association",
+      "role": "Volunteer board member",
+      "start_date": "2010-02",
+      "end_date": "2012-07",
+      "date_precision": "month",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unpaid_work",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-6"
+      ],
+      "evidence_note": "Public profile Volunteer Experience gives dates; association governance distinct from university employee position.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "102376-13"
+    },
+    {
+      "employer": "City of Rockingham, Community Consultation Committee",
+      "role": "Volunteer committee member",
+      "start_date": "2005-02",
+      "end_date": "2007-03",
+      "date_precision": "month",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unpaid_work",
+      "headline_sector": "excluded",
+      "government_control_at_time": "public",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-2",
+        "src-6"
+      ],
+      "evidence_note": "Official biography corroborates 2005–2007; public professional profile supplies months and labels volunteer experience. Advisory membership, not elected councillor or public-service employment.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "102376-14"
+    },
+    {
+      "employer": "WA Department of Planning and Infrastructure, Point/Cape Peron Marina Stakeholder Reference Group",
+      "role": "Volunteer reference-group member",
+      "start_date": "2005-04",
+      "end_date": "2006-07",
+      "date_precision": "month",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unpaid_work",
+      "headline_sector": "excluded",
+      "government_control_at_time": "public",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-2",
+        "src-6"
+      ],
+      "evidence_note": "Official biography gives Cape Peron name and years; self-reported public profile calls project Point Peron and supplies months. No paid government employment inferred.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "102376-15"
+    },
+    {
+      "employer": "University of Western Australia Senate",
+      "role": "Volunteer member of Senate",
+      "start_date": "1996-01",
+      "end_date": "1998-12",
+      "date_precision": "month",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unpaid_work",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-6"
+      ],
+      "evidence_note": "Self-reported Volunteer Experience gives dates. University governance role distinct from later university employment; appointment mechanism and remuneration independently unverified.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "102376-16"
     }
   ],
   "sources": [
@@ -255,9 +352,9 @@
       "publisher": "Australian Government",
       "title": "The Hon Madeleine King MP biography",
       "source_type": "official_biography",
-      "locator": "Qualifications and occupation before entering Federal Parliament",
-      "note": "Official year-level sequence corroborates frozen roster.",
-      "retrieved": "2026-10-01",
+      "locator": "Qualifications and occupation; Local Government service, lines 64–77",
+      "note": "Official year-level sequence corroborates frozen roster. Re-read local community consultation 2005–07 and marina reference group 2005–06; these are advisory memberships, not elected office.",
+      "retrieved": "2026-10-02",
       "source_id": "src-2"
     },
     {
@@ -295,9 +392,9 @@
       "publisher": "Madeleine King / LinkedIn",
       "title": "Madeleine King — Australian Parliament",
       "source_type": "professional_profile",
-      "locator": "Indexed Education and Volunteer Experience",
-      "note": "UWA1992–96, voluntary SRHWA board March2008–April2014 and Fremantle Press fromMarch2015. Direct open999; only public indexed facts used, present label not verified.",
-      "retrieved": "2026-10-01",
+      "locator": "Public indexed Volunteer Experience: hockey club, UWA Sports, local consultation groups and UWA Senate",
+      "note": "UWA1992–96, voluntary SRHWA board March2008–April2014 and Fremantle Press fromMarch2015. Direct open999; only public indexed facts used, present label not verified. Additional volunteer entries give month-level dates; self-reported and not proof of remunerated employment. Stale Present label is not accepted as current Fremantle Press tenure.",
+      "retrieved": "2026-10-02",
       "source_id": "src-6"
     },
     {
@@ -335,6 +432,9 @@
     "2026-10-01 avenues: frozen/official minister biography, official first speech, MP site, UWA archive and2016 annual report, Perth USAsia employer biography/about page, public professional profile, legal employer/full-time searches. USAsia2017-named annual-report PDF returned403; LinkedIn direct open999; indexed public facts retained. No hours evidence found. Namesake AGS/US/UK lawyers and health academic excluded.",
     "Priority: identify each private legal employer in Australia/England1997–2005 using archived professional CV or 2016 candidate materials (NLA archived campaign lead nla.arc-158282). Resolve admission1997 profile versus official1998 qualification discrepancy without changing employment start.",
     "Obtain UWA appointment/leave/secondment dates and institutional-control evidence. Resolve2012–13 UWA/USAsia overlap and2016 campaign cessation. UWA2016 report establishes only significant influence over Centre, not government control; nonprofit status means no automatic private headline. All substantive hours, breaks and early paid work remain unverified.",
-    "Reconcile public-profile volunteer board dates with SRHWA/Fremantle Press annual reports and actual cessation; present label not accepted as proof of current tenure. Further study/early-work sequence requires primary confirmation."
+    "Reconcile public-profile volunteer board dates with SRHWA/Fremantle Press annual reports and actual cessation; present label not accepted as proof of current tenure. Further study/early-work sequence requires primary confirmation.",
+    "Follow-up 2026-10-02: reopened minister biography and publicly indexed professional profile; added previously omitted UWA Senate, hockey and sports boards, Rockingham consultation and marina reference memberships. Volunteer roles remain excluded; no full-time assumption.",
+    "Searches for private firms under King/Morris, full-time work, Centre resignation and Fremantle Press board cessation produced no attributable employer names or employment hours. Several UK/US lawyers, investment analysts, health academics and journalists are namesakes and are not assigned. ABC 2016/2022 election biography describes ten years of commercial law in Perth/Europe, but does not resolve individual employers or distinguish UWA legal work; no ten-year private total inferred.",
+    "APH first-speech direct open returned (403) Forbidden; not a terminal job error. Existing first-speech evidence retained. Next avenues: archived 2016 campaign CV (nla.arc-158282), original UWA appointment/secondment files and Fremantle Press historical board reports. No cessation inferred from donor lists or a current absence."
   ]
 }
