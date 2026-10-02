@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Greens",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/25813",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-01",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -34,7 +34,7 @@
       "spell_id": "25813-01"
     },
     {
-      "employer": "Internet companies, names and legal entities unresolved",
+      "employer": "Internet companies, including Webology Australia (other names and legal entities unresolved)",
       "role": "Business operator",
       "start_date": "1998",
       "end_date": "2001",
@@ -47,9 +47,10 @@
       "counting_status": "insufficient_evidence",
       "source_ids": [
         "src-2",
-        "src-12"
+        "src-12",
+        "src-6"
       ],
-      "evidence_note": "Own professional account says ran internet companies. Exact ownership/control, employee versus owner status, overlap with law study and hours unverified.",
+      "evidence_note": "Own professional account says ran internet companies. Exact ownership/control, employee versus owner status, overlap with law study and hours unverified. Public professional profile independently identifies Webology Australia1999–2001 in Sydney within the broader1998–2001envelope. Legal entity, other company and precise operating capacity remain unknown; do not substitute similarly named Dubai or US businesses.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "25813-02"
     },
@@ -76,9 +77,9 @@
     {
       "employer": "Coadys Barristers & Solicitors, Melbourne",
       "role": "Associate, conservation law and commercial litigation",
-      "start_date": null,
-      "end_date": null,
-      "date_precision": "unknown",
+      "start_date": "2005",
+      "end_date": "2007",
+      "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "private_enterprise",
@@ -89,7 +90,7 @@
         "src-7",
         "src-6"
       ],
-      "evidence_note": "Own article author biography identifies role in May/June2007. Whole tenure not exposed in primary sources retrieved;2005–2007 appears in aggregator leads only and is not asserted here. Not Coadys recruitment agency.",
+      "evidence_note": "Own article author biography identifies role in May/June2007. Whole tenure not exposed in primary sources retrieved;2005–2007 appears in aggregator leads only and is not asserted here. Not Coadys recruitment agency. Follow-up public professional index now independently exposes Commercial Lawyer,Coadys Barristers & Solicitors,2005–2007. Earlier aggregator-only limitation on years is superseded; months and substantive hours remain unknown.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "25813-04"
     },
@@ -143,7 +144,7 @@
       "role": "Committee member",
       "start_date": "2021",
       "end_date": null,
-      "date_precision": "year",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "nonprofit",
@@ -204,7 +205,7 @@
       "role": "Tribunals Panel appointee",
       "start_date": "2018",
       "end_date": null,
-      "date_precision": "year",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "unknown",
@@ -224,7 +225,7 @@
       "role": "Greens Beach Advisory Committee member",
       "start_date": "2015",
       "end_date": null,
-      "date_precision": "year",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "unknown",
@@ -244,7 +245,7 @@
       "role": "Northern Area Advisory Group chair",
       "start_date": "2018",
       "end_date": null,
-      "date_precision": "year",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "unknown",
@@ -264,7 +265,7 @@
       "role": "Board member",
       "start_date": "2017-09",
       "end_date": null,
-      "date_precision": "month",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "nonprofit",
@@ -286,7 +287,7 @@
       "role": "Board member",
       "start_date": "2022",
       "end_date": null,
-      "date_precision": "year",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "nonprofit",
@@ -306,7 +307,7 @@
       "role": "Director / board member",
       "start_date": "2023",
       "end_date": null,
-      "date_precision": "year",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "unknown",
@@ -365,7 +366,7 @@
       "role": "Senator for Tasmania",
       "start_date": "2026-08-20",
       "end_date": null,
-      "date_precision": "day",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -379,6 +380,25 @@
       "evidence_note": "Frozen first-service date retained; party preselection and law retirement are different events.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "25813-18"
+    },
+    {
+      "employer": "Hillwood Area Resident & Ratepayers’ Association",
+      "role": "Board member",
+      "start_date": "2010",
+      "end_date": "2013",
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-6"
+      ],
+      "evidence_note": "Public professional profile now independently identifies board role and years. Prior aggregator lead corroborated; legal nonprofit status and remuneration unresolved. Governance is not assumed executive employment.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "25813-19"
     }
   ],
   "sources": [
@@ -438,8 +458,8 @@
       "title": "Public professional profile",
       "source_type": "professional_profile",
       "locator": "indexed Experience, Education and Organizations",
-      "note": "Wilmoth Field Warne2003–2005 and Community Care September2017 start visible in indexed material. Unexposed dates not filled from aggregators.",
-      "retrieved": "2026-10-01",
+      "note": "Wilmoth Field Warne2003–2005 and Community Care September2017 start visible in indexed material. Unexposed dates not filled from aggregators. Targeted public index now independently exposes Coadys Commercial Lawyer2005–2007, Webology Australia1999–2001Sydney, and Hillwood Area Resident & Ratepayers Association2010–2013. Direct profile fetch999; only visible indexed fields used.",
+      "retrieved": "2026-10-02",
       "source_id": "src-6"
     },
     {
@@ -519,6 +539,8 @@
     "No substantive full-time evidence found for private firms or internet businesses. Multiple simultaneous board/advisory/spokesperson/study commitments recorded without assuming they reduced hours by a specific fraction. Principal/director titles and continuous business existence do not prove full-time employment. Government and nonprofit legal clients are clients, not employers.",
     "Public professional searches and employer profiles attempted for earlier firms, business names and hours. Unsolicited contact-aggregator results suggested WebologyAustralia1999–2001, Coadys2005–2007 and Hillwood residents association2010–2013, but those claims remain leads pending independent primary confirmation; no aggregator contact data gathered. Own biography supports broader internet-company period1998–2001. Earlier jobs and1993–1996/2001–2003 chronology remain open.",
     "Primary ARBV reports resolve Consumer Affairs board identity and2012end; do not mistakenly attribute adjacent table government-architect role to Bleyer. Community Care primary newsletter supports voluntary board role; payment for other appointments remains unknown. Migration-agent registration2017 is a credential within law practice, not a separate employment interval.",
-    "Follow-up: school-job employers and dates; all internet company identities/control/hours; early law articles/traineeship and precise firms’ dates/status/leave; remuneration and exit for external roles; Hillwood lead; retirement page correction. Last review2026-10-01. Next initial record Carol Brown."
+    "Follow-up: school-job employers and dates; all internet company identities/control/hours; early law articles/traineeship and precise firms’ dates/status/leave; remuneration and exit for external roles; Hillwood lead; retirement page correction. Last review2026-10-01. Next initial record Carol Brown.",
+    "Follow-up2026-10-02: targeted primary professional-profile indexing independently resolves Coadys2005–2007, Webology Australia1999–2001 within broader internet-company period, and Hillwood association board2010–2013. No contact aggregator used as final evidence. Unknown hours/control/legal payroll and overlaps preserved; private totals remain null.",
+    "Contemporary2005professional article located through Lawyers for Forests; image-only copy did not supply usable additional employment text, AustLII direct reader Internal Error. LinkedIn direct fetch999; accessible public index used.2024Community Care financial-report lead inaccessible through web tool;2025Landcare AGM lists board participation but no exit. These are source gaps, not terminal errors. Next seek early traineeship/school jobs, other internet employer, contracts/hours and external-role exits."
   ]
 }
