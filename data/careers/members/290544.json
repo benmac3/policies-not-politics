@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/290544",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-01",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -217,8 +217,8 @@
       "spell_id": "290544-10"
     },
     {
-      "employer": "Monash University; medtech entity not named",
-      "role": "Co-director of medtech entity",
+      "employer": "Monash University, Monash Institute of Medical Engineering",
+      "role": "Associate director / reported co-director",
       "start_date": null,
       "end_date": null,
       "date_precision": "unknown",
@@ -229,9 +229,11 @@
       "government_control_at_time": "unknown",
       "counting_status": "insufficient_evidence",
       "source_ids": [
-        "src-sbs-interview"
+        "src-sbs-interview",
+        "src-mime2021",
+        "src-senate2025"
       ],
-      "evidence_note": "Reported in June2022 interview article following fellowship/associate-professor discussion. Entity name, boundaries, salary and whether appointment formed part of other Monash duties unknown. Do not guess a specific institute or add concurrent years.",
+      "evidence_note": "Reported in June2022 interview article following fellowship/associate-professor discussion. Entity name, boundaries, salary and whether appointment formed part of other Monash duties unknown. Do not guess a specific institute or add concurrent years. February2021 institutional event biography resolves institute as Monash Institute of Medical Engineering and title as associate director.2025 first-person speech describes resigning this job following pressure surrounding2021 Q+A. Exact start/end, title variants and paid fraction remain unresolved; no duplication of associate-professor tenure.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "290544-11"
     },
@@ -254,6 +256,26 @@
       "evidence_note": "Pandemic-era advocacy group co-founded with Benjamin Veness. Exact establishment date, legal form, salary and hours not established. Retained separately from clinical employment; no paid full-time inference.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "290544-12"
+    },
+    {
+      "employer": "fungalAi; legal entity and relationship to university research unresolved",
+      "role": "Founder, AI platform for fungal-infection surveillance",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "unknown",
+      "government_control_at_time": "unknown",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-4",
+        "src-senate2025"
+      ],
+      "evidence_note": "Professional biography names platform and founder; Senate speech independently describes founding an AI startup. No legal entity, ownership, paid employment, hours or personal boundaries verified. Could overlap fellowship/research; not additive employment.",
+      "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
+      "spell_id": "290544-13"
     }
   ],
   "sources": [
@@ -292,10 +314,10 @@
       "url": "https://www.healthed.com.au/meet-our-experts/dr-michelle-ananda-rajah/",
       "publisher": "Healthed",
       "title": "Dr Michelle Ananda-Rajah",
-      "retrieved": "2026-09-12",
+      "retrieved": "2026-10-02",
       "source_type": "other",
-      "locator": "Career/biography or relevant appointment section",
-      "note": "2019 MRFF TRIP fellowship and JAMA Network Open reviewer appointment."
+      "locator": "Biography, lines45–49",
+      "note": "2019 MRFF TRIP fellowship and JAMA Network Open reviewer appointment. Explicitly identifies founder of fungalAi; platform identity does not establish separate incorporated employer or salary."
     },
     {
       "source_id": "src-5",
@@ -366,6 +388,26 @@
       "note": "First-person confirmation of co-founding Health Care Workers Australia and broad 25-year public-hospital experience. Aggregate experience statement does not identify all employers or paid full-time intervals.",
       "retrieved": "2026-10-01",
       "source_id": "src-first-speech"
+    },
+    {
+      "url": "https://mspgh.unimelb.edu.au/centres-institutes/centre-for-epidemiology-and-biostatistics/archived-news/covid-19-qa-on-vaccines-what-do-you-want-to-know",
+      "publisher": "University of Melbourne",
+      "title": "COVID-19 Q+A on Vaccines,17February2021",
+      "source_type": "professional_profile",
+      "locator": "Panellists, first paragraph",
+      "note": "Names associate-director role at Monash Institute of Medical Engineering; contemporaneous institutional identification, no employment hours.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-mime2021"
+    },
+    {
+      "url": "https://www.openaustralia.org.au/senate/?id=2025-07-28.183.2",
+      "publisher": "OpenAustralia reproducing Senate Hansard",
+      "title": "First Senate speech,28July2025",
+      "source_type": "government_record",
+      "locator": "Autobiographical research/startup and2021 Q+A passages, lines63–72",
+      "note": "Describes AI-startup founding and quitting medtech directorship after pressure around2021 Q+A; exact resignation date absent. On-call work and research overlap do not establish FTE.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-senate2025"
     }
   ],
   "research_notes": [
@@ -373,6 +415,7 @@
     "Concurrent clinical, fellowship, academic and editorial roles must not be added as separate full-time years. Clinical end August 2022 overlaps elected service and is retained as published, not truncated to election day.",
     "University and journal affiliations do not establish employer control or salaried appointment. Obtain contracts/CV with hours and leave for calculation.",
     "2026-10-01 follow-up: added Austin Health registrar observation in2004 with historical public-control evidence; identified Monash Partners fellowship connection, undated adjunct affiliation, reported unnamed medtech co-directorship, and healthcare-worker advocacy co-founding. No additional employment years calculated: appointment dates, FT fractions and overlap allocation remain unverified.",
-    "Avenues: 2004 MJA author roles; Austin2009–10 annual report; Monash2019 institutional research news and infectious-diseases directory; MASSIVE2019–20 report; SBS interview and first-speech reproduction; MRFF grant-recipient searches and fellowship biographies. Health.gov grant-recipient2025 PDF returned404; older indexed grant table could not safely map salary/employment or precise personal appointment dates. Direct Monash staff page timed out but official indexed role is preserved with limitation. Education-only affiliations and coauthors’ hospitals not attributed as jobs. Follow-up: pre2009 rotations/employers and Austin interval; Alfred continuous tenure/hours/leave; paid status and relationship of Monash roles, medtech entity name, fellowship allocation; editorial remuneration and endpoints."
+    "Avenues: 2004 MJA author roles; Austin2009–10 annual report; Monash2019 institutional research news and infectious-diseases directory; MASSIVE2019–20 report; SBS interview and first-speech reproduction; MRFF grant-recipient searches and fellowship biographies. Health.gov grant-recipient2025 PDF returned404; older indexed grant table could not safely map salary/employment or precise personal appointment dates. Direct Monash staff page timed out but official indexed role is preserved with limitation. Education-only affiliations and coauthors’ hospitals not attributed as jobs. Follow-up: pre2009 rotations/employers and Austin interval; Alfred continuous tenure/hours/leave; paid status and relationship of Monash roles, medtech entity name, fellowship allocation; editorial remuneration and endpoints.",
+    "Second follow-up2October2026: resolved medtech institute name through February2021 University of Melbourne panel biography, preserving associate-director versus co-director title discrepancy.2025 Senate first speech describes resignation after2021 Q+A pressure but gives no exact date. Added named fungalAi founder activity from Healthed professional biography and startup account; no separate commercial salary/control assumed. Full-time searches yielded no personally bounded FTE evidence; paper snippets combining Royal Darwin registrar with her name belong to different author entries, not confirmed employment. Next seek institute appointment/resignation records, fungalAi legal/commercialisation documents and actual salary relationship, earlier clinical rotations and funded research/clinical fractions. No total calculated."
   ]
 }
