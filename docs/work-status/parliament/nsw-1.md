@@ -235,3 +235,12 @@ Batch check passes: 226 assigned exactly once across 13 batches; nsw-1 assignmen
 - Current attempt/cycle/Brisbane-day deduplicated totals:0 new,200 materially enriched distinct members,0 newly complete. Repeat enrichment of an already counted person is not another distinct member. National226initial,226unresolved,0complete; all branch heads rechecked after preceding pass, no competing writer observed.
 - Next:299145 BYRNES, Alison. OUTCOME:ongoing. STOPPING REASON:none. Successor not requested. Scheduler terminal status unavailable.
 - Validation:226/13 assignment check, selected batch, individual JSON/source/date checks and build_careers.load_records. Counts conditional on exact remote commit/file verification.
+
+## Further follow-up — 2026-10-02T18:44:17+10:00
+
+- Same originating cycle2026-10-02 08:00, continuation0; start07:56:50+10:00; ongoing, end not observed. All226 members received a follow-up in the preceding pass,200 materially enriched,26 no substantive addition. This pass proceeds in plan order using recorded gaps and new leads.
+- Current member:300134. Targeted Knights/Prodigy and early-employer follow-up yielded no new supported boundary, hours or payroll entity.
+- Current attempt/cycle/Brisbane-day deduplicated totals:0 new,200 materially enriched distinct members,0 newly complete. Repeat enrichment of an already counted person is not another distinct member. National226initial,226unresolved,0complete; all branch heads rechecked after preceding pass, no competing writer observed.
+- Next:316312 CHAFFEY, Jamie. OUTCOME:ongoing. STOPPING REASON:none. Successor not requested. Scheduler terminal status unavailable.
+- Validation:226/13 assignment check, selected batch, individual JSON/source/date checks and build_careers.load_records. Counts conditional on exact remote commit/file verification.
+- Byrnes299145 deferred: earlier graduation/gap/outlet searches explicitly exhausted with no new source lead; full-time study/adviser subperiod remains unlocated.
