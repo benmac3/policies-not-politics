@@ -6,7 +6,7 @@
   "snapshot_party": "Liberal Party of Australia",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/287062",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-01",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -71,9 +71,10 @@
       "source_ids": [
         "src-1",
         "src-2",
-        "src-9"
+        "src-9",
+        "src-11"
       ],
-      "evidence_note": "Official aggregate interval retained pending employer-by-employer reconstruction. IOOF/Australian Wealth Management report is an identity lead, not proof that this senator held that job or that its employer covered the entire interval. No full-time inference.",
+      "evidence_note": "Official aggregate interval retained pending employer-by-employer reconstruction. IOOF/Australian Wealth Management report is an identity lead, not proof that this senator held that job or that its employer covered the entire interval. No full-time inference. AWM2008report names AL McLachlan, providing a matching middle initial but no independent senator biography link. Employment agreement does not specify full-time hours.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "287062-03"
     },
@@ -134,9 +135,10 @@
       "source_ids": [
         "src-2",
         "src-8",
-        "src-10"
+        "src-10",
+        "src-12"
       ],
-      "evidence_note": "Official Reserve interval. Afghanistan service corroborated, but operational deployment endpoints and continuous full-time duty not established. Reserve membership is not full-time service; civilian leave and overlaps require reconstruction.",
+      "evidence_note": "Official Reserve interval. Afghanistan service corroborated, but operational deployment endpoints and continuous full-time duty not established. Reserve membership is not full-time service; civilian leave and overlaps require reconstruction. July2011contemporary article identifies deployment earlier in2011. This narrows deployment year, not its start/end or full-time duty duration; do not assign the whole year.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "287062-06"
     },
@@ -202,7 +204,7 @@
       "role": "National board director",
       "start_date": "2013-06",
       "end_date": null,
-      "date_precision": "month",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "nonprofit",
@@ -221,7 +223,7 @@
       "role": "Council governor; later deputy chair",
       "start_date": "2015",
       "end_date": null,
-      "date_precision": "year",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "nonprofit",
@@ -240,7 +242,7 @@
       "role": "Legatee",
       "start_date": "2015",
       "end_date": null,
-      "date_precision": "year",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "unpaid_work",
@@ -259,7 +261,7 @@
       "role": "President of operations",
       "start_date": "2019",
       "end_date": null,
-      "date_precision": "year",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "unpaid_work",
@@ -298,7 +300,7 @@
       "role": "Senator for South Australia",
       "start_date": "2020-02-06",
       "end_date": null,
-      "date_precision": "day",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -415,6 +417,26 @@
       "note": "Caption places Andrew McLachlan at Camp Baker, Kandahar; full text returned 403. Deployment dates and civilian leave not established.",
       "retrieved": "2026-10-01",
       "source_id": "src-10"
+    },
+    {
+      "url": "https://announcements.asx.com.au/asxpdf/20081023/pdf/31d2whx0mq6vyy.pdf",
+      "publisher": "Australian Wealth Management Limited",
+      "title": "Annual Report2008",
+      "source_type": "employer",
+      "locator": "Printedpp34,37,39,112; CEO Private Client, executive agreements and KMP tables",
+      "note": "Identity lead only: Andrew/AL McLachlan appears as CEO Private Client. Agreements establish remuneration, no expiry and three-month termination notice, but no explicit full-time status. Senator identity still unlinked.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-11"
+    },
+    {
+      "url": "https://search.informit.org/doi/pdf/10.3316/ielapa.237845173534809",
+      "publisher": "Law Society of South Australia / Informit",
+      "title": "Tour of Duty — Lindy McNamara and Ivana Bosio",
+      "source_type": "news",
+      "locator": "Bulletin July2011p9; indexed opening paragraph",
+      "note": "Search index explicitly describes lawyer Andrew McLachlan CSC deployed on active military service in Afghanistan earlier that year. Full article previously403; only indexed evidence used.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-12"
     }
   ],
   "research_notes": [
@@ -424,6 +446,10 @@
     "Namesake exclusion: Coolabah/Vianova credit analyst explicitly described as full-time is a different career and is not evidence for this senator. Sydney pharmacy professor and overseas law/hotel executives also excluded.",
     "Attempted APH, first-party biography, party biography, St Peter’s governance, St John annual report, IOOF report, professional profile, contemporary ICFS coverage, military article and maiden-speech discovery. APH and Informit returned 403; LinkedIn 999; OpenAustralia 26 February 2020 speech URL inaccessible. These are source gaps, not job-wide errors.",
     "Qualifications LLB, LLM and MBA confirmed by official/school biographies. Study is not employment; do not fill 1991–1993 gap with an invented continuous study interval. Membership/fellowship is not employment.",
-    "Follow-up order: employer identity and historical annual reports; military deployment dates/full-time duty and civilian leave; university appointment contract; reconcile St John chair start May/June 2013. Missing evidence remains unknown, not zero."
+    "Follow-up order: employer identity and historical annual reports; military deployment dates/full-time duty and civilian leave; university appointment contract; reconcile St John chair start May/June 2013. Missing evidence remains unknown, not zero.",
+    "Follow-up2026-10-02: contemporary military report narrows Afghanistan deployment to2011; exact active-duty period, hours/status and civilian leave unresolved. Canadian Major Andrew McLachlan CD is a different officer and excluded.",
+    "AWM2008report now inspected: executive contract, salary and matching AL initials strengthen but do not settle identity. Remuneration and no-expiry agreement are not full-time evidence. Future lead: AET historical biography or signed appointment linked to Army/ICFS. Do not repeatedly search the same AWM/IOOF combinations without a new identity source.",
+    "Johnston Withers1989–1991, Cosoff Cudmore Knox1993–1996, Sir Ross and Sir Keith Smith Fund2002–2011 and Liberal vice-president2010–2013 remain unverified directory leads. Artificial January endpoints from directory not used. Law Society2011author/subject index located but full article not obtained. Searches of primary employer, university, army and professional-profile combinations did not resolve identity or hours. No contacts collected or outreach.",
+    "Namesake check: Friends of Port Willunga treasurer/retired Pedal PrixCEO has different accounting career; not assigned to senator. Full financial-services/employer sequence, university contract, deployment leave and StJohnchair date discrepancy remain follow-up needs."
   ]
 }
