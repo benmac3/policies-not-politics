@@ -6,7 +6,7 @@
   "snapshot_party": "Liberal Party of Australia",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/269375",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-01",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -80,7 +80,7 @@
       "role": "Senior Associate, wills and estates litigation",
       "start_date": null,
       "end_date": "2019",
-      "date_precision": "year",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "private_enterprise",
@@ -101,7 +101,7 @@
       "role": "Council member",
       "start_date": "2013",
       "end_date": null,
-      "date_precision": "year",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "nonprofit",
@@ -129,9 +129,10 @@
       "counting_status": "excluded",
       "source_ids": [
         "src-2",
-        "src-4"
+        "src-4",
+        "src-9"
       ],
-      "evidence_note": "Employer profile givesNovember2014commencement; parliamentary biography2018end. Concurrent with legal career; no hours or leave inference.",
+      "evidence_note": "Employer profile givesNovember2014commencement; parliamentary biography2018end. Concurrent with legal career; no hours or leave inference. Primary2014–15annual report lists16540.75dollars allowance under New Elected Members November2014–July2015 and identifies Infrastructure and Public Space Committee deputy chair. Allowance establishes remuneration of elected duties, not salaried public-service employment or full-time status.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "269375-06"
     },
@@ -159,7 +160,7 @@
       "role": "Senator for South Australia",
       "start_date": "2019-07-01",
       "end_date": null,
-      "date_precision": "day",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -173,6 +174,26 @@
       "evidence_note": "Frozen first-service date; Senate duties excluded from ordinary public employment.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "269375-08"
+    },
+    {
+      "employer": "Adelaide Park Lands Authority",
+      "role": "Board member, City of Adelaide councillor representative",
+      "start_date": "2015-01-01",
+      "end_date": "2016-10-21",
+      "date_precision": "day",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "excluded",
+      "government_control_at_time": "public",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-7",
+        "src-8"
+      ],
+      "evidence_note": "Statutory public-authority governance appointment, not established ordinary employment. Gazette scheduled1January2015–31December2016; annual report gives resignation21October2016, which supersedes scheduled expiry. Remuneration and time commitment unproven; council nomination concurrent with elected office.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "269375-09"
     }
   ],
   "sources": [
@@ -235,6 +256,36 @@
       "note": "Directory assigns2002–2019toTGB and senior associate2017. Whole-career attribution conflicts with contemporary2014DBHprofile; not adopted as established employer dates.",
       "retrieved": "2026-10-01",
       "source_id": "src-6"
+    },
+    {
+      "url": "https://www.governmentgazette.sa.gov.au/2015/January/2015_007.pdf",
+      "publisher": "South Australian Government Gazette",
+      "title": "Adelaide Park Lands Authority notice of appointments,29January2015",
+      "source_type": "government_record",
+      "locator": "Printed p448, Notice of Appointments",
+      "note": "Appoints Antic as council representative from1January2015 to31December2016; actual early exit established separately.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-7"
+    },
+    {
+      "url": "https://coa-public.s3.amazonaws.com/docs/annual-report-coa-2016-17-financials.pdf",
+      "publisher": "City of Adelaide / Adelaide Park Lands Authority",
+      "title": "Annual Report2016–17 financials and subsidiary reports",
+      "source_type": "annual_report",
+      "locator": "Printed p204, Board Membership table",
+      "note": "Antic resigned21October2016 before scheduled term end; primaryPDF downloaded and text extracted after web reader Internal Error.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-8"
+    },
+    {
+      "url": "https://d31atr86jnqrq2.cloudfront.net/docs/annual-report-coa-2014-15.pdf",
+      "publisher": "Adelaide City Council",
+      "title": "Annual Report2014–15",
+      "source_type": "annual_report",
+      "locator": "Printed p80 allowances; p70 Infrastructure and Public Space Committee",
+      "note": "Antic councillor allowance16540.75 in new-memberNovember2014–July2015row and committee deputy chair. LocalPDF extraction recovered web-reader Internal Error.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-9"
     }
   ],
   "research_notes": [
@@ -242,6 +293,9 @@
     "Directory claim TGB2002–2019 conflicts with2014DuncanBasheerHannon profile; preserve official overall solicitor range but do not attribute it all to TGB.2017senior-associate start is uncorroborated and not entered.",
     "Searched firm appointment/transition archives, LawSociety profiles, council annual reports and full-time/professional-profile material. Current TGBstaff URL404; archive recovered. No employment fraction, leave history or employer transition evidence found.",
     "Dr Alex Antic, data-science/AI academic and consultant, is a namesake and excluded.2014court-decision lead involving DBH solicitor Alexander Charles Antic could extend employer observation toFebruary2013; primary judgment remains follow-up, not adopted from a case aggregator.",
-    "Follow-up: earliest legal employers2002onward; DBHentry/exit and TGBentry/promotion; full-time contracts, leave/breaks and concurrent council duties; LawSocietyCouncil exit/pay; study dates. Current post-snapshot party changes do not refresh frozen roster."
+    "Follow-up: earliest legal employers2002onward; DBHentry/exit and TGBentry/promotion; full-time contracts, leave/breaks and concurrent council duties; LawSocietyCouncil exit/pay; study dates. Current post-snapshot party changes do not refresh frozen roster.",
+    "Follow-up2026-10-02:added previously unrecorded Adelaide Park Lands Authority governance with exact appointment and early resignation dates from government notice and authority annual report; council allowance and committee deputy-chair role corroborated. Governance excluded regardless of possible remuneration.",
+    "Targeted TGB2015/2016appointment and law-firm transition searches returned no reliable new employment timing. AustLII2014SASC78 direct open Internal Error; prior case-aggregatorFebruary2013DBHlead remains unverified, not adopted. CityPDF web-reader Internal Errors recovered by ordinary primaryPDFdownloads, with readable tables.",
+    "Remaining priorities: earliest legal firms, DBH/TGBtransition and personal hours/leave, law-society council exit/remuneration, university dates. ParkLands2016resignation is not law-firm or CityCouncil employment exit."
   ]
 }
