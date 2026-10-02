@@ -6,7 +6,7 @@
   "snapshot_party": "One Nation",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/E5D",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-01",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -56,7 +56,7 @@
       "counting_note": "Private farm employment is supported, but no substantive full-time interval is established."
     },
     {
-      "employer": "Unidentified nightclub(s)",
+      "employer": "Wicklow Hotel, Armidale (payroll entity unresolved); possible additional venue(s) unresolved",
       "role": "Bouncer",
       "start_date": null,
       "end_date": null,
@@ -68,9 +68,10 @@
       "government_control_at_time": "unknown",
       "counting_status": "insufficient_evidence",
       "source_ids": [
-        "src-sbs-bouncer"
+        "src-sbs-bouncer",
+        "src-sbs-wicklow-oct2"
       ],
-      "evidence_note": "SBS biography identifies nightclub bouncer work after university. Venue, employing entity, dates, hours, remuneration, leave and overlap with farm/accounting roles unresolved. No invented allocation into the 1989–1991 farm interval.",
+      "evidence_note": "SBS2018 identifies Wicklow Hotel, Armidale, and places bouncer work during university; SBS2022 broadly places such work after graduation. Venue identity is supported but chronology is not reconciled. Other publicly indexed interview material also names Wicklow. Exact dates, hours, remuneration, leave, legal employer and possible additional venues remain unresolved; no allocation to the whole study or1989–1991 farm interval.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "E5D-nightclub"
     },
@@ -381,6 +382,16 @@
       "note": "Reports post-graduation farm work, rural banking and nightclub bouncer employment; individual venue and precise dates not supplied.",
       "retrieved": "2026-10-01",
       "source_id": "src-sbs-bouncer"
+    },
+    {
+      "url": "https://www.sbs.com.au/news/article/barnaby-joyce-calls-for-privacy-law-change-after-photographer-stoush/57nubaf3y",
+      "publisher": "SBS News",
+      "title": "Barnaby Joyce calls for privacy law change after photographer stoush,2018",
+      "source_type": "news",
+      "locator": "Public indexed biographical sentence about university and Wicklow Hotel",
+      "note": "Names Wicklow Hotel in Armidale as bouncer venue during university. Direct reader returned403; indexed passage used without retry. Conflicts with broad post-graduation placement in other biography; not used for exact dates.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-sbs-wicklow-oct2"
     }
   ],
   "research_notes": [
@@ -389,7 +400,9 @@
     "Army Reserve service overlapped private employment and is not treated as full-time public employment.",
     "House service is split around the 2017 High Court disqualification and by-election; no work is invented for the gap.",
     "2026-10-01 follow-up: primary Senate testimony resolves QIDC identity; RBA history and 1998 employer report replace unsupported private-bank classification with unresolved mixed-control interval. No whole-period public total inferred from state ownership before merger.",
-    "Business-register identity and contemporaneous ABC brother interview resolve registration and ownership/management distinctions; separate nightclub role added without guessed dates. Searched chartered-firm/multinational names, bank/history reports and Reserve sources; no exact hours, early employer identities or service-duty records found. Member education page timed out; old ABC URL inaccessible, current ABC transcript recovered. Original 2013 Hansard link inaccessible; reproduction labelled. Continue with payroll/control records, original practice succession documents and specific employer identities."
+    "Business-register identity and contemporaneous ABC brother interview resolve registration and ownership/management distinctions; separate nightclub role added without guessed dates. Searched chartered-firm/multinational names, bank/history reports and Reserve sources; no exact hours, early employer identities or service-duty records found. Member education page timed out; old ABC URL inaccessible, current ABC transcript recovered. Original 2013 Hansard link inaccessible; reproduction labelled. Continue with payroll/control records, original practice succession documents and specific employer identities.",
+    "Second follow-up2October2026 resolves Wicklow Hotel venue for previously unnamed bouncer employment, retaining unknown dates because reports differ on study overlap. Public GQ interview index independently mentions Wicklow; page redirected to cookie screen, no further access attempted.",
+    "Early accountancy-firm and American-multinational searches again yielded unnamed sequence, not employer identities/hours. A secondary blog quotes older Age Moree-nightclub account and SMH two-year Wicklow account; treat these as original-article leads, not proof of another employer or fixed two-year interval. UTas thesis mirror mentions sixteen years of St Vincent de Paul volunteering citing Fidler2006; original ABC21November2006 interview not retrieved, so charity detail remains a lead pending primary corroboration. Avoid repeating exhausted generic biography searches; next focus named venue archives, original interview and employer histories."
   ],
   "open_questions": [
     "Which farms employed Joyce from 1989 to 1991, and what were the dates, hours and breaks, including any nightclub work?",
@@ -398,6 +411,6 @@
     "Was there paid non-parliamentary work during the 27 October–2 December 2017 eligibility gap?",
     "What were precise QIDC/Suncorp payroll and control transitions, working hours and leave within official 1994–1998 banking range, and how does the five-year narrative reconcile?",
     "When did Michael take over practice management, when did Barnaby cease personal client work, and what hours/leave applied before and after Senate commencement? ABR dates alone cannot answer.",
-    "Which nightclub employed Joyce, on what dates and work pattern?"
+    "What were Wicklow Hotel employment dates, legal payroll entity and hours; was work during or after university, and were there separate Moree or other venues?"
   ]
 }
