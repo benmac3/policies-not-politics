@@ -6,7 +6,7 @@
   "snapshot_party": "One Nation",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/266524",
   "research_status": "blocked",
-  "last_reviewed": "2026-09-30",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -24,11 +24,13 @@
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "private_enterprise",
-      "headline_sector": "private",
-      "government_control_at_time": "private",
+      "headline_sector": "unknown",
+      "government_control_at_time": "unknown",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-1"],
-      "evidence_note": "The Parliamentary Handbook lists vineyard labour in 1973 but does not identify the employer, duration, hours or employment basis.",
+      "source_ids": [
+        "src-1"
+      ],
+      "evidence_note": "The Parliamentary Handbook lists vineyard labour in 1973 but does not identify the employer, duration, hours or employment basis. Private control previously assumed from occupation; now unknown until employer identified.",
       "counting_note": "A year label alone does not establish a countable full-time interval."
     },
     {
@@ -44,7 +46,10 @@
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-2", "src-3"],
+      "source_ids": [
+        "src-2",
+        "src-3"
+      ],
       "evidence_note": "Roberts's executive CV gives 1973-1976 for his University of Queensland engineering degree; his party biography and the Parliamentary Handbook corroborate the qualification.",
       "counting_note": "Study is excluded."
     },
@@ -58,10 +63,15 @@
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "private_enterprise",
-      "headline_sector": "private",
+      "headline_sector": "unknown",
       "government_control_at_time": "unknown",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-1", "src-2", "src-3", "src-4"],
+      "source_ids": [
+        "src-1",
+        "src-2",
+        "src-3",
+        "src-4"
+      ],
       "evidence_note": "The official biography and Roberts's CV give 1977-1979; the CV says five mines in four Australian regions, while party and Senate accounts describe about three years, mainly underground, including the Hunter and Queensland. Employers, mine-by-mine dates, hours and leave are unpublished.",
       "counting_note": "Substantive mining work is supported, but the employers, ownership and full-time intervals are not sufficiently resolved."
     },
@@ -78,7 +88,10 @@
       "headline_sector": "private",
       "government_control_at_time": "private",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-1", "src-2"],
+      "source_ids": [
+        "src-1",
+        "src-2"
+      ],
       "evidence_note": "Roberts's CV names both US coal companies and gives 1979-1981; the Parliamentary Handbook gives the broader mining-engineer interval 1979-1983. The CV does not split time between the employers or supply exact dates, hours or leave.",
       "counting_note": "Private employment is supported, but employer-specific and full-time boundaries remain unresolved."
     },
@@ -95,7 +108,10 @@
       "headline_sector": "private",
       "government_control_at_time": "private",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-1", "src-2"],
+      "source_ids": [
+        "src-1",
+        "src-2"
+      ],
       "evidence_note": "The CV gives the employer, Liddell site, roles and 1982-1984. The official biography gives mining engineer through 1983 and mine manager from 1983, creating an unresolved year-level transition.",
       "counting_note": "Exact role boundaries, hours and leave are unavailable."
     },
@@ -104,16 +120,22 @@
       "employer": "Coal & Allied Operations",
       "role": "Mine manager, including Moonee Mine, Wallarah coal preparation plant and shiploader, and West Wallsend Mine",
       "start_date": "1982",
-      "end_date": "1988",
-      "date_precision": "year",
+      "end_date": "1988-07",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "private_enterprise",
       "headline_sector": "private",
       "government_control_at_time": "private",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-1", "src-2", "src-4"],
-      "evidence_note": "The CV groups mine-management responsibility under Coal & Allied across 1982-1988, while the official biography labels him a mine manager from 1983-1988. Roberts's Senate account corroborates management of Hunter Valley coal mines. Site-by-site appointment dates and overlap with the Liddell engineering role are unresolved.",
+      "source_ids": [
+        "src-1",
+        "src-2",
+        "src-4",
+        "src-7",
+        "src-8"
+      ],
+      "evidence_note": "The CV groups mine-management responsibility under Coal & Allied across 1982-1988, while the official biography labels him a mine manager from 1983-1988. Roberts's Senate account corroborates management of Hunter Valley coal mines. Site-by-site appointment dates and overlap with the Liddell engineering role are unresolved. SBS identifies Coal & Allied as pre-MBA employer;1994case analysis dates consensual retrenchment July1988. Month recorded from secondary account; original judgment remains follow-up. This was cessation, not presumed study leave.",
       "counting_note": "The overlapping year-only role chronology cannot support a precise non-duplicated full-time duration."
     },
     {
@@ -129,8 +151,13 @@
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-1", "src-2"],
-      "evidence_note": "Roberts's CV gives 1988-1990 for the MBA; the Parliamentary Handbook corroborates the qualification.",
+      "source_ids": [
+        "src-1",
+        "src-2",
+        "src-7",
+        "src-8"
+      ],
+      "evidence_note": "Roberts's CV gives 1988-1990 for the MBA; the Parliamentary Handbook corroborates the qualification. SBS reports21months study after retrenchment and no guaranteed ARCO job beforehand. No calendar-day boundaries inferred from duration.",
       "counting_note": "Study is excluded."
     },
     {
@@ -146,8 +173,13 @@
       "headline_sector": "private",
       "government_control_at_time": "private",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-1", "src-2", "src-3"],
-      "evidence_note": "The official biography gives general manager 1990-1993. Roberts's CV identifies Atlantic Richfield, Gordonstone, Brisbane and Emerald and describes construction, commissioning and operation of the underground project.",
+      "source_ids": [
+        "src-1",
+        "src-2",
+        "src-3",
+        "src-9"
+      ],
+      "evidence_note": "The official biography gives general manager 1990-1993. Roberts's CV identifies Atlantic Richfield, Gordonstone, Brisbane and Emerald and describes construction, commissioning and operation of the underground project. Queensland Hansard6October1993 mentions him among mine management at the previous day opening. This corroborates activity inOctober1993, not an end date.",
       "counting_note": "The role and private employer are well supported, but year-only dates, full-time status, leave and exact boundaries remain unpublished."
     },
     {
@@ -163,25 +195,33 @@
       "headline_sector": "private",
       "government_control_at_time": "private",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-2", "src-3"],
-      "evidence_note": "Roberts's CV says he co-founded the company in 1994 and lists contract management and advisory clients in Australia, New Zealand, India and the United States. The undated CV labels the role present, but does not give client-by-client dates, workload, gaps, remuneration, leave or a cessation date before parliamentary service.",
+      "source_ids": [
+        "src-2",
+        "src-3",
+        "src-6"
+      ],
+      "evidence_note": "Roberts's CV says he co-founded the company in 1994 and lists contract management and advisory clients in Australia, New Zealand, India and the United States. The undated CV labels the role present, but does not give client-by-client dates, workload, gaps, remuneration, leave or a cessation date before parliamentary service. Director CV identifies contract management at Solid Energy Spring Creek(NZ), advice to Iluka USA, intermittent acting management at Glencore Cumnock and advice to Consolidated Rutile. These are client assignments within this consultancy, not independently established direct employment; dates and workload absent.",
       "counting_note": "Business ownership and consulting activity are supported, but a continuous substantive full-time interval cannot be assumed."
     },
     {
       "spell_id": "266524-10",
       "employer": "Montessori School Limited / Brisbane Montessori School",
       "role": "Chairman of the board and non-executive director",
-      "start_date": "1999",
-      "end_date": "2003",
-      "date_precision": "year",
+      "start_date": "1999-05",
+      "end_date": "2003-03",
+      "date_precision": "month",
       "employment_status": "unknown",
       "fte_fraction": null,
-      "category": "governance",
+      "category": "nonprofit",
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-1", "src-2"],
-      "evidence_note": "The Parliamentary Handbook and Roberts's CV give the 1999-2003 chairmanship; the CV calls it a non-executive directorship. Remuneration and time commitment are not stated.",
+      "source_ids": [
+        "src-1",
+        "src-2",
+        "src-6"
+      ],
+      "evidence_note": "The Parliamentary Handbook and Roberts's CV give the 1999-2003 chairmanship; the CV calls it a non-executive directorship. Remuneration and time commitment are not stated. Director CV dates May1999–March2003 and identifies private school. Public-company legal form does not mean government control.",
       "counting_note": "Non-executive governance is excluded."
     },
     {
@@ -193,11 +233,13 @@
       "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
-      "category": "governance",
+      "category": "nonprofit",
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-2"],
+      "source_ids": [
+        "src-2"
+      ],
       "evidence_note": "Roberts's CV gives 2000-2008 for service on the US global advisory board and describes strategy and governance advice; remuneration and workload are not stated.",
       "counting_note": "Advisory-board governance is excluded."
     },
@@ -206,7 +248,7 @@
       "employer": "The Galileo Movement",
       "role": "Project leader",
       "start_date": "2011",
-      "end_date": "2016",
+      "end_date": null,
       "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
@@ -214,8 +256,11 @@
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-1", "src-2"],
-      "evidence_note": "The official biography records investigation of climate claims from 2008. Roberts's CV identifies project leadership from 2011 and explicitly says he refused salary; the end is bounded by first entry to Parliament, but exact cessation and workload are unresolved.",
+      "source_ids": [
+        "src-1",
+        "src-2"
+      ],
+      "evidence_note": "CV records project leadership from2011 and explicitly refused salary. Parliamentary entry does not establish cessation; unsupported2016end removed. Exact end/workload unknown.",
       "counting_note": "Explicitly unpaid advocacy is excluded."
     },
     {
@@ -231,7 +276,10 @@
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-1", "src-5"],
+      "source_ids": [
+        "src-1",
+        "src-5"
+      ],
       "evidence_note": "Official parliamentary records show the 2016 election and the High Court ruling of 27 October 2017 that the election was void and Roberts was ineligible from 2 July 2016.",
       "counting_note": "Federal elected office is excluded."
     },
@@ -241,16 +289,38 @@
       "role": "Senator for Queensland",
       "start_date": "2019-07-01",
       "end_date": null,
-      "date_precision": "day",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-1", "src-5"],
+      "source_ids": [
+        "src-1",
+        "src-5"
+      ],
       "evidence_note": "Official parliamentary records show election in 2019 and re-election in 2025.",
       "counting_note": "Federal elected office is excluded."
+    },
+    {
+      "employer": "NSW industry technical exchange and commercialisation mission",
+      "role": "Industry-selected mission member to Guangdong, China",
+      "start_date": "1987",
+      "end_date": "1987",
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-6"
+      ],
+      "evidence_note": "Director CV lists1987mission. Industry selection does not establish government employment; duration/pay unspecified. No additional paid interval counted.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "266524-15"
     }
   ],
   "sources": [
@@ -303,6 +373,46 @@
       "source_type": "official_biography",
       "locator": "Frozen roster and parliamentary service",
       "note": "Snapshot identity and service chronology used by the frozen roster."
+    },
+    {
+      "url": "https://conscious.com.au/assets/Malcolm_Roberts_Director_CV.pdf",
+      "publisher": "Conscious Pty Ltd / Malcolm Roberts",
+      "title": "Director CV",
+      "source_type": "professional_profile",
+      "locator": "pp2–3: school board,1987 mission,consulting clients",
+      "note": "Self-reported board months and client roles; undated present labels do not establish ongoing paid employment.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-6"
+    },
+    {
+      "url": "https://www.sbs.com.au/news/article/roberts-sought-to-tax-deduct-uni-degree/yq7vkuz30",
+      "publisher": "SBS / AAP",
+      "title": "Roberts sought to tax deduct uni degree",
+      "source_type": "news",
+      "locator": "18November2016; MBA and retrenchment paragraphs",
+      "note": "Identifies senator as litigant and Coal & Allied retrenchment before21month MBA1988–90; subsequent ARCO appointment.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-7"
+    },
+    {
+      "url": "https://rlj.scholasticahq.com/article/6568-self-education-expenses-and-receipts-implications-for-income-taxation-and-fbt-in-light-of-fct-v-mi-roberts.pdf",
+      "publisher": "Revenue Law Journal / David Baxby and Damon Brash",
+      "title": "Self Education Expenses and Receipts: Implications for Income Taxation and FBT in Light of FCT v MI Roberts",
+      "source_type": "other",
+      "locator": "1994vol4iss1art6; PDFp6 printedp77,summary of facts",
+      "note": "Contemporary scholarly case analysis dates retrenchment July1988; cites92ATC4787–4789. Original judgment retrieval unsuccessful; date explicitly secondary.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-8"
+    },
+    {
+      "url": "https://documents.parliament.qld.gov.au/events/han/1993/931006ha.pdf",
+      "publisher": "Queensland Parliament",
+      "title": "Hansard6October1993",
+      "source_type": "official_record",
+      "locator": "Printedp4756/PDFp30,Johnson speech",
+      "note": "Contemporary mention of Roberts among Gordonstone management at previous day opening; observation not appointment/cessation date.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-9"
     }
   ],
   "research_notes": [
@@ -312,6 +422,9 @@
     "Obtain Atlantic Richfield/Gordonstone exact appointment and cessation dates, employment basis, hours and leave.",
     "Obtain Conscious Pty Ltd corporate history and client-by-client paid engagement dates, workload and gaps; do not treat company ownership or an undated 'present' CV label as continuous full-time employment.",
     "Confirm Montessori governance remuneration and workload; these roles remain excluded regardless.",
-    "Resolve post-2008 paid consulting versus unpaid climate advocacy and any work between the 2017 disqualification and 2019 Senate return."
+    "Resolve post-2008 paid consulting versus unpaid climate advocacy and any work between the 2017 disqualification and 2019 Senate return.",
+    "Follow-up2026-10-02: director CV,1993Queensland Hansard,2016AAP court report and1994Revenue Law Journal case analysis reviewed. New July1988cessation and May1999–March2003board months. Named consulting projects retained inside consultancy to avoid duplicate employment.",
+    "Attempted original judgment [1992]FCA896 via AustLII returned Internal Error; ATO ruling TR2024/3 returned403Forbidden. These source errors are not run blockers. Retrieve original92ATC4787/39FCR118 for exact cessation and appointment details.",
+    "Continue with employer/client annual reports for Solid EnergySpringCreek,Iluka,Cumnock,ConsolidatedRutile; determine engagement dates, payer and hours. Industry mission and private-school public-company form cannot establish public employment. Post2008paid work and2017–19gap remain unresolved."
   ]
 }
