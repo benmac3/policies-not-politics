@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/DZW",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-01",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -52,9 +52,11 @@
         "src-snapshot",
         "src-member",
         "src-secondary",
-        "src-ifa2010"
+        "src-ifa2010",
+        "src-echo2006-oct2",
+        "src-abc2025-oct2"
       ],
-      "evidence_note": "The frozen official extract records police service from 1990 to 1997. Her current first-party biography describes front-line police work, and the secondary biography identifies Queensland Police. Exact appointment and cessation dates, rank, postings, hours, leave and any study overlap are unresolved.2010 hosted ministerial profile corroborates seven years as a police officer and later youth justice convenor work. Rounded duration does not resolve calendar boundaries or full-time status.",
+      "evidence_note": "The frozen official extract records police service from 1990 to 1997. Her current first-party biography describes front-line police work, and the secondary biography identifies Queensland Police. Exact appointment and cessation dates, rank, postings, hours, leave and any study overlap are unresolved.2010 hosted ministerial profile corroborates seven years as a police officer and later youth justice convenor work. Rounded duration does not resolve calendar boundaries or full-time status. Follow-up2October2026: recovered Echo23May2006p15 repeats seven years from1990, without hours/boundaries. ABC2025 guide locates police work on Gold Coast; specific station/rank and whether all service was there remain unverified.",
       "counting_note": "Public employment is supported, but year-only boundaries and absent substantive full-time evidence do not establish an exact countable interval."
     },
     {
@@ -113,9 +115,10 @@
       "source_ids": [
         "src-snapshot",
         "src-secondary",
-        "src-ifa2010"
+        "src-ifa2010",
+        "src-echo2006-oct2"
       ],
-      "evidence_note": "The frozen official extract names the department and role and gives 2002–2003 boundaries. Exact appointment and cessation dates, employment basis, hours, leave and overlap with party activity are unresolved.2010 hosted ministerial profile corroborates seven years as a police officer and later youth justice convenor work. Rounded duration does not resolve calendar boundaries or full-time status.",
+      "evidence_note": "The frozen official extract names the department and role and gives 2002–2003 boundaries. Exact appointment and cessation dates, employment basis, hours, leave and overlap with party activity are unresolved.2010 hosted ministerial profile corroborates seven years as a police officer and later youth justice convenor work. Rounded duration does not resolve calendar boundaries or full-time status. Recovered2006 Echo profile corroborates existing2002–2003 interval only; convenor title does not determine hours or casual basis.",
       "counting_note": "Public employment is supported, but year-only boundaries and absent substantive full-time evidence do not establish an exact countable interval."
     },
     {
@@ -298,6 +301,26 @@
       "note": "Contemporary candidate observation; employment/campaign leave and appointment date not stated.",
       "retrieved": "2026-10-01",
       "source_id": "src-abc-campaign"
+    },
+    {
+      "url": "https://www.echo.net.au/downloads/byron-echo/volume-20/byronecho2052.pdf",
+      "publisher": "Byron Shire Echo / Hans Lovejoy",
+      "title": "Justine Elliot works for a passionate electorate,23May2006",
+      "source_type": "news",
+      "locator": "Printed page15, introductory career paragraph",
+      "note": "Recovered public PDF via ordinary download and text extraction after earlier web-reader size failure. Repeats seven police years from1990 and juvenile justice2002–2003; no new hours or boundaries.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-echo2006-oct2"
+    },
+    {
+      "url": "https://www.abc.net.au/news/elections/federal/2025/guide/rich",
+      "publisher": "ABC News",
+      "title": "Richmond election guide2025",
+      "source_type": "news",
+      "locator": "Justine Elliot candidate biography",
+      "note": "Former Gold Coast police officer; location corroboration, no particular station, rank or employment dates.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-abc2025-oct2"
     }
   ],
   "research_notes": [
@@ -308,7 +331,9 @@
     "Systematic follow-up2026-10-01 added omitted health-council/coastal-committee community representation and community memberships, with two official2003 coastal-committee attendance observations; upgraded qualifications with first-party sources and documented2004 candidacy.",
     "Checked official/parliamentary biography, ALP/member profiles,2010 IFA speaker report, Tweed council2003/2004 minutes, ABC historical election coverage and queries for police academy/postings, full-time/part-time work, juvenile-justice casual basis and1997–2002 activities. No individual hours or exact employment/study boundaries located.",
     "First speech2December2004, parliamentary item0074, remains an unresolved lead: Parlinfo link returned403 and alternate Hansard display restricted URL. Byron Echo volume20 issue52 indexed police profile remains a lead; web opening failed400 Content length is too large:14863597. Individual-source errors did not terminate research.",
-    "Aggregator dates showing1January for1990/1997 and2002/2003 were rejected as unsupported precision; frozen official year boundaries retained. Seven-year police duration and front-line title do not prove full-time service. No family-care interval inferred from family biography."
+    "Aggregator dates showing1January for1990/1997 and2002/2003 were rejected as unsupported precision; frozen official year boundaries retained. Seven-year police duration and front-line title do not prove full-time service. No family-care interval inferred from family biography.",
+    "Second follow-up2October2026: no material enrichment counted. Recovered previously oversized14.1MB Echo volume20issue52 public PDF by ordinary download and text extraction; printedp15 corroborates existing years, not full-time status. Added ABC Gold Coast location context without inferring specific station or whole-service posting.",
+    "First-speech search again yielded no accessible transcript: public Advoc8 page supplies first-speech date/summary but returned only page shell. No access controls bypassed. Police/juvenile-justice hours queries repeated broad biographies.1997–2002 remains unknown; family details and spouse’s police work are not her employment record. Future lead is personal QPS service/leave record, historical university completion material or complete public maiden speech, not repeating Echo recovery."
   ],
   "open_questions": [
     "What were the exact Queensland Police appointment, posting, rank, hours, leave and cessation details?",
