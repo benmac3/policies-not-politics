@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/121628",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-02",
+  "last_reviewed": "2026-10-03",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -308,7 +308,7 @@
       "spell_id": "121628-walk-against-war"
     },
     {
-      "employer": "Community and Public Sector Union",
+      "employer": "Community and Public Sector Union — North Coast office",
       "role": "Organiser (reported; primary confirmation outstanding)",
       "start_date": null,
       "end_date": null,
@@ -321,9 +321,10 @@
       "counting_status": "excluded",
       "source_ids": [
         "src-crikey-oct2",
-        "src-ipa-oct2"
+        "src-ipa-oct2",
+        "src-crikey-2001-oct3"
       ],
-      "evidence_note": "Crikey public index describes the Richmond candidate as CPSU organiser, without reliable employment boundaries, hours or location.2015 IPA table instead marks no union background. Role retained as a specifically attributed unresolved report, not a verified full-time interval.",
+      "evidence_note": "Crikey public index describes the Richmond candidate as CPSU organiser, without reliable employment boundaries, hours or location.2015 IPA table instead marks no union background. Role retained as a specifically attributed unresolved report, not a verified full-time interval. A directly readable Crikey article dated 11 November 2001 places the reported organiser position in the CPSU North Coast office in the Richmond-candidacy context. This contemporaneous account strengthens the location and 2001 activity evidence but gives neither commencement nor cessation; dates remain null rather than converting publication into a job boundary. The contrary 2015 classification and missing original union record remain unresolved.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "121628-cpsu-reported"
     },
@@ -517,6 +518,16 @@
       "note": "Public indexed profile supplies a conflicting study range; prior direct999 restriction not retried. Does not establish graduation date.",
       "retrieved": "2026-10-02",
       "source_id": "src-linkedin-oct2"
+    },
+    {
+      "source_id": "src-crikey-2001-oct3",
+      "url": "https://www.crikey.com.au/2001/11/11/unveiling-the-scale-of-union-and-labor-links-2/",
+      "publisher": "Stephen Mayne / Crikey",
+      "title": "Unveiling the scale of union and Labor links",
+      "source_type": "news",
+      "locator": "11 November 2001; section 32 Labor candidates who have union backgrounds, Jenny McAllister entry",
+      "note": "Directly readable article identifies the Richmond candidate as an organiser based in CPSU's North Coast office. No employment boundaries, hours or leave; earlier than the 2006 compilation and not independent primary payroll evidence.",
+      "retrieved": "2026-10-03"
     }
   ],
   "research_notes": [
@@ -527,7 +538,8 @@
     "No public or private full-time total is calculated because hours, leave and exact transition dates remain unsupported.",
     "2026-10-01 follow-up adds primary AECOM project evidence, legal entity/ABN and Associate Director title observed 21 January 2011; June 2013 review credit is not a title-transition date. NSW Labor resolves LEAN founding/convenorship and earlier party membership and anti-war organising.",
     "Searched AECOM appointments and reports, NSW annual report/UN climate delegation records, first-speech and public professional profiles, full-time and leave wording. LinkedIn returned 999; UN PDF timed out; ASU conference-profile download failed. The NSW annual report remains a title source, not an individual hours record. Unrelated UK travel/teaching profiles were excluded. Graduation and party-presidency inconsistencies retained as follow-up gaps; no hours inferred from seniority or project credits.",
-    "Second follow-up2October2026 adds attributed CPSU organiser and student-union secretary roles and explicit Sydney study conflict. Employer-targeted AECOM searches and personal full-/part-time searches did not resolve employment load or phase boundaries; US realtor and UK teaching/travel profiles excluded as different people. The CPSU report is a new union-archive lead, not proof of employment in2006 or2001. No totals calculated."
+    "Second follow-up2October2026 adds attributed CPSU organiser and student-union secretary roles and explicit Sydney study conflict. Employer-targeted AECOM searches and personal full-/part-time searches did not resolve employment load or phase boundaries; US realtor and UK teaching/travel profiles excluded as different people. The CPSU report is a new union-archive lead, not proof of employment in2006 or2001. No totals calculated.",
+    "3 October 2026 targeted follow-up found the directly readable 2001 Crikey account and resolved the reported CPSU office as North Coast, without fabricating start/end dates. University archive search found Semper Floreat 1994 issue 1 at https://espace.library.uq.edu.au/view/UQ%3A243944/SF_1994_Issue1.pdf with an indexed first-person student-union committee contact by McAllister, but original PDF returned 403 Forbidden; not retried or treated as verified secretary/pay evidence. University of Sydney targeted search did not resolve conferral. Next useful evidence is original CPSU North Coast staff records, accessible original UQU executive records and Sydney conferral records; avoid repeating broad AECOM/title and generic hours searches."
   ],
   "open_questions": [
     "What were the exact appointment dates, payroll entities, hours and leave for the Tanya Plibersek and Bob Debus adviser roles?",
@@ -539,7 +551,7 @@
     "Was AECOM Associate Director a corporate grade concurrent with Strategic Adviser, and what dates distinguish the three subsequent title phases?",
     "Can original party election/term records reconcile presidency start/end dates in secondary infobox versus narrative (July/November 2011 and June/July 2015)?",
     "What work or study occurred between university completion and the first known Plibersek role; can 1996/1997 graduation accounts be reconciled?",
-    "Can CPSU contemporary staff records confirm or refute the reported organiser role, identify branch and dates, and reconcile the2015 contrary classification?",
+    "Can CPSU North Coast contemporary staff records confirm the reported organiser role around the 2001 Richmond candidacy, establish dates/pay/hours, and reconcile the 2015 contrary classification?",
     "Can original UQU records confirm secretary term and paid status, and Sydney conferral records resolve1996 versus1997?"
   ]
 }
