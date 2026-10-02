@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/23497",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-01",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -18,9 +18,9 @@
       "spell_id": "23497-family-planning",
       "employer": "Family Planning Australia (historical legal/employer name not verified)",
       "role": "Reproductive-rights campaign work",
-      "start_date": null,
-      "end_date": null,
-      "date_precision": "unknown",
+      "start_date": "2004-01",
+      "end_date": "2005-12",
+      "date_precision": "month",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "nonprofit",
@@ -28,9 +28,10 @@
       "government_control_at_time": "private",
       "counting_status": "excluded",
       "source_ids": [
-        "src-speech"
+        "src-speech",
+        "src-linkedin"
       ],
-      "evidence_note": "First speech calls this one of her first jobs and describes reproductive-rights campaign work. Dates, hours and the employer's then-current legal name remain unresolved.",
+      "evidence_note": "First speech calls this one of her first jobs and describes reproductive-rights campaign work. Dates, hours and the employer's then-current legal name remain unresolved. Follow-up2026-10-02: public professional-profile search index explicitly associates Family Planning Australia with January2004–December2005. Month precision retained; overlaps with Greens office, Organ adviser observation and December2005 PIAC commencement are unresolved, not added as separate full-time duration. Historical legal name, hours and breaks still unknown.",
       "counting_note": "Nonprofit employment is excluded under the codebook; no full-time duration inferred."
     },
     {
@@ -363,10 +364,10 @@
       "url": "https://au.linkedin.com/in/carol-berry-mp-25986a1a9",
       "publisher": "LinkedIn / Carol Berry",
       "title": "Carol Berry MP — Member for Whitlam",
-      "retrieved": "2026-09-17",
+      "retrieved": "2026-10-02",
       "source_type": "professional_profile",
       "locator": "Public search-index experience snippets",
-      "note": "Month ranges: PIAC Dec 2005–Apr 2008; CID Apr 2008–Dec 2011; IWHC Dec 2011–Dec 2013; NSW Ombudsman Dec 2013–Mar 2018; NDIA Mar 2018–Nov 2020. Direct page access was restricted; indexed text retained as professional-profile evidence, not hours proof."
+      "note": "Month ranges: PIAC Dec 2005–Apr 2008; CID Apr 2008–Dec 2011; IWHC Dec 2011–Dec 2013; NSW Ombudsman Dec 2013–Mar 2018; NDIA Mar 2018–Nov 2020. Direct page access was restricted; indexed text retained as professional-profile evidence, not hours proof. Public index retrieved2October2026 additionally supplies Family Planning Australia January2004–December2005; no job hours shown. Direct profile not retried following earlier source throttling."
     },
     {
       "source_id": "src-nsw-parliament",
@@ -497,10 +498,20 @@
       "note": "Explicit unpaid school and sporting-club community work.",
       "retrieved": "2026-10-01",
       "source_id": "src-emily-volunteers"
+    },
+    {
+      "url": "https://disability.royalcommission.gov.au/system/files/exhibit/TDT.9999.0001.0001.pdf",
+      "publisher": "Disability Royal Commission / The Disability Trust",
+      "title": "Exhibit32-092: response to Notice to Give Information",
+      "source_type": "government_record",
+      "locator": "pp1–3 organisational information; full-text Berry search",
+      "note": "Institutional response discusses revenue, nonprofit status and workforce policy. No Berry name match in extracted text; not a personal CV or hours record.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-rc-exhibit-oct2"
     }
   ],
   "open_questions": [
-    "What were the exact dates, legal employer and hours for the Family Planning role?",
+    "Can primary employer records confirm the profile January2004–December2005 Family Planning dates, historical legal employer, exact transitions, hours and breaks?",
     "What were the appointment/payroll dates, pay status, hours and leave for the Greens national-secretary and Michael Organ adviser roles?",
     "Were the dated PIAC, CID, IWHC, NSW Ombudsman, NDIA and Disability Trust spells substantively full-time, and were there material leave or breaks?",
     "Do primary employer or government personnel records refine the month-only transitions and explain the 3–5 May 2025 Trust/House overlap?",
@@ -511,6 +522,8 @@
     "Systematic follow-up2026-10-01. Repaired missing required research_notes field; preserved every existing supported spell/source and the separate open_questions. Baseline records supplied month-level paid-work dates and unknown hours; none have been promoted to full-time from title or salary.",
     "Primary PIAC annual reports now support both2005–2008 employment endpoints, specific role and external governance/advocacy work. Greens honour roll supplies2003–2005 office dates with explicit presumed-end qualification. Trust employer departure notice reread and confirmed5May2025; pre-election interview establishes campaign leave but not its dates/pay.",
     "Public sources searched for Family Planning dates/legal name, NDIA/Ombudsman hours, professional profiles, historical annual reports, maternity/campaign leave, party office and Royal Commission evidence. Unrelated US realtor, clinician, academic and charity-manager results excluded. Generic full-time staff figures and other employees’ maternity annotations are not evidence about Berry.",
-    "Government hearing15February2023 corroborates CEO entry. Exhibit32-92 (TDT.9999.0001.0001) is a remaining document lead; detailed statement not retrieved in this pass. Further priorities: personal hours/leave for public-sector spells; Family Planning and Organ adviser boundaries; Greens remuneration; exact campaign leave; CRC governance dates. Last follow-up2026-10-01; advance across all batches before revisiting exhausted broad queries."
+    "Government hearing15February2023 corroborates CEO entry. Exhibit32-92 (TDT.9999.0001.0001) is a remaining document lead; detailed statement not retrieved in this pass. Further priorities: personal hours/leave for public-sector spells; Family Planning and Organ adviser boundaries; Greens remuneration; exact campaign leave; CRC governance dates. Last follow-up2026-10-01; advance across all batches before revisiting exhausted broad queries.",
+    "Second follow-up2026-10-02 materially dates Family Planning work from the public professional-profile index; primary confirmation and simultaneous-role allocation remain open. Royal Commission exhibit32-092 lead retrieved: organisational evidence, not personal hours. May2025 successor recruitment pack identifies a replacement process but is not evidence of Berry contract hours. Broad exact-name searches produce US namesakes, excluded.",
+    "Next targeted leads: historical2004–05 Family Planning personnel/annual reports, Michael Organ office records and contemporaneous pay/hours evidence for Ombudsman/NDIA. Do not repeat generic biographies or interpret general staff policies as Berry employment status."
   ]
 }
