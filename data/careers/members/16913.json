@@ -195,9 +195,10 @@
         "src-cbus2012",
         "src-cbus2014",
         "src-amwu2013",
-        "src-cbus2013"
+        "src-cbus2013",
+        "src-national2017-oct2"
       ],
-      "evidence_note": "Appointment month explicit. Retirement recorded in2013/14 review; exact date and calendar year unresolved, so null end does not mean ongoing. Board service is distinct from salaried staff employment. Historical trustee-sector treatment remains to be resolved.",
+      "evidence_note": "Appointment month explicit. Retirement recorded in2013/14 review; exact date and calendar year unresolved, so null end does not mean ongoing. Board service is distinct from salaried staff employment. Historical trustee-sector treatment remains to be resolved. 2017nationalunionrule directs employee director/sittingfees to union; not proof of individual remuneration for every year or afteremployment.",
       "counting_note": "Governance/union role; not established substantive full-time employment, no headline duration or overlapping years added.",
       "spell_id": "16913-cbus"
     },
@@ -214,9 +215,10 @@
       "government_control_at_time": "unknown",
       "counting_status": "excluded",
       "source_ids": [
-        "src-amwu2013"
+        "src-amwu2013",
+        "src-national2017-oct2"
       ],
-      "evidence_note": "Term expiredJuly2013. Start, trustee legal entity/control and personal fees unresolved; governance only.",
+      "evidence_note": "Term expiredJuly2013. Start, trustee legal entity/control and personal fees unresolved; governance only. 2017nationalunionrule directs employee director/sittingfees to union; not proof of individual remuneration for every year or afteremployment.",
       "counting_note": "Governance/union role; not established substantive full-time employment, no headline duration or overlapping years added.",
       "spell_id": "16913-auscoal"
     },
@@ -234,9 +236,10 @@
       "counting_status": "excluded",
       "source_ids": [
         "src-amwu2013",
-        "src-mckell2018"
+        "src-mckell2018",
+        "src-national2017-oct2"
       ],
-      "evidence_note": "2013 union filing identifies appointment;2018 review thanks departing board member. Start, exact resignation and pay unresolved; nonprofit governance.",
+      "evidence_note": "2013 union filing identifies appointment;2018 review thanks departing board member. Start, exact resignation and pay unresolved; nonprofit governance. 2017nationalunionrule directs employee director/sittingfees to union; not proof of individual remuneration for every year or afteremployment.",
       "counting_note": "Governance/union role; not established substantive full-time employment, no headline duration or overlapping years added.",
       "spell_id": "16913-mckell"
     },
@@ -253,9 +256,10 @@
       "government_control_at_time": "unknown",
       "counting_status": "excluded",
       "source_ids": [
-        "src-amwu2013"
+        "src-amwu2013",
+        "src-national2017-oct2"
       ],
-      "evidence_note": "2013 union filing identifies role. Legal employer/control, boundaries and pay unresolved; no inference from public funding or network name.",
+      "evidence_note": "2013 union filing identifies role. Legal employer/control, boundaries and pay unresolved; no inference from public funding or network name. 2017nationalunionrule directs employee director/sittingfees to union; not proof of individual remuneration for every year or afteremployment.",
       "counting_note": "Governance/union role; not established substantive full-time employment, no headline duration or overlapping years added.",
       "spell_id": "16913-icn"
     },
@@ -272,11 +276,31 @@
       "government_control_at_time": "unknown",
       "counting_status": "excluded",
       "source_ids": [
-        "src-amwu2013"
+        "src-amwu2013",
+        "src-national2017-oct2"
       ],
-      "evidence_note": "2013 union filing identifies alternate role. Historical trustee entity/control, dates and pay unresolved; not assumed ordinary employment.",
+      "evidence_note": "2013 union filing identifies alternate role. Historical trustee entity/control, dates and pay unresolved; not assumed ordinary employment. 2017nationalunionrule directs employee director/sittingfees to union; not proof of individual remuneration for every year or afteremployment.",
       "counting_note": "Governance/union role; not established substantive full-time employment, no headline duration or overlapping years added.",
       "spell_id": "16913-mert"
+    },
+    {
+      "employer": "Australian Manufacturing Workers' Union, National Council",
+      "role": "National Council member",
+      "start_date": null,
+      "end_date": "2017-09-22",
+      "date_precision": "mixed",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "union",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-national2017-oct2"
+      ],
+      "evidence_note": "2017filing names member through22September2017.1October2016is financial-year boundary, not appointment. Governance may attach to secretaryoffice; no separate salary or added duration assumed.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "16913-national-council"
     }
   ],
   "headline": {
@@ -285,7 +309,7 @@
     "private_full_time_years": null,
     "public_full_time_years": null
   },
-  "last_reviewed": "2026-10-01",
+  "last_reviewed": "2026-10-02",
   "name": "AYRES, the Hon. Timothy (Tim)",
   "person_id": "16913",
   "research_notes": [
@@ -297,7 +321,9 @@
     "Follow-up priority: ACTU cadet cohort and host union/payroll evidence, early jobs/university dates, AMWU annual officer returns and financial reports around 2017–2019, leave/cessation, ALP national-executive remuneration/dates and any paid governance roles. Last attempted 2026-09-16. Advance initial national pass before repeating queries.",
     "Systematic follow-up2026-10-01: primary union filings add five external governance roles, personal remuneration and State Council cessation. Cbus annual report dates alternate appointment; McKell review documents departure. Original supported employment spells and null headlines preserved.",
     "FWC2018/290 and2019/269 NSW financial reports searched for Ayres, no match; absence from those reports does not prove no continuing national employment.2017 report identifies other departing employees but not him in that table. Next lead is National Council payroll/annual returns and leave records across2017–2019, using State Council22September2017 as an office boundary only.",
-    "Earlier first-person Eveleigh account merits ACTU cohort/host-union follow-up; no calendar date inferred from age21, and broad years-of-experience statements do not prove continuous service. Cbus and Media Super-hosted archival PDFs intermittently returned404 on further extraction; indexed primary appointment/retirement passages preserved with limitation. MERT and ICN historical control, complete governance terms/remuneration, substantive hours and pre-1996 work remain unresolved. Last follow-up2026-10-01; advance in national plan order."
+    "Earlier first-person Eveleigh account merits ACTU cohort/host-union follow-up; no calendar date inferred from age21, and broad years-of-experience statements do not prove continuous service. Cbus and Media Super-hosted archival PDFs intermittently returned404 on further extraction; indexed primary appointment/retirement passages preserved with limitation. MERT and ICN historical control, complete governance terms/remuneration, substantive hours and pre-1996 work remain unresolved. Last follow-up2026-10-01; advance in national plan order.",
+    "Second follow-up2026-10-02: national2017financialreport confirms NationalCouncil governance cessation22September2017, separate from previously recordedStateCouncil.2018nationalreporttext contains noAyresmatch; absence cannot establish unemployment, resignation payroll day or unpaid campaigning.2017/18rules direct employee externalboardfees to union, limiting assumptions about personal board income.",
+    "Nationalpayrollroute now checked for2017/18; no full personal employment register disclosed. Remaining leads are2019nationalofficer disclosures, individual appointment/leave evidence and ACTUcadethost history. No substantive full-time duration or zeroexperience conclusion justified."
   ],
   "research_status": "blocked",
   "snapshot_chamber": "Senator",
@@ -444,6 +470,26 @@
       "note": "United Super trustee; equal member/employer sponsor representation, all directors non-executive.",
       "retrieved": "2026-10-01",
       "source_id": "src-cbus2013"
+    },
+    {
+      "url": "https://regorgs.fwc.gov.au/sites/default/files/migration/318/188v-fr2017-283.pdf",
+      "publisher": "AMWU / Fair Work Commission",
+      "title": "National Council financial report2017",
+      "source_type": "government_record",
+      "locator": "Printedpp6,8 (PDF10,12), board fee rule and National Council table",
+      "note": "Ayres listed through22September2017; reporting-year start1October2016not appointment. Employees external board fees payable to union. No personal final-payroll day.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-national2017-oct2"
+    },
+    {
+      "url": "https://regorgs.fwc.gov.au/sites/default/files/migration/318/188v-fr2018-289.pdf",
+      "publisher": "AMWU / Fair Work Commission",
+      "title": "National Council financial report2018",
+      "source_type": "government_record",
+      "locator": "Full extracted text search Ayres; printedp5board fee rules (PDF7)",
+      "note": "No name match in extracted text; not proof of no employment. Rules again direct employee board fees to union. Aggregate salary and departure tables do not settle individual2017–19gap.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-national2018-oct2"
     }
   ]
 }
