@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/316101",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-01",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -143,7 +143,7 @@
       "role": "Special counsel, construction, projects and infrastructure",
       "start_date": "2022",
       "end_date": null,
-      "date_precision": "year",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "private_enterprise",
@@ -162,7 +162,7 @@
       "role": "Special counsel; later principal",
       "start_date": "2022",
       "end_date": null,
-      "date_precision": "year",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "private_enterprise",
@@ -171,9 +171,10 @@
       "counting_status": "insufficient_evidence",
       "source_ids": [
         "src-3",
-        "src-4"
+        "src-4",
+        "src-18"
       ],
-      "evidence_note": "CV supplies joining year and principal heading. Official overall law career ends May 2025, but employer-specific final day/campaign leave not established. Government client representation is private legal practice.",
+      "evidence_note": "CV supplies joining year and principal heading. Official overall law career ends May 2025, but employer-specific final day/campaign leave not established. Government client representation is private legal practice. February2024 conference still identifies Special Counsel; August2024CV principal heading supports progression by that observation, not exact promotion date.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "316101-08"
     },
@@ -197,22 +198,25 @@
       "spell_id": "316101-09"
     },
     {
-      "employer": "Leo Cussen Centre for Law",
+      "employer": "Leo Cussen Institute trading as Leo Cussen Centre for Law",
       "role": "Practical legal training teacher",
       "start_date": null,
       "end_date": null,
       "date_precision": "unknown",
       "employment_status": "unknown",
       "fte_fraction": null,
-      "category": "unknown",
-      "headline_sector": "unknown",
+      "category": "nonprofit",
+      "headline_sector": "excluded",
       "government_control_at_time": "unknown",
-      "counting_status": "insufficient_evidence",
+      "counting_status": "excluded",
       "source_ids": [
-        "src-3"
+        "src-3",
+        "src-16",
+        "src-17",
+        "src-18"
       ],
-      "evidence_note": "Employer CV identifies teaching; legal entity, nonprofit/control status, pay, dates and hours need evidence.",
-      "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
+      "evidence_note": "Legal entity resolved by regulator and historical ABR; charity status predates February2024 teaching observation. Teaching pay, contract and endpoints remain unknown. Public-company registration does not itself establish government control; control remains unknown pending historical governance evidence.",
+      "counting_note": "Charitable nonprofit teaching excluded under codebook; no public/private headline years.",
       "spell_id": "316101-10"
     },
     {
@@ -239,7 +243,7 @@
       "role": "Volunteer director; aviation safety committee chair",
       "start_date": null,
       "end_date": "2025-05-15",
-      "date_precision": "day",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "unpaid_work",
@@ -300,7 +304,7 @@
       "role": "Member for Sturt",
       "start_date": "2025-05-03",
       "end_date": null,
-      "date_precision": "day",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -486,6 +490,36 @@
       "note": "Corroborates former ASC employment. Rounded five-year description does not override year-precision professional dates or prove full-time status.",
       "retrieved": "2026-10-01",
       "source_id": "src-15"
+    },
+    {
+      "url": "https://abr.business.gov.au/AbnHistory/View?id=16949282178",
+      "publisher": "Australian Business Register",
+      "title": "Leo Cussen Institute historical ABN details",
+      "source_type": "government_record",
+      "locator": "Entity names, business names and charity concessions",
+      "note": "ABN16949282178; Centre for Law business name since22June2010, charity tax status since1July2005, ACNC registration since3December2012. These dates concern entity, not individual employment.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-16"
+    },
+    {
+      "url": "https://www.teqsa.gov.au/provider/leo-cussen-institute-formerly-leo-cussen-institute-continuing-legal-education",
+      "publisher": "TEQSA",
+      "title": "Leo Cussen Institute provider registration",
+      "source_type": "government_record",
+      "locator": "Details: legal name, trading name and ABN",
+      "note": "Primary regulator links Centre for Law to Institute ABN16949282178.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-17"
+    },
+    {
+      "url": "https://www.acc.com/webview/event/360258",
+      "publisher": "Association of Corporate Counsel",
+      "title": "SA psychological safety roundtable,15February2024",
+      "source_type": "professional_profile",
+      "locator": "Speakers: Claire Clutterham",
+      "note": "Special counsel LK and contemporaneous PLT teaching observation; not exact employment endpoints.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-18"
     }
   ],
   "research_notes": [
@@ -493,6 +527,8 @@
     "Public/private employers both present; full-time status not supplied by senior titles, overall twenty-year summaries or five-year rounded ASC statement. No calculated headline totals.",
     "Remaining gaps: first employer(s) 2005–2008; separate overseas firm dates; ASC legal entity and hours; Boeing/Sparke/LK transition; leave and overlap; teaching contracts and Leo Cussen legal status; RFDS start and primary resignation forms.",
     "Direct LinkedIn profile returned 999; Al Tamimi PDF exceeded tool length; APH interests PDF restricted. Public employer announcement and indexed/secondary narrow facts were accessible. No access controls bypassed.",
-    "Searches for full-time work returned staff vacancy advertisements, not evidence about this member. Those advertisements were not used."
+    "Searches for full-time work returned staff vacancy advertisements, not evidence about this member. Those advertisements were not used.",
+    "Follow-up2026-10-02 resolves Leo Cussen legal entity and charity classification using historical ABR and education regulator. February2024 conference corroborates teaching during LK employment; exact hours/contracts remain unknown. LK special-counsel-to-principal progression narrowed by dated observations only.",
+    "Targeted2005–2008 and insurance-litigation searches expose public-profile fragments but no defensible employer-to-date linkage. No employer guessed from unrelated profiles. RFDS appointment searches found no primary start date. Overseas transitions, ASC/Boeing hours and campaign leave remain unresolved."
   ]
 }
