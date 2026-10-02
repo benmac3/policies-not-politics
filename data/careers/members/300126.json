@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/300126",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-01",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -145,6 +145,25 @@
       "evidence_note": "Producer’s catalogue identifies both hosts and dates activity to 2023–2025, with individual 2024–2025 episodes. Reid’s authorised page links the show. Preparation, production dates, remuneration, sponsorship, ordinary hours and legal employment relationship are unstated. Concurrent with parliamentary service; no publication date treated as a contract boundary.",
       "counting_note": "Recurring media activity is recorded without presuming paid private employment or volunteer status; no headline years calculated.",
       "spell_id": "300126-podcast"
+    },
+    {
+      "employer": "Australasian College for Emergency Medicine",
+      "role": "Emergency-medicine trainee (program stage unspecified)",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-acem-trainee-oct2"
+      ],
+      "evidence_note": "College identifies trainee status concurrently with parliamentary service. Training interval, load, assessment stage, hospital placement and remuneration are unknown; not a separate assumed paid job.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "300126-acem-training"
     }
   ],
   "sources": [
@@ -317,6 +336,16 @@
       "note": "Member-authorised page links both programmes, corroborating identification; not evidence of separate pay or an employer.",
       "retrieved": "2026-10-01",
       "source_id": "src-official-links"
+    },
+    {
+      "url": "https://www.youred.org.au/read/earning-a-seat-at-the-table-acems-federal-advocacy-journey",
+      "publisher": "Australasian College for Emergency Medicine / YourED",
+      "title": "Earning a seat at the table: ACEM’s federal advocacy journey",
+      "source_type": "professional_profile",
+      "locator": "ACEM Staff; page displaysAug14 and discusses2026; Parliamentary Friends section and photo caption",
+      "note": "College expressly identifies Reid as an ACEM trainee. This does not establish fellowship, registration status, program start, hospital payroll or training load.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-acem-trainee-oct2"
     }
   ],
   "research_notes": [
@@ -326,6 +355,7 @@
     "Determine campaign remuneration and workload from September 2021 to election and its overlap with hospital work. No private-sector employment is documented, but missing evidence is not zero.",
     "2026-10-01 follow-up: new contemporaneous hearing-date corroboration, first-speech primary evidence, explicit August 2025 part-time clinical description and podcast co-hosting. Election-day volunteering boundary removed. Part-time description is not retrospectively applied to pre-parliament employment.",
     "Searched Newcastle graduation/alumni records, named hospital and internship chronology, full-time/part-time terms, inquiry material, first speech and public professional profiles. No primary graduation year, precise employment interval or ordinary paid hours found; 2016 remains explicitly secondary. Excluded same-name overseas tennis, retail and psychology careers and staff vacancies from Reid’s history.",
-    "Next leads: submission 202 and 14 December 2021 hearing transcript, historical university conferral lists, hospital appointment/leave disclosures and the paid-to-volunteer transition. Resolve podcast commercial or parliamentary-office status and boundaries. Direct full Omny episode inaccessible and Apple all-episodes returned HTTP 500; public programme descriptions and official links remained available. No audio testimony inferred from an unplayed recording."
+    "Next leads: submission 202 and 14 December 2021 hearing transcript, historical university conferral lists, hospital appointment/leave disclosures and the paid-to-volunteer transition. Resolve podcast commercial or parliamentary-office status and boundaries. Direct full Omny episode inaccessible and Apple all-episodes returned HTTP 500; public programme descriptions and official links remained available. No audio testimony inferred from an unplayed recording.",
+    "Second follow-up2October2026 adds previously unrecorded ACEM training from the College’s own publication; do not equate trainee with completed fellowship or infer full-time employment. Searches of graduation/internship years and2021 inquiry submission leads did not yield original conferral or appointment records. An indexed Instagram post (https://www.instagram.com/p/DElIzDcz1A4/) describes approaching medical-school completion in2016; direct open returned Internal Error and account provenance was not established, so2016 remains secondary evidence pending university confirmation. A public Reddit AMA (https://www.reddit.com/r/australian/comments/1oh4l4f/ama_im_dr_gordon_reid_mp_federal_member_for/) repeats ongoing clinical practice but no hours, salary or shift boundaries were found; relative date labels varied, so no exact date inferred. Original submission202, hospital training/appointment records and paid-to-volunteer transition remain priority gaps. Same-name overseas medical/tennis/retail careers excluded."
   ]
 }
