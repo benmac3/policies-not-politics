@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/296272",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-01",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -97,7 +97,7 @@
     },
     {
       "employer": "City of Burnside",
-      "role": "General manager, Community and Development; portfolio variants",
+      "role": "General manager, Community and Development; Corporate Services",
       "start_date": "2012-02",
       "end_date": "2017-03",
       "date_precision": "month",
@@ -111,9 +111,10 @@
         "src-1",
         "src-2",
         "src-6",
-        "src-7"
+        "src-7",
+        "src-19"
       ],
-      "evidence_note": "Contemporary2012and2017council records support role. An April2014audit agenda names Corporate Services, so portfolio changes/acting arrangements require follow-up.24 March2017farewell is not imposed as exact end.",
+      "evidence_note": "Contemporary2012and2017council records support role. An April2014audit agenda names Corporate Services, so portfolio changes/acting arrangements require follow-up.24 March2017farewell is not imposed as exact end.22April2014agenda explicitly credits Corporate Services portfolio; internal change/acting dates remain unresolved, not a second simultaneous full-time post.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "296272-05"
     },
@@ -225,7 +226,7 @@
       "role": "Council consumer member",
       "start_date": "2019-05",
       "end_date": null,
-      "date_precision": "month",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "nonprofit",
@@ -244,7 +245,7 @@
       "role": "Board member",
       "start_date": null,
       "end_date": "2022-06-14",
-      "date_precision": "day",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "nonprofit",
@@ -341,7 +342,7 @@
       "role": "Member for Boothby",
       "start_date": "2022-05-21",
       "end_date": null,
-      "date_precision": "day",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -356,6 +357,45 @@
       "evidence_note": "Frozen first-service date retained. Parliamentary duties excluded from ordinary public-service employment headline.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "296272-17"
+    },
+    {
+      "employer": "Recruiting employer unresolved; SA Health Country affiliation reported",
+      "role": "Recruitment of overseas doctors for rural and remote placements",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "unknown",
+      "government_control_at_time": "unknown",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-18",
+        "src-21"
+      ],
+      "evidence_note": "House speech confirms this work within broader15-year health career. Probus speaker report attributes executive work to SA Health Country, but legal employer, title, dates and relation to existing health spells remain unresolved. Possible overlapping duties, no separate additive years.",
+      "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
+      "spell_id": "296272-18"
+    },
+    {
+      "employer": "South Australian Public Health Council",
+      "role": "Local Government Association representative",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "excluded",
+      "government_control_at_time": "public",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-20"
+      ],
+      "evidence_note": "April2017council vacancy record attributes vacancy to her resignation. Event establishes departure before agenda, not exact employment endpoint. Advisory/governance role may be concurrent with Burnside employment; pay/hours unknown.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "296272-19"
     }
   ],
   "sources": [
@@ -528,6 +568,46 @@
       "note": "Seven years local government and longer non-clinical health service work; boards named but not hours/endpoints.",
       "retrieved": "2026-10-01",
       "source_id": "src-17"
+    },
+    {
+      "url": "https://www.openaustralia.org.au/debate/?id=2023-03-22.122.1",
+      "publisher": "Commonwealth Parliament / OpenAustralia transcript",
+      "title": "Health Care — Louise Miller-Frost",
+      "source_type": "government_record",
+      "locator": "22March2023,4:07pm, paragraph beginning Part of my15years",
+      "note": "First-person doctor recruitment work;15years is rounded health-sector experience, not a dated full-time interval.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-18"
+    },
+    {
+      "url": "https://www.burnside.sa.gov.au/files/6b651bba-1614-4a22-949d-a310012abbe8/20140422_Agenda_22_April_2014_with_released_181_after_meeting.pdf",
+      "publisher": "City of Burnside",
+      "title": "Council agenda22April2014",
+      "source_type": "government_record",
+      "locator": "Indexed printedp113, item14.4",
+      "note": "Names General Manager Corporate Services as author; direct403. Does not date portfolio transition or establish hours.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-19"
+    },
+    {
+      "url": "https://www.westtorrens.sa.gov.au/files/sharedassets/public/objective-digitalmeetings/2017/agendas/agenda-council-and-standing-committees-18-april-2017.pdf",
+      "publisher": "City of West Torrens",
+      "title": "Council agenda18April2017",
+      "source_type": "government_record",
+      "locator": "Indexed South Australian Public Health Council vacancy discussion",
+      "note": "Names resignation of Louise Miller Frost(City of Burnside) causing LGA representative vacancy; direct403. No exact resignation date.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-20"
+    },
+    {
+      "url": "https://www.marionprobus.com/general-meetings/",
+      "publisher": "Probus Club of Marion",
+      "title": "General meetings — Louise Miller-Frost speaker report",
+      "source_type": "news",
+      "locator": "Indexed speaker career paragraph",
+      "note": "Reports overseas/local doctor recruitment in executive SA Health Country position; direct502. Institutional attribution remains tentative pending employer record.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-21"
     }
   ],
   "research_notes": [
@@ -538,6 +618,8 @@
     "APH mental-health submission direct open was restricted; AHPRA2016page403; UniSA2017alumni profile timeout400; public LinkedIn https://au.linkedin.com/in/louisemillerfrostboothby open Internal Error. Indexed primary evidence used only for explicit facts; no authenticated content or access-control bypass.",
     "Further leads: historical SA Divisions and SA Health annual/staff reports for early work and working fraction; Burnside Corporate Services title in15 April2014audit agenda; precise Catherine House transition; SAPMEA/TGA/AMC term/pay; AWL start; Churchill selection role; separate/overlapping project work.",
     "A secondary interests-register page mentions Sarah Group Holdings advisory membership but may concern another declared family interest; identity and original declaration not verified, so not added as her employment. Campaigning after September2021is not assumed paid employment or evidence of no other work.",
-    "All governance and advocacy roles are recorded separately from public health and council employment. Unknown pay is not volunteering, and incomplete private-sector evidence is not a zero-year total. Research remains blocked pending gaps."
+    "All governance and advocacy roles are recorded separately from public health and council employment. Unknown pay is not volunteering, and incomplete private-sector evidence is not a zero-year total. Research remains blocked pending gaps.",
+    "Follow-up2026-10-02: first-person House speech confirms previously lead-only doctor recruitment work. Retained separately with possible duplication because exact employer/dates and relationship to existing SA Health posts are unresolved. Rounded15years not used to back-calculate career start or full-time totals.",
+    "Primary council records confirm Corporate Services portfolio and add SAPHC representative governance/resignation beforeApril2017. Searches for early workforce/recruitment and SA Divisions history did not establish applicable payroll or full-time evidence. Burnside/West TorrensPDF403 and Probus502 treated as source gaps; narrow indexed evidence identified explicitly. Remaining health/council leave, board terms and private-sector gaps retained."
   ]
 }
