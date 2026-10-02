@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/259819",
   "research_status": "blocked",
-  "last_reviewed": "2026-09-30",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -27,7 +27,9 @@
       "headline_sector": "unknown",
       "government_control_at_time": "unknown",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-3"],
+      "source_ids": [
+        "src-3"
+      ],
       "evidence_note": "Green's ALP biography says her first job after school was a traineeship, but does not identify the employer, occupation, dates, hours or employment conditions.",
       "counting_note": "The employing sector, duration and substantive full-time status are unknown."
     },
@@ -44,7 +46,9 @@
       "headline_sector": "unknown",
       "government_control_at_time": "unknown",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-3"],
+      "source_ids": [
+        "src-3"
+      ],
       "evidence_note": "The ALP biography records retail and hospitality work while Green studied. It supplies no employers, dates, hours, leave or evidence of continuity.",
       "counting_note": "Unidentified work with unknown hours and dates cannot contribute to either headline."
     },
@@ -61,7 +65,11 @@
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-1", "src-2", "src-3"],
+      "source_ids": [
+        "src-1",
+        "src-2",
+        "src-3"
+      ],
       "evidence_note": "Official biographies identify the qualifications and institutions. Green's ALP biography links retail and hospitality work to her study, but none of the sources supplies enrolment or completion dates.",
       "counting_note": "Study is excluded from the employment headlines."
     },
@@ -78,8 +86,14 @@
       "headline_sector": "private",
       "government_control_at_time": "private",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-1", "src-2", "src-3", "src-4"],
-      "evidence_note": "Official biographies name Maurice Blackburn and the employment-law role. The ALP biography says Green was admitted as a Queensland solicitor in 2015 and then worked as an employment lawyer before becoming the Queensland field director for the 2017 Equality Campaign. The year boundaries express that sequence, not exact payroll dates; hours and leave remain unavailable.",
+      "source_ids": [
+        "src-1",
+        "src-2",
+        "src-3",
+        "src-4",
+        "src-7"
+      ],
+      "evidence_note": "Official biographies name Maurice Blackburn and the employment-law role. The ALP biography says Green was admitted as a Queensland solicitor in 2015 and then worked as an employment lawyer before becoming the Queensland field director for the 2017 Equality Campaign. The year boundaries express that sequence, not exact payroll dates; hours and leave remain unavailable. First speech thanks Peter Koutsoukis and Rod Hodgson for professional opportunity; useful historical firm leads, not dated employment evidence.",
       "counting_note": "Private employment is supported, but exact boundaries and substantive full-time status are not sufficiently evidenced for a duration."
     },
     {
@@ -95,7 +109,10 @@
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-3", "src-6"],
+      "source_ids": [
+        "src-3",
+        "src-6"
+      ],
       "evidence_note": "Public biographies identify Green as Queensland Field Director for the successful 2017 marriage-equality campaign. The employing legal entity, payroll status, precise boundaries, hours and overlap with other work are not published.",
       "counting_note": "Campaign/nonprofit activity is excluded from the two employment headlines."
     },
@@ -112,7 +129,14 @@
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-1", "src-2", "src-3", "src-4", "src-5", "src-6"],
+      "source_ids": [
+        "src-1",
+        "src-2",
+        "src-3",
+        "src-4",
+        "src-5",
+        "src-6"
+      ],
       "evidence_note": "Official biographies identify an AMWU industrial-officer or industrial-lawyer role, and the ALP biography says Green became an organiser after the 2017 Equality Campaign. A Queensland ministerial diary records Nita Green representing the AMWU at a meeting on 2 May 2018, establishing the role on that date. Exact appointment, cessation, hours, leave and overlap with political-staff work are unresolved.",
       "counting_note": "Union employment is excluded under the current headline method."
     },
@@ -129,7 +153,10 @@
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-1", "src-2"],
+      "source_ids": [
+        "src-1",
+        "src-2"
+      ],
       "evidence_note": "Official parliamentary and ministerial biographies identify Green as an adviser to Senator Murray Watt before her own Senate service. They do not publish the start date, end date, employing entity, hours, leave or overlap with the AMWU and election campaign. The 2019 end is bounded only by her commencement as a senator.",
       "counting_note": "Political staff employment is excluded irrespective of public funding."
     },
@@ -139,32 +166,167 @@
       "role": "Senator for Queensland",
       "start_date": "2019-07-01",
       "end_date": null,
-      "date_precision": "day",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-1", "src-2", "src-3", "src-8"],
+      "source_ids": [
+        "src-1",
+        "src-2",
+        "src-3",
+        "src-8"
+      ],
       "evidence_note": "Official sources record Green's Senate service from 1 July 2019.",
       "counting_note": "Federal elected office is excluded from the employment headlines."
+    },
+    {
+      "employer": "Labor for Choice,Queensland",
+      "role": "Secretary",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "party_organisation",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-2"
+      ],
+      "evidence_note": "Official biography lists party office; dates, workload and paid basis unstated.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "259819-09"
+    },
+    {
+      "employer": "Rainbow Labor",
+      "role": "Executive member",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "party_organisation",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-2"
+      ],
+      "evidence_note": "Official biography lists party governance; exact dates and remuneration unstated.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "259819-10"
+    },
+    {
+      "employer": "Australian Labor Party,Indo-Pacific Trade Taskforce",
+      "role": "Secretary",
+      "start_date": "2019-08",
+      "end_date": null,
+      "date_precision": "mixed",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "party_organisation",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-2"
+      ],
+      "evidence_note": "Official biography dates commencementAugust2019; party role concurrent with Senate service, not separate public-service employment.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "259819-11"
     }
   ],
   "sources": [
-    {"source_id":"src-1","url":"https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=259819","publisher":"Parliament of Australia","title":"Senator the Hon Nita Green","retrieved":"2026-09-30","source_type":"official_biography","locator":"Parliamentary service; qualifications and occupation","note":"Official federal service and occupation list: adviser to Senator Murray Watt, lawyer at Maurice Blackburn Lawyers and industrial officer for the AMWU."},
-    {"source_id":"src-2","url":"https://minister.infrastructure.gov.au/green/biography","publisher":"Australian Government, Department of Infrastructure","title":"Biography — Senator the Hon Nita Green","retrieved":"2026-09-30","source_type":"official_biography","locator":"Qualifications and occupation","note":"Official ministerial biography confirming qualifications, pre-parliament occupations and Senate commencement."},
-    {"source_id":"src-3","url":"https://www.alp.org.au/our-people/our-people/nita-green/","publisher":"Australian Labor Party","title":"Nita Green","retrieved":"2026-09-30","source_type":"professional_profile","locator":"Biography","note":"Provides the broad sequence from traineeship and work while studying through admission in 2015, Maurice Blackburn, the 2017 Equality Campaign, AMWU organising and Senate commencement."},
-    {"source_id":"src-4","url":"https://nitagreen.com.au/about/meet-nita","publisher":"Senator Nita Green","title":"Meet Nita","retrieved":"2026-09-30","source_type":"professional_profile","locator":"Career biography","note":"Confirms pre-parliament employment as an employment lawyer at Maurice Blackburn and an industrial lawyer at the AMWU."},
-    {"source_id":"src-5","url":"https://cabinet-qld-gov-au.azurewebsites.net/ministers-portfolios/assets/diary/2018/may/cameron-dick.pdf","publisher":"Queensland Government","title":"Ministerial diary — Cameron Dick, May 2018","retrieved":"2026-09-30","source_type":"government_record","locator":"2 May 2018 meeting entry","note":"Primary contemporaneous record naming Nita Green as an AMWU participant at a ministerial meeting."},
-    {"source_id":"src-6","url":"https://womendeliver.org/speakers/hon-nita-green/","publisher":"Women Deliver","title":"Hon. Nita Green","retrieved":"2026-09-30","source_type":"professional_profile","locator":"Speaker biography","note":"Confirms Maurice Blackburn, AMWU and Queensland field-director roles before Parliament."},
-    {"source_id":"src-7","url":"https://www.openaustralia.org.au/senate/?id=2019-07-31.280.2","publisher":"Parliament of Australia Hansard via OpenAustralia","title":"First speech — Nita Green","retrieved":"2026-09-30","source_type":"government_record","locator":"First speech, 31 July 2019","note":"Primary speech checked for personal and career context; it does not provide a complete dated employment chronology."},
-    {"source_id":"src-8","url":"https://ministers.dfat.gov.au/minister/nita-green","publisher":"Australian Government, Department of Foreign Affairs and Trade","title":"Senator the Hon Nita Green","retrieved":"2026-09-30","source_type":"official_biography","locator":"Biography","note":"Official current biography confirming federal service and pre-parliament employment roles."}
+    {
+      "source_id": "src-1",
+      "url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=259819",
+      "publisher": "Parliament of Australia",
+      "title": "Senator the Hon Nita Green",
+      "retrieved": "2026-09-30",
+      "source_type": "official_biography",
+      "locator": "Parliamentary service; qualifications and occupation",
+      "note": "Official federal service and occupation list: adviser to Senator Murray Watt, lawyer at Maurice Blackburn Lawyers and industrial officer for the AMWU."
+    },
+    {
+      "source_id": "src-2",
+      "url": "https://minister.infrastructure.gov.au/green/biography",
+      "publisher": "Australian Government, Department of Infrastructure",
+      "title": "Biography — Senator the Hon Nita Green",
+      "retrieved": "2026-10-02",
+      "source_type": "official_biography",
+      "locator": "Party positions; parliamentary party positions; qualifications and occupation",
+      "note": "Official ministerial biography confirming qualifications, pre-parliament occupations and Senate commencement."
+    },
+    {
+      "source_id": "src-3",
+      "url": "https://www.alp.org.au/our-people/our-people/nita-green/",
+      "publisher": "Australian Labor Party",
+      "title": "Nita Green",
+      "retrieved": "2026-09-30",
+      "source_type": "professional_profile",
+      "locator": "Biography",
+      "note": "Provides the broad sequence from traineeship and work while studying through admission in 2015, Maurice Blackburn, the 2017 Equality Campaign, AMWU organising and Senate commencement."
+    },
+    {
+      "source_id": "src-4",
+      "url": "https://nitagreen.com.au/about/meet-nita",
+      "publisher": "Senator Nita Green",
+      "title": "Meet Nita",
+      "retrieved": "2026-09-30",
+      "source_type": "professional_profile",
+      "locator": "Career biography",
+      "note": "Confirms pre-parliament employment as an employment lawyer at Maurice Blackburn and an industrial lawyer at the AMWU."
+    },
+    {
+      "source_id": "src-5",
+      "url": "https://cabinet-qld-gov-au.azurewebsites.net/ministers-portfolios/assets/diary/2018/may/cameron-dick.pdf",
+      "publisher": "Queensland Government",
+      "title": "Ministerial diary — Cameron Dick, May 2018",
+      "retrieved": "2026-09-30",
+      "source_type": "government_record",
+      "locator": "2 May 2018 meeting entry",
+      "note": "Primary contemporaneous record naming Nita Green as an AMWU participant at a ministerial meeting."
+    },
+    {
+      "source_id": "src-6",
+      "url": "https://womendeliver.org/speakers/hon-nita-green/",
+      "publisher": "Women Deliver",
+      "title": "Hon. Nita Green",
+      "retrieved": "2026-09-30",
+      "source_type": "professional_profile",
+      "locator": "Speaker biography",
+      "note": "Confirms Maurice Blackburn, AMWU and Queensland field-director roles before Parliament."
+    },
+    {
+      "source_id": "src-7",
+      "url": "https://www.openaustralia.org.au/senate/?id=2019-07-31.280.2",
+      "publisher": "Parliament of Australia Hansard via OpenAustralia",
+      "title": "First speech — Nita Green",
+      "retrieved": "2026-10-02",
+      "source_type": "government_record",
+      "locator": "31July2019, Green speech from5:33pm, after Sheldon speech; Maurice Blackburn acknowledgements and Equality Campaign passages",
+      "note": "Whole debate contains both speeches. Green identifies Koutsoukis/Hodgson and organiser activity; no new employer dates/hours. Sheldon career must not be attributed to Green."
+    },
+    {
+      "source_id": "src-8",
+      "url": "https://ministers.dfat.gov.au/minister/nita-green",
+      "publisher": "Australian Government, Department of Foreign Affairs and Trade",
+      "title": "Senator the Hon Nita Green",
+      "retrieved": "2026-09-30",
+      "source_type": "official_biography",
+      "locator": "Biography",
+      "note": "Official current biography confirming federal service and pre-parliament employment roles."
+    }
   ],
   "research_notes": [
     "Follow up the unnamed traineeship and retail/hospitality employers, dates and hours, plus university enrolment and completion dates.",
     "Obtain Maurice Blackburn appointment/cessation, full-time status and leave evidence; the 2015-2017 span records sourced sequence at year precision, not exact payroll boundaries.",
     "Resolve whether the Equality Campaign role was paid employment and identify its legal employer, exact dates and overlap with legal practice.",
-    "Obtain AMWU appointment/cessation, title history, hours and leave and Senator Murray Watt adviser dates; reconcile their overlap with preselection and campaign activity."
+    "Obtain AMWU appointment/cessation, title history, hours and leave and Senator Murray Watt adviser dates; reconcile their overlap with preselection and campaign activity.",
+    "2026-10-02 follow-up added three separately documented party offices and clarified first-speech locator: the saved debate starts with Sheldon but also contains Green later, so the URL itself was not wrong. Employer-specific Maurice Blackburn searches, Canberra/Wollongong study and traineeship/full-time searches found no reliable new boundaries or hours. LinkedIn profile open returned Internal Error and APH search reported robots restriction; official ministerial biography and accessible Hansard mirror used. US teacher/arts namesakes, staff job advertisements and another press-conference speaker’s mining traineeship were rejected as identity/context mismatches. Next leads: historical firm biographies via named supervising lawyers, university completion records, original traineeship employer, Equality Campaign/AMWU records and Watt office transitions. Exact hours remain unknown;2015 admission alone does not prove continuous2015–17 practice."
   ]
 }
