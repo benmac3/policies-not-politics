@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/248353",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-01",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -93,9 +93,10 @@
         "src-health-bio",
         "src-member",
         "src-secondary",
-        "src-community-pharmacy"
+        "src-community-pharmacy",
+        "src-nhs-oct2"
       ],
-      "evidence_note": "McBride's 2016 first speech says she had worked in health for 20 years and had lived and worked in Forbes, North Sydney, Newtown, Berkeley Vale, Belmont and Oxford during her twenties. Official biographies describe health-sector work in Australia and abroad. They do not identify employers, job dates, sectors, hours or leave, and the 20-year statement is not converted into a start date. First speech describes an overseas locum post in mental health. A 2023 ministerial transcript separately confirms community pharmacy experience. Neither identifies individual employers or dates; these are components of the existing early-career span, not extra additive durations.",
+      "evidence_note": "McBride's 2016 first speech says she had worked in health for 20 years and had lived and worked in Forbes, North Sydney, Newtown, Berkeley Vale, Belmont and Oxford during her twenties. Official biographies describe health-sector work in Australia and abroad. They do not identify employers, job dates, sectors, hours or leave, and the 20-year statement is not converted into a start date. First speech describes an overseas locum post in mental health. A 2023 ministerial transcript separately confirms community pharmacy experience. Neither identifies individual employers or dates; these are components of the existing early-career span, not extra additive durations. A19December2025 government interview specifically identifies NHS mental-health work. The service setting is now identified, but the employing NHS trust versus locum agency remains unknown; the aggregate early-career sector stays unknown and is not converted into a public full-time interval.",
       "counting_note": "Unidentified employers and undated work cannot be allocated to the public or private headline."
     },
     {
@@ -322,8 +323,8 @@
       "spell_id": "248353-wyong-netball-patron"
     },
     {
-      "employer": "Toowoon Bay Surf Life Saving Club; Long Jetty Landcare",
-      "role": "Surf lifesaving patrol participant and Landcare volunteer",
+      "employer": "Toowoon Bay Surf Life Saving Club",
+      "role": "Surf lifesaving patrol participant",
       "start_date": null,
       "end_date": null,
       "date_precision": "unknown",
@@ -336,9 +337,29 @@
       "source_ids": [
         "src-volunteering-profile"
       ],
-      "evidence_note": "First-person conference biography describes these community activities. Individual start/end dates unknown; no paid employment inferred.",
+      "evidence_note": "First-person conference biography describes surf lifesaving patrols. Landcare activity formerly grouped here is now separated using a publicly indexed start month. Patrol commencement, pay and hours are not inferred from the2020 bronze-medallion course.",
       "counting_note": "Community patronage/volunteering excluded from employment headline.",
       "spell_id": "248353-surf-landcare"
+    },
+    {
+      "employer": "Landcare Australia / Long Jetty Landcare",
+      "role": "Volunteer",
+      "start_date": "2020-09",
+      "end_date": null,
+      "date_precision": "mixed",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unpaid_work",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-linkedin-oct2",
+        "src-volunteering-profile"
+      ],
+      "evidence_note": "Professional profile lists Landcare volunteer fromSeptember2020 to present; earlier conference biography names Long Jetty. Month is self-reported, not independently confirmed. Volunteer work is excluded; no personal hours inferred.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "248353-landcare"
     }
   ],
   "sources": [
@@ -521,6 +542,36 @@
       "note": "Describes Toowoon Bay surf lifesaving patrols and Long Jetty Landcare volunteering; no dates or paid role specified.",
       "retrieved": "2026-10-01",
       "source_id": "src-volunteering-profile"
+    },
+    {
+      "url": "https://www.health.gov.au/ministers/the-hon-emma-mcbride-mp/media/radio-interview-with-assistant-minister-mcbride-abc-radio-sydney-drive-19-december-2025",
+      "publisher": "Australian Government Department of Health, Disability and Ageing",
+      "title": "Radio interview,ABC Radio Sydney Drive,19December2025",
+      "source_type": "government_record",
+      "locator": "Published20December2025; answer after host asks about firsthand sector experience",
+      "note": "McBride explicitly identifies NHS mental-health work. No trust, agency, dates or employment load identified.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-nhs-oct2"
+    },
+    {
+      "url": "https://au.linkedin.com/in/emma-mcbride-mp",
+      "publisher": "Emma McBride / LinkedIn",
+      "title": "Public professional profile",
+      "source_type": "professional_profile",
+      "locator": "Public index: Volunteer Experience and Courses; retrieved2October2026",
+      "note": "Landcare volunteer fromSeptember2020; course entries include1997 pharmacy business management,2018 mental-health first aid,2019 immunisation and nicotine-addiction training,2020 bronze medallion. Prior direct999 restriction not retried; no complete profile access claimed.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-linkedin-oct2"
+    },
+    {
+      "url": "https://rachelclincoln.com/Portfolio_v1_LowRes.pdf",
+      "publisher": "Society of Hospital Pharmacists of Australia material reproduced in Rachel Lincoln design portfolio",
+      "title": "Medicines Management2015 conference handbook design",
+      "source_type": "other",
+      "locator": "PDF page16; reproduced handbook printed page7,Novartis Pharmacoeconomics Grant2015 row",
+      "note": "Lists McBride grant3449 dollars for Adelaide Health Economics semester2,2015. Design-portfolio reproduction may be a draft; obtain original award/course records before asserting attendance or completion.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-grant-portfolio-oct2"
     }
   ],
   "research_notes": [
@@ -530,7 +581,8 @@
     "Council service, volunteer company governance, sporting governance, candidacy and federal elected office are separated from paid employment and excluded under the codebook.",
     "No public or private full-time total is calculated because hours, leave and exact title/employment transitions remain unsupported.",
     "2026-10-01 follow-up adds the 1996 placement milestone, overseas locum and community-pharmacy detail, August 2009 bank appointment, concurrent-title evidence and distinct community activities. Corrected unknown early employers from excluded to unknown sector and removed election day as a hospital cessation date.",
-    "State archives support successive public hospital administrations; their change dates are not new personal employment boundaries. Searched employer reports, Oxford/Forbes leads, professional profiles, full-time and campaign leave wording. LinkedIn profile returned 999 but the public placement post was accessible. APH speech direct retrieval returned 403 while indexed passages remained available; 2014 bank report URL was inaccessible. Same-name overseas researchers, lawyers and other profiles were excluded. No hours inferred from seniority, rounded experience or board attendance."
+    "State archives support successive public hospital administrations; their change dates are not new personal employment boundaries. Searched employer reports, Oxford/Forbes leads, professional profiles, full-time and campaign leave wording. LinkedIn profile returned 999 but the public placement post was accessible. APH speech direct retrieval returned 403 while indexed passages remained available; 2014 bank report URL was inaccessible. Same-name overseas researchers, lawyers and other profiles were excluded. No hours inferred from seniority, rounded experience or board attendance.",
+    "Second follow-up2October2026 identifies NHS as overseas mental-health service setting and dates the separately recorded Landcare volunteering toSeptember2020. Public professional index adds short-course leads: pharmacy business management NSW1997; mental-health first aid2018; Woolcock nicotine-addiction/smoking-cessation and PSA immunisation2019; Surf Life Saving NSW bronze medallion2020. These do not date paid practice. A designer-hosted2015 SHPA handbook reproduction identifies a3449-dollar pharmacoeconomics grant for Adelaide Health Economics semester2; attendance/completion needs original evidence. Oxford/Forbes hospital, employer, graduation and full-time queries did not resolve employers or hours.1997 in the profile belongs to a course, not a verified degree graduation. Same-name UK technician, Scottish social-care manager and overseas researchers excluded. No totals calculated."
   ],
   "open_questions": [
     "Which employers, roles and dates correspond to the Forbes, North Sydney, Newtown, Berkeley Vale, Belmont and Oxford work, and were they public or private?",
@@ -542,6 +594,8 @@
     "Which organisation hosted the 1996 placement, and was it separately paid employment or a study requirement?",
     "Which employer or agency engaged McBride for the overseas mental-health locum post and community pharmacy work?",
     "Can hospital personnel records establish continuity, legal employer and leave across the 2011 administrative changes?",
-    "Can bank records establish the exact 2013 directorship cessation and distinguish Wyong District Netball patronage from Central Coast Heart roles?"
+    "Can bank records establish the exact 2013 directorship cessation and distinguish Wyong District Netball patronage from Central Coast Heart roles?",
+    "Which NHS trust or locum agency employed McBride in the UK, with what dates and hours?",
+    "Can original SHPA2015 award and University of Adelaide records establish whether the funded Health Economics study occurred and whether it involved leave from hospital employment?"
   ]
 }
