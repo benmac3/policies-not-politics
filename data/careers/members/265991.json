@@ -6,12 +6,12 @@
   "snapshot_party": "The Nationals",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/265991",
   "research_status": "blocked",
-  "last_reviewed": "2026-09-30",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
     "calculation_status": "not_calculable",
-    "note": "The official chronology establishes carer, labourer, factory-process and Queensland Police intervals from 1988 to 2016. Employers for the private roles and hours/leave throughout are not published. O'Brien's first speech establishes an absence exceeding one year within the police interval before he returned after PTSD, but not its dates or paid status. Unpaid care, party roles and elected office are excluded; no reliable public/private full-time total is calculable."
+    "note": "Official chronology supports care, labour/factory work and police service. Follow-up identifies farm wage work and a2015Kilkivan police posting, but unnamed early employers have unknown control. Police cessation is only2016, with an extended absence and no hours/leave allocation. Unpaid care, study, patronage, party roles and elected office are excluded; public/private full-time totals remain null."
   },
   "career_spells": [
     {
@@ -21,15 +21,20 @@
       "start_date": "1988",
       "end_date": "1989",
       "date_precision": "year",
-      "employment_status": "unpaid",
+      "employment_status": "full_time",
       "fte_fraction": null,
       "category": "unpaid_work",
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-1", "src-2", "src-3"],
+      "source_ids": [
+        "src-1",
+        "src-2",
+        "src-3",
+        "src-8"
+      ],
       "evidence_note": "The official biography lists carer from 1988 to 1989. Biographical accounts explain that O'Brien left school at 15 to care full-time for his mother after a motor-neurone-disease diagnosis until her death about a year later. No wages or formal employer are identified.",
-      "counting_note": "Family care is unpaid work and excluded."
+      "counting_note": "Explicitly full-time family care; unpaid_work exclusion remains. No paid full-time years counted."
     },
     {
       "spell_id": "265991-02",
@@ -40,12 +45,17 @@
       "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
-      "category": "private_enterprise",
-      "headline_sector": "private",
+      "category": "unknown",
+      "headline_sector": "unknown",
       "government_control_at_time": "unknown",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-1", "src-2", "src-3"],
-      "evidence_note": "Official records give an aggregate labourer interval. Employers, industries, role boundaries, hours, leave, gaps and exact dates remain unidentified.",
+      "source_ids": [
+        "src-1",
+        "src-2",
+        "src-3",
+        "src-8"
+      ],
+      "evidence_note": "Official records give an aggregate labourer interval. Employers, industries, role boundaries, hours, leave, gaps and exact dates remain unidentified. Maiden speech describes wage work on farms and in factories during late teens/early twenties and difficulty finding jobs. This supplies farm-work context without named employers, exact spells or continuous employment. Do not infer private ownership from occupation.",
       "counting_note": "Occupation and year range alone do not establish private control or continuous full-time work."
     },
     {
@@ -57,11 +67,15 @@
       "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
-      "category": "private_enterprise",
-      "headline_sector": "private",
+      "category": "unknown",
+      "headline_sector": "unknown",
       "government_control_at_time": "unknown",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-1", "src-2", "src-3"],
+      "source_ids": [
+        "src-1",
+        "src-2",
+        "src-3"
+      ],
       "evidence_note": "Official records give an aggregate factory process-operator interval. Employer, industry, location, hours, leave and exact transition into policing are unpublished.",
       "counting_note": "The occupation does not establish employer control or a continuous full-time interval."
     },
@@ -70,24 +84,31 @@
       "employer": "Queensland Police Service",
       "role": "Police officer, including criminal-intelligence and traffic-accident investigation",
       "start_date": "1999",
-      "end_date": "2016-07-02",
-      "date_precision": "mixed",
+      "end_date": "2016",
+      "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "public_service",
       "headline_sector": "public",
       "government_control_at_time": "public",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-1", "src-2", "src-4", "src-5", "src-6"],
-      "evidence_note": "Official biography gives Queensland police service from 1999 to 2016, and medals corroborate at least 15 years' service. Member biographies identify 16 years in Wide Bay and specialties in criminal intelligence and traffic-accident investigation. O'Brien's first speech says PTSD following fatal-crash work led to more than a year before he returned to duty. Exact appointment, rank history, hours, leave dates/status and cessation before the 2 July 2016 election are not published.",
+      "source_ids": [
+        "src-1",
+        "src-2",
+        "src-4",
+        "src-5",
+        "src-6",
+        "src-9"
+      ],
+      "evidence_note": "Official biography gives Queensland police service from 1999 to 2016, and medals corroborate at least 15 years' service. Member biographies identify 16 years in Wide Bay and specialties in criminal intelligence and traffic-accident investigation. O'Brien's first speech says PTSD following fatal-crash work led to more than a year before he returned to duty. Exact appointment, rank history, hours, leave dates/status and cessation before the 2 July 2016 election are not published. Follow-up: ABC12November2015 identifies him as a Kilkivan police officer. Election day was not a sourced police cessation date and is removed. Rank and posting dates remain unknown.",
       "counting_note": "The service is public, but the known extended absence and missing hours/exact dates prevent treating the full calendar interval as countable full-time work."
     },
     {
       "spell_id": "265991-05",
       "employer": "Liberal National Party of Queensland",
-      "role": "Wide Bay Division Chair; Queensland Vice-President",
+      "role": "Wide Bay Division Chair",
       "start_date": "2010",
-      "end_date": "2016",
+      "end_date": "2014",
       "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
@@ -95,8 +116,11 @@
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-1", "src-7"],
-      "evidence_note": "The official biography gives Wide Bay Division chair from 2010–14 and state vice-president from 2015–16. Paid status, hours and exact dates are not stated; these roles overlapped police service.",
+      "source_ids": [
+        "src-1",
+        "src-7"
+      ],
+      "evidence_note": "Official biography gives Wide Bay chair2010–14. Separate from2015–16state vice-presidency; no continuous2010–16party employment inferred. Paid status/hours unknown.",
       "counting_note": "Party-organisation roles are excluded."
     },
     {
@@ -105,31 +129,285 @@
       "role": "Member for Wide Bay",
       "start_date": "2016-07-02",
       "end_date": null,
-      "date_precision": "day",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-1", "src-2", "src-4"],
+      "source_ids": [
+        "src-1",
+        "src-2",
+        "src-4"
+      ],
       "evidence_note": "Official records show election to the House of Representatives for Wide Bay on 2 July 2016.",
       "counting_note": "Federal elected office is excluded."
+    },
+    {
+      "employer": "Liberal National Party of Queensland",
+      "role": "Queensland Vice-President",
+      "start_date": "2015",
+      "end_date": "2016",
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "party_organisation",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-1",
+        "src-7",
+        "src-9"
+      ],
+      "evidence_note": "Official biography gives2015–16. Contemporary12November2015news identifies candidacy only, not exact appointment. Pay/hours unknown; overlaps police service.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "265991-07"
+    },
+    {
+      "employer": "Training providers not identified",
+      "role": "Justice studies and policing diploma student",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-1",
+        "src-8"
+      ],
+      "evidence_note": "Official biography lists diplomas in Justice Studies and Policing. Speech describes qualifying before joining police, without institutions or dates. Study excluded; no assumption of full-time attendance.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "265991-08"
+    },
+    {
+      "employer": "Mary Valley Show Society",
+      "role": "Patron",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "nonprofit",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-10"
+      ],
+      "evidence_note": "Member biography lists patron role. Appointment/cessation, remuneration and hours not stated. Community patronage does not establish substantive paid employment.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "265991-09"
+    },
+    {
+      "employer": "Gympie Show Society",
+      "role": "Patron",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "nonprofit",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-10"
+      ],
+      "evidence_note": "Member biography lists patron role. Appointment/cessation, remuneration and hours not stated. Community patronage does not establish substantive paid employment.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "265991-10"
+    },
+    {
+      "employer": "Gympie State High School P&C",
+      "role": "Patron",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "nonprofit",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-10"
+      ],
+      "evidence_note": "Member biography lists patron role. Appointment/cessation, remuneration and hours not stated. Community patronage does not establish substantive paid employment.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "265991-11"
+    },
+    {
+      "employer": "Tin Can Bay Men’s Shed",
+      "role": "Patron",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "nonprofit",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-10"
+      ],
+      "evidence_note": "Member biography lists patron role. Appointment/cessation, remuneration and hours not stated. Community patronage does not establish substantive paid employment.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "265991-12"
+    },
+    {
+      "employer": "Sunshine Beach Surf Lifesaving Club",
+      "role": "Patron",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "nonprofit",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-10"
+      ],
+      "evidence_note": "Member biography lists patron role. Appointment/cessation, remuneration and hours not stated. Community patronage does not establish substantive paid employment.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "265991-13"
+    },
+    {
+      "employer": "Liberal National Party / Warren Truss election campaign",
+      "role": "Campaign manager",
+      "start_date": "2013",
+      "end_date": "2013",
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "party_organisation",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-8"
+      ],
+      "evidence_note": "First speech identifies management of Warren Truss’s2013campaign. Pay, hours and dates within year unknown; overlaps police service and party chairmanship, not additive employment.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "265991-14"
     }
   ],
   "sources": [
-    {"source_id":"src-1","url":"https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=265991","publisher":"Parliament of Australia","title":"Mr Llew O'Brien MP","retrieved":"2026-09-30","source_type":"official_biography","locator":"Qualifications and occupations; party positions; parliamentary service; honours","note":"Official career intervals, QPS medals, party roles and House service."},
-    {"source_id":"src-2","url":"https://handbook.aph.gov.au/parliamentarians/265991","publisher":"Parliamentary Handbook","title":"O'BRIEN, Llewellyn (Llew) Stephen","retrieved":"2026-09-30","source_type":"official_biography","locator":"Occupations and service","note":"Frozen-roster identity and official occupation chronology."},
-    {"source_id":"src-3","url":"https://www.smh.com.au/politics/federal/pathways-to-parliament-the-journeys-that-shaped-our-mps-20190627-p5222o.html","publisher":"Sydney Morning Herald","title":"Pathways to parliament: the journeys that shaped our MPs","retrieved":"2026-09-30","source_type":"news","locator":"Llew O'Brien biography","note":"Biographical account of leaving school for full-time family care, then labouring and factory work."},
-    {"source_id":"src-4","url":"https://llewobrien.com.au/about-llew-o-brien/","publisher":"Office of Llew O'Brien MP","title":"About Llew O'Brien","retrieved":"2026-09-30","source_type":"official_biography","locator":"Pre-Parliament police service and medals","note":"Member profile identifying 16 years in Wide Bay policing and criminal-intelligence/traffic-investigation specialties."},
-    {"source_id":"src-5","url":"https://llewobrien.com.au/mr-llew-o-brien-wide-bay-17-10/","publisher":"Office of Llew O'Brien MP","title":"Maiden Speech","retrieved":"2026-09-30","source_type":"first_person","locator":"Police PTSD and return-to-work passage","note":"First-person evidence of an absence exceeding one year before returning to QPS work."},
-    {"source_id":"src-6","url":"https://www.aph.gov.au/Senators_and_Members/Members/FirstSpeeches/45th_Parliament/Llew_OBrien","publisher":"Parliament of Australia","title":"First Speech: Mr Llew O'Brien MP","retrieved":"2026-09-30","source_type":"first_person","locator":"Police-service and mental-health passages","note":"Official Hansard source for police work, trauma and return to duty."},
-    {"source_id":"src-7","url":"https://www.aph.gov.au/-/media/05_About_Parliament/54_Parliamentary_Depts/544_Parliamentary_Library/Handbook/handbook_46th_parliament_part_2b.pdf","publisher":"Parliamentary Library","title":"Parliamentary Handbook of the Commonwealth of Australia 2020","retrieved":"2026-09-30","source_type":"government_record","locator":"O'Brien, Llewellyn (Llew) Stephen","note":"Archived official handbook corroborating occupation, party-role, service and honours chronology."}
+    {
+      "source_id": "src-1",
+      "url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=265991",
+      "publisher": "Parliament of Australia",
+      "title": "Mr Llew O'Brien MP",
+      "retrieved": "2026-09-30",
+      "source_type": "official_biography",
+      "locator": "Qualifications and occupations; party positions; parliamentary service; honours",
+      "note": "Official career intervals, QPS medals, party roles and House service."
+    },
+    {
+      "source_id": "src-2",
+      "url": "https://handbook.aph.gov.au/parliamentarians/265991",
+      "publisher": "Parliamentary Handbook",
+      "title": "O'BRIEN, Llewellyn (Llew) Stephen",
+      "retrieved": "2026-09-30",
+      "source_type": "official_biography",
+      "locator": "Occupations and service",
+      "note": "Frozen-roster identity and official occupation chronology."
+    },
+    {
+      "source_id": "src-3",
+      "url": "https://www.smh.com.au/politics/federal/pathways-to-parliament-the-journeys-that-shaped-our-mps-20190627-p5222o.html",
+      "publisher": "Sydney Morning Herald",
+      "title": "Pathways to parliament: the journeys that shaped our MPs",
+      "retrieved": "2026-09-30",
+      "source_type": "news",
+      "locator": "Llew O'Brien biography",
+      "note": "Biographical account of leaving school for full-time family care, then labouring and factory work."
+    },
+    {
+      "source_id": "src-4",
+      "url": "https://llewobrien.com.au/about-llew-o-brien/",
+      "publisher": "Office of Llew O'Brien MP",
+      "title": "About Llew O'Brien",
+      "retrieved": "2026-09-30",
+      "source_type": "official_biography",
+      "locator": "Pre-Parliament police service and medals",
+      "note": "Member profile identifying 16 years in Wide Bay policing and criminal-intelligence/traffic-investigation specialties."
+    },
+    {
+      "source_id": "src-5",
+      "url": "https://llewobrien.com.au/mr-llew-o-brien-wide-bay-17-10/",
+      "publisher": "Office of Llew O'Brien MP",
+      "title": "Maiden Speech",
+      "retrieved": "2026-09-30",
+      "source_type": "first_person",
+      "locator": "Police PTSD and return-to-work passage",
+      "note": "First-person evidence of an absence exceeding one year before returning to QPS work."
+    },
+    {
+      "source_id": "src-6",
+      "url": "https://www.aph.gov.au/Senators_and_Members/Members/FirstSpeeches/45th_Parliament/Llew_OBrien",
+      "publisher": "Parliament of Australia",
+      "title": "First Speech: Mr Llew O'Brien MP",
+      "retrieved": "2026-09-30",
+      "source_type": "first_person",
+      "locator": "Police-service and mental-health passages",
+      "note": "Official Hansard source for police work, trauma and return to duty."
+    },
+    {
+      "source_id": "src-7",
+      "url": "https://www.aph.gov.au/-/media/05_About_Parliament/54_Parliamentary_Depts/544_Parliamentary_Library/Handbook/handbook_46th_parliament_part_2b.pdf",
+      "publisher": "Parliamentary Library",
+      "title": "Parliamentary Handbook of the Commonwealth of Australia 2020",
+      "retrieved": "2026-09-30",
+      "source_type": "government_record",
+      "locator": "O'Brien, Llewellyn (Llew) Stephen",
+      "note": "Archived official handbook corroborating occupation, party-role, service and honours chronology."
+    },
+    {
+      "url": "https://llewobrien.com.au/mr-llew-o-brien-wide-bay-17-10/",
+      "publisher": "Llew O’Brien",
+      "title": "Maiden Speech — House of Representatives",
+      "source_type": "first_person",
+      "locator": "Speech body14September2016; early work, qualifications and police paragraphs",
+      "note": "Revisited full text: farm and factory wage work, difficulty obtaining jobs, training before police; page header12August differs from speech-body date.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-8"
+    },
+    {
+      "url": "https://www.abc.net.au/news/2015-11-12/queensland-lnp-gary-spence-set-assume-presidency-unopposed/6936090",
+      "publisher": "ABC News",
+      "title": "Queensland LNP vice-president Gary Spence set to assume presidency unopposed",
+      "source_type": "news",
+      "locator": "12November2015; vice-presidency candidates",
+      "note": "Contemporary report identifies O’Brien as Kilkivan police officer; candidacy for party office is not appointment date.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-9"
+    },
+    {
+      "url": "https://llewobrien.com.au/about-llew-o-brien/",
+      "publisher": "Llew O’Brien",
+      "title": "About Llew O’Brien",
+      "source_type": "first_person",
+      "locator": "Quick facts — patron roles",
+      "note": "Primary biography lists five community patron roles; no dates or paid employment stated.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-10"
+    }
   ],
   "research_notes": [
     "Identify every 1990–96 labouring employer and 1996–99 factory employer, industry, role boundary, hours, leave and exact dates; do not assume private ownership from occupation alone.",
     "Obtain QPS appointment, posting/rank, hours, leave and cessation records, especially dates and paid/unpaid status of the absence exceeding one year after PTSD.",
     "Resolve the 1999 factory-to-police and 2016 police-to-Parliament transitions without assuming day-level continuity.",
-    "Confirm paid status, hours and exact dates for LNP division-chair and vice-president roles; party work remains excluded."
+    "Confirm paid status, hours and exact dates for LNP division-chair and vice-president roles; party work remains excluded.",
+    "Follow-up2026-10-02: reread first speech and primary biography; searched both engines for factory/farm employers, police rank and QPS/myPolice history. Farm wage work and2015Kilkivan posting added; no named early employer or police roster/pay/leave evidence located. Search results about MPs visiting factories are not evidence they worked there.",
+    "Further needs: named1990–99employers, government control, individual spell boundaries/hours; QPS appointment/cessation and leave records; training providers/attendance dates; patron appointment periods. Avoid repeating broad occupation searches without new leads. Election date no longer substituted for police resignation;2010–14and2015–16party roles separated."
   ]
 }
