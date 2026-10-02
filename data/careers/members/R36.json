@@ -87,14 +87,15 @@
       "employer": "University of Sydney",
       "employment_status": "unknown",
       "end_date": "1984",
-      "evidence_note": "NAA gives degree year 1984, not complete enrolment dates. Study is not employment. University alumni listing gives BEc1985, conflicting with NAA1984. Preserve existing completion claim pending conferral/attendance records; neither date establishes paid work or exact cessation.",
+      "evidence_note": "NAA gives degree year 1984, not complete enrolment dates. Study is not employment. University alumni listing gives BEc1985, conflicting with NAA1984. Preserve existing completion claim pending conferral/attendance records; neither date establishes paid work or exact cessation. 2023university alumni magazine repeatsBEc1985; completion/conferral distinction remains unresolved.",
       "fte_fraction": null,
       "government_control_at_time": "unknown",
       "headline_sector": "excluded",
       "role": "Bachelor of Economics student",
       "source_ids": [
         "src-naa",
-        "src-sydney-oct1"
+        "src-sydney-oct1",
+        "src-sydney-mag-oct2"
       ],
       "spell_id": "R36-study",
       "start_date": null
@@ -208,7 +209,7 @@
     "private_full_time_years": null,
     "public_full_time_years": null
   },
-  "last_reviewed": "2026-10-01",
+  "last_reviewed": "2026-10-02",
   "name": "ALBANESE, the Hon. Anthony Norman",
   "person_id": "R36",
   "research_notes": [
@@ -220,7 +221,9 @@
     "Year-only overlapping transitions 1989 and 1995 are not summed; ministerial/leadership roles are nested within elected service, not additive employment. No documented countable private full-time spell was found, which is not proof of zero private experience. Follow-up last attempted 2026-09-16; move to next unstarted member before repeating these searches.",
     "Systematic follow-up2026-10-01: added specific NSW ALP job title and separate Young Labor presidency from National Museum; university primary alumni record adds unresolved1984/1985 degree-year discrepancy. Existing supported bank full-time status/control and other facts preserved.",
     "Targeted bank calendar dates, university employment and appointment searches found no personal appointment/cessation/break evidence beyond existing year labels. VPTA full-page open again returned (400) Timeout fetching; indexed page remains available without further useful chronology. Search results contain unsupported secondary part-time-bank claims; these do not override first-person full-time commencement evidence or establish a later change of hours.",
-    "Next avenues if new evidence emerges: publicly released bank service record or detailed first-person chronology; university attendance/conferral archive; primary political payroll appointments. Do not repeat the same exhausted broad bank-date queries immediately. Retain research_status blocked and null headline years; advance follow-up cursor to Ambihaipahar."
+    "Next avenues if new evidence emerges: publicly released bank service record or detailed first-person chronology; university attendance/conferral archive; primary political payroll appointments. Do not repeat the same exhausted broad bank-date queries immediately. Retain research_status blocked and null headline years; advance follow-up cursor to Ambihaipahar.",
+    "Second follow-up2026-10-02: searched university archive/conferral and alumni-magazine routes beyond prior VPTA/bank queries. Magazine independently repeatsBEc1985but does not resolve NAA1984or bank endpoints. Public derivative sites printing1January1980/1981are unsupported normalisations, not accepted dates. No new substantive employment fact; excluded from material-enrichment counts.",
+    "AlumniPDFweb400size10485761+; indexed evidence only. Broad bank/VPTA avenues remain exhausted; next revisit should depend on newly public personnel/appointment record or accessible detailed chronology. No inference of zero private/full-time work; retain all gaps and advance."
   ],
   "research_status": "blocked",
   "snapshot_chamber": "Member",
@@ -307,6 +310,16 @@
       "note": "University labels degree BEc1985, versus NAA1984. Completion/conferral distinction not established.",
       "retrieved": "2026-10-01",
       "source_id": "src-sydney-oct1"
+    },
+    {
+      "url": "https://www.sydney.edu.au/content/dam/corporate/documents/alumni-giving/alumni/sam/sam_may_2023.pdf",
+      "publisher": "University of Sydney",
+      "title": "Sydney Alumni Magazine,semester1 2023",
+      "source_type": "employer",
+      "locator": "Indexed Albanese degree attribution",
+      "note": "BEc1985corroborates existing university alumni entry; no new employment dates. FullPDFweb400size10485761+; not fully inspected.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-sydney-mag-oct2"
     }
   ]
 }
