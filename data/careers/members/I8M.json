@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/I8M",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-01",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -180,18 +180,19 @@
         "src-snapshot",
         "src-accenture-acquisition",
         "src-secondary",
-        "src-atlassian"
+        "src-atlassian",
+        "src-rba2022-oct2"
       ],
-      "evidence_note": "Frozen biography gives Managing Director2020–2022. Acquisition closed27February2020, but release does not document Charlton’s personal payroll commencement on that day. Event2021 profile corroborates managing-director role. Later sustainability title preserved from existing secondary source; precise appointment, cessation, hours and campaign leave unknown.",
+      "evidence_note": "Frozen biography gives Managing Director2020–2022. Acquisition closed27February2020, but release does not document Charlton’s personal payroll commencement on that day. Event2021 profile corroborates managing-director role. Later sustainability title preserved from existing secondary source; precise appointment, cessation, hours and campaign leave unknown. ABS/RBA March 2022 conference biography corroborates BCG career commencement and then-current Accenture managing-director role, without new personal dates/hours.",
       "counting_note": "Private employment is supported, but no exact substantive full-time interval is established."
     },
     {
       "spell_id": "I8M-campaign",
       "employer": "Australian Labor Party",
       "role": "Candidate for Parramatta",
-      "start_date": "2022-04-01",
+      "start_date": "2022-03",
       "end_date": "2022-05-21",
-      "date_precision": "day",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "party_organisation",
@@ -200,9 +201,10 @@
       "counting_status": "excluded",
       "source_ids": [
         "src-secondary",
-        "src-party"
+        "src-party",
+        "src-e61-update-oct2"
       ],
-      "evidence_note": "Published reporting records endorsement as Labor candidate on 1 April 2022. Pay, hours, formal employment status and overlap with Accenture are unresolved.",
+      "evidence_note": "Published reporting records endorsement as Labor candidate on 1 April 2022. Pay, hours, formal employment status and overlap with Accenture are unresolved. Follow-up 2 October 2026: corrected former 1 April start to March 2022 at month precision. Institute announcement of 30 March says already confirmed as candidate, alongside contemporary March reporting; original exact date cannot be inception. Exact endorsement day remains unresolved. E61 director resignation on 24 March is distinct and does not establish Accenture cessation or campaign pay.",
       "counting_note": "Party/campaign activity is excluded under the codebook."
     },
     {
@@ -239,9 +241,10 @@
       "government_control_at_time": "private",
       "counting_status": "insufficient_evidence",
       "source_ids": [
-        "src-pulseline"
+        "src-pulseline",
+        "src-rba2022-oct2"
       ],
-      "evidence_note": "Professional biography says career began at BCG before Oxford. No title, calendar interval, location, payroll entity or hours supplied.",
+      "evidence_note": "Professional biography says career began at BCG before Oxford. No title, calendar interval, location, payroll entity or hours supplied. ABS/RBA March 2022 conference biography corroborates BCG career commencement and then-current Accenture managing-director role, without new personal dates/hours.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "I8M-bcg"
     },
@@ -303,6 +306,26 @@
       "evidence_note": "Books and essays documented in author/event biographies; publication years are not continuous employment dates. Contracts, royalties, hours and extent of paid work unknown. Academic overlap prevents additive counting.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "I8M-writing"
+    },
+    {
+      "employer": "E61 Institute Ltd",
+      "role": "Co-founder and director",
+      "start_date": "2021-03",
+      "end_date": "2022-03-24",
+      "date_precision": "mixed",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "nonprofit",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-e61-update-oct2",
+        "src-e61-fy22-oct2"
+      ],
+      "evidence_note": "Institute announcement states co-founding with Greg Kaplan in March 2021; financial statements identify Andrew Henry George Charlton and resignation on 24 March 2022. Founding month is the start of combined founder/director activity; exact initial legal director appointment day, remuneration, personal hours and executive involvement remain unknown. Overlaps Accenture; do not add to headline employment years.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "I8M-e61"
     }
   ],
   "sources": [
@@ -455,6 +478,36 @@
       "note": "Mentions several pre-Oxford jobs without names; early office arrival is not a weekly-hours contract.",
       "retrieved": "2026-10-01",
       "source_id": "src-ideamensch"
+    },
+    {
+      "url": "https://e61.in/e61-update/",
+      "publisher": "e61 Institute",
+      "title": "e61 update, 30 March 2022",
+      "source_type": "employer",
+      "locator": "Announcement paragraphs 1–3",
+      "note": "Co-founded March 2021; left board after candidacy confirmation. Announcement precedes previous unsupported 1 April candidacy start.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-e61-update-oct2"
+    },
+    {
+      "url": "https://e61.in/wp-content/uploads/2023/02/Financial-Statements-e61-institute-FY22-collated-updated.pdf",
+      "publisher": "E61 Institute Ltd",
+      "title": "Financial statements, year ended 30 June 2022",
+      "source_type": "employer",
+      "locator": "Printed page 3, Directors and Principal Activities",
+      "note": "Full-name identification and exact resignation 24 March 2022; registered charity undertaking economic/policy research. Does not establish personal pay/hours.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-e61-fy22-oct2"
+    },
+    {
+      "url": "https://www.rba.gov.au/publications/other-confs/abs-and-rba-joint-conferences/2022/pdf/abs-rba-conference-2022-biographies.pdf",
+      "publisher": "Reserve Bank of Australia / Australian Bureau of Statistics",
+      "title": "2022 ABS and RBA Joint Conference — Biographies of Presenters",
+      "source_type": "professional_profile",
+      "locator": "Page 2, Dr Andrew Charlton",
+      "note": "Contemporaneous BCG career-start corroboration and Accenture managing director; neither hours nor exact appointment boundaries.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-rba2022-oct2"
     }
   ],
   "research_notes": [
@@ -465,7 +518,9 @@
     "Systematic follow-up2026-10-01 added omitted BCG and Oxford work, unspecified early jobs and writing; identified LSE centre/UNDP duty station, university completion year and Coles divisional details. Repaired event source URL. Totals remain null because no substantive full-time personal interval was found.",
     "Corrected unsupported personal day boundaries based solely on27February2020 acquisition. Exact transaction date retained in evidence; personalAlphaBeta/Accenture transition remains year-level. Neither title, company staffing nor early office arrival proves full-time work. Coles divisional roles belong within existing2010–2014 spell; two-year descriptions do not license exact split dates.",
     "Searched institutional scholarship/college records, university publications, employer acquisition release, ABAC historical release, trade reporting, public interview/event biographies and first speech; LinkedIn profile returned999, other sources usable. BCG,Oxford and pre-Oxford jobs need primary appointment documents. Search homonyms include chemistry/laser/meteorology careers and must not be merged.",
-    "Further leads: Brasenose2005/2006 college reports identify John Hicks scholarship and doctorate under2005 records, but course transfer/award versus enrolment dates require careful reconciliation. Candidate endorsement appears in reporting by28March2022 whereas existing record says1April; exact formal appointment versus announcement needs resolution. No publication or report date promoted to employment start."
+    "Further leads: Brasenose2005/2006 college reports identify John Hicks scholarship and doctorate under2005 records, but course transfer/award versus enrolment dates require careful reconciliation. Candidate endorsement appears in reporting by28March2022 whereas existing record says1April; exact formal appointment versus announcement needs resolution. No publication or report date promoted to employment start.",
+    "Second follow-up 2 October 2026: added omitted e61 founder/director role, March 2021–24 March 2022, using organisation announcement and financial statements. Exact resignation in accounts takes priority over secondary narrative implying departure at May election. Governance/nonprofit excluded and Accenture overlap preserved.",
+    "Contemporaneous e61 announcement confirms candidacy by 30 March 2022; corrected unsupported 1 April inception to March precision without guessing exact endorsement day. RBA conference profile independently corroborates BCG and Accenture. Full-time, payroll, leave and earlier-job boundaries remain unresolved; next leads are actual personal appointment/cessation documents, not corporate milestones."
   ],
   "open_questions": [
     "What were the exact University of Sydney and Oxford study dates, loads and overlaps with paid work?",
@@ -478,6 +533,6 @@
     "What were BCG title, payroll entity, start/end and hours, and which other pre-Oxford jobs were held?",
     "What was the Oxford paid appointment, and how did it overlap with study and LSE?",
     "What were the Coles Liquor CFO/general-manager and corporate-office transfer dates, and the individual employment transition around the2020 acquisition?",
-    "Reconcile formal campaign endorsement1April2022 with earlier28March reporting; establish Accenture leave/cessation."
+    "Establish exact March 2022 endorsement day, Accenture leave/cessation, and whether e61 founder/director activity involved paid employment; board resignation is separately established as 24 March 2022."
   ]
 }
