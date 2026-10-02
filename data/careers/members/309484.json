@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/309484",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-01",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -279,7 +279,7 @@
     },
     {
       "employer": "Glen Eira Council",
-      "role": "Council employment; position unspecified",
+      "role": "Youth Services staff; Youth Services Coordinator by March2001",
       "start_date": null,
       "end_date": null,
       "date_precision": "unknown",
@@ -290,9 +290,12 @@
       "government_control_at_time": "public",
       "counting_status": "insufficient_evidence",
       "source_ids": [
-        "src-summit"
+        "src-summit",
+        "src-glen1997",
+        "src-glen1999",
+        "src-glen2001"
       ],
-      "evidence_note": "Explicitly named in first-person local-government employment list. Role, boundaries and substantive hours unknown.",
+      "evidence_note": "Explicitly named in first-person local-government employment list. Role, boundaries and substantive hours unknown. Council’s own newsletters identify Youth Services work in July1997, explicitly staff in November1999, and Coordinator in March2001. These resolve title and dated presence, not commencement, cessation or uninterrupted service. Volunteer training hours in1997 apply to recruited volunteers, not her employment.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "309484-14"
     }
@@ -437,6 +440,36 @@
       "note": "Search index identifies centre title. Direct profile fetch returned429 Too Many Requests; no retry or guessed unseen dates. Employer/dates not fully visible.",
       "retrieved": "2026-10-01",
       "source_id": "src-profile-index"
+    },
+    {
+      "url": "https://victoriancollections.net.au/media/collectors/56bc1e422162f115087951e1/items/5e8bc82c21ea67019ca04054/item-media/5e8bc98221ea67019ca1ed41/original.pdf",
+      "publisher": "Glen Eira City Council / Victorian Collections",
+      "title": "Glen Eira News,July1997,Volume9",
+      "source_type": "government_record",
+      "locator": "PDF p2, Why?Stop and volunteer-training articles",
+      "note": "Contemporaneous council staff observation. Issue date is not personal employment start/end; no continuous tenure or hours inferred.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-glen1997"
+    },
+    {
+      "url": "https://victoriancollections.net.au/media/collectors/56bc1e422162f115087951e1/items/5e8e553b21ea67079c72248a/item-media/5e8e568e21ea67079c731c4b/original.pdf",
+      "publisher": "Glen Eira City Council / Victorian Collections",
+      "title": "Glen Eira News,November1999,Volume35",
+      "source_type": "government_record",
+      "locator": "PDF p10, World of Work project",
+      "note": "Contemporaneous council staff observation. Issue date is not personal employment start/end; no continuous tenure or hours inferred.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-glen1999"
+    },
+    {
+      "url": "https://victoriancollections.net.au/media/collectors/56bc1e422162f115087951e1/items/5e95425fd4a8de01dc721f15/item-media/5e954c77d4a8de01dc743372/original.pdf",
+      "publisher": "Glen Eira City Council / Victorian Collections",
+      "title": "Glen Eira News,March2001,Volume49",
+      "source_type": "government_record",
+      "locator": "PDF p11, Youth Consultation Forum",
+      "note": "Contemporaneous council staff observation. Issue date is not personal employment start/end; no continuous tenure or hours inferred.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-glen2001"
     }
   ],
   "research_notes": [
@@ -444,6 +477,7 @@
     "Official, charity, member and contemporary program/candidate coverage checked. No dependable full-time dated profile was located; avoid contact-data aggregator dates that conflict with known election history.",
     "No January/December endpoints inferred. Nonprofit work is excluded under the narrow headline definition; unknown nonpolitical employment is not zero.",
     "2026-10-01: recovered missing Chisholm teaching and three named earlier council employers from her summit speech. Frankston Council work also confirmed in speech, but its mapping to the dated centre coordinator entry remains explicit follow-up rather than an extra potentially duplicate spell. Contemporaneous PDPC and VicHealth reports corroborate Connectus appointment and institutional association; May2018 CfC submission adds coordinator title observation. No full-time totals calculated.",
-    "Avenues: parliamentary/member biography and first speech; GSEM summit transcript; historical PDPC2004–05 and VicHealth2005–06 reports; Human Rights Commission2018 submission index; council-centre and CfC employer searches; public professional-profile index. LinkedIn direct returned429 Too Many Requests, not retried; AHRC PDF unavailable but cover index usable with limitation. Contact aggregators with all dates May2026 rejected. Sussan/Marc Besen early-career claim surfaced only in unsourced derivative accounts; retain unverified lead, do not create employment facts. Follow-up: council titles/dates/amalgamation continuity, Frankston contract employer, Chisholm dates/pay/FTE, Connectus legal employer, CfC full submission/Anglicare contract, Family Life title progression, all breaks/hours."
+    "Avenues: parliamentary/member biography and first speech; GSEM summit transcript; historical PDPC2004–05 and VicHealth2005–06 reports; Human Rights Commission2018 submission index; council-centre and CfC employer searches; public professional-profile index. LinkedIn direct returned429 Too Many Requests, not retried; AHRC PDF unavailable but cover index usable with limitation. Contact aggregators with all dates May2026 rejected. Sussan/Marc Besen early-career claim surfaced only in unsourced derivative accounts; retain unverified lead, do not create employment facts. Follow-up: council titles/dates/amalgamation continuity, Frankston contract employer, Chisholm dates/pay/FTE, Connectus legal employer, CfC full submission/Anglicare contract, Family Life title progression, all breaks/hours.",
+    "Second follow-up2October2026: recovered Glen Eira Council newsletters from Victorian Collections, establishing youth-services staff observations July1997/November1999 and coordinator title March2001. Publication months retained as observations rather than fabricated employment endpoints. No FT fraction supplied; volunteer course obligations belong to volunteers. CfC contemporary organisation website confirms Anglicare hosting now but post-election event attendance cannot prove2018 payroll; prior2018 submission remains stronger historical lead. Family Life2020 community-change title corroborated in secondary reporting, no new boundaries. Next inspect Glen Eira staff appointment/departure and council-amalgamation records, Frankston coordinator contract, CfC2018 original submission, Chisholm pay/dates and early corporate work. No totals calculated."
   ]
 }
