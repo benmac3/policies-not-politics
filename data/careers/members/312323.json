@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/312323",
   "research_status": "blocked",
-  "last_reviewed": "2026-09-29",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -137,21 +137,22 @@
     },
     {
       "spell_id": "312323-07",
-      "employer": "Public-service employers not fully identified",
+      "employer": "Queensland Government; departments not fully identified",
       "role": "Additional public-service experience, unresolved",
-      "start_date": null,
+      "start_date": "2000",
       "end_date": null,
-      "date_precision": "unknown",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "public_service",
       "headline_sector": "public",
-      "government_control_at_time": "unknown",
+      "government_control_at_time": "public",
       "counting_status": "insufficient_evidence",
       "source_ids": [
-        "src-2"
+        "src-2",
+        "src-11"
       ],
-      "evidence_note": "Employer biography reports seven public-service years. This is an unresolved umbrella claim potentially overlapping named jobs, not an additional seven-year interval or a calculated total.",
+      "evidence_note": "Employer biography reports seven public-service years. This is an unresolved umbrella claim potentially overlapping named jobs, not an additional seven-year interval or a calculated total. 2018 conference biography gives2000 commencement and marketing, communications, sponsorship, partnerships, events and project functions before Reconciliation SA. End and departments remain unknown; includes possible overlap with named later jobs, so not additive.",
       "counting_note": "Dates, employer control and/or substantive full-time status remain insufficient for a duration calculation; unknown is not zero."
     },
     {
@@ -177,9 +178,9 @@
       "spell_id": "312323-09",
       "employer": "Young Australians for Anti Racism and Reconciliation",
       "role": "Co-founder / youth activism",
-      "start_date": null,
+      "start_date": "1998",
       "end_date": null,
-      "date_precision": "unknown",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "unpaid_work",
@@ -188,9 +189,10 @@
       "counting_status": "excluded",
       "source_ids": [
         "src-5",
-        "src-8"
+        "src-8",
+        "src-11"
       ],
-      "evidence_note": "School-age founding activity; age-based recollection is not converted to exact dates and paid employment is not established.",
+      "evidence_note": "School-age founding activity; age-based recollection is not converted to exact dates and paid employment is not established. Conference biography explicitly dates founding to1998.",
       "counting_note": "Excluded from the two employment headlines under the codebook."
     },
     {
@@ -253,8 +255,8 @@
     },
     {
       "spell_id": "312323-13",
-      "employer": "University of Queensland; University of South Australia; University of New South Wales",
-      "role": "Degree and postgraduate study",
+      "employer": "University of Queensland",
+      "role": "Bachelor of Arts with first-class Australian History honours",
       "start_date": null,
       "end_date": null,
       "date_precision": "unknown",
@@ -265,9 +267,10 @@
       "government_control_at_time": "public",
       "counting_status": "excluded",
       "source_ids": [
-        "src-1"
+        "src-1",
+        "src-11"
       ],
-      "evidence_note": "Qualifications recorded separately; teacher training does not prove paid teaching employment.",
+      "evidence_note": "Qualification confirmed; dates and load unresolved. Other qualifications now separated below.",
       "counting_note": "Excluded from the two employment headlines under the codebook."
     },
     {
@@ -289,6 +292,82 @@
       ],
       "evidence_note": "Elected office excluded; campaign activity likewise excluded and not used to assume prior employment cessation.",
       "counting_note": "Excluded from the two employment headlines under the codebook."
+    },
+    {
+      "employer": "University of South Australia",
+      "role": "Graduate Diploma of Education, Aboriginal education",
+      "start_date": null,
+      "end_date": "2008",
+      "date_precision": "mixed",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "public",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-11"
+      ],
+      "evidence_note": "Completion year from conference biography; start and load unknown. Study is excluded, not employer service.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "312323-15"
+    },
+    {
+      "employer": "University of New South Wales",
+      "role": "Graduate Certificate in Social Impact",
+      "start_date": null,
+      "end_date": "2014",
+      "date_precision": "mixed",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "public",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-11"
+      ],
+      "evidence_note": "Completion year from conference biography; start and load unknown. Study is excluded, not employer service.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "312323-16"
+    },
+    {
+      "employer": "Stanford University",
+      "role": "Executive Program for Nonprofit Leaders",
+      "start_date": null,
+      "end_date": "2017",
+      "date_precision": "mixed",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-11"
+      ],
+      "evidence_note": "Completion year from conference biography; start and load unknown. Study is excluded, not employer service.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "312323-17"
+    },
+    {
+      "employer": "Cannon Hill Anglican College Past Students Association",
+      "role": "Alumni involvement",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unpaid_work",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-12"
+      ],
+      "evidence_note": "2020 school profile records alumni involvement; role, dates and paid basis not established. Separate from later college-board service.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "312323-18"
     }
   ],
   "sources": [
@@ -387,10 +466,30 @@
       "url": "https://documents.parliament.qld.gov.au/TableOffice/TabledPapers/2009/5309T1329.pdf",
       "publisher": "Library Board of Queensland / Queensland Parliament",
       "title": "Annual Report 2008–09",
-      "retrieved": "2026-09-29",
+      "retrieved": "2026-10-02",
       "source_type": "government_record",
-      "locator": "Indexed cover and publication metadata",
-      "note": "Historical report located for employment follow-up; direct download returned 403, so no person-level staffing claim drawn from it."
+      "locator": "2008–09 annual report, full searchable76-page PDF",
+      "note": "Recovered readable report on follow-up; searches for Coffey and Strategic Partnerships returned no match. No individual hours inferred from institutional staffing totals."
+    },
+    {
+      "url": "https://www.theibsc.org/conferences-events/past-events/2018ac/speakers/wednesday",
+      "publisher": "International Boys Schools Coalition",
+      "title": "2018 annual conference Wednesday speakers: Renee Coffey",
+      "source_type": "professional_profile",
+      "locator": "Renee Coffey biography,11July2018",
+      "note": "Career commencement, qualifications and youth-organisation chronology; hours absent.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-11"
+    },
+    {
+      "url": "https://www.chac.qld.edu.au/wp-content/uploads/pax_winter_2020_web.pdf",
+      "publisher": "Cannon Hill Anglican College",
+      "title": "Pax et Bonum,Winter2020",
+      "source_type": "employer",
+      "locator": "Printedp21,PDFp11: Renee Coffey alumni profile",
+      "note": "Corroborates Stanford study and identifies involvement in College Past Students Association; no paid appointment or dates.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-12"
     }
   ],
   "research_notes": [
@@ -399,6 +498,7 @@
     "AIEF 2009 report successfully downloaded and text inspected: printed p.7 has CEO report dated 27 May 2010 and printed p.38 names Pathways Director. First recruitment in August 2009 is organisation-wide, not proof that Coffey commenced then. Retain parliamentary 2010 start pending person-specific evidence.",
     "Explicit full-time AIEF evidence is preserved but does not create public/private headline years because nonprofit employment is excluded. Employment status remains unknown for the multi-year spell since full-time is established only at a 2023 observation, with historical leave and hours still open.",
     "First speech describes six months of full-time campaigning. That does not establish hours in the charity CEO role or a precise resignation date. Public biographies' public-service totals are not substitutes for non-overlapping dated employment spells.",
-    "No eligible private-enterprise spell established in this pass; completeness has not been established, so absence of a identified spell is not a zero headline. Blocked initial record requires systematic follow-up."
+    "No eligible private-enterprise spell established in this pass; completeness has not been established, so absence of a identified spell is not a zero headline. Blocked initial record requires systematic follow-up.",
+    "2026-10-02 follow-up: added2000 commencement for unresolved government-work umbrella,1998 youth founding and separately dated UniSA/UNSW/Stanford study. Seven-year public-service claim still lacks employer-by-employer boundaries and hours. Recovered2008–09 Library annual report but no person match. UQ repository UQ:319766 returned (403) Forbidden;2006 thesis remains a verification lead, not adopted graduation date. Historical2018 professional biography and2020 school profile do not resolve AIEF promotion/start boundaries, government employment conditions or2025 charity cessation. Next: early Queensland departmental staff records, historical Reconciliation SA employment/control and dated public CV. Existing supported facts and null totals retained."
   ]
 }
