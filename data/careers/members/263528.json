@@ -6,7 +6,7 @@
   "snapshot_party": "Liberal Party of Australia",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/263528",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-01",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -79,7 +79,7 @@
       "spell_id": "263528-03"
     },
     {
-      "employer": "Cross-cultural consultancy; business and clients not identified",
+      "employer": "Family cross-cultural consultancy; business name and clients unresolved",
       "role": "Cross-cultural consultant",
       "start_date": null,
       "end_date": null,
@@ -92,9 +92,10 @@
       "counting_status": "insufficient_evidence",
       "source_ids": [
         "src-8",
-        "src-10"
+        "src-10",
+        "src-18"
       ],
-      "evidence_note": "Advance biography describes nearly two decades of consulting but has no visible publication date or contracts. Do not back-calculate start year or equate small-business ownership with substantive full-time employment.",
+      "evidence_note": "Advance biography describes nearly two decades of consulting but has no visible publication date or contracts. Do not back-calculate start year or equate small-business ownership with substantive full-time employment. Party court-file summary attributes consultancy to family business; duration rounded, no dated payroll.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "263528-04"
     },
@@ -122,8 +123,8 @@
       "employer": "Centre for Independent Studies",
       "role": "Director, Indigenous Research / Indigenous Program",
       "start_date": "2019-07",
-      "end_date": null,
-      "date_precision": "month",
+      "end_date": "2022",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "nonprofit",
@@ -133,9 +134,10 @@
       "source_ids": [
         "src-5",
         "src-6",
-        "src-7"
+        "src-7",
+        "src-18"
       ],
-      "evidence_note": "Historical employer review gives July 2019 joining. Later employer biography calls her former director; exact termination unknown. Distinct from political party staffing; role title does not prove full-time.",
+      "evidence_note": "Historical employer review gives July 2019 joining. Later employer biography calls her former director; exact termination unknown. Distinct from political party staffing; role title does not prove full-time. Court-file party summary gives broader CIS2016–2022involvement. End year adopted provisionally;2016may include speaking/affiliation before documentedJuly2019director appointment. No extra2016–19employment invented.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "263528-06"
     },
@@ -156,7 +158,7 @@
         "src-9",
         "src-10"
       ],
-      "evidence_note": "Political advocacy organisation, not assumed a registered political party. Employer announcement confirms appointment; secondary reporting places work before 2022 Senate entry. Legal nonprofit status, salary and dates unresolved; kept outside ordinary public/private headlines pending political-role coding review.",
+      "evidence_note": "Political advocacy organisation, not assumed a registered political party. Employer announcement confirms appointment; secondary reporting places work before 2022 Senate entry. Legal nonprofit status, salary and dates unresolved; kept outside ordinary public/private headlines pending political-role coding review. Employer announcement index dated27November2020 establishes appointment by that date, not exact commencement. Dates remain null pending employment boundary evidence.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "263528-07"
     },
@@ -234,9 +236,11 @@
         "src-3",
         "src-10",
         "src-15",
-        "src-16"
+        "src-16",
+        "src-18",
+        "src-19"
       ],
-      "evidence_note": "Local elected office separate from public-service employment. Deputy mayorship began on documented date within council tenure; exact council departure requires council record. No additional deputy-mayor years.",
+      "evidence_note": "Local elected office separate from public-service employment. Deputy mayorship began on documented date within council tenure; exact council departure requires council record. No additional deputy-mayor years. Party summary gives councilSeptember2015–August2021but deputy startSeptember2019conflicts with council28September2020. CIS2021index says resignation afterJune preselection. Preserve existingyear endpoints pending primary council cessation record.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "263528-11"
     },
@@ -277,6 +281,25 @@
       "evidence_note": "Frozen service and party-at-snapshot retained. Later political roles are elected-office activity, not additional employment years.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "263528-13"
+    },
+    {
+      "employer": "Art galleries, museums and Aboriginal art organisations; entities unresolved",
+      "role": "Gallery / museum / arts work",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "unknown",
+      "government_control_at_time": "unknown",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-18"
+      ],
+      "evidence_note": "Party summary identifies employment/activity category but no named organisation, dates or pay. Provisional umbrella requiring role separation once evidence located; not presumed private gallery or government museum.",
+      "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
+      "spell_id": "263528-14"
     }
   ],
   "sources": [
@@ -355,9 +378,9 @@
       "publisher": "Advance Australia",
       "title": "Jacinta Price joins Advance Australia team",
       "source_type": "employer",
-      "locator": "Announcement and biographical information",
-      "note": "Spokesperson appointment and nearly two decades of cross-cultural consulting; page lacks visible date. No salary/hours stated.",
-      "retrieved": "2026-10-01",
+      "locator": "Announcement and biographical information; public search index date27November2020",
+      "note": "Spokesperson appointment and nearly two decades of cross-cultural consulting; page lacks visible date. No salary/hours stated. Follow-up index exposes announcement date27November2020 although rendered page omits it; appointment already occurred by announcement, exact first workday unknown.",
+      "retrieved": "2026-10-02",
       "source_id": "src-8"
     },
     {
@@ -449,6 +472,26 @@
       "note": "Collaborator’s book listing establishes post-election publication, not contract commencement or paid hours.",
       "retrieved": "2026-10-01",
       "source_id": "src-17"
+    },
+    {
+      "url": "https://www.fedcourt.gov.au/__data/assets/pdf_file/0005/574727/72.-Respondents-summary-of-evidence-in-Court-Book-as-at-27.10.25.pdf",
+      "publisher": "Jacinta Price legal representatives / Federal Court public file",
+      "title": "Respondent summary of evidence,27October2025",
+      "source_type": "government_record",
+      "locator": "Printedpp2–3, paragraphs10(3)–(9),13, citing Price affidavit9–16,25",
+      "note": "Party summary, not judicial finding. Describes family consultancy, gallery/museum/art-organisation work, CIS2016–2022. Underlying affidavit web400size13274949; download403, not inspected.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-18"
+    },
+    {
+      "url": "https://www.cis.org.au/wp-content/uploads/2022/01/PreCIS2021.pdf",
+      "publisher": "Centre for Independent Studies",
+      "title": "PreCIS2021",
+      "source_type": "employer",
+      "locator": "Indexed Indigenous Program Director profile; council resignation paragraph",
+      "note": "Index says council resignation followed June2021Senate preselection. Direct403; no exact resignation day established.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-19"
     }
   ],
   "research_notes": [
@@ -457,6 +500,8 @@
     "Follow-up: CIS termination and workload, Advance appointment/cessation and pay/legal organisation category, media contracts and paid versus unpaid contributions; exact council departure and any leave. Concurrent music, production, council, research and commentary spans must not be summed as independent full-time years.",
     "Follow-up: paid mentoring years and MusicNT contracts; authorship contract and post-election income period. Publication, awards, programme establishment and political prominence are not evidence of full-time status. Further early jobs remain possible.",
     "Searched own and party biographies, maiden speech, council 2015–16/2016–17 reports and history, employer CIS 2019 annual review, public professional index, Advance announcement, MusicNT chronology, ABC Australian Story testimony and publisher/collaborator book listing. Personal health/family history and unrelated contemporary controversies omitted.",
-    "Recovered source gaps: CIS report (403) Forbidden; council report and LinkedIn direct opens returned Internal Error without detailed message. Public indexed primary facts used with locators; no access controls bypassed. Exact dates and hours remain gaps; blocked is not research completion."
+    "Recovered source gaps: CIS report (403) Forbidden; council report and LinkedIn direct opens returned Internal Error without detailed message. Public indexed primary facts used with locators; no access controls bypassed. Exact dates and hours remain gaps; blocked is not research completion.",
+    "Follow-up2026-10-02: public court-file career summary adds previously unrecorded gallery/museum/art-organisation work and identifies consultancy as family business. CIS broader2016–2022involvement distinguished fromJuly2019director commencement; party testimony is not judicially established finding.",
+    "Advance appointment announcement now date-located27November2020by index, exact employment start still unknown. Council cessation and deputy-start conflict retained. Underlying affidavit web400size-cap and curlHTTP403, CIS2021PDF403; accessible party summary and employer index used, no access bypass. Next leads: original affidavitcareerparagraphs9–16, named gallery/museum employers, CIS2016–19role and2022termination, council resignation minute. Hours and production contracts still unresolved."
   ]
 }
