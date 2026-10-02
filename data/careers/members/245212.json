@@ -6,7 +6,7 @@
   "snapshot_party": "The Nationals",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/245212",
   "research_status": "blocked",
-  "last_reviewed": "2026-09-29",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -104,8 +104,8 @@
     },
     {
       "spell_id": "245212-05",
-      "employer": "Gulf of Carpentaria stock camp; Miranda Downs identified by caption; employing entity unknown",
-      "role": "Short stock-camp work experience",
+      "employer": "Miranda Downs station — Stanbroke-owned host; Canavan employing entity unverified",
+      "role": "Short stock-camp / jackeroo and mustering work experience",
       "start_date": null,
       "end_date": null,
       "date_precision": "unknown",
@@ -113,13 +113,17 @@
       "fte_fraction": null,
       "category": "unknown",
       "headline_sector": "unknown",
-      "government_control_at_time": "unknown",
+      "government_control_at_time": "private",
       "counting_status": "insufficient_evidence",
       "source_ids": [
         "src-2",
-        "src-8"
+        "src-8",
+        "src-9",
+        "src-10",
+        "src-11",
+        "src-12"
       ],
-      "evidence_note": "First speech describes a few weeks of work between 2013 election and July 2014 Senate commencement. Dates, remuneration and substantive employment status unknown; no assumption of paid private employment or unpaid volunteering.",
+      "evidence_note": "First speech describes a few weeks of work between 2013 election and July 2014 Senate commencement. Dates, remuneration and substantive employment status unknown; no assumption of paid private employment or unpaid volunteering. April 2021 primary newsletter captions describe jackeroo/mustering activity at Miranda Downs. April 2013 government briefing identifies Stanbroke ownership, ABR history links the station name to Stanbroke, and industry ownership history supports Menegazzo-family control from 2004. Private control refers to the host property; none establishes a paid employment contract with Stanbroke. No employment start/end or continuous hours inferred.",
       "counting_note": "Dates, employer control and/or substantive full-time status remain insufficient for a duration calculation; unknown is not zero."
     },
     {
@@ -242,6 +246,46 @@
       "source_type": "official_biography",
       "locator": "Printed page 8, first speech and photograph caption",
       "note": "Caption identifies stockcamp at Miranda Downs; employment entity and remuneration not stated."
+    },
+    {
+      "url": "https://www.mattcanavan.com.au/wp-content/uploads/2023/04/210419_CB_web.pdf",
+      "publisher": "Matt Canavan",
+      "title": "Central Bulletin, April 2021",
+      "source_type": "official_biography",
+      "locator": "Page 7, Miranda Downs photograph captions",
+      "note": "Primary account calls his activity jackeroo work and mustering; photo publication date is not work date.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-9"
+    },
+    {
+      "url": "https://documents.parliament.qld.gov.au/com/AREC-56F5/RN5254PWRO-ED0E/tp-29Oct2014-Trad.pdf",
+      "publisher": "Queensland Department of Natural Resources and Mines / Queensland Parliament",
+      "title": "2013 Etheridge project briefings tabled 29 October 2014",
+      "source_type": "government_record",
+      "locator": "Page 3 paragraph 34, brief dated 30 April 2013",
+      "note": "Contemporaneous document identifies Stanbroke as Miranda Downs owner; does not establish Canavan employment.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-10"
+    },
+    {
+      "url": "https://abr.business.gov.au/AbnHistory/View/25008442939",
+      "publisher": "Australian Business Register",
+      "title": "Historical details, ABN 25 008 442 939",
+      "source_type": "government_record",
+      "locator": "Entity names/type and business names: Miranda Downs Station",
+      "note": "Stanbroke Pty Ltd name from 21 June 2013, previously Stanbroke Pastoral Company Pty Ltd; Miranda Downs business name from 9 July 2007. Registry dates are not personal employment dates.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-11"
+    },
+    {
+      "url": "https://www.beefcentral.com/property/stanbrokes-miranda-downs-makes-considerably-more-than-160m/",
+      "publisher": "Beef Central",
+      "title": "Stanbroke’s Miranda Downs makes considerably more than $160m",
+      "source_type": "news",
+      "locator": "Ownership history paragraphs",
+      "note": "Reports Menegazzo family acquisition of remaining Stanbroke shareholders in 2004; historical private control corroboration, not payroll evidence.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-12"
     }
   ],
   "research_notes": [
@@ -249,6 +293,7 @@
     "2026-09-29 initial pass checked official APH/frozen occupations, member biography and first speech, 10-year booklet, indexed professional profile and secondary professional briefing. Directly searched employer annual reports 2006–07 and 2010–11: neither names Canavan. 2006–07 table A1.5 includes both full- and part-time staff; it cannot identify his individual arrangement.",
     "Public LinkedIn snippet identifies the correct senator and first Commission role January 2003–December 2007; direct page returned 999. Do not replace official year boundaries with this conflicting snippet without corroboration. No public full-time claim found; search hits on full-time generally concerned other workers or family members.",
     "Do not compute six public years or one private year by subtracting year labels. Adjacent boundary years, unknown breaks and unresolved hours preclude defensible totals. Commission research and director jobs are ordinary public service; Joyce staff work is separately excluded. Short stock-camp work remains unresolved, not rounded to zero.",
-    "Retain frozen roster and party fields despite later political news; this is career research rather than roster refresh. Follow-up should target missing evidence and named archives instead of repeating broad political-news searches."
+    "Retain frozen roster and party fields despite later political news; this is career research rather than roster refresh. Follow-up should target missing evidence and named archives instead of repeating broad political-news searches.",
+    "2026-10-02 follow-up: new primary newsletter and historical ownership/registry evidence clarify stock-camp duties and private host control. PC report-acknowledgement, employer chronology and precise KPMG transition searches did not resolve personal hours or 2007/2008 conflict. LinkedIn direct open again returned (999) Unknown Status Code; no bypass. Florida university IT-coordinator full-time record is a namesake; family bank/mining work is not his. Next leads: contemporary Miranda Downs placement/pay record; named PC appointment/separation or KPMG professional history. Keep stock-camp category/headline unknown pending remuneration/employment basis, and preserve PC date discrepancy."
   ]
 }
