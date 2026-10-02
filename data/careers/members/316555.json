@@ -6,12 +6,12 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/316555",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-01",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
     "calculation_status": "not_calculable",
-    "note": "Unions, political staff and party employment are separately excluded. Complete lifetime coverage and break/working-time evidence remain unresolved; absence of a qualifying spell is not evidence of zero years."
+    "note": "Previously unrecorded Subway employment is established, but calendar dates, employing franchise entity and hours remain unresolved. Union, political staff and party roles are excluded. No supported full-time public/private total; missing evidence is not zero."
   },
   "career_spells": [
     {
@@ -138,7 +138,7 @@
       "role": "Bachelor of Arts student",
       "start_date": null,
       "end_date": "2018",
-      "date_precision": "year",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "study",
@@ -207,9 +207,10 @@
         "src-2",
         "src-3",
         "src-4",
-        "src-5"
+        "src-5",
+        "src-9"
       ],
-      "evidence_note": "July2022 start,2025 state/federal campaign direction; July2025 first speech addresses successors. Full-time return to work in April2024 is directly self-reported later, but preceding leave and full tenure working pattern remain unresolved; retain unknown status for unsplit whole spell. Enterprise agreement representation does not establish a second Perth Trades Hall job.",
+      "evidence_note": "July2022 start,2025 state/federal campaign direction; July2025 first speech addresses successors. Full-time return to work in April2024 is directly self-reported later, but preceding leave and full tenure working pattern remain unresolved; retain unknown status for unsplit whole spell. Enterprise agreement representation does not establish a second Perth Trades Hall job. Party describes her as outgoing on30June2025; exact cessation not established, so year-level end retained.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "316555-10"
     },
@@ -218,7 +219,7 @@
       "role": "Senator for Western Australia",
       "start_date": "2025-07-01",
       "end_date": null,
-      "date_precision": "day",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -232,6 +233,26 @@
       "evidence_note": "Frozen first-service boundary; elected office excluded. No artificial endpoint.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "316555-11"
+    },
+    {
+      "employer": "Subway, Baldivis shopping centre; franchise operator not identified",
+      "role": "Sandwich artist",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "private_enterprise",
+      "headline_sector": "private",
+      "government_control_at_time": "unknown",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-7",
+        "src-8"
+      ],
+      "evidence_note": "First paid job reported from age15, with Thursday-night and one weekend-day shifts. Describes reliance on penalty rates into university years. Age and school sequence not converted into calendar dates. Total weekly hours, casual/part-time contract and any later changes unknown; no full-time interval supported. Subway brand is identified; historical employing franchise entity/control requires verification.",
+      "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
+      "spell_id": "316555-12"
     }
   ],
   "sources": [
@@ -294,12 +315,45 @@
       "note": "Public index corroborates August2012–March2013 UnionsWA. Direct profile open returned Internal Error; no authenticated scraping or additional fields inferred.",
       "retrieved": "2026-10-01",
       "source_id": "src-6"
+    },
+    {
+      "url": "https://www.openaustralia.org.au/senate/?id=2025-08-25.245.1",
+      "publisher": "Parliament of Australia via OpenAustralia",
+      "title": "Fair Work Amendment (Protecting Penalty and Overtime Rates) Bill 2025; 25 August 2025",
+      "source_type": "parliamentary_speech",
+      "locator": "7:18pm Whiteaker contribution, paragraphs beginning I got my first job and I really relied",
+      "note": "First-person account of Subway Baldivis sandwich-artist job from age15, Thursday evenings and a weekend day, continuing into late teens/university. Calendar dates and hours not specified.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-7"
+    },
+    {
+      "url": "https://www.elliewhiteaker.com.au/speeches-media-releases/protecting-your-penalty-rates/",
+      "publisher": "Senator Ellie Whiteaker",
+      "title": "Protecting Your Penalty Rates",
+      "source_type": "parliamentary_speech",
+      "locator": "Publicly indexed Subway and university-work paragraphs",
+      "note": "Own website reproduces relevant account; direct page unavailable. Not independent corroboration beyond same speech.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-8"
+    },
+    {
+      "url": "https://www.instagram.com/p/DLjPYmLSGEg/",
+      "publisher": "WA Labor",
+      "title": "Outgoing State Secretary Ellie Whiteaker, 30 June 2025",
+      "source_type": "employer",
+      "locator": "Publicly indexed post opening",
+      "note": "Names Whiteaker outgoing secretary on30June2025. Direct open returned Online fetch throttled; not retried. Announcement alone does not establish exact payroll cessation.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-9"
     }
   ],
   "research_notes": [
     "2026-10-01 initial research: official frozen occupations, party employer biography, first speech and WAIRC agreement, public professional index, and later Hansard return-to-work account. Later source used for historical employment evidence without refreshing frozen roster.",
     "No qualifying private/public ordinary employment identified so far, but sources do not establish exhaustive absence. Both headline totals remain unknown, not zero. Political staff, unions and party roles are excluded categories.",
     "Searched named UnionsWA/AMWU historical sources, employer records and explicit full-time language. Most search matches repeated biography or unrelated namesakes. LinkedIn direct access Internal Error; usable indexed month entry retained. PDF find reported no matching text despite accessible opening pages; no inference from missing text.",
-    "Follow-up: internship/payroll/host dates and Cook relief job; individual union/staff hours and leave; assistant/state-secretary endpoints and April2024 return/preceding break; university overlap; any earlier paid work. Obtain employment/annual-report evidence rather than treating agreement standard hours as personal proof."
+    "Follow-up: internship/payroll/host dates and Cook relief job; individual union/staff hours and leave; assistant/state-secretary endpoints and April2024 return/preceding break; university overlap; any earlier paid work. Obtain employment/annual-report evidence rather than treating agreement standard hours as personal proof.",
+    "Follow-up 2026-10-02: later penalty-rates Hansard and own speech reproduction identify first Subway job and school/university shift pattern. This supersedes earlier note that no ordinary private employment had been identified. Both totals remain unknown.",
+    "Follow-up searches for internship/Cook dates, assistant-secretary appointment and party cessation did not resolve personal hours or payroll endpoints. Public30June2025 party post supplies outgoing-status observation only; exact11July2022 appointment remains an unverified secondary lead until original dated announcement is accessible.",
+    "LinkedIn open999, APH Hansard source403 and Instagram Online fetch throttled were individual access gaps; no repeated access-control attempts. Next leads: historical Subway Baldivis franchise/payroll identity and tenure, labour-movement internship records, Cook relief dates, union and party leave/full-time evidence. No employment attributed from other speakers or shared social posts."
   ]
 }
