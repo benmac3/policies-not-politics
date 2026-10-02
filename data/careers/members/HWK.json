@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/HWK",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-01",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -51,9 +51,11 @@
         "src-3",
         "src-4",
         "src-6",
-        "src-8"
+        "src-8",
+        "src-10",
+        "src-11"
       ],
-      "evidence_note": "Official chronology gives 1992–2007. Butler explicitly says he entered as a full-time official; eleven years were as state secretary. Whole-spell status remains unknown because later changes, leave and exact transition are not documented. Successor United Voice/United Workers Union names are retrospective, not separate concurrent jobs.",
+      "evidence_note": "Official chronology gives 1992–2007. Butler explicitly says he entered as a full-time official; eleven years were as state secretary. Whole-spell status remains unknown because later changes, leave and exact transition are not documented. Successor United Voice/United Workers Union names are retrospective, not separate concurrent jobs. Branch accounts identify national council as ultimate controlling entity in2003–04. ABC2016 says secretary after1997, creating a chronology discrepancy with eleven-year recollection; no exact secretary start inferred.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "HWK-02"
     },
@@ -177,7 +179,7 @@
       "role": "Member for Port Adelaide, then Hindmarsh; ministerial and parliamentary offices",
       "start_date": "2007-11-24",
       "end_date": null,
-      "date_precision": "day",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -232,6 +234,25 @@
       "evidence_note": "Qualifications are study; dates and overlap with employment not established.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "HWK-11"
+    },
+    {
+      "employer": "Liquor, Hospitality and Miscellaneous Union, South Australian branch",
+      "role": "Branch executive / committee of management member",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "union",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-10"
+      ],
+      "evidence_note": "Named for entire reporting period1July2003–30June2004. Actual appointment and departure endpoints unknown; concurrent union governance, no additional employment years. Staff counts and remuneration are aggregated, not personal evidence.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "HWK-12"
     }
   ],
   "sources": [
@@ -324,6 +345,26 @@
       "note": "Publisher confirms authorship of Advanced Australia and Climate Wars; publication is not evidence of salaried university employment or full-time writing.",
       "retrieved": "2026-10-01",
       "source_id": "src-9"
+    },
+    {
+      "url": "https://regorgs.fwc.gov.au/sites/default/files/migration/416/108vsa1-fr2004-569.pdf",
+      "publisher": "LHMU South Australian Branch / Australian Industrial Registry",
+      "title": "South Australian branch financial report 2003–2004",
+      "source_type": "employer",
+      "locator": "PDF pages15,17,30; committee statement, operating report section7, related-party note5",
+      "note": "Names Butler on branch executive throughout reporting year; observation bounds, not appointment endpoints. Aggregate staffing/pay cannot establish his hours or personal remuneration.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-10"
+    },
+    {
+      "url": "https://www.abc.net.au/news/elections/federal/2016/guide/pade",
+      "publisher": "ABC / Antony Green",
+      "title": "Port Adelaide federal election guide2016",
+      "source_type": "news",
+      "locator": "Candidate Mark Butler biography",
+      "note": "Says secretary after1997; conflicts with eleven-year secretary recollection and requires original appointment evidence.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-11"
     }
   ],
   "research_notes": [
@@ -331,6 +372,9 @@
     "Full-time entry to the union is explicit but excluded under the codebook. It cannot supply private or public headline years. Missing paralegal dates and hours prevent treating private employment as zero.",
     "Follow-up: primary DBH historical staff material and university-era employment dates/pay/hours; union legal-officer/secretary transition and leave; Social Inclusion Board appointment reports; Centre for Work and Life advisory appointment dates/pay; author contracts/working time if relevant.",
     "A GamingCare advisory-chair claim appeared in a third-party profile. AHA 2006 annual report names Jane Jeffreys as GamingCare chair; this may concern different bodies. Do not add Butler’s alleged chair role without direct corroboration.",
-    "Recovered source restrictions: Advertiser direct URL restricted; older personal about URL inaccessible. Indexed reliable excerpt used only for the narrow paralegal fact. No access-control bypass attempted."
+    "Recovered source restrictions: Advertiser direct URL restricted; older personal about URL inaccessible. Indexed reliable excerpt used only for the narrow paralegal fact. No access-control bypass attempted.",
+    "Follow-up2026-10-02: historical branch accounts establish previously unrecorded branch-executive governance and national-council control, distinct from national executive. Reporting period is not converted into appointment bounds. No individual full-time status or remuneration can be allocated from aggregates.",
+    "ABC secretary-after1997 chronology conflicts with eleven-year recollection; seek appointment/election return before splitting1992–2007. Student paralegal dates/hours and advisory board terms remain unknown after DBH, Social Inclusion, university and GamingCare searches.",
+    "SA20November2007Hansard returned403; ordinary financial-report download timed out but web PDF text was readable. These source errors did not terminate research."
   ]
 }
