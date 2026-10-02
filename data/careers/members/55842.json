@@ -6,12 +6,12 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/55842",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-01",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
     "calculation_status": "not_calculable",
-    "note": "Documented public-service and private-enterprise roles lack substantive full-time and leave evidence. Several endpoints, study overlaps and career gaps remain unresolved; no headline years calculated."
+    "note": "Full-time Treasury cadet program participation is supported, but its component dates and leave are unknown. Whole Treasury and private roles lack adequate hours/leave evidence; no headline years calculated."
   },
   "career_spells": [
     {
@@ -51,9 +51,10 @@
         "src-1",
         "src-2",
         "src-3",
-        "src-14"
+        "src-14",
+        "src-15"
       ],
-      "evidence_note": "Frozen interval retained; first speech and party biography identify cadetship during economics study. Separate cadet-to-analyst transition, hours and study leave unknown.",
+      "evidence_note": "Frozen interval retained; first speech and party biography identify cadetship during economics study. Separate cadet-to-analyst transition, hours and study leave unknown. Winter2021speech identifies Dowling as fellow cadet in a full-time-work/part-time-study program. Supports the cadet component, not all2002–2007service. Undated subspell below is included within this aggregate and must not be added twice.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "55842-02"
     },
@@ -139,9 +140,11 @@
       "source_ids": [
         "src-1",
         "src-2",
-        "src-5"
+        "src-5",
+        "src-16",
+        "src-17"
       ],
-      "evidence_note": "Frozen title Global Affairs; contemporary 2018 release says Government Affairs. Commercial company, but historical controlling ownership not fully verified. End date not inferred from company insolvency.",
+      "evidence_note": "Frozen title Global Affairs; contemporary 2018 release says Government Affairs. Commercial company, but historical controlling ownership not fully verified. End date not inferred from company insolvency. Historical register index and2017Amp announcement identify private investors but complete control rights across tenure remain unverified.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "55842-06"
     },
@@ -194,7 +197,7 @@
       "role": "Adviser",
       "start_date": "2024",
       "end_date": null,
-      "date_precision": "year",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "political_staff",
@@ -280,9 +283,10 @@
       "source_ids": [
         "src-2",
         "src-3",
-        "src-14"
+        "src-14",
+        "src-15"
       ],
-      "evidence_note": "Bachelor of Economics; overlapped KFC and Treasury cadetship. Study dates/intensity not supplied.",
+      "evidence_note": "Bachelor of Economics; overlapped KFC and Treasury cadetship. Study dates/intensity not supplied. Winter describes part-time study during the cadet program; whole-degree intensity remains unknown.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "55842-13"
     },
@@ -312,7 +316,7 @@
       "role": "Senator for Tasmania",
       "start_date": "2025-07-01",
       "end_date": null,
-      "date_precision": "day",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -326,6 +330,27 @@
       "evidence_note": "Frozen commencement retained; election date is not service start.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "55842-15"
+    },
+    {
+      "employer": "Department of Treasury and Finance (Tasmania)",
+      "role": "Cadet, undated component of2002–2007aggregate",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "full_time",
+      "fte_fraction": null,
+      "category": "public_service",
+      "headline_sector": "public",
+      "government_control_at_time": "public",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-3",
+        "src-14",
+        "src-15"
+      ],
+      "evidence_note": "Winter explicitly names Dowling as fellow participant in Treasury cadet program described as full-time work and part-time study. Full-time status supported at program level with individual participation corroborated; precise component boundaries and leave unknown. This subspell is contained within55842-02, not additional employment.",
+      "counting_note": "Do not double-count aggregate55842-02; undated cadet interval and leave prevent calculation.",
+      "spell_id": "55842-16"
     }
   ],
   "sources": [
@@ -468,6 +493,36 @@
       "note": "Confirms University of Tasmania economics study alongside Treasury cadetship and later overseas MBA; does not state full-time hours.",
       "retrieved": "2026-10-01",
       "source_id": "src-14"
+    },
+    {
+      "url": "https://www.parliament.tas.gov.au/__data/assets/pdf_file/0027/48951/winter,20dean.pdf",
+      "publisher": "Parliament of Tasmania",
+      "title": "Dean Winter inaugural speech24June2021",
+      "source_type": "government_record",
+      "locator": "Printed pp5–6; Treasury cadet program paragraph and Richard Dowling identification",
+      "note": "Names Dowling as fellow participant in program described as full-time Treasury work alongside part-time study. Supports cadet component only; does not date his cadet-to-analyst transition.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-15"
+    },
+    {
+      "url": "https://find-and-update.company-information.service.gov.uk/company/10360764/filing-history?page=2",
+      "publisher": "Companies House",
+      "title": "Faraday Grid Ltd10360764 historical filings",
+      "source_type": "government_record",
+      "locator": "2017PSC filings;2018confirmation statement;2017accounts filed1February2019",
+      "note": "Index identifies private individuals in PSC events and commercial share allotments. Underlying accounts and confirmation PDFs returned500non-retryable redirects; full historical control not established.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-16"
+    },
+    {
+      "url": "https://www.prnewswire.com/news-releases/faraday-grid-announces-strategic-investment-agreement-with-amp-638374743.html",
+      "publisher": "Amp via PRNewswire",
+      "title": "Faraday Grid announces strategic investment agreement with Amp,3August2017",
+      "source_type": "employer",
+      "locator": "Opening two paragraphs",
+      "note": "Amp describes itself as principal strategic investor. Does not specify voting percentages or all control rights; not sufficient alone to settle whole2017–2019control interval.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-17"
     }
   ],
   "research_notes": [
@@ -477,6 +532,8 @@
     "Companies House historical Faraday filings identified at https://find-and-update.company-information.service.gov.uk/company/10360764/filing-history?page=2; persons-with-significant-control page returned Internal Error without code. Historical control left unknown; government-funded trade mission not evidence of government control.",
     "November 2024 Australian reporting indexed Meta departure June and return to Hobart in August for Winter in Mercury reporting; no complete accessible primary appointment document established those dates. Preserve as follow-up leads. Winter employment itself corroborated in accessible December analysis.",
     "Do not confuse UK VMware vExpert Rich Dowling/virtRich, a Sydney Kong customer-experience professional, Irish politician, radiologist or pianist with this senator. No personal contacts collected.",
-    "Follow-up: Treasury cadet/analyst hours and transition, dated employer professional history, KFC legal employer, company control/contract details, exact private role endpoints, 2019–20 and 2024–25 gaps, study/campaign leave. Government and employer primary records may refine boundaries; totals remain unknown."
+    "Follow-up: Treasury cadet/analyst hours and transition, dated employer professional history, KFC legal employer, company control/contract details, exact private role endpoints, 2019–20 and 2024–25 gaps, study/campaign leave. Government and employer primary records may refine boundaries; totals remain unknown.",
+    "Follow-up2026-10-02: fellow cadet Dean Winter parliamentary testimony adds individual-linked program evidence of full-time cadet work/part-time study. Cadet component recorded separately without invented dates or double-counting2002–2007aggregate. Analyst component and leave remain unresolved.",
+    "Faraday historical Companies House index and primary Amp investment release examined; underlying2017accounts and2018confirmation statement failed with500redirect errors labelled non-retryable, not retried. Private investors identified, but full2017–2019control not proven. Targeted2019–2020and Winter/Meta transition searches did not resolve dates. Earlier statement that no full-time designation was found is superseded only for the undated cadet component."
   ]
 }
