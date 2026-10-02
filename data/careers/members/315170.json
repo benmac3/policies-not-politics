@@ -6,7 +6,7 @@
   "snapshot_party": "Liberal Party of Australia",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/315170",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-01",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -104,19 +104,20 @@
       "date_precision": "unknown",
       "employment_status": "unknown",
       "fte_fraction": null,
-      "category": "unknown",
-      "headline_sector": "unknown",
+      "category": "nonprofit",
+      "headline_sector": "excluded",
       "government_control_at_time": "private",
-      "counting_status": "insufficient_evidence",
+      "counting_status": "excluded",
       "source_ids": [
         "src-5",
         "src-6",
         "src-7",
         "src-9",
-        "src-12"
+        "src-12",
+        "src-13"
       ],
-      "evidence_note": "Observed in2018exhibition andAutumn2020schoolmagazine.2020annualreport names successor by2021; does not establish exact departure. School/community governance supports non-government control, but nonprofit versus enterprise classification requires historical legal evidence. Director title not full-time proof.",
-      "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
+      "evidence_note": "Observed in2018exhibition andAutumn2020schoolmagazine.2020annualreport names successor by2021; does not establish exact departure. School/community governance supports non-government control, but nonprofit versus enterprise classification requires historical legal evidence. Director title not full-time proof. Follow-up historicalABR confirms charitable status throughout2018–2020observations and same entity across2October2018name expansion, resolving nonprofit category. Public grants do not establish government control. Autumn2020magazine fullPDF recovered, Rising to the Challenge signed by Blyth on printedp5(PDFpage3spreadpp4–5); publication is an observation, not an endpoint.",
+      "counting_note": "Nonprofit school employment recorded separately and excluded from public/private enterprise headline years under the codebook; hours and personal tenure remain unknown.",
       "spell_id": "315170-05"
     },
     {
@@ -163,7 +164,7 @@
       "role": "Senator for South Australia",
       "start_date": "2025-02-06",
       "end_date": null,
-      "date_precision": "day",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -236,9 +237,9 @@
       "publisher": "Pembroke School",
       "title": "Pembroke News102, Autumn2020",
       "source_type": "employer",
-      "locator": "Indexed article signed Leah Blyth, Director of Admissions",
-      "note": "Contemporary employer publication confirms role. Full PDF open400 Content length is too large:12607030; indexed passage used, page not recovered.",
-      "retrieved": "2026-10-01",
+      "locator": "Printed p5, Rising to the Challenge; PDFpage3 spreadpp4–5",
+      "note": "Contemporary employer publication confirms role. Full PDF open400 Content length is too large:12607030; indexed passage used, page not recovered. Follow-up:ordinary primaryPDFdownload succeeded and fulltext confirmed byline; earlier web-reader size limit recovered.",
+      "retrieved": "2026-10-02",
       "source_id": "src-6"
     },
     {
@@ -300,6 +301,16 @@
       "note": "School/community appointed and elected board; contemporary2020report supports non-government control. Historical nonprofit legal classification needs confirmation.",
       "retrieved": "2026-10-01",
       "source_id": "src-12"
+    },
+    {
+      "url": "https://abr.business.gov.au/AbnHistory/View?id=49358864788",
+      "publisher": "Australian Business Register",
+      "title": "Historical details ABN49358864788, Pembroke School",
+      "source_type": "government_record",
+      "locator": "Entity names, ACNCregistration and charity tax concession tables",
+      "note": "SameABN PembrokeSchoolInc until2October2018 then Incorporated; charity from1July2000 and ACNCregistration3December2012. Registration dates establish employer status, not Blyth employment dates.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-13"
     }
   ],
   "research_notes": [
@@ -308,6 +319,9 @@
     "2018and2020Pembroke primary observations are not start/endpoints.2021and2024ICPAcontacttables still list Blyth while school annualreport names replacement; do not infer uninterrupted service from recycled directories. University2021title also needs temporal clarification.",
     "Searched employer/university historical records, law-school role, consultant business, professional profiles and full-time statements.2017UniversityRespectNowAlwaysminutes identify LeahGrantham, not Blyth, and are excluded. MelbourneHealth/UnitingAgeWell manager and Victorian lawyer are namesakes; excluded. Staff vacancies in SenatorBlythoffice are not her own employment hours.",
     "APH direct403 and PembrokeAutumn2020PDF400oversize are source gaps; indexedprimary evidence and alternatepublic documents recovered. No hours/leave evidence. Morethan20years does not permit a2005start calculation.",
-    "Follow-up: pre2013and overseas employers, university appointments and fraction/control, primarylawschoolmanager evidence, Pembroke appointment/exit and legalnonprofitstatus, familybusinessname/dates, consultingentity/clients/continuation afterSenate, educationdates and employmentbreaks."
+    "Follow-up: pre2013and overseas employers, university appointments and fraction/control, primarylawschoolmanager evidence, Pembroke appointment/exit and legalnonprofitstatus, familybusinessname/dates, consultingentity/clients/continuation afterSenate, educationdates and employmentbreaks.",
+    "Follow-up2026-10-02:historicalABR resolves Pembroke nonprofit classification during evidenced2018–2020work; category/headline corrected to nonprofit/excluded. Tax-registration and legal-name dates are not personal tenure dates. Recovered fullAutumn2020schoolmagazine, retaining unknown employment endpoints/fraction.",
+    "University-site, appointment, publicprofessionalprofile, overseas and consultancy searches did not verify directory2013–2020dates. UnitingAgeWell and lawyer namesakes excluded again.2024PollBludger article describes a political staffer but employer/payroll/dates uncorroborated; retained as new lead rather than identified staff job.",
+    "Next leads:university historicalstaffdirectories/payroll appointments; originalPembroke appointment/departure notices; identifiableconsultancy/familybusiness; primaryevidenceofpoliticalstaffwork; overseas employers and leave/hours."
   ]
 }
