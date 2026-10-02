@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/265979",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-01",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -97,14 +97,15 @@
         "src-own-bio",
         "src-gplink-2021",
         "src-alp-followup",
-        "src-abc-2017"
+        "src-abc-2017",
+        "src-nhmrc-members-oct2"
       ],
-      "evidence_note": "The party biography gives a 1984 paediatric residency start; secondary material records Head of Paediatrics from 1986 to 2013 and resignation from the public position for constitutional eligibility before the 2016 election. Exact appointment/resignation dates, payroll entity, hours, FTE allocation and leave are unresolved. Own biography and GP Link give head role 1986–2013, whereas current ALP biography says it began in 1990. Hospital appointment records are needed to resolve this. ABC 2017 corroborates pre-election job relinquishment but supplies no exact cessation date.",
+      "evidence_note": "The party biography gives a 1984 paediatric residency start; secondary material records Head of Paediatrics from 1986 to 2013 and resignation from the public position for constitutional eligibility before the 2016 election. Exact appointment/resignation dates, payroll entity, hours, FTE allocation and leave are unresolved. Own biography and GP Link give head role 1986–2013, whereas current ALP biography says it began in 1990. Hospital appointment records are needed to resolve this. ABC 2017 corroborates pre-election job relinquishment but supplies no exact cessation date. NHMRC member biography also says1986–2013 for head role; employer appointment documentation still needed to resolve1990 alternative.",
       "counting_note": "Public hospital employment is supported, but substantive full-time status and exact boundaries are not established."
     },
     {
       "spell_id": "265979-private-practices",
-      "employer": "Freelander paediatric practices in Campbelltown and Camden (legal entities unresolved)",
+      "employer": "Freelander paediatric practices in Campbelltown and Camden; Pebema P/L identified as medical-practice company (earlier entities unresolved)",
       "role": "Paediatrician and practice operator",
       "start_date": "1984",
       "end_date": null,
@@ -118,9 +119,11 @@
       "source_ids": [
         "src-council",
         "src-secondary",
-        "src-own-bio"
+        "src-own-bio",
+        "src-interests48-oct2",
+        "src-interests46-oct2"
       ],
-      "evidence_note": "Campbelltown City Council says he moved to the region as a locum in the early 1980s and grew paediatric practices in Campbelltown and Camden; the secondary biography places establishment in 1984. Legal entities, opening/closing dates, hours, staff, ownership and allocation against public-hospital work are unresolved. Election is used only as an outer boundary, not proof of exact cessation. Follow-up removes the unsupported 2016 private-practice end field: election/public-hospital resignation does not prove private-business cessation. Earlier 2016 value was contextual only, not sourced closure evidence.",
+      "evidence_note": "Campbelltown City Council says he moved to the region as a locum in the early 1980s and grew paediatric practices in Campbelltown and Camden; the secondary biography places establishment in 1984. Legal entities, opening/closing dates, hours, staff, ownership and allocation against public-hospital work are unresolved. Election is used only as an outer boundary, not proof of exact cessation. Follow-up removes the unsupported 2016 private-practice end field: election/public-hospital resignation does not prove private-business cessation. Earlier 2016 value was contextual only, not sourced closure evidence. The2025 primary interests statement identifies his directorship in Pebema P/L and describes it as a defunct medical-practice company, now a superannuation trustee. The2019 disclosure transcription already uses that description. This identifies a practice entity and provides a ceased-operation observation, not its incorporation, full operating interval or exact clinical cessation date. No assumption that Pebema operated throughout the1984-onwards career; end field remains null because exact closure unknown, not because practice is asserted ongoing.",
       "counting_note": "Private self-employment is supported, but hours, precise dates and overlap prevent an exact full-time total."
     },
     {
@@ -159,9 +162,10 @@
       "counting_status": "excluded",
       "source_ids": [
         "src-secondary",
-        "src-gplink-2021"
+        "src-gplink-2021",
+        "src-newsletter2019-oct2"
       ],
-      "evidence_note": "Secondary material cites his public statement that he continued regular voluntary clinics after entering Parliament in 2016. Frequency, exact dates and any reimbursements are unresolved; the work is expressly described as voluntary. First-person GP Link interview independently establishes ongoing Campbelltown clinical activity in November 2021, but does not itself state remuneration or frequency; unpaid classification still rests on the earlier explicit voluntary-clinic account.",
+      "evidence_note": "Secondary material cites his public statement that he continued regular voluntary clinics after entering Parliament in 2016. Frequency, exact dates and any reimbursements are unresolved; the work is expressly described as voluntary. First-person GP Link interview independently establishes ongoing Campbelltown clinical activity in November 2021, but does not itself state remuneration or frequency; unpaid classification still rests on the earlier explicit voluntary-clinic account. November2019 own newsletter provides direct first-person corroboration of former employee/current volunteer status at Campbelltown Hospital. It does not give personal hours or exact conversion date.",
       "counting_note": "Unpaid work is excluded under the codebook."
     },
     {
@@ -199,11 +203,32 @@
       "counting_status": "excluded",
       "source_ids": [
         "src-nhmrc-2021",
-        "src-gplink-2021"
+        "src-gplink-2021",
+        "src-nhmrc-members-oct2"
       ],
-      "evidence_note": "NCHRAC report dated 12 May 2021 identifies him as working-group chair. GP Link interview confirms committee participation in November 2021. Governance/advisory activity, not evidence of a separate full-time clinical job. Appointment dates, hours and remuneration unresolved.",
+      "evidence_note": "NCHRAC report dated 12 May 2021 identifies him as working-group chair. GP Link interview confirms committee participation in November 2021. Governance/advisory activity, not evidence of a separate full-time clinical job. Appointment dates, hours and remuneration unresolved. NHMRC institutional history gives committee operation April2020–31March2022, providing outer limits only; his own appointment/cessation dates are not stated.",
       "counting_note": "Advisory/governance participation excluded; report date is not an appointment boundary.",
       "spell_id": "265979-covid-advisory"
+    },
+    {
+      "employer": "Pebema P/L",
+      "role": "Director; former medical-practice company and superannuation trustee",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "private_enterprise",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-interests48-oct2",
+        "src-interests46-oct2"
+      ],
+      "evidence_note": "Self directorship recorded in19August2025 primary interests statement, also in2019 secondary transcription. Appointment date and remuneration unknown. Governance and fund management are distinct from clinical practice; dates of disclosures are not employment boundaries.",
+      "counting_note": "Company governance and investment interests excluded; no additional full-time operational employment inferred.",
+      "spell_id": "265979-pebema-governance"
     }
   ],
   "sources": [
@@ -306,6 +331,46 @@
       "note": "Reports giving up Campbelltown job to nominate and offer to see patients unpaid. Does not supply resignation date; article is used for career evidence, not legal advice.",
       "retrieved": "2026-10-01",
       "source_id": "src-abc-2017"
+    },
+    {
+      "url": "https://interests-register-api-public.aph.gov.au/api/members/265979/statement/48",
+      "publisher": "Australian Parliament",
+      "title": "Michael Freelander statement of registrable interests, submitted19August2025",
+      "source_type": "government_record",
+      "locator": "PDF pp2–4 and7, shareholdings, superannuation, directorship and income fields; submission date p9",
+      "note": "Downloaded public9-page PDF and read text. Self directorship identifies Pebema P/L as a defunct medical-practice company and superannuation trustee; ongoing company existence is not continuing clinical employment.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-interests48-oct2"
+    },
+    {
+      "url": "https://openpolitics.au/46/mike-freelander",
+      "publisher": "Open Politics",
+      "title": "Mike Freelander interests,46th Parliament",
+      "source_type": "other",
+      "locator": "Directorships and income entries dated11April2019; explanatory statement on dates",
+      "note": "Secondary transcription already describes Pebema medical-practice operation as defunct by the2019 disclosure. Original45th-parliament PDF link returned restricted-URL error; this transcription date is an observation, not closure date.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-interests46-oct2"
+    },
+    {
+      "url": "https://drmikefreelander.com.au/media/ybtmjgrg/freelander-newsletter-november-2019-v2b.pdf",
+      "publisher": "Mike Freelander MP",
+      "title": "Community News, November2019",
+      "source_type": "official_biography",
+      "locator": "Nurses and Midwives section",
+      "note": "First-person statement identifies him as a former Campbelltown Hospital employee and current volunteer; staffing-vacancy FTE figures concern the hospital workforce, not his individual hours.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-newsletter2019-oct2"
+    },
+    {
+      "url": "https://www.nhmrc.gov.au/about-us/leadership-and-governance/committees/national-covid-19-health-and-research-advisory-committee",
+      "publisher": "NHMRC",
+      "title": "National COVID-19 Health and Research Advisory Committee",
+      "source_type": "government_record",
+      "locator": "Opening institutional history and Michael Freelander member biography",
+      "note": "Committee operated April2020–31March2022. Biography gives1986–2013 head-of-paediatrics service; this corroborates one account but does not independently resolve conflicting1990 start. Committee life is not necessarily personal membership term.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-nhmrc-members-oct2"
     }
   ],
   "research_notes": [
@@ -315,7 +380,9 @@
     "Regular clinics after election are recorded as unpaid because the available statement expressly describes them as voluntary.",
     "Follow-up 2026-10-01: primary university graduation evidence and previously omitted Royal North Shore residency clarify the pre-1984 sequence. Removed inferred Royal Alexandra employment boundaries and the unsourced private-practice election endpoint while retaining the earlier contextual evidence.",
     "Attempted avenues: official member/party biographies, university alumni database, GP Link interview, RACP podcast, NSW Health service directories and annual-report searches, business-register searches and full-time/part-time/resignation queries. No named private-practice entity, employment FTE or leave/cessation schedule established. NSW Health clinic page timed out; indexed service listing corroborates clinical presence only. HealthShare profile did not expose usable biography on open; university record supplied qualification evidence instead.",
-    "Further leads: Royal North Shore/Royal Alexandra personnel or annual reports; Campbelltown head appointment evidence resolving 1986 versus 1990; private-practice legal entities and closure evidence; WSU appointment classification. Contemporary report describing post-election clinics as part time does not establish payment or pre-election FTE. Governance and teaching remain separate from clinical employment."
+    "Further leads: Royal North Shore/Royal Alexandra personnel or annual reports; Campbelltown head appointment evidence resolving 1986 versus 1990; private-practice legal entities and closure evidence; WSU appointment classification. Contemporary report describing post-election clinics as part time does not establish payment or pre-election FTE. Governance and teaching remain separate from clinical employment.",
+    "Second follow-up2October2026 identifies Pebema as a former medical-practice company using the primary2025 disclosure and2019 transcription. Practice closure is evidenced as an existing condition, not assigned to election day or disclosure date. Directorship is separate from operational work.",
+    "Targeted visiting-medical-officer, full-time, resignation and legal-entity searches did not establish clinical hours or a personnel resignation day. A2019 first-person newsletter independently confirms volunteer status. Original45P disclosure link was restricted in web reader; current public48P PDF downloaded successfully when the reader itself could not open it. ABR view failed; commercial registry search was not used to infer employment. Next priority: original2016–19 practice accounts/closure record, hospital employment appointment terms and early residency dates."
   ],
   "open_questions": [
     "What were the exact Children's Hospital training appointments, dates, hours and leave from 1978 to 1984?",
@@ -325,6 +392,7 @@
     "What were the Western Sydney University appointment dates, remuneration and teaching load?",
     "Did any paid private medical work continue after election, separately from the documented voluntary clinics?",
     "What were the Royal North Shore residency dates and its transition to Royal Alexandra training?",
-    "Did Campbelltown departmental leadership begin in 1986 or 1990, and why do the primary biographies differ?"
+    "Did Campbelltown departmental leadership begin in 1986 or 1990, and why do the primary biographies differ?",
+    "When did Pebema P/L operate the clinical practice and cease that activity, which earlier entities preceded it, and what dates/hours applied to Freelander’s paid clinical work separately from later fund trusteeship?"
   ]
 }
