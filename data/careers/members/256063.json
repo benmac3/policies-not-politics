@@ -6,7 +6,7 @@
   "snapshot_party": "Liberal Party of Australia",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/256063",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-01",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -40,9 +40,9 @@
       "spell_id": "256063-ey",
       "employer": "Ernst & Young",
       "role": "Accountant / internal audit",
-      "start_date": "2008",
-      "end_date": "2008",
-      "date_precision": "year",
+      "start_date": "2007-01",
+      "end_date": "2008-09",
+      "date_precision": "month",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "private_enterprise",
@@ -54,9 +54,10 @@
         "src-personal",
         "src-party",
         "src-secondary",
-        "src-fix2014"
+        "src-fix2014",
+        "src-linkedin"
       ],
-      "evidence_note": "Official frozen biography records employment in 2008; biographies identify accounting/internal audit. Exact dates, employing EY entity, hours and leave are unresolved. Contemporary2014 profile identifies EY Advisory and Government Practice; this does not resolve legal employing entity or full-time status.",
+      "evidence_note": "Official frozen biography records employment in 2008; biographies identify accounting/internal audit. Exact dates, employing EY entity, hours and leave are unresolved. Contemporary2014 profile identifies EY Advisory and Government Practice; this does not resolve legal employing entity or full-time status. Follow-up2026-10-02: public professional-profile index explicitly dates EY January2007–September2008 and describes internal audit (governance). This independently corroborates the previous aggregator lead. Month boundaries adopted with conflict retained: frozen biography lists2008 only. Exact payroll entity, hours and leave unresolved; September2008 overlaps Commonwealth adviser commencement at month precision.",
       "counting_note": "Private control is clear, but year-only dates and unknown full-time status do not support a headline duration."
     },
     {
@@ -404,6 +405,25 @@
       "evidence_note": "First-person first-speech recollection places this work in regional Victorian upbringing. Separate activities recorded without inventing employer names, dates, pay, hours, control or seasonal duration; may involve more than one employer.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "256063-dairy"
+    },
+    {
+      "employer": "Woolworths Limited",
+      "role": "Management traineeship",
+      "start_date": "2002-02",
+      "end_date": "2003-02",
+      "date_precision": "month",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "private_enterprise",
+      "headline_sector": "private",
+      "government_control_at_time": "private",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-linkedin"
+      ],
+      "evidence_note": "Public professional-profile search index names employer, traineeship and February2002–February2003. Independently corroborates prior aggregator-only lead. Exact days, store/location, hours, pay and leave remain unknown; traineeship title does not establish full-time work.",
+      "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
+      "spell_id": "256063-woolworths"
     }
   ],
   "sources": [
@@ -452,10 +472,10 @@
       "url": "https://au.linkedin.com/in/senator-andrew-bragg-3296b823",
       "publisher": "LinkedIn / Andrew Bragg",
       "title": "Senator Andrew Bragg — professional profile",
-      "retrieved": "2026-10-01",
+      "retrieved": "2026-10-02",
       "source_type": "professional_profile",
       "locator": "Public search-index experience snippets",
-      "note": "Month ranges for BCA, Bragg PPC and endorsed-candidate periods. Direct page detail was not bypassed; indexed public text used only as supplemental evidence. Follow-up public index supplies Commonwealth Policy Adviser September2008–October2009 and Menzies November2016–April2017. Direct page unavailable; no access controls bypassed."
+      "note": "Month ranges for BCA, Bragg PPC and endorsed-candidate periods. Direct page detail was not bypassed; indexed public text used only as supplemental evidence. Follow-up public index supplies Commonwealth Policy Adviser September2008–October2009 and Menzies November2016–April2017. Direct page unavailable; no access controls bypassed. Public index retrieved2October2026 additionally identifies Woolworths Limited management traineeship February2002–February2003 and EY internal audit (governance) January2007–September2008. No direct access retry or inferred hours."
     },
     {
       "source_id": "src-fsc",
@@ -555,7 +575,8 @@
     "What were the ANU and Macquarie study dates and any concurrent paid work?",
     "Was the announced November2016 FSC departure implemented, and what explains the frozen2017 endpoint?",
     "Which Commonwealth department or political office employed him in2008–09, and on what hours?",
-    "Who employed him in early orchard, cannery and dairy work, and when?"
+    "Who employed him in early orchard, cannery and dairy work, and when?",
+    "What were the Woolworths traineeship store, exact dates, substantive hours and leave, and do EY payroll records confirm the profile January2007 start beyond the frozen2008-only entry?"
   ],
   "research_notes": [
     "Systematic nationwide follow-up2026-10-01. Required research_notes added; supported existing spells preserved. Material additions: previously omitted Commonwealth advisory work and three early work activities; governance observations, education correction and stronger FSC/Menzies endpoints. No substantive full-time evidence found; totals remain null, not zero.",
@@ -563,6 +584,8 @@
     "Employer resignation notice is prospective: November2016 is the announced FSC cessation month, with original frozen2017 discrepancy retained. Menzies April2017 comes from indexed professional profile, replacing an inference from BCA commencement. Current own biography and2014 profile correct the earlier ANU BAcc claim without changing frozen roster.",
     "Searched parliamentary material, employer announcements,2014 conference biography, public professional-profile indexes, ASX submissions, ASIC/taskforce/GIPS queries, member first speech, corporate register/interests and early-work searches. Direct LinkedIn returned999 and parliamentary interests artifact failed restricted-URL fetch; these are source-specific gaps. Broader searches produced unrelated US/UK namesakes, excluded.",
     "Uncorroborated leads retained for a later targeted pass: ContactOut employment aggregation (https://contactout.com/Andrew-Bragg-158117251) suggests Woolworths traineeship February2002–February2003 and EY January2007–September2008. These are not promoted to supported spells or dates without primary/reliable corroboration. No contact details collected. Public corporate-index leads suggest Bragg PPC non-operating by2022 and deregistered2023; company registration is not personal work duration.",
-    "Follow-up priorities: identify early orchard/cannery/dairy employers and pay/hours; verify Woolworths/EY lead; Commonwealth payroll and staff-versus-public-service classification; precise FSC departure and party secondments/leave; BCA/campaign overlap; Bragg PPC clients, hours and campaign leave; study dates. Advance nationwide queue before repeating exhausted broad queries."
+    "Follow-up priorities: identify early orchard/cannery/dairy employers and pay/hours; verify Woolworths/EY lead; Commonwealth payroll and staff-versus-public-service classification; precise FSC departure and party secondments/leave; BCA/campaign overlap; Bragg PPC clients, hours and campaign leave; study dates. Advance nationwide queue before repeating exhausted broad queries.",
+    "Second follow-up2026-10-02 materially corroborates previously unadopted Woolworths and EY dates via the public professional-profile index. Added Woolworths spell and refined EY dates, preserving frozen2008-only discrepancy; unknown hours and September2008 transition overlap retained. No contact-data aggregators used as final evidence.",
+    "Commonwealth adviser queries corroborate existing September2008–October2009 generic government description but still do not identify appointing office/department. Nick Sherry query returned unrelated Ann Sherry material, not evidence of staff employment. Orchard/cannery/dairy employers remain unresolved. Next targeted lead: actual Commonwealth appointment or CV naming department; Woolworths training and EY payroll/leave evidence."
   ]
 }
