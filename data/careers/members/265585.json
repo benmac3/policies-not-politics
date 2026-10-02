@@ -6,7 +6,7 @@
   "snapshot_party": "The Nationals",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/265585",
   "research_status": "blocked",
-  "last_reviewed": "2026-09-30",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -27,7 +27,11 @@
       "headline_sector": "private",
       "government_control_at_time": "private",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-1", "src-4", "src-7"],
+      "source_ids": [
+        "src-1",
+        "src-4",
+        "src-7"
+      ],
       "evidence_note": "The official parliamentary biography and 2017 Parliamentary Handbook record cotton chipping in 1993. Employer, location, seasonal dates, hours and continuity are not published.",
       "counting_note": "A year label for seasonal agricultural labour does not establish a full-time interval."
     },
@@ -44,8 +48,14 @@
       "headline_sector": "private",
       "government_control_at_time": "private",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-1", "src-4", "src-5", "src-6"],
-      "evidence_note": "Official records give an overall 1994–2016 banking-and-finance interval. Employer and industry profiles report 17 years at NAB, including 12 years in Warwick as district manager for agribusiness and commercial banking, before joining Suncorp in 2011. Exact appointment and cessation dates, earlier role sequence, hours and leave are not published.",
+      "source_ids": [
+        "src-1",
+        "src-4",
+        "src-5",
+        "src-6",
+        "src-12"
+      ],
+      "evidence_note": "Official records give an overall 1994–2016 banking-and-finance interval. Employer and industry profiles report 17 years at NAB, including 12 years in Warwick as district manager for agribusiness and commercial banking, before joining Suncorp in 2011. Exact appointment and cessation dates, earlier role sequence, hours and leave are not published. First speech lists banking locations Miles, Nanango, Charleville, St George, Stanthorpe and Warwick, without assigning them to dated NAB/Suncorp postings.",
       "counting_note": "The long private-sector interval is well supported, but full-time status and exact boundaries are not."
     },
     {
@@ -61,7 +71,12 @@
       "headline_sector": "private",
       "government_control_at_time": "private",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-1", "src-5", "src-6", "src-8"],
+      "source_ids": [
+        "src-1",
+        "src-5",
+        "src-6",
+        "src-8"
+      ],
       "evidence_note": "Industry and event biographies report that Littleproud joined Suncorp in 2011 as executive manager for South West Queensland. Official records place the end of his banking-and-finance career in 2016, and an industry report says he left banking after winning preselection/election. Exact commencement, cessation, leave and campaign arrangements are not published.",
       "counting_note": "A senior title does not by itself establish continuous full-time service, and the election transition is only year-bounded."
     },
@@ -78,8 +93,14 @@
       "headline_sector": "private",
       "government_control_at_time": "private",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-2", "src-3", "src-9", "src-10"],
-      "evidence_note": "Littleproud's official site identifies business ownership in Warwick. His 2016 interests register records a shareholding in Mr Rental Southern Downs Pty Ltd and his spouse's wage from the company. In 2017 Hansard he described himself as a former retail small-business owner, while 2018 reporting and a speech described current ownership and four employees. These sources establish ownership but leave his operational hours, commencement, cessation and overlap with banking/elected office unresolved.",
+      "source_ids": [
+        "src-2",
+        "src-3",
+        "src-9",
+        "src-10",
+        "src-12"
+      ],
+      "evidence_note": "Littleproud's official site identifies business ownership in Warwick. His 2016 interests register records a shareholding in Mr Rental Southern Downs Pty Ltd and his spouse's wage from the company. In 2017 Hansard he described himself as a former retail small-business owner, while 2018 reporting and a speech described current ownership and four employees. These sources establish ownership but leave his operational hours, commencement, cessation and overlap with banking/elected office unresolved. First speech confirms joint investment and local employees in2016, not his personal full-time operational work.",
       "counting_note": "Ownership is not automatically substantive full-time employment; no countable operating interval is established."
     },
     {
@@ -95,7 +116,10 @@
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-1", "src-4"],
+      "source_ids": [
+        "src-1",
+        "src-4"
+      ],
       "evidence_note": "Official parliamentary records list both party positions but do not supply dates, paid status, hours or overlap with business and banking work.",
       "counting_note": "Party-organisation roles are excluded."
     },
@@ -105,36 +129,189 @@
       "role": "Member for Maranoa",
       "start_date": "2016-07-02",
       "end_date": null,
-      "date_precision": "day",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-1", "src-11"],
+      "source_ids": [
+        "src-1",
+        "src-11"
+      ],
       "evidence_note": "Official parliamentary service begins with the 2 July 2016 federal election.",
       "counting_note": "Federal elected office is excluded."
+    },
+    {
+      "employer": "Warwick Chamber of Commerce",
+      "role": "President",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "employer_association",
+      "headline_sector": "excluded",
+      "government_control_at_time": "nonprofit",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-13",
+        "src-14"
+      ],
+      "evidence_note": "Contemporaneous2011 government flood chronology and14April2011 news identify president. These are observations, not appointment/cessation boundaries; pay/hours unknown.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "265585-07"
     }
   ],
   "sources": [
-    {"source_id":"src-1","url":"https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=265585","publisher":"Parliament of Australia","title":"Hon David Littleproud MP","retrieved":"2026-09-30","source_type":"official_biography","locator":"Qualifications and occupation before entering Federal Parliament; party positions; parliamentary service","note":"Official 1993 cotton-chipping and 1994–2016 banking/finance intervals, party roles and federal service."},
-    {"source_id":"src-2","url":"https://davidlittleproud.com.au/","publisher":"Office of David Littleproud MP","title":"David Littleproud — Federal Member for Maranoa","retrieved":"2026-09-30","source_type":"official_biography","locator":"Career introduction","note":"Member's official site identifies business ownership in Warwick and agribusiness work across regional towns."},
-    {"source_id":"src-3","url":"https://icacpls.github.io/interests/david-littleproud.html","publisher":"Open Politics register extraction","title":"David Littleproud — parliamentary interests","retrieved":"2026-09-30","source_type":"government_record","locator":"Shareholdings and other income, registered 16 September 2016","note":"Transcription of official interests showing Littleproud's Mr Rental Southern Downs shareholding and spouse wage; ownership is not equated with his employment."},
-    {"source_id":"src-4","url":"https://openresearch-repository.anu.edu.au/server/api/core/bitstreams/f9296d1e-0d24-4d6c-a116-752d72366345/content","publisher":"Parliament of Australia","title":"Parliamentary Handbook of the Commonwealth of Australia 2017","retrieved":"2026-09-30","source_type":"government_record","locator":"David Littleproud biographical entry, page 152","note":"Historical official handbook corroborating 1993 cotton work, 1994–2016 banking/finance and party positions."},
-    {"source_id":"src-5","url":"https://www.foodsouthaustralia.com.au/eventdetails/12717/agriculture-the-backbone-of-our-economy-australia-israel-chamber-of-commerce-business-luncheon-with-david-littleproud","publisher":"Food South Australia","title":"Agriculture — the backbone of our economy: David Littleproud biography","retrieved":"2026-09-30","source_type":"professional_profile","locator":"Speaker biography","note":"Reports 17 years at NAB, 12 in Warwick as district manager, and Suncorp executive-manager appointment in 2011."},
-    {"source_id":"src-6","url":"https://www.canberratimes.com.au/story/6632677/you-get-it-into-your-blood-for-david-littleproud-politics-is-a-family-affair/","publisher":"The Canberra Times","title":"For David Littleproud, politics is a family affair","retrieved":"2026-09-30","source_type":"news","locator":"Pre-parliamentary banking career","note":"Career profile reporting NAB and Suncorp agribusiness banking; used with official/industry sources."},
-    {"source_id":"src-7","url":"https://www.theguardian.com/australia-news/2022/may/30/who-is-david-littleproud-the-former-banker-and-his-meteoric-rise-to-nationals-leader","publisher":"The Guardian","title":"Who is David Littleproud? The former banker and his rise to Nationals leader","retrieved":"2026-09-30","source_type":"news","locator":"Early career","note":"Corroborates the 1993 cotton-chipping reference and NAB/Suncorp banking career."},
-    {"source_id":"src-8","url":"https://www.beefcentral.com/news/david-littleproud-named-australias-new-federal-agriculture-minister/","publisher":"Beef Central","title":"David Littleproud named Australia's federal agriculture minister","retrieved":"2026-09-30","source_type":"news","locator":"Career background","note":"Industry report says Littleproud left banking in 2016 after winning National Party preselection for Maranoa."},
-    {"source_id":"src-9","url":"https://www.sbs.com.au/news/article/minister-defends-rent-to-buy-business/25jro0a8r","publisher":"SBS News","title":"Minister defends rent-to-buy business","retrieved":"2026-09-30","source_type":"news","locator":"Business ownership passage","note":"2018 report identifies ownership of Mr Rental Southern Downs and four employees."},
-    {"source_id":"src-10","url":"https://ntca.org.au/wp-content/uploads/2023/08/wal4232jun18ntcayearbook1718reduced_0-1.pdf","publisher":"Northern Territory Cattlemen's Association","title":"NTCA Yearbook 2017–18","retrieved":"2026-09-30","source_type":"professional_profile","locator":"David Littleproud conference remarks","note":"First-person 2018 statement describing himself as a small-business owner paying four employees."},
-    {"source_id":"src-11","url":"https://handbook.aph.gov.au/parliamentarians/265585","publisher":"Parliamentary Handbook","title":"LITTLEPROUD, the Hon. David Kelly","retrieved":"2026-09-30","source_type":"official_biography","locator":"Current parliamentary service","note":"Official frozen-roster identity and election date."}
+    {
+      "source_id": "src-1",
+      "url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=265585",
+      "publisher": "Parliament of Australia",
+      "title": "Hon David Littleproud MP",
+      "retrieved": "2026-09-30",
+      "source_type": "official_biography",
+      "locator": "Qualifications and occupation before entering Federal Parliament; party positions; parliamentary service",
+      "note": "Official 1993 cotton-chipping and 1994–2016 banking/finance intervals, party roles and federal service."
+    },
+    {
+      "source_id": "src-2",
+      "url": "https://davidlittleproud.com.au/",
+      "publisher": "Office of David Littleproud MP",
+      "title": "David Littleproud — Federal Member for Maranoa",
+      "retrieved": "2026-09-30",
+      "source_type": "official_biography",
+      "locator": "Career introduction",
+      "note": "Member's official site identifies business ownership in Warwick and agribusiness work across regional towns."
+    },
+    {
+      "source_id": "src-3",
+      "url": "https://icacpls.github.io/interests/david-littleproud.html",
+      "publisher": "Open Politics register extraction",
+      "title": "David Littleproud — parliamentary interests",
+      "retrieved": "2026-09-30",
+      "source_type": "government_record",
+      "locator": "Shareholdings and other income, registered 16 September 2016",
+      "note": "Transcription of official interests showing Littleproud's Mr Rental Southern Downs shareholding and spouse wage; ownership is not equated with his employment."
+    },
+    {
+      "source_id": "src-4",
+      "url": "https://openresearch-repository.anu.edu.au/server/api/core/bitstreams/f9296d1e-0d24-4d6c-a116-752d72366345/content",
+      "publisher": "Parliament of Australia",
+      "title": "Parliamentary Handbook of the Commonwealth of Australia 2017",
+      "retrieved": "2026-09-30",
+      "source_type": "government_record",
+      "locator": "David Littleproud biographical entry, page 152",
+      "note": "Historical official handbook corroborating 1993 cotton work, 1994–2016 banking/finance and party positions."
+    },
+    {
+      "source_id": "src-5",
+      "url": "https://www.foodsouthaustralia.com.au/eventdetails/12717/agriculture-the-backbone-of-our-economy-australia-israel-chamber-of-commerce-business-luncheon-with-david-littleproud",
+      "publisher": "Food South Australia",
+      "title": "Agriculture — the backbone of our economy: David Littleproud biography",
+      "retrieved": "2026-09-30",
+      "source_type": "professional_profile",
+      "locator": "Speaker biography",
+      "note": "Reports 17 years at NAB, 12 in Warwick as district manager, and Suncorp executive-manager appointment in 2011."
+    },
+    {
+      "source_id": "src-6",
+      "url": "https://www.canberratimes.com.au/story/6632677/you-get-it-into-your-blood-for-david-littleproud-politics-is-a-family-affair/",
+      "publisher": "The Canberra Times",
+      "title": "For David Littleproud, politics is a family affair",
+      "retrieved": "2026-09-30",
+      "source_type": "news",
+      "locator": "Pre-parliamentary banking career",
+      "note": "Career profile reporting NAB and Suncorp agribusiness banking; used with official/industry sources."
+    },
+    {
+      "source_id": "src-7",
+      "url": "https://www.theguardian.com/australia-news/2022/may/30/who-is-david-littleproud-the-former-banker-and-his-meteoric-rise-to-nationals-leader",
+      "publisher": "The Guardian",
+      "title": "Who is David Littleproud? The former banker and his rise to Nationals leader",
+      "retrieved": "2026-09-30",
+      "source_type": "news",
+      "locator": "Early career",
+      "note": "Corroborates the 1993 cotton-chipping reference and NAB/Suncorp banking career."
+    },
+    {
+      "source_id": "src-8",
+      "url": "https://www.beefcentral.com/news/david-littleproud-named-australias-new-federal-agriculture-minister/",
+      "publisher": "Beef Central",
+      "title": "David Littleproud named Australia's federal agriculture minister",
+      "retrieved": "2026-09-30",
+      "source_type": "news",
+      "locator": "Career background",
+      "note": "Industry report says Littleproud left banking in 2016 after winning National Party preselection for Maranoa."
+    },
+    {
+      "source_id": "src-9",
+      "url": "https://www.sbs.com.au/news/article/minister-defends-rent-to-buy-business/25jro0a8r",
+      "publisher": "SBS News",
+      "title": "Minister defends rent-to-buy business",
+      "retrieved": "2026-09-30",
+      "source_type": "news",
+      "locator": "Business ownership passage",
+      "note": "2018 report identifies ownership of Mr Rental Southern Downs and four employees."
+    },
+    {
+      "source_id": "src-10",
+      "url": "https://ntca.org.au/wp-content/uploads/2023/08/wal4232jun18ntcayearbook1718reduced_0-1.pdf",
+      "publisher": "Northern Territory Cattlemen's Association",
+      "title": "NTCA Yearbook 2017–18",
+      "retrieved": "2026-09-30",
+      "source_type": "professional_profile",
+      "locator": "David Littleproud conference remarks",
+      "note": "First-person 2018 statement describing himself as a small-business owner paying four employees."
+    },
+    {
+      "source_id": "src-11",
+      "url": "https://handbook.aph.gov.au/parliamentarians/265585",
+      "publisher": "Parliamentary Handbook",
+      "title": "LITTLEPROUD, the Hon. David Kelly",
+      "retrieved": "2026-09-30",
+      "source_type": "official_biography",
+      "locator": "Current parliamentary service",
+      "note": "Official frozen-roster identity and election date."
+    },
+    {
+      "url": "https://davidlittleproud.com.au/?jet_download=cf1a44edd863be6b58d7dd7a71efdc4790ed311e",
+      "publisher": "Parliament of Australia, hosted by member",
+      "title": "First speech,13September2016",
+      "source_type": "government_record",
+      "locator": "PDFp2, Hansardp89,19:19",
+      "note": "First-person banking locations and joint small-business investment; no work hours or durations.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-12"
+    },
+    {
+      "url": "https://cabinet.qld.gov.au/documents/2011/Mar/Govt%20Submission%20on%20Flood%20events%20to%20Commission%20of%20Inquiry/Attachments/State-of-Qld_Part-4-Community-Safety-2-of-3%5B1%5D.pdf",
+      "publisher": "Queensland Government",
+      "title": "State of Queensland flood inquiry submission,Part4 Community Safety,March2011",
+      "source_type": "government_record",
+      "locator": "Indexed chronology table, High Level Visits, Warwick",
+      "note": "Contemporaneous government record names Littleproud as Warwick Chamber of Commerce president during flood response.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-13"
+    },
+    {
+      "url": "https://warwicktoday.com.au/community/2011-04-14/chamber-vows-to-pressure-truss-for-cunninghams-gap-solution/",
+      "publisher": "Warwick Today",
+      "title": "Chamber vows to pressure Truss for Cunninghams Gap solution,14April2011",
+      "source_type": "news",
+      "locator": "Opening paragraphs",
+      "note": "Contemporaneous report identifies chamber president; not a term-start date.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-14"
+    }
   ],
   "research_notes": [
     "Identify the 1993 cotton employer, seasonal dates, hours and any other early employment before NAB.",
     "Obtain NAB appointment, role progression, transfers, full-time status, leave and cessation; confirm the 17-year and 12-year Warwick descriptions against employer records.",
     "Obtain Suncorp's exact June 2011 appointment and 2016 cessation/campaign-leave evidence and confirm full-time status.",
     "Establish Mr Rental Southern Downs acquisition, operational role, hours and cessation separately from share ownership and spouse employment; reconcile 'former' 2017 language with 2018 ownership statements.",
-    "Resolve dates, paid status and overlap for the two LNP council chair positions."
+    "Resolve dates, paid status and overlap for the two LNP council chair positions.",
+    "2026-10-02 follow-up: first speech and historical government flood records reviewed; omitted Warwick Chamber presidency added. No FT basis found for bank titles. FarmOnline15June2011 appointment article redirected to inaccessible tollbit endpoint:500 non-retryable; no bypass attempted. Warwick23October2015 preselection article403; Allora7April2011PDF400timeout. These source gaps did not block other research. June2011 publication date cannot establish exact appointment date; retained year boundaries. Mr Rental franchisee material concerns spouse, not proof of his operational hours. Cotton employer, NAB/Suncorp payroll and bank/business overlaps remain follow-up needs."
   ]
 }
