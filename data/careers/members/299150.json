@@ -6,12 +6,12 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/299150",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-01",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
     "calculation_status": "not_calculable",
-    "note": "Identified public service, private company and business activity, with separate excluded ministerial/association roles. Full-time work and precise intervals remain unverified; Beelu active employment cannot be equated with shareholding/directorship. No headline totals calculated."
+    "note": "Resolved Motorcycling Australia board dates and nil remuneration; added FIM director commencement, reservist service and early-work/UNHCR leads. DPC start discrepancy, employment hours and Beelu active-work interval remain unresolved; totals unknown."
   },
   "career_spells": [
     {
@@ -48,9 +48,10 @@
       "source_ids": [
         "src-1",
         "src-3",
-        "src-7"
+        "src-7",
+        "src-10"
       ],
-      "evidence_note": "Frozen tenure. First-person account supports ordinary public service, including native title/economic policy. Secondary security subperiod2005–10 not separately added. Exact title transitions unknown.",
+      "evidence_note": "Frozen tenure. First-person account supports ordinary public service, including native title/economic policy. Secondary security subperiod2005–10 not separately added. Exact title transitions unknown. Contemporary MA director biography states DPC senior manager 2000–2010, differing from frozen principal-policy start 2001. Preserve 2001 role start pending title/graduate-entry reconciliation; do not add another overlapping employment interval.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "299150-02"
     },
@@ -100,7 +101,7 @@
       "role": "Managing director / founder",
       "start_date": "2021",
       "end_date": null,
-      "date_precision": "year",
+      "date_precision": "mixed",
       "employment_status": "self_employed",
       "fte_fraction": null,
       "category": "private_enterprise",
@@ -119,10 +120,10 @@
     },
     {
       "employer": "Motorcycling Australia",
-      "role": "President and chair",
-      "start_date": "2015-08",
-      "end_date": null,
-      "date_precision": "month",
+      "role": "Director; president and chair",
+      "start_date": "2015-07-29",
+      "end_date": "2016-08-29",
+      "date_precision": "day",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "nonprofit",
@@ -132,18 +133,19 @@
       "source_ids": [
         "src-2",
         "src-5",
-        "src-9"
+        "src-9",
+        "src-10"
       ],
-      "evidence_note": "Appointment reported August2015; former by2023 statement. Cessation date, remuneration and hours unknown.",
+      "evidence_note": "Annual report records director election 29 July 2015 and resignation 29 August 2016. Presidency announced August 2015; director start is not necessarily exact president start. Note 12 reports nil remuneration to directors for 2015 and 2016; aggregate KMP compensation is not personal pay.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "299150-06"
     },
     {
-      "employer": "FIM Oceania / motorcycling regional organisation",
-      "role": "President",
-      "start_date": null,
+      "employer": "FIM Oceania",
+      "role": "Director; president",
+      "start_date": "2015-08",
       "end_date": null,
-      "date_precision": "unknown",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "nonprofit",
@@ -151,9 +153,11 @@
       "government_control_at_time": "private",
       "counting_status": "excluded",
       "source_ids": [
-        "src-9"
+        "src-9",
+        "src-10",
+        "src-11"
       ],
-      "evidence_note": "First-person former Oceania presidency; appointment dates and legal organisation name need employer corroboration.",
+      "evidence_note": "MA annual report describes FIM, FIM Oceania Director from August 2015. FIM March 2016 yearbook identifies Oceania presidency. Director start is not necessarily presidency start; cessation and remuneration unresolved.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "299150-07"
     },
@@ -181,7 +185,7 @@
       "role": "Member for Hasluck",
       "start_date": "2022-05-21",
       "end_date": null,
-      "date_precision": "day",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -194,6 +198,82 @@
       "evidence_note": "Frozen first-service boundary.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "299150-09"
+    },
+    {
+      "employer": "Australian Army Reserve, 109 Signals",
+      "role": "Reservist",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "public_service",
+      "headline_sector": "public",
+      "government_control_at_time": "public",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-12"
+      ],
+      "evidence_note": "Official biography names reserve unit but gives no service dates, paid days, training or continuous full-time periods. Reserve label alone supplies no countable full-time years.",
+      "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
+      "spell_id": "299150-10"
+    },
+    {
+      "employer": "Employer unidentified",
+      "role": "After-school worker",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "unknown",
+      "government_control_at_time": "unknown",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-13"
+      ],
+      "evidence_note": "First speech says work began at age 14 to save for travel; employer and tasks unknown. No exact year or full-time status inferred from age.",
+      "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
+      "spell_id": "299150-11"
+    },
+    {
+      "employer": "United Nations High Commissioner for Refugees, Bangladesh",
+      "role": "Role unspecified",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "unknown",
+      "government_control_at_time": "unknown",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-13"
+      ],
+      "evidence_note": "First-person statement of time with UNHCR in Bangladesh; employment versus placement/volunteering unresolved. Do not assume paid international public-service work.",
+      "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
+      "spell_id": "299150-12"
+    },
+    {
+      "employer": "Australian Labor Party, Labor Women's Organisation",
+      "role": "Vice-president",
+      "start_date": "2018-11-03",
+      "end_date": "2020-11-05",
+      "date_precision": "day",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "party_organisation",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-12"
+      ],
+      "evidence_note": "Official party-office dates; remuneration and workload unknown, excluded from headlines.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "299150-13"
     }
   ],
   "sources": [
@@ -286,12 +366,55 @@
       "note": "First-person former Australia and Oceania president roles; no paid sport inferred.",
       "retrieved": "2026-10-01",
       "source_id": "src-9"
+    },
+    {
+      "url": "https://www.ma.org.au/wp-content/uploads/2023/10/2016-MA-AGM-Report.pdf",
+      "publisher": "Motorcycling Australia Limited",
+      "title": "Annual Report 2016",
+      "source_type": "primary_organisation",
+      "locator": "PDF page 40 Directors Report p1; PDF page 59 note 12 p20",
+      "note": "Exact board dates, earlier DPC start claim, FIM director commencement and nil directors remuneration; aggregate employee/KMP pay not attributed to Lawrence.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-10"
+    },
+    {
+      "url": "https://www.fim-moto.com/fileadmin/library/Annuaire_2016_Light_web96_01.pdf",
+      "publisher": "Fédération Internationale de Motocyclisme",
+      "title": "FIM Yearbook 2016, March edition",
+      "source_type": "primary_organisation",
+      "locator": "p12 FIM Oceania",
+      "note": "Contemporaneous presidency identification, not appointment boundary.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-11"
+    },
+    {
+      "url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=299150",
+      "publisher": "Parliament of Australia",
+      "title": "Tania Lawrence biography",
+      "source_type": "official_biography",
+      "locator": "Military service; Party positions; Qualifications",
+      "note": "Army Reserve unit and party roles; roster unchanged.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-12"
+    },
+    {
+      "url": "https://www.openaustralia.org.au/debate/?id=2022-07-28.9.2",
+      "publisher": "House Hansard via OpenAustralia",
+      "title": "Address in Reply, 28 July 2022",
+      "source_type": "first_person",
+      "locator": "Tania Lawrence 9:49 am, paragraphs beginning Before all of that and The experience I bring",
+      "note": "After-school work from age 14 and time with UNHCR Bangladesh; no employer, dates or remuneration inference beyond statement.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-13"
     }
   ],
   "research_notes": [
     "2026-10-01 avenues: frozen official occupations, MP biography, parliamentary speeches2023/2024, state grant recipient record, contemporary2015/2018 media, full-time/professional and historical state-security searches. WA2009 committee PDF and MCNews direct fetch403; West2021 source subscription-only, not bypassed. Namesake ACT health and UK employment results excluded.",
     "Priority: public-service graduate-entry date and all pre2001 work; DPC appointment/title dates and workload, native-title/security assignments; Woodside substantive full-time status, leave and2019 cessation; 2019–20 gap and ministerial2020–21 dates.",
     "Verify secondary full-time Beelu claim against primary employer evidence, distinguish managing duties from board/shareholding, obtain exact active-work and directorship cessation. Speech12August2024 narrows end to before that date but does not justify an exact end or continuous full-time2021–24. Resolve electoral2022 overlap and any unpaid breaks.",
-    "Find Motorcycling Australia/Oceania annual reports for board tenure and payment status; personal motorcycling is not automatically employment. Record last attempted avenues before later follow-up, rather than repeating inaccessible articles."
+    "Find Motorcycling Australia/Oceania annual reports for board tenure and payment status; personal motorcycling is not automatically employment. Record last attempted avenues before later follow-up, rather than repeating inaccessible articles.",
+    "Follow-up 2026-10-02: MA 2016 audited report resolves director election/resignation and nil remuneration; FIM 2016 yearbook corroborates Oceania presidency. Neither sporting presidency is paid commercial employment. MA 2017 report also examined; do not confuse successor president start with Lawrence resignation.",
+    "First speech confirms after-school paid work from age 14 and a later period with UNHCR Bangladesh; employment details are missing, not zero. Army Reserve service in official biography newly recorded without invented dates or hours. Party vice-presidency recorded separately.",
+    "Next: DPC personnel/title history to reconcile 2000 annual-report biography with 2001 principal-policy span; military service statement and early employer/UNHCR placement evidence; Woodside leave and dated Beelu workload evidence. Searches again located secondary full-time distillery assertion but no primary interval proof. Public 2021 distillers association membership observation is not employment commencement."
   ]
 }
