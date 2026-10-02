@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/281988",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-01",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -51,9 +51,11 @@
         "src-aph-current",
         "src-minister",
         "src-advoc8",
-        "src-pharmacy-interview"
+        "src-pharmacy-interview",
+        "src-pharmacy-2004-oct2",
+        "src-burke-2004-oct2"
       ],
-      "evidence_note": "Official biographies give the role and 1995–2003 range; a public professional profile describes it as work during study. Employer, location, exact dates, hours, leave and overlap with school or university are unresolved. A November 2025 interview recollects pharmacy work during university about two decades earlier. This creates a possible discrepancy with the official 2003 endpoint; the rounded recollection does not justify extending the range to 2005.",
+      "evidence_note": "Official biographies give the role and 1995–2003 range; a public professional profile describes it as work during study. Employer, location, exact dates, hours, leave and overlap with school or university are unresolved. A November 2025 interview recollects pharmacy work during university about two decades earlier. This creates a possible discrepancy with the official 2003 endpoint; the rounded recollection does not justify extending the range to 2005. Her27August2025 parliamentary speech explicitly places pharmacy work in2004, as does a further recollection reproduced by Tony Burke on5September2025. This is a specific conflict with the2003 endpoint, beyond the previously rounded recollection. The existing official range is retained pending reconciliation; do not assume uninterrupted work or calculate another year.",
       "counting_note": "The occupation is likely private-sector work, but employer control and substantive full-time status are not established."
     },
     {
@@ -117,9 +119,10 @@
         "src-aph-current",
         "src-minister",
         "src-member",
-        "src-alp"
+        "src-alp",
+        "src-pharmacy-2004-oct2"
       ],
-      "evidence_note": "Official and member biographies identify the two University of Canberra degrees, but the reviewed sources do not publish enrolment or completion dates. Multiple occupation ranges from 2000 to 2005 overlapped the reported study period.",
+      "evidence_note": "Official and member biographies identify the two University of Canberra degrees, but the reviewed sources do not publish enrolment or completion dates. Multiple occupation ranges from 2000 to 2005 overlapped the reported study period. Her27August2025 speech establishes attendance during2004; this is an observation within study, not an enrolment or completion boundary.",
       "counting_note": "Study is excluded under the codebook."
     },
     {
@@ -506,6 +509,26 @@
       "note": "Company ABN active from 26 February 2016, NSW 2548. Registration is not proof of Kristy’s employment, ownership or work commencement.",
       "retrieved": "2026-10-01",
       "source_id": "src-lawyers-abr"
+    },
+    {
+      "url": "https://www.openaustralia.org.au/debate/?id=2025-08-27.124.1",
+      "publisher": "Parliament of Australia / OpenAustralia Hansard reproduction",
+      "title": "National Health Amendment (Cheaper Medicines) Bill 2025; second reading",
+      "source_type": "government_record",
+      "locator": "27 August 2025,6:05pm; paragraph beginning We are committed",
+      "note": "First-person recollection explicitly places university attendance and pharmacy work in2004; conflicts with official occupational endpoint2003. Employer, hours and continuity are not supplied.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-pharmacy-2004-oct2"
+    },
+    {
+      "url": "https://www.tonyburke.com.au/view5and5/2024/back-to-2004",
+      "publisher": "Tony Burke MP",
+      "title": "5&5: Back to 2004",
+      "source_type": "other",
+      "locator": "5 September 2025; BEST item4",
+      "note": "Member office reproduces a further McBain parliamentary recollection of pharmacy work and study in2004. Publication date is in page footer;2024 in URL is not the publication year.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-burke-2004-oct2"
     }
   ],
   "research_notes": [
@@ -515,7 +538,8 @@
     "Council, mayoral, regional-governance, campaign and federal parliamentary roles are separated from paid employment and excluded under the codebook.",
     "No public or private full-time total is calculated because employer identities, hours, leave and exact transitions are not sufficiently supported.",
     "2026-10-01 follow-up adds teenage family-shop work, corrects the unidentified library sector to unknown, and records a primary pharmacy chronology conflict without date arithmetic. Plumbing trading-name and two company leads improve employer identification but do not establish personal labour or full-time status.",
-    "Searched legal practices, shared-address Clark Rideaux lead, university chronology, first-speech material, full-time wording, public professional profiles, business directories and registries. LinkedIn returned 999; original APH interests PDF returned 403; directory ABN lookup was inaccessible. The similarly named Tasmanian McBain Holdings business was excluded. McBain & Co Lawyers ABR record was retrieved, but its registration does not date employment. Do not mistake campaign policy support for full-time jobs or business 24-hour service for individual hours."
+    "Searched legal practices, shared-address Clark Rideaux lead, university chronology, first-speech material, full-time wording, public professional profiles, business directories and registries. LinkedIn returned 999; original APH interests PDF returned 403; directory ABN lookup was inaccessible. The similarly named Tasmanian McBain Holdings business was excluded. McBain & Co Lawyers ABR record was retrieved, but its registration does not date employment. Do not mistake campaign policy support for full-time jobs or business 24-hour service for individual hours.",
+    "Second follow-up2October2026 establishes explicit2004 pharmacy-work/study recollection in a parliamentary speech and member-office reproduction, sharpening the official2003 endpoint conflict. Targeted law-firm, LinkedIn index, library and council chronology searches produced no reliable new employer or hours evidence. Shared-address directories remain leads only. A secondary March2020 mayoral-resignation date conflicts with official May2020 and was not adopted. Council date queries yielded no primary exact-day result. Ministerial interview reader failed because robots.txt was unreachable; other accessible sources used. No totals changed."
   ],
   "open_questions": [
     "Which pharmacies, hospitality businesses and library employed McBain, and what were the exact dates, hours, leave and study overlaps?",
@@ -526,6 +550,7 @@
     "When exactly did council and business duties cease for the 2020 federal campaign, and was campaign work remunerated?",
     "What was the sporting shop’s name and when, on what pay and hours, did McBain help her parents?",
     "Can original interests declarations and historical business records connect McBain Plumbing Pty Ltd and ABN 87 975 114 137 to the 2012–2020 work, and was McBain & Co Lawyers Pty Ltd ever her legal employer?",
-    "Does the November 2025 pharmacy recollection indicate work after 2003, or merely rounded timing?"
+    "Does the November 2025 pharmacy recollection indicate work after 2003, or merely rounded timing?",
+    "Do payroll, employer or original CV records reconcile the explicit2004 pharmacy recollections with the official1995–2003 range, including any different pharmacy or interrupted work?"
   ]
 }
