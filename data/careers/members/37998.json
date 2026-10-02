@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/37998",
   "research_status": "blocked",
-  "last_reviewed": "2026-09-29",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -266,7 +266,8 @@
       "government_control_at_time": "private",
       "counting_status": "excluded",
       "source_ids": [
-        "src-10"
+        "src-10",
+        "src-13"
       ],
       "evidence_note": "Employer announcement concerns advisory governance after federal election; appointment dates, remuneration and hours not resolved. Excluded governance, not ordinary academic employment.",
       "counting_note": "Excluded from the two employment headlines under the codebook."
@@ -290,6 +291,82 @@
       ],
       "evidence_note": "Frozen roster election boundary; federal elected and ministerial service excluded.",
       "counting_note": "Excluded from the two employment headlines under the codebook."
+    },
+    {
+      "employer": "Griffith University",
+      "role": "BA and BCom with first-class honours in public policy",
+      "start_date": null,
+      "end_date": "1999",
+      "date_precision": "mixed",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "public",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-11"
+      ],
+      "evidence_note": "Completion year confirmed by university; commencement and study load unknown. Study excluded; cannot infer tutoring or departmental hours from simultaneous education.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "37998-15"
+    },
+    {
+      "employer": "Australian National University",
+      "role": "PhD in political science",
+      "start_date": null,
+      "end_date": "2004",
+      "date_precision": "mixed",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "public",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-12"
+      ],
+      "evidence_note": "University confirms completion year; commencement and study load unresolved. No paid university employment inferred from doctorate.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "37998-16"
+    },
+    {
+      "employer": "Griffith University",
+      "role": "Logan Campus Development Advisory Group member",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "university",
+      "headline_sector": "excluded",
+      "government_control_at_time": "public",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-13"
+      ],
+      "evidence_note": "Listed in September2023 conference biography; appointment/cessation and remuneration unknown. Advisory governance excluded, not proof of a third teaching job.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "37998-17"
+    },
+    {
+      "employer": "Griffith University",
+      "role": "School of Government and International Relations Advisory Board member",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "university",
+      "headline_sector": "excluded",
+      "government_control_at_time": "public",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-13"
+      ],
+      "evidence_note": "Listed in September2023 conference biography; appointment/cessation and remuneration unknown. Advisory governance excluded, not academic payroll employment.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "37998-18"
     }
   ],
   "sources": [
@@ -392,6 +469,36 @@
       "source_type": "employer",
       "locator": "Appointment announcement",
       "note": "Advisory governance appointment, not proof of substantive paid university employment."
+    },
+    {
+      "url": "https://www.griffith.edu.au/griffith-business-school/government-international-relations",
+      "publisher": "Griffith University",
+      "title": "Government and International Relations: Jim Chalmers graduate profile",
+      "source_type": "employer",
+      "locator": "Student success; Jim Chalmers paragraph",
+      "note": "University identifies BA and BCom with first-class public-policy honours completed1999; no study hours or commencement date.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-11"
+    },
+    {
+      "url": "https://reporter.anu.edu.au/all-stories/democracy-sausage-forty-years-on",
+      "publisher": "Australian National University",
+      "title": "Democracy Sausage: Forty Years On",
+      "source_type": "employer",
+      "locator": "Guest biography; PhD completion2004",
+      "note": "Institution identifies political-science doctorate completion2004; not employment or full-time-study evidence.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-12"
+    },
+    {
+      "url": "https://wqac.com.au/assembly2023-speakers",
+      "publisher": "Western Queensland Alliance of Councils",
+      "title": "Assembly2023 speakers: Jim Chalmers",
+      "source_type": "professional_profile",
+      "locator": "Jim Chalmers biography final paragraph; conference26–28September2023",
+      "note": "Two Griffith advisory memberships and Georgetown advisory membership are listed; snapshot, not appointment or cessation dates.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-13"
     }
   ],
   "research_notes": [
@@ -399,6 +506,7 @@
     "2026-09-29 initial pass checked APH chronology, first speech, explicit 2020 public-service clarification, Griffith Review contributor biography, 2013 author biographies, Chifley employer pages, WEF professional profile and Georgetown appointment. Public LinkedIn CPR profile surfaced but direct page returned 999 and supplied no usable dates/hours; no login or access-control bypass.",
     "Full-time Chifley evidence is preserved even though role is excluded. Do not classify party-affiliated think-tank employment as commercial private enterprise or ministerial staff as ordinary public service. Earlier Queensland role has explicit first-person public-service confirmation. Titles at CPR and universities cannot substitute for hours evidence.",
     "ANU/Canberra tutoring may overlap study and each other; never add whole calendar years per employer. APH's year-only transitions cannot be treated as contiguous full years. Third teaching institution remains unidentified. Publications and author profiles establish writing activity but not a separately verified paid full-time writing occupation; publisher contract/royalty evidence remains a follow-up lead.",
-    "Retain unknown public/private totals; no zero, prorating or inflated whole-year arithmetic. No historical annual report located in targeted searches resolved individual hours. Generic claims that he never worked privately are contradicted by the documented CPR role, but that does not establish its duration or full-time status."
+    "Retain unknown public/private totals; no zero, prorating or inflated whole-year arithmetic. No historical annual report located in targeted searches resolved individual hours. Generic claims that he never worked privately are contradicted by the documented CPR role, but that does not establish its duration or full-time status.",
+    "2026-10-02 follow-up: added university-confirmed1999 Griffith and2004 ANU study completion and two distinct Griffith advisory roles documented in2023. Targeted CPR/June2007, ICAC exhibits, university tutoring and thesis searches did not establish individual hours, leave, full employment boundaries or third teaching employer. ANU repository item b582da33-8f37-402d-83e2-9b437bcd2fb6 and full metadata returned (403) Forbidden, so thesis acknowledgements not inspected. Guardian27March2014 article is a lead to June2007 CPR file notes; original ICAC exhibit not located and no date boundary changed. Orkney/acupuncture tutor namesakes excluded. Next useful avenues: publicly accessible thesis acknowledgements,2001 university appointment records and original CPR employer documentation; preserve earlier gaps and null totals."
   ]
 }
