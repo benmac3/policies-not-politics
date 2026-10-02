@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/39801",
   "research_status": "blocked",
-  "last_reviewed": "2026-09-29",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -130,9 +130,10 @@
       "counting_status": "insufficient_evidence",
       "source_ids": [
         "src-4",
-        "src-6"
+        "src-6",
+        "src-8"
       ],
-      "evidence_note": "Employment confirmed; cessation and hours unresolved.",
+      "evidence_note": "Employment confirmed; cessation and hours unresolved. Historical2015 report describes shareholder-owned corporate governance and one vote per ordinary share; supports commercial private classification, not government control or individual employment hours.",
       "counting_note": "Dates, employer control and/or substantive full-time status remain insufficient for a duration calculation; unknown is not zero."
     },
     {
@@ -177,9 +178,9 @@
       "spell_id": "39801-09",
       "employer": "Griffith University",
       "role": "Bachelor of Arts student",
-      "start_date": null,
+      "start_date": "1996",
       "end_date": null,
-      "date_precision": "unknown",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "study",
@@ -188,9 +189,10 @@
       "counting_status": "excluded",
       "source_ids": [
         "src-2",
-        "src-3"
+        "src-3",
+        "src-7"
       ],
-      "evidence_note": "Qualification is not university employment. Study dates unresolved.",
+      "evidence_note": "Qualification is not university employment. Study dates unresolved. Chalmers recalls their first day together at Griffith in early1996; commencement updated to year only. Graduation date and load remain unknown.",
       "counting_note": "Excluded from the two employment headlines under the codebook."
     },
     {
@@ -274,6 +276,26 @@
       "source_type": "other",
       "locator": "Politics section",
       "note": "Secondary organiser chronology corroborates national then state branch work; not treated as independent evidence of hours or Santos cessation."
+    },
+    {
+      "url": "https://news.griffith.edu.au/2023/10/09/brighter-future-for-all-oration-the-perfectibility-of-opportunity/",
+      "publisher": "Griffith University / Jim Chalmers",
+      "title": "Brighter Future for All Oration: The Perfectibility of Opportunity,9October2023",
+      "source_type": "official_biography",
+      "locator": "Paragraph following Andrew Fraser discussion: first day at Griffith in early1996",
+      "note": "First-person classmate account establishes study commencement year; does not establish paid work or study load.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-7"
+    },
+    {
+      "url": "https://www.asx.com.au/asxpdf/20160401/pdf/4367716d3tfwhf.pdf",
+      "publisher": "Santos Limited / ASX",
+      "title": "Santos Annual Report2015",
+      "source_type": "employer",
+      "locator": "Printedpp27,124–125: capital transaction and shareholder/voting information",
+      "note": "Historical shareholder and governance evidence supports existing private-enterprise classification; shareholder nominee names are not all beneficial owners. Search for Chisholm found no match; no individual hours or cessation evidence.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-8"
     }
   ],
   "research_notes": [
@@ -281,6 +303,7 @@
     "Initial pass on 2026-09-29 used parliamentary biography/frozen roster, ministerial biography, first speech, Queensland Parliament's March 2015 transcript, employer-confirmation reporting and publicly indexed professional/background searches. Santos-site searches yielded no person-specific employment statement; 2015 annual report URL returned 403. No access restrictions bypassed.",
     "Searches also surfaced an Anthony Chisholm in older economics/Productivity Commission material and the US actor. Identity match to this senator was not established, so those careers are not imported. No verified public professional profile supplying hours was located.",
     "Private-sector classification refers to a commercial resource company; public listing does not mean government control. A historical shareholder/control extract remains a follow-up source, along with primary employment confirmation.",
-    "Unspecified or overlapping periods are retained without addition. No qualifying full-time interval is established; both headlines remain null. This is an initial durable record with unresolved gaps, not research completion."
+    "Unspecified or overlapping periods are retained without addition. No qualifying full-time interval is established; both headlines remain null. This is an initial durable record with unresolved gaps, not research completion.",
+    "2026-10-02 follow-up: recovered Santos2015 annual report through its ASX filing after earlier employer-hosted403; reviewed shareholder/voting sections and searched person name without match. Added primary classmate/university1996 study commencement. Searches for actual Santos resignation/cessation, employment terms, pre2004 work and Swan position found no reliable additional individual detail. Later political speeches saying until2016/election are broad retrospective assertions, not an exact cessation or proof of continuous full-time work. Keep end null and prior gaps. Original2015–16 Santos employment statement or public CV remains needed. The Griffith oration also supplies Jim Chalmers1996 study-start evidence for his next assigned follow-up; his record was already committed and is not edited in this member commit."
   ]
 }
