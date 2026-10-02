@@ -6,7 +6,7 @@
   "snapshot_party": "Liberal Party of Australia",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/324140",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-01",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -297,7 +297,7 @@
       "employer": "Liberal Party, Tasmanian Division",
       "role": "State president",
       "start_date": "2022-08",
-      "end_date": null,
+      "end_date": "2023-08",
       "date_precision": "month",
       "employment_status": "unknown",
       "fte_fraction": null,
@@ -307,9 +307,10 @@
       "counting_status": "excluded",
       "source_ids": [
         "src-3",
-        "src-11"
+        "src-11",
+        "src-19"
       ],
-      "evidence_note": "Election month supported by parliamentary congratulations. Secondary 2023 end-year lead needs primary term record; pay unknown.",
+      "evidence_note": "Election month supported by parliamentary congratulations. Secondary 2023 end-year lead needs primary term record; pay unknown. New primary party State Council address published7August2023 identifies him as outgoing president, supportingAugust2023conclusion. Exact handover day unknown; publication date is not assigned as day endpoint.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "324140-15"
     },
@@ -356,7 +357,7 @@
       "role": "Senator for Tasmania",
       "start_date": "2026-08-13",
       "end_date": null,
-      "date_precision": "day",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -551,6 +552,16 @@
       "note": "Employer association rather than ordinary private enterprise; category excluded under codebook.",
       "retrieved": "2026-10-01",
       "source_id": "src-18"
+    },
+    {
+      "url": "https://tas.liberal.org.au/news/2023/08/07/premier-rockliffs-address-state-council-2023",
+      "publisher": "Tasmanian Liberal Party / Jeremy Rockliff",
+      "title": "Premier Rockliff address to State Council2023",
+      "source_type": "official_biography",
+      "locator": "7August2023published speech, opening acknowledgment of outgoing President",
+      "note": "Primary party speech identifies Chris Gatenby as outgoing president at2023State Council. Supports conclusion inAugust2023; exact handover day and remuneration not supplied. Prepared text labelled check against delivery.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-19"
     }
   ],
   "research_notes": [
@@ -560,6 +571,8 @@
     "Family business identity and distinct other small businesses remain gaps; childhood farm upbringing is not paid agricultural employment evidence. Seek legitimate business biographies or declared operational interests, not family addresses or irrelevant personal data.",
     "Reviewed public LinkedIn index matching cjagatenby but no usable historical dates/hours. Excluded unrelated UK mariner, medical researcher and deceased namesakes. Indexed 2010 Policy Exchange acknowledgement is only an association anchor, not employment boundary.",
     "Source gaps: Harvest board PDF 404 (indexed text retained); NACA November 2014 minutes inaccessible; English Chartwell page fetch error, Spanish first-party page accessible; Golden Plains agenda and News.com.au full page Internal Error, indexed extracts used explicitly. Mandarin public career paragraphs accessible, subscriber-only remainder not accessed.",
-    "Next source-specific follow-up should identify family business and graduate employment, then historical employer/ministerial records; broad repeated searches yielded many namesakes. State presidency secondary 2023 endpoint unconfirmed; avoid repeated exhausted queries. All totals remain unknown, not zero."
+    "Next source-specific follow-up should identify family business and graduate employment, then historical employer/ministerial records; broad repeated searches yielded many namesakes. State presidency secondary 2023 endpoint unconfirmed; avoid repeated exhausted queries. All totals remain unknown, not zero.",
+    "Follow-up2026-10-02: primary2023party State Council address resolves previously secondary-only presidency end-year lead, nowAugust2023at month precision. Prepared-speech limitation recorded; no remuneration inferred.",
+    "Targeted searches for family-business identity, graduate department and two federal health ministers did not identify new attributable dates or employer identities. Public profile search returned namesakes; UK charitable trustee ChrisJamesGatenbyWilson and US technology professional excluded. OpenPolitics index led to subscription-only interests material, not accessed; no inference from investments or family details. Continue source-specific employer records and historical staff listings for unresolved career gaps."
   ]
 }
