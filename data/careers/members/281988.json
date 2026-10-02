@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/281988",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-02",
+  "last_reviewed": "2026-10-03",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -149,7 +149,7 @@
     },
     {
       "spell_id": "281988-lawyer",
-      "employer": "Unidentified legal practice or practices",
+      "employer": "Multiple legal practices — sequence partly identified",
       "role": "Lawyer",
       "start_date": "2005",
       "end_date": "2018",
@@ -169,8 +169,46 @@
         "src-interests-lead",
         "src-lawyers-abr"
       ],
-      "evidence_note": "Official biographies give legal practice from 2005 to 2018. McBain's biography says she worked across Yass, Queanbeyan, Bega, Merimbula, Eden and Canberra. A public directory places her at 86 Gipps Street, Bega, the same address publicly listed for Clark Rideaux Solicitors, but this is only an employer-identification lead. Employer sequence, exact dates, partnership or employee status, hours, leave and council-work overlap remain unresolved. A later spouse-interest declaration introduces McBain & Co Lawyers Pty Ltd as another lead; its ABN commenced in February 2016. Neither that registration nor spouse ownership establishes Kristy’s employer or start date.",
-      "counting_note": "A 13-year occupation range and professional title do not prove continuous substantive full-time employment."
+      "evidence_note": "Official biographies give legal practice from 2005 to 2018. McBain's biography says she worked across Yass, Queanbeyan, Bega, Merimbula, Eden and Canberra. A public directory places her at 86 Gipps Street, Bega, the same address publicly listed for Clark Rideaux Solicitors, but this is only an employer-identification lead. Employer sequence, exact dates, partnership or employee status, hours, leave and council-work overlap remain unresolved. A later spouse-interest declaration introduces McBain & Co Lawyers Pty Ltd as another lead; its ABN commenced in February 2016. Neither that registration nor spouse ownership establishes Kristy’s employer or start date. Public-profile evidence now identifies two subperiods below; the remaining occupation span is unresolved. This umbrella range must not be added to its component spells.",
+      "counting_note": "A 13-year occupation range and professional title do not prove continuous substantive full-time employment. Umbrella and component spells overlap; never sum both."
+    },
+    {
+      "spell_id": "281988-clark-rideaux",
+      "employer": "Clark Rideaux Lawyers",
+      "role": "Senior Associate",
+      "start_date": "2009-07",
+      "end_date": "2013-02",
+      "date_precision": "month",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "private_enterprise",
+      "headline_sector": "private",
+      "government_control_at_time": "private",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-linkedin-oct3"
+      ],
+      "evidence_note": "Self-reported public professional-profile index supplies employer, title and month range. Payroll entity, hours, leave and exact days remain unknown.",
+      "counting_note": "Component of the 2005–2018 umbrella legal-career range, not additive. Private law-firm classification; no full-time duration or July 2009 overlap arithmetic."
+    },
+    {
+      "spell_id": "281988-symons-phillips",
+      "employer": "Symons Phillips Lawyers",
+      "role": "Associate",
+      "start_date": "2009-01",
+      "end_date": "2009-07",
+      "date_precision": "month",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "private_enterprise",
+      "headline_sector": "private",
+      "government_control_at_time": "private",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-linkedin-oct3"
+      ],
+      "evidence_note": "Self-reported public professional-profile index supplies employer, title and month range. Payroll entity, hours, leave and exact days remain unknown.",
+      "counting_note": "Component of the 2005–2018 umbrella legal-career range, not additive. Private law-firm classification; no full-time duration or July 2009 overlap arithmetic."
     },
     {
       "spell_id": "281988-plumbing-business",
@@ -529,6 +567,16 @@
       "note": "Member office reproduces a further McBain parliamentary recollection of pharmacy work and study in2004. Publication date is in page footer;2024 in URL is not the publication year.",
       "retrieved": "2026-10-02",
       "source_id": "src-burke-2004-oct2"
+    },
+    {
+      "source_id": "src-linkedin-oct3",
+      "url": "https://au.linkedin.com/in/kristy-mcbain-mp-6abb79b8",
+      "publisher": "Kristy McBain MP / LinkedIn",
+      "title": "Kristy McBain MP — public professional profile",
+      "source_type": "professional_profile",
+      "locator": "Publicly indexed Experience entries: Senior Associate/Clark Rideaux, Associate/Symons Phillips; retrieved 3 October 2026",
+      "note": "Index gives Clark Rideaux July2009–February2013 and Symons Phillips January–July2009. Elringtons lawyer entry also visible but incomplete. Previous direct999 restriction not retried; indexed evidence only, employer corroboration outstanding.",
+      "retrieved": "2026-10-03"
     }
   ],
   "research_notes": [
@@ -539,12 +587,13 @@
     "No public or private full-time total is calculated because employer identities, hours, leave and exact transitions are not sufficiently supported.",
     "2026-10-01 follow-up adds teenage family-shop work, corrects the unidentified library sector to unknown, and records a primary pharmacy chronology conflict without date arithmetic. Plumbing trading-name and two company leads improve employer identification but do not establish personal labour or full-time status.",
     "Searched legal practices, shared-address Clark Rideaux lead, university chronology, first-speech material, full-time wording, public professional profiles, business directories and registries. LinkedIn returned 999; original APH interests PDF returned 403; directory ABN lookup was inaccessible. The similarly named Tasmanian McBain Holdings business was excluded. McBain & Co Lawyers ABR record was retrieved, but its registration does not date employment. Do not mistake campaign policy support for full-time jobs or business 24-hour service for individual hours.",
-    "Second follow-up2October2026 establishes explicit2004 pharmacy-work/study recollection in a parliamentary speech and member-office reproduction, sharpening the official2003 endpoint conflict. Targeted law-firm, LinkedIn index, library and council chronology searches produced no reliable new employer or hours evidence. Shared-address directories remain leads only. A secondary March2020 mayoral-resignation date conflicts with official May2020 and was not adopted. Council date queries yielded no primary exact-day result. Ministerial interview reader failed because robots.txt was unreachable; other accessible sources used. No totals changed."
+    "Second follow-up2October2026 establishes explicit2004 pharmacy-work/study recollection in a parliamentary speech and member-office reproduction, sharpening the official2003 endpoint conflict. Targeted law-firm, LinkedIn index, library and council chronology searches produced no reliable new employer or hours evidence. Shared-address directories remain leads only. A secondary March2020 mayoral-resignation date conflicts with official May2020 and was not adopted. Council date queries yielded no primary exact-day result. Ministerial interview reader failed because robots.txt was unreachable; other accessible sources used. No totals changed.",
+    "3October2026 targeted firm searches resolved two legal employers/month ranges from the public profile index. Elringtons is a further employer lead with incomplete dates, not assigned a fabricated interval. Clark Rideaux moves beyond the old shared-address-only lead. No new library/pharmacy identity or work-load evidence; totals remain null."
   ],
   "open_questions": [
     "Which pharmacies, hospitality businesses and library employed McBain, and what were the exact dates, hours, leave and study overlaps?",
     "Which legal practices employed McBain as a paralegal and lawyer across Yass, Queanbeyan, Bega, Merimbula, Eden and Canberra, and on what terms?",
-    "Does the 86 Gipps Street directory listing establish work at Clark Rideaux Solicitors, and if so for which period and employment status?",
+    "Can contemporaneous Clark Rideaux and Symons Phillips records corroborate the indexed professional-profile dates, title changes, payroll entities, hours and leave; what are the Elringtons dates and the rest of the 2005–2018 legal-career sequence?",
     "What was the plumbing business legal entity, ownership share, operational role, remuneration, hours, leave and exact 2012–2020 boundaries?",
     "How did legal practice and family-business work overlap council, mayoral and regional-governance duties?",
     "When exactly did council and business duties cease for the 2020 federal campaign, and was campaign work remunerated?",
