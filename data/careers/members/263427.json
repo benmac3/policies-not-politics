@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/263427",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-01",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -96,7 +96,7 @@
     {
       "spell_id": "263427-05",
       "employer": "United Voice, Queensland Branch",
-      "role": "Union work",
+      "role": "Organiser",
       "start_date": null,
       "end_date": null,
       "date_precision": "unknown",
@@ -107,9 +107,10 @@
       "government_control_at_time": "private",
       "counting_status": "excluded",
       "source_ids": [
-        "src-7"
+        "src-7",
+        "src-union-organiser"
       ],
-      "evidence_note": "Earlier union role indicated in public professional-profile search; boundaries unverified.",
+      "evidence_note": "Earlier union role indicated in public professional-profile search; boundaries unverified. Contemporary2019 election analysis resolves title as former organiser, without boundaries.",
       "counting_note": "Outside the two employment headlines under the codebook; retained as career context."
     },
     {
@@ -231,6 +232,25 @@
       "evidence_note": "Year-precision educational interval from public professional profile. Does not imply that tutoring/research appointments covered the whole period or were FT.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "263427-11"
+    },
+    {
+      "employer": "Office of Phil Reeves, Member for Mansfield, Queensland Parliament",
+      "role": "Electorate officer",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "political_staff",
+      "headline_sector": "excluded",
+      "government_control_at_time": "public",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-reeves2007"
+      ],
+      "evidence_note": "Primary6March2007 speech names her as an electorate officer in the context of the2006 election campaign. Kept separate from later Geoff Wilson ministerial advice. Neither election date nor speech date is a contract boundary; pay fraction and breaks unknown.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "263427-12"
     }
   ],
   "sources": [
@@ -373,6 +393,26 @@
       "note": "Confirms brief Logan experience but does not specify paid employment versus placement. Does not establish a2019 move or appointment date.",
       "retrieved": "2026-10-01",
       "source_id": "src-first-review"
+    },
+    {
+      "url": "https://documents.parliament.qld.gov.au/events/han/2007/2007_03_06_WEEKLY.pdf",
+      "publisher": "Queensland Parliament",
+      "title": "Record of Proceedings,6March2007",
+      "source_type": "government_record",
+      "locator": "Printed p655/PDF86, Phil Reeves address-in-reply, electorate-officer acknowledgements",
+      "note": "Reeves identifies Jo Briskey among his electorate officers while discussing2006 campaign. Personal appointment/cessation and hours not stated.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-reeves2007"
+    },
+    {
+      "url": "https://pollbludger.net/fed2019/Bonner.htm",
+      "publisher": "The Poll Bludger / William Bowe",
+      "title": "Federal Election2019,Bonner",
+      "source_type": "news",
+      "locator": "Candidate biography, Jo Briskey",
+      "note": "Identifies former United Voice organiser. No appointment or resignation dates.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-union-organiser"
     }
   ],
   "research_notes": [
@@ -380,6 +420,7 @@
     "Public LinkedIn profile search showed United Voice and qualifications, but opening the profile failed. No access restriction was bypassed and no unviewed profile dates were used.",
     "Need dated QUT/IHBI appointments and Logan placement/pay status. Election candidacies are not treated as elected service or employment. Approximate five-year Parenthood claim retained in prose only.",
     "2026-10-01: recovered Parenthood succession record and December2014 executive-role observation; distinguished later board directorship from executive employment using2020 organisational release. Separated Queensland UWU role observed2020 from national role confirmed2024. Added2008–2010 study context without assigning those dates to paid employment.",
-    "Avenues: first speech, public professional profile retrieval with hidden experience fields, QUT/IHBI psychology/therapist searches,2014–15 Australian Progress annual report, contemporaneous authored article,2020 Parenthood release,2020 Queensland testimony and2024 Senate hearing program. No dated university employment contract or Logan placement/pay evidence found. First speech does not support derivative assertion of2019 move/national appointment; do not adopt it against distinct2020 Queensland title. Follow-up: QUT/IHBI employment dates/FTE/legal contract, Logan placement status, ministerial staff/campaign leave boundaries, United Voice chronology, executive-to-board transition and governance dates, UWU promotion/leave/resignation. Missing evidence remains unknown, not zero."
+    "Avenues: first speech, public professional profile retrieval with hidden experience fields, QUT/IHBI psychology/therapist searches,2014–15 Australian Progress annual report, contemporaneous authored article,2020 Parenthood release,2020 Queensland testimony and2024 Senate hearing program. No dated university employment contract or Logan placement/pay evidence found. First speech does not support derivative assertion of2019 move/national appointment; do not adopt it against distinct2020 Queensland title. Follow-up: QUT/IHBI employment dates/FTE/legal contract, Logan placement status, ministerial staff/campaign leave boundaries, United Voice chronology, executive-to-board transition and governance dates, UWU promotion/leave/resignation. Missing evidence remains unknown, not zero.",
+    "Follow-up2October2026: primary Queensland Hansard identifies previously omitted Phil Reeves electorate-officer employment in2006-election context; no personal contract dates or hours inferred. Contemporary2019 candidate analysis supplies United Voice organiser title. QUT/IHBI searches under Jo and Joanna located a UQ repository report, Provision of Strategies to Support Drug and Alcohol Services, https://espace.library.uq.edu.au/view/UQ%3A258304/ReviewOnlineAOD.pdf, indexed acknowledgement to Joanna Briskey. Direct open returned Internal Error; acknowledgement alone does not identify employer, payment, therapist role or dates, so retained as research lead only. MUA Queensland8February2019 bulletin corroborates advocacy history but membership of the Missos on first job does not prove that union was her first employer. Next retrieve report acknowledgement context and QUT project appointments; confirm Logan placement/pay status, Reeves employment interval and transition to ministerial office, union and Parenthood boundaries. No employment totals manufactured."
   ]
 }
