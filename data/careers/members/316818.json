@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/316818",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-01",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -31,9 +31,10 @@
         "src-2",
         "src-8",
         "src-9",
-        "src-10"
+        "src-10",
+        "src-12"
       ],
-      "evidence_note": "Public profile supplies months and casual label. Official biography confirms supermarket work. Drakes is family-owned; 2024 employer release says Yankalilla opened in 2022, so exact 2018–2022 employer/ownership succession needs checking. Casual is preserved here; schema has no casual value and full-time hours are not inferred.",
+      "evidence_note": "Public profile supplies months and casual label. Official biography confirms supermarket work. Drakes is family-owned; 2024 employer release says Yankalilla opened in 2022, so exact 2018–2022 employer/ownership succession needs checking. Casual is preserved here; schema has no casual value and full-time hours are not inferred. Local historical society dates Foodland-to-Drakes change to1August2022. Earlier operator and individual transfer/payroll remain unknown; retain overarching retail interval without assigning all four years to later brand.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "316818-01"
     },
@@ -79,22 +80,24 @@
       "spell_id": "316818-03"
     },
     {
-      "employer": "Private health insurer not yet verified",
-      "role": "Health insurance work; exact position to verify",
-      "start_date": null,
-      "end_date": null,
-      "date_precision": "unknown",
+      "employer": "Health Partners, South Australian mutual insurer (Health Partners Limited; individual contract not seen)",
+      "role": "Customer Experience Support",
+      "start_date": "2023-12",
+      "end_date": "2024-06",
+      "date_precision": "month",
       "employment_status": "unknown",
       "fte_fraction": null,
-      "category": "unknown",
-      "headline_sector": "unknown",
-      "government_control_at_time": "unknown",
-      "counting_status": "insufficient_evidence",
+      "category": "nonprofit",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
       "source_ids": [
-        "src-6"
+        "src-6",
+        "src-4",
+        "src-11"
       ],
-      "evidence_note": "First-person AMA confirms work in private health insurance. This describes insurance sector, not necessarily a for-profit employer; legal employer, control, nonprofit status, dates and hours unresolved.",
-      "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
+      "evidence_note": "First-person AMA confirms work in private health insurance. This describes insurance sector, not necessarily a for-profit employer; legal employer, control, nonprofit status, dates and hours unresolved. Public professional profile now names employer,role and months. Historical2023–24employerstatement establishes mutual nonprofit status, so private insurance does not mean for-profit private enterprise. Hours remain unknown.",
+      "counting_note": "Nonprofit employment excluded under codebook; no full-time inference from customer-support title.",
       "spell_id": "316818-04"
     },
     {
@@ -125,7 +128,7 @@
       "role": "President",
       "start_date": "2024",
       "end_date": null,
-      "date_precision": "year",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "party_organisation",
@@ -183,7 +186,7 @@
       "role": "Senator for South Australia",
       "start_date": "2025-07-01",
       "end_date": null,
-      "date_precision": "day",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -236,8 +239,8 @@
       "title": "Public professional profile",
       "source_type": "professional_profile",
       "locator": "public indexed Experience and Volunteer Experience",
-      "note": "Indexed extract names casual retail assistant, Drakes, October 2018–October 2022; volunteer school captain and student representation. No login or direct fetch used.",
-      "retrieved": "2026-10-01",
+      "note": "Indexed extract names casual retail assistant, Drakes, October 2018–October 2022; volunteer school captain and student representation. No login or direct fetch used. New indexed experience explicitly identifies Customer Experience Support,Health Partners,December2023–June2024. No direct fetch or login.",
+      "retrieved": "2026-10-02",
       "source_id": "src-4"
     },
     {
@@ -299,6 +302,26 @@
       "note": "Reports Yankalilla opening in 2022; requires reconciliation with profile labelling full 2018–2022 retail spell Drakes.",
       "retrieved": "2026-10-01",
       "source_id": "src-10"
+    },
+    {
+      "url": "https://modernslaveryregister.gov.au/statements/0F7dc9MFxTteqzK/pdf/",
+      "publisher": "Health Partners Limited / Australian Modern Slavery Statements Register",
+      "title": "Health Partners2023–24Modern Slavery Statement",
+      "source_type": "employer",
+      "locator": "PDFp2,opening and organisation description",
+      "note": "Identifies ACN128282904 and mutual not-for-profit member-benefit structure during employment period. Unlike US andCanadian namesakes.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-11"
+    },
+    {
+      "url": "https://www.facebook.com/YankalillaHistory/posts/as-of-the-1st-august-foodland-is-now-drakes-here-are-some-photos-showing-the-vis/3315182542138740/",
+      "publisher": "Yankalilla and District Historical Society",
+      "title": "Yankalilla Foodland becomes Drakes,31July2022",
+      "source_type": "other",
+      "locator": "Public indexed post opening",
+      "note": "Contemporaneous local history account dates retail banner change to1August2022. Does not itself prove individual payroll transfer or earlier legal operator.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-12"
     }
   ],
   "research_notes": [
@@ -306,6 +329,8 @@
     "Retail dates are month-precision self-report, not verified payroll. The Drakes employer account of Yankalilla opening in 2022 raises a predecessor/operator question for 2018–2022. Do not claim continuous employment by a particular Drakes legal entity until reconciled.",
     "Searches of exact profile, Health Partners and childcare did not independently confirm employer names or precise additional dates. An unsolicited contact-aggregator result suggests Health Partners customer experience December 2023–June 2024, but it was not opened and that lead is not promoted to a factual spell. Follow public primary profile or employer evidence next; do not gather contact details. UK childcare-manager namesakes excluded.",
     "Full-time evidence absent. Casual retail work remains unknown in approved enum; political staff part-time rests on secondary reporting. Student and volunteer overlaps preclude automatic continuous full-time assumptions. Union/party/study/elected office excluded; no zero inferred for public or private employment.",
-    "Follow-up: childcare identity/duties/dates/control, insurance legal employer and nonprofit status, retail predecessor/contract/hours, MP and union exact dates and leave, Young Labor end and remuneration. Last follow-up 2026-10-01. Next initial member Penny Wong."
+    "Follow-up: childcare identity/duties/dates/control, insurance legal employer and nonprofit status, retail predecessor/contract/hours, MP and union exact dates and leave, Young Labor end and remuneration. Last follow-up 2026-10-01. Next initial member Penny Wong.",
+    "Follow-up2026-10-02: independently public professional profile confirms Health Partners customer-support role December2023–June2024; former contact-aggregator lead no longer sole basis. Historical employer statement establishes mutual nonprofit control and classification. Unknown hours retained.",
+    "Contemporaneous31July2022historical-society post gives1August2022Foodland-to-Drakes transition, but not individual employment-transfer date. Targeted childcare queries returned UK/USnamesakes and general childcare-administration summaries; no Australian primary employer identification. No namesakejobs assigned. Next seek childcare employer, retail predecessor payroll and ASU/member-officecontract dates."
   ]
 }
