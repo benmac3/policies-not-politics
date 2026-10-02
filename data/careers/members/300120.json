@@ -6,12 +6,12 @@
   "snapshot_party": "Liberal Party of Australia",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/300120",
   "research_status": "blocked",
-  "last_reviewed": "2026-09-30",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
     "calculation_status": "not_calculable",
-    "note": "Official records identify employment from 2014 to 2021 with two member-funded industry advocacy bodies: the Queensland Farmers' Federation and Property Council of Australia. Employer-association work is excluded from the public/private headline measure. Published sources do not establish pre-2014 employment, hours, leave, exact 2014–15 transition dates or the 2021 cessation before campaigning and election. Party roles, study and elected office are also excluded, so no headline total is calculated."
+    "note": "QFF and Property Council staff work is employer-association activity. Employer statements announce transitions to contracting in2019 and2021, so continuous staff employment is unproven. Automotive advocacy employer/client remains unidentified. Dates, hours, actual contracts and pre2014work are unresolved; excluded roles do not establish zero public/private years."
   },
   "career_spells": [
     {
@@ -25,9 +25,13 @@
       "fte_fraction": null,
       "category": "study",
       "headline_sector": "excluded",
-      "government_control_at_time": "mixed",
+      "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-1", "src-2", "src-3"],
+      "source_ids": [
+        "src-1",
+        "src-2",
+        "src-3"
+      ],
       "evidence_note": "Official biographies list both qualifications but no attendance, completion or employment-overlap dates.",
       "counting_note": "Study is excluded."
     },
@@ -44,7 +48,12 @@
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-1", "src-2", "src-4", "src-5"],
+      "source_ids": [
+        "src-1",
+        "src-2",
+        "src-4",
+        "src-5"
+      ],
       "evidence_note": "The official biography identifies the role and year. QFF describes itself as the peak body for agricultural member organisations and the charity register identifies the entity as a charity. Exact appointment/cessation, hours, leave and transition to the Property Council are unpublished.",
       "counting_note": "Employment by a member-funded peak body is employer-association work and excluded."
     },
@@ -52,8 +61,8 @@
       "spell_id": "300120-03",
       "employer": "Property Council of Australia",
       "role": "Communications and Policy Officer / Senior Policy and Communications Adviser, Queensland",
-      "start_date": "2015-08",
-      "end_date": "2021",
+      "start_date": "2015",
+      "end_date": null,
       "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
@@ -61,8 +70,15 @@
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-1", "src-2", "src-6", "src-7"],
-      "evidence_note": "The official biography gives policy-adviser work from 2015 to 2021. A Property Council announcement identifies Pike as a new Queensland communications and policy officer on 25 August 2015; a 2019 employer release identifies him as senior adviser. Exact start day, role boundary, hours and leave are unpublished.",
+      "source_ids": [
+        "src-1",
+        "src-2",
+        "src-6",
+        "src-7",
+        "src-9",
+        "src-10"
+      ],
+      "evidence_note": "Official biography aggregates Property Council policy work2015–21. Employer25August2015announcement confirms new appointment by that date, not exact start month. November2019statement says he will resign Queensland staff role and has agreed monthly consultancy. Continuous staff employment through2021 is therefore not established; precise resignation, any return and hours/leave unknown.",
       "counting_note": "Property Council is an industry/employer advocacy body, so the employment is excluded."
     },
     {
@@ -78,25 +94,32 @@
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-1", "src-2", "src-8"],
-      "evidence_note": "Official biography supplies the role and year. Property Council media releases identify Pike as media contact during 2021, but exact promotion/cessation, hours, leave and overlap with preselection are not stated.",
+      "source_ids": [
+        "src-1",
+        "src-2",
+        "src-8",
+        "src-11"
+      ],
+      "evidence_note": "Official biography supplies the role and year. Property Council media releases identify Pike as media contact during 2021, but exact promotion/cessation, hours, leave and overlap with preselection are not stated. Employer release5July2021announces intended resignation and contracting for member-facing projects during federal campaign. Effective resignation and actual contract duration remain unconfirmed; announcement date is not cessation.",
       "counting_note": "Employer-association work is excluded."
     },
     {
       "spell_id": "300120-05",
       "employer": "Liberal Party of Australia / Liberal National Party of Queensland",
-      "role": "Federal Young Liberals Vice-President; LNP Metro South Region Branch Chair",
+      "role": "Federal Young Liberals Vice-President",
       "start_date": "2013",
-      "end_date": "2021",
-      "date_precision": "mixed",
+      "end_date": "2013",
+      "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "party_organisation",
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-1"],
-      "evidence_note": "The official biography lists federal Young Liberal vice-president in 2013 and LNP regional branch chair in 2021. Paid status, exact dates and hours are unspecified.",
+      "source_ids": [
+        "src-1"
+      ],
+      "evidence_note": "Official biography identifies federal Young Liberals vice-president in2013; separate2021LNPbranch role does not establish continuous2013–21service. Pay/hours unknown.",
       "counting_note": "Party-organisation roles are excluded."
     },
     {
@@ -105,32 +128,227 @@
       "role": "Member for Bowman",
       "start_date": "2022-05-21",
       "end_date": null,
-      "date_precision": "day",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-1", "src-2"],
+      "source_ids": [
+        "src-1",
+        "src-2"
+      ],
       "evidence_note": "Official records show election to the House of Representatives for Bowman on 21 May 2022.",
       "counting_note": "Federal elected office is excluded."
+    },
+    {
+      "employer": "Liberal National Party of Queensland",
+      "role": "Metro South Region Branch Chair",
+      "start_date": "2021",
+      "end_date": "2021",
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "party_organisation",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-1"
+      ],
+      "evidence_note": "Official biography supplies2021only. Separate from2013Young Liberal role; pay/hours unknown.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "300120-07"
+    },
+    {
+      "employer": "Property Council of Australia — contracting entity unspecified",
+      "role": "Member-facing project consultant; agreement announced2019",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "employer_association",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-9",
+        "src-10"
+      ],
+      "evidence_note": "17November2019employer statement announces agreement for month-by-month projects after planned staff resignation; election advocacy excluded from contract scope. Actual commencement, renewals, cessation and hours unverified. Dates left null; no assumption of implementation or self-employment legal form.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "300120-08"
+    },
+    {
+      "employer": "Property Council of Australia — contracting entity unspecified",
+      "role": "Member-facing project consultant; arrangement announced2021",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "employer_association",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-11"
+      ],
+      "evidence_note": "5July2021employer statement announces future contracting after intended senior-staff resignation. Distinct announced arrangement from2019; implementation, boundaries and hours unverified. Excluded association work; no duration counted.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "300120-09"
+    },
+    {
+      "employer": "Automotive-industry advocacy employer or client not identified",
+      "role": "Policy specialist / industry advocate",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "unknown",
+      "government_control_at_time": "unknown",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-12"
+      ],
+      "evidence_note": "First speech describes professional advocacy for automotive industry. No named employer, dates or hours; may be work through an already recorded organisation. Record as unresolved activity, not an additive employment interval.",
+      "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
+      "spell_id": "300120-10"
     }
   ],
   "sources": [
-    {"source_id":"src-1","url":"https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=300120","publisher":"Parliament of Australia","title":"Mr Henry Pike MP","retrieved":"2026-09-30","source_type":"official_biography","locator":"Qualifications and occupations; party positions; parliamentary service","note":"Official education, employment, party and House chronology."},
-    {"source_id":"src-2","url":"https://handbook.aph.gov.au/parliamentarians/300120","publisher":"Parliamentary Handbook","title":"PIKE, Henry Jon","retrieved":"2026-09-30","source_type":"official_biography","locator":"Occupations and service","note":"Frozen-roster identity and official occupation list."},
-    {"source_id":"src-3","url":"https://www.henrypike.com.au/about","publisher":"Office of Henry Pike MP","title":"About Henry Pike","retrieved":"2026-09-30","source_type":"official_biography","locator":"Career summary","note":"Member account describing policy analysis and advocacy across major industries."},
-    {"source_id":"src-4","url":"https://www.qff.org.au/","publisher":"Queensland Farmers' Federation","title":"Queensland Farmers' Federation","retrieved":"2026-09-30","source_type":"employer_record","locator":"Organisation and membership description","note":"Employer describes itself as the united voice of agricultural peak-body members representing farmers."},
-    {"source_id":"src-5","url":"https://www.acnc.gov.au/charity/charities/d91f3f87-3aaf-e811-a963-000d3ad244fd","publisher":"Australian Charities and Not-for-profits Commission","title":"Queensland Farmers' Federation Ltd — Charity details","retrieved":"2026-09-30","source_type":"government_record","locator":"Charity details","note":"Official register corroborating the employer's nonprofit status."},
-    {"source_id":"src-6","url":"https://www.propertycouncil.com.au/news/people-on-the-move-25-august-2015","publisher":"Property Council of Australia","title":"People on the Move — 25 August 2015","retrieved":"2026-09-30","source_type":"employer_record","locator":"Queensland office appointment","note":"Contemporary employer announcement naming Pike as the new communications and policy officer."},
-    {"source_id":"src-7","url":"https://www.propertycouncil.com.au/media-releases/henry-pike-pre-selection","publisher":"Property Council of Australia","title":"Henry Pike pre-selection","retrieved":"2026-09-30","source_type":"employer_record","locator":"Employment description","note":"2019 employer release identifying Pike as senior policy and communications adviser in Queensland."},
-    {"source_id":"src-8","url":"https://www.propertycouncil.com.au/media-releases/new-playbook-reveals-steps-to-cbd-revival","publisher":"Property Council of Australia","title":"New playbook reveals steps to CBD revival","retrieved":"2026-09-30","source_type":"employer_record","locator":"Media contact","note":"Contemporary 2021 employer release identifying Pike as national media contact."}
+    {
+      "source_id": "src-1",
+      "url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=300120",
+      "publisher": "Parliament of Australia",
+      "title": "Mr Henry Pike MP",
+      "retrieved": "2026-09-30",
+      "source_type": "official_biography",
+      "locator": "Qualifications and occupations; party positions; parliamentary service",
+      "note": "Official education, employment, party and House chronology."
+    },
+    {
+      "source_id": "src-2",
+      "url": "https://handbook.aph.gov.au/parliamentarians/300120",
+      "publisher": "Parliamentary Handbook",
+      "title": "PIKE, Henry Jon",
+      "retrieved": "2026-09-30",
+      "source_type": "official_biography",
+      "locator": "Occupations and service",
+      "note": "Frozen-roster identity and official occupation list."
+    },
+    {
+      "source_id": "src-3",
+      "url": "https://www.henrypike.com.au/about",
+      "publisher": "Office of Henry Pike MP",
+      "title": "About Henry Pike",
+      "retrieved": "2026-09-30",
+      "source_type": "official_biography",
+      "locator": "Career summary",
+      "note": "Member account describing policy analysis and advocacy across major industries."
+    },
+    {
+      "source_id": "src-4",
+      "url": "https://www.qff.org.au/",
+      "publisher": "Queensland Farmers' Federation",
+      "title": "Queensland Farmers' Federation",
+      "retrieved": "2026-09-30",
+      "source_type": "employer_record",
+      "locator": "Organisation and membership description",
+      "note": "Employer describes itself as the united voice of agricultural peak-body members representing farmers."
+    },
+    {
+      "source_id": "src-5",
+      "url": "https://www.acnc.gov.au/charity/charities/d91f3f87-3aaf-e811-a963-000d3ad244fd",
+      "publisher": "Australian Charities and Not-for-profits Commission",
+      "title": "Queensland Farmers' Federation Ltd — Charity details",
+      "retrieved": "2026-09-30",
+      "source_type": "government_record",
+      "locator": "Charity details",
+      "note": "Official register corroborating the employer's nonprofit status."
+    },
+    {
+      "source_id": "src-6",
+      "url": "https://www.propertycouncil.com.au/news/people-on-the-move-25-august-2015",
+      "publisher": "Property Council of Australia",
+      "title": "People on the Move — 25 August 2015",
+      "retrieved": "2026-09-30",
+      "source_type": "employer_record",
+      "locator": "Queensland office appointment",
+      "note": "Contemporary employer announcement naming Pike as the new communications and policy officer."
+    },
+    {
+      "source_id": "src-7",
+      "url": "https://www.propertycouncil.com.au/media-releases/henry-pike-pre-selection",
+      "publisher": "Property Council of Australia",
+      "title": "Henry Pike pre-selection",
+      "retrieved": "2026-09-30",
+      "source_type": "employer_record",
+      "locator": "Employment description",
+      "note": "2019 employer release identifying Pike as senior policy and communications adviser in Queensland."
+    },
+    {
+      "source_id": "src-8",
+      "url": "https://www.propertycouncil.com.au/media-releases/new-playbook-reveals-steps-to-cbd-revival",
+      "publisher": "Property Council of Australia",
+      "title": "New playbook reveals steps to CBD revival",
+      "retrieved": "2026-09-30",
+      "source_type": "employer_record",
+      "locator": "Media contact",
+      "note": "Contemporary 2021 employer release identifying Pike as national media contact."
+    },
+    {
+      "url": "https://www.propertycouncil.com.au/media-releases/henry-pike-pre-selection",
+      "publisher": "Property Council of Australia",
+      "title": "Henry Pike pre-selection",
+      "source_type": "employer_record",
+      "locator": "Statement by Queensland Executive Director Chris Mountford; resignation and consultancy paragraphs",
+      "note": "Primary statement announces staff resignation and agreed monthly consultancy for member-facing projects; no effective date.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-9"
+    },
+    {
+      "url": "https://www.nationaltribune.com.au/henry-pike-pre-selection/",
+      "publisher": "Property Council via National Tribune",
+      "title": "Henry Pike pre-selection",
+      "source_type": "employer_record",
+      "locator": "17November2019 release timestamp and statement",
+      "note": "Dated reproduction of primary statement; publication is not employment transition date.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-10"
+    },
+    {
+      "url": "https://www.miragenews.com/following-statement-can-be-attributed-to-590173/",
+      "publisher": "Property Council via Mirage News",
+      "title": "Following statement can be attributed to Property Council CEO Ken Morrison",
+      "source_type": "employer_record",
+      "locator": "5July2021 release; director resignation and consultancy",
+      "note": "Publicly indexed employer statement announces resignation and future member-project contracting after federal preselection. Full open returned inaccessible/Internal Error; indexed text used.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-11"
+    },
+    {
+      "url": "https://www.henrypike.com.au/maiden_speech_2022",
+      "publisher": "Henry Pike",
+      "title": "Maiden Speech,5September2022",
+      "source_type": "first_person",
+      "locator": "Professional-experience paragraph",
+      "note": "Member identifies advocacy for automotive industry as well as property and agriculture; employer and period unreported.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-12"
+    }
   ],
   "research_notes": [
     "Identify all paid employment before QFF in 2014, including any work during or between the architecture and MBA studies.",
     "Obtain QFF appointment/cessation, hours and leave and resolve the exact 2014–15 handover to the Property Council.",
     "Obtain Property Council role-change dates, hours, leave and final cessation; resolve overlap with 2020 candidacy and 2021 preselection/campaigning.",
-    "Confirm paid status and hours for party positions; party-organisation activity remains excluded."
+    "Confirm paid status and hours for party positions; party-organisation activity remains excluded.",
+    "Follow-up2026-10-02: reread appointment and preselection releases, dated2019reproduction, indexed2021CEOstatement, member biography and first speech. Separate intended contractual arrangements from verified staff periods; publication dates are not actual employment boundaries.",
+    "Searches for QFF historical staffing/annual reports, personal professional profiles, pre2014architecture work and automotive advocacy returned no additional attributable employer history. Unrelated Henry Pike profiles excluded. Further leads: actual2019/2021contracts and return-to-staff dates; automotive client/employer;QFF2014–15transition; university completion and paid student work.",
+    "Recovered source error: MirageNews full2021release open returned Internal Error, URL not accessible via this tool; publicly indexed employer release retained with limitation. No job-wide blocking error."
   ]
 }
