@@ -6,12 +6,12 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/298574",
   "research_status": "blocked",
-  "last_reviewed": "2026-09-30",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
     "calculation_status": "not_calculable",
-    "note": "Official parliamentary and candidate material establishes radiography, NSW and Queensland government advisory work and a long Deloitte career, but does not publish the hours, leave or complete employment boundaries required for a full-time duration calculation. Political staff work and elected office are excluded. Deloitte titles and month-level sequencing are partly supported by public professional-profile aggregations and contemporary Deloitte publications, but full-time status and the initial and final payroll dates remain unresolved. Missing evidence is not zero."
+    "note": "First-person parliamentary speech explicitly supports a full-time working career from age17, apart from a six-month parental break. Employer and date evidence is still incomplete, including radiography sector, departmental versus consultancy periods, early Deloitte roles and the placement of leave. Almost25 corporate years is an approximate career description, not a calculated sector total. No unsupported duration or zero encoded."
   },
   "career_spells": [
     {
@@ -27,7 +27,10 @@
       "headline_sector": "excluded",
       "government_control_at_time": "unknown",
       "counting_status": "excluded",
-      "source_ids": ["src-1", "src-2"],
+      "source_ids": [
+        "src-1",
+        "src-2"
+      ],
       "evidence_note": "The official parliamentary biography lists both QUT qualifications but no attendance or completion dates.",
       "counting_note": "Study is excluded."
     },
@@ -38,15 +41,19 @@
       "start_date": null,
       "end_date": null,
       "date_precision": "unknown",
-      "employment_status": "unknown",
+      "employment_status": "full_time",
       "fte_fraction": null,
       "category": "unknown",
       "headline_sector": "unknown",
       "government_control_at_time": "unknown",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-1", "src-3"],
-      "evidence_note": "The official biography records work as a radiographer and the ALP biography says Jarrett started her career in health. Employer, jurisdiction, dates, hours, leave and public/private control are not published.",
-      "counting_note": "Neither sector nor a bounded full-time interval is established."
+      "source_ids": [
+        "src-1",
+        "src-3",
+        "src-15"
+      ],
+      "evidence_note": "The official biography records work as a radiographer and the ALP biography says Jarrett started her career in health. Employer, jurisdiction, dates, hours, leave and public/private control are not published. Personal speech establishes full-time radiography. Profile lead identifies Mater cadetship followed by private practice1984–1989; primary hospital/employer confirmation and split dates needed. Sector remains unknown.",
+      "counting_note": "Personal first-speech full-time statement supports status, but role boundaries, sector allocation and placement of six-month parental break remain unresolved; no total calculated."
     },
     {
       "spell_id": "298574-03",
@@ -55,15 +62,21 @@
       "start_date": null,
       "end_date": null,
       "date_precision": "unknown",
-      "employment_status": "unknown",
+      "employment_status": "full_time",
       "fte_fraction": null,
       "category": "political_staff",
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-1", "src-5", "src-6", "src-7"],
+      "source_ids": [
+        "src-1",
+        "src-5",
+        "src-6",
+        "src-7",
+        "src-15"
+      ],
       "evidence_note": "The official biography records advisory work for NSW and Queensland governments. ABC and AAP profiles add that Jarrett worked as an adviser and chief of staff to state ministers and was a policy adviser during the Wayne Goss government. The offices, employing entities, dates, hours and leave remain unpublished.",
-      "counting_note": "Political staff employment is excluded irrespective of public funding."
+      "counting_note": "Personal first-speech full-time statement supports status, but role boundaries, sector allocation and placement of six-month parental break remain unresolved; no total calculated."
     },
     {
       "spell_id": "298574-04",
@@ -72,15 +85,21 @@
       "start_date": null,
       "end_date": "2010-09",
       "date_precision": "mixed",
-      "employment_status": "unknown",
+      "employment_status": "full_time",
       "fte_fraction": null,
       "category": "private_enterprise",
       "headline_sector": "private",
       "government_control_at_time": "private",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-3", "src-8", "src-9", "src-10"],
+      "source_ids": [
+        "src-3",
+        "src-8",
+        "src-9",
+        "src-10",
+        "src-15"
+      ],
       "evidence_note": "Jarrett's ALP biography describes a 25-year private-sector career. Contemporary Deloitte releases identify her as global director of public relations and chief-executive communications in January 2006 and continue to list her as a Deloitte media contact in 2007 and 2008. A public professional-profile aggregation places the next Deloitte program-lead role from September 2010. The original Deloitte commencement date, legal employing entity, hours and leave are unresolved.",
-      "counting_note": "Contemporary sources establish private employment by 2006, but the unbounded start and missing full-time evidence prevent counting."
+      "counting_note": "Personal first-speech full-time statement supports status, but role boundaries, sector allocation and placement of six-month parental break remain unresolved; no total calculated."
     },
     {
       "spell_id": "298574-05",
@@ -89,15 +108,19 @@
       "start_date": "2010-09",
       "end_date": "2017-09",
       "date_precision": "month",
-      "employment_status": "unknown",
+      "employment_status": "full_time",
       "fte_fraction": null,
       "category": "private_enterprise",
       "headline_sector": "private",
       "government_control_at_time": "private",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-11", "src-12"],
+      "source_ids": [
+        "src-11",
+        "src-12",
+        "src-15"
+      ],
       "evidence_note": "A public professional-profile aggregation reports Global Regulatory and Public Policy program leadership from September 2010 to October 2014 and Global Public Policy program leadership from October 2014 to September 2017. A 2017 IOE/Deloitte report independently identifies Jarrett as a Director of Deloitte Belgium and the Deloitte Global Public Policy Group, corroborating employer and function but not the full month sequence or hours.",
-      "counting_note": "Month-level role sequencing is useful evidence, but full-time status, leave and payroll continuity are not established."
+      "counting_note": "Personal first-speech full-time statement supports status, but role boundaries, sector allocation and placement of six-month parental break remain unresolved; no total calculated."
     },
     {
       "spell_id": "298574-06",
@@ -106,32 +129,43 @@
       "start_date": "2017-09",
       "end_date": "2019-01",
       "date_precision": "month",
-      "employment_status": "unknown",
+      "employment_status": "full_time",
       "fte_fraction": null,
       "category": "private_enterprise",
       "headline_sector": "private",
       "government_control_at_time": "private",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-11", "src-13"],
+      "source_ids": [
+        "src-11",
+        "src-13",
+        "src-15"
+      ],
       "evidence_note": "Public professional-profile aggregations report Acting Chief of Staff from September 2017 to June 2018 and Chief of Staff from June 2018 to January 2019. A 2018 Deloitte-supported report independently identifies Jarrett as a director in Deloitte's Global Risk and Regulatory Group in Belgium, corroborating the organisation and senior global-risk function but not payroll conditions.",
-      "counting_note": "The sources do not establish full-time status, leave or uninterrupted employment across the title transition."
+      "counting_note": "Personal first-speech full-time statement supports status, but role boundaries, sector allocation and placement of six-month parental break remain unresolved; no total calculated."
     },
     {
       "spell_id": "298574-07",
       "employer": "Deloitte Australia",
       "role": "Director, Global Risk and Global Regulatory and Public Policy",
       "start_date": "2019-01",
-      "end_date": "2025-05-02",
+      "end_date": null,
       "date_precision": "mixed",
-      "employment_status": "unknown",
+      "employment_status": "full_time",
       "fte_fraction": null,
       "category": "private_enterprise",
       "headline_sector": "private",
       "government_control_at_time": "private",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-1", "src-4", "src-5", "src-6", "src-11"],
-      "evidence_note": "The official parliamentary biography confirms Deloitte employment. ABC's 2022 and 2025 election guides identify Jarrett's most recent role as a Deloitte Australia director responsible for global risk and regulatory/public policy. A public professional-profile aggregation gives January 2019 as the start, and news profiles report her return to Australia in 2019 after about 15 years overseas. The end is bounded by federal election day rather than a sourced payroll date; hours, leave and any campaign arrangement are unknown.",
-      "counting_note": "A substantial private-sector spell is supported, but the project does not infer full-time status from a director title or election transition."
+      "source_ids": [
+        "src-1",
+        "src-4",
+        "src-5",
+        "src-6",
+        "src-11",
+        "src-15"
+      ],
+      "evidence_note": "The official parliamentary biography confirms Deloitte employment. ABC's 2022 and 2025 election guides identify Jarrett's most recent role as a Deloitte Australia director responsible for global risk and regulatory/public policy. A public professional-profile aggregation gives January 2019 as the start, and news profiles report her return to Australia in 2019 after about 15 years overseas. Withdrawn synthetic day-before-election end; actual cessation/campaign leave unknown. First speech supplies full-time status but not payroll boundaries or parental-break dates.",
+      "counting_note": "Personal first-speech full-time statement supports status, but role boundaries, sector allocation and placement of six-month parental break remain unresolved; no total calculated."
     },
     {
       "spell_id": "298574-08",
@@ -142,12 +176,16 @@
       "date_precision": "unknown",
       "employment_status": "unknown",
       "fte_fraction": null,
-      "category": "governance",
+      "category": "unpaid_work",
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-14"],
-      "evidence_note": "A candidate interview identifies Jarrett as a volunteer board member of Brisbane homelessness charity 3rd Space. Dates and any remuneration are not reported.",
+      "source_ids": [
+        "src-14",
+        "src-19",
+        "src-20"
+      ],
+      "evidence_note": "A candidate interview identifies Jarrett as a volunteer board member of Brisbane homelessness charity 3rd Space. Dates and any remuneration are not reported. Employer2022–23 report records her filling a vacancy and2023–24 report lists her on board. Financial-year windows do not establish exact start or cessation.",
       "counting_note": "Volunteer governance is excluded from substantive employment totals."
     },
     {
@@ -156,40 +194,330 @@
       "role": "Member for Brisbane",
       "start_date": "2025-05-03",
       "end_date": null,
-      "date_precision": "day",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-1", "src-2"],
+      "source_ids": [
+        "src-1",
+        "src-2"
+      ],
       "evidence_note": "Official parliamentary service begins with the 3 May 2025 federal election.",
       "counting_note": "Federal elected office is excluded."
+    },
+    {
+      "employer": "MJM Issues Management; client Queensland Department of Employment, Training and Industrial Relations",
+      "role": "Workers-compensation policy consultant",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "self_employed",
+      "fte_fraction": null,
+      "category": "private_enterprise",
+      "headline_sector": "private",
+      "government_control_at_time": "private",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-16",
+        "src-17",
+        "src-15"
+      ],
+      "evidence_note": "1999 committee minority statement reports $52,992.15 payment; minister independently confirms consultancy selection. Government client does not make private consultant a public employee. Legal form, dates and overlap with later unit role unknown.",
+      "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
+      "spell_id": "298574-10"
+    },
+    {
+      "employer": "Queensland Department of Employment, Training and Industrial Relations, Workers Compensation Policy Unit",
+      "role": "Former head / acting director",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "full_time",
+      "fte_fraction": null,
+      "category": "public_service",
+      "headline_sector": "public",
+      "government_control_at_time": "public",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-18",
+        "src-15"
+      ],
+      "evidence_note": "Ministerial correction14November2000 establishes she had already left months earlier for NSW work. Do not use opposition claim of current appointment. Exact dates and relationship to consultancy unresolved.",
+      "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
+      "spell_id": "298574-11"
+    },
+    {
+      "employer": "Deloitte Australia",
+      "role": "National Communications Manager",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "full_time",
+      "fte_fraction": null,
+      "category": "private_enterprise",
+      "headline_sector": "private",
+      "government_control_at_time": "private",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-11",
+        "src-15"
+      ],
+      "evidence_note": "Professional aggregation gives2000–2001, with January boundaries unconfirmed; role and chronology remain provisional. Needs employer corroboration.",
+      "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
+      "spell_id": "298574-12"
+    },
+    {
+      "employer": "Deloitte Asia Pacific",
+      "role": "Director, Marketing and Communications",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "full_time",
+      "fte_fraction": null,
+      "category": "private_enterprise",
+      "headline_sector": "private",
+      "government_control_at_time": "private",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-11",
+        "src-15"
+      ],
+      "evidence_note": "Aggregation gives April2001–October2004; provisional pending employer records. Possible overlap with global role from September2004; no double counting.",
+      "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
+      "spell_id": "298574-13"
+    },
+    {
+      "employer": "Victorian Financial Institutions Commission",
+      "role": "Public Policy Manager; profile lead",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "public_service",
+      "headline_sector": "public",
+      "government_control_at_time": "public",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-11"
+      ],
+      "evidence_note": "Aggregation identifies1991–1992; no primary individual appointment found. Public agency name supports provisional sector, but role, dates and hours need verification.",
+      "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
+      "spell_id": "298574-14"
     }
   ],
   "sources": [
-    {"source_id":"src-1","url":"https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=298574","publisher":"Parliament of Australia","title":"Ms Madonna Jarrett MP","retrieved":"2026-09-30","source_type":"official_biography","locator":"Qualifications, occupations and parliamentary service","note":"Official record of QUT qualifications, radiography, NSW and Queensland government advisory work, Deloitte employment and federal service."},
-    {"source_id":"src-2","url":"https://handbook.aph.gov.au/parliamentarians/298574","publisher":"Parliamentary Handbook","title":"JARRETT, Madonna","retrieved":"2026-09-30","source_type":"official_biography","locator":"Current parliamentary service","note":"Official frozen-roster identity and election date."},
-    {"source_id":"src-3","url":"https://alp.org.au/our-people/our-people/madonna-jarrett/","publisher":"Australian Labor Party","title":"Madonna Jarrett","retrieved":"2026-09-30","source_type":"professional_profile","locator":"Biography","note":"Says Jarrett began in health and spent the past 25 years in the private sector working on women's economic development and youth progress across multiple regions."},
-    {"source_id":"src-4","url":"https://www.abc.net.au/news/elections/federal/2022/guide/bris","publisher":"ABC News","title":"Brisbane — 2022 federal election guide","retrieved":"2026-09-30","source_type":"news","locator":"Madonna Jarrett candidate profile","note":"Contemporaneous description of her Deloitte Australia director role and earlier state-government adviser/chief-of-staff work."},
-    {"source_id":"src-5","url":"https://www.abc.net.au/news/elections/federal/2025/guide/bris","publisher":"ABC News","title":"Brisbane — 2025 federal election guide","retrieved":"2026-09-30","source_type":"news","locator":"Madonna Jarrett candidate profile","note":"Identifies the Deloitte Australia global-risk and regulatory/public-policy director role as her most recent occupation."},
-    {"source_id":"src-6","url":"https://www.canberratimes.com.au/story/7253027/labor-selects-businesswoman-for-brisbane/","publisher":"The Canberra Times / AAP","title":"Labor selects businesswoman for Brisbane","retrieved":"2026-09-30","source_type":"news","locator":"Career paragraphs","note":"Reports Deloitte Australia directorship and policy-adviser experience in the Goss government."},
-    {"source_id":"src-7","url":"https://www.abc.net.au/news/2022-04-28/qld-federal-election-brisbane-seat-contest-politics-in-pub/100980434","publisher":"ABC News","title":"Three-way contest for Brisbane shapes up as key federal election battle","retrieved":"2026-09-30","source_type":"news","locator":"Candidate biography","note":"Corroborates policy work in the Goss government and public-affairs/crisis-management experience."},
-    {"source_id":"src-8","url":"https://www.europapress.es/economia/empresas-00339/noticia-comunicado-empresas-deben-desarrollar-nuevas-estrategias-gestion-riesgo-luchar-contra-amenazas-20060125143133.html","publisher":"Europa Press (Deloitte release)","title":"Companies must develop new risk-management strategies","retrieved":"2026-09-30","source_type":"employer","locator":"Deloitte media contact, 25 January 2006","note":"Contemporary Deloitte release identifies Madonna Jarrett as global public-relations director and chief-executive communications contact."},
-    {"source_id":"src-9","url":"https://q.iasplus.deloitte.com/content/07701428-e637-4da9-b520-9cc7adb9f0ba","publisher":"Deloitte IAS Plus","title":"Deloitte press release archive, March 2007","retrieved":"2026-09-30","source_type":"employer","locator":"Media contacts","note":"Contemporary employer archive lists Madonna Jarrett as a Deloitte contact in 2007."},
-    {"source_id":"src-10","url":"https://iasplus.com/content/42492a5e-d9a9-4c90-b4eb-2d719cc56818","publisher":"Deloitte IAS Plus","title":"Deloitte press release archive, 2008","retrieved":"2026-09-30","source_type":"employer","locator":"Media contacts","note":"Contemporary employer archive lists Madonna Jarrett as a Deloitte contact in 2008."},
-    {"source_id":"src-11","url":"https://www.signalhire.com/profiles/madonna-jarrett%27s-email/119944947","publisher":"SignalHire","title":"Madonna Jarrett professional profile aggregation","retrieved":"2026-09-30","source_type":"professional_profile","locator":"Experience timeline","note":"Secondary lead for January 2019 director start and June 2018-January 2019 chief-of-staff interval; requires primary confirmation."},
-    {"source_id":"src-12","url":"https://www.ioe-emp.org/index.php?eID=dumpFile&f=129557&t=f&token=082d645cfcfa9d53fed52c7f80846328af50220c","publisher":"International Organisation of Employers and Deloitte","title":"Understanding the Future of Work","retrieved":"2026-09-30","source_type":"employer","locator":"Acknowledgements / contributors","note":"2017 report identifies Madonna Jarrett as Director, Deloitte Belgium and Deloitte Global Public Policy Group."},
-    {"source_id":"src-13","url":"https://gbc-education.org/wp-content/uploads/sites/2/2022/03/Deloitte_Preparing-tomorrows-workforce-for-4IR-revised-08.11.pdf","publisher":"Deloitte and Global Business Coalition for Education","title":"Preparing tomorrow's workforce for the Fourth Industrial Revolution","retrieved":"2026-09-30","source_type":"employer","locator":"Contributors","note":"2018 report identifies Madonna Jarrett as a director in Deloitte's Global Risk and Regulatory Group in Belgium."},
-    {"source_id":"src-14","url":"https://qnews.com.au/meet-labors-brisbane-candidate-madonna-jarrett/","publisher":"QNews","title":"Meet Labor's Brisbane candidate Madonna Jarrett","retrieved":"2026-09-30","source_type":"news","locator":"Community involvement","note":"Reports volunteer board service with 3rd Space Brisbane."}
+    {
+      "source_id": "src-1",
+      "url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=298574",
+      "publisher": "Parliament of Australia",
+      "title": "Ms Madonna Jarrett MP",
+      "retrieved": "2026-09-30",
+      "source_type": "official_biography",
+      "locator": "Qualifications, occupations and parliamentary service",
+      "note": "Official record of QUT qualifications, radiography, NSW and Queensland government advisory work, Deloitte employment and federal service."
+    },
+    {
+      "source_id": "src-2",
+      "url": "https://handbook.aph.gov.au/parliamentarians/298574",
+      "publisher": "Parliamentary Handbook",
+      "title": "JARRETT, Madonna",
+      "retrieved": "2026-09-30",
+      "source_type": "official_biography",
+      "locator": "Current parliamentary service",
+      "note": "Official frozen-roster identity and election date."
+    },
+    {
+      "source_id": "src-3",
+      "url": "https://alp.org.au/our-people/our-people/madonna-jarrett/",
+      "publisher": "Australian Labor Party",
+      "title": "Madonna Jarrett",
+      "retrieved": "2026-09-30",
+      "source_type": "professional_profile",
+      "locator": "Biography",
+      "note": "Says Jarrett began in health and spent the past 25 years in the private sector working on women's economic development and youth progress across multiple regions."
+    },
+    {
+      "source_id": "src-4",
+      "url": "https://www.abc.net.au/news/elections/federal/2022/guide/bris",
+      "publisher": "ABC News",
+      "title": "Brisbane — 2022 federal election guide",
+      "retrieved": "2026-09-30",
+      "source_type": "news",
+      "locator": "Madonna Jarrett candidate profile",
+      "note": "Contemporaneous description of her Deloitte Australia director role and earlier state-government adviser/chief-of-staff work."
+    },
+    {
+      "source_id": "src-5",
+      "url": "https://www.abc.net.au/news/elections/federal/2025/guide/bris",
+      "publisher": "ABC News",
+      "title": "Brisbane — 2025 federal election guide",
+      "retrieved": "2026-09-30",
+      "source_type": "news",
+      "locator": "Madonna Jarrett candidate profile",
+      "note": "Identifies the Deloitte Australia global-risk and regulatory/public-policy director role as her most recent occupation."
+    },
+    {
+      "source_id": "src-6",
+      "url": "https://www.canberratimes.com.au/story/7253027/labor-selects-businesswoman-for-brisbane/",
+      "publisher": "The Canberra Times / AAP",
+      "title": "Labor selects businesswoman for Brisbane",
+      "retrieved": "2026-09-30",
+      "source_type": "news",
+      "locator": "Career paragraphs",
+      "note": "Reports Deloitte Australia directorship and policy-adviser experience in the Goss government."
+    },
+    {
+      "source_id": "src-7",
+      "url": "https://www.abc.net.au/news/2022-04-28/qld-federal-election-brisbane-seat-contest-politics-in-pub/100980434",
+      "publisher": "ABC News",
+      "title": "Three-way contest for Brisbane shapes up as key federal election battle",
+      "retrieved": "2026-09-30",
+      "source_type": "news",
+      "locator": "Candidate biography",
+      "note": "Corroborates policy work in the Goss government and public-affairs/crisis-management experience."
+    },
+    {
+      "source_id": "src-8",
+      "url": "https://www.europapress.es/economia/empresas-00339/noticia-comunicado-empresas-deben-desarrollar-nuevas-estrategias-gestion-riesgo-luchar-contra-amenazas-20060125143133.html",
+      "publisher": "Europa Press (Deloitte release)",
+      "title": "Companies must develop new risk-management strategies",
+      "retrieved": "2026-09-30",
+      "source_type": "employer",
+      "locator": "Deloitte media contact, 25 January 2006",
+      "note": "Contemporary Deloitte release identifies Madonna Jarrett as global public-relations director and chief-executive communications contact."
+    },
+    {
+      "source_id": "src-9",
+      "url": "https://q.iasplus.deloitte.com/content/07701428-e637-4da9-b520-9cc7adb9f0ba",
+      "publisher": "Deloitte IAS Plus",
+      "title": "Deloitte press release archive, March 2007",
+      "retrieved": "2026-09-30",
+      "source_type": "employer",
+      "locator": "Media contacts",
+      "note": "Contemporary employer archive lists Madonna Jarrett as a Deloitte contact in 2007."
+    },
+    {
+      "source_id": "src-10",
+      "url": "https://iasplus.com/content/42492a5e-d9a9-4c90-b4eb-2d719cc56818",
+      "publisher": "Deloitte IAS Plus",
+      "title": "Deloitte press release archive, 2008",
+      "retrieved": "2026-09-30",
+      "source_type": "employer",
+      "locator": "Media contacts",
+      "note": "Contemporary employer archive lists Madonna Jarrett as a Deloitte contact in 2008."
+    },
+    {
+      "source_id": "src-11",
+      "url": "https://www.signalhire.com/profiles/madonna-jarrett%27s-email/119944947",
+      "publisher": "SignalHire",
+      "title": "Madonna Jarrett professional profile aggregation",
+      "retrieved": "2026-10-02",
+      "source_type": "professional_profile",
+      "locator": "Experience timeline",
+      "note": "Secondary lead for January 2019 director start and June 2018-January 2019 chief-of-staff interval; requires primary confirmation. Expanded job timeline read; January values may encode year-only dates. Current Deloitte label is stale/ambiguous, not proof of ongoing work after election. No contact details used."
+    },
+    {
+      "source_id": "src-12",
+      "url": "https://www.ioe-emp.org/index.php?eID=dumpFile&f=129557&t=f&token=082d645cfcfa9d53fed52c7f80846328af50220c",
+      "publisher": "International Organisation of Employers and Deloitte",
+      "title": "Understanding the Future of Work",
+      "retrieved": "2026-09-30",
+      "source_type": "employer",
+      "locator": "Acknowledgements / contributors",
+      "note": "2017 report identifies Madonna Jarrett as Director, Deloitte Belgium and Deloitte Global Public Policy Group."
+    },
+    {
+      "source_id": "src-13",
+      "url": "https://gbc-education.org/wp-content/uploads/sites/2/2022/03/Deloitte_Preparing-tomorrows-workforce-for-4IR-revised-08.11.pdf",
+      "publisher": "Deloitte and Global Business Coalition for Education",
+      "title": "Preparing tomorrow's workforce for the Fourth Industrial Revolution",
+      "retrieved": "2026-09-30",
+      "source_type": "employer",
+      "locator": "Contributors",
+      "note": "2018 report identifies Madonna Jarrett as a director in Deloitte's Global Risk and Regulatory Group in Belgium."
+    },
+    {
+      "source_id": "src-14",
+      "url": "https://qnews.com.au/meet-labors-brisbane-candidate-madonna-jarrett/",
+      "publisher": "QNews",
+      "title": "Meet Labor's Brisbane candidate Madonna Jarrett",
+      "retrieved": "2026-09-30",
+      "source_type": "news",
+      "locator": "Community involvement",
+      "note": "Reports volunteer board service with 3rd Space Brisbane."
+    },
+    {
+      "url": "https://www.openaustralia.org.au/debate/?id=2025-07-23.129.2",
+      "publisher": "Parliament of Australia Hansard via OpenAustralia",
+      "title": "Madonna Jarrett first speech,23July2025",
+      "source_type": "government_record",
+      "locator": "5:47pm; paragraph beginning Inequality",
+      "note": "Explicit personal full-time history from17 except six-month parental break; almost25 corporate years.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-15"
+    },
+    {
+      "url": "https://documents.parliament.qld.gov.au/committees/ec/1999/Est1999-rpt-F.pdf",
+      "publisher": "Queensland Parliament",
+      "title": "Estimates Committee F Report1of1999",
+      "source_type": "government_record",
+      "locator": "PDFp11, statement of reservations section7.7",
+      "note": "Reports payment to Jarrett of MJM Issues Management; ministerial corroboration in28October1999Hansard.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-16"
+    },
+    {
+      "url": "https://documents.parliament.qld.gov.au/events/han/1999/991028ha.pdf",
+      "publisher": "Queensland Parliament",
+      "title": "Hansard28October1999",
+      "source_type": "government_record",
+      "locator": "p4519/PDF37, Paul Braddy reply",
+      "note": "Minister confirms selection panel recommended MJM Issues Management for workers-compensation expertise and NSW experience.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-17"
+    },
+    {
+      "url": "https://documents.parliament.qld.gov.au/speeches/spk2000/Paul%20Braddy%20spk%20Kedron%2020001114-1.PDF",
+      "publisher": "Queensland Parliament",
+      "title": "Paul Braddy speech,14November2000",
+      "source_type": "government_record",
+      "locator": "PDFp2, correction concerning Jarrett",
+      "note": "Minister says former Workers Compensation Policy Unit head had left months earlier for NSW work; does not identify next employer.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-18"
+    },
+    {
+      "url": "https://3rdspace.org.au/wp-content/uploads/2024/11/3rd-Space_Annual-Report-2024_Final_02.pdf",
+      "publisher": "3rd Space",
+      "title": "Annual Report2023–2024",
+      "source_type": "employer",
+      "locator": "pp20–21/PDF11, Board of Directors",
+      "note": "Primary confirmation of board membership during reporting period.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-19"
+    },
+    {
+      "url": "https://3rdspace.org.au/wp-content/uploads/2023/11/Final-Annual-Report-2022-2023.pdf",
+      "publisher": "3rd Space",
+      "title": "Annual Report2022–2023",
+      "source_type": "employer",
+      "locator": "Indexed board vacancy passage",
+      "note": "Indexed text says Jarrett filled board vacancy; full fetch400 Content length is too large:17620029. Exact appointment date unresolved.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-20"
+    }
   ],
   "research_notes": [
     "Identify the radiography employer, dates, hours and whether it was publicly or privately controlled.",
     "Identify each NSW and Queensland ministerial office, employing entity, title, appointment/cessation, hours and leave; confirm whether any role was public-service employment rather than political staff.",
     "Obtain a primary Deloitte appointment history: original commencement, legal employing entities, movements between Australia and Belgium, exact title boundaries, hours, leave and final cessation or campaign arrangement.",
     "The public professional-profile aggregations provide useful month-level leads but are not treated as proof of full-time status or uninterrupted payroll service. Seek archived Deloitte biographies, annual reports and conference profiles.",
-    "Resolve whether any other paid employment occurred between radiography, government advisory work and Deloitte, and distinguish public affairs or crisis-management consulting from internal Deloitte roles."
+    "Resolve whether any other paid employment occurred between radiography, government advisory work and Deloitte, and distinguish public affairs or crisis-management consulting from internal Deloitte roles.",
+    "2026-10-02 follow-up: recovered explicit full-time and six-month leave evidence, MJM Issues Management consultancy and separate departmental-unit role from historical ministerial records; board annual-report corroboration. Profile leads additionally identify Queensland Justice/Corrective Services adviser1989–1990, Queensland Employment/Training/IR adviser/chief of staff1992–1996 and NSW vocational education adviser1996–1998; verify offices and true dates before splitting existing grouped row. Radiography Mater/private practice1984–1989 and Victorian Financial Institutions Commission1991–1992 require primary records. Early Deloitte2000–2004 roles added as provisional; Jan boundaries not asserted. Original global role may begin September2004 (aggregation), to corroborate against employer archive. No calculation until dates, overlaps and six-month leave placement resolved. Annual-report2022–23 full open400 size error was source-only; indexed passage and accessible2023–24 report used. Search namesakes Dr Anderson/SPI Pharma rejected. Do not infer an unbroken25-year total or literal2000 appointment from opposition assertion corrected by minister.",
+    "Validation caught pre-existing governance category outside approved vocabulary; volunteer board row recoded unpaid_work, still excluded. Local AssertionError resolved before commit."
   ]
 }
-
