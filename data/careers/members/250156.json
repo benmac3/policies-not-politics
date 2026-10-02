@@ -6,12 +6,12 @@
   "snapshot_party": "Australian Greens",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/250156",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-01",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
     "calculation_status": "not_calculable",
-    "note": "Paid status and employer of advocacy remain unknown; no adequately evidenced full-time public/private interval. Excluded study, party and advisory activity does not establish a complete employment history."
+    "note": "Paid health advisory-council service is evidenced and excluded as governance. Employer and paid status of other advocacy remain unknown; no adequately evidenced full-time public/private interval. Excluded study, party and advisory activity does not establish a complete employment history."
   },
   "career_spells": [
     {
@@ -102,7 +102,7 @@
       "role": "Membership officer",
       "start_date": "2011",
       "end_date": null,
-      "date_precision": "year",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "party_organisation",
@@ -121,7 +121,7 @@
       "role": "Permanent representative",
       "start_date": "2012",
       "end_date": null,
-      "date_precision": "year",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "party_organisation",
@@ -140,7 +140,7 @@
       "role": "Co-convener",
       "start_date": "2013",
       "end_date": null,
-      "date_precision": "year",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "party_organisation",
@@ -178,7 +178,7 @@
       "role": "Senator for Western Australia",
       "start_date": "2017-11-10",
       "end_date": null,
-      "date_precision": "day",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -192,6 +192,26 @@
       "evidence_note": "Declared elected after countback; frozen first-service date retained, not silently backdated to2016 election.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "250156-09"
+    },
+    {
+      "employer": "Rockingham General Hospital / Rockingham Peel Group Community Advisory Council",
+      "role": "Member, paid per meeting",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "public_service",
+      "headline_sector": "excluded",
+      "government_control_at_time": "public",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-7",
+        "src-8"
+      ],
+      "evidence_note": "Government annual reports establish paid advisory service: 12 months membership during financial year 2015–16 with $150 actual remuneration, and 2 months during 2016–17 with $180. Exact appointment start/end unknown; do not equate reporting-period durations with full tenure or infer particular end month. Advisory governance is excluded, and meeting fees are not proof of substantive full-time employment. May overlap generic disability/youth advocacy; not additive ordinary employment.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "250156-10"
     }
   ],
   "sources": [
@@ -254,11 +274,34 @@
       "note": "No comprehensive declaration of never having paid work; hardship not converted to zero employment.",
       "retrieved": "2026-10-01",
       "source_id": "src-6"
+    },
+    {
+      "url": "https://www.health.wa.gov.au/~/media/Files/Corporate/Reports-and-publications/Annual-reports/2016/metro-annual-report-2015-16.pdf",
+      "publisher": "WA Department of Health",
+      "title": "Metropolitan Health Service Annual Report 2015–16",
+      "source_type": "government_record",
+      "locator": "p139, Rockingham General Hospital Community Advisory Council remuneration table",
+      "note": "Publicly indexed table gives 12 months membership during 2015–16 and $150 gross/actual per-meeting remuneration. Reporting period is not whole appointment tenure.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-7"
+    },
+    {
+      "url": "https://smhs.health.wa.gov.au/~/media/HSPs/SMHS/Corporate/Files/Strategic/2016-17-SMHS-AR-complete.pdf",
+      "publisher": "South Metropolitan Health Service",
+      "title": "Annual Report 2016–2017",
+      "source_type": "government_record",
+      "locator": "p141 (PDF page147), Community Advisory Committee, Rockingham General Hospital remuneration table",
+      "note": "Full PDF extracted from official equivalent About-Us/Strategic-focus media URL. Name changed to Rockingham Peel Group Community Advisory Council. Two months membership during 2016–17; $180 gross/actual remuneration, per-meeting basis.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-8"
     }
   ],
   "research_notes": [
     "Initial review2026-10-01: official biography, State Library oral history, Commissioner2013 report, ABC2017 and2023 profiles and Greens/advocacy network material searched. No identified substantive paid ordinary employer recovered.",
     "Follow-up: identify youth/disability advocacy organisations and any paid projects or conference honoraria, personal hours and dates; Rockingham youth body historical minutes; education dates/leave. Advisory roles may overlap generic advocacy entries.",
-    "Record remains unresolved. Student status, volunteering and family financial circumstances are not proof that no private/public paid work ever occurred. No inferred zero totals."
+    "Record remains unresolved. Student status, volunteering and family financial circumstances are not proof that no private/public paid work ever occurred. No inferred zero totals.",
+    "Follow-up 2026-10-02: historical health annual reports reveal previously unrecorded paid Rockingham health advisory-council service. Added separately from city youth council/Commissioner reference-group participation; payment evidence does not establish employment status or hours.",
+    "Searched earlier/later health-report references and appointment leads; no exact tenure or substantive full-time work recovered. Public professional profile https://au.linkedin.com/in/jordon-steele-john-656ba917a/ returned (999) Unknown Status Code. Official alternate annual-report PDF downloaded and extracted after web open/screenshot access failures. These are source-specific gaps, not terminal errors.",
+    "Next leads: appointment and cessation minutes for Rockingham health council; 2014–15 and 2017–18 remuneration/appointments; other paid disability/youth projects and conference honoraria, precise education and leave history. No zero total inferred from absence of other identified employers."
   ]
 }
