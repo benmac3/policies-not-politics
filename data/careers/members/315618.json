@@ -46,21 +46,22 @@
       "category": "union",
       "counting_note": "Excluded category under codebook; no FTE or additive duration inferred.",
       "counting_status": "excluded",
-      "date_precision": "unknown",
+      "date_precision": "month",
       "employer": "Electrical Trades Union of Australia",
       "employment_status": "unknown",
-      "end_date": null,
-      "evidence_note": "Official occupation; dates/hours unknown. UTS supports general union-law career without allocating its duration. Follow-up2026-10-01: FWC-filed correspondence confirms ETU affiliation4April2018. This is a point observation, not an appointment or cessation boundary.",
+      "end_date": "2020-12",
+      "evidence_note": "Official occupation; dates/hours unknown. UTS supports general union-law career without allocating its duration. Follow-up2026-10-01: FWC-filed correspondence confirms ETU affiliation4April2018. This is a point observation, not an appointment or cessation boundary. Further2October pass recovers employer-paired public profile January2014–December2020 dates. Earlier observation-only limitation partly resolved; these remain self-reported and do not establish hours, leave or title changes during tenure. January2014 overlaps University of Sydney ending month and is not added as separate FT time.",
       "fte_fraction": null,
       "government_control_at_time": "private",
       "headline_sector": "excluded",
       "role": "Legal Counsel",
       "source_ids": [
         "src-snapshot",
-        "src-fwccorr2018"
+        "src-fwccorr2018",
+        "src-profile"
       ],
       "spell_id": "315618-etu",
-      "start_date": null
+      "start_date": "2014-01"
     },
     {
       "category": "employer_association",
@@ -326,7 +327,8 @@
     "Hours searches found no person-specific full-time statement. NSW24March2025 hearing search result mentioning full-time schoolteacher work relates to a different witness; not attributed to Ambihaipahar. Direct public LinkedIn retrieval failed; no signed-in collection attempted. PSI direct PDF unavailable and main domain robots restriction respected; public indexed programme used with limitation.",
     "Remaining follow-up: primary personal service dates/hours for Sydney, ANMF, ETU, AHA and Hospitality Legal; PSI appointment/remuneration; Vinnies start/end and campaign leave; university historical control and association-owned-firm headline treatment; JD date conflict. Avoid repeating broad career queries unless new staff archives or detailed professional evidence become available.",
     "Second follow-up2026-10-02: targeted historical role/profile index supplies previously absent UniversityofSydneyJanuary2008–January2014employment boundaries. Historic2013annualreport documents nonprofit/Senate institutional structure. Degree completion is not an assumed employment start; observedprofilemonths independently supportdates.",
-    "Union/law-firm targeted searches supplied no new personal boundaries or hours. Do not infer law teaching from poorly punctuated secondary candidate summary; primary interview describes anatomy teaching and separate law degree. Next leads:2008–14schoolstaff directories/contracts, ANMFandETUlegalstaff transitions, AHA/HospitalityLegalappointments, Vinniescampaignleave."
+    "Union/law-firm targeted searches supplied no new personal boundaries or hours. Do not infer law teaching from poorly punctuated secondary candidate summary; primary interview describes anatomy teaching and separate law degree. Next leads:2008–14schoolstaff directories/contracts, ANMFandETUlegalstaff transitions, AHA/HospitalityLegalappointments, Vinniescampaignleave.",
+    "Further2October pass after nationwide follow-up: targeted2014/2019/2020 employer queries produced public ETU-pairedJanuary2014–December2020 profile interval, corroborated in employer identity by existing2018 FWC correspondence. No direct profile retry. New Vinnies Winter2025 magazine p24 calls her Metropolitan Regional Director while reporting election, but does not establish employment continued after election, departure date or campaign leave. ANMF/AHA/Hospitality Legal queries still no person-specific boundaries. Next seek union payroll/title transitions and leave records, and legal-firm appointment notice; do not derive ANMF dates from remaining gaps."
   ],
   "research_status": "blocked",
   "snapshot_chamber": "Member",
@@ -405,8 +407,8 @@
       "url": "https://accommodationaustraliansw.org/Portals/12/Documents/AA%20NSW%20Member%20Pack%20-%20Digital_1.pdf?ver=2023-12-14-094659-783"
     },
     {
-      "locator": "Indexed PSI entry; Technical Officer/Anatomist entry",
-      "note": "July 2015–2017 PSI Oceania lead; role/paid status unknown; direct retrieval failed. Public index now gives UniversityofSydneyJanuary2008–January2014 and anatomical preparation/teaching duties. Index only; no direct profile retry after platform source429 on a different profile.",
+      "locator": "Indexed PSI entry; Technical Officer/Anatomist entry; Electrical Trades Union of Australia entry",
+      "note": "July 2015–2017 PSI Oceania lead; role/paid status unknown; direct retrieval failed. Public index now gives UniversityofSydneyJanuary2008–January2014 and anatomical preparation/teaching duties. Index only; no direct profile retry after platform source429 on a different profile. Further public indexed excerpt pairs ETU withJanuary2014–December2020. Self-reported month boundaries, no FT label.",
       "publisher": "LinkedIn / Ashvini Ambihaipahar",
       "retrieved": "2026-10-02",
       "source_id": "src-profile",
