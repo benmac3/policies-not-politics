@@ -6,12 +6,12 @@
   "snapshot_party": "Liberal Party of Australia",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/281826",
   "research_status": "blocked",
-  "last_reviewed": "2026-09-30",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
     "calculation_status": "not_calculable",
-    "note": "Primary and contemporary sources establish Australian Army service from 2006, post-service veteran advocacy, a veteran peer-support management role by 2015 and selectability management by 2017. Published material does not establish Thompson's exact Defence separation, hours, leave or the complete boundaries and workload of his nonprofit roles. Elected office, nonprofit employment, governance and volunteer advocacy are excluded; no full-time public/private headline total is calculable."
+    "note": "Primary parliamentary chronology now givesArmy2006–2011andSelectability2017–2018; primary first-person account corroborates2011medical discharge over secondary2012claim. JobTrain/APMA/governance/advisory/study roles separated. Unknown hours,leave and pilot-program employer prevent totals; unknown is not zero."
   },
   "career_spells": [
     {
@@ -19,7 +19,7 @@
       "employer": "Australian Army, 1st Battalion, Royal Australian Regiment",
       "role": "Infantry soldier",
       "start_date": "2006",
-      "end_date": "2012",
+      "end_date": "2011",
       "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
@@ -27,8 +27,17 @@
       "headline_sector": "public",
       "government_control_at_time": "public",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-1", "src-2", "src-3", "src-4", "src-5"],
-      "evidence_note": "The Australian of the Year profile says Thompson enlisted at 17 in 2006. His first speech says he was posted to 1 RAR at Townsville that year and deployed to East Timor in 2007 and Afghanistan in 2009. Official member biographies corroborate Army and 1 RAR service. A secondary biographical compilation gives 2006-2012 service, but an exact separation date and primary personnel record were not found.",
+      "source_ids": [
+        "src-1",
+        "src-2",
+        "src-3",
+        "src-4",
+        "src-5",
+        "src-11",
+        "src-12",
+        "src-13"
+      ],
+      "evidence_note": "The Australian of the Year profile says Thompson enlisted at 17 in 2006. His first speech says he was posted to 1 RAR at Townsville that year and deployed to East Timor in 2007 and Afghanistan in 2009. Official member biographies corroborate Army and 1 RAR service. A secondary biographical compilation gives 2006-2012 service, but an exact separation date and primary personnel record were not found. Follow-up: official parliamentary occupation AND military-service sections specify2006–2011; his first-person2025/26welcome also says medical discharge2011. These primary sources supersede secondary2012endpoint, which remains recorded as a conflict rather than discarded silently. No exact separation or medical-leave dates established.",
       "counting_note": "Public service is established, but exact appointment and separation dates, hours, medical leave and the post-injury service interval are unresolved."
     },
     {
@@ -37,22 +46,68 @@
       "role": "Manager",
       "start_date": "2015",
       "end_date": null,
-      "date_precision": "unknown",
+      "date_precision": "mixed",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "unknown",
+      "government_control_at_time": "unknown",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-6",
+        "src-2"
+      ],
+      "evidence_note": "A contemporaneous Royal Australian Regiment Association director biography says Thompson became manager of a veterans peer-support pilot program in 2015. His official biography more generally says he worked for mental-wellbeing and suicide-prevention organisations after leaving Defence. The program and employing entity, exact start and end, hours and leave are not identified.",
+      "counting_note": "Employer and control are unidentified; nonprofit classification cannot be assumed from purpose. No headline calculation."
+    },
+    {
+      "spell_id": "281826-03",
+      "employer": "selectability",
+      "role": "Special Projects Manager",
+      "start_date": "2017",
+      "end_date": "2018",
+      "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "nonprofit",
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-6", "src-2"],
-      "evidence_note": "A contemporaneous Royal Australian Regiment Association director biography says Thompson became manager of a veterans peer-support pilot program in 2015. His official biography more generally says he worked for mental-wellbeing and suicide-prevention organisations after leaving Defence. The program and employing entity, exact start and end, hours and leave are not identified.",
-      "counting_note": "The role is treated as nonprofit employment pending employer-control evidence and is excluded from headline totals."
+      "source_ids": [
+        "src-6",
+        "src-7",
+        "src-2",
+        "src-12"
+      ],
+      "evidence_note": "The Royal Australian Regiment Association biography says Thompson became a manager of selectability, described as a North Queensland community mental-health organisation, in 2017. Federal Hansard in September 2017 independently identifies him as 'from selectability'. Official biographies say he worked in mental wellbeing and suicide prevention before Parliament. Exact dates, title, hours, leave and campaign arrangements are not published. Official parliamentary biography now resolves title and2017–2018interval; prior2019cutoff replaced. Exact dates/hours/leave and overlap with2018candidacy unresolved.",
+      "counting_note": "Nonprofit employment is excluded from public/private headline totals."
     },
     {
-      "spell_id": "281826-03",
-      "employer": "selectability",
-      "role": "Manager; exact program or title not fully identified",
-      "start_date": "2017",
+      "spell_id": "281826-04",
+      "employer": "Veteran support community",
+      "role": "Level 2 pensions and welfare advocate; mental-health and suicide-prevention advocate",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unpaid_work",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-3",
+        "src-6",
+        "src-8"
+      ],
+      "evidence_note": "The Australian of the Year profile describes volunteer listening and veterans' employment, health and wellbeing advocacy. The RAR Association biography identifies Level 2 pensions and welfare advocacy. Sources do not separate paid work from volunteer advocacy across this interval. Prior2019endpoint was not a documented cessation and is removed.",
+      "counting_note": "Only explicitly unpaid or unresolved advocacy is represented here; it is excluded and must not be double-counted with nonprofit employment."
+    },
+    {
+      "spell_id": "281826-05",
+      "employer": "Royal Australian Regiment Corporation",
+      "role": "Director",
+      "start_date": "2016",
       "end_date": "2019",
       "date_precision": "year",
       "employment_status": "unknown",
@@ -61,64 +116,39 @@
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-6", "src-7", "src-2"],
-      "evidence_note": "The Royal Australian Regiment Association biography says Thompson became a manager of selectability, described as a North Queensland community mental-health organisation, in 2017. Federal Hansard in September 2017 independently identifies him as 'from selectability'. Official biographies say he worked in mental wellbeing and suicide prevention before Parliament. Exact dates, title, hours, leave and campaign arrangements are not published.",
-      "counting_note": "Nonprofit employment is excluded from public/private headline totals."
-    },
-    {
-      "spell_id": "281826-04",
-      "employer": "Veteran support community",
-      "role": "Level 2 pensions and welfare advocate; mental-health and suicide-prevention advocate",
-      "start_date": null,
-      "end_date": "2019",
-      "date_precision": "unknown",
-      "employment_status": "unknown",
-      "fte_fraction": null,
-      "category": "unpaid_work",
-      "headline_sector": "excluded",
-      "government_control_at_time": "unknown",
-      "counting_status": "excluded",
-      "source_ids": ["src-3", "src-6", "src-8"],
-      "evidence_note": "The Australian of the Year profile describes volunteer listening and veterans' employment, health and wellbeing advocacy. The RAR Association biography identifies Level 2 pensions and welfare advocacy. Sources do not separate paid work from volunteer advocacy across this interval.",
-      "counting_note": "Only explicitly unpaid or unresolved advocacy is represented here; it is excluded and must not be double-counted with nonprofit employment."
-    },
-    {
-      "spell_id": "281826-05",
-      "employer": "Royal Australian Regiment Corporation",
-      "role": "Director",
-      "start_date": "2017",
-      "end_date": null,
-      "date_precision": "mixed",
-      "employment_status": "unknown",
-      "fte_fraction": null,
-      "category": "nonprofit",
-      "headline_sector": "excluded",
-      "government_control_at_time": "private",
-      "counting_status": "excluded",
-      "source_ids": ["src-2", "src-6", "src-9"],
-      "evidence_note": "The Association's August 2017 national-organisation page and Thompson's official biography identify him as a director. ACNC records confirm the Corporation is a registered charity. Exact appointment and cessation dates, remuneration and workload are not published.",
+      "source_ids": [
+        "src-2",
+        "src-6",
+        "src-9",
+        "src-12"
+      ],
+      "evidence_note": "The Association's August 2017 national-organisation page and Thompson's official biography identify him as a director. ACNC records confirm the Corporation is a registered charity. Exact appointment and cessation dates, remuneration and workload are not published. Parliamentary biography supplies2016–2019, replacing2017publication observation as start.",
       "counting_note": "Nonprofit governance is excluded and must not be double-counted as substantive employment."
     },
     {
       "spell_id": "281826-06",
       "employer": "Swiss 8",
       "role": "Director",
-      "start_date": null,
-      "end_date": null,
-      "date_precision": "unknown",
+      "start_date": "2018",
+      "end_date": "2019",
+      "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
-      "category": "governance",
+      "category": "nonprofit",
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-2"],
-      "evidence_note": "Thompson's official biography lists a directorship of Swiss 8, described as an online suicide-prevention application. Appointment dates, remuneration, workload and overlap with employment are not supplied.",
+      "source_ids": [
+        "src-2",
+        "src-12",
+        "src-14"
+      ],
+      "evidence_note": "Thompson's official biography lists a directorship of Swiss 8, described as an online suicide-prevention application. Appointment dates, remuneration, workload and overlap with employment are not supplied. Parliamentary biography gives2018–2019. ABR identifies Swiss Technologies Ltd and charity registration28September2018; Swiss8business name9January2019. Registration dates do not define his appointment or prove the whole2018interval had the same legal structure; pre-registration context unresolved.",
       "counting_note": "Governance is excluded pending evidence that it was separate substantive paid employment."
     },
     {
       "spell_id": "281826-07",
-      "employer": "Bravery Trust, Queensland Day and Australia Day programs",
+      "employer": "Bravery Trust, Queensland Day and Australia Day programs; R U OK and Suicide Prevention Australia",
       "role": "Ambassador",
       "start_date": null,
       "end_date": null,
@@ -129,8 +159,12 @@
       "headline_sector": "excluded",
       "government_control_at_time": "mixed",
       "counting_status": "excluded",
-      "source_ids": ["src-2"],
-      "evidence_note": "The official biography lists the three ambassador roles but gives no dates, remuneration or workload. They are retained as unresolved community roles rather than assumed employment.",
+      "source_ids": [
+        "src-2",
+        "src-8",
+        "src-15"
+      ],
+      "evidence_note": "The official biography lists the three ambassador roles but gives no dates, remuneration or workload. They are retained as unresolved community roles rather than assumed employment. R U OK source and speaker profile identify additional ambassadorships; dates/pay remain unknown.",
       "counting_note": "Ambassador roles without evidence of substantive paid employment are excluded."
     },
     {
@@ -139,16 +173,96 @@
       "role": "Member of the House of Representatives for Herbert",
       "start_date": "2019-05-18",
       "end_date": null,
-      "date_precision": "day",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-1", "src-10"],
+      "source_ids": [
+        "src-1",
+        "src-10"
+      ],
       "evidence_note": "Official parliamentary records show Thompson was elected to the House of Representatives at the 18 May 2019 federal election.",
       "counting_note": "Federal elected office is excluded."
+    },
+    {
+      "employer": "JobTrain; exact legal entity to confirm",
+      "role": "Company secretary",
+      "start_date": "2017",
+      "end_date": "2018",
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-12"
+      ],
+      "evidence_note": "Official parliamentary biography gives role and years. Do not conflate Australian JobTrain with US JobTrain Inc or UK recruitment-software company. Legal identity, executive versus governance duties,pay and hours unresolved.",
+      "counting_note": "Company office represented separately; no evidence of substantive full-time employment. Excluded pending clarification.",
+      "spell_id": "281826-09"
+    },
+    {
+      "employer": "Australian Pain Management Association",
+      "role": "Director",
+      "start_date": "2017",
+      "end_date": "2018",
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "nonprofit",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-12",
+        "src-15"
+      ],
+      "evidence_note": "APH supplies2017–2018; speaker biography describes advocacy association. Governance,not assumed substantive employment; dates,pay and workload unresolved.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "281826-10"
+    },
+    {
+      "employer": "National Mental Health Commission",
+      "role": "Reference group member — ADF and veteran self-harm and suicide review",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "excluded",
+      "government_control_at_time": "public",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-15"
+      ],
+      "evidence_note": "Speaker biography identifies appointment; no dated appointment instrument or employment terms found. Advisory participation does not establish public-service employment.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "281826-11"
+    },
+    {
+      "employer": "University of Canberra",
+      "role": "Bachelor of Applied Business (Management) study",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-12"
+      ],
+      "evidence_note": "APH lists qualification but no study dates or attendance basis; no employment inferred.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "281826-12"
     }
   ],
   "sources": [
@@ -261,13 +375,56 @@
       "source_type": "reliable_secondary",
       "locator": "Military service summary",
       "note": "Secondary lead for a 2006-2012 Army interval; retained only as a lead pending a primary separation record."
+    },
+    {
+      "url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=281826&lang=en",
+      "publisher": "Parliament of Australia",
+      "title": "Phillip Thompson — occupation and military service",
+      "source_type": "official_biography",
+      "locator": "Qualifications and occupation before entering Federal Parliament; Military Service",
+      "note": "Indexed official text retrieved; direct open403. Gives2006–2011Army,2016–2019RAR,2017–2018JobTrain/Selectability/APMA,2018–2019Swiss8.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-12"
+    },
+    {
+      "url": "https://welcomeguides.org.au/welcome/pdfDocs/Welcome-to-Townsville2025web.pdf",
+      "publisher": "Welcome to Townsville / Phillip Thompson",
+      "title": "Welcome to Townsville Annual Guide2025/26",
+      "source_type": "first_person",
+      "locator": "Printedp5,Phillip Thompson welcome",
+      "note": "Indexed first-person welcome says medically discharged2011. Direct PDF returned404; no day/month inferred.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-13"
+    },
+    {
+      "url": "https://abr.business.gov.au/AbnHistory/View?id=12629066539",
+      "publisher": "Australian Business Register",
+      "title": "Swiss Technologies Ltd historical details",
+      "source_type": "government_record",
+      "locator": "ABN12629066539 entity,charity,business name history",
+      "note": "Entity from19September2018,charity28September2018,Swiss8business name9January2019. These are not personal appointment dates.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-14"
+    },
+    {
+      "url": "https://www.keynoteentertainment.com.au/speakers/inspirational/phillip-thompson",
+      "publisher": "Keynote Entertainment",
+      "title": "Phillip Thompson speaker biography",
+      "source_type": "official_biography",
+      "locator": "Senior leadership,APMA,reference group and ambassador paragraphs",
+      "note": "Undated commercial speaker profile; corroborates roles but does not establish paid bookings,workload or appointment boundaries.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-15"
     }
   ],
   "research_notes": [
-    "Obtain a primary Defence personnel source for exact enlistment, medical leave and separation dates, hours and service status; 2012 is presently only a secondary-source endpoint.",
+    "Army2011cessation now primary-supported; secondary2012claim conflicts. Obtain exact enlistment,separation,medical-leave intervals and substantive full-time basis.",
     "Identify the employing organisation and exact dates, hours, leave and program details for the 2015 veterans peer-support management role.",
-    "Obtain selectability appointment, title, exact start and cessation, hours, leave and 2018-2019 candidate-period arrangements.",
+    "Selectability title Special Projects Manager and2017–2018years now supported. Obtain exact dates,hours,leave and overlap with2018candidacy.",
     "Resolve which veteran advocacy was paid employment versus volunteering and whether there were other employers or gaps after Defence.",
-    "Obtain appointment/cessation, remuneration and workload for Royal Australian Regiment Corporation and Swiss 8 directorships and ambassador roles; avoid double-counting governance with employment."
+    "Obtain appointment/cessation, remuneration and workload for Royal Australian Regiment Corporation and Swiss 8 directorships and ambassador roles; avoid double-counting governance with employment.",
+    "Follow-up2026-10-02: parliamentary indexed biography,first-personTownsvilleguide,RAR2017bio,speakerprofile,ABRhistory and searches for employer annual reports reviewed. AddedJobTrain/APMA/NMHC/study; removed assumed2019advocacy cessation and nonprofit classification for unidentifiedpilot employer.",
+    "Remaining: JobTrain legal identity/executive status,2015pilot employer,hours,gaps2011–2015,Swiss8pre-registration structure,precise board dates,paid versus voluntary advisory/speaking work. Third-party profile exposes month dates and additionalDVAcommittee leads but primary records not found; no inferred month dates adopted. BraveryTrustJuly2012discharge quote belongs to Sonya,notThompson.",
+    "Recovered source errors: APHdirect403/robots,WelcomePDF404,RUOKURL inaccessible. Official indexed excerpts supplied relevant chronology; no access controls bypassed."
   ]
 }
