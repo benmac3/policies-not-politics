@@ -6,12 +6,12 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/249147",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-01",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
     "calculation_status": "not_calculable",
-    "note": "Public and private employers are identified, with a point-in-time full-time confirmation in July 2013. Precise employment intervals, hours across the remaining career and breaks remain unresolved; neither headline total is zero or calculable."
+    "note": "Added Starick board 2005–2007, unpaid Armadale reference-group evidence and May 2007 resignation, inaugural Law Access chair context, and March 2011 Freehills commencement. Hours, employment classification and leave gaps remain; no headline total calculated."
   },
   "career_spells": [
     {
@@ -67,7 +67,7 @@
       "source_ids": [
         "src-1"
       ],
-      "evidence_note": "State department role; ordinary public service provisionally distinguished from ministerial liaison. Appointment basis and overlap need confirmation.",
+      "evidence_note": "State department role; ordinary public service provisionally distinguished from ministerial liaison. Appointment basis and overlap need confirmation. Historical ministerial staff lists contain a same-name Matthew Keogh, including a 2017 acting-chief role after this MP entered Parliament. Identity unresolved; those lists are not used to recategorise this DPC spell.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "249147-03"
     },
@@ -133,9 +133,9 @@
     {
       "employer": "Freehills / Herbert Smith Freehills",
       "role": "Commercial lawyer; senior associate",
-      "start_date": "2011",
+      "start_date": "2011-03",
       "end_date": "2016",
-      "date_precision": "year",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "private_enterprise",
@@ -145,9 +145,10 @@
       "source_ids": [
         "src-1",
         "src-3",
-        "src-6"
+        "src-6",
+        "src-13"
       ],
-      "evidence_note": "Official broad tenure; firm predecessor/name change requires date-level reconciliation. Full-time explicitly confirmed in July 2013, but not established for entire span. Do not infer continuous full-time work or campaign leave from senior title.",
+      "evidence_note": "Official broad tenure; firm predecessor/name change requires date-level reconciliation. Full-time explicitly confirmed in July 2013, but not established for entire span. Do not infer continuous full-time work or campaign leave from senior title. Public professional index supplies Freehills March 2011–September 2012 before HSF naming period. Aggregate law-firm spell retained; no double-counting at merger/name change. May 2016 cessation in secondary aggregator remains an unconfirmed lead.",
       "counting_note": "Full-time evidence is point-in-time July 2013. Entire tenure hours remain unknown; date precision and campaign breaks prevent a supported interval total.",
       "spell_id": "249147-07"
     },
@@ -193,10 +194,10 @@
     },
     {
       "employer": "Law Access Limited",
-      "role": "Director",
+      "role": "Inaugural chairperson; director",
       "start_date": null,
       "end_date": "2017-12",
-      "date_precision": "month",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "nonprofit",
@@ -204,9 +205,11 @@
       "government_control_at_time": "private",
       "counting_status": "excluded",
       "source_ids": [
-        "src-5"
+        "src-5",
+        "src-8",
+        "src-12"
       ],
-      "evidence_note": "Annual report confirms December 2017 cessation. Start and chairmanship dates require earlier reports; overlaps elected office.",
+      "evidence_note": "Annual report confirms December 2017 cessation. Start and chairmanship dates require earlier reports; overlaps elected office. Own biography confirms inaugural chair and December 2015 event confirms chair then. Company incorporation December 2014 does not by itself establish exact personal appointment; director endpoint is not chair endpoint.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "249147-10"
     },
@@ -234,7 +237,7 @@
       "role": "BA/LLB study",
       "start_date": null,
       "end_date": "2004",
-      "date_precision": "year",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "study",
@@ -253,7 +256,7 @@
       "role": "Member for Burt",
       "start_date": "2016-07-02",
       "end_date": null,
-      "date_precision": "day",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -266,6 +269,66 @@
       "evidence_note": "Frozen first federal service date; office excluded.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "249147-13"
+    },
+    {
+      "employer": "Starick Services",
+      "role": "Board member; chairperson",
+      "start_date": "2005",
+      "end_date": "2007",
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "nonprofit",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-8",
+        "src-9"
+      ],
+      "evidence_note": "First-person parliamentary speech gives board years 2005–2007; own biography confirms chair, but exact chair term, remuneration and hours unknown.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "249147-14"
+    },
+    {
+      "employer": "Armadale Redevelopment Authority, Community Reference Group",
+      "role": "Community representative",
+      "start_date": null,
+      "end_date": "2007-05",
+      "date_precision": "mixed",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unpaid_work",
+      "headline_sector": "excluded",
+      "government_control_at_time": "public",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-8",
+        "src-10",
+        "src-11"
+      ],
+      "evidence_note": "Official 2003 table establishes membership and nil sitting fees/allowances; 2007 report records May resignation. Start unknown; observation date is not appointment. Advisory group distinct from Authority board/staff.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "249147-15"
+    },
+    {
+      "employer": "Youth group, organisation unconfirmed",
+      "role": "Volunteer youth-group leader",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unpaid_work",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-8"
+      ],
+      "evidence_note": "Own biography confirms volunteering; organisation and dates unknown. No salaried work inferred.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "249147-16"
     }
   ],
   "sources": [
@@ -338,11 +401,94 @@
       "note": "Keogh listed as deputy convenor; committee governance distinct from paid law practice.",
       "retrieved": "2026-10-01",
       "source_id": "src-7"
+    },
+    {
+      "url": "https://www.mattkeogh.com/about/about-matt-keogh/",
+      "publisher": "Matt Keogh MP",
+      "title": "About Matt Keogh",
+      "source_type": "official_biography",
+      "locator": "Career and community paragraphs",
+      "note": "Confirms Starick chair, Armadale representative, youth-group volunteering and inaugural Law Access chair.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-8"
+    },
+    {
+      "url": "https://www.openaustralia.org.au/debate/?id=2018-09-10.143.1",
+      "publisher": "House Hansard via OpenAustralia",
+      "title": "Family Law Amendment second reading, 10 September 2018",
+      "source_type": "first_person",
+      "locator": "6:07 pm; paragraph beginning If there is one thing; Starick dates paragraph",
+      "note": "Keogh states Starick board membership 2005–2007; does not date chair promotion or remuneration.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-9"
+    },
+    {
+      "url": "https://www.parliament.wa.gov.au/Hansard%5Chansard.nsf/0/4ba45dbd933df421c82575710014b331/%24FILE/A36%20S2%2020030226%20p4786b-4801a.pdf",
+      "publisher": "WA Parliament",
+      "title": "Questions on agencies and committees, 26 February 2003",
+      "source_type": "government_record",
+      "locator": "p4801; Armadale Redevelopment Authority Community Reference Group table",
+      "note": "Indexed official table identifies Matthew Keogh as non-government representative with nil sitting fees/allowances. Direct WA sources returned 403.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-10"
+    },
+    {
+      "url": "https://www.parliament.wa.gov.au/publications/tabledpapers.nsf/displaypaper/3713206ae9f503c8f59fad23c8257364000686fa/%24file/armadale%2Bredevelopment%2Bauthority%2Bannual%2Breport%2B2007.pdf",
+      "publisher": "Armadale Redevelopment Authority",
+      "title": "Annual Report 2007",
+      "source_type": "government_record",
+      "locator": "Community Reference Group, member list",
+      "note": "Indexed report explicitly gives May 2007 resignation from reference group; not a board employment role. Direct PDF 403.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-11"
+    },
+    {
+      "url": "https://www.probonocentre.org.au/law-access-wa-awarded-266000-lotterywest/",
+      "publisher": "Australian Pro Bono Centre",
+      "title": "Law Access in WA awarded 266000 by Lotterywest",
+      "source_type": "primary_organisation",
+      "locator": "December 2015 newsletter; 7 December event and incorporation paragraph",
+      "note": "Identifies Keogh as chair at event; incorporation December 2014 is company event, not automatically personal appointment date.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-12"
+    },
+    {
+      "url": "https://au.linkedin.com/in/mattkeogh",
+      "publisher": "Matt Keogh / LinkedIn",
+      "title": "Public professional profile",
+      "source_type": "public_professional_profile",
+      "locator": "Indexed Experience: Freehills March 2011–September 2012; Street Law description",
+      "note": "Month-level predecessor firm entry indexed; direct open returned 999. Additional aggregator months not promoted to verified facts.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-13"
+    },
+    {
+      "url": "https://www.parliament.wa.gov.au/hansard/daily/uh/2005-06-21/pdf/download",
+      "publisher": "WA Parliament",
+      "title": "Legislative Council Hansard, 21 June 2005",
+      "source_type": "government_record",
+      "locator": "Ministerial mobile-phone allocation answer, Alan Carpenter office",
+      "note": "Lists a Matthew Keogh as policy adviser; same-name identity and relationship to federal MPs DPC spell not confirmed. Do not automatically attribute.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-14"
+    },
+    {
+      "url": "https://www.parliament.wa.gov.au/Hansard/hansard.nsf/7b5c8f11c849f36648257f4c001a6c0d/95f9e88586a6376a48258187002c7ea6/%24FILE/C40%20S1%2020170816%20All.pdf",
+      "publisher": "WA Parliament",
+      "title": "Legislative Council Hansard, 16 August 2017",
+      "source_type": "government_record",
+      "locator": "Question 394, Minister for Regional Development chief of staff",
+      "note": "A Matthew Keogh is acting chief of staff while federal MP already in Parliament; flags risk of same-name attribution across historical staff lists.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-15"
     }
   ],
   "research_notes": [
     "2026-10-01 avenues: frozen/indexed APH occupations and maiden speech, contemporary legal press, Law Access 2017/18 and Law Society 2015/16 annual reports, public professional-history search. APH speech direct open failed; indexed official text available. Current personal biography URL inaccessible; primary-source search also returned unrelated results. No access controls bypassed.",
     "Priority follow-up: CDPP appointment/cessation and ordinary versus ministerial DPC employment; precise iiNet and family-firm work/study overlaps. Obtain employment hours and unpaid/campaign leave, especially 2013 preselection and 2015/2016 campaigns. July 2013 full-time confirmation cannot support all 2011–16.",
-    "Check earlier Law Access reports for founding chair term and Street Law Centre/Starick governance leads. Public professional-history index supplied unverified month-level dates, not adopted without primary corroboration. Confirm other early work and career breaks; governance/service roles do not establish additional full-time employment."
+    "Check earlier Law Access reports for founding chair term and Street Law Centre/Starick governance leads. Public professional-history index supplied unverified month-level dates, not adopted without primary corroboration. Confirm other early work and career breaks; governance/service roles do not establish additional full-time employment.",
+    "Follow-up 2026-10-02: primary own biography, 2018 Hansard, indexed ARA 2003/2007 government records and December 2015 Pro Bono Centre report enrich excluded governance and volunteer history. Freehills commencement narrowed to March 2011 from public professional entry; direct profile 999.",
+    "Important identity caution: WA 2005/2006 Carpenter staff lists and 2017 MacTiernan acting-chief answer name Matthew Keogh. A separate government/resource-industry professional profile also exists. Neither ministerial lists nor Level 8/term-of-government status attributed to this MP without identity reconciliation; existing 2003–05 DPC role retained provisionally, no public years counted.",
+    "Law Access 2016/17 PDF timed out; indexed report identifies Adam Ebell as chair, so secondary aggregator claim Keogh chaired continuously December 2014–December 2017 is not accepted. 2017/18 director cessation remains supported. Street Law September 2013–July 2016 and CDPP October 2006–March 2011 aggregator ranges remain follow-up leads, not confirmed appointments. Next: original professional CV, employer records and Law Access/Street Law appointment reports."
   ]
 }
