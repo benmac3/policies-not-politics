@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/BU8",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-01",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -35,7 +35,7 @@
     },
     {
       "employer": "Minter Ellison",
-      "role": "Lawyer",
+      "role": "Lawyer / legal work — aggregate CV period",
       "start_date": "1995",
       "end_date": "1997",
       "date_precision": "year",
@@ -48,18 +48,20 @@
       "source_ids": [
         "src-1",
         "src-5",
-        "src-10"
+        "src-10",
+        "src-3",
+        "src-13"
       ],
-      "evidence_note": "Frozen CV groups Sydney and London work under this employer, 1995–97. His speech confirms Sydney Minter work; independent contributor profile names Clifford Chance in London. Retain frozen interval as broad, disputed firm allocation; not evidence of continuous employment for two years.",
+      "evidence_note": "Frozen1995–97summary retained as umbrella. Personal indexed CV separates Sydney Minter part-time1995–96 from full-time1997; status-specific subspells below are subsets, not extra employment. Exact transitions/leave unresolved.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "BU8-02"
     },
     {
       "employer": "Clifford Chance, London",
       "role": "Lawyer",
-      "start_date": null,
-      "end_date": null,
-      "date_precision": "unknown",
+      "start_date": "1998",
+      "end_date": "1998",
+      "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "private_enterprise",
@@ -69,9 +71,11 @@
       "source_ids": [
         "src-6",
         "src-10",
-        "src-12"
+        "src-12",
+        "src-3",
+        "src-13"
       ],
-      "evidence_note": "Named in contributor biography; secondary history places combined law-firm work in 1995–97. Firm-specific interval unresolved. Do not duplicate the frozen aggregate law period.",
+      "evidence_note": "Personal indexed CV dates Clifford Chance London to1998, preferred over secondary combined1995–97law-firm chronology. Same-year work is not zero duration. Exact boundaries/hours and overlap with Kirby/Cook remain unknown.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "BU8-03"
     },
@@ -320,6 +324,64 @@
       "evidence_note": "First federal entry from frozen roster; subsequent ministerial duties remain elected political service, not a second public employment spell.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "BU8-15"
+    },
+    {
+      "employer": "Minter Ellison, Sydney",
+      "role": "Lawyer / legal work — part-time component",
+      "start_date": "1995",
+      "end_date": "1996",
+      "date_precision": "year",
+      "employment_status": "part_time",
+      "fte_fraction": null,
+      "category": "private_enterprise",
+      "headline_sector": "private",
+      "government_control_at_time": "private",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-3",
+        "src-13"
+      ],
+      "evidence_note": "Explicit indexed CV part-time component within umbrella; fraction, breaks and boundary months unknown.",
+      "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
+      "spell_id": "BU8-16"
+    },
+    {
+      "employer": "Minter Ellison, Sydney",
+      "role": "Lawyer — full-time component",
+      "start_date": "1997",
+      "end_date": "1997",
+      "date_precision": "year",
+      "employment_status": "full_time",
+      "fte_fraction": null,
+      "category": "private_enterprise",
+      "headline_sector": "private",
+      "government_control_at_time": "private",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-3"
+      ],
+      "evidence_note": "CV explicitly full-time in1997; exact duration and overlap with court appointment unknown. Not a full calendar year or zero years.",
+      "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
+      "spell_id": "BU8-17"
+    },
+    {
+      "employer": "Research Institute of Industrial Economics (IFN), Stockholm",
+      "role": "Visiting appointment",
+      "start_date": "2008-05",
+      "end_date": "2008-05",
+      "date_precision": "month",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "unknown",
+      "government_control_at_time": "unknown",
+      "counting_status": "unclear",
+      "source_ids": [
+        "src-13"
+      ],
+      "evidence_note": "Indexed CV lists May2008visit. Paid employment, hours and institutional control unverified; overlaps ANU umbrella, not additional counted time.",
+      "counting_note": "Visiting affiliation: remuneration, employment status and control unverified; not included in employment totals.",
+      "spell_id": "BU8-18"
     }
   ],
   "sources": [
@@ -348,9 +410,9 @@
       "publisher": "Andrew Leigh",
       "title": "Curriculum vitae",
       "source_type": "professional_profile",
-      "locator": "Indexed entries: previous ANU positions; Treasury; visiting appointments",
-      "note": "Search-index text retrieved; direct PDF timed out (400). Fellowship Jul 2004–Jan 2008; associate professor Feb 2008–Mar 2009; Treasury Jul–Sep 2008 and Dec 2008–Feb 2009; Michigan Oct–Nov 2008. Full PDF not inspected.",
-      "retrieved": "2026-10-01",
+      "locator": "Indexed entries: previous ANU positions; Treasury; visiting appointments; indexed previous professional positions and Visiting Appointments",
+      "note": "Search-index text retrieved; direct PDF timed out (400). Fellowship Jul 2004–Jan 2008; associate professor Feb 2008–Mar 2009; Treasury Jul–Sep 2008 and Dec 2008–Feb 2009; Michigan Oct–Nov 2008. Full PDF not inspected. Follow-up index explicitly identifies Minter Sydney part time1995–96, full time1997 and Clifford Chance1998. Direct PDF502; not read in full.",
+      "retrieved": "2026-10-02",
       "source_id": "src-3"
     },
     {
@@ -442,6 +504,16 @@
       "note": "Secondary leads only: law firms grouped 1995–97; visiting appointments Melbourne, NYU and Research Institute of Industrial Economics; Harvard fellowships. Require primary verification for dates and paid status.",
       "retrieved": "2026-10-01",
       "source_id": "src-12"
+    },
+    {
+      "url": "https://andrewleigh.org/wp-content/uploads/CV.pdf",
+      "publisher": "Andrew Leigh",
+      "title": "Academic CV, alternate published location",
+      "source_type": "professional_profile",
+      "locator": "Search-indexed professional positions and Visiting Appointments2004–2010",
+      "note": "Clifford Chance1998; Minter part-time1995–96; IFN StockholmMay2008. Full PDF inaccessible; independently corroborate before duration totals.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-13"
     }
   ],
   "research_notes": [
@@ -450,6 +522,9 @@
     "Follow-up: obtain accessible complete CV and historical ANU staff/annual reports; establish workload, control, leave, professor promotion/departure and other visiting appointments (Melbourne, NYU, Research Institute of Industrial Economics). Index-only details remain explicitly qualified.",
     "Follow-up: firm-specific dates for Coleman & Grieg, Minter and Clifford; distinguish clerkship/student work; court appointment contract or contemporaneous biography for hours; PPI pay/status/control; Harvard study versus employment; author contracts and party/community governance if any.",
     "Searched own biography/speeches, IZA/CV, Harvard alumni, legal professional press, author profile, historical association annual report and workload queries. CV web retrieval timed out (400); alternate upload URL unavailable and direct curl returned (22) HTTP 502. Source errors did not block other research. The 2006 Academy report indexed a Leigh biography but live PDF text did not match; not relied on.",
-    "No full-time status or zero experience inferred from senior titles, scholarships, affiliation or missing biography entries. All headline totals remain null pending evidence."
+    "No full-time status or zero experience inferred from senior titles, scholarships, affiliation or missing biography entries. All headline totals remain null pending evidence.",
+    "Follow-up2026-10-02: indexed personal CV resolves firm-specific Clifford Chance year and explicit Minter part/full-time split, and dates IFN visit. All index-only evidence clearly labelled. Direct old CV returned502, alternate unavailable, ordinary curl returned22HTTP502. No access bypass.",
+    "Minter status subspells are portions of preserved umbrella, not additive jobs. Same-year full-time component lacks months/days and overlaps Kirby chronology; no duration totals justified. IFN visit is documented affiliation, not presumed paid employment.",
+    "Remaining leads: retrieve complete CV or primary appointment records; reconcile court/Cook/Clifford chronology, ANU promotion/exit/leave/control, NYU/Melbourne visit dates, doctoral funding versus paid work, PPI salary and author contracts. Search results giving lecture dates are not visiting-employment dates."
   ]
 }
