@@ -6,12 +6,12 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/298800",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-01",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
     "calculation_status": "not_calculable",
-    "note": "Private engineering employment established at named employers, but full-time intervals and breaks remain unknown. Bangladesh placement may be volunteering; concurrent governance does not add employment years. No supported headline totals."
+    "note": "Added earlier board membership, student council governance and Murdoch study. Return-to-work evidence does not establish full-time intervals or precise leave. Named private engineering employers remain supported; no headline totals."
   },
   "career_spells": [
     {
@@ -183,9 +183,10 @@
       "counting_status": "insufficient_evidence",
       "source_ids": [
         "src-1",
-        "src-2"
+        "src-2",
+        "src-11"
       ],
-      "evidence_note": "Private carbon/energy consultancy; frozen year-level title sequence. Shared boundary years and leave unresolved; titles do not establish full-time work.",
+      "evidence_note": "Private carbon/energy consultancy; frozen year-level title sequence. Shared boundary years and leave unresolved; titles do not establish full-time work. November 2022 first-person speech describes returning to a demanding job and childcare starting in 2019; it does not establish exact leave dates, full-time hours or continuous service.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "298800-09"
     },
@@ -203,9 +204,10 @@
       "counting_status": "insufficient_evidence",
       "source_ids": [
         "src-1",
-        "src-2"
+        "src-2",
+        "src-11"
       ],
-      "evidence_note": "Private carbon/energy consultancy; frozen year-level title sequence. Shared boundary years and leave unresolved; titles do not establish full-time work.",
+      "evidence_note": "Private carbon/energy consultancy; frozen year-level title sequence. Shared boundary years and leave unresolved; titles do not establish full-time work. November 2022 first-person speech describes returning to a demanding job and childcare starting in 2019; it does not establish exact leave dates, full-time hours or continuous service.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "298800-10"
     },
@@ -294,7 +296,7 @@
       "role": "Board secretary",
       "start_date": "2017-02",
       "end_date": null,
-      "date_precision": "month",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "nonprofit",
@@ -302,9 +304,10 @@
       "government_control_at_time": "private",
       "counting_status": "excluded",
       "source_ids": [
-        "src-4"
+        "src-4",
+        "src-9"
       ],
-      "evidence_note": "Employer annual report identifies board role distinct from staff; end unknown.",
+      "evidence_note": "Employer annual report identifies board role distinct from staff; end unknown. Parliamentary biography places broader board membership from 2016, before secretary appointment in February 2017; these are distinct capacities, not conflicting starts.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "298800-15"
     },
@@ -352,7 +355,7 @@
       "role": "Member for Swan",
       "start_date": "2022-05-21",
       "end_date": null,
-      "date_precision": "day",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -365,6 +368,64 @@
       "evidence_note": "Frozen first-service date.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "298800-18"
+    },
+    {
+      "employer": "Murdoch University",
+      "role": "Graduate diploma and graduate certificate in community development study",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-9"
+      ],
+      "evidence_note": "Official qualifications; enrolment, completion dates and concurrent employment hours unknown.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "298800-19"
+    },
+    {
+      "employer": "Curtin University",
+      "role": "Council member elected by Student Guild Council",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "university",
+      "headline_sector": "excluded",
+      "government_control_at_time": "public",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-10"
+      ],
+      "evidence_note": "Named in 2001 annual-report council listing with 30 November 2002 alongside name. Exact appointment and actual departure not established; student governance is not substantive university employment.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "298800-20"
+    },
+    {
+      "employer": "TLC Emergency Welfare Foundation of WA Inc trading as Welfare Rights & Advocacy Service",
+      "role": "Board member (before and alongside secretary role)",
+      "start_date": "2016",
+      "end_date": null,
+      "date_precision": "mixed",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "nonprofit",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-9",
+        "src-4"
+      ],
+      "evidence_note": "Official biography starts board membership in 2016; secretary from February 2017 already represented separately. Concurrent capacities within one board; no additional employment duration.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "298800-21"
     }
   ],
   "sources": [
@@ -447,12 +508,46 @@
       "note": "Engineering background; no full-time/date proof beyond frozen sequence.",
       "retrieved": "2026-10-01",
       "source_id": "src-8"
+    },
+    {
+      "url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=298800",
+      "publisher": "Parliament of Australia",
+      "title": "Zaneta Mascarenhas parliamentary biography",
+      "source_type": "official_biography",
+      "locator": "Qualifications; community activities; indexed official text",
+      "note": "Murdoch graduate diploma and certificate in community development; Welfare Rights board membership from 2016. Roster unchanged.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-9"
+    },
+    {
+      "url": "https://www.parliament.wa.gov.au/publications/tabledpapers.nsf/displaypaper/3620016a49dc7e2c2eaeb64548256c1500122f49/%24file/curtin2001.pdf",
+      "publisher": "Curtin University / Parliament of Western Australia",
+      "title": "Curtin Annual Report 2001",
+      "source_type": "government_record",
+      "locator": "Council membership: members elected by Curtin Student Guild Council; indexed text",
+      "note": "Lists Zaneta Mascarenhas with 30 November 2002 beside name. Full heading context unavailable after PDF 403; neither start nor actual cessation inferred from likely term expiry.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-10"
+    },
+    {
+      "url": "https://www.openaustralia.org.au/debates/?id=2022-11-28.170.2",
+      "publisher": "House of Representatives / OpenAustralia transcript",
+      "title": "Child Care, 28 November 2022",
+      "source_type": "other",
+      "locator": "Zaneta Mascarenhas, 11:35 am; returning-to-work paragraph",
+      "note": "First-person account of returning to demanding work and childcare beginning in 2019. Does not identify exact leave dates or work fraction; no birth dates derived.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-11"
     }
   ],
   "research_notes": [
     "2026-10-01 avenues: frozen official roles, MP/ALP biographies, first-person2024 engineering interview, public professional-index/employer/leave searches, WRAS2016/17, TAFE2018/2021 and union2013 financial reports. LinkedIn direct open andTAFE2021 PDF failed; available public indexed material used. No claim based on aggregate staff FTE.",
     "Priority: individual employment dates/hours and unpaid/parental/campaign leave for Iluka/GHD/Energetics; archived Energetics staff CV and employer histories. Do not use2024 acquisition/current ERM naming as evidence of historical owner. Woolworths early tenure and other casual work remain undated.",
     "Reconcile WSP consultant label with first-person volunteer description; obtain AYAD placement/pay terms and precise2007–08 dates. World Bank host and government funding do not settle employment/control. Resolve shared title boundary years and concurrent governance without adding overlaps.",
-    "Identify all six reported boards and their full terms; WRAS secretary startsFebruary2017, TAFE attested2018/2021 does not prove exact start or uninterrupted tenure. Union national/state roles and Climate Reality presentations remain excluded. Study/guild/postgraduation sequence and all breaks need evidence; spouse part-time work is not her hours."
+    "Identify all six reported boards and their full terms; WRAS secretary startsFebruary2017, TAFE attested2018/2021 does not prove exact start or uninterrupted tenure. Union national/state roles and Climate Reality presentations remain excluded. Study/guild/postgraduation sequence and all breaks need evidence; spouse part-time work is not her hours.",
+    "Follow-up 2026-10-02: official APH qualifications/community section, Curtin 2001 annual-report council index, South Metropolitan TAFE 2019/2020 report searches, public professional-profile index and 28 November 2022 childcare speech. Added distinct governance/study evidence and return-to-work caveat.",
+    "Curtin report PDF returned (403) Forbidden; indexed council name and adjacent date retained with uncertain heading rather than inventing start/end. South Metropolitan TAFE 2020 PDF open returned Internal Error; existing 2018/2021 evidence retained. 2012 West Australian engineering feature PDF has no extractable text; remains a later manual-review lead. Source errors do not block the national queue.",
+    "Public LinkedIn index displays a shared item about maternity leave; sharing alone is insufficient attribution of the underlying first-person statement. No individual leave date or employment fraction assigned. Energetics full-time/leave searches also found another employee tagging Mascarenhas; that employee's leave is not hers.",
+    "Next leads: obtain readable Curtin council heading/appointment record and 2012 engineering feature; archived Energetics staff CV/individual work arrangements and AYAD placement terms remain needed. APH board membership from 2016 and secretary from 2017 are separate capacities; do not count twice."
   ]
 }
