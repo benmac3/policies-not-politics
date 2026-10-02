@@ -6,7 +6,7 @@
   "snapshot_party": "One Nation",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/62329",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-01",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -381,6 +381,63 @@
       "evidence_note": "Already former director by28August1995; exact term unknown. Later secondary chair claim requires confirmation; record only director supported here.",
       "counting_note": "Governance/advisory role is not independently counted as substantive full-time employment; overlaps unresolved.",
       "spell_id": "62329-rirdc"
+    },
+    {
+      "employer": "Unidentified consulting business / contracting entity; clients include World Bank, Australian federal government and commodity houses",
+      "role": "Consultant",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "unknown",
+      "government_control_at_time": "unknown",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-twst2003-oct2"
+      ],
+      "evidence_note": "Professional biography lists these clients without dates, contract vehicle or hours. Government clients do not establish government employment. Possible overlap with Matrix or corporate roles remains unresolved.",
+      "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
+      "spell_id": "62329-consulting-earlier"
+    },
+    {
+      "employer": "Namoi Cotton Cooperative",
+      "role": "Former director",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "private_enterprise",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-twst2003-oct2"
+      ],
+      "evidence_note": "Contemporary Calcot biography identifies former directorship. Term and remuneration unknown; governance excluded, not full-time operations.",
+      "counting_note": "Board governance excluded; no separate operational employment demonstrated.",
+      "spell_id": "62329-namoi"
+    },
+    {
+      "employer": "Harvard Agribusiness School and Australian Institute of Management (as described by source)",
+      "role": "Short-course participant in agribusiness",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-twst2003-oct2"
+      ],
+      "evidence_note": "Contemporary biography identifies short courses, not a degree. Dates and load unknown.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "62329-short-courses"
     }
   ],
   "sources": [
@@ -573,6 +630,16 @@
       "note": "Contemporary statutory basis under Primary Industries and Energy Research and Development Act1989.",
       "retrieved": "2026-10-01",
       "source_id": "src-rirdc-statutory"
+    },
+    {
+      "url": "https://www.twst.com/bio/david-d-farley/",
+      "publisher": "The Wall Street Transcript",
+      "title": "David D. Farley, biography associated with14April2003 interview",
+      "source_type": "professional_profile",
+      "locator": "Biography paragraphs on prior directorship, consulting and education",
+      "note": "Contemporaneous Calcot profile: prior Namoi directorship, consulting clients and short courses; no contract dates, pay or hours. Public biography only, paid interview not accessed.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-twst2003-oct2"
     }
   ],
   "research_notes": [
@@ -583,7 +650,9 @@
     "Systematic follow-up2026-10-01 resolved AACo exact start/end, bounded Calcot to2002–2003, added omitted Visypak management and eight historical operational/governance distinctions, identified Matrix involvement by2011 and removed unsupported election-as-cessation placeholder.",
     "AACo audited service-agreement/remuneration disclosures demonstrate paid employment but do not state individual hours; company-wide FTE headcount is not personal full-time proof. Notice/leave payouts and later share vesting do not extend service. Historical board roles overlap executive work and cannot be added as extra years.",
     "Colly farm-manager1982/1983 and MD1988/1990 conflicts remain. Calcot planned1October2002 takeover is prospective; contemporary USDA eight/nine-month descriptions differ. Retain year boundaries until actual payroll/appointment evidence resolves the distinctions.",
-    "Searched contemporary company annual reports2011/2014, Tandou2007 report, Calcot appointment/succession news, USDA cooperative magazines, government1995 announcement and2026 first speech. Some historical PDF/industry endpoints failed; alternate public publisher route recovered Calcot appointment. No access controls bypassed. Next leads: Colly/Visypak historical reports, Calcot employment records, Matrix historical filings/client biographies, government board annual reports and current interests declaration. No individual full-time evidence found."
+    "Searched contemporary company annual reports2011/2014, Tandou2007 report, Calcot appointment/succession news, USDA cooperative magazines, government1995 announcement and2026 first speech. Some historical PDF/industry endpoints failed; alternate public publisher route recovered Calcot appointment. No access controls bypassed. Next leads: Colly/Visypak historical reports, Calcot employment records, Matrix historical filings/client biographies, government board annual reports and current interests declaration. No individual full-time evidence found.",
+    "Second follow-up2October2026 added omitted consulting activity, Namoi governance and short-course study from contemporary public professional biography. Consulting client is not necessarily payroll employer; no public-sector years attributed merely because a government or multilateral body commissioned work.",
+    "Targeted AACo full-time/service-agreement queries returned remuneration and notice provisions, not personal contractual hours. Advertisements concern Farley’s staff; proposed abattoir full-time positions are workforce plans, not his status. Banking David Farley in World Bank/PPIAF2010 material is not identity-matched to agricultural executive and is excluded. Cotton Australia2011–12 anniversary-report mirror appears to contain historical board dates, but multi-column alignment and original report remain to verify; no date adopted. Further priority: original personal terms, Colly/Visypak transitions and consulting contracts."
   ],
   "open_questions": [
     "What were the legal employing entities, exact dates, hours and leave for F.S. Falkiner and each Colly Cotton role?",
@@ -595,6 +664,7 @@
     "What were AACo contractual hours, individual payroll entity and any unpaid leave/breaks during1December2009–31July2013?",
     "When precisely did Visypak employment and earlier Matrix operational work occur, and how did they overlap Colly/Calcot/AACo?",
     "Can original Colly records resolve1988 versus1990 managing-director promotion and1982 versus1983 farm-manager commencement?",
-    "What were term dates, remuneration and time commitment for the historical statutory/industry boards and advisory chair role?"
+    "What were term dates, remuneration and time commitment for the historical statutory/industry boards and advisory chair role?",
+    "Which contracting entity handled World Bank, federal-government and commodity-house consulting, when and with what hours; what were Namoi board term and short-course dates?"
   ]
 }
