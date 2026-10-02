@@ -6,7 +6,7 @@
   "snapshot_party": "Independent",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/295676",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-01",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -275,21 +275,22 @@
     {
       "spell_id": "295676-multicultural-nsw",
       "employer": "Multicultural NSW (formerly NSW Community Relations Commission)",
-      "role": "Advisory Board member",
-      "start_date": "2012-08",
+      "role": "Commissioner, subsequently Advisory Board member",
+      "start_date": "2012-08-01",
       "end_date": null,
-      "date_precision": "month",
-      "employment_status": "unknown",
+      "date_precision": "mixed",
+      "employment_status": "part_time",
       "fte_fraction": null,
-      "category": "nonprofit",
+      "category": "public_service",
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
       "source_ids": [
         "src-avld",
-        "src-secondary"
+        "src-secondary",
+        "src-crc13-oct2"
       ],
-      "evidence_note": "Archived organisational and secondary profiles report appointment to the state-government advisory board in August 2012. The end date, remuneration and workload are unresolved; advisory governance is not assumed to be employment.",
+      "evidence_note": "Archived organisational and secondary profiles report appointment to the state-government advisory board in August 2012. The end date, remuneration and workload are unresolved; advisory governance is not assumed to be employment. Primary2012/13 report specifies appointment1August2012 and lists Le among part-time commissioners. Scheduled expiry1August2015 is not confirmed cessation; end remains unknown. Category corrected to public service for this government body; advisory governance remains excluded.",
       "counting_note": "Government advisory-board service is excluded from the narrow employment headline."
     },
     {
@@ -338,9 +339,9 @@
       "spell_id": "295676-dawn",
       "employer": "Diverse Australasian Women's Network (DAWN)",
       "role": "Founder and CEO",
-      "start_date": null,
+      "start_date": "2014-01",
       "end_date": null,
-      "date_precision": "unknown",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "nonprofit",
@@ -350,9 +351,10 @@
       "source_ids": [
         "src-avld",
         "src-abc-first-person",
-        "src-secondary"
+        "src-secondary",
+        "src-dawn18-oct2"
       ],
-      "evidence_note": "An archived Australia Vietnam Leadership Dialogue profile identifies Le as founder and CEO and explicitly describes DAWN as a nonprofit association; a 2016 ABC author note corroborates her as founder. Exact formation/cessation dates, remuneration, hours and relationship to the frozen business-owner spell are unresolved.",
+      "evidence_note": "An archived Australia Vietnam Leadership Dialogue profile identifies Le as founder and CEO and explicitly describes DAWN as a nonprofit association; a 2016 ABC author note corroborates her as founder. Exact formation/cessation dates, remuneration, hours and relationship to the frozen business-owner spell are unresolved. First-person13February2018 article dates founding to January2014; no full-time hours or cessation established.",
       "counting_note": "Nonprofit leadership is displayed separately and excluded from the narrow public/private employment headline."
     },
     {
@@ -369,9 +371,12 @@
       "government_control_at_time": "private",
       "counting_status": "excluded",
       "source_ids": [
-        "src-avld"
+        "src-avld",
+        "src-startts12-oct2",
+        "src-crc13-oct2",
+        "src-symposium14-oct2"
       ],
-      "evidence_note": "The archived 2022 organisation profile reports directorship but gives no dates, remuneration, workload or operational employment relationship.",
+      "evidence_note": "The archived 2022 organisation profile reports directorship but gives no dates, remuneration, workload or operational employment relationship. Listed on2011/12 annual-report board, again in2013 government profile and2014 symposium. These are observations, not appointment boundaries.",
       "counting_note": "Nonprofit board governance is excluded from the narrow employment headline."
     },
     {
@@ -388,9 +393,11 @@
       "government_control_at_time": "private",
       "counting_status": "excluded",
       "source_ids": [
-        "src-avld"
+        "src-avld",
+        "src-crc13-oct2",
+        "src-symposium14-oct2"
       ],
-      "evidence_note": "The archived 2022 organisation profile reports the Deputy Chair title but gives no dates, remuneration, workload or operational employment relationship.",
+      "evidence_note": "The archived 2022 organisation profile reports the Deputy Chair title but gives no dates, remuneration, workload or operational employment relationship. Government profile lists deputy chair as at30June2013;2014 symposium calls her a former deputy chair. Exact cessation remains unresolved.",
       "counting_note": "Nonprofit governance is excluded from the narrow employment headline."
     },
     {
@@ -490,6 +497,64 @@
       ],
       "evidence_note": "Secondary chronology cites Fairfield City Council minutes for re-election as Deputy Mayor on 8 October 2024. The office remained current at the frozen snapshot and overlaps both council and federal elected service.",
       "counting_note": "Local elected office is excluded under the codebook."
+    },
+    {
+      "employer": "Beloka Water Pty Ltd",
+      "role": "Chief Marketing Officer",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "private_enterprise",
+      "headline_sector": "private",
+      "government_control_at_time": "private",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-beloka-award-oct2",
+        "src-lc2014-oct2"
+      ],
+      "evidence_note": "Award organiser names role and company;5November2014 parliamentary motion corroborates role in2014. Start/end, remuneration, employee versus contractor relationship, hours and overlap with other business activity are unknown. Title does not establish full-time work.",
+      "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
+      "spell_id": "295676-beloka"
+    },
+    {
+      "employer": "NSW Cricket Mosaic Program",
+      "role": "Ambassador",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "nonprofit",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-crc13-oct2"
+      ],
+      "evidence_note": "2013 government profile lists this external role; dates, remuneration and workload unknown. No paid employment inferred.",
+      "counting_note": "Advisory or ambassadorial activity excluded from employment headline.",
+      "spell_id": "295676-cricket"
+    },
+    {
+      "employer": "Ministerial Consultative Committee (portfolio unresolved)",
+      "role": "Member",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "public_service",
+      "headline_sector": "excluded",
+      "government_control_at_time": "public",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-crc13-oct2"
+      ],
+      "evidence_note": "2013 government profile lists this external role; dates, remuneration and workload unknown. No paid employment inferred.",
+      "counting_note": "Advisory or ambassadorial activity excluded from employment headline.",
+      "spell_id": "295676-ministerial-committee"
     }
   ],
   "sources": [
@@ -612,6 +677,66 @@
       "note": "Indexed Australian private company; ABN cancelled 6 January 2023. Full record inaccessible; no registration/employment commencement inferred.",
       "retrieved": "2026-10-01",
       "source_id": "src-dawn-abr-lead"
+    },
+    {
+      "url": "https://www.parliament.nsw.gov.au/tp/files/63975/CRC.pdf",
+      "publisher": "NSW Community Relations Commission",
+      "title": "Annual Report 2012/2013",
+      "source_type": "official_report",
+      "locator": "Printed pp68–69,74; PDF pages36,39",
+      "note": "Commissioner profile column visually checked; functional chart separately identifies part-time commissioners.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-crc13-oct2"
+    },
+    {
+      "url": "https://womensagenda.com.au/latest/partnership-push-diversity-inclusion-australia/",
+      "publisher": "Dai Le / Women’s Agenda",
+      "title": "We’re fighting for culturally diverse leadership to make Australia more competitive",
+      "source_type": "official_biography",
+      "locator": "13 February2018; Dai Le section, founding paragraph",
+      "note": "First-person founding account; coauthor Felicity Menzies’s career is not attributed to Le.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-dawn18-oct2"
+    },
+    {
+      "url": "https://womenofinfluence.shareableapps.com/app/",
+      "publisher": "Australian Financial Review / Westpac",
+      "title": "100 Women of Influence awards",
+      "source_type": "official_biography",
+      "locator": "Dai Le entry: Chief Marketing Officer, Beloka Water Pty Ltd",
+      "note": "Multi-year award microsite; title is not evidence of full-time status or contract boundaries.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-beloka-award-oct2"
+    },
+    {
+      "url": "https://www.parliament.nsw.gov.au/hp/housepaper/7507/Min-20141105-Cor.pdf",
+      "publisher": "NSW Legislative Council",
+      "title": "Minutes of proceedings,5 November2014",
+      "source_type": "official_report",
+      "locator": "Business8: Westpac100 Women of Influence Awards; Dai Le entry",
+      "note": "Indexed parliamentary motion lists CMO,Beloka Water. Later reader500 error; no employment interval inferred from award date.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-lc2014-oct2"
+    },
+    {
+      "url": "https://www.startts.org.au/media/STARTTS-Annual-Report-2011-12.pdf",
+      "publisher": "STARTTS",
+      "title": "Annual Report2011–2012",
+      "source_type": "official_report",
+      "locator": "Printed pp10–11; PDFpage6; board directors",
+      "note": "Contemporary board observation; no original appointment date or personal hours supplied.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-startts12-oct2"
+    },
+    {
+      "url": "https://multicultural.nsw.gov.au/wp-content/uploads/2022/11/Symposium_2014.pdf",
+      "publisher": "Multicultural NSW",
+      "title": "Multicultural Symposium2014",
+      "source_type": "official_report",
+      "locator": "Printed p19; PDFpage21; Women’s Perspectives, Dai Le profile",
+      "note": "Distinguishes former ECCNSW deputy chair from current listed roles; adjacent Juliana Nkrumah biography is not Le’s.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-symposium14-oct2"
     }
   ],
   "research_notes": [
@@ -621,7 +746,8 @@
     "Council, deputy-mayor, party/campaign, advisory and board roles are displayed but excluded from the narrow employment headline.",
     "Public sources do not establish whether 2014–2015 cancer treatment interrupted or reduced any business, council or nonprofit work.",
     "2026-10-01 follow-up adds four early hospitality/retail jobs and brief Sydney law study. Explicit full-time Liverpool cadetship evidence is isolated from later newspaper/ABC work; no duration inferred from rounded career descriptions.",
-    "Searched ABC employer material, first-person interviews, company and interest records. Money interview and ABC transcript readable. Direct ABR company record and original 47P parliamentary interest PDF inaccessible; indexed legal-entity/shareholding leads retained without claiming verification of employment dates. Searches did not resolve 2008–2014 paid-work gap or treatment-related leave."
+    "Searched ABC employer material, first-person interviews, company and interest records. Money interview and ABC transcript readable. Direct ABR company record and original 47P parliamentary interest PDF inaccessible; indexed legal-entity/shareholding leads retained without claiming verification of employment dates. Searches did not resolve 2008–2014 paid-work gap or treatment-related leave.",
+    "Second follow-up2October2026 identifies omitted Beloka marketing role, resolves DAWN founding month and CRC appointment day/part-time status, and improves governance observations. All added activity remains uncounted; public/private totals remain unknown. CRC PDF reader failed internally but ordinary direct PDF download succeeded; table visually checked. Further leads: Beloka personnel/contract history, ABC hours and leave, unidentified2008–2014 work, DAWN legal entity and workload, and original STARTTS appointment. Do not substitute award dates, scheduled board expiry or annual-report observation dates for employment boundaries."
   ],
   "open_questions": [
     "What were the exact start/end dates, hours, leave and employment terms at the Liverpool City Champion, Fairfield City Champion and ABC, and how should the 1990 versus 1991 start discrepancy be resolved?",
@@ -632,6 +758,7 @@
     "Were the 2008, 2011 or 2022 campaigns remunerated, and what employment overlapped those campaigns?",
     "When did the full-time Liverpool cadetship end, and when did Fairfield newspaper work begin; was the latter also full-time?",
     "Which employers and dates apply to the restaurant, waitressing, nightclub and Katies roles?",
-    "Can original interest/company records distinguish Dawn Foundation, the DAWN network and Dawn Media Productions employment and ownership intervals?"
+    "Can original interest/company records distinguish Dawn Foundation, the DAWN network and Dawn Media Productions employment and ownership intervals?",
+    "When did the Beloka Water CMO role begin/end, was it employment or consultancy, with what hours and breaks, and did it overlap the2014–2022 business-owner activity?"
   ]
 }
