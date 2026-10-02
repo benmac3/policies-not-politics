@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/88411",
   "research_status": "blocked",
-  "last_reviewed": "2026-09-30",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -27,7 +27,9 @@
       "headline_sector": "excluded",
       "government_control_at_time": "unknown",
       "counting_status": "excluded",
-      "source_ids": ["src-3"],
+      "source_ids": [
+        "src-3"
+      ],
       "evidence_note": "A detailed post-election profile says Holzberger attended university in Adelaide as a young man. Institution, course and dates are not identified.",
       "counting_note": "Study is excluded."
     },
@@ -44,31 +46,18 @@
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-3"],
-      "evidence_note": "The profile places political-staff work for Peter Duncan during the Keating government before Holzberger returned to Broken Hill after the March 1996 election. Start date, title, employing office, hours and leave are not published.",
+      "source_ids": [
+        "src-3",
+        "src-7",
+        "src-14"
+      ],
+      "evidence_note": "First speech confirms Peter Duncan employment commencing at age19 and ending1996. No calendar start derived from age; hours unknown.",
       "counting_note": "Political staff employment is excluded."
     },
     {
       "spell_id": "88411-03",
-      "employer": "Employer not identified, Broken Hill",
-      "role": "Fitter and machinist work / attempted apprenticeship",
-      "start_date": "1996",
-      "end_date": null,
-      "date_precision": "mixed",
-      "employment_status": "unknown",
-      "fte_fraction": null,
-      "category": "private_enterprise",
-      "headline_sector": "private",
-      "government_control_at_time": "unknown",
-      "counting_status": "insufficient_evidence",
-      "source_ids": ["src-3", "src-8"],
-      "evidence_note": "The post-election profile says Holzberger worked as a fitter and machinist after returning to Broken Hill in 1996. In Hansard he described himself as a 'wannabe fitter and machinist' who did not progress far before station work. Employer, apprenticeship status, dates, hours and sector control are unresolved.",
-      "counting_note": "The inconsistent role description and missing boundaries prevent counting."
-    },
-    {
-      "spell_id": "88411-04",
-      "employer": "Service stations and Goat Works employer(s) not identified",
-      "role": "Service-station and meat-processing work",
+      "employer": "Unidentified mining contractor, Broken Hill",
+      "role": "Labourer; intended fitter/machinist apprenticeship",
       "start_date": null,
       "end_date": null,
       "date_precision": "unknown",
@@ -78,25 +67,52 @@
       "headline_sector": "private",
       "government_control_at_time": "private",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-9"],
-      "evidence_note": "Holzberger told Parliament he had worked in service stations and at 'Goat Works'. No employer identities, roles, dates, hours or sequencing were supplied.",
-      "counting_note": "Unbounded employment cannot contribute to the headline."
+      "source_ids": [
+        "src-3",
+        "src-8",
+        "src-7"
+      ],
+      "evidence_note": "First speech clarifies six months as a labourer after1996 return. Apprenticeship was an ambition, not a completed qualification; exact boundaries and hours unknown.",
+      "counting_note": "The inconsistent role description and missing boundaries prevent counting."
     },
     {
-      "spell_id": "88411-05",
-      "employer": "Sheep and cattle stations around Broken Hill and Wanaaring",
-      "role": "Station hand; lamb marking and mustering",
-      "start_date": "1996",
+      "spell_id": "88411-04",
+      "employer": "Goat Works; legal employer unidentified",
+      "role": "Meat-processing work",
+      "start_date": null,
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "unknown",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "private_enterprise",
       "headline_sector": "private",
       "government_control_at_time": "private",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-3", "src-7", "src-8"],
-      "evidence_note": "Holzberger's first speech and later Hansard identify lamb marking and station-hand work on outback sheep and cattle stations after returning to Broken Hill. The 1996 start reflects the sourced sequence only; individual station employers, exact dates, hours and leave are unknown.",
+      "source_ids": [
+        "src-9"
+      ],
+      "evidence_note": "Later Hansard names Goat Works without dates, hours or legal entity. Service-station work separated below.",
+      "counting_note": "Unbounded employment cannot contribute to the headline."
+    },
+    {
+      "spell_id": "88411-05",
+      "employer": "Sheep and cattle stations around Broken Hill and Wanaaring",
+      "role": "Station hand; lamb marking and mustering",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "private_enterprise",
+      "headline_sector": "private",
+      "government_control_at_time": "private",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-3",
+        "src-7",
+        "src-8"
+      ],
+      "evidence_note": "First-speech sequence places station work after mining, job-seeking and pub work. Removed inferred1996 start; lamb marking/mustering supported, dates and hours unknown.",
       "counting_note": "Private agricultural employment is supported, but not a countable full-time interval."
     },
     {
@@ -112,14 +128,18 @@
       "headline_sector": "private",
       "government_control_at_time": "private",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-3", "src-6", "src-7"],
+      "source_ids": [
+        "src-3",
+        "src-6",
+        "src-7"
+      ],
       "evidence_note": "Holzberger says he entered small business in his late twenties with a contract mustering operation using a motorcycle, utility and working dogs. His age suggests the early 2000s but no dates are encoded because the source supplies none. Legal entity, turnover, hours, continuity and cessation are unresolved.",
       "counting_note": "Self-employment may count when substantive full-time boundaries are supported; they are not here."
     },
     {
       "spell_id": "88411-07",
-      "employer": "Marketing business, Gold Coast",
-      "role": "Owner/operator",
+      "employer": "Self-operated sales-coaching business, Southport; legal entity unknown",
+      "role": "Sales coach and business operator",
       "start_date": null,
       "end_date": null,
       "date_precision": "unknown",
@@ -129,25 +149,34 @@
       "headline_sector": "private",
       "government_control_at_time": "private",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-3"],
-      "evidence_note": "The post-election profile says Holzberger ran a marketing business after moving first to Brisbane and then the Gold Coast. The business identity, dates, hours and overlap with other work are not published.",
+      "source_ids": [
+        "src-3",
+        "src-7"
+      ],
+      "evidence_note": "First speech identifies sales coaching; clients included retailers and a construction company. Client relationships are not separate payroll jobs. Dates/hours unknown.",
       "counting_note": "No bounded full-time interval is established."
     },
     {
       "spell_id": "88411-08",
       "employer": "Civil construction company, Beenleigh (entity not identified)",
-      "role": "Owner/operator or manager",
-      "start_date": "2006",
+      "role": "Director and operational manager; formerly consultant",
+      "start_date": null,
       "end_date": null,
-      "date_precision": "mixed",
-      "employment_status": "self_employed",
+      "date_precision": "unknown",
+      "employment_status": "unknown",
       "fte_fraction": null,
       "category": "private_enterprise",
       "headline_sector": "private",
       "government_control_at_time": "private",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-4", "src-5", "src-6", "src-10"],
-      "evidence_note": "Holzberger told Parliament he moved to Beenleigh about 20 years before 2026 and ran a construction company there for many years. ABC candidate profiles from 2015 onward also identify the civil construction company. The 2006 boundary is approximate; legal entity, exact dates, hours, leave and his precise ownership/management status remain unknown.",
+      "source_ids": [
+        "src-4",
+        "src-5",
+        "src-6",
+        "src-10",
+        "src-7"
+      ],
+      "evidence_note": "Construction client became managed company/directorship. Move to Beenleigh around2006 does not establish appointment; ownership, legal entity and hours unresolved.",
       "counting_note": "The evidence supports substantial private business experience but not a precise full-time duration."
     },
     {
@@ -163,16 +192,19 @@
       "headline_sector": "private",
       "government_control_at_time": "private",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-4", "src-5"],
+      "source_ids": [
+        "src-4",
+        "src-5"
+      ],
       "evidence_note": "ABC's 2015, 2017 and 2022 candidate profiles say Holzberger had most recently worked in insurance. Employer, title, appointment/cessation, hours and overlap with business and candidacy are not identified.",
       "counting_note": "Private employment is supported, but no duration or full-time status is established."
     },
     {
       "spell_id": "88411-10",
-      "employer": "Offices of Senator Murray Watt and Shannon Fentiman MP",
+      "employer": "Office of Senator Murray Watt",
       "role": "Electorate officer",
-      "start_date": null,
-      "end_date": "2025-05-02",
+      "start_date": "2018",
+      "end_date": null,
       "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
@@ -180,8 +212,11 @@
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-2", "src-11", "src-12"],
-      "evidence_note": "Public profiles and parliamentary records identify electorate-office work for Senator Murray Watt and Queensland MP Shannon Fentiman, described collectively as nearly a decade before election. Exact dates for each office, hours, leave, campaign periods and transitions are not published. The end is bounded by federal election day rather than a sourced payroll date.",
+      "source_ids": [
+        "src-13",
+        "src-14"
+      ],
+      "evidence_note": "First-person speeches place constituent/electorate work in2018 and describe commencement approximately then. Removed synthetic day-before-election cessation. End, hours and transition to Fentiman unresolved.",
       "counting_note": "Political staff employment is excluded irrespective of public funding."
     },
     {
@@ -190,36 +225,245 @@
       "role": "Member for Forde",
       "start_date": "2025-05-03",
       "end_date": null,
-      "date_precision": "day",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-1"],
+      "source_ids": [
+        "src-1"
+      ],
       "evidence_note": "Official parliamentary service begins with the 3 May 2025 federal election.",
       "counting_note": "Federal elected office is excluded."
+    },
+    {
+      "employer": "Office of Shannon Fentiman MP",
+      "role": "Electorate officer",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "political_staff",
+      "headline_sector": "excluded",
+      "government_control_at_time": "public",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-7",
+        "src-11",
+        "src-12"
+      ],
+      "evidence_note": "Fentiman acknowledged as former employer; May2025 valedictory names him. Appointment, cessation and campaign leave unknown.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "88411-12"
+    },
+    {
+      "employer": "Unidentified pub, Wanaaring",
+      "role": "Pub worker",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "private_enterprise",
+      "headline_sector": "private",
+      "government_control_at_time": "private",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-7"
+      ],
+      "evidence_note": "First speech places pub job after job-seeking and before station work; employer, duties, dates/hours unknown.",
+      "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
+      "spell_id": "88411-13"
+    },
+    {
+      "employer": "Unidentified service station, Tenterfield",
+      "role": "Petrol service, food preparation and cleaning",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "private_enterprise",
+      "headline_sector": "private",
+      "government_control_at_time": "private",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-7"
+      ],
+      "evidence_note": "First speech locates service-station job in Tenterfield after agricultural work; exact dates/hours unknown.",
+      "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
+      "spell_id": "88411-14"
+    },
+    {
+      "employer": "Various unidentified employers",
+      "role": "Odd jobs interspersed with job-seeking",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "unknown",
+      "government_control_at_time": "unknown",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-7"
+      ],
+      "evidence_note": "Describes two years after mining job. Not continuous unemployment or employment; roles and hours unknown.",
+      "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
+      "spell_id": "88411-15"
     }
   ],
   "sources": [
-    {"source_id":"src-1","url":"https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=88411","publisher":"Parliament of Australia","title":"Mr Rowan Holzberger MP","retrieved":"2026-09-30","source_type":"official_biography","locator":"Parliamentary service and first-speech link","note":"Official federal service record."},
-    {"source_id":"src-2","url":"https://www.alp.org.au/our-people/our-people/rowan-holzberger/","publisher":"Australian Labor Party","title":"Rowan Holzberger","retrieved":"2026-09-30","source_type":"professional_profile","locator":"Biography","note":"Confirms farming, construction, small-business and local-community experience."},
-    {"source_id":"src-3","url":"https://mycitylogan.com.au/who-is-rowan-holzberger-the-new-member-for-forde/","publisher":"MyCity Logan","title":"Who is Rowan Holzberger, the new Member for Forde","retrieved":"2026-09-30","source_type":"news","locator":"Career chronology","note":"Detailed sequence covering Adelaide study, Peter Duncan staff work, Broken Hill trades and station work, contract mustering, moves to Brisbane/Gold Coast and marketing business."},
-    {"source_id":"src-4","url":"https://www.abc.net.au/news/elections/qld/2015/guide/spor","publisher":"ABC News","title":"Southport — 2015 Queensland election candidate guide","retrieved":"2026-09-30","source_type":"news","locator":"Rowan Holzberger profile","note":"Contemporaneous profile identifying small business, civil construction company and recent insurance work."},
-    {"source_id":"src-5","url":"https://www.abc.net.au/news/elections/qld/2017/guide/bonn","publisher":"ABC News","title":"Bonney — 2017 Queensland election candidate guide","retrieved":"2026-09-30","source_type":"news","locator":"Rowan Holzberger profile","note":"Corroborates small-business, civil-construction and insurance experience."},
-    {"source_id":"src-6","url":"https://www.openaustralia.org.au/debates/?id=2026-03-02.214.1","publisher":"Parliament of Australia Hansard via OpenAustralia","title":"Small Business — Rowan Holzberger","retrieved":"2026-09-30","source_type":"government_record","locator":"Speech, 2 March 2026","note":"First-person account of entering business in his late twenties through contract mustering and later running a construction company."},
-    {"source_id":"src-7","url":"https://www.openaustralia.org.au/debate/?id=2025-07-24.15.2","publisher":"Parliament of Australia Hansard via OpenAustralia","title":"Address-in-Reply — first speech of Rowan Holzberger","retrieved":"2026-09-30","source_type":"government_record","locator":"Career passages, 24 July 2025","note":"Primary account of lamb marking, station-hand and contract-mustering experience."},
-    {"source_id":"src-8","url":"https://www.openaustralia.org.au/debates/?id=2026-03-10.94.2","publisher":"Parliament of Australia Hansard via OpenAustralia","title":"Coal Mining Industry long service leave debate","retrieved":"2026-09-30","source_type":"government_record","locator":"Personal work-history passage, 10 March 2026","note":"Clarifies limited fitter/machinist experience before station work."},
-    {"source_id":"src-9","url":"https://www.openaustralia.org.au/debate/?id=2026-05-13.155.1","publisher":"Parliament of Australia Hansard via OpenAustralia","title":"Public and Educational Lending Right Scheme","retrieved":"2026-09-30","source_type":"government_record","locator":"Career list, 13 May 2026","note":"First-person reference to station, service-station, Goat Works and construction careers."},
-    {"source_id":"src-10","url":"https://www.openaustralia.org.au/debate/?id=2026-04-01.169.3","publisher":"Parliament of Australia Hansard via OpenAustralia","title":"Customs legislation debate","retrieved":"2026-09-30","source_type":"government_record","locator":"Beenleigh construction-company passage, 1 April 2026","note":"First-person statement that Holzberger ran a construction company after moving to Beenleigh about 20 years earlier."},
-    {"source_id":"src-11","url":"https://www.advoc8.co/public/profiles/kkC9Aw","publisher":"Advoc8","title":"Rowan Holzberger — Member for Forde","retrieved":"2026-09-30","source_type":"professional_profile","locator":"Biography","note":"Reports nearly a decade as electorate officer for Senator Murray Watt and Shannon Fentiman before Parliament."},
-    {"source_id":"src-12","url":"https://documents.parliament.qld.gov.au/events/han/2025/2025_05_22_WEEKLY.pdf","publisher":"Queensland Parliament","title":"Queensland Parliament weekly Hansard, 22 May 2025","retrieved":"2026-09-30","source_type":"government_record","locator":"Shannon Fentiman valedictory acknowledgements","note":"Primary parliamentary record naming Rowan Holzberger among Fentiman's Waterford electorate-office staff."}
+    {
+      "source_id": "src-1",
+      "url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=88411",
+      "publisher": "Parliament of Australia",
+      "title": "Mr Rowan Holzberger MP",
+      "retrieved": "2026-09-30",
+      "source_type": "official_biography",
+      "locator": "Parliamentary service and first-speech link",
+      "note": "Official federal service record."
+    },
+    {
+      "source_id": "src-2",
+      "url": "https://www.alp.org.au/our-people/our-people/rowan-holzberger/",
+      "publisher": "Australian Labor Party",
+      "title": "Rowan Holzberger",
+      "retrieved": "2026-09-30",
+      "source_type": "professional_profile",
+      "locator": "Biography",
+      "note": "Confirms farming, construction, small-business and local-community experience."
+    },
+    {
+      "source_id": "src-3",
+      "url": "https://mycitylogan.com.au/who-is-rowan-holzberger-the-new-member-for-forde/",
+      "publisher": "MyCity Logan",
+      "title": "Who is Rowan Holzberger, the new Member for Forde",
+      "retrieved": "2026-09-30",
+      "source_type": "news",
+      "locator": "Career chronology",
+      "note": "Detailed sequence covering Adelaide study, Peter Duncan staff work, Broken Hill trades and station work, contract mustering, moves to Brisbane/Gold Coast and marketing business."
+    },
+    {
+      "source_id": "src-4",
+      "url": "https://www.abc.net.au/news/elections/qld/2015/guide/spor",
+      "publisher": "ABC News",
+      "title": "Southport — 2015 Queensland election candidate guide",
+      "retrieved": "2026-09-30",
+      "source_type": "news",
+      "locator": "Rowan Holzberger profile",
+      "note": "Contemporaneous profile identifying small business, civil construction company and recent insurance work."
+    },
+    {
+      "source_id": "src-5",
+      "url": "https://www.abc.net.au/news/elections/qld/2017/guide/bonn",
+      "publisher": "ABC News",
+      "title": "Bonney — 2017 Queensland election candidate guide",
+      "retrieved": "2026-09-30",
+      "source_type": "news",
+      "locator": "Rowan Holzberger profile",
+      "note": "Corroborates small-business, civil-construction and insurance experience."
+    },
+    {
+      "source_id": "src-6",
+      "url": "https://www.openaustralia.org.au/debates/?id=2026-03-02.214.1",
+      "publisher": "Parliament of Australia Hansard via OpenAustralia",
+      "title": "Small Business — Rowan Holzberger",
+      "retrieved": "2026-09-30",
+      "source_type": "government_record",
+      "locator": "Speech, 2 March 2026",
+      "note": "First-person account of entering business in his late twenties through contract mustering and later running a construction company."
+    },
+    {
+      "source_id": "src-7",
+      "url": "https://www.openaustralia.org.au/debate/?id=2025-07-24.19.1",
+      "publisher": "Parliament of Australia Hansard via OpenAustralia",
+      "title": "Address-in-Reply — first speech of Rowan Holzberger",
+      "retrieved": "2026-10-02",
+      "source_type": "government_record",
+      "locator": "10:58am; employment narrative after acknowledgements",
+      "note": "First-person employment sequence; employer names and dates mostly absent."
+    },
+    {
+      "source_id": "src-8",
+      "url": "https://www.openaustralia.org.au/debates/?id=2026-03-10.94.2",
+      "publisher": "Parliament of Australia Hansard via OpenAustralia",
+      "title": "Coal Mining Industry long service leave debate",
+      "retrieved": "2026-09-30",
+      "source_type": "government_record",
+      "locator": "Personal work-history passage, 10 March 2026",
+      "note": "Clarifies limited fitter/machinist experience before station work."
+    },
+    {
+      "source_id": "src-9",
+      "url": "https://www.openaustralia.org.au/debate/?id=2026-05-13.155.1",
+      "publisher": "Parliament of Australia Hansard via OpenAustralia",
+      "title": "Public and Educational Lending Right Scheme",
+      "retrieved": "2026-09-30",
+      "source_type": "government_record",
+      "locator": "Career list, 13 May 2026",
+      "note": "First-person reference to station, service-station, Goat Works and construction careers."
+    },
+    {
+      "source_id": "src-10",
+      "url": "https://www.openaustralia.org.au/debate/?id=2026-04-01.169.3",
+      "publisher": "Parliament of Australia Hansard via OpenAustralia",
+      "title": "Customs legislation debate",
+      "retrieved": "2026-09-30",
+      "source_type": "government_record",
+      "locator": "Beenleigh construction-company passage, 1 April 2026",
+      "note": "First-person statement that Holzberger ran a construction company after moving to Beenleigh about 20 years earlier."
+    },
+    {
+      "source_id": "src-11",
+      "url": "https://www.advoc8.co/public/profiles/kkC9Aw",
+      "publisher": "Advoc8",
+      "title": "Rowan Holzberger — Member for Forde",
+      "retrieved": "2026-09-30",
+      "source_type": "professional_profile",
+      "locator": "Biography",
+      "note": "Reports nearly a decade as electorate officer for Senator Murray Watt and Shannon Fentiman before Parliament."
+    },
+    {
+      "source_id": "src-12",
+      "url": "https://documents.parliament.qld.gov.au/events/han/2025/2025_05_22_WEEKLY.pdf",
+      "publisher": "Queensland Parliament",
+      "title": "Queensland Parliament weekly Hansard, 22 May 2025",
+      "retrieved": "2026-09-30",
+      "source_type": "government_record",
+      "locator": "Shannon Fentiman valedictory acknowledgements",
+      "note": "Primary parliamentary record naming Rowan Holzberger among Fentiman's Waterford electorate-office staff."
+    },
+    {
+      "url": "https://www.openaustralia.org.au/debate/?id=2026-05-26.102.1",
+      "publisher": "Parliament of Australia Hansard via OpenAustralia",
+      "title": "NDIS second reading,26May2026",
+      "source_type": "government_record",
+      "locator": "7:27pm, opening personal-employment passage",
+      "note": "First-person employment for Murray Watt from about2018.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-13"
+    },
+    {
+      "url": "https://www.openaustralia.org.au/debate/?id=2026-03-31.117.1",
+      "publisher": "Parliament of Australia Hansard via OpenAustralia",
+      "title": "NDIS second reading,31March2026",
+      "source_type": "government_record",
+      "locator": "6:20pm, former staff experience",
+      "note": "Identifies Duncan staff work in1990s and Watt constituent/electorate work in2018.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-14"
+    }
   ],
   "research_notes": [
     "Identify every private employer and legal business entity, especially the Broken Hill fitter/machinist, service-station and Goat Works roles, stations, marketing business, construction company and insurance employer.",
     "Obtain exact dates, hours, leave and transitions for agricultural, mustering, marketing, construction and insurance work; do not derive year boundaries from age or relative phrases.",
     "Resolve dates and employing offices for Peter Duncan, Murray Watt and Shannon Fentiman staff work, including campaign leave and overlaps with the 2015, 2017, 2022 and 2025 candidacies.",
-    "ABN 59 023 753 539 is a lead associated with Rowan Holzberger, but its public result does not establish the business name, industry or substantive work and is not used as a career fact."
+    "ABN 59 023 753 539 is a lead associated with Rowan Holzberger, but its public result does not establish the business name, industry or substantive work and is not used as a career fact.",
+    "2026-10-02 follow-up: primary first speech supplies more precise role sequence; removed synthetic dates, separated combined employers and added omitted roles/break context. Searches of candidate profiles, business/employer references and public professional results did not identify legal entities or hours. ABC2015/2017/2022/2025 repeats insurance wording; do not treat republishing as continued employment. Names of constituent companies and commercial clients are not his employers. Follow up mining contractor, Wanaaring pub, Tenterfield service station, sales-coaching and construction legal entities and insurance payroll. No duration totals calculated."
   ]
 }
