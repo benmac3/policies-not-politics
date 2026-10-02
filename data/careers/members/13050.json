@@ -6,12 +6,12 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/13050",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-01",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
     "calculation_status": "not_calculable",
-    "note": "The official parliamentary biography provides a 2001-16 chronology across Western Australian government agencies and public universities. Contemporary university and government material corroborates the roles, but published evidence does not establish hours, leave, exact intra-year boundaries, or whether overlapping academic and consulting activities were substantive employment. No full-time public or private total is calculated."
+    "note": "Added AMEP and TAFE teaching, RTO management, named consulting affiliation and 2009–2015 CAAR governance. SBS explicitly reports full-time government policy work, but exact contracts, continuous intervals and leave remain unmapped. Corrected EOC end to official 2008 and Curtin observation date; no duration manufactured."
   },
   "career_spells": [
     {
@@ -27,8 +27,12 @@
       "headline_sector": "public",
       "government_control_at_time": "public",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-1", "src-2"],
-      "evidence_note": "The official parliamentary biography records this Western Australian government role in 2001-02. Exact appointment and cessation dates, hours and leave are not published.",
+      "source_ids": [
+        "src-1",
+        "src-2",
+        "src-12"
+      ],
+      "evidence_note": "The official parliamentary biography records this Western Australian government role in 2001-02. Exact appointment and cessation dates, hours and leave are not published. SBS 2016 reports transition into full-time government policy work, but does not map that status or leave to this exact contract or later appointments. Positive full-time evidence retained without asserting continuous 2001–2008 full-time service.",
       "counting_note": "Public-sector employment is supported, but substantive full-time status and exact duration are not established."
     },
     {
@@ -44,16 +48,20 @@
       "headline_sector": "public",
       "government_control_at_time": "public",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-1", "src-2", "src-3"],
+      "source_ids": [
+        "src-1",
+        "src-2",
+        "src-3"
+      ],
       "evidence_note": "The official biography records the role from 2002 to 2007; contemporary biographical material independently identifies Aly as a former senior policy officer in the office. Exact transfer date, hours and leave are not published.",
       "counting_note": "Public-sector employment is supported, but a countable full-time interval is not."
     },
     {
       "spell_id": "13050-03",
       "employer": "Equal Opportunity Commission (Western Australia)",
-      "role": "Manager, community education and training",
+      "role": "Manager of training and education",
       "start_date": "2007",
-      "end_date": "2009",
+      "end_date": "2008",
       "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
@@ -61,8 +69,12 @@
       "headline_sector": "public",
       "government_control_at_time": "public",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-1", "src-3"],
-      "evidence_note": "The official biography records this 2007-09 position, corroborated by the 2011 WA Women's Hall of Fame biography. Exact appointment/cessation, hours and leave are not published.",
+      "source_ids": [
+        "src-1",
+        "src-3",
+        "src-18"
+      ],
+      "evidence_note": "The official biography records this 2007-09 position, corroborated by the 2011 WA Women's Hall of Fame biography. Exact appointment/cessation, hours and leave are not published. Correction 2026-10-02: refreshed official indexed biography gives 2007–2008, not the earlier record’s 2007–2009 attribution. Earlier endpoint withdrawn; exact day and leave unknown.",
       "counting_note": "A management title does not prove substantive full-time status; exact boundaries are also absent."
     },
     {
@@ -78,7 +90,12 @@
       "headline_sector": "public",
       "government_control_at_time": "public",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-1", "src-3", "src-4", "src-5"],
+      "source_ids": [
+        "src-1",
+        "src-3",
+        "src-4",
+        "src-5"
+      ],
       "evidence_note": "The official biography places Aly in university teaching from 2009; a 2010 journal biography identifies her as a postdoctoral research fellow at ECU and a 2011 contemporary profile calls her a senior lecturer and researcher there. Published material does not resolve the title transition, contract, hours or leave.",
       "counting_note": "The work was at a WA public university, but the evidence is insufficient to calculate a full-time interval."
     },
@@ -95,8 +112,12 @@
       "headline_sector": "public",
       "government_control_at_time": "public",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-1", "src-6", "src-7"],
-      "evidence_note": "The official parliamentary biography combines senior-lecturer appointments at Curtin and ECU from 2011 to 2014. Curtin contemporaneously described Aly as a research fellow in 2011. Employer-specific dates, simultaneous versus successive status, hours and leave are unresolved.",
+      "source_ids": [
+        "src-1",
+        "src-6",
+        "src-7"
+      ],
+      "evidence_note": "The official parliamentary biography combines senior-lecturer appointments at Curtin and ECU from 2011 to 2014. Curtin contemporaneously described Aly as a research fellow in 2011. Employer-specific dates, simultaneous versus successive status, hours and leave are unresolved. Curtin release is dated 1 April 2011 and explicitly welcomes her recent move to Curtin. Earlier source locator incorrectly said 24 June; actual appointment date remains unknown.",
       "counting_note": "Both institutions were WA public universities, but overlapping employer attribution and full-time status are insufficiently documented."
     },
     {
@@ -112,7 +133,10 @@
       "headline_sector": "public",
       "government_control_at_time": "public",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-1", "src-8"],
+      "source_ids": [
+        "src-1",
+        "src-8"
+      ],
       "evidence_note": "The official chronology records an associate-professor role in 2014-15; contemporary sources continued to describe Aly as a Curtin research fellow. Exact promotion, appointment, workload and cessation are not published.",
       "counting_note": "Public-university employment is supported, but not a sufficiently bounded full-time interval."
     },
@@ -129,7 +153,11 @@
       "headline_sector": "public",
       "government_control_at_time": "public",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-1", "src-9", "src-10"],
+      "source_ids": [
+        "src-1",
+        "src-9",
+        "src-10"
+      ],
       "evidence_note": "ECU's 2015 annual report identifies Aly as one of its first Professorial Research Fellow appointments. Contemporary election coverage described her as an ECU professor in 2016. Exact commencement, campaign leave, workload and cessation are not published.",
       "counting_note": "A professorial title does not by itself prove substantive full-time status, and the 2016 transition to candidacy and elected office is not precisely evidenced."
     },
@@ -138,16 +166,19 @@
       "employer": "People Against Violent Extremism",
       "role": "Founder and chair",
       "start_date": "2013",
-      "end_date": "2016",
-      "date_precision": "year",
+      "end_date": null,
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "nonprofit",
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-2", "src-10"],
-      "evidence_note": "Biographical and contemporary reporting identify Aly as founder and head of the counter-extremism nonprofit. No paid employment, hours or remuneration are established; the activity overlapped university appointments.",
+      "source_ids": [
+        "src-2",
+        "src-10"
+      ],
+      "evidence_note": "Biographical and contemporary reporting identify Aly as founder and head of the counter-extremism nonprofit. No paid employment, hours or remuneration are established; the activity overlapped university appointments. Election in 2016 is not evidence of chair cessation; unsupported endpoint removed.",
       "counting_note": "Nonprofit governance/advocacy is excluded unless substantive paid employment is documented."
     },
     {
@@ -163,7 +194,9 @@
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-10"],
+      "source_ids": [
+        "src-10"
+      ],
       "evidence_note": "ABC reporting records Aly's candidacy announcement on 29 January 2016 and election on 2 July 2016. No paid party employment is established.",
       "counting_note": "Candidate and party activity is excluded."
     },
@@ -173,16 +206,118 @@
       "role": "Member of the House of Representatives for Cowan",
       "start_date": "2016-07-02",
       "end_date": null,
-      "date_precision": "day",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-1", "src-2"],
+      "source_ids": [
+        "src-1",
+        "src-2"
+      ],
       "evidence_note": "The official parliamentary biography records election for Cowan on 2 July 2016 and subsequent re-elections.",
       "counting_note": "Federal elected office is excluded."
+    },
+    {
+      "employer": "Adult Migrant English Program provider, employer unresolved",
+      "role": "English-language teacher; reported casual work",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "unknown",
+      "government_control_at_time": "unknown",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-12",
+        "src-13"
+      ],
+      "evidence_note": "First-person AMEP teaching confirmed; SBS describes casual teaching before full-time policy work. Provider and dates unknown; government funding does not identify employer control or hours.",
+      "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
+      "spell_id": "13050-11"
+    },
+    {
+      "employer": "TAFE institution, employer unresolved",
+      "role": "Teacher",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "public_service",
+      "headline_sector": "public",
+      "government_control_at_time": "public",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-14"
+      ],
+      "evidence_note": "First-person parliamentary statement confirms TAFE teaching, but no campus, dates or hours. May overlap AMEP role; do not count twice.",
+      "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
+      "spell_id": "13050-12"
+    },
+    {
+      "employer": "Registered training organisations, entities unresolved",
+      "role": "Manager",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "unknown",
+      "government_control_at_time": "unknown",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-14"
+      ],
+      "evidence_note": "First-person statement confirms RTO management; public/private/nonprofit control, contracts, dates and relationship to listed roles unresolved.",
+      "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
+      "spell_id": "13050-13"
+    },
+    {
+      "employer": "Phoenix Group Consulting",
+      "role": "Consultant listed in company team",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "private_enterprise",
+      "headline_sector": "private",
+      "government_control_at_time": "private",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-15"
+      ],
+      "evidence_note": "Company lists Aly among consultants; not enough evidence for employee versus contractor, remuneration, hours, start/end or link to separately reported own business from 2011.",
+      "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
+      "spell_id": "13050-14"
+    },
+    {
+      "employer": "Council for Australian-Arab Relations / DFAT",
+      "role": "Council member",
+      "start_date": "2009",
+      "end_date": "2015",
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "public_service",
+      "headline_sector": "excluded",
+      "government_control_at_time": "public",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-6",
+        "src-15",
+        "src-16",
+        "src-17"
+      ],
+      "evidence_note": "Primary university biography dates first appointment to 2009; official table gives second term 16 December 2012–15 December 2015 scheduled, minister confirms concluding term November 2015. Governance, not substantive public-service employment; exact actual first/last days and remuneration unresolved.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "13050-15"
     }
   ],
   "sources": [
@@ -241,10 +376,10 @@
       "url": "https://www.curtin.edu.au/news/media-release/one-of-a-kind-terrorism-book-launched-at-curtin/",
       "publisher": "Curtin University",
       "title": "One-of-a-kind terrorism book launched at Curtin",
-      "retrieved": "2026-10-01",
+      "retrieved": "2026-10-02",
       "source_type": "employer_record",
-      "locator": "24 June 2011 media release",
-      "note": "Curtin described Aly as a Curtin Research Fellow in June 2011."
+      "locator": "1 April 2011 release; Vice-Chancellor welcome paragraph",
+      "note": "Curtin identifies Aly as research fellow and recently moved to Curtin as of 1 April 2011. Corrects earlier June locator."
     },
     {
       "source_id": "src-7",
@@ -295,6 +430,76 @@
       "source_type": "official_biography",
       "locator": "Frozen roster entry",
       "note": "Frozen-roster identity source."
+    },
+    {
+      "url": "https://www.sbs.com.au/news/article/first-ever-female-muslim-mp-anne-aly-says-she-wont-be-pigeonholed/0evm9ed4w",
+      "publisher": "SBS News",
+      "title": "First-ever female Muslim MP Anne Aly says she will not be pigeonholed",
+      "source_type": "reliable_secondary",
+      "locator": "9 August 2016, paragraphs following masters study",
+      "note": "Reports casual English teaching followed by full-time government policy work. Does not identify which contracts or continuous full-time dates. Some biographical age/year details conflict and are not adopted.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-12"
+    },
+    {
+      "url": "https://www.annealy.com/news/speeches/private-members-business-settlement-resources-for-asylum-seekers-monday-9-september-2019/",
+      "publisher": "Anne Aly MP",
+      "title": "Settlement resources for asylum seekers, 9 September 2019",
+      "source_type": "first_person",
+      "locator": "Indexed paragraph about Adult Migrant English Program",
+      "note": "First-person confirmation of AMEP teaching; direct open Internal Error, public index retrieved.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-13"
+    },
+    {
+      "url": "https://www.openaustralia.org.au/debate/?id=2020-02-13.16.1",
+      "publisher": "House Hansard via OpenAustralia",
+      "title": "National VET Regulator Amendment Bill, 13 February 2020",
+      "source_type": "first_person",
+      "locator": "11:01 am opening paragraph",
+      "note": "Confirms TAFE teaching and managing registered training organisations; employers and dates unspecified.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-14"
+    },
+    {
+      "url": "https://phoenix-group-consulting.webnode.page/our-people/",
+      "publisher": "Phoenix Group Consulting",
+      "title": "Our People: Dr Anne (Azza) Aly",
+      "source_type": "employer_record",
+      "locator": "Our Senior Consultants, Anne Aly biography",
+      "note": "Undated company page lists Aly in consultant team; contemporaneous language refers to Curtin and second CAAR term. Not evidence of current employment or ownership of company.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-15"
+    },
+    {
+      "url": "https://www.foreignminister.gov.au/minister/julie-bishop/media-release/council-australian-arab-relations-appointments-1",
+      "publisher": "Australian Minister for Foreign Affairs",
+      "title": "Council for Australian-Arab Relations appointments",
+      "source_type": "government_record",
+      "locator": "13 November 2015, final paragraph",
+      "note": "Minister thanks Aly as current member concluding term; announcement date not assumed actual last day.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-16"
+    },
+    {
+      "url": "https://www.aph.gov.au/~/media/Estimates/Live/fadt_ctte/estimates/bud_1314/dfat/dfatqonsanswers.ashx",
+      "publisher": "DFAT / Senate Estimates",
+      "title": "Budget 2013–14 questions on notice answers",
+      "source_type": "government_record",
+      "locator": "CAAR board table, Dr Anne Aly row",
+      "note": "Indexed official table gives second appointment 16 December 2012 and scheduled end 15 December 2015; actual completion corroborated only to 2015.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-17"
+    },
+    {
+      "url": "https://www.aph.gov.au/A_Aly_MP",
+      "publisher": "Parliament of Australia",
+      "title": "Hon Dr Anne Aly MP, refreshed indexed biography",
+      "source_type": "official_biography",
+      "locator": "Occupation: Equal Opportunity Commission",
+      "note": "Indexed official entry gives Manager of Training and Education 2007–2008, correcting prior record end 2009. Direct official page returned 403.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-18"
     }
   ],
   "research_notes": [
@@ -303,6 +508,9 @@
     "Disaggregate the official combined Curtin/ECU senior-lecturer entry and reconcile postdoctoral fellow, research fellow, lecturer, associate-professor and professorial-research-fellow titles and overlaps.",
     "Identify the policy-consulting business reported from 2011, its entity, clients, paid activity, hours and overlap with university work.",
     "Establish whether PaVE work or UN/board advisory activity was paid substantive employment rather than governance or professional service.",
-    "Obtain 2016 university leave/cessation and campaign arrangements."
+    "Obtain 2016 university leave/cessation and campaign arrangements.",
+    "Follow-up 2026-10-02: first-person speeches establish previously missing teaching and RTO management; consultant company identifies Phoenix affiliation. SBS supplies positive full-time policy-work evidence requiring contract/date mapping. CAAR second-term schedule and 2015 conclusion documented.",
+    "Remaining: identify AMEP/TAFE/RTO employers and role overlap; find first full-time policy appointment and later status changes/leave; EOC 2008 cessation, OMI 2002 versus secondary 2003 commencement; ECU/Curtin precise transfers; own consultancy from 2011 versus Phoenix association; 2016 campaign leave.",
+    "Recovered APH 403/robots and member speech Internal Error handled with visible official index and accessible first-person transcripts. No access bypass. Source timing and date conflicts retained."
   ]
 }
