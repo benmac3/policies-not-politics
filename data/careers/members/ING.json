@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/ING",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-01",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -158,9 +158,9 @@
     {
       "employer": "Little Company of Mary Health Care / Calvary",
       "role": "Service development consultant; health policy",
-      "start_date": "2018",
+      "start_date": "2018-06",
       "end_date": null,
-      "date_precision": "year",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "nonprofit",
@@ -171,9 +171,10 @@
         "src-9",
         "src-10",
         "src-11",
-        "src-12"
+        "src-12",
+        "src-19"
       ],
-      "evidence_note": "Government meeting record confirms work by July 2018, reporting confirms work through at least early 2019. Church charitable governance, not ACT public service; contract payroll entity, employee/self-employed arrangement, hours and end unknown.",
+      "evidence_note": "21June2018estimates minister confirms started that week, believes Monday; supports June2018start, with possible18June not promoted to exact date. Clarifies Calvary national employment, not ACT Health or government hospital contract. July2018FOI supplies service development consultant title; hearing calls service design liaison. Reporting confirms work into early2019; payroll entity, contract arrangement, hours and end remain unknown.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "ING-08"
     },
@@ -537,6 +538,16 @@
       "note": "Service interruption, not assumed unemployment for following year.",
       "retrieved": "2026-10-01",
       "source_id": "src-18"
+    },
+    {
+      "url": "https://www.hansard.act.gov.au/Hansard/9th-assembly/Committee-transcripts/estimates17a.pdf",
+      "publisher": "ACT Legislative Assembly",
+      "title": "Select Committee on Estimates evidence21June2018",
+      "source_type": "government_record",
+      "locator": "Printedpp437–438 and529; PDFpp25–26 and117",
+      "note": "Minister confirms start that week, believes Monday, and later clarifies Calvary national employment outside ACT government contract. Month safely supported; possible18June2018not treated as certain exact start.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-19"
     }
   ],
   "research_notes": [
@@ -545,6 +556,9 @@
     "Frozen community worker 1993–98 is an aggregate, not another counted job. Named People First 1994–97 and 1988 childcare precede/overlap it. Bereavement and parental leave affect continuity but no unpaid break dates are invented. ANU 1990 versus 1991 conflict retained.",
     "Calvary role fills a material inter-parliamentary gap. Government meetings and public hospital work do not make its church-controlled employer government-controlled. Verify legal contracting entity, self-employment versus payroll, exact end, hours and any other clients.",
     "Follow up supermarket identity; 1988 childcare employer; Woden/People First annual reports and historical governance; all hours and leave; CPSU desk-to-organiser transition; Calvary contract and RSPCA tenure/pay; December 2014–March 2015 gap and concurrent business roles.",
-    "Source gaps: direct APH restricted, ACT FOI PDF Internal Error, RSPCA annual PDFs 403 Forbidden. Search-index snippets explicitly labelled; no inaccessible full report claimed read. Calvary historical governance and accessible Hansard supplied alternative primary evidence. No private-profile access or outreach."
+    "Source gaps: direct APH restricted, ACT FOI PDF Internal Error, RSPCA annual PDFs 403 Forbidden. Search-index snippets explicitly labelled; no inaccessible full report claimed read. Calvary historical governance and accessible Hansard supplied alternative primary evidence. No private-profile access or outreach.",
+    "Follow-up2026-10-02: primary21June2018estimates evidence narrows Calvary start from2018toJune2018and distinguishes national-employer role from ACT hospital contract. Monday language is qualified by minister belief, so no exact18June date asserted. This is material chronology/control enrichment; no new full-time duration.",
+    "Targeted supermarket identity, Woden/People First historical governance, RSPCA resignation/annual-report and Calvary contract searches did not resolve remaining employer/hours/leave/tenure gaps. People First UK/business namesakes excluded. Canberra Times employment story returned non-retryable500redirect to inaccessible tollbit; ANU dinner profile inaccessible. No access-control bypass or jobwide stop.",
+    "Further follow-up: Calvary appointment/separation and payroll record, RSPCA tenure/pay, Woden and People First historical reports, early supermarket/childcare names and hours, union leave and desk-to-organiser transition. National employment clarification does not turn charitable employment into ordinary public service."
   ]
 }
