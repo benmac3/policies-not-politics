@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/DZS",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-01",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -205,7 +205,8 @@
         "src-minister",
         "src-une",
         "src-secondary-profile",
-        "src-une-alumni"
+        "src-une-alumni",
+        "src-griffith2022-oct2"
       ],
       "evidence_note": "Qualifications and institutions are corroborated, but enrolment/completion dates and study load are unresolved. No employment status is inferred from study. UNE now explicitly states diploma completion in2018, during federal service. This combined spell retains unknown overall boundaries because the Griffith interval is unresolved;2018 is not applied to both qualifications.",
       "counting_note": "Study is excluded under the codebook."
@@ -358,7 +359,7 @@
       "retrieved": "2026-09-18",
       "source_type": "professional_profile",
       "locator": "Career biography",
-      "note": "Secondary corroboration of the Janice Crosio, FSU and Paul Scully sequence."
+      "note": "Secondary corroboration of the Janice Crosio, FSU and Paul Scully sequence. Correction already established by primary sources: the staff employer is Patrick Carl Scully, not Paul. This secondary naming error is not adopted."
     },
     {
       "source_id": "src-secondary-profile",
@@ -439,6 +440,16 @@
       "note": "Year-dated party office history; no remuneration or hours information.",
       "retrieved": "2026-10-01",
       "source_id": "src-handbook2020"
+    },
+    {
+      "url": "https://news.griffith.edu.au/2022/06/09/griffith-alumni-take-their-seats-in-new-alp-government/",
+      "publisher": "Griffith University",
+      "title": "Griffith alumni take their seats in new ALP Government,9June2022",
+      "source_type": "other",
+      "locator": "Chris Bowen alumni paragraph",
+      "note": "Confirms already-recorded Master of International Relations; does not provide enrolment/completion dates or load.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-griffith2022-oct2"
     }
   ],
   "open_questions": [
@@ -452,6 +463,8 @@
     "Added contemporaneous2001 ministerial staff-title observation, three party offices,1991 university commencement and2018 UNE diploma completion. Political staff, union, party, elected office and study remain excluded under the codebook; no claim that this exhaustive-looking sequence proves zero private/public employment.",
     "Searched primary parliamentary historical handbooks, NSW estimates/Hansard, union references, government personal recollections, university alumni records and early-job/leave queries. No personal full-time or campaign-leave evidence found. Budget PDF direct open500 and APH profile403 were source-specific; publicly indexed primary historical records remained available. NSW dynamic Hansard page lacked text on open; indexed version supplied identity.",
     "Excluded false leads: the25February2024 transcript’s1987 Woolworths trolley work belongs to Jason Clare; music executive, US electrician, UK academic and ACT project-officer namesakes were not matched to this member. Newspaper paper-run snippet mixes two leadership candidates and is insufficiently attributable. Partisan claims of no private experience do not establish exhaustive employment history.",
-    "Unresolved priorities: pre1994 jobs and university-period paid work; precise staff/FSU boundaries and hours/leave;2001 senior-policy to chief-of-staff transition; council and WSROC term/payment records; Griffith study interval; party remuneration. Last follow-up2026-10-01; advance across the nationwide queue before repeating exhausted broad searches."
+    "Unresolved priorities: pre1994 jobs and university-period paid work; precise staff/FSU boundaries and hours/leave;2001 senior-policy to chief-of-staff transition; council and WSROC term/payment records; Griffith study interval; party remuneration. Last follow-up2026-10-01; advance across the nationwide queue before repeating exhausted broad searches.",
+    "Second follow-up2026-10-02: Griffith primary alumni record confirms qualification without dates; NSW2002 ministerial-staff and2003 valedictory searches do not narrow appointment endpoints.5December2003 Hansard index identifies Bowen among Scully staff but full PDF returned inaccessible-via-this-tool; no new boundary inferred. FSU and WSROC domain queries do not supply personal employment terms. No material enrichment counted.",
+    "Early-job search again returns US electrician and the mixed leadership-candidate paper-run snippet; these remain unattributable. No private/public zero inferred. Prioritise original FSU1995–2000 staff/personnel reports,1994/2000/2004 appointment transitions and identifiable pre-university employer evidence for future follow-up; generic qualification biographies exhausted."
   ]
 }
