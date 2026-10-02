@@ -4,11 +4,11 @@
       "category": "university",
       "counting_note": "Missing dates, full-time status and/or historical control; no duration counted.",
       "counting_status": "insufficient_evidence",
-      "date_precision": "unknown",
+      "date_precision": "month",
       "employer": "University of Sydney",
       "employment_status": "unknown",
-      "end_date": null,
-      "evidence_note": "Official employer/title; first-person interview confirms anatomy teaching. UTS describes science before law. Employment boundaries and overlap with study unknown.",
+      "end_date": "2014-01",
+      "evidence_note": "Official employer/title; first-person interview confirms anatomy teaching. UTS describes science before law. Employment boundaries and overlap with study unknown. Public professional index dates technical officer/anatomistJanuary2008–January2014. Duties include anatomical preparation and teaching.2013annualreport establishes nonprofit/Senate governance; universitycategory retained and control remains under review, not inferred from funding. Overlap with2013JD enrolment explicit; hours unknown.",
       "fte_fraction": null,
       "government_control_at_time": "unknown",
       "headline_sector": "unknown",
@@ -16,10 +16,12 @@
       "source_ids": [
         "src-snapshot",
         "src-uts",
-        "src-interview"
+        "src-interview",
+        "src-profile",
+        "src-sydney-ar2013"
       ],
       "spell_id": "315618-sydney",
-      "start_date": null
+      "start_date": "2008-01"
     },
     {
       "category": "union",
@@ -308,7 +310,7 @@
     "private_full_time_years": null,
     "public_full_time_years": null
   },
-  "last_reviewed": "2026-10-01",
+  "last_reviewed": "2026-10-02",
   "name": "AMBIHAIPAHAR, Ashvini (Ash)",
   "person_id": "315618",
   "research_notes": [
@@ -322,7 +324,9 @@
     "Next follow-up: dated CV or historical staff pages for Sydney, ANMF NSW, ETU, AHA and Hospitality Legal; verify PSI role and whether paid; Vinnies appointment/cessation; historical university and firm control; leave and overlaps around 2022 council/2023 and 2025 campaigns. Last follow-up 2026-09-16. Advance initial nationwide pass before repeating exhausted searches.",
     "Systematic follow-up2026-10-01: PSI2016 programme resolves coordinator title; FWC2018 correspondence adds dated ETU presence; HTA Legal supplies bylined professional output; council primary release confirms resignation and oath; candidate profile identifies explicit volunteering and community transport governance. These materially extend the record without converting observations into service boundaries.",
     "Hours searches found no person-specific full-time statement. NSW24March2025 hearing search result mentioning full-time schoolteacher work relates to a different witness; not attributed to Ambihaipahar. Direct public LinkedIn retrieval failed; no signed-in collection attempted. PSI direct PDF unavailable and main domain robots restriction respected; public indexed programme used with limitation.",
-    "Remaining follow-up: primary personal service dates/hours for Sydney, ANMF, ETU, AHA and Hospitality Legal; PSI appointment/remuneration; Vinnies start/end and campaign leave; university historical control and association-owned-firm headline treatment; JD date conflict. Avoid repeating broad career queries unless new staff archives or detailed professional evidence become available."
+    "Remaining follow-up: primary personal service dates/hours for Sydney, ANMF, ETU, AHA and Hospitality Legal; PSI appointment/remuneration; Vinnies start/end and campaign leave; university historical control and association-owned-firm headline treatment; JD date conflict. Avoid repeating broad career queries unless new staff archives or detailed professional evidence become available.",
+    "Second follow-up2026-10-02: targeted historical role/profile index supplies previously absent UniversityofSydneyJanuary2008–January2014employment boundaries. Historic2013annualreport documents nonprofit/Senate institutional structure. Degree completion is not an assumed employment start; observedprofilemonths independently supportdates.",
+    "Union/law-firm targeted searches supplied no new personal boundaries or hours. Do not infer law teaching from poorly punctuated secondary candidate summary; primary interview describes anatomy teaching and separate law degree. Next leads:2008–14schoolstaff directories/contracts, ANMFandETUlegalstaff transitions, AHA/HospitalityLegalappointments, Vinniescampaignleave."
   ],
   "research_status": "blocked",
   "snapshot_chamber": "Member",
@@ -401,10 +405,10 @@
       "url": "https://accommodationaustraliansw.org/Portals/12/Documents/AA%20NSW%20Member%20Pack%20-%20Digital_1.pdf?ver=2023-12-14-094659-783"
     },
     {
-      "locator": "Indexed PSI entry",
-      "note": "July 2015–2017 PSI Oceania lead; role/paid status unknown; direct retrieval failed.",
+      "locator": "Indexed PSI entry; Technical Officer/Anatomist entry",
+      "note": "July 2015–2017 PSI Oceania lead; role/paid status unknown; direct retrieval failed. Public index now gives UniversityofSydneyJanuary2008–January2014 and anatomical preparation/teaching duties. Index only; no direct profile retry after platform source429 on a different profile.",
       "publisher": "LinkedIn / Ashvini Ambihaipahar",
-      "retrieved": "2026-09-16",
+      "retrieved": "2026-10-02",
       "source_id": "src-profile",
       "source_type": "professional_profile",
       "title": "Public professional-profile search excerpt",
@@ -459,6 +463,16 @@
       "note": "Candidate biography explicitly identifies volunteer transport board and three volunteering organisations.",
       "retrieved": "2026-10-01",
       "source_id": "src-emily2023"
+    },
+    {
+      "url": "https://www.parliament.nsw.gov.au/tp/files/39432/The%20University%20of%20Sydney%20Annual%20Report%202013.pdf",
+      "publisher": "University of Sydney / NSW Parliament",
+      "title": "Annual report2013",
+      "source_type": "employer",
+      "locator": "Printedp24 governance; p88financial statements Note1 (PDF25,89)",
+      "note": "Identifies nonprofit accounting status and22-member Senate governing authority under1989Act, responsible to NSWParliament. Historic governance evidence, not an individual hours record or sufficient standalone control decision for entire2008–14span.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-sydney-ar2013"
     }
   ]
 }
