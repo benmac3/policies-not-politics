@@ -6,7 +6,7 @@
   "snapshot_party": "Liberal Party of Australia",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/231027",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-01",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -18,9 +18,9 @@
       "spell_id": "231027-01",
       "employer": "McKinsey & Company",
       "role": "Management consultant, later partner",
-      "start_date": "1994",
-      "end_date": "2001",
-      "date_precision": "year",
+      "start_date": "1994-03",
+      "end_date": "2001-01",
+      "date_precision": "month",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "private_enterprise",
@@ -30,9 +30,10 @@
       "source_ids": [
         "src-1",
         "src-3",
-        "src-6"
+        "src-6",
+        "src-linkedin2026"
       ],
-      "evidence_note": "APH labels entire interval partner; speaker biography distinguishes joining 1994 and partnership 1999. Preserve employment span without asserting partnership throughout. Hours and leave unknown; overseas client work remains consulting.",
+      "evidence_note": "APH labels entire interval partner; speaker biography distinguishes joining 1994 and partnership 1999. Preserve employment span without asserting partnership throughout. Hours and leave unknown; overseas client work remains consulting. Public self-reported profile supplies month-level employment endpoints consistent with official year range; days, hours and breaks remain unknown.",
       "counting_note": "Dates, employer control and/or substantive full-time status remain insufficient for a duration calculation; unknown is not zero."
     },
     {
@@ -49,18 +50,19 @@
       "government_control_at_time": "private",
       "counting_status": "insufficient_evidence",
       "source_ids": [
-        "src-4"
+        "src-4",
+        "src-farmshed2002"
       ],
-      "evidence_note": "CEO evidenced 25 July 2001. No start/end invented from point observation. Potential overlap with McKinsey requires contract/secondment evidence.",
+      "evidence_note": "CEO evidenced 25 July 2001. No start/end invented from point observation. Potential overlap with McKinsey requires contract/secondment evidence. Contemporary23October2002 AFR index also identifies him as chief executive in sale-related staff discussion. A subsequent management offer is not proof he accepted or worked for purchaser; exact CEO tenure remains unbounded.",
       "counting_note": "Dates, employer control and/or substantive full-time status remain insufficient for a duration calculation; unknown is not zero."
     },
     {
       "spell_id": "231027-03",
       "employer": "Port Jackson Partners",
       "role": "Director and strategy/business consultant",
-      "start_date": "2002",
-      "end_date": "2013",
-      "date_precision": "year",
+      "start_date": "2002-11",
+      "end_date": "2013-07",
+      "date_precision": "month",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "private_enterprise",
@@ -71,9 +73,10 @@
         "src-1",
         "src-2",
         "src-5",
-        "src-rabo2012"
+        "src-rabo2012",
+        "src-linkedin2026"
       ],
-      "evidence_note": "Contemporaneous employer report confirms active consulting, not merely board seat. Later official-host biography locates this before parliament in 2013; exact final date/hours unavailable. Public clients do not change employer control. Rabobank2012 announcement independently identifies concurrent PJP directorship. Outstanding dividends shown by secondary register transcription are not evidence of subsequent employment.",
+      "evidence_note": "Contemporaneous employer report confirms active consulting, not merely board seat. Later official-host biography locates this before parliament in 2013; exact final date/hours unavailable. Public clients do not change employer control. Rabobank2012 announcement independently identifies concurrent PJP directorship. Outstanding dividends shown by secondary register transcription are not evidence of subsequent employment. Public self-reported profile supplies month-level employment endpoints consistent with official year range; days, hours and breaks remain unknown.",
       "counting_note": "Dates, employer control and/or substantive full-time status remain insufficient for a duration calculation; unknown is not zero."
     },
     {
@@ -212,7 +215,7 @@
         "src-6",
         "src-college"
       ],
-      "evidence_note": "College\u2019s own public institutional post specifies Council1999\u20132014, resolving formerly undated fifteen-year description. Governance excluded; exact days/pay unknown.",
+      "evidence_note": "College’s own public institutional post specifies Council1999–2014, resolving formerly undated fifteen-year description. Governance excluded; exact days/pay unknown.",
       "counting_note": "Excluded from the two employment headlines under the codebook."
     },
     {
@@ -312,7 +315,7 @@
       "spell_id": "231027-15"
     },
     {
-      "employer": "St Andrew\u2019s College, University of Sydney",
+      "employer": "St Andrew’s College, University of Sydney",
       "role": "Senior Student",
       "start_date": "1989",
       "end_date": "1989",
@@ -329,6 +332,25 @@
       "evidence_note": "Institution identifies Senior Student1989; student leadership, not assumed paid employment or a full year.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "231027-16"
+    },
+    {
+      "employer": "Farmsmart Pty Ltd",
+      "role": "Director",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "private_enterprise",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-farmsmart2019"
+      ],
+      "evidence_note": "Secondary investigative report places directorship during company2003–09 life, not necessarily continuously. No personally bounded tenure or remuneration verified; governance excluded.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "231027-17"
     }
   ],
   "sources": [
@@ -434,10 +456,10 @@
     },
     {
       "url": "https://www.linkedin.com/posts/st-andrew%27s-college_we-congratulate-the-honourable-angus-taylor-activity-7427916976783810560-SHNL",
-      "publisher": "St Andrew\u2019s College within the University of Sydney",
+      "publisher": "St Andrew’s College within the University of Sydney",
       "title": "College statement on alumnus Angus Taylor",
       "source_type": "employer",
-      "locator": "Second paragraph, Council1999\u20132014; first paragraph Senior Student1989",
+      "locator": "Second paragraph, Council1999–2014; first paragraph Senior Student1989",
       "note": "Public institutional post retrieved in full. Provides actual council year boundaries, not back-calculation from fifteen years.",
       "retrieved": "2026-10-01",
       "source_id": "src-college"
@@ -461,6 +483,36 @@
       "note": "Secondary transcription identifies occasional Rabobank presentations and outstanding PJP dividends; linked official44P PDF returned403. Evidence is labelled secondary pending original verification; dividends not treated as continued work.",
       "retrieved": "2026-10-01",
       "source_id": "src-interest-lead"
+    },
+    {
+      "url": "https://au.linkedin.com/in/angustaylormp",
+      "publisher": "Angus Taylor / LinkedIn",
+      "title": "Public professional profile",
+      "source_type": "professional_profile",
+      "locator": "Public search index, Experience entries",
+      "note": "Self-reported McKinsey March1994–January2001 and PJP November2002–July2013. Direct fetch returned999 Unknown Status Code; public indexed dates only, no hidden profile contents or hours claimed.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-linkedin2026"
+    },
+    {
+      "url": "https://www.afr.com/politics/the-farmshed-sold-as-a-going-concern-to-axiom-20021023-k1zhq",
+      "publisher": "Australian Financial Review",
+      "title": "The Farmshed sold as a going concern to Axiom,23October2002",
+      "source_type": "reliable_secondary",
+      "locator": "Public indexed chief-executive/staff paragraph",
+      "note": "Contemporary report identifies Taylor as Farmshed CEO and says management offer was made. Acceptance not established. Direct fetch403 Forbidden; indexed facts only.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-farmshed2002"
+    },
+    {
+      "url": "https://michaelwest.com.au/watergate-ducking-and-dodging-more-questions-from-jommy-tee-and-ronni-salt/",
+      "publisher": "Michael West / Jommy Tee and Ronni Salt",
+      "title": "Watergate ducking and dodging,14May2019",
+      "source_type": "reliable_secondary",
+      "locator": "Farmsmart directorship paragraph; Farm Partnerships paragraph",
+      "note": "Reports joint directorship with Tony Reid during company’s2003–09 life. Company life not assumed personal tenure; register extract still sought.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-farmsmart2019"
     }
   ],
   "research_notes": [
@@ -468,7 +520,8 @@
     "2026-09-29 avenues: APH occupation text, contemporaneous PJP/ANZ report, McKinsey ownership history, ASX July 2001 indexed filing, government-hosted speaker biography, public conference profile, ABC and business reporting, targeted full-time/early-career/Rabobank/EAI searches. ASX current page lacked announcement body; retained transparent indexed evidence. No paid registries or access restrictions bypassed.",
     "Follow-up corporate leads, not confirmed employment spells: Centaurus Partners, Agricultural Managers Limited, Agriculture Managers Australia, Australian Agricultural Securitisation, Resolution Manager and JRAT. Search reporting describes directorships/consulting, but legal entities, contracts and paid activity require primary filings. Victorian gas taskforce is an advisory appointment lead, not automatically public-service employment.",
     "No assumption that founding or owning a farm means full-time farming. Resolve 1998/1999 Growth Farms discrepancy and EAI resignation separately from EAA's 2009 end. Dates and senior titles alone do not establish hours. All consulting, directorship and educational overlaps remain non-additive. Last follow-up 2026-09-29; initial record unresolved.",
-    "2026-10-01 follow-up: resolved college council1999\u20132014 via own public post; distinguished Rabobank2012 Executive Development Program appointment from broad1998 farm-programme entry; added contemporaneously documented Victorian gas advisory taskforce. Secondary interests transcription records occasional presentations, not continuous bank employment. No hours or numeric total inferred.",
-    "Avenues: employer Rabobank2012 press release/index, college public professional-network post,2013 ABC taskforce membership, linked44P interests original403, Farmshed ASX and corporate-report leads, full-time consulting searches, Centaurus/JRAT reporting and farm-manager programme history. Source searches sometimes returned irrelevant names; rejected. Corporate reportage does not independently show Taylor personally performed paid consulting for Centaurus; report authorship by a firm is insufficient. Keep JRAT, other corporate offices, historical Farmshed contracts, consulting leave and paid teaching as follow-up needs. Gas final-report obsolete URLs not recovered. Secondary ownership/dividend dates are not work boundaries."
+    "2026-10-01 follow-up: resolved college council1999–2014 via own public post; distinguished Rabobank2012 Executive Development Program appointment from broad1998 farm-programme entry; added contemporaneously documented Victorian gas advisory taskforce. Secondary interests transcription records occasional presentations, not continuous bank employment. No hours or numeric total inferred.",
+    "Avenues: employer Rabobank2012 press release/index, college public professional-network post,2013 ABC taskforce membership, linked44P interests original403, Farmshed ASX and corporate-report leads, full-time consulting searches, Centaurus/JRAT reporting and farm-manager programme history. Source searches sometimes returned irrelevant names; rejected. Corporate reportage does not independently show Taylor personally performed paid consulting for Centaurus; report authorship by a firm is insufficient. Keep JRAT, other corporate offices, historical Farmshed contracts, consulting leave and paid teaching as follow-up needs. Gas final-report obsolete URLs not recovered. Secondary ownership/dividend dates are not work boundaries.",
+    "Second follow-up2October2026: public first-party professional-profile index refines McKinsey and PJP dates to months; direct999 respected. Contemporary October2002 Farmshed sale reporting identifies CEO and a management offer; no accepted new employment inferred. Added Farmsmart directorship with unbounded personal tenure. Reporting places Farm Partnerships establishment2003 versus grouped official1998; retain discrepancy pending entity/role-specific primary record. Farmshed secondary reports conflict on administration2002/2005 and director periods; not used as CEO boundaries. Gas taskforce report searches found later parliamentary policy reports but no original appointment record. Next: public original corporate appointment extracts, McKinsey/PJP contract/leave evidence, Farmshed transition and Rabobank/teaching service arrangements. No full-time totals calculated."
   ]
 }
