@@ -6,12 +6,12 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/270198",
   "research_status": "blocked",
-  "last_reviewed": "2026-09-30",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
     "calculation_status": "not_calculable",
-    "note": "France's first speech supports a full-time communications job in the United Kingdom by 2006, but available month dates come from a secondary professional-profile aggregator and overlap at the Westminster/Healthcare Commission transition. Journalism, later private work, political-staff employment and self-employment lack sufficiently supported hours or boundaries. Care, medical recovery, sport, campaigning, nonprofit work and elected office are excluded. Missing evidence is not zero."
+    "note": "Some full-time UK communications work is supported, but its boundaries are unknown. The aggregator’s2002 Healthcare Commission start predates establishment of that body and is withdrawn pending predecessor evidence. Journalism, later private work, care/medical leave and self-employment lack sufficient hours or endpoints for totals. Excluded political, nonprofit, care, sport and elected roles remain separate. Missing evidence is not zero."
   },
   "career_spells": [
     {
@@ -19,7 +19,7 @@
       "employer": "University of Southern Queensland",
       "role": "Bachelor of Arts student (journalism and politics)",
       "start_date": null,
-      "end_date": "1997",
+      "end_date": "1996",
       "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
@@ -27,8 +27,12 @@
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-2", "src-8"],
-      "evidence_note": "France says she joined The Courier-Mail after finishing university. A public professional-profile aggregation identifies the institution and qualification. The completion year is inferred only to year precision from the 1998 work start and remains open to correction.",
+      "source_ids": [
+        "src-2",
+        "src-8",
+        "src-11"
+      ],
+      "evidence_note": "France explicitly identifies degree completion1996 and USQ in government press-conference transcript. Prior1997 inference from later work start removed. Start and study load remain unknown.",
       "counting_note": "Study is excluded from the employment headlines."
     },
     {
@@ -44,8 +48,13 @@
       "headline_sector": "private",
       "government_control_at_time": "private",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-2", "src-4", "src-8"],
-      "evidence_note": "Her first speech confirms the employer and sequence. ABC reports that she worked there for three years until 2000; the profile aggregation gives 1998-2000. Exact appointment, cessation, hours and leave are unavailable.",
+      "source_ids": [
+        "src-2",
+        "src-4",
+        "src-8",
+        "src-14"
+      ],
+      "evidence_note": "Her first speech confirms the employer and sequence. ABC reports that she worked there for three years until 2000; the profile aggregation gives 1998-2000. Exact appointment, cessation, hours and leave are unavailable. Father’s April2001 speech independently identifies Courier-Mail work in Brisbane and Townsville; does not establish separate employer or regional posting dates.",
       "counting_note": "Private employment is supported, but substantive full-time status and exact boundaries are not sufficiently evidenced for a duration."
     },
     {
@@ -61,8 +70,13 @@
       "headline_sector": "private",
       "government_control_at_time": "private",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-2", "src-8", "src-9"],
-      "evidence_note": "France's first speech confirms Hong Kong court reporting after The Courier-Mail, and a 2025 profile identifies the Hong Kong Standard. Month boundaries appear only in a secondary professional-profile aggregation; hours and leave are not established.",
+      "source_ids": [
+        "src-2",
+        "src-8",
+        "src-9",
+        "src-14"
+      ],
+      "evidence_note": "France's first speech confirms Hong Kong court reporting after The Courier-Mail, and a 2025 profile identifies the Hong Kong Standard. Month boundaries appear only in a secondary professional-profile aggregation; hours and leave are not established. April2001 speech supplies contemporaneous employment snapshot in Hong Kong; leave taken to assist father’s election campaign is mentioned but pay basis unknown.",
       "counting_note": "Employer and role are supported, but the evidence is insufficient for a full-time private duration."
     },
     {
@@ -78,25 +92,33 @@
       "headline_sector": "public",
       "government_control_at_time": "public",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-8", "src-9"],
-      "evidence_note": "A 2025 profile says France worked for Westminster Council, while the profile aggregation supplies a one-month listing. The exact legal interval, hours and relationship to the Healthcare Commission start remain unresolved.",
+      "source_ids": [
+        "src-8",
+        "src-9"
+      ],
+      "evidence_note": "A 2025 profile says France worked for Westminster Council, while the profile aggregation supplies a one-month listing. The exact legal interval, hours and relationship to the Healthcare Commission start remain unresolved. The January2002 same-month interval is not independently confirmed; removed2002 Healthcare Commission start must not be used to resolve it.",
       "counting_note": "Public employer is supported, but employment duration and full-time status are not."
     },
     {
       "spell_id": "270198-05",
       "employer": "Healthcare Commission (United Kingdom)",
       "role": "Senior Press Officer; communications work on state-of-healthcare reports",
-      "start_date": "2002-01",
-      "end_date": "2006-01",
-      "date_precision": "month",
+      "start_date": null,
+      "end_date": "2006",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
-      "category": "public_corporation",
+      "category": "public_service",
       "headline_sector": "public",
       "government_control_at_time": "public",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-2", "src-8"],
-      "evidence_note": "France says she worked for the Healthcare Commission on its first two state-of-healthcare reports for the UK Parliament and that she was working full-time by 2006 before leaving paid work for childcare. The month interval and title appear only in the profile aggregation, and the January 2002 overlap with Westminster is unresolved. The evidence does not safely establish full-time status for the entire listed interval.",
+      "source_ids": [
+        "src-2",
+        "src-8",
+        "src-12",
+        "src-13"
+      ],
+      "evidence_note": "First speech supports communications work on first two healthcare reports and full-time work before2006 care break. Aggregator2002-01 start withdrawn: body legally established2004 and operationalApril2004. Possible predecessor employment is a lead, not established fact. Actual start and predecessor/Westminster transition unknown.2006 end kept at year precision from first-person account; January endpoint unconfirmed. Regulator is an executive NDPB with ministerial appointments, coded public service, not a trading public corporation. Whole-period hours and leave unknown.",
       "counting_note": "Public control and some full-time work are supported, but the full-time boundaries are insufficient for a duration calculation."
     },
     {
@@ -112,7 +134,9 @@
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-2"],
+      "source_ids": [
+        "src-2"
+      ],
       "evidence_note": "France says she left full-time employment after her younger son was born and returned to a part-time job after four years. The year boundaries are approximate; they are retained as reported rather than converted to exact dates.",
       "counting_note": "Unpaid care is recorded separately and excluded from the public/private employment headlines."
     },
@@ -129,7 +153,11 @@
       "headline_sector": "private",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-2", "src-5", "src-8"],
+      "source_ids": [
+        "src-2",
+        "src-5",
+        "src-8"
+      ],
       "evidence_note": "France says Wayne Denning first hired her part-time after a four-year care break and gave her an ABC documentary within a year. Screen Australia credits her as producer and writer of Carbon Media's 2010 documentary proppaNOW. The profile aggregation lists January 2009-January 2011, which does not align perfectly with the approximate four-year account; year precision is retained and the discrepancy flagged.",
       "counting_note": "The job was expressly part-time and no defensible FTE fraction is available, so it is excluded from the full-time headline."
     },
@@ -146,7 +174,10 @@
       "headline_sector": "excluded",
       "government_control_at_time": "unknown",
       "counting_status": "excluded",
-      "source_ids": ["src-2", "src-6"],
+      "source_ids": [
+        "src-2",
+        "src-6"
+      ],
       "evidence_note": "France reports six surgeries in four years after the 2011 accident and being told she was unlikely to work again. This represents a documented employment interruption, not an assertion that no paid work occurred throughout the entire year range.",
       "counting_note": "Medical recovery is not employment and is excluded."
     },
@@ -163,7 +194,10 @@
       "headline_sector": "excluded",
       "government_control_at_time": "unknown",
       "counting_status": "excluded",
-      "source_ids": ["src-1", "src-9"],
+      "source_ids": [
+        "src-1",
+        "src-9"
+      ],
       "evidence_note": "Public biographies identify France as a world champion para-athlete and record international competition in 2016. No evidence establishes that this was paid employment.",
       "counting_note": "Sporting activity without evidence of employment is excluded."
     },
@@ -180,7 +214,9 @@
       "headline_sector": "private",
       "government_control_at_time": "private",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-8"],
+      "source_ids": [
+        "src-8"
+      ],
       "evidence_note": "A public professional-profile aggregation lists motivational speaking from January 2017. Trading identity, workload, continuity, leave and cessation after election to Parliament are not established.",
       "counting_note": "Self-employment may be private-sector work, but substantive full-time duration is unsupported."
     },
@@ -197,7 +233,9 @@
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-8"],
+      "source_ids": [
+        "src-8"
+      ],
       "evidence_note": "The employer, title and month boundaries appear in a public professional-profile aggregation. Employer records, hours, leave and overlap with self-employment have not been located.",
       "counting_note": "Nonprofit employment is excluded under the current headline method."
     },
@@ -214,7 +252,11 @@
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-2", "src-6", "src-10"],
+      "source_ids": [
+        "src-2",
+        "src-6",
+        "src-10"
+      ],
       "evidence_note": "France calls Miles a former boss, and ABC and contemporary reporting identify her as a former staffer in his office. The job title, employing entity, dates, hours, leave and overlaps are not published.",
       "counting_note": "Political staff employment is excluded irrespective of public funding."
     },
@@ -223,16 +265,19 @@
       "employer": "Australian Labor Party / Dickson campaigns",
       "role": "Federal candidate for Dickson in 2019, 2022 and 2025",
       "start_date": "2018",
-      "end_date": "2025-05-02",
-      "date_precision": "mixed",
+      "end_date": "2025",
+      "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "party_organisation",
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-7", "src-9"],
-      "evidence_note": "France describes seven years campaigning for Dickson and contested three elections. This span records political activity with campaign breaks; it is not evidence of continuous paid employment. Pay, leave and overlaps with other roles and 18 months caring for her son are unresolved.",
+      "source_ids": [
+        "src-7",
+        "src-9"
+      ],
+      "evidence_note": "France describes seven years campaigning for Dickson and contested three elections. This span records political activity with campaign breaks; it is not evidence of continuous paid employment. Pay, leave and overlaps with other roles and 18 months caring for her son are unresolved. Earlier2May end was an election-eve proxy; exact cessation of campaign activity is not independently established.",
       "counting_note": "Candidate and party activity is excluded from the two employment headlines."
     },
     {
@@ -248,27 +293,160 @@
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-1"],
+      "source_ids": [
+        "src-1"
+      ],
       "evidence_note": "Official parliamentary service starts with the 3 May 2025 election.",
       "counting_note": "Federal elected office is excluded from the employment headlines."
     }
   ],
   "sources": [
-    {"source_id":"src-1","url":"https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=270198","publisher":"Parliament of Australia","title":"Ms Ali France MP","retrieved":"2026-09-30","source_type":"official_biography","locator":"Biography; parliamentary service","note":"Official federal service; no pre-parliament occupation entries are published."},
-    {"source_id":"src-2","url":"https://www.openaustralia.org.au/debates/?id=2025-07-22.29.2","publisher":"Parliament of Australia Hansard via OpenAustralia","title":"Address-in-Reply: first speech of Ali France","retrieved":"2026-09-30","source_type":"government_record","locator":"Career, care and recovery passages, 22 July 2025","note":"Primary first-person chronology covering university, journalism, Hong Kong, Healthcare Commission, full-time work, unpaid care, part-time return, Carbon Media and medical recovery."},
-    {"source_id":"src-3","url":"https://alp.org.au/our-people/our-people/ali-france/","publisher":"Australian Labor Party","title":"Ali France, Member for Dickson","retrieved":"2026-09-30","source_type":"professional_profile","locator":"Biography","note":"Journalist, communications manager, disability advocate and para-athlete summary; 18-month care period for her son."},
-    {"source_id":"src-4","url":"https://www.abc.net.au/news/2019-05-11/federal-election-peter-dutton-ali-france-united-by-trauma/11057856","publisher":"ABC News","title":"Federal election has Peter Dutton and Ali France in Dickson divided by politics, but united by trauma","retrieved":"2026-09-30","source_type":"news","locator":"Ali France profile","note":"Reports three years at The Courier-Mail through 2000 and a subsequent decade in PR, communications and television."},
-    {"source_id":"src-5","url":"https://www.screenaustralia.gov.au/screen-guide/proppanow-29843/","publisher":"Screen Australia","title":"proppaNOW","retrieved":"2026-09-30","source_type":"government_record","locator":"Cast and crew; production company; completion year","note":"Credits Ali France as producer and writer of Carbon Media's 2010 documentary."},
-    {"source_id":"src-6","url":"https://www.abc.net.au/news/2025-07-22/ali-france-doctor-speaks-out-leg-amputation/105555948","publisher":"ABC News","title":"Ali France unseated Peter Dutton. It may never have happened without one quick-thinking doctor","retrieved":"2026-09-30","source_type":"news","locator":"Accident that changed everything; supplied photograph caption","note":"Confirms a busy communications career in 2011, medical interruption and prior work in Steven Miles's office."},
-    {"source_id":"src-7","url":"https://www.abc.net.au/news/2025-05-03/ali-france-wins-dickson-against-dutton/105247972","publisher":"ABC News","title":"Who is Ali France? Meet the incoming Dickson MP who unseated Peter Dutton","retrieved":"2026-09-30","source_type":"news","locator":"Profile and campaign chronology","note":"Confirms former journalist and campaigns from the 2019 election."},
-    {"source_id":"src-8","url":"https://www.signalhire.com/profiles/ali-france%27s-email/116590096","publisher":"SignalHire","title":"Ali France professional profile aggregation","retrieved":"2026-09-30","source_type":"professional_profile","locator":"Work Experience and Education","note":"Provides employer, title and month-level listings from a public profile aggregation. No contact details were used; all dates require primary-employer confirmation."},
-    {"source_id":"src-9","url":"https://www.couriermail.com.au/news/queensland/qld-politics/high-steaks-ali-france-opens-up-on-her-election-night-win-and-beating-peter-dutton/news-story/1413158e86b30234ad5b4d7c79007a65","publisher":"The Courier-Mail","title":"Tragedies, triumphs and that 'Mr Potato Head' moment","retrieved":"2026-09-30","source_type":"news","locator":"Career profile","note":"Identifies Courier-Mail, Hong Kong Standard, Westminster Council and British Healthcare Commission sequence."},
-    {"source_id":"src-10","url":"https://www.news.com.au/national/politics/dickson-mp-ali-france-honours-late-19yo-son-henry-credits-him-for-her-election-win-against-peter-dutton/news-story/e9c66c2d0d8ed45e468f4f49e262bddb","publisher":"news.com.au","title":"Dutton slayer's touching tribute to late son","retrieved":"2026-09-30","source_type":"news","locator":"First-speech report","note":"Identifies France as a former staffer to Steven Miles; role and dates are not supplied."}
+    {
+      "source_id": "src-1",
+      "url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=270198",
+      "publisher": "Parliament of Australia",
+      "title": "Ms Ali France MP",
+      "retrieved": "2026-09-30",
+      "source_type": "official_biography",
+      "locator": "Biography; parliamentary service",
+      "note": "Official federal service; no pre-parliament occupation entries are published."
+    },
+    {
+      "source_id": "src-2",
+      "url": "https://www.openaustralia.org.au/debates/?id=2025-07-22.29.2",
+      "publisher": "Parliament of Australia Hansard via OpenAustralia",
+      "title": "Address-in-Reply: first speech of Ali France",
+      "retrieved": "2026-09-30",
+      "source_type": "government_record",
+      "locator": "Career, care and recovery passages, 22 July 2025",
+      "note": "Primary first-person chronology covering university, journalism, Hong Kong, Healthcare Commission, full-time work, unpaid care, part-time return, Carbon Media and medical recovery."
+    },
+    {
+      "source_id": "src-3",
+      "url": "https://alp.org.au/our-people/our-people/ali-france/",
+      "publisher": "Australian Labor Party",
+      "title": "Ali France, Member for Dickson",
+      "retrieved": "2026-09-30",
+      "source_type": "professional_profile",
+      "locator": "Biography",
+      "note": "Journalist, communications manager, disability advocate and para-athlete summary; 18-month care period for her son."
+    },
+    {
+      "source_id": "src-4",
+      "url": "https://www.abc.net.au/news/2019-05-11/federal-election-peter-dutton-ali-france-united-by-trauma/11057856",
+      "publisher": "ABC News",
+      "title": "Federal election has Peter Dutton and Ali France in Dickson divided by politics, but united by trauma",
+      "retrieved": "2026-09-30",
+      "source_type": "news",
+      "locator": "Ali France profile",
+      "note": "Reports three years at The Courier-Mail through 2000 and a subsequent decade in PR, communications and television."
+    },
+    {
+      "source_id": "src-5",
+      "url": "https://www.screenaustralia.gov.au/screen-guide/proppanow-29843/",
+      "publisher": "Screen Australia",
+      "title": "proppaNOW",
+      "retrieved": "2026-09-30",
+      "source_type": "government_record",
+      "locator": "Cast and crew; production company; completion year",
+      "note": "Credits Ali France as producer and writer of Carbon Media's 2010 documentary."
+    },
+    {
+      "source_id": "src-6",
+      "url": "https://www.abc.net.au/news/2025-07-22/ali-france-doctor-speaks-out-leg-amputation/105555948",
+      "publisher": "ABC News",
+      "title": "Ali France unseated Peter Dutton. It may never have happened without one quick-thinking doctor",
+      "retrieved": "2026-09-30",
+      "source_type": "news",
+      "locator": "Accident that changed everything; supplied photograph caption",
+      "note": "Confirms a busy communications career in 2011, medical interruption and prior work in Steven Miles's office."
+    },
+    {
+      "source_id": "src-7",
+      "url": "https://www.abc.net.au/news/2025-05-03/ali-france-wins-dickson-against-dutton/105247972",
+      "publisher": "ABC News",
+      "title": "Who is Ali France? Meet the incoming Dickson MP who unseated Peter Dutton",
+      "retrieved": "2026-09-30",
+      "source_type": "news",
+      "locator": "Profile and campaign chronology",
+      "note": "Confirms former journalist and campaigns from the 2019 election."
+    },
+    {
+      "source_id": "src-8",
+      "url": "https://www.signalhire.com/profiles/ali-france%27s-email/116590096",
+      "publisher": "SignalHire",
+      "title": "Ali France professional profile aggregation",
+      "retrieved": "2026-09-30",
+      "source_type": "professional_profile",
+      "locator": "Work Experience and Education",
+      "note": "Provides employer, title and month-level listings from a public profile aggregation. No contact details were used; all dates require primary-employer confirmation."
+    },
+    {
+      "source_id": "src-9",
+      "url": "https://www.couriermail.com.au/news/queensland/qld-politics/high-steaks-ali-france-opens-up-on-her-election-night-win-and-beating-peter-dutton/news-story/1413158e86b30234ad5b4d7c79007a65",
+      "publisher": "The Courier-Mail",
+      "title": "Tragedies, triumphs and that 'Mr Potato Head' moment",
+      "retrieved": "2026-09-30",
+      "source_type": "news",
+      "locator": "Career profile",
+      "note": "Identifies Courier-Mail, Hong Kong Standard, Westminster Council and British Healthcare Commission sequence."
+    },
+    {
+      "source_id": "src-10",
+      "url": "https://www.news.com.au/national/politics/dickson-mp-ali-france-honours-late-19yo-son-henry-credits-him-for-her-election-win-against-peter-dutton/news-story/e9c66c2d0d8ed45e468f4f49e262bddb",
+      "publisher": "news.com.au",
+      "title": "Dutton slayer's touching tribute to late son",
+      "retrieved": "2026-09-30",
+      "source_type": "news",
+      "locator": "First-speech report",
+      "note": "Identifies France as a former staffer to Steven Miles; role and dates are not supplied."
+    },
+    {
+      "url": "https://ministers.education.gov.au/clare/press-conference-strathpine",
+      "publisher": "Australian Government,Education Ministers Media Centre",
+      "title": "Press conference,Strathpine,27May2025",
+      "source_type": "government_record",
+      "locator": "France opening statement and university exchange",
+      "note": "First-person confirmation of degree completion1996 at USQ, replacing inferred1997.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-11"
+    },
+    {
+      "url": "https://www.gov.uk/government/organisations/healthcare-commission",
+      "publisher": "UK Government",
+      "title": "Healthcare Commission",
+      "source_type": "government_record",
+      "locator": "Organisation history",
+      "note": "Created2004; thus aggregation start2002 cannot identify this body without predecessor evidence.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-12"
+    },
+    {
+      "url": "https://data.parliament.uk/DepositedPapers/Files/DEP2008-1824/DEP2008-1824.pdf",
+      "publisher": "UK Department of Health / Parliament",
+      "title": "Public Bodies2007",
+      "source_type": "government_record",
+      "locator": "PDFpp4 and32, Healthcare Commission",
+      "note": "Executive non-departmental public body; established8January2004, operational1April2004; ministerial board appointments. Organisational dates do not establish France appointment.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-13"
+    },
+    {
+      "url": "https://documents.parliament.qld.gov.au/members/InauguralSpeech/Lawlor.pdf",
+      "publisher": "Queensland Parliament",
+      "title": "Peter Lawlor first speech,4April2001",
+      "source_type": "government_record",
+      "locator": "PDFpp1–2, daughter Ali and campaign passages",
+      "note": "Contemporaneous confirmation of Hong Kong journalism and earlier Courier-Mail work in Brisbane and Townsville. Campaign assistance not evidence of paid party job.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-14"
+    }
   ],
   "research_notes": [
     "Official parliamentary occupation data contains no pre-parliament occupation entries; the timeline therefore relies heavily on France's first speech, employer credit and public reporting.",
     "The public profile aggregation is used as a lead for month dates, not as conclusive payroll evidence. The Carbon start date conflicts slightly with the approximate four-year care break in France's speech.",
     "Follow up News Corp and Hong Kong employment records, Westminster/Healthcare Commission transition and hours, Carbon Media appointment/cessation, Karuna hours, Ali France Creative workload, and the title/dates of the Steven Miles role.",
-    "Resolve work, leave and campaign boundaries during accident recovery, the 2019/2022 campaigns, and the 18-month care period ending in February 2024."
+    "Resolve work, leave and campaign boundaries during accident recovery, the 2019/2022 campaigns, and the 18-month care period ending in February 2024.",
+    "2026-10-02 follow-up: degree year corrected to1996 from government transcript; healthcare-regulator identity/date conflict documented using UK public-body records; added contemporary2001 Hong Kong/Courier-Mail location corroboration. Searched France and Lawlor names for commission/Westminster, internship and Karuna employer evidence: no primary individual appointment or hours found. ANU Australian National Internships Program appears in aggregator education; retain as follow-up lead pending primary confirmation, dates and placement host. Do not assign UK rehabilitation-officer namesake or other speakers’ career details. Priority next: primary profile, predecessor regulator2002–04, first two report acknowledgements and Karuna2017–18 personnel/annual reports; no contact details used."
   ]
 }
