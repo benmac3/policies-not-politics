@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/144732",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-01",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -15,7 +15,7 @@
   },
   "career_spells": [
     {
-      "employer": "University of Canberra — National Centre for Social and Economic Modelling",
+      "employer": "NATSEM, University of Canberra (precise payroll entity unverified)",
       "role": "Research fellow; Senior Research Officer documented in 2007",
       "start_date": "2005",
       "end_date": "2009",
@@ -33,9 +33,11 @@
         "src-4",
         "src-5",
         "src-6",
-        "src-7"
+        "src-7",
+        "src-11",
+        "src-12"
       ],
-      "evidence_note": "Frozen CV uses Research Fellow; contemporaneous 2007 paper uses Senior Research Officer. Keep one umbrella pending promotion dates. NATSEM is a university research centre, not a Treasury department or AMP employee. Hours and historical institutional control unresolved.",
+      "evidence_note": "Frozen CV uses Research Fellow; contemporaneous 2007 paper uses Senior Research Officer. Keep one umbrella pending promotion dates. NATSEM is a university research centre, not a Treasury department or AMP employee. Hours and historical institutional control unresolved. July2009publication identifies authors as from NATSEM Pty Limited; UC2009financial report says remaining50percent acquiredSeptember2009. University association does not alone settle payroll entity or historical government control. Do not assume wholly university-owned throughout2005–09.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "144732-01"
     },
@@ -143,9 +145,10 @@
       "source_ids": [
         "src-2",
         "src-3",
-        "src-9"
+        "src-9",
+        "src-13"
       ],
-      "evidence_note": "Own biography says president for three years within broader board service. No anchor years or fees supplied; governance not executive employment and not three additional full-time years.",
+      "evidence_note": "Own biography says president for three years within broader board service. No anchor years or fees supplied; governance not executive employment and not three additional full-time years. ACNC-hosted2016audited report indexed signature block names her president on4October2016. This anchors an observation within tenure, not either boundary.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "144732-06"
     },
@@ -407,6 +410,36 @@
       "note": "Current indexed official biography corroborates frozen occupation dates; no hours supplied.",
       "retrieved": "2026-10-01",
       "source_id": "src-10"
+    },
+    {
+      "url": "https://www.canberra.edu.au/about-uc/policy-and-legislation/key-university-documents/annual-reports/docs/2009-financial.pdf",
+      "publisher": "University of Canberra",
+      "title": "Annual Report2009 financial statements",
+      "source_type": "employer",
+      "locator": "Note33 Other entities, printedp112; indexed NATSEM acquisition statement",
+      "note": "University acquired remaining50percent of NATSEM inSeptember2009. Initial report opened; targeted later retrieval timed out. Ownership paragraph used from index, not claimed full-note inspection.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-11"
+    },
+    {
+      "url": "https://melbourneinstitute.unimelb.edu.au/assets/documents/hilda-bibliography/other-publications/pre2010/AMP.NATSEM_healthy_wealthy_wise.pdf",
+      "publisher": "NATSEM / AMP, hosted University of Melbourne",
+      "title": "Healthy, wealthy and wise? July2009",
+      "source_type": "employer",
+      "locator": "Report author and publisher statement, search-indexed",
+      "note": "Identifies Payne and coauthors as from NATSEM Pty Limited; AMP publisher not automatically employer. Legal payroll entity requires confirmation.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-12"
+    },
+    {
+      "url": "https://acncpubfilesprodstorage.blob.core.windows.net/public/8f908c51-39af-e811-a960-000d3ad24282-eba91f6e-1d50-4497-90b9-7fb4e402b137-Financial%20Report-6d2f54ea-48b0-e811-a963-000d3ad24077-RSM_BCS_Final_Audited_Financials_2016.pdf",
+      "publisher": "Belconnen Community Service / ACNC",
+      "title": "Audited financial statements2016",
+      "source_type": "employer",
+      "locator": "Indexed signature block, printedp3, dated4October2016",
+      "note": "Names Payne as president signing dated report. Observation not appointment or final service date; no fee inference.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-13"
     }
   ],
   "research_notes": [
@@ -414,6 +447,9 @@
     "Follow-up: full CV or employment records for precise NATSEM/Treasury dates and substantive hours, any leave or secondments, and 2009/2010/2015 transitions; historical UC control; NATSEM title progression. Funding and commissioned AMP reports do not make the employer public or private by themselves.",
     "Follow-up: Belconnen board/presidency anchor dates and remuneration, earlier student jobs if any, and 2018–19 interval after Macklin role. Do not infer leave from parenthood. Parliamentary maternity leave in 2021 is documented separately from pre-election employment.",
     "Searched official/own biographies and first speech, public professional profile, historical university annual report, university research portal, contemporary NATSEM paper, board-history and full-time/leave queries. Correct LinkedIn profile alicia-payne-4bab9a28a was indexed but direct open returned Internal Error without detail. Other people named Alicia Payne and vacancies for her staff excluded.",
-    "UC report initially opened but later-page request returned (400) Timeout fetching. NATSEM paper supplied independent contemporaneous institutional/title evidence. Its full-time model assumptions refer to study subjects, not Payne. Hours remain null, totals not calculable; no invented January boundaries or overlap sums."
+    "UC report initially opened but later-page request returned (400) Timeout fetching. NATSEM paper supplied independent contemporaneous institutional/title evidence. Its full-time model assumptions refer to study subjects, not Payne. Hours remain null, totals not calculable; no invented January boundaries or overlap sums.",
+    "Follow-up2026-10-02: contemporary NATSEM publication and university acquisition disclosure identify a material legal-entity/control complication: September2009purchase of remaining50percent means university affiliation cannot be treated as continuous sole ownership. Precise payroll entity and government control remain unresolved, and university category retained pending clarification.",
+    "BCS2016audit signature anchors presidency at4October2016. A public Instagram search snippet mentions2013–16but full page was throttled and account attribution/term meaning not recovered; retain as lead, not tenure boundaries.2014–15audit indexed president listing corroborates, but direct web inaccessible and ordinary download returnedcurl22HTTP404.",
+    "UC2009report initially accessible; targeted later-page request returned400Timeout. Search-index-only ownership and audit details explicitly labelled. Treasury hours, NATSEM promotion, all precise boundaries, earlier paid jobs,2018–19gap and board fees remain open. Next avenues: historical joint-venture owners/constitutional control and authentic employer CV/appointment records."
   ]
 }
