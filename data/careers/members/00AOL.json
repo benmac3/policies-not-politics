@@ -6,7 +6,7 @@
   "snapshot_party": "Liberal Party of Australia",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/00AOL",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-01",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -103,7 +103,7 @@
       "role": "Managing director and proprietor",
       "start_date": "1989",
       "end_date": null,
-      "date_precision": "year",
+      "date_precision": "mixed",
       "employment_status": "self_employed",
       "fte_fraction": null,
       "category": "private_enterprise",
@@ -143,10 +143,10 @@
     },
     {
       "employer": "Devonport Chamber of Commerce and Industry",
-      "role": "President",
-      "start_date": null,
-      "end_date": null,
-      "date_precision": "unknown",
+      "role": "President, first term",
+      "start_date": "1993",
+      "end_date": "1996",
+      "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "employer_association",
@@ -155,9 +155,10 @@
       "counting_status": "excluded",
       "source_ids": [
         "src-3",
-        "src-5"
+        "src-5",
+        "src-8"
       ],
-      "evidence_note": "Own and party biographies confirm role without dates. Secondary summaries suggest two terms 1993-96 and 1998-2000; primary confirmation needed before structured dates. Association governance excluded regardless of remuneration.",
+      "evidence_note": "Own and party biographies confirm role without dates. Secondary summaries suggest two terms 1993-96 and 1998-2000; primary confirmation needed before structured dates. Association governance excluded regardless of remuneration. Historical parliamentary handbook indexed entry now provides primary corroboration of two separate terms1993–1996and1998–2000. Split structured terms rather than imply uninterrupted1993–2000service; pay/hours remain unknown.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "00AOL-07"
     },
@@ -205,7 +206,7 @@
       "role": "State and federal executive, council and policy roles",
       "start_date": "1991",
       "end_date": null,
-      "date_precision": "year",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "party_organisation",
@@ -263,7 +264,7 @@
       "role": "Senator for Tasmania, resumed service",
       "start_date": "2018-02-09",
       "end_date": null,
-      "date_precision": "day",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -276,6 +277,25 @@
       "evidence_note": "Official return after recount. The 2016-18 interval is not filled with assumed Senate employment or assumed unemployment.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "00AOL-13"
+    },
+    {
+      "employer": "Devonport Chamber of Commerce and Industry",
+      "role": "President, second term",
+      "start_date": "1998",
+      "end_date": "2000",
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "employer_association",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-8"
+      ],
+      "evidence_note": "Historical2008parliamentary handbook explicitly dates second term; not continuous from1993first term. Governance pay and hours unknown.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "00AOL-14"
     }
   ],
   "sources": [
@@ -348,6 +368,16 @@
       "note": "Alderman of Devonport City Council 1999-2002. Indexed text read; not represented as an additional independent biography.",
       "retrieved": "2026-10-01",
       "source_id": "src-7"
+    },
+    {
+      "url": "https://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p%3Bquery%3DId%3A%22library%2Fprspub%2F9169428%22%3Bsrc1%3Dsm1",
+      "publisher": "Parliament of Australia",
+      "title": "Parliamentary Handbook2008",
+      "source_type": "government_record",
+      "locator": "Public indexed Colbeck biographical entry, Local government service heading",
+      "note": "Names Devonport Chamber presidency1993–1996and1998–2000; indexed earlier41stHandbook also corroborates first term. Historical heading does not convert chamber governance into elected office. Full volume not retrieved.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-8"
     }
   ],
   "research_notes": [
@@ -356,6 +386,8 @@
     "Employer and control follow-up: identify apprenticeship/training employer, 1979-84 manager employer, 1984-89 building employer and all own businesses. Search hit Colbeck Building Services was linked to Western Australia and not reliably the Tasmanian senator; UK business/accountant profiles and US Colbeck Capital also discarded as unverified namesakes.",
     "First speech PDF access failed with (403) Forbidden; later targeted search explicitly returned Blocked by robots.txt (non-retryable). No retry or bypass after explicit robots error. Obtain another legitimately public reproduction or historical biography in follow-up.",
     "2016-18 activity remains unresolved. UTS lists attendance at 18 June 2017 economic dialogue as former minister, not as a paid consultant or employee; no employment spell manufactured from event participation. Scope includes possible work during this political-career break.",
-    "Follow-up: employer identities and historical control, work dates/hours/leave; consultancy legal name and operational end; chamber presidency dates/pay; early education/employment gap; 2016-18 work. Board membership, party and elected-office roles remain excluded. More than two decades in construction is a broad career description, not a calculable full-time total."
+    "Follow-up: employer identities and historical control, work dates/hours/leave; consultancy legal name and operational end; chamber presidency dates/pay; early education/employment gap; 2016-18 work. Board membership, party and elected-office roles remain excluded. More than two decades in construction is a broad career description, not a calculable full-time total.",
+    "Follow-up2026-10-02: historical parliamentary handbook index corroborates separate Devonport Chamber presidential terms1993–1996and1998–2000, now structured separately. Do not classify chamber role as local government despite historic source heading. Unknown remuneration retained.",
+    "Targeted early-business, apprenticeship,2017employment and first-speech reproduction searches found no attributable employer identity or hours; UK quantity-surveying Richard Leigh Colbeck and US lawyer namesakes excluded. Own resources page supplies constituent services, not a maiden-speech copy. Earlier41stHandbook direct reader403; ANU2011Handbook direct403.2008official indexed evidence used only for exposed chamber terms. Early employer control, duplicated1977–1979roles and2016–2018employment remain follow-up priorities."
   ]
 }
