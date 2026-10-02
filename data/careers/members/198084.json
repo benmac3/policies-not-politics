@@ -6,7 +6,7 @@
   "snapshot_party": "Liberal Party of Australia",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/198084",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-01",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -16,7 +16,7 @@
   "career_spells": [
     {
       "employer": "Wilson family farm, Katanning (Indinup)",
-      "role": "Early family farm responsibilities",
+      "role": "Early family farm responsibilities and post-school farm work",
       "start_date": null,
       "end_date": null,
       "date_precision": "unknown",
@@ -29,9 +29,11 @@
       "source_ids": [
         "src-2",
         "src-3",
-        "src-5"
+        "src-5",
+        "src-10",
+        "src-11"
       ],
-      "evidence_note": "First speech says accepted family-business responsibility at14; paid status and school/study overlap unknown. No birth-year arithmetic or assumption of full-time childhood work. This may overlap later farming and must not be added twice.",
+      "evidence_note": "First speech says accepted family-business responsibility at14; paid status and school/study overlap unknown. No birth-year arithmetic or assumption of full-time childhood work. This may overlap later farming and must not be added twice. In2015 he specifically describes two years working on the family farm with Allan after high-school graduation and before moving to Muresk, to attain independent student-support status;2018speech repeats two-year work sequence. This distinguishes post-school work from childhood responsibilities, but neither speech dates it or specifies weekly hours, pay arrangement or uninterrupted full-time status. General2015benefit criteria are not his historical employment evidence.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "198084-01"
     },
@@ -73,9 +75,11 @@
       "source_ids": [
         "src-2",
         "src-7",
-        "src-9"
+        "src-9",
+        "src-10",
+        "src-11"
       ],
-      "evidence_note": "Qualification and Muresk graduate status supported; attendance dates and overlap with farming unknown.",
+      "evidence_note": "Qualification and Muresk graduate status supported; attendance dates and overlap with farming unknown. Personal2015/2018accounts place Muresk after two years post-school farm work and a move away from home. Approximate thirty-years-later phrasing cannot establish exact attendance dates or prove complete cessation of farm duties during study.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "198084-03"
     },
@@ -203,7 +207,7 @@
       "role": "Member for OConnor",
       "start_date": "2013-09-07",
       "end_date": null,
-      "date_precision": "day",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -309,12 +313,35 @@
       "note": "Party rural-policy role and Curtin qualification; direct open Internal Error. Official career dates preserved from frozen record.",
       "retrieved": "2026-10-01",
       "source_id": "src-9"
+    },
+    {
+      "url": "https://www.openaustralia.org.au/debate/?id=2015-10-20.117.1",
+      "publisher": "Parliament of Australia via OpenAustralia",
+      "title": "Youth Payments Bill speech,20October2015",
+      "source_type": "parliamentary_speech",
+      "locator": "8:22pm; paragraphs beginning My brother Allan and I and Now some30years later",
+      "note": "Personal statement identifies two years farm work after high school to establish benefit independence before moving to Muresk. Later general eligibility rules do not establish his own historic hours.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-10"
+    },
+    {
+      "url": "https://www.openaustralia.org.au/debate/?id=2018-08-23.13.1",
+      "publisher": "Parliament of Australia via OpenAustralia",
+      "title": "Student Reform Bill speech,23August2018",
+      "source_type": "parliamentary_speech",
+      "locator": "10:36am; personal experience paragraph",
+      "note": "Repeats two years work before Muresk agribusiness degree. Thirty-years-on language is approximate and differs in reference year from2015speech; no exact calendar year inferred.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-11"
     }
   ],
   "research_notes": [
     "2026-10-01 initial research: frozen official occupations, MP biography and first-speech PDF, contemporary PGA submission held by ACCC, local farm history, ABR indexed partnership, alumni newsletter and declared-interest transcription.",
     "Full-time status/hours, early farm pay, study/other employment and breaks remain unresolved.25yearpartnership narrative versus1990start retained as discrepancy; no backward arithmetic adopted as a date. Candidate campaign lasted about2.5years before2013speech; farm workload during campaigning needs evidence.",
     "Searched explicit full-time, Muresk/Curtin graduation, PGA employer records/annual-report leads, farm legal names and publicly indexed professional material. Numerous US/Canadian namesakes excluded.2022FarmWeekly profile open Error fetching; original APH bio/interest link and ABR historical page Internal Error; alternative primary first-speech and ACCC document accessible.",
-    "Follow-up: Indinup partnership historical changes and pay/hours; pre1990 roles; study attendance and leave;2013 farming exit versus subsequent financial partnership; PGA pay/tenure, local party offices and earlier investment directorships.2022FarmWeekly detailed career interview remains a useful lead."
+    "Follow-up: Indinup partnership historical changes and pay/hours; pre1990 roles; study attendance and leave;2013 farming exit versus subsequent financial partnership; PGA pay/tenure, local party offices and earlier investment directorships.2022FarmWeekly detailed career interview remains a useful lead.",
+    "Follow-up2026-10-02:2015 and2018personal Hansard resolve two-year post-school family-farm work before Muresk, enriching early chronology. No unlocated employer invented; account specifically names family farm in2015. Avoid adding two years mechanically to1990–2013 farming range or inferring full-time from benefit independence.",
+    "FarmWeekly detailed profile https://www.farmweekly.com.au/story/7812275/political-career-inspired-by-life-on-the-land/ returned (500) redirected to tollbit.farmweekly.com.au, non-retryable; not retried. ABR historical partnership view again unavailable. Other public parliamentary material remained usable.",
+    "Targeted Muresk graduation/attendance, early farm and working-time searches did not recover exact years. US/Canadian namesakes and staff job vacancies discarded. Next leads: Muresk original graduation/attendance records, partnership and farm pay records, historical pre-study dates,2013operating exit versus retained financial interests, association role remuneration."
   ]
 }
