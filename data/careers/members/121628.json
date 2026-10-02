@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/121628",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-01",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -49,9 +49,10 @@
       "source_ids": [
         "src-snapshot",
         "src-aph-current",
-        "src-secondary"
+        "src-secondary",
+        "src-linkedin-oct2"
       ],
-      "evidence_note": "Official biographies list the University of Sydney BA(Hons); secondary synthesis reports graduation in 1996 and the fields and honours result. Commencement, load and work overlap are not published in the sources reviewed.",
+      "evidence_note": "Official biographies list the University of Sydney BA(Hons); secondary synthesis reports graduation in 1996 and the fields and honours result. Commencement, load and work overlap are not published in the sources reviewed. Public professional profile now indexed with Sydney1996–1997, conflicting with secondary1996 graduation. Existing graduation marker retained pending original university conferral record; neither range determines employment hours.",
       "counting_note": "Study is excluded under the codebook."
     },
     {
@@ -305,6 +306,45 @@
       "evidence_note": "NSW Labor biography reports work connecting party members to the coalition in 2002. Exact boundaries, pay and hours unspecified; no operational employer inferred.",
       "counting_note": "Political campaign activity excluded.",
       "spell_id": "121628-walk-against-war"
+    },
+    {
+      "employer": "Community and Public Sector Union",
+      "role": "Organiser (reported; primary confirmation outstanding)",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "union",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-crikey-oct2",
+        "src-ipa-oct2"
+      ],
+      "evidence_note": "Crikey public index describes the Richmond candidate as CPSU organiser, without reliable employment boundaries, hours or location.2015 IPA table instead marks no union background. Role retained as a specifically attributed unresolved report, not a verified full-time interval.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "121628-cpsu-reported"
+    },
+    {
+      "employer": "University of Queensland Union",
+      "role": "Secretary",
+      "start_date": "1994",
+      "end_date": "1994",
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "nonprofit",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-uqu-oct2"
+      ],
+      "evidence_note": "Secondary executive table gives1994 secretary role. Remuneration, load and exact term need original student-union evidence; not an employment inference.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "121628-uqu-secretary"
     }
   ],
   "sources": [
@@ -437,6 +477,46 @@
       "note": "Party-controlled biography dates membership to 1992, LEAN founding to 2003 and inaugural convenorship through 2007, plus 2002 Walk Against the War organising.",
       "retrieved": "2026-10-01",
       "source_id": "src-nswlabor-lean"
+    },
+    {
+      "url": "https://www.crikey.com.au/2006/01/25/tracking-the-unionists-in-parliament/",
+      "publisher": "Stephen Mayne / Crikey",
+      "title": "Tracking the unionists in parliament",
+      "source_type": "news",
+      "locator": "Public indexed Jenny McAllister entry;25January2006 page",
+      "note": "Index identifies Richmond candidate as CPSU organiser. Full text requires login; not accessed. Article compilation/publication date is not an employment observation date.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-crikey-oct2"
+    },
+    {
+      "url": "https://ipa.org.au/wp-content/uploads/archive/14Jul15-PHJPReport-Unions_in_labor_a_handbrake_on_reform.pdf",
+      "publisher": "Institute of Public Affairs",
+      "title": "Unions in Labor: a handbrake on reform",
+      "source_type": "other",
+      "locator": "Senators table, Jenny McAllister row",
+      "note": "2015 table marks no union-official background, creating a conflict with Crikey. It does not prove absence; original union records needed.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-ipa-oct2"
+    },
+    {
+      "url": "https://en.wikipedia.org/wiki/University_of_Queensland_Union",
+      "publisher": "Wikipedia",
+      "title": "University of Queensland Union",
+      "source_type": "other",
+      "locator": "Executive office-holder table,1994 row",
+      "note": "Secondary table identifies Secretary McAllister alongside President Murray Watt. Original student-union records remain needed.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-uqu-oct2"
+    },
+    {
+      "url": "https://au.linkedin.com/in/jenny-mcallister2015",
+      "publisher": "Jenny McAllister / LinkedIn",
+      "title": "Public professional profile",
+      "source_type": "professional_profile",
+      "locator": "Indexed Education: University of Sydney1996–1997",
+      "note": "Public indexed profile supplies a conflicting study range; prior direct999 restriction not retried. Does not establish graduation date.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-linkedin-oct2"
     }
   ],
   "research_notes": [
@@ -446,7 +526,8 @@
     "ALP presidency overlaps AECOM employment and briefly overlaps Senate service; party office is excluded rather than treated as a competing employment interval.",
     "No public or private full-time total is calculated because hours, leave and exact transition dates remain unsupported.",
     "2026-10-01 follow-up adds primary AECOM project evidence, legal entity/ABN and Associate Director title observed 21 January 2011; June 2013 review credit is not a title-transition date. NSW Labor resolves LEAN founding/convenorship and earlier party membership and anti-war organising.",
-    "Searched AECOM appointments and reports, NSW annual report/UN climate delegation records, first-speech and public professional profiles, full-time and leave wording. LinkedIn returned 999; UN PDF timed out; ASU conference-profile download failed. The NSW annual report remains a title source, not an individual hours record. Unrelated UK travel/teaching profiles were excluded. Graduation and party-presidency inconsistencies retained as follow-up gaps; no hours inferred from seniority or project credits."
+    "Searched AECOM appointments and reports, NSW annual report/UN climate delegation records, first-speech and public professional profiles, full-time and leave wording. LinkedIn returned 999; UN PDF timed out; ASU conference-profile download failed. The NSW annual report remains a title source, not an individual hours record. Unrelated UK travel/teaching profiles were excluded. Graduation and party-presidency inconsistencies retained as follow-up gaps; no hours inferred from seniority or project credits.",
+    "Second follow-up2October2026 adds attributed CPSU organiser and student-union secretary roles and explicit Sydney study conflict. Employer-targeted AECOM searches and personal full-/part-time searches did not resolve employment load or phase boundaries; US realtor and UK teaching/travel profiles excluded as different people. The CPSU report is a new union-archive lead, not proof of employment in2006 or2001. No totals calculated."
   ],
   "open_questions": [
     "What were the exact appointment dates, payroll entities, hours and leave for the Tanya Plibersek and Bob Debus adviser roles?",
@@ -457,6 +538,8 @@
     "Did AECOM work continue after Senate commencement on 6 May 2015, or end earlier during preselection/casual-vacancy preparations?",
     "Was AECOM Associate Director a corporate grade concurrent with Strategic Adviser, and what dates distinguish the three subsequent title phases?",
     "Can original party election/term records reconcile presidency start/end dates in secondary infobox versus narrative (July/November 2011 and June/July 2015)?",
-    "What work or study occurred between university completion and the first known Plibersek role; can 1996/1997 graduation accounts be reconciled?"
+    "What work or study occurred between university completion and the first known Plibersek role; can 1996/1997 graduation accounts be reconciled?",
+    "Can CPSU contemporary staff records confirm or refute the reported organiser role, identify branch and dates, and reconcile the2015 contrary classification?",
+    "Can original UQU records confirm secretary term and paid status, and Sydney conferral records resolve1996 versus1997?"
   ]
 }
