@@ -6,7 +6,7 @@
   "snapshot_party": "Katter's Australian Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/HX4",
   "research_status": "blocked",
-  "last_reviewed": "2026-09-30",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -27,7 +27,10 @@
       "headline_sector": "private",
       "government_control_at_time": "private",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-4", "src-9"],
+      "source_ids": [
+        "src-4",
+        "src-9"
+      ],
       "evidence_note": "In the Queensland Parliament oral history Katter says he worked in the family businesses for the best part of two years after boarding school and before university, working in the clothing store during the day and picture theatre at night for about 70 hours a week. The business legal entities and calendar dates are not supplied. State Library material independently locates Katter C.R. & Co. in Cloncurry in 1967 but does not establish Bob Katter's employment interval.",
       "counting_note": "Substantive private work is supported, but exact boundaries and payroll or ownership status are unresolved."
     },
@@ -44,7 +47,10 @@
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-4", "src-8"],
+      "source_ids": [
+        "src-4",
+        "src-8"
+      ],
       "evidence_note": "Katter says he attended university for six years before leaving without completing law. ABC corroborates that he was a university student by the Beatles' 1964 Australian tour. Attendance dates are not derived from these relative statements.",
       "counting_note": "Study is excluded."
     },
@@ -61,7 +67,10 @@
       "headline_sector": "public",
       "government_control_at_time": "public",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-1", "src-3"],
+      "source_ids": [
+        "src-1",
+        "src-3"
+      ],
       "evidence_note": "Official parliamentary material records service in the Citizens Military Forces from 1964 to 1972 and the rank of Second Lieutenant. This was reserve service; service days, remuneration, any full-time training periods and leave are not published.",
       "counting_note": "Part-time reserve service is not counted without a defensible FTE fraction or documented full-time interval."
     },
@@ -78,7 +87,11 @@
       "headline_sector": "private",
       "government_control_at_time": "private",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-1", "src-3", "src-4"],
+      "source_ids": [
+        "src-1",
+        "src-3",
+        "src-4"
+      ],
       "evidence_note": "Katter says he returned home during a mining boom, was floating his own mining company and later brought the Flor Dora mine into production. Official biographies describe small mining interests. Legal entity, ownership share, dates, hours, income and continuity—including possible overlap with elected office—are unresolved.",
       "counting_note": "Self-employment may count when substantive full-time boundaries are supported; they are not here."
     },
@@ -95,7 +108,12 @@
       "headline_sector": "private",
       "government_control_at_time": "private",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-1", "src-3", "src-4", "src-7"],
+      "source_ids": [
+        "src-1",
+        "src-3",
+        "src-4",
+        "src-7"
+      ],
       "evidence_note": "The official biographies list labouring work. Katter's oral history specifically says he laboured in Mount Isa's lead smelter after the mining boom crashed, and ABC describes the work as unskilled mine labour. Appointment, cessation, shift pattern, leave and legal employing entity are not published.",
       "counting_note": "The private employer and substantive labour are supported, but no bounded full-time interval is established."
     },
@@ -112,13 +130,18 @@
       "headline_sector": "private",
       "government_control_at_time": "private",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-1", "src-3", "src-4", "src-7"],
+      "source_ids": [
+        "src-1",
+        "src-3",
+        "src-4",
+        "src-7"
+      ],
       "evidence_note": "Katter says he built a substantial beef herd and bought 250,000 acres without debt. Official biographies identify cattle interests and ABC describes him as a grazier. Property/entity identity, acquisition and disposal dates, operational role, hours and overlap with elected office remain unresolved.",
       "counting_note": "Ownership alone is not treated as full-time employment, and the operating interval is unbounded."
     },
     {
       "spell_id": "HX4-07",
-      "employer": "Insurance agency (insurer and legal entity not identified)",
+      "employer": "AMP insurance agency operated by Katter; agency legal entity unidentified",
       "role": "Insurance agent / agency operator",
       "start_date": null,
       "end_date": null,
@@ -129,8 +152,15 @@
       "headline_sector": "private",
       "government_control_at_time": "private",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-1", "src-3", "src-4", "src-10"],
-      "evidence_note": "Official biographies list insurance work. Katter's oral history says he obtained and operated an unwanted but profitable insurance agency before becoming bored with selling insurance, and he again described it as lucrative to AAP in 2026. Insurer, business entity, commencement/cessation, hours and overlap with mining, cattle or elected office are unknown.",
+      "source_ids": [
+        "src-1",
+        "src-3",
+        "src-4",
+        "src-10",
+        "src-11",
+        "src-12"
+      ],
+      "evidence_note": "Katter identifies his agency as AMP in2018 and2020 Hansard, selling savings and superannuation contracts. The insurer is now identified; agency legal entity, exact appointment/cessation, workload and overlaps remain unknown. Agency operation does not establish AMP payroll employment.",
       "counting_note": "Private self-employment is supported but cannot be counted without full-time boundaries."
     },
     {
@@ -146,7 +176,10 @@
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-2", "src-3"],
+      "source_ids": [
+        "src-2",
+        "src-3"
+      ],
       "evidence_note": "The Queensland Parliament former-member register gives the Flinders service interval and documents Katter's ministerial offices. His personal-history page says he retired on 25 August 1992; the parliamentary term boundary is retained here and the discrepancy is noted for follow-up.",
       "counting_note": "State elected office is excluded."
     },
@@ -156,35 +189,267 @@
       "role": "Member for Kennedy",
       "start_date": "1993-03-13",
       "end_date": null,
-      "date_precision": "day",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-1", "src-3"],
+      "source_ids": [
+        "src-1",
+        "src-3"
+      ],
       "evidence_note": "Official parliamentary service begins with election to the House of Representatives on 13 March 1993.",
       "counting_note": "Federal elected office is excluded."
+    },
+    {
+      "employer": "Australian Workers Union",
+      "role": "Union representative",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "union",
+      "headline_sector": "excluded",
+      "government_control_at_time": "nonprofit",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-2",
+        "src-13"
+      ],
+      "evidence_note": "Official state biography names AWU;2013 Hansard recalls briefly representing a union in youth. Dates, paid status and overlap with mine labour unresolved.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "HX4-10"
+    },
+    {
+      "employer": "University of Queensland student union and student/college bodies",
+      "role": "Student union representative and faculty/college council officeholder",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unpaid_work",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-4"
+      ],
+      "evidence_note": "Oral historypp1–2 describes three years in student union and faculty, St Leos and combined colleges leadership. Governance context; remuneration and boundaries unknown, no university payroll inferred.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "HX4-11"
+    },
+    {
+      "employer": "Local Country Party branch",
+      "role": "Branch secretary",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "party_organisation",
+      "headline_sector": "excluded",
+      "government_control_at_time": "nonprofit",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-4"
+      ],
+      "evidence_note": "Oral history recounts party office before parliamentary entry; dates/pay not established.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "HX4-12"
+    },
+    {
+      "employer": "Young Christian Workers",
+      "role": "Local founder/organiser",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unpaid_work",
+      "headline_sector": "excluded",
+      "government_control_at_time": "nonprofit",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-4"
+      ],
+      "evidence_note": "Oral history describes setting up local Young Christian Workers; no payroll or calendar dates established.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "HX4-13"
+    },
+    {
+      "employer": "Self / Murdoch Books Australia and New Holland (publishers)",
+      "role": "Author",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "private_enterprise",
+      "headline_sector": "private",
+      "government_control_at_time": "private",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-1",
+        "src-13",
+        "src-14"
+      ],
+      "evidence_note": "Books published2012 and2017; writing intervals, advances/royalties and hours unknown. Publishers are counterparties, not proven payroll employers. Activity overlaps elected office; publication dates not encoded as employment boundaries.",
+      "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
+      "spell_id": "HX4-14"
     }
   ],
   "sources": [
-    {"source_id":"src-1","url":"https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=HX4","publisher":"Parliament of Australia","title":"Hon Bob Katter MP","retrieved":"2026-09-30","source_type":"official_biography","locator":"Occupations, military and parliamentary service","note":"Official federal biography listing labouring, insurance, small mining and cattle interests, CMF service and federal entry."},
-    {"source_id":"src-2","url":"https://www.parliament.qld.gov.au/Members/Former-Members/Former-Members-Register/Former-Member-Details?id=578967569","publisher":"Queensland Parliament","title":"Former Member Details — Katter, Robert Carl","retrieved":"2026-09-30","source_type":"official_biography","locator":"Occupations and parliamentary service","note":"Official state record listing labourer, insurance agent, mine owner, AWU representative and the Flinders service interval."},
-    {"source_id":"src-3","url":"https://www.bobkatter.com.au/personal-history","publisher":"Office of Bob Katter MP","title":"Personal History — Bob Katter","retrieved":"2026-09-30","source_type":"official_biography","locator":"Employment, military service and parliamentary service","note":"Member's official page corroborating labouring, insurance, small mining and cattle interests; supplies state retirement wording and CMF rank."},
-    {"source_id":"src-4","url":"https://collections.parliament.qld.gov.au/documents/pdfs/42/9adc9970c319fadd314726ef14b7a3c247b10564.pdf","publisher":"Queensland Parliament","title":"Queensland Parliament Oral History Project — Mr Bob Katter, 9 June 2015","retrieved":"2026-09-30","source_type":"government_record","locator":"Pages 1–2, personal background before Parliament","note":"Primary first-person chronology of family clothing/cinema work, university, mining company, Mount Isa lead-smelter labour, Flor Dora mine, cattle property and insurance agency."},
-    {"source_id":"src-5","url":"https://handbook.aph.gov.au/parliamentarians/HX4","publisher":"Parliamentary Handbook","title":"KATTER, the Hon. Robert (Bob) Carl","retrieved":"2026-09-30","source_type":"official_biography","locator":"Current parliamentary service","note":"Official frozen-roster identity and current service record."},
-    {"source_id":"src-6","url":"https://openresearch-repository.anu.edu.au/server/api/core/bitstreams/f9296d1e-0d24-4d6c-a116-752d72366345/content","publisher":"Parliament of Australia","title":"Parliamentary Handbook of the Commonwealth of Australia 2017","retrieved":"2026-09-30","source_type":"government_record","locator":"Katter biographical entry","note":"Historical official handbook corroborating MLA service and the labourer, insurance, mining and cattle occupation list."},
-    {"source_id":"src-7","url":"https://www.abc.net.au/news/2024-12-07/bob-katter-50-years-in-parliament/104676714","publisher":"ABC News","title":"Maverick MP Bob Katter hits 50 years in parliament","retrieved":"2026-09-30","source_type":"news","locator":"Career overview","note":"Independent overview describing Katter as a university drop-out, army reservist, labourer and grazier and confirming the state-to-federal political sequence."},
-    {"source_id":"src-8","url":"https://www.abc.net.au/news/2022-05-15/how-member-for-kennedy-bob-katter-became-a-rogue-politician/101059362","publisher":"ABC News","title":"How Bob Katter became a rogue voice in federal parliament","retrieved":"2026-09-30","source_type":"news","locator":"Early life and career","note":"Corroborates university study and describes Katter as an unskilled labourer before marriage and politics."},
-    {"source_id":"src-9","url":"https://www.slq.qld.gov.au/blog/serving-queensland-lebanese-storekeepers","publisher":"State Library of Queensland","title":"Serving Queensland — Lebanese Storekeepers","retrieved":"2026-09-30","source_type":"government_record","locator":"Cloncurry store history and 1967 streetscape","note":"Historical context for the Katter family retail businesses; does not independently establish Bob Katter's employment dates."},
-    {"source_id":"src-10","url":"https://www.inkl.com/news/few-claims-coming-for-qld-floods-as-katter-wants-dams","publisher":"AAP via Inkl","title":"Few claims coming for Queensland floods, as Katter wants dams","retrieved":"2026-09-30","source_type":"news","locator":"Former insurance-agency passage","note":"2026 report quotes Katter saying he had operated a lucrative insurance agency before his parliamentary career."}
+    {
+      "source_id": "src-1",
+      "url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=HX4",
+      "publisher": "Parliament of Australia",
+      "title": "Hon Bob Katter MP",
+      "retrieved": "2026-10-02",
+      "source_type": "official_biography",
+      "locator": "Qualifications/occupations and publications; indexed biography",
+      "note": "Official biography and publication list, including books published2012 and2017. Publication year is not employment duration."
+    },
+    {
+      "source_id": "src-2",
+      "url": "https://www.parliament.qld.gov.au/Members/Former-Members/Former-Members-Register/Former-Member-Details?id=578967569",
+      "publisher": "Queensland Parliament",
+      "title": "Former Member Details — Katter, Robert Carl",
+      "retrieved": "2026-09-30",
+      "source_type": "official_biography",
+      "locator": "Occupations and parliamentary service",
+      "note": "Official state record listing labourer, insurance agent, mine owner, AWU representative and the Flinders service interval."
+    },
+    {
+      "source_id": "src-3",
+      "url": "https://www.bobkatter.com.au/personal-history",
+      "publisher": "Office of Bob Katter MP",
+      "title": "Personal History — Bob Katter",
+      "retrieved": "2026-09-30",
+      "source_type": "official_biography",
+      "locator": "Employment, military service and parliamentary service",
+      "note": "Member's official page corroborating labouring, insurance, small mining and cattle interests; supplies state retirement wording and CMF rank."
+    },
+    {
+      "source_id": "src-4",
+      "url": "https://collections.parliament.qld.gov.au/documents/pdfs/42/9adc9970c319fadd314726ef14b7a3c247b10564.pdf",
+      "publisher": "Queensland Parliament",
+      "title": "Queensland Parliament Oral History Project — Mr Bob Katter, 9 June 2015",
+      "retrieved": "2026-10-02",
+      "source_type": "government_record",
+      "locator": "Pages 1–2, personal background before Parliament",
+      "note": "Primary first-person chronology of family clothing/cinema work, university, mining company, Mount Isa lead-smelter labour, Flor Dora mine, cattle property and insurance agency."
+    },
+    {
+      "source_id": "src-5",
+      "url": "https://handbook.aph.gov.au/parliamentarians/HX4",
+      "publisher": "Parliamentary Handbook",
+      "title": "KATTER, the Hon. Robert (Bob) Carl",
+      "retrieved": "2026-09-30",
+      "source_type": "official_biography",
+      "locator": "Current parliamentary service",
+      "note": "Official frozen-roster identity and current service record."
+    },
+    {
+      "source_id": "src-6",
+      "url": "https://openresearch-repository.anu.edu.au/server/api/core/bitstreams/f9296d1e-0d24-4d6c-a116-752d72366345/content",
+      "publisher": "Parliament of Australia",
+      "title": "Parliamentary Handbook of the Commonwealth of Australia 2017",
+      "retrieved": "2026-09-30",
+      "source_type": "government_record",
+      "locator": "Katter biographical entry",
+      "note": "Historical official handbook corroborating MLA service and the labourer, insurance, mining and cattle occupation list."
+    },
+    {
+      "source_id": "src-7",
+      "url": "https://www.abc.net.au/news/2024-12-07/bob-katter-50-years-in-parliament/104676714",
+      "publisher": "ABC News",
+      "title": "Maverick MP Bob Katter hits 50 years in parliament",
+      "retrieved": "2026-09-30",
+      "source_type": "news",
+      "locator": "Career overview",
+      "note": "Independent overview describing Katter as a university drop-out, army reservist, labourer and grazier and confirming the state-to-federal political sequence."
+    },
+    {
+      "source_id": "src-8",
+      "url": "https://www.abc.net.au/news/2022-05-15/how-member-for-kennedy-bob-katter-became-a-rogue-politician/101059362",
+      "publisher": "ABC News",
+      "title": "How Bob Katter became a rogue voice in federal parliament",
+      "retrieved": "2026-09-30",
+      "source_type": "news",
+      "locator": "Early life and career",
+      "note": "Corroborates university study and describes Katter as an unskilled labourer before marriage and politics."
+    },
+    {
+      "source_id": "src-9",
+      "url": "https://www.slq.qld.gov.au/blog/serving-queensland-lebanese-storekeepers",
+      "publisher": "State Library of Queensland",
+      "title": "Serving Queensland — Lebanese Storekeepers",
+      "retrieved": "2026-09-30",
+      "source_type": "government_record",
+      "locator": "Cloncurry store history and 1967 streetscape",
+      "note": "Historical context for the Katter family retail businesses; does not independently establish Bob Katter's employment dates."
+    },
+    {
+      "source_id": "src-10",
+      "url": "https://www.inkl.com/news/few-claims-coming-for-qld-floods-as-katter-wants-dams",
+      "publisher": "AAP via Inkl",
+      "title": "Few claims coming for Queensland floods, as Katter wants dams",
+      "retrieved": "2026-09-30",
+      "source_type": "news",
+      "locator": "Former insurance-agency passage",
+      "note": "2026 report quotes Katter saying he had operated a lucrative insurance agency before his parliamentary career."
+    },
+    {
+      "url": "https://www.openaustralia.org.au/debate/?id=2020-06-12.27.1",
+      "publisher": "Parliament of Australia Hansard via OpenAustralia",
+      "title": "APRA funding bills,12June2020",
+      "source_type": "government_record",
+      "locator": "11:43am, opening and investment-contract passages",
+      "note": "First-person identification as former AMP agent selling savings contracts.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-11"
+    },
+    {
+      "url": "https://www.openaustralia.org.au/debate/?id=2018-10-24.112.1",
+      "publisher": "Parliament of Australia Hansard via OpenAustralia",
+      "title": "Superannuation debate,24October2018",
+      "source_type": "government_record",
+      "locator": "4:23pm, paragraphs beginning Going specifically to superannuation and The irony",
+      "note": "Confirms AMP agency principally concerned with superannuation.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-12"
+    },
+    {
+      "url": "https://www.openaustralia.org.au/debate/?id=2013-02-11.23.2",
+      "publisher": "Parliament of Australia Hansard via OpenAustralia",
+      "title": "Fair Work Amendment (Arbitration) Bill,11February2013",
+      "source_type": "government_record",
+      "locator": "11:43am, opening paragraph",
+      "note": "First-person acknowledgement of brief union representation in youth; not a paid-status statement.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-13"
+    },
+    {
+      "url": "https://nz.newhollandpublishers.com/conversations-with-katter-9781921024399.html",
+      "publisher": "New Holland Publishers",
+      "title": "Conversations with Katter",
+      "source_type": "employer_biography",
+      "locator": "Book description and bibliographic details",
+      "note": "Publisher confirms authorship; not an employment contract or writing duration.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-14"
+    }
   ],
   "research_notes": [
     "Identify the legal entities and exact calendar dates for the Katter family clothing store, picture theatre, mining company, Flor Dora mine, cattle property and insurance agency; determine ownership versus payroll status and substantive hours.",
     "Obtain Mount Isa Mines personnel or archival evidence for appointment, cessation, legal employer, shifts and leave.",
     "Resolve whether mining, cattle and insurance operations continued during Queensland or federal elected office; ownership or a declared interest is not automatically substantive employment.",
     "Investigate the Australian Workers Union representative entry in the Queensland register: role, paid status, dates, employing body and overlap with mine labour.",
-    "Resolve any paid employment in the 19 September 1992 to 13 March 1993 inter-parliamentary interval and the state retirement-date discrepancy (25 August versus 19 September 1992)."
+    "Resolve any paid employment in the 19 September 1992 to 13 March 1993 inter-parliamentary interval and the state retirement-date discrepancy (25 August versus 19 September 1992).",
+    "2026-10-02 follow-up: AMP insurer identified through two first-person parliamentary speeches; AWU representative and author activities separated from ordinary employment. Student/community/party offices recorded without assuming pay. Re-read oral historypp1–2 and searched mining/Flor Dora, agency and publisher records; no exact employment boundaries or hours located. Army service of father Robert Cummin Katter and First Databank executive namesake excluded. Further leads: AMP historical agent directories; Mount Isa Mines payroll archives; local property/company records. Source403 at official profile/register recovered via indexed material and accessible Hansard. Family-business70-hour workload remains supported but calendar interval/pay basis unresolved; no totals calculated."
   ]
 }

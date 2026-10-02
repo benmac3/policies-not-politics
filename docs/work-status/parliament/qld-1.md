@@ -125,14 +125,15 @@ Deduplicated Brisbane-day new member IDs: 00AMR, 101351, 124514, 132880, 140590,
 
 
 
+
 ## Active follow-up — 2026-10-02
 
-- Cycle: 2026-10-02 08:00 Brisbane; continuation 0. Attempt start: 2026-10-02T07:56:50+10:00; latest checkpoint: 2026-10-02T10:53:52+10:00; end not yet observed.
+- Cycle: 2026-10-02 08:00 Brisbane; continuation 0. Attempt start: 2026-10-02T07:56:50+10:00; latest checkpoint: 2026-10-02T10:58:50+10:00; end not yet observed.
 - Previous execution reconstructed from remote checkpoints and member commits: 2026-10-01 12:00 continuation 0, started12:03:48; last member commit20:37:12 (648f4c83d549b4e179ee664a8cb0d9ff1c28d216). 73 new initial,65 materially enriched existing,0 newly complete; day80 new,65 enriched,0 complete. Final time/elapsed unknown. OUTCOME: Unknown — final execution status unavailable. STOPPING REASON: unknown. No terminal error or successor request evidenced; no allocation exhaustion inferred. Recovered Farley error is documented above. Later scheduled-message timestamps do not prove separate research executions.
 - Remote audit at 2026-10-02T07:58:14+10:00:226 initial,0 unstarted,226 unresolved,0 complete. No member commits on this Brisbane day at invocation start. All13 batch heads plus integration/main inspected; no additional member IDs outside assigned records. No intervening branch change or competing writer observed; previous active marker is stale.
 - Starting branch heads: {"act": "a9c47f619aa170d9df024231e0c3d6631e346837", "nsw-1": "2c2b6b0b0cd894c10f4afed73bb417203976c641", "nsw-2": "e83f60591ad234aefd349f909f8f382daf729512", "nsw-3": "80608e5c774a84a7cde1a000bdac589cf02025c9", "nt": "20e78c5f0d2d2069ead95b0df85fbe49e722fb6b", "qld-1": "af1095e7dc40095c4c2ec7b98363e6d1985c7080", "qld-2": "ee72cfae982567c09bd31c4b2181a4e76882dd9b", "sa": "bdc9586a439bcc400f537a39c7d6ffa305b3e307", "tas": "133fa5642fc57d1046ada547da70105ee64fc4a1", "vic-1": "648f4c83d549b4e179ee664a8cb0d9ff1c28d216", "vic-2": "8095f70c11c614d88c38f21a55e5f2306e9f3178", "wa-1": "9a20df4c6e839ed9230b14aeb0deb67d2b548e37", "wa-2": "eb43b3048789389ecba2de0eb34f52a6123ef5f9"}
-- Starting qld-1 count:21 initial,0 complete. Current attempt/cycle/day:0 new,60 materially enriched existing,0 newly complete. Counts conditional on remote verification; checkpoint-only commits excluded.
-- Next follow-up: HX4 KATTER, the Hon. Robert (Bob) Carl. Continue all batches; blocked is unresolved, not completion.
+- Starting qld-1 count:21 initial,0 complete. Current attempt/cycle/day:0 new,61 materially enriched existing,0 newly complete. Counts conditional on remote verification; checkpoint-only commits excluded.
+- Next follow-up: next batch in plan order. Continue all batches; blocked is unresolved, not completion.
 - OUTCOME: ongoing. STOPPING REASON: none; continue after remote verification. Successor not requested. Scheduler terminal status unavailable; predecessor successor execution unverified.
 - Validation: career_batches --check226/13 and --batch qld-1; individual JSON/source/date/enums and build_careers.load_records; only assigned member and batch checkpoint modified.
 - Recovered source access error: APH first-speech open returned `(403) Forbidden`; accessible transcript and primary organisation material used. Not a terminal error.
@@ -158,3 +159,4 @@ Deduplicated Brisbane-day new member IDs: 00AMR, 101351, 124514, 132880, 140590,
 - BK6: Material: paid Sunrise commentary distinguished from charity arrangements; TV/authorship rows; Professionals Annerley late2005; unsupported property personal-start withdrawn. Early-source corroboration, contracts and hours unresolved.
 - 88411: Material: first-speech mining labourer/six-month duration, pub, Tenterfield service station, odd-job break, sales coaching/directorship sequence; Watt2018 and Fentiman separated; inferred starts/end withdrawn. Legal employers, dates and hours unresolved.
 - 298574: Material: explicit full-time history and six-month parental break; historical MJM consultancy and separate government unit role; board annual reports; provisional early Deloitte/Victorian roles. Boundaries, leave placement and early employer corroboration unresolved. Recovered local AssertionError: inherited governance category recoded to approved unpaid_work before validation.
+- HX4: Material: identified AMP agency through primary Hansard; AWU representative, student/community/party offices and authorship added; open-ended federal precision corrected. Agency entity, hours, exact dates and overlaps unresolved.
