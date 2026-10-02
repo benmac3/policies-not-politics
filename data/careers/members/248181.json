@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/248181",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-01",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -217,9 +217,10 @@
       "source_ids": [
         "src-snapshot",
         "src-personal",
-        "src-secondary"
+        "src-secondary",
+        "src-nla-oct2"
       ],
-      "evidence_note": "The frozen roster establishes House service from 7 September 2013. Claydon's current site confirms she remains Member for Newcastle and Deputy Speaker. Parliamentary offices are nested within elected service.",
+      "evidence_note": "The frozen roster establishes House service from 7 September 2013. Claydon's current site confirms she remains Member for Newcastle and Deputy Speaker. Parliamentary offices are nested within elected service. NLA Council profile lists House-representative appointment from 28 July 2025 for a scheduled term to 27 July 2028. Retained as nested representative governance, not a second employment duration; prospective term end is not actual cessation.",
       "counting_note": "Elected office is excluded under the codebook."
     },
     {
@@ -245,9 +246,9 @@
     {
       "employer": "EMILY’s List Australia Inc",
       "role": "National co-convenor; national committee governance",
-      "start_date": null,
+      "start_date": "2017",
       "end_date": null,
-      "date_precision": "unknown",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "party_organisation",
@@ -255,9 +256,12 @@
       "government_control_at_time": "private",
       "counting_status": "excluded",
       "source_ids": [
-        "src-emilys2022"
+        "src-emilys2022",
+        "src-museum-oct2",
+        "src-fringe2017-oct2",
+        "src-nla-oct2"
       ],
-      "evidence_note": "Association annual report identifies co-convenor service throughout1July2021–30June2022 and describes executive support among volunteers. Full tenure endpoints and any separate employment unresolved; report window is not appointment/cessation.",
+      "evidence_note": "Association annual report identifies co-convenor service throughout1July2021–30June2022 and describes executive support among volunteers. Full tenure endpoints and any separate employment unresolved; report window is not appointment/cessation. Follow-up 2 October 2026: Her Place Women’s Museum public video description explicitly dates co-convenor service from 2017, independently consistent with the 2017 NSW Labor Fringe programme p20. Start adopted at year precision, not programme publication date. NLA current profile also identifies co-convenor role, but uninterrupted tenure, separate paid duties and exact appointment day remain unproven.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "248181-emilys-list"
     },
@@ -430,6 +434,36 @@
       "note": "Public primary evidence of patronage; approval date is not appointment date.",
       "retrieved": "2026-10-01",
       "source_id": "src-stockton-foi"
+    },
+    {
+      "url": "https://vimeo.com/738492711",
+      "publisher": "Her Place Women’s Museum",
+      "title": "Affirmative Action",
+      "source_type": "professional_profile",
+      "locator": "Public video description, Sharon Claydon identification",
+      "note": "Museum video description explicitly gives National Co-Convenor 2017–present; historical present is not assumed proof of uninterrupted service through retrieval date. No video content or restricted profile accessed.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-museum-oct2"
+    },
+    {
+      "url": "https://psa.asn.au/wp-content/uploads/2017/07/Fringe-2017-program.pdf",
+      "publisher": "NSW Labor / Public Service Association",
+      "title": "NSW Labor Fringe Program 2017",
+      "source_type": "other",
+      "locator": "Printed page 20, Your Body, Your Choice panel",
+      "note": "Contemporaneous event identifies Claydon as national co-convenor; observation corroborates 2017 activity, not exact appointment day.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-fringe2017-oct2"
+    },
+    {
+      "url": "https://www.library.gov.au/visit/about-us/library-council",
+      "publisher": "National Library of Australia",
+      "title": "Library Council — Sharon Claydon",
+      "source_type": "government_record",
+      "locator": "Members introduction and Ms Sharon Claydon MP",
+      "note": "Council includes House-elected representative; listed appointment term 28 July 2025–27 July 2028. Future scheduled end is not realised cessation; nested with elected service.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-nla-oct2"
     }
   ],
   "research_notes": [
@@ -441,7 +475,9 @@
     "Almost a decade/ten years are narrative durations only.1992 Mabo observation and2021–22 annual-report coverage do not establish whole-spell boundaries. Possible station/research overlaps must be resolved before calculation.",
     "Checked parliamentary speeches, ABC guides, public first-person interview, EMILY’s List annual report and public FOI declaration. Newcastle Herald profile returned402PaymentRequired; no paywall bypass. APH direct page returned Internal Error; ABC supplies council endpoint. Current office-manager full-time advertisements concern Claydon’s staff, not Claydon.",
     "AIATSIS source expressly requires traditional-owner permission for cultural research. Only public speech describing work used; restricted material neither sought nor accessed. Next leads: public employment/commission acknowledgements and provider annual reports once organisations can be named; exact dates/hours/leave remain unresolved.",
-    "The2022 interview names ANTaR for later community advocacy with Queensland pastoralists; added separately from unidentified Bunuba fieldwork employers. Paid status not established."
+    "The2022 interview names ANTaR for later community advocacy with Queensland pastoralists; added separately from unidentified Bunuba fieldwork employers. Paid status not established.",
+    "Second follow-up 2 October 2026: materially refined EMILY’s List co-convenor start to 2017 using museum oral-history description and contemporaneous event programme; added dated NLA council representative duties within elected service. Neither governance activity establishes substantive full-time employment.",
+    "Targeted South Coast disability-provider, Morris/Grierson employment and Bunuba appointment searches did not identify legal payroll entities or new personal dates/hours. Public thesis acknowledgements show familiarity, not employment. Morris/Grierson parliamentary terms cannot be assigned as staff-contract bounds. Restricted cultural material and earlier paywalled profile not accessed. Remaining priority is employer/commission identification and individual appointment records."
   ],
   "open_questions": [
     "What were the exact University of Sydney enrolment, withdrawal, honours and PhD dates and study loads?",
