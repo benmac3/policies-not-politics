@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/157125",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-01",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -55,9 +55,9 @@
     {
       "employer": "Peter Moyes Anglican Community School / Anglican Schools Commission",
       "role": "Foundation registrar",
-      "start_date": "1999",
+      "start_date": "1999-09",
       "end_date": "2011",
-      "date_precision": "year",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "nonprofit",
@@ -68,9 +68,10 @@
         "src-2",
         "src-3",
         "src-9",
-        "src-10"
+        "src-10",
+        "src-14"
       ],
-      "evidence_note": "School-affiliated biography supplies years; first speech confirms role. Non-government church school; nonprofit institutional classification, not public due to grants or private enterprise due to fees. Payroll entity, hours and breaks unknown; overlaps local office2003–2011.",
+      "evidence_note": "School-affiliated biography supplies years; first speech confirms role. Non-government church school; nonprofit institutional classification, not public due to grants or private enterprise due to fees. Payroll entity, hours and breaks unknown; overlaps local office2003–2011. Public professional-profile index gives September 1999 commencement, consistent with school year range; indexed end not visible, so 2011 retained. No full-time label observed.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "157125-03"
     },
@@ -87,9 +88,10 @@
       "government_control_at_time": "public",
       "counting_status": "excluded",
       "source_ids": [
-        "src-4"
+        "src-4",
+        "src-11"
       ],
-      "evidence_note": "Council annual report gives councillor range; deputy mayor dates require further primary verification. Elected office not ordinary municipal employment.",
+      "evidence_note": "Council annual report gives councillor range; deputy mayor dates require further primary verification. Elected office not ordinary municipal employment. Council 2015–16 annual report resolves deputy-mayor subterm as 2009–2011, within the existing councillor spell.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "157125-04"
     },
@@ -118,7 +120,7 @@
       "role": "Deputy president",
       "start_date": null,
       "end_date": "2020-03-04",
-      "date_precision": "day",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "employer_association",
@@ -127,9 +129,10 @@
       "counting_status": "excluded",
       "source_ids": [
         "src-6",
-        "src-7"
+        "src-7",
+        "src-12"
       ],
-      "evidence_note": "Incoming ALGA2018 announcement also identifies WALGA deputy presidency;2020financial report supplies enddate. Exact beginning/pay basis not established. Association representative office, not civil-service employment.",
+      "evidence_note": "Incoming ALGA2018 announcement also identifies WALGA deputy presidency;2020financial report supplies enddate. Exact beginning/pay basis not established. Association representative office, not civil-service employment. City announcement confirms appointment already occurred by 3 September 2015 and earlier years as State Council north metropolitan representative. Publication day is an upper bound, not an exact appointment date; original special-meeting minutes still needed.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "157125-06"
     },
@@ -158,7 +161,7 @@
       "role": "Vice president",
       "start_date": "2018",
       "end_date": null,
-      "date_precision": "year",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "employer_association",
@@ -235,7 +238,7 @@
       "role": "Member for Pearce",
       "start_date": "2022-05-21",
       "end_date": null,
-      "date_precision": "day",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -248,6 +251,82 @@
       "evidence_note": "Frozen service date retained; overlap with mayoral resignation retained without summing.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "157125-12"
+    },
+    {
+      "employer": "Mindarie Senior College",
+      "role": "College board community member; formerly parent member",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "excluded",
+      "government_control_at_time": "public",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-13"
+      ],
+      "evidence_note": "School identifies governance service; tenure and remuneration unknown. Not school staff employment.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "157125-13"
+    },
+    {
+      "employer": "Local Government Insurance Scheme (LGIS)",
+      "role": "Director",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-13"
+      ],
+      "evidence_note": "Former directorship identified by school biography. Governing entity/control, term and pay unresolved; governance is excluded from employment headlines.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "157125-14"
+    },
+    {
+      "employer": "Dog training organisation unidentified",
+      "role": "Volunteer dog trainer",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unpaid_work",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-13"
+      ],
+      "evidence_note": "School biography explicitly describes volunteering; organisation and dates not supplied.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "157125-15"
+    },
+    {
+      "employer": "Joondalup Health Campus",
+      "role": "Community Board of Advice, federal government representative",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-15"
+      ],
+      "evidence_note": "Representative advisory capacity tied to elected office; precise appointment dates/pay unknown. Hospital ownership does not convert this into clinical employment.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "157125-16"
     }
   ],
   "sources": [
@@ -350,12 +429,64 @@
       "note": "Identifies school registrar and high-school local-council placement; vague pre-first-campaign chronology differs from precise school-affiliated1999–2011 dates; not substituted.",
       "retrieved": "2026-10-01",
       "source_id": "src-10"
+    },
+    {
+      "url": "https://www.wanneroo.wa.gov.au/info/20090/annual_report_20152016/341/annual_report_2015-2016_-_governance/2",
+      "publisher": "City of Wanneroo",
+      "title": "Annual Report 2015–2016: Governance",
+      "source_type": "government_record",
+      "locator": "Mayor Tracey Roberts biography",
+      "note": "Deputy mayor elected 2009 within councillor term 2003–2011.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-11"
+    },
+    {
+      "url": "https://www.wanneroo.wa.gov.au/news/article/174/city_of_wanneroo_mayor_elected_deputy_president_of_the_voice_of_wa",
+      "publisher": "City of Wanneroo",
+      "title": "Mayor elected Deputy President of the voice of WA, 3 September 2015",
+      "source_type": "government_record",
+      "locator": "Appointment and preceding State Council service paragraphs",
+      "note": "Election already occurred at a special meeting by publication; precise meeting date not supplied.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-12"
+    },
+    {
+      "url": "https://www.mindarie.wa.edu.au/our-college/college-board/",
+      "publisher": "Mindarie Senior College",
+      "title": "College Board",
+      "source_type": "employer",
+      "locator": "Tracey Roberts MP biography and membership heading",
+      "note": "Community and former parent member; former LGIS director; qualified volunteer dog trainer. Does not date those activities.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-13"
+    },
+    {
+      "url": "https://au.linkedin.com/in/traceyrobertsmp",
+      "publisher": "Tracey Roberts / LinkedIn",
+      "title": "Tracey Roberts MP professional profile",
+      "source_type": "professional_profile",
+      "locator": "Publicly indexed Experience: Foundation Registrar, Peter Moyes Anglican Community School, Sep 1999 –",
+      "note": "Visible indexed start month refines independently confirmed 1999 year. Direct open returned (999) Unknown Status Code; endpoint and hours not visible, so not inferred.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-14"
+    },
+    {
+      "url": "https://www.joondaluphealthcampus.com.au/About-Us/Our-Community/Community-Board-of-Advice",
+      "publisher": "Joondalup Health Campus",
+      "title": "Community Board of Advice",
+      "source_type": "employer",
+      "locator": "Australian Government Representatives membership list",
+      "note": "Roberts listed as Member for Pearce representative; advisory board meets six times per year. Not evidence of clinical or salaried hospital employment.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-15"
     }
   ],
   "research_notes": [
     "Initial review2026-10-01: empty frozen occupation list is not zero experience. First speech and school-affiliated biography establish substantive pre-parliament jobs absent from extract. Local annual report and association records distinguish employment from elected/governance offices.",
     "Follow-up: SSTUWA title and dates/hours, earlier UK/Australian employment and study, exact school payroll entity/hours/leave, all gaps and overlap with council service; association appointment/end and pay basis; school-placement details. School annual records/payroll or legitimate professional profile would be strongest next sources.",
     "Searches included official/member material, school/employer sites, council/association annual reports, full-time terms and union employment. Unrelated actress, US lawyer, NZ executive assistant, health-care marketer and namesake professional profiles not adopted. School-site full-time mayor descriptor cannot establish registrar hours.",
-    "Own20-year public-service marketing description refers to political/community service, not codebook public-service employment. Generic summaries ending mayor role on election day contradicted by local authority June2022 resignation. Pre-first-campaign secondary school chronology retained as gap, not used to alter primary year range."
+    "Own20-year public-service marketing description refers to political/community service, not codebook public-service employment. Generic summaries ending mayor role on election day contradicted by local authority June2022 resignation. Pre-first-campaign secondary school chronology retained as gap, not used to alter primary year range.",
+    "Follow-up 2026-10-02: council annual report resolves deputy-mayor subterm; 2015 appointment announcement bounds WALGA deputy presidency; public professional profile refines registrar start to September 1999. School and hospital organisation biographies add governance and explicit volunteer activities.",
+    "SSTUWA employment title/dates and UK work remain unresolved after exact-name union searches. Do not substitute union presidents’ terms for her employment. LGIS indexed news lead returned an error page, and unrelated namesake profiles were discarded. Registrar profile endpoint/full-time status remains inaccessible (999); seek school personnel records or accessible professional CV. WALGA special-meeting minutes, LGIS appointment/end and school-board tenure remain follow-up leads."
   ]
 }
