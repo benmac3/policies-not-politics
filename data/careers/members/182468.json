@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/182468",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-01",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -100,9 +100,9 @@
       "spell_id": "182468-04",
       "employer": "Mallesons Stephen Jaques",
       "role": "Solicitor / senior consultant",
-      "start_date": "2010",
-      "end_date": "2011",
-      "date_precision": "year",
+      "start_date": "2010-09",
+      "end_date": "2011-07",
+      "date_precision": "month",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "private_enterprise",
@@ -115,7 +115,7 @@
         "src-3",
         "src-linkedin-lead"
       ],
-      "evidence_note": "APH provides year dates and solicitor title; DFAT senior consultant. Defence retrospectively uses King & Wood Mallesons. Preserve contemporaneous employer, one spell, no inferred full-time status or employment beyond 2011.",
+      "evidence_note": "APH provides year dates and solicitor title; DFAT senior consultant. Defence retrospectively uses King & Wood Mallesons. Preserve contemporaneous employer, one spell, no inferred full-time status or employment beyond 2011. Public professional-profile index rechecked2October2026 pairs Mallesons with September2010–July2011; month refinement is self-reported. July2011 overlaps Senate commencement at month precision; no days or employment cessation on1July assumed.",
       "counting_note": "Dates, employer control and/or substantive full-time status remain insufficient for a duration calculation; unknown is not zero."
     },
     {
@@ -161,8 +161,8 @@
     },
     {
       "spell_id": "182468-07",
-      "employer": "Racing Industry Participants Advisory Council",
-      "role": "Member",
+      "employer": "Racing Industry Participants Advisory Committee (RIPAC), Racing NSW",
+      "role": "Member, Labor Council nominee representing stablehands and race-club employees",
       "start_date": null,
       "end_date": null,
       "date_precision": "unknown",
@@ -173,9 +173,11 @@
       "government_control_at_time": "unknown",
       "counting_status": "excluded",
       "source_ids": [
-        "src-2"
+        "src-2",
+        "src-racing05-06",
+        "src-racing06-07"
       ],
-      "evidence_note": "Advisory appointment; no evidence of substantive employment, dates or hours.",
+      "evidence_note": "Advisory appointment; no evidence of substantive employment, dates or hours. Primary Racing NSW2005–06 and2006–07 reports name him and his constituency on the statutory advisory committee. Official biography calls it Council; reports use Committee/Group. Two annual observations do not establish continuous tenure or exact endpoints.",
       "counting_note": "Excluded from the two employment headlines under the codebook."
     },
     {
@@ -411,10 +413,30 @@
       "publisher": "Matt Thistlethwaite / LinkedIn",
       "title": "Public professional profile",
       "source_type": "professional_profile",
-      "locator": "Search-index result displaying Senior Consultant and September2010–July2011",
-      "note": "Potential primary corroboration of earlier month-date lead; direct public profile returned999 and subsequent searches failed to expose full experience block. Retain lead, not definitive finer personal employment boundaries or full-time status.",
-      "retrieved": "2026-10-01",
+      "locator": "Public indexed experience entry: Mallesons Stephen Jaques, September2010–July2011",
+      "note": "Repeated public first-party profile indexing now clearly pairs employer with month dates consistent with APH year range. Self-reported finer boundaries; direct999 previously respected. Hours and exact days not established.",
+      "retrieved": "2026-10-02",
       "source_id": "src-linkedin-lead"
+    },
+    {
+      "url": "https://www.parliament.nsw.gov.au/fileapi/parlfiles/getartifact?serverRelativeUrl=%2Ftp%2Ffiles%2F9030%2FRacing+NSW+AR+05-06.pdf",
+      "publisher": "Racing NSW",
+      "title": "Annual report2005–06",
+      "source_type": "government_record",
+      "locator": "PDF page11, RIPAC membership paragraph",
+      "note": "Names Thistlethwaite as Labor Council nominee representing stablehands and race-club employees. Report-period observations, not personal appointment or resignation dates. Statutory advisory representation is not substantive employment.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-racing05-06"
+    },
+    {
+      "url": "https://www.parliament.nsw.gov.au/fileapi/parlfiles/getartifact?serverRelativeUrl=%2Ftp%2Ffiles%2F19330%2FRacing+NSW+AR+06-07.pdf",
+      "publisher": "Racing NSW",
+      "title": "Annual report2006–07",
+      "source_type": "government_record",
+      "locator": "PDF page11, RIPAC membership paragraph",
+      "note": "Names Thistlethwaite as Labor Council nominee representing stablehands and race-club employees. Report-period observations, not personal appointment or resignation dates. Statutory advisory representation is not substantive employment.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-racing06-07"
     }
   ],
   "research_notes": [
@@ -426,6 +448,7 @@
     "Study/qualifications: economics degree and law diploma (graduated 2001) do not establish paid work. Potential study/work overlap remains unresolved; no study time counted.",
     "All headline values remain null: incomplete history and hours evidence are missing evidence, not zero. Later follow-up must cover excluded roles as chronology as well as potentially countable employment.",
     "2026-10-01 follow-up: recovered full2011 first speech through OpenAustralia, adding previously absent student-period club work and anchoring surf-club presidency within2006. Relatives’ jobs are not attributed to member. State Transit primary annual reports resolve July2005 appointment and October2008 resignation; old unknown-date notes superseded. NSW Labor commencement refined to October2008 only.",
-    "Avenues: State Transit2005–06/2006–07/2007–08/2008–09 indexed board paragraphs;2007–08 direct PDF redirect500 and data.nsw copy inaccessible;2011 Senate and2013 House first-speech transcripts; primary club submission; public professional profile indexed result, direct999; Mallesons/full-time searches and manufacturing-council searches. No reliable full-time evidence obtained. Month-level Mallesons lead remains provisional because full experience block unavailable. Next leads: historical club employment and constitution, Mallesons appointment/cessation and hours, council/racing/jockey appointments, surf presidency endpoints and any2013 inter-house-gap work. No outreach or contact data collected."
+    "Avenues: State Transit2005–06/2006–07/2007–08/2008–09 indexed board paragraphs;2007–08 direct PDF redirect500 and data.nsw copy inaccessible;2011 Senate and2013 House first-speech transcripts; primary club submission; public professional profile indexed result, direct999; Mallesons/full-time searches and manufacturing-council searches. No reliable full-time evidence obtained. Month-level Mallesons lead remains provisional because full experience block unavailable. Next leads: historical club employment and constitution, Mallesons appointment/cessation and hours, council/racing/jockey appointments, surf presidency endpoints and any2013 inter-house-gap work. No outreach or contact data collected.",
+    "Second follow-up2October2026: repeated public professional-profile index now clearly pairs Mallesons with September2010–July2011; finer self-reported dates promoted with provenance, superseding earlier provisional-month note. No full-time evidence: job advertisements for his electorate staff are not his own employment. Racing NSW2005–06/2006–07 reports provide primary confirmation, statutory context and representative constituency for RIPAC, but no personal tenure endpoints. Manufacturing Council searches repeated official biographies; no appointment record found. Mallesons hours/leave, student club work, AWU/Unions NSW precise boundaries, surf presidency endpoints and2013 gap remain unresolved. Next inspect earlier/later Racing NSW membership reports and original law-firm appointment notices; no totals calculated."
   ]
 }
