@@ -6,7 +6,7 @@
   "snapshot_party": "Independent",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/295676",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-02",
+  "last_reviewed": "2026-10-03",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -277,8 +277,8 @@
       "employer": "Multicultural NSW (formerly NSW Community Relations Commission)",
       "role": "Commissioner, subsequently Advisory Board member",
       "start_date": "2012-08-01",
-      "end_date": null,
-      "date_precision": "mixed",
+      "end_date": "2021-08-05",
+      "date_precision": "day",
       "employment_status": "part_time",
       "fte_fraction": null,
       "category": "public_service",
@@ -288,9 +288,10 @@
       "source_ids": [
         "src-avld",
         "src-secondary",
-        "src-crc13-oct2"
+        "src-crc13-oct2",
+        "src-mnsw22-oct3"
       ],
-      "evidence_note": "Archived organisational and secondary profiles report appointment to the state-government advisory board in August 2012. The end date, remuneration and workload are unresolved; advisory governance is not assumed to be employment. Primary2012/13 report specifies appointment1August2012 and lists Le among part-time commissioners. Scheduled expiry1August2015 is not confirmed cessation; end remains unknown. Category corrected to public service for this government body; advisory governance remains excluded.",
+      "evidence_note": "Archived organisational and secondary profiles report appointment to the state-government advisory board in August 2012. The end date, remuneration and workload are unresolved; advisory governance is not assumed to be employment. Primary2012/13 report specifies appointment1August2012 and lists Le among part-time commissioners. Scheduled expiry1August2015 is not confirmed cessation; end remains unknown. Category corrected to public service for this government body; advisory governance remains excluded. Primary2021/22 annual report, visually verified printed page10/PDFpage12, explicitly records retirement5August2021. This is observed cessation, not merely an earlier scheduled expiry.",
       "counting_note": "Government advisory-board service is excluded from the narrow employment headline."
     },
     {
@@ -555,6 +556,63 @@
       "evidence_note": "2013 government profile lists this external role; dates, remuneration and workload unknown. No paid employment inferred.",
       "counting_note": "Advisory or ambassadorial activity excluded from employment headline.",
       "spell_id": "295676-ministerial-committee"
+    },
+    {
+      "spell_id": "295676-global-sisters",
+      "employer": "Global Sisters",
+      "role": "Board member",
+      "start_date": "2015-03",
+      "end_date": "2015-11",
+      "date_precision": "month",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "nonprofit",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-profile-oct3"
+      ],
+      "evidence_note": "Public indexed self-profile lists March–November2015. Payment, hours and appointment instruments unresolved; board service is not substantive employment.",
+      "counting_note": "Governance/ambassadorial affiliation excluded; no substantive full-time employment inferred."
+    },
+    {
+      "spell_id": "295676-cancer-ambassador",
+      "employer": "Cancer Council NSW — Greater Western Sydney",
+      "role": "Ambassador",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "nonprofit",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-wa-bio-oct3"
+      ],
+      "evidence_note": "Author biography supports ambassador affiliation, not exact dates, pay or hours. Potentially updated biography is not dated from its hosting article.",
+      "counting_note": "Governance/ambassadorial affiliation excluded; no substantive full-time employment inferred."
+    },
+    {
+      "spell_id": "295676-relay-ambassador",
+      "employer": "Fairfield Relay for Life",
+      "role": "Ambassador",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "nonprofit",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-wa-bio-oct3"
+      ],
+      "evidence_note": "Author biography separately names local Relay for Life ambassadorship. Relationship to broader Cancer Council appointment, dates, pay and hours unresolved; not counted twice as employment.",
+      "counting_note": "Governance/ambassadorial affiliation excluded; no substantive full-time employment inferred."
     }
   ],
   "sources": [
@@ -737,6 +795,36 @@
       "note": "Distinguishes former ECCNSW deputy chair from current listed roles; adjacent Juliana Nkrumah biography is not Le’s.",
       "retrieved": "2026-10-02",
       "source_id": "src-symposium14-oct2"
+    },
+    {
+      "source_id": "src-mnsw22-oct3",
+      "url": "https://multicultural.nsw.gov.au/wp-content/uploads/2023/01/2021-22-Multicultural-NSW-Annual-Report.pdf",
+      "publisher": "Multicultural NSW",
+      "title": "Annual Report2021–2022",
+      "source_type": "official_report",
+      "retrieved": "2026-10-03",
+      "locator": "Printed page10 / PDFpage12, Dai Le board entry",
+      "note": "Original PDF visually inspected; actual retirement5August2021, distinct from scheduled expiry."
+    },
+    {
+      "source_id": "src-profile-oct3",
+      "url": "https://au.linkedin.com/in/dailemp",
+      "publisher": "Dai Le / LinkedIn",
+      "title": "Public professional profile",
+      "source_type": "professional_profile",
+      "retrieved": "2026-10-03",
+      "locator": "Public indexed Experience, Global Sisters entry",
+      "note": "Explicit board service March–November2015 in indexed text. Direct reader returned999 Unknown Status Code; not a full-profile inspection, independently unverified conditions."
+    },
+    {
+      "source_id": "src-wa-bio-oct3",
+      "url": "https://womensagenda.com.au/latest/we-need-more-than-women-in-leadership-we-need-cultural-diversity/",
+      "publisher": "Dai Le / Women's Agenda",
+      "title": "We need more than women in leadership, we need cultural diversity",
+      "source_type": "professional_profile",
+      "retrieved": "2026-10-03",
+      "locator": "Author biography beneath20April2015 article",
+      "note": "Lists Fairfield Relay for Life and Cancer Council Greater Western Sydney ambassador roles. Biography can be updated across articles; article publication date is not a personal appointment date."
     }
   ],
   "research_notes": [
@@ -747,7 +835,8 @@
     "Public sources do not establish whether 2014–2015 cancer treatment interrupted or reduced any business, council or nonprofit work.",
     "2026-10-01 follow-up adds four early hospitality/retail jobs and brief Sydney law study. Explicit full-time Liverpool cadetship evidence is isolated from later newspaper/ABC work; no duration inferred from rounded career descriptions.",
     "Searched ABC employer material, first-person interviews, company and interest records. Money interview and ABC transcript readable. Direct ABR company record and original 47P parliamentary interest PDF inaccessible; indexed legal-entity/shareholding leads retained without claiming verification of employment dates. Searches did not resolve 2008–2014 paid-work gap or treatment-related leave.",
-    "Second follow-up2October2026 identifies omitted Beloka marketing role, resolves DAWN founding month and CRC appointment day/part-time status, and improves governance observations. All added activity remains uncounted; public/private totals remain unknown. CRC PDF reader failed internally but ordinary direct PDF download succeeded; table visually checked. Further leads: Beloka personnel/contract history, ABC hours and leave, unidentified2008–2014 work, DAWN legal entity and workload, and original STARTTS appointment. Do not substitute award dates, scheduled board expiry or annual-report observation dates for employment boundaries."
+    "Second follow-up2October2026 identifies omitted Beloka marketing role, resolves DAWN founding month and CRC appointment day/part-time status, and improves governance observations. All added activity remains uncounted; public/private totals remain unknown. CRC PDF reader failed internally but ordinary direct PDF download succeeded; table visually checked. Further leads: Beloka personnel/contract history, ABC hours and leave, unidentified2008–2014 work, DAWN legal entity and workload, and original STARTTS appointment. Do not substitute award dates, scheduled board expiry or annual-report observation dates for employment boundaries.",
+    "Follow-up3October2026 resolves Multicultural NSW retirement5August2021 using visually checked original2021/22 report; adds previously omitted Global Sisters board and two ambassador affiliations. Beloka title searches yielded already-known award observations, not contract dates. STARTTS initial appointment remains unknown.2018/19 government dataset PDF returned404; later original report accessible. Public LinkedIn999 retained as source-access limitation; indexed board dates explicitly labelled. Next leads remain Beloka/ABC personnel records, STARTTS appointment, legal entity/workload of DAWN and unverified Global Sisters conditions."
   ],
   "open_questions": [
     "What were the exact start/end dates, hours, leave and employment terms at the Liverpool City Champion, Fairfield City Champion and ABC, and how should the 1990 versus 1991 start discrepancy be resolved?",
@@ -759,6 +848,7 @@
     "When did the full-time Liverpool cadetship end, and when did Fairfield newspaper work begin; was the latter also full-time?",
     "Which employers and dates apply to the restaurant, waitressing, nightclub and Katies roles?",
     "Can original interest/company records distinguish Dawn Foundation, the DAWN network and Dawn Media Productions employment and ownership intervals?",
-    "When did the Beloka Water CMO role begin/end, was it employment or consultancy, with what hours and breaks, and did it overlap the2014–2022 business-owner activity?"
+    "When did the Beloka Water CMO role begin/end, was it employment or consultancy, with what hours and breaks, and did it overlap the2014–2022 business-owner activity?",
+    "What appointment instruments, remuneration and workload apply to Global Sisters March–November2015 board service, and what are the dates/pay basis and relationship of the two Cancer Council/Relay for Life ambassador roles?"
   ]
 }
