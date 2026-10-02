@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/316935",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-01",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -86,9 +86,10 @@
       "source_ids": [
         "src-1",
         "src-2",
-        "src-4"
+        "src-4",
+        "src-9"
       ],
-      "evidence_note": "Frozen dates retained. Speech says 15 years, but also 2018 sabbatical and no return; discrepancy unresolved. Hobart move in 2017; full-time status unknown.",
+      "evidence_note": "Frozen dates retained. Speech says 15 years, but also 2018 sabbatical and no return; discrepancy unresolved. Hobart move in 2017; full-time status unknown. August2025interview repeats15years and approximately2017/2018relocation; cannot reconcile difference or establish leave pay.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "316935-04"
     },
@@ -156,10 +157,10 @@
     },
     {
       "employer": "Community and Public Sector Union",
-      "role": "Workplace delegate and tax-section councillor",
+      "role": "Workplace delegate",
       "start_date": "2014",
       "end_date": null,
-      "date_precision": "year",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "union",
@@ -170,7 +171,7 @@
         "src-2",
         "src-6"
       ],
-      "evidence_note": "Delegate role follows 2014 workplace dispute; 2017 hearing corroborates. Separate pay and term end unknown.",
+      "evidence_note": "Delegate role follows 2014 workplace dispute; 2017 hearing corroborates. Separate pay and term end unknown. Tax-section councillor position separated below: new AEC declaration locates a specific2016election;2014delegate start is not applied to that office.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "316935-08"
     },
@@ -198,7 +199,7 @@
       "role": "Senator for Tasmania",
       "start_date": "2025-05-27",
       "end_date": null,
-      "date_precision": "day",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -211,6 +212,25 @@
       "evidence_note": "Frozen first-service date; parliamentary office excluded.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "316935-10"
+    },
+    {
+      "employer": "Community and Public Sector Union, PSU Group",
+      "role": "Hobart Tax Section Councillor, elected unopposed",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "union",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-8"
+      ],
+      "evidence_note": "AEC declaration dated3November2016 records election to office24.09. Exact commencement and end unestablished; declaration is an election event, not proof of first service or paid union employment.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "316935-11"
     }
   ],
   "sources": [
@@ -283,6 +303,26 @@
       "note": "Senator identity matched; indexed text did not expose reliable complete historical dates or hours. No restricted access attempted.",
       "retrieved": "2026-10-01",
       "source_id": "src-7"
+    },
+    {
+      "url": "https://regorgs.fwc.gov.au/sites/default/files/migration/364/090vpsu-e2016-187.pdf",
+      "publisher": "Australian Electoral Commission / Fair Work Commission",
+      "title": "CPSU PSU Group election E2016/187 declarations",
+      "source_type": "government_record",
+      "locator": "PDF p23, printed p14 of21, Tax24.09; declaration PDF p26 dated3November2016",
+      "note": "Josh Dolega declared elected unopposed to Hobart Tax Section Councillor. Declaration date does not establish commencement, term end, remuneration or hours.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-8"
+    },
+    {
+      "url": "https://podscan.fm/podcasts/saturday-magazine/episodes/saturday-16th-august-2025-senator-josh-dolega-newly-elected-senator-lutruwitatasmania-alp",
+      "publisher": "JOY Saturday Magazine via Podscan",
+      "title": "Josh Dolega interview16August2025 transcript",
+      "source_type": "news",
+      "locator": "00:04:17–00:05:31",
+      "note": "First-person interview repeats15years ATO and approximate2017/2018Hobart move, union employment about a year later. Transcript has obvious CTSU transcription error; approximate recollections do not resolve official2005–2018dates.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-9"
     }
   ],
   "research_notes": [
@@ -290,6 +330,8 @@
     "Need call-centre start/end dates and identity of second operator; do not assign another Devonport company merely from closures. Age 17 and retrospective references do not justify invented 1 January dates. Full-time evidence from call centres does not transfer to Kmart, ATO or fitness work.",
     "ATO tenure conflict retained: official 2005–18 versus retrospective 15 years. Sabbatical could preserve an employment relationship after active work ended; do not count ATO leave and CPSU service twice. Obtain contemporary dated employment/separation or leave evidence before any calculation.",
     "Fitness dates, hours, legal employer and employment/contractor status missing; no inference that instruction preceded ATO employment. Council-owned facility with private management is not automatic public employment. Council PDF size error is a source gap, not run blocker.",
-    "Targeted CPSU, Sitel, fitness and publicly indexed professional-history searches did not supply missing dates/hours. Professional profile job ads concern his staff, not his own employment. Follow-up: employer/council historical instructor records, Sitel and other call-centre employment dates, ATO hours/leave/separation and exact union transitions."
+    "Targeted CPSU, Sitel, fitness and publicly indexed professional-history searches did not supply missing dates/hours. Professional profile job ads concern his staff, not his own employment. Follow-up: employer/council historical instructor records, Sitel and other call-centre employment dates, ATO hours/leave/separation and exact union transitions.",
+    "Follow-up2026-10-02: primary2016AEC uncontested election declaration identifies Hobart Tax Section Councillor and dated election event; separated from earlier workplace delegation to avoid invented2014councillor commencement. Contemporary office election is material corroboration but not salaried employment.",
+    "New August2025radio interview transcript repeats approximate ATO duration and move; discrepancy remains. Public professional index exposes no historical titles/dates. Targeted second call-centre, instructor and2018/2019union-transition searches did not identify missing employers/hours. Do not assign Salmat or Belgravia merely because they operated locally."
   ]
 }
