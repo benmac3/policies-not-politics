@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/281603",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-01",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -95,9 +95,10 @@
       "source_ids": [
         "src-1",
         "src-2",
-        "src-4"
+        "src-4",
+        "src-14"
       ],
-      "evidence_note": "Official job title and years retained. First speech confirms family business work but does not explicitly tie this precise title and interval to its legal employing entity; no unsupported assignment.",
+      "evidence_note": "Official job title and years retained. First speech confirms family business work but does not explicitly tie this precise title and interval to its legal employing entity; no unsupported assignment.2013conference affiliation strengthens Transit Systems lead, but title-to-contract link remains unproven.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "281603-04"
     },
@@ -116,9 +117,10 @@
       "source_ids": [
         "src-4",
         "src-7",
-        "src-13"
+        "src-13",
+        "src-14"
       ],
-      "evidence_note": "First speech describes own work in family commercial public-transport operator. Likely overlaps 2012–2013 manager role and board service; retained as an undated component, not added as another duration. Ability to drive bus is not recorded as a separate paid job.",
+      "evidence_note": "First speech describes own work in family commercial public-transport operator. Likely overlaps 2012–2013 manager role and board service; retained as an undated component, not added as another duration. Ability to drive bus is not recorded as a separate paid job. September2013conference delegate list independently places her with Transit Systems Australia at that time. Affiliation supports commercial-career chronology but does not identify subsidiary, salaried title or start/end.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "281603-05"
     },
@@ -139,9 +141,10 @@
         "src-2",
         "src-3",
         "src-4",
-        "src-6"
+        "src-6",
+        "src-16"
       ],
-      "evidence_note": "Official envelope combined with named adviser relationship. Work was for former Prime Minister, not assumed continuous employment in serving Prime Minister’s office. Confirm any change between personal political office and separately employed nonprofit/international work; no automatic public classification.",
+      "evidence_note": "Official envelope combined with named adviser relationship. Work was for former Prime Minister, not assumed continuous employment in serving Prime Minister’s office. Confirm any change between personal political office and separately employed nonprofit/international work; no automatic public classification.2023first-person account recalls five years with former PM. Rounded duration within official2013–19envelope does not establish exact dates or justify six uninterrupted full-time years.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "281603-06"
     },
@@ -190,10 +193,10 @@
     },
     {
       "employer": "State Procurement Board, South Australia",
-      "role": "Part-time board member",
+      "role": "Part-time State Procurement Board and Procurement Approval Committee member",
       "start_date": "2015-10-08",
       "end_date": null,
-      "date_precision": "day",
+      "date_precision": "mixed",
       "employment_status": "part_time",
       "fte_fraction": null,
       "category": "public_corporation",
@@ -203,9 +206,10 @@
       "source_ids": [
         "src-8",
         "src-9",
-        "src-10"
+        "src-10",
+        "src-15"
       ],
-      "evidence_note": "2017 report identifies initial appointment, fee and part-time board context. Reappointed 8 October 2017 for planned term to 7 October 2019. Audit reports resignation 6 August 2018 with inconsistent Senate explanation; unresolved end retained null rather than silently correcting year.",
+      "evidence_note": "2017 report identifies initial appointment, fee and part-time board context. Reappointed 8 October 2017 for planned term to 7 October 2019. Audit reports resignation 6 August 2018 with inconsistent Senate explanation; unresolved end retained null rather than silently correcting year.2018audited note4 says listed members also belonged to Procurement Approval Committee and fees covered both. Not a second additive employment spell; no resolution of later resignation explanation.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "281603-09"
     },
@@ -254,7 +258,7 @@
       "role": "Labor Women Executive, State Executive, State Council and State Convention delegate",
       "start_date": "2017",
       "end_date": null,
-      "date_precision": "year",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "party_organisation",
@@ -311,7 +315,7 @@
       "role": "Senator for South Australia",
       "start_date": "2019-07-01",
       "end_date": null,
-      "date_precision": "day",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -457,6 +461,36 @@
       "note": "Historical corporate context for privately owned commercial transport group; transaction does not establish Smith personal employment boundaries.",
       "retrieved": "2026-10-01",
       "source_id": "src-13"
+    },
+    {
+      "url": "https://thredbo-conference-series.org/downloads/thredbo13/Thredbo13-Final-Program.pdf",
+      "publisher": "Thredbo conference organisers",
+      "title": "13th International Conference on Competition and Ownership in Land Passenger Transport,2013",
+      "source_type": "other",
+      "locator": "Cover15–19September2013;PDFp14/printedp12delegate list",
+      "note": "Lists Marielle Smith with Transit Systems Australia. Affiliation on conference date, not proof of exact salaried title, full-time status or employment start.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-14"
+    },
+    {
+      "url": "https://www.audit.sa.gov.au/sites/default/files/2022-10/State_Procurement_Board_2018.pdf",
+      "publisher": "South Australian Auditor-General / State Procurement Board",
+      "title": "2017–18audited financial statements",
+      "source_type": "government_record",
+      "locator": "PDFp13,note4;PDFp12,note3",
+      "note": "Members including M Smith also served Procurement Approval Committee; combined remuneration, no separate salaried appointment.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-15"
+    },
+    {
+      "url": "https://www.mariellesmith.com.au/news/speeches/keynote-address-to-micah-australia/",
+      "publisher": "Marielle Smith",
+      "title": "Keynote Address to Micah Australia,2March2023",
+      "source_type": "official_biography",
+      "locator": "Opening career account;2011South Sudan visit",
+      "note": "Recalls five years supporting former PM Gillard and2011travel. Approximate duration not converted to endpoints; visit not proof of paid employment or leave.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-16"
     }
   ],
   "research_notes": [
@@ -466,6 +500,8 @@
     "Gillard role: policy work concerning international education is confirmed, but former-PM personal office payroll, possible nonprofit duties and transition dates require clarification. Do not label entire 2013–2019 spell service to a sitting Prime Minister, or assert direct employment by Global Partnership for Education from policy subject alone.",
     "Hours, leave and overlaps: official year labels do not prove full-time status. Study at ANU/LSE, West African volunteering, private/public boards and adviser employment may overlap. Verify study/volunteering dates and any employment leave; no assumptions of uninterrupted work or zero earlier jobs. Public searches for full-time and role dates returned vacancies in her office or namesakes; those were not evidence of her own employment.",
     "Source access: 2015 USC profile https://blogs.adelaide.edu.au/usc/2015/05/29/usc-old-scholars-update-marielle-smith-class-of-2004/ redirects to generic new university page; 2020 USC PDF returned 400 OK; direct APH/ParlInfo, busnews and AFR returned restricted/403 errors. Coach & Bus 2014 issue https://issuu.com/truckandbusnews/docs/cbt14_for_website_lowres was non-retryable inaccessible. Indexed and alternate primary sources used; no controls bypassed.",
-    "Follow-up leads: recovered USC archive; named researcher employer primary record; manager legal entity; historical Transit Systems appointment/cessation and pay; procurement resignation discrepancy; graduate appointment and actual hours; Gillard office contract and breaks. Last follow-up 2026-10-01; next Tom Venning."
+    "Follow-up leads: recovered USC archive; named researcher employer primary record; manager legal entity; historical Transit Systems appointment/cessation and pay; procurement resignation discrepancy; graduate appointment and actual hours; Gillard office contract and breaks. Last follow-up 2026-10-01; next Tom Venning.",
+    "Follow-up2026-10-02: contemporary2013conference affiliation places Smith with Transit Systems Australia;2018audited accounts identify overlapping Procurement Approval Committee duties with combined fees;2023first-person five-year Gillard recollection constrains interpretation of official envelope. All hours and legal-contract gaps retained.",
+    "Targeted StateGazette,2018audit,USCprofile andbusiness-title searches did not resolve board resignation inconsistency or2012–13manager employer. Procurement2018note4 is a further service anchor, not an exit record.2011South Sudan visit in2023speech is travel, not a paidjob or proven employment break. NamesakeAmazonforest researcher excluded. Next seek2012–13company staffing records, originalGillard appointment/leave and2018boardminutes."
   ]
 }
