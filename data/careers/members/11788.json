@@ -6,7 +6,7 @@
   "snapshot_party": "Liberal Party of Australia",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/11788",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-01",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -16,7 +16,7 @@
   "career_spells": [
     {
       "spell_id": "11788-01",
-      "employer": "Family farm",
+      "employer": "Family equestrian business / farm",
       "role": "Farmhand",
       "start_date": null,
       "end_date": null,
@@ -30,9 +30,10 @@
       "source_ids": [
         "src-1",
         "src-2",
-        "src-first-recovered"
+        "src-first-recovered",
+        "src-career2018"
       ],
-      "evidence_note": "Full-time stated in first speech; calendar dates and whether work was paid unresolved.",
+      "evidence_note": "Full-time stated in first speech; calendar dates and whether work was paid unresolved. Career interview identifies equestrian business and distance education during early work; calendar dates and paid status remain unknown.",
       "counting_note": "Not counted: dates and/or substantive full-time status are insufficiently evidenced; year labels are not exact boundaries."
     },
     {
@@ -118,9 +119,10 @@
         "src-3",
         "src-4",
         "src-6",
-        "src-8"
+        "src-8",
+        "src-actu2016"
       ],
-      "evidence_note": "Inherited profile transcription. Start month self-reported; planned departure date reported contemporaneously. Some reports distinguish Executive Director (2011–2013) and CEO (2013–2018); combined employer tenure used. Working hours not established.",
+      "evidence_note": "Inherited profile transcription. Start month self-reported; planned departure date reported contemporaneously. Some reports distinguish Executive Director (2011–2013) and CEO (2013–2018); combined employer tenure used. Working hours not established. Conference biography records Harvard study in July2016 during broad employer tenure; whether on paid/unpaid leave or concurrent study is unknown.",
       "counting_note": "Outside the two employment headlines under the codebook; retained as career context."
     },
     {
@@ -377,7 +379,7 @@
     },
     {
       "spell_id": "11788-19",
-      "employer": "Wooryl Lodge Community Aged Care",
+      "employer": "Woorayl Lodge Community Aged Care",
       "role": "Board member",
       "start_date": null,
       "end_date": null,
@@ -507,6 +509,25 @@
       "evidence_note": "Profile lists membership from2015 with an ongoing marker; current continuity unverified. Chair years apply only to chair component.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "11788-25"
+    },
+    {
+      "employer": "Office of Russell Broadbent MP",
+      "role": "Electorate officer",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "political_staff",
+      "headline_sector": "excluded",
+      "government_control_at_time": "public",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-career2018"
+      ],
+      "evidence_note": "2018 career interview places this role after Bill Nelson internship and before energy-association work. Distinct from later ministerial adviser role; no exact dates, hours or continuous tenure inferred.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "11788-26"
     }
   ],
   "sources": [
@@ -649,6 +670,26 @@
       "note": "Interview reports resignation in early January2025. Corroborates existing month end; campaign full-time is not evidence of prior full-time corporate work.",
       "retrieved": "2026-10-01",
       "source_id": "src-fujitsu-end"
+    },
+    {
+      "url": "https://latrobevalleyexpress.com.au/news/2018/07/17/aldred-thanks-gippsland/",
+      "publisher": "Latrobe Valley Express",
+      "title": "Aldred thanks Gippsland,17July2018",
+      "source_type": "reliable_secondary",
+      "locator": "Career sequence paragraphs, lines33–45",
+      "note": "Reports electorate-officer work for Russell Broadbent following US internship; family equestrian business with distance study. No personally dated job boundaries. Relative Committee/FCA departure statement conflicts with other notices and is not used as a replacement date.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-career2018"
+    },
+    {
+      "url": "https://www.actu.org.au/wp-content/uploads/2023/05/media1032942conference-program-final.pdf",
+      "publisher": "Australian Council of Trade Unions",
+      "title": "A Fairer,Cleaner Future conference programme",
+      "source_type": "professional_profile",
+      "locator": "PDF page11, Mary Aldred biography",
+      "note": "Identifies July2016 Harvard Kennedy School Infrastructure in a Market Economy study. No paid status or leave arrangements established; employment not automatically shortened.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-actu2016"
     }
   ],
   "research_notes": [
@@ -658,6 +699,7 @@
     "The current codebook excludes employer associations and political staff. Older supplement sector labels were recoded accordingly. Board/advisory posts are retained but not treated as full-time employment.",
     "Public LinkedIn departure post confirms leaving Fujitsu about two years after joining but renders only a relative timestamp; no exact date inferred from it.",
     "2026-10-01 follow-up: supplied finer hospital/Lifeline chronology, added four previously missing government advisory appointments, corroborated basketball chair appointment and2025 Fujitsu departure, and recovered first-speech source after member webpage became a placeholder. Newly retrieved profile organisation dates remain self-reported; no claim of original screenshot reinspection or full-time work.",
-    "Avenues: indexed public profile (direct999), Gippsland Water2022 primary submission, basketball institution announcement, Hansard reproduction, Bass Coast Post interview, FCA/Fujitsu appointment coverage, hospital/charity annual-report and early energy regulatory searches. No new hours, farm remuneration or historical energy-control proof. Retain January versus February2023 Fujitsu start conflict and newly identified2021 versus2022 ViPlus end discrepancy. Profile additionally lists Hawthorn young executive committee from2015, chair2015–17, with ongoing marker that needs historical cessation confirmation; future follow-up lead. Seek primary hospital/charity board appointments, Woorayl tenure, energy employer contracts/control and leave."
+    "Avenues: indexed public profile (direct999), Gippsland Water2022 primary submission, basketball institution announcement, Hansard reproduction, Bass Coast Post interview, FCA/Fujitsu appointment coverage, hospital/charity annual-report and early energy regulatory searches. No new hours, farm remuneration or historical energy-control proof. Retain January versus February2023 Fujitsu start conflict and newly identified2021 versus2022 ViPlus end discrepancy. Profile additionally lists Hawthorn young executive committee from2015, chair2015–17, with ongoing marker that needs historical cessation confirmation; future follow-up lead. Seek primary hospital/charity board appointments, Woorayl tenure, energy employer contracts/control and leave.",
+    "Second follow-up2October2026: recovered omitted Russell Broadbent electorate-officer role from2018 career interview; identified family farm as equestrian business and July2016 Harvard study as possible leave/overlap requiring investigation. Corrected Woorayl employer spelling. Canadian Ontario Energy Board counsel and US Aldred-Crouch are namesakes;2023 mid-1990s Broadbent staff quote belongs John Pesutto, not Aldred. Source2018 relative departure statement/equivalent FCA name conflicts with established appointment notices; no dates overwritten. Original Australian Carbon Innovation PDF now404. Early regulatory and hospital searches yielded no new full-time/payroll evidence. Next pursue original Broadbent staff chronology, farm remuneration/dates, Simply Energy/Green Made Easy contracts/control and Fujitsu January/February2023 discrepancy. No totals or full-time assumptions added."
   ]
 }
