@@ -6,21 +6,21 @@
   "snapshot_party": "Australian Greens",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/250362",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-02",
+  "last_reviewed": "2026-10-03",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
     "calculation_status": "not_calculable",
-    "note": "Sinclair Knight Merz full-time work is now supported by an employer-linked oral-history account, but the recollected1998 start conflicts with official March1999 and the full-time interval/leave remains unresolved. Two council jobs lack personal hours evidence. University, study, nonprofit, party and elected activity remain separate; headline years stay null, not zero."
+    "note": "Sinclair Knight Merz full-time work is now supported by an employer-linked oral-history account, but the recollected1998 start conflicts with official March1999 and the full-time interval/leave remains unresolved. Two council jobs lack personal hours evidence. University, study, nonprofit, party and elected activity remain separate; headline years stay null, not zero. NESPAK1988–1992 public corporate employment and ERM2004 private employment now identified; hours remain unknown, so neither produces a numerical total."
   },
   "career_spells": [
     {
       "spell_id": "250362-uet-study",
       "employer": "University of Engineering and Technology Lahore",
       "role": "Bachelor of Engineering (Civil) student",
-      "start_date": null,
+      "start_date": "1982",
       "end_date": "1988",
-      "date_precision": "mixed",
+      "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "study",
@@ -29,31 +29,34 @@
       "counting_status": "excluded",
       "source_ids": [
         "src-unsw",
-        "src-secondary"
+        "src-secondary",
+        "src-affidavit2023-oct3"
       ],
-      "evidence_note": "UNSW alumni material and the secondary biography record completion of the civil-engineering degree in 1988. Start date, load and employment overlap are unresolved.",
+      "evidence_note": "UNSW alumni material and the secondary biography record completion of the civil-engineering degree in 1988. Start date, load and employment overlap are unresolved. Affidavit paragraph6 supplies1982 commencement.",
       "counting_note": "Study is excluded under the codebook."
     },
     {
       "spell_id": "250362-pakistan-engineer",
-      "employer": "Unidentified employer in Pakistan",
+      "employer": "National Engineering Services Pakistan (NESPAK) Consulting Engineers",
       "role": "Structural engineer",
       "start_date": "1988",
       "end_date": "1992",
       "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
-      "category": "unknown",
-      "headline_sector": "unknown",
-      "government_control_at_time": "unknown",
+      "category": "public_corporation",
+      "headline_sector": "public",
+      "government_control_at_time": "public",
       "counting_status": "insufficient_evidence",
       "source_ids": [
         "src-secondary",
         "src-abc-2026",
-        "src-slnsw-oral2014-oct2"
+        "src-slnsw-oral2014-oct2",
+        "src-affidavit2023-oct3",
+        "src-nespak-history-oct3"
       ],
-      "evidence_note": "The secondary biography says she became a structural engineer after graduating in 1988 and moved to Sydney in 1992. Employer, exact dates, sector, hours, leave and continuity are unresolved; the endpoints are contextual bounds rather than a complete employment interval. ABC 2026 interview corroborates engineering employment in Pakistan but does not name the organisation. Oral history27:16–30:18 describes the employer as a large engineering consulting firm in Pakistan, with roughly2,000 men and where she met her future husband. The firm is not named; consulting does not itself establish private ownership.",
-      "counting_note": "Employer control and substantive full-time interval are not established."
+      "evidence_note": "The secondary biography says she became a structural engineer after graduating in 1988 and moved to Sydney in 1992. Employer, exact dates, sector, hours, leave and continuity are unresolved; the endpoints are contextual bounds rather than a complete employment interval. ABC 2026 interview corroborates engineering employment in Pakistan but does not name the organisation. Oral history27:16–30:18 describes the employer as a large engineering consulting firm in Pakistan, with roughly2,000 men and where she met her future husband. The firm is not named; consulting does not itself establish private ownership. Affidavit paragraph7 explicitly identifies NESPAK and1988–1992 tenure, resolving the unnamed firm and replacing contextual bounds with stated employment years. Employer50-year history supports public corporate control; private-limited legal form is not private ownership.",
+      "counting_note": "Government-controlled company identified; personal full-time status, leave and exact dates remain unverified. No headline years calculated."
     },
     {
       "spell_id": "250362-unsw-research",
@@ -92,9 +95,10 @@
         "src-unsw",
         "src-secondary",
         "src-unsw-alumni-current",
-        "src-slnsw-oral2014-oct2"
+        "src-slnsw-oral2014-oct2",
+        "src-affidavit2023-oct3"
       ],
-      "evidence_note": "The secondary biography records arrival and UNSW study from 1992, completion of the master's degree in 1994 and environmental-engineering doctorate in 2000; UNSW alumni material corroborates the qualifications. Exact enrolment dates, load and research-employment overlap are unresolved. Current UNSW alumni profile independently confirms MEngSc 1994 and PhD 2000. Oral history33:20–36:27 distinguishes an initially offered non-resident scholarship declined in favour of permanent residency from the later scholarship-linked CRC work at39:54. She says she initially chose study rather than seeking a full-time job; this does not establish the hours of every subsequent research role.",
+      "evidence_note": "The secondary biography records arrival and UNSW study from 1992, completion of the master's degree in 1994 and environmental-engineering doctorate in 2000; UNSW alumni material corroborates the qualifications. Exact enrolment dates, load and research-employment overlap are unresolved. Current UNSW alumni profile independently confirms MEngSc 1994 and PhD 2000. Oral history33:20–36:27 distinguishes an initially offered non-resident scholarship declined in favour of permanent residency from the later scholarship-linked CRC work at39:54. She says she initially chose study rather than seeking a full-time job; this does not establish the hours of every subsequent research role. Affidavit paragraphs11–12 distinguish masters1992–1994 from doctorate1995–2000; retain umbrella spell without duplicate study duration.",
       "counting_note": "Study is excluded under the codebook."
     },
     {
@@ -112,9 +116,10 @@
       "counting_status": "insufficient_evidence",
       "source_ids": [
         "src-snapshot",
-        "src-slnsw-oral2014-oct2"
+        "src-slnsw-oral2014-oct2",
+        "src-affidavit2023-oct3"
       ],
-      "evidence_note": "The frozen official extract supplies the employer, role and month-level boundaries. Exact days, hours, leave and overlap with doctoral study are unresolved. The 11April2014 oral history at40:14–42:18 explicitly links Sinclair Knight Merz to work before the family moved out of Sydney and says both partners were working full time. This supports a full-time role at that stage, not verified full-time continuity throughout. It recalls a1998 start and about three years there, conflicting with official March1999–June2001 dates, which are retained pending reconciliation. Transcript is community-corrected; audio and personal contract not independently checked.",
+      "evidence_note": "The frozen official extract supplies the employer, role and month-level boundaries. Exact days, hours, leave and overlap with doctoral study are unresolved. The 11April2014 oral history at40:14–42:18 explicitly links Sinclair Knight Merz to work before the family moved out of Sydney and says both partners were working full time. This supports a full-time role at that stage, not verified full-time continuity throughout. It recalls a1998 start and about three years there, conflicting with official March1999–June2001 dates, which are retained pending reconciliation. Transcript is community-corrected; audio and personal contract not independently checked. Affidavit paragraph13(a) independently reports1999–2001, supporting official startyear over the oral-history1998 recollection; discrepancy remains explicit pending employment record.",
       "counting_note": "Full-time work is now explicitly employer-linked, but its exact interval, leave and conflicting start dates remain unresolved. No point total calculated from month labels or recollected duration."
     },
     {
@@ -140,7 +145,7 @@
     {
       "spell_id": "250362-unsw-ies",
       "employer": "University of New South Wales — Institute of Environmental Studies",
-      "role": "Director and Lecturer",
+      "role": "Lecturer, Environmental Management and Sustainability; acting directorship subterm",
       "start_date": "2004-08",
       "end_date": "2008-04",
       "date_precision": "month",
@@ -152,9 +157,10 @@
       "counting_status": "excluded",
       "source_ids": [
         "src-snapshot",
-        "src-secondary"
+        "src-secondary",
+        "src-affidavit2023-oct3"
       ],
-      "evidence_note": "The frozen extract supplies month-level boundaries and roles; the secondary biography corroborates institute directorship. Exact days, teaching/research allocation, hours and leave are unresolved.",
+      "evidence_note": "The frozen extract supplies month-level boundaries and roles; the secondary biography corroborates institute directorship. Exact days, teaching/research allocation, hours and leave are unresolved. Affidavit paragraph13(d) narrows acting-director duties to2007–2008 within lecturer service2004–2008; not director for the whole appointment.",
       "counting_note": "University employment is excluded from the narrow public/private headline under the current codebook."
     },
     {
@@ -336,6 +342,142 @@
       "evidence_note": "Oral history68:13–68:25 describes repeated visits to Pakistan to work with NGOs. Organisations, dates, contractual or volunteer basis and hours unspecified; not presumed paid or continuous, and not added to engineering employment time.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "250362-pakistan-ngo"
+    },
+    {
+      "employer": "Environmental Resources Management (Australian payroll entity unresolved)",
+      "role": "Senior Associate",
+      "start_date": "2004",
+      "end_date": "2004",
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "private_enterprise",
+      "headline_sector": "private",
+      "government_control_at_time": "private",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-affidavit2023-oct3",
+        "src-erm-buyout-oct3"
+      ],
+      "evidence_note": "Affidavit13(c). Investor announcement supports private group control. Months, hours and overlap with council/UNSW unknown.",
+      "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
+      "spell_id": "250362-erm"
+    },
+    {
+      "employer": "HCB Community Participation and Review Committee, Orica Botany",
+      "role": "Chair",
+      "start_date": "2005-11",
+      "end_date": "2010",
+      "date_precision": "mixed",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-affidavit2023-oct3",
+        "src-orica2010-oct3"
+      ],
+      "evidence_note": "Affidavit14(a); contemporaneous newsletter refines start to November2005. Some affiliations unpaid, individual basis unknown. Advisory chair is not operational company employment.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "250362-orica-chair"
+    },
+    {
+      "employer": "Mosman Council — Sustainability Advisory Group",
+      "role": "Chair",
+      "start_date": "2006",
+      "end_date": "2008",
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "public_service",
+      "headline_sector": "excluded",
+      "government_control_at_time": "public",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-affidavit2023-oct3"
+      ],
+      "evidence_note": "Affidavit14(b). Advisory governance; pay and hours unknown, distinct from later council employment.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "250362-mosman-advisory"
+    },
+    {
+      "employer": "NSW Government — Environmental Trust Urban Sustainability Grants technical committee",
+      "role": "Member; sustainability specialist",
+      "start_date": "2006",
+      "end_date": "2010",
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "public_service",
+      "headline_sector": "excluded",
+      "government_control_at_time": "public",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-affidavit2023-oct3"
+      ],
+      "evidence_note": "Affidavit14(c). Advisory role; remuneration unknown, not an independent full-time employment spell.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "250362-environmental-trust"
+    },
+    {
+      "employer": "UNSW — Institute of Environmental Studies",
+      "role": "Visiting Fellow",
+      "start_date": "2008",
+      "end_date": "2011",
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "university",
+      "headline_sector": "excluded",
+      "government_control_at_time": "public",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-affidavit2023-oct3",
+        "src-orica2010-oct3"
+      ],
+      "evidence_note": "Affidavit14(d); Orica2010 newsletter corroborates visiting affiliation. Paid basis and hours unknown.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "250362-visiting-fellow"
+    },
+    {
+      "employer": "NSW Department of Environment, Climate Change and Water — Energy Efficiency Reference Group",
+      "role": "Member",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "public_service",
+      "headline_sector": "excluded",
+      "government_control_at_time": "public",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-affidavit2023-oct3"
+      ],
+      "evidence_note": "Affidavit14(e) places activity about2010; approximate observation not exact start/end. Advisory role; pay unknown.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "250362-energy-reference"
+    },
+    {
+      "employer": "NSW Office of Water — Advancing Sustainability Leaders Advisory Group",
+      "role": "Member",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "public_service",
+      "headline_sector": "excluded",
+      "government_control_at_time": "public",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-affidavit2023-oct3"
+      ],
+      "evidence_note": "Affidavit14(f) places activity about2010; approximate observation not exact start/end. Advisory role; pay unknown.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "250362-water-advisory"
     }
   ],
   "sources": [
@@ -438,6 +580,46 @@
       "note": "Public edited transcript retrieved through page data endpoint https://amplify.gov.au/transcripts/islamicfaith_mehreenfaruqi.json. Community-corrected transcript; audio not independently checked. First-person career account adds work context and resolves employer associated with pre-move full-time testimony, but recollected1998 start conflicts with official March1999 boundary.",
       "retrieved": "2026-10-02",
       "source_id": "src-slnsw-oral2014-oct2"
+    },
+    {
+      "source_id": "src-affidavit2023-oct3",
+      "url": "https://www.fedcourt.gov.au/__data/assets/pdf_file/0020/117623/Affidavit-of-Mehreen-Faruqi,-3-Oct-2023.pdf",
+      "publisher": "Federal Court of Australia / Mehreen Faruqi",
+      "title": "Affidavit of Mehreen Saeed Faruqi,3October2023",
+      "source_type": "government_record",
+      "locator": "PDFpp2–3, paragraphs6–17, career and education only",
+      "note": "First-person affirmed career chronology; evidence of own account, not a judicial finding of employment conditions.",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "source_id": "src-nespak-history-oct3",
+      "url": "https://nespak.com.pk/pdf/nhistory.pdf",
+      "publisher": "NESPAK",
+      "title": "50 years of NESPAK,1973–2023",
+      "source_type": "employer",
+      "locator": "Printedp4, NESPAK at a Glance; p16 former managing-director account",
+      "note": "Historical employer account describes1973 establishment as a public-sector private limited company under Ministry of Water and Power. Corporate private-limited form does not mean private control.",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "source_id": "src-erm-buyout-oct3",
+      "url": "https://www.wateronline.com/doc/3i-leads-285m-management-buy-out-of-environme-0001",
+      "publisher": "3i, press release reproduced by Water Online",
+      "title": "3i leads management buyout of ERM,11April2001",
+      "source_type": "employer",
+      "locator": "Opening paragraphs and Source:3i",
+      "note": "Contemporary investor announcement establishes private investor/employee ownership before2004. Exact Australian payroll subsidiary remains unresolved.",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "source_id": "src-orica2010-oct3",
+      "url": "https://www.orica.com/ArticleDocuments/874/20100301_BTP_HCB_CPRCnewsletter_.pdf.aspx",
+      "publisher": "Orica / HCB Community Participation and Review Committee",
+      "title": "Community newsletter,March2010",
+      "source_type": "employer",
+      "locator": "Chair succession paragraph, publicly indexed PDF text",
+      "note": "Explicit chair commencement November2005 and announced intention to step down; no exact final day. Direct retrieval403, not bypassed.",
+      "retrieved": "2026-10-03"
     }
   ],
   "research_notes": [
@@ -452,7 +634,8 @@
     "Individual source gaps: NSW inaugural PDF returned 404; Queensland tabled interests copy later returned 403; historical ABR view failed. Current ABR and accessible NSW return copy supplied usable alternatives. These are source gaps, not job-wide limits.",
     "Second follow-up2October2026 recovered the publicly downloadable State Library oral-history transcript after the web reader returned only the application shell. This materially resolves the employer link of the pre-Port Macquarie full-time account and adds scholarship-linked CRC work, cooperative childcare and Pakistan NGO visits. No arbitrary dates or full-spell hours inferred.",
     "AAP2022 and ABC2026 accounts re-read: campaign year remains unspecified; ABC alone still does not name the full-time employer. The2014 oral history provides the missing SKM link. Public LinkedIn index suggests July2004 IES start versus official August2004, but the full entry was not available for reliable reconciliation; official boundary retained. SBS2018 Macquarie University reference remains uncorroborated by an employer record.",
-    "Next priority: verify oral-history audio around39:54–42:18 and original SKM appointment/leave documentation to reconcile1998 versus March1999; identify the large Pakistan consulting firm without guessing from size; identify CRC contract entity and NGO organisations."
+    "Next priority: verify oral-history audio around39:54–42:18 and original SKM appointment/leave documentation to reconcile1998 versus March1999; identify the large Pakistan consulting firm without guessing from size; identify CRC contract entity and NGO organisations.",
+    "Follow-up3October2026: publicly filed personal affidavit resolves NESPAK identity and omitted ERM employment, separates advisory affiliations and narrows acting directorship. Historical NESPAK account supports public control and contemporary3i release supports private ERM group ownership. Personal pay, hours, leave,2004 transitions and Australian payroll entity remain unresolved. Orica indexed newsletter adds November2005 chair start; direct403 not retried. NESPAK oversized web-reader failure recovered by authorized ordinary PDF download. No job-wide error or inferred full-time status. Additional precise roles from the affidavit are accounted for without copying unrelated court claims or family material."
   ],
   "open_questions": [
     "Who employed Faruqi as a structural engineer in Pakistan, on what dates and hours, and under what ownership?",
