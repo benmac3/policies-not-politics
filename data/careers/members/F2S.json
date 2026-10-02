@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/F2S",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-01",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -65,9 +65,10 @@
       "government_control_at_time": "unknown",
       "counting_status": "insufficient_evidence",
       "source_ids": [
-        "src-7"
+        "src-7",
+        "src-14"
       ],
-      "evidence_note": "Early role separate from later CEO appointment; historical control and dates not established.",
+      "evidence_note": "Early role separate from later CEO appointment; historical control and dates not established. 2012employer announcement calls NLC her first job; specific dates and conditions still absent.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "F2S-03"
     },
@@ -134,7 +135,7 @@
     },
     {
       "employer": "Commonwealth and Northern Territory health departments; employing entity unresolved",
-      "role": "Health service and community care trial coordination",
+      "role": "Executive officer, Katherine West Coordinated Care Trial; other health trial work",
       "start_date": null,
       "end_date": null,
       "date_precision": "unknown",
@@ -147,9 +148,11 @@
       "source_ids": [
         "src-2",
         "src-7",
-        "src-8"
+        "src-8",
+        "src-14",
+        "src-15"
       ],
-      "evidence_note": "Department positions and trial work identified; legal employer, secondments, dates and possible overlap with health-service leadership unresolved. Government funding does not itself establish employment.",
+      "evidence_note": "Department positions and trial work identified; legal employer, secondments, dates and possible overlap with health-service leadership unresolved. Government funding does not itself establish employment. Red Cross announcement supplies executive-officer title; KWHB2022report index describes community engagement in1997. Neither establishes exact employing entity or term;1997not converted into start/end.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "F2S-07"
     },
@@ -190,18 +193,19 @@
         "src-1",
         "src-3",
         "src-8",
-        "src-10"
+        "src-10",
+        "src-14"
       ],
-      "evidence_note": "Frozen occupation preserved as a disputed claim. Other primary biographies identify Australian Red Cross work; no corroborating ARC employer record found. Not treated as a confirmed additional public-service job or silently replaced.",
+      "evidence_note": "Frozen occupation preserved as a disputed claim. Other primary biographies identify Australian Red Cross work; no corroborating ARC employer record found. Not treated as a confirmed additional public-service job or silently replaced. ContemporaneousOctober2012Red Cross national-head appointment strengthens alternative employer identification, but does not establish that frozen2013–15dates are correct. Disputed claim is not a separate confirmed job.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "F2S-09"
     },
     {
       "employer": "Australian Red Cross",
-      "role": "Role title not independently established",
-      "start_date": null,
+      "role": "Head of Aboriginal and Torres Strait Islander Strategy and Community Programs",
+      "start_date": "2012",
       "end_date": null,
-      "date_precision": "unknown",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "nonprofit",
@@ -211,9 +215,10 @@
       "source_ids": [
         "src-3",
         "src-8",
-        "src-10"
+        "src-10",
+        "src-14"
       ],
-      "evidence_note": "Employer biography and party biography corroborate charity employment. ANU launch identifies Red Cross affiliation in October2012. Precise dates/title and relationship to disputed frozen2013–15 role remain unresolved.",
+      "evidence_note": "Employer biography and party biography corroborate charity employment. ANU launch identifies Red Cross affiliation in October2012. Precise dates/title and relationship to disputed frozen2013–15 role remain unresolved. Contemporaneous Red Cross announcement reproducedOctober2012names title and recent commencement after parliamentary departure. Startyear2012supported; month/day and end unknown.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "F2S-10"
     },
@@ -529,6 +534,26 @@
       "note": "Public speaker biography identifies Red Cross board role separately; terms and remuneration absent.",
       "retrieved": "2026-10-01",
       "source_id": "src-13"
+    },
+    {
+      "url": "https://www.titeb.com.au/wp-content/uploads/2017/10/TiwiTimesOctober2012.pdf",
+      "publisher": "Australian Red Cross announcement reproduced by Tiwi Islands Training and Employment Board",
+      "title": "Tiwi Times,October2012",
+      "source_type": "employer",
+      "locator": "Printedp2, Marion Scrymgour joins Red Cross in new leadership role",
+      "note": "Names national strategy/community-program head; says commenced after recent parliamentary departure. Also identifies earlier NLC first job and Katherine West trial executive officer. Publication gives latest observation, not precise first working day.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-14"
+    },
+    {
+      "url": "https://www.kwhb.com.au/wp-content/uploads/2024/01/KWHB-AR_INTERNALS_2022_DIGITAL_-Jan-2024.pdf",
+      "publisher": "Katherine West Health Board",
+      "title": "Annual report2022",
+      "source_type": "employer",
+      "locator": "Indexed historical account mentioning1997and Mr Little",
+      "note": "Index records Scrymgour seeking Little assistance for regional community engagement in1997. Direct web400size20198058; whole report not inspected. Activity observation, not employment boundary.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-15"
     }
   ],
   "research_notes": [
@@ -536,6 +561,8 @@
     "Three frozen occupation entries require explicit reconciliation: NLC beganApril2019 rather than2018; Tiwi employment continued into2019 rather than ending2018; Australian Research Council attribution conflicts with independently corroborated Red Cross work. Shared frozen roster unchanged.",
     "Follow-up: obtain historic Wurli and Katherine West annual reports and executive/governance appointments; identify Batchelor/Nguiu/NLC early dates and health-department legal employers; confirm Red Cross title and dates, Tiwi cessation and individual hours, NLC duties-to-resignation leave, board remuneration and overlaps. No source establishes a complete paid full-time chronology.",
     "Missing dates/hours are unknown, not zero. Do not add overlapping health, governance, political or study roles. Personal biography total23years is not a calculable dated full-time interval. Review government control of early undated institutional roles separately from current status.",
-    "Recovered source errors: Menzies HTML Unicode decoding error but PDF accessible; AMSANT PDF Internal Error; Tiwi Partners newsletter404. Primary indexed details retained with access limitations. No job-wide blocking error."
+    "Recovered source errors: Menzies HTML Unicode decoding error but PDF accessible; AMSANT PDF Internal Error; Tiwi Partners newsletter404. Primary indexed details retained with access limitations. No job-wide blocking error.",
+    "Follow-up2026-10-02: contemporaneous Red Cross appointment reproduced inOctober2012Tiwi Times establishes national-head title and2012commencement, materially clarifying the frozen Research Council conflict. Exact termination and whether any separateResearchCouncilrole existed remain unresolved; no duplicate public years.",
+    "Employer historical report index adds1997Katherine West engagement observation; Red Cross biography names trial executive officer. KWHBfullreportweb400size20198058; only index used. Next useful records: Red Cross2012–14staff departures, Wurli2013–15appointment announcement, Katherine West1997–2001executive contract and payroll, Tiwi2019separation and NLCJuly2021leave evidence. No individual full-time proof found."
   ]
 }
