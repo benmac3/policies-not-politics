@@ -6,7 +6,7 @@
   "snapshot_party": "Liberal Party of Australia",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/274506",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-01",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -491,6 +491,26 @@
       "evidence_note": "SWG professional biography names this consulting client. It does not identify direct employment versus own business or Kelly+Partners engagement, dates, ordinary hours, leave or payment. Client identity alone does not determine employer control or headline sector.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "274506-chamber-consulting"
+    },
+    {
+      "employer": "Neuroscience Research Australia Foundation",
+      "role": "Foundation board director",
+      "start_date": "2023-02",
+      "end_date": null,
+      "date_precision": "mixed",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "nonprofit",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-neura-statements-oct2",
+        "src-neura-profile-oct2"
+      ],
+      "evidence_note": "Foundation statements expressly date appointment to February2023. Exact day, cessation, remuneration and workload unknown; organisation profile corroborates role without a dated tenure update. Separate from parliamentary funding announcements and company consulting.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "274506-neura-foundation"
     }
   ],
   "sources": [
@@ -703,6 +723,26 @@
       "note": "Reports appointment effective 7 November 2018. MarketIndex also lists the company announcement released 8 November AEST; no primary contract or cessation terms recovered.",
       "retrieved": "2026-10-01",
       "source_id": "src-parazero"
+    },
+    {
+      "url": "https://neura.edu.au/resources/common/NeuRA-Foundation-Financial-Statements-2023.pdf",
+      "publisher": "Neuroscience Research Australia Foundation",
+      "title": "Financial statements for year ended31December2022, signed12May2023",
+      "source_type": "annual_report",
+      "locator": "Note14 Trustee Details, PDF page15, Dave Sharma; note includes directors appointed after period end",
+      "note": "Identifies appointment in February2023. Filename2023 reflects reporting/signing timing; does not mean service in2022.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-neura-statements-oct2"
+    },
+    {
+      "url": "https://neura.edu.au/about/dave-sharma",
+      "publisher": "Neuroscience Research Australia",
+      "title": "Dave Sharma — Foundation Board Member",
+      "source_type": "professional_profile",
+      "locator": "Current Appointments and biography",
+      "note": "Organisation lists Foundation board membership; biography describes him as former MP and may be stale, so no continuous current tenure assumed.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-neura-profile-oct2"
     }
   ],
   "research_notes": [
@@ -713,6 +753,7 @@
     "2026-10-01 follow-up: exact Shekel non-executive term recovered; Harbour Trust appointment and September resignation found; distinct ParaZero, Roots and Aegros engagements added. SWG partner appointment effective May 2023 clarified from employer release; 2022 directorship and commercial exit still need precise evidence.",
     "Searched company annual reports, appointment notices, government trust minutes, interests register and full-time references. No individual ordinary hours, DFAT leave/payroll continuity, Kelly+Partners contract or post-ambassador transition dates recovered. Senior public-service titles do not establish hours; government consulting clients do not establish government employment.",
     "APH interests PDF returned HTTP403/robots; indexed extract exposed investments but not a complete verified employment contract. A reported 49% Kelly partnership interest remains a lead, not adopted from a third-party copy. Roots primary PDF exceeded web fetch size; indexed appointment text used explicitly. Some search queries returned irrelevant terms and were not treated as evidence.",
-    "Next leads: Kelly+Partners Government Relations/Incentives/Innovation partnership and personnel disclosures, Roots and ParaZero original consultancy/advisory contracts, Aegros resignation notice, SWG director register and DFAT personnel transfer records. Harbour Trust later ex-officio committee membership as MP should be assessed separately from the short 2018 board term."
+    "Next leads: Kelly+Partners Government Relations/Incentives/Innovation partnership and personnel disclosures, Roots and ParaZero original consultancy/advisory contracts, Aegros resignation notice, SWG director register and DFAT personnel transfer records. Harbour Trust later ex-officio committee membership as MP should be assessed separately from the short 2018 board term.",
+    "Second follow-up2October2026 adds NeuRA Foundation directorship from its financial statements, beginning February2023. Public board profile may predate Senate appointment; no assumed current continuity. Kelly+Partners partnership-interest/contract and Roots remuneration searches did not resolve substantive hours or employee status. Shekel2018 prospectus lead https://www.aspecthuntley.com.au/asxdata/20181116/pdf/02048980.pdf returned DisabledError through web open; no alternate access attempted. Indexed text repeats director/principal title only. Full-time references in parliamentary commentary concern other workers or elected office, not his diplomatic or commercial employment. Next leads remain public employer appointment/leave records, original consultancy agreements and board cessation notices; no salary or hours inferred from seniority."
   ]
 }
