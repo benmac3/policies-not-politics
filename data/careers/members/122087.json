@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/122087",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-01",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -17,9 +17,9 @@
     {
       "employer": "Australian Broadcasting Corporation",
       "role": "Aboriginal journalist cadet, then news/current affairs journalist and presenter",
-      "start_date": "1989",
-      "end_date": "2005",
-      "date_precision": "year",
+      "start_date": "1989-01",
+      "end_date": "2005-04",
+      "date_precision": "month",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "public_corporation",
@@ -33,9 +33,10 @@
         "src-6",
         "src-7",
         "src-8",
-        "src-9"
+        "src-9",
+        "src-12"
       ],
-      "evidence_note": "One ABC umbrella, not sixteen assumed full-time years. Cadet progression, regional postings, presentation duties and any leave/part-time periods lack boundaries. 1997 community return may overlap or interrupt ABC work; no assumed cessation.",
+      "evidence_note": "One ABC umbrella, not sixteen assumed full-time years. Cadet progression, regional postings, presentation duties and any leave/part-time periods lack boundaries. 1997 community return may overlap or interrupt ABC work; no assumed cessation. Own professional public index refines previously year-only endpoints to 1989-01 through 2005-04. No continuous full-time status, internal breaks or exact days inferred from profile duration.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "122087-01"
     },
@@ -100,10 +101,10 @@
     },
     {
       "employer": "Special Broadcasting Service / National Indigenous Television",
-      "role": "News presenter and journalist",
-      "start_date": "2012",
-      "end_date": "2016",
-      "date_precision": "year",
+      "role": "News presenter and journalist; presenter/producer, Week in Review then Point In Review",
+      "start_date": "2012-12",
+      "end_date": "2016-04",
+      "date_precision": "month",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "public_corporation",
@@ -116,9 +117,10 @@
         "src-3",
         "src-5",
         "src-8",
-        "src-9"
+        "src-9",
+        "src-12"
       ],
-      "evidence_note": "Returned after 2012 NT election loss, hence after SBS assumed management of NITV on 1 July. Exact employing/payroll entity and commencement remain to verify. Concurrent part-time school role does not establish media hours; no double counting.",
+      "evidence_note": "Returned after 2012 NT election loss, hence after SBS assumed management of NITV on 1 July. Exact employing/payroll entity and commencement remain to verify. Concurrent part-time school role does not establish media hours; no double counting. Own professional public index refines previously year-only endpoints to 2012-12 through 2016-04. No continuous full-time status, internal breaks or exact days inferred from profile duration. Programme titles are responsibilities within same broadcaster umbrella; title-transition dates unknown.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "122087-05"
     },
@@ -315,6 +317,16 @@
       "note": "Under Society of Jesus care since 1880; non-government control. Historical employing legal entity and nonprofit form still to establish.",
       "retrieved": "2026-10-01",
       "source_id": "src-11"
+    },
+    {
+      "url": "https://au.linkedin.com/in/malarndirri-mccarthy-58499062",
+      "publisher": "Malarndirri McCarthy / LinkedIn",
+      "title": "Public professional profile",
+      "source_type": "professional_profile",
+      "locator": "Publicly indexed ABC and SBS/NITV experience entries",
+      "note": "ABC January1989–April2005; SBS/NITV December2012–April2016; presenter/producer Week in Review then Point In Review. Direct open429Too Many Requests; no retry. Index-only evidence, no hidden hours inferred.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-12"
     }
   ],
   "research_notes": [
@@ -323,6 +335,8 @@
     "Follow-up: exact SBS/NITV commencement and departure, employee versus freelance periods, hours and overlaps with Riverview; Malarndirri Media business registration, client and project dates; school historical legal employer and nonprofit status, exact part-time fraction and dates. Year-only part-time span does not yield full-time years.",
     "Follow-up: dates, legal entities and paid/unpaid status for Borroloola radio and Lijakarda roles; other early jobs or inter-parliamentary income. Programme establishment alone is not employment. Missing evidence is not zero.",
     "Searched official and employer biographies, first-speech leads, contemporary school-network interview, own-school 2016 magazine including staff transitions, broadcaster historical-report indexes, ABC legislation and NITV control announcement. School source provides a material employment role missing from frozen occupations. Full-time query hits about staff vacancies and remote jobs policy are not her workload.",
-    "Preserve frozen roster/party/service. No invented January dates, no multiplication of source year spans into headline totals, and no assumption that cultural/board activity was unpaid. All sourced unknowns remain open for follow-up."
+    "Preserve frozen roster/party/service. No invented January dates, no multiplication of source year spans into headline totals, and no assumption that cultural/board activity was unpaid. All sourced unknowns remain open for follow-up.",
+    "Follow-up2026-10-02: public professional index refines ABC1989-01–2005-04 and SBS/NITV2012-12–2016-04. These month endpoints do not resolve1997community-work overlap, leave or hours. Part-time snippet appears beside another profile entry; not attributed to broadcaster employment.",
+    "Direct professional profile returned(429)Too Many Requests; not retried. Existing part-time school evidence preserved. Targeted school historical legal-form, community centre and freelance-business searches did not yield new identity-safe primary boundaries. Next leads: broadcaster personnel/annual-report references to1997leave, school2013–16financial/legal reports and Malarndirri Media contemporary client records."
   ]
 }
