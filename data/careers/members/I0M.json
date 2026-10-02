@@ -6,29 +6,35 @@
   "snapshot_party": "Liberal Party of Australia",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/I0M",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-01",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
     "calculation_status": "not_calculable",
-    "note": "Official, employer-adjacent and first-person biographies consistently identify Cash's legal career at Freehills from 1999 until entering the Senate in 2008. They do not publish exact appointment/cessation dates, hours, leave or campaign arrangements. The 1990-99 period contains travel and legal study but no sufficiently documented employment chronology. No full-time private-sector total is calculated."
+    "note": "Freehills 1999–2008 employment now includes first-person evidence of a 12-month Melbourne secondment starting June 2001. Unsupported exact cessation proxy removed. Hours, leave, promotion and pre-1999 employment remain unknown; no full-time total calculated."
   },
   "career_spells": [
     {
       "spell_id": "I0M-01",
-      "employer": "Freehills (now Herbert Smith Freehills Kramer)",
+      "employer": "Freehills",
       "role": "Solicitor and senior associate, employment and industrial relations",
       "start_date": "1999",
-      "end_date": "2008-07-01",
-      "date_precision": "mixed",
+      "end_date": "2008",
+      "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "private_enterprise",
       "headline_sector": "private",
       "government_control_at_time": "private",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-1", "src-2", "src-3", "src-4", "src-5"],
-      "evidence_note": "The official parliamentary biography and multiple professional/party biographies record legal practice at Freehills from 1999 to entry into Parliament in 2008, ultimately as a senior associate in employment and industrial relations. The exact 1999 start, promotion date, hours, leave, election campaign arrangements and final day are not published; 1 July 2008 is the Senate term start, not proved as the employment cessation date.",
+      "source_ids": [
+        "src-1",
+        "src-2",
+        "src-3",
+        "src-4",
+        "src-5"
+      ],
+      "evidence_note": "The official parliamentary biography and multiple professional/party biographies record legal practice at Freehills from 1999 to entry into Parliament in 2008, ultimately as a senior associate in employment and industrial relations. The exact 1999 start, promotion date, hours, leave, election campaign arrangements and final day are not published; 1 July 2008 is the Senate term start, not proved as the employment cessation date. Removed 1 July Senate-term commencement as unproved employer cessation proxy. First-person interview identifies Melbourne secondment beginning June 2001 for 12 months; nested detail below, not an additional employment interval.",
       "counting_note": "Private employment is well supported, but substantive full-time status, exact boundaries and leave are insufficient for a documented full-time-years calculation."
     },
     {
@@ -36,7 +42,7 @@
       "employer": "Liberal Party of Australia",
       "role": "Party office-holder and Senate candidate",
       "start_date": "1988",
-      "end_date": "2008-07-01",
+      "end_date": null,
       "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
@@ -44,8 +50,11 @@
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-1", "src-6"],
-      "evidence_note": "Biographies record Young Liberal, state-council, divisional and state-executive activity before Senate election. No paid party employment is established.",
+      "source_ids": [
+        "src-1",
+        "src-6"
+      ],
+      "evidence_note": "Biographies record Young Liberal, state-council, divisional and state-executive activity before Senate election. No paid party employment is established. Senate term start is not party-role cessation; unsupported exact endpoint removed. Individual party office dates remain to be mapped.",
       "counting_note": "Party and candidate activity is excluded."
     },
     {
@@ -54,16 +63,38 @@
       "role": "Senator for Western Australia",
       "start_date": "2008-07-01",
       "end_date": null,
-      "date_precision": "day",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-1", "src-6"],
+      "source_ids": [
+        "src-1",
+        "src-6"
+      ],
       "evidence_note": "The official parliamentary biography records election in 2007 with the Senate term beginning 1 July 2008 and subsequent re-elections.",
       "counting_note": "Federal elected office is excluded."
+    },
+    {
+      "employer": "Freehills, Melbourne office",
+      "role": "Lawyer on secondment from Perth",
+      "start_date": "2001-06",
+      "end_date": null,
+      "date_precision": "mixed",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "private_enterprise",
+      "headline_sector": "private",
+      "government_control_at_time": "private",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-2"
+      ],
+      "evidence_note": "Cash directly reports June 2001 commencement and a 12-month secondment. Approximate return around June 2002 may be inferred, but no exact cessation or actual return date is supplied, so end remains null. Nested within 1999–2008 Freehills service; do not double-count. Full-time status and leave unknown.",
+      "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
+      "spell_id": "I0M-04"
     }
   ],
   "sources": [
@@ -82,10 +113,10 @@
       "url": "https://insight.thomsonreuters.com.au/legal/posts/senator-cash-workplace-reform",
       "publisher": "Thomson Reuters",
       "title": "Senator Michaelia Cash's journey from lawyer to workplace reformer",
-      "retrieved": "2026-10-01",
+      "retrieved": "2026-10-02",
       "source_type": "primary_employer_or_professional",
-      "locator": "Career biography, 4 April 2016",
-      "note": "Professional profile identifying senior-associate status and 1999-2008 service in Freehills' Perth employment and industrial-relations practice."
+      "locator": "4 April 2016; first-person paragraph immediately after Freehills 1999–2008 chronology",
+      "note": "Cash states that her Melbourne-office secondment began June 2001 and lasted 12 months. Does not establish full-time hours or exact return day."
     },
     {
       "source_id": "src-3",
@@ -131,6 +162,9 @@
   "research_notes": [
     "Identify any paid employment between Cash's 1990 Curtin graduation and 1999 Freehills commencement, distinguishing overseas travel and legal study from employment.",
     "Obtain Freehills appointment, admission and promotion dates, hours, leave and exact cessation, including the 2007 election campaign and interval before the Senate term began on 1 July 2008.",
-    "Confirm whether any Liberal Party position was paid employment rather than party governance or candidacy."
+    "Confirm whether any Liberal Party position was paid employment rather than party governance or candidacy.",
+    "Follow-up 2026-10-02: reread full Thomson Reuters interview and identified previously unrecorded June 2001 Melbourne secondment, reported as 12 months. Dates and overlap are explicit; status remains unknown.",
+    "Searched first-job, overseas-work, admission, promotion and full-time-history terms; results did not establish additional paid employers, law admission/promotion dates or hours. Travel reporting alone is not paid employment evidence.",
+    "Next leads: historical Freehills staff biographies and annual reviews for 1999 appointment, secondment return and 2008 departure; public CV for 1990–1999 employment/study/travel overlap. Do not repeat generic biography searches without a new lead."
   ]
 }
