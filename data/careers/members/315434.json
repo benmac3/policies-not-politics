@@ -6,7 +6,7 @@
   "snapshot_party": "Liberal Party of Australia",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/315434",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-01",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -19,7 +19,7 @@
       "role": "Farming / seasonal harvest work",
       "start_date": "2011",
       "end_date": null,
-      "date_precision": "year",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "private_enterprise",
@@ -51,9 +51,10 @@
       "source_ids": [
         "src-2",
         "src-3",
-        "src-10"
+        "src-10",
+        "src-12"
       ],
-      "evidence_note": "Published CV year labels. ANZ, WorkSafe and Catholic Development Fund were projects/clients, not proven separate employment; hours and leave unknown.",
+      "evidence_note": "Published CV year labels. ANZ, WorkSafe and Catholic Development Fund were projects/clients, not proven separate employment; hours and leave unknown. Indexed professional profile lists senior-consultant entry in January2019, conflicting with CV2018end. Preserve CVenvelope and explicit conflict pending original appointment/separation evidence; do not silently extend or create additive role.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "315434-02"
     },
@@ -103,9 +104,9 @@
     {
       "employer": "National Australia Bank",
       "role": "Associate director, transformation",
-      "start_date": "2022",
-      "end_date": "2024",
-      "date_precision": "year",
+      "start_date": "2022-10",
+      "end_date": "2024-05",
+      "date_precision": "month",
       "employment_status": "full_time",
       "fte_fraction": null,
       "category": "private_enterprise",
@@ -116,10 +117,11 @@
         "src-2",
         "src-3",
         "src-7",
-        "src-8"
+        "src-8",
+        "src-12"
       ],
-      "evidence_note": "NAB executive Amanda Devlin describes transition from Accenture engagement into her strategy team full-time. This supports status at transition, not unbroken hours throughout the envelope; exact dates and breaks remain unresolved.",
-      "counting_note": "Full-time status explicitly evidenced. Year labels allow a gross calendar envelope of approximately 1–3 years, not an exact duration. Confirm boundaries and any breaks/status changes before treating that envelope as actual full-time years; headline remains null.",
+      "evidence_note": "NAB executive Amanda Devlin describes transition from Accenture engagement into her strategy team full-time. This supports status at transition, not unbroken hours throughout the envelope; exact dates and breaks remain unresolved. Public professional profile narrows NAB role to October2022–May2024. Reported inclusive platform duration is not an exact days-worked total.",
+      "counting_note": "Full-time transition explicitly evidenced by named manager; start/end now month precision. Unknown harvest leave and subsequent status prevent confirming uninterrupted full-time years. No automatic1year8months headline based on inclusive profile label.",
       "spell_id": "315434-05"
     },
     {
@@ -127,7 +129,7 @@
       "role": "Farm manager following return from corporate career",
       "start_date": "2024",
       "end_date": null,
-      "date_precision": "year",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "private_enterprise",
@@ -282,7 +284,7 @@
       "role": "Member for Grey",
       "start_date": "2025-05-03",
       "end_date": null,
-      "date_precision": "day",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -415,9 +417,9 @@
       "publisher": "Tom Venning / LinkedIn",
       "title": "Public professional profile",
       "source_type": "professional_profile",
-      "locator": "public indexed headline and Deloitte experience",
-      "note": "Identity matches Australian MP; indexed profile gives Deloitte manager and aggregate 3 years 4 months without exposed boundaries. No direct access retried after earlier LinkedIn rate response elsewhere in this cycle.",
-      "retrieved": "2026-10-01",
+      "locator": "Public indexed NAB associate director dates and Capgemini senior consultant entry",
+      "note": "NAB Oct2022–May2024explicitly associated with role. Capgemini Jan2019senior-consultant entry conflicts with preselection CV2018end; preserve conflict. Indexed extracts only; no direct rate-limited request retried.",
+      "retrieved": "2026-10-02",
       "source_id": "src-12"
     }
   ],
@@ -427,6 +429,8 @@
     "Harvest interruption: interview at 04:10 says he kept October–December free during project consulting and returned to farm, while first speech says he had not missed harvest. Do not subtract exactly three months from every year or every employer without dated evidence; paid annual leave, unpaid leave, contracting gaps and NAB employment may differ. Separately distinguish permanent 2024 farm return, election campaign, and reported missed 2025 harvest.",
     "Control: banking and commercial consultancy employers classified private, with historical corporate reporting linked. Public-sector client projects are not public employment. Exact payroll companies within Capgemini, Deloitte and Accenture remain unverified; no claim that the global brand itself was the legal employer.",
     "Employer/professional avenues: public LinkedIn indexed extract corroborates Deloitte aggregate duration, but search did not expose exact dates. No direct LinkedIn request made after prior cycle source rate response. UK architect and Austrian leadership-coach Tom Venning profiles are different people and not used. NAB shareholder report and historical consultancy filings support control but not personal hours.",
-    "Follow-up: payroll entities and appointment/promotion dates; dated full-time NAB contract/status and leave; consulting harvest arrangements; farm payroll versus self-employment and exit; app project pay/entity; mentoring hosts and dates; earlier paid jobs. Do not transfer relatives’ grain-board or parliamentary roles to Tom. Last follow-up 2026-10-01; next Charlotte Walker."
+    "Follow-up: payroll entities and appointment/promotion dates; dated full-time NAB contract/status and leave; consulting harvest arrangements; farm payroll versus self-employment and exit; app project pay/entity; mentoring hosts and dates; earlier paid jobs. Do not transfer relatives’ grain-board or parliamentary roles to Tom. Last follow-up 2026-10-01; next Charlotte Walker.",
+    "Follow-up2026-10-02: public professional index narrows direct NAB employment to October2022–May2024, superseding broad year-only boundaries. Earlier1–3yeargross envelope is historical and no longer best available precision. Full-time continuity, leave and actual first/last days remain unresolved.",
+    "Capgemini indexedJanuary2019senior-consultant entry conflicts with published2016–18CV; retain conflict rather than extend headline or misassign the adjacentDeloitte entry. Targeted app,consultancy andfarm searches returned no reliable new legal employer/pay or leave record. Next seek originalrolehistory and NAB harvest arrangements. Corporate clients remain distinct from employers."
   ]
 }
