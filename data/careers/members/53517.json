@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/53517",
   "research_status": "blocked",
-  "last_reviewed": "2026-09-30",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -19,16 +19,20 @@
       "employer": "University of Queensland",
       "role": "Bachelor of Arts student",
       "start_date": null,
-      "end_date": "1993",
-      "date_precision": "mixed",
+      "end_date": null,
+      "date_precision": "unknown",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "study",
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-3", "src-10"],
-      "evidence_note": "Dick describes returning to his degree after the 1993 election and then being offered work. The start date and any paid work during study are not identified.",
+      "source_ids": [
+        "src-3",
+        "src-10",
+        "src-1"
+      ],
+      "evidence_note": "The interview establishes university attendance in1993, not completion that year; unsupported end date removed. Official biography confirms BA, but study endpoints and concurrent paid work remain unknown.",
       "counting_note": "Study is excluded from the two employment headlines."
     },
     {
@@ -44,7 +48,11 @@
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-1", "src-2", "src-10"],
+      "source_ids": [
+        "src-1",
+        "src-2",
+        "src-10"
+      ],
       "evidence_note": "The official parliamentary biography supplies the 1993-1998 interval. Dick's 2024 interview describes the offer as a full-time job after he campaigned for Beddall while studying; exact appointment and cessation dates and leave are unavailable.",
       "counting_note": "Political staff employment is excluded irrespective of public funding."
     },
@@ -61,7 +69,11 @@
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-1", "src-2", "src-9"],
+      "source_ids": [
+        "src-1",
+        "src-2",
+        "src-9"
+      ],
       "evidence_note": "The official biography and parliamentary handbook identify the employer, role and year interval. Exact dates, hours and leave are not published.",
       "counting_note": "Political staff employment is excluded irrespective of public funding."
     },
@@ -78,14 +90,18 @@
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-1", "src-2", "src-4"],
+      "source_ids": [
+        "src-1",
+        "src-2",
+        "src-4"
+      ],
       "evidence_note": "The official biography separates the 2000-2004 organiser role from the later state-secretary role. Queensland Hansard records that the serving organiser was appointed state secretary in May 2004. Exact start, transition date, hours and leave remain unavailable.",
       "counting_note": "Party employment is excluded from the two employment headlines."
     },
     {
       "spell_id": "53517-05",
       "employer": "Australian Labor Party, Queensland branch",
-      "role": "State Secretary and campaign director",
+      "role": "Acting State Secretary, later State Secretary and campaign director",
       "start_date": "2004-05",
       "end_date": "2008-03",
       "date_precision": "month",
@@ -95,8 +111,13 @@
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-1", "src-2", "src-4", "src-5"],
-      "evidence_note": "Queensland Hansard on 13 May 2004 says organiser Dick had been appointed state secretary the previous night, supporting May 2004 precision. His resignation was announced in December 2007 for effect in March 2008 before he contested the 15 March council election; the precise employment end day is not asserted.",
+      "source_ids": [
+        "src-1",
+        "src-2",
+        "src-4",
+        "src-5"
+      ],
+      "evidence_note": "Hansard13May2004 refers to a media report of11May describing appointment as acting secretary the previous night. It supports May2004, not an unambiguous12May appointment. Later official biography identifies state secretary2004–08. Exact substantive appointment/payroll transition and cessation remain unknown; resignation announcedDecember2007 for effectMarch2008.",
       "counting_note": "Party employment is excluded from the two employment headlines."
     },
     {
@@ -112,25 +133,34 @@
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-1", "src-5", "src-6", "src-7", "src-8"],
+      "source_ids": [
+        "src-1",
+        "src-5",
+        "src-6",
+        "src-7",
+        "src-8"
+      ],
       "evidence_note": "ECQ records Dick's election on 15 March 2008. The official and party biographies give 2008-2016 service; in April 2015 he said he would serve his full term through the local election scheduled for March 2016, which ECQ records as 19 March. Council records identify him as Opposition Leader in 2013.",
       "counting_note": "Elected office is excluded from the public/private employment headlines."
     },
     {
       "spell_id": "53517-07",
       "employer": "Australian Labor Party / Oxley campaign",
-      "role": "Federal candidate for Oxley",
-      "start_date": "2016-03-20",
-      "end_date": "2016-07-01",
-      "date_precision": "day",
+      "role": "Oxley campaign, including intended full-time candidacy after council term",
+      "start_date": "2016",
+      "end_date": "2016",
+      "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "party_organisation",
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-7", "src-8"],
-      "evidence_note": "Dick said he would become a full-time candidate after completing his council term. The boundaries are derived from the day after the 2016 council election through the day before federal election; this records activity, not a finding of paid employment. Pay, legal employer and leave are not established.",
+      "source_ids": [
+        "src-7",
+        "src-8"
+      ],
+      "evidence_note": "April2015 report describes intention to campaign full-time after the March2016 council election. Prior20March–1July derived boundaries were not evidence of actual work dates; retained2016 activity only. Paid status, legal employer, hours and actual endpoints unknown.",
       "counting_note": "Candidate and party activity is excluded; 'full-time candidate' is not converted into a full-time employment finding."
     },
     {
@@ -146,27 +176,161 @@
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-1", "src-2"],
+      "source_ids": [
+        "src-1",
+        "src-2"
+      ],
       "evidence_note": "The official biography records election to Oxley on 2 July 2016 and election as Speaker on 26 July 2022.",
       "counting_note": "Federal elected office is excluded from the employment headlines."
+    },
+    {
+      "employer": "Australian Labor Party",
+      "role": "Co-reviewer,2013 federal election campaign review",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "party_organisation",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-11",
+        "src-12"
+      ],
+      "evidence_note": "Report names Dick as co-reviewer with Jane Garrett; publicly reportedJune2014 during council tenure. Commission dates, paid basis and hours unknown. Do not assume2013 in report title is appointment year.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "53517-09"
     }
   ],
   "sources": [
-    {"source_id":"src-1","url":"https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=53517","publisher":"Parliament of Australia","title":"Hon Milton Dick MP","retrieved":"2026-09-30","source_type":"official_biography","locator":"Qualifications and occupation before entering Federal Parliament; party positions; parliamentary service","note":"Official chronology for political staff, party and elected roles. Direct retrieval was restricted; the indexed page and frozen handbook snapshot were used."},
-    {"source_id":"src-2","url":"https://www.aph.gov.au/~/media/05%20About%20Parliament/54%20Parliamentary%20Depts/544%20Parliamentary%20Library/Handbook/handbook_45th_parliament.pdf?la=en","publisher":"Parliament of Australia","title":"Parliamentary Handbook of the Commonwealth of Australia, 45th Parliament","retrieved":"2026-09-30","source_type":"government_record","locator":"Biographical entry: DICK, Dugald Milton (Milton)","note":"Confirms 1993-2000 electorate-office roles, 2000-04 organiser, 2004-08 state secretary and federal service."},
-    {"source_id":"src-3","url":"https://www.aph.gov.au/Senators_and_Members/Members/FirstSpeeches/45th_Parliament/Milton_Dick","publisher":"Parliament of Australia","title":"First Speech: Mr Milton Dick MP","retrieved":"2026-09-30","source_type":"government_record","locator":"First speech, 12 October 2016","note":"Confirms university-era and family context; does not identify other paid employment."},
-    {"source_id":"src-4","url":"https://documents.parliament.qld.gov.au/events/han/2004/2004_05_13_WEEKLY.pdf","publisher":"Queensland Parliament","title":"Queensland Legislative Assembly weekly Hansard, 13 May 2004","retrieved":"2026-09-30","source_type":"government_record","locator":"p.961, statement concerning appointment of organiser Milton Dick","note":"Contemporaneous record supporting the May 2004 organiser-to-state-secretary transition."},
-    {"source_id":"src-5","url":"https://results.ecq.qld.gov.au/elections/local/lg2008/BrisbaneCityCouncil/results/councillor/summary.html","publisher":"Electoral Commission of Queensland","title":"2008 Brisbane City councillor election summary","retrieved":"2026-09-30","source_type":"government_record","locator":"Richlands Ward result; election held 15 March 2008","note":"Official election result naming Dick as elected councillor."},
-    {"source_id":"src-6","url":"https://docs.brisbane.qld.gov.au/Council%20and%20Committees/10%20year%20release/2013/7%20-July%202013%20-%2010%20year%20release.pdf","publisher":"Brisbane City Council","title":"Establishment and Coordination Committee formal submissions results, 1 July 2013","retrieved":"2026-09-30","source_type":"government_record","locator":"Consultation listing","note":"Identifies Councillor Milton Dick as Leader of the Opposition."},
-    {"source_id":"src-7","url":"https://www.abc.net.au/news/2015-04-15/bcc-milton-dick-to-seek-pre-selection-for-federal-seat-oxley/6393890","publisher":"ABC News","title":"Milton Dick, Brisbane City councillor, to seek preselection for federal seat of Oxley","retrieved":"2026-09-30","source_type":"news","locator":"15 April 2015 article and quotations","note":"Dick said he would serve the full council term, then become a full-time candidate."},
-    {"source_id":"src-8","url":"https://results.ecq.qld.gov.au/elections/local/LG2016/BrisbaneCityCouncil/index.html","publisher":"Electoral Commission of Queensland","title":"2016 Brisbane City Council election","retrieved":"2026-09-30","source_type":"government_record","locator":"Election date: 19 March 2016","note":"Official date of the council election at which Dick had said his term would end."},
-    {"source_id":"src-9","url":"https://queenslandlabor.org/milton-dick/","publisher":"Queensland Labor","title":"Milton Dick","retrieved":"2026-09-30","source_type":"professional_profile","locator":"Biography","note":"Confirms federal-government adviser background and council service from 2008 to 2016."},
-    {"source_id":"src-10","url":"https://www.couriermail.com.au/news/queensland/high-steaks-milton-dick-opens-up-on-his-journey-in-qld-politics/news-story/960bd83b023bc2795b3e86d5d78afcbb","publisher":"The Courier-Mail","title":"The very un-Labor trait Milton Dick isn't ashamed of","retrieved":"2026-09-30","source_type":"news","locator":"3 August 2024 interview; university and Beddall-office passages","note":"Dick describes being a student during the 1993 campaign and the subsequent electorate-office offer as a full-time job."}
+    {
+      "source_id": "src-1",
+      "url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=53517",
+      "publisher": "Parliament of Australia",
+      "title": "Hon Milton Dick MP",
+      "retrieved": "2026-09-30",
+      "source_type": "official_biography",
+      "locator": "Qualifications and occupation before entering Federal Parliament; party positions; parliamentary service",
+      "note": "Official chronology for political staff, party and elected roles. Direct retrieval was restricted; the indexed page and frozen handbook snapshot were used."
+    },
+    {
+      "source_id": "src-2",
+      "url": "https://www.aph.gov.au/~/media/05%20About%20Parliament/54%20Parliamentary%20Depts/544%20Parliamentary%20Library/Handbook/handbook_45th_parliament.pdf?la=en",
+      "publisher": "Parliament of Australia",
+      "title": "Parliamentary Handbook of the Commonwealth of Australia, 45th Parliament",
+      "retrieved": "2026-09-30",
+      "source_type": "government_record",
+      "locator": "Biographical entry: DICK, Dugald Milton (Milton)",
+      "note": "Confirms 1993-2000 electorate-office roles, 2000-04 organiser, 2004-08 state secretary and federal service."
+    },
+    {
+      "source_id": "src-3",
+      "url": "https://www.aph.gov.au/Senators_and_Members/Members/FirstSpeeches/45th_Parliament/Milton_Dick",
+      "publisher": "Parliament of Australia",
+      "title": "First Speech: Mr Milton Dick MP",
+      "retrieved": "2026-09-30",
+      "source_type": "government_record",
+      "locator": "First speech, 12 October 2016",
+      "note": "Confirms university-era and family context; does not identify other paid employment."
+    },
+    {
+      "source_id": "src-4",
+      "url": "https://documents.parliament.qld.gov.au/events/han/2004/2004_05_13_WEEKLY.pdf",
+      "publisher": "Queensland Parliament",
+      "title": "Queensland Legislative Assembly weekly Hansard, 13 May 2004",
+      "retrieved": "2026-10-02",
+      "source_type": "government_record",
+      "locator": "Printedp975/PDFp15, Private Members Statements: Mr M.Dick",
+      "note": "Corrected prior p961 locator. Records a report of acting appointment; exact day not inferred from ambiguous relative wording."
+    },
+    {
+      "source_id": "src-5",
+      "url": "https://results.ecq.qld.gov.au/elections/local/lg2008/BrisbaneCityCouncil/results/councillor/summary.html",
+      "publisher": "Electoral Commission of Queensland",
+      "title": "2008 Brisbane City councillor election summary",
+      "retrieved": "2026-09-30",
+      "source_type": "government_record",
+      "locator": "Richlands Ward result; election held 15 March 2008",
+      "note": "Official election result naming Dick as elected councillor."
+    },
+    {
+      "source_id": "src-6",
+      "url": "https://docs.brisbane.qld.gov.au/Council%20and%20Committees/10%20year%20release/2013/7%20-July%202013%20-%2010%20year%20release.pdf",
+      "publisher": "Brisbane City Council",
+      "title": "Establishment and Coordination Committee formal submissions results, 1 July 2013",
+      "retrieved": "2026-09-30",
+      "source_type": "government_record",
+      "locator": "Consultation listing",
+      "note": "Identifies Councillor Milton Dick as Leader of the Opposition."
+    },
+    {
+      "source_id": "src-7",
+      "url": "https://www.abc.net.au/news/2015-04-15/bcc-milton-dick-to-seek-pre-selection-for-federal-seat-oxley/6393890",
+      "publisher": "ABC News",
+      "title": "Milton Dick, Brisbane City councillor, to seek preselection for federal seat of Oxley",
+      "retrieved": "2026-10-02",
+      "source_type": "news",
+      "locator": "15 April 2015 article and quotations",
+      "note": "Dick said he would serve the full council term, then become a full-time candidate."
+    },
+    {
+      "source_id": "src-8",
+      "url": "https://results.ecq.qld.gov.au/elections/local/LG2016/BrisbaneCityCouncil/index.html",
+      "publisher": "Electoral Commission of Queensland",
+      "title": "2016 Brisbane City Council election",
+      "retrieved": "2026-09-30",
+      "source_type": "government_record",
+      "locator": "Election date: 19 March 2016",
+      "note": "Official date of the council election at which Dick had said his term would end."
+    },
+    {
+      "source_id": "src-9",
+      "url": "https://queenslandlabor.org/milton-dick/",
+      "publisher": "Queensland Labor",
+      "title": "Milton Dick",
+      "retrieved": "2026-09-30",
+      "source_type": "professional_profile",
+      "locator": "Biography",
+      "note": "Confirms federal-government adviser background and council service from 2008 to 2016."
+    },
+    {
+      "source_id": "src-10",
+      "url": "https://www.couriermail.com.au/news/queensland/high-steaks-milton-dick-opens-up-on-his-journey-in-qld-politics/news-story/960bd83b023bc2795b3e86d5d78afcbb",
+      "publisher": "The Courier-Mail",
+      "title": "The very un-Labor trait Milton Dick isn't ashamed of",
+      "retrieved": "2026-10-02",
+      "source_type": "news",
+      "locator": "3 August 2024 interview; university and Beddall-office passages",
+      "note": "Dick describes being a student during the 1993 campaign and the subsequent electorate-office offer as a full-time job."
+    },
+    {
+      "url": "https://ouralp.net/wp-content/uploads/2019/09/2013_garrett_j_dick_m_review.pdf",
+      "publisher": "Australian Labor Party; publicly archived by Our ALP",
+      "title": "2013 Election Campaign Review",
+      "source_type": "professional_profile",
+      "locator": "Printedp3/PDFp3, reviewer signatures",
+      "note": "Primary report names Dick with Jane Garrett; release datedJune2014 by contemporaneous ABC. Exact commission dates and pay not given.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-11"
+    },
+    {
+      "url": "https://www.abc.net.au/news/2014-06-21/labors-2013-election-review-blames-rudd-and-his-advisers/5539830",
+      "publisher": "ABC News",
+      "title": "ALPs2013 election review blames former prime minister Kevin Rudd, advisers for campaign mistakes",
+      "source_type": "news",
+      "locator": "21June2014, reviewers paragraph",
+      "note": "Confirms Dick and Garrett conducted the review. Publication is a snapshot, not service endpoint.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-12"
+    }
   ],
   "research_notes": [
     "The frozen parliamentary occupation text compresses all Queensland Labor work into an elected-official span of 2000-2008; the current official biography and handbook separate organiser and state-secretary roles.",
     "No evidence was found of non-political public- or private-sector employment. That absence is not converted into zero because sources do not rule out student/casual work or paid work during the 2016 candidacy interval.",
     "Follow up payroll or personnel records for exact electorate-office and party transitions, hours and leave; establish whether the 2016 full-time candidacy was paid and whether any earlier paid work accompanied university study.",
-    "The 2016 candidacy boundaries are activity boundaries derived from election dates, not claimed payroll dates."
+    "Previous precise2016 candidate boundaries were inferred from elections and have been removed; dates of paid work cannot be established from campaign intentions.",
+    "2026-10-02 follow-up: corrected1993 study endpoint, acting-secretary wording and Hansard locator; removed synthetic candidate days; added campaign-review role from original report. Searches for first jobs, UQ graduation and pre1993 work found no verified additional employer or hours. Father giving someone else a butcher job and unrelated US doctor results are not this member. Courier-Mail direct open returned Internal Error; indexed interview passage accessible. Reported full-time Beddall offer retained, but continuous hours/leave across1993–98 not independently established. Council election dates still need comparison with actual legal service/retirement dates; no headline calculation depends on these excluded roles. Follow up UQ dates, personnel/party records and candidacy pay; no outreach undertaken."
   ]
 }
