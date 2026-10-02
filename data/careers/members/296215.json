@@ -6,12 +6,12 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/296215",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-01",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
     "calculation_status": "not_calculable",
-    "note": "Month-level police liaison boundaries and multiple employer/advisory roles are now established. No source establishes complete full-time payroll intervals or consulting workload; headline totals remain unknown."
+    "note": "Named WA Health Aboriginal Healing Project management established in contemporary 2007–2008 evidence; added SWALSC program work and advisory roles, exact Our Watch appointment, and company-directorship evidence. Personal employment boundaries, hours and leave remain incomplete."
   },
   "career_spells": [
     {
@@ -87,15 +87,16 @@
       "government_control_at_time": "public",
       "counting_status": "insufficient_evidence",
       "source_ids": [
-        "src-4"
+        "src-4",
+        "src-12"
       ],
-      "evidence_note": "Government announcement establishes prior service by May 2008. Public-health-service classification provisional pending employing-unit and historical control record.",
+      "evidence_note": "Government announcement establishes prior service by May 2008. Public-health-service classification provisional pending employing-unit and historical control record. First-person 2008 account confirms SARC preceded current healing-project management; no exact transition date.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "296215-04"
     },
     {
-      "employer": "Western Australian Government; department unidentified",
-      "role": "Project Manager",
+      "employer": "Western Australian Department of Health, Women’s Health Policy and Project Unit",
+      "role": "Manager, Aboriginal Healing Project",
       "start_date": null,
       "end_date": null,
       "date_precision": "unknown",
@@ -107,9 +108,11 @@
       "counting_status": "insufficient_evidence",
       "source_ids": [
         "src-1",
-        "src-2"
+        "src-2",
+        "src-11",
+        "src-12"
       ],
-      "evidence_note": "Official undated occupation; do not merge with SARC without evidence.",
+      "evidence_note": "Contemporary HREOC report and Cox-authored ACSSA contribution identify project and department, with observations in November 2007 and 2008. Appointment and cessation remain unknown; project funding from 2005 is not a personal start date. Does not establish whether this exhausts all state-government roles.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "296215-05"
     },
@@ -118,7 +121,7 @@
       "role": "Founder / Managing Director",
       "start_date": "2013",
       "end_date": null,
-      "date_precision": "year",
+      "date_precision": "mixed",
       "employment_status": "self_employed",
       "fte_fraction": null,
       "category": "private_enterprise",
@@ -129,9 +132,10 @@
         "src-5",
         "src-6",
         "src-7",
-        "src-9"
+        "src-9",
+        "src-16"
       ],
-      "evidence_note": "2013 establishment is secondary; contemporaneous primary reports establish activity in 2018–19. Cessation, continuity and workload unknown.",
+      "evidence_note": "2013 establishment is secondary; contemporaneous primary reports establish activity in 2018–19. Cessation, continuity and workload unknown. Senate interests index later lists company directorship, but does not establish continuing paid work after Senate entry or resolve 2013 versus 2015 business commencement leads.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "296215-06"
     },
@@ -140,7 +144,7 @@
       "role": "National Council and reference-group member",
       "start_date": "2008",
       "end_date": null,
-      "date_precision": "year",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "unknown",
@@ -158,9 +162,9 @@
     {
       "employer": "Our Watch",
       "role": "Board director",
-      "start_date": null,
+      "start_date": "2016-11-07",
       "end_date": "2018-02",
-      "date_precision": "month",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "nonprofit",
@@ -168,9 +172,10 @@
       "government_control_at_time": "private",
       "counting_status": "excluded",
       "source_ids": [
-        "src-8"
+        "src-8",
+        "src-10"
       ],
-      "evidence_note": "Annual report supplies February 2018 departure; board service is not assumed full-time employment.",
+      "evidence_note": "Annual report supplies February 2018 departure; board service is not assumed full-time employment. Earlier employer report supplies exact board appointment 7 November 2016.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "296215-08"
     },
@@ -179,7 +184,7 @@
       "role": "Board member",
       "start_date": "2018-02-20",
       "end_date": null,
-      "date_precision": "day",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "nonprofit",
@@ -198,7 +203,7 @@
       "role": "Senator for Western Australia",
       "start_date": "2021-09-14",
       "end_date": null,
-      "date_precision": "day",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -211,6 +216,64 @@
       "evidence_note": "Casual-vacancy first-service date in frozen roster; appointed to elected chamber.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "296215-10"
+    },
+    {
+      "employer": "South West Aboriginal Land and Sea Council",
+      "role": "Program manager",
+      "start_date": "2013",
+      "end_date": "2014",
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "nonprofit",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-5"
+      ],
+      "evidence_note": "Business News career table identifies role and year range. Primary employer report not yet located; no month dates or hours adopted from commercial contact aggregators.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "296215-11"
+    },
+    {
+      "employer": "Ombudsman Western Australia",
+      "role": "Advisory Panel member, child-death and family-violence reviews",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "public_service",
+      "headline_sector": "excluded",
+      "government_control_at_time": "public",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-13",
+        "src-14"
+      ],
+      "evidence_note": "Annual reports observe panel membership in 2014–2015 and 2019–2020, describing Cox as consultant. Boundaries, continuity and fees unknown. Advisory participation excluded from substantive public-service employment.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "296215-12"
+    },
+    {
+      "employer": "ANROWS",
+      "role": "Practitioner Engagement Group member",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "nonprofit",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-15"
+      ],
+      "evidence_note": "Organisation’s 2016 conference report confirms membership, not paid appointment or full-time status; dates unknown.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "296215-13"
     }
   ],
   "sources": [
@@ -259,9 +322,9 @@
       "publisher": "Business News WA",
       "title": "Dorinda Cox",
       "source_type": "news",
-      "locator": "Business biography",
-      "note": "Reports Inspire Change Consulting Group establishment in 2013; start needs primary corroboration.",
-      "retrieved": "2026-10-01",
+      "locator": "Career roles: Program Manager, South West Aboriginal Land and Sea Council 2013–2014; consulting biography",
+      "note": "Public indexed Business News career table identifies SWALSC program management in 2013–2014; employer primary corroboration still needed.",
+      "retrieved": "2026-10-02",
       "source_id": "src-5"
     },
     {
@@ -303,12 +366,85 @@
       "note": "Corroborates founder of Inspire Change; historical party context does not alter frozen ALP affiliation.",
       "retrieved": "2026-10-01",
       "source_id": "src-9"
+    },
+    {
+      "url": "https://assets.ourwatch.org.au/assets/Annual-reports/Our-Watch-annual-report-16-17.pdf",
+      "publisher": "Our Watch",
+      "title": "Annual Report 2016–2017",
+      "source_type": "employer_record",
+      "locator": "Printed page 12, board; page 19 attendance",
+      "note": "Board table gives Cox appointment 7 November 2016; no individual remuneration or full-time status established.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-10"
+    },
+    {
+      "url": "https://humanrights.gov.au/resource-hub/by-resource-type/publications/aboriginal-and-torres-strait-islander-peoples/first-nations/social-justice-report-2007-chapter-2-indigenous-communities-dealing-with-family-violence-and-abuse",
+      "publisher": "Human Rights and Equal Opportunity Commission",
+      "title": "Social Justice Report 2007, chapter 2",
+      "source_type": "government_record",
+      "locator": "Aboriginal Healing Project; footnotes 159 and 162",
+      "note": "Names Cox manager, locates project in Women’s Health Policy and Project Unit, WA Department of Health, cites communication 30 November 2007. Project funding start 2005 is not personal employment start.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-11"
+    },
+    {
+      "url": "https://gecko.healthinfonet.org.au/uploads/resources/368_368.pdf",
+      "publisher": "Australian Centre for the Study of Sexual Assault / Australian Institute of Family Studies",
+      "title": "ACSSA Wrap 5: Working with Indigenous survivors of sexual assault, 2008",
+      "source_type": "first_person",
+      "locator": "Dorinda Cox contribution and author attribution",
+      "note": "Cox describes former SARC liaison work and current Aboriginal Healing Project management. Public indexed PDF text; direct request timed out.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-12"
+    },
+    {
+      "url": "https://ombudsman.wa.gov.au/sites/default/files/2026-05/Ombudsman-WA-Annual-Report-2014-15.pdf",
+      "publisher": "Ombudsman Western Australia",
+      "title": "Annual Report 2014–2015",
+      "source_type": "government_record",
+      "locator": "Advisory Panel membership",
+      "note": "Primary report lists Cox as consultant on panel. Reporting year is an observation, not appointment boundary.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-13"
+    },
+    {
+      "url": "https://www.ombudsman.wa.gov.au/Publications/AR1920/Ombudsman-WA-Annual-Report-201920.pdf",
+      "publisher": "Ombudsman Western Australia",
+      "title": "Annual Report 2019–2020",
+      "source_type": "government_record",
+      "locator": "Advisory Panel membership",
+      "note": "Indexed historical report lists Cox as consultant; legacy URL now redirects to publication catalogue. Does not prove uninterrupted service from 2014–15.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-14"
+    },
+    {
+      "url": "https://www.anrows.org.au/news/anrows-the-prevalent-and-preventable-conference/",
+      "publisher": "ANROWS",
+      "title": "ANROWS at the Prevalent and Preventable Conference",
+      "source_type": "organisation_record",
+      "locator": "2016 conference account, second-day panel",
+      "note": "Organisation identifies Cox as Practitioner Engagement Group member. Not evidence of payroll employment.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-15"
+    },
+    {
+      "url": "https://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Senators_Interests/-/media/B704EB1A8B41477F997DEE23A8565BC7.ashx",
+      "publisher": "Australian Senate",
+      "title": "Cox register of interests",
+      "source_type": "government_record",
+      "locator": "Registered directorships of companies",
+      "note": "Public index lists Inspire Change Consulting Group. Direct open failed; precise declaration date not verified. Directorship does not prove continued active paid consulting.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-16"
     }
   ],
   "research_notes": [
     "2026-10-01 avenues: official extract, current first-party profile, historical Greens first-person narrative, ABC police profile, government council announcement, council minutes and nonprofit annual reports. No full-time duration supported.",
     "Identify casual retail employer/dates; obtain police cadet and liaison appointment/hours/leave; resolve 1994–96 precision and any 2002 transition break.",
     "Obtain SARC and state project-management employing departments, roles, dates/hours/leave; determine any additional nonprofit payroll employment. Identify ACSSA and National Council terms/remuneration without treating advisory participation as public-service years.",
-    "Corroborate 2013 consulting start and resolve a commercial aggregator’s March 2015 lead; obtain business entity, actual workload, breaks and 2021 cessation/continuing interests. Review primary interest registers. Resolve board dates/pay and concurrent consulting."
+    "Corroborate 2013 consulting start and resolve a commercial aggregator’s March 2015 lead; obtain business entity, actual workload, breaks and 2021 cessation/continuing interests. Review primary interest registers. Resolve board dates/pay and concurrent consulting.",
+    "Follow-up 2026-10-02: HREOC 2007 report and first-person ACSSA 2008 contribution resolve unnamed state project and department; project funding date deliberately not used as Cox appointment. Our Watch appointment now 7 November 2016.",
+    "Added SWALSC program-manager 2013–2014 role from reliable business career table; December 2021 SWALSC newsletter only congratulates election and does not corroborate employment dates. Contact-aggregator August 2013–June 2014 remains a lead, not adopted.",
+    "Ombudsman 2014–2015 and 2019–2020 panel observations and ANROWS 2016 practitioner group recorded separately from employment. Senate directorship index does not prove active consulting after 2021. Next: SARC/WA Health personnel histories, SWALSC 2013–2014 annual reports, company formation and payroll/workload/leave; retail employer unresolved. Recovered source errors: legacy Ombudsman redirects, ACSSA timeout, Senate register open failure."
   ]
 }
