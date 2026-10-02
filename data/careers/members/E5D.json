@@ -6,7 +6,7 @@
   "snapshot_party": "One Nation",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/E5D",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-02",
+  "last_reviewed": "2026-10-03",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -260,6 +260,26 @@
       ],
       "evidence_note": "The frozen roster identifies One Nation; secondary material records formal joining on 8 December 2025 after a short independent interval. Remuneration and hours are unresolved and parliamentary service is recorded separately.",
       "counting_note": "Party activity is excluded under the codebook."
+    },
+    {
+      "employer": "St Vincent de Paul Society (local conference/legal entity unresolved)",
+      "role": "Member and community-support activity",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "nonprofit",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-nga2011-oct3",
+        "src-hansard2020-oct3"
+      ],
+      "evidence_note": "2011 local-government assembly speaker biography identifies longstanding membership; Joyce personally refers to work with the organisation in20October2020 House speech reproduced by OpenAustralia. Specific duties, branch, appointment/cessation and paid versus voluntary basis are not resolved. The earlier thesis claim of sixteen years and counselling is not adopted without the original interview. No employment is inferred merely from membership.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "E5D-vinnies"
     }
   ],
   "sources": [
@@ -392,6 +412,26 @@
       "note": "Names Wicklow Hotel in Armidale as bouncer venue during university. Direct reader returned403; indexed passage used without retry. Conflicts with broad post-graduation placement in other biography; not used for exact dates.",
       "retrieved": "2026-10-02",
       "source_id": "src-sbs-wicklow-oct2"
+    },
+    {
+      "source_id": "src-nga2011-oct3",
+      "url": "https://www.vincent.wa.gov.au/profiles/vincent/assets/agenda/2011/20110419/att/ceommnationalgenassembly001.pdf",
+      "publisher": "Australian Local Government Association / City of Vincent archive",
+      "title": "2011 National General Assembly speaker profiles",
+      "source_type": "professional_profile",
+      "locator": "PDF page14, printed page13, Barnaby Joyce profile",
+      "note": "Identifies longstanding St Vincent de Paul membership and Reserve service. Unrelated1998 Senate-leader date in profile is erroneous and not adopted; membership corroborated by personal House speech.",
+      "retrieved": "2026-10-03"
+    },
+    {
+      "source_id": "src-hansard2020-oct3",
+      "url": "https://www.openaustralia.org.au/debate/?id=2020-10-20.126.1",
+      "publisher": "OpenAustralia reproduction of House Hansard",
+      "title": "New England Electorate,20October2020,7:45pm",
+      "source_type": "other",
+      "locator": "Opening paragraph",
+      "note": "Joyce describes work with St Vincent de Paul in discussing domestic violence. No dates, hours, payment or specific counselling qualification. Original APH search was blocked by robots.txt; accessible labelled reproduction used.",
+      "retrieved": "2026-10-03"
     }
   ],
   "research_notes": [
@@ -402,7 +442,8 @@
     "2026-10-01 follow-up: primary Senate testimony resolves QIDC identity; RBA history and 1998 employer report replace unsupported private-bank classification with unresolved mixed-control interval. No whole-period public total inferred from state ownership before merger.",
     "Business-register identity and contemporaneous ABC brother interview resolve registration and ownership/management distinctions; separate nightclub role added without guessed dates. Searched chartered-firm/multinational names, bank/history reports and Reserve sources; no exact hours, early employer identities or service-duty records found. Member education page timed out; old ABC URL inaccessible, current ABC transcript recovered. Original 2013 Hansard link inaccessible; reproduction labelled. Continue with payroll/control records, original practice succession documents and specific employer identities.",
     "Second follow-up2October2026 resolves Wicklow Hotel venue for previously unnamed bouncer employment, retaining unknown dates because reports differ on study overlap. Public GQ interview index independently mentions Wicklow; page redirected to cookie screen, no further access attempted.",
-    "Early accountancy-firm and American-multinational searches again yielded unnamed sequence, not employer identities/hours. A secondary blog quotes older Age Moree-nightclub account and SMH two-year Wicklow account; treat these as original-article leads, not proof of another employer or fixed two-year interval. UTas thesis mirror mentions sixteen years of St Vincent de Paul volunteering citing Fidler2006; original ABC21November2006 interview not retrieved, so charity detail remains a lead pending primary corroboration. Avoid repeating exhausted generic biography searches; next focus named venue archives, original interview and employer histories."
+    "Early accountancy-firm and American-multinational searches again yielded unnamed sequence, not employer identities/hours. A secondary blog quotes older Age Moree-nightclub account and SMH two-year Wicklow account; treat these as original-article leads, not proof of another employer or fixed two-year interval. UTas thesis mirror mentions sixteen years of St Vincent de Paul volunteering citing Fidler2006; original ABC21November2006 interview not retrieved, so charity detail remains a lead pending primary corroboration. Avoid repeating exhausted generic biography searches; next focus named venue archives, original interview and employer histories.",
+    "Follow-up3October2026 locates independent2011 assembly biography and first-person2020 House speech confirming St Vincent de Paul activity; adds a separate excluded nonprofit record without adopting unverified sixteen-year duration or counselling title. Original ABC21November2006 URL https://www.abc.net.au/local/stories/2006/11/21/1793869.htm returned404; linked archive returned Internal Error. The Age2005 original Moree-bouncer article returned non-retryable reader error; not accessed through a restriction-bypassing mirror. Search click invalid-arguments errors were recovered by reading public Wikipedia source-link HTML; local missing bs4 recovered using Python standard-library HTMLParser. Further volunteer terms, venue chronology and unnamed accountant employers remain unresolved."
   ],
   "open_questions": [
     "Which farms employed Joyce from 1989 to 1991, and what were the dates, hours and breaks, including any nightclub work?",
@@ -411,6 +452,7 @@
     "Was there paid non-parliamentary work during the 27 October–2 December 2017 eligibility gap?",
     "What were precise QIDC/Suncorp payroll and control transitions, working hours and leave within official 1994–1998 banking range, and how does the five-year narrative reconcile?",
     "When did Michael take over practice management, when did Barnaby cease personal client work, and what hours/leave applied before and after Senate commencement? ABR dates alone cannot answer.",
-    "What were Wicklow Hotel employment dates, legal payroll entity and hours; was work during or after university, and were there separate Moree or other venues?"
+    "What were Wicklow Hotel employment dates, legal payroll entity and hours; was work during or after university, and were there separate Moree or other venues?",
+    "Which St Vincent de Paul conference, duties, dates and hours applied, and was this entirely voluntary? Original2006 interview remains unavailable; no sixteen-year interval inferred."
   ]
 }
