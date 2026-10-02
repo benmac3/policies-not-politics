@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/299174",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-02",
+  "last_reviewed": "2026-10-03",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -305,9 +305,9 @@
     {
       "employer": "Australian National University / Federal Parliament (host office unresolved)",
       "role": "Parliamentary internship",
-      "start_date": null,
-      "end_date": null,
-      "date_precision": "unknown",
+      "start_date": "2004",
+      "end_date": "2004",
+      "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "study",
@@ -315,9 +315,10 @@
       "government_control_at_time": "public",
       "counting_status": "excluded",
       "source_ids": [
-        "src-linkedin-education-oct2"
+        "src-linkedin-education-oct2",
+        "src-anip30-oct3"
       ],
-      "evidence_note": "Profile education description reports a six-month ANU-linked parliamentary internship. Dates, host, remuneration and hours unknown; no paid appointment inferred.",
+      "evidence_note": "Profile education description reports a six-month ANU-linked parliamentary internship. Dates, host, remuneration and hours unknown; no paid appointment inferred. ANU program anniversary publication independently identifies Laxale as ANIP2004 alumnus, resolving the program year only. Both year fields identify that year, not a whole year of activity; six-month length remains self-reported and exact boundaries, host and pay unresolved.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "299174-anu-internship"
     },
@@ -509,6 +510,16 @@
       "note": "Indexed text retrieved; direct reader999. Dates below are profile evidence, not independently checked credentials.",
       "retrieved": "2026-10-02",
       "source_id": "src-linkedin-education-oct2"
+    },
+    {
+      "source_id": "src-anip30-oct3",
+      "url": "https://anip.anu.edu.au/files/ANIP30thAnniversaryPublication-DigitalSpreads-FA.pdf",
+      "publisher": "Australian National University",
+      "title": "Australian National Internships Program: Celebrating30 years of internships at the heart of policymaking",
+      "source_type": "employer",
+      "locator": "Printed page5, paragraph on alumni returning as hosts",
+      "note": "Explicit ANIP2004 alumni attribution for Jerome Laxale MP. Reader timed out; original PDF downloaded and text extracted successfully. Does not name original host or remuneration.",
+      "retrieved": "2026-10-03"
     }
   ],
   "open_questions": [
@@ -517,12 +528,13 @@
     "What were the historical ownership/control arrangements of StateCover, and which external boards account for disclosed aggregate remuneration?",
     "Are earlier jobs or later business-consulting clients omitted from official occupations, and what are their dates and hours?",
     "Can primary records refine Venture Café, party and local-government chronology and paid/unpaid conditions?",
-    "Which parliamentary office hosted the ANU internship, when, and with what remuneration, hours and study-credit arrangements?"
+    "Which parliamentary office hosted the2004 ANU internship, on which exact dates, and with what remuneration, hours and study-credit arrangements?"
   ],
   "research_notes": [
     "2026-10-01 follow-up: official register resolves matching family company; historical LGP report reclassifies Associate Director as excluded governance, and LGNSW report refines StateCover appointment and establishes paid treasurer governance. No salary-to-hours conversion or external-board pay allocation made.",
     "Searched family company, LGP historical annual reports, StateCover and LGNSW filings, first speech and declarations. LGP 2022 report corroborates board context; 2021/22 LGNSW website PDF failed retrieval, but 2020/21 FWC-hosted report was readable. Member speech page timed out; public Hansard reproduction describes parents’ long hours, not a dated work pattern for the member. Later StateCover membership resignation is not treated as his directorship cessation. No evidence of a calculable full-time family-business interval found.",
     "Second follow-up2October2026 improves education and placement chronology; totals remain unknown.",
-    "Targeted family-business full-time searches yielded staff vacancies rather than personal hours, which were rejected. Council26June2018 agenda, printed pp49–50, reproduces Venture Cafe innovation partnership resolution but does not appoint Laxale personally to its board. PDF exceeded web-reader size limit; ordinary direct download and text extraction succeeded. Partnership funding/trial dates do not establish personal governance term. Next leads remain family payroll/hours, personal Venture Cafe appointment, internship host and original LGP appointment instruments."
+    "Targeted family-business full-time searches yielded staff vacancies rather than personal hours, which were rejected. Council26June2018 agenda, printed pp49–50, reproduces Venture Cafe innovation partnership resolution but does not appoint Laxale personally to its board. PDF exceeded web-reader size limit; ordinary direct download and text extraction succeeded. Partnership funding/trial dates do not establish personal governance term. Next leads remain family payroll/hours, personal Venture Cafe appointment, internship host and original LGP appointment instruments.",
+    "Follow-up3October2026 resolves ANIP internship year to2004 through original university anniversary publication. Targeted Venture Cafe search yielded a commercial aggregator claiming30June2018, without an original appointment instrument, so no exact date adopted. Council partnership date was already examined and is not personal appointment evidence. Full-time search again found staff vacancies, not personal working hours. No headline years calculated; future needs are original internship host record, Venture Cafe board minutes and family payroll/work-pattern evidence."
   ]
 }
