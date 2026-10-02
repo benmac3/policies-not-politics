@@ -6,12 +6,12 @@
   "snapshot_party": "Liberal Party of Australia",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/283585",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-01",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
     "calculation_status": "not_calculable",
-    "note": "Private technician and consulting intervals lack substantive full-time/leave evidence. Nonprofit, party, study, volunteer and elected roles remain excluded; unknown evidence is not zero. Neither headline calculable."
+    "note": "Refined technician months, resolved stale GenerationOne departure description with contemporary government evidence, and added advisory-panel role. Technician and consultancy hours/leave remain unknown; no headline totals."
   },
   "career_spells": [
     {
@@ -27,7 +27,7 @@
       "government_control_at_time": "public",
       "counting_status": "excluded",
       "source_ids": [
-        "src-3"
+        "src-4"
       ],
       "evidence_note": "Qualifications do not date paid employment; apprenticeship employer/terms and training overlap unverified.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
@@ -36,9 +36,9 @@
     {
       "employer": "Terravision Pty Ltd",
       "role": "Electronic technician",
-      "start_date": "1996",
-      "end_date": "1999",
-      "date_precision": "year",
+      "start_date": "1996-01",
+      "end_date": "1999-12",
+      "date_precision": "month",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "private_enterprise",
@@ -48,9 +48,10 @@
       "source_ids": [
         "src-1",
         "src-2",
-        "src-3"
+        "src-4",
+        "src-6"
       ],
-      "evidence_note": "Official year range retained. First speech describes electronics/communications apprenticeship and CAT bus passenger-information installation in 1996; whether apprenticeship is within this interval unresolved. Public transport client does not make contractor employment public.",
+      "evidence_note": "Official year range retained. First speech describes electronics/communications apprenticeship and CAT bus passenger-information installation in 1996; whether apprenticeship is within this interval unresolved. Public transport client does not make contractor employment public. Own public professional profile gives January 1996–December 1999, compatible with parliamentary years. No individual full-time label or apprenticeship boundaries verified.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "283585-02"
     },
@@ -88,7 +89,7 @@
       "source_ids": [
         "src-1",
         "src-2",
-        "src-3"
+        "src-4"
       ],
       "evidence_note": "Official employer/year range; first speech describes subsequent youth work across churches/community organisations. Individual pay basis, hours and legal employing entity unverified.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
@@ -109,7 +110,7 @@
       "source_ids": [
         "src-1",
         "src-2",
-        "src-3"
+        "src-4"
       ],
       "evidence_note": "Official employer/year range; nonprofit church work kept separate from preceding volunteering; hours and exact transition unknown.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
@@ -132,9 +133,12 @@
         "src-2",
         "src-3",
         "src-4",
-        "src-5"
+        "src-5",
+        "src-6",
+        "src-7",
+        "src-8"
       ],
-      "evidence_note": "Official 2008–2018 range. First speech identifies predecessor Australian Children’s Trust and work with Andrew and Nicola Forrest. Parliamentary witness list confirms role 12 October 2017. 2019 candidate guide uses current tense: endpoint conflict retained, not silently resolved. Foundation’s policy work/government funding does not establish government control.",
+      "evidence_note": "Official biography aggregates foundation/GenerationOne work in 2008–2018; first speech confirms foundation entry in 2008. Public profile identifies narrower COO title January 2013–January 2018, so precise earlier title progression remains unresolved; original supported outer years retained. Contemporary government June 2018 discussion paper p9 footnote 7 expressly confirms GenerationOne engagement had ceased after panel appointment. This resolves the misleading present-tense 2019 election guide in favour of departure in 2018. Exact last day and any other foundation engagement remain unknown; nonprofit/private control retained.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "283585-06"
     },
@@ -152,9 +156,11 @@
       "counting_status": "insufficient_evidence",
       "source_ids": [
         "src-1",
-        "src-3"
+        "src-4",
+        "src-6",
+        "src-8"
       ],
-      "evidence_note": "Official trading name/year range only. Legal entity, ownership, clients, precise dates, substantive hours and campaign leave not found; self-employment not assumed solely from surname.",
+      "evidence_note": "Official trading name/year range only. Legal entity, ownership, clients, precise dates, substantive hours and campaign leave not found; self-employment not assumed solely from surname. Concurrent expert panel work is now separately recorded; no evidence establishes that it was a client contract through this consultancy.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "283585-07"
     },
@@ -171,7 +177,7 @@
       "government_control_at_time": "private",
       "counting_status": "excluded",
       "source_ids": [
-        "src-3"
+        "src-4"
       ],
       "evidence_note": "Party roles overlap foundation/consultancy; no separate private employment years attributed. Pay basis unknown.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
@@ -182,7 +188,7 @@
       "role": "Senator for Western Australia",
       "start_date": "2019-07-01",
       "end_date": null,
-      "date_precision": "day",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -191,11 +197,32 @@
       "counting_status": "excluded",
       "source_ids": [
         "src-1",
-        "src-3"
+        "src-4"
       ],
       "evidence_note": "Frozen first-service date retained; elected office excluded.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "283585-09"
+    },
+    {
+      "employer": "Australian Government, Employment Services Expert Advisory Panel",
+      "role": "Panel member; working-group chair",
+      "start_date": "2018-01",
+      "end_date": "2019-03",
+      "date_precision": "month",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "public_service",
+      "headline_sector": "excluded",
+      "government_control_at_time": "public",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-6",
+        "src-7",
+        "src-8"
+      ],
+      "evidence_note": "Department confirms panel appointment in January 2018 and membership. Public profile dates working-group chair January 2018–March 2019; these are self-reported role bounds, not payroll dates. Advisory capacity, remuneration and hours unknown; not substantive full-time public employment. Report submission October 2018 is not personal cessation.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "283585-10"
     }
   ],
   "sources": [
@@ -236,7 +263,7 @@
       "source_type": "official_biography",
       "locator": "Qualifications and occupation before entering Federal Parliament; party positions",
       "note": "Indexed official biography confirms frozen occupation ranges, Midland TAFE qualifications and party positions; hours absent.",
-      "retrieved": "2026-10-01",
+      "retrieved": "2026-10-02",
       "source_id": "src-4"
     },
     {
@@ -248,11 +275,44 @@
       "note": "Describes COO role in present tense at 2019 election; may be stale biography, conflicts with official 2018 end year and does not justify extending it.",
       "retrieved": "2026-10-01",
       "source_id": "src-5"
+    },
+    {
+      "url": "https://au.linkedin.com/in/maosullivan",
+      "publisher": "Matt O Sullivan / LinkedIn",
+      "title": "Public professional profile",
+      "source_type": "professional_profile",
+      "locator": "Public indexed experience: TerraVision; GenerationOne COO; expert panel working group",
+      "note": "Identity matches WA Liberal Senator. Month-level entries surfaced by search; direct open returned 999. Hours absent.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-6"
+    },
+    {
+      "url": "https://www.dewr.gov.au/id/download/6709/next-generation-employment-services-discussion-paper/10438/document/pdf",
+      "publisher": "Department of Jobs and Small Business",
+      "title": "The next generation of employment services: discussion paper, June 2018",
+      "source_type": "government_record",
+      "locator": "pp8–9 panel membership; footnote 7",
+      "note": "Panel established 22 January 2018; footnote says engagement with GenerationOne had ceased since appointment. Publication is a latest bound, not personal last day.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-7"
+    },
+    {
+      "url": "https://www.dewr.gov.au/workforce-australia/consultation/employment-services-expert-advisory-panel",
+      "publisher": "Department of Employment and Workplace Relations",
+      "title": "The Employment Services Expert Advisory Panel",
+      "source_type": "government_record",
+      "locator": "List of members; report and June 2018 discussion-paper sections",
+      "note": "Confirms panel role and publication timing; report submitted 15 October 2018 does not establish personal end date.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-8"
     }
   ],
   "research_notes": [
     "Initial research 2026-10-01: frozen occupations, official indexed biography, first speech, contemporary parliamentary witness record and 2019 election guide cross-checked. Searches for employer annual reports, Terravision, consulting history and full-time evidence produced no reliable individual hours/leave record. Unrelated overseas namesakes excluded.",
     "Follow-up: apprenticeship employer/terms and dates; possible gaps 1999–2000 and 2007–2008; other community employers within eight-year narrative; church payroll and legal entities; foundation 2018 departure versus 2019 present-tense biography; consultancy entity/clients/hours/2019 cessation; 2016 and 2019 campaign leave and all overlaps.",
-    "Considering theology/ministry in his twenties is not evidence of completed study or pastor employment. Relative eight-year youth-work narrative does not license invented endpoints. Year boundaries and missing hours preclude exact union-duration calculations."
+    "Considering theology/ministry in his twenties is not evidence of completed study or pastor employment. Relative eight-year youth-work narrative does not license invented endpoints. Year boundaries and missing hours preclude exact union-duration calculations.",
+    "Follow-up 2026-10-02: official biography, public professional-profile index, government June 2018 discussion paper and archived-panel page. Corrected existing source references: official qualifications/party/occupation biography is src-4, whereas src-3 is the 2017 witness list.",
+    "GenerationOne departure conflict resolved at year level by contemporary government footnote; own profile further reports January 2018, but precise employment/foundation separation still needs employer confirmation. 2008 foundation entry versus January 2013 COO title requires earlier role descriptions; do not erase earlier service.",
+    "Full-time searches returned unrelated designer, journalist, US MBA and Irish property-agent namesakes; none assigned. Direct professional-profile access returned (999) Unknown Status Code; only legitimately public indexed entries used. Apprenticeship employer/terms, church pay, consultancy legal entity/clients and campaign leave remain unresolved. Advisory-panel remuneration/contract and whether delivered through consultancy remain follow-up priorities."
   ]
 }
