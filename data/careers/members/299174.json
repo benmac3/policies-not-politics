@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/299174",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-01",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -18,9 +18,9 @@
       "spell_id": "299174-unsw-study",
       "employer": "University of New South Wales",
       "role": "Bachelor's degree student (Politics and International Relations; French)",
-      "start_date": null,
-      "end_date": null,
-      "date_precision": "unknown",
+      "start_date": "2001",
+      "end_date": "2004",
+      "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "study",
@@ -28,9 +28,10 @@
       "government_control_at_time": "public",
       "counting_status": "excluded",
       "source_ids": [
-        "src-secondary"
+        "src-secondary",
+        "src-linkedin-education-oct2"
       ],
-      "evidence_note": "The secondary biography reports the UNSW fields of study and says Laxale joined the family business after graduating, but gives no enrolment or graduation dates, load, or work overlap.",
+      "evidence_note": "Public profile specifies UNSW study2001–2004, with politics/international relations and French majors and industrial-relations study. Exact dates and study load unknown.",
       "counting_note": "Study is excluded under the codebook."
     },
     {
@@ -300,6 +301,82 @@
       ],
       "evidence_note": "The frozen roster and current official profiles record House service from the 21 May 2022 election. Parliamentary and party-room responsibilities are nested within elected service.",
       "counting_note": "Elected office is excluded under the codebook."
+    },
+    {
+      "employer": "Australian National University / Federal Parliament (host office unresolved)",
+      "role": "Parliamentary internship",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "public",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-linkedin-education-oct2"
+      ],
+      "evidence_note": "Profile education description reports a six-month ANU-linked parliamentary internship. Dates, host, remuneration and hours unknown; no paid appointment inferred.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "299174-anu-internship"
+    },
+    {
+      "employer": "University of Technology Sydney",
+      "role": "Executive Certificate for Elected Members",
+      "start_date": null,
+      "end_date": "2019-04",
+      "date_precision": "mixed",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "public",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-linkedin-education-oct2"
+      ],
+      "evidence_note": "Profile lists credential issued in this month; course commencement, duration and load unknown. Issue date is a completion marker, not a work interval.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "299174-uts-course"
+    },
+    {
+      "employer": "Australian Institute of Company Directors",
+      "role": "Company Directors Course",
+      "start_date": null,
+      "end_date": "2019-08",
+      "date_precision": "mixed",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-linkedin-education-oct2"
+      ],
+      "evidence_note": "Profile lists credential issued in this month; course commencement, duration and load unknown. Issue date is a completion marker, not a work interval.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "299174-aicd-course"
+    },
+    {
+      "employer": "Local Government NSW",
+      "role": "Chairing and Effective Meeting Procedures",
+      "start_date": null,
+      "end_date": "2019-09",
+      "date_precision": "mixed",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-linkedin-education-oct2"
+      ],
+      "evidence_note": "Profile lists credential issued in this month; course commencement, duration and load unknown. Issue date is a completion marker, not a work interval.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "299174-lgnsw-course"
     }
   ],
   "sources": [
@@ -422,6 +499,16 @@
       "note": "Corroborates October 2020 board commencement and Associate Director governance title.",
       "retrieved": "2026-10-01",
       "source_id": "src-lgp-2022"
+    },
+    {
+      "url": "https://au.linkedin.com/in/jeromelaxale",
+      "publisher": "Jerome Laxale / LinkedIn",
+      "title": "Public professional profile",
+      "source_type": "professional_profile",
+      "locator": "Public indexed Education and Licenses & Certifications sections",
+      "note": "Indexed text retrieved; direct reader999. Dates below are profile evidence, not independently checked credentials.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-linkedin-education-oct2"
     }
   ],
   "open_questions": [
@@ -429,10 +516,13 @@
     "Can appointment instruments reconcile LGP October versus November 2020 commencement and independently confirm its June 2022 end?",
     "What were the historical ownership/control arrangements of StateCover, and which external boards account for disclosed aggregate remuneration?",
     "Are earlier jobs or later business-consulting clients omitted from official occupations, and what are their dates and hours?",
-    "Can primary records refine Venture Café, party and local-government chronology and paid/unpaid conditions?"
+    "Can primary records refine Venture Café, party and local-government chronology and paid/unpaid conditions?",
+    "Which parliamentary office hosted the ANU internship, when, and with what remuneration, hours and study-credit arrangements?"
   ],
   "research_notes": [
     "2026-10-01 follow-up: official register resolves matching family company; historical LGP report reclassifies Associate Director as excluded governance, and LGNSW report refines StateCover appointment and establishes paid treasurer governance. No salary-to-hours conversion or external-board pay allocation made.",
-    "Searched family company, LGP historical annual reports, StateCover and LGNSW filings, first speech and declarations. LGP 2022 report corroborates board context; 2021/22 LGNSW website PDF failed retrieval, but 2020/21 FWC-hosted report was readable. Member speech page timed out; public Hansard reproduction describes parents’ long hours, not a dated work pattern for the member. Later StateCover membership resignation is not treated as his directorship cessation. No evidence of a calculable full-time family-business interval found."
+    "Searched family company, LGP historical annual reports, StateCover and LGNSW filings, first speech and declarations. LGP 2022 report corroborates board context; 2021/22 LGNSW website PDF failed retrieval, but 2020/21 FWC-hosted report was readable. Member speech page timed out; public Hansard reproduction describes parents’ long hours, not a dated work pattern for the member. Later StateCover membership resignation is not treated as his directorship cessation. No evidence of a calculable full-time family-business interval found.",
+    "Second follow-up2October2026 improves education and placement chronology; totals remain unknown.",
+    "Targeted family-business full-time searches yielded staff vacancies rather than personal hours, which were rejected. Council26June2018 agenda, printed pp49–50, reproduces Venture Cafe innovation partnership resolution but does not appoint Laxale personally to its board. PDF exceeded web-reader size limit; ordinary direct download and text extraction succeeded. Partnership funding/trial dates do not establish personal governance term. Next leads remain family payroll/hours, personal Venture Cafe appointment, internship host and original LGP appointment instruments."
   ]
 }
