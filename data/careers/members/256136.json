@@ -6,7 +6,7 @@
   "snapshot_party": "Independent",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/256136",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-01",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -202,9 +202,10 @@
       "source_ids": [
         "src-2",
         "src-8",
-        "src-14"
+        "src-14",
+        "src-15"
       ],
-      "evidence_note": "Initiative with brother Steve and on-ground Zimbabwe work in 2021. Governance and operational duties not separated; exact legal-name continuity, remuneration and term need evidence. May overlap unidentified Project Director role; do not double count.",
+      "evidence_note": "Initiative with brother Steve and on-ground Zimbabwe work in 2021. Governance and operational duties not separated; exact legal-name continuity, remuneration and term need evidence. May overlap unidentified Project Director role; do not double count. US tax-filing officer role now recorded separately; zero2022reported compensation in US entity cannot determine2020–21Zimbabwe project employment.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "256136-09"
     },
@@ -339,9 +340,10 @@
       "counting_status": "insufficient_evidence",
       "source_ids": [
         "src-2",
-        "src-9"
+        "src-9",
+        "src-16"
       ],
-      "evidence_note": "Book with Emma following 2017 break; writing and photography may overlap other work. Royalties, contract dates and paid working hours unresolved.",
+      "evidence_note": "Book with Emma following 2017 break; writing and photography may overlap other work. Royalties, contract dates and paid working hours unresolved. Own ebook offer directs proceeds to Rangelands; no inference about every edition, historic advance or paid author time.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "256136-16"
     },
@@ -402,6 +404,25 @@
       "evidence_note": "Frozen service date retained; separate from pre-parliament employment and later business governance.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "256136-19"
+    },
+    {
+      "employer": "Rangelands Restoration Trust, United States (EIN85-4025126)",
+      "role": "Officer — public tax filing",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "nonprofit",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-15"
+      ],
+      "evidence_note": "2022return summary names officer, reports zero compensation/related/other amounts. This entity/year disclosure does not prove no paid conservation work elsewhere or in2020–21. Exact term and hours unknown; distinct governance evidence, possibly overlaps existing founder activity.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "256136-20"
     }
   ],
   "sources": [
@@ -544,6 +565,26 @@
       "note": "Recent Rangelands and FrontRunners work corroborated; no employment contract or hours supplied.",
       "retrieved": "2026-10-01",
       "source_id": "src-14"
+    },
+    {
+      "url": "https://projects.propublica.org/nonprofits/organizations/854025126",
+      "publisher": "Rangelands Restoration Trust / IRS; ProPublica reconstruction",
+      "title": "Form990 fiscal2022 officer compensation summary",
+      "source_type": "government_record",
+      "locator": "Fiscal year endingDecember2022, officer table; filing18October2023",
+      "note": "US entity EIN85-4025126 names David Pocock officer with zero in reported compensation, related and other columns. Full rendered return redirected to inaccessible500; XML403. Summary read, underlying hours not inspected.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-15"
+    },
+    {
+      "url": "https://www.davidpocock.com/shop/ionebook",
+      "publisher": "David Pocock",
+      "title": "In Our Nature ebook listing",
+      "source_type": "professional_profile",
+      "locator": "Product description and proceeds paragraphs",
+      "note": "Own shop says proceeds support Rangelands Restoration Trust. Applies to this offer; does not establish all historical publishing remuneration or author working hours.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-16"
     }
   ],
   "research_notes": [
@@ -552,6 +593,9 @@
     "Follow-up: identify July 2020–December 2021 Project Director employer from original CV or project annual reports; determine whether Rangelands operational work was paid and full-time, distinct from founder/governance role. A newspaper characterisation of full-time conservation does not identify salaried employment or its dates.",
     "Follow-up: business/directorship histories, contracting and ambassador income, authorship terms, charity operating roles and any earlier jobs. Secondary interest-register aggregators identify DP Independent Pty Ltd and 2026 book-advance leads; primary corroboration still needed, not silently treated as jobs.",
     "Searched own/parliamentary biographies, rugby employers and player association profiles, contract announcements, retirement/sabbatical reporting, Brumbies 2016 historical annual report, organisation team pages, public professional-profile and register searches, CSU graduation programme. Sports full-time match labels and another player’s full-time study are not employment evidence. People-data broker result not used.",
-    "Individual source gaps: APH direct access robots-blocked; Classic Wallabies and Western Force direct open (403) Forbidden, indexed primary evidence used where identified. Brumbies report target text retrieval did not establish historical legal control. No access controls bypassed. Follow-up remains required, blocked is not completion."
+    "Individual source gaps: APH direct access robots-blocked; Classic Wallabies and Western Force direct open (403) Forbidden, indexed primary evidence used where identified. Brumbies report target text retrieval did not establish historical legal control. No access controls bypassed. Follow-up remains required, blocked is not completion.",
+    "Follow-up2026-10-02: identified US Rangelands nonprofit tax-return officer record with reported zero2022compensation, separating governance from unidentified earlier Project Director employment. Matching team names and own Rangelands history support identity. Do not extrapolate to Zimbabwe payroll or earlier years.",
+    "Full tax-return iframe returned non-retryable500redirect to inaccessible rendered file; XML403. Only accessible ProPublica IRS-data summary used; hours and precise role boundaries remain unknown. No jobwide blocker. Ebook page establishes proceeds destination for current offer, not universal zero author income.",
+    "Targeted project-director employer and rugby full-time/sabbatical searches did not establish contracts, actual hours, legal sporting employers or March/May/October2020endpoint reconciliation. Future primary leads: US2021/2022full officer schedules, Zimbabwe project payroll/annual reports, signed rugby agreements or employer announcements detailing leave; no inferred zero employment."
   ]
 }
