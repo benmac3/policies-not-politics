@@ -6,17 +6,17 @@
   "snapshot_party": "The Nationals",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/249764",
   "research_status": "blocked",
-  "last_reviewed": "2026-09-30",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
     "calculation_status": "not_calculable",
-    "note": "The official parliamentary biography supplies year-level intervals for laboratory work, National Australia Bank supervision, family-business bookkeeping/property management, small-business ownership and political staffing. It does not identify the laboratory employer, family/business entities, full-time status, leave or precise transitions. Several roles overlap between 1999 and 2012. Political staffing, party work and elected office are excluded. No full-time public/private total is defensible; missing evidence is not zero."
+    "note": "Official year-level intervals remain insufficient for full-time totals. A public professional-profile excerpt identifies Dr TB Lynch as the pathology employer but differs from APH on the start year; historical control and legal entity need confirmation. Bank, family business and political staff spells overlap without hours/leave evidence. Volunteer and political activities are excluded; missing evidence is not zero."
   },
   "career_spells": [
     {
       "spell_id": "249764-01",
-      "employer": "Pathology and medical biochemistry laboratory employer not identified",
+      "employer": "Dr T B Lynch pathology laboratory, Rockhampton (legal entity unverified)",
       "role": "Laboratory assistant",
       "start_date": "1978",
       "end_date": "1985",
@@ -27,8 +27,14 @@
       "headline_sector": "unknown",
       "government_control_at_time": "unknown",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-1", "src-4", "src-6"],
-      "evidence_note": "The official parliamentary biography gives the occupation and 1978–1985 interval. A Rockhampton Girls Grammar alumni publication independently repeats it. Employer, laboratory setting, public/private control, exact boundaries, hours and leave are not published; the start year overlaps Landry's final school year in the alumni record.",
+      "source_ids": [
+        "src-1",
+        "src-4",
+        "src-6",
+        "src-2",
+        "src-7"
+      ],
+      "evidence_note": "Public professional-profile index identifies Dr TB Lynch and1979–1985, conflicting with official1978–1985 interval retained here. Member biography gives5.5years following school. Exact boundaries, historical employer control and hours remain unresolved; clinic wording alone does not prove private control.",
       "counting_note": "Employer control and substantive full-time status are unresolved."
     },
     {
@@ -44,8 +50,14 @@
       "headline_sector": "private",
       "government_control_at_time": "private",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-1", "src-4", "src-6"],
-      "evidence_note": "Official parliamentary records give the employer, supervisor title and 1985–2007 interval. They do not publish exact appointment/cessation dates, hours, leave or changes in role. From 1999 the interval overlaps family construction-business work.",
+      "source_ids": [
+        "src-1",
+        "src-4",
+        "src-6",
+        "src-2",
+        "src-9"
+      ],
+      "evidence_note": "Official parliamentary records give the employer, supervisor title and 1985–2007 interval. They do not publish exact appointment/cessation dates, hours, leave or changes in role. From 1999 the interval overlaps family construction-business work. Member biography rounds banking tenure to20years; school alumni says22years. Neither establishes continuous full-time work or leave.",
       "counting_note": "A senior title and long tenure do not by themselves prove continuous full-time service."
     },
     {
@@ -61,7 +73,11 @@
       "headline_sector": "private",
       "government_control_at_time": "private",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-1", "src-4", "src-6"],
+      "source_ids": [
+        "src-1",
+        "src-4",
+        "src-6"
+      ],
       "evidence_note": "The official biography describes bookkeeping and property management in a family construction business from 1999 to 2009. The legal entity, payroll/self-employment status, hours and leave are not supplied. The spell overlaps NAB supervision through 2007 and the separately listed small business from 2007.",
       "counting_note": "Overlapping year-level work without hours or entity evidence cannot be converted into a full-time duration."
     },
@@ -78,7 +94,11 @@
       "headline_sector": "private",
       "government_control_at_time": "private",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-1", "src-2", "src-5"],
+      "source_ids": [
+        "src-1",
+        "src-2",
+        "src-5"
+      ],
       "evidence_note": "The official parliamentary biography lists small-business ownership from 2007 to 2013. Landry's official site says she ran her own bookkeeping business immediately before winning Capricornia. The business entity, clients, hours, operational continuity, leave and election transition are unpublished; this interval overlaps family-business work, political staffing and party office.",
       "counting_note": "Self-employment may count when substantive full-time boundaries are supported; they are not here."
     },
@@ -95,7 +115,10 @@
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-1", "src-6"],
+      "source_ids": [
+        "src-1",
+        "src-6"
+      ],
       "evidence_note": "Official parliamentary records list electorate-officer work from 2010 to 2012. The member or office, payroll employing authority, exact dates, hours, leave and overlap with candidacy and business ownership are not identified.",
       "counting_note": "Political staff employment is excluded irrespective of public funding."
     },
@@ -112,7 +135,9 @@
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-1"],
+      "source_ids": [
+        "src-1"
+      ],
       "evidence_note": "The official biography records the party position from 2009 to 2013. It does not state whether the role was paid, its hours or exact dates.",
       "counting_note": "Party-organisation work is excluded."
     },
@@ -122,31 +147,216 @@
       "role": "Member for Capricornia",
       "start_date": "2013-09-07",
       "end_date": null,
-      "date_precision": "day",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-1", "src-3"],
+      "source_ids": [
+        "src-1",
+        "src-3"
+      ],
       "evidence_note": "Official parliamentary service begins with the 7 September 2013 federal election.",
       "counting_note": "Federal elected office is excluded."
+    },
+    {
+      "employer": "Lucky Daniels Casket Agency, Rockhampton (family business)",
+      "role": "Casket-ticket sales assistant",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "private_enterprise",
+      "headline_sector": "private",
+      "government_control_at_time": "private",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-2",
+        "src-8",
+        "src-9"
+      ],
+      "evidence_note": "First speech describes writing tickets behind the counter at age12. Dates, pay and substantive hours unknown; family help is not assumed paid or full-time. No calendar boundary derived from age.",
+      "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
+      "spell_id": "249764-08"
+    },
+    {
+      "employer": "Taranganba State School P&C committee",
+      "role": "Treasurer",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unpaid_work",
+      "headline_sector": "excluded",
+      "government_control_at_time": "nonprofit",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-2"
+      ],
+      "evidence_note": "Official member biography explicitly describes volunteering. No payroll, hours or calendar dates inferred.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "249764-09"
+    },
+    {
+      "employer": "Keppel Coast Girl Guides",
+      "role": "Treasurer",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unpaid_work",
+      "headline_sector": "excluded",
+      "government_control_at_time": "nonprofit",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-2"
+      ],
+      "evidence_note": "Official member biography explicitly describes volunteering. No payroll, hours or calendar dates inferred.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "249764-10"
+    },
+    {
+      "employer": "Rotaract",
+      "role": "President",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unpaid_work",
+      "headline_sector": "excluded",
+      "government_control_at_time": "nonprofit",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-2"
+      ],
+      "evidence_note": "Official member biography explicitly describes volunteering. No payroll, hours or calendar dates inferred.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "249764-11"
+    },
+    {
+      "employer": "Yeppoon Surf Lifesaving Nippers",
+      "role": "Team leader",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unpaid_work",
+      "headline_sector": "excluded",
+      "government_control_at_time": "nonprofit",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-2"
+      ],
+      "evidence_note": "Official member biography explicitly describes volunteering. No payroll, hours or calendar dates inferred.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "249764-12"
     }
   ],
   "sources": [
-    {"source_id":"src-1","url":"https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=249764","publisher":"Parliament of Australia","title":"Hon Michelle Landry MP","retrieved":"2026-09-30","source_type":"official_biography","locator":"Qualifications and occupation before entering Federal Parliament; party positions; parliamentary service","note":"Primary official chronology for laboratory, NAB, family construction business, small business, electorate office, party role and federal service."},
-    {"source_id":"src-2","url":"https://michellelandry.com.au/about-michelle/","publisher":"Office of Michelle Landry MP","title":"About Michelle","retrieved":"2026-09-30","source_type":"official_biography","locator":"Pre-parliamentary career","note":"Member's official site says she ran her own bookkeeping business before winning Capricornia in 2013."},
-    {"source_id":"src-3","url":"https://handbook.aph.gov.au/parliamentarians/249764","publisher":"Parliamentary Handbook","title":"LANDRY, the Hon. Michelle Leanne","retrieved":"2026-09-30","source_type":"official_biography","locator":"Current parliamentary service","note":"Official frozen-roster identity and election date."},
-    {"source_id":"src-4","url":"https://openresearch-repository.anu.edu.au/bitstreams/f9296d1e-0d24-4d6c-a116-752d72366345/download","publisher":"Parliament of Australia","title":"Parliamentary Handbook of the Commonwealth of Australia 2017","retrieved":"2026-09-30","source_type":"government_record","locator":"Michelle Landry biographical entry","note":"Historical official handbook corroborating year-level career intervals."},
-    {"source_id":"src-5","url":"https://www.lnp.org.au/michellelandry","publisher":"Liberal National Party of Queensland","title":"Michelle Landry","retrieved":"2026-09-30","source_type":"professional_profile","locator":"Biography","note":"Reports early work writing casket tickets at her parents' Lucky Daniels agency; dates, hours and employment status are not supplied."},
-    {"source_id":"src-6","url":"https://museum.rggs.qld.edu.au/wp-content/uploads/2023/11/Chit-Chat-October-2019.pdf","publisher":"Rockhampton Girls Grammar School Old Girls' Association","title":"Chit Chat, October 2019","retrieved":"2026-09-30","source_type":"professional_profile","locator":"Page 10, Michelle Landry profile","note":"School alumni publication corroborating 1978–1985 laboratory work, 1985–2007 NAB work and 1999–2009 bookkeeping business."}
+    {
+      "source_id": "src-1",
+      "url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=249764",
+      "publisher": "Parliament of Australia",
+      "title": "Hon Michelle Landry MP",
+      "retrieved": "2026-09-30",
+      "source_type": "official_biography",
+      "locator": "Qualifications and occupation before entering Federal Parliament; party positions; parliamentary service",
+      "note": "Primary official chronology for laboratory, NAB, family construction business, small business, electorate office, party role and federal service."
+    },
+    {
+      "source_id": "src-2",
+      "url": "https://michellelandry.com.au/about-michelle/",
+      "publisher": "Office of Michelle Landry MP",
+      "title": "About Michelle",
+      "retrieved": "2026-10-02",
+      "source_type": "official_biography",
+      "locator": "Early work and volunteer roles",
+      "note": "Member biography gives laboratory duration5.5years, banking20years and four explicitly volunteer roles; dates/workload not supplied."
+    },
+    {
+      "source_id": "src-3",
+      "url": "https://handbook.aph.gov.au/parliamentarians/249764",
+      "publisher": "Parliamentary Handbook",
+      "title": "LANDRY, the Hon. Michelle Leanne",
+      "retrieved": "2026-09-30",
+      "source_type": "official_biography",
+      "locator": "Current parliamentary service",
+      "note": "Official frozen-roster identity and election date."
+    },
+    {
+      "source_id": "src-4",
+      "url": "https://openresearch-repository.anu.edu.au/bitstreams/f9296d1e-0d24-4d6c-a116-752d72366345/download",
+      "publisher": "Parliament of Australia",
+      "title": "Parliamentary Handbook of the Commonwealth of Australia 2017",
+      "retrieved": "2026-09-30",
+      "source_type": "government_record",
+      "locator": "Michelle Landry biographical entry",
+      "note": "Historical official handbook corroborating year-level career intervals."
+    },
+    {
+      "source_id": "src-5",
+      "url": "https://www.lnp.org.au/michellelandry",
+      "publisher": "Liberal National Party of Queensland",
+      "title": "Michelle Landry",
+      "retrieved": "2026-09-30",
+      "source_type": "professional_profile",
+      "locator": "Biography",
+      "note": "Reports early work writing casket tickets at her parents' Lucky Daniels agency; dates, hours and employment status are not supplied."
+    },
+    {
+      "source_id": "src-6",
+      "url": "https://museum.rggs.qld.edu.au/wp-content/uploads/2023/11/Chit-Chat-October-2019.pdf",
+      "publisher": "Rockhampton Girls Grammar School Old Girls' Association",
+      "title": "Chit Chat, October 2019",
+      "retrieved": "2026-09-30",
+      "source_type": "professional_profile",
+      "locator": "Page 10, Michelle Landry profile",
+      "note": "School alumni publication corroborating 1978–1985 laboratory work, 1985–2007 NAB work and 1999–2009 bookkeeping business."
+    },
+    {
+      "url": "https://au.linkedin.com/in/michelle-landry-67710342",
+      "publisher": "Michelle Landry via LinkedIn",
+      "title": "Michelle Landry professional profile",
+      "source_type": "professional_profile",
+      "locator": "Public search-index excerpt, pathology entry; full page429 Too Many Requests",
+      "note": "Indexed profile identifies Dr TB Lynch,1979–1985. Full profile unavailable; dates conflict with APH and require corroboration.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-7"
+    },
+    {
+      "url": "https://australianpolitics.com/2013/12/05/michelle-landry-lnp-capricornia-first-speech.html/",
+      "publisher": "Parliament of Australia Hansard via AustralianPolitics.com",
+      "title": "Michelle Landry first speech,5December2013",
+      "source_type": "government_record",
+      "locator": "10:22am, family-business passage",
+      "note": "First-person account of selling casket tickets aged12; no pay or hours statement.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-8"
+    },
+    {
+      "url": "https://museum.rggs.qld.edu.au/biography-michelle-landry/",
+      "publisher": "Rockhampton Girls Grammar School, Paterson Hall Heritage Museum",
+      "title": "Biography Michelle Landry",
+      "source_type": "professional_profile",
+      "locator": "School dates and pre-parliamentary career",
+      "note": "School1975–1978; NAB22-year career and family-shop context. No employment hours or legal-entity proof.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-9"
+    }
   ],
   "research_notes": [
     "Identify the pathology/medical-biochemistry laboratory employer, dates, hours and ownership/control; reconcile the 1978 start with the final school year.",
     "Obtain NAB role progression, exact dates, hours and leave and reconcile the 1999–2007 overlap with family-business bookkeeping/property management.",
     "Identify the family construction business and separate small bookkeeping business legal entities, payroll/self-employment status, hours, clients, cessation and all overlaps.",
     "Identify the 2010–2012 electorate office and employing authority; obtain exact appointment, cessation, hours, leave and campaign arrangements.",
-    "Follow up the Lucky Daniels casket-agency childhood/first-job reference and include it as employment only if dates, paid status and substantive work can be established."
+    "Follow up the Lucky Daniels casket-agency childhood/first-job reference and include it as employment only if dates, paid status and substantive work can be established.",
+    "2026-10-02 follow-up: primary first speech and official/alumni biographies reviewed; publicly indexed professional profile supplies laboratory name and conflicting1979start. Full LinkedIn page returned429 Too Many Requests; not retried. Added childhood family-work context without paid assumption and four explicit volunteer roles. Searches for electorate-office employer, construction entity and NAB workload did not resolve them; mentor/colleague acknowledgements are not employer proof. Investigate Dr TB Lynch historical laboratory records and1978/1979 discrepancy, not namesake US/Canadian profiles. No totals calculated."
   ]
 }
