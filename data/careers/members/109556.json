@@ -6,7 +6,7 @@
   "snapshot_party": "Liberal Party of Australia",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/109556",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-02",
+  "last_reviewed": "2026-10-03",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -359,7 +359,7 @@
       "employer": "Mercy Public Hospitals Inc",
       "role": "Board member",
       "start_date": "2015-03",
-      "end_date": null,
+      "end_date": "2016-05",
       "date_precision": "month",
       "employment_status": "unknown",
       "fte_fraction": null,
@@ -368,9 +368,10 @@
       "government_control_at_time": "private",
       "counting_status": "excluded",
       "source_ids": [
-        "src-mercy-2015"
+        "src-mercy-2015",
+        "src-mercy2016-oct3"
       ],
-      "evidence_note": "Employer annual report dates this board term from March 2015. Do not apply that date to the separate Mercy Health parent-group role. End, remuneration and meeting load unknown.",
+      "evidence_note": "Employer annual report dates this board term from March 2015. Do not apply that date to the separate Mercy Health parent-group role. End, remuneration and meeting load unknown. Original2015/16 report, printed page10/PDFpage10, explicitly states term concluded May2016; month-level cessation now resolved. No date transferred to parent-group role.",
       "counting_note": "Governance/community/nonprofit role excluded; paid status not presumed.",
       "spell_id": "109556-mercy-public"
     },
@@ -473,9 +474,9 @@
     {
       "employer": "Ramsay Centre for Western Civilisation Limited",
       "role": "Non-executive director; nominations-committee member",
-      "start_date": null,
+      "start_date": "2017-03",
       "end_date": null,
-      "date_precision": "unknown",
+      "date_precision": "month",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "nonprofit",
@@ -483,9 +484,10 @@
       "government_control_at_time": "private",
       "counting_status": "excluded",
       "source_ids": [
-        "src-ramsay-2018"
+        "src-ramsay-2018",
+        "src-ramsay2019-index-oct3"
       ],
-      "evidence_note": "2018 directors report establishes governance during reporting period; original appointment and cessation unknown. Later resignation appears in search leads but was not independently resolved.",
+      "evidence_note": "2018 directors report establishes governance during reporting period; original appointment and cessation unknown. Later resignation appears in search leads but was not independently resolved. Public indexed2019 financial report gives non-executive director appointment March2017 and Audit, Finance and Risk Committee service November2017–July2019. The latter is a committee subterm, not board resignation. Original2019 PDF now404; month appointment remains explicitly indexed-primary evidence pending full-page corroboration. Earlier nominations-committee description retained as supported prior evidence, not presumed same committee.",
       "counting_note": "Governance/community/nonprofit role excluded; paid status not presumed.",
       "spell_id": "109556-ramsay-board"
     },
@@ -797,6 +799,26 @@
       "note": "Public indexed original reports February2016 resignation; full reader returned internal error.",
       "retrieved": "2026-10-02",
       "source_id": "src-piac2016-oct2"
+    },
+    {
+      "source_id": "src-mercy2016-oct3",
+      "url": "https://www.mercyhealth.com.au/wp-content/uploads/sites/61/2017/08/MERCY-PUBLIC-HOSPITALS-INC-Report-of-Operations-2016-LR.pdf",
+      "publisher": "Mercy Public Hospitals Inc",
+      "title": "Report of Operations2015/16",
+      "source_type": "official_report",
+      "retrieved": "2026-10-03",
+      "locator": "Printed page10 / PDFpage10, Our governance structure",
+      "note": "Explicit individual board cessation May2016; not general election inference."
+    },
+    {
+      "source_id": "src-ramsay2019-index-oct3",
+      "url": "https://acncpubfilesprodstorage.blob.core.windows.net/public/7addae91-3aaf-e811-a95e-000d3ad24c60-5d66eeca-1cd6-4ef0-b7fd-393ee66b04fd-Financial%20Report-112882c8-b0ba-ea11-a812-000d3ad1ce3a-2019_RCWC_Financial_Statements_lodged_with_ACNC.pdf",
+      "publisher": "Ramsay Centre for Western Civilisation / ACNC",
+      "title": "Financial statements2019",
+      "source_type": "official_report",
+      "retrieved": "2026-10-03",
+      "locator": "Public indexed printed page4, Julian Leeser MP GAICD entry",
+      "note": "Indexed original text: personal March2017 director appointment, November2017–July2019 committee term. Direct original download404; no claimed full-page inspection. Corporate1March2017 incorporation date is not substituted for personal appointment."
     }
   ],
   "research_notes": [
@@ -807,7 +829,8 @@
     "The undated official company-director label is linked cautiously to publicly identified nonprofit boards without inferring pay, workload or operational employment.",
     "2026-10-01 follow-up: Menzies commencement refined to February 2006; original combined boards separated and Mercy Public Hospitals March 2015 appointment added without conflating the parent organisation. Added religious teaching/community roles, Ramsay scoping work and non-executive governance, and NLA parliamentary governance.",
     "Searched legal-employer and court chronology, full-time wording, Menzies publications, ACU/Mercy annual reports, charity filings and library reports. Full-time searches found staff vacancies rather than evidence about Leeser. ACNC scanned report inspected visually after one copy failed retrieval. NLA old PDF redirects and archive failed; exact appointment day remains a labelled indexed lead. No supported High Court/Mallesons full-time interval, leave history or dates found.",
-    "Second follow-up2October2026: primary financial-report index resolves Teach For Australia term; BCA2002 original identifies Executive Adviser title at Mallesons; PIAC reports add governance and conference service. Full-time searches returned unrelated lawyers and roles, not personal evidence. Python requests import unavailable, replaced by standard-library download; Teach For Australia download403 not retried. Reader source gaps remain explicitly labelled. Further priorities: court/Mallesons hours and leave, board instruments and Harvard/Menzies overlap. No new countable full-time interval."
+    "Second follow-up2October2026: primary financial-report index resolves Teach For Australia term; BCA2002 original identifies Executive Adviser title at Mallesons; PIAC reports add governance and conference service. Full-time searches returned unrelated lawyers and roles, not personal evidence. Python requests import unavailable, replaced by standard-library download; Teach For Australia download403 not retried. Reader source gaps remain explicitly labelled. Further priorities: court/Mallesons hours and leave, board instruments and Harvard/Menzies overlap. No new countable full-time interval.",
+    "Follow-up3October2026 closes Mercy Public Hospitals board term at May2016 from original report and refines Ramsay board start to March2017 using clearly labelled indexed original financial report. Direct Ramsay2019 original404; local extraction consequently had no file, not a permission or account limit. Harvard searches repeat2006–07 without work pattern; no leave or full-time interval established. Record2013 Citizens No Case Committee national convener and specific Hornsby Hospital Community Participation Committee as further leads from professional/council publications; original employment terms still absent. Prior Mercy Health and Mercy Public Hospitals entries remain distinct pending legal appointment mapping."
   ],
   "open_questions": [
     "What were the exact dates, hours, leave and employment status for the High Court associateship and Mallesons solicitor role?",
@@ -819,6 +842,7 @@
     "Was the Ramsay founding study paid separately, by which entity, on what dates and hours, or undertaken within ACU employment?",
     "What were the Ramsay board appointment/cessation dates and fees, and National Library Council reappointments and end?",
     "Can separate Mercy Health and Mercy Public Hospitals appointments, teaching and community-governance dates and remuneration be established?",
-    "What were the precise Hornsby-Kuring-Gai Hospital and Chinese Australian Forum capacities/terms, and did the BCA contribution involve a formal Mallesons secondment?"
+    "What were the precise Hornsby-Kuring-Gai Hospital and Chinese Australian Forum capacities/terms, and did the BCA contribution involve a formal Mallesons secondment?",
+    "Can a currently accessible original Ramsay2019 financial report corroborate indexed March2017 appointment and November2017–July2019 committee subterm, and establish actual board cessation rather than committee departure?"
   ]
 }
