@@ -6,12 +6,12 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/HVO",
   "research_status": "blocked",
-  "last_reviewed": "2026-09-30",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
     "calculation_status": "not_calculable",
-    "note": "Official records establish private legal practice from 1985 to the 2007 election, and first-person material identifies Neumann and Turnour Lawyers, partnership, family-law specialization and 1996 accreditation. They do not publish hours, leave, exact partnership commencement, other early legal employers or cessation day. His student meatworks job was part-time; party, governance and elected roles are excluded. No full-time public/private total is therefore calculated."
+    "note": "Official records establish private legal practice from 1985 to the 2007 election, and first-person material identifies Neumann and Turnour Lawyers, partnership, family-law specialization and 1996 accreditation. They do not publish hours, leave, exact partnership commencement, other early legal employers or cessation day. His student meatworks job was part-time; party, governance and elected roles are excluded. No full-time public/private total is therefore calculated. Articled-clerk work from1983 is separately supported but employer, cessation and hours remain unknown. Election date is not used as a legal-practice cessation day."
   },
   "career_spells": [
     {
@@ -27,7 +27,11 @@
       "headline_sector": "private",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-3", "src-4", "src-5"],
+      "source_ids": [
+        "src-3",
+        "src-4",
+        "src-5"
+      ],
       "evidence_note": "In his first speech Neumann described a part-time cleaner job at Dinmore Meatworks while studying at university. The operator, dates, hours and leave are not published.",
       "counting_note": "Explicitly part-time work is outside the substantive full-time headline measure."
     },
@@ -44,7 +48,12 @@
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-1", "src-2", "src-3", "src-4"],
+      "source_ids": [
+        "src-1",
+        "src-2",
+        "src-3",
+        "src-4"
+      ],
       "evidence_note": "Official biographies and Neumann's first speech identify arts and law study at UQ, including government and economics majors, without attendance or completion dates.",
       "counting_note": "Study is excluded."
     },
@@ -53,16 +62,25 @@
       "employer": "Private legal practice, including Neumann and Turnour Lawyers",
       "role": "Lawyer; partner and senior partner; accredited family law specialist from 1996",
       "start_date": "1985",
-      "end_date": "2007-11-24",
-      "date_precision": "mixed",
+      "end_date": "2007",
+      "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "private_enterprise",
       "headline_sector": "private",
       "government_control_at_time": "private",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-1", "src-2", "src-3", "src-4", "src-6", "src-7"],
-      "evidence_note": "The official biography gives lawyer from 1985 to 2007. Neumann says he entered business at age 26 as partner in his own firm with Matthew Turnour and built Neumann and Turnour Lawyers in Brisbane; his member profile calls him a senior partner and says he practised about 25 years. Parliamentary speeches establish family-law accreditation in 1996. Sources do not establish any 1985-to-partnership employer, exact firm start, hours, leave or precise cessation beyond election to Parliament.",
+      "source_ids": [
+        "src-1",
+        "src-2",
+        "src-3",
+        "src-4",
+        "src-6",
+        "src-7",
+        "src-12",
+        "src-13"
+      ],
+      "evidence_note": "The official biography gives lawyer from 1985 to 2007. Neumann says he entered business at age 26 as partner in his own firm with Matthew Turnour and built Neumann and Turnour Lawyers in Brisbane; his member profile calls him a senior partner and says he practised about 25 years. Parliamentary speeches establish family-law accreditation in 1996. Sources do not establish any 1985-to-partnership employer, exact firm start, hours, leave or precise cessation beyond election to Parliament. Follow-up2026-10-02: replaced election-day cessation with official year2007 because no source establishes last working day. Separate1983articled-clerk work below precedes the official1985lawyer interval. Age26partnership and aggregate business-years claims do not justify precise firm-start dates.",
       "counting_note": "Substantive private practice is clear, but an aggregate occupation interval and senior title do not establish continuous full-time service or resolve the early-employer boundary."
     },
     {
@@ -74,12 +92,16 @@
       "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
-      "category": "governance",
+      "category": "nonprofit",
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-3", "src-8", "src-9"],
-      "evidence_note": "Neumann's member biography identifies board service. In 2008 parliamentary speeches he said he served for 14 years and ceased before entering the House, but exact appointment/cessation, remuneration and time commitment are not stated.",
+      "source_ids": [
+        "src-3",
+        "src-8",
+        "src-9"
+      ],
+      "evidence_note": "Neumann's member biography identifies board service. In 2008 parliamentary speeches he said he served for 14 years and ceased before entering the House, but exact appointment/cessation, remuneration and time commitment are not stated. Fourteen years is reported duration, not a dated appointment; no start year derived by subtraction.",
       "counting_note": "Board governance is excluded from substantive employment totals."
     },
     {
@@ -87,16 +109,20 @@
       "employer": "West Moreton District Health Council",
       "role": "Council member / community health advocate",
       "start_date": null,
-      "end_date": "2007",
-      "date_precision": "mixed",
+      "end_date": null,
+      "date_precision": "unknown",
       "employment_status": "unknown",
       "fte_fraction": null,
-      "category": "governance",
+      "category": "unknown",
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-3", "src-9"],
-      "evidence_note": "Member and ABC profiles report service on the local health council before Parliament. Appointment/cessation, remuneration and time commitment are not published.",
+      "source_ids": [
+        "src-3",
+        "src-9",
+        "src-13"
+      ],
+      "evidence_note": "Member and ABC profiles report service on the local health council before Parliament. Appointment/cessation, remuneration and time commitment are not published. Follow-up: removed assumed2007cessation; source only places service before Parliament. First speech describes nearly a decade without precise boundaries. Public advisory governance is distinct from an established public-service job.",
       "counting_note": "Council governance is excluded."
     },
     {
@@ -112,7 +138,9 @@
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-1"],
+      "source_ids": [
+        "src-1"
+      ],
       "evidence_note": "The official biography lists overlapping internal party positions: branch president from 1990; electorate-council president 1995–2008; state conference delegate 2000–08; rules committee 2002–08; national conference delegate 2004–07 and 2023; administrative committee 2005–08 and from 2022. Paid status, hours and several end dates are unspecified.",
       "counting_note": "Party-organisation roles are excluded."
     },
@@ -129,7 +157,9 @@
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-1"],
+      "source_ids": [
+        "src-1"
+      ],
       "evidence_note": "The official biography lists this campaign-director interval but does not establish paid status, hours, exact dates or overlap with legal practice.",
       "counting_note": "Party campaign work is excluded."
     },
@@ -139,35 +169,201 @@
       "role": "Member for Blair",
       "start_date": "2007-11-24",
       "end_date": null,
-      "date_precision": "day",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-1", "src-2", "src-10"],
+      "source_ids": [
+        "src-1",
+        "src-2",
+        "src-10"
+      ],
       "evidence_note": "Official records show election to the House of Representatives for Blair on 24 November 2007 and continuous service thereafter.",
       "counting_note": "Federal elected office is excluded."
+    },
+    {
+      "employer": "Unidentified legal practice",
+      "role": "Junior articled law clerk, including family-law work",
+      "start_date": "1983",
+      "end_date": null,
+      "date_precision": "mixed",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "private_enterprise",
+      "headline_sector": "private",
+      "government_control_at_time": "private",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-11",
+        "src-12"
+      ],
+      "evidence_note": "Explicit first-person1983commencement as articled clerk.2010speech recalls conveyancing work in Ipswich, but does not name firm. No inferred1985end, admission day, hours or leave; possible overlap with study/otherwork unresolved.",
+      "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
+      "spell_id": "HVO-09"
+    },
+    {
+      "employer": "Ipswich family-relationship grandparents reference group; hosting body not established",
+      "role": "Reference-group participant",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-11"
+      ],
+      "evidence_note": "2010speech describes participation during first parliamentary term in group considering grandparents’ rights. Not recorded as paid employment; later planned participation is not treated as an accomplished appointment.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "HVO-10"
     }
   ],
   "sources": [
-    {"source_id":"src-1","url":"https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=HVO","publisher":"Parliament of Australia","title":"Hon Shayne Neumann MP","retrieved":"2026-09-30","source_type":"official_biography","locator":"Qualifications and occupation; party positions; parliamentary service","note":"Official lawyer interval, degrees, detailed party positions and House service."},
-    {"source_id":"src-2","url":"https://handbook.aph.gov.au/parliamentarians/HVO","publisher":"Parliamentary Handbook","title":"NEUMANN, the Hon. Shayne Kenneth","retrieved":"2026-09-30","source_type":"official_biography","locator":"Occupations and service","note":"Frozen-roster identity and official 1985–2007 lawyer occupation."},
-    {"source_id":"src-3","url":"https://shayneneumann.com.au/about/about-shayne/","publisher":"Office of Shayne Neumann MP","title":"About Shayne","retrieved":"2026-09-30","source_type":"official_biography","locator":"Education, legal career and community service","note":"Member profile identifying senior partnership, roughly 25 years' practice, family-law specialization, governance and meatworks work."},
-    {"source_id":"src-4","url":"https://www.openaustralia.org.au/debate/?id=2008-02-21.20.1","publisher":"Parliament of Australia Hansard via OpenAustralia","title":"First speech — Shayne Neumann, 21 February 2008","retrieved":"2026-09-30","source_type":"first_person","locator":"Education, meatworks and legal-practice passages","note":"First-person account identifying part-time meatworks cleaning, UQ study, partnership at age 26 and Neumann and Turnour Lawyers."},
-    {"source_id":"src-5","url":"https://alp.org.au/our-people/our-people/shayne-neumann/","publisher":"Australian Labor Party","title":"Shayne Neumann — Member for Blair","retrieved":"2026-09-30","source_type":"official_biography","locator":"Pre-Parliament biography","note":"Party biography corroborating meatworks work during university and private family-law partnership."},
-    {"source_id":"src-6","url":"https://www.openaustralia.org.au/debate/?id=2008-08-28.24.1","publisher":"Parliament of Australia Hansard via OpenAustralia","title":"Family Law Amendment (De Facto Financial Matters and Other Measures) Bill 2008","retrieved":"2026-09-30","source_type":"first_person","locator":"Accredited family-law specialist passage","note":"Neumann states that he became an accredited family law specialist in 1996."},
-    {"source_id":"src-7","url":"https://www.openaustralia.org.au/debates/?id=2011-05-26.25.1","publisher":"Parliament of Australia Hansard via OpenAustralia","title":"Family Law Legislation Amendment (Family Violence and Other Measures) Bill 2011","retrieved":"2026-09-30","source_type":"first_person","locator":"Professional experience passage","note":"First-person corroboration of family-law specialization from 1996 before election."},
-    {"source_id":"src-8","url":"https://www.openaustralia.org.au/debate/?id=2008-11-25.100.1","publisher":"Parliament of Australia Hansard via OpenAustralia","title":"Aged Care Amendment (2008 Measures No. 2) Bill 2008","retrieved":"2026-09-30","source_type":"first_person","locator":"Queensland Baptist Care board passage","note":"Neumann states he served on the board for 14 years before entering the House."},
-    {"source_id":"src-9","url":"https://www.abc.net.au/news/elections/federal/2025/guide/blai","publisher":"ABC News","title":"Blair — Federal Election 2025","retrieved":"2026-09-30","source_type":"news","locator":"Candidate biography","note":"Corroborates West Moreton District Health Council and Queensland Baptist Care board service."},
-    {"source_id":"src-10","url":"https://www.shayneneumann.com.au/","publisher":"Office of Shayne Neumann MP","title":"Shayne Neumann — Federal Member for Blair","retrieved":"2026-09-30","source_type":"official_biography","locator":"Parliamentary commencement","note":"Member site identifies election on 24 November 2007."}
+    {
+      "source_id": "src-1",
+      "url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=HVO",
+      "publisher": "Parliament of Australia",
+      "title": "Hon Shayne Neumann MP",
+      "retrieved": "2026-09-30",
+      "source_type": "official_biography",
+      "locator": "Qualifications and occupation; party positions; parliamentary service",
+      "note": "Official lawyer interval, degrees, detailed party positions and House service."
+    },
+    {
+      "source_id": "src-2",
+      "url": "https://handbook.aph.gov.au/parliamentarians/HVO",
+      "publisher": "Parliamentary Handbook",
+      "title": "NEUMANN, the Hon. Shayne Kenneth",
+      "retrieved": "2026-09-30",
+      "source_type": "official_biography",
+      "locator": "Occupations and service",
+      "note": "Frozen-roster identity and official 1985–2007 lawyer occupation."
+    },
+    {
+      "source_id": "src-3",
+      "url": "https://shayneneumann.com.au/about/about-shayne/",
+      "publisher": "Office of Shayne Neumann MP",
+      "title": "About Shayne",
+      "retrieved": "2026-09-30",
+      "source_type": "official_biography",
+      "locator": "Education, legal career and community service",
+      "note": "Member profile identifying senior partnership, roughly 25 years' practice, family-law specialization, governance and meatworks work."
+    },
+    {
+      "source_id": "src-4",
+      "url": "https://www.openaustralia.org.au/debate/?id=2008-02-21.20.1",
+      "publisher": "Parliament of Australia Hansard via OpenAustralia",
+      "title": "First speech — Shayne Neumann, 21 February 2008",
+      "retrieved": "2026-09-30",
+      "source_type": "first_person",
+      "locator": "Education, meatworks and legal-practice passages",
+      "note": "First-person account identifying part-time meatworks cleaning, UQ study, partnership at age 26 and Neumann and Turnour Lawyers."
+    },
+    {
+      "source_id": "src-5",
+      "url": "https://alp.org.au/our-people/our-people/shayne-neumann/",
+      "publisher": "Australian Labor Party",
+      "title": "Shayne Neumann — Member for Blair",
+      "retrieved": "2026-09-30",
+      "source_type": "official_biography",
+      "locator": "Pre-Parliament biography",
+      "note": "Party biography corroborating meatworks work during university and private family-law partnership."
+    },
+    {
+      "source_id": "src-6",
+      "url": "https://www.openaustralia.org.au/debate/?id=2008-08-28.24.1",
+      "publisher": "Parliament of Australia Hansard via OpenAustralia",
+      "title": "Family Law Amendment (De Facto Financial Matters and Other Measures) Bill 2008",
+      "retrieved": "2026-09-30",
+      "source_type": "first_person",
+      "locator": "Accredited family-law specialist passage",
+      "note": "Neumann states that he became an accredited family law specialist in 1996."
+    },
+    {
+      "source_id": "src-7",
+      "url": "https://www.openaustralia.org.au/debates/?id=2011-05-26.25.1",
+      "publisher": "Parliament of Australia Hansard via OpenAustralia",
+      "title": "Family Law Legislation Amendment (Family Violence and Other Measures) Bill 2011",
+      "retrieved": "2026-09-30",
+      "source_type": "first_person",
+      "locator": "Professional experience passage",
+      "note": "First-person corroboration of family-law specialization from 1996 before election."
+    },
+    {
+      "source_id": "src-8",
+      "url": "https://www.openaustralia.org.au/debate/?id=2008-11-25.100.1",
+      "publisher": "Parliament of Australia Hansard via OpenAustralia",
+      "title": "Aged Care Amendment (2008 Measures No. 2) Bill 2008",
+      "retrieved": "2026-09-30",
+      "source_type": "first_person",
+      "locator": "Queensland Baptist Care board passage",
+      "note": "Neumann states he served on the board for 14 years before entering the House."
+    },
+    {
+      "source_id": "src-9",
+      "url": "https://www.abc.net.au/news/elections/federal/2025/guide/blai",
+      "publisher": "ABC News",
+      "title": "Blair — Federal Election 2025",
+      "retrieved": "2026-09-30",
+      "source_type": "news",
+      "locator": "Candidate biography",
+      "note": "Corroborates West Moreton District Health Council and Queensland Baptist Care board service."
+    },
+    {
+      "source_id": "src-10",
+      "url": "https://www.shayneneumann.com.au/",
+      "publisher": "Office of Shayne Neumann MP",
+      "title": "Shayne Neumann — Federal Member for Blair",
+      "retrieved": "2026-09-30",
+      "source_type": "official_biography",
+      "locator": "Parliamentary commencement",
+      "note": "Member site identifies election on 24 November 2007."
+    },
+    {
+      "url": "https://www.openaustralia.org.au/debate/?id=2010-10-20.152.1",
+      "publisher": "Parliament of Australia Hansard via OpenAustralia",
+      "title": "Civil Dispute Resolution Bill 2010 — Shayne Neumann",
+      "source_type": "first_person",
+      "locator": "20October2010; junior articled clerk at Ipswich conveyance and reference-group paragraphs",
+      "note": "First-person confirmation of early clerkship and participation in a grandparents reference group in first parliamentary term. Future reference-group intention is not recorded as actual service.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-11"
+    },
+    {
+      "url": "https://www.openaustralia.org.au/debate/?id=2008-08-28.24.1",
+      "publisher": "Parliament of Australia Hansard via OpenAustralia",
+      "title": "Family Law Amendment Bill2008 — Shayne Neumann",
+      "source_type": "first_person",
+      "locator": "28August2008; opening paragraph",
+      "note": "Revisited source previously used only for1996accreditation: explicitly says articled clerk commenced1983. Employer and hours unstated.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-12"
+    },
+    {
+      "url": "https://www.openaustralia.org.au/debate/?id=2008-02-21.20.1",
+      "publisher": "Parliament of Australia Hansard via OpenAustralia",
+      "title": "First speech — Shayne Neumann",
+      "source_type": "first_person",
+      "locator": "21February2008; part-time cleaning, partnership and community governance paragraphs",
+      "note": "Revisited first-person chronology; aggregate24years legal/21years business and nearly decade council service do not prove exact intervals or full-time hours.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-13"
+    }
   ],
   "research_notes": [
     "Identify the Dinmore meatworks operator, dates, hours and leave; work is expressly part-time and remains excluded.",
     "Obtain Queensland admission and legal-practice records identifying every 1985–2007 employer, exact Neumann and Turnour partnership/start/cessation boundaries, hours and leave.",
     "Confirm whether the 1985 lawyer start predates Neumann and Turnour establishment at age 26 and identify any intervening practice.",
     "Obtain appointment/cessation, remuneration and time-commitment records for Queensland Baptist Care and West Moreton District Health Council governance.",
-    "Confirm paid status and exact dates for ALP internal and campaign roles; these remain excluded regardless."
+    "Confirm paid status and exact dates for ALP internal and campaign roles; these remain excluded regardless.",
+    "Follow-up2026-10-02: revisited parliamentary family-law and first speeches, discovering1983clerkship omitted from original record;2010speech confirms Ipswich conveyance and reference-group participation. Added distinct clerkship and removed unsupported day-level legal cessation and assumed2007health-council cessation.",
+    "Targeted firm-history,1983clerk employer,1985lawyer employer, Baptist board and West Moreton council searches did not identify exact appointments or hours. Neumann and Turnour employer website returned (400) Timeout fetching; indexed practice pages did not establish history. Current firm staff and partner admission dates are not Neumann’s employment boundaries.",
+    "Dinmore’s2008/2011Swift and currentJBS identities do not establish the operator during his undated student job; retained employer-location description. Obtain period-specific company/employment records. Board/private practice hours and leave still unresolved."
   ]
 }
