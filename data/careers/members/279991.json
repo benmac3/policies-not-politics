@@ -6,7 +6,7 @@
   "snapshot_party": "The Nationals",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/279991",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-01",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -138,9 +138,10 @@
         "src-register2019",
         "src-practice2014",
         "src-planner",
-        "src-cancer-council"
+        "src-cancer-council",
+        "src-mp-profile-oct2"
       ],
-      "evidence_note": "The frozen extract records solicitor work from 2001 to 2019. Secondary material says Conaghan established his own criminal-defence practice, and a public professional-profile result names Conaghan Lawyers. ABN Lookup records the Australian private company as active from 6 July 2001. The corporate registration date does not prove Conaghan's exact work start; exact cessation, hours, ownership period, leave and campaign overlap remain unresolved. Public3December2014 professional introduction confirms principal role in Port Macquarie.2019 parliamentary declaration identifies retained shareholding/directorship and calls law-firm income passive; do not extend active legal employment merely because company and income continued. Follow-up profiles identify three businesses/practices and defence, immigration and commercial litigation. The official2001–2019 interval is solicitor work overall, not proof of continuous employment at this one company; retain aggregate pending employer-by-employer disaggregation.",
+      "evidence_note": "The frozen extract records solicitor work from 2001 to 2019. Secondary material says Conaghan established his own criminal-defence practice, and a public professional-profile result names Conaghan Lawyers. ABN Lookup records the Australian private company as active from 6 July 2001. The corporate registration date does not prove Conaghan's exact work start; exact cessation, hours, ownership period, leave and campaign overlap remain unresolved. Public3December2014 professional introduction confirms principal role in Port Macquarie.2019 parliamentary declaration identifies retained shareholding/directorship and calls law-firm income passive; do not extend active legal employment merely because company and income continued. Follow-up profiles identify three businesses/practices and defence, immigration and commercial litigation. The official2001–2019 interval is solicitor work overall, not proof of continuous employment at this one company; retain aggregate pending employer-by-employer disaggregation. Second follow-up2October2026 identifies nested practice intervals: Conaghan Hunter Solicitors August2005–December2010 and Conaghan Lawyers December2010–May2019. Aggregate retained to cover unresolved earlier2001–2005 work; no double counting. Public profile also describes sole-practitioner duties, but employer/date association not exposed sufficiently to assign another bounded spell.",
       "counting_note": "Private control and self-employment are supported, but year-only work boundaries and unproven substantive full-time status prevent an exact headline duration."
     },
     {
@@ -242,6 +243,63 @@
       "evidence_note": "Declaration signed17July2019 records continuing company ownership/directorship and passive legal income. This is a2019 observation, not term boundaries. No additional full-time operational employment established.",
       "counting_note": "Governance and passive income are not independently counted as full-time employment; overlaps legal practice/elected office.",
       "spell_id": "279991-practice-governance"
+    },
+    {
+      "employer": "Conaghan Hunter Solicitors (legal payroll entity unresolved)",
+      "role": "Solicitor — Senior Partner",
+      "start_date": "2005-08",
+      "end_date": "2010-12",
+      "date_precision": "month",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "private_enterprise",
+      "headline_sector": "private",
+      "government_control_at_time": "private",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-mp-profile-oct2"
+      ],
+      "evidence_note": "Public profile dates senior-partner role August2005–December2010. Subspell within overall2001–2019 solicitor record; never add aggregate and component durations. Personal hours, breaks and precise legal entity unresolved. December2010 overlap is month precision, not proven simultaneous full-time work.",
+      "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
+      "spell_id": "279991-hunter"
+    },
+    {
+      "employer": "Conaghan Lawyers (legal payroll link to Conaghan Lawyers Pty Ltd not separately established)",
+      "role": "Senior Solicitor; criminal-defence solicitor advocate",
+      "start_date": "2010-12",
+      "end_date": "2019-05",
+      "date_precision": "month",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "private_enterprise",
+      "headline_sector": "private",
+      "government_control_at_time": "private",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-mp-profile-oct2"
+      ],
+      "evidence_note": "Public profile dates role December2010–May2019. Ending month overlaps election; exact cessation and campaign leave unknown. Subspell within overall2001–2019 solicitor record; never add aggregate and component durations. Personal hours, breaks and precise legal entity unresolved. December2010 overlap is month precision, not proven simultaneous full-time work.",
+      "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
+      "spell_id": "279991-lawyers-subspell"
+    },
+    {
+      "employer": "College of Law, NSW",
+      "role": "Diploma of Legal Practice student",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-aph-qualifications-oct2"
+      ],
+      "evidence_note": "Parliamentary biography identifies qualification. Attendance dates, load and concurrent police/legal work unknown; award does not establish salaried practice.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "279991-college-law"
     }
   ],
   "sources": [
@@ -394,6 +452,26 @@
       "note": "Corroborates three businesses including defence/immigration practices and law-study overlap; fundraising not employment.",
       "retrieved": "2026-10-01",
       "source_id": "src-cancer-council"
+    },
+    {
+      "url": "https://au.linkedin.com/in/pat-conaghan-mp",
+      "publisher": "Pat Conaghan / LinkedIn public professional profile",
+      "title": "Pat Conaghan — Federal Member for Cowper",
+      "source_type": "professional_profile",
+      "locator": "Publicly indexed Experience / Solicitors section",
+      "note": "Index explicitly gives Conaghan Hunter Solicitors August2005–December2010 senior partner and Conaghan Lawyers December2010–May2019 senior solicitor. Full profile not accessed; no hours inferred.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-mp-profile-oct2"
+    },
+    {
+      "url": "https://www.aph.gov.au/C_Conaghan_MP",
+      "publisher": "Australian Parliament",
+      "title": "Mr Pat Conaghan MP — qualifications",
+      "source_type": "official_biography",
+      "locator": "Qualifications and occupation before entering Federal Parliament",
+      "note": "LLB UNE and Diploma of Legal Practice College of Law NSW; no qualification dates. Frozen roster unchanged.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-aph-qualifications-oct2"
     }
   ],
   "research_notes": [
@@ -405,7 +483,9 @@
     "Full-time status comes from publicly indexed first-person interview, supported by publisher caption, not from police rank. Direct social-source fetches throttled; no bypass/retry. Podcast listing supplies further review lead at2:28:46, not reviewed full audio. Need exact assignment dates before any duration calculation.",
     "First speech’s two undercover years and four prosecution years are narrative durations only. Birth date/age13/age25 not used to manufacture employment dates. Undercover spell is nested; union overlapping public intervals if eventually countable.",
     "Searched parliamentary first speech and register, public professional profiles, law-practice site, undergraduate leads and council history. APH first-speech direct403 but official indexed content available; personal site verification screen and law-firm site unavailable. No exact law-study/appointment/hours evidence located. Further public police histories, alumni records, court appearances and practice history remain leads.",
-    "New speaker and charity participant biographies identify three legal businesses/practices, so the2001–2019 solicitor spell is relabelled as overall private practice rather than attributing every year to Conaghan Lawyers. Conaghan Hunter Lawyers appears as a court-listing lead, but no personal employment link or separate term yet established. ABR historical-name pages inaccessible. Professional Planner says five Drug Enforcement years; first speech distinguishes two undercover years from later investigation, and frozen detective interval1993–1997 is retained pending reconciliation."
+    "New speaker and charity participant biographies identify three legal businesses/practices, so the2001–2019 solicitor spell is relabelled as overall private practice rather than attributing every year to Conaghan Lawyers. Conaghan Hunter Lawyers appears as a court-listing lead, but no personal employment link or separate term yet established. ABR historical-name pages inaccessible. Professional Planner says five Drug Enforcement years; first speech distinguishes two undercover years from later investigation, and frozen detective interval1993–1997 is retained pending reconciliation.",
+    "Second follow-up2October2026 materially disaggregates two legal practices using public professional-profile index: Conaghan Hunter August2005–December2010 and Conaghan Lawyers December2010–May2019. These components remain nested in overall2001–2019 solicitor interval. Added omitted College of Law diploma study without inferred dates.",
+    "Earlier2001–2005 practice identity/terms, law-school dates and undercover assignment boundaries remain unresolved. UK civil servant, US lawyer and Macquarie geologist namesakes excluded. Public index used without authenticated profile or direct-access retry. May2019 cessation is month precision only and does not settle campaign leave, passive-income transition day or hours."
   ],
   "open_questions": [
     "What were the exact NSW Police appointment, transfer, promotion and cessation dates, hours and leave?",
@@ -416,6 +496,7 @@
     "What were the exact full-time undercover assignment dates and leave, and how did it sit within the1993–1997 detective period?",
     "Who employed him at Kempsey swimming pool, during which dates and hours?",
     "When did operational law work stop and passive company/director involvement begin, and did any legal work continue after election?",
-    "What are the names and separate operational/ownership dates of all three practices, including any Conaghan Hunter connection, and how does the five-year Drug Enforcement account reconcile with frozen1993–1997?"
+    "What are the names and separate operational/ownership dates of all three practices, including any Conaghan Hunter connection, and how does the five-year Drug Enforcement account reconcile with frozen1993–1997?",
+    "Confirm legal payroll entities for Conaghan Hunter and the December2010–May2019 Conaghan Lawyers role, earlier2001–2005 practice, and personal hours/leave for each nested interval; establish College of Law dates."
   ]
 }
