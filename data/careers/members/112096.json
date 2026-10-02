@@ -6,12 +6,12 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/112096",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-01",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
     "calculation_status": "not_calculable",
-    "note": "Union career and governance separately recorded; early teacher/community employers and full-time status remain unresolved. Excluded union work does not imply zero public/private employment."
+    "note": "Resolved ACECQA appointment start and resignation bound, sitting-fee governance basis, and union transition/cessation evidence. Early teaching/community employers and full-time service remain unverified; no headline totals."
   },
   "career_spells": [
     {
@@ -89,9 +89,10 @@
       "counting_status": "excluded",
       "source_ids": [
         "src-1",
-        "src-2"
+        "src-2",
+        "src-11"
       ],
-      "evidence_note": "Official2001 start preserved; own biography2000 conflicts.",
+      "evidence_note": "Official2001 start preserved; own biography2000 conflicts. February 2007 union return confirms WA assistant secretary. Earlier 2000/2001 promotion discrepancy remains.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "112096-04"
     },
@@ -112,18 +113,21 @@
         "src-2",
         "src-4",
         "src-5",
-        "src-7"
+        "src-7",
+        "src-10",
+        "src-11",
+        "src-12"
       ],
-      "evidence_note": "Contemporary employer/ABC corroboration; payroll end not inferred from Senate appointment.",
+      "evidence_note": "Contemporary employer/ABC corroboration; payroll end not inferred from Senate appointment. September 2007 letterhead already names national role; AEC election declared 29 October 2007. Do not treat later election result as first employment start. Union 19 July 2013 letter confirms prior resignation but omits actual date in available compilation; neither this notice nor successor September election dates are payroll boundaries.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "112096-05"
     },
     {
       "employer": "Australian Children's Education and Care Quality Authority",
       "role": "Board member / strategic planning working group",
-      "start_date": null,
+      "start_date": "2011-08-01",
       "end_date": null,
-      "date_precision": "unknown",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "public_service",
@@ -132,9 +136,11 @@
       "counting_status": "excluded",
       "source_ids": [
         "src-3",
-        "src-5"
+        "src-5",
+        "src-8",
+        "src-9"
       ],
-      "evidence_note": "Board attested2011/12, dates/remuneration unknown. Concurrent governance, not full-time employment.",
+      "evidence_note": "Official appointment table gives 1 August 2011 start and intended three-year term. Annual report says Board operated with 12 members from 1 May 2013 following her resignation; actual resignation/last-service day remains unconfirmed and scheduled July 2014 expiry is not actual service. Sitting-fee governance under part-time-office remuneration framework, not substantive full-time public employment.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "112096-06"
     },
@@ -239,7 +245,7 @@
       "role": "Senator for Western Australia",
       "start_date": "2013-05-15",
       "end_date": null,
-      "date_precision": "day",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -325,11 +331,64 @@
       "note": "Contemporaneous assistant national secretary United Voice.",
       "retrieved": "2026-10-01",
       "source_id": "src-7"
+    },
+    {
+      "url": "https://www.aph.gov.au/~/media/Estimates/Live/eet_ctte/estimates/add_1213/answers/EW0837_13_Attachment_A.ashx",
+      "publisher": "DEEWR / Parliament of Australia",
+      "title": "Estimates EW0837_13 Attachment A",
+      "source_type": "government_record",
+      "locator": "p1 ACECQA, Sue Lines row",
+      "note": "Appointment starts 1 August 2011; July 2014 endpoint is scheduled term, superseded by resignation evidence.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-8"
+    },
+    {
+      "url": "https://www.acecqa.gov.au/sites/default/files/2018-01/ACECQA-AnnualReport2013.pdf",
+      "publisher": "ACECQA",
+      "title": "Annual Report 2012–2013",
+      "source_type": "government_record",
+      "locator": "p10 footnote 1; p95 note 10; p119 strategic planning working group",
+      "note": "Board vacancy from 1 May 2013 after resignation. Daily sitting fees linked to part-time offices; aggregate pay includes one former board member, no individual sum.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-9"
+    },
+    {
+      "url": "https://regorgs.fwc.gov.au/sites/default/files/migration/416/108v-e2013-231.pdf",
+      "publisher": "United Voice / Fair Work Commission",
+      "title": "Vacancy election E2013/231",
+      "source_type": "government_record",
+      "locator": "PDF pp7–8 union letter dated 19 July 2013",
+      "note": "Union confirms Lines had resigned by letter date. Resignation attachment mentioned but absent from retrieved eight-page compilation; no exact personal cessation inferred.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-10"
+    },
+    {
+      "url": "https://regorgs.fwc.gov.au/sites/default/files/migration/416/108v-ar2007-387.pdf",
+      "publisher": "LHMU / Australian Industrial Registry",
+      "title": "Annual return AR2007/387 and amendments",
+      "source_type": "government_record",
+      "locator": "PDF p69 WA assistant secretary; pp102–104 national declaration and AEC result",
+      "note": "WA role observed February 2007; AEC declares national election result 29 October 2007, not necessarily first acting appointment.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-11"
+    },
+    {
+      "url": "https://www.fwc.gov.au/documents/organisations/registered-orgs/108v-r2007-326.pdf",
+      "publisher": "LHMU / Australian Industrial Registry",
+      "title": "Rule alteration R2007/326",
+      "source_type": "government_record",
+      "locator": "11 September 2007 union letterhead",
+      "note": "Already labels Lines assistant national secretary before October election result; acting/formal transition unresolved.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-12"
     }
   ],
   "research_notes": [
     "2026-10-01 avenues: frozen/indexed APH, current/older own biographies, maiden speech, ACECQA2011/12 annual report, Murdoch anniversary, contemporary ABC and targeted school/community/full-time searches. No early employer/hours evidence found. Wales project manager, Melbourne Grammar IT director and Holla-Fresh namesakes excluded.",
     "Priority: identify1984–85 school/payroll and1985–87 community employer/control/hours; pre1984 paid work and study overlap. Queens Park school in speech was mother workplace.",
-    "Resolve2000/2001 union promotion via union returns/predecessor history; dates, leave and2013 exit. Board/expert appointment tenure/payment need ACECQA2012/13, ACFA and NDIS records. Governance does not establish another full-time career."
+    "Resolve2000/2001 union promotion via union returns/predecessor history; dates, leave and2013 exit. Board/expert appointment tenure/payment need ACECQA2012/13, ACFA and NDIS records. Governance does not establish another full-time career.",
+    "Follow-up 2026-10-02: read ACECQA 2012–13 report, DEEWR appointment table, union 2007 annual return/amendments and 2013 vacancy file. Distinguished intended term from actual resignation and election declaration from earlier employment. Governance payments are sitting fees, not full-time service.",
+    "School/community employer and pre-1984 work searches remain unsuccessful. South Australian library result for a welfare-office assistant Sue Lines cannot be linked to this Senator and is not assigned. ACFA/NDIS dates remain for later agency appointment-register search. Union 2000/2001 dispute needs original WA branch election/appointment record; 2007 return cannot resolve it.",
+    "Recovered local command error during batch handoff: git status/show invoked in scratch instead of repository returned fatal: not a git repository (or any of the parent directories): .git. Correct repository command and WA2 remote fetch/check recovered; no work lost or terminal blocker."
   ]
 }
