@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/316551",
   "research_status": "blocked",
-  "last_reviewed": "2026-09-29",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -52,7 +52,7 @@
         "src-3",
         "src-9"
       ],
-      "evidence_note": "Work followed Army departure and was occurring in 2016. Employers, possible multiple spells, dates, hours and control are unresolved; observations are not fabricated boundaries.",
+      "evidence_note": "Work followed Army departure and was occurring in 2016. Employers, possible multiple spells, dates, hours and control are unresolved; observations are not fabricated boundaries. First-job interview now separately identifies an undated fish-and-chip-shop role; this umbrella may overlap it and is not an extra additive period.",
       "counting_note": "Dates, employer control and/or substantive full-time status remain insufficient for a duration calculation; unknown is not zero."
     },
     {
@@ -251,6 +251,25 @@
       ],
       "evidence_note": "Federal elected office excluded from employment headlines.",
       "counting_note": "Excluded from the two employment headlines under the codebook."
+    },
+    {
+      "employer": "Fish-and-chip shop; name and employing entity unidentified",
+      "role": "First paid job, fish-and-chip shop worker",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "unknown",
+      "government_control_at_time": "unknown",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-12"
+      ],
+      "evidence_note": "First-person indexed interview identifies first job and approximately$6 hourly pay. No start/end, weekly hours, employer identity or control established. Relation to later hospitality umbrella unresolved; do not add overlapping durations.",
+      "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
+      "spell_id": "316551-13"
     }
   ],
   "sources": [
@@ -363,6 +382,16 @@
       "source_type": "government_record",
       "locator": "Personal account of studying at UniSC",
       "note": "Explicit full-time study statement is not employment evidence."
+    },
+    {
+      "url": "https://www.facebook.com/PatrickGormanMP/videos/what-was-your-first-job-emma-comer-mp/1447026034145411/",
+      "publisher": "Patrick Gorman MP / Emma Comer",
+      "title": "What was your first job Emma Comer MP?",
+      "source_type": "professional_profile",
+      "locator": "Publicly indexed video transcript opening answer",
+      "note": "Identifies first job at a fish-and-chip shop with roughly$6 hourly pay. Direct open returned Online fetch throttled; remaining transcript not retrieved. No dates, shop name or hours claimed.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-12"
     }
   ],
   "research_notes": [
@@ -370,6 +399,7 @@
     "Initial pass 2026-09-29 reviewed parliamentary biography, first speech, member/party profiles, local direct-interview reporting, UniSC event biography, indexed 2021/2023 university reports, 2023 Student Senate report, and later first-person parliamentary accounts. Searches for hospitality employer and military hours found no adequate person-specific evidence.",
     "Public professional-profile searches returned US social-work/pharmacy/student profiles, UK governance/childcare profiles and an artist. Identity matches were not established; no such careers imported. Current advertisements for staff in Comer's office are jobs she offers, not evidence of her own prior full-time status.",
     "University reports distinguish elected students from academic/general staff. Council and Student Senate service overlap studies and later political staffing, but neither creates public-service employment years under the governance exclusion.",
-    "January 2013 to January 2014 is not converted into an exact one-year qualifying total without verified service status, endpoints and leave treatment. Hospitality 2016 observation is retained in notes rather than used as a fabricated full-year spell. Both totals unknown; blocked record remains unresolved."
+    "January 2013 to January 2014 is not converted into an exact one-year qualifying total without verified service status, endpoints and leave treatment. Hospitality 2016 observation is retained in notes rather than used as a fabricated full-year spell. Both totals unknown; blocked record remains unresolved.",
+    "2026-10-02 follow-up: primary indexed Gorman interview identifies paid fish-and-chip-shop first job, expanding earlier unspecified hospitality record. Direct Facebook retrieval returned Online fetch throttled; targeted index searches recovered only opening answer. No age/date, employer name or later answers inferred. Searches on hospitality employers, sea rescue, Duntroon and study did not resolve earlier gaps. UK/US job and university namesakes and vacancies offered by Comers current office excluded. Next: accessible full first-job interview or self-published CV, employer/venue confirmation, and individual military service/leave evidence. No full-time total calculable."
   ]
 }
