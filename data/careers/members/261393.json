@@ -6,7 +6,7 @@
   "snapshot_party": "Independent",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/261393",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-01",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -19,8 +19,8 @@
       "employer": "University of Sydney",
       "role": "Economics and law student",
       "start_date": null,
-      "end_date": null,
-      "date_precision": "unknown",
+      "end_date": "1994",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "study",
@@ -29,9 +29,10 @@
       "counting_status": "excluded",
       "source_ids": [
         "src-federal-speech",
-        "src-secondary"
+        "src-secondary",
+        "src-stpauls2025-oct2"
       ],
-      "evidence_note": "Gee's federal first speech identifies Sydney University and St Paul's College; his NSW inaugural speech says he studied economics and then law. The secondary biography reports Bachelor of Economics (Honours) and Bachelor of Laws degrees. Enrolment and graduation dates, load and employment overlap are unresolved.",
+      "evidence_note": "Gee's federal first speech identifies Sydney University and St Paul's College; his NSW inaugural speech says he studied economics and then law. The secondary biography reports Bachelor of Economics (Honours) and Bachelor of Laws degrees. Enrolment and graduation dates, load and employment overlap are unresolved. College alumni account dated5May2025 supplies BEc(Hons) completion1991 and LLB1994, and residence at St Paul’s1987–90. Combined study end is therefore1994 at year precision; first enrolment remains unknown. College residence years are not silently equated with the whole degree interval.",
       "counting_note": "Study is excluded under the codebook."
     },
     {
@@ -269,6 +270,26 @@
       "note": "Official parliamentary version supports the brothers business, Hong Kong/Singapore division and subsequent Colin Biggers & Paisley and barrister sequence; supplements existing transcript copy.",
       "retrieved": "2026-10-01",
       "source_id": "src-aph-first-speech"
+    },
+    {
+      "url": "https://www.stpauls.edu.au/two-paulines-re-elected-to-federal-parliament/",
+      "publisher": "St Paul’s College, University of Sydney",
+      "title": "Two Paulines to be re-elected to Federal Parliament,5May2025",
+      "source_type": "employer",
+      "locator": "Andrew Gee paragraphs: college1987–90, BEc(Hons)1991, LLB1994",
+      "note": "College alumni account provides qualification years and residence period. College attendance is not the complete university enrolment interval; degree completion does not establish solicitor appointment/admission day.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-stpauls2025-oct2"
+    },
+    {
+      "url": "https://www.sydney.edu.au/content/dam/corporate/documents/sydney-law-school/about/past-sydney-law-reports/sydney-law-school-report-1993-volume-2-number-3.pdf",
+      "publisher": "University of Sydney Law School",
+      "title": "Sydney Law School Report1993,vol2,no3",
+      "source_type": "employer",
+      "locator": "Pages28–29, Vietnamese Lawyers Visit",
+      "note": "Research lead only: names Andrew Gee as student Law Society president; further identity corroboration needed. Downloaded public PDF and read text after web reader size limit.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-lawreport1993-oct2"
     }
   ],
   "research_notes": [
@@ -278,7 +299,10 @@
     "The interval between resignation from NSW Parliament and the federal election is not classified as paid employment; candidacy and campaigning are recorded as party activity with remuneration unknown.",
     "Follow-up 2026-10-01: identified the previously unnamed Asian business as Wave Licensing International using the matching family/company biographies and a contemporary indexed director statement. Exact corporate entity/ownership and operational dates still need primary records; the direct SCMP page was inaccessible (403) and the public indexed excerpt is explicitly distinguished from a full-text read.",
     "Searched named brothers and licensing business, former solicitor/chambers profiles, bar/employer records and full-time terms. No initial law firm, admission day, hours, leave or complete business appointment interval established. Reject same-name British architect/tribunal member, Cambridge academic, Macquarie executive and rugby player; do not assign the brothers later Wave Entertainment, Disney, coffee or CBD College work to Andrew.",
-    "Next avenues: corporate/public trade records for Wave Licensing International in Hong Kong and Singapore; contemporary CBP and NSW Bar directories for appointments; chamber records and employment/leave evidence. The 1996 founding and 1999 return provide leads, not a manufactured full-time interval."
+    "Next avenues: corporate/public trade records for Wave Licensing International in Hong Kong and Singapore; contemporary CBP and NSW Bar directories for appointments; chamber records and employment/leave evidence. The 1996 founding and 1999 return provide leads, not a manufactured full-time interval.",
+    "Second follow-up2October2026 adds directly supported qualification years: economics honours1991, law1994, and college residence1987–90. These narrow the chronology without assigning an initial solicitor employer or extrapolating professional work from graduation.",
+    "Targeted1992/1993/1994 solicitor, bar-admission, full-time and Wave business searches yielded no new personal hours or employment boundaries. Same-name UK architect/tribunal member and US lawyer excluded. Existing SCMP access restriction respected; no archive opened to bypass it.",
+    "University Sydney Law School Report1993 vol2 no3, pp28–29, names an Andrew Gee as Law Society president; the study chronology fits but a clear person-level corroboration is still needed before adding student governance. Public report was recovered by direct download after web reader400 content-size limit. Next lead: student association historical office-holder list plus archived professional admission/employer records."
   ],
   "open_questions": [
     "What were the admission date, employer, dates, hours and leave for Gee's initial solicitor work before Asia?",
@@ -286,6 +310,7 @@
     "What were the exact Colin Biggers & Paisley appointment dates, employment status, hours and leave?",
     "What were the exact dates, practice entity, hours, breaks and overlap for the Selborne and Queen's Square Chambers practice?",
     "Did legal practice continue at any level after the March 2011 election?",
-    "Was federal candidacy or party work between 30 May and 2 July 2016 remunerated?"
+    "Was federal candidacy or party work between 30 May and 2 July 2016 remunerated?",
+    "Confirm whether the1993 Sydney University Law Society president Andrew Gee in the contemporary Law School Report is this member, and obtain term/payment information if so."
   ]
 }
