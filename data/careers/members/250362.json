@@ -6,12 +6,12 @@
   "snapshot_party": "Australian Greens",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/250362",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-01",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
     "calculation_status": "not_calculable",
-    "note": "Private consulting and two local-government employers are documented at month precision, but substantive full-time status is not established. University employment, study, party activity and elected office are excluded under the codebook. Missing evidence is not zero. Sole-trader consulting is now separately documented, with operational dates and hours unresolved; registration is not counted as work."
+    "note": "Sinclair Knight Merz full-time work is now supported by an employer-linked oral-history account, but the recollected1998 start conflicts with official March1999 and the full-time interval/leave remains unresolved. Two council jobs lack personal hours evidence. University, study, nonprofit, party and elected activity remain separate; headline years stay null, not zero."
   },
   "career_spells": [
     {
@@ -49,9 +49,10 @@
       "counting_status": "insufficient_evidence",
       "source_ids": [
         "src-secondary",
-        "src-abc-2026"
+        "src-abc-2026",
+        "src-slnsw-oral2014-oct2"
       ],
-      "evidence_note": "The secondary biography says she became a structural engineer after graduating in 1988 and moved to Sydney in 1992. Employer, exact dates, sector, hours, leave and continuity are unresolved; the endpoints are contextual bounds rather than a complete employment interval. ABC 2026 interview corroborates engineering employment in Pakistan but does not name the organisation.",
+      "evidence_note": "The secondary biography says she became a structural engineer after graduating in 1988 and moved to Sydney in 1992. Employer, exact dates, sector, hours, leave and continuity are unresolved; the endpoints are contextual bounds rather than a complete employment interval. ABC 2026 interview corroborates engineering employment in Pakistan but does not name the organisation. Oral history27:16–30:18 describes the employer as a large engineering consulting firm in Pakistan, with roughly2,000 men and where she met her future husband. The firm is not named; consulting does not itself establish private ownership.",
       "counting_note": "Employer control and substantive full-time interval are not established."
     },
     {
@@ -68,9 +69,10 @@
       "government_control_at_time": "public",
       "counting_status": "excluded",
       "source_ids": [
-        "src-snapshot"
+        "src-snapshot",
+        "src-slnsw-oral2014-oct2"
       ],
-      "evidence_note": "The frozen official occupation extract supplies the employer, roles and month-level boundaries. Role transitions, hours, leave and overlap with postgraduate study are unresolved.",
+      "evidence_note": "The frozen official occupation extract supplies the employer, roles and month-level boundaries. Role transitions, hours, leave and overlap with postgraduate study are unresolved. Oral history39:54–40:15 describes scholarship-linked work for the Cooperative Research Centre for Water and Waste Treatment (transcript wording) while studying. Legal payroll entity, dates and allocation within the existing UNSW research appointment are unconfirmed; this is recorded as context, not an additional additive employment spell.",
       "counting_note": "University employment is displayed separately and excluded from the narrow public/private headline under the current codebook."
     },
     {
@@ -89,9 +91,10 @@
       "source_ids": [
         "src-unsw",
         "src-secondary",
-        "src-unsw-alumni-current"
+        "src-unsw-alumni-current",
+        "src-slnsw-oral2014-oct2"
       ],
-      "evidence_note": "The secondary biography records arrival and UNSW study from 1992, completion of the master's degree in 1994 and environmental-engineering doctorate in 2000; UNSW alumni material corroborates the qualifications. Exact enrolment dates, load and research-employment overlap are unresolved. Current UNSW alumni profile independently confirms MEngSc 1994 and PhD 2000.",
+      "evidence_note": "The secondary biography records arrival and UNSW study from 1992, completion of the master's degree in 1994 and environmental-engineering doctorate in 2000; UNSW alumni material corroborates the qualifications. Exact enrolment dates, load and research-employment overlap are unresolved. Current UNSW alumni profile independently confirms MEngSc 1994 and PhD 2000. Oral history33:20–36:27 distinguishes an initially offered non-resident scholarship declined in favour of permanent residency from the later scholarship-linked CRC work at39:54. She says she initially chose study rather than seeking a full-time job; this does not establish the hours of every subsequent research role.",
       "counting_note": "Study is excluded under the codebook."
     },
     {
@@ -101,17 +104,18 @@
       "start_date": "1999-03",
       "end_date": "2001-06",
       "date_precision": "month",
-      "employment_status": "unknown",
+      "employment_status": "full_time",
       "fte_fraction": null,
       "category": "private_enterprise",
       "headline_sector": "private",
       "government_control_at_time": "private",
       "counting_status": "insufficient_evidence",
       "source_ids": [
-        "src-snapshot"
+        "src-snapshot",
+        "src-slnsw-oral2014-oct2"
       ],
-      "evidence_note": "The frozen official extract supplies the employer, role and month-level boundaries. Exact days, hours, leave and overlap with doctoral study are unresolved.",
-      "counting_note": "Private employment is supported, but substantive full-time status is not established."
+      "evidence_note": "The frozen official extract supplies the employer, role and month-level boundaries. Exact days, hours, leave and overlap with doctoral study are unresolved. The 11April2014 oral history at40:14–42:18 explicitly links Sinclair Knight Merz to work before the family moved out of Sydney and says both partners were working full time. This supports a full-time role at that stage, not verified full-time continuity throughout. It recalls a1998 start and about three years there, conflicting with official March1999–June2001 dates, which are retained pending reconciliation. Transcript is community-corrected; audio and personal contract not independently checked.",
+      "counting_note": "Full-time work is now explicitly employer-linked, but its exact interval, leave and conflicting start dates remain unresolved. No point total calculated from month labels or recollected duration."
     },
     {
       "spell_id": "250362-port-council",
@@ -294,6 +298,44 @@
       "evidence_note": "First-person 2022 interview places these activities during Port Macquarie council employment. Exact dates and organisations are not supplied; council employment dates are not copied into the volunteer spell.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "250362-community-volunteer"
+    },
+    {
+      "employer": "Parent cooperative childcare centre associated with UNSW (name unconfirmed)",
+      "role": "Co-organiser and parent care-shift participant",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unpaid_work",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-slnsw-oral2014-oct2"
+      ],
+      "evidence_note": "Oral history33:55–36:27 describes establishing cooperative childcare during early UNSW study and parents taking two- or three-hour care shifts alongside one trained worker. Exact dates and centre identity unresolved; parent contribution not treated as paid employment.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "250362-childcare-coop"
+    },
+    {
+      "employer": "Unidentified non-government organisations in Pakistan",
+      "role": "Environmental management and sustainability work during return visits",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "nonprofit",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-slnsw-oral2014-oct2"
+      ],
+      "evidence_note": "Oral history68:13–68:25 describes repeated visits to Pakistan to work with NGOs. Organisations, dates, contractual or volunteer basis and hours unspecified; not presumed paid or continuous, and not added to engineering employment time.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "250362-pakistan-ngo"
     }
   ],
   "sources": [
@@ -386,6 +428,16 @@
       "note": "University confirms MEngSc 1994 and PhD 2000; graduation years do not establish employment hours.",
       "retrieved": "2026-10-01",
       "source_id": "src-unsw-alumni-current"
+    },
+    {
+      "url": "https://amplify.gov.au/transcripts/statelibrarynsw/islamicfaith_nsw/islamicfaith_mehreenfaruqi",
+      "publisher": "State Library of New South Wales / Amplify",
+      "title": "Mehreen Faruqi oral history with Louise Darmody, 11 April 2014",
+      "source_type": "government_record",
+      "locator": "00:01–00:25 interview date; 27:16–30:18 Pakistan consulting; 33:20–36:27 study/childcare; 39:54–42:18 scholarship, Sinclair Knight Merz and full-time work; 68:13–68:25 NGO visits",
+      "note": "Public edited transcript retrieved through page data endpoint https://amplify.gov.au/transcripts/islamicfaith_mehreenfaruqi.json. Community-corrected transcript; audio not independently checked. First-person career account adds work context and resolves employer associated with pre-move full-time testimony, but recollected1998 start conflicts with official March1999 boundary.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-slnsw-oral2014-oct2"
     }
   ],
   "research_notes": [
@@ -397,7 +449,10 @@
     "Explicit full-time evidence exists but is not yet sufficiently allocated: AAP interview describes work during an unidentified state-election campaign; ABC 2026 describes full-time work before the Port Macquarie move. Neither justifies assigning full-time status throughout a named spell. These leads replace a blanket assumption that no full-time testimony exists.",
     "Search avenues: UNSW alumni and archived course material; primary interests returns; ABR; first-person AAP/ABC interviews; Pakistani engineering-employer searches. No corroborated Pakistan employer or leave/hours interval found. March 2011 South Sydney Herald search hit for a small consulting business belongs to James Falk, not Faruqi, and is rejected.",
     "Follow-up leads: locate clients/invoices or contemporary consulting biographies for operational dates; resolve campaign year/employer in full-time testimony; obtain UNSW/council appointment and leave records; corroborate SBS 2018 reference to Macquarie University before adding a role. A later course-author credit alone does not prove later paid employment.",
-    "Individual source gaps: NSW inaugural PDF returned 404; Queensland tabled interests copy later returned 403; historical ABR view failed. Current ABR and accessible NSW return copy supplied usable alternatives. These are source gaps, not job-wide limits."
+    "Individual source gaps: NSW inaugural PDF returned 404; Queensland tabled interests copy later returned 403; historical ABR view failed. Current ABR and accessible NSW return copy supplied usable alternatives. These are source gaps, not job-wide limits.",
+    "Second follow-up2October2026 recovered the publicly downloadable State Library oral-history transcript after the web reader returned only the application shell. This materially resolves the employer link of the pre-Port Macquarie full-time account and adds scholarship-linked CRC work, cooperative childcare and Pakistan NGO visits. No arbitrary dates or full-spell hours inferred.",
+    "AAP2022 and ABC2026 accounts re-read: campaign year remains unspecified; ABC alone still does not name the full-time employer. The2014 oral history provides the missing SKM link. Public LinkedIn index suggests July2004 IES start versus official August2004, but the full entry was not available for reliable reconciliation; official boundary retained. SBS2018 Macquarie University reference remains uncorroborated by an employer record.",
+    "Next priority: verify oral-history audio around39:54–42:18 and original SKM appointment/leave documentation to reconcile1998 versus March1999; identify the large Pakistan consulting firm without guessing from size; identify CRC contract entity and NGO organisations."
   ],
   "open_questions": [
     "Who employed Faruqi as a structural engineer in Pakistan, on what dates and hours, and under what ownership?",
@@ -407,6 +462,7 @@
     "Did the final UNSW appointment overlap NSW parliamentary service in June 2013, and what leave/cessation arrangements applied?",
     "Were any Greens roles or campaigns paid, and how did they overlap employment?",
     "When did Mehreen Faruqi Consulting actually trade, with what hours, clients and leave/overlaps? Registration from 2005 to 2023 is not proof of continuous work.",
-    "Which employer and exact period did each explicit full-time-work account describe? Was the campaign account 2011 or 2012, and did it include leave?"
+    "Which employer and exact period did each explicit full-time-work account describe? Was the campaign account 2011 or 2012, and did it include leave?",
+    "Reconcile oral-history1998 SKM start and approximately three-year duration with official March1999–June2001; establish the full-time interval and leave. Identify CRC payroll/contract arrangements and Pakistan NGO work dates/status."
   ]
 }
