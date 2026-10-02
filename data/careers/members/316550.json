@@ -6,12 +6,12 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/316550",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-01",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
     "calculation_status": "not_calculable",
-    "note": "The official frozen occupations were empty. First-party evidence now establishes electrical, hospitality/business and union legal work, but no complete employer/date/full-time chronology. Unidentified employers remain unknown; union work is excluded."
+    "note": "ETU industrial-officer employment dated July 2024–May 2025 from public profile, with first-person corroboration of employer. Added Newcastle bar subcontracting context and named training providers. Private employers, exact chronology and hours remain unresolved."
   },
   "career_spells": [
     {
@@ -29,9 +29,10 @@
       "source_ids": [
         "src-2",
         "src-3",
-        "src-5"
+        "src-5",
+        "src-8"
       ],
-      "evidence_note": "Paid bar work described; employers and dates unidentified.",
+      "evidence_note": "Paid bar work described; employers and dates unidentified. Published first-person interview identifies Newcastle bar work as subcontracting during Howard/WorkChoices period. Employer/client, precise dates and whether relationship was genuinely self-employment remain unresolved; broad political period is not a start/end interval.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "316550-01"
     },
@@ -99,11 +100,11 @@
       "spell_id": "316550-04"
     },
     {
-      "employer": "Electrical Trades Union",
-      "role": "Union work; title/appointment unresolved",
-      "start_date": null,
-      "end_date": null,
-      "date_precision": "unknown",
+      "employer": "Electrical Trades Union, WA Branch",
+      "role": "Industrial officer",
+      "start_date": "2024-07",
+      "end_date": "2025-05",
+      "date_precision": "month",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "union",
@@ -112,9 +113,10 @@
       "counting_status": "excluded",
       "source_ids": [
         "src-4",
-        "src-5"
+        "src-5",
+        "src-7"
       ],
-      "evidence_note": "2026 first-party statement explicitly says worked for ETU. Membership/support alone would not establish employment; exact role remains unknown.",
+      "evidence_note": "Public professional profile identifies title, WA branch and July 2024–May 2025 interval; own speech independently confirms working for ETU. Exact days, hours and campaign leave unknown; 2014 union membership is not employment commencement.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "316550-05"
     },
@@ -140,8 +142,8 @@
       "spell_id": "316550-06"
     },
     {
-      "employer": "Education providers not yet verified",
-      "role": "Business/law and electrical training",
+      "employer": "University of Newcastle; Murdoch University; South Metropolitan TAFE; College of Electrical Training",
+      "role": "Business and law degrees; university pathway and electrical training",
       "start_date": null,
       "end_date": null,
       "date_precision": "unknown",
@@ -154,9 +156,11 @@
       "source_ids": [
         "src-2",
         "src-3",
-        "src-6"
+        "src-6",
+        "src-9",
+        "src-10"
       ],
-      "evidence_note": "Degree and apprenticeship sequence requires reconciliation; no paid teaching role established.",
+      "evidence_note": "Published Q&A names Newcastle business degree, Murdoch law and electrical training providers. September 2026 first-person speech confirms TAFE pathway into university and later electrical pre-apprenticeship; precise years and degree/trade sequence still require institutional corroboration.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "316550-07"
     },
@@ -165,7 +169,7 @@
       "role": "Member for Moore",
       "start_date": "2025-05-03",
       "end_date": null,
-      "date_precision": "day",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -240,12 +244,55 @@
       "note": "Reports business/law degrees before regional pub and electrical retraining; differs from simplified current career narrative.",
       "retrieved": "2026-10-01",
       "source_id": "src-6"
+    },
+    {
+      "url": "https://au.linkedin.com/in/tomfrenchmp",
+      "publisher": "Tom French MP / LinkedIn",
+      "title": "Public professional profile",
+      "source_type": "public_professional_profile",
+      "locator": "Experience: Industrial Officer, Electrical Trades Union WA Branch",
+      "note": "Public indexed entry supplies July 2024–May 2025. Direct open returned 999; no authenticated access used.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-7"
+    },
+    {
+      "url": "https://www.thesaturdaypaper.com.au/news/politics/2025/07/05/class-2025-part-ii",
+      "publisher": "The Saturday Paper / Tom French interview",
+      "title": "Class of 2025: Part II",
+      "source_type": "first_person",
+      "locator": "5 July 2025, Tom French, what got you into politics",
+      "note": "French describes subcontracting at a Newcastle bar during Howard/WorkChoices period and joining ALP and ETU in 2014. Neither provides exact job boundaries.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-8"
+    },
+    {
+      "url": "https://www.adogs.info/press/where-did-our-politicians-go-school-and-where-do-they-send-their-children",
+      "publisher": "Australian Council for the Defense of Government Schools",
+      "title": "Where did our politicians go to school?",
+      "source_type": "reliable_secondary",
+      "locator": "Reproduced Class of 2025 Q&A, Tom French entry",
+      "note": "Names Newcastle business degree, Murdoch law, South Metropolitan TAFE pre-apprenticeship and College of Electrical Training. Institutional dates still unconfirmed.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-9"
+    },
+    {
+      "url": "https://www.openaustralia.org.au/debate/?id=2026-09-09.57.2",
+      "publisher": "House Hansard via OpenAustralia",
+      "title": "National TAFE Day, 9 September 2026",
+      "source_type": "first_person",
+      "locator": "1:59 pm opening paragraph",
+      "note": "French confirms TAFE university pathway followed later by electrical pre-apprenticeship; does not supply providers or dates.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-10"
     }
   ],
   "research_notes": [
     "2026-10-01 avenues: frozen roster (empty occupations), ALP and MP biographies, first speech, explicit 2026 workplace speech and ABC 2022 guide. Public LinkedIn open returned (999) Unknown Status Code; no bypass attempted.",
     "Identify pub and electrical employers/entities, dates, hours, leave and job changes. Resolve degree/trade sequence discrepancy between ABC 2022 and current first-person summary; obtain university/admission records. Separate employment hours from study and campaign periods.",
     "Obtain ETU and UPFU role titles, appointment/cessation dates and employment conditions from union annual reports/staff archives; check whether any private legal-practice employer exists. Do not treat all legal work as private sector.",
-    "Namesake exclusions: MinterEllison Perth partner, US McKinsey executive and Lake Forest Park mayor named Tom French were not matched to this MP and were not used. Broad teaching search produced unrelated people and no evidence of teaching employment."
+    "Namesake exclusions: MinterEllison Perth partner, US McKinsey executive and Lake Forest Park mayor named Tom French were not matched to this MP and were not used. Broad teaching search produced unrelated people and no evidence of teaching employment.",
+    "Follow-up 2026-10-02: public profile supplies previously absent ETU title/branch/month interval; 2014 ALP/ETU joining is membership, not employment. July 2025 interview identifies Newcastle subcontract bar work; no calendar boundaries invented from WorkChoices reference.",
+    "Named education providers from published Q&A, supported by first-person TAFE pathway speech; dates still unknown. Prior law-before-electrical versus later-law narrative discrepancy remains open.",
+    "Searches of union/industrial tribunal records and pub/electrical employer terms did not reveal individual contracts or business names. LinkedIn direct 999; unrelated GenusPlus and MinterEllison namesakes not attributed. Next: ETU/UPFU staff annual reports, Murdoch graduation/admission, historical regional pub licence and apprenticeship employer."
   ]
 }
