@@ -6,12 +6,12 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/300130",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-01",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
     "calculation_status": "not_calculable",
-    "note": "Exact WA Police tenure is available, but full-time hours and breaks are not established. Early dates conflict across official accounts and business/security employers remain unidentified. Public/private totals unknown, not zero."
+    "note": "Added public professional chronology, reported police sergeant title and August 2021 candidacy. Conflicting early dates and Malaysian business/Perth overlap retained; hours, security employer and campaign leave unresolved. Totals remain unknown."
   },
   "career_spells": [
     {
@@ -29,14 +29,15 @@
       "source_ids": [
         "src-1",
         "src-2",
-        "src-6"
+        "src-6",
+        "src-9"
       ],
-      "evidence_note": "Frozen dates preserved; own speech says joined1980 and left after two years. Exact cessation unresolved; foreign-government employer.",
+      "evidence_note": "Frozen dates preserved; own speech says joined1980 and left after two years. Exact cessation unresolved; foreign-government employer. Event host describes two years served after police graduation; academy and sworn-service boundaries could differ, but no exact dates established.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "300130-01"
     },
     {
-      "employer": "Safari park in Johor — legal employer unresolved",
+      "employer": "Johor Safari Park — legal operator unresolved",
       "role": "Dolphin trainer",
       "start_date": "1980",
       "end_date": "1984",
@@ -50,9 +51,11 @@
       "source_ids": [
         "src-1",
         "src-2",
-        "src-7"
+        "src-7",
+        "src-8",
+        "src-9"
       ],
-      "evidence_note": "Frozen1980–84 conflicts with first-person sequential police then four years dolphin work. Park/operator/control unknown; dates not silently repaired.",
+      "evidence_note": "Frozen1980–84 conflicts with first-person sequential police then four years dolphin work. Park/operator/control unknown; dates not silently repaired. Public professional entry instead supplies December 1981–December 1984 (three years), conflicting with frozen 1980–1984 and spoken four-year duration. All accounts retained; no chosen replacement until reconciled. Johor Safari Park is the reported workplace label, not verified corporate employer or control.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "300130-02"
     },
@@ -71,9 +74,10 @@
       "source_ids": [
         "src-1",
         "src-2",
-        "src-3"
+        "src-3",
+        "src-8"
       ],
-      "evidence_note": "Official aggregate business interval retained. Own account distinguishes supply/distribution then family cafe; individual entity intervals unresolved. This umbrella entry is not additive to cafe detail.",
+      "evidence_note": "Official aggregate business interval retained. Own account distinguishes supply/distribution then family cafe; individual entity intervals unresolved. This umbrella entry is not additive to cafe detail. Public profile instead lists self-employment in Malaysia December 1984–October 2005, materially earlier than official 29 February 1988 business start and overlapping own 2002 Perth cafe account. Retain competing chronologies; profile location cannot date migration or establish continuous work.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "300130-03"
     },
@@ -82,7 +86,7 @@
       "role": "Owner/operator",
       "start_date": "2002",
       "end_date": null,
-      "date_precision": "year",
+      "date_precision": "mixed",
       "employment_status": "self_employed",
       "fte_fraction": null,
       "category": "private_enterprise",
@@ -118,7 +122,7 @@
     },
     {
       "employer": "Western Australia Police Force",
-      "role": "Police officer; later senior constable",
+      "role": "Police officer; senior constable; sergeant reported in public professional profile",
       "start_date": "2006-11-06",
       "end_date": "2022-05-20",
       "date_precision": "day",
@@ -133,9 +137,11 @@
         "src-2",
         "src-4",
         "src-5",
-        "src-6"
+        "src-6",
+        "src-8",
+        "src-10"
       ],
-      "evidence_note": "Official exact tenure; includes academy entry versus later graduation distinction. Employer confirms2020–21 unit, but no individual full-time or leave history.",
+      "evidence_note": "Official exact tenure; includes academy entry versus later graduation distinction. Employer confirms2020–21 unit, but no individual full-time or leave history. Public profile labels Police Sergeant November 2006–May 2022. This is an aggregate career title, not evidence sergeant rank throughout; exact promotion date unknown. It corroborates endpoint months but supplies no employment-type label. Long hours of community outreach do not establish whole-tenure full-time status.",
       "counting_note": "Exact employment dates alone do not establish substantive full-time duration. Hours, unpaid/campaign leave and academy terms unresolved; no public headline total calculated.",
       "spell_id": "300130-06"
     },
@@ -163,7 +169,7 @@
       "role": "Member for Tangney",
       "start_date": "2022-05-21",
       "end_date": null,
-      "date_precision": "day",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -176,6 +182,25 @@
       "evidence_note": "Frozen service boundary, day after reported police cessation.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "300130-08"
+    },
+    {
+      "employer": "Australian Labor Party",
+      "role": "Candidate for Tangney",
+      "start_date": "2021-08",
+      "end_date": null,
+      "date_precision": "mixed",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "party_organisation",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-8"
+      ],
+      "evidence_note": "Public professional profile lists candidacy from August 2021. Campaign activity overlaps WA Police tenure; no salary or campaign leave interval inferred. End of candidacy not independently supplied.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "300130-09"
     }
   ],
   "sources": [
@@ -248,12 +273,45 @@
       "note": "Talk host reports two years police then higher-paid safari work; migration2005 conflicts with own2002 speech.",
       "retrieved": "2026-10-01",
       "source_id": "src-7"
+    },
+    {
+      "url": "https://au.linkedin.com/in/samlimmp",
+      "publisher": "Sam Lim MP / LinkedIn",
+      "title": "Sam Lim MP — Federal Member of Tangney",
+      "source_type": "public_professional_profile",
+      "locator": "Public search index: Experience; Dolphin Trainer; Self Employed; Police Sergeant",
+      "note": "Direct open returned (999) Unknown Status Code. Indexed own profile gives dolphin December 1981–December 1984, self-employed Malaysia December 1984–October 2005, WA Police November 2006–May 2022, candidacy August 2021; no full-time label retrieved.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-8"
+    },
+    {
+      "url": "https://www.amsa.com.au/post/in-conversation-with-sam-lim-mp-federal-member-for-tangey",
+      "publisher": "Australian Malaysian Singaporean Association",
+      "title": "In conversation with Sam Lim MP, 23 August 2022",
+      "source_type": "primary_organisation",
+      "locator": "Speaker biography; police graduation and dolphin paragraph",
+      "note": "Host identifies Johor Safari Park; two years police service described after graduation, potentially distinct from academy entry.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-9"
+    },
+    {
+      "url": "https://www.amsa.com.au/post/qanda-with-sam-lim-federal-member-for-tangney-western-australia",
+      "publisher": "Australian Malaysian Singaporean Association",
+      "title": "Q&A with Sam Lim, 11 December 2022; published 1 February 2023",
+      "source_type": "primary_organisation",
+      "locator": "Anti-corruption and Going many extra miles sections",
+      "note": "Host account of police community outreach; does not establish formal FTE or leave interval.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-10"
     }
   ],
   "research_notes": [
     "2026-10-01 avenues: frozen/indexed APH occupations, own biography/first speech, ALP biography, WA Police2021 annual report and OMI2021 profile, university-hosted talk report, security/full-time professional searches. APH search reported robots block; other official material accessible. Namesake Singapore trainer/US student/business searches excluded.",
     "Reconcile Malaysian police1980–81 and dolphin1980–84 official entries with first-person sequence(two years police then four years dolphins). Do not invent1982/1986 boundaries. Identify park and contemporaneous controlling employer. Verify gaps to precise business start29February1988; that start alone does not date every enterprise.",
     "Own speech2002 migration/cafe account conflicts with UTAR2005 migration. Obtain individual business names/intervals, hours and role, cafe sale/cessation and security employer2005–06. Business aggregate and cafe subspell overlap and must never be summed.",
-    "WA Police individual appointment/academy and substantive full-time evidence, leave/breaks including2022 campaign, and resignation/payroll boundaries still needed. Religious retreat is25days but dates unknown; do not subtract it from an invented interval or treat it as paid employment."
+    "WA Police individual appointment/academy and substantive full-time evidence, leave/breaks including2022 campaign, and resignation/payroll boundaries still needed. Religious retreat is25days but dates unknown; do not subtract it from an invented interval or treat it as paid employment.",
+    "Follow-up 2026-10-02: public professional profile indexed by search engine supplies previously missing month-level competing early chronology; direct LinkedIn returned 999, no access bypass. AMSA speaker biography and interview reviewed. Preserve frozen dates in structured fields with explicit competing dates in evidence notes; do not silently repair inconsistency.",
+    "Searches for police unpaid/campaign leave, private security employer, Johor park operator and Perth cafe name found no attributable employer/control or full-time statement. Singapore No Signboard CEO Sam Lim Yong Sim and US technology/security profiles are different people; restaurant visits and staff resumes are not this MPs ownership history.",
+    "Next: original Malaysian constable/academy service dates, contemporaneous Johor park employment/operator records, separate business registration/operating intervals and original WA Police employment/leave evidence. Resolve 1984 versus 1988 business commencement and 2002 migration versus Malaysia-labelled profile ending October 2005."
   ]
 }
