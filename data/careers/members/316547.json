@@ -6,18 +6,18 @@
   "snapshot_party": "Liberal Party of Australia",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/316547",
   "research_status": "blocked",
-  "last_reviewed": "2026-09-30",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
     "calculation_status": "not_calculable",
-    "note": "First-person and professional sources establish early Department of Parliamentary Services attendant work, excluded ministerial staffing for Julie Bishop, and about six years of private foreign-investment legal practice at King & Wood Mallesons before the 2025 election. Published sources do not give exact appointment/cessation, hours, leave, admission timing or transitions, and the official biography reduces the history to 'Solicitor'. Governance and elected office are excluded, so no public/private full-time total is calculated."
+    "note": "Follow-up adds Wallace office2016–17, Bishop office month boundaries, KWM summer clerkship2016–17 and volunteer roles. Clerkship/staff overlap unresolved. Later KWM hours, campaign leave and precise dates remain unknown; ACT admission confirmed without exact date. Study, nonprofit governance, volunteering, political staffing and elected office excluded; no reliable totals."
   },
   "career_spells": [
     {
       "spell_id": "316547-01",
-      "employer": "Australian and overseas universities not fully identified",
-      "role": "Law and International Relations student",
+      "employer": "Australian National University; overseas exchange institutions; legal-practice provider to reconcile",
+      "role": "Law, international relations and legal-practice student",
       "start_date": null,
       "end_date": null,
       "date_precision": "unknown",
@@ -27,13 +27,20 @@
       "headline_sector": "excluded",
       "government_control_at_time": "mixed",
       "counting_status": "excluded",
-      "source_ids": ["src-2", "src-3"],
-      "evidence_note": "Party biography identifies law and international-relations degrees and study in Australia, France and the Netherlands, but does not name every institution or provide dates.",
+      "source_ids": [
+        "src-2",
+        "src-3",
+        "src-12",
+        "src-14",
+        "src-15",
+        "src-17"
+      ],
+      "evidence_note": "Official biography identifies ANU law/international-relations degrees and legal-practice diploma. Public profile lists College of Law2019 but obscures credential; reconcile provider rather than silently replacing ANU. ANU student-authored blog confirms Utrecht University exchange in2016 and departure from Australia22December2015. France/China study retained from primary organisation biography; exact dates/providers remain incomplete.",
       "counting_note": "Study is excluded."
     },
     {
       "spell_id": "316547-02",
-      "employer": "Department of Parliamentary Services",
+      "employer": "Australian Parliament — employing department to confirm",
       "role": "Parliamentary attendant",
       "start_date": null,
       "end_date": null,
@@ -44,25 +51,35 @@
       "headline_sector": "public",
       "government_control_at_time": "public",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-3", "src-4", "src-5"],
-      "evidence_note": "Rebello's member biography and first speech describe work as a parliamentary attendant sorting mail and supporting the House chamber. In a 2026 interview he said he was about 19, and a later post described the work as roughly ten years before 2025. Exact dates, hours, employment basis and leave are unpublished.",
+      "source_ids": [
+        "src-3",
+        "src-4",
+        "src-5"
+      ],
+      "evidence_note": "Rebello's member biography and first speech describe work as a parliamentary attendant sorting mail and supporting the House chamber. In a 2026 interview he said he was about 19, and a later post described the work as roughly ten years before 2025. Exact dates, hours, employment basis and leave are unpublished. Revisited member biography and speech confirm attendant/mail work but do not name employing department. Earlier record assigned Department of Parliamentary Services without an explicit supporting passage; retain that as a verification lead, not established employer identity.",
       "counting_note": "Public employment is supported, but no countable full-time interval is established."
     },
     {
       "spell_id": "316547-03",
       "employer": "Office of the Minister for Foreign Affairs, the Hon. Julie Bishop MP",
       "role": "Ministerial staff member",
-      "start_date": null,
-      "end_date": null,
-      "date_precision": "unknown",
+      "start_date": "2017-07",
+      "end_date": "2018-09",
+      "date_precision": "month",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "political_staff",
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-2", "src-4", "src-6", "src-7"],
-      "evidence_note": "Party, member, professional and first-person sources identify work on Julie Bishop's ministerial staff; Rebello recalled taking the role at about age 21. Exact title, appointment/cessation, hours and leave are not published.",
+      "source_ids": [
+        "src-2",
+        "src-4",
+        "src-6",
+        "src-7",
+        "src-12"
+      ],
+      "evidence_note": "Public professional-profile index explicitly dates Julie Bishop office July2017–September2018. Earlier sources confirm the role; title, full-time status, leave and exact day boundaries remain unverified.",
       "counting_note": "Political staff employment is excluded irrespective of public funding."
     },
     {
@@ -78,8 +95,15 @@
       "headline_sector": "private",
       "government_control_at_time": "private",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-1", "src-2", "src-3", "src-6", "src-8"],
-      "evidence_note": "The official biography says only 'Solicitor'. Rebello and party profiles identify King & Wood Mallesons and foreign-investment specialization; a March 2025 Lawyers Weekly profile says he had worked there for the past six years and remained a solicitor while campaigning. Exact start, admission, hours, leave, secondments and cessation are unpublished.",
+      "source_ids": [
+        "src-1",
+        "src-2",
+        "src-3",
+        "src-6",
+        "src-8",
+        "src-16"
+      ],
+      "evidence_note": "The official biography says only 'Solicitor'. Rebello and party profiles identify King & Wood Mallesons and foreign-investment specialization; a March 2025 Lawyers Weekly profile says he had worked there for the past six years and remained a solicitor while campaigning. Exact start, admission, hours, leave, secondments and cessation are unpublished. Public first-person post confirms admission in ACT Supreme Court, but only relative publication age accessible; no exact date inferred.",
       "counting_note": "Substantive private legal work is clear, but an approximate aggregate duration does not establish a precise continuous full-time interval."
     },
     {
@@ -87,16 +111,20 @@
       "employer": "Multicultural Communities Council Gold Coast / Cura Aged Care",
       "role": "Director",
       "start_date": null,
-      "end_date": "2025",
-      "date_precision": "mixed",
+      "end_date": null,
+      "date_precision": "unknown",
       "employment_status": "unknown",
       "fte_fraction": null,
-      "category": "governance",
+      "category": "nonprofit",
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-9", "src-10"],
-      "evidence_note": "The organisation's 2023–24 and 2024–25 annual reports list Rebello as a director and describe his legal and ministerial-staff background. Appointment/cessation, remuneration and time commitment are not provided.",
+      "source_ids": [
+        "src-9",
+        "src-10",
+        "src-13"
+      ],
+      "evidence_note": "The organisation's 2023–24 and 2024–25 annual reports list Rebello as a director and describe his legal and ministerial-staff background. Appointment/cessation, remuneration and time commitment are not provided. Current primary board page still lists him and identifies his parliamentary office.2025was an annual-report year, not sourced cessation; removed as boundary. No paid job inferred.",
       "counting_note": "Governance is excluded."
     },
     {
@@ -105,36 +133,412 @@
       "role": "Member for McPherson",
       "start_date": "2025-05-03",
       "end_date": null,
-      "date_precision": "day",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-1", "src-11"],
+      "source_ids": [
+        "src-1",
+        "src-11"
+      ],
       "evidence_note": "Official records show election to the House of Representatives for McPherson on 3 May 2025.",
       "counting_note": "Federal elected office is excluded."
+    },
+    {
+      "employer": "Office of Andrew Wallace MP, Federal Member for Fisher",
+      "role": "Political staff member",
+      "start_date": "2016-08",
+      "end_date": "2017-07",
+      "date_precision": "month",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "political_staff",
+      "headline_sector": "excluded",
+      "government_control_at_time": "public",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-7",
+        "src-12"
+      ],
+      "evidence_note": "Self-reported profile dates office August2016–July2017; first-person post confirms departure to Bishop. Hours/title unknown. KWM clerkship overlaps; no assumption of simultaneous full-time jobs.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "316547-07"
+    },
+    {
+      "employer": "King & Wood Mallesons",
+      "role": "Summer clerk",
+      "start_date": "2016-11",
+      "end_date": "2017-02",
+      "date_precision": "month",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "private_enterprise",
+      "headline_sector": "private",
+      "government_control_at_time": "private",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-12"
+      ],
+      "evidence_note": "Indexed profile supplies November2016–February2017; distinct from later solicitor role. Hours/pay/leave unknown; overlap with Wallace office retained without double counting.",
+      "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
+      "spell_id": "316547-08"
+    },
+    {
+      "employer": "Utrecht University",
+      "role": "Exchange student",
+      "start_date": "2016",
+      "end_date": "2016",
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-14",
+        "src-15"
+      ],
+      "evidence_note": "Student-authored ANU posts establish exchange year and participation, not exact start/end or a paid role; included within overall university studies, not additive employment.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "316547-09"
+    },
+    {
+      "employer": "Rotary Club of Burleigh Heads",
+      "role": "Membership Director",
+      "start_date": "2022",
+      "end_date": null,
+      "date_precision": "mixed",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unpaid_work",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-12"
+      ],
+      "evidence_note": "Self-reported volunteer section; no paid employment or full-time hours established. Open-ended profile label is not independently verified ongoing service.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "316547-10"
+    },
+    {
+      "employer": "Youth Law Australia",
+      "role": "Volunteer solicitor and senior reviewer",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unpaid_work",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-12"
+      ],
+      "evidence_note": "Self-reported volunteer section; no paid employment or full-time hours established. Open-ended profile label is not independently verified ongoing service.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "316547-11"
+    },
+    {
+      "employer": "Federal Law Review",
+      "role": "Student editor",
+      "start_date": "2015-03",
+      "end_date": "2016-12",
+      "date_precision": "month",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unpaid_work",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-12"
+      ],
+      "evidence_note": "Self-reported volunteer section; no paid employment or full-time hours established. Open-ended profile label is not independently verified ongoing service.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "316547-12"
+    },
+    {
+      "employer": "Australian National University Global Programs",
+      "role": "Exchange ambassador",
+      "start_date": "2015-12",
+      "end_date": "2016-07",
+      "date_precision": "month",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unpaid_work",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-12"
+      ],
+      "evidence_note": "Self-reported volunteer section; no paid employment or full-time hours established. Open-ended profile label is not independently verified ongoing service.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "316547-13"
+    },
+    {
+      "employer": "OzHarvest",
+      "role": "Volunteer",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unpaid_work",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-12"
+      ],
+      "evidence_note": "Self-reported volunteer section; no paid employment or full-time hours established. Open-ended profile label is not independently verified ongoing service.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "316547-14"
+    },
+    {
+      "employer": "Burleigh Heads Catholic Parish",
+      "role": "Volunteer pianist",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unpaid_work",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-12"
+      ],
+      "evidence_note": "Self-reported volunteer section; no paid employment or full-time hours established. Open-ended profile label is not independently verified ongoing service.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "316547-15"
+    },
+    {
+      "employer": "Liberal National Party — McPherson division",
+      "role": "Federal Divisional Council Secretary",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "party_organisation",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-12"
+      ],
+      "evidence_note": "Self-reported volunteer section; no paid employment or full-time hours established. Open-ended profile label is not independently verified ongoing service.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "316547-16"
+    },
+    {
+      "employer": "Liberal National Party — Burleigh division",
+      "role": "State Electorate Council Chair",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "party_organisation",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-12"
+      ],
+      "evidence_note": "Self-reported volunteer section; no paid employment or full-time hours established. Open-ended profile label is not independently verified ongoing service.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "316547-17"
     }
   ],
   "sources": [
-    {"source_id":"src-1","url":"https://handbook.aph.gov.au/parliamentarians/316547","publisher":"Parliamentary Handbook","title":"REBELLO, Leon","retrieved":"2026-09-30","source_type":"official_biography","locator":"Occupation and parliamentary service","note":"Frozen-roster identity, official solicitor occupation and House commencement."},
-    {"source_id":"src-2","url":"https://www.liberal.org.au/team/leon-rebello","publisher":"Liberal Party of Australia","title":"Leon Rebello","retrieved":"2026-09-30","source_type":"official_biography","locator":"Education and pre-Parliament career","note":"Party biography identifying KWM legal practice, foreign-investment specialization, Julie Bishop staffing and degrees."},
-    {"source_id":"src-3","url":"https://leonrebello.com.au/about-leon/","publisher":"Office of Leon Rebello MP","title":"About Leon","retrieved":"2026-09-30","source_type":"official_biography","locator":"Early parliamentary and legal career","note":"Member account identifying parliamentary attendant duties and KWM foreign-investment practice."},
-    {"source_id":"src-4","url":"https://leonrebello.com.au/speech/first-speech/","publisher":"Office of Leon Rebello MP","title":"Maiden Speech","retrieved":"2026-09-30","source_type":"first_person","locator":"Career acknowledgements","note":"First-person account of parliamentary-attendant, KWM and Julie Bishop office experience."},
-    {"source_id":"src-5","url":"https://www.openaustralia.org.au/debate/?id=2025-07-30.129.1","publisher":"Parliament of Australia Hansard via OpenAustralia","title":"First speech — Leon Rebello, 30 July 2025","retrieved":"2026-09-30","source_type":"first_person","locator":"Former-colleague acknowledgements","note":"Hansard corroboration of early Parliament work, KWM and Julie Bishop office experience."},
-    {"source_id":"src-6","url":"https://www.lawyersweekly.com.au/podcast/41720-meet-the-kwm-lawyer-running-for-the-lnp-in-mcpherson","publisher":"Lawyers Weekly","title":"Meet the KWM lawyer running for the LNP in McPherson","retrieved":"2026-09-30","source_type":"professional_profile","locator":"Episode summary","note":"March 2025 professional interview identifying KWM, six years' service, foreign-investment practice and former ministerial staffing."},
-    {"source_id":"src-7","url":"https://www.linkedin.com/posts/leon-rebello-6a55b2103_leadership-activity-6868724674327654401-FaCH","publisher":"LinkedIn","title":"Leon Rebello post concerning Julie Bishop role","retrieved":"2026-09-30","source_type":"professional_profile","locator":"First-person post","note":"Public professional-profile post describing receipt of a job offer from Julie Bishop after a late parliamentary sitting."},
-    {"source_id":"src-8","url":"https://www.lawyersweekly.com.au/politics/41919-australia-need-more-young-voices-in-parliament-says-kwm-lawyer-and-lnp-candidate","publisher":"Lawyers Weekly","title":"Australia needs more young voices in Parliament, says KWM lawyer and LNP candidate","retrieved":"2026-09-30","source_type":"professional_profile","locator":"Candidate career description","note":"Contemporary 2025 source identifying Rebello as a practising KWM solicitor while an LNP candidate."},
-    {"source_id":"src-9","url":"https://os-data-2.s3-ap-southeast-2.amazonaws.com/mccgc-com-au/bundle54/mccgc_annual_report_2023-2024.pdf","publisher":"Multicultural Communities Council Gold Coast","title":"Annual Report 2023–2024","retrieved":"2026-09-30","source_type":"employer_record","locator":"Board and director biographies","note":"Contemporary annual report listing Rebello as director and practising KWM solicitor."},
-    {"source_id":"src-10","url":"https://os-data-2.s3-ap-southeast-2.amazonaws.com/mccgc-com-au/bundle54/mccgc_annual_report_2024_2025.pdf","publisher":"Multicultural Communities Council Gold Coast","title":"Annual Report 2024–2025","retrieved":"2026-09-30","source_type":"employer_record","locator":"Board and director biographies","note":"Annual report corroborating board role through the election year."},
-    {"source_id":"src-11","url":"https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=316547","publisher":"Parliament of Australia","title":"Mr Leon Rebello MP","retrieved":"2026-09-30","source_type":"official_biography","locator":"Parliamentary service","note":"Official House service record."}
+    {
+      "source_id": "src-1",
+      "url": "https://handbook.aph.gov.au/parliamentarians/316547",
+      "publisher": "Parliamentary Handbook",
+      "title": "REBELLO, Leon",
+      "retrieved": "2026-09-30",
+      "source_type": "official_biography",
+      "locator": "Occupation and parliamentary service",
+      "note": "Frozen-roster identity, official solicitor occupation and House commencement."
+    },
+    {
+      "source_id": "src-2",
+      "url": "https://www.liberal.org.au/team/leon-rebello",
+      "publisher": "Liberal Party of Australia",
+      "title": "Leon Rebello",
+      "retrieved": "2026-09-30",
+      "source_type": "official_biography",
+      "locator": "Education and pre-Parliament career",
+      "note": "Party biography identifying KWM legal practice, foreign-investment specialization, Julie Bishop staffing and degrees."
+    },
+    {
+      "source_id": "src-3",
+      "url": "https://leonrebello.com.au/about-leon/",
+      "publisher": "Office of Leon Rebello MP",
+      "title": "About Leon",
+      "retrieved": "2026-09-30",
+      "source_type": "official_biography",
+      "locator": "Early parliamentary and legal career",
+      "note": "Member account identifying parliamentary attendant duties and KWM foreign-investment practice."
+    },
+    {
+      "source_id": "src-4",
+      "url": "https://leonrebello.com.au/speech/first-speech/",
+      "publisher": "Office of Leon Rebello MP",
+      "title": "Maiden Speech",
+      "retrieved": "2026-09-30",
+      "source_type": "first_person",
+      "locator": "Career acknowledgements",
+      "note": "First-person account of parliamentary-attendant, KWM and Julie Bishop office experience."
+    },
+    {
+      "source_id": "src-5",
+      "url": "https://www.openaustralia.org.au/debate/?id=2025-07-30.129.1",
+      "publisher": "Parliament of Australia Hansard via OpenAustralia",
+      "title": "First speech — Leon Rebello, 30 July 2025",
+      "retrieved": "2026-09-30",
+      "source_type": "first_person",
+      "locator": "Former-colleague acknowledgements",
+      "note": "Hansard corroboration of early Parliament work, KWM and Julie Bishop office experience."
+    },
+    {
+      "source_id": "src-6",
+      "url": "https://www.lawyersweekly.com.au/podcast/41720-meet-the-kwm-lawyer-running-for-the-lnp-in-mcpherson",
+      "publisher": "Lawyers Weekly",
+      "title": "Meet the KWM lawyer running for the LNP in McPherson",
+      "retrieved": "2026-09-30",
+      "source_type": "professional_profile",
+      "locator": "Episode summary",
+      "note": "March 2025 professional interview identifying KWM, six years' service, foreign-investment practice and former ministerial staffing."
+    },
+    {
+      "source_id": "src-7",
+      "url": "https://www.linkedin.com/posts/leon-rebello-6a55b2103_leadership-activity-6868724674327654401-FaCH",
+      "publisher": "LinkedIn",
+      "title": "Leon Rebello post concerning Julie Bishop role",
+      "retrieved": "2026-09-30",
+      "source_type": "professional_profile",
+      "locator": "First-person post",
+      "note": "Public professional-profile post describing receipt of a job offer from Julie Bishop after a late parliamentary sitting."
+    },
+    {
+      "source_id": "src-8",
+      "url": "https://www.lawyersweekly.com.au/politics/41919-australia-need-more-young-voices-in-parliament-says-kwm-lawyer-and-lnp-candidate",
+      "publisher": "Lawyers Weekly",
+      "title": "Australia needs more young voices in Parliament, says KWM lawyer and LNP candidate",
+      "retrieved": "2026-09-30",
+      "source_type": "professional_profile",
+      "locator": "Candidate career description",
+      "note": "Contemporary 2025 source identifying Rebello as a practising KWM solicitor while an LNP candidate."
+    },
+    {
+      "source_id": "src-9",
+      "url": "https://os-data-2.s3-ap-southeast-2.amazonaws.com/mccgc-com-au/bundle54/mccgc_annual_report_2023-2024.pdf",
+      "publisher": "Multicultural Communities Council Gold Coast",
+      "title": "Annual Report 2023–2024",
+      "retrieved": "2026-09-30",
+      "source_type": "employer_record",
+      "locator": "Board and director biographies",
+      "note": "Contemporary annual report listing Rebello as director and practising KWM solicitor."
+    },
+    {
+      "source_id": "src-10",
+      "url": "https://os-data-2.s3-ap-southeast-2.amazonaws.com/mccgc-com-au/bundle54/mccgc_annual_report_2024_2025.pdf",
+      "publisher": "Multicultural Communities Council Gold Coast",
+      "title": "Annual Report 2024–2025",
+      "retrieved": "2026-09-30",
+      "source_type": "employer_record",
+      "locator": "Board and director biographies",
+      "note": "Annual report corroborating board role through the election year."
+    },
+    {
+      "source_id": "src-11",
+      "url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=316547",
+      "publisher": "Parliament of Australia",
+      "title": "Mr Leon Rebello MP",
+      "retrieved": "2026-09-30",
+      "source_type": "official_biography",
+      "locator": "Parliamentary service",
+      "note": "Official House service record."
+    },
+    {
+      "url": "https://au.linkedin.com/in/leon-rebello-mp-6a55b2103",
+      "publisher": "Leon Rebello / LinkedIn",
+      "title": "Leon Rebello MP — public professional profile",
+      "source_type": "professional_profile",
+      "locator": "Public search index: Wallace/Bishop offices, KWM clerkship; education and volunteer sections",
+      "note": "Indexed named roles/months used. Full profile open returned999Unknown Status Code; some indexed experience fields blank, so no mapping of orphan dates. Hours not stated.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-12"
+    },
+    {
+      "url": "https://cura.org.au/about-us/our-people/",
+      "publisher": "Cura Aged Care",
+      "title": "Our People",
+      "source_type": "employer_record",
+      "locator": "Meet Our Board — Leon Rebello",
+      "note": "Current primary board lists director and identifies him as MP; no historical appointment/cessation date.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-13"
+    },
+    {
+      "url": "https://anuglobalprograms.wordpress.com/2016/03/08/pre-exchange-adventures/",
+      "publisher": "ANU Global Programs / Leon Rebello",
+      "title": "Pre-Exchange Adventures",
+      "source_type": "first_person",
+      "locator": "8March2016; opening and departure paragraphs",
+      "note": "Names Utrecht exchange and departure from Sydney22December2015; travel date not employment resignation.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-14"
+    },
+    {
+      "url": "https://anuglobalprograms.wordpress.com/2016/06/16/orange-everywhere-by-leon-rebello/",
+      "publisher": "ANU Global Programs / Leon Rebello",
+      "title": "Orange. Everywhere.",
+      "source_type": "first_person",
+      "locator": "16June2016;26April lecture and Utrecht account",
+      "note": "Primary exchange account corroborates2016study in Netherlands; no exact semester boundary.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-15"
+    },
+    {
+      "url": "https://www.linkedin.com/posts/leon-rebello-6a55b2103_lawyer-activity-6590868149237886976-KqnG",
+      "publisher": "Leon Rebello / LinkedIn",
+      "title": "Lawyer admission announcement",
+      "source_type": "professional_profile",
+      "locator": "Post text",
+      "note": "Confirms ACT Supreme Court admission. Relative6ylabel does not establish exact admission date.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-16"
+    },
+    {
+      "url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=316547",
+      "publisher": "Parliament of Australia",
+      "title": "Mr Leon Rebello MP",
+      "source_type": "official_biography",
+      "locator": "Qualifications and occupation",
+      "note": "Official biography now identifies ANU for LLB(Hons),BIntRel andGradDipLegPrac. Profile displays College of Law2019; diploma attribution needs reconciliation.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-17"
+    }
   ],
   "research_notes": [
     "Identify every tertiary institution and study interval and any contemporaneous employment.",
     "Obtain Department of Parliamentary Services attendant appointment/cessation, employment basis, hours and leave.",
     "Obtain Julie Bishop office title, appointment/cessation, hours and leave; political staff remains excluded.",
     "Obtain legal admission, KWM commencement/cessation, hours, leave, secondments and campaign arrangements; do not convert 'six years' into invented dates.",
-    "Confirm Cura/MCCGC board appointment/cessation, remuneration and time commitment."
+    "Confirm Cura/MCCGC board appointment/cessation, remuneration and time commitment.",
+    "Follow-up2026-10-02: primary professional index and posts, ANU exchange accounts, current Cura board and APH qualifications reviewed. Removed annual-report-year board cessation. Degree/provider conflict explicitly retained. Public profile experience fields partly blank; unidentified date rows not assigned to jobs.",
+    "Further leads: KWM graduate versus solicitor dates and final cessation; exact ACT admission roll; parliamentary-attendant employer department and hours;2015–16exchange leave; Wallace/clerkship overlap; client work and campaign leave. A third-party LinkedIn post by Raagulan Pathy claims unpaid campaign leave but full post robots-denied; treat as unverified lead, not a quantified deduction.",
+    "Source errors recovered/limited: old LinkedIn profile DisabledError; current profile999Unknown Status Code; ANU2018clerkshipguide400Unsupported content-type application/octet-stream; third-party post robots.txt fetch denied. Publicly indexed facts used only where explicit; no access-control bypass."
   ]
 }
