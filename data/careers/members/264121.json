@@ -6,18 +6,18 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/264121",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-01",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
     "calculation_status": "not_calculable",
-    "note": "Official ministerial and first-person sources establish private legal work at Maurice Blackburn from 2014 to the 2019 election. Public professional biographies also report five years as a federal Labor government adviser before that role, but do not identify the employing office, dates, hours or leave. Political staff and elected office are excluded, and the private legal role lacks substantive full-time evidence. No public/private full-time headline total is calculable."
+    "note": "Primary material identifies early kitchen-assistant work, Griffith completion in 2009 and Joe Ludwig office service observed in May 2010. Public professional index narrows Maurice Blackburn to August 2014–May 2019. Hours and leave remain unknown; political staff excluded and headline totals remain null."
   },
   "career_spells": [
     {
       "spell_id": "264121-01",
       "employer": "Residential aged-care facility, employer not identified",
-      "role": "Part-time aged-care work",
+      "role": "Kitchen assistant in residential aged care",
       "start_date": null,
       "end_date": null,
       "date_precision": "unknown",
@@ -27,16 +27,19 @@
       "headline_sector": "unknown",
       "government_control_at_time": "unknown",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-6"],
-      "evidence_note": "A biographical profile reports that Wells worked part-time at the residential aged-care facility where her mother worked. The employer, dates, role, ownership, hours and leave are not identified.",
+      "source_ids": [
+        "src-6",
+        "src-9"
+      ],
+      "evidence_note": "A biographical profile reports that Wells worked part-time at the residential aged-care facility where her mother worked. The employer, dates, role, ownership, hours and leave are not identified. First-person September 2022 speech confirms unqualified kitchen assistant work in Daisy wing approximately twenty years earlier. Approximate recollection is not converted into a start year; HammondCare hosted the speech but is not established as her employer.",
       "counting_note": "The part-time work is retained as an unresolved early employment lead; no sector or duration can be calculated."
     },
     {
       "spell_id": "264121-02",
-      "employer": "Griffith University and Australian National University",
-      "role": "Bachelor of Laws (Honours), Bachelor of Arts in Political Science and Government, and Graduate Diploma in Legal Practice student",
+      "employer": "Griffith University",
+      "role": "Bachelor of Laws and Bachelor of Arts student",
       "start_date": null,
-      "end_date": "2012",
+      "end_date": "2009",
       "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
@@ -44,8 +47,14 @@
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-1", "src-3", "src-4", "src-6"],
-      "evidence_note": "The official ministerial biography records the Griffith degrees. Public biographies also record an Australian National University graduate diploma and admission to legal practice in 2012. Exact enrolment and completion dates and study/employment overlaps are not published.",
+      "source_ids": [
+        "src-1",
+        "src-3",
+        "src-4",
+        "src-6",
+        "src-10"
+      ],
+      "evidence_note": "The official ministerial biography records the Griffith degrees. Public biographies also record an Australian National University graduate diploma and admission to legal practice in 2012. Exact enrolment and completion dates and study/employment overlaps are not published. University alumni profile specifically dates both Griffith completions to 2009. ANU diploma is separated below; legal admission in 2012 does not establish diploma completion.",
       "counting_note": "Study is excluded."
     },
     {
@@ -53,33 +62,45 @@
       "employer": "Australian Government ministerial office or offices, not identified",
       "role": "Federal Labor government adviser",
       "start_date": null,
-      "end_date": "2014",
-      "date_precision": "mixed",
+      "end_date": null,
+      "date_precision": "unknown",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "political_staff",
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-4", "src-6"],
-      "evidence_note": "Public professional biographies report five years as a Labor adviser in the federal government before Wells joined Maurice Blackburn in 2014. They do not identify the office or offices, titles, exact boundaries, hours or leave. A start year is therefore not inferred from the stated duration.",
+      "source_ids": [
+        "src-4",
+        "src-6",
+        "src-11",
+        "src-12"
+      ],
+      "evidence_note": "Public professional biographies report five years as a Labor adviser in the federal government before Wells joined Maurice Blackburn in 2014. They do not identify the office or offices, titles, exact boundaries, hours or leave. A start year is therefore not inferred from the stated duration. Ludwig office is now identified in a nested spell below. The umbrella five-year duration remains unsplit; the 2014 next-job start is not proof of prior payroll cessation. Other employing offices and gaps remain unresolved.",
       "counting_note": "Political staff employment is excluded from the public/private headline totals."
     },
     {
       "spell_id": "264121-04",
       "employer": "Maurice Blackburn Lawyers",
       "role": "Lawyer specialising in workers' compensation and road-injury matters",
-      "start_date": "2014",
-      "end_date": "2019-05-18",
-      "date_precision": "mixed",
+      "start_date": "2014-08",
+      "end_date": "2019-05",
+      "date_precision": "month",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "private_enterprise",
       "headline_sector": "private",
       "government_control_at_time": "private",
       "counting_status": "insufficient_evidence",
-      "source_ids": ["src-1", "src-2", "src-3", "src-4", "src-5"],
-      "evidence_note": "The official ministerial biography records legal work at Maurice Blackburn from 2014 to 2019. Wells' first speech describes private-sector workers' compensation practice, and party biographies add representation of people injured at work or on the road. The exact commencement, payroll cessation, hours, leave and campaign arrangements are not published; 18 May 2019 is an outer bound from election, not a proved employment endpoint.",
+      "source_ids": [
+        "src-1",
+        "src-2",
+        "src-3",
+        "src-4",
+        "src-5",
+        "src-13"
+      ],
+      "evidence_note": "The official ministerial biography records legal work at Maurice Blackburn from 2014 to 2019. Wells' first speech describes private-sector workers' compensation practice, and party biographies add representation of people injured at work or on the road. The exact commencement, payroll cessation, hours, leave and campaign arrangements are not published; 18 May 2019 is an outer bound from election, not a proved employment endpoint. Public professional index gives August 2014–May 2019; these reported month boundaries supersede the earlier election-day proxy. No actual day, full-time label, maternity leave, campaign leave or overlap conclusion is available.",
       "counting_note": "Private legal employment is supported, but exact boundaries and substantive full-time evidence are insufficient."
     },
     {
@@ -88,14 +109,16 @@
       "role": "Volunteer co-founder",
       "start_date": "2015",
       "end_date": null,
-      "date_precision": "year",
-      "employment_status": "unpaid",
+      "date_precision": "mixed",
+      "employment_status": "unknown",
       "fte_fraction": null,
       "category": "unpaid_work",
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
-      "source_ids": ["src-7"],
+      "source_ids": [
+        "src-7"
+      ],
       "evidence_note": "A 2020 profile says Wells co-founded the local Chermside parkrun in mid-2015. It describes community volunteering, not paid employment; a cessation date is not supplied.",
       "counting_note": "Unpaid community work is excluded."
     },
@@ -105,16 +128,60 @@
       "role": "Member of the House of Representatives for Lilley",
       "start_date": "2019-05-18",
       "end_date": null,
-      "date_precision": "day",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
-      "source_ids": ["src-1", "src-8"],
+      "source_ids": [
+        "src-1",
+        "src-8"
+      ],
       "evidence_note": "The official ministerial biography records election for Lilley in 2019 and re-election in 2022; the frozen Parliamentary Handbook records continuing service and subsequent re-election in 2025.",
       "counting_note": "Federal elected office is excluded."
+    },
+    {
+      "employer": "Australian National University",
+      "role": "Graduate Diploma in Legal Practice student",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "public",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-4",
+        "src-6",
+        "src-10"
+      ],
+      "evidence_note": "Qualification reported; actual enrolment/completion unknown. Admission in 2012 is not substituted for graduation.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "264121-07"
+    },
+    {
+      "employer": "Office of Senator Joe Ludwig, Australian Government",
+      "role": "Political staff member; media contact observed 21 May 2010",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "political_staff",
+      "headline_sector": "excluded",
+      "government_control_at_time": "public",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-11",
+        "src-12"
+      ],
+      "evidence_note": "Contemporaneous release names Wells as media contact; Ludwig later confirms her among former staff. Observation date is not commencement or cessation. Nested within the existing five-year political-staff umbrella; do not add durations.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "264121-08"
     }
   ],
   "sources": [
@@ -197,6 +264,56 @@
       "source_type": "official_biography",
       "locator": "Frozen roster and parliamentary service",
       "note": "Snapshot identity and federal parliamentary chronology used by the frozen roster."
+    },
+    {
+      "url": "https://www.health.gov.au/ministers/the-hon-anika-wells-mp/media/hammondcare-speech",
+      "publisher": "Australian Government Department of Health",
+      "title": "HammondCare speech, 9 September 2022",
+      "source_type": "first_person",
+      "locator": "Paragraph on Daisy wing, published 14 September 2022",
+      "note": "First-person account of nursing-home kitchen assistant work approximately twenty years earlier; employer not named.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-9"
+    },
+    {
+      "url": "https://www.griffith.edu.au/griffith-business-school/government-international-relations",
+      "publisher": "Griffith University",
+      "title": "Government and International Relations: student success",
+      "source_type": "official_biography",
+      "locator": "Anika Wells alumni paragraph",
+      "note": "Confirms both Griffith degrees completed in 2009. Incorrectly conflates 2018 preselection and election elsewhere; that claim is not adopted.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-10"
+    },
+    {
+      "url": "https://pfa.org.au/wp-content/uploads/2021/07/2009-to-10.pdf",
+      "publisher": "Police Federation of Australia / Australian Government",
+      "title": "Annual Report 2009–10, reproduced joint ministerial release",
+      "source_type": "government_record",
+      "locator": "Printed page 27 (PDF page 29), release dated 21 May 2010",
+      "note": "Identifies Wells as Senator Joe Ludwig media contact; a dated role observation, not employment boundaries.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-11"
+    },
+    {
+      "url": "https://www.openaustralia.org.au/senate/?gid=2016-05-02.240.2",
+      "publisher": "Senate Hansard via OpenAustralia",
+      "title": "Joe Ludwig valedictory, 2 May 2016",
+      "source_type": "first_person",
+      "locator": "10 pm, thanks to staff over 17 years",
+      "note": "Ludwig names Wells among former staff, corroborating office affiliation without employment dates.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-12"
+    },
+    {
+      "url": "https://au.linkedin.com/in/anika-wells-854467154",
+      "publisher": "Anika Wells / LinkedIn",
+      "title": "Public professional profile",
+      "source_type": "professional_profile",
+      "locator": "Publicly indexed Maurice Blackburn experience entry",
+      "note": "Index gives August 2014–May 2019. Direct page returned 999 UnknownStatusCode; no authenticated access or hidden fields used. Hours and leave not exposed.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-13"
     }
   ],
   "research_notes": [
@@ -204,6 +321,9 @@
     "Obtain exact Griffith University and Australian National University study dates, legal-admission evidence and any employment overlap.",
     "Identify every federal ministerial office, title and exact boundary in the reported five years of Labor advisory work; obtain hours and leave while retaining political staff as excluded.",
     "Resolve the interval between legal admission in 2012 and Maurice Blackburn commencement in 2014, including whether advisory work continued or other legal employment occurred.",
-    "Obtain Maurice Blackburn appointment, role progression, hours, leave, payroll cessation and 2018-19 preselection/campaign arrangements; 18 May 2019 is only an election-derived outer bound."
+    "Obtain Maurice Blackburn appointment, role progression, hours, leave, payroll cessation and 2018-19 preselection/campaign arrangements; 18 May 2019 is only an election-derived outer bound.",
+    "Follow-up 2026-10-02: reviewed first-person aged-care speech, university alumni profile, historical 2009–10 annual report reproducing a government release, Ludwig valedictory and public professional index. Added named office and narrowed legal-job months; separated ANU study.",
+    "Remaining: identify Daisy wing facility and ownership; establish kitchen/relief-diversional role chronology and hours; identify all ministerial offices and actual five-year boundaries; Maurice Blackburn contract, maternity/campaign leave and last paid day. Secondary relief-diversional role remains a lead needing better evidence.",
+    "Source errors: archived Maurice Blackburn March 2019 profile inaccessible via search tool; LinkedIn direct open returned 999 UnknownStatusCode. Public search index used for visible dates only. Secondary claim of Wayne Swan staff service not independently established; campaign management does not prove ministerial employment."
   ]
 }
