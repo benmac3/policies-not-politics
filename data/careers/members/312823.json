@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/312823",
   "research_status": "blocked",
-  "last_reviewed": "2026-09-29",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -89,9 +89,10 @@
         "src-3",
         "src-4",
         "src-5",
-        "src-6"
+        "src-6",
+        "src-12"
       ],
-      "evidence_note": "Sources give different related role descriptions; no evidence of separate jobs warranting additive spells. First speech places manufacturing campaign work in 2017. Union employment excluded even when duties are legal representation.",
+      "evidence_note": "Sources give different related role descriptions; no evidence of separate jobs warranting additive spells. First speech places manufacturing campaign work in 2017. Union employment excluded even when duties are legal representation. Dated government diary identifies Campbell with AMWU representatives on 18 June 2015 (p3); this advances the earliest verified dated observation, but does not establish commencement, uninterrupted service or hours.",
       "counting_note": "Excluded from the two employment headlines under the codebook."
     },
     {
@@ -175,6 +176,26 @@
       ],
       "evidence_note": "Election boundary from frozen roster; parliamentary service excluded. No assumption that private employment continued to or ceased on election.",
       "counting_note": "Excluded from the two employment headlines under the codebook."
+    },
+    {
+      "employer": "University of Queensland",
+      "role": "Bachelor of Arts and Bachelor of Laws; legal education",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "public",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-2",
+        "src-3"
+      ],
+      "evidence_note": "University announcement reports concurrent study in December 2006; public speaker biography identifies Arts/Law degrees and Queensland legal admission in 2012. No attendance/award boundaries or study load established; admission is not a job commencement.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "312823-09"
     }
   ],
   "sources": [
@@ -287,6 +308,16 @@
       "source_type": "news",
       "locator": "Outgoing secretary and proposed successor paragraphs",
       "note": "Contemporaneous evidence of 2022 transition; exact date requires employer confirmation."
+    },
+    {
+      "url": "https://cabinet.qld.gov.au/ministers-portfolios/assets/diary/2015/june/yvette-dath.pdf",
+      "publisher": "Queensland Government",
+      "title": "Yvette D’Ath ministerial diary, June 2015",
+      "source_type": "government_record",
+      "locator": "Page 3, 18 June 2015 AMWU meeting",
+      "note": "Primary dated observation places Campbell at AMWU before previously dated 2017 campaign evidence; not an employment start or continuous interval.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-12"
     }
   ],
   "research_notes": [
@@ -294,6 +325,7 @@
     "2026-09-29 initial pass checked official APH, UQ's 2006 announcement, first speech, public speaker biography, AMWU primary release, 2023 and 2024 government diaries, candidate statements and contemporaneous party-departure reporting. EY identified through government records after broad professional-services searches. Admission to law in 2012 reported in secondary profiles is not an employment start.",
     "Targeted professional-profile searches produced US Army, Queensland Health, Jamaica KPMG and NSW car-wash namesakes without identity linkage; none adopted. No full-time contracts or complete dates found. A 2022 EY appointment is a secondary press lead requiring employer/date verification; do not backdate from later diary observations.",
     "Student office, AMWU work and party employment are excluded regardless of payment or hours. Government policy role remains unclassified pending its employing basis. EY associate-partner status does not prove full-time or self-employment; unknown is not zero. Two dated meetings are not a continuous employment interval.",
-    "Source access: April 2023 PDF web-reader failed; direct public PDF retrieval and pdftotext succeeded. Initial Python requests import was unavailable; standard-library retrieval worked. No access controls bypassed. All research remains blocked pending the recorded evidence gaps."
+    "Source access: April 2023 PDF web-reader failed; direct public PDF retrieval and pdftotext succeeded. Initial Python requests import was unavailable; standard-library retrieval worked. No access controls bypassed. All research remains blocked pending the recorded evidence gaps.",
+    "2026-10-02 follow-up: added primary 18 June 2015 AMWU meeting observation and separated UQ education from work. Searches for EY appointment, government department/office and 2009–11 chronology found no verified appointment basis or complete boundaries. The Australian public preview (https://www.theaustralian.com.au/nation/chief-aims-for-labor-resurrection-but-first-the-post-mortem/news-story/f4b3b8f881e39696e5602a2c9c4dd200) reports departure to EY but supplies no accessible decisive commencement day; preserve earlier 2022 appointment lead rather than backdate from later meetings. AustLII UQ history PDF returned 403. AMWU media releases are undated in rendered text; unrelated UK/NSW business and US research namesakes not adopted. Priority follow-up: EY dated appointment/cessation or public professional chronology, departmental versus ministerial staffing record, AMWU staff/annual-report chronology and individual hours/leave."
   ]
 }
