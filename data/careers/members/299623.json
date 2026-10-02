@@ -6,7 +6,7 @@
   "snapshot_party": "Independent",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/299623",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-01",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -99,9 +99,10 @@
         "src-member",
         "src-ama",
         "src-abc-2022",
-        "src-practice-archive"
+        "src-practice-archive",
+        "src-croakey-interview-oct2"
       ],
-      "evidence_note": "Current Parliament lists MPH (UNSW), MHScT(Hons) (Oxford) and DipTropMed(Hons) (College of Surgeons, Dublin). The practice biography describes the Oxford award as MSc; the earlier ABC summary described Dublin as a masters. Preserve the discrepancy and prefer the official diploma label rather than representing an Irish masters as settled. Award dates, study loads and work overlaps are unresolved.",
+      "evidence_note": "Current Parliament lists MPH (UNSW), MHScT(Hons) (Oxford) and DipTropMed(Hons) (College of Surgeons, Dublin). The practice biography describes the Oxford award as MSc; the earlier ABC summary described Dublin as a masters. Preserve the discrepancy and prefer the official diploma label rather than representing an Irish masters as settled. Award dates, study loads and work overlaps are unresolved. In April2022 she described the UNSW MPH as part-time distance study in the early2000s, partly overseas. Exact boundaries remain unknown; the interview again calls the Dublin award a masters, conflicting with the official diploma label.",
       "counting_note": "Study is excluded under the codebook."
     },
     {
@@ -124,15 +125,17 @@
         "src-abc-2022",
         "src-healthengine",
         "src-practice-archive",
-        "src-abbotsleigh"
+        "src-abbotsleigh",
+        "src-croakey-interview-oct2",
+        "src-afr-parttime-oct2"
       ],
-      "evidence_note": "The frozen occupation record gives general practice from 2010 to 2021. Member, AMA and ABC profiles identify Narrabeen practice, and the ABC says she practised there until November 2021. The practice's archived profile identifies her as a practitioner. Exact start and cessation days, employment or contractor status, hours, leave and overlap with health-promotion work are not published. Alumni publication independently corroborates November 2021 cessation. Continued inclusion on the March 2022 archived website is not proof of continued practice. Current practice biographies label other doctors independent contractors, but that cannot establish Scamps’s own historical contract.",
+      "evidence_note": "The frozen occupation record gives general practice from 2010 to 2021. Member, AMA and ABC profiles identify Narrabeen practice, and the ABC says she practised there until November 2021. The practice's archived profile identifies her as a practitioner. Exact start and cessation days, employment or contractor status, hours, leave and overlap with health-promotion work are not published. Alumni publication independently corroborates November 2021 cessation. Continued inclusion on the March 2022 archived website is not proof of continued practice. Current practice biographies label other doctors independent contractors, but that cannot establish Scamps’s own historical contract. April2022 interview recalls eight years in Narrabeen general practice, shorter than the official2010–2021 interval; location-specific service, breaks and rounding require resolution. A2022 AFR profile reports part-time work without dates or employer allocation; this warns against assuming continuous full-time practice but cannot classify the entire spell.",
       "counting_note": "Private general practice is supported, but employment status, hours, exact boundaries and overlap are insufficient for a full-time duration calculation."
     },
     {
       "spell_id": "299623-health-promotion",
       "employer": "South Western Sydney Local Health District",
-      "role": "Health promotion",
+      "role": "Health promotion / community-development project promoting preschool physical activity",
       "start_date": "2011",
       "end_date": null,
       "date_precision": "mixed",
@@ -144,9 +147,10 @@
       "counting_status": "insufficient_evidence",
       "source_ids": [
         "src-snapshot",
-        "src-swslhd"
+        "src-swslhd",
+        "src-croakey-interview-oct2"
       ],
-      "evidence_note": "The frozen Parliamentary Handbook records health promotion in the 'Southwest Sydney Local Health District' from 2011. NSW Health identifies the official entity as South Western Sydney Local Health District and records that it was established on 1 January 2011. No located source gives Scamps's title, appointment type, payroll entity, end date, hours, leave or relationship to her overlapping Narrabeen general practice.",
+      "evidence_note": "The frozen Parliamentary Handbook records health promotion in the 'Southwest Sydney Local Health District' from 2011. NSW Health identifies the official entity as South Western Sydney Local Health District and records that it was established on 1 January 2011. No located source gives Scamps's title, appointment type, payroll entity, end date, hours, leave or relationship to her overlapping Narrabeen general practice. Her2022 interview describes one year with South West Sydney community health on preschool physical activity. It does not date that year, confirm it was the same2011 role, or establish remuneration; no end year is inferred.",
       "counting_note": "The government-controlled health district and start year are supported, but the nature, duration and workload of the role are unresolved, so no public full-time duration is counted."
     },
     {
@@ -402,6 +406,26 @@
       "note": "Scamps identifies founding membership of Voices of Mackellar in 2020 and founding Mackellar Rising with Anyo Geddes in 2021.",
       "retrieved": "2026-10-01",
       "source_id": "src-candidate-response"
+    },
+    {
+      "url": "https://www.croakey.org/why-this-doctor-gave-up-general-practice-to-run-for-election-as-an-independent-candidate/",
+      "publisher": "Croakey Health Media / Sophie Scamps",
+      "title": "Why this doctor gave up general practice to run for election as an Independent candidate",
+      "source_type": "interview",
+      "locator": "26April2022, Tell us about yourself, paragraphs1,4–7",
+      "note": "First-person interview supplies study load, community-health project and approximate durations; does not supply payroll records.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-croakey-interview-oct2"
+    },
+    {
+      "url": "https://www.afr.com/work-and-careers/careers/their-wives-are-well-known-but-these-men-are-the-pioneers-20220823-p5bc4k",
+      "publisher": "Australian Financial Review",
+      "title": "How the husbands of Zali Steggall and Sophie Scamps changed their roles",
+      "source_type": "news",
+      "locator": "2September2022 public search excerpt, Scamps worked part-time",
+      "note": "Indexed report states Scamps worked part-time while her husband changed careers; dates and job allocation unavailable. Direct open returned Internal Error.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-afr-parttime-oct2"
     }
   ],
   "research_notes": [
@@ -411,6 +435,7 @@
     "Determine whether athletics or sponsorship constituted paid substantive employment, and obtain Our Blue Dot incorporation, governance, remuneration and workload records. Resolve campaign remuneration and overlap from December 2021 to election.",
     "2026-10-01 follow-up: recovered primary archived practice biography confirming Canberra, Royal North Shore and Mona Vale emergency work; no facility dates or ordinary hours. Added named medical qualification providers and Mackellar Rising co-founding. Corrected athletics dates that previously represented performance observations and the unverified Dublin masters description.",
     "Searched health-promotion role, public professional profiles, hospital names, Oxford dates and part-time references. No Scamps-specific SWSLHD contract, roster, payroll or cessation was found; unrelated doctors’ hours and current independent-contractor arrangements were not transferred. 2000–2010 work/study chronology, individual hospital boundaries and leave remain open.",
-    "Next leads: historical practice personnel biographies, public hospital appointment/department records and contemporaneous university award records. Oxford club athletics indexes a 2004 performance, which is not proof of degree boundaries or professional work; direct club page returned Internal Error. First-person candidate response now confirms Voices of Mackellar founding in 2020 and Mackellar Rising in 2021; January 2021 Voices exit remains unverified. Women in Public Health lists her as a founding member alongside her MP role, without separate employment evidence."
+    "Next leads: historical practice personnel biographies, public hospital appointment/department records and contemporaneous university award records. Oxford club athletics indexes a 2004 performance, which is not proof of degree boundaries or professional work; direct club page returned Internal Error. First-person candidate response now confirms Voices of Mackellar founding in 2020 and Mackellar Rising in 2021; January 2021 Voices exit remains unverified. Women in Public Health lists her as a founding member alongside her MP role, without separate employment evidence.",
+    "Second follow-up2October2026 materially adds self-reported part-time MPH study and a one-year preschool-activity community-health project; flags the conflicting eight-year Narrabeen recollection and a secondary part-time employment report. No precise hospital appointment, health-promotion endpoint, payroll contract or leave schedule found. Public LinkedIn page returned999 Unknown Status Code; no authenticated or alternate-route access attempted. AFR direct open returned Internal Error; limited indexed statement retained with its limitations. Study load must not be transferred to employment; the undated project must not manufacture a2012 cessation. Further leads: project reports, employer rosters and qualification conferral records."
   ]
 }
