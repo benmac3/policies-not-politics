@@ -6,17 +6,17 @@
   "snapshot_party": "Australia's Voice",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/300707",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-01",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
     "calculation_status": "not_calculable",
-    "note": "Pharmacy interval has exact dates but unknown hours/leave and overlaps political staff work. Other identified roles are union, nonprofit, study, volunteering and elected/party office. No reliable full-time headline or zero established."
+    "note": "Added primary-supported student presidency, police community advisory activity and tutoring with unresolved pay basis. Pharmacy hours/outlet and leave remain unknown; official overlap preserved and no headline totals calculated."
   },
   "career_spells": [
     {
       "employer": "University of Western Australia",
-      "role": "BA and Graduate Diploma of Pharmaceutical Science studies",
+      "role": "BA in anthropology and sociology and Graduate Diploma of Pharmaceutical Science studies",
       "start_date": null,
       "end_date": null,
       "date_precision": "unknown",
@@ -27,9 +27,10 @@
       "government_control_at_time": "unknown",
       "counting_status": "excluded",
       "source_ids": [
-        "src-2"
+        "src-2",
+        "src-10"
       ],
-      "evidence_note": "Official qualifications; course dates/attendance pattern unknown. Qualification does not prove registered pharmacist employment.",
+      "evidence_note": "Official qualifications; course dates/attendance pattern unknown. Qualification does not prove registered pharmacist employment. Own interview identifies undergraduate fields; no new enrolment dates inferred.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "300707-01"
     },
@@ -55,7 +56,7 @@
     },
     {
       "employer": "Penny Appeal Australia",
-      "role": "Volunteer",
+      "role": "Volunteer fundraiser",
       "start_date": null,
       "end_date": null,
       "date_precision": "unknown",
@@ -66,9 +67,10 @@
       "government_control_at_time": "private",
       "counting_status": "excluded",
       "source_ids": [
-        "src-5"
+        "src-5",
+        "src-11"
       ],
-      "evidence_note": "Interview describes NGO volunteering following father’s 2018 death; exact onset/end not stated, so no invented dates.",
+      "evidence_note": "Interview describes NGO volunteering following father’s 2018 death; exact onset/end not stated, so no invented dates. Interview recording biography explicitly describes fundraising as volunteering; do not turn third-party fundraising-officer label into paid employment.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "300707-03"
     },
@@ -149,9 +151,10 @@
         "src-2",
         "src-5",
         "src-6",
-        "src-7"
+        "src-7",
+        "src-12"
       ],
-      "evidence_note": "Exact official range retained; employer confirms past employment. Secondary chronology implies earlier organising around 2018, needing reconciliation before adding an earlier spell. Campaign leave/hours unverified.",
+      "evidence_note": "Exact official range retained; employer confirms past employment. Secondary chronology implies earlier organising around 2018, needing reconciliation before adding an earlier spell. Campaign leave/hours unverified. November 2022 first-person account places union organising after electorate work and Young Labor leadership. This supports official sequence; the secondary 2018 claim remains recorded as a conflict, not an additional proven job.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "300707-07"
     },
@@ -180,7 +183,7 @@
       "role": "Senator for Western Australia",
       "start_date": "2022-07-01",
       "end_date": null,
-      "date_precision": "day",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -194,6 +197,66 @@
       "evidence_note": "Frozen first service retained; parliamentary and party offices excluded.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "300707-09"
+    },
+    {
+      "employer": "UWA Muslim Students Association",
+      "role": "President",
+      "start_date": "2017",
+      "end_date": "2018",
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "nonprofit",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-9",
+        "src-10"
+      ],
+      "evidence_note": "Association past-president table and own two-year account agree. Student association governance, remuneration/hours unknown; not university employment.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "300707-10"
+    },
+    {
+      "employer": "Western Australia Police Muslim Community Advisory Board",
+      "role": "Youth/community representative",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "public_service",
+      "headline_sector": "excluded",
+      "government_control_at_time": "public",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-10",
+        "src-11",
+        "src-12"
+      ],
+      "evidence_note": "Own interview identifies advisory board; biography reports broader police collaboration since 2017 without dating formal appointment. Community representation is not evidence of sworn police or salaried public-service employment; pay and hours unknown.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "300707-11"
+    },
+    {
+      "employer": "High-school tutoring; organisation or clients unidentified",
+      "role": "Tutor",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "unknown",
+      "government_control_at_time": "unknown",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-11"
+      ],
+      "evidence_note": "Tutoring alongside voluntary fundraising attested. Wording does not clearly resolve whether tutoring itself was paid or voluntary; legal employer, dates and hours unknown.",
+      "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
+      "spell_id": "300707-12"
     }
   ],
   "sources": [
@@ -276,12 +339,55 @@
       "note": "Discovery lead for Australian Islamic College board membership in 2022; original school-board page not successfully retrieved, dates/pay basis await primary verification.",
       "retrieved": "2026-10-01",
       "source_id": "src-8"
+    },
+    {
+      "url": "https://www.uwamsa.org/past_mem.html",
+      "publisher": "UWA Muslim Students Association",
+      "title": "Past Members",
+      "source_type": "employer",
+      "locator": "Past MSA Presidents table, 2017 and 2018 rows",
+      "note": "Organisation independently confirms two presidential years; no remuneration or hours stated.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-9"
+    },
+    {
+      "url": "https://www.muslimsdownunder.com/editorial/is-a-woman-more-than-just-her-hijab-conversation-with-senator-fatima-payman/",
+      "publisher": "Muslims Down Under / Fatima Payman interview",
+      "title": "More Than Just My Hijab, 16 September 2022",
+      "source_type": "other",
+      "locator": "Career-choice answer: anthropology/sociology; two-year presidency; youth representation",
+      "note": "First-person account identifies WA Police Muslim Community Advisory Board and charity-base work. Publisher introduction migration date is inaccurate against her own answer; irrelevant claim not adopted.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-10"
+    },
+    {
+      "url": "https://wfe.org.au/in-conversation-fatima-payman-recording/",
+      "publisher": "Women for Election",
+      "title": "In Conversation: Fatima Payman recording biography",
+      "source_type": "other",
+      "locator": "Closing biography paragraph",
+      "note": "Voluntary Penny Appeal fundraising alongside high-school tutoring; police community engagement since 2017. Does not establish a police payroll position.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-11"
+    },
+    {
+      "url": "https://www.amust.com.au/2022/11/senator-payman-passionate-about-women-young-people-and-workers/",
+      "publisher": "Australasian Muslim Times / Fatima Payman interview",
+      "title": "Senator Payman: Passionate about women, young people and workers",
+      "source_type": "news",
+      "locator": "2 November 2022; career progression answer",
+      "note": "Own account sequences electorate work, party leadership, then union organising; supports official chronology but gives no precise union start.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-12"
     }
   ],
   "research_notes": [
     "Initial research 2026-10-01: official occupation list, employer annual reviews, employer statement and first-person interview reviewed. Searches for pharmacy outlet, individual hours, public professional profile and school governance did not resolve payroll/full-time status. Generic biography assertions of part-time work lack reliable corroboration and were not adopted.",
     "Follow-up: TerryWhite outlet/legal entity, hours and leave; exact school-program employment versus participation/volunteering and overlapping work; UWU start conflict; pre-2018 work/study history; Australian Islamic College 2022 board lead, appointment/end/remuneration. Official exact dates alone are insufficient for full-time years.",
     "Recovered source errors: American Rhetoric first-speech mirror403; ERCWA2021–22 PDF400 Timeout fetching, indexed primary passage used; school-board reference click could not resolve. These are individual source gaps, not job-wide blockers.",
-    "Family members’ occupations are not Payman’s employment. Pharmacy assistant wording is not upgraded to pharmacist. No duration is summed across overlapping intervals."
+    "Family members’ occupations are not Payman’s employment. Pharmacy assistant wording is not upgraded to pharmacist. No duration is summed across overlapping intervals.",
+    "Follow-up 2026-10-02: UWA MSA past-president table, September 2022 first-person interview, Women for Election recording biography and November 2022 AMUST interview. Identified student association and police advisory roles, tutoring and undergraduate fields; preserved pay/date uncertainties.",
+    "School-board original and archival links from Wikipedia returned Unable to resolve click call due to invalid arguments; primary board appointment remains unverified. Secondary repeats do not independently establish term/pay. Seek AIC annual report or appointment register in later pass.",
+    "Pharmacy searches found no reliable full-time proof or outlet. SignalHire displayed conflicting month dates, federal department label and other roles; these are discovery leads only and were not substituted for exact official dates. Unsourced biography claims of part-time work still unverified. Tutoring payroll/client and charity-base role boundaries need first-person or organisation records."
   ]
 }
