@@ -6,7 +6,7 @@
   "snapshot_party": "Community Strong Australia",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/175696",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-01",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -38,7 +38,7 @@
     },
     {
       "spell_id": "175696-02",
-      "employer": "Father's Manly solicitor practice (Roper & Steggall name requires stronger verification)",
+      "employer": "Roper & Steggall (father’s Manly solicitor practice)",
       "role": "Paralegal, subsequently solicitor",
       "start_date": null,
       "end_date": null,
@@ -51,9 +51,10 @@
       "counting_status": "insufficient_evidence",
       "source_ids": [
         "src-4",
-        "src-5"
+        "src-5",
+        "src-snow2024"
       ],
-      "evidence_note": "Interview reports four years as paralegal after sport before solicitor/bar work. No start/end or continuous full-time evidence; do not back-calculate dates from duration.",
+      "evidence_note": "Interview reports four years as paralegal after sport before solicitor/bar work. No start/end or continuous full-time evidence; do not back-calculate dates from duration. Published SNOW recollection independently names Roper & Steggall and describes part-time work during2002–06 law study. Exact work boundaries and any change from paralegal to solicitor hours remain unknown; overall status remains unknown because the undated combined spell may include different arrangements.",
       "counting_note": "Dates, employer control and/or substantive full-time status remain insufficient for a duration calculation; unknown is not zero."
     },
     {
@@ -99,7 +100,7 @@
         "src-7",
         "src-8"
       ],
-      "evidence_note": "Contemporary2006 board list explicitly resignation14June2006; chairman describes eight years. Preferred to later CV1998\u20132002 summary. Start retained1998 from CV/eight-year account, but2014 chairman retrospectively says inaugural membership1999; original appointment still to verify. Governance excluded.",
+      "evidence_note": "Contemporary2006 board list explicitly resignation14June2006; chairman describes eight years. Preferred to later CV1998–2002 summary. Start retained1998 from CV/eight-year account, but2014 chairman retrospectively says inaugural membership1999; original appointment still to verify. Governance excluded.",
       "counting_note": "Excluded from the two employment headlines under the codebook."
     },
     {
@@ -166,7 +167,7 @@
       "spell_id": "175696-08",
       "employer": "Court of Arbitration for Sport",
       "role": "Arbitrator",
-      "start_date": "2017",
+      "start_date": "2017-01-01",
       "end_date": null,
       "date_precision": "mixed",
       "employment_status": "unknown",
@@ -176,9 +177,10 @@
       "government_control_at_time": "unknown",
       "counting_status": "excluded",
       "source_ids": [
-        "src-3"
+        "src-3",
+        "src-cas2017"
       ],
-      "evidence_note": "Appointment and 2018 Olympic ad hoc work; not proof of separate full-time employment. May overlap private practice.",
+      "evidence_note": "Appointment and 2018 Olympic ad hoc work; not proof of separate full-time employment. May overlap private practice. ICAS announcement19January2017 expressly makes her appointment effective1January2017, replacing year-only precision.",
       "counting_note": "Excluded from the two employment headlines under the codebook."
     },
     {
@@ -307,7 +309,7 @@
       "retrieved": "2026-09-29",
       "source_type": "personal_biography",
       "locator": "Building a career beyond the Olympics",
-      "note": "Barrister 2008\u20132019; education and sport context."
+      "note": "Barrister 2008–2019; education and sport context."
     },
     {
       "source_id": "src-2",
@@ -326,7 +328,7 @@
       "title": "Zali Steggall biography",
       "retrieved": "2026-09-29",
       "source_type": "professional_profile",
-      "locator": "Pages 1\u20132, appointments, qualifications and professional experience",
+      "locator": "Pages 1–2, appointments, qualifications and professional experience",
       "note": "Primary practice and governance evidence; internal Queenwood start-date inconsistency."
     },
     {
@@ -383,7 +385,7 @@
       "source_id": "src-9",
       "url": "https://www.sportintegrity.gov.au/sites/default/files/ASADA_Annual%20Report_2018-19.pdf",
       "publisher": "Australian Sports Anti-Doping Authority",
-      "title": "Annual report 2018\u201319",
+      "title": "Annual report 2018–19",
       "retrieved": "2026-09-29",
       "source_type": "government_annual_report",
       "locator": "Footnote 19, ADRVP membership (indexed)",
@@ -397,7 +399,7 @@
       "retrieved": "2026-09-29",
       "source_type": "government_record",
       "locator": "Zali Steggall entry",
-      "note": "Scholarship 1996\u20132002; not evidence of an employment contract."
+      "note": "Scholarship 1996–2002; not evidence of an employment contract."
     },
     {
       "source_id": "src-11",
@@ -407,7 +409,7 @@
       "retrieved": "2026-09-29",
       "source_type": "official_parliament",
       "locator": "Occupations and first service in repository snapshot",
-      "note": "Frozen occupation text gives professional athlete 1990\u20132002 and barrister 2008\u20132019; direct APH page blocked this run."
+      "note": "Frozen occupation text gives professional athlete 1990–2002 and barrister 2008–2019; direct APH page blocked this run."
     },
     {
       "url": "https://www.owia.org/uploads/3/9/6/0/39609871/2019_annual_report_final.pdf",
@@ -438,14 +440,35 @@
       "note": "Describes sole-trader barrister practice, childcare and sometimes leaving court/chambers early. Does not quantify weekly hours or leave dates; neither part-time nor uninterrupted full-time status inferred.",
       "retrieved": "2026-10-01",
       "source_id": "src-care"
+    },
+    {
+      "url": "https://www.tas-cas.org/generated/assets/lists/dceab111-07bc-435f-b5f9-de88eff9db72/ICAS_release_Jan_17_new_arbitrators_and_mediators_corrected_Bennett_Canada_instead_of_Australia_.pdf",
+      "publisher": "Court of Arbitration for Sport",
+      "title": "ICAS appoints additional arbitrators and mediators,19January2017",
+      "source_type": "professional_body",
+      "locator": "Page1,effective-date paragraph and new-arbitrator list",
+      "note": "Appointment effective1January2017; nomination eligibility is not salaried continuous employment.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-cas2017"
+    },
+    {
+      "url": "https://snow.cz/clanek/7486-zali-steggallova-spokojeny-zivot-plny-vyzev",
+      "publisher": "SNOW / Tom Řepík",
+      "title": "Zali Steggallová: Spokojený život plný výzev,17August2024; originally SNOW149 December2023",
+      "source_type": "reliable_secondary",
+      "locator": "Civilní život; Francouzské počátky",
+      "note": "Czech-language attributed recollection names father’s firm and describes part-time work during law study. Study dates are not treated as exact employment boundaries. Training full time before1992 is not a paid-employment contract.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-snow2024"
     }
   ],
   "research_notes": [
     "Follow up bounded full-time legal practice intervals, breaks, early solicitor/paralegal dates and employers; verify Kemp Strang lead and chambers transitions. Resolve paid sporting contracts and control rather than treating scholarship as public work.",
-    "2026-09-29 avenues: current self biography, two surviving chambers PDFs, contemporaneous Lawyers Weekly interview, FIS, ABR history, OWIA 2006/2014 reports, ASADA 2018\u201319 and AIS archive. APH direct access blocked; frozen official extraction retained. Public professional-profile searches did not produce a directly verifiable CV for earlier firms.",
-    "Unverified search-index leads from SignalHire (not accepted as employment evidence): Roper & Steggall 2004\u20132007, Kemp Strang October 2007\u2013April 2008, Sixth Floor May 2008\u2013September 2014, Garfield Barwick September 2014\u2013January 2016, Family Law Chambers January 2016\u2013May 2019; Ski and Snowboard Association board 2002\u20132006. Verify with firm/bar archives or legitimately public first-party profile. No contact data retained.",
+    "2026-09-29 avenues: current self biography, two surviving chambers PDFs, contemporaneous Lawyers Weekly interview, FIS, ABR history, OWIA 2006/2014 reports, ASADA 2018–19 and AIS archive. APH direct access blocked; frozen official extraction retained. Public professional-profile searches did not produce a directly verifiable CV for earlier firms.",
+    "Unverified search-index leads from SignalHire (not accepted as employment evidence): Roper & Steggall 2004–2007, Kemp Strang October 2007–April 2008, Sixth Floor May 2008–September 2014, Garfield Barwick September 2014–January 2016, Family Law Chambers January 2016–May 2019; Ski and Snowboard Association board 2002–2006. Verify with firm/bar archives or legitimately public first-party profile. No contact data retained.",
     "Conflicts retained: athlete 1989 versus 1990 start, initial OWIA term ending 2002 versus 2006, Queenwood 2017 versus 2018 and bar committee 2013 versus 2014. Full-time point observation in 2009 cannot support 11 years. Multiple board and arbitration roles overlap legal practice; no summation. Last follow-up 2026-09-29, unresolved initial record.",
-    "2026-10-01 follow-up: full OWIA2006/2014/2019 reports resolve first resignation14June2006 and later term22November2013\u201327May2019, preserving contrary CV values in notes. Primary2014 Bar seating list verifies Sixth Floor affiliation; exact chambers transition dates still unverified.2025 childcare speech adds working-pattern evidence, without inferring part-time or leave duration.2020 parental-leave speech supplies policy discussion only, not personal leave dates.",
-    "Remaining avenues: firm/Bar archives for Roper & Steggall and Kemp Strang employment and legal-practice hours; original OWIA1998/1999 appointment; Queenwood and Hall of Fame appointment/cessation records. No independent Kemp Strang corroboration found beyond aggregator.2009 NSW Law Almanac indexed row supports Sixth Floor, but direct retrieval returned400 Content length is too large:14142443; no date-column meaning assumed. Manly Rugby2022/2024 reports identify honorary patronage, not paid employment. Existing sports-contract, hours and break gaps retained; advance pending fresh leads."
+    "2026-10-01 follow-up: full OWIA2006/2014/2019 reports resolve first resignation14June2006 and later term22November2013–27May2019, preserving contrary CV values in notes. Primary2014 Bar seating list verifies Sixth Floor affiliation; exact chambers transition dates still unverified.2025 childcare speech adds working-pattern evidence, without inferring part-time or leave duration.2020 parental-leave speech supplies policy discussion only, not personal leave dates.",
+    "Remaining avenues: firm/Bar archives for Roper & Steggall and Kemp Strang employment and legal-practice hours; original OWIA1998/1999 appointment; Queenwood and Hall of Fame appointment/cessation records. No independent Kemp Strang corroboration found beyond aggregator.2009 NSW Law Almanac indexed row supports Sixth Floor, but direct retrieval returned400 Content length is too large:14142443; no date-column meaning assumed. Manly Rugby2022/2024 reports identify honorary patronage, not paid employment. Existing sports-contract, hours and break gaps retained; advance pending fresh leads.",
+    "Second follow-up2October2026: CAS primary announcement resolves appointment to1January2017. SNOW published recollection resolves father’s firm name and adds explicit part-time evidence during law study, without projecting study dates onto employment. CAS current roster retains apparently stale other-role biographies and a different Hall of Fame2015 start; not used to override contemporary records. Resume link returned web Internal Error: Unable to resolve click call due to invalid arguments; no CV contents claimed. Kemp Strang and precise chambers transitions still lack corroboration outside aggregator. Possible original English Skiing History article The Power of Teal (Aimee Berg,September–October2022) is subscription-restricted; not bypassed. Next avenues: firm/Bar personnel archives and independently available professional CV, plus sporting contracts and bounded legal-practice hours. Remaining gaps retained, not converted into zero."
   ]
 }
