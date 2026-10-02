@@ -6,12 +6,12 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/264170",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-01",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
     "calculation_status": "not_calculable",
-    "note": "Broadcasting, regional organisations and caf\u00e9 work documented, but hours and employer-specific chronology/control are incomplete. Public and private full-time totals remain unknown."
+    "note": "Broadcasting, regional organisations and café work documented, but hours and employer-specific chronology/control are incomplete. Public and private full-time totals remain unknown."
   },
   "career_spells": [
     {
@@ -28,9 +28,10 @@
       "government_control_at_time": "unknown",
       "counting_status": "insufficient_evidence",
       "source_ids": [
-        "src-1"
+        "src-1",
+        "src-broadcast2018"
       ],
-      "evidence_note": "Commercial broadcast role; historical controlling entity and hours need verification.",
+      "evidence_note": "Commercial broadcast role; historical controlling entity and hours need verification. Her2018 speech recalls television work in late1980s/early1990s, wider than official1991–93. Retain official dates with discrepancy pending personnel records; aggregation with Channel9 is not a job-start or ownership-transfer date.",
       "counting_note": "Dates, employer control and/or substantive full-time status remain insufficient for a duration calculation; unknown is not zero."
     },
     {
@@ -135,8 +136,8 @@
     },
     {
       "spell_id": "264170-07",
-      "employer": "Own caf\u00e9 business (trading entity unresolved)",
-      "role": "Small business owner and caf\u00e9 operator",
+      "employer": "Own café business (trading entity unresolved)",
+      "role": "Small business owner and café operator",
       "start_date": "2001",
       "end_date": "2004",
       "date_precision": "year",
@@ -188,15 +189,16 @@
       "counting_status": "insufficient_evidence",
       "source_ids": [
         "src-3",
-        "src-acra"
+        "src-acra",
+        "src-radio2013interview"
       ],
-      "evidence_note": "Contemporaneous report identifies employer and December 2013 resignation/on-air departure. Employment end day, start and hours unknown; syndicated broadcasts are not extra employers. Primary2012 awards list places her at2HD/Super Radio Network by2012; do not encode this as commencement.",
+      "evidence_note": "Contemporaneous report identifies employer and December 2013 resignation/on-air departure. Employment end day, start and hours unknown; syndicated broadcasts are not extra employers. Primary2012 awards list places her at2HD/Super Radio Network by2012; do not encode this as commencement. October2013 first-person interview describes producing four hours of live programming five days weekly with one producer. Broadcast duration is not total working time or a full-time contract; no duration calculated.",
       "counting_note": "Dates, employer control and/or substantive full-time status remain insufficient for a duration calculation; unknown is not zero."
     },
     {
       "spell_id": "264170-10",
       "employer": "2NURFM (University of Newcastle relationship; legal employer unverified)",
-      "role": "Radio host",
+      "role": "Paid radio host, following volunteer work",
       "start_date": null,
       "end_date": "2016",
       "date_precision": "mixed",
@@ -210,9 +212,10 @@
         "src-4",
         "src-5",
         "src-8",
-        "src-radio2015"
+        "src-radio2015",
+        "src-broadcast2018"
       ],
-      "evidence_note": "Former host by July 2016; exact final work date, beginning, pay and hours unverified. University association not automatically private/public employment. First-person government transcript places her working there on4September2015, without establishing employment start or paid/full-time status.",
+      "evidence_note": "Former host by July 2016; exact final work date, beginning, pay and hours unverified. University association not automatically private/public employment. First-person government transcript places her working there on4September2015, without establishing employment start or paid/full-time status. Speech20August2018 explicitly distinguishes initial volunteering from subsequent paid employment. Payment is now established for later role; transition date and substantive full-time status remain unknown. Earlier note about unverified pay superseded only for this later position.",
       "counting_note": "Dates, employer control and/or substantive full-time status remain insufficient for a duration calculation; unknown is not zero."
     },
     {
@@ -271,6 +274,25 @@
       "evidence_note": "Register alteration records appointment6May2019 as director of corporate trustee for Swanridge Superannuation Fund. Excluded family investment governance, not inferred paid work; cessation unknown.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "264170-13"
+    },
+    {
+      "employer": "2NURFM",
+      "role": "Volunteer before paid appointment",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unpaid_work",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-broadcast2018"
+      ],
+      "evidence_note": "First-person2018 recollection establishes volunteering preceding paid role; neither boundary supplied. Kept separate from paid hosting and excluded from employment totals.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "264170-14"
     }
   ],
   "sources": [
@@ -332,7 +354,7 @@
       "retrieved": "2026-09-29",
       "source_type": "government_record",
       "locator": "Organisational history timeline (indexed)",
-      "note": "HROC established 1990; later incorporation in 2002 and company in 2003\u201304 cannot be projected backwards."
+      "note": "HROC established 1990; later incorporation in 2002 and company in 2003–04 cannot be projected backwards."
     },
     {
       "source_id": "src-7",
@@ -341,7 +363,7 @@
       "title": "The passing of Milton Morris AO",
       "retrieved": "2026-09-29",
       "source_type": "personal_statement",
-      "locator": "1993\u20131996 business-manager recollection",
+      "locator": "1993–1996 business-manager recollection",
       "note": "First-person corroboration of regional council work."
     },
     {
@@ -393,14 +415,35 @@
       "note": "Full transcript corroborates communications study, local TV/radio and political staff role. Direct APH403; no additional employer dates or cafe name.",
       "retrieved": "2026-10-01",
       "source_id": "src-first"
+    },
+    {
+      "url": "https://www.openaustralia.org.au/debate/?id=2018-08-20.121.2",
+      "publisher": "Parliament of Australia, reproduced by OpenAustralia",
+      "title": "Broadcasting Legislation Amendment speech,20August2018",
+      "source_type": "official_parliament",
+      "locator": "Swanson3:59pm, NBN and 2NURFM personal recollections",
+      "note": "Explicit volunteer then paid position at2NURFM; full paying does not necessarily mean full-time. NBN recollection late1980s/early1990s conflicts with official1991 start.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-broadcast2018"
+    },
+    {
+      "url": "https://radiotoday.com.au/4-weeks-of-acras-finalists-fever-2013-12/",
+      "publisher": "Radio Today",
+      "title": "ACRA finalists interview,6October2013",
+      "source_type": "reliable_secondary",
+      "locator": "Meryl Swanson section, final answer",
+      "note": "First-person description of four-hour live programme five days weekly, produced with Rebecca Purse. Does not quantify off-air work or contractual hours.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-radio2013interview"
     }
   ],
   "research_notes": [
-    "Follow up full-time status and breaks across all paid work; identify caf\u00e9 and Melbourne broadcast employers, 2HD start and 2NURFM dates/pay status; establish 1993\u20131997 HROC/Hunter Tourism legal employer control.",
+    "Follow up full-time status and breaks across all paid work; identify café and Melbourne broadcast employers, 2HD start and 2NURFM dates/pay status; establish 1993–1997 HROC/Hunter Tourism legal employer control.",
     "2026-09-29 searches covered APH biography and handbooks, personal biography/first-speech index, Radio Today/RadioInfo 2013 departure, employer 2NURFM election report, ABC election guides, HROC historical timeline, university governance and public professional-profile leads. Targeted full-time searches yielded unrelated jobs/policies, not her work hours.",
-    "Do not carry present Hunter JO structure back to 1993. 2024 primary timeline locates later incorporation in 2002 and commercial company in 2003\u201304. Historical constitution/annual reports remain a better avenue for period control. Hunter Tourism could be industry/nonprofit or council-associated; funding alone does not decide.",
-    "Caf\u00e9 Delish is an unverified lead from reporting about her spouse, not a verified employer or dates for her. RadioInfo says employment scheduled to expire 20 December 2013 while Radio Today describes earlier on-air departure on 13 December; retain month until contractual end clarified. On-air hours are not total working hours. Last follow-up 2026-09-29; all aggregate/subspell overlaps are non-additive.",
+    "Do not carry present Hunter JO structure back to 1993. 2024 primary timeline locates later incorporation in 2002 and commercial company in 2003–04. Historical constitution/annual reports remain a better avenue for period control. Hunter Tourism could be industry/nonprofit or council-associated; funding alone does not decide.",
+    "Café Delish is an unverified lead from reporting about her spouse, not a verified employer or dates for her. RadioInfo says employment scheduled to expire 20 December 2013 while Radio Today describes earlier on-air departure on 13 December; retain month until contractual end clarified. On-air hours are not total working hours. Last follow-up 2026-09-29; all aggregate/subspell overlaps are non-additive.",
     "2026-10-01 follow-up: added primary-register company governance dates and primary dated observations of2HD in2012 and2NURFM4September2015. Read full first speech, government press conference, industry awards list, APH register index and radio-trade archive. Neither on-air schedule nor awards establish full-time hours. No quantified full-time interval.",
-    "Cafe Delish remains a lead: ChannelNews repeats spouse\u2019s professional-profile description of their joint proposal but spouse\u2019s2002\u20132005 ownership dates cannot replace her APH2001\u20132004 work dates. NEW FM breakfast2009 lead appears on a public discussion forum only; seek station/industry archive before adding. Full-time/part-time and maiden-name searches yielded no personal contract evidence. Historical HROC/Tourism control, Melbourne station and individual broadcasting starts remain unresolved. Register PDF restricted, first-speech APH403; accessible indexed/transcript evidence used without bypass. No duplicate duration across umbrella broadcasting and individual roles."
+    "Cafe Delish remains a lead: ChannelNews repeats spouse’s professional-profile description of their joint proposal but spouse’s2002–2005 ownership dates cannot replace her APH2001–2004 work dates. NEW FM breakfast2009 lead appears on a public discussion forum only; seek station/industry archive before adding. Full-time/part-time and maiden-name searches yielded no personal contract evidence. Historical HROC/Tourism control, Melbourne station and individual broadcasting starts remain unresolved. Register PDF restricted, first-speech APH403; accessible indexed/transcript evidence used without bypass. No duplicate duration across umbrella broadcasting and individual roles.",
+    "Second follow-up2October2026: full2018 parliamentary broadcasting speech establishes 2NURFM volunteer-to-paid transition; date and contractual hours still unknown.2013 first-person industry interview gives five-day/four-hour live show but not total labour hours. Targeted NEW FM2009, Melbourne, cafe and Hunter Tourism searches did not independently resolve employer boundaries or period control. RadioToday20-year multi-city career description belongs to Jay Walkerden, not Swanson. Jocks Journal January2024 PDF contains a ten-years-ago column about2013 departure; not a new appointment. Retain personnel/annual-report and pre-incorporation HROC constitution avenues; do not repeat generic biography searches."
   ]
 }
