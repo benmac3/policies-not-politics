@@ -6,7 +6,7 @@
   "snapshot_party": "Liberal Party of Australia",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/109556",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-01",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -141,7 +141,7 @@
     {
       "spell_id": "109556-mallesons",
       "employer": "Mallesons Stephen Jaques (now King & Wood Mallesons)",
-      "role": "Solicitor",
+      "role": "Solicitor; Executive Adviser",
       "start_date": "2002",
       "end_date": "2004",
       "date_precision": "year",
@@ -154,9 +154,10 @@
       "source_ids": [
         "src-snapshot",
         "src-aph-current",
-        "src-secondary"
+        "src-secondary",
+        "src-bca2002-oct2"
       ],
-      "evidence_note": "The official parliamentary chronology identifies the firm, role and 2002–2004 years. Secondary and public event biographies corroborate the predecessor firm's current identity. Exact start/end dates, admission timing, hours, leave and any overlap with the adjoining adviser roles remain unresolved.",
+      "evidence_note": "The official parliamentary chronology identifies the firm, role and 2002–2004 years. Secondary and public event biographies corroborate the predecessor firm's current identity. Exact start/end dates, admission timing, hours, leave and any overlap with the adjoining adviser roles remain unresolved. BCA supplementary submission2October2002 names him as Executive Adviser,Mallesons, among its secretariat/assistants. This clarifies the legal-employer affiliation of his contribution; no additional BCA job or secondment is inferred and no hours are supplied.",
       "counting_note": "Private legal employment is supported, but year-only boundaries and missing substantive full-time evidence prevent a headline duration."
     },
     {
@@ -274,9 +275,9 @@
       "spell_id": "109556-teach-australia",
       "employer": "Teach For Australia",
       "role": "Board member/company director",
-      "start_date": null,
-      "end_date": "2016",
-      "date_precision": "unknown",
+      "start_date": "2015-01-27",
+      "end_date": "2016-04-14",
+      "date_precision": "day",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "nonprofit",
@@ -285,9 +286,11 @@
       "counting_status": "excluded",
       "source_ids": [
         "src-snapshot",
-        "src-consilium"
+        "src-consilium",
+        "src-tfa2015-oct2",
+        "src-tfa2016-oct2"
       ],
-      "evidence_note": "Split from original combined board entry. Professional biography identifies this pre-parliamentary board role, but no start, precise cessation, remuneration or operational employment. Original 2016 endpoint is a pre-election upper-bound description, not an exact departure date.",
+      "evidence_note": "Original report tables indexed publicly specify appointment27January2015 and resignation14April2016, replacing previous undated start and pre-election upper bound. Hours and fees unknown; board service is not operational employment.",
       "counting_note": "Nonprofit board governance is excluded and is not treated as substantive employment."
     },
     {
@@ -305,9 +308,10 @@
       "counting_status": "excluded",
       "source_ids": [
         "src-snapshot",
-        "src-consilium"
+        "src-consilium",
+        "src-piac2014-oct2"
       ],
-      "evidence_note": "Split from original combined board entry. Professional biography identifies this pre-parliamentary board role, but no start, precise cessation, remuneration or operational employment. Original 2016 endpoint is a pre-election upper-bound description, not an exact departure date.",
+      "evidence_note": "Split from original combined board entry. Professional biography identifies this pre-parliamentary board role, but no start, precise cessation, remuneration or operational employment. Original 2016 endpoint is a pre-election upper-bound description, not an exact departure date. PIAC2014 biography corroborates board/advisory service, without resolving precise capacity or boundaries.",
       "counting_note": "Nonprofit board governance is excluded and is not treated as substantive employment."
     },
     {
@@ -421,9 +425,10 @@
       "government_control_at_time": "private",
       "counting_status": "excluded",
       "source_ids": [
-        "src-ajn-2016"
+        "src-ajn-2016",
+        "src-piac2014-oct2"
       ],
-      "evidence_note": "Reported council role in April 2016; dates and remuneration unknown.",
+      "evidence_note": "Reported council role in April 2016; dates and remuneration unknown. PIAC2014 biography corroborates board/advisory service, without resolving precise capacity or boundaries.",
       "counting_note": "Governance/community/nonprofit role excluded; paid status not presumed.",
       "spell_id": "109556-ecaj"
     },
@@ -503,6 +508,83 @@
       "evidence_note": "Professional biography dates election to November 2016; indexed official report specifies 10 November, pending full-page verification. Subsequent terms and cessation unresolved; governance overlaps elected office.",
       "counting_note": "Governance/community/nonprofit role excluded; paid status not presumed.",
       "spell_id": "109556-nla"
+    },
+    {
+      "employer": "Public Interest Advocacy Centre Limited",
+      "role": "Board member",
+      "start_date": "2014",
+      "end_date": "2016-02",
+      "date_precision": "mixed",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "nonprofit",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-piac2014-oct2",
+        "src-piac2016-oct2"
+      ],
+      "evidence_note": "2013/14 report introduces new board members under2014 heading;2016 indexed report gives February resignation. Exact commencement and fees unknown.",
+      "counting_note": "Governance, conference and advisory activity excluded; no operational paid employment inferred.",
+      "spell_id": "109556-piac"
+    },
+    {
+      "employer": "Samuel Griffith Society",
+      "role": "Conference convener",
+      "start_date": "2009",
+      "end_date": null,
+      "date_precision": "mixed",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "nonprofit",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-piac2014-oct2"
+      ],
+      "evidence_note": "PIAC2014 biography dates conference-convener service from2009; workload, pay and cessation unknown.",
+      "counting_note": "Governance, conference and advisory activity excluded; no operational paid employment inferred.",
+      "spell_id": "109556-samuel-griffith"
+    },
+    {
+      "employer": "Hornsby-Kuring-Gai Hospital",
+      "role": "Board or advisory role (capacity unresolved)",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "public_service",
+      "headline_sector": "excluded",
+      "government_control_at_time": "public",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-piac2014-oct2"
+      ],
+      "evidence_note": "PIAC2014 biography identifies board or advisory service without distinguishing capacity, dates or fees.",
+      "counting_note": "Governance, conference and advisory activity excluded; no operational paid employment inferred.",
+      "spell_id": "109556-hornsby-hospital"
+    },
+    {
+      "employer": "Chinese Australian Forum",
+      "role": "Board or advisory role (capacity unresolved)",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "nonprofit",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-piac2014-oct2"
+      ],
+      "evidence_note": "PIAC2014 biography identifies board or advisory service without distinguishing capacity, dates or fees.",
+      "counting_note": "Governance, conference and advisory activity excluded; no operational paid employment inferred.",
+      "spell_id": "109556-chinese-forum"
     }
   ],
   "sources": [
@@ -665,6 +747,56 @@
       "note": "Indexed entry gives House election 10 November 2016. Archived PDF failed retrieval; month corroborated by existing Consilium professional biography. Day retained as a lead pending full-page inspection.",
       "retrieved": "2026-10-01",
       "source_id": "src-nla-2017-lead"
+    },
+    {
+      "url": "https://teachforaustralia.org/wp-content/uploads/2021/02/Teach-For-Australia-Audited-Financials-2015.pdf",
+      "publisher": "Teach For Australia",
+      "title": "Audited Financials 2015",
+      "source_type": "employer",
+      "locator": "Directors report, printed p2; Julian Leeser entry",
+      "note": "Public indexed original report gives personal appointment/resignation day. Reader has no extracted text and direct download returned403; dates rely on indexed table, not claimed visual inspection.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-tfa2015-oct2"
+    },
+    {
+      "url": "https://teachforaustralia.org/wp-content/uploads/2021/02/Teach-For-Australia-Audited-Financials-2016.pdf",
+      "publisher": "Teach For Australia",
+      "title": "Audited Financials 2016",
+      "source_type": "employer",
+      "locator": "Directors report, printed p2; Julian Leeser entry",
+      "note": "Public indexed original report gives personal appointment/resignation day. Reader has no extracted text and direct download returned403; dates rely on indexed table, not claimed visual inspection.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-tfa2016-oct2"
+    },
+    {
+      "url": "https://d3n8a8pro7vhmx.cloudfront.net/bca/pages/2502/attachments/original/1532560756/bca-supp-submission.pdf?1532560756=",
+      "publisher": "Business Council of Australia",
+      "title": "Supplementary Submission to Review of Trade Practices Act1974,2October2002",
+      "source_type": "employer",
+      "locator": "Printed p iv; PDFpage5, Business Council Secretariat and Assistants",
+      "note": "Names Leeser as Executive Adviser at Mallesons, identifying firm affiliation rather than separate BCA employment.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-bca2002-oct2"
+    },
+    {
+      "url": "https://jec.org.au/wp-content/uploads/jec-publications/13341/PIAC-Annual-Report-2014.pdf",
+      "publisher": "Public Interest Advocacy Centre",
+      "title": "Annual Report 2014",
+      "source_type": "employer",
+      "locator": "Printed p15; PDFpage17, New Board Members2014",
+      "note": "Primary report introduces Leeser and lists other community advisory work.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-piac2014-oct2"
+    },
+    {
+      "url": "https://jec.org.au/wp-content/uploads/2024/05/PIAC-Annual-Report-2016.pdf",
+      "publisher": "Public Interest Advocacy Centre",
+      "title": "Annual Report 2016",
+      "source_type": "employer",
+      "locator": "PIAC Board, indexed entry",
+      "note": "Public indexed original reports February2016 resignation; full reader returned internal error.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-piac2016-oct2"
     }
   ],
   "research_notes": [
@@ -674,7 +806,8 @@
     "The 2006–2007 Harvard fellowship overlaps the Menzies role and is treated as fellowship/professional development, not presumed employment.",
     "The undated official company-director label is linked cautiously to publicly identified nonprofit boards without inferring pay, workload or operational employment.",
     "2026-10-01 follow-up: Menzies commencement refined to February 2006; original combined boards separated and Mercy Public Hospitals March 2015 appointment added without conflating the parent organisation. Added religious teaching/community roles, Ramsay scoping work and non-executive governance, and NLA parliamentary governance.",
-    "Searched legal-employer and court chronology, full-time wording, Menzies publications, ACU/Mercy annual reports, charity filings and library reports. Full-time searches found staff vacancies rather than evidence about Leeser. ACNC scanned report inspected visually after one copy failed retrieval. NLA old PDF redirects and archive failed; exact appointment day remains a labelled indexed lead. No supported High Court/Mallesons full-time interval, leave history or dates found."
+    "Searched legal-employer and court chronology, full-time wording, Menzies publications, ACU/Mercy annual reports, charity filings and library reports. Full-time searches found staff vacancies rather than evidence about Leeser. ACNC scanned report inspected visually after one copy failed retrieval. NLA old PDF redirects and archive failed; exact appointment day remains a labelled indexed lead. No supported High Court/Mallesons full-time interval, leave history or dates found.",
+    "Second follow-up2October2026: primary financial-report index resolves Teach For Australia term; BCA2002 original identifies Executive Adviser title at Mallesons; PIAC reports add governance and conference service. Full-time searches returned unrelated lawyers and roles, not personal evidence. Python requests import unavailable, replaced by standard-library download; Teach For Australia download403 not retried. Reader source gaps remain explicitly labelled. Further priorities: court/Mallesons hours and leave, board instruments and Harvard/Menzies overlap. No new countable full-time interval."
   ],
   "open_questions": [
     "What were the exact dates, hours, leave and employment status for the High Court associateship and Mallesons solicitor role?",
@@ -685,6 +818,7 @@
     "Was the 2016 preselection/campaign remunerated, and when did ACU employment cease relative to the campaign and election?",
     "Was the Ramsay founding study paid separately, by which entity, on what dates and hours, or undertaken within ACU employment?",
     "What were the Ramsay board appointment/cessation dates and fees, and National Library Council reappointments and end?",
-    "Can separate Mercy Health and Mercy Public Hospitals appointments, teaching and community-governance dates and remuneration be established?"
+    "Can separate Mercy Health and Mercy Public Hospitals appointments, teaching and community-governance dates and remuneration be established?",
+    "What were the precise Hornsby-Kuring-Gai Hospital and Chinese Australian Forum capacities/terms, and did the BCA contribution involve a formal Mallesons secondment?"
   ]
 }
