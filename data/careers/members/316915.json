@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/316915",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-01",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -111,6 +111,27 @@
       ],
       "evidence_note": "Election year verified in official biography; exact first-service date from frozen roster. Ongoing at snapshot.",
       "counting_note": "Outside the two employment headlines under the codebook; retained as career context."
+    },
+    {
+      "employer": "St Monica’s College, Epping",
+      "role": "Student teaching placement",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-placement",
+        "src-placement-host",
+        "src-teaching-lead"
+      ],
+      "evidence_note": "First-person indexed recollection identifies placement while studying; school institutional post corroborates connection. Dates and remuneration unestablished; not coded as paid teaching.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "316915-06"
     }
   ],
   "sources": [
@@ -183,6 +204,36 @@
       "note": "School describes teaching experience but gives no employer, paid position, dates or hours. Visiting the college is not evidence that he was its employee; retain as follow-up lead.",
       "retrieved": "2026-10-01",
       "source_id": "src-teaching-lead"
+    },
+    {
+      "url": "https://www.instagram.com/p/DcdL7aZEnaO/",
+      "publisher": "Basem Abdo",
+      "title": "Public recollection of teaching placement",
+      "source_type": "other",
+      "locator": "Public post index, opening sentence; indexed25August2026",
+      "note": "Identifies placement while studying to become a teacher. Direct open throttled; no retry or hidden content used.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-placement"
+    },
+    {
+      "url": "https://www.facebook.com/BasemAbdoMP/photos/national-youth-parliament-is-here-150-young-aussies-every-electorate-one-parliam/122215455602546670/",
+      "publisher": "Basem Abdo",
+      "title": "Public indexed teaching-placement recollection",
+      "source_type": "other",
+      "locator": "Indexed first-person statement: placement at St Monica’s College",
+      "note": "Identifies study-placement host, not paid employment. Index may combine adjacent social posts; corroborating school institutional account already cited separately.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-placement-host"
+    },
+    {
+      "url": "https://mhec.vic.edu.au/wp-content/uploads/2024/06/Annual-Report-23.pdf",
+      "publisher": "Meadow Heights Education Centre",
+      "title": "Annual report2023",
+      "source_type": "employer",
+      "locator": "Public indexed MEMBERS OF THE ASSOCIATION list preceding page16",
+      "note": "Lists Basem Abdo among21 association members. Membership is not staff or board tenure. PDF direct fetch502; surrounding indexed section recovered.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-mhec2023"
     }
   ],
   "research_notes": [
@@ -191,6 +242,7 @@
     "Teaching study is not evidence that he worked as a teacher. Need named employer, dates and full-time status before either sector can be counted.",
     "No omitted occupation is treated as zero; political staff and federal elected office are excluded under project rules.",
     "2026-10-01: recovered full first speech and added previously missing teenage car-washing job. Split Vamvakinou employment into two undated periods on employer-interview reporting, preserving the unknown break. No private/public duration or full-time status inferred. Original study-only caution still applies: school’s recent public reference to teaching experience is a lead, not a dated paid teaching spell.",
-    "Avenues: APH biography direct inaccessible; official party/member bios,28July2025 Hansard reproduction, Neos Kosmos interview, public St Monica’s College institutional post, education/employment searches. Meadow Heights Education Centre2023 annual report at https://mhec.vic.edu.au/wp-content/uploads/2024/06/Annual-Report-23.pdf indexes the name but fetch failed and surrounding role is unverified; do not infer employment or governance from a bare name. Saudi researcher/auditor and dental namesakes rejected. SBS Josh Burns teacher-aide/factory history is not Abdo’s. Follow-up: car-wash employer/dates/hours, two staff appointments and intervening work, teaching employer/pay/dates, MHEC report context."
+    "Avenues: APH biography direct inaccessible; official party/member bios,28July2025 Hansard reproduction, Neos Kosmos interview, public St Monica’s College institutional post, education/employment searches. Meadow Heights Education Centre2023 annual report at https://mhec.vic.edu.au/wp-content/uploads/2024/06/Annual-Report-23.pdf indexes the name but fetch failed and surrounding role is unverified; do not infer employment or governance from a bare name. Saudi researcher/auditor and dental namesakes rejected. SBS Josh Burns teacher-aide/factory history is not Abdo’s. Follow-up: car-wash employer/dates/hours, two staff appointments and intervening work, teaching employer/pay/dates, MHEC report context.",
+    "Second follow-up2October2026: recovered first-person public statement describing student teaching placement at St Monica’s College, narrowing the earlier generic teaching lead without inventing paid employment. MHEC2023 indexed context resolves bare name as association membership, not employment or directorship; no employment spell added from membership. Direct MHEC PDF502 and Instagram Online fetch throttled respected; indexed primary text used. Staff-date and full-time searches produced no verified boundaries, mostly unrelated overseas namesakes and electorate references. Next seek primary placement date/terms and any later qualified teaching employment, two Vamvakinou appointment periods/break and car-wash identity. Remain unresolved; no hours or totals inferred."
   ]
 }
