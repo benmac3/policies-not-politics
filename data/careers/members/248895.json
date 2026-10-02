@@ -6,7 +6,7 @@
   "snapshot_party": "The Nationals",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/248895",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-01",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -38,9 +38,9 @@
       "spell_id": "248895-anu-study",
       "employer": "Australian National University",
       "role": "Economics and Asian Studies student, specialising in Korean language",
-      "start_date": null,
-      "end_date": null,
-      "date_precision": "unknown",
+      "start_date": "1990",
+      "end_date": "1994",
+      "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "study",
@@ -48,9 +48,10 @@
       "government_control_at_time": "public",
       "counting_status": "excluded",
       "source_ids": [
-        "src-member"
+        "src-member",
+        "src-linkedin-oct2"
       ],
-      "evidence_note": "The member biography identifies the course and a 1993 university exchange to South Korea but gives no enrolment or completion dates, qualification outcome, study load or work overlap.",
+      "evidence_note": "The member biography identifies the course and a 1993 university exchange to South Korea but gives no enrolment or completion dates, qualification outcome, study load or work overlap. Public professional index supplies the displayed boundaries; earlier unknown-date notes are superseded only at this precision. Hours, leave and continuity remain unresolved.",
       "counting_note": "Study is excluded under the codebook."
     },
     {
@@ -178,9 +179,9 @@
       "spell_id": "248895-woolworths",
       "employer": "Woolworths Group",
       "role": "Government Relations Manager; observed acting Head of Government Relations",
-      "start_date": null,
-      "end_date": null,
-      "date_precision": "unknown",
+      "start_date": "2016-12",
+      "end_date": "2018-03",
+      "date_precision": "month",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "private_enterprise",
@@ -190,9 +191,10 @@
       "source_ids": [
         "src-member",
         "src-industry-profile",
-        "src-woolworths-hearing"
+        "src-woolworths-hearing",
+        "src-linkedin-oct2"
       ],
-      "evidence_note": "Penfold's biography and a contemporaneous industry profile identify the Woolworths government-relations role. Exact appointment and cessation dates, hours, leave and overlap with political staff or advisory work are unresolved. Parliamentary witness programme adds the acting-head title. It does not establish promotion or acting-tenure boundaries.",
+      "evidence_note": "Penfold's biography and a contemporaneous industry profile identify the Woolworths government-relations role. Exact appointment and cessation dates, hours, leave and overlap with political staff or advisory work are unresolved. Parliamentary witness programme adds the acting-head title. It does not establish promotion or acting-tenure boundaries. Public professional index supplies the displayed boundaries; earlier unknown-date notes are superseded only at this precision. Hours, leave and continuity remain unresolved.",
       "counting_note": "Private employer control is clear, but title alone and missing boundaries do not establish a countable full-time interval."
     },
     {
@@ -366,10 +368,10 @@
     },
     {
       "employer": "National Farmers’ Federation",
-      "role": "Temporary communications/media role; exact title unresolved",
-      "start_date": null,
-      "end_date": null,
-      "date_precision": "unknown",
+      "role": "Acting general manager, communications and media (five-week contract)",
+      "start_date": "2016-11",
+      "end_date": "2016-12",
+      "date_precision": "month",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "employer_association",
@@ -378,9 +380,10 @@
       "counting_status": "excluded",
       "source_ids": [
         "src-nff-release",
-        "src-nff-temporary"
+        "src-nff-temporary",
+        "src-linkedin-oct2"
       ],
-      "evidence_note": "Institutional joint release identifies NFF media work on 8 December 2016; contemporary industry reporting describes a temporary role before the incoming communications manager. Appointment dates, contract duration, pay, hours and leave unknown.",
+      "evidence_note": "Institutional joint release identifies NFF media work on 8 December 2016; contemporary industry reporting describes a temporary role before the incoming communications manager. Appointment dates, contract duration, pay, hours and leave unknown. Public professional index supplies the displayed boundaries; earlier unknown-date notes are superseded only at this precision. Hours, leave and continuity remain unresolved. Stated five-week term is not interpreted as two full months or evidence of full-time hours.",
       "counting_note": "Employer-association work excluded; source observations are not tenure boundaries.",
       "spell_id": "248895-nff-comms"
     },
@@ -440,6 +443,26 @@
       "evidence_note": "Current parliamentary biography gives this role and range. Remuneration, hours and overlap with other employment unresolved.",
       "counting_note": "Party organisational work excluded.",
       "spell_id": "248895-lyne-fec"
+    },
+    {
+      "employer": "National Farmers’ Federation",
+      "role": "Volunteer mentor, Diversity in Agriculture Leadership Program",
+      "start_date": "2020",
+      "end_date": "2020",
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unpaid_work",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-linkedin-oct2",
+        "src-mentor-oct2"
+      ],
+      "evidence_note": "Self-reported volunteer role corroborated by participant Niki Ford. No payroll or ordinary hours inferred.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "248895-nff-mentor"
     }
   ],
   "sources": [
@@ -558,9 +581,9 @@
       "publisher": "Maitland-Newcastle Catholic News / Brittany Gonzalez",
       "title": "Change is going to come, 29 September 2020",
       "source_type": "professional_profile",
-      "locator": "Introduction and interview question concerning Futureye",
-      "note": "Identifies Penfold as a current director of management consultancy Futureye, resolving the previously unnamed agency. Also corroborates Littleproud chief-of-staff title.",
-      "retrieved": "2026-10-01",
+      "locator": "29September2020; opening biography and final pilgrimage question/answer",
+      "note": "Identifies Futureye director and Littleproud service; describes travel after leaving jobs in2016 and2019. Does not establish paid-leave status or complete interruption boundaries.",
+      "retrieved": "2026-10-02",
       "source_id": "src-futureye-interview"
     },
     {
@@ -622,6 +645,26 @@
       "note": "Names Alison Penfold as acting Head of Government Relations. Direct retrieval failed; no appointment interval is inferred from this observation.",
       "retrieved": "2026-10-01",
       "source_id": "src-woolworths-hearing"
+    },
+    {
+      "url": "https://au.linkedin.com/in/alison-penfold",
+      "publisher": "Alison Penfold / LinkedIn",
+      "title": "Public professional profile",
+      "source_type": "professional_profile",
+      "locator": "Publicly indexed experience, education and volunteer entries",
+      "note": "Month-level self-reported evidence; previous direct999 restriction not retried. No complete profile access claimed.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-linkedin-oct2"
+    },
+    {
+      "url": "https://womensagenda.com.au/latest/we-must-get-more-women-in-agriculture-by-2030-niki-ford-ceo-of-australian-organic/",
+      "publisher": "Niki Ford / Women’s Agenda",
+      "title": "We must get more women in agriculture by2030",
+      "source_type": "professional_profile",
+      "locator": "10September2020 first-person account, paragraph naming NFF mentor",
+      "note": "Participant identifies Penfold as her program mentor; corroborates the public professional volunteer entry.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-mentor-oct2"
     }
   ],
   "research_notes": [
@@ -633,6 +676,7 @@
     "No public or private full-time duration is inferred from senior titles, a narrative 30-plus-year career, undated private roles or business directorship. Missing evidence is not zero.",
     "2026-10-01 follow-up identifies Futureye, temporary NFF communications work, NCCP communications-chair governance and two party offices. Corroborates chief-of-staff titles, adds Vaile 2004–2006 profile years and Woolworths acting title. Removes preselection day as an employment endpoint and unsupported unpaid label for family assistance.",
     "Searched member/first-person and conference biographies, parliamentary witness/party records, FRDC historical project report, NFF institutional releases and public professional profile. Direct LinkedIn returned 999; APH direct pages were restricted/unavailable while indexed text was accessible. Detailed month-level career reconstruction on a contact-data aggregator was not used as verified evidence; seek original dated CV/appointments.",
-    "Remaining leads: Futureye corporate/payroll history and exact tenure; NFF temporary contract and earlier/later communications records; NCCP chair contract; Woolworths appointment/acting interval; Reith/Truss/Mills/Hogan/Gillespie title transitions, campaign leave and career/travel breaks. No hours inferred from job advertisements for Penfold’s own later staff."
+    "Remaining leads: Futureye corporate/payroll history and exact tenure; NFF temporary contract and earlier/later communications records; NCCP chair contract; Woolworths appointment/acting interval; Reith/Truss/Mills/Hogan/Gillespie title transitions, campaign leave and career/travel breaks. No hours inferred from job advertisements for Penfold’s own later staff.",
+    "Second follow-up2October2026 supplies month-level Woolworths and NFF contract boundaries, ANU study years and a separately excluded volunteer mentoring role. Public profile places a personal Camino pilgrimage inAugust–September2016. First-person Aurora interview describes walking after leaving a job in2016 and again in2019; retain these breaks rather than assume continuous work across transitions. A Littleproud-office indexed fragment givesMarch–May2018 without a clearly associated title; do not apply it to the entire chief-of-staff tenure, which contemporary August2018 reporting also observes. Exact title progression, later consultancy boundaries, ordinary hours and leave remain unresolved. Burgmann alumni1990–1992 residence is not degree completion. Search snippets and broad career narratives are not evidence of continuous full-time work."
   ]
 }
