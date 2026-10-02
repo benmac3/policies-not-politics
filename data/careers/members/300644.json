@@ -6,7 +6,7 @@
   "snapshot_party": "Liberal Party of Australia",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/300644",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-01",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -157,7 +157,7 @@
       "role": "National practice leader, Indigenous business development",
       "start_date": "2009",
       "end_date": null,
-      "date_precision": "year",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "private_enterprise",
@@ -184,9 +184,11 @@
       "government_control_at_time": "private",
       "counting_status": "insufficient_evidence",
       "source_ids": [
-        "src-5"
+        "src-5",
+        "src-19",
+        "src-22"
       ],
-      "evidence_note": "Primary2011report confirms position, with later2015report and2016NITV coverage as follow-up. Exact appointment/endpoints not established;2011appointment commonly reported but report itself is only observation. Listed company, not government controlled.",
+      "evidence_note": "Primary2011report confirms position, with later2015report and2016NITV coverage as follow-up. Exact appointment/endpoints not established;2011appointment commonly reported but report itself is only observation. Listed company, not government controlled. AHL2014–15biography confirms Santos role still current. Primary cultural-heritage standard records her contribution1July2012 and review20August2013; observations do not prove continuity, endpoints or hours.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "300644-09"
     },
@@ -253,10 +255,10 @@
     },
     {
       "employer": "Indigenous Business Australia",
-      "role": "Director",
+      "role": "Non-executive director",
       "start_date": null,
-      "end_date": null,
-      "date_precision": "unknown",
+      "end_date": "2019-08",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "public_corporation",
@@ -265,9 +267,10 @@
       "counting_status": "excluded",
       "source_ids": [
         "src-10",
-        "src-18"
+        "src-18",
+        "src-21"
       ],
-      "evidence_note": "Primary annual reports establish governance and concurrent Voyages executive relationship. Full appointment sequence and director fees require table verification; board role excluded from employment headline.",
+      "evidence_note": "Primary annual reports establish governance and concurrent Voyages executive relationship. Full appointment sequence and director fees require table verification; board role excluded from employment headline. IBA2019–20report explicitly records August2019term completion; appointment start remains unresolved.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "300644-13"
     },
@@ -314,7 +317,7 @@
       "role": "Council member",
       "start_date": null,
       "end_date": "2018-04-22",
-      "date_precision": "day",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "university",
@@ -350,20 +353,22 @@
     },
     {
       "employer": "Aboriginal Hostels Limited",
-      "role": "Director",
-      "start_date": null,
+      "role": "Non-executive director; Finance Committee chair; acting chair from1July2015",
+      "start_date": "2010-11-20",
       "end_date": null,
-      "date_precision": "unknown",
-      "employment_status": "unknown",
+      "date_precision": "mixed",
+      "employment_status": "part_time",
       "fte_fraction": null,
       "category": "public_corporation",
       "headline_sector": "excluded",
       "government_control_at_time": "public",
       "counting_status": "excluded",
       "source_ids": [
-        "src-10"
+        "src-10",
+        "src-19",
+        "src-20"
       ],
-      "evidence_note": "Official biography and parliamentary estimates search identify Commonwealth-body director; appointment and fee evidence need original historical reports. Not assumed unpaid.",
+      "evidence_note": "Official biography and parliamentary estimates search identify Commonwealth-body director; appointment and fee evidence need original historical reports. Not assumed unpaid. Government answer establishes initial20November2010appointment and part-time status as atOctober2012. Later annual report corroborates start and acting chair from1July2015; scheduled19November2016term expiry is not proven actual cessation. Personal director fees remain unallocated.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "300644-18"
     },
@@ -430,7 +435,7 @@
       "role": "Senator for South Australia",
       "start_date": "2022-07-01",
       "end_date": null,
-      "date_precision": "day",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -443,6 +448,25 @@
       "evidence_note": "Frozen first-service date retained; election and Septemberfirst speech are not substituted. Open endpoint within frozen scope.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "300644-22"
+    },
+    {
+      "employer": "South Australian Affordable Housing Trust",
+      "role": "Non-executive director",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-19"
+      ],
+      "evidence_note": "AHL biography separately names this body alongside SA Housing Trust. Relationship/succession between bodies, dates, control and fees unresolved. Governance only; no additive employment years.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "300644-23"
     }
   ],
   "sources": [
@@ -625,6 +649,46 @@
       "note": "Indexed text identifies IBA director as Voyages executive general manager. Overlapping governance and executive work, no double counting.",
       "retrieved": "2026-10-01",
       "source_id": "src-18"
+    },
+    {
+      "url": "https://acncpubfilesprodstorage.blob.core.windows.net/public/cde51824-39af-e811-a963-000d3ad244fd-876cc64e-49ad-46fb-8040-6a1806eb4191-Financial%20Report-cd1b3d08-48b0-e811-a961-000d3ad24182-AHL_AR_2014-15_-_PART_4_-_15.10.15.pdf",
+      "publisher": "Aboriginal Hostels Limited / ACNC",
+      "title": "Annual report2014–15 financial report",
+      "source_type": "government_record",
+      "locator": "Printedpp67,71,108; PDFpp6,10,47",
+      "note": "Individual director biography and aggregate remuneration tables. Aggregate fees/bands cannot identify her personal remuneration.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-19"
+    },
+    {
+      "url": "https://www.aph.gov.au/~/media/Estimates/Live/clac_ctte/estimates/sup_1314/FaHCSIA/Answers/286.ashx",
+      "publisher": "Australian Government / Senate estimates",
+      "title": "Board appointments answer286",
+      "source_type": "government_record",
+      "locator": "As at19October2012; opening statement and Aboriginal Hostels row",
+      "note": "Indexed answer explicitly describes all listed appointments as part-time; direct open restricted. Scheduled term end is not actual cessation.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-20"
+    },
+    {
+      "url": "https://www.iba.gov.au/wp-content/uploads/IBA-AR-2019-20_web.pdf",
+      "publisher": "Indigenous Business Australia",
+      "title": "Annual report2019–20",
+      "source_type": "government_record",
+      "locator": "Indexed printedp48, IBA Board — Members",
+      "note": "Explicitly records Liddle finishing termAugust2019 and all directors non-executive; PDF direct403, no access workaround.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-21"
+    },
+    {
+      "url": "https://eisdocs.dsdip.qld.gov.au/Santos%20GLNG%20Gas%20Field%20Development/EIS/Appendices/appendix-t-cultural-heritage.pdf",
+      "publisher": "Santos / Queensland Government EIS archive",
+      "title": "GLNG EIS appendixT — Cultural heritage",
+      "source_type": "employer",
+      "locator": "PDFpp88–89, EHS11document status/amendment record",
+      "note": "Names Liddle as manager and2012/2013document contributor; dates are work observations, not employment endpoints.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-22"
     }
   ],
   "research_notes": [
@@ -635,6 +699,8 @@
     "Public professional profile https://au.linkedin.com/in/kerrynne-liddle-9935bb1a7 returned999Unknown Status Code. No authenticated profile evidence used. Exact hours searches mainly found advertisements for her own staff, which are not evidence of her employment fraction.",
     "Education BA/management, MBA and AICD/fellowship credentials are not employment. First speech confirms study while working but does not resolve hours or leave. Do not infer a1987career start from rounded23years in2010.",
     "Follow up ABC/Seven/Imparja/CAAMA personnel histories, station employer for jillaroo work, business entities and operating periods, SKM/Santos transitions, Voyages contract/full-time status, Ruston staff appointment, and complete board terms/pay. Radio and writing may overlap consultancy; avoid duplicate totals.2019–22career coverage incomplete.",
-    "Senate interests search located Liddle Sapio Trust, but asset/trust declarations are not evidence of employment or active management. Other health/arts/tertiary roles and multiple businesses referenced generally in first speech remain unidentified; no completeness claim."
+    "Senate interests search located Liddle Sapio Trust, but asset/trust declarations are not evidence of employment or active management. Other health/arts/tertiary roles and multiple businesses referenced generally in first speech remain unidentified; no completeness claim.",
+    "Follow-up2026-10-02: historical AHL report and estimates answer establish board initial appointment, part-time classification and acting-chair assignment; IBA report resolves August2019departure. AHL biography adds SA Affordable Housing Trust directorship and identifies inaugural Aboriginal Foundation SA membership, whose duties/dates/pay remain a lead.",
+    "Santos primary EIS documents substantiate2012/2013work observations. SKM/Santos exact transition, ABC/commercial media dates and hours, consultancy periods, Voyages employment fraction and Ruston contract remain unresolved. IBA start-date search yielded unrelated neighbouring board appointments, which were not borrowed. No term-expiry date or aggregate director remuneration used as personal fact."
   ]
 }
