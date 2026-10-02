@@ -6,7 +6,7 @@
   "snapshot_party": "The Nationals",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/218019",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-01",
+  "last_reviewed": "2026-10-02",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -245,6 +245,45 @@
       "evidence_note": "Company annual report 2007–2008 identifies Hogan and records one attended/one eligible meeting. Later trade report places IAB formation in mid-2008. Individual appointment and resignation dates remain unknown; report coverage is not copied into an employment interval.",
       "counting_note": "Investor advisory/governance role excluded; not additional paid Trinity employment or duplicated CSRF duration.",
       "spell_id": "218019-trinity-iab"
+    },
+    {
+      "employer": "Lismore City Council — Clunes Wastewater Committee",
+      "role": "Community committee member",
+      "start_date": "2004-12-14",
+      "end_date": null,
+      "date_precision": "mixed",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "public_service",
+      "headline_sector": "excluded",
+      "government_control_at_time": "public",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-lismore2004-oct2",
+        "src-nationals-community-oct2"
+      ],
+      "evidence_note": "Council minutes resolution246/04 appoint Kevin Hogan among community representatives. Identity supported by matching local wastewater advisory service in his party biography. Cessation, meeting schedule and remuneration unknown; committee membership is governance, not a council employee appointment.",
+      "counting_note": "Community advisory/governance service excluded from employment headline; no salaried full-time work inferred.",
+      "spell_id": "218019-clunes-wastewater"
+    },
+    {
+      "employer": "Local state primary-school Parents and Citizens association and local sports club (names unresolved)",
+      "role": "P&C vice-president; sports-club president and junior-team coach",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "nonprofit",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-nationals-community-oct2"
+      ],
+      "evidence_note": "Primary party biography lists these community roles. Names, separate terms, remuneration and hours not stated; no full-time paid status inferred. Multiple undated activities retained together pending organisation/term identification.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "218019-community-organisations"
     }
   ],
   "sources": [
@@ -337,6 +376,26 @@
       "note": "Retrospective report says IAB formed in mid-2008 and included Hogan. This does not establish his continued employment at Catholic Super in October 2009.",
       "retrieved": "2026-10-01",
       "source_id": "src-trinity-news-2009"
+    },
+    {
+      "url": "https://www.lismore.nsw.gov.au/files/assets/public/5.-council/4.-council-amp-committee-meetings/business-papers-archive/2005-02-08_ordinary_bp.pdf",
+      "publisher": "Lismore City Council",
+      "title": "8February2005 business papers, containing14December2004 minutes",
+      "source_type": "government_record",
+      "locator": "Minutes printed pp7–8, Clunes Wastewater Committee, resolution246/04",
+      "note": "Public indexed council minutes name Kevin Hogan among appointed community committee members on14December2004; matches party biography describing local wastewater advisory service. Page initially opened; subsequent reader returned403, so only retrieved/indexed passage used; no bypass attempted.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-lismore2004-oct2"
+    },
+    {
+      "url": "https://www.nationals.org.au/team/kevin-hogan",
+      "publisher": "The Nationals",
+      "title": "Kevin Hogan biography, community roles",
+      "source_type": "professional_profile",
+      "locator": "Final community-service paragraph",
+      "note": "Primary party biography identifies wastewater committee, local primary-school P&C vice-presidency, sports-club presidency and junior coaching, without payment/hours or term dates.",
+      "retrieved": "2026-10-02",
+      "source_id": "src-nationals-community-oct2"
     }
   ],
   "research_notes": [
@@ -347,7 +406,9 @@
     "Follow-up 2026-10-01: direct contemporary CEO account resolves four-day CSRF work and departure before 16 September 2008. No back-calculated departure day or automatic 0.8 FTE. Political-blog claims of a September resignation are not substituted for the contemporary report stating departure a few weeks earlier.",
     "ASX-hosted Trinity report supplies primary non-executive advisory membership and meeting attendance. Separated both CSRF board service and Trinity IAB from paid investment work; no adverse-performance claims imported from partisan commentary.",
     "RBA primary ownership evidence corrects the combined State Bank/Colonial spell from private to unresolved sector allocation. Retain original employer variants; do not assign GIO, Colonial First State and Colonial State Bank identical periods. GIO remains an early-employer lead needing appointment dates and control at the actual time.",
-    "Attempted targeted annual-report, investment-industry, school/university and early-employer searches. Exact teacher/Deputy Principal hours and dates, earliest finance sequence, consultancy entity and farming labour remain unresolved. Next use historic CSRF trustee reports, school staff records and employer-specific appointments."
+    "Attempted targeted annual-report, investment-industry, school/university and early-employer searches. Exact teacher/Deputy Principal hours and dates, earliest finance sequence, consultancy entity and farming labour remain unresolved. Next use historic CSRF trustee reports, school staff records and employer-specific appointments.",
+    "Second follow-up2October2026 adds omitted local wastewater governance and school/sport community roles. Council minutes anchor Clunes appointment to14December2004, rather than the8February2005 date of the containing business papers. Roles are excluded from paid-employment totals.",
+    "Targeted CSRF appointment, school leadership and consultancy/legal-entity searches did not resolve personal hours or finance employer transitions.2026 industry profiles repeat employer variants without dates; reader comments are not used as evidence. US management consultant Kevin Hogan and UK delivery director are namesakes, not this member. New priority: Clunes committee cessation minutes and named school/sport records, alongside still-open CSRF terms, finance transitions and consultancy entity."
   ],
   "open_questions": [
     "Which finance legal entities employed Hogan from 1989 to 1998, on what exact dates and under what government control at each transition?",
@@ -359,6 +420,7 @@
     "Were the 2010 and 2013 federal candidacies remunerated or accompanied by other paid work?",
     "How were the State Bank years divided around the 31 December 1994 privatisation, and did employer changes differ from the corporate transaction?",
     "What was the exact CSRF cessation day before 16 September 2008, and did the four-day arrangement cover the entire 2006–2008 appointment?",
-    "What were the CSRF board and Trinity IAB appointment/cessation dates and fees?"
+    "What were the CSRF board and Trinity IAB appointment/cessation dates and fees?",
+    "When did Clunes Wastewater Committee service cease; which school P&C and sports club, on what dates and with what remuneration or volunteer basis?"
   ]
 }
