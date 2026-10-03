@@ -6,12 +6,12 @@
   "snapshot_party": "Independent",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/300006",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-02",
+  "last_reviewed": "2026-10-03",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
     "calculation_status": "not_calculable",
-    "note": "Added named MBA and four governance roles, official Trust commencement and conflicting cessation evidence, employer account of Anglicare departure and further first-person part-time history. Employer-specific hours and leave remain unresolved; no full-time years calculated."
+    "note": "Added named MBA and four governance roles, official Trust commencement and conflicting cessation evidence, employer account of Anglicare departure and further first-person part-time history. Westralia Airports Corporation is now confirmed as the privately owned airport operator in 2007, and Chaney's business-development remit is documented. Employer-specific hours and leave remain unresolved; no full-time years calculated."
   },
   "career_spells": [
     {
@@ -67,9 +67,12 @@
       "government_control_at_time": "private",
       "counting_status": "insufficient_evidence",
       "source_ids": [
-        "src-1"
+        "src-1",
+        "src-7",
+        "src-14",
+        "src-15"
       ],
-      "evidence_note": "Official year labels retained without invented month/day boundaries. Hours and career-break allocation unresolved; first-person account confirms substantial part-time work across the wider career.",
+      "evidence_note": "The official year label is retained without invented month/day boundaries. Chaney's public professional profile says she managed retail, ground-transport and aviation business-development activities for Perth Airport. The company's 2007–08 annual report calls Westralia Airports Corporation the private airport operator, and a 2005 parliamentary hearing identifies its private institutional shareholders. This resolves employer control at the time, but hours, leave and career-break allocation remain unknown.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "300006-03"
     },
@@ -469,6 +472,26 @@
       "note": "Chaney describes 17 years part-time before Parliament. Earlier 2025 Hansard says 16; neither maps employer-specific dates, so discrepancy retained without back-calculation.",
       "retrieved": "2026-10-02",
       "source_id": "src-13"
+    },
+    {
+      "url": "https://www.yumpu.com/en/document/view/38432910/perth-airport-annual-report-2007-08-340-mb/31",
+      "publisher": "Westralia Airports Corporation",
+      "title": "Perth Airport Annual Report 2007–08",
+      "source_type": "employer_record",
+      "locator": "About Westralia Airports Corporation; ownership",
+      "note": "Contemporaneous employer report describes WAC as the private operator of Perth Airport under a Commonwealth lease and gives the private holding-company structure. Used for control classification, not Chaney's hours or dates.",
+      "retrieved": "2026-10-03",
+      "source_id": "src-14"
+    },
+    {
+      "url": "https://www.aph.gov.au/binaries/hansard/joint/commttee/j8753.pdf",
+      "publisher": "Parliament of Australia",
+      "title": "Joint Committee of Public Accounts and Audit hearing, 22 September 2005",
+      "source_type": "government_record",
+      "locator": "Page PA 9, Westralia Airports Corporation ownership evidence",
+      "note": "Contemporary official hearing records WAC's institutional and commercial shareholders, corroborating private control near Chaney's 2007 role.",
+      "retrieved": "2026-10-03",
+      "source_id": "src-15"
     }
   ],
   "research_notes": [
@@ -478,6 +501,7 @@
     "Perth Airport is treated as private operating-company employment provisionally; obtain contemporaneous operator/control evidence before any counted interval. No public employment is established, which does not prove zero.",
     "Follow-up 2026-10-02: AGSM MBA 2002–2003 resolves provider gap; UWA lists LLB 1998. Added four board roles with profile dates and official corroboration; Trust official commencement differs from profile, and official retirement by June 2018 conflicts with profile July 2018.",
     "Anglicare annual report says farewell after May 2022 election; RAP February working-group endpoint is not job cessation. No Fibs first-person 17-year part-time account differs from Hansard 16 years; neither permits exact employer allocation or FTE.",
-    "Searches for employer-specific part-time status and historical airport records did not settle hours/control. State Recovery Advisory Group search result appears adjacent to another member in multi-person article; not attributed without primary evidence. Next leads: dated Wesfarmers/Anglicare contracts and leave, airport ownership reports, precise Trust resignation, Redfern remuneration and consultancy clients."
+    "Searches for employer-specific part-time status and historical airport records did not settle hours/control. State Recovery Advisory Group search result appears adjacent to another member in multi-person article; not attributed without primary evidence. Next leads: dated Wesfarmers/Anglicare contracts and leave, airport ownership reports, precise Trust resignation, Redfern remuneration and consultancy clients.",
+    "Follow-up 2026-10-03: public professional-profile text documents the WAC role's retail, ground-transport and aviation business-development remit. The contemporaneous 2007–08 employer report and 2005 parliamentary ownership evidence establish that WAC was a privately owned operator under Commonwealth lease, resolving the provisional control classification. Exact appointment/cessation, hours, leave and reported part-time allocation remain unresolved."
   ]
 }
