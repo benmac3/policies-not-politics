@@ -6,12 +6,12 @@
   "snapshot_party": "Liberal Party of Australia",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/291406",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-02",
+  "last_reviewed": "2026-10-03",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
     "calculation_status": "not_calculable",
-    "note": "Unknown substantive full-time status and leave across maritime roles, overlapping business ownership, and undated inter-parliamentary employment prevent defensible totals; null is not zero."
+    "note": "Primary records now separate 2005–2015 sea-rescue service, St John volunteering from 2009 and 2015–2017 nonprofit office from paid employment. Unknown full-time status and leave across maritime roles and business ownership still prevent defensible totals; null is not zero."
   },
   "career_spells": [
     {
@@ -256,11 +256,11 @@
       "spell_id": "291406-12"
     },
     {
-      "employer": "Bunbury Sea Rescue and St John Ambulance",
-      "role": "Volunteer skipper and ambulance volunteer",
-      "start_date": null,
-      "end_date": null,
-      "date_precision": "unknown",
+      "employer": "Bunbury Sea Search and Rescue Group",
+      "role": "Volunteer skipper, trainee officer and committee member",
+      "start_date": "2005",
+      "end_date": "2015",
+      "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "unpaid_work",
@@ -268,9 +268,11 @@
       "government_control_at_time": "private",
       "counting_status": "excluded",
       "source_ids": [
-        "src-4"
+        "src-4",
+        "src-9",
+        "src-14"
       ],
-      "evidence_note": "Own biography describes approximately ten years volunteering; no precise interval inferred.",
+      "evidence_note": "WA Parliament's 25 November 2020 nomination record gives the 2005–2015 range and roles. A 22 August 2005 WA Government award release independently identifies seventeen-year-old Small as a committed Bunbury Sea Search and Rescue volunteer attending duties and training twice weekly. Volunteer service is not paid maritime employment.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "291406-13"
     },
@@ -388,6 +390,45 @@
       "evidence_note": "Pique company biography expressly identifies two co-founded hospitality businesses, including the tavern already recorded separately. Second business identity, active versus passive work, timing and hours unresolved; no additive duration.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "291406-19"
+    },
+    {
+      "employer": "St John Ambulance Australia, Australind and East Bunbury",
+      "role": "Volunteer ambulance driver/officer and volunteer development officer",
+      "start_date": "2009",
+      "end_date": null,
+      "date_precision": "mixed",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unpaid_work",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-4",
+        "src-9"
+      ],
+      "evidence_note": "WA Parliament's 25 November 2020 nomination record establishes volunteering from 2009 and identifies ambulance-driver and development-officer roles plus a Timor-Leste mission. Own current biography describes ten years as a volunteer ambulance officer, but no exact cessation date is inferred from that rounded duration.",
+      "counting_note": "Unpaid work is excluded from public/private full-time employment headlines.",
+      "spell_id": "291406-20"
+    },
+    {
+      "employer": "South West Young Professionals",
+      "role": "Inaugural secretary",
+      "start_date": "2015",
+      "end_date": "2017",
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "nonprofit",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-9"
+      ],
+      "evidence_note": "WA Parliament's 25 November 2020 nomination record identifies the organisation as not-for-profit and gives the 2015–2017 inaugural-secretary term. It does not state remuneration, hours or an employment relationship.",
+      "counting_note": "Nonprofit organisational office is excluded from public/private full-time employment headlines; no salaried employment is inferred.",
+      "spell_id": "291406-21"
     }
   ],
   "sources": [
@@ -520,6 +561,16 @@
       "note": "Says proposed board replacements were not approved. Conflicts with another syndicated summary claiming approval; no Clime employment/directorship asserted without original poll result.",
       "retrieved": "2026-10-02",
       "source_id": "src-13"
+    },
+    {
+      "url": "https://www.wa.gov.au/government/media-statements/Gallop%20Labor%20Government/Top-sea-rescue-volunteers-named-in-first-State-wide-awards-20050822",
+      "publisher": "Government of Western Australia",
+      "title": "Top sea rescue volunteers named in first State-wide awards",
+      "source_type": "government_record",
+      "locator": "22 August 2005; FESA Volunteer Marine Rescue Services Youth Achievement Award",
+      "note": "Identifies Small as a committed Bunbury Sea Search and Rescue volunteer in 2005, attending duties and training each Wednesday and Sunday and serving as a trainer.",
+      "retrieved": "2026-10-03",
+      "source_id": "src-14"
     }
   ],
   "research_notes": [
@@ -530,6 +581,7 @@
     "Follow-up 2026-10-02: original Pique capability statement independently confirms director role, identifies two hospitality ventures and retained interests; live website supplies the Australian legal entity. Current team page and undated brochure differ, so no cessation date inferred.",
     "Clime appointment lead unresolved: December 2023 original notice only proposes election; February 2024 syndicated summaries contradict each other on the vote. Listcorp original results link returned 403; indexed voting-results summary says rejected. Do not add a Clime employment/directorship spell from the erroneous-looking approved summary; seek original 2 February 2024 poll table if revisiting.",
     "Source attempts: Leeuwin 2023 financial report returned 404; Pique Capital website inaccessible. Capability PDF search retrieval exceeded size limit (400; 15259658 bytes), recovered through ordinary public download and text extraction; first download script lacked requests, recovered with standard-library urllib. US Pique Partners marketing company is a namesake, excluded. SignalHire even associates Australian profile with that US domain; its detailed month dates remain unverified discovery leads.",
-    "Remaining follow-up: maritime contracts, cadet training versus service/leave, Farstad legal employer/restructure, Pique/JESCO appointment and exit, second hospitality business identity and own workload; Leeuwin governance dates. Generic current BP cadet programme conditions cannot establish Small’s 2006 terms."
+    "Remaining follow-up: maritime contracts, cadet training versus service/leave, Farstad legal employer/restructure, Pique/JESCO appointment and exit, second hospitality business identity and own workload; Leeuwin governance dates. Generic current BP cadet programme conditions cannot establish Small’s 2006 terms.",
+    "Follow-up 2026-10-03: WA Parliament's 2020 nomination record supplies the exact 2005–2015 Bunbury Sea Rescue range, St John volunteering from 2009 and a 2015–2017 South West Young Professionals secretary term. A 2005 WA Government award release independently confirms frequent sea-rescue duties and training. These volunteer/nonprofit activities are separated into distinct excluded spells; rounded St John duration is not converted into an invented end date."
   ]
 }
