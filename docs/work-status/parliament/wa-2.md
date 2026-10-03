@@ -106,4 +106,8 @@
 - Zaneta Mascarenhas: materially enriched — WRAS reporting bounds board and secretary service to the 2019 AGM, while a registered-organisation return adds her separate 2012 WA branch treasurer office. Engineering hours/month dates, leave and remaining governance terms remain unresolved.
 - Matt O'Sullivan: nonmaterial follow-up — targeted Terravision, church-employer and consultancy-entity searches produced no attributable new employment evidence; unrelated same-name ABNs were documented and rejected. Existing gaps remain unresolved.
 - Durable next cursor: Fatima Payman (300707).
-- OUTCOME: ongoing. STOPPING REASON: none; continue after remote verification. Successor not requested while research remains active. Scheduler terminal status unavailable.
+- Attempt ended: 2026-10-03T17:09:28+10:00. Observable elapsed time: 13m51s.
+- OUTCOME: Returned normally — no blocking error observed. Error code/message: none. Scheduler terminal status unavailable.
+- STOPPING REASON: Voluntary stop; no observed blocking limit — this execution is concluding to publish its mandatory individual result after a remotely verified checkpoint and request the single authorized immediate successor. Fatima Payman was not processed in this execution.
+- Recovered, non-terminal tool/source errors: an earlier GitHub tree request returned HTTP 422, `Must supply either tree.sha or tree.content. Request will be rejected if both are present.` after a blob-result parsing error; the request was corrected and all subsequent commits were remotely verified. Search access also returned `Blocked by robots.txt` for direct aph.gov.au retrieval and HTTP 402 for one secondary aged-care page; indexed official text and alternative primary sources remained available.
+- Successor status at closure checkpoint: not yet requested; request follows remote verification. Acceptance, if returned, will be recorded separately and will not establish completed execution.
