@@ -17,7 +17,7 @@ State: in-progress
 
 - 299150 LAWRENCE, Tania: blocked; last review 2026-10-01. Follow-up: Graduate/DPC start and title transitions; Woodside hours/2018 leave;2019–20 gap; Beelu full-time claim and active-work versus director cessation beforeAug2024; motorcycling annual reports.
 
-- 102376 KING, the Hon. Madeleine Mary Harvie: blocked; last review 2026-10-01. Follow-up: Identify private law firms and English interval; UWA appointment/control and leave records; resolve2012–13 Centre overlap and2016 cessation; hours across career; volunteer board end dates.
+- 102376 KING, the Hon. Madeleine Mary Harvie: blocked; last review 2026-10-03. Follow-up: Identify private law firms and English interval; a first-person 2024 speech now distinguishes private M&A/property work from UWA in-house research contracting with Commonwealth/research organisations. Obtain UWA appointment/control and leave records; resolve 2012–13 Centre overlap and 2016 cessation, career hours and volunteer-board end dates.
 
 - 249147 KEOGH, the Hon. Matthew (Matt) James: blocked; last review 2026-10-03. Follow-up: Resolve CDPP/DPC appointment basis, exact promotion boundaries and hours; a published delegate biography now establishes progression to Principal Federal Prosecutor and corporate-crime remit. Continue iiNet/family-firm work-study overlap, HSF full-time interval, 2015/16 campaign leave and earlier charitable-governance searches. Do not attribute WA staff records for an older same-name former Builders Labourers Federation member.
 
@@ -146,9 +146,10 @@ Detailed attempted avenues, discrepancies and remaining leads are preserved in e
 
 - Attempt started: 2026-10-03T16:55:37+10:00. Starting WA-1 head: f0f1a780c52c4aa4a047180d4396f71ce2381aa7. The predecessor's accepted successor is now demonstrably executing as this continuation; independent scheduler terminal status remains unavailable.
 - Starting national coverage: 226/226 initial, 226 unresolved, 0 research-complete. No changed WA-1 head or active conflicting writer observed. Batch assignment and repository validation pass.
-- Current continuation progress: 3 distinct members processed, 0 new initial, 3 materially enriched existing, 0 newly research-complete. Cycle cumulative: 26 distinct processed, 0 new, 16 materially enriched, 0 complete. Brisbane-day cumulative: 0 new, 104 materially enriched, 0 complete. Counts include only remotely verified member commits; checkpoint-only commits are excluded.
+- Current continuation progress: 4 distinct members processed, 0 new initial, 4 materially enriched existing, 0 newly research-complete. Cycle cumulative: 27 distinct processed, 0 new, 17 materially enriched, 0 complete. Brisbane-day cumulative: 0 new, 105 materially enriched, 0 complete. Counts include only remotely verified member commits; checkpoint-only commits are excluded.
 - Patrick Gorman: materially enriched — three primary government records now establish dated adviser/senior-adviser title points in December 2010, March 2011 and December 2011. Appointment boundaries, hours, leave, later principal-adviser timing and other recorded gaps remain unresolved.
 - Andrew Hastie: materially enriched — Defence-hosted first-person evidence establishes three years at ADFA plus one at Duntroon; statutory review evidence establishes salaried ADF cadet training, and a public professional profile dates Duntroon January–December 2006. Exact 2003 entry, leave, commissioning and final payroll remain unresolved, so no headline years were calculated.
 - Matt Keogh: materially enriched — a published Australia–India Youth Dialogue biography establishes progression to Principal Federal Prosecutor and a corporate-crime remit. Appointment/promotion months, hours and leave remain unresolved; aggregator months and older same-name WA staff records were not adopted.
-- Durable next cursor: Madeleine King (102376).
+- Madeleine King: materially enriched — a 2024 first-person ministerial speech distinguishes private M&A/property work from UWA research-contract employment and identifies Commonwealth/research-organisation contracting duties. Firm names, hours, exact boundaries and university control remain unresolved.
+- Durable next cursor: Tania Lawrence (299150).
 - OUTCOME: ongoing. STOPPING REASON: none; continue after remote verification. Successor not requested while research remains active.

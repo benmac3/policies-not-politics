@@ -6,17 +6,17 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/102376",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-02",
+  "last_reviewed": "2026-10-03",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
     "calculation_status": "not_calculable",
-    "note": "Added five volunteer governance/advisory roles with self-reported month-level dates and government corroboration of local roles. Private legal employers, hours, university control and UWA/USAsia overlap remain unresolved; totals unknown."
+    "note": "Added five volunteer governance/advisory roles with self-reported month-level dates and government corroboration of local roles. A 2024 first-person ministerial speech now distinguishes private mergers-and-acquisitions/property work from UWA research-contract employment and explains the latter's Commonwealth/research-organisation remit. Private employer names, hours, university control and UWA/USAsia overlap remain unresolved; totals unknown."
   },
   "career_spells": [
     {
       "employer": "Private legal practices — names unresolved",
-      "role": "Commercial solicitor",
+      "role": "Commercial solicitor — mergers and acquisitions and property work",
       "start_date": "1997",
       "end_date": "2005",
       "date_precision": "year",
@@ -29,9 +29,10 @@
       "source_ids": [
         "src-1",
         "src-2",
-        "src-9"
+        "src-9",
+        "src-10"
       ],
-      "evidence_note": "Official span; Australian and English employer identities and separate intervals unresolved. Admission1998 is a credential, not another employment spell.",
+      "evidence_note": "Official span; King's first-person 2024 speech identifies mergers-and-acquisitions and property work before UWA. Australian and English employer identities, separate intervals and hours remain unresolved. Admission 1998 is a credential, not another employment spell.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "102376-01"
     },
@@ -50,9 +51,10 @@
       "source_ids": [
         "src-1",
         "src-2",
-        "src-7"
+        "src-7",
+        "src-10"
       ],
-      "evidence_note": "University employment, not assumed private practice; institutional control treatment unresolved.",
+      "evidence_note": "University employment, not assumed private practice. King's first-person 2024 speech says she worked in-house on legal contracts with the Commonwealth and research organisations to establish ARC centres. This establishes substantive duties but not hours, exact boundaries, leave or institutional-control treatment.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "102376-02"
     },
@@ -426,6 +428,16 @@
       "note": "Secondary leads for England law practice and CHOGM advisers; individual employers and precise dates remain unverified.",
       "retrieved": "2026-10-01",
       "source_id": "src-9"
+    },
+    {
+      "url": "https://www.minister.industry.gov.au/king/media/speech-the-university-western-australia-the-opening-the-arc-training-centre-critical-resources-the-future",
+      "publisher": "Australian Government, Minister for Resources",
+      "title": "Speech at the University of Western Australia for the opening of the ARC Training Centre for Critical Resources for the Future",
+      "source_type": "first_person",
+      "locator": "14 November 2024; paragraphs beginning After working as a commercial lawyer",
+      "note": "King distinguishes earlier private mergers-and-acquisitions/property practice from her in-house UWA research-contract work and describes Commonwealth and research-organisation contracting duties.",
+      "retrieved": "2026-10-03",
+      "source_id": "src-10"
     }
   ],
   "research_notes": [
@@ -435,6 +447,7 @@
     "Reconcile public-profile volunteer board dates with SRHWA/Fremantle Press annual reports and actual cessation; present label not accepted as proof of current tenure. Further study/early-work sequence requires primary confirmation.",
     "Follow-up 2026-10-02: reopened minister biography and publicly indexed professional profile; added previously omitted UWA Senate, hockey and sports boards, Rockingham consultation and marina reference memberships. Volunteer roles remain excluded; no full-time assumption.",
     "Searches for private firms under King/Morris, full-time work, Centre resignation and Fremantle Press board cessation produced no attributable employer names or employment hours. Several UK/US lawyers, investment analysts, health academics and journalists are namesakes and are not assigned. ABC 2016/2022 election biography describes ten years of commercial law in Perth/Europe, but does not resolve individual employers or distinguish UWA legal work; no ten-year private total inferred.",
-    "APH first-speech direct open returned (403) Forbidden; not a terminal job error. Existing first-speech evidence retained. Next avenues: archived 2016 campaign CV (nla.arc-158282), original UWA appointment/secondment files and Fremantle Press historical board reports. No cessation inferred from donor lists or a current absence."
+    "APH first-speech direct open returned (403) Forbidden; not a terminal job error. Existing first-speech evidence retained. No cessation inferred from donor lists or a current absence.",
+    "Follow-up 2026-10-03: a first-person ministerial speech distinguishes private M&A/property work from in-house UWA research-contract work and describes contracts with the Commonwealth and research organisations for ARC centres. It does not identify firms, hours or appointment boundaries. Searches for archived campaign material and attributable firm names still yielded namesakes or generic biographies. Next avenues: archived 2016 campaign CV (nla.arc-158282), original UWA appointment/secondment files and Fremantle Press historical board reports."
   ]
 }
