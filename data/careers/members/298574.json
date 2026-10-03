@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/298574",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-02",
+  "last_reviewed": "2026-10-03",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -146,7 +146,7 @@
     {
       "spell_id": "298574-07",
       "employer": "Deloitte Australia",
-      "role": "Director, Global Risk and Global Regulatory and Public Policy",
+      "role": "Director, Global Risk and Global Regulatory and Public Policy / Strategy, Innovation and Public Policy",
       "start_date": "2019-01",
       "end_date": null,
       "date_precision": "mixed",
@@ -162,9 +162,10 @@
         "src-5",
         "src-6",
         "src-11",
-        "src-15"
+        "src-15",
+        "src-21"
       ],
-      "evidence_note": "The official parliamentary biography confirms Deloitte employment. ABC's 2022 and 2025 election guides identify Jarrett's most recent role as a Deloitte Australia director responsible for global risk and regulatory/public policy. A public professional-profile aggregation gives January 2019 as the start, and news profiles report her return to Australia in 2019 after about 15 years overseas. Withdrawn synthetic day-before-election end; actual cessation/campaign leave unknown. First speech supplies full-time status but not payroll boundaries or parental-break dates.",
+      "evidence_note": "The official parliamentary biography confirms Deloitte employment. ABC's 2022 and 2025 election guides identify Jarrett's most recent role as a Deloitte Australia director responsible for global risk and regulatory/public policy. A public professional-profile aggregation gives January 2019 as the start, and news profiles report her return to Australia in 2019 after about 15 years overseas. An August 2023 joint IOE-Deloitte report names her as Director, Strategy, Innovation and Public Policy, Deloitte Global, establishing a later dated employer observation and title evolution but not continuous service, hours or a cessation boundary. Withdrawn synthetic day-before-election end; actual cessation/campaign leave unknown. First speech supplies full-time status but not payroll boundaries or parental-break dates.",
       "counting_note": "Personal first-speech full-time statement supports status, but role boundaries, sector allocation and placement of six-month parental break remain unresolved; no total calculated."
     },
     {
@@ -509,6 +510,16 @@
       "note": "Indexed text says Jarrett filled board vacancy; full fetch400 Content length is too large:17620029. Exact appointment date unresolved.",
       "retrieved": "2026-10-02",
       "source_id": "src-20"
+    },
+    {
+      "url": "https://www.ioe-emp.org/index.php?eID=dumpFile&f=159340&t=f&token=e53e7862953aebfe2e95f03e7cee49c58e9b0c9d",
+      "publisher": "International Organisation of Employers and Deloitte",
+      "title": "A look into SDG 8: G20 monitoring report",
+      "source_type": "employer",
+      "locator": "August 2023; contributors, PDF p40",
+      "note": "Joint employer report identifies Jarrett as Director, Strategy, Innovation and Public Policy, Deloitte Global, providing a dated 2023 Deloitte observation but not an employment boundary or hours.",
+      "retrieved": "2026-10-03",
+      "source_id": "src-21"
     }
   ],
   "research_notes": [
@@ -518,6 +529,7 @@
     "The public professional-profile aggregations provide useful month-level leads but are not treated as proof of full-time status or uninterrupted payroll service. Seek archived Deloitte biographies, annual reports and conference profiles.",
     "Resolve whether any other paid employment occurred between radiography, government advisory work and Deloitte, and distinguish public affairs or crisis-management consulting from internal Deloitte roles.",
     "2026-10-02 follow-up: recovered explicit full-time and six-month leave evidence, MJM Issues Management consultancy and separate departmental-unit role from historical ministerial records; board annual-report corroboration. Profile leads additionally identify Queensland Justice/Corrective Services adviser1989–1990, Queensland Employment/Training/IR adviser/chief of staff1992–1996 and NSW vocational education adviser1996–1998; verify offices and true dates before splitting existing grouped row. Radiography Mater/private practice1984–1989 and Victorian Financial Institutions Commission1991–1992 require primary records. Early Deloitte2000–2004 roles added as provisional; Jan boundaries not asserted. Original global role may begin September2004 (aggregation), to corroborate against employer archive. No calculation until dates, overlaps and six-month leave placement resolved. Annual-report2022–23 full open400 size error was source-only; indexed passage and accessible2023–24 report used. Search namesakes Dr Anderson/SPI Pharma rejected. Do not infer an unbroken25-year total or literal2000 appointment from opposition assertion corrected by minister.",
-    "Validation caught pre-existing governance category outside approved vocabulary; volunteer board row recoded unpaid_work, still excluded. Local AssertionError resolved before commit."
+    "Validation caught pre-existing governance category outside approved vocabulary; volunteer board row recoded unpaid_work, still excluded. Local AssertionError resolved before commit.",
+    "2026-10-03 follow-up: an August 2023 joint IOE-Deloitte report provides the latest primary Deloitte observation found and records a title change to Director, Strategy, Innovation and Public Policy, Deloitte Global. It does not establish uninterrupted service from January 2019, weekly hours, campaign leave or final cessation. Fresh Queensland parliamentary, Mater, historical government-office and Deloitte searches otherwise repeated existing facts or professional-profile aggregations; exact early employers and boundaries remain unresolved."
   ]
 }
