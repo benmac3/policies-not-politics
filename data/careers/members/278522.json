@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/278522",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-02",
+  "last_reviewed": "2026-10-03",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -30,9 +30,10 @@
       "source_ids": [
         "src-2",
         "src-4",
-        "oct2-speech"
+        "oct2-speech",
+        "oct3-member"
       ],
-      "evidence_note": "Neither employer sector nor dates/hours established; attendance at a school is not employment there. First speech22 July2019 explicitly places teacher-aide work during university. Calendar dates, school identity, hours and any overlap with factory summers remain unknown.",
+      "evidence_note": "Neither employer sector nor dates/hours established; attendance at a school is not employment there. First-speech chronology places teacher-aide work around university, while the current member biography groups it after graduation. The discrepancy prevents a calendar boundary. School identity, hours and any overlap with factory summers remain unknown.",
       "counting_note": "Not counted: dates and/or substantive full-time status are insufficiently evidenced; year labels are not exact boundaries."
     },
     {
@@ -51,7 +52,8 @@
       "source_ids": [
         "src-2",
         "src-3",
-        "src-4"
+        "src-4",
+        "oct3-member"
       ],
       "evidence_note": "Summer work described by member; not a continuous year-round interval.",
       "counting_note": "Not counted: dates and/or substantive full-time status are insufficiently evidenced; year labels are not exact boundaries."
@@ -136,6 +138,44 @@
       "evidence_note": "Bund podcast description identifies former SKIF chair; no tenure dates, remuneration or hours. Organisation/community leadership retained separately from paid employment.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "278522-skif"
+    },
+    {
+      "employer": "Unidentified basketball organisation",
+      "role": "Basketball coach",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "unknown",
+      "government_control_at_time": "unknown",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "oct3-member"
+      ],
+      "evidence_note": "Current first-person member biography lists basketball coaching among post-university work. Organisation, remuneration, dates, hours and overlap are not given; long participation as a player is not treated as coaching tenure.",
+      "counting_note": "Dates, substantive full-time status, employer sector and paid status remain insufficiently evidenced; no headline years calculated.",
+      "spell_id": "278522-06"
+    },
+    {
+      "employer": "Unidentified corporate employer or employers",
+      "role": "Corporate-sector work; role unspecified",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "private_enterprise",
+      "headline_sector": "private",
+      "government_control_at_time": "private",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "oct3-member"
+      ],
+      "evidence_note": "Current first-person member biography states that he worked in the corporate sector after university. Employer names, role, dates, number of positions, hours and relationship to other early work are absent; no publishing-company identity is inferred from derivative profiles.",
+      "counting_note": "Dates, substantive full-time status and employer identity remain insufficiently evidenced; no headline years calculated.",
+      "spell_id": "278522-07"
     }
   ],
   "sources": [
@@ -218,6 +258,16 @@
       "note": "Primary organisation identifies Burns as former SKIF forzitser; interview date is not tenure boundary.",
       "retrieved": "2026-10-02",
       "source_id": "oct2-bund"
+    },
+    {
+      "url": "https://www.joshburns.com.au/about",
+      "publisher": "Josh Burns MP",
+      "title": "About Josh",
+      "source_type": "professional_profile",
+      "locator": "First-person career paragraph, line20",
+      "note": "Lists post-university work as teacher's aide, factory hand, basketball coach and in the corporate sector before later Premier adviser work. Supplies no employers, dates or hours and conflicts with the earlier university timing for teacher-aide work.",
+      "retrieved": "2026-10-03",
+      "source_id": "oct3-member"
     }
   ],
   "research_notes": [
@@ -226,6 +276,7 @@
     "Need school and printing employers, calendar intervals and hours. Summer factory employment is not multiplied into whole years. No omitted public/private work is converted to zero.",
     "Follow-up2026-10-02: resolved Danby office and title; captured university overlap of teaching and separate SKIF leadership.2014 campaign departure may be a break rather than permanent cessation; no exact date inferred.",
     "School and printing employer searches, first-speech review and public professional-name searches remain inconclusive. Aluco construction managing director and overseas teaching/IT Josh Burns profiles are different people and rejected. Father’s30-year printing career is not the member’s duration.",
-    "Next evidence needed: school/payroll or public employment profile with dates/hours, printing-company identity and individual summer periods, Danby appointment and leave history. No gated-profile collection or outreach performed."
+    "Next evidence needed: school/payroll or public employment profile with dates/hours, printing-company identity and individual summer periods, Danby appointment and leave history. No gated-profile collection or outreach performed.",
+    "Third follow-up3October2026: current first-person member biography adds previously omitted basketball-coach and corporate-sector work after university. Separate undated spells preserve these claims without guessing employers, remuneration, hours or a publishing-company identity. Its post-graduation grouping conflicts with the prior university placement of teacher-aide work, so neither phrase is converted into a date. Targeted searches still did not resolve the school, printing/corporate employer, coaching organisation or Danby appointment/leave boundary. No headline totals changed."
   ]
 }
