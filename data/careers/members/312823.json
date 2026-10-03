@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/312823",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-02",
+  "last_reviewed": "2026-10-03",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -153,9 +153,10 @@
       "source_ids": [
         "src-7",
         "src-8",
-        "src-9"
+        "src-9",
+        "src-13"
       ],
-      "evidence_note": "Government diary identifies associate partner on 5 April 2023 and EY representation on 28 March 2024. Private professional-services firm; dates are observations rather than employment boundaries. Senior title does not establish full-time work, partnership status or continuity.",
+      "evidence_note": "Contemporary reporting identifies Campbell as already an EY associate partner on 13 June 2022; government diaries independently identify associate-partner status on 5 April 2023 and EY representation on 28 March 2024. Private professional-services firm; the dated references are observations rather than employment boundaries. Senior title does not establish full-time work, partnership status or continuity.",
       "counting_note": "Dates, employer control and/or substantive full-time status remain insufficient for a duration calculation; unknown is not zero."
     },
     {
@@ -318,6 +319,16 @@
       "note": "Primary dated observation places Campbell at AMWU before previously dated 2017 campaign evidence; not an employment start or continuous interval.",
       "retrieved": "2026-10-02",
       "source_id": "src-12"
+    },
+    {
+      "source_id": "src-13",
+      "url": "https://www.pollbludger.net/category/federal-politics-2022-2025/page/46/",
+      "publisher": "The Poll Bludger",
+      "title": "Sticky wicket (open thread), 13 June 2022",
+      "retrieved": "2026-10-03",
+      "source_type": "news",
+      "locator": "13 June 2022 post, news roundup item citing Lydia Lynch of The Australian",
+      "note": "Contemporaneous secondary report identifies Campbell as outgoing Queensland Labor state secretary and then-current EY associate partner. It establishes a dated EY observation, not an exact commencement day, uninterrupted service or hours."
     }
   ],
   "research_notes": [
@@ -326,6 +337,7 @@
     "Targeted professional-profile searches produced US Army, Queensland Health, Jamaica KPMG and NSW car-wash namesakes without identity linkage; none adopted. No full-time contracts or complete dates found. A 2022 EY appointment is a secondary press lead requiring employer/date verification; do not backdate from later diary observations.",
     "Student office, AMWU work and party employment are excluded regardless of payment or hours. Government policy role remains unclassified pending its employing basis. EY associate-partner status does not prove full-time or self-employment; unknown is not zero. Two dated meetings are not a continuous employment interval.",
     "Source access: April 2023 PDF web-reader failed; direct public PDF retrieval and pdftotext succeeded. Initial Python requests import was unavailable; standard-library retrieval worked. No access controls bypassed. All research remains blocked pending the recorded evidence gaps.",
-    "2026-10-02 follow-up: added primary 18 June 2015 AMWU meeting observation and separated UQ education from work. Searches for EY appointment, government department/office and 2009–11 chronology found no verified appointment basis or complete boundaries. The Australian public preview (https://www.theaustralian.com.au/nation/chief-aims-for-labor-resurrection-but-first-the-post-mortem/news-story/f4b3b8f881e39696e5602a2c9c4dd200) reports departure to EY but supplies no accessible decisive commencement day; preserve earlier 2022 appointment lead rather than backdate from later meetings. AustLII UQ history PDF returned 403. AMWU media releases are undated in rendered text; unrelated UK/NSW business and US research namesakes not adopted. Priority follow-up: EY dated appointment/cessation or public professional chronology, departmental versus ministerial staffing record, AMWU staff/annual-report chronology and individual hours/leave."
+    "2026-10-02 follow-up: added primary 18 June 2015 AMWU meeting observation and separated UQ education from work. Searches for EY appointment, government department/office and 2009–11 chronology found no verified appointment basis or complete boundaries. The Australian public preview (https://www.theaustralian.com.au/nation/chief-aims-for-labor-resurrection-but-first-the-post-mortem/news-story/f4b3b8f881e39696e5602a2c9c4dd200) reports departure to EY but supplies no accessible decisive commencement day; preserve earlier 2022 appointment lead rather than backdate from later meetings. AustLII UQ history PDF returned 403. AMWU media releases are undated in rendered text; unrelated UK/NSW business and US research namesakes not adopted. Priority follow-up: EY dated appointment/cessation or public professional chronology, departmental versus ministerial staffing record, AMWU staff/annual-report chronology and individual hours/leave.",
+    "2026-10-03 follow-up: a dated 13 June 2022 Poll Bludger news roundup, expressly attributing the report to Lydia Lynch of The Australian, identifies Campbell as already an EY associate partner and outgoing state secretary. This materially advances the earliest verified EY observation from 5 April 2023 but remains secondary point-in-time evidence: no exact EY start, employing legal entity, hours, continuity or party-payroll cessation is inferred. Searches for a primary Queensland Labor successor notice and an EY appointment announcement found only derived exact dates; 29 January 2018 and 3 June 2022 were not adopted as employment boundaries without a direct source."
   ]
 }
