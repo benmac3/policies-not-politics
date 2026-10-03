@@ -5,7 +5,7 @@
 - 245392 GOSLING, Luke John Anthony, OAM: blocked; last review2026-10-04. Follow-up: Army regular/reserve/full-time duty and breaks; RAHC exact contract, Vinnies exact boundaries/hours and presidential adviser overlap; charity affiliation, tourism pay and political-staff start conflict.
 
 
-- 122087 McCARTHY, the Hon. Malarndirri Barbara Anne: blocked; last review2026-10-01. Follow-up: ABC hours, progression and 1997 community overlap; SBS/NITV contract dates/hours; Malarndirri Media clients; Riverview legal form/fraction; radio and Lijakarda employment status.
+- 122087 McCARTHY, the Hon. Malarndirri Barbara Anne: blocked; last review2026-10-04. Follow-up: ABC hours, progression and 1997 community overlap; SBS/NITV hours; Malarndirri Media clients/form/end; Riverview legal form/fraction; radio and Lijakarda employment status.
 
 
 - 263528 NAMPIJINPA PRICE, Jacinta: blocked; last review2026-10-01. Follow-up: Entertainment/production contracts, hours, legal employer and nonprofit history; consulting clients; CIS/Advance dates and pay; media contracts, council cessation and author income.
@@ -49,12 +49,12 @@
 
 ## Active follow-up — 2026-10-04 08:00 Brisbane cycle, continuation 0
 
-- Attempt start: 2026-10-04T08:01:11+10:00. Latest checkpoint: 2026-10-04T09:11:00+10:00; end not yet observed.
+- Attempt start: 2026-10-04T08:01:11+10:00. Latest checkpoint: 2026-10-04T09:16:00+10:00; end not yet observed.
 - This invocation completed SA, Tasmania and ACT follow-up work before advancing here in plan order. Starting NT head: `95f257cdd7d00f1c66fe2166a9962a037a1f71b1`; no active conflicting writer or intervening branch change observed. The previous day's accepted successor has no later branch commit evidence and remains execution unverified.
-- Current attempt/cycle/day: 28 distinct member records processed, 0 new initial, 14 materially enriched existing, 14 nonmaterial follow-ups, 0 newly research-complete. Counts include only remotely verified member commits; checkpoint-only commits excluded.
+- Current attempt/cycle/day: 29 distinct member records processed, 0 new initial, 15 materially enriched existing, 14 nonmaterial follow-ups, 0 newly research-complete. Counts include only remotely verified member commits; checkpoint-only commits excluded.
 - Luke Gosling: materially enriched — his indexed public professional profile independently resolves the nonprofit legal employer as St Vincent de Paul Society (NT) Inc and corroborates the 2010–2011 CEO interval. Exact dates, hours and overlap with RAHC and presidential advisory work remain unresolved.
-- Member commit on this branch: `bd447ba223d074994a094a63c9494f1c0bc76b0c`. Earlier verified member commits in this invocation are listed in the SA, Tasmania and ACT checkpoints; national counts are deduplicated by person ID.
+- Malarndirri McCarthy: materially enriched — her public professional profile now exposes an April2016 start for Malarndirri Media, following the separately indexed April2016 SBS/NITV endpoint. Consultancy hours, clients, legal form and end remain unresolved.\n- Member commits on this branch: `bd447ba223d074994a094a63c9494f1c0bc76b0c` (Gosling), `c626d748fe6180175d8b00f7aabe201317f06569` (McCarthy). Earlier verified member commits in this invocation are listed in the SA, Tasmania and ACT checkpoints; national counts are deduplicated by person ID.
 - National baseline remains 226/226 initial records, 226 unresolved, 0 research-complete. NT remains 4/4 initial, 4 unresolved, 0 complete.
-- Durable next cursor: Malarndirri McCarthy (122087).
+- Durable next cursor: Jacinta Nampijinpa Price (263528).
 - OUTCOME: ongoing. STOPPING REASON: none; continue after remote verification. No successor requested. Scheduler terminal status unavailable.
 - Validation: JSON parse, `career_batches.py --check` (226/13), `career_batches.py --batch nt`, `build_careers.py` and `git diff --check` passed. Only the assigned member and this checkpoint were written on the NT branch.
