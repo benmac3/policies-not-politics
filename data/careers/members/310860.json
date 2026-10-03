@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Greens",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/310860",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-02",
+  "last_reviewed": "2026-10-03",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -89,9 +89,10 @@
         "src-2",
         "src-3",
         "src-4",
-        "oct2-ama"
+        "oct2-ama",
+        "oct3-guardian"
       ],
-      "evidence_note": "ABC identifies Australian Mission; party shorthand says adviser to UN. Need appointment record to distinguish government employee, intern, unpaid delegate or other arrangement; not automatically UN employment. First-person2022 AMA says she negotiated for Australia while Gillard was PM and Rudd foreign minister, then returned after Australia secured a temporary Security Council seat. This narrows archival search context without proving start/end dates, paid public-service status or continuous tenure.",
+      "evidence_note": "ABC identifies Australian Mission; party shorthand says adviser to UN. Need appointment record to distinguish government employee, intern, unpaid delegate or other arrangement; not automatically UN employment. First-person2022 AMA says she negotiated for Australia while Gillard was PM and Rudd foreign minister, then returned after Australia secured a temporary Security Council seat. A2026 profile based on interview describes support-negotiator work in New York and quotes her sitting behind the Australia placard negotiating positions. This clarifies function but not start/end dates, paid public-service status or continuous tenure.",
       "counting_note": "Not counted: dates and/or substantive full-time status are insufficiently evidenced; year labels are not exact boundaries."
     },
     {
@@ -112,6 +113,25 @@
       ],
       "evidence_note": "Explicit volunteer description; no paid legal years inferred.",
       "counting_note": "Outside the two employment headlines under the codebook; retained as career context."
+    },
+    {
+      "spell_id": "310860-ausaid",
+      "employer": "Australian Agency for International Development (AusAID; appointment terms unresolved)",
+      "role": "Climate, food security and Pacific work",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "unknown",
+      "government_control_at_time": "public",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "oct3-guardian"
+      ],
+      "evidence_note": "A2026 Guardian profile based on interview reports that Hodgins-May worked for AusAID on climate, food security and the Pacific after leaving corporate law. It does not state dates, hours, payroll/contract status or whether this was part of the Australian Mission assignment; retained separately as an employer lead but not independently summed.",
+      "counting_note": "Not counted: appointment terms, dates, substantive full-time status and overlap with the Australian Mission role remain unknown. Government agency control does not alone prove public-service employment."
     },
     {
       "spell_id": "310860-06",
@@ -264,6 +284,16 @@
       "note": "Reader asserts Di Natale political staff role inApril2016; this is a reader claim, not independently reported employer evidence. Used as dated lead only.",
       "retrieved": "2026-10-02",
       "source_id": "oct2-crikey"
+    },
+    {
+      "url": "https://www.theguardian.com/australia-news/2026/oct/03/tragedy-and-loss-helped-forge-steph-hodgins-may-into-a-steely-climate-campaigner-now-shes-taking-on-anthony-albanese",
+      "publisher": "The Guardian Australia",
+      "title": "Tragedy and loss helped forge Steph Hodgins-May into a steely climate campaigner",
+      "source_type": "reliable_secondary",
+      "locator": "Career passage after leaving corporate law; published3 October2026",
+      "note": "Interview-based profile describes New York support-negotiator work and separately reports AusAID climate, food-security and Pacific work; quotes Hodgins-May about negotiating behind the Australia placard. No employment dates, hours or appointment mechanism.",
+      "retrieved": "2026-10-03",
+      "source_id": "oct3-guardian"
     }
   ],
   "research_notes": [
@@ -272,6 +302,7 @@
     "Parents' farm/teaching careers and full-time job advertisements for her parliamentary staff are not her employment evidence. Unknown headline years remain null, not zero.",
     "Follow-up2026-10-02: added self-confirmed Di Natale political work omitted from initial timeline; employer press release provides dated Greenpeace observation30 October2020; AMA narrows UN research to Gillard/Rudd and Security Council campaign context.",
     "Searched legal-firm identity, organic business, UN mission archive and nonprofit records. ABR name-match entry does not identify organic business or establish actual work dates, so registration dates not used. Crikey2016 statement is a reader letter and not silently promoted to verified reported chronology.",
+    "Follow-up2026-10-03: interview-based Guardian reporting identifies previously omitted AusAID work on climate, food security and the Pacific and clarifies the New York function as support negotiator for Australia's positions. AusAID is retained as a separate unresolved spell because the source names the agency, but it may overlap the Mission assignment; payroll status, dates, hours and public-service appointment remain unknown. Repeated business-name and legal-employer searches did not resolve those identities.",
     "Next leads: Di Natale archived office staffing/role biography; UN mission internship/adviser appointment record;2009 legal firm and later environmental-law employment identity; organic business trading name and ownership documents. No outreach or authenticated collection; dates/FTE still unknown."
   ]
 }
