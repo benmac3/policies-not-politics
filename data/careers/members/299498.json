@@ -6,7 +6,7 @@
   "snapshot_party": "The Nationals",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/299498",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-02",
+  "last_reviewed": "2026-10-03",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -23,7 +23,7 @@
       "date_precision": "unknown",
       "employment_status": "unknown",
       "fte_fraction": null,
-      "category": "unknown",
+      "category": "unpaid_work",
       "headline_sector": "unknown",
       "government_control_at_time": "unknown",
       "counting_status": "insufficient_evidence",
@@ -194,9 +194,10 @@
       "government_control_at_time": "unknown",
       "counting_status": "excluded",
       "source_ids": [
-        "src-3"
+        "src-3",
+        "src-11"
       ],
-      "evidence_note": "Official record places twenty-year role under community activity; no salaried appointment established. Exact span and volunteer status require confirmation; no public employment inferred.",
+      "evidence_note": "Official record places a twenty-year first-officer role under community activity. Boyce's 2025 parliamentary-inquiry submission explicitly describes his rural-fire-brigade service as volunteer work. Exact brigade, span and any exceptional paid deployment remain unresolved; no public employment inferred.",
       "counting_note": "Excluded from the two employment headlines under the codebook."
     },
     {
@@ -276,6 +277,23 @@
       ],
       "evidence_note": "Frozen first-service date and party retained; elected office excluded.",
       "counting_note": "Excluded from the two employment headlines under the codebook."
+    },
+    {
+      "spell_id": "299498-14",
+      "employer": "Taroom Kindergarten",
+      "role": "Fundraising coordinator",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "volunteer",
+      "fte_fraction": null,
+      "category": "unpaid_work",
+      "headline_sector": "excluded",
+      "government_control_at_time": "nonprofit",
+      "counting_status": "excluded",
+      "source_ids": ["src-11"],
+      "evidence_note": "Boyce's primary 2025 inquiry submission identifies this as one of his volunteer positions. It supplies no dates or remuneration and is not treated as paid employment.",
+      "counting_note": "Volunteer activity is excluded from public/private employment headlines."
     }
   ],
   "sources": [
@@ -378,6 +396,16 @@
       "note": "Original primary declaration indexed: family trust cattle grazing/earthmoving/engineering, Everest trustee and earthmoving operations, CE & TS Boyce cattle-grazing partnership. Direct open restricted; no exact career dates derived.",
       "retrieved": "2026-10-02",
       "source_id": "src-10"
+    },
+    {
+      "url": "https://documents.parliament.qld.gov.au/com/LGSBCSC-AACA/IVQ-1A2A/submissions/00000470.pdf",
+      "publisher": "Queensland Parliament / Colin Boyce MP",
+      "title": "Submission 470, Inquiry into volunteering in Queensland, 28 February 2025",
+      "source_type": "government_record",
+      "locator": "PDF pages 1–2, personal volunteering experience",
+      "note": "Primary signed submission explicitly describes Boyce as a long-term Rural Fire Brigade volunteer and names a volunteer fundraising-coordinator position at Taroom Kindergarten; no dates are supplied.",
+      "retrieved": "2026-10-03",
+      "source_id": "src-11"
     }
   ],
   "research_notes": [
@@ -386,6 +414,7 @@
     "Do not add farm, engineering, earthmoving and gas-project ranges without resolving shared business entities and overlapping hours. APH's undated small-business-owner label is represented by the named types of enterprises, not duplicated as an extra job.",
     "Interests transcription supplies leads CE & TS Boyce, CE & TS Boyce Family Trust and Everest Earthmoving Pty Ltd, but original register and historical company/partnership records need review before attributing old employment to these entities. Financial interests alone are not counted as work.",
     "Searched federal/state biographies, 2018 and 2022 maiden speeches, later apprenticeship speech, party/member biographies, employer/client and company-name searches, parliamentary record, interests transcription and full-time terms. Retrieved 2018 speech and Queensland record materially expand the official occupation summary; no reliable hours or complete earlier employer chronology found. Last follow-up 2026-09-29.",
-    "2026-10-02 follow-up materially strengthens business-entity linkage with original indexed state2020 and federal2022 declarations, replacing reliance solely on2025 transcription. Full records not inspectable after403/restricted responses; no access bypass. State2018/2021 registers also surfaced as historical leads, not read. Searches of pipeline-employer names and Everest history yielded no attributable payroll/hours evidence. Farm/engineering/earthmoving may be shared trust/partnership activities; ownership is not continuous employment. Next leads:2018 original register, historical Everest contracts, QGC subcontractor personnel records and named rural-fire brigade. Existing sectors/totals unchanged."
+    "2026-10-02 follow-up materially strengthens business-entity linkage with original indexed state2020 and federal2022 declarations, replacing reliance solely on2025 transcription. Full records not inspectable after403/restricted responses; no access bypass. State2018/2021 registers also surfaced as historical leads, not read. Searches of pipeline-employer names and Everest history yielded no attributable payroll/hours evidence. Farm/engineering/earthmoving may be shared trust/partnership activities; ownership is not continuous employment. Next leads:2018 original register, historical Everest contracts, QGC subcontractor personnel records and named rural-fire brigade. Existing sectors/totals unchanged.",
+    "2026-10-03 follow-up: primary Queensland parliamentary inquiry submission explicitly resolves Rural Fire Brigade service as volunteer activity and adds a volunteer Taroom Kindergarten fundraising-coordinator role. Brigade identity and dates remain unknown. Fresh Everest, CE & TS Boyce, QGC-pipeline employer and brigade searches found no attributable payroll, contract, hours or commencement evidence; a 2026 press profile only repeated existing welding/farming facts. Business employment boundaries and all headline hours remain unresolved; blocked status and null totals retained."
   ]
 }
