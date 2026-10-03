@@ -6,7 +6,7 @@
   "snapshot_party": "Liberal Party of Australia",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/263418",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-02",
+  "last_reviewed": "2026-10-04",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -196,8 +196,8 @@
       "employer": "University of Tasmania",
       "role": "Bachelor of Arts and Bachelor of Laws student",
       "start_date": null,
-      "end_date": null,
-      "date_precision": "unknown",
+      "end_date": "2006",
+      "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "study",
@@ -206,9 +206,10 @@
       "counting_status": "excluded",
       "source_ids": [
         "src-2",
-        "src-3"
+        "src-3",
+        "src-10"
       ],
-      "evidence_note": "Degrees confirmed; exact course dates and study/work overlap unknown. Law qualification does not establish legal practice.",
+      "evidence_note": "The official 45th Parliament handbook dates completion of the LLB and BA to 2006. Course start and study intensity remain unknown; study overlapped political staffing from 2003. Law qualification does not establish legal practice.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "263418-10"
     },
@@ -323,6 +324,26 @@
       "note": "Transcribes voluntary Tasmanian Wool Centre board membership. Original linked APH45thParliament declaration retrieval restricted; retained as specifically sourced lead pending primary corroboration, not new paid work.",
       "retrieved": "2026-10-02",
       "source_id": "src-9"
+    },
+    {
+      "url": "https://www.aph.gov.au/~/media/05%20About%20Parliament/54%20Parliamentary%20Depts/544%20Parliamentary%20Library/Handbook/handbook_45th_parliament.pdf",
+      "publisher": "Parliament of Australia",
+      "title": "Parliamentary Handbook of the Commonwealth of Australia, 45th Parliament",
+      "source_type": "government_record",
+      "locator": "DUNIAM, Jonathon Roy entry; qualifications",
+      "note": "Official historical handbook records LLB and BA (Tas.) completed in 2006. It does not state course commencement, study load or employment hours.",
+      "retrieved": "2026-10-04",
+      "source_id": "src-10"
+    },
+    {
+      "url": "https://www.themercury.com.au/news/politics/tasweekend-gloves-are-off-in-senate-battle/news-story/90854bae5ea20e09135703ae31f263dc",
+      "publisher": "The Mercury",
+      "title": "TasWeekend: Gloves are off in Senate battle, 28 May 2016",
+      "source_type": "news",
+      "locator": "Publicly indexed profile snippet describing the childcare centre",
+      "note": "Contemporaneous indexed text says Duniam and his wife started a childcare centre. It does not identify the legal entity, his operational role, pay, hours or exact opening date; no employment spell is inferred.",
+      "retrieved": "2026-10-04",
+      "source_id": "src-11"
     }
   ],
   "research_notes": [
@@ -333,6 +354,7 @@
     "Live UTAS Liberal history inaccessible; a legitimately public 2019 archived first-party page resolved presidency year. No inference that governance or student political activity was paid. Third-party 2006 graduation lead needs university corroboration.",
     "Need pre-2003 work/study history, KFC dates/hours, childcare business identity and actual work, exact paid staffing transitions and leave dates. No full-time evidence established. Exhausted broad repeated KFC/childcare searches recorded; next follow-up should use source-specific employer, interests or archive leads.",
     "Follow-up2026-10-02: historical interests transcription locates a new voluntary Tasmanian Wool Centre board lead, recorded as updated20June2017, which is not a commencement date. Original APHPDF link returned Failed to fetch restricted URL. Retain as lead until original declaration or centre board record is accessible; do not add income/investment entries as employment.",
-    "Relocated DPAC disclosure catalogue confirms7September2016leave release and1.2MBattachment. Reader click returned Unable to resolve click call due to invalid arguments; direct catalogue retrieval403. Earlier indexed table remains insufficient to allocate paid/unpaid dates. Newly identified Mercury TasWeekend profile repeats childcare-business lead but direct page is NoCookies; legal employer/operational role still unknown. No material employment fact established this pass; excluded from enrichment count."
+    "Relocated DPAC disclosure catalogue confirms7September2016leave release and1.2MBattachment. Reader click returned Unable to resolve click call due to invalid arguments; direct catalogue retrieval403. Earlier indexed table remains insufficient to allocate paid/unpaid dates. Newly identified Mercury TasWeekend profile repeats childcare-business lead but direct page is NoCookies; legal employer/operational role still unknown. No material employment fact established this pass; excluded from enrichment count.",
+    "Follow-up 2026-10-04: the official 45th Parliament handbook resolves degree completion to 2006, leaving commencement and study intensity unknown. The contemporaneous 28 May 2016 Mercury profile's indexed text confirms that Duniam and his wife started a childcare centre, but it does not establish his paid work, employer entity, hours or exact dates, so no employment spell was created. Targeted resignation searches repeated a May 2016 secondary claim but did not expose a reliable exact day or the underlying leave table; the political-staff endpoint remains year-only."
   ]
 }
