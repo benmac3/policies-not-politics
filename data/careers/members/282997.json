@@ -6,12 +6,12 @@
   "snapshot_party": "Liberal Party of Australia",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/282997",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-02",
+  "last_reviewed": "2026-10-03",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
     "calculation_status": "not_calculable",
-    "note": "Legal and PanAust chronology supported. Primary takeover filings establish foreign state control inMay2015, earlier than20Julycompletion; exact control day unresolved. Hours, leave and2019cessation remain unknown.25private-sector years is not a full-time calculation and spans state control. Governance excluded; totals remain null."
+    "note": "Legal and PanAust chronology supported. Primary takeover filings establish foreign state control inMay2015, earlier than20Julycompletion; exact control day remains unresolved. Contemporary reports narrow the PanAust departure to January2019 at month precision, but hours, leave and exact cessation day remain unknown.25private-sector years is not a full-time calculation and spans state control. Governance excluded; totals remain null."
   },
   "career_spells": [
     {
@@ -167,7 +167,7 @@
       "employer": "PanAust Limited, controlled by Guangdong Rising Assets Management",
       "role": "General counsel; company-secretary overlap to resolve",
       "start_date": "2015-05",
-      "end_date": "2019",
+      "end_date": "2019-01",
       "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
@@ -183,10 +183,11 @@
         "src-7",
         "src-9",
         "src-10",
-        "src-11"
+        "src-11",
+        "src-12"
       ],
-      "evidence_note": "GRAM was a Chinese provincial state-owned group.13MayForm604records sub50%holding for12May; PanAust15Maystatement confirms70.433%controlling interest. Thus control changed inMay2015, exact day unresolved.20July2015was complete acquisition. Employer reports list Scarr1January2019and successor byApril;16Januarytrade report says leaving, not exact cessation.",
-      "counting_note": "Foreign state control classifies public corporation under codebook. Month boundary is shared transition, not double-counted. Hours, leave and2019cessation remain unknown."
+      "evidence_note": "GRAM was a Chinese provincial state-owned group.13MayForm604records sub50%holding for12May; PanAust15Maystatement confirms70.433%controlling interest. Thus control changed inMay2015, exact day unresolved.20July2015was complete acquisition. Employer reports list Scarr on1January2019 and a successor by April. A21December2018report says the management changes, explicitly including Scarr, would occur the following month; a16January2019report still describes him as leaving. Together these support January2019 at month precision, not an exact final day.",
+      "counting_note": "Foreign state control classifies public corporation under codebook. Month boundary is a shared transition, not double-counted. Hours, leave, exact cessation day and campaign arrangements remain unknown."
     },
     {
       "spell_id": "282997-09",
@@ -338,6 +339,16 @@
       "note": "Reports impending senior-management departures including Scarr; prospective report does not supply his last day.",
       "retrieved": "2026-10-02",
       "source_id": "src-11"
+    },
+    {
+      "url": "https://www.postcourier.com.pg/panaust-shake-looming-next-month/",
+      "publisher": "Post-Courier / Courier-Mail",
+      "title": "PanAust shake-out looming next month",
+      "source_type": "news",
+      "locator": "21 December 2018; opening management-change paragraphs",
+      "note": "Contemporary report says PanAust management changes, including Scarr's departure, would occur the following month. It supports January2019 at month precision but does not give his exact last day.",
+      "retrieved": "2026-10-03",
+      "source_id": "src-12"
     }
   ],
   "research_notes": [
@@ -348,6 +359,7 @@
     "Do not count the party biography's aggregate '25 years in the private sector' as documented full-time years; it spans PanAust's 2015 transition to foreign state ownership and supplies no hours or leave.",
     "Follow-up2026-10-02:2015ASXtarget statement/substantial holding notices,2014annual report remuneration/service agreements,2019management-departure report and public professional profile attempted. Corrected control transition toMay2015. Joint secretary appointment does not date incumbent resignation.",
     "Remaining: obtain13–15May2015holding documents and actual majority date;23February2007secretary start does not establish general-counsel start. Seek company-secretary2015cessation,2019last paid day/leave,law-firm exact employment basis and transfers.",
-    "Public LinkedIn profile returned999Unknown Status Code; public index did not expose relevant experience details. Search surfaced aggregator February2019end but no primary corroboration; not adopted. No contact-data collection. ASXannouncement wrapper showed access terms; already public indexed filing PDFs provided relevant evidence."
+    "Public LinkedIn profile returned999Unknown Status Code; public index did not expose relevant experience details. Search surfaced aggregator February2019end but no primary corroboration; not adopted. No contact-data collection. ASXannouncement wrapper showed access terms; already public indexed filing PDFs provided relevant evidence.",
+    "Follow-up 2026-10-03: a 21December2018 Post-Courier/Courier-Mail report says the PanAust management changes, explicitly including Scarr's departure, would occur the following month. Combined with the 1January employer snapshot,16January leaving report and successor by April, this narrows general-counsel cessation to January2019 at month precision. Exact day, leave and campaign arrangements remain unknown; the uncorroborated aggregator February label remains rejected."
   ]
 }
