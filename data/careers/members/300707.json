@@ -6,12 +6,12 @@
   "snapshot_party": "Australia's Voice",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/300707",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-02",
+  "last_reviewed": "2026-10-03",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
     "calculation_status": "not_calculable",
-    "note": "Added primary-supported student presidency, police community advisory activity and tutoring with unresolved pay basis. Pharmacy hours/outlet and leave remain unknown; official overlap preserved and no headline totals calculated."
+    "note": "Added primary-organisation evidence of Australian Islamic College board service in 2022 and preserved it as excluded governance. Pharmacy hours/outlet and leave remain unknown; official overlap preserved and no headline totals calculated."
   },
   "career_spells": [
     {
@@ -257,6 +257,26 @@
       "evidence_note": "Tutoring alongside voluntary fundraising attested. Wording does not clearly resolve whether tutoring itself was paid or voluntary; legal employer, dates and hours unknown.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "300707-12"
+    },
+    {
+      "employer": "Australian Islamic College",
+      "role": "Board member",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "nonprofit",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-13",
+        "src-14"
+      ],
+      "evidence_note": "Australian Islamic College's official June 2022 social post states that Payman also served as a board member. The live board page no longer lists her, so only service at the 2022 observation is established; appointment and departure dates remain unknown. The college describes the board as governing rather than managing the organisation and currently states that board positions are unremunerated, but that present policy is not assumed to prove the historical pay basis.",
+      "counting_note": "Nonprofit governance is excluded from public/private full-time employment headlines; no employment relationship or full-time hours are inferred.",
+      "spell_id": "300707-13"
     }
   ],
   "sources": [
@@ -379,6 +399,26 @@
       "note": "Own account sequences electorate work, party leadership, then union organising; supports official chronology but gives no precise union start.",
       "retrieved": "2026-10-02",
       "source_id": "src-12"
+    },
+    {
+      "url": "https://www.instagram.com/reel/CfBFF20sCFN/",
+      "publisher": "Australian Islamic College",
+      "title": "Australian Islamic College Perth congratulates Sr. Fatima Payman",
+      "source_type": "employer",
+      "locator": "Official organisation post indexed June 2022; caption states she also serves as a board member",
+      "note": "Primary organisation evidence supports board membership at the 2022 observation, but not appointment/end dates, hours or remuneration.",
+      "retrieved": "2026-10-03",
+      "source_id": "src-13"
+    },
+    {
+      "url": "https://aic.wa.edu.au/school-board/",
+      "publisher": "Australian Islamic College",
+      "title": "School Board",
+      "source_type": "employer",
+      "locator": "Board role and remuneration policy; current member list",
+      "note": "Explains that the board governs while the Executive Principal manages, states current positions are unremunerated and does not list Payman among the current members. Current policy is contextual evidence, not proof of 2022 remuneration or exact departure.",
+      "retrieved": "2026-10-03",
+      "source_id": "src-14"
     }
   ],
   "research_notes": [
@@ -388,6 +428,7 @@
     "Family members’ occupations are not Payman’s employment. Pharmacy assistant wording is not upgraded to pharmacist. No duration is summed across overlapping intervals.",
     "Follow-up 2026-10-02: UWA MSA past-president table, September 2022 first-person interview, Women for Election recording biography and November 2022 AMUST interview. Identified student association and police advisory roles, tutoring and undergraduate fields; preserved pay/date uncertainties.",
     "School-board original and archival links from Wikipedia returned Unable to resolve click call due to invalid arguments; primary board appointment remains unverified. Secondary repeats do not independently establish term/pay. Seek AIC annual report or appointment register in later pass.",
-    "Pharmacy searches found no reliable full-time proof or outlet. SignalHire displayed conflicting month dates, federal department label and other roles; these are discovery leads only and were not substituted for exact official dates. Unsourced biography claims of part-time work still unverified. Tutoring payroll/client and charity-base role boundaries need first-person or organisation records."
+    "Pharmacy searches found no reliable full-time proof or outlet. SignalHire displayed conflicting month dates, federal department label and other roles; these are discovery leads only and were not substituted for exact official dates. Unsourced biography claims of part-time work still unverified. Tutoring payroll/client and charity-base role boundaries need first-person or organisation records.",
+    "Follow-up 2026-10-03: Australian Islamic College's own June 2022 post verifies Payman as a board member at that observation. The current board page no longer lists her and states governance/remuneration rules, but no appointment or departure record was found. Retain board service as excluded nonprofit governance; future follow-up needs a historical annual report or archived board register for term dates."
   ]
 }
