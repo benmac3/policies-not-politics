@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/299962",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-02",
+  "last_reviewed": "2026-10-03",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -118,7 +118,7 @@
     {
       "spell_id": "299962-06",
       "employer": "Australian Council of Trade Unions",
-      "role": "Partnerships manager / marketing officer",
+      "role": "Marketing officer; later partnerships manager",
       "start_date": "2009-05-11",
       "end_date": "2021-02-01",
       "date_precision": "day",
@@ -129,9 +129,10 @@
       "government_control_at_time": "private",
       "counting_status": "excluded",
       "source_ids": [
-        "src-1"
+        "src-1",
+        "oct3-first"
       ],
-      "evidence_note": "Union peak body, not private commercial work.",
+      "evidence_note": "Union peak body, not private commercial work. In her first speech Doyle described marketing officer as the first ten years and partnerships manager as the last two of her 2009-2021 ACTU tenure; these are rounded durations, so no exact internal transition day is invented.",
       "counting_note": "Outside the two employment headlines under the codebook; retained as career context."
     },
     {
@@ -171,9 +172,10 @@
         "src-1",
         "src-2",
         "src-3",
-        "src-6"
+        "src-6",
+        "oct3-first"
       ],
-      "evidence_note": "Contemporaneous full-time statement linked to identified employer. Trustee's nonprofit status triggers current codebook exclusion, not public-sector classification.",
+      "evidence_note": "Contemporaneous full-time statement linked to identified employer. Trustee's nonprofit status triggers current codebook exclusion, not public-sector classification. Doyle's 11 May 2023 first speech says she said goodbye to HESTA in mid-February, conflicting with the official biography's 5 April end; the exact official date is retained while possible campaign leave or later contractual cessation remains unresolved.",
       "counting_note": "Outside the two employment headlines under the codebook; retained as career context."
     },
     {
@@ -213,6 +215,44 @@
       "evidence_note": "Member biography places performances in1990s but gives no exact tenure, remuneration or hours. Could be paid or amateur; do not assume self-employment or full-time work.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "299962-music"
+    },
+    {
+      "employer": "Employer not identified",
+      "role": "First after-school job",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "part_time",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "unknown",
+      "government_control_at_time": "unknown",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "oct3-first"
+      ],
+      "evidence_note": "Doyle says she had her first after-school job at age15 and later supported herself financially. No employer, role, dates or hours are supplied; no birth-date arithmetic is used to create a calendar interval. After-school wording supports part-time rather than substantive full-time treatment.",
+      "counting_note": "Explicitly after-school work is not counted as substantive full-time employment; employer and dates also remain unknown.",
+      "spell_id": "299962-firstjob"
+    },
+    {
+      "employer": "Television production employer not identified",
+      "role": "Occasional bit-part actor, including Neighbours",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "unknown",
+      "government_control_at_time": "unknown",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "oct3-first"
+      ],
+      "evidence_note": "Doyle's first speech says she occasionally worked as a bit-part actor and appeared on Neighbours. It supplies no production entity, date, remuneration or hours, so no self-employment or full-time status is assumed.",
+      "counting_note": "Dates, employer, remuneration and substantive full-time status are insufficiently evidenced.",
+      "spell_id": "299962-actor"
     }
   ],
   "sources": [
@@ -325,6 +365,16 @@
       "note": "HBA remained AXA commercial health operation before2002 sale; later Bupa status not retrospectively applied.",
       "retrieved": "2026-10-02",
       "source_id": "oct2-axa2002"
+    },
+    {
+      "url": "https://www.marydoyle.com.au/news/my-first-speech/mary-doyle-s-first-speech/",
+      "publisher": "Mary Doyle MP",
+      "title": "Mary Doyle's first speech, 11 May 2023",
+      "source_type": "other",
+      "locator": "Paragraphs on first job, 1995 call-centre work, acting, ACTU roles and HESTA departure",
+      "note": "First-person evidence of an after-school job at15, occasional bit-part acting including Neighbours, ACTU role sequence and a mid-February HESTA goodbye that conflicts with the official April cessation date.",
+      "retrieved": "2026-10-03",
+      "source_id": "oct3-first"
     }
   ],
   "research_notes": [
@@ -334,6 +384,7 @@
     "Official, member, employer governance and contemporary interview sources reviewed. Exact dates establish tenure, not automatically full-time employment for early roles.",
     "Follow-up2026-10-02: resolved HBA historical private commercial classification using1997 Industry Commission and2000 ACCC records; employer1995 report gives TAB privatisation/listing15 August1994. Unknown historical HBA classification in earlier notes is superseded by this evidence.",
     "Recorded1995 two-month absence and casual call-centre status without inventing absence dates or extrapolating casual status to six years. Added music activity with remuneration unknown. Member also mentions several early jobs, still unidentified.",
-    "Next leads: TAB/NEC/HBA employment hours and any changed contracts; exact absence and payroll-transfer boundaries; early jobs around performing-arts study and whether music was paid. Historical sector resolution does not establish headline years. First-speech follow-up open404 was a source-only error; About Mary accessible."
+    "Follow-up2026-10-03: recovered the current first-speech transcript after the obsolete nested URL returned404. Added the previously omitted first after-school job and occasional bit-part acting, refined the ACTU role sequence, and recorded the mid-February HESTA goodbye against the official5 April cessation date without guessing leave or contract arrangements.",
+    "Next leads: TAB/NEC/HBA employment hours and any changed contracts; exact absence and payroll-transfer boundaries; names and dates for early jobs/acting and whether music was paid; HESTA campaign leave or contractual cessation evidence. Historical sector resolution does not establish headline years."
   ]
 }
