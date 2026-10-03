@@ -6,12 +6,12 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/299150",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-02",
+  "last_reviewed": "2026-10-03",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
     "calculation_status": "not_calculable",
-    "note": "Resolved Motorcycling Australia board dates and nil remuneration; added FIM director commencement, reservist service and early-work/UNHCR leads. DPC start discrepancy, employment hours and Beelu active-work interval remain unresolved; totals unknown."
+    "note": "Added contemporaneous Woodside function evidence and month-level Beelu commencement, while rejecting a stale profile's continuing-tenure claim. DPC start discrepancy, employment hours, transition boundaries and Beelu cessation remain unresolved; totals unknown."
   },
   "career_spells": [
     {
@@ -57,7 +57,7 @@
     },
     {
       "employer": "Woodside Energy Pty Ltd / Woodside Petroleum",
-      "role": "Senior manager",
+      "role": "Senior manager — Business Development & Growth",
       "start_date": "2010",
       "end_date": "2019",
       "date_precision": "year",
@@ -71,9 +71,11 @@
         "src-1",
         "src-2",
         "src-7",
-        "src-8"
+        "src-8",
+        "src-15",
+        "src-16"
       ],
-      "evidence_note": "Private commercial energy employer; contemporary2018 employment corroboration. Global business integration title secondary; hours and 2018 candidacy leave unresolved.",
+      "evidence_note": "Private commercial energy employer. A contemporaneous October 2015 profile places her in Business Development & Growth; 2018 reporting corroborates continued Woodside employment, and a 2022 profile describes nine years there. These sources do not fix exact appointment/cessation dates, hours or 2018 candidacy leave. Global business integration remains a secondary title lead.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "299150-03"
     },
@@ -90,16 +92,17 @@
       "government_control_at_time": "public",
       "counting_status": "excluded",
       "source_ids": [
-        "src-1"
+        "src-1",
+        "src-16"
       ],
-      "evidence_note": "Ministerial employment distinct from earlier departmental career.",
+      "evidence_note": "Ministerial employment distinct from earlier departmental career. A May 2022 profile says she left a government role in early 2021 to start the distillery; it does not supply an exact cessation date, hours or leave.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "299150-04"
     },
     {
       "employer": "Beelu Forest Distilling Company Pty Ltd",
       "role": "Managing director / founder",
-      "start_date": "2021",
+      "start_date": "2021-04",
       "end_date": null,
       "date_precision": "mixed",
       "employment_status": "self_employed",
@@ -112,9 +115,11 @@
         "src-1",
         "src-4",
         "src-6",
-        "src-7"
+        "src-7",
+        "src-14",
+        "src-16"
       ],
-      "evidence_note": "Official from2021; secondary says full-time transition in2021, independently unverified. August2024 speech says directorship already ended, exact date unknown. Null end denotes missing boundary, not continuing service. Government grant is not public ownership.",
+      "evidence_note": "A publicly indexed professional profile gives an April 2021 start, consistent with a May 2022 profile saying she left government in early 2021 to start the distillery. The profile's stale 'Present' label is not accepted as an end boundary: her August 2024 first-person speech says the directorship had already ended. Exact active-work and director cessation dates remain unknown. Government grant is not public ownership.",
       "counting_note": "Substantive full-time start/end and transition from active management to any passive directorship unresolved. Do not count shareholder tenure as employment or extend work to2024 automatically.",
       "spell_id": "299150-05"
     },
@@ -406,6 +411,36 @@
       "note": "After-school work from age 14 and time with UNHCR Bangladesh; no employer, dates or remuneration inference beyond statement.",
       "retrieved": "2026-10-02",
       "source_id": "src-13"
+    },
+    {
+      "url": "https://au.linkedin.com/in/tania-lawrence-53476a170",
+      "publisher": "LinkedIn",
+      "title": "Tania Lawrence public professional profile",
+      "source_type": "professional_profile",
+      "locator": "Publicly indexed Experience result; Beelu Forest Distilling Company, Apr 2021–Present",
+      "note": "Used only for the April 2021 commencement. The indexed continuing-tenure label is stale and rejected because her August 2024 first-person speech identifies her as a former director.",
+      "retrieved": "2026-10-03",
+      "source_id": "src-14"
+    },
+    {
+      "url": "https://www.mcnews.com.au/meet-tania-lawrence-president-of-motorcycling-australia/",
+      "publisher": "MCNews",
+      "title": "Meet Tania Lawrence — President of Motorcycling Australia",
+      "source_type": "news",
+      "locator": "21 October 2015; career paragraph",
+      "note": "Contemporaneous account identifies current Woodside Business Development & Growth work and 16 years in senior public/private roles; the aggregate experience claim is not treated as a discrete employment interval or hours evidence.",
+      "retrieved": "2026-10-03",
+      "source_id": "src-15"
+    },
+    {
+      "url": "https://www.abc.net.au/news/2022-05-25/meet-the-newest-wa-federal-mps/101096604",
+      "publisher": "ABC News",
+      "title": "Who are WA's new federal MPs?",
+      "source_type": "news",
+      "locator": "24 May 2022; Tania Lawrence / Hasluck section",
+      "note": "Reports nine years at Woodside, progression to senior manager, and departure from a government role in early 2021 to start the distilling company; it does not establish exact boundaries or hours.",
+      "retrieved": "2026-10-03",
+      "source_id": "src-16"
     }
   ],
   "research_notes": [
@@ -415,6 +450,7 @@
     "Find Motorcycling Australia/Oceania annual reports for board tenure and payment status; personal motorcycling is not automatically employment. Record last attempted avenues before later follow-up, rather than repeating inaccessible articles.",
     "Follow-up 2026-10-02: MA 2016 audited report resolves director election/resignation and nil remuneration; FIM 2016 yearbook corroborates Oceania presidency. Neither sporting presidency is paid commercial employment. MA 2017 report also examined; do not confuse successor president start with Lawrence resignation.",
     "First speech confirms after-school paid work from age 14 and a later period with UNHCR Bangladesh; employment details are missing, not zero. Army Reserve service in official biography newly recorded without invented dates or hours. Party vice-presidency recorded separately.",
-    "Next: DPC personnel/title history to reconcile 2000 annual-report biography with 2001 principal-policy span; military service statement and early employer/UNHCR placement evidence; Woodside leave and dated Beelu workload evidence. Searches again located secondary full-time distillery assertion but no primary interval proof. Public 2021 distillers association membership observation is not employment commencement."
+    "Next: DPC personnel/title history to reconcile 2000 annual-report biography with 2001 principal-policy span; military service statement and early employer/UNHCR placement evidence; Woodside leave and dated Beelu workload evidence. Searches again located secondary full-time distillery assertion but no primary interval proof. Public 2021 distillers association membership observation is not employment commencement.",
+    "Follow-up 2026-10-03: a publicly indexed professional profile supplies April 2021 as the Beelu start, and ABC reporting corroborates the early-2021 government-to-distillery sequence; the profile's stale continuing-tenure label was rejected against the later first-person former-director statement. A contemporaneous October 2015 profile identifies Woodside Business Development & Growth, but none of these sources establishes full-time hours, exact Woodside boundaries, campaign leave or Beelu cessation."
   ]
 }
