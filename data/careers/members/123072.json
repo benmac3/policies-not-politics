@@ -11,7 +11,7 @@
     "public_full_time_years": null,
     "private_full_time_years": null,
     "calculation_status": "not_calculable",
-    "note": "Official records establish Queensland ministerial chief-of-staff work from 2012 to 2014 and business management from 2014 to 2019. Employer, industry and first-person material identify a longer accounting career and Susan McDonald's operation of Super Butcher, but do not publish the earlier accounting employers, complete dates, hours, leave or transitions. Political staff, party roles, governance and elected office are excluded. Senior accounting and managing-director titles do not alone prove full-time service, so no public/private total is calculated. Early stock-camp and Expo work are now recorded with unknown employers/hours; industry and honorary roles remain excluded."
+    "note": "Official records establish Queensland ministerial chief-of-staff work from 2012 to 2014 and business management from 2014 to 2019. A retrospective industry profile supports that the concurrent ministerial job and later Super Butcher management were full-time, but employer and first-person material still do not publish the earlier accounting employers, exact transition, complete dates or leave. Political staff, party roles, governance, study and elected office are excluded. The incomplete boundaries and leave record prevent a defensible private full-time total. Early stock-camp and Expo work remain recorded with unknown employers/hours; industry and honorary roles remain excluded."
   },
   "career_spells": [
     {
@@ -64,8 +64,8 @@
       "start_date": "2012",
       "end_date": "2014",
       "date_precision": "year",
-      "employment_status": "unknown",
-      "fte_fraction": null,
+      "employment_status": "full_time",
+      "fte_fraction": 1.0,
       "category": "political_staff",
       "headline_sector": "excluded",
       "government_control_at_time": "public",
@@ -74,9 +74,10 @@
         "src-1",
         "src-6",
         "src-7",
-        "src-20"
+        "src-20",
+        "src-21"
       ],
-      "evidence_note": "The official federal biography gives a Queensland Government chief-of-staff interval from 2012 to 2014. A 2013 Queensland parliamentary document identifies McDonald as Chief of Staff to Natural Resources and Mines Minister Andrew Cripps. Some later profiles extend the role to 2015; exact appointment/cessation, hours and any overlap with Super Butcher require resolution. The 2015 first-person speech confirms sequence but misdates the incoming government to 2011; official 2012 start is preserved.",
+      "evidence_note": "The official federal biography gives a Queensland Government chief-of-staff interval from 2012 to 2014. A 2013 Queensland parliamentary document identifies McDonald as Chief of Staff to Natural Resources and Mines Minister Andrew Cripps. A retrospective November 2019 meat-industry profile says that after her brother's 2013 death she initially managed the six Super Butcher stores on top of her full-time job; in context this supports full-time status for the chief-of-staff job, but not weekly hours or leave. Some later profiles extend the role to 2015; exact appointment/cessation and the Super Butcher overlap require resolution. The 2015 first-person speech confirms sequence but misdates the incoming government to 2011; official 2012 start is preserved.",
       "counting_note": "Political staff employment is excluded irrespective of public funding."
     },
     {
@@ -86,8 +87,8 @@
       "start_date": "2014",
       "end_date": "2019",
       "date_precision": "year",
-      "employment_status": "unknown",
-      "fte_fraction": null,
+      "employment_status": "full_time",
+      "fte_fraction": 1.0,
       "category": "private_enterprise",
       "headline_sector": "private",
       "government_control_at_time": "private",
@@ -100,10 +101,11 @@
         "src-9",
         "src-10",
         "src-17",
-        "src-20"
+        "src-20",
+        "src-21"
       ],
-      "evidence_note": "The official biography gives business management from 2014 to 2019. Member and contemporary profiles identify McDonald as Managing Director of family-owned Super Butcher, responsible for five or six stores and roughly 80–100 staff. ABC says she took over the chain in 2012, while the official interval starts in 2014; exact title transition, payroll/self-employment status, hours, leave and election cessation are unresolved. Family acquisition of the chain is not by itself a personal commencement date; 2014 chief-executive reporting and 2018 primary SSG release corroborate the executive role without proving hours.",
-      "counting_note": "Substantial private business work is supported, but the conflicting start and missing full-time/leave evidence prevent counting."
+      "evidence_note": "The official biography gives business management from 2014 to 2019. Member and contemporary profiles identify McDonald as Managing Director of family-owned Super Butcher, responsible for five or six stores and roughly 80–100 staff. A retrospective November 2019 meat-industry profile says that after her brother's 2013 death she first managed the six stores on top of her full-time job and then took on Super Butcher in a full-time capacity; full-time status is therefore supported, but the exact transition, payroll/self-employment status, weekly hours, leave and election cessation remain unresolved. ABC says she took over the chain in 2012, while the official interval starts in 2014. Family acquisition is not itself a personal commencement date; 2014 chief-executive reporting and a 2018 primary SSG release corroborate the executive role.",
+      "counting_note": "Substantive full-time private business work is supported, but the conflicting start, uncertain exact transition and missing leave evidence prevent a defensible headline duration."
     },
     {
       "spell_id": "123072-05",
@@ -301,6 +303,25 @@
       "evidence_note": "Listed beneath Honorary Ambassadors, separate from regional advisory committee members. Honorary role recorded separately; dates and time commitment unknown.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "123072-14"
+    },
+    {
+      "employer": "Training provider and employing entity not identified",
+      "role": "Butchery apprentice",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-21"
+      ],
+      "evidence_note": "Australian Meat News reported in November 2019 that McDonald completed a butchery apprenticeship to broaden her retail knowledge. The article does not identify the training provider or employing entity, dates, hours, pay, leave or whether training occurred wholly within her Super Butcher management interval.",
+      "counting_note": "Study and vocational training are excluded from the employment headline.",
+      "spell_id": "123072-15"
     }
   ],
   "sources": [
@@ -503,6 +524,16 @@
       "note": "First-person sequence from ministerial chief of staff to Super Butcher; its 2011 election year conflicts with official 2012 interval and is not adopted.",
       "retrieved": "2026-10-02",
       "source_id": "src-20"
+    },
+    {
+      "url": "https://ausmeatnews.com.au/wp-content/uploads/2019/12/AMN-Nov-2019-_low-res-final.pdf",
+      "publisher": "Australian Meat News",
+      "title": "The power of communication — Senator Susan McDonald",
+      "source_type": "professional_profile",
+      "locator": "November 2019, page 30, career paragraph",
+      "note": "Retrospective industry profile reports that after her brother's 2013 death McDonald managed six Super Butcher stores on top of her full-time job, then took on Super Butcher full-time; also records completion of a butchery apprenticeship. It does not supply exact transition dates, weekly hours or leave.",
+      "retrieved": "2026-10-03",
+      "source_id": "src-21"
     }
   ],
   "research_notes": [
@@ -513,6 +544,7 @@
     "Obtain governance appointment/cessation and remuneration evidence for Beef Australia and RNA; governance remains separate from substantive employment.",
     "Follow-up 2026-10-02: searched primary LifeFlight, RNA historical magazines, ABSF reports/releases, school professional biography, Rural Press Club speech and public professional-profile index. Added early stock-camp/Expo work and AMIC/SSG/honorary roles. No accounting employer names or full-time/leave evidence recovered. Arts Queensland board lead unconfirmed and not encoded; similarly named UK/US professionals excluded.",
     "RNA primary resignation report narrows council cessation to 2018 despite 2019 speaker biography. Obtain exact resignation and treasurer term. ABSF indexed annual update confirms departure by 2019 report but not year boundary.",
-    "Recovered source gaps: ABSF PDF full open returned (400) Content length is too large: 13567066; another mirror and RNA 2018 PDF returned Internal Error without code. Indexed primary text and accessible 2018 release used; no access control bypass. Further follow-up requires early-job/employer records, accounting employment histories, Super Butcher appointment/hours/leave and exact political-staff transition."
+    "Recovered source gaps: ABSF PDF full open returned (400) Content length is too large: 13567066; another mirror and RNA 2018 PDF returned Internal Error without code. Indexed primary text and accessible 2018 release used; no access control bypass. Further follow-up requires early-job/employer records, accounting employment histories, Super Butcher appointment/leave and exact political-staff transition.",
+    "Follow-up 2026-10-03: Australian Meat News November 2019 resolves substantive full-time status for the chief-of-staff job and subsequent Super Butcher management, and adds a completed butchery apprenticeship. The article confirms an interim overlap after the 2013 family death but gives no exact transition date, weekly hours or leave; no accounting employer names were found."
   ]
 }
