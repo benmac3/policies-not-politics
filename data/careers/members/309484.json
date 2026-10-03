@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/309484",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-02",
+  "last_reviewed": "2026-10-03",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -298,6 +298,25 @@
       "evidence_note": "Explicitly named in first-person local-government employment list. Role, boundaries and substantive hours unknown. Council’s own newsletters identify Youth Services work in July1997, explicitly staff in November1999, and Coordinator in March2001. These resolve title and dated presence, not commencement, cessation or uninterrupted service. Volunteer training hours in1997 apply to recruited volunteers, not her employment.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "309484-14"
+    },
+    {
+      "employer": "Mission Australia",
+      "role": "Employment; role unspecified",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "nonprofit",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-newsletter2024"
+      ],
+      "evidence_note": "Her parliamentary community newsletter explicitly says she worked at Mission Australia, separately naming Anglicare and Family Life. Role, dates, remuneration, hours and overlap with other spells are not supplied. Mission Australia is a national charity, so the spell is retained as nonprofit rather than public employment.",
+      "counting_note": "Outside the two employment headlines under the codebook; retained as career context.",
+      "spell_id": "309484-15"
     }
   ],
   "sources": [
@@ -470,6 +489,16 @@
       "note": "Contemporaneous council staff observation. Issue date is not personal employment start/end; no continuous tenure or hours inferred.",
       "retrieved": "2026-10-02",
       "source_id": "src-glen2001"
+    },
+    {
+      "url": "https://jodiebelyea.com.au/media/dqujkvsc/6pp-winter-2024.pdf",
+      "publisher": "Jodie Belyea MP",
+      "title": "Community newsletter, Winter2024",
+      "source_type": "professional_profile",
+      "locator": "Get to Know Jodie, PDF p1, lines6–19",
+      "note": "Member-issued career summary names Mission Australia in addition to Anglicare and Family Life, and describes short TAFE teaching and35 years across sectors. The broad duration does not supply spell boundaries or full-time fractions.",
+      "retrieved": "2026-10-03",
+      "source_id": "src-newsletter2024"
     }
   ],
   "research_notes": [
@@ -478,6 +507,7 @@
     "No January/December endpoints inferred. Nonprofit work is excluded under the narrow headline definition; unknown nonpolitical employment is not zero.",
     "2026-10-01: recovered missing Chisholm teaching and three named earlier council employers from her summit speech. Frankston Council work also confirmed in speech, but its mapping to the dated centre coordinator entry remains explicit follow-up rather than an extra potentially duplicate spell. Contemporaneous PDPC and VicHealth reports corroborate Connectus appointment and institutional association; May2018 CfC submission adds coordinator title observation. No full-time totals calculated.",
     "Avenues: parliamentary/member biography and first speech; GSEM summit transcript; historical PDPC2004–05 and VicHealth2005–06 reports; Human Rights Commission2018 submission index; council-centre and CfC employer searches; public professional-profile index. LinkedIn direct returned429 Too Many Requests, not retried; AHRC PDF unavailable but cover index usable with limitation. Contact aggregators with all dates May2026 rejected. Sussan/Marc Besen early-career claim surfaced only in unsourced derivative accounts; retain unverified lead, do not create employment facts. Follow-up: council titles/dates/amalgamation continuity, Frankston contract employer, Chisholm dates/pay/FTE, Connectus legal employer, CfC full submission/Anglicare contract, Family Life title progression, all breaks/hours.",
-    "Second follow-up2October2026: recovered Glen Eira Council newsletters from Victorian Collections, establishing youth-services staff observations July1997/November1999 and coordinator title March2001. Publication months retained as observations rather than fabricated employment endpoints. No FT fraction supplied; volunteer course obligations belong to volunteers. CfC contemporary organisation website confirms Anglicare hosting now but post-election event attendance cannot prove2018 payroll; prior2018 submission remains stronger historical lead. Family Life2020 community-change title corroborated in secondary reporting, no new boundaries. Next inspect Glen Eira staff appointment/departure and council-amalgamation records, Frankston coordinator contract, CfC2018 original submission, Chisholm pay/dates and early corporate work. No totals calculated."
+    "Second follow-up2October2026: recovered Glen Eira Council newsletters from Victorian Collections, establishing youth-services staff observations July1997/November1999 and coordinator title March2001. Publication months retained as observations rather than fabricated employment endpoints. No FT fraction supplied; volunteer course obligations belong to volunteers. CfC contemporary organisation website confirms Anglicare hosting now but post-election event attendance cannot prove2018 payroll; prior2018 submission remains stronger historical lead. Family Life2020 community-change title corroborated in secondary reporting, no new boundaries. Next inspect Glen Eira staff appointment/departure and council-amalgamation records, Frankston coordinator contract, CfC2018 original submission, Chisholm pay/dates and early corporate work. No totals calculated.",
+    "Third follow-up3October2026: member-issued Winter2024 newsletter identifies previously omitted Mission Australia employment, separately from Anglicare and Family Life. It gives no role, date or hours, so a distinct undated nonprofit spell is retained without affecting headline totals. Targeted searches did not resolve the Sussan/Marc Besen derivative claim, council appointment boundaries, Frankston legal employer, Chisholm dates or full-time fractions. The newsletter's35-year cross-sector summary is too broad for interval calculation."
   ]
 }
