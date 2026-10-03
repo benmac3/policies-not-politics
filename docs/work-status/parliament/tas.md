@@ -2,7 +2,7 @@
 
 ## Saved records and follow-up
 
-- 25813 BLEYER, Vanessa: blocked; last review2026-10-01. Follow-up: School jobs; internet-company identities/control; law traineeship/employer dates/hours; external role pay/exits; June/July retirement conflict.
+- 25813 BLEYER, Vanessa: blocked; last review2026-10-04. Follow-up: School jobs; other internet-company identity/control; law traineeship/employer dates/hours; external role pay/exits; June/July retirement conflict. ARBV appointment now narrowed to September2006.
 
 
 - F49 BROWN, the Hon. Carol Louise: blocked; last review2026-10-01. Follow-up: DPAC 1998-2002 position classification, hours, dates and leave; 2000 acting party secretary overlap; pre-1984 career; 2002-04 minister identity.
@@ -110,3 +110,16 @@
 - 231199: Materially enriched: union2010return resolves secretary resignation18August2010;2011return identifies separate divisional executive role. TasBuild testimony clarifies fee-routing evidence limits. Factory dates/hours and early employer gaps remain.
 - 224102: Follow-up only: ABC2010Kerr staff and2024party committee corroboration; no new term/hours. Carol Brown claim and hospitality dates remain unresolved.
 - C2T: Follow-up only: Regular Army description corroborated without interval/hours; Army–ONA–Raytheon overlap and rug business identity remain unresolved. Advance to ACT.
+
+
+## Active follow-up — 2026-10-04 08:00 Brisbane cycle, continuation 0
+
+- Attempt start: 2026-10-04T08:01:11+10:00. Latest checkpoint: 2026-10-04T08:20:45+10:00; end not yet observed.
+- This invocation completed the SA follow-up pass with 5 materially enriched records, each validated, committed and remotely verified, then advanced in plan order. Starting Tasmania head: `31e7c4ec65fd64d424fb124cd733dfd9f7249de3`; no active conflicting writer or intervening branch change observed.
+- Current attempt/cycle/day: 6 distinct member records processed, 0 new initial, 6 materially enriched existing, 0 nonmaterial follow-ups, 0 newly research-complete. Counts include only remotely verified member commits; checkpoint-only commits excluded.
+- Vanessa Bleyer: materially enriched — the primary Architects Registration Board 2006–07 report narrows her board appointment to September2006 and records9of10meetings attended. This improves governance chronology only; attendance does not establish hours, remuneration or ordinary public employment. School jobs, the other internet company, traineeship, private-practice hours and external-role exits remain unresolved.
+- Member commits this invocation: SA `60b3ce00fb2a0b35f60c5e0dcdddefdf94f89117`, `b2a66cf99ac4562c29dabfa1ea6a089e6f7bc5a3`, `aff64a832aa856db06a5c67bd49f68b04c7a3f19`, `9ee256ce803b0bb458d37772de465cb16c4e0a76`, `1a3625b123c5dc852830cfcc7dbac6ef1fbe5db7`; Tasmania `5514b1673b852e4b537305359039ebc1e9fee6c9`. All remotely fetched and verified.
+- National baseline remains 226/226 initial records, 226 unresolved, 0 research-complete. Tasmania remains17/17 initial,17 unresolved,0 complete.
+- Durable next cursor: Carol Brown (F49).
+- OUTCOME: ongoing. STOPPING REASON: none; continue after remote verification. No successor requested. Scheduler terminal status unavailable.
+- Validation: JSON parse, `career_batches.py --check` (226/13), `career_batches.py --batch tas`, `build_careers.py` and `git diff --check` passed. Only the assigned member and this checkpoint were written.
