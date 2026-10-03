@@ -158,3 +158,12 @@ State: ready-for-integration
 - 309484: Recovered primary Glen Eira Youth Services staff evidence in1997/1999 and Coordinator title byMarch2001. Personal endpoints, continuity and hours remain unverified.
 - 288713: Narrowed MBA study to2015–2017 using public profile; added primary-confirmed2020 volunteer leadership teaching, keeping FT allocation unresolved.
 - 263427: Added omitted Phil Reeves electorate-officer role from2007 Queensland Hansard and resolved earlier United Voice organiser title. QUT research acknowledgement remains a lead.
+
+## Active follow-up — 2026-10-03 12:00 Brisbane cycle
+
+- Cycle:2026-10-03 12:00 Brisbane; continuation0. Start observed12:03:05+10:00; entered VIC-1 after remotely verifying the completed NSW-3 pass. Starting VIC-1 remote head:92d4379cd285de58c5dc3d29968b5d873a96d659; no competing branch change observed.
+- Starting national audit:226/226 initial records,226 unresolved,0 complete. This run/cycle:0 new,12 materially enriched existing,0 newly complete after remote verification;23 distinct member files saved, eleven nonmaterial. Brisbane-day cumulative:0 new,22 materially enriched distinct records,0 newly complete. Morning08:00 results remain separate and are deduplicated by member ID.
+- Member316915 Abdo: a primary House committee media release issued21November2011 lists him as alternate media contact for chair Maria Vamvakinou, anchoring their otherwise undated professional association at that date. It does not establish payroll title, hours, appointment/cessation or which of two reported staff periods it belongs to. Teaching searches remained study-only; material point-in-time enrichment.
+- Next follow-up:11788 ALDRED, Mary. Continue in batch and plan order; blocked records remain unresolved.
+- OUTCOME:ongoing. STOPPING REASON:none; continue after remote verification. Successor not requested. Scheduler terminal status unavailable.
+- Validation:career_batches --check226/13 and --batch vic-1; individual JSON/source/date/enums and build_careers.load_records. Only assigned member/checkpoint changed.

@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/316915",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-02",
+  "last_reviewed": "2026-10-03",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -68,9 +68,10 @@
       "counting_status": "excluded",
       "source_ids": [
         "src-3",
-        "src-two-spells"
+        "src-two-spells",
+        "src-aph2011"
       ],
-      "evidence_note": "June2024 reporting identifies former adviser and two periods working for Vamvakinou after university. First period represented here; neither endpoint nor length of intervening break established. Not assumed continuously employed.",
+      "evidence_note": "June2024 reporting identifies former adviser and two periods working for Vamvakinou after university. A House committee media release issued21November2011 lists Abdo as the alternate media-contact person for chair Maria Vamvakinou, providing a contemporaneous point within their professional association. It does not by itself state payroll title or prove which of the two periods it belongs to; neither endpoint nor the intervening break is established. Not assumed continuously employed.",
       "counting_note": "Outside the two employment headlines under the codebook; retained as career context."
     },
     {
@@ -234,6 +235,16 @@
       "note": "Lists Basem Abdo among21 association members. Membership is not staff or board tenure. PDF direct fetch502; surrounding indexed section recovered.",
       "retrieved": "2026-10-02",
       "source_id": "src-mhec2023"
+    },
+    {
+      "url": "https://www.aph.gov.au/Parliamentary_Business/Committees/House_of_Representatives_committees?url=mig%2Fmulticulturalism%2Fmedia%2Fmedia15.pdf",
+      "publisher": "Parliament of Australia, House Standing Committee on Migration",
+      "title": "Multiculturalism inquiry media release,21November2011",
+      "source_type": "government_record",
+      "locator": "Issued date and media-comment contact line for committee chair Maria Vamvakinou",
+      "note": "Lists Basem Abdo's mobile number as the alternate media contact for Vamvakinou. This is a contemporaneous professional-association point, not an appointment letter, payroll title, hours record or tenure boundary.",
+      "retrieved": "2026-10-03",
+      "source_id": "src-aph2011"
     }
   ],
   "research_notes": [
@@ -243,6 +254,7 @@
     "No omitted occupation is treated as zero; political staff and federal elected office are excluded under project rules.",
     "2026-10-01: recovered full first speech and added previously missing teenage car-washing job. Split Vamvakinou employment into two undated periods on employer-interview reporting, preserving the unknown break. No private/public duration or full-time status inferred. Original study-only caution still applies: school’s recent public reference to teaching experience is a lead, not a dated paid teaching spell.",
     "Avenues: APH biography direct inaccessible; official party/member bios,28July2025 Hansard reproduction, Neos Kosmos interview, public St Monica’s College institutional post, education/employment searches. Meadow Heights Education Centre2023 annual report at https://mhec.vic.edu.au/wp-content/uploads/2024/06/Annual-Report-23.pdf indexes the name but fetch failed and surrounding role is unverified; do not infer employment or governance from a bare name. Saudi researcher/auditor and dental namesakes rejected. SBS Josh Burns teacher-aide/factory history is not Abdo’s. Follow-up: car-wash employer/dates/hours, two staff appointments and intervening work, teaching employer/pay/dates, MHEC report context.",
-    "Second follow-up2October2026: recovered first-person public statement describing student teaching placement at St Monica’s College, narrowing the earlier generic teaching lead without inventing paid employment. MHEC2023 indexed context resolves bare name as association membership, not employment or directorship; no employment spell added from membership. Direct MHEC PDF502 and Instagram Online fetch throttled respected; indexed primary text used. Staff-date and full-time searches produced no verified boundaries, mostly unrelated overseas namesakes and electorate references. Next seek primary placement date/terms and any later qualified teaching employment, two Vamvakinou appointment periods/break and car-wash identity. Remain unresolved; no hours or totals inferred."
+    "Second follow-up2October2026: recovered first-person public statement describing student teaching placement at St Monica’s College, narrowing the earlier generic teaching lead without inventing paid employment. MHEC2023 indexed context resolves bare name as association membership, not employment or directorship; no employment spell added from membership. Direct MHEC PDF502 and Instagram Online fetch throttled respected; indexed primary text used. Staff-date and full-time searches produced no verified boundaries, mostly unrelated overseas namesakes and electorate references. Next seek primary placement date/terms and any later qualified teaching employment, two Vamvakinou appointment periods/break and car-wash identity. Remain unresolved; no hours or totals inferred.",
+    "Third follow-up3October2026: a House migration-committee media release issued21November2011 lists Abdo as the alternate media-contact person for chair Maria Vamvakinou. This is primary, contemporaneous evidence of their professional association at that date and materially anchors the otherwise undated staff history. The release does not state payroll title, hours, appointment/cessation or which reported employment period it belongs to. Teaching and staff searches otherwise returned study-only bios, existing reporting or overseas namesakes; no full-time duration inferred."
   ]
 }
