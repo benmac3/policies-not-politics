@@ -6,12 +6,12 @@
   "snapshot_party": "Liberal Party of Australia",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/260805",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-02",
+  "last_reviewed": "2026-10-03",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
     "calculation_status": "not_calculable",
-    "note": "Contemporaneous reporting dates SAS resignation to 21 August 2015; full-time officer service supported, and first-person account distinguishes earlier youth cadets from Army service starting 2003. Training pay/status, precise start and leave still prevent headline calculation."
+    "note": "Contemporaneous reporting dates SAS resignation to 21 August 2015. Defence-hosted first-person evidence now fixes three years at ADFA and one at Duntroon; institutional evidence establishes salaried ADFA cadet service and a public professional profile dates Duntroon to January-December 2006. Exact 2003 entry, leave and payroll-transition dates still prevent headline calculation."
   },
   "career_spells": [
     {
@@ -39,7 +39,7 @@
       "start_date": "2003",
       "end_date": "2006",
       "date_precision": "year",
-      "employment_status": "unknown",
+      "employment_status": "full_time",
       "fte_fraction": null,
       "category": "public_service",
       "headline_sector": "public",
@@ -49,10 +49,13 @@
         "src-2",
         "src-5",
         "src-6",
-        "src-8"
+        "src-8",
+        "src-12",
+        "src-13",
+        "src-14"
       ],
-      "evidence_note": "Secondary ADFA start, primary Duntroon graduation. Salaried-service status and precise boundaries need personnel evidence; study and military employment must not be duplicated. Own 2022 speech expressly dates Army career 2003–2015, strengthening previously secondary training-start evidence. Five earlier years of youth cadets are separate, not salaried ADF tenure.",
-      "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
+      "evidence_note": "Hastie's Defence-hosted 2022 speeches expressly date his Army career to 2003–2015 and describe three years at ADFA followed by one year at Duntroon. A statutory ADFA review describes cadets as salaried ADF members in a residential military-training and university program, while his public professional profile dates Duntroon January–December 2006. Together these support substantive full-time paid military training, not a separate university job. The exact 2003 entry date, leave and ADFA-to-Duntroon payroll boundary remain unverified; five earlier years of youth cadets are separate unpaid participation.",
+      "counting_note": "Substantive full-time paid training is supported, but start-day precision, leave and the internal transition boundary remain insufficient for a certified headline total. Study and military service are not duplicated.",
       "spell_id": "260805-02"
     },
     {
@@ -270,6 +273,36 @@
       "note": "Provides first-person service/training context, without precise dates or earlier civilian work.",
       "retrieved": "2026-10-02",
       "source_id": "src-11"
+    },
+    {
+      "url": "https://www.minister.defence.gov.au/speeches/2022-04-01/official-opening-act-health-centre-royal-military-college-duntroon",
+      "publisher": "Department of Defence",
+      "title": "Official opening of the ACT Health Centre, Royal Military College Duntroon",
+      "source_type": "first_person",
+      "locator": "1 April 2022; paragraph beginning As some of you may know",
+      "note": "Hastie states that he spent three years at ADFA and one year at Duntroon, providing a first-person duration and sequence for officer training.",
+      "retrieved": "2026-10-03",
+      "source_id": "src-12"
+    },
+    {
+      "url": "https://humanrights.gov.au/resource-hub/by-resource-type/projects-and-reports-folder/appendix-brief-description-adfa",
+      "publisher": "Australian Human Rights Commission",
+      "title": "Appendix A — Brief description of the Australian Defence Force Academy",
+      "source_type": "government_record",
+      "locator": "January 2013; Military college and academic institution, Pathways, and paragraph stating all ADFA cadets are paid a salary package",
+      "note": "Statutory review describes ADFA cadets as ADF members undertaking three-year academic and military training, living on campus and receiving salary; supports paid substantive training status without proving individual leave or entry day.",
+      "retrieved": "2026-10-03",
+      "source_id": "src-13"
+    },
+    {
+      "url": "https://au.linkedin.com/in/andrew-hastie-mp-b15895250",
+      "publisher": "LinkedIn / Andrew Hastie",
+      "title": "Andrew Hastie MP public professional profile",
+      "source_type": "professional_profile",
+      "locator": "Public indexed experience snippet: Military College - Duntroon, Jan 2006-Dec 2006",
+      "note": "Publicly indexed profile supplies month-level Duntroon training boundaries; no authenticated access or restricted content was used.",
+      "retrieved": "2026-10-03",
+      "source_id": "src-14"
     }
   ],
   "research_notes": [
@@ -279,6 +312,7 @@
     "Do not count inactive standby membership after August 2015 as full-time service. Part-time UNSW Regiment service is separate; do not sum deployment durations on top of Army tenure.",
     "Follow-up 2026-10-02: ABC contemporaneous today resignation statement and The West Friday corroboration resolve August resignation event to 21 August 2015. This is not proof of final paid day. Own cadet speech supplies primary 2003 Army start context and separates five earlier years of youth cadets.",
     "Secondary December 2006 commissioning claim remains in tension with frozen officer range from 2007; searches for individual Duntroon graduation/personnel evidence did not resolve it. A general December graduation ceremony cannot establish personal commissioning. Existing conditional August boundary envelope remains a broad earlier envelope, not certified total.",
-    "Targeted first-job/full-time/personnel and court-domain searches did not establish civilian employment or training contract. ABC local-law-firm first-job quotation belongs to Matt Keogh, not Hastie. Next: individual commissioning/regular-service transfer, ADFA pay status, final payroll and non-service breaks."
+    "Targeted first-job/full-time/personnel and court-domain searches did not establish civilian employment or an individual training contract. ABC local-law-firm first-job quotation belongs to Matt Keogh, not Hastie.",
+    "Follow-up 2026-10-03: Defence-hosted first-person evidence establishes a three-year ADFA plus one-year Duntroon sequence; statutory review evidence establishes that ADFA cadets were salaried ADF members undertaking residential military and academic training. A publicly indexed professional profile supplies January-December 2006 for Duntroon. These support full-time paid training status but not a certified 2003 start day, leave record or internal payroll transition. Next: individual appointment/commissioning record, final payroll and non-service breaks."
   ]
 }
