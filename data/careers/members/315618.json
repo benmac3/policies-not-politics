@@ -71,14 +71,15 @@
       "employer": "Australian Hotels Association (NSW)",
       "employment_status": "unknown",
       "end_date": null,
-      "evidence_note": "Official occupation; employer-association work separate from private-enterprise headline. Potential overlap with related law firm unresolved.",
+      "evidence_note": "Official occupation; employer-association work separate from private-enterprise headline. Fair Work Commission correspondence identifies her as AHA NSW Senior Lawyer on 15 August 2022. This is a dated observation, not an appointment boundary, hours statement or proof that the related law-firm role was separate.",
       "fte_fraction": null,
       "government_control_at_time": "private",
       "headline_sector": "excluded",
       "role": "Senior Lawyer",
       "source_ids": [
         "src-snapshot",
-        "src-ownership"
+        "src-ownership",
+        "src-fwc2022"
       ],
       "spell_id": "315618-aha",
       "start_date": null
@@ -113,7 +114,7 @@
       "employer": "St Vincent de Paul Society NSW",
       "employment_status": "unknown",
       "end_date": null,
-      "evidence_note": "June 2023 start from secondary biography, pending primary confirmation. Employer confirms director at October 2023 forum; first-person interview confirms September 2024 role. Exact cessation unknown; no assumption that election date ended employment.",
+      "evidence_note": "June 2023 start from secondary biography, pending primary confirmation. Employer confirms director at October 2023 forum; first-person interview confirms September 2024 role. An April 2025 employer newsletter says an acting regional director had covered the role since February while Ambihaipahar was on leave. Leave start day, paid status, return or cessation remain unknown; election is not assumed to end employment.",
       "fte_fraction": null,
       "government_control_at_time": "private",
       "headline_sector": "excluded",
@@ -122,7 +123,8 @@
         "src-snapshot",
         "src-vinnies",
         "src-interview",
-        "src-secondary"
+        "src-secondary",
+        "src-vinnies-leave2025"
       ],
       "spell_id": "315618-vinnies",
       "start_date": "2023-06"
@@ -311,7 +313,7 @@
     "private_full_time_years": null,
     "public_full_time_years": null
   },
-  "last_reviewed": "2026-10-02",
+  "last_reviewed": "2026-10-04",
   "name": "AMBIHAIPAHAR, Ashvini (Ash)",
   "person_id": "315618",
   "research_notes": [
@@ -328,7 +330,8 @@
     "Remaining follow-up: primary personal service dates/hours for Sydney, ANMF, ETU, AHA and Hospitality Legal; PSI appointment/remuneration; Vinnies start/end and campaign leave; university historical control and association-owned-firm headline treatment; JD date conflict. Avoid repeating broad career queries unless new staff archives or detailed professional evidence become available.",
     "Second follow-up2026-10-02: targeted historical role/profile index supplies previously absent UniversityofSydneyJanuary2008–January2014employment boundaries. Historic2013annualreport documents nonprofit/Senate institutional structure. Degree completion is not an assumed employment start; observedprofilemonths independently supportdates.",
     "Union/law-firm targeted searches supplied no new personal boundaries or hours. Do not infer law teaching from poorly punctuated secondary candidate summary; primary interview describes anatomy teaching and separate law degree. Next leads:2008–14schoolstaff directories/contracts, ANMFandETUlegalstaff transitions, AHA/HospitalityLegalappointments, Vinniescampaignleave.",
-    "Further2October pass after nationwide follow-up: targeted2014/2019/2020 employer queries produced public ETU-pairedJanuary2014–December2020 profile interval, corroborated in employer identity by existing2018 FWC correspondence. No direct profile retry. New Vinnies Winter2025 magazine p24 calls her Metropolitan Regional Director while reporting election, but does not establish employment continued after election, departure date or campaign leave. ANMF/AHA/Hospitality Legal queries still no person-specific boundaries. Next seek union payroll/title transitions and leave records, and legal-firm appointment notice; do not derive ANMF dates from remaining gaps."
+    "Further2October pass after nationwide follow-up: targeted2014/2019/2020 employer queries produced public ETU-pairedJanuary2014–December2020 profile interval, corroborated in employer identity by existing2018 FWC correspondence. No direct profile retry. New Vinnies Winter2025 magazine p24 calls her Metropolitan Regional Director while reporting election, but does not establish employment continued after election, departure date or campaign leave. ANMF/AHA/Hospitality Legal queries still no person-specific boundaries. Next seek union payroll/title transitions and leave records, and legal-firm appointment notice; do not derive ANMF dates from remaining gaps.",
+    "Follow-up 2026-10-04: Fair Work Commission-filed correspondence establishes AHA NSW Senior Lawyer activity on 15 August 2022. Vinnies' April 2025 Broken Bay newsletter says an acting regional director had covered the role since February while Ambihaipahar was on leave, supplying the first primary campaign-leave evidence. Neither observation establishes appointment/cessation, hours, whether leave was paid or whether AHA and Hospitality Legal were separate jobs."
   ],
   "research_status": "blocked",
   "snapshot_chamber": "Member",
@@ -475,6 +478,26 @@
       "note": "Identifies nonprofit accounting status and22-member Senate governing authority under1989Act, responsible to NSWParliament. Historic governance evidence, not an individual hours record or sufficient standalone control decision for entire2008–14span.",
       "retrieved": "2026-10-02",
       "source_id": "src-sydney-ar2013"
+    },
+    {
+      "url": "https://www.fwc.gov.au/documents/sites/award-flexibility-hospitality-retail/am202173-corr-aha-150822.pdf",
+      "publisher": "Fair Work Commission",
+      "title": "AM2021/73 correspondence, 15 August 2022",
+      "source_type": "government_record",
+      "locator": "Email signature and AHA representation",
+      "note": "Publicly filed correspondence identifies Ambihaipahar as AHA NSW Senior Lawyer on 15 August 2022. Personal contact details are not transcribed; the observation does not establish start/end dates or hours.",
+      "retrieved": "2026-10-04",
+      "source_id": "src-fwc2022"
+    },
+    {
+      "url": "https://mavs.vinnies.org.au/media/lxlhlgsh/broken-bay-central-council-newsletter-website.pdf",
+      "publisher": "St Vincent de Paul Society NSW",
+      "title": "Broken Bay member newsletter, April 2025",
+      "source_type": "employer",
+      "locator": "Message from the acting Regional Director",
+      "note": "Employer newsletter says Louis Hearnden had acted since February while Ambihaipahar was on leave. It does not give an exact leave day, pay status, return or cessation.",
+      "retrieved": "2026-10-04",
+      "source_id": "src-vinnies-leave2025"
     }
   ]
 }
