@@ -6,12 +6,12 @@
   "snapshot_party": "Australian Greens",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/300127",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-02",
+  "last_reviewed": "2026-10-03",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
     "calculation_status": "not_calculable",
-    "note": "NewQueenslandpracticefrom1990distinguishedfrom1981predecessorusingfirst-personreturnfromTasmaniaaccount;21yearsbefore2011mergercanrefertothislaterstage. Morris-Nunnpartnershipseparated,2017Architectusemployerobservationand2009/2010advisoryserviceadded. Exactentities,overlaps,hours,leaveand2021cessationremainunresolved; totalsnull."
+    "note": "NewQueenslandpracticefrom1990distinguishedfrom1981predecessorusingfirst-personreturnfromTasmaniaaccount;21yearsbefore2011mergercanrefertothislaterstage. Morris-Nunnpartnershipseparated,2017Architectusemployerobservationand2009/2010advisoryserviceadded. UQ currently lists the adjunct title and its policy says title holders receive no remuneration; continuity after the Handbook's 2021 endpoint is unresolved. Exactentities,overlaps,hours,leaveand2021Architectuscessationremainunresolved; totalsnull."
   },
   "career_spells": [
     {
@@ -86,8 +86,8 @@
       "employer": "Architectus Brisbane and subsequently amalgamated national Architectus practice",
       "role": "Design director and design strategy leader",
       "start_date": "2011",
-      "end_date": "2021",
-      "date_precision": "year",
+      "end_date": null,
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "private_enterprise",
@@ -122,10 +122,12 @@
       "counting_status": "excluded",
       "source_ids": [
         "src-1",
-        "src-2"
+        "src-2",
+        "src-13",
+        "src-14"
       ],
-      "evidence_note": "The Parliamentary Handbook records an adjunct professorship at the University of Queensland from 2009 to 2021. Published sources reviewed do not establish whether the adjunct appointment was remunerated, its workload, or whether it constituted employment; it overlapped private architectural work.",
-      "counting_note": "University work is reported separately and excluded from headline public/private totals; the adjunct appointment's employment status is unresolved."
+      "evidence_note": "The Parliamentary Handbook records an adjunct professorship at the University of Queensland from 2009 to 2021, while UQ's current official profile and staff directory still list Watson-Brown as Adjunct Professor when retrieved on 3 October 2026. The official UQ policy states that honorary and adjunct title holders receive no remuneration from the University. The evidence does not establish uninterrupted title tenure after 2021, appointment workload or any separately paid work.",
+      "counting_note": "The adjunct title is an unpaid university affiliation under the current UQ policy and is excluded from headline public/private totals. The conflicting 2021 Handbook endpoint and current UQ listing preclude a continuous-duration claim."
     },
     {
       "spell_id": "300127-06",
@@ -352,6 +354,26 @@
       "note": "NamesWatson-Brown as2010nationalawardjuror; awardyearisnotemploymentboundary.",
       "retrieved": "2026-10-02",
       "source_id": "src-12"
+    },
+    {
+      "url": "https://adp.uq.edu.au/profile/710/elizabeth-watson-brown",
+      "publisher": "University of Queensland",
+      "title": "Adjunct Professor Elizabeth Watson-Brown",
+      "source_type": "employer_record",
+      "locator": "Current title and School affiliation",
+      "note": "Official current profile and staff directory still list Watson-Brown as Adjunct Professor when retrieved3October2026. A current listing is not proof of uninterrupted tenure since2009 or of paid work.",
+      "retrieved": "2026-10-03",
+      "source_id": "src-13"
+    },
+    {
+      "url": "https://policies.uq.edu.au/document/view-current.php?id=77",
+      "publisher": "University of Queensland",
+      "title": "Honorary and Adjunct Title Holders Policy",
+      "source_type": "employer_record",
+      "locator": "Sections2and5, definition and general conditions",
+      "note": "Current official policy defines adjunct title holders and states that title holders receive no remuneration from UQ. It does not establish Watson-Brown's workload or appointment continuity.",
+      "retrieved": "2026-10-03",
+      "source_id": "src-14"
     }
   ],
   "research_notes": [
@@ -362,6 +384,7 @@
     "Confirm that pre-election Greens activity was wholly unpaid and identify any other paid work between architectural practice ending in 2021 and election on 21 May 2022.",
     "Follow-up2026-10-02: firsthandNgungunHouse1990return/newpracticeaccount,2012SevenAgeshomework/childcare,professionalarchiveindexed1990,Architectus2March2017employernews,2009Boardlaunchand2010juryreviewed. NoFTinferencefrompracticeleadershiporstaffcount.",
     "Remaining: preciseClare/Morris-Nunndatesandentitynames,predecessorpracticehistory,paid/unpaidleave/workload,Architectusnationaltransferandlastpaidday,UQadjunctremuneration,individualpanelcontracts. Childcarecannotbeconvertedtofixedbreakwithoutdates.",
-    "RecoveredArchitectureAuadvantage-of-sizeopen400Timeout; otherfirst-personandemployerpagesaccessible. Digitalarchivebodyempty; indexed1990claimcross-checkedagainstfirst-personprojectessay."
+    "RecoveredArchitectureAuadvantage-of-sizeopen400Timeout; otherfirst-personandemployerpagesaccessible. Digitalarchivebodyempty; indexed1990claimcross-checkedagainstfirst-personprojectessay.",
+    "Follow-up2026-10-03: officialUQprofile/currentdirectory still listAdjunctProfessor, conflictingwithHandbook2009–2021 endpoint. CurrentUQpolicy states titleholders receive no remuneration. Endsetunknown ratherthanclaimingcontinuous2009–presentservice; obtain appointment/renewal records to resolve any gap. No new Architectus cessation, hours, leave or 2021–2022 paid-work evidence found."
   ]
 }
