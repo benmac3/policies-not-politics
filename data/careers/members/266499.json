@@ -6,7 +6,7 @@
   "snapshot_party": "Liberal Party of Australia",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/266499",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-02",
+  "last_reviewed": "2026-10-03",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -163,9 +163,9 @@
       "spell_id": "266499-08",
       "employer": "Federation Square",
       "role": "Non-executive director",
-      "start_date": "2015",
-      "end_date": "2016",
-      "date_precision": "year",
+      "start_date": "2014-09-26",
+      "end_date": "2015-06-15",
+      "date_precision": "day",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "public_corporation",
@@ -175,9 +175,10 @@
       "source_ids": [
         "src-1",
         "src-2",
-        "oct2-fed"
+        "oct2-fed",
+        "oct3-fed"
       ],
-      "evidence_note": "Public entity board work distinct from full-time employment. 2014 report anticipates her arrival in September2014, conflicting with official2015 start. Prospective statement does not establish actual appointment; retain official year pending confirmation.",
+      "evidence_note": "Public entity board work distinct from full-time employment. The 2014–15 directors' report resolves the earlier prospective statement and later year-only biography: director from 26 September 2014 to 15 June 2015. She attended all five board meetings and all five audit-committee meetings held during her tenure. Responsible-person remuneration is aggregated, so no individual pay amount is inferred.",
       "counting_note": "Outside the two employment headlines under the codebook; retained as career context."
     },
     {
@@ -303,6 +304,16 @@
       "note": "Prospective welcome to Jane Hume on Louise Staley retirement September2014; not proof appointment took effect. Chair text contains inconsistent2014–15 label; chronology needs next report.",
       "retrieved": "2026-10-02",
       "source_id": "oct2-fed"
+    },
+    {
+      "url": "https://fedsquare.wpenginepowered.com/wp-content/uploads/2019/08/Annual-Report-30-June-2015.pdf",
+      "publisher": "Fed Square Pty Ltd",
+      "title": "Annual report for the year ended 30 June 2015",
+      "source_type": "employer",
+      "locator": "PDF pp25–26 and65; directors' report, meeting attendance and responsible persons",
+      "note": "Gives exact directorship interval 26 September 2014–15 June 2015 and five of five board and audit-committee meetings attended. Remuneration bands are aggregate, not attributable to an individual.",
+      "retrieved": "2026-10-03",
+      "source_id": "oct3-fed"
     }
   ],
   "research_notes": [
@@ -310,8 +321,8 @@
     "ASFA interview describes six years maternity leave without exact endpoints and compresses subsequent employment chronology. Do not count an uninterrupted twenty-year career or back-calculate leave dates from children, titles or elections.",
     "AustralianSuper's 2016 trustee accounting classification differs from nonprofit legal structures at some other funds. Retained as privately controlled financial-services employment candidate, subject to precise employing entity and FTE verification.",
     "Non-executive directorships are excluded even where government controls the organisation. Neither unknown headline becomes zero.",
-    "Follow-up2026-10-02: employer annual report resolves hospital resignation and committee roles. Government-library Fed Square2014 report reveals prospective September2014 appointment, not safely substituted for parliamentary2015 start. Targeted search did not locate confirming2015 appointment record.",
+    "Follow-up2026-10-03: Fed Square's 2014–15 directors' report resolves the governance interval as 26 September 2014–15 June 2015 and confirms meeting attendance. This supersedes the earlier unresolved conflict between the prospective September2014 welcome and the parliamentary biography's year-only2015 label; governance remains excluded from employment headlines.",
     "Searches of historical governance reports and public financial-services profiles did not resolve banking/policy FTE or six-year leave boundaries. Financial Standard profile was subscription-only; no bypass attempted. APH retirement-inquiry footnotes open returned Internal Error; indexed hearing reference remains a lead only.",
-    "Next leads: Fed Square2014–15/2015–16 annual reports or appointment instrument, individual employer appointment/FTE records, original brokerage name and leave endpoints. Totals remain unknown; excluded governance is not employment."
+    "Next leads: individual employer appointment/FTE records for banking and AustralianSuper, original brokerage name, and six-year maternity-leave endpoints. Totals remain unknown; excluded governance is not employment."
   ]
 }
