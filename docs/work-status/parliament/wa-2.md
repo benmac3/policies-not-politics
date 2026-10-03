@@ -5,7 +5,7 @@
 - 112096 LINES, the Hon. Susan (Sue): blocked; last review 2026-10-03. Follow-up: Teaching/community employer names/hours; pre-1984 work; 2000/2001 promotion conflict; union exit/leave; ACFA term. NDIS workforce expert-group announcement is now dated 3 May 2012, and aged-care/National Aged Care Alliance duties are documented within the union spell.
 
 
-- 298800 MASCARENHAS, Zaneta Felice Antoinetta: blocked; last review2026-10-01. Follow-up: Iluka/GHD/Energetics hours and precise dates/leave; Woolworths early job; AYAD/WSP volunteer versus pay terms; all six boards and exact union/TAFE/WRAS tenure.
+- 298800 MASCARENHAS, Zaneta Felice Antoinetta: blocked; last review 2026-10-03. Follow-up: Iluka/GHD/Energetics hours and precise dates/leave; Woolworths early job; AYAD/WSP volunteer versus pay terms; remaining boards and exact union/TAFE terms. WRAS board/secretary service is now bounded to the 2019 AGM; a separate 2012 WA branch treasurer office is recorded.
 
 
 - 283585 O'SULLIVAN, Matt: blocked; last review2026-10-01. Follow-up: Apprenticeship terms; church entities/payroll; 1999–2000/2007–08 gaps; Minderoo 2018/2019 endpoint conflict; consulting entity/hours and campaign leave.
@@ -101,7 +101,8 @@
 ## Active follow-up — 2026-10-03 16:00 Brisbane cycle, continuation 1
 
 - Attempt started: 2026-10-03T16:55:37+10:00. WA-2 segment started after a remotely verified WA-1 pass. Starting WA-2 head: c504b418ecae0578427ec595e8b4a7407c44f672; no changed head or active conflicting writer observed. Batch assignment and repository validation pass.
-- Current continuation progress: 7 distinct members processed nationally, 0 new initial, 7 materially enriched existing, 0 newly research-complete. Cycle cumulative: 30 distinct processed, 0 new, 20 materially enriched, 0 complete. Brisbane-day cumulative: 0 new, 108 materially enriched, 0 complete. Counts include only remotely verified member commits; checkpoint-only commits are excluded.
+- Current continuation progress: 8 distinct members processed nationally, 0 new initial, 8 materially enriched existing, 0 newly research-complete. Cycle cumulative: 31 distinct processed, 0 new, 21 materially enriched, 0 complete. Brisbane-day cumulative: 0 new, 109 materially enriched, 0 complete. Counts include only remotely verified member commits; checkpoint-only commits are excluded.
 - Susan Lines: materially enriched — a Commonwealth release dates her NDIS Workforce and Sector Capacity expert-group appointment evidence to 3 May 2012, while a first-person speech documents roughly three years of aged-care reform work and significant National Aged Care Alliance representation inside the union role. Early employers, hours, ACFA term and exact union boundaries remain unresolved.
-- Durable next cursor: Zaneta Mascarenhas (298800).
+- Zaneta Mascarenhas: materially enriched — WRAS reporting bounds board and secretary service to the 2019 AGM, while a registered-organisation return adds her separate 2012 WA branch treasurer office. Engineering hours/month dates, leave and remaining governance terms remain unresolved.
+- Durable next cursor: Matt O'Sullivan (283585).
 - OUTCOME: ongoing. STOPPING REASON: none; continue after remote verification. Successor not requested while research remains active. Scheduler terminal status unavailable.

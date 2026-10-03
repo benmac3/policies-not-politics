@@ -6,12 +6,12 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/298800",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-02",
+  "last_reviewed": "2026-10-03",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
     "calculation_status": "not_calculable",
-    "note": "Added earlier board membership, student council governance and Murdoch study. Return-to-work evidence does not establish full-time intervals or precise leave. Named private engineering employers remain supported; no headline totals."
+    "note": "Bounded Welfare Rights board/secretary service to the 2019 AGM and added the separately recorded 2012 WA branch treasurer office. Return-to-work evidence does not establish full-time intervals or precise leave; no headline totals."
   },
   "career_spells": [
     {
@@ -295,7 +295,7 @@
       "employer": "TLC Emergency Welfare Foundation of WA Inc trading as Welfare Rights & Advocacy Service",
       "role": "Board secretary",
       "start_date": "2017-02",
-      "end_date": null,
+      "end_date": "2019",
       "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
@@ -305,9 +305,10 @@
       "counting_status": "excluded",
       "source_ids": [
         "src-4",
-        "src-9"
+        "src-9",
+        "src-12"
       ],
-      "evidence_note": "Employer annual report identifies board role distinct from staff; end unknown. Parliamentary biography places broader board membership from 2016, before secretary appointment in February 2017; these are distinct capacities, not conflicting starts.",
+      "evidence_note": "Employer annual reports identify the board role as distinct from staff. The 2019–20 report names Mascarenhas as secretary to the 2019 AGM and a successor from that AGM; exact AGM date is not established. Parliamentary biography places broader board membership from 2016, before secretary appointment in February 2017; these are distinct capacities, not conflicting starts.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "298800-15"
     },
@@ -411,7 +412,7 @@
       "employer": "TLC Emergency Welfare Foundation of WA Inc trading as Welfare Rights & Advocacy Service",
       "role": "Board member (before and alongside secretary role)",
       "start_date": "2016",
-      "end_date": null,
+      "end_date": "2019",
       "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
@@ -421,11 +422,31 @@
       "counting_status": "excluded",
       "source_ids": [
         "src-9",
-        "src-4"
+        "src-4",
+        "src-12"
       ],
-      "evidence_note": "Official biography starts board membership in 2016; secretary from February 2017 already represented separately. Concurrent capacities within one board; no additional employment duration.",
+      "evidence_note": "Official biography starts board membership in 2016; the 2016–17 report fixes entry to the October 2016 AGM. The 2019–20 report records secretary service only to the 2019 AGM and a successor thereafter, supporting board departure by that AGM without an exact day. Secretary from February 2017 is represented separately. Concurrent capacities within one board; no additional employment duration.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "298800-21"
+    },
+    {
+      "employer": "Professionals Australia / APESMA, WA Branch",
+      "role": "Treasurer",
+      "start_date": "2012",
+      "end_date": "2012",
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "union",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-13"
+      ],
+      "evidence_note": "Registered-organisation annual return lists Mascarenhas as WA branch treasurer in its 2012 officeholder annexure. This may overlap the separately reported national vice-presidency and is governance, not another substantive employment interval; exact term boundaries and remuneration remain unknown.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "298800-22"
     }
   ],
   "sources": [
@@ -538,6 +559,26 @@
       "note": "First-person account of returning to demanding work and childcare beginning in 2019. Does not identify exact leave dates or work fraction; no birth dates derived.",
       "retrieved": "2026-10-02",
       "source_id": "src-11"
+    },
+    {
+      "url": "https://wraswa.org.au/wp-content/uploads/ANNUAL-REPORT-2019-2020.pdf",
+      "publisher": "Welfare Rights & Advocacy Service",
+      "title": "Annual Report 2019–2020",
+      "source_type": "employer",
+      "locator": "p3 Personnel and Staff Profile; Board",
+      "note": "Lists Zaneta Mascarenhas as secretary to the 2019 AGM and Rebecca Dennison as secretary from the AGM, distinguishing board members from permanent and contract staff.",
+      "retrieved": "2026-10-03",
+      "source_id": "src-12"
+    },
+    {
+      "url": "https://regorgs.fwc.gov.au/sites/default/files/migration/322/215v-ar2012-380.pdf",
+      "publisher": "APESMA / Fair Work Commission",
+      "title": "Annual return AR2012/380",
+      "source_type": "government_record",
+      "locator": "Annexure J 2012, Western Australia Branch Committee",
+      "note": "Lists Zaneta Mascarenhas, engineer, as WA branch treasurer; exact term boundaries, workload and remuneration are not supplied.",
+      "retrieved": "2026-10-03",
+      "source_id": "src-13"
     }
   ],
   "research_notes": [
@@ -548,6 +589,7 @@
     "Follow-up 2026-10-02: official APH qualifications/community section, Curtin 2001 annual-report council index, South Metropolitan TAFE 2019/2020 report searches, public professional-profile index and 28 November 2022 childcare speech. Added distinct governance/study evidence and return-to-work caveat.",
     "Curtin report PDF returned (403) Forbidden; indexed council name and adjacent date retained with uncertain heading rather than inventing start/end. South Metropolitan TAFE 2020 PDF open returned Internal Error; existing 2018/2021 evidence retained. 2012 West Australian engineering feature PDF has no extractable text; remains a later manual-review lead. Source errors do not block the national queue.",
     "Public LinkedIn index displays a shared item about maternity leave; sharing alone is insufficient attribution of the underlying first-person statement. No individual leave date or employment fraction assigned. Energetics full-time/leave searches also found another employee tagging Mascarenhas; that employee's leave is not hers.",
-    "Next leads: obtain readable Curtin council heading/appointment record and 2012 engineering feature; archived Energetics staff CV/individual work arrangements and AYAD placement terms remain needed. APH board membership from 2016 and secretary from 2017 are separate capacities; do not count twice."
+    "Next leads: obtain readable Curtin council heading/appointment record and 2012 engineering feature; archived Energetics staff CV/individual work arrangements and AYAD placement terms remain needed. APH board membership from 2016 and secretary from 2017 are separate capacities; do not count twice.",
+    "Follow-up 2026-10-03: WRAS 2019–20 reporting establishes that Mascarenhas served as secretary only to the 2019 AGM and names her successor from that AGM, bounding both board and secretary service without inventing an exact AGM day. A registered-organisation annual return separately records her as WA branch treasurer in 2012 alongside the reported national vice-presidency. Targeted employer searches still yielded no defensible month dates, hours or leave for Iluka, GHD or Energetics."
   ]
 }
