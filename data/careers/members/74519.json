@@ -6,12 +6,12 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/74519",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-02",
+  "last_reviewed": "2026-10-03",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
     "calculation_status": "not_calculable",
-    "note": "Added previously unrecorded McDonalds shift-manager work and 2004/2005 Guild roles, including first-hand full-time presidency evidence. May 2018 party handover and separate parental-leave accounts documented. Private job dates/hours and complete early coverage remain unknown."
+    "note": "Added previously unrecorded McDonalds shift-manager work and 2004/2005 Guild roles, including first-hand full-time presidency evidence. Official 2010-11 records now establish adviser/senior-adviser work for Kevin Rudd at dated points; exact appointment boundaries, hours and leave remain unknown. May 2018 party handover and separate parental-leave accounts documented. Private job dates/hours and complete early coverage remain unknown."
   },
   "career_spells": [
     {
@@ -72,9 +72,12 @@
         "src-3",
         "src-4",
         "src-5",
-        "src-7"
+        "src-7",
+        "src-13",
+        "src-14",
+        "src-15"
       ],
-      "evidence_note": "Rudd staff work strongly corroborated; year range and title transitions need appointment-level records. Not ordinary public service.",
+      "evidence_note": "Rudd staff work strongly corroborated. Prime Minister and Cabinet travel approvals identify Gorman as Senior Adviser in December 2010 and Adviser in March 2011; the Australian Political Exchange Council identifies him as adviser to Foreign Minister Kevin Rudd during 7-19 December 2011. These are dated primary title points, not proof of the full 2010-13 boundary, hours or leave; later principal-adviser title still lacks appointment-level dates. Not ordinary public service.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "74519-03"
     },
@@ -360,6 +363,36 @@
       "note": "Public indexed report says Dixon succeeded Gorman in May 2018. Month of office handover not necessarily final payroll date.",
       "retrieved": "2026-10-02",
       "source_id": "src-12"
+    },
+    {
+      "url": "https://www.pmc.gov.au/sites/default/files/foi-logs/foi-2011-204.pdf",
+      "publisher": "Department of the Prime Minister and Cabinet",
+      "title": "FOI/2011/204: ministerial overseas travel correspondence",
+      "source_type": "government_record",
+      "locator": "Letter dated 7 December 2010; approval for Kevin Rudd travel, PDF search for Patrick Gorman",
+      "note": "Official correspondence identifies Patrick Gorman as Senior Adviser accompanying Foreign Minister Kevin Rudd for part of the 8-20 December 2010 itinerary.",
+      "retrieved": "2026-10-03",
+      "source_id": "src-13"
+    },
+    {
+      "url": "https://www.pmc.gov.au/sites/default/files/foi-logs/pmo-2011-016.pdf",
+      "publisher": "Department of the Prime Minister and Cabinet",
+      "title": "FOI reference PMO/2011/016: ministerial overseas travel correspondence",
+      "source_type": "government_record",
+      "locator": "Letter dated 5 March 2011; PDF search for Patrick Gorman",
+      "note": "Official correspondence identifies Patrick Gorman as Adviser accompanying Foreign Minister Kevin Rudd, providing a second dated title point.",
+      "retrieved": "2026-10-03",
+      "source_id": "src-14"
+    },
+    {
+      "url": "https://www.auspolexchange.gov.au/sites/default/files/2020-10/apec_ar_10-13.pdf",
+      "publisher": "Australian Political Exchange Council",
+      "title": "Tri-ennial Report 2010-13",
+      "source_type": "government_record",
+      "locator": "Page 70 (PDF page 74), Individual Study Tours for 2011-2012; lines 2021-2025 in indexed text",
+      "note": "Lists Patrick Gorman as Adviser to Kevin Rudd, Minister for Foreign Affairs, for an Argentina study tour from 7 to 19 December 2011.",
+      "retrieved": "2026-10-03",
+      "source_id": "src-15"
     }
   ],
   "research_notes": [
