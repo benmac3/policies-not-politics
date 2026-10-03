@@ -129,7 +129,7 @@ Detailed attempted avenues, discrepancies and remaining leads are preserved in e
 - Execution totals after remote verification: 23 distinct members processed nationally (0 new initial, 13 materially enriched existing, 10 nonmaterial follow-ups), 0 newly research-complete. Cycle cumulative: same. Brisbane-day cumulative: 0 new initial, 101 materially enriched existing, 0 newly research-complete; nonmaterial searches excluded from the material count. National coverage remains 226/226 initial, 226 unresolved, 0 complete.
 - OUTCOME: Returned normally — no blocking error observed. Error code/message: none. Scheduler terminal status unavailable.
 - STOPPING REASON: Voluntary stop; no observed blocking limit — this execution is concluding to publish the mandatory individual result after a remotely verified checkpoint and request the single authorized immediate successor. Patrick Gorman was not processed in this execution.
-- Successor status at closure checkpoint: not yet requested; request must occur only after this checkpoint is remotely verified.
+- Successor status: Requested/accepted — result pending. Automations response: `Immediate run requested. The saved schedule is unchanged.` Acceptance is asynchronous and does not establish execution completion or delivery.
 
 ### This cycle's member results
 
