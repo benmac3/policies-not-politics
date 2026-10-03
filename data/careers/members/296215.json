@@ -6,12 +6,12 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/296215",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-02",
+  "last_reviewed": "2026-10-03",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
     "calculation_status": "not_calculable",
-    "note": "Named WA Health Aboriginal Healing Project management established in contemporary 2007–2008 evidence; added SWALSC program work and advisory roles, exact Our Watch appointment, and company-directorship evidence. Personal employment boundaries, hours and leave remain incomplete."
+    "note": "Public-policy and community-sector chronology is materially expanded with Centrelink, WA Health year ranges, a 2016 Women’s Council project role, 2018 Morrgul and UWA work, and exact 2018–2019 WACOSS-hosted Noongar Family Safety dates. Hours, leave and several transitions remain incomplete."
   },
   "career_spells": [
     {
@@ -77,9 +77,9 @@
     {
       "employer": "Sexual Assault Resource Centre, Perth",
       "role": "Aboriginal Liaison Worker",
-      "start_date": null,
-      "end_date": null,
-      "date_precision": "unknown",
+      "start_date": "2004",
+      "end_date": "2006",
+      "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "public_service",
@@ -88,18 +88,19 @@
       "counting_status": "insufficient_evidence",
       "source_ids": [
         "src-4",
+        "src-5",
         "src-12"
       ],
-      "evidence_note": "Government announcement establishes prior service by May 2008. Public-health-service classification provisional pending employing-unit and historical control record. First-person 2008 account confirms SARC preceded current healing-project management; no exact transition date.",
+      "evidence_note": "Business News career table dates the Department of Health Aboriginal Liaison Officer role to 2004–2006; a 2008 government biography and Cox’s first-person account identify the work as Aboriginal Liaison Worker at Perth Sexual Assault Resource Centre. Year boundaries remain secondary and the exact employing unit, transition date, hours and leave are unverified.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "296215-04"
     },
     {
       "employer": "Western Australian Department of Health, Women’s Health Policy and Project Unit",
-      "role": "Manager, Aboriginal Healing Project",
-      "start_date": null,
-      "end_date": null,
-      "date_precision": "unknown",
+      "role": "Project Manager, Aboriginal Healing Project and Cultural Security Program",
+      "start_date": "2006",
+      "end_date": "2012",
+      "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "public_service",
@@ -109,10 +110,11 @@
       "source_ids": [
         "src-1",
         "src-2",
+        "src-5",
         "src-11",
         "src-12"
       ],
-      "evidence_note": "Contemporary HREOC report and Cox-authored ACSSA contribution identify project and department, with observations in November 2007 and 2008. Appointment and cessation remain unknown; project funding from 2005 is not a personal start date. Does not establish whether this exhausts all state-government roles.",
+      "evidence_note": "Business News career table supplies 2006–2012 and the combined project/cultural-security title. Contemporary HREOC and Cox-authored ACSSA evidence independently identify her as manager of the Aboriginal Healing Project in the Department unit in November 2007 and 2008. Exact appointment/cessation, hours and leave remain unverified; 2005 project funding is not treated as her start date.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "296215-05"
     },
@@ -274,6 +276,104 @@
       "evidence_note": "Organisation’s 2016 conference report confirms membership, not paid appointment or full-time status; dates unknown.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "296215-13"
+    },
+    {
+      "employer": "Centrelink",
+      "role": "Public policy role",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "public_service",
+      "headline_sector": "public",
+      "government_control_at_time": "public",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-17"
+      ],
+      "evidence_note": "In a 2021 interview Cox described moving from the police into a public-policy role at Centrelink before later advocacy work. Employer and sequence are established, but no appointment dates, title, hours or leave were supplied.",
+      "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
+      "spell_id": "296215-14"
+    },
+    {
+      "employer": "Women’s Council for Domestic and Family Violence Services WA",
+      "role": "Project Officer, Keeping Kids Safe Project",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "nonprofit",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-20"
+      ],
+      "evidence_note": "A contemporaneous September 2016 forum biography identifies this as Cox’s current role; an indexed 2015–16 employer annual report also names Dorinda among Women’s Council personnel, but does not establish an appointment boundary. Hours, remuneration and start/end dates remain unknown.",
+      "counting_note": "Nonprofit employment is excluded from public/private employment headlines under the codebook.",
+      "spell_id": "296215-15"
+    },
+    {
+      "employer": "Morrgul Pty Ltd",
+      "role": "Procurement Advisor, South WA",
+      "start_date": "2018",
+      "end_date": "2018",
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "nonprofit",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-5",
+        "src-21"
+      ],
+      "evidence_note": "Business News career table records the procurement-adviser role in 2018. ABN Lookup confirms Morrgul was an Australian private company registered as a charity during that year. Month boundaries, hours and overlap with consulting and UWA work remain unknown.",
+      "counting_note": "Employment by a registered charity is excluded from public/private employment headlines under the codebook.",
+      "spell_id": "296215-16"
+    },
+    {
+      "employer": "University of Western Australia Law School",
+      "role": "Research Consultant",
+      "start_date": "2018",
+      "end_date": "2019",
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "university",
+      "headline_sector": "excluded",
+      "government_control_at_time": "public",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-5",
+        "src-19",
+        "src-22"
+      ],
+      "evidence_note": "Business News career table supplies the 2018–2019 year range. An October 2018 MG Corporation newsletter contemporaneously identifies Cox as a UWA Law School Research Consultant; UWA’s repository records a Cox co-authored output from the associated research program. Exact contract boundaries, hours and remuneration remain unknown.",
+      "counting_note": "University employment is excluded from public/private employment headlines under the codebook.",
+      "spell_id": "296215-17"
+    },
+    {
+      "employer": "Western Australian Council of Social Service / Noongar Family Safety and Wellbeing Council",
+      "role": "Manager, Noongar Family Safety and Wellbeing Council",
+      "start_date": "2018-12-10",
+      "end_date": "2019-06-30",
+      "date_precision": "day",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "nonprofit",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-18"
+      ],
+      "evidence_note": "WACOSS’s 2018–19 annual report lists Cox among its social-policy staff and gives exact from/until dates. Contemporary descriptions later call her acting executive officer, but no evidence establishes an additional post-30 June 2019 payroll period, hours or remuneration.",
+      "counting_note": "Nonprofit employment is excluded from public/private employment headlines under the codebook.",
+      "spell_id": "296215-18"
     }
   ],
   "sources": [
@@ -322,8 +422,8 @@
       "publisher": "Business News WA",
       "title": "Dorinda Cox",
       "source_type": "news",
-      "locator": "Career roles: Program Manager, South West Aboriginal Land and Sea Council 2013–2014; consulting biography",
-      "note": "Public indexed Business News career table identifies SWALSC program management in 2013–2014; employer primary corroboration still needed.",
+      "locator": "Knowledge Bank person roles, lines 213–244; biography, lines 168–172",
+      "note": "Public career table identifies Department of Health 2004–2006 and 2006–2012 roles, SWALSC 2013–2014, Morrgul 2018 and UWA 2018–2019; biography dates Inspire Change to 2013. Primary corroboration is used where available; year ranges do not prove exact boundaries or hours.",
       "retrieved": "2026-10-02",
       "source_id": "src-5"
     },
@@ -436,6 +536,66 @@
       "note": "Public index lists Inspire Change Consulting Group. Direct open failed; precise declaration date not verified. Directorship does not prove continued active paid consulting.",
       "retrieved": "2026-10-02",
       "source_id": "src-16"
+    },
+    {
+      "url": "https://nit.com.au/08-09-2021/2327/motivated-to-make-change",
+      "publisher": "National Indigenous Times",
+      "title": "Motivated to make change",
+      "source_type": "news",
+      "locator": "8 September 2021, lines 41–49; interview with Cox",
+      "note": "Cox describes leaving WA Police at 27, moving into a Centrelink public-policy role, then advocacy with women who experienced domestic, family and sexual violence.",
+      "retrieved": "2026-10-03",
+      "source_id": "src-17"
+    },
+    {
+      "url": "https://www.wacoss.org.au/wp-content/uploads/2019/10/wacoss-annual-report-2019-DIGITAL.pdf",
+      "publisher": "Western Australian Council of Social Service",
+      "title": "Annual Report 2018–2019",
+      "source_type": "employer_record",
+      "locator": "PDF page 8, staff list, lines 352–380",
+      "note": "Lists Dorinda Cox as Manager, Noongar Family Safety and Wellbeing Council, from 10 December 2018 until 30 June 2019.",
+      "retrieved": "2026-10-03",
+      "source_id": "src-18"
+    },
+    {
+      "url": "https://mgcorp.com.au/wp-content/uploads/2024/02/MG-Newsletter-2018-10.pdf",
+      "publisher": "MG Corporation",
+      "title": "MG Corporation Newsletter, October 2018",
+      "source_type": "organisation_record",
+      "locator": "PDF page 2, Aboriginal Police Advisory Forum members, lines 76–100",
+      "note": "Contemporaneously identifies Cox as a Research Consultant at the UWA Law School.",
+      "retrieved": "2026-10-03",
+      "source_id": "src-19"
+    },
+    {
+      "url": "https://joy.org.au/broad/2016/09/08/economic-empowerment-women-girls-forum-dorinda-cox/",
+      "publisher": "JOY 94.9 BROAD",
+      "title": "The Economic Empowerment of Women and Girls Forum: Dorinda Cox",
+      "source_type": "news",
+      "locator": "5 September 2016 forum biography, lines 38–43",
+      "note": "Contemporaneous event biography identifies Cox as Project Officer for the Keeping Kids Safe Project at the Women’s Council and Managing Director of Inspire Change.",
+      "retrieved": "2026-10-03",
+      "source_id": "src-20"
+    },
+    {
+      "url": "https://abr.business.gov.au/ABN/View?id=28163168796",
+      "publisher": "Australian Business Register",
+      "title": "Current details for ABN 28 163 168 796 — Morrgul Pty Ltd",
+      "source_type": "government_record",
+      "locator": "Entity type and ACNC registration",
+      "note": "Records Morrgul as an Australian private company active from 3 May 2013 and registered as a charity from 28 August 2014.",
+      "retrieved": "2026-10-03",
+      "source_id": "src-21"
+    },
+    {
+      "url": "https://research-repository.uwa.edu.au/en/publications/aboriginal-and-torres-strait-islander-women-in-australian-prisons/",
+      "publisher": "University of Western Australia",
+      "title": "Aboriginal and Torres Strait Islander Women in Australian Prisons",
+      "source_type": "university_record",
+      "locator": "UWA Law School affiliation and publication metadata, lines 8–15 and 73–101",
+      "note": "UWA repository records Cox as co-author on a 2020 research output affiliated with UWA Law School; corroborates research participation but not employment boundaries or hours.",
+      "retrieved": "2026-10-03",
+      "source_id": "src-22"
     }
   ],
   "research_notes": [
@@ -445,6 +605,7 @@
     "Corroborate 2013 consulting start and resolve a commercial aggregator’s March 2015 lead; obtain business entity, actual workload, breaks and 2021 cessation/continuing interests. Review primary interest registers. Resolve board dates/pay and concurrent consulting.",
     "Follow-up 2026-10-02: HREOC 2007 report and first-person ACSSA 2008 contribution resolve unnamed state project and department; project funding date deliberately not used as Cox appointment. Our Watch appointment now 7 November 2016.",
     "Added SWALSC program-manager 2013–2014 role from reliable business career table; December 2021 SWALSC newsletter only congratulates election and does not corroborate employment dates. Contact-aggregator August 2013–June 2014 remains a lead, not adopted.",
-    "Ombudsman 2014–2015 and 2019–2020 panel observations and ANROWS 2016 practitioner group recorded separately from employment. Senate directorship index does not prove active consulting after 2021. Next: SARC/WA Health personnel histories, SWALSC 2013–2014 annual reports, company formation and payroll/workload/leave; retail employer unresolved. Recovered source errors: legacy Ombudsman redirects, ACSSA timeout, Senate register open failure."
+    "Ombudsman 2014–2015 and 2019–2020 panel observations and ANROWS 2016 practitioner group recorded separately from employment. Senate directorship index does not prove active consulting after 2021. Next: SARC/WA Health personnel histories, SWALSC 2013–2014 annual reports, company formation and payroll/workload/leave; retail employer unresolved. Recovered source errors: legacy Ombudsman redirects, ACSSA timeout, Senate register open failure.",
+    "Follow-up 2026-10-03: Business News provides year-level Department of Health, Morrgul and UWA roles; primary WACOSS annual report fixes Noongar Family Safety management to 10 December 2018–30 June 2019, while contemporary MG Corporation and UWA material corroborate research work. A Cox interview adds the otherwise omitted Centrelink public-policy role after police service; exact dates remain unknown. September 2016 event material establishes Keeping Kids Safe Project employment but not boundaries or hours. Commercial contact-aggregator month dates and additional titles were not adopted. Remaining gaps: exact Centrelink/SARC/Health transitions, all hours/leave, 2012–2013 and 2014–2016 chronology, Morrgul/UWA contract boundaries, post-June 2019 Noongar Family Safety status, and consulting workload/cessation."
   ]
 }
