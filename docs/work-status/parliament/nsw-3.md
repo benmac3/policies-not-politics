@@ -170,9 +170,10 @@ Batch coverage, record fields, dates, enums, source references, build_careers.lo
 
 ## Active follow-up — 2026-10-03 12:00 Brisbane cycle
 
-- Cycle:2026-10-03 12:00 Brisbane; continuation0. Start observed12:03:05+10:00; latest checkpoint:2026-10-03T12:28:00+10:00; end not observed. Entered nsw-3 after completing the current nsw-2 further-pass cursor. Starting nsw-3 remote head:b41c2ee4bfcee7c8beee0b84e5896fe8a59b71d6; no competing branch change observed.
-- Starting national audit:226/226 initial records,226 unresolved,0 complete. This run/cycle:0 new,3 materially enriched existing,0 newly complete after remote verification;4 distinct member files saved, one nonmaterial. Brisbane-day cumulative:0 new,13 materially enriched distinct records,0 newly complete. Morning08:00 results remain separate and are deduplicated by member ID.
+- Cycle:2026-10-03 12:00 Brisbane; continuation0. Start observed12:03:05+10:00; latest checkpoint:2026-10-03T12:33:00+10:00; end not observed. Entered nsw-3 after completing the current nsw-2 further-pass cursor. Starting nsw-3 remote head:b41c2ee4bfcee7c8beee0b84e5896fe8a59b71d6; no competing branch change observed.
+- Starting national audit:226/226 initial records,226 unresolved,0 complete. This run/cycle:0 new,3 materially enriched existing,0 newly complete after remote verification;5 distinct member files saved, two nonmaterial. Brisbane-day cumulative:0 new,13 materially enriched distinct records,0 newly complete. Morning08:00 results remain separate and are deduplicated by member ID.
 - Member248895 Penfold: contemporary ABC report establishes that she was already Terry Mills's senior policy adviser and was announced as the replacement chief of staff in March2011. The roles are separated and the transition anchored to month precision; exact appointment day, later endpoint, hours and leave remain unknown.
-- Next follow-up:147140 PHILLIPS, Fiona Evon. Continue in batch and plan order; blocked records remain unresolved.
+- Member147140 Phillips: targeted employer/institution searches found no new personnel record, precise boundary, hours, leave, UOW cessation evidence or 1995–1996 employment. Existing facts and unknowns retained; nonmaterial follow-up.
+- Next follow-up:83M PLIBERSEK, the Hon. Tanya Joan. Continue in batch and plan order; blocked records remain unresolved.
 - OUTCOME:ongoing. STOPPING REASON:none; continue after remote verification. Successor not requested. Scheduler terminal status unavailable.
 - Validation:career_batches --check226/13 and --batch nsw-3; individual JSON/source/date/enums and build_careers.load_records. Only assigned member/checkpoint changed.
