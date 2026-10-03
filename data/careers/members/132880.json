@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/132880",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-02",
+  "last_reviewed": "2026-10-03",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -298,9 +298,9 @@
       "spell_id": "132880-15",
       "employer": "Parliament of Victoria",
       "role": "MLC for Eastern Victoria; parliamentary secretary",
-      "start_date": "2014",
-      "end_date": "2018",
-      "date_precision": "year",
+      "start_date": "2014-11-28",
+      "end_date": "2018-11-22",
+      "date_precision": "day",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -310,18 +310,19 @@
       "source_ids": [
         "src-1",
         "src-3",
-        "src-8"
+        "src-8",
+        "src-14"
       ],
-      "evidence_note": "State elected service; retired before 2018 general election. Includes parliamentary secretary role without double counting.",
+      "evidence_note": "Official Victorian Parliament history dates the Eastern Victoria elected term from 28 November 2014 to 22 November 2018. It separately records Parliamentary Secretary to the Treasurer and Parliamentary Secretary for Finance from 30 November 2014 to 17 December 2018; those appointments are included here without double counting and their later listed endpoint is not used to extend the elected term or infer a post-parliament employment bridge.",
       "counting_note": "Excluded from the two employment headlines under the codebook."
     },
     {
       "spell_id": "132880-16",
       "employer": "Parliament of Australia",
       "role": "Member for Fraser",
-      "start_date": "2019",
+      "start_date": "2019-05-18",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "day",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -331,9 +332,10 @@
       "source_ids": [
         "src-1",
         "src-2",
-        "src-9"
+        "src-9",
+        "src-15"
       ],
-      "evidence_note": "Federal service and associated ministerial roles excluded.",
+      "evidence_note": "AEC final results confirm Mulino was elected for Fraser at the 18 May 2019 federal election. Federal service and associated ministerial roles are excluded; the election date is not evidence of paid work during the preceding campaign interval.",
       "counting_note": "Excluded from the two employment headlines under the codebook."
     },
     {
@@ -547,6 +549,26 @@
       "note": "Contemporaneous Department of Economics affiliation; observation not a contract endpoint or proof of full-time hours.",
       "retrieved": "2026-10-02",
       "source_id": "src-13"
+    },
+    {
+      "url": "https://www.parliament.vic.gov.au/members/daniel-mulino/",
+      "publisher": "Parliament of Victoria",
+      "title": "Daniel Mulino, former member",
+      "source_type": "government_record",
+      "locator": "Electorate and Positions sections",
+      "note": "Official history dates the Eastern Victoria term 28 November 2014–22 November 2018 and the two parliamentary secretary appointments 30 November 2014–17 December 2018. The latter endpoint is not treated as a separate employment spell.",
+      "retrieved": "2026-10-03",
+      "source_id": "src-14"
+    },
+    {
+      "url": "https://results.aec.gov.au/24310/Website/HouseDivisionPage-24310-321.htm",
+      "publisher": "Australian Electoral Commission",
+      "title": "Fraser, VIC — 2019 federal election final results",
+      "source_type": "government_record",
+      "locator": "Division summary and final elected status for MULINO, Daniel",
+      "note": "Confirms election for Fraser at the 18 May 2019 federal election. It does not establish campaign pay or other work between state and federal service.",
+      "retrieved": "2026-10-03",
+      "source_id": "src-15"
     }
   ],
   "research_notes": [
@@ -555,6 +577,7 @@
     "Targeted searches for Monash 2006, Nous chronology, CV, full-time economist work and Federal Reserve research produced no admissible full-time evidence. A 2006 workshop chair listing and research publication affiliations are leads, not contract-duration proof. Excluded contact-aggregation profiles and unrelated full-time job advertisements.",
     "A 2026 author biography explicitly calls overseas engagements internships, while earlier professional biography uses consultant/research descriptions. Preserve the ambiguity and do not assume they were unpaid, salaried, continuous or full-time. Yale teaching appears in secondary biography and needs primary appointment verification.",
     "Year-level early departmental dates remain intact. No durations calculated from titles or sequential labels. Missing intervals, including 1996–1997 and state-to-federal transition, remain unknown rather than unemployment. Party membership/policy committee activity and campaigning are separate from paid employment; blocked initial record is not completion.",
-    "2026-10-02 follow-up materially dates Nous and Pottinger from public indexed professional-profile entries and Casey council from its own honour board; adds a contemporaneous31August2005 Monash affiliation. Direct LinkedIn was not retried after429. Targeted searches for employer dates and Monash roles yielded no full-time evidence; generic exact-site searches were inconsistent, so retrieval method is explicit. Follow-up leads: employer corroboration of self-reported consulting months; academic appointment/annual-report payroll categories; ministerial appointment records; early departmental hours and US internship status. McKinsey2019 automation report advisory committee and Curtin Research Centre advisory council are governance leads, not evidence of salaried consulting or a2018–19 employment bridge. Retain all unresolved breaks/overlaps and null totals; blocked is not complete."
+    "2026-10-02 follow-up materially dates Nous and Pottinger from public indexed professional-profile entries and Casey council from its own honour board; adds a contemporaneous31August2005 Monash affiliation. Direct LinkedIn was not retried after429. Targeted searches for employer dates and Monash roles yielded no full-time evidence; generic exact-site searches were inconsistent, so retrieval method is explicit. Follow-up leads: employer corroboration of self-reported consulting months; academic appointment/annual-report payroll categories; ministerial appointment records; early departmental hours and US internship status. McKinsey2019 automation report advisory committee and Curtin Research Centre advisory council are governance leads, not evidence of salaried consulting or a2018–19 employment bridge. Retain all unresolved breaks/overlaps and null totals; blocked is not complete.",
+    "2026-10-03 follow-up: official Victorian Parliament history narrows state elected service to 28 November 2014–22 November 2018 and lists both parliamentary secretary appointments from 30 November 2014 to 17 December 2018. The appointment endpoint after the elected-term endpoint is recorded as a source detail, not converted into a separate employment spell. AEC final results support federal service from the 18 May 2019 election. The remaining inter-parliamentary interval is therefore 23 November 2018–17 May 2019 for research purposes; targeted 2018–19 employment/consulting searches found only candidacy, campaigning and governance/advisory material, not paid work. Do not label the interval unemployment. Monash, Nous/Pottinger hours, early departments and US internship status remain unresolved."
   ]
 }
