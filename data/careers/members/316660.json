@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/316660",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-02",
+  "last_reviewed": "2026-10-03",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -16,8 +16,8 @@
   "career_spells": [
     {
       "spell_id": "316660-01",
-      "employer": "Unidentified bank or finance employer(s)",
-      "role": "Banking / small business lending",
+      "employer": "Bank of Melbourne; other earlier banking employers not excluded",
+      "role": "Local Business Manager / small business lending",
       "start_date": null,
       "end_date": null,
       "date_precision": "unknown",
@@ -30,15 +30,17 @@
       "source_ids": [
         "src-4",
         "src-5",
-        "src-7"
+        "src-7",
+        "src-12",
+        "src-13"
       ],
-      "evidence_note": "Commercial-career background supported but employing entities, dates, control and hours unresolved. Do not conflate with US banker of same name.",
+      "evidence_note": "Two public professional-profile indexes consistently identify Bank of Melbourne and a local-business-manager title, matching first-person accounts of small-business lending. Their date ranges conflict, so no boundaries are adopted; other earlier banking employers are not excluded. Legal employing entity, hours and leave remain unresolved. Do not conflate with a US banker of the same name.",
       "counting_note": "Dates, employer control and/or substantive full-time status remain insufficient for a duration calculation; unknown is not zero."
     },
     {
       "spell_id": "316660-02",
-      "employer": "Unidentified insurance employer(s)",
-      "role": "Insurance work",
+      "employer": "National Credit Insurance (Brokers) Pty Ltd; other insurance employers not excluded",
+      "role": "New business development / sales executive",
       "start_date": null,
       "end_date": null,
       "date_precision": "unknown",
@@ -50,15 +52,17 @@
       "counting_status": "insufficient_evidence",
       "source_ids": [
         "src-4",
-        "src-7"
+        "src-7",
+        "src-12",
+        "src-13"
       ],
-      "evidence_note": "Employer and dates unresolved; not automatically a known full-time private duration.",
+      "evidence_note": "Two public professional-profile indexes consistently name National Credit Insurance and new-business-development/sales work, but disagree on month boundaries. Employer identity is retained as a supported lead while dates, hours, leave and any other insurance employers remain unresolved; not automatically a known full-time private duration.",
       "counting_note": "Dates, employer control and/or substantive full-time status remain insufficient for a duration calculation; unknown is not zero."
     },
     {
       "spell_id": "316660-03",
       "employer": "Harcourts City Residential, Melbourne; legal employing entity unverified",
-      "role": "Property sales / agency representative",
+      "role": "Sales executive / property sales",
       "start_date": null,
       "end_date": null,
       "date_precision": "unknown",
@@ -71,9 +75,11 @@
       "source_ids": [
         "src-5",
         "src-8",
-        "src-9"
+        "src-9",
+        "src-12",
+        "src-13"
       ],
-      "evidence_note": "Agency listing and2010dated sale listing name Sarah Witty; consistent with member property background and Harcourts career lead. Boundaries remain unknown:2010sale is an activity snapshot, not commencement/cessation. Exact payroll/franchise entity and hours unresolved.",
+      "evidence_note": "Agency listing and multiple2010 dated sale listings name Sarah Witty; public professional-profile indexes independently identify a sales-executive title. Their boundary dates conflict, so2010 sales are treated as activity snapshots rather than commencement/cessation. Exact payroll/franchise entity, hours and leave remain unresolved.",
       "counting_note": "Dates, employer control and/or substantive full-time status remain insufficient for a duration calculation; unknown is not zero."
     },
     {
@@ -91,7 +97,9 @@
       "counting_status": "insufficient_evidence",
       "source_ids": [
         "src-4",
-        "src-7"
+        "src-7",
+        "src-12",
+        "src-13"
       ],
       "evidence_note": "Own business activity supported; business entity, location, tenure and substantive hours require confirmation. Franchise ownership is not sufficient full-time evidence.",
       "counting_note": "Dates, employer control and/or substantive full-time status remain insufficient for a duration calculation; unknown is not zero."
@@ -348,6 +356,26 @@
       "evidence_note": "Public profile volunteer section; governance/advisory or voluntary activity, not substantive full-time employment. Open end means end unverified, not confirmed ongoing.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "316660-17"
+    },
+    {
+      "employer": "Scottish Pacific Business Finance / ScotPac Business Finance",
+      "role": "Business development",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "private_enterprise",
+      "headline_sector": "private",
+      "government_control_at_time": "private",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-12",
+        "src-13"
+      ],
+      "evidence_note": "Two public professional-profile indexes consistently name Scottish Pacific/ScotPac and business-development work but disagree materially on start and end months. Employer identity is retained without adopting either range. Contract entity, hours, leave and transitions remain unresolved.",
+      "counting_note": "Dates and substantive full-time status remain insufficient for a duration calculation; unknown is not zero.",
+      "spell_id": "316660-18"
     }
   ],
   "sources": [
@@ -460,6 +488,26 @@
       "note": "Public profile readable this follow-up; named volunteer/governance roles and dates. Paid experience entries blank; no inference from those blanks. Present labels may be stale.",
       "retrieved": "2026-10-02",
       "source_id": "src-11"
+    },
+    {
+      "url": "https://contactout.com/Sarah-Witty-10799037",
+      "publisher": "ContactOut",
+      "title": "Sarah Witty public professional-profile index",
+      "source_type": "professional_profile",
+      "locator": "Work history entries for Harcourts, National Credit Insurance, Bank of Melbourne, Scottish Pacific and Subway",
+      "note": "Third-party index identifies the current parliamentarian and names early employers and roles. Its month ranges conflict with another public index and even another ContactOut rendering, so no dates are adopted from it.",
+      "retrieved": "2026-10-03",
+      "source_id": "src-12"
+    },
+    {
+      "url": "https://www.signalhire.com/profiles/sarah-witty%27s-email/64665378",
+      "publisher": "SignalHire",
+      "title": "Sarah Witty public professional-profile index",
+      "source_type": "professional_profile",
+      "locator": "Work Experience entries for Harcourts, Subway, National Credit Insurance, Bank of Melbourne and ScotPac",
+      "note": "Public index matches the parliamentarian's known later career and independently corroborates the named early employers. Date ranges conflict with ContactOut and are retained only as unresolved leads; contact details were not used or reproduced.",
+      "retrieved": "2026-10-03",
+      "source_id": "src-13"
     }
   ],
   "research_notes": [
@@ -470,6 +518,7 @@
     "A first-speech debate page included multiple members and did not supply additional verified early employer detail. Charity annual-report link for 2023\u20132024 was located but departure release and FCAV annual report supplied the relevant initial primary evidence. Follow older reports/archived career material on later pass.",
     "Missing pre-2017 dates and hours cannot become zeros or a synthetic continuous career. Last follow-up 2026-09-29; retain blocked status and detailed leads for systematic national follow-up.",
     "2026-10-02 follow-up resolved property agency to Harcourts City Residential using employer-published listings and2010sale snapshot; refined FCAV board startSeptember2022. Readable public professional profile adds named volunteering, judging, nonprofit governance and council advisory work. These are excluded rather than assumed paid employment.",
-    "Paid-profile entries remain blank. Banking/insurance/ScottishPacific search results still chiefly aggregators with inconsistent date ranges; not adopted. Harcourts dates also conflict across aggregators, so no synthetic range added. PCA profile says present while aggregator suggestsJuly2022departure; only committee-chair endJuly2022directly supported, board end remainsunknown. VerySpecialKids volunteering overlaps commercial-career leads; MacKillop service may overlap existing foster-care spell and is not counted twice. Seek employer announcements, contracts/hours, ballet/Subway entity and nonprofit workload. Last follow-up2026-10-02; all totals remainnull."
+    "Paid-profile entries remain blank. Banking/insurance/ScottishPacific search results still chiefly aggregators with inconsistent date ranges; not adopted. Harcourts dates also conflict across aggregators, so no synthetic range added. PCA profile says present while aggregator suggestsJuly2022departure; only committee-chair endJuly2022directly supported, board end remainsunknown. VerySpecialKids volunteering overlaps commercial-career leads; MacKillop service may overlap existing foster-care spell and is not counted twice. Seek employer announcements, contracts/hours, ballet/Subway entity and nonprofit workload. Last follow-up2026-10-02; all totals remainnull.",
+    "2026-10-03 follow-up: two public professional-profile indexes consistently identify National Credit Insurance (new business/sales), Bank of Melbourne (local business manager) and Scottish Pacific/ScotPac (business development), and corroborate the Harcourts sales-executive and Subway owner/operator roles. Because their month ranges conflict materially, only employer and role identities were adopted; no synthetic boundaries or full-time inference was made. Fresh employer-domain searches did not locate appointment records, contracts or hours. Multiple primary Harcourts listings continue to support2010 activity only. Record remains blocked, totals null."
   ]
 }
