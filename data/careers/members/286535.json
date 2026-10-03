@@ -6,12 +6,12 @@
   "snapshot_party": "The Nationals",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/286535",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-02",
+  "last_reviewed": "2026-10-03",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
     "calculation_status": "not_calculable",
-    "note": "First-person evidence adds deferred study, an adjacent-farm ownership transition and deputy-mayor service. Aggregate 22-year farming claim lacks precise boundaries, leave and personal full-time evidence. Investment disclosures do not establish employment; totals remain null."
+    "note": "First-person evidence adds deferred study, an adjacent-farm ownership transition and deputy-mayor service. Council minutes establish mayoral campaign leave from2pm11April2022, but not farming or investment-work cessation. Aggregate22-year farming claim lacks precise boundaries, leave and personal full-time evidence. Investment disclosures do not establish employment; totals remain null."
   },
   "career_spells": [
     {
@@ -98,9 +98,10 @@
         "src-3",
         "src-5",
         "src-6",
-        "src-7"
+        "src-7",
+        "src-12"
       ],
-      "evidence_note": "Council records give swearing-in on 4 April 2016, unopposed re-election in April 2020 and resignation on 15 June 2022 after the federal poll was declared. Council minutes also record leave during the 2022 federal campaign.",
+      "evidence_note": "Council records give swearing-in on4April2016, unopposed re-election inApril2020 and resignation on15June2022 after the federal poll was declared. Official minutes acknowledge mayoral leave beginning at2pm on11April2022 and grant absence for the13April,27April and11May council meetings. They do not state whether mayoral remuneration continued or whether leave extended unchanged through election day.",
       "counting_note": "Local elected office is excluded."
     },
     {
@@ -118,9 +119,10 @@
       "counting_status": "excluded",
       "source_ids": [
         "src-6",
-        "src-8"
+        "src-8",
+        "src-12"
       ],
-      "evidence_note": "Contemporary reporting records LNP endorsement on 29 August 2021. Council material records campaign leave in April 2022. No separate paid party employment is established.",
+      "evidence_note": "Contemporary reporting records LNP endorsement on29August2021. Council minutes acknowledge mayoral leave from2pm11April2022 for three scheduled meetings during the federal campaign. No separate paid party employment is established, and the leave record does not establish campaign employment or remuneration.",
       "counting_note": "Candidate and party activity is excluded."
     },
     {
@@ -312,6 +314,16 @@
       "note": "Secondary transcription supplies named investment entities. Linked original APH Willcox.pdf returned 403; retain as leads pending original verification. Dividends/beneficial interests are not employment.",
       "retrieved": "2026-10-02",
       "source_id": "src-11"
+    },
+    {
+      "url": "https://www.whitsundayrc.qld.gov.au/files/assets/public/v/1/our-council/documents/council-meeting-minutes/2022/13-april-2022-ordinary-council-meeting-minutes.pdf",
+      "publisher": "Whitsunday Regional Council",
+      "title": "Ordinary Council Meeting minutes — 13 April 2022",
+      "source_type": "government_record",
+      "locator": "Page5, resolution OM2022/04/13.1",
+      "note": "Official minutes acknowledge Mayor Willcox taking leave from2pm11April2022 and grant absence for the13April,27April and11May meetings. They do not state remuneration or a leave end date.",
+      "retrieved": "2026-10-03",
+      "source_id": "src-12"
     }
   ],
   "research_notes": [
@@ -322,6 +334,7 @@
     "Verify paid status of any LNP candidate or party work; current evidence establishes candidacy but not employment.",
     "Follow-up 2026-10-02: first speech and public professional index reviewed; added study, adjacent farm and deputy mayor. Removed unsupported 2012 investment-work cutoff. No full-time total inferred from staff headcount or 22-year recollection.",
     "Investment leads from register transcription: A & R Land, AJRW Investments, A & R Property Development, AR Supa Management, A & R Willcox, JSTW Holdings, JSTW Properties, OAG Properties, OAG Investments, R & A Corporation, Rayand, Rayandwill, Rayandwill Holdings, Rayandwill Investments, Rayandwill Properties, Rayandwill Land and JSTW Land. Obtain original disclosures and appointment/work evidence before treating these trustee/passive-investment directorships as substantive jobs; Bowen Farmers Transport dividends alone prove no employment.",
-    "Source gaps: original https://www.aph.gov.au/-/media/03_Senators_and_Members/32_Members/Register/48p/SZ/Willcox.pdf returned 403 Forbidden; public LinkedIn direct open Internal Error, visible indexed deputy dates used. Farm legal identities, start dates, hours and 2010 sale/2012 council transition remain unresolved."
+    "Source gaps: original https://www.aph.gov.au/-/media/03_Senators_and_Members/32_Members/Register/48p/SZ/Willcox.pdf returned403Forbidden; publicLinkedIn directopen InternalError, visibleindexed deputy datesused. Farm legal identities,startdates,hours and2010sale/2012counciltransition remain unresolved.",
+    "Follow-up2026-10-03: official13April2022councilminutes establish campaign-related mayoral leave from2pm11April and approved absences for three meetings through11May. Minutes do not state leave endpoint, mayoral remuneration or farm/investment work, so no broader cessation or full-time inference made. Searches for named farming entities returned interest disclosures and existing profiles, not work boundaries."
   ]
 }
