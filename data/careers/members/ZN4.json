@@ -6,7 +6,7 @@
   "snapshot_party": "Liberal Party of Australia",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/ZN4",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-02",
+  "last_reviewed": "2026-10-03",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -87,9 +87,12 @@
       "counting_status": "insufficient_evidence",
       "source_ids": [
         "src-1",
-        "src-2"
+        "src-2",
+        "oct3-tv1993",
+        "oct3-tv1995",
+        "oct3-abc1996"
       ],
-      "evidence_note": "Official broad span may contain breaks or concurrent 1994 commercial broadcasting. Full-time continuity unverified. Confirmed commercial broadcasting observations inMay/June1994 make reconciliation of this broadABC span necessary; cannot count1989–1997 as uninterrupted public employment.",
+      "evidence_note": "Official broad span may contain breaks or concurrent 1994 commercial broadcasting. Full-time continuity unverified. Historical schedules observe ABC Holiday presentation on23 August1993 and the Victorian7.30 Report on20 March1995; ABC archival reporting identifies Henderson as a7.30 Report reporter in1996. Confirmed commercial broadcasting observations inJanuary and May/June1994 fall between those ABC observations. This brackets the chronology but does not prove a complete ABC break, contract boundaries or uninterrupted1989–1997 public employment.",
       "counting_note": "Not counted: dates and/or substantive full-time status are insufficiently evidenced; year labels are not exact boundaries."
     },
     {
@@ -414,6 +417,36 @@
       "note": "Retrospective review of contemporaneous TV Week announcement identifies new hosting role by January1994. Exact commencement and production employer absent.",
       "retrieved": "2026-10-02",
       "source_id": "oct2-tvweek"
+    },
+    {
+      "url": "https://televisionau.com/classic-tv-guides/tv230893",
+      "publisher": "Television.AU",
+      "title": "Monday23 August1993 — Melbourne television guide",
+      "source_type": "news",
+      "locator": "8pm ABC listing: Holiday, Sarah Henderson and co-presenters",
+      "note": "Dated programme observation supporting ABC work in August1993; not an employment boundary or hours record.",
+      "retrieved": "2026-10-03",
+      "source_id": "oct3-tv1993"
+    },
+    {
+      "url": "https://televisionau.com/classic-tv-guides/tv200395",
+      "publisher": "Television.AU",
+      "title": "Monday20 March1995 — Melbourne television guide",
+      "source_type": "news",
+      "locator": "7.30pm ABC listing: The7.30 Report, Sarah Henderson",
+      "note": "Dated programme observation supporting return/presence at ABC after the1994 commercial-broadcasting observations; not a contract boundary.",
+      "retrieved": "2026-10-03",
+      "source_id": "oct3-tv1995"
+    },
+    {
+      "url": "https://www.abc.net.au/news/2016-04-27/brave-nurse-who-helped-cafe-victims-says-visions/7365222",
+      "publisher": "ABC News",
+      "title": "Brave nurse who helped cafe victims says visions of Port Arthur massacre haunt20 years on",
+      "source_type": "employer",
+      "locator": "Embedded1996 7.30 Report segment and retrospective identification of reporter Sarah Henderson",
+      "note": "Employer archive identifies Henderson as the7.30 Report reporter for a1996 segment; dated-year observation, not full appointment boundaries or FTE.",
+      "retrieved": "2026-10-03",
+      "source_id": "oct3-abc1996"
     }
   ],
   "research_notes": [
@@ -423,6 +456,7 @@
     "No job title or long career span establishes full-time status. Year-only labels remain intact; headlines unknown, not zero.",
     "Follow-up2026-10-02: replaced sole reliance on error-prone alumni chronology for3AW with dated government transcript27 May1994 and broadcaster archive22 June1994; January1994 Australia’s Most Wanted announcement is an additional chronology anchor.",
     "Targeted historical media appointment, Clifton, NITV, Kudos and full-time searches did not supply exact contracts or individual hours. Unrelated overseas health/PR/academic namesakes and staff recruitment advertisements excluded. Women Australia entry open returned URL not accessible via this tool; other independent sources used.",
+    "Follow-up2026-10-03: historical schedules place Henderson on ABC Holiday23 August1993 and the Victorian7.30 Report20 March1995; an ABC archive identifies her as a7.30 Report reporter in1996. These observations sit either side of her documented1994 Seven/3AW work and materially refine the chronology, but do not establish whether she resigned, took leave or held concurrent contracts. A sworn2024 affidavit confirms the later sequence Allens to News Corporation to own consultancy to Network Ten/NITV management, but supplies no dates or hours, so official year labels remain unchanged.",
     "Next leads: ABC staff/annual records distinguishing pre1994 and1995 return spells; Seven production contract; archived3AW appointment notices; legal-firm/NewsCorp and consultancy employer biographies; pre-SBS NITV constitution. Do not turn broadcast observations or programme schedules into full-time duration."
   ]
 }
