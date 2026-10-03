@@ -53,7 +53,7 @@
 - 265980 SHARKIE, Rebekha Carina Che: blocked; last review2026-10-01. Follow-up: Law-firm names/dates/hours; adviser chronology; Youth Connections payroll and SYC transition; government appointment and leave; 2018 service gap.
 
 
-- 281603 SMITH, Marielle Feuerherdt: blocked; last review2026-10-01. Follow-up: Manager legal employer and hours; PM&C appointment/leave; Gillard payroll classification; Transit Systems board dates/pay; procurement resignation-date discrepancy.
+- 281603 SMITH, Marielle Feuerherdt: blocked; last review2026-10-04. Follow-up: Manager legal employer and hours; PM&C appointment/leave; Gillard payroll classification; Transit Systems board exact dates/pay; procurement resignation-date discrepancy. Dated Transit affiliations now observed in September2013 and August2017; Gillard education-adviser role observed in February2015.
 
 
 - 315434 VENNING, Tom: blocked; last review2026-10-01. Follow-up: NAB exact full-time interval/leave; corporate payroll entities and promotion dates; harvest gaps; farm status/cessation; app and mentoring pay.
@@ -165,3 +165,17 @@
 - OUTCOME: Returned normally — no blocking error observed. STOPPING REASON: Voluntary stop; no observed blocking limit — this execution reached its current response boundary after28remotely verified member records. The next record was not processed before this boundary. Successor: Requested/accepted — result pending at 2026-10-03T18:20:52+10:00; the saved schedule is unchanged. This asynchronous acceptance does not establish execution or delivery. Scheduler terminal status is unavailable.
 - Validation: JSON parse, `career_batches.py --check` (226/13), `career_batches.py --batch sa`, `build_careers.py` load/build and `git diff --check` passed. Generated local aggregates were discarded; only the assigned member and this checkpoint are being written.
 - Recovered local command error at batch transition: validation was initially invoked from the checkout parent and returned `fatal: not a git repository` plus missing-script errors; rerunning from the isolated SA checkout succeeded. This did not affect repository data or terminate research.
+
+
+## Active follow-up — 2026-10-04 08:00 Brisbane cycle, continuation 0
+
+- Attempt start: 2026-10-04T08:01:11+10:00. Latest checkpoint: 2026-10-04T08:05:09+10:00; end not yet observed.
+- Previous accepted successor after the 2026-10-03 16:00 cycle produced no later branch commit before this cycle's audit; execution remains unverified. No usage-limit error is inferred.
+- Starting branch heads: {"act":"47458bd761bec89b2d22dba8d565358e550160cd","nsw-1":"520647d3700bfb64b3c87cc48d04929130177f9a","nsw-2":"1dbd0a54132ccfa80ffd2d9e2795e98ac74670d3","nsw-3":"4a0f0eaa1d7429b83fd6d36eaeb3b373eaa329f4","nt":"95f257cdd7d00f1c66fe2166a9962a037a1f71b1","qld-1":"072443ff2b247db13f56ec7961c0a20386a52842","qld-2":"f57a6839f3c755423b1bf82e0b477e9baa9492cd","sa":"8779ac672b3f56fabf319de7fa8bb418c627ebd7","tas":"31e7c4ec65fd64d424fb124cd733dfd9f7249de3","vic-1":"13fb695affae02e8e18dc12ae8a395f2789493ca","vic-2":"a862743ac89fb34193ea38e4755ed5903a75252c","wa-1":"99ae324fa356378bbdd8698ba8a27725b069b09a","wa-2":"d368d4d1b2a61f70fd860c0b3bb7982c5a5ea880"}.
+- Starting national baseline: 226/226 initial records, 226 unresolved, 0 research-complete. Starting SA: 22/22 initial, 22 unresolved, 0 complete. No active conflicting writer or intervening branch change observed.
+- Current attempt/cycle/day: 1 distinct member processed, 0 new, 1 materially enriched existing, 0 nonmaterial follow-ups, 0 newly research-complete. Counts include only remotely verified member commits; checkpoint-only commits excluded.
+- Marielle Smith: materially enriched — conference records place her with Transit Systems in September2013 and August2017, while Brookings forum proceedings independently identify her as Education Advisor, Office of Julia Gillard, in February2015. These are dated observations only; continuity, legal employer, payroll, hours, leave and exact endpoints remain unresolved and no headline years were inferred.
+- Member commit: `60b3ce00fb2a0b35f60c5e0dcdddefdf94f89117`, remotely written; verification follows this checkpoint.
+- Durable next cursor: Tom Venning (315434).
+- OUTCOME: ongoing. STOPPING REASON: none; continue to next record after remote verification. No successor requested. Scheduler terminal status unavailable.
+- Validation: JSON parse, `career_batches.py --check` (226/13), `career_batches.py --batch sa`, `build_careers.py` and `git diff --check` passed. Only the assigned member and this checkpoint were written.
