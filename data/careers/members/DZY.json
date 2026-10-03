@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/DZY",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-02",
+  "last_reviewed": "2026-10-03",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -194,7 +194,8 @@
         "src-1",
         "src-2",
         "src-9",
-        "src-11"
+        "src-11",
+        "src-13"
       ],
       "evidence_note": "Governance role; trustee legal/control details and fees require historical annual report. Parliamentary claim of fee remittance to ASU is a follow-up lead, not a verified personal salary. Primary ASU2014–15operating report states membership fromJuly2014, conflicting with parliamentary2013start retained pending reconciliation. Report confirms all Statewide fees paid to branch; individual amount not established, no personal salary inferred.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
@@ -304,7 +305,7 @@
     {
       "employer": "Trustee board of Electricity Industry Superannuation Scheme (legal entity unresolved)",
       "role": "Board member",
-      "start_date": null,
+      "start_date": "2014-02",
       "end_date": "2014-08",
       "date_precision": "mixed",
       "employment_status": "unknown",
@@ -314,9 +315,10 @@
       "government_control_at_time": "unknown",
       "counting_status": "excluded",
       "source_ids": [
-        "src-11"
+        "src-11",
+        "src-13"
       ],
-      "evidence_note": "ASU report confirms service untilAugust2014 and no board fees; start unresolved. Concurrent union-linked governance, not ordinary employment.",
+      "evidence_note": "ASU2013–14operating report gives service fromFebruary2014 toAugust2014; subsequent report corroborates the end and states the scheme paid no board fees. Concurrent union-linked governance, not ordinary employment.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "DZY-15"
     },
@@ -460,6 +462,16 @@
       "note": "Names Steve Georganas; direct open InternalError, narrow indexed club history used. Governance hours and pay not given.",
       "retrieved": "2026-10-02",
       "source_id": "src-12"
+    },
+    {
+      "url": "https://regorgs.fwc.gov.au/sites/default/files/migration/341/052v-fr2014-252.pdf",
+      "publisher": "Australian Services Union SA/NT / Fair Work Commission",
+      "title": "Financial report year ended30June2014",
+      "source_type": "employer",
+      "locator": "PDF page4 / printed page1, Operating Report section4",
+      "note": "Names Georganas as a branch employee; records EISS trustee-board service fromFebruary2014 toAugust2014 and Statewide trustee-board service fromJuly2014. The reporting statement establishes observation bounds and role transitions, not personal hours or additive employment.",
+      "retrieved": "2026-10-03",
+      "source_id": "src-13"
     }
   ],
   "research_notes": [
@@ -469,6 +481,7 @@
     "Statewide fee allegation is retained as a research lead requiring primary audited report, not used as evidence that the member received or retained an amount. No headline derived from directors fees.",
     "Parliamentary defeat in 2013 and return in 2016 leave a real employment interval; union organising and governance during that interval are not relabelled public/private full-time employment.",
     "Follow-up2026-10-02: primary union report resolves Statewide trustee and confirms branch receipt of fees, while exposing2013versusJuly2014start conflict. Adds previously unrecorded Electricity Industry Superannuation Scheme board endingAugust2014 with no board fees. No aggregate employee/FTE count assigned personally.",
-    "Club primary indexed history establishes Adelaide Hellenic Lions presidency1991–1992. Glendi board remains unverified lead. Factory, taxi and insurer employers/hours remain unknown after targeted searches; current Guardian Insurance event attendance is not employment evidence."
+    "Club primary indexed history establishes Adelaide Hellenic Lions presidency1991–1992. Glendi board remains unverified lead. Factory, taxi and insurer employers/hours remain unknown after targeted searches; current Guardian Insurance event attendance is not employment evidence.",
+    "Follow-up2026-10-03: prior-year ASU operating report narrows EISS trustee-board service toFebruary–August2014 and independently confirms Statewide service fromJuly2014. It also calls Georganas a branch employee, consistent with the existing2013–2016ASU spell but not proof of full-time hours. Targeted insurer, taxi, factory, Thebarton and Statewide searches did not resolve the remaining employer or substantive-hours gaps."
   ]
 }
