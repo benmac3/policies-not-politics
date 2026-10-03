@@ -5,7 +5,7 @@
 - ING GALLAGHER, the Hon. Katherine (Katy) Ruth: blocked; last review2026-10-04. Follow-up: Identify exact Shop Rite/IGA store, legal payroll entity, dates and hours; early childcare employer/hours; reconcile community dates, People First control and study/leave; verify Calvary contract/end, RSPCA terms/pay, CPSU transition and2014–15gap.
 
 
-- BU8 LEIGH, the Hon. Dr Andrew Keith: blocked; last review2026-10-01. Follow-up: Firm-specific dates/hours; full CV and academic appointments/control; Treasury and Michigan secondment overlap; scholarships versus paid work; writing terms.
+- BU8 LEIGH, the Hon. Dr Andrew Keith: blocked; last review2026-10-04. Follow-up: Firm-specific dates/hours; accessible full CV and primary academic appointment/control records; ANU workload/promotion/exit/leave; NYU/Melbourne visits; scholarships versus paid work; writing terms.
 
 
 - 144732 PAYNE, Alicia Emma: blocked; last review2026-10-01. Follow-up: NATSEM/Treasury precise dates, hours, breaks and UC control; title progression; 2018–19 gap; board terms/fees and early jobs.
@@ -54,13 +54,13 @@
 
 ## Active follow-up — 2026-10-04 08:00 Brisbane cycle, continuation 0
 
-- Attempt start: 2026-10-04T08:01:11+10:00. Latest checkpoint: 2026-10-04T10:10:00+10:00; end not yet observed.
+- Attempt start: 2026-10-04T08:01:11+10:00. Latest checkpoint: 2026-10-04T10:27:00+10:00; end not yet observed.
 - This invocation completed SA and Tasmania follow-up work before advancing here in plan order. Starting ACT head: `47458bd761bec89b2d22dba8d565358e550160cd`; no active conflicting writer or intervening branch change observed. The previous day's accepted successor has no later branch commit evidence and remains execution unverified.
-- Current attempt/cycle/day:23 distinct member records processed,0 new initial,11 materially enriched existing,12 nonmaterial follow-ups,0 newly research-complete. Counts include only remotely verified member commits; checkpoint-only commits excluded.
+- Current attempt/cycle/day:24 distinct member records processed,0 new initial,11 materially enriched existing,13 nonmaterial follow-ups,0 newly research-complete. Counts include only remotely verified member commits; checkpoint-only commits excluded.
 - Katy Gallagher: materially enriched — Gallagher's first-person description of checkout/shelf-stacking work is now paired with a local Canberra broadcaster's public indexed identification of the supermarket banner as Shop Rite, later an IGA. The exact store, legal employer, dates, ownership at the time and hours remain unknown; no full-time or sector total was inferred.
-- Member commit on this branch: `a883555b57f124eb26b565d5d3abc860d4e1e6b1`. Earlier verified member commits in this invocation are listed in the SA and Tasmania checkpoints; national counts are deduplicated by person ID.
+- Andrew Leigh: nonmaterial follow-up — repeated exact-phrase searches against both published CV locations and current personal biography exposed no additional primary chronology. Existing index-only legal and visiting-appointment facts were retained without inventing dates, paid status, ANU workload or departure boundaries.\n- Member commits on this branch: `a883555b57f124eb26b565d5d3abc860d4e1e6b1` (Gallagher), `4537525a01c88249b3ec402a879bbd9e46c8fb23` (Leigh). Earlier verified member commits in this invocation are listed in the SA and Tasmania checkpoints; national counts are deduplicated by person ID.
 - National baseline remains226/226 initial records,226 unresolved,0 research-complete. ACT remains5/5 initial,5 unresolved,0 complete.
-- Durable next cursor: Andrew Leigh (BU8).
+- Durable next cursor: Alicia Payne (144732).
 - OUTCOME: ongoing. STOPPING REASON: none; continue after remote verification. No successor requested. Scheduler terminal status unavailable.
 - Validation: JSON parse, `career_batches.py --check` (226/13), `career_batches.py --batch act`, `build_careers.py` and `git diff --check` passed. Only the assigned member and this checkpoint were written on the ACT branch.
-- Recovered tool error: initial combined local-read/upload orchestration returned `exec-server transport disconnected`; no remote write occurred in that failed call. A subsequent ordinary read and single update succeeded and was remotely verified. Not a terminal error.
+- Recovered tool errors: initial combined local-read/upload orchestration returned `exec-server transport disconnected`; no remote write occurred in that failed call. A subsequent ordinary read and single update succeeded and was remotely verified. The first ACT clone validation command ran from the parent directory and returned `python: can't open file '/workspace/scratch/344d5ff97750/scripts/career_batches.py'`; rerunning from the checkout passed. One Andrew Leigh search response was truncated; narrower follow-up searches completed. None was terminal.
