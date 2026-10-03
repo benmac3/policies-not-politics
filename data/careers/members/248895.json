@@ -6,7 +6,7 @@
   "snapshot_party": "The Nationals",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/248895",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-02",
+  "last_reviewed": "2026-10-03",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -156,12 +156,12 @@
       "counting_note": "Political-staff employment is excluded under the codebook."
     },
     {
-      "spell_id": "248895-mills-office",
+      "spell_id": "248895-mills-senior-policy-adviser",
       "employer": "Office of the Hon. Terry Mills MLA, Northern Territory",
-      "role": "Chief of Staff and senior adviser to the Northern Territory Opposition Leader",
+      "role": "Senior policy adviser to the Northern Territory Opposition Leader",
       "start_date": null,
-      "end_date": null,
-      "date_precision": "unknown",
+      "end_date": "2011-03",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "political_staff",
@@ -170,9 +170,31 @@
       "counting_status": "excluded",
       "source_ids": [
         "src-member",
-        "src-agforce-profile"
+        "src-agforce-profile",
+        "src-abc-mills-transition"
       ],
-      "evidence_note": "The member biography says Penfold worked in the Northern Territory for Terry Mills. Exact title, employing entity, dates, payroll, hours, leave and relocation boundaries are unresolved. Conference biography confirms the chief-of-staff title; exact tenure still unresolved.",
+      "evidence_note": "ABC reported on 8 March 2011 that Penfold already worked for Terry Mills as senior policy adviser and would replace his departing chief of staff. This establishes the title before the March 2011 transition, but not the appointment start, exact cessation day, payroll, hours, leave or breaks.",
+      "counting_note": "Political-staff employment is excluded under the codebook."
+    },
+    {
+      "spell_id": "248895-mills-chief-of-staff",
+      "employer": "Office of the Hon. Terry Mills MLA, Northern Territory",
+      "role": "Chief of Staff to the Northern Territory Opposition Leader",
+      "start_date": "2011-03",
+      "end_date": null,
+      "date_precision": "month",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "political_staff",
+      "headline_sector": "excluded",
+      "government_control_at_time": "public",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-member",
+        "src-agforce-profile",
+        "src-abc-mills-transition"
+      ],
+      "evidence_note": "ABC reported on 8 March 2011 that Penfold would replace departing chief of staff Greg Charter. Later member and conference biographies corroborate the chief-of-staff title. The announcement supports a March 2011 transition at month precision; exact commencement day, cessation, payroll, hours, leave and relocation boundaries remain unresolved.",
       "counting_note": "Political-staff employment is excluded under the codebook."
     },
     {
@@ -665,6 +687,16 @@
       "note": "Participant identifies Penfold as her program mentor; corroborates the public professional volunteer entry.",
       "retrieved": "2026-10-02",
       "source_id": "src-mentor-oct2"
+    },
+    {
+      "url": "https://www.abc.net.au/news/2011-03-08/senior-staffer-leaves-opposition-leaders-office/2666348",
+      "publisher": "Australian Broadcasting Corporation",
+      "title": "Senior staffer leaves Opposition Leader's office",
+      "source_type": "news",
+      "locator": "Article posted 8 March 2011; paragraphs naming the departing chief of staff and replacement",
+      "note": "Contemporaneous report states that Penfold already worked for Terry Mills as senior policy adviser and would replace Greg Charter as chief of staff, anchoring the title transition to March 2011 without supplying an exact appointment day or later endpoint.",
+      "retrieved": "2026-10-03",
+      "source_id": "src-abc-mills-transition"
     }
   ],
   "research_notes": [
@@ -677,6 +709,7 @@
     "2026-10-01 follow-up identifies Futureye, temporary NFF communications work, NCCP communications-chair governance and two party offices. Corroborates chief-of-staff titles, adds Vaile 2004–2006 profile years and Woolworths acting title. Removes preselection day as an employment endpoint and unsupported unpaid label for family assistance.",
     "Searched member/first-person and conference biographies, parliamentary witness/party records, FRDC historical project report, NFF institutional releases and public professional profile. Direct LinkedIn returned 999; APH direct pages were restricted/unavailable while indexed text was accessible. Detailed month-level career reconstruction on a contact-data aggregator was not used as verified evidence; seek original dated CV/appointments.",
     "Remaining leads: Futureye corporate/payroll history and exact tenure; NFF temporary contract and earlier/later communications records; NCCP chair contract; Woolworths appointment/acting interval; Reith/Truss/Mills/Hogan/Gillespie title transitions, campaign leave and career/travel breaks. No hours inferred from job advertisements for Penfold’s own later staff.",
-    "Second follow-up2October2026 supplies month-level Woolworths and NFF contract boundaries, ANU study years and a separately excluded volunteer mentoring role. Public profile places a personal Camino pilgrimage inAugust–September2016. First-person Aurora interview describes walking after leaving a job in2016 and again in2019; retain these breaks rather than assume continuous work across transitions. A Littleproud-office indexed fragment givesMarch–May2018 without a clearly associated title; do not apply it to the entire chief-of-staff tenure, which contemporary August2018 reporting also observes. Exact title progression, later consultancy boundaries, ordinary hours and leave remain unresolved. Burgmann alumni1990–1992 residence is not degree completion. Search snippets and broad career narratives are not evidence of continuous full-time work."
+    "Second follow-up2October2026 supplies month-level Woolworths and NFF contract boundaries, ANU study years and a separately excluded volunteer mentoring role. Public profile places a personal Camino pilgrimage inAugust–September2016. First-person Aurora interview describes walking after leaving a job in2016 and again in2019; retain these breaks rather than assume continuous work across transitions. A Littleproud-office indexed fragment givesMarch–May2018 without a clearly associated title; do not apply it to the entire chief-of-staff tenure, which contemporary August2018 reporting also observes. Exact title progression, later consultancy boundaries, ordinary hours and leave remain unresolved. Burgmann alumni1990–1992 residence is not degree completion. Search snippets and broad career narratives are not evidence of continuous full-time work.",
+    "Third follow-up3October2026: contemporaneous ABC reporting separates Penfold's Terry Mills service into senior policy adviser before March2011 and announced chief-of-staff succession in March2011. The transition is retained at month precision because the article does not state the actual commencement day. Earlier appointment, later cessation, payroll, hours and leave remain unresolved. A separate first-speech account identifies her as Natasha Griggs's campaign director over the nine-month2010 campaign; it is a party-campaign lead rather than proof of paid employment and was not converted into an employment interval."
   ]
 }
