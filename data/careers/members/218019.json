@@ -6,7 +6,7 @@
   "snapshot_party": "The Nationals",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/218019",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-03",
+  "last_reviewed": "2026-10-04",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -288,6 +288,25 @@
       "evidence_note": "Primary party biography lists these community roles. Names, separate terms, remuneration and hours not stated; no full-time paid status inferred. Multiple undated activities retained together pending organisation/term identification.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "218019-community-organisations"
+    },
+    {
+      "employer": "Page Research Institute",
+      "role": "Honorary director",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "nonprofit",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-interests45-page-oct4"
+      ],
+      "evidence_note": "Public transcription of the45th Parliament interests register records Hogan as honorary director on15March2018. This is a dated observation, not an appointment boundary. The honorary description supports governance rather than paid operational employment; exact term, duties and hours remain unknown.",
+      "counting_note": "Honorary nonprofit governance is excluded; no substantive paid employment established.",
+      "spell_id": "218019-page-research"
     }
   ],
   "sources": [
@@ -402,6 +421,16 @@
       "source_id": "src-nationals-community-oct2"
     },
     {
+      "source_id": "src-interests45-page-oct4",
+      "url": "https://icacpls.github.io/interests/categories/memberships.html",
+      "publisher": "Open-source Register of Members' Interests transcription",
+      "title": "Memberships — Kevin Hogan",
+      "source_type": "other",
+      "locator": "Kevin Hogan self entry, Honorary Director of Page Research Institute,15March2018",
+      "note": "Public transcription supplies a dated register observation; original appointment, cessation and remuneration records remain unlocated.",
+      "retrieved": "2026-10-04"
+    },
+    {
       "source_id": "src-clunes-retirement-oct3",
       "url": "https://www.lismore.nsw.gov.au/files/assets/public/v/1/5.-council/5.-council-amp-committee-meetings/business-papers-archive/2001-2010/2009/2009-02-10_ordinary_bp.pdf",
       "publisher": "Lismore City Council",
@@ -443,7 +472,8 @@
     "Attempted targeted annual-report, investment-industry, school/university and early-employer searches. Exact teacher/Deputy Principal hours and dates, earliest finance sequence, consultancy entity and farming labour remain unresolved. Next use historic CSRF trustee reports, school staff records and employer-specific appointments.",
     "Second follow-up2October2026 adds omitted local wastewater governance and school/sport community roles. Council minutes anchor Clunes appointment to14December2004, rather than the8February2005 date of the containing business papers. Roles are excluded from paid-employment totals.",
     "Targeted CSRF appointment, school leadership and consultancy/legal-entity searches did not resolve personal hours or finance employer transitions.2026 industry profiles repeat employer variants without dates; reader comments are not used as evidence. US management consultant Kevin Hogan and UK delivery director are namesakes, not this member. New priority: Clunes committee cessation minutes and named school/sport records, alongside still-open CSRF terms, finance transitions and consultancy entity.",
-    "Follow-up3October2026 retrieved the actual Clunes retirement resolution, distinct from the9December2008 agenda recommendation. It establishes committee dissolution only, not personal cessation. Added specific superannuation consultancy activity and recorded seven-versus-ten-year teaching conflict. Targeted P&C and club searches led to a partisan reproduction of an apparent2010 campaign page; original NLA/Pandora page reader returned Internal Error (no code), so the Clunes P&C/tennis vice-presidency wording remains an unverified lead. No primary school/club term or employment hours obtained. Declared-interest summaries suggest honorary Page Research Institute directorship; verify the original parliamentary register before adopting."
+    "Follow-up3October2026 retrieved the actual Clunes retirement resolution, distinct from the9December2008 agenda recommendation. It establishes committee dissolution only, not personal cessation. Added specific superannuation consultancy activity and recorded seven-versus-ten-year teaching conflict. Targeted P&C and club searches led to a partisan reproduction of an apparent2010 campaign page; original NLA/Pandora page reader returned Internal Error (no code), so the Clunes P&C/tennis vice-presidency wording remains an unverified lead. No primary school/club term or employment hours obtained. Declared-interest summaries suggest honorary Page Research Institute directorship; verify the original parliamentary register before adopting.",
+    "Fourth follow-up4October2026 located a public45th Parliament interests transcription recording Hogan as honorary director of Page Research Institute on15March2018. Added this as excluded nonprofit governance, not employment; appointment/cessation, duties and hours remain unknown. The same search surfaced secondary reproductions of his2010 campaign biography naming Clunes P&C and tennis offices, but the original archived page remained unavailable and the reproductions do not resolve term dates or payment. No finance, teaching, consultancy or farm hours inferred."
   ],
   "open_questions": [
     "Which finance legal entities employed Hogan from 1989 to 1998, on what exact dates and under what government control at each transition?",
@@ -457,6 +487,6 @@
     "What was the exact CSRF cessation day before 16 September 2008, and did the four-day arrangement cover the entire 2006–2008 appointment?",
     "What were the CSRF board and Trinity IAB appointment/cessation dates and fees?",
     "When did Clunes Wastewater Committee service cease; which school P&C and sports club, on what dates and with what remuneration or volunteer basis?",
-    "Did Hogan leave the Clunes committee before its9December2008 dissolution; how can the seven-versus-ten-year teaching accounts be reconciled? Verify original2010 biography for Clunes P&C/tennis offices and original interest register for honorary Page Research Institute governance."
+    "Did Hogan leave the Clunes committee before its9December2008 dissolution; how can the seven-versus-ten-year teaching accounts be reconciled? Verify original2010 biography for Clunes P&C/tennis offices and original appointment/cessation records for Page Research Institute governance."
   ]
 }
