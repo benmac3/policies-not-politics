@@ -137,3 +137,14 @@
 - 316818: Materially enriched: Health Partners customer-support employer and December2023–June2024dates resolved; historical mutual nonprofit status classified. Retail banner transition dated; childcare and hours unresolved.
 - 00AOU: Materially enriched: early union employer identified as Federated Furnishing Trade Society of Australasia;1993amalgamation context independently supported. Individual transfer, law-practice hours and gaps unresolved.
 - HWB: Materially enriched: Libraries Board start15April2004 and2005reappointment instrument resolved; possible2005service gap retained,2007actual retirement preserved. Banking/gym full-time totals unresolved; proceed Tasmania.
+
+## Active follow-up — 2026-10-03 16:00 Brisbane cycle, continuation 2
+
+- SA segment started after the same continuation completed and remotely checkpointed WA-2. Starting SA head: `cc6123251077c94c29f5412e1347ff16d27767d5`; no active conflicting writer or intervening branch change was observed. Batch and repository validation passed.
+- Current continuation progress nationally: 12 distinct members processed, 0 new initial, 10 materially enriched existing and 2 nonmaterial follow-ups, 0 newly research-complete. Cycle cumulative: 44 distinct processed, 0 new, 31 materially enriched, 13 nonmaterial follow-ups, 0 complete. Brisbane-day cumulative: 0 new, 119 materially enriched, 0 complete. Counts include only remotely verified member commits; checkpoint-only commits are excluded.
+- Alex Antic: materially enriched — a contemporaneous 7 April 2017 report resolves the Duncan Basheer Hannon to Tindall Gask Bentley transition to April 2017 and says he had spent eight years at DBH. The approximate tenure was not converted into an exact start; full-time status, leave and the earlier 2002–circa-2009 employer allocation remain unresolved.
+- Member commit: `c9ec32c96a95ff56ec78fd18b20696db385a7e4c`, remotely fetched and verified after write.
+- Durable next cursor: Leah Blyth (315170).
+- OUTCOME: ongoing. STOPPING REASON: none; continue after checkpoint verification. Successor not requested. Scheduler terminal status unavailable.
+- Validation: JSON parse, `career_batches.py --check` (226/13), `career_batches.py --batch sa`, `build_careers.py` load/build and `git diff --check` passed. Generated local aggregates were discarded; only the assigned member and this checkpoint are being written.
+- Recovered local command error at batch transition: validation was initially invoked from the checkout parent and returned `fatal: not a git repository` plus missing-script errors; rerunning from the isolated SA checkout succeeded. This did not affect repository data or terminate research.
