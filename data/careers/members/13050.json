@@ -6,12 +6,12 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/13050",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-02",
+  "last_reviewed": "2026-10-03",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
     "calculation_status": "not_calculable",
-    "note": "Added AMEP and TAFE teaching, RTO management, named consulting affiliation and 2009–2015 CAAR governance. SBS explicitly reports full-time government policy work, but exact contracts, continuous intervals and leave remain unmapped. Corrected EOC end to official 2008 and Curtin observation date; no duration manufactured."
+    "note": "Added AMEP and TAFE teaching, RTO management, named consulting affiliation and 2009–2015 CAAR governance. The 45th Parliament interests statement now fixes PaVE chair cessation at 6 August 2016 and documents post-election ECU/Curtin adjunct affiliations; a later legal analysis confirms the substantive ECU professorship was relinquished before nomination. Exact government and university contracts, continuous intervals, hours and leave remain unmapped, so no duration is manufactured."
   },
   "career_spells": [
     {
@@ -156,9 +156,10 @@
       "source_ids": [
         "src-1",
         "src-9",
-        "src-10"
+        "src-10",
+        "src-19"
       ],
-      "evidence_note": "ECU's 2015 annual report identifies Aly as one of its first Professorial Research Fellow appointments. Contemporary election coverage described her as an ECU professor in 2016. Exact commencement, campaign leave, workload and cessation are not published.",
+      "evidence_note": "ECU's 2015 annual report identifies Aly as one of its first Professorial Research Fellow appointments. Contemporary election coverage described her as an ECU professor in May 2016. A 2018 legal analysis reports that Labor's eligibility vetting made Aly quit the ECU professorship before her federal nomination, but gives no letter date or workload. The later adjunct affiliation is recorded separately and is not treated as continuation of substantive employment.",
       "counting_note": "A professorial title does not by itself prove substantive full-time status, and the 2016 transition to candidacy and elected office is not precisely evidenced."
     },
     {
@@ -166,7 +167,7 @@
       "employer": "People Against Violent Extremism",
       "role": "Founder and chair",
       "start_date": "2013",
-      "end_date": null,
+      "end_date": "2016-08-06",
       "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
@@ -176,9 +177,10 @@
       "counting_status": "excluded",
       "source_ids": [
         "src-2",
-        "src-10"
+        "src-10",
+        "src-20"
       ],
-      "evidence_note": "Biographical and contemporary reporting identify Aly as founder and head of the counter-extremism nonprofit. No paid employment, hours or remuneration are established; the activity overlapped university appointments. Election in 2016 is not evidence of chair cessation; unsupported endpoint removed.",
+      "evidence_note": "Biographical and contemporary reporting identify Aly as founder and head of the counter-extremism nonprofit. Her signed 45th Parliament interests statement records resignation as founding chair on 6 August 2016. No paid employment, hours or remuneration are established; the activity overlapped university appointments.",
       "counting_note": "Nonprofit governance/advocacy is excluded unless substantive paid employment is documented."
     },
     {
@@ -318,6 +320,44 @@
       "evidence_note": "Primary university biography dates first appointment to 2009; official table gives second term 16 December 2012–15 December 2015 scheduled, minister confirms concluding term November 2015. Governance, not substantive public-service employment; exact actual first/last days and remuneration unresolved.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "13050-15"
+    },
+    {
+      "employer": "Edith Cowan University",
+      "role": "Adjunct professor",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "public_service",
+      "headline_sector": "excluded",
+      "government_control_at_time": "public",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-20"
+      ],
+      "evidence_note": "Aly's signed 45th Parliament interests statement, lodged 16 September 2016 and declaring interests as at election day, lists Adjunct Professor at ECU after the substantive professorship had been relinquished. The document does not give appointment dates, pay or workload.",
+      "counting_note": "An adjunct affiliation without evidence of substantive paid employment or hours is excluded from headline employment years.",
+      "spell_id": "13050-16"
+    },
+    {
+      "employer": "Curtin University",
+      "role": "Adjunct associate professor",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "public_service",
+      "headline_sector": "excluded",
+      "government_control_at_time": "public",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-20"
+      ],
+      "evidence_note": "Aly's signed 45th Parliament interests statement, lodged 16 September 2016 and declaring interests as at election day, lists Adjunct Associate Professor at Curtin. The document does not give appointment dates, pay or workload.",
+      "counting_note": "An adjunct affiliation without evidence of substantive paid employment or hours is excluded from headline employment years.",
+      "spell_id": "13050-17"
     }
   ],
   "sources": [
@@ -500,6 +540,26 @@
       "note": "Indexed official entry gives Manager of Training and Education 2007–2008, correcting prior record end 2009. Direct official page returned 403.",
       "retrieved": "2026-10-02",
       "source_id": "src-18"
+    },
+    {
+      "url": "https://insidestory.org.au/anne-aly-and-the-insurmountable-obstacle/",
+      "publisher": "Inside Story",
+      "title": "Anne Aly and the insurmountable obstacle",
+      "source_type": "reliable_secondary",
+      "locator": "11 May 2018, paragraph on Labor eligibility vetting",
+      "note": "Reports that Aly relinquished her Edith Cowan University professorship by letter before federal nomination to avoid an office-for-profit eligibility issue. No letter date, hours or leave details are supplied.",
+      "retrieved": "2026-10-03",
+      "source_id": "src-19"
+    },
+    {
+      "url": "https://www.aph.gov.au/-/media/03_Senators_and_Members/32_Members/Register/45p/AB/AlyA_45P.pdf?hash=412984108266F38BE03F9CDC51AFFF549EEF0C66&la=en",
+      "publisher": "Parliament of Australia",
+      "title": "Anne Aly — statement of registrable interests, 45th Parliament",
+      "source_type": "government_record",
+      "locator": "Pages 1, 6–7: other interests and notification of alterations",
+      "note": "Signed statement lodged 16 September 2016 lists ECU and Curtin adjunct affiliations and records resignation as PaVE founding chair on 6 August 2016. The declared adjunct titles do not establish pay, hours or appointment boundaries.",
+      "retrieved": "2026-10-03",
+      "source_id": "src-20"
     }
   ],
   "research_notes": [
@@ -511,6 +571,7 @@
     "Obtain 2016 university leave/cessation and campaign arrangements.",
     "Follow-up 2026-10-02: first-person speeches establish previously missing teaching and RTO management; consultant company identifies Phoenix affiliation. SBS supplies positive full-time policy-work evidence requiring contract/date mapping. CAAR second-term schedule and 2015 conclusion documented.",
     "Remaining: identify AMEP/TAFE/RTO employers and role overlap; find first full-time policy appointment and later status changes/leave; EOC 2008 cessation, OMI 2002 versus secondary 2003 commencement; ECU/Curtin precise transfers; own consultancy from 2011 versus Phoenix association; 2016 campaign leave.",
-    "Recovered APH 403/robots and member speech Internal Error handled with visible official index and accessible first-person transcripts. No access bypass. Source timing and date conflicts retained."
+    "Recovered APH 403/robots and member speech Internal Error handled with visible official index and accessible first-person transcripts. No access bypass. Source timing and date conflicts retained.",
+    "Follow-up 2026-10-03: official interests evidence resolves PaVE chair cessation to 6 August 2016 and confirms separate post-election ECU/Curtin adjunct affiliations. Inside Story reports the substantive ECU professorship was relinquished before nomination, reconciling it with those adjunct titles; the exact resignation letter date, campaign leave, pay and workload remain unavailable."
   ]
 }
