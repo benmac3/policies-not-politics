@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/300639",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-02",
+  "last_reviewed": "2026-10-04",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -222,6 +222,25 @@
       "spell_id": "300639-10"
     },
     {
+      "employer": "Unidentified factory employer or employers",
+      "role": "Factory work",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "unknown",
+      "government_control_at_time": "unknown",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-9"
+      ],
+      "evidence_note": "Current first-party Labor biography explicitly says Tyrrell worked in factories. Employer identity, role, dates, control, hours and relationship to the broad1998–2005labouring interval are unknown; no duplicate duration assigned.",
+      "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
+      "spell_id": "300639-15"
+    },
+    {
       "employer": "TAFE (institution not specified)",
       "role": "Certificate IV in Business studies",
       "start_date": null,
@@ -379,6 +398,16 @@
       "note": "Correct senator profile located; index does not expose full employer/date history. No authenticated/private material used.",
       "retrieved": "2026-10-01",
       "source_id": "src-8"
+    },
+    {
+      "url": "https://alp.org.au/our-people/our-people/tammy-tyrrell/",
+      "publisher": "Australian Labor Party",
+      "title": "Tammy Tyrrell — Senator for Tasmania",
+      "source_type": "official_biography",
+      "locator": "Opening career biography",
+      "note": "Current first-party biography states she worked in paddocks, factories and offices, helped people find work and worked in an electorate office. It does not identify employers, dates or hours.",
+      "retrieved": "2026-10-04",
+      "source_id": "src-9"
     }
   ],
   "research_notes": [
@@ -390,6 +419,7 @@
     "Source gaps: personal website returned Internal Error and beta website returned (400) Timeout fetching; official Federal Court judgment URL was inaccessible through search tool. Tribunal judgment mirror supplied narrow employment-date evidence. An ABC re-open returned Internal Error after earlier retrieval/index access. These source failures did not terminate the run.",
     "Follow-up2026-10-02(non-material): recovered full ABC23May2022page and rechecked public tribunal text paragraph25 and first speech. They corroborate existing facts without new employers, hours or dates. ABC references LinkedIn without exposing an original historical profile link; current profile index remains incomplete.",
     "Searches for corporate/community-development employer,2005council work, employment providers,2018–20adviser position and full-time status returned current Senate activities and advertisements recruiting her staff, not her employment terms. Canadian Inuvialuit2019employment-officer namesake excluded; no identity match. CVGT donor-list co-occurrence and visits to providers do not establish employment.",
-    "No substantive new fact or completion in this pass. Prior gaps persist; next follow-up needs a historical professional CV or employer-specific documentary lead before repeating broad job-title searches. Retain15-year employment-services account and unresolved overlap rather than manufacture a continuous interval."
+    "No substantive new fact or completion in this pass. Prior gaps persist; next follow-up needs a historical professional CV or employer-specific documentary lead before repeating broad job-title searches. Retain15-year employment-services account and unresolved overlap rather than manufacture a continuous interval.",
+    "Follow-up2026-10-04: current first-party Labor biography newly confirms factory work in addition to paddock and office work. Added a completeness spell without assigning employer, dates, control, hours or a second duration over the broad labouring interval. Targeted title and National Joblink searches otherwise repeated the official chronology and did not identify any employment-services provider; training-provider attendance and later visits were not treated as employment."
   ]
 }
