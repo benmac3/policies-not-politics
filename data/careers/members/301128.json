@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/301128",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-02",
+  "last_reviewed": "2026-10-03",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -37,9 +37,9 @@
     {
       "spell_id": "301128-02",
       "employer": "Australian Services Union",
-      "role": "Earlier organiser / assistant branch secretary",
+      "role": "Organiser; later assistant branch secretary",
       "start_date": "2000",
-      "end_date": null,
+      "end_date": "2014-07-25",
       "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
@@ -50,9 +50,11 @@
       "source_ids": [
         "src-2",
         "src-4",
-        "oct2-genvic"
+        "oct2-genvic",
+        "oct3-asu-2008",
+        "src-3"
       ],
-      "evidence_note": "Assistant branch secretary documented in 2011; early role boundaries not verified. Conference biography establishes organiser start2000; subsequent promotion boundaries still unknown. Not a continuous organiser title across later offices.",
+      "evidence_note": "Conference biography establishes organiser work from 2000. The regulator-filed office-holder list observes Darmanin as assistant branch secretary on 1 January 2008, while the exact promotion date remains unverified. The 2014-15 operating report records her as a full-time assistant branch secretary from 1 July to 25 July 2014, when she became branch executive president; do not treat the entire 2000-2014 span as one title or as proven full-time.",
       "counting_note": "Outside the two employment headlines under the codebook; retained as career context."
     },
     {
@@ -98,9 +100,9 @@
       "spell_id": "301128-05",
       "employer": "Australian Services Union, Victorian and Tasmanian Branch",
       "role": "Branch executive president",
-      "start_date": "2014-07",
-      "end_date": "2018-05",
-      "date_precision": "month",
+      "start_date": "2014-07-25",
+      "end_date": "2018-06-26",
+      "date_precision": "day",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "union",
@@ -109,9 +111,10 @@
       "counting_status": "excluded",
       "source_ids": [
         "src-1",
-        "src-3"
+        "src-3",
+        "oct3-asu-change"
       ],
-      "evidence_note": "Full-time officer status is directly established only for 25 July 2014–30 June 2015 reporting interval; not extrapolated across department role.",
+      "evidence_note": "Regulator-filed records establish the exact office transition: full-time assistant branch secretary through 25 July 2014, branch executive president from that date, and cessation of the president office on 26 June 2018 when she became branch secretary. Full-time status is directly established only for 25 July 2014–30 June 2015 and is not extrapolated across the whole presidency or the department role.",
       "counting_note": "Outside the two employment headlines under the codebook; retained as career context."
     },
     {
@@ -139,9 +142,9 @@
       "spell_id": "301128-07",
       "employer": "Australian Services Union, Victorian and Tasmanian Branch",
       "role": "Branch secretary",
-      "start_date": "2018-05",
-      "end_date": "2024-06",
-      "date_precision": "month",
+      "start_date": "2018-06-26",
+      "end_date": "2024-06-02",
+      "date_precision": "day",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "union",
@@ -150,9 +153,11 @@
       "counting_status": "excluded",
       "source_ids": [
         "src-1",
-        "oct2-genvic"
+        "oct2-genvic",
+        "oct3-asu-change",
+        "oct3-asu-2024"
       ],
-      "evidence_note": "Official months retained; overlapping elected-office transition does not create double counting. Conference bio gives June2018 commencement versus APHMay2018. Retain existing official date pending election/assumption documentation.",
+      "evidence_note": "Regulator-filed office-change notice establishes commencement on 26 June 2018. The 2024 operating report records Darmanin as a full-time officer and branch secretary through 2 June 2024, four days after Senate appointment; the report directly supports full-time status only for its stated 1 July 2022–2 June 2024 interval, not the entire secretary spell. Overlap with elected office is retained and does not create headline double counting.",
       "counting_note": "Outside the two employment headlines under the codebook; retained as career context."
     },
     {
@@ -447,6 +452,36 @@
       "note": "Indexed full row provides exact director and chair dates.",
       "retrieved": "2026-10-02",
       "source_id": "oct2-visionmirror"
+    },
+    {
+      "url": "https://regorgs.fwc.gov.au/sites/default/files/migration/341/052vvas-ar2008-212.pdf",
+      "publisher": "Fair Work Commission",
+      "title": "ASU Victorian and Tasmanian Authorities and Services Branch office holders at 1 January 2008",
+      "source_type": "government_record",
+      "locator": "Office-holder list, p3: Assistant Branch Secretary — Lisa Darmanin",
+      "note": "Primary regulator-hosted observation of the assistant branch secretary title by 1 January 2008; it does not establish the original appointment date.",
+      "retrieved": "2026-10-03",
+      "source_id": "oct3-asu-2008"
+    },
+    {
+      "url": "https://regorgs.fwc.gov.au/sites/default/files/migration/341/052v-ar2018-24.pdf",
+      "publisher": "Fair Work Commission",
+      "title": "ASU notification of changes to offices and office holders, 20 July 2018",
+      "source_type": "government_record",
+      "locator": "Annexure A, p94: 26 June 2018 Branch Secretary and Branch Executive President changes",
+      "note": "Establishes that Darmanin became branch secretary and ceased as branch executive president on 26 June 2018.",
+      "retrieved": "2026-10-03",
+      "source_id": "oct3-asu-change"
+    },
+    {
+      "url": "https://regorgs.fwc.gov.au/sites/default/files/2025-01/052v-fr2024-159_redacted.pdf",
+      "publisher": "Fair Work Commission",
+      "title": "ASU Victorian and Tasmanian Authorities and Services Branch financial report 2024",
+      "source_type": "government_record",
+      "locator": "Operating report p2, Full time Officers table",
+      "note": "Lists Lisa Darmanin as branch secretary and full-time officer from 1 July 2022 to 2 June 2024, with Natasha Wark appointed on 2 June 2024.",
+      "retrieved": "2026-10-03",
+      "source_id": "oct3-asu-2024"
     }
   ],
   "research_notes": [
@@ -456,6 +491,7 @@
     "Direct full-time evidence found for one excluded union reporting interval; this is not transferred to the 2016–2017 department role. Earlier ASU dates still need primary confirmation.",
     "Follow-up2026-10-02: added explicitly part-time Safeway first job, organiser start2000, confirmed department and Trades Hall secondments, recovered Vision exact board/chair dates and deputy role, and Equal Workplaces advisory membership.",
     "Searches of official/state, union, employer and conference records did not resolve department hours, payroll or exact secondment dates, or early ASU promotion dates.2006 date in derivative biographies remains unadopted.2024 Vision fees paid to union are not personal full-time employment evidence.",
-    "Next follow-up: DPC appointment/secondment agreement or staff biography; historical ASU reports covering assistant-secretary appointment and2018 transition. Preserve headline nulls pending supported public FT interval; partial private job is not proof of zero lifetime FT work."
+    "Follow-up2026-10-03: regulator records now observe the assistant-secretary title by1 January2008, establish the exact25 July2014 president transition, the exact26 June2018 branch-secretary transition and2 June2024 cessation, and directly label the secretary as a full-time officer for1 July2022–2 June2024. Union work remains outside the two headline sectors.",
+    "Next follow-up: DPC appointment/secondment agreement or staff biography; primary election record for the original assistant-secretary appointment and evidence for work status outside the directly reported union intervals. Preserve headline nulls pending supported public FT interval; partial private job is not proof of zero lifetime FT work."
   ]
 }
