@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/259819",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-02",
+  "last_reviewed": "2026-10-03",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -111,9 +111,10 @@
       "counting_status": "excluded",
       "source_ids": [
         "src-3",
-        "src-6"
+        "src-6",
+        "src-9"
       ],
-      "evidence_note": "Public biographies identify Green as Queensland Field Director for the successful 2017 marriage-equality campaign. The employing legal entity, payroll status, precise boundaries, hours and overlap with other work are not published.",
+      "evidence_note": "Public biographies identify Green as Queensland Field Director for the successful 2017 marriage-equality campaign. Contemporary reporting quotes her in that capacity in Brisbane on 24 October 2017, supplying a dated role observation and showing public campaign-outreach duties. The employing legal entity, payroll status, precise boundaries, hours and overlap with other work are not published.",
       "counting_note": "Campaign/nonprofit activity is excluded from the two employment headlines."
     },
     {
@@ -145,8 +146,8 @@
       "employer": "Office of Senator Murray Watt",
       "role": "Adviser",
       "start_date": null,
-      "end_date": "2019",
-      "date_precision": "mixed",
+      "end_date": null,
+      "date_precision": "unknown",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "political_staff",
@@ -155,9 +156,10 @@
       "counting_status": "excluded",
       "source_ids": [
         "src-1",
-        "src-2"
+        "src-2",
+        "src-10"
       ],
-      "evidence_note": "Official parliamentary and ministerial biographies identify Green as an adviser to Senator Murray Watt before her own Senate service. They do not publish the start date, end date, employing entity, hours, leave or overlap with the AMWU and election campaign. The 2019 end is bounded only by her commencement as a senator.",
+      "evidence_note": "Official parliamentary and ministerial biographies identify Green as an adviser to Senator Murray Watt before her own Senate service. Contemporary preselection reporting on 30 August 2018 already called her a former adviser, providing an upper bound but not an exact cessation date. The sources do not publish the start date, employing entity, hours, leave or overlap with the AMWU and election campaign. The earlier 2019 structured end is withdrawn because Senate commencement was only an outer bound and the contemporary report does not prove which year the staff role ended.",
       "counting_note": "Political staff employment is excluded irrespective of public funding."
     },
     {
@@ -320,6 +322,26 @@
       "source_type": "official_biography",
       "locator": "Biography",
       "note": "Official current biography confirming federal service and pre-parliament employment roles."
+    },
+    {
+      "source_id": "src-9",
+      "url": "https://www.outinperth.com/three-quarters-australians-participated-marriage-survey/",
+      "publisher": "OUTinPerth",
+      "title": "Marriage survey has a massive 74.5% response rate",
+      "retrieved": "2026-10-03",
+      "source_type": "news_report",
+      "locator": "24 October 2017; Queensland Field Director quotation",
+      "note": "Contemporary report identifies Green as the Equality Campaign's Queensland Field Director and quotes her campaign outreach in Brisbane. It establishes a dated role observation, not payroll status or interval boundaries."
+    },
+    {
+      "source_id": "src-10",
+      "url": "https://www.smh.com.au/politics/federal/former-speaker-slams-labor-senate-preselection-20180830-p500qt.html",
+      "publisher": "The Sydney Morning Herald",
+      "title": "Former Speaker slams Labor Senate preselection",
+      "retrieved": "2026-10-03",
+      "source_type": "news_report",
+      "locator": "30 August 2018; candidate description",
+      "note": "Contemporaneous preselection report describes Green as a former adviser to Senator Murray Watt. This establishes that the staff role had ended by publication, but not its exact commencement, cessation, hours or leave."
     }
   ],
   "research_notes": [
@@ -327,6 +349,7 @@
     "Obtain Maurice Blackburn appointment/cessation, full-time status and leave evidence; the 2015-2017 span records sourced sequence at year precision, not exact payroll boundaries.",
     "Resolve whether the Equality Campaign role was paid employment and identify its legal employer, exact dates and overlap with legal practice.",
     "Obtain AMWU appointment/cessation, title history, hours and leave and Senator Murray Watt adviser dates; reconcile their overlap with preselection and campaign activity.",
-    "2026-10-02 follow-up added three separately documented party offices and clarified first-speech locator: the saved debate starts with Sheldon but also contains Green later, so the URL itself was not wrong. Employer-specific Maurice Blackburn searches, Canberra/Wollongong study and traineeship/full-time searches found no reliable new boundaries or hours. LinkedIn profile open returned Internal Error and APH search reported robots restriction; official ministerial biography and accessible Hansard mirror used. US teacher/arts namesakes, staff job advertisements and another press-conference speaker’s mining traineeship were rejected as identity/context mismatches. Next leads: historical firm biographies via named supervising lawyers, university completion records, original traineeship employer, Equality Campaign/AMWU records and Watt office transitions. Exact hours remain unknown;2015 admission alone does not prove continuous2015–17 practice."
+    "2026-10-02 follow-up added three separately documented party offices and clarified first-speech locator: the saved debate starts with Sheldon but also contains Green later, so the URL itself was not wrong. Employer-specific Maurice Blackburn searches, Canberra/Wollongong study and traineeship/full-time searches found no reliable new boundaries or hours. LinkedIn profile open returned Internal Error and APH search reported robots restriction; official ministerial biography and accessible Hansard mirror used. US teacher/arts namesakes, staff job advertisements and another press-conference speaker’s mining traineeship were rejected as identity/context mismatches. Next leads: historical firm biographies via named supervising lawyers, university completion records, original traineeship employer, Equality Campaign/AMWU records and Watt office transitions. Exact hours remain unknown;2015 admission alone does not prove continuous2015–17 practice.",
+    "2026-10-03 follow-up: contemporary 24 October 2017 reporting supplies a dated Equality Campaign field-director observation and campaign-outreach duties. Sydney Morning Herald preselection reporting on 30 August 2018 describes Green as a former Murray Watt adviser, moving the staff-role upper bound into 2018 without proving an exact end date. Searches of Maurice Blackburn, AMWU, university and parliamentary material did not identify the traineeship/retail employers, study years, legal-practice hours or exact AMWU/Watt transitions. The APH domain was robots-blocked in search and the SMH page returned an internal open error; indexed publication metadata and corroborating contemporary search results were retained. Next: archived firm/union staff directories, university conferral lists and office staffing records."
   ]
 }
