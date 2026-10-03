@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/316021",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-02",
+  "last_reviewed": "2026-10-03",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -37,7 +37,7 @@
     {
       "spell_id": "316021-02",
       "employer": "Employer(s) not fully resolved; includes Transdev Australasia",
-      "role": "Communications adviser",
+      "role": "Communications adviser / behavioural marketing in public transport",
       "start_date": "2015",
       "end_date": "2019",
       "date_precision": "year",
@@ -50,18 +50,19 @@
       "source_ids": [
         "src-1",
         "src-2",
-        "src-4"
+        "src-4",
+        "oct2-survey"
       ],
-      "evidence_note": "Official aggregate occupation interval; sources establish Transdev affiliation in2017 and2019, not that entire2015–19 span was one employer or one full-time appointment.",
+      "evidence_note": "Official aggregate occupation interval; a published MP career survey describes behavioural marketing in public transport. Sources establish Transdev affiliation from May2017 to June2019, not that the entire2015–19 span was one employer or one full-time appointment.",
       "counting_note": "Not counted: dates and/or substantive full-time status are insufficiently evidenced; year labels are not exact boundaries."
     },
     {
       "spell_id": "316021-03",
       "employer": "Transdev Australasia",
-      "role": "Project adviser / communications officer",
-      "start_date": null,
-      "end_date": null,
-      "date_precision": "unknown",
+      "role": "Project adviser; senior communications and engagement adviser / communications officer",
+      "start_date": "2017-05",
+      "end_date": "2019-06",
+      "date_precision": "month",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "public_corporation",
@@ -72,9 +73,10 @@
         "src-2",
         "src-3",
         "src-4",
+        "src-8",
         "oct2-control"
       ],
-      "evidence_note": "Nested within official communications period, not additive. Parent controlled by French state-owned CDC in2019; earlier control chronology, direct employing subsidiary and appointment dates remain unresolved. Control is unknown across the whole undated spell; public control is evidenced at the 2019 observation. Parent annual report dates CDC sole control to21 December2016 at70% ownership, preceding observed2017 role. Whole undated interval remains unknown because appointment start and direct subsidiary remain unresolved; no assumed corporate-control employment boundary.",
+      "evidence_note": "Nested within the official communications period, not additive. A public professional-profile mirror gives Project Advisor May2017–May2019 and Senior Communications and Engagement Advisor May–June2019; the 2017 ARA announcement and 2019 employer plan independently corroborate the employer and titles at points within that sequence, but not the precise transition dates or hours. Parent annual report dates French state-owned CDC sole control to21 December2016 at70% ownership, preceding the observed employment. Direct employing subsidiary remains unresolved, so no headline duration is calculated.",
       "counting_note": "Not counted: dates and/or substantive full-time status are insufficiently evidenced; year labels are not exact boundaries."
     },
     {
@@ -91,9 +93,10 @@
       "government_control_at_time": "public",
       "counting_status": "excluded",
       "source_ids": [
-        "src-1"
+        "src-1",
+        "src-8"
       ],
-      "evidence_note": "Official combined interval; minister-by-minister assignments not verified. Melissa Horne lead retained in source note only.",
+      "evidence_note": "Official combined interval; minister-by-minister assignments not fully verified. A public professional-profile mirror places her as adviser in Melissa Horne's public transport/ports and freight office from June2019 to May2020, but supplies no hours and is not treated as an independently verified appointment instrument.",
       "counting_note": "Outside the two employment headlines under the codebook; retained as career context."
     },
     {
@@ -253,7 +256,7 @@
       "retrieved": "2026-09-14",
       "source_type": "other",
       "locator": "Career/biography or relevant appointment section",
-      "note": "Search extract suggests Melissa Horne office and senior Transdev role May–June2019; unverified lead, not adopted as precise dates."
+      "note": "Public professional-profile mirror gives Transdev Project Advisor May2017–May2019, Senior Communications and Engagement Advisor May–June2019, and Melissa Horne adviser June2019–May2020. Employer/title sequence is partly corroborated by primary point-in-time sources; exact profile boundaries and hours are not independently verified."
     },
     {
       "url": "https://www.openaustralia.org.au/debate/?id=2025-07-28.102.1",
@@ -292,8 +295,9 @@
     "Transdev's public-transport contracts alone do not establish sector; historical corporate control does. The2019 primary release establishes French public control at that date, while the whole employment interval remains unresolved.",
     "Speech describes sister Clara's parliamentary, court and property-law career; none is assigned to Alice. Neuroscience study, parents' rail work and husband's apprenticeship are not her employment.",
     "A secondary site converts year labels to1January dates; those artificial boundaries were rejected. Melbourne Water month dates retained without a new duration convention or invented FTE.",
-    "Follow-up2026-10-02: added previously omitted teenage hospitality and bus-depot work; identified hospital volunteering, with explicit caution reconciling it to official year range. Transdev2016 accounts resolve parent sole-control transition, not employment dates.",
-    "Searched personal biography, first-speech transcript, published career survey, public profiles and historical parent accounts. Professional-profile mirror remains lead only. Saturday Paper direct open403; used indexed excerpt. Later OpenAustralia speech returned Internal Error; earlier transcript accessible. Staff job ads do not evidence her own FTE.",
-    "Next leads: burger business name and traineeship dates, depot employer and overlap, individual Transdev/Melbourne Water contracts and hours, ministerial assignments and2022–23 gap. No full-time total defensible."
+    "Follow-up2026-10-02: added previously omitted teenage hospitality and bus-depot work; identified hospital volunteering, with explicit caution reconciling it to official year range. Transdev2016 accounts resolve parent sole-control transition.",
+    "Follow-up2026-10-03: adopted the public professional-profile mirror's May2017–June2019 Transdev title sequence because primary 2017 and2019 sources independently corroborate employer and role observations within it. The mirror alone supplies exact month boundaries, so hours, transitions and full-time status remain unverified; the broader official2015–19 communications interval may include another employer.",
+    "Searched personal biography, first-speech transcript, published career survey, public profiles and historical parent accounts. Professional-profile mirror boundaries are retained with an explicit sole-source caveat and corroborating point observations, not treated as proof of full-time status. Saturday Paper direct open403; used indexed excerpt. Later OpenAustralia speech returned Internal Error; earlier transcript accessible. Staff job ads do not evidence her own FTE.",
+    "Next leads: burger business name and traineeship dates, depot employer and overlap, direct Transdev employing subsidiary/contracts and hours, Melbourne Water hours, remaining ministerial assignments and2022–23 gap. No full-time total defensible."
   ]
 }
