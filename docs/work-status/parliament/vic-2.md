@@ -122,3 +122,12 @@ Batch coverage, record fields, dates, enums, source references, build_careers.lo
 - IMW: Refined commissioner cessation19February2016 and Alfred board end30June2014; documented Dynamic Sunrise grouped-tenure conflict and APEC consultant affiliation. Start/leave/private hours remain unresolved.
 - 316660: Resolved Harcourts property-sales employer with2010activity snapshot; FCAV board startSeptember2022; added named voluntary/governance work. Conflicting commercial dates and hours unresolved.
 - E0F: Added omitted post2010return to Victoria Police; primary maiden speech refines1997/2003promotions and2003masters completion; conflicting cumulative tenure and hours unresolved.
+
+## Active follow-up — 2026-10-03 12:00 Brisbane cycle
+
+- Cycle:2026-10-03 12:00 Brisbane; continuation0. Start observed12:03:05+10:00; entered VIC-2 after remotely verifying the completed VIC-1 pass. Starting VIC-2 remote head:543e47a8aaff318ae4f44959344d9aa7adfdbebe; no competing branch change observed.
+- Starting national audit:226/226 initial records,226 unresolved,0 complete. This run/cycle:0 new,30 materially enriched existing,0 newly complete after remote verification;48 distinct member files saved, eighteen nonmaterial. Brisbane-day cumulative:0 new,40 materially enriched distinct records,0 newly complete. Morning08:00 results remain separate and are deduplicated by member ID.
+- MemberLTU Kearney: current first-person biography adds previously omitted aged-care nursing and a government ministerial statement places Austin Hospital work in the1980s. Neither source identifies the aged-care provider or supplies appointment boundaries, hours or leave. The rounded 20-year nursing description is retained only as context and not converted to a continuous full-time interval; material employer-setting and chronology enrichment.
+- Next follow-up:101351 KHALIL, the Hon. Peter. Continue in batch and plan order; blocked records remain unresolved.
+- OUTCOME:ongoing. STOPPING REASON:none; continue after remote verification. Successor not requested. Scheduler terminal status unavailable.
+- Validation:career_batches --check226/13 and --batch vic-2; individual JSON/source/date/enums and build_careers.load_records. Only assigned member/checkpoint changed.

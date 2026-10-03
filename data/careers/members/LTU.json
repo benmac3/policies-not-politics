@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/LTU",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-02",
+  "last_reviewed": "2026-10-03",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -55,9 +55,11 @@
         "src-4",
         "src-5",
         "src-6",
-        "oct2-anmj"
+        "oct2-anmj",
+        "oct3-about",
+        "oct3-health"
       ],
-      "evidence_note": "Direct accounts establish full-time shift nursing and nursing during honorary union service. Public hospital identity supported by contemporaneous account of public-sector work and unsuccessful privatisation. Endpoints, changes in hours and leave unknown; do not apply full-time status to an invented 15-year interval.2019 union interview corroborates full-time nursing during honorary presidencies, but no exact continuous interval.",
+      "evidence_note": "Direct accounts establish full-time shift nursing and nursing during honorary union service. Public hospital identity is supported by contemporaneous public-sector/privatisation evidence. A 2024 ministerial statement places Austin work in the 1980s, but does not establish appointment boundaries. Endpoints, changes in hours and leave remain unknown; do not apply full-time status to an invented 15-year or rounded 20-year interval. The 2019 union interview corroborates full-time nursing during honorary presidencies, but no exact continuous interval.",
       "counting_note": "Dates, employer control and/or substantive full-time status remain insufficient for a duration calculation; unknown is not zero."
     },
     {
@@ -81,6 +83,25 @@
       ],
       "evidence_note": "APH supplies deputy-director dates; other primary sources identify Austin and education-management title. Overlaps broader nursing spell and must not be added to it. Title alone does not establish hours across this exact interval.",
       "counting_note": "Dates, employer control and/or substantive full-time status remain insufficient for a duration calculation; unknown is not zero."
+    },
+    {
+      "spell_id": "LTU-agedcare",
+      "employer": "Unidentified aged-care provider(s)",
+      "role": "Nurse",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "unknown",
+      "government_control_at_time": "unknown",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "oct3-about"
+      ],
+      "evidence_note": "Current first-person biography says her nursing career included aged care as well as Austin Hospital. No provider, dates, hours, payroll entity or ownership/control is supplied. The rounded statement that she was a nurse for 20 years is career context, not proof of one continuous full-time interval.",
+      "counting_note": "Not counted: employer identity/control, dates and substantive full-time status are unresolved; unknown is not zero."
     },
     {
       "spell_id": "LTU-04",
@@ -443,6 +464,26 @@
       "note": "Job representative from1993; honorary presidencies alongside full-time nursing; assistant secretary election2003. Training description differs from direct first speech.",
       "retrieved": "2026-10-02",
       "source_id": "oct2-anmj"
+    },
+    {
+      "url": "https://www.gedkearney.org.au/about/about-me/",
+      "publisher": "Ged Kearney MP",
+      "title": "About me",
+      "source_type": "official_biography",
+      "locator": "Opening career paragraphs",
+      "note": "First-person account says she was a nurse for 20 years and worked at Austin Hospital and in aged care. Rounded duration does not establish continuous full-time service or provider boundaries.",
+      "retrieved": "2026-10-03",
+      "source_id": "oct3-about"
+    },
+    {
+      "url": "https://www.health.gov.au/ministers/the-hon-ged-kearney-mp/media/strengthening-medicare-by-building-our-nursing-workforce?language=en",
+      "publisher": "Australian Government Department of Health and Aged Care",
+      "title": "Strengthening Medicare by building our nursing workforce",
+      "source_type": "government_record",
+      "locator": "Quotes attributable to Assistant Minister Kearney, 26 July 2024",
+      "note": "First-person ministerial quote places her nursing work at Austin Hospital in the 1980s, without exact appointment dates or hours.",
+      "retrieved": "2026-10-03",
+      "source_id": "oct3-health"
     }
   ],
   "research_notes": [
@@ -453,7 +494,8 @@
     "2026-09-29: searched historical Austin annual-report catalogues, full-time nursing terms, Cbus appointment records and Skills Australia board leads. Retrieved catalogues did not resolve the historical personnel dates. HESTA annual report confirms resignation, but Cbus/Skills appointment endpoints remain follow-up work.",
     "Potential early family hotel work is not established from the father's occupation and is not entered as employment. Public/private sector descriptions in biographies do not override nonprofit employer classification. All headline totals remain null; overlapping nursing and union roles are not additive.",
     "Follow-up2026-10-02: regulator-held union return and7 April2003 submission narrow the observed president-to-assistant-secretary transition; preserved2002/2003 source conflict. Cbus resignation month resolved. Added1993 workplace representative role separately.",
+    "Follow-up2026-10-03: current first-person biography adds previously omitted aged-care nursing and a government ministerial statement places Austin work in the1980s. Neither identifies an aged-care provider or supplies appointment boundaries. The rounded 20-year nursing description is not converted to a continuous full-time duration.",
     "Searched Austin/Cowin historical records and employer/union/government reports. ANMJ2019 says trained at Austin, whereas direct first speech identifies Mercy; do not replace stronger first-person training account. PUPPS2004 article acknowledgement naming Cowin on a working group is a follow-up lead, not proof of employment.",
-    "APH submission direct open Internal Error and AWPA report403; official indexed cover usable. No exact nursing start/cessation, hours changes or leave recovered. Next:2003 election/appointment result and Austin cessation record; earliest Cbus/HESTA appointments; Skills Australia/AWPA appointment terms."
+    "APH submission direct open Internal Error and AWPA report403; official indexed cover usable. No exact nursing start/cessation, aged-care employer, hours changes or leave recovered. Next:2003 election/appointment result and Austin cessation record; aged-care provider; earliest Cbus/HESTA appointments; Skills Australia/AWPA appointment terms."
   ]
 }
