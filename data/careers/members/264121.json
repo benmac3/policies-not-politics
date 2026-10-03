@@ -6,19 +6,19 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/264121",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-02",
+  "last_reviewed": "2026-10-03",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
     "calculation_status": "not_calculable",
-    "note": "Primary material identifies early kitchen-assistant work, Griffith completion in 2009 and Joe Ludwig office service observed in May 2010. Public professional index narrows Maurice Blackburn to August 2014–May 2019. Hours and leave remain unknown; political staff excluded and headline totals remain null."
+    "note": "Primary material identifies early kitchen-assistant work and Joe Ludwig office service observed in2010. Public professional profile gives Griffith2004–2009 and Maurice Blackburn August2014–May2019; a contemporary parliamentary directory identifies Wells as Ludwig's Assistant Adviser. Hours and leave remain unknown; political staff excluded and headline totals remain null."
   },
   "career_spells": [
     {
       "spell_id": "264121-01",
       "employer": "Residential aged-care facility, employer not identified",
       "role": "Kitchen assistant in residential aged care",
-      "start_date": null,
+      "start_date": "2004",
       "end_date": null,
       "date_precision": "unknown",
       "employment_status": "part_time",
@@ -52,9 +52,10 @@
         "src-3",
         "src-4",
         "src-6",
-        "src-10"
+        "src-10",
+        "src-13"
       ],
-      "evidence_note": "The official ministerial biography records the Griffith degrees. Public biographies also record an Australian National University graduate diploma and admission to legal practice in 2012. Exact enrolment and completion dates and study/employment overlaps are not published. University alumni profile specifically dates both Griffith completions to 2009. ANU diploma is separated below; legal admission in 2012 does not establish diploma completion.",
+      "evidence_note": "The official ministerial biography records the Griffith degrees. Wells' public professional profile gives Griffith University2004–2009, while the university alumni profile specifically dates both completions to2009. Public biographies also record an Australian National University graduate diploma and admission to legal practice in2012. Exact enrolment days, study load and employment overlaps are not published. ANU diploma is separated below; legal admission does not establish diploma completion.",
       "counting_note": "Study is excluded."
     },
     {
@@ -165,7 +166,7 @@
     },
     {
       "employer": "Office of Senator Joe Ludwig, Australian Government",
-      "role": "Political staff member; media contact observed 21 May 2010",
+      "role": "Assistant adviser; media contact observed 21 May 2010",
       "start_date": null,
       "end_date": null,
       "date_precision": "unknown",
@@ -177,9 +178,10 @@
       "counting_status": "excluded",
       "source_ids": [
         "src-11",
-        "src-12"
+        "src-12",
+        "src-14"
       ],
-      "evidence_note": "Contemporaneous release names Wells as media contact; Ludwig later confirms her among former staff. Observation date is not commencement or cessation. Nested within the existing five-year political-staff umbrella; do not add durations.",
+      "evidence_note": "A contemporary parliamentary directory lists Wells as an Assistant Adviser in Ludwig's office, and a 21May2010 joint ministerial release names her as a media contact. Ludwig later confirms her among former staff. The directory and dated observation are not commencement or cessation evidence. Nested within the existing five-year political-staff umbrella; do not add durations.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "264121-08"
     }
@@ -310,10 +312,20 @@
       "publisher": "Anika Wells / LinkedIn",
       "title": "Public professional profile",
       "source_type": "professional_profile",
-      "locator": "Publicly indexed Maurice Blackburn experience entry",
-      "note": "Index gives August 2014–May 2019. Direct page returned 999 UnknownStatusCode; no authenticated access or hidden fields used. Hours and leave not exposed.",
-      "retrieved": "2026-10-02",
+      "locator": "Public education and Maurice Blackburn experience entries",
+      "note": "Public page gives Griffith University2004–2009; indexed experience gives Maurice Blackburn August2014–May2019. Some experience fields remain redacted; no authenticated access or hidden fields used. Hours and leave not exposed.",
+      "retrieved": "2026-10-03",
       "source_id": "src-13"
+    },
+    {
+      "url": "https://paperzz.com/doc/8310374/cch-parliament",
+      "publisher": "CCH Parliament directory, reproduced by Paperzz",
+      "title": "CCH Parliament",
+      "source_type": "reliable_secondary",
+      "locator": "Senator the Hon Joseph William Ludwig office listing, circa2010",
+      "note": "Contemporary parliamentary-directory reproduction lists Ms Anika Wells as Assistant Adviser. It establishes a role observation, not appointment or cessation dates, hours or leave.",
+      "retrieved": "2026-10-03",
+      "source_id": "src-14"
     }
   ],
   "research_notes": [
@@ -324,6 +336,7 @@
     "Obtain Maurice Blackburn appointment, role progression, hours, leave, payroll cessation and 2018-19 preselection/campaign arrangements; 18 May 2019 is only an election-derived outer bound.",
     "Follow-up 2026-10-02: reviewed first-person aged-care speech, university alumni profile, historical 2009–10 annual report reproducing a government release, Ludwig valedictory and public professional index. Added named office and narrowed legal-job months; separated ANU study.",
     "Remaining: identify Daisy wing facility and ownership; establish kitchen/relief-diversional role chronology and hours; identify all ministerial offices and actual five-year boundaries; Maurice Blackburn contract, maternity/campaign leave and last paid day. Secondary relief-diversional role remains a lead needing better evidence.",
-    "Source errors: archived Maurice Blackburn March 2019 profile inaccessible via search tool; LinkedIn direct open returned 999 UnknownStatusCode. Public search index used for visible dates only. Secondary claim of Wayne Swan staff service not independently established; campaign management does not prove ministerial employment."
+    "Source errors: archived Maurice Blackburn March2019 profile inaccessible via search tool. LinkedIn public page later became accessible for Griffith dates while experience remains partly redacted; public index used only for visible Maurice Blackburn months. Secondary claim of Wayne Swan staff service not independently established; campaign management does not prove ministerial employment.",
+    "Follow-up2026-10-03: publicprofessionalprofile supplies Griffith2004–2009. A contemporary CCH parliamentary-directory reproduction identifies Wells as Assistant Adviser in Joe Ludwig's office, consistent with the 21May2010 government-release media contact and Ludwig's later valedictory. These are role observations, not employment boundaries. Other ministerial offices, the reported five-year interval, 2012–2014 work, hours and leave remain unresolved."
   ]
 }
