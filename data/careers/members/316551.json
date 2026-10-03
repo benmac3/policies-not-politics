@@ -6,12 +6,12 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/316551",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-02",
+  "last_reviewed": "2026-10-03",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
     "calculation_status": "not_calculable",
-    "note": "Military service is dated to months but substantive full-time status and treatment of injury-related absence need confirmation. Hospitality employers, dates and hours are unidentified. Political staffing, study, governance and volunteering are excluded. Public/private totals remain null."
+    "note": "Military service is dated to months and official ADF careers material establishes RMC officer entry as full-time paid training. A common month-conversion convention and treatment of Comer's injury-related cessation or any absence remain unresolved, so no duration is calculated. Hospitality employers, dates and hours are unidentified. Political staffing, study, governance and volunteering are excluded. Public/private totals remain null."
   },
   "career_spells": [
     {
@@ -21,18 +21,19 @@
       "start_date": "2013-01",
       "end_date": "2014-01",
       "date_precision": "month",
-      "employment_status": "unknown",
-      "fte_fraction": null,
+      "employment_status": "full_time",
+      "fte_fraction": 1,
       "category": "public_service",
       "headline_sector": "public",
       "government_control_at_time": "public",
       "counting_status": "insufficient_evidence",
       "source_ids": [
         "src-1",
-        "src-2"
+        "src-2",
+        "src-13"
       ],
-      "evidence_note": "Official military interval retained at month precision; first speech confirms enlistment and departure following injury after about a year. Full-time service category, leave and exact cessation require verification; not treated as civilian university study.",
-      "counting_note": "Dates, employer control and/or substantive full-time status remain insufficient for a duration calculation; unknown is not zero."
+      "evidence_note": "Official person-specific military interval retained at month precision; first speech confirms enlistment and departure following injury after about a year. Official ADF careers material describes RMC officer entry as 18 months of full-time paid training, supporting full-time status for this Staff Cadet spell. Individual injury-related absence, leave and exact cessation within the published endpoint remain unverified; not treated as civilian university study.",
+      "counting_note": "Public employer and full-time status are supported, but the project has no documented common convention for converting month-only boundaries and the injury-related cessation/absence treatment remains unresolved. No exact headline duration is calculated; unknown is not zero."
     },
     {
       "spell_id": "316551-02",
@@ -392,6 +393,16 @@
       "note": "Identifies first job at a fish-and-chip shop with roughly$6 hourly pay. Direct open returned Online fetch throttled; remaining transcript not retrieved. No dates, shop name or hours claimed.",
       "retrieved": "2026-10-02",
       "source_id": "src-12"
+    },
+    {
+      "source_id": "src-13",
+      "url": "https://www.adfcareers.gov.au/-/media/DFR/Files/ARMYVM0471_OFFICER_Brochure_Refresh_A5_Digital_NOV23_FA_UPDATED.pdf",
+      "publisher": "Australian Defence Force Careers",
+      "title": "Discover your Army",
+      "retrieved": "2026-10-03",
+      "source_type": "government_record",
+      "locator": "Officer Entry, p.15 in indexed PDF text",
+      "note": "Official careers brochure states that RMC officer entry involves 18 months of full-time paid training. This establishes the program's employment status, not Comer's individual injury leave or exact cessation day."
     }
   ],
   "research_notes": [
@@ -400,6 +411,7 @@
     "Public professional-profile searches returned US social-work/pharmacy/student profiles, UK governance/childcare profiles and an artist. Identity matches were not established; no such careers imported. Current advertisements for staff in Comer's office are jobs she offers, not evidence of her own prior full-time status.",
     "University reports distinguish elected students from academic/general staff. Council and Student Senate service overlap studies and later political staffing, but neither creates public-service employment years under the governance exclusion.",
     "January 2013 to January 2014 is not converted into an exact one-year qualifying total without verified service status, endpoints and leave treatment. Hospitality 2016 observation is retained in notes rather than used as a fabricated full-year spell. Both totals unknown; blocked record remains unresolved.",
-    "2026-10-02 follow-up: primary indexed Gorman interview identifies paid fish-and-chip-shop first job, expanding earlier unspecified hospitality record. Direct Facebook retrieval returned Online fetch throttled; targeted index searches recovered only opening answer. No age/date, employer name or later answers inferred. Searches on hospitality employers, sea rescue, Duntroon and study did not resolve earlier gaps. UK/US job and university namesakes and vacancies offered by Comers current office excluded. Next: accessible full first-job interview or self-published CV, employer/venue confirmation, and individual military service/leave evidence. No full-time total calculable."
+    "2026-10-02 follow-up: primary indexed Gorman interview identifies paid fish-and-chip-shop first job, expanding earlier unspecified hospitality record. Direct Facebook retrieval returned Online fetch throttled; targeted index searches recovered only opening answer. No age/date, employer name or later answers inferred. Searches on hospitality employers, sea rescue, Duntroon and study did not resolve earlier gaps. UK/US job and university namesakes and vacancies offered by Comers current office excluded. Next: accessible full first-job interview or self-published CV, employer/venue confirmation, and individual military service/leave evidence. No full-time total calculable.",
+    "2026-10-03 follow-up: official ADF Careers material identifies the Royal Military College officer-entry course as 18 months of full-time paid training. In combination with the APH person-specific Staff Cadet interval, Comer's Army spell is now coded full-time. The source does not resolve individual injury absence or exact cessation, and no month-boundary duration is calculated without a common published convention. Searches for named hospitality employers and dated political-office transitions did not yield additional person-specific evidence. Next: individual service/medical-discharge or leave evidence, accessible full first-job interview, employer/venue confirmation, and dated office records."
   ]
 }
