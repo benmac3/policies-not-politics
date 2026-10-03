@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/300122",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-02",
+  "last_reviewed": "2026-10-03",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -49,9 +49,10 @@
       "counting_status": "insufficient_evidence",
       "source_ids": [
         "src-1",
-        "src-5"
+        "src-5",
+        "src-6"
       ],
-      "evidence_note": "Occupation does not identify employer/control. First speech locates factory in Queanbeyan and places work immediately after leaving school; identity/control/hours still unknown.",
+      "evidence_note": "Occupation does not identify employer/control. First speech locates factory work in Queanbeyan and places it immediately after leaving school. A former colleague's2025 account says Rae worked in factories to support himself through university, but does not identify whether this was one or multiple employers, dates, control or hours; no extra interval is inferred.",
       "counting_note": "Dates, employer control and/or substantive full-time status remain insufficient for a duration calculation; unknown is not zero."
     },
     {
@@ -186,9 +187,10 @@
       "counting_status": "insufficient_evidence",
       "source_ids": [
         "src-1",
-        "src-3"
+        "src-3",
+        "src-6"
       ],
-      "evidence_note": "Official 2021 end retained; 2019 appointment report supports start year, not exact start day or full-time capacity.",
+      "evidence_note": "Official 2021 end retained; 2019 appointment report supports start year, not exact start day or full-time capacity. Contemporaneous reporting observed him as a PwC partner on17April2021; a2025 account says he left after Hawke preselection and describes his work with James MacKenzie on non-government projects as policy-oriented, with broader business and cost-of-capital content. These sources improve duties and transition context but do not establish a departure day, full-time hours or leave.",
       "counting_note": "Dates, employer control and/or substantive full-time status remain insufficient for a duration calculation; unknown is not zero."
     },
     {
@@ -300,6 +302,16 @@
       "note": "First-person factory work in Queanbeyan after school; washing dishes, childcare, call-centre and subsequent roles. No named early employers or hours.",
       "retrieved": "2026-10-02",
       "source_id": "src-5"
+    },
+    {
+      "source_id": "src-6",
+      "url": "https://www.theguardian.com/australia-news/2025/may/14/how-relative-unknown-sam-rae-catapulted-himself-into-labor-ministry",
+      "publisher": "The Guardian Australia",
+      "title": "Political influence and powerful allies: how relative unknown Sam Rae catapulted himself into Labor's ministry",
+      "retrieved": "2026-10-03",
+      "source_type": "news",
+      "locator": "Paragraphs describing early factory work, PwC appointment/projects and departure after Hawke preselection",
+      "note": "Former colleague Kos Samaras says Rae worked in factories to support himself through university; James MacKenzie describes PwC non-government policy work and business expertise. Report says Rae became partner months after the2018 election and left after Hawke preselection. Relative wording does not supply exact employment dates or hours."
     }
   ],
   "research_notes": [
@@ -307,6 +319,7 @@
     "Searches 2026-09-29: APH career, PwC employer-domain/appointment/end-date/full-time queries and NAFI records. Indexed 2009 employer submission adds contemporary corroboration. No full-time evidence found; similarly named musician, UK church staff and US professionals rejected.",
     "Secondary summaries say PwC until election, but official APH gives 2019–2021. Do not extend to 2022 without stronger evidence. Secondary Conroy summaries also compress timing; retain APH 2009–2015.",
     "Study and concurrent early jobs require overlap checks. Dates retained at year precision with null FTE; unknown employers are not assumed private from job title. Last follow-up 2026-09-29; initial record unresolved.",
-    "2026-10-02 follow-up: first speech adds Queanbeyan factory location and dishwashing duties, providing specific early-employer search leads. Checked APH, original11September2019 PwC appointment URL in both p526q6/p52qe6 variants (web open Internal Error), PwC domain,2019 transition reporting and early-job queries.18September2019 Australian indexed story forecasts departure next month; a forecast does not establish actual October start, so retain2019. No confirmed early employer identities/full-time terms or2021–22 work found. Next: Queanbeyan factory employment, hospitality/childcare/call-centre public CV; primary PwC partnership entry/cessation and campaign leave; historical ALP staffing records. Searches returned unrelated NZ call-centre professional, US musician and Harvard student; excluded. No chronology/hours or numerical totals invented."
+    "2026-10-02 follow-up: first speech adds Queanbeyan factory location and dishwashing duties, providing specific early-employer search leads. Checked APH, original11September2019 PwC appointment URL in both p526q6/p52qe6 variants (web open Internal Error), PwC domain,2019 transition reporting and early-job queries.18September2019 Australian indexed story forecasts departure next month; a forecast does not establish actual October start, so retain2019. No confirmed early employer identities/full-time terms or2021–22 work found. Next: Queanbeyan factory employment, hospitality/childcare/call-centre public CV; primary PwC partnership entry/cessation and campaign leave; historical ALP staffing records. Searches returned unrelated NZ call-centre professional, US musician and Harvard student; excluded. No chronology/hours or numerical totals invented.",
+    "2026-10-03 follow-up: a detailed Guardian account based on former colleagues observes factory work supporting Rae through university and identifies PwC work with James MacKenzie on non-government policy-oriented projects involving broad business and cost-of-capital understanding. It says Rae left PwC after Hawke preselection; preselection was reported on15June2021, but 'after' is not converted to an exact June endpoint. Separate contemporary reporting observed him as a partner on17April2021. These materially improve duty and transition evidence while preserving the official2019–2021 year range. Primary PwC appointment/cessation, full-time hours, leave and activity after departure remain unavailable. Early employer identities, multiple-factory question and study dates remain unresolved; no employment-year calculation."
   ]
 }
