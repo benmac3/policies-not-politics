@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/316101",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-02",
+  "last_reviewed": "2026-10-03",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -172,9 +172,10 @@
       "source_ids": [
         "src-3",
         "src-4",
-        "src-18"
+        "src-18",
+        "src-19"
       ],
-      "evidence_note": "CV supplies joining year and principal heading. Official overall law career ends May 2025, but employer-specific final day/campaign leave not established. Government client representation is private legal practice. February2024 conference still identifies Special Counsel; August2024CV principal heading supports progression by that observation, not exact promotion date.",
+      "evidence_note": "CV supplies joining year and principal heading. Official overall law career ends May 2025, but employer-specific final day/campaign leave not established. Government client representation is private legal practice. February2024 conference still identifies Special Counsel; August2024CV principal heading supports progression by that observation, not exact promotion date. Her council ordinary return expressly declares salary from employer LK Law during the return period, establishing paid employment but not full-time hours, exact endpoints or campaign leave.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "316101-08"
     },
@@ -520,6 +521,16 @@
       "note": "Special counsel LK and contemporaneous PLT teaching observation; not exact employment endpoints.",
       "retrieved": "2026-10-02",
       "source_id": "src-18"
+    },
+    {
+      "url": "https://www.npsp.sa.gov.au/files/17644_ordinary_return_cr_claire_clutterham.pdf?v=816",
+      "publisher": "City of Norwood Payneham and St Peters",
+      "title": "Ordinary return — Council Member Claire Clutterham",
+      "source_type": "government_record",
+      "locator": "Registrable interests items1,2and5; search-indexed official PDF text",
+      "note": "Clutterham declares salary from employer LK Law during the return period, identifies her LK workplace and legal work, and declares RFDS/East Waste directorships. The search interface did not expose the return's signed date, so it is an observation within the councillor/LK overlap and not used as an exact endpoint or hours finding.",
+      "retrieved": "2026-10-03",
+      "source_id": "src-19"
     }
   ],
   "research_notes": [
@@ -529,6 +540,7 @@
     "Direct LinkedIn profile returned 999; Al Tamimi PDF exceeded tool length; APH interests PDF restricted. Public employer announcement and indexed/secondary narrow facts were accessible. No access controls bypassed.",
     "Searches for full-time work returned staff vacancy advertisements, not evidence about this member. Those advertisements were not used.",
     "Follow-up2026-10-02 resolves Leo Cussen legal entity and charity classification using historical ABR and education regulator. February2024 conference corroborates teaching during LK employment; exact hours/contracts remain unknown. LK special-counsel-to-principal progression narrowed by dated observations only.",
-    "Targeted2005–2008 and insurance-litigation searches expose public-profile fragments but no defensible employer-to-date linkage. No employer guessed from unrelated profiles. RFDS appointment searches found no primary start date. Overseas transitions, ASC/Boeing hours and campaign leave remain unresolved."
+    "Targeted2005–2008 and insurance-litigation searches expose public-profile fragments but no defensible employer-to-date linkage. No employer guessed from unrelated profiles. RFDS appointment searches found no primary start date. Overseas transitions, ASC/Boeing hours and campaign leave remain unresolved.",
+    "Follow-up2026-10-03: official council ordinary-return text establishes that LK Law paid salary during the return period and separately identifies directorships. Salary evidence confirms paid legal employment but does not establish full-time status, exact endpoints or campaign leave; no headline years inferred. The PDF open returned DisabledError after indexed text was retrieved."
   ]
 }
