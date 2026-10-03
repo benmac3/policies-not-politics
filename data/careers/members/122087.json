@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/122087",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-02",
+  "last_reviewed": "2026-10-04",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -148,9 +148,9 @@
     {
       "employer": "Malarndirri Media",
       "role": "Freelance journalist",
-      "start_date": "2016",
+      "start_date": "2016-04",
       "end_date": "2016",
-      "date_precision": "year",
+      "date_precision": "mixed",
       "employment_status": "self_employed",
       "fte_fraction": null,
       "category": "private_enterprise",
@@ -159,9 +159,10 @@
       "counting_status": "insufficient_evidence",
       "source_ids": [
         "src-1",
-        "src-9"
+        "src-9",
+        "src-12"
       ],
-      "evidence_note": "Frozen freelance enterprise name retained. Legal business form, clients, commencement/cessation and substantive hours unresolved; no assumption that the whole calendar year was worked.",
+      "evidence_note": "Frozen freelance enterprise name retained. Her public professional profile indexes an April2016 commencement, after its separately indexed SBS/NITV endpoint, but does not expose an end date or hours. Legal business form, clients and cessation remain unresolved; election in July does not by itself prove the consultancy stopped.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "122087-07"
     },
@@ -323,8 +324,8 @@
       "publisher": "Malarndirri McCarthy / LinkedIn",
       "title": "Public professional profile",
       "source_type": "professional_profile",
-      "locator": "Publicly indexed ABC and SBS/NITV experience entries",
-      "note": "ABC January1989–April2005; SBS/NITV December2012–April2016; presenter/producer Week in Review then Point In Review. Direct open429Too Many Requests; no retry. Index-only evidence, no hidden hours inferred.",
+      "locator": "Publicly indexed ABC, SBS/NITV and Malarndirri Media experience entries",
+      "note": "ABC January1989–April2005; SBS/NITV December2012–April2016; presenter/producer Week in Review then Point In Review; freelance journalist at Malarndirri Media from April2016. Direct open429Too Many Requests; no retry. Index-only evidence, no hidden hours or consultancy end inferred.",
       "retrieved": "2026-10-02",
       "source_id": "src-12"
     }
@@ -337,6 +338,7 @@
     "Searched official and employer biographies, first-speech leads, contemporary school-network interview, own-school 2016 magazine including staff transitions, broadcaster historical-report indexes, ABC legislation and NITV control announcement. School source provides a material employment role missing from frozen occupations. Full-time query hits about staff vacancies and remote jobs policy are not her workload.",
     "Preserve frozen roster/party/service. No invented January dates, no multiplication of source year spans into headline totals, and no assumption that cultural/board activity was unpaid. All sourced unknowns remain open for follow-up.",
     "Follow-up2026-10-02: public professional index refines ABC1989-01–2005-04 and SBS/NITV2012-12–2016-04. These month endpoints do not resolve1997community-work overlap, leave or hours. Part-time snippet appears beside another profile entry; not attributed to broadcaster employment.",
-    "Direct professional profile returned(429)Too Many Requests; not retried. Existing part-time school evidence preserved. Targeted school historical legal-form, community centre and freelance-business searches did not yield new identity-safe primary boundaries. Next leads: broadcaster personnel/annual-report references to1997leave, school2013–16financial/legal reports and Malarndirri Media contemporary client records."
+    "Direct professional profile returned(429)Too Many Requests; not retried. Existing part-time school evidence preserved. Targeted school historical legal-form, community centre and freelance-business searches did not yield new identity-safe primary boundaries. Next leads: broadcaster personnel/annual-report references to1997leave, school2013–16financial/legal reports and Malarndirri Media contemporary client records.",
+    "Follow-up 2026-10-04: a refreshed public index for McCarthy's own professional profile exposes an April2016 start for freelance journalism at Malarndirri Media, immediately after the separately indexed April2016 SBS/NITV endpoint. The business form, clients, hours and end remain unavailable; July2016 parliamentary service is not used as an automatic consultancy cessation date."
   ]
 }
