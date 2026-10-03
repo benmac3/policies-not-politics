@@ -122,11 +122,14 @@ Detailed attempted avenues, discrepancies and remaining leads are preserved in e
 
 ## Active follow-up — 2026-10-03 16:00 Brisbane cycle
 
-- Continuation: 0. Attempt started: 2026-10-03T16:24:14+10:00; WA-1 segment started after a remotely verified QLD-2 pass. Starting WA-1 head: 505f2725fd33e27ad23f177a1709a41ad0ee5105.
+- Continuation: 0. Attempt started: 2026-10-03T16:24:14+10:00; ended: 2026-10-03T16:54:35+10:00; observable elapsed time: 30m21s. WA-1 segment started after a remotely verified QLD-2 pass. Starting WA-1 head: 505f2725fd33e27ad23f177a1709a41ad0ee5105.
 - Starting national coverage: 226/226 initial, 226 unresolved, 0 research-complete. No active conflicting WA-1 writer or changed remote head observed.
 - Progress before WA-1: 15 distinct QLD-2 members processed (0 new, 8 materially enriched, 7 nonmaterial follow-ups, 0 newly complete), all remotely verified. Brisbane-day cumulative before this member: 0 new, 96 materially enriched, 0 newly complete.
-- Current cursor: Varun Ghosh (257613) followed up after Tom French was remotely verified; no new defensible fact found. Validate, commit and remotely verify before Patrick Gorman (74519).
-- OUTCOME: ongoing. STOPPING REASON: none; continue after remote verification. Successor not requested. Scheduler terminal status unavailable.
+- Durable next cursor: Patrick Gorman (74519), after Varun Ghosh was remotely verified.
+- Execution totals after remote verification: 23 distinct members processed nationally (0 new initial, 13 materially enriched existing, 10 nonmaterial follow-ups), 0 newly research-complete. Cycle cumulative: same. Brisbane-day cumulative: 0 new initial, 101 materially enriched existing, 0 newly research-complete; nonmaterial searches excluded from the material count. National coverage remains 226/226 initial, 226 unresolved, 0 complete.
+- OUTCOME: Returned normally — no blocking error observed. Error code/message: none. Scheduler terminal status unavailable.
+- STOPPING REASON: Voluntary stop; no observed blocking limit — this execution is concluding to publish the mandatory individual result after a remotely verified checkpoint and request the single authorized immediate successor. Patrick Gorman was not processed in this execution.
+- Successor status at closure checkpoint: not yet requested; request must occur only after this checkpoint is remotely verified.
 
 ### This cycle's member results
 
