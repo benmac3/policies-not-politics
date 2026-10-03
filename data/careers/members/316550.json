@@ -6,12 +6,12 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/316550",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-02",
+  "last_reviewed": "2026-10-03",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
     "calculation_status": "not_calculable",
-    "note": "ETU industrial-officer employment dated July 2024–May 2025 from public profile, with first-person corroboration of employer. Added Newcastle bar subcontracting context and named training providers. Private employers, exact chronology and hours remain unresolved."
+    "note": "Union/legal chronology now includes a firefighters-union permit by August 2022, exact November 2023 legal admission and ETU employment from July 2024. Education and trade qualification ranges are improved, but private payroll employers, worksite-to-employer links, hours and leave remain unresolved."
   },
   "career_spells": [
     {
@@ -93,9 +93,10 @@
       "source_ids": [
         "src-2",
         "src-3",
-        "src-5"
+        "src-5",
+        "src-7"
       ],
-      "evidence_note": "Over a decade of trade experience reported, but payroll entities, precise boundaries, continuity and leave unknown.",
+      "evidence_note": "Over a decade of trade experience reported. Public profile lists project locations including Alcoa Kwinana, Anderson Point, Orange Grove, Kwinana/Mt Marion Lithium Plant, Elizabeth Quay, Roy Hill, BAE Systems Henderson, Nammuldi BWT and Warnbro Shopping Centre, but does not identify the payroll employers or dates for each. Certificate III was issued in October 2014; continuity, hours and leave remain unknown.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "316550-04"
     },
@@ -135,18 +136,20 @@
       "source_ids": [
         "src-2",
         "src-4",
-        "src-5"
+        "src-5",
+        "src-11",
+        "src-12"
       ],
-      "evidence_note": "Own statement and first-speech acknowledgement support union legal work; no dates/hours. Union employment is not private-enterprise legal practice.",
+      "evidence_note": "Own statement and first-speech acknowledgement support union industrial/legal work. WAIRC records a right-of-entry permit issued for French as a UPFU card holder on 3 August 2022, establishing association by that date but not the employment commencement. Supreme Court records admission to legal practice on 3 November 2023, so earlier work is not labelled lawyer. End date, title transition, hours and leave remain unknown; union employment is not private-enterprise legal practice.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "316550-06"
     },
     {
-      "employer": "University of Newcastle; Murdoch University; South Metropolitan TAFE; College of Electrical Training",
-      "role": "Business and law degrees; university pathway and electrical training",
-      "start_date": null,
-      "end_date": null,
-      "date_precision": "unknown",
+      "employer": "University of Newcastle",
+      "role": "Business degree",
+      "start_date": "2003",
+      "end_date": "2006",
+      "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "study",
@@ -154,13 +157,12 @@
       "government_control_at_time": "unknown",
       "counting_status": "excluded",
       "source_ids": [
-        "src-2",
         "src-3",
         "src-6",
-        "src-9",
-        "src-10"
+        "src-7",
+        "src-9"
       ],
-      "evidence_note": "Published Q&A names Newcastle business degree, Murdoch law and electrical training providers. September 2026 first-person speech confirms TAFE pathway into university and later electrical pre-apprenticeship; precise years and degree/trade sequence still require institutional corroboration.",
+      "evidence_note": "Published Q&A names the Newcastle business degree; public professional profile supplies 2003–2006. Exact award date and study load remain unverified, and this interval may overlap hospitality work.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "316550-07"
     },
@@ -182,6 +184,70 @@
       "evidence_note": "Frozen roster first federal service date.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "316550-08"
+    },
+    {
+      "employer": "Electrical Trades Union, WA Branch",
+      "role": "President",
+      "start_date": "2018",
+      "end_date": "2019",
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "union",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-6",
+        "src-13"
+      ],
+      "evidence_note": "ABC’s 2022 candidate biography and a contemporaneous PerthNow interview describe French as WA ETU president in 2018–2019. This is recorded as union office, not assumed salaried employment; exact appointment dates, remuneration and time commitment remain unknown.",
+      "counting_note": "Union office is excluded from public/private employment headlines.",
+      "spell_id": "316550-09"
+    },
+    {
+      "employer": "Murdoch University",
+      "role": "Law degree",
+      "start_date": "2018",
+      "end_date": "2023",
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "public",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-3",
+        "src-7",
+        "src-9",
+        "src-11"
+      ],
+      "evidence_note": "Public professional profile supplies 2018–2023 for Murdoch study; published Q&A identifies the law course. Supreme Court admission on 3 November 2023 provides an independent endpoint for qualification, not proof of study load or graduation day. French says he studied after long days pulling cable, so employment overlap is retained.",
+      "counting_note": "Study is excluded from public/private employment headlines.",
+      "spell_id": "316550-10"
+    },
+    {
+      "employer": "South Metropolitan TAFE / College of Electrical Training",
+      "role": "Electrical pre-apprenticeship and Certificate III in Electrotechnology",
+      "start_date": null,
+      "end_date": "2014-10",
+      "date_precision": "mixed",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-3",
+        "src-7",
+        "src-9",
+        "src-10"
+      ],
+      "evidence_note": "Published Q&A names the training providers; public professional profile records Certificate III in Electrotechnology (mechanical) issued October 2014. French’s first-person TAFE speech confirms a pre-apprenticeship, but the course start and apprenticeship-employer relationship remain unknown.",
+      "counting_note": "Study/training is excluded from public/private employment headlines.",
+      "spell_id": "316550-11"
     }
   ],
   "sources": [
@@ -250,8 +316,8 @@
       "publisher": "Tom French MP / LinkedIn",
       "title": "Public professional profile",
       "source_type": "public_professional_profile",
-      "locator": "Experience: Industrial Officer, Electrical Trades Union WA Branch",
-      "note": "Public indexed entry supplies July 2024–May 2025. Direct open returned 999; no authenticated access used.",
+      "locator": "Public indexed experience, education, project and certification fields",
+      "note": "Public indexed entry supplies ETU July 2024–May 2025; Newcastle 2003–2006 and Murdoch 2018–2023 education; named electrical project sites; Certificate III issued October 2014. Sites are not treated as employers. Direct open returned 999; no authenticated access used.",
       "retrieved": "2026-10-02",
       "source_id": "src-7"
     },
@@ -284,6 +350,36 @@
       "note": "French confirms TAFE university pathway followed later by electrical pre-apprenticeship; does not supply providers or dates.",
       "retrieved": "2026-10-02",
       "source_id": "src-10"
+    },
+    {
+      "url": "https://www.supremecourt.wa.gov.au/A/admissions_ceremonies_2023.aspx?uid=615-6-5-5",
+      "publisher": "Supreme Court of Western Australia",
+      "title": "Admissions Ceremonies 2023",
+      "source_type": "government_record",
+      "locator": "3 November 2023, 10:45am ceremony; Thomas Alan French",
+      "note": "Official court record establishes admission to practice as a lawyer on 3 November 2023.",
+      "retrieved": "2026-10-03",
+      "source_id": "src-11"
+    },
+    {
+      "url": "https://www.wairc.wa.gov.au/registered-organisations/right-of-entry/list-of-permit-holders?id=2216",
+      "publisher": "Western Australian Industrial Relations Commission",
+      "title": "List of Permit Holders — Thomas Alan French",
+      "source_type": "government_record",
+      "locator": "Lines 76–87; permit ROE 97/2022",
+      "note": "Official record identifies UPFU as organisation and gives permit issue date 3 August 2022. Permit issue is evidence of association by that date, not necessarily employment commencement.",
+      "retrieved": "2026-10-03",
+      "source_id": "src-12"
+    },
+    {
+      "url": "https://www.perthnow.com.au/local-news/perthnow-joondalup/federal-election-labor-sparky-tom-french-to-take-on-liberal-ian-goodenough-for-moore-c-5841717",
+      "publisher": "PerthNow",
+      "title": "Federal election: Labor sparky Tom French to take on Liberal Ian Goodenough for Moore",
+      "source_type": "news",
+      "locator": "2 March 2022; French interview",
+      "note": "Reports French’s first-person account of serving as WA ETU president from 2018 to 2019.",
+      "retrieved": "2026-10-03",
+      "source_id": "src-13"
     }
   ],
   "research_notes": [
@@ -293,6 +389,7 @@
     "Namesake exclusions: MinterEllison Perth partner, US McKinsey executive and Lake Forest Park mayor named Tom French were not matched to this MP and were not used. Broad teaching search produced unrelated people and no evidence of teaching employment.",
     "Follow-up 2026-10-02: public profile supplies previously absent ETU title/branch/month interval; 2014 ALP/ETU joining is membership, not employment. July 2025 interview identifies Newcastle subcontract bar work; no calendar boundaries invented from WorkChoices reference.",
     "Named education providers from published Q&A, supported by first-person TAFE pathway speech; dates still unknown. Prior law-before-electrical versus later-law narrative discrepancy remains open.",
-    "Searches of union/industrial tribunal records and pub/electrical employer terms did not reveal individual contracts or business names. LinkedIn direct 999; unrelated GenusPlus and MinterEllison namesakes not attributed. Next: ETU/UPFU staff annual reports, Murdoch graduation/admission, historical regional pub licence and apprenticeship employer."
+    "Searches of union/industrial tribunal records and pub/electrical employer terms did not reveal individual contracts or business names. LinkedIn direct 999; unrelated GenusPlus and MinterEllison namesakes not attributed. Next: ETU/UPFU staff annual reports, Murdoch graduation/admission, historical regional pub licence and apprenticeship employer.",
+    "Follow-up 2026-10-03: WAIRC right-of-entry record establishes UPFU association by 3 August 2022; Supreme Court record fixes legal admission at 3 November 2023. Public professional profile supplies Newcastle 2003–2006, Murdoch 2018–2023, October 2014 Certificate III and electrical project sites. Sites were not converted into employers. ABC and PerthNow corroborate WA ETU presidency in 2018–2019, recorded as union office without assuming pay. Search false positive: Australian Property Services Association records concern a Queensland-based namesake/official and were not attributed. Remaining gaps: all hospitality/pub entities and dates; apprenticeship and electrical payroll employers, site dates/hours/leave; UPFU appointment/cessation and title transition; ETU 2024–2025 hours and campaign leave."
   ]
 }
