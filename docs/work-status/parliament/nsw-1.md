@@ -307,3 +307,16 @@ Batch check passes: 226 assigned exactly once across 13 batches; nsw-1 assignmen
 - OUTCOME: Returned normally — no blocking error observed. STOPPING REASON: Voluntary stop; no observed blocking limit — a new user request asked for diagnostic detail about earlier voluntary stops, so this execution checkpointed before answering it. Jason Clare was not processed in this execution. Successor: Requested/accepted — result pending; `automations.run_now` returned `success:true` and “Immediate run requested. The saved schedule is unchanged.” Scheduler terminal status unavailable; predecessor successor execution unverified.
 - Validation: JSON parse, `career_batches.py --check` (226/13), `career_batches.py --batch nsw-1`, `build_careers.py` and `git diff --check` passed. Only the assigned member and this checkpoint were written on the NSW-1 branch.
 - Recovered source error: APH search emitted `Blocked by robots.txt` (non-retryable). Other official sources remained accessible; this did not terminate the run.
+
+
+## Active follow-up — 2026-10-04 08:00 Brisbane cycle, continuation 1
+
+- Attempt start: 2026-10-04T09:41:05+10:00. Latest checkpoint: 2026-10-04T09:42:58+10:00; end not yet observed.
+- Predecessor continuation 0 is demonstrably complete through remote checkpoint `f19ec7edec1b6aeb8aff64348c749e0f86d7e225`; its accepted successor is this execution, not merely pending. Starting branch head: `f19ec7edec1b6aeb8aff64348c749e0f86d7e225`. No intervening or conflicting checkpoint was observed.
+- This continuation: 1 distinct member record processed, 0 new initial, 0 materially enriched existing, 1 nonmaterial follow-up, 0 newly research-complete. Cycle/day cumulative across continuations 0–1: 45 distinct records, 0 new, 20 materially enriched, 25 nonmaterial, 0 newly complete. Checkpoint-only commits excluded.
+- Jason Clare (HWL): nonmaterial follow-up — exact-name Transurban appointment/cessation, corporate-relations, Paul Whelan and 2007 campaign-overlap searches repeated the existing year-level sequence. No personnel notice, leave record, hours or narrower boundary was located; derivative 1 January placeholders were rejected.
+- Member commit: `e654cdf95d46c0f773214b970c70ea1db7d84592` (Clare).
+- National baseline remains 226/226 initial records, 226 unresolved, 0 research-complete. NSW-1 remains 20/20 initial, 20 unresolved, 0 complete.
+- Durable next cursor: Sharon Claydon (248181).
+- OUTCOME: ongoing. STOPPING REASON: none; continue after remote verification. No successor requested. Scheduler terminal status unavailable.
+- Validation: JSON parse, `career_batches.py --check` (226/13), `career_batches.py --batch nsw-1`, `build_careers.py` and `git diff --check` passed. Only the assigned member and this checkpoint were written on the NSW-1 branch.
