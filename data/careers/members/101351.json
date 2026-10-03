@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/101351",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-02",
+  "last_reviewed": "2026-10-03",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -206,18 +206,20 @@
       "source_ids": [
         "src-2",
         "src-5",
-        "src-11"
+        "src-11",
+        "oct3-voa",
+        "oct3-cfr"
       ],
-      "evidence_note": "Held after Brookings and before Rudd adviser appointment; current in July 2006 publication. Presence at a date is not an employment endpoint; appointment months and full-time status unverified.",
+      "evidence_note": "Held after Brookings and before Rudd adviser appointment. Contemporary reporting identifies him as a Eurasia analyst on8 July2005 and again on20 December2006; these bracket observations do not establish appointment/cessation dates or full-time hours.",
       "counting_note": "Dates, employer control and/or substantive full-time status remain insufficient for a duration calculation; unknown is not zero."
     },
     {
       "spell_id": "101351-11",
       "employer": "Office of Kevin Rudd",
       "role": "Foreign-policy and national-security adviser",
-      "start_date": "2007",
+      "start_date": "2007-02",
       "end_date": "2008",
-      "date_precision": "year",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "political_staff",
@@ -227,9 +229,10 @@
       "source_ids": [
         "src-2",
         "src-3",
-        "src-11"
+        "src-11",
+        "oct3-rudd"
       ],
-      "evidence_note": "Political staff, distinct from departmental public service; opposition/prime-ministerial transition not counted as separate additive roles.",
+      "evidence_note": "Contemporaneous reporting in February2007 says he had just been hired as Opposition Leader Kevin Rudd's principal national-security adviser. Political staff is distinct from departmental public service; opposition/prime-ministerial transition is not counted as a separate additive role. Exact February commencement day and 2008 cessation/transition remain unresolved.",
       "counting_note": "Excluded from the two employment headlines under the codebook."
     },
     {
@@ -246,9 +249,10 @@
       "government_control_at_time": "public",
       "counting_status": "excluded",
       "source_ids": [
-        "src-3"
+        "src-3",
+        "oct3-dialogue"
       ],
-      "evidence_note": "Official SBS appointment biography confirms role before Hawker Britton; detailed dates not established by this source.",
+      "evidence_note": "Official SBS appointment biography confirms role before Hawker Britton. A May2008 regional-policy dialogue participant list identifies him contemporaneously as senior defence adviser to the Australian Minister for Defence; this is a point observation, not an appointment boundary or full-time-hours statement.",
       "counting_note": "Excluded from the two employment headlines under the codebook."
     },
     {
@@ -267,9 +271,10 @@
       "source_ids": [
         "src-3",
         "src-10",
-        "oct2-alumni"
+        "oct2-alumni",
+        "oct3-register"
       ],
-      "evidence_note": "Commercial consultancy rather than party employment solely because clients include government. SBS announcement identifies immediately previous role. Start and precise departure unknown; no full-time evidence. His June2010 university alumni contribution lists this as current; establishes contemporaneous role/overlap but not appointment endpoint.",
+      "evidence_note": "Commercial consultancy rather than party employment solely because clients include government. A lobbying-register compilation current29 October2009 lists him among Hawker Britton's registered lobbyists; his June2010 university alumni contribution also lists the consultancy as current. These observations bracket the role but do not establish appointment start, precise2012 departure or full-time hours. SBS announcement identifies Hawker Britton as the immediately previous role.",
       "counting_note": "Dates, employer control and/or substantive full-time status remain insufficient for a duration calculation; unknown is not zero."
     },
     {
@@ -486,6 +491,56 @@
       "note": "First-person contribution lists current Hawker Britton consultancy and Sydney adjunct appointment. Describes Defence and later ministerial work; no individual hours.",
       "retrieved": "2026-10-02",
       "source_id": "oct2-alumni"
+    },
+    {
+      "url": "https://www.voanews.com/a/a-13-2005-07-08-voa14/307037.html",
+      "publisher": "Voice of America",
+      "title": "Iraq: Progress and Challenges One Year After the Transfer of Sovereignty to Iraqis",
+      "source_type": "news",
+      "locator": "Paragraph identifying Peter Khalil as currently an analyst at Eurasia Group, 8 July 2005",
+      "note": "Contemporaneous point observation; not an appointment start date or hours statement.",
+      "retrieved": "2026-10-03",
+      "source_id": "oct3-voa"
+    },
+    {
+      "url": "https://www.cfr.org/backgrounders/multiple-iraq-reports-compete-presidents-attention",
+      "publisher": "Council on Foreign Relations",
+      "title": "Multiple Iraq Reports to Compete for President's Attention",
+      "source_type": "reliable_secondary",
+      "locator": "Published 8 December 2006; National Security Council Plan section",
+      "note": "Identifies Khalil as a Eurasia Group Middle East analyst shortly before the February2007 Rudd appointment.",
+      "retrieved": "2026-10-03",
+      "source_id": "oct3-cfr"
+    },
+    {
+      "url": "https://www.theaustralian.com.au/nation/nation/rudd-picks-his-national-security-adviser/news-story/c413136f05d4c31fe2513bc7e4482847",
+      "publisher": "The Australian",
+      "title": "Rudd picks his national security adviser",
+      "source_type": "news",
+      "locator": "Published 6 February 2007; indexed appointment summary",
+      "note": "Contemporaneous report says Khalil had just been hired as Opposition Leader Kevin Rudd's principal national-security adviser. Direct open was restricted; no bypass attempted.",
+      "retrieved": "2026-10-03",
+      "source_id": "oct3-rudd"
+    },
+    {
+      "url": "https://eastasiaforum.org/wp-content/uploads/2008/05/participants.pdf",
+      "publisher": "East Asia Forum / Australia–New Zealand–Korea Next Generation Policy Experts Dialogue",
+      "title": "Dialogue participants",
+      "source_type": "professional_profile",
+      "locator": "May2008 participant entry for Peter Khalil",
+      "note": "Contemporaneously identifies him as senior defence adviser to the Australian Minister for Defence; no start/end dates or hours.",
+      "retrieved": "2026-10-03",
+      "source_id": "oct3-dialogue"
+    },
+    {
+      "url": "https://www.herinst.org/BusinessManagedDemocracy/environment/warming/climatechange_lobbyingregister.pdf",
+      "publisher": "Climate-change lobbying register compilation based on federal and state registers",
+      "title": "Heat treatment: climate-change lobbying register",
+      "source_type": "other",
+      "locator": "PDF p3 and repeated Hawker Britton listings; information current29 October2009",
+      "note": "Lists Peter Khalil among Hawker Britton Group's registered lobbyists and identifies his preceding Rudd and Defence-minister adviser roles. Registration observation is not an employment start date or evidence he worked for every listed client.",
+      "retrieved": "2026-10-03",
+      "source_id": "oct3-register"
     }
   ],
   "research_notes": [
@@ -496,7 +551,8 @@
     "2026-09-29: public LinkedIn result https://au.linkedin.com/in/pkhalil surfaced current activity without usable historical chronology. Full-time queries chiefly returned vacancies in his office, not evidence of his own past hours; those adverts were not used.",
     "Pre-Defence work and possible later independent consultancy remain major gaps. Degrees or a generic lawyer label do not establish a legal-practice spell. Do not infer work continuity, calculate totals from senior titles, or sum overlapping secondments and adjunct appointments.",
     "Follow-up2026-10-02: employer annual-report footnotes resolve SBS departure July2015. Own June2010 alumni contribution corroborates simultaneous Hawker Britton consultancy and Sydney adjunct role. No double counting or full-time inference.",
+    "Follow-up2026-10-03: contemporaneous sources now bracket Eurasia Group from8 July2005 through8 December2006 and support a February2007 Rudd-office start month. A May2008 dialogue programme observes the Defence-minister adviser role, and a register current29 October2009 independently confirms Hawker Britton affiliation. Point observations were not converted into exact appointment boundaries or full-time status.",
     "Examined SBS2014–15 and2015–16 reports, appointment releases, university alumni profile, historical consultancy and departure searches. Crikey3 September2015 indexed departure lead pointed toward annual reports; restricted article not bypassed. Primary2014–15 report supplies stronger month evidence.",
-    "Next leads: exact SBS cessation/contract and leave, Hawker/Eurasia appointment/FTE records, pre-Defence employer identities and dates, post-July2015 consulting, VMC individual appointment/cessation. Defence commencement cannot be inferred from the alumni degree year."
+    "Next leads: exact SBS cessation/contract and leave, Eurasia and Hawker appointment/cessation/FTE records, exact2008 political-staff transition, pre-Defence employer identities and dates, post-July2015 consulting, VMC individual appointment/cessation. Defence commencement cannot be inferred from the alumni degree year."
   ]
 }
