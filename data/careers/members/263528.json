@@ -6,7 +6,7 @@
   "snapshot_party": "Liberal Party of Australia",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/263528",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-02",
+  "last_reviewed": "2026-10-04",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -223,9 +223,9 @@
     {
       "employer": "Alice Springs Town Council",
       "role": "Councillor; deputy mayor from 28 September 2020",
-      "start_date": "2015",
+      "start_date": "2015-10",
       "end_date": "2021",
-      "date_precision": "year",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -238,9 +238,11 @@
         "src-15",
         "src-16",
         "src-18",
-        "src-19"
+        "src-19",
+        "src-20",
+        "src-21"
       ],
-      "evidence_note": "Local elected office separate from public-service employment. Deputy mayorship began on documented date within council tenure; exact council departure requires council record. No additional deputy-mayor years. Party summary gives councilSeptember2015–August2021but deputy startSeptember2019conflicts with council28September2020. CIS2021index says resignation afterJune preselection. Preserve existingyear endpoints pending primary council cessation record.",
+      "evidence_note": "Local elected office separate from public-service employment. Official council history says Price entered through an October 2015 by-election, refining the start to month precision without an exact election day. Deputy mayorship began on documented date within council tenure. An official 13 July 2021 council agenda still lists her as deputy mayor, but does not establish the departure day. Party summary gives councilSeptember2015–August2021but deputy startSeptember2019conflicts with council28September2020. CIS2021index says resignation afterJune preselection. Preserve the year-only end pending a primary cessation record.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "263528-11"
     },
@@ -492,6 +494,26 @@
       "note": "Index says council resignation followed June2021Senate preselection. Direct403; no exact resignation day established.",
       "retrieved": "2026-10-02",
       "source_id": "src-19"
+    },
+    {
+      "url": "https://www.alicesprings.nt.gov.au/twelfth-council-2012-2017.aspx",
+      "publisher": "Alice Springs Town Council",
+      "title": "Twelfth Council 2012–2017",
+      "source_type": "government_record",
+      "locator": "Changes within Council; October 2015 by-election",
+      "note": "Official council history says Price was elected to council following a by-election in October 2015. It does not state the election day or workload.",
+      "retrieved": "2026-10-04",
+      "source_id": "src-20"
+    },
+    {
+      "url": "https://www.alicesprings.nt.gov.au/council-meetings/ordinary-council-meeting/ordinary-council-meeting-13-july-2021/171/documents/13072021-agenda.pdf",
+      "publisher": "Alice Springs Town Council",
+      "title": "Ordinary Council Meeting agenda, 13 July 2021",
+      "source_type": "government_record",
+      "locator": "Cover and agenda officeholder listing",
+      "note": "Official agenda still lists Cr Jacinta Price as deputy mayor on 13 July 2021. This is an observation date, not proof of the precise cessation day.",
+      "retrieved": "2026-10-04",
+      "source_id": "src-21"
     }
   ],
   "research_notes": [
@@ -502,6 +524,7 @@
     "Searched own and party biographies, maiden speech, council 2015–16/2016–17 reports and history, employer CIS 2019 annual review, public professional index, Advance announcement, MusicNT chronology, ABC Australian Story testimony and publisher/collaborator book listing. Personal health/family history and unrelated contemporary controversies omitted.",
     "Recovered source gaps: CIS report (403) Forbidden; council report and LinkedIn direct opens returned Internal Error without detailed message. Public indexed primary facts used with locators; no access controls bypassed. Exact dates and hours remain gaps; blocked is not research completion.",
     "Follow-up2026-10-02: public court-file career summary adds previously unrecorded gallery/museum/art-organisation work and identifies consultancy as family business. CIS broader2016–2022involvement distinguished fromJuly2019director commencement; party testimony is not judicially established finding.",
-    "Advance appointment announcement now date-located27November2020by index, exact employment start still unknown. Council cessation and deputy-start conflict retained. Underlying affidavit web400size-cap and curlHTTP403, CIS2021PDF403; accessible party summary and employer index used, no access bypass. Next leads: original affidavitcareerparagraphs9–16, named gallery/museum employers, CIS2016–19role and2022termination, council resignation minute. Hours and production contracts still unresolved."
+    "Advance appointment announcement now date-located27November2020by index, exact employment start still unknown. Council cessation and deputy-start conflict retained. Underlying affidavit web400size-cap and curlHTTP403, CIS2021PDF403; accessible party summary and employer index used, no access bypass. Next leads: original affidavitcareerparagraphs9–16, named gallery/museum employers, CIS2016–19role and2022termination, council resignation minute. Hours and production contracts still unresolved.",
+    "Follow-up 2026-10-04: official council history refines elected-office start to October 2015; a 13 July 2021 council agenda still lists Price as deputy mayor. Targeted cessation searches did not locate the resignation minute or exact end day. The secondary August 2021 endpoint is not promoted beyond year precision without the primary record."
   ]
 }
