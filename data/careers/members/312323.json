@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/312323",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-02",
+  "last_reviewed": "2026-10-03",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -159,9 +159,9 @@
       "spell_id": "312323-08",
       "employer": "Reconciliation Queensland",
       "role": "Volunteer",
-      "start_date": null,
-      "end_date": null,
-      "date_precision": "unknown",
+      "start_date": "2004-01",
+      "end_date": "2006-12",
+      "date_precision": "month",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "unpaid_work",
@@ -169,9 +169,10 @@
       "government_control_at_time": "unknown",
       "counting_status": "excluded",
       "source_ids": [
-        "src-5"
+        "src-5",
+        "src-9"
       ],
-      "evidence_note": "Explicitly described as volunteer work before moving to Adelaide; dates unverified.",
+      "evidence_note": "First speech explicitly describes volunteer work before moving to Adelaide. Publicly indexed self-reported professional profile gives January 2004–December 2006. The December 2006 endpoint may overlap the year-only Reconciliation South Australia commencement; no paid employment or additive duration is inferred.",
       "counting_note": "Excluded from the two employment headlines under the codebook."
     },
     {
@@ -258,8 +259,8 @@
       "employer": "University of Queensland",
       "role": "Bachelor of Arts with first-class Australian History honours",
       "start_date": null,
-      "end_date": null,
-      "date_precision": "unknown",
+      "end_date": "2006",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "study",
@@ -268,9 +269,10 @@
       "counting_status": "excluded",
       "source_ids": [
         "src-1",
-        "src-11"
+        "src-11",
+        "src-13"
       ],
-      "evidence_note": "Qualification confirmed; dates and load unresolved. Other qualifications now separated below.",
+      "evidence_note": "Qualification confirmed; UQ repository metadata dates the honours thesis to 2006. Commencement and study load remain unresolved. Other qualifications are separated below.",
       "counting_note": "Excluded from the two employment headlines under the codebook."
     },
     {
@@ -458,8 +460,8 @@
       "title": "Renee Coffey MP professional profile",
       "retrieved": "2026-09-29",
       "source_type": "professional_profile",
-      "locator": "Publicly indexed education and volunteer sections",
-      "note": "Indexed profile supports identity and MS ambassador activity from January 2014; experience details masked. Direct access returned 999 and was not bypassed."
+      "locator": "Publicly indexed volunteer and experience snippets",
+      "note": "Indexed self-reported profile supports Reconciliation Queensland volunteering from January 2004 to December 2006 and MS ambassador activity from January 2014. Direct access returned 999 and was not bypassed."
     },
     {
       "source_id": "src-10",
@@ -490,6 +492,16 @@
       "note": "Corroborates Stanford study and identifies involvement in College Past Students Association; no paid appointment or dates.",
       "retrieved": "2026-10-02",
       "source_id": "src-12"
+    },
+    {
+      "source_id": "src-13",
+      "url": "https://espace.library.uq.edu.au/view/UQ%3A319766",
+      "publisher": "University of Queensland",
+      "title": "Frontier violence in Gin Gin: a history of murder, massacre and myth",
+      "retrieved": "2026-10-03",
+      "source_type": "employer",
+      "locator": "Repository metadata: Coffey, Renee (2006), Honours Thesis, School of History, Philosophy, Religion and Classics",
+      "note": "Primary university repository metadata establishes the 2006 honours-thesis year; it does not supply degree commencement, study load or employment evidence."
     }
   ],
   "research_notes": [
@@ -499,6 +511,7 @@
     "Explicit full-time AIEF evidence is preserved but does not create public/private headline years because nonprofit employment is excluded. Employment status remains unknown for the multi-year spell since full-time is established only at a 2023 observation, with historical leave and hours still open.",
     "First speech describes six months of full-time campaigning. That does not establish hours in the charity CEO role or a precise resignation date. Public biographies' public-service totals are not substitutes for non-overlapping dated employment spells.",
     "No eligible private-enterprise spell established in this pass; completeness has not been established, so absence of a identified spell is not a zero headline. Blocked initial record requires systematic follow-up.",
-    "2026-10-02 follow-up: added2000 commencement for unresolved government-work umbrella,1998 youth founding and separately dated UniSA/UNSW/Stanford study. Seven-year public-service claim still lacks employer-by-employer boundaries and hours. Recovered2008–09 Library annual report but no person match. UQ repository UQ:319766 returned (403) Forbidden;2006 thesis remains a verification lead, not adopted graduation date. Historical2018 professional biography and2020 school profile do not resolve AIEF promotion/start boundaries, government employment conditions or2025 charity cessation. Next: early Queensland departmental staff records, historical Reconciliation SA employment/control and dated public CV. Existing supported facts and null totals retained."
+    "2026-10-02 follow-up: added2000 commencement for unresolved government-work umbrella,1998 youth founding and separately dated UniSA/UNSW/Stanford study. Seven-year public-service claim still lacks employer-by-employer boundaries and hours. Recovered2008–09 Library annual report but no person match. UQ repository UQ:319766 returned (403) Forbidden;2006 thesis remains a verification lead, not adopted graduation date. Historical2018 professional biography and2020 school profile do not resolve AIEF promotion/start boundaries, government employment conditions or2025 charity cessation. Next: early Queensland departmental staff records, historical Reconciliation SA employment/control and dated public CV. Existing supported facts and null totals retained.",
+    "2026-10-03 follow-up: search indexing exposed UQ's primary repository metadata for the 2006 honours thesis and the public LinkedIn profile's January 2004–December 2006 Reconciliation Queensland interval. The latter is coded as volunteering because Coffey's first speech explicitly describes that activity as volunteer work; it is not added to employment totals. The possible 2006 overlap with Reconciliation South Australia remains unresolved. Searches of Queensland Government, State Library, Education, Reconciliation SA, Kookaburra Kids and successor records did not identify the missing departments, public-service hours or exact charity cessation. A March 2025 self-report says she had recently stepped down and names a successor managing director, but no exact cessation day is inferred."
   ]
 }
