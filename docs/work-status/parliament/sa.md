@@ -11,7 +11,7 @@
 - 300129 BURNELL, Matthew (Matt) Paul: blocked; last review2026-10-03. Follow-up: ResolveKFCstart/franchise; hospitality/securityandmaritimeemployers; hoursandcasualperiods; Armaguard2003payroll; Reservefulltimeservice; MUApaidrole and2016gap. DockerPodcast publisher pages returned403; indexed description did not identify vessel/employer and audio remains unreviewed.
 
 
-- HWK BUTLER, the Hon. Mark Christopher: blocked; last review2026-10-01. Follow-up: Paralegal employer history/dates/hours; union role transition and leave; advisory-board dates/pay; uncorroborated GamingCare lead; author working arrangements.
+- HWK BUTLER, the Hon. Mark Christopher: blocked; last review2026-10-03. Follow-up: Paralegal employer history/dates/hours; union role transition and leave; advisory-board dates/pay; uncorroborated GamingCare lead; author working arrangements. Primary appointment evidence remains needed to resolve the1996-versus-after1997 secretary conflict.
 
 
 - 316101 CLUTTERHAM, Claire Louise: blocked; last review2026-10-01. Follow-up: Earliest employer; firm endpoints; ASC payroll and hours; Boeing/Sparke/LK transition; leave; teaching contracts/control; RFDS start and original register resignations.
@@ -141,12 +141,13 @@
 ## Active follow-up — 2026-10-03 16:00 Brisbane cycle, continuation 2
 
 - SA segment started after the same continuation completed and remotely checkpointed WA-2. Starting SA head: `cc6123251077c94c29f5412e1347ff16d27767d5`; no active conflicting writer or intervening branch change was observed. Batch and repository validation passed.
-- Current continuation progress nationally: 14 distinct members processed, 0 new initial, 10 materially enriched existing and 4 nonmaterial follow-ups, 0 newly research-complete. Cycle cumulative: 46 distinct processed, 0 new, 31 materially enriched, 15 nonmaterial follow-ups, 0 complete. Brisbane-day cumulative: 0 new, 119 materially enriched, 0 complete. Counts include only remotely verified member commits; checkpoint-only commits are excluded.
+- Current continuation progress nationally: 15 distinct members processed, 0 new initial, 10 materially enriched existing and 5 nonmaterial follow-ups, 0 newly research-complete. Cycle cumulative: 47 distinct processed, 0 new, 31 materially enriched, 16 nonmaterial follow-ups, 0 complete. Brisbane-day cumulative: 0 new, 119 materially enriched, 0 complete. Counts include only remotely verified member commits; checkpoint-only commits are excluded.
 - Alex Antic: materially enriched — a contemporaneous 7 April 2017 report resolves the Duncan Basheer Hannon to Tindall Gask Bentley transition to April 2017 and says he had spent eight years at DBH. The approximate tenure was not converted into an exact start; full-time status, leave and the earlier 2002–circa-2009 employer allocation remain unresolved.
 - Leah Blyth: nonmaterial follow-up — targeted university, Pembroke, consultancy, staff and professional-profile searches produced no new primary employment evidence. A 2024 ICPA table repeats a stale Pembroke contact after a successor was documented; it was recorded but not used to extend tenure. Namesakes were excluded.
 - Matt Burnell: nonmaterial follow-up — the 2015 Docker Podcast pages returned 403 and the indexed publisher description supplied no vessel, crewing-company or payroll-employer identity. Exact-title, MUA, seafarer and public-profile searches likewise yielded no new primary employment fact; the audio remains unreviewed and the unresolved employer/full-time gaps were preserved.
-- Member commits: `c9ec32c96a95ff56ec78fd18b20696db385a7e4c`, `b30fc5a62b0b06c4fe24f79c3dcc22a1afd77682` and `546015dc54e6f15cf3865bcb61c1475d504bad72`, remotely fetched and verified after write.
-- Durable next cursor: Mark Butler (HWK).
+- Mark Butler: nonmaterial follow-up — targeted advisory-board, university, union-appointment and legal-officer searches found no new primary appointment, payroll or hours evidence. The restricted Advertiser article could not be opened and derivative claims did not resolve the conflict with ABC's chronology, so no exact role transition was inferred.
+- Member commits: `c9ec32c96a95ff56ec78fd18b20696db385a7e4c`, `b30fc5a62b0b06c4fe24f79c3dcc22a1afd77682`, `546015dc54e6f15cf3865bcb61c1475d504bad72` and `6d57615c4e0cb1d8159d12d2e6e7b10eec7fff14`, remotely fetched and verified after write.
+- Durable next cursor: Claire Clutterham (316101).
 - OUTCOME: ongoing. STOPPING REASON: none; continue after checkpoint verification. Successor not requested. Scheduler terminal status unavailable.
 - Validation: JSON parse, `career_batches.py --check` (226/13), `career_batches.py --batch sa`, `build_careers.py` load/build and `git diff --check` passed. Generated local aggregates were discarded; only the assigned member and this checkpoint are being written.
 - Recovered local command error at batch transition: validation was initially invoked from the checkout parent and returned `fatal: not a git repository` plus missing-script errors; rerunning from the isolated SA checkout succeeded. This did not affect repository data or terminate research.
