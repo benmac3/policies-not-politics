@@ -281,3 +281,17 @@ Batch check passes: 226 assigned exactly once across 13 batches; nsw-1 assignmen
 
 - Conroy249127 and ElliotDZW deferred after reviewing last-search notes: Coles/hours and maiden-speech/service avenues exhausted without a new original lead. Farley had an unresolved layout lead and was advanced.
 - Recovered source/tool errors: web PDF open reported URL not accessible via this tool; Python requests absent (ModuleNotFoundError), sandbox urllib returned Operation not permitted. Authorized ordinary curl download succeeded; visual PDF review completed. No source controls bypassed or job-wide error.
+
+
+## Active follow-up — 2026-10-04 08:00 Brisbane cycle, continuation 0
+
+- Attempt start: 2026-10-04T08:01:11+10:00. Latest checkpoint: 2026-10-04T09:21:03+10:00; end not yet observed.
+- This invocation completed SA, Tasmania, ACT and NT before returning to NSW-1 for the next nationwide unresolved pass. Starting NSW-1 head: `520647d3700bfb64b3c87cc48d04929130177f9a`; no active conflicting writer or intervening branch change observed.
+- Current attempt/cycle/day: 32 distinct member records processed, 0 new initial, 17 materially enriched existing, 15 nonmaterial follow-ups, 0 newly research-complete. Counts include only validated, committed and remotely verified member records; checkpoint-only commits excluded.
+- Anthony Albanese (R36): nonmaterial follow-up — fresh targeted searches of Prime Minister, National Archives, Sydney University and parliamentary records corroborated existing facts but found no new bank separation date, appointment day, university-period job or additional full-time evidence. APH search returned a non-retryable robots.txt block. Broad bank-date avenues remain exhausted pending a personnel record.
+- Member commit: `ca50397f0f669a6f600dfd49e82a4776cc252d89`.
+- National baseline remains 226/226 initial records, 226 unresolved, 0 research-complete. NSW-1 remains 20/20 initial, 20 unresolved, 0 complete.
+- Durable next cursor: Ashvini Ambihaipahar (315618).
+- OUTCOME: ongoing. STOPPING REASON: none; continue after remote verification. No successor requested. Scheduler terminal status unavailable; predecessor successor execution unverified.
+- Validation: JSON parse, `career_batches.py --check` (226/13), `career_batches.py --batch nsw-1`, `build_careers.py` and `git diff --check` passed. Only the assigned member and this checkpoint were written on the NSW-1 branch.
+- Recovered source error: APH search emitted `Blocked by robots.txt` (non-retryable). Other official sources remained accessible; this did not terminate the run.
