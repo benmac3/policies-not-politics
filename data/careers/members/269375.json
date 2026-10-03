@@ -6,7 +6,7 @@
   "snapshot_party": "Liberal Party of Australia",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/269375",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-02",
+  "last_reviewed": "2026-10-03",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -18,8 +18,8 @@
       "employer": "University of Adelaide",
       "role": "BA, LLB and Graduate Diploma in Legal Practice studies",
       "start_date": null,
-      "end_date": null,
-      "date_precision": "unknown",
+      "end_date": "2017-04",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "study",
@@ -69,16 +69,17 @@
       "government_control_at_time": "private",
       "counting_status": "insufficient_evidence",
       "source_ids": [
-        "src-3"
+        "src-3",
+        "src-10"
       ],
-      "evidence_note": "September2014LawSociety profile explicitly places him at this private law firm. Observation is not start/end; no allocation of all2002–2014toDBH. Full-time status unknown.",
+      "evidence_note": "September2014LawSociety profile explicitly places him at this private law firm. A7April2017 contemporaneous report says he had moved to Tindall Gask Bentley after eight years at Duncan Basheer Hannon, supporting an April2017 transition and an approximate2009 DBH start but not an exact commencement date. Full-time status unknown.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "269375-03"
     },
     {
       "employer": "Tindall Gask Bentley",
       "role": "Senior Associate, wills and estates litigation",
-      "start_date": null,
+      "start_date": "2017-04",
       "end_date": "2019",
       "date_precision": "mixed",
       "employment_status": "unknown",
@@ -90,9 +91,10 @@
       "source_ids": [
         "src-2",
         "src-4",
-        "src-5"
+        "src-5",
+        "src-10"
       ],
-      "evidence_note": "Employer archived8April2019 confirms role and Adelaide location; parliamentary solicitor endpoint2019. Exact TGB commencement, exit day, leave and hours unresolved.14+years experience refers to career, not tenure at TGB.",
+      "evidence_note": "A7April2017 contemporaneous report describes his move from Duncan Basheer Hannon to Tindall Gask Bentley, supporting a month-level transition. Employer archived8April2019 confirms role and Adelaide location; parliamentary solicitor endpoint2019. Exact appointment day, exit day, leave and hours unresolved.14+years experience refers to career, not tenure at TGB.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "269375-04"
     },
@@ -286,6 +288,16 @@
       "note": "Antic councillor allowance16540.75 in new-memberNovember2014–July2015row and committee deputy chair. LocalPDF extraction recovered web-reader Internal Error.",
       "retrieved": "2026-10-02",
       "source_id": "src-9"
+    },
+    {
+      "url": "https://www.adelaidenow.com.au/news/opinion/curious-case-of-tycoon-vs-son/news-story/0935d31b5a2e3a1746ab9bede98defad",
+      "publisher": "The Advertiser / AdelaideNow",
+      "title": "Off the Record: Curious case of tycoon vs son",
+      "source_type": "news",
+      "locator": "Publicly indexed7April2017 report: Antic moved to Tindall Gask Bentley after eight years at Duncan Basheer Hannon",
+      "note": "Contemporaneous report supports the month-level firm transition. Eight-year tenure is approximate and is not converted into an exact DBH start date; personal hours and leave remain unstated.",
+      "retrieved": "2026-10-03",
+      "source_id": "src-10"
     }
   ],
   "research_notes": [
@@ -296,6 +308,7 @@
     "Follow-up: earliest legal employers2002onward; DBHentry/exit and TGBentry/promotion; full-time contracts, leave/breaks and concurrent council duties; LawSocietyCouncil exit/pay; study dates. Current post-snapshot party changes do not refresh frozen roster.",
     "Follow-up2026-10-02:added previously unrecorded Adelaide Park Lands Authority governance with exact appointment and early resignation dates from government notice and authority annual report; council allowance and committee deputy-chair role corroborated. Governance excluded regardless of possible remuneration.",
     "Targeted TGB2015/2016appointment and law-firm transition searches returned no reliable new employment timing. AustLII2014SASC78 direct open Internal Error; prior case-aggregatorFebruary2013DBHlead remains unverified, not adopted. CityPDF web-reader Internal Errors recovered by ordinary primaryPDFdownloads, with readable tables.",
-    "Remaining priorities: earliest legal firms, DBH/TGBtransition and personal hours/leave, law-society council exit/remuneration, university dates. ParkLands2016resignation is not law-firm or CityCouncil employment exit."
+    "Remaining priorities: earliest legal firms, DBH/TGBtransition and personal hours/leave, law-society council exit/remuneration, university dates. ParkLands2016resignation is not law-firm or CityCouncil employment exit.",
+    "Follow-up 2026-10-03: contemporaneous7April2017 reporting resolves the DBH-to-TGB transition to April2017 and describes eight years at DBH. The implied circa2009 start is retained only as an approximate lead, not an exact boundary. This corrects the directory's conflicting2002–2019 all-TGB attribution; full-time status and earlier2002–circa2009 employer allocation remain unresolved."
   ]
 }
