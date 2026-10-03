@@ -6,7 +6,7 @@
   "snapshot_party": "Liberal Party of Australia",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/274506",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-02",
+  "last_reviewed": "2026-10-03",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -212,7 +212,7 @@
       "employer": "Department of Foreign Affairs and Trade",
       "role": "Australian Ambassador to Israel",
       "start_date": "2013-06",
-      "end_date": "2017",
+      "end_date": "2017-06-19",
       "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
@@ -224,9 +224,10 @@
         "src-snapshot",
         "src-aph-current",
         "src-ambassador",
-        "src-successor"
+        "src-successor",
+        "src-successor-arrival-oct3"
       ],
-      "evidence_note": "Parliament records service from 2013 to 2017, and contemporaneous records identify appointment in June 2013 and announcement of a successor in April 2017 for a mid-year transition. Exact assumption and cessation days, hours, leave and post-return arrangements remain unresolved.",
+      "evidence_note": "Parliament records service from 2013 to 2017, and contemporaneous records identify appointment in June 2013. The Foreign Minister announced Chris Cannan as successor on 12 April 2017, thanking outgoing ambassador Sharma; the embassy's publicly indexed 19 June 2017 announcement says the new ambassador had begun work. That fixes Sharma's ambassador-role endpoint to 19 June 2017, without establishing whether DFAT payroll or another public-service arrangement continued afterwards. Exact assumption day, hours, leave and post-return arrangements remain unresolved.",
       "counting_note": "The public appointment is clear, but senior title and mixed date precision do not independently establish a countable full-time interval."
     },
     {
@@ -605,6 +606,16 @@
       "note": "Primary government confirmation that Sharma remained outgoing ambassador in April 2017 before a mid-year successor transition."
     },
     {
+      "url": "https://x.com/AusAmbIsrael",
+      "publisher": "Australian Embassy in Israel",
+      "title": "Public announcement of Chris Cannan beginning as Ambassador",
+      "source_type": "government_record",
+      "locator": "Publicly indexed account post dated 19 June 2017: new ambassador had begun work",
+      "note": "Government embassy account places the successor in the ambassador role on 19 June 2017. Used with the Foreign Minister's appointment announcement to bound Sharma's ambassador role, not to infer cessation of all DFAT employment or payroll.",
+      "retrieved": "2026-10-03",
+      "source_id": "src-successor-arrival-oct3"
+    },
+    {
       "source_id": "src-shekel",
       "url": "https://announcements.asx.com.au/asxpdf/20190329/pdf/443x84vfqy4ljr.pdf",
       "publisher": "Shekel Brainweigh Ltd via Australian Securities Exchange",
@@ -754,6 +765,7 @@
     "Searched company annual reports, appointment notices, government trust minutes, interests register and full-time references. No individual ordinary hours, DFAT leave/payroll continuity, Kelly+Partners contract or post-ambassador transition dates recovered. Senior public-service titles do not establish hours; government consulting clients do not establish government employment.",
     "APH interests PDF returned HTTP403/robots; indexed extract exposed investments but not a complete verified employment contract. A reported 49% Kelly partnership interest remains a lead, not adopted from a third-party copy. Roots primary PDF exceeded web fetch size; indexed appointment text used explicitly. Some search queries returned irrelevant terms and were not treated as evidence.",
     "Next leads: Kelly+Partners Government Relations/Incentives/Innovation partnership and personnel disclosures, Roots and ParaZero original consultancy/advisory contracts, Aegros resignation notice, SWG director register and DFAT personnel transfer records. Harbour Trust later ex-officio committee membership as MP should be assessed separately from the short 2018 board term.",
-    "Second follow-up2October2026 adds NeuRA Foundation directorship from its financial statements, beginning February2023. Public board profile may predate Senate appointment; no assumed current continuity. Kelly+Partners partnership-interest/contract and Roots remuneration searches did not resolve substantive hours or employee status. Shekel2018 prospectus lead https://www.aspecthuntley.com.au/asxdata/20181116/pdf/02048980.pdf returned DisabledError through web open; no alternate access attempted. Indexed text repeats director/principal title only. Full-time references in parliamentary commentary concern other workers or elected office, not his diplomatic or commercial employment. Next leads remain public employer appointment/leave records, original consultancy agreements and board cessation notices; no salary or hours inferred from seniority."
+    "Second follow-up2October2026 adds NeuRA Foundation directorship from its financial statements, beginning February2023. Public board profile may predate Senate appointment; no assumed current continuity. Kelly+Partners partnership-interest/contract and Roots remuneration searches did not resolve substantive hours or employee status. Shekel2018 prospectus lead https://www.aspecthuntley.com.au/asxdata/20181116/pdf/02048980.pdf returned DisabledError through web open; no alternate access attempted. Indexed text repeats director/principal title only. Full-time references in parliamentary commentary concern other workers or elected office, not his diplomatic or commercial employment. Next leads remain public employer appointment/leave records, original consultancy agreements and board cessation notices; no salary or hours inferred from seniority.",
+    "Third follow-up3October2026 resolves the ambassador-role endpoint to19June2017 from the Foreign Minister's April successor announcement and the embassy account's dated statement that Chris Cannan had begun work. This does not prove Sharma left DFAT payroll on that day or resolve any later public-service interval, leave, hours or classification. Searches of Kelly+Partners contracts, consultancy clients and post-ambassador transition found no reliable new contract or hours evidence; no headline total changed."
   ]
 }
