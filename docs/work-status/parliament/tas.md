@@ -14,7 +14,7 @@
 - 00AOL COLBECK, the Hon. Richard Mansell: blocked; last review2026-10-04. Follow-up: Early employers/control; duplicated1977-79roles; hours/leave; consultancy identity/end;2016-18employment. First-speech PDF robots-blocked; public professional-profile direct fetch429.
 
 
-- HWM COLLINS, the Hon. Julie Maree: blocked; last review2026-10-01. Follow-up: Identify early supermarket and later full-time employer/dates; obtain Health/Hydro hours and 1998 transitions; resolve DTPHA ordinary service versus political appointment from contemporary records; leave, study overlaps and 1994–95 gap.
+- HWM COLLINS, the Hon. Julie Maree: blocked; last review2026-10-04. Follow-up: Identify early supermarket and confirm later full-time employer/dates; obtain Health/Hydro hours and1998transitions; resolve DTPHA ordinary service versus political appointment; leave, study overlaps and1994–95gap. SMH profile remains inaccessible.
 
 
 - 316935 DOLEGA, Josh: blocked; last review2026-10-01. Follow-up: Identify second call centre and both full-time intervals; ATO hours and 2018 sabbatical/separation versus 15-year claim; fitness dates, legal employer/control and overlaps; exact union transition dates.
@@ -114,15 +114,16 @@
 
 ## Active follow-up — 2026-10-04 08:00 Brisbane cycle, continuation 0
 
-- Attempt start: 2026-10-04T08:01:11+10:00. Latest checkpoint: 2026-10-04T08:25:32+10:00; end not yet observed.
+- Attempt start: 2026-10-04T08:01:11+10:00. Latest checkpoint: 2026-10-04T08:27:08+10:00; end not yet observed.
 - This invocation completed the SA follow-up pass with 5 materially enriched records, each validated, committed and remotely verified, then advanced in plan order. Starting Tasmania head: `31e7c4ec65fd64d424fb124cd733dfd9f7249de3`; no active conflicting writer or intervening branch change observed.
-- Current attempt/cycle/day: 9 distinct member records processed, 0 new initial, 6 materially enriched existing, 3 nonmaterial follow-ups, 0 newly research-complete. Counts include only remotely verified member commits; checkpoint-only commits excluded.
+- Current attempt/cycle/day: 10 distinct member records processed, 0 new initial, 6 materially enriched existing, 4 nonmaterial follow-ups, 0 newly research-complete. Counts include only remotely verified member commits; checkpoint-only commits excluded.
 - Vanessa Bleyer: materially enriched — the primary Architects Registration Board 2006–07 report narrows her board appointment to September2006 and records9of10meetings attended. This improves governance chronology only; attendance does not establish hours, remuneration or ordinary public employment. School jobs, the other internet company, traineeship, private-practice hours and external-role exits remain unresolved.
-- Member commits this invocation: SA `60b3ce00fb2a0b35f60c5e0dcdddefdf94f89117`, `b2a66cf99ac4562c29dabfa1ea6a089e6f7bc5a3`, `aff64a832aa856db06a5c67bd49f68b04c7a3f19`, `9ee256ce803b0bb458d37772de465cb16c4e0a76`, `1a3625b123c5dc852830cfcc7dbac6ef1fbe5db7`; Tasmania `5514b1673b852e4b537305359039ebc1e9fee6c9` , `7977de353fefc82a3674967af3d868af4694a777` , `73276b29131592e4276276c26be4af1a7932556c` and `de8713b014301d67f10869fb8d1542007cb1114d`. All remotely fetched and verified.
+- Member commits this invocation: SA `60b3ce00fb2a0b35f60c5e0dcdddefdf94f89117`, `b2a66cf99ac4562c29dabfa1ea6a089e6f7bc5a3`, `aff64a832aa856db06a5c67bd49f68b04c7a3f19`, `9ee256ce803b0bb458d37772de465cb16c4e0a76`, `1a3625b123c5dc852830cfcc7dbac6ef1fbe5db7`; Tasmania `5514b1673b852e4b537305359039ebc1e9fee6c9` , `7977de353fefc82a3674967af3d868af4694a777` , `73276b29131592e4276276c26be4af1a7932556c` , `de8713b014301d67f10869fb8d1542007cb1114d` and `c4dc5ff7355296fd4a6fc53e6abe19c7ac42989a`. All remotely fetched and verified.
 - National baseline remains 226/226 initial records, 226 unresolved, 0 research-complete. Tasmania remains17/17 initial,17 unresolved,0 complete.
 - Carol Brown: nonmaterial follow-up — exact-name and historical government searches repeated the official chronology but yielded no person-specific DPAC classification, appointment instrument, hours or leave. The previously identified2001–02departmental report URL returnedHTTP404; no archived copy or ministerial-staff schedule was exposed. Gaps were retained without forcing a category or total.
 - Claire Chandler: nonmaterial follow-up — targeted professional-profile, Deloitte, Bushby-office and campaign searches repeated the role sequence and existing senior-analyst months but supplied no safely attributable client-manager endpoints, substantive hours, leave, employing entity or staff-contract dates. Aggregate duration was not converted into inferred boundaries.
 - Richard Colbeck: nonmaterial follow-up — exact-name building-business, apprenticeship, estimator/supervisor and2016–2018consulting searches exposed no employer name, legal business name, hours, consultancy cessation or paid work during the Senate gap. Event participation and election reporting were not treated as employment; public-profile direct retrieval returned429and was not retried.
-- Durable next cursor: Julie Collins (HWM).
+- Julie Collins: nonmaterial follow-up — the2023SMH profile remained inaccessible and only derivative summaries tied the later full-time job to the same supermarket, so the two early spells were not merged. DTPHA and Hydro searches supplied no appointment class, person-specific dates, hours or leave.
+- Durable next cursor: Josh Dolega (316935).
 - OUTCOME: ongoing. STOPPING REASON: none; continue after remote verification. No successor requested. Scheduler terminal status unavailable.
 - Validation: JSON parse, `career_batches.py --check` (226/13), `career_batches.py --batch tas`, `build_careers.py` and `git diff --check` passed. Only the assigned member and this checkpoint were written.
