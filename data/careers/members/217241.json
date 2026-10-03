@@ -115,9 +115,10 @@
         "src-5",
         "src-6",
         "src-12",
-        "src-14"
+        "src-14",
+        "src-17"
       ],
-      "evidence_note": "The official biography aggregates multiple UK Conservative roles over 2002–08. Contemporary reporting and McGrath's first speech corroborate his Boris Johnson campaign work, but role-specific dates, employers/payroll, hours and gaps are incomplete. Separate post-election GLA consultancy below is not assumed to be party payroll. First speech also describes Tory media-adviser work but no individual dates; existing2002–08 aggregate is not a claim of continuous service in every listed post.",
+      "evidence_note": "The official biography aggregates multiple UK Conservative roles over 2002–08. A contemporaneous January 2007 Project Management Institute article identifies McGrath at that point as chief of staff to Britain's Conservative Party chairman, narrowing one role to a dated observation without proving appointment or cessation. Contemporary reporting and McGrath's first speech corroborate his Boris Johnson campaign work, but other role-specific dates, employers/payroll, hours and gaps remain incomplete. Separate post-election GLA consultancy below is not assumed to be party payroll. First speech also describes Tory media-adviser work but no individual dates; the 2002–08 aggregate is not a claim of continuous service in every listed post.",
       "counting_note": "Party and campaign-organisation roles are excluded."
     },
     {
@@ -216,9 +217,10 @@
       "counting_status": "insufficient_evidence",
       "source_ids": [
         "src-1",
-        "src-10"
+        "src-10",
+        "src-16"
       ],
-      "evidence_note": "The official biography gives self-employed contracting from 2012 to 2014. McGrath's signed 2014 interests statement identifies paid contract work for the six named clients from his September 2013 election through 30 June 2014. It does not state each assignment's role, start/end, hours, leave, revenue share or whether further 2012–13 clients existed.",
+      "evidence_note": "The official biography gives self-employed contracting from 2012 to 2014. McGrath's signed 2014 interests statement identifies paid contract work for the six named clients from his September 2013 election through 30 June 2014. ACCC minutes independently identify him as the National Retail Association's Adviser at a 1 August 2013 pre-decision conference, supplying one client-specific role and point observation before the election. The record does not establish that day's contractual boundary, each assignment's start/end, hours, leave, revenue share or whether further 2012–13 clients existed.",
       "counting_note": "Paid private contracting is supported, but neither the aggregate year range nor the client disclosure establishes full-time service or non-overlapping client intervals. Party-client work would also require exclusion if separable."
     },
     {
@@ -508,6 +510,26 @@
       "note": "Rechecked official legal/Ombudsman year intervals; also lists Griffith Liberal Club president and Sunshine Coast Young Liberals chair.",
       "retrieved": "2026-10-02",
       "source_id": "src-15"
+    },
+    {
+      "url": "https://www.accc.gov.au/system/files/public-registers/documents/D13%2B113112.pdf",
+      "publisher": "Australian Competition and Consumer Commission",
+      "title": "Minutes of the Pre-Decision Conference — Homeworker Code Committee authorisation applications",
+      "source_type": "government_record",
+      "locator": "1 August 2013, attendee list, PDF pages 1–2",
+      "note": "Primary ACCC minutes identify James McGrath as National Retail Association Adviser at the 1 August 2013 conference. This is a point observation, not an appointment or cessation date.",
+      "retrieved": "2026-10-03",
+      "source_id": "src-16"
+    },
+    {
+      "url": "https://www.pmi.org/learning/library/vote-political-campaign-project-manager-3070",
+      "publisher": "Project Management Institute",
+      "title": "Vote for me",
+      "source_type": "professional_profile",
+      "locator": "PM Network, January 2007, The Big Day section",
+      "note": "Contemporaneous professional article identifies McGrath as then working as chief of staff to Britain's Conservative Party chairman; does not name the chairman or give appointment, cessation, hours or payroll details.",
+      "retrieved": "2026-10-03",
+      "source_id": "src-17"
     }
   ],
   "research_notes": [
@@ -519,6 +541,7 @@
     "Disaggregate the 2012–14 contracting practice by client, role, date, hours, leave and business entity; separate excluded Liberal Party client work from other private assignments.",
     "Follow-up2026-10-02: primary London Assembly answers recover omitted post-election mayoral consultancy and exact contract dates/payment. Keep it separate from Conservative Party campaign roles. First speech/official party list add Mongolia campaign and early political/student roles. No private/public years calculated.",
     "Targeted legal-firm/admission, Queensland Ombudsman, SA ministerial-office, Conservative role-boundary and Crosby Textor searches did not establish hours, leave, SA minister identity or individual UK party-post dates. Do not infer employers from having worked with named strategists. Namesake US/UK lawyers, academics and corporate officers excluded.",
-    "Source gap: Gold Coast Waterways compilation with indexed James McGrath reference failed open with (400) Content length is too large: 28294715; not treated as a verified new employment fact. Next avenues: smaller original Ombudsman reports, legal directories, SA staff lists, UK party appointment records and2012–14 client contracts."
+    "Source gap: Gold Coast Waterways compilation with indexed James McGrath reference failed open with (400) Content length is too large: 28294715; not treated as a verified new employment fact. Next avenues: smaller original Ombudsman reports, legal directories, SA staff lists, UK party appointment records and2012–14 client contracts.",
+    "Follow-up 2026-10-03: primary ACCC minutes identify National Retail Association Adviser as a client-specific role observed on 1 August 2013, while a contemporaneous January 2007 professional article identifies the UK party-chairman chief-of-staff role then. Point observations are not converted to appointment/cessation boundaries. Fresh SA minister, legal-admission, Ombudsman, UK role and contracting searches did not establish the remaining dates, hours or leave."
   ]
 }
