@@ -6,12 +6,12 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/112096",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-02",
+  "last_reviewed": "2026-10-03",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
     "calculation_status": "not_calculable",
-    "note": "Resolved ACECQA appointment start and resignation bound, sitting-fee governance basis, and union transition/cessation evidence. Early teaching/community employers and full-time service remain unverified; no headline totals."
+    "note": "Added the dated NDIS workforce expert-group appointment and first-person evidence of aged-care policy/National Aged Care Alliance duties within the union role. Early teaching/community employers and full-time service remain unverified; no headline totals."
   },
   "career_spells": [
     {
@@ -116,9 +116,10 @@
         "src-7",
         "src-10",
         "src-11",
-        "src-12"
+        "src-12",
+        "src-14"
       ],
-      "evidence_note": "Contemporary employer/ABC corroboration; payroll end not inferred from Senate appointment. September 2007 letterhead already names national role; AEC election declared 29 October 2007. Do not treat later election result as first employment start. Union 19 July 2013 letter confirms prior resignation but omits actual date in available compilation; neither this notice nor successor September election dates are payroll boundaries.",
+      "evidence_note": "Contemporary employer/ABC corroboration; payroll end not inferred from Senate appointment. September 2007 letterhead already names national role; AEC election declared 29 October 2007. Do not treat later election result as first employment start. A later first-person account says roughly three years of her working life involved the Living Longer Living Better package and that she represented United Voice on the National Aged Care Alliance for a significant period; these are duties within the union spell, not additive employment. Union 19 July 2013 letter confirms prior resignation but omits actual date in available compilation; neither this notice nor successor September election dates are payroll boundaries.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "112096-05"
     },
@@ -166,9 +167,9 @@
     {
       "employer": "NDIS Workforce and Sector Capacity Expert Group",
       "role": "Member",
-      "start_date": null,
+      "start_date": "2012-05-03",
       "end_date": null,
-      "date_precision": "unknown",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "public_service",
@@ -176,9 +177,10 @@
       "government_control_at_time": "public",
       "counting_status": "excluded",
       "source_ids": [
-        "src-3"
+        "src-3",
+        "src-13"
       ],
-      "evidence_note": "Pre-Senate advisory appointment; no employment/hours inferred.",
+      "evidence_note": "Commonwealth announcement on 3 May 2012 names Sue Lines of United Voice as a member and says the group would advise over the next few months. Announcement date is used as the earliest evidenced appointment point, not an exact legal commencement; actual cessation, remuneration and meeting workload remain unknown.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "112096-08"
     },
@@ -381,6 +383,26 @@
       "note": "Already labels Lines assistant national secretary before October election result; acting/formal transition unresolved.",
       "retrieved": "2026-10-02",
       "source_id": "src-12"
+    },
+    {
+      "url": "https://formerministers.dss.gov.au/13513/engaging-the-disability-sector-to-build-a-national-disability-insurance-scheme-2/",
+      "publisher": "Australian Government Department of Social Services",
+      "title": "Engaging the disability sector to build a National Disability Insurance Scheme",
+      "source_type": "government_record",
+      "locator": "3 May 2012 media release; expert-group purpose and member list",
+      "note": "Names Sue Lines, United Voice, to the Disability Workforce and Sector Capacity expert group and describes advice expected over the next few months; no remuneration or cessation date.",
+      "retrieved": "2026-10-03",
+      "source_id": "src-13"
+    },
+    {
+      "url": "https://www.openaustralia.org.au/senate/?id=2014-11-24.9.1",
+      "publisher": "Senate Hansard via OpenAustralia",
+      "title": "Aged Care and Other Legislation Amendment Bill 2014 speech",
+      "source_type": "first_person",
+      "locator": "24 November 2014, Sue Lines at 10:44 am; opening aged-care paragraphs",
+      "note": "First-person account of roughly three working years on the Living Longer Living Better package and representing United Voice on the National Aged Care Alliance for a significant period; duties fall within the union spell and do not create additive employment.",
+      "retrieved": "2026-10-03",
+      "source_id": "src-14"
     }
   ],
   "research_notes": [
@@ -389,6 +411,7 @@
     "Resolve2000/2001 union promotion via union returns/predecessor history; dates, leave and2013 exit. Board/expert appointment tenure/payment need ACECQA2012/13, ACFA and NDIS records. Governance does not establish another full-time career.",
     "Follow-up 2026-10-02: read ACECQA 2012–13 report, DEEWR appointment table, union 2007 annual return/amendments and 2013 vacancy file. Distinguished intended term from actual resignation and election declaration from earlier employment. Governance payments are sitting fees, not full-time service.",
     "School/community employer and pre-1984 work searches remain unsuccessful. South Australian library result for a welfare-office assistant Sue Lines cannot be linked to this Senator and is not assigned. ACFA/NDIS dates remain for later agency appointment-register search. Union 2000/2001 dispute needs original WA branch election/appointment record; 2007 return cannot resolve it.",
-    "Recovered local command error during batch handoff: git status/show invoked in scratch instead of repository returned fatal: not a git repository (or any of the parent directories): .git. Correct repository command and WA2 remote fetch/check recovered; no work lost or terminal blocker."
+    "Recovered local command error during batch handoff: git status/show invoked in scratch instead of repository returned fatal: not a git repository (or any of the parent directories): .git. Correct repository command and WA2 remote fetch/check recovered; no work lost or terminal blocker.",
+    "Follow-up 2026-10-03: Commonwealth material dates the NDIS Workforce and Sector Capacity expert-group announcement to 3 May 2012 and anticipates advice over the following months; this supplies an earliest evidenced appointment point, not an exact legal term. A first-person 2014 speech adds roughly three years of aged-care reform work and significant National Aged Care Alliance representation within the national union role. Searches still did not identify the 1984–85 school, 1985–87 community employer, pre-1984 paid work or an authoritative ACFA appointment term."
   ]
 }
