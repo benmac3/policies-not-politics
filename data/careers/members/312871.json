@@ -6,12 +6,12 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/312871",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-02",
+  "last_reviewed": "2026-10-03",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
     "calculation_status": "not_calculable",
-    "note": "Added named St John of God Subiaco hospital training/work setting, clarified enrolled versus registered nursing teaching, verified council resignation on 28 May 2025 and ECU PhD award in 2026. Clinical payroll employers, career boundaries and hours remain unresolved."
+    "note": "Added named St John of God Subiaco hospital training/work setting, clarified enrolled versus registered nursing teaching, verified council resignation on 28 May 2025 and ECU PhD award in 2026. Public professional-profile evidence now bounds the broad oil-and-gas/OHS interval to 1996–2011 and identifies Curtin lecturing (2008–2011) and ECU tutoring (2017–2021), without treating those overlaps as additive. Clinical payroll employers and hours remain unresolved."
   },
   "career_spells": [
     {
@@ -37,9 +37,9 @@
     {
       "employer": "Industrial health employers not identified",
       "role": "Nurse and occupational health and safety consultant",
-      "start_date": null,
-      "end_date": null,
-      "date_precision": "unknown",
+      "start_date": "1996",
+      "end_date": "2011",
+      "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "unknown",
@@ -48,9 +48,11 @@
       "counting_status": "insufficient_evidence",
       "source_ids": [
         "src-1",
-        "src-2"
+        "src-2",
+        "src-10",
+        "src-11"
       ],
-      "evidence_note": "Construction, casinos and offshore/onshore oil and gas sites identified; client location is not necessarily employing entity.",
+      "evidence_note": "First-person evidence identifies construction, casino and offshore/onshore oil-and-gas settings; a public professional profile and WA business profile bound the broad OHS/oil-and-gas work to 1996–2011. The interval is an umbrella over unidentified employers/clients and overlaps the separately recorded Curtin lecturing. Client sites do not identify employing entities, hours, leave or continuous activity.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "312871-02"
     },
@@ -191,9 +193,10 @@
       "source_ids": [
         "src-2",
         "src-3",
-        "src-8"
+        "src-8",
+        "src-10"
       ],
-      "evidence_note": "Degree years 1991 and 2007; PhD started 2019. No paid research appointment inferred. ECU repository records integrated PhD award in 2026. Its research interviews began July 2017, before the 2019 commencement stated in first speech; enrolment/research-phase distinction unresolved. No paid research inferred.",
+      "evidence_note": "Public profile reports general-nursing diploma 1985, midwifery diploma 1988, health-science degree 1996 and Curtin OHS study across 1999–2006; exact course-specific attendance remains unmapped. First speech says PhD started 2019, while the profile reports an ECU return in 2016 and the thesis records interviews from July 2017. ECU repository records integrated PhD award in 2026. Enrolment/research-phase distinction remains unresolved; no paid research appointment inferred.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "312871-09"
     },
@@ -276,6 +279,45 @@
       "evidence_note": "First-person speech places hospital-based training in the 1980s and discusses trainee work and wages. Exact training/employment dates, personal paid contract, hours and leave unresolved; dates remain null rather than fabricated decade endpoints. Religious hospital training/employment is distinct from later remote clinical work.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "312871-13"
+    },
+    {
+      "employer": "Curtin University",
+      "role": "Lecturer, occupational health and safety",
+      "start_date": "2008",
+      "end_date": "2011",
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "university",
+      "headline_sector": "excluded",
+      "government_control_at_time": "public",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-10"
+      ],
+      "evidence_note": "Cook's publicly indexed professional profile reports OHS lecturing at Curtin from 2008 to 2011. Contract type, hours and leave are not published; this overlaps the broad 1996–2011 industrial-health umbrella and must not be added to it.",
+      "counting_note": "University work is excluded from the public/private headline under the codebook; no full-time assumption is made.",
+      "spell_id": "312871-14"
+    },
+    {
+      "employer": "Edith Cowan University",
+      "role": "Undergraduate tutor",
+      "start_date": "2017",
+      "end_date": "2021",
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "university",
+      "headline_sector": "excluded",
+      "government_control_at_time": "public",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-7",
+        "src-10"
+      ],
+      "evidence_note": "Cook's publicly indexed professional profile dates ECU undergraduate tutoring to 2017–2021; her 2026 first-person parliamentary statement independently confirms ECU teaching and mentoring registered nurses. Contract type, campus allocation, hours and leave remain unpublished.",
+      "counting_note": "University work is excluded from the public/private headline under the codebook; no full-time assumption is made.",
+      "spell_id": "312871-15"
     }
   ],
   "sources": [
@@ -368,6 +410,26 @@
       "note": "Provider identifies religious-order origins of Subiaco hospital and school. Does not establish Cook employment contract or hours.",
       "retrieved": "2026-10-02",
       "source_id": "src-9"
+    },
+    {
+      "url": "https://www.linkedin.com/in/trish-cook-28a36738",
+      "publisher": "Trish Cook / LinkedIn",
+      "title": "Trish Cook public professional profile",
+      "source_type": "public_professional_profile",
+      "locator": "Publicly indexed education and experience entries",
+      "note": "Public index reports qualification years, broad 1996–2011 OHS/oil-and-gas work, Curtin lecturing 2008–2011 and ECU tutoring 2017–2021. Direct profile returned access errors; indexed public details are used with year precision only and no hours inference.",
+      "retrieved": "2026-10-03",
+      "source_id": "src-10"
+    },
+    {
+      "url": "https://www.businessnews.com.au/Person/Trish-Cook",
+      "publisher": "Business News",
+      "title": "Trish Cook",
+      "source_type": "reliable_secondary",
+      "locator": "Publicly indexed career summary",
+      "note": "Public index corroborates the 1996–2011 oil-and-gas/OHS interval. The full data profile is subscription-only and was not accessed; no employer, hours or contract details are inferred beyond visible text.",
+      "retrieved": "2026-10-03",
+      "source_id": "src-11"
     }
   ],
   "research_notes": [
@@ -377,6 +439,7 @@
     "Resolve training, study and family-care overlaps, any paid PhD work, council workload and 2025 clinical/business cessation or campaign leave. Relative ten-year and four-year durations are not converted into invented endpoints.",
     "Follow-up 2026-10-02: first speech and official qualifications identify Subiaco hospital training; university thesis establishes 2026 award, with interviews from 2017 requiring reconciliation with stated 2019 study commencement. Council announcement quoted contemporaneously settles 28 May 2025 resignation.",
     "Curtin 2008–2011 and ECU 2017–2021 remain secondary leads: Wikipedia links old public professional profile trish-cook-28a36738, but direct 999; renamed trish-cook-mp denied robots and targeted indexes lacked role detail. No authentication or access bypass. Business News visible profile did not supply the claimed oil/gas date interval.",
-    "Gov Insights namesake is an administration specialist without matching nursing biography; not attributed. Searches for Nurses@Work legal entity and TAFE appointments did not identify payroll records. Next leads: historical nursing business registry, public academic CV, TAFE annual reports, and paid hospital-training record."
+    "Gov Insights namesake is an administration specialist without matching nursing biography; not attributed. Searches for Nurses@Work legal entity and TAFE appointments did not identify payroll records. Next leads: historical nursing business registry, public academic CV, TAFE annual reports, and paid hospital-training record.",
+    "Follow-up 2026-10-03: public professional-profile evidence was sufficient to promote prior leads into bounded but hours-unknown Curtin OHS lecturing (2008–2011), ECU tutoring (2017–2021), and a broad 1996–2011 oil-and-gas/OHS umbrella. Business News corroborates the latter in visible index text. The university spells overlap the umbrella and are not additive. Exact payroll employers/clients, hours, leave and Nurses@Work boundaries remain unresolved; subscription content was not accessed."
   ]
 }

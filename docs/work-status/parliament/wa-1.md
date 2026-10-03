@@ -125,7 +125,7 @@ Detailed attempted avenues, discrepancies and remaining leads are preserved in e
 - Continuation: 0. Attempt started: 2026-10-03T16:24:14+10:00; WA-1 segment started after a remotely verified QLD-2 pass. Starting WA-1 head: 505f2725fd33e27ad23f177a1709a41ad0ee5105.
 - Starting national coverage: 226/226 initial, 226 unresolved, 0 research-complete. No active conflicting WA-1 writer or changed remote head observed.
 - Progress before WA-1: 15 distinct QLD-2 members processed (0 new, 8 materially enriched, 7 nonmaterial follow-ups, 0 newly complete), all remotely verified. Brisbane-day cumulative before this member: 0 new, 96 materially enriched, 0 newly complete.
-- Current cursor: Kate Chaney (300006) researched after Michaelia Cash was remotely verified; validate, commit and remotely verify before Trish Cook (312871).
+- Current cursor: Trish Cook (312871) researched after Kate Chaney was remotely verified; validate, commit and remotely verify before Dorinda Cox (296215).
 - OUTCOME: ongoing. STOPPING REASON: none; continue after remote verification. Successor not requested. Scheduler terminal status unavailable.
 
 ### This cycle's member results
@@ -134,3 +134,4 @@ Detailed attempted avenues, discrepancies and remaining leads are preserved in e
 - 30484 Slade Brockman: nonmaterial follow-up — targeted 1998–2005 employer and AGC-contract searches produced no defensible new fact; attempted avenues and false-positive year fragments documented to prevent repetition.
 - I0M Michaelia Cash: nonmaterial follow-up — targeted early-career, admission, Freehills and 2007 campaign searches yielded no new employment boundary; a 1994 Commissioner for Declarations appointment was explicitly rejected as employment evidence.
 - 300006 Kate Chaney: materially enriched — confirmed Westralia Airports Corporation's private control in 2007 and documented Chaney's retail, ground-transport and aviation business-development remit; hours, leave and exact boundaries remain unresolved.
+- 312871 Trish Cook: materially enriched — bounded the broad oil-and-gas/OHS interval to 1996–2011 and added Curtin lecturing 2008–2011 plus ECU tutoring 2017–2021, explicitly preserving overlap and unknown hours.
