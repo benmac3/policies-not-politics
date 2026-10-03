@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/I0N",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-02",
+  "last_reviewed": "2026-10-03",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -194,9 +194,10 @@
       "counting_status": "excluded",
       "source_ids": [
         "src-8",
-        "src-9"
+        "src-9",
+        "src-13"
       ],
-      "evidence_note": "Annual report supplies resignation. Board governance only; report says directors receive no payment, but historic policy throughout tenure unresolved. Union/employer representative control is not government control.",
+      "evidence_note": "REST annual report supplies resignation effective1July2008. The SDA national annual return instead records GeoffWilliams replacing Farrell effective24July2008; this appears to be a replacement date, not contrary proof that Farrell served to that day, and is retained as a chronology discrepancy. Board governance only; report says directors receive no payment, but historic policy throughout tenure unresolved. Union/employer representative control is not government control.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "I0N-09"
     },
@@ -445,6 +446,16 @@
       "note": "Retrieved article excerpt reports delivery of ACTU training for affiliated unions; no separate payroll or duration established.",
       "retrieved": "2026-10-02",
       "source_id": "src-12"
+    },
+    {
+      "url": "https://regorgs.fwc.gov.au/sites/default/files/migration/406/006n-fr2009-10063.pdf",
+      "publisher": "Shop, Distributive and Allied Employees’ Association / Fair Work Commission",
+      "title": "SDA national financial report2008–2009",
+      "source_type": "employer",
+      "locator": "PDF page4, section5 Superannuation Trustees",
+      "note": "Reports Geoff Williams replaced Don Farrell as a REST director effective24July2008. REST's own report separately gives Farrell's resignation as1July2008; the gap is preserved rather than converted into additional service.",
+      "retrieved": "2026-10-03",
+      "source_id": "src-13"
     }
   ],
   "research_notes": [
@@ -454,6 +465,7 @@
     "Farrell Wines label/business-name continuity differs from official 2014–2016 occupation entry. ABN activation, GST dates and trading-name changes are not evidence of employment start/end or full-time status.",
     "Initial first-speech URL returned 400 Timeout fetching; adjacent debate URL supplied full speech. Namesake US accountant/business profiles excluded. No outreach.",
     "Follow-up2026-10-02 adds1982Manila ACTU training assignment within SDA period from reliable secondary biography. Primary ACTU course/secondment records remain a specific lead. No additional duration or employer inferred.",
-    "Targeted early mail/council/waiter employers, REST appointment, SDA national presidency and vineyard full-time searches found no usable new endpoints or hours; US historian, theatre and fuel-industry namesakes excluded. FWC2005annual-return web reader was inaccessible; this is a source gap, not a job-wide failure. Retain all prior gaps and null totals. Ordinary PDF download also returned TimeoutError: The read operation timed out."
+    "Targeted early mail/council/waiter employers, REST appointment, SDA national presidency and vineyard full-time searches found no usable new endpoints or hours; US historian, theatre and fuel-industry namesakes excluded. FWC2005annual-return web reader was inaccessible; this is a source gap, not a job-wide failure. Retain all prior gaps and null totals. Ordinary PDF download also returned TimeoutError: The read operation timed out.",
+    "Follow-up2026-10-03: SDA national financial report says replacement REST director GeoffWilliams became effective24July2008, while REST's own report gives Farrell resignation1July2008. These can describe vacancy and replacement rather than conflicting service endpoints; preserve the primary REST resignation date and record the23-day board-seat transition gap. No appointment-start, personal pay or substantive-hours evidence found."
   ]
 }
