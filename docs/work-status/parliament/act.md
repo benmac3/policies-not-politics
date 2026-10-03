@@ -2,7 +2,7 @@
 
 ## Saved records and follow-up
 
-- ING GALLAGHER, the Hon. Katherine (Katy) Ruth: blocked; last review2026-10-01. Follow-up: Identify early retail/childcare employers and hours; reconcile community dates, People First control and study/leave; verify Calvary contract and end, RSPCA terms/pay, CPSU transition and 2014–15 gap.
+- ING GALLAGHER, the Hon. Katherine (Katy) Ruth: blocked; last review2026-10-04. Follow-up: Identify exact Shop Rite/IGA store, legal payroll entity, dates and hours; early childcare employer/hours; reconcile community dates, People First control and study/leave; verify Calvary contract/end, RSPCA terms/pay, CPSU transition and2014–15gap.
 
 
 - BU8 LEIGH, the Hon. Dr Andrew Keith: blocked; last review2026-10-01. Follow-up: Firm-specific dates/hours; full CV and academic appointments/control; Treasury and Michigan secondment overlap; scholarships versus paid work; writing terms.
@@ -50,3 +50,17 @@
 - 144732: Materially enriched: NATSEM2009publication identifies company affiliation and UC acquisition disclosure shows ownership changeSeptember2009; exact payroll/control still unknown. BCS2016audit anchors presidency4October2016without inventing term.
 - 256136: Materially enriched: US Rangelands2022tax filing identifies officer role and reported compensation limits; own ebook confirms proceeds destination. Earlier Project Director employer, sports hours/leave and exact boundaries remain unresolved.
 - 276714: Materially enriched: public professional index dates Slough council2001–02 and describes service-improvement work; AFPA2004–07 senior industrial officer corroborates unresolved transition conflict. Hours, precise dates and part-time allocation remain unknown.
+
+
+## Active follow-up — 2026-10-04 08:00 Brisbane cycle, continuation 0
+
+- Attempt start: 2026-10-04T08:01:11+10:00. Latest checkpoint: 2026-10-04T10:10:00+10:00; end not yet observed.
+- This invocation completed SA and Tasmania follow-up work before advancing here in plan order. Starting ACT head: `47458bd761bec89b2d22dba8d565358e550160cd`; no active conflicting writer or intervening branch change observed. The previous day's accepted successor has no later branch commit evidence and remains execution unverified.
+- Current attempt/cycle/day:23 distinct member records processed,0 new initial,11 materially enriched existing,12 nonmaterial follow-ups,0 newly research-complete. Counts include only remotely verified member commits; checkpoint-only commits excluded.
+- Katy Gallagher: materially enriched — Gallagher's first-person description of checkout/shelf-stacking work is now paired with a local Canberra broadcaster's public indexed identification of the supermarket banner as Shop Rite, later an IGA. The exact store, legal employer, dates, ownership at the time and hours remain unknown; no full-time or sector total was inferred.
+- Member commit on this branch: `a883555b57f124eb26b565d5d3abc860d4e1e6b1`. Earlier verified member commits in this invocation are listed in the SA and Tasmania checkpoints; national counts are deduplicated by person ID.
+- National baseline remains226/226 initial records,226 unresolved,0 research-complete. ACT remains5/5 initial,5 unresolved,0 complete.
+- Durable next cursor: Andrew Leigh (BU8).
+- OUTCOME: ongoing. STOPPING REASON: none; continue after remote verification. No successor requested. Scheduler terminal status unavailable.
+- Validation: JSON parse, `career_batches.py --check` (226/13), `career_batches.py --batch act`, `build_careers.py` and `git diff --check` passed. Only the assigned member and this checkpoint were written on the ACT branch.
+- Recovered tool error: initial combined local-read/upload orchestration returned `exec-server transport disconnected`; no remote write occurred in that failed call. A subsequent ordinary read and single update succeeded and was remotely verified. Not a terminal error.
