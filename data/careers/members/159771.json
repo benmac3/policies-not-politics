@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/159771",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-02",
+  "last_reviewed": "2026-10-03",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -60,7 +60,7 @@
     },
     {
       "spell_id": "159771-electorate-officer",
-      "employer": "Unidentified federal parliamentary electorate office",
+      "employer": "Office of Mark Latham MP (federal electorate office; payroll entity unresolved)",
       "role": "Electorate officer",
       "start_date": "1995",
       "end_date": "1999",
@@ -75,9 +75,10 @@
         "src-snapshot",
         "src-aph-current",
         "src-eo-speech",
-        "src-wsahs-2001-oct2"
+        "src-wsahs-2001-oct2",
+        "src-afr-latham-oct3"
       ],
-      "evidence_note": "Parliament records electorate-officer work from 1995 to 1999, and Rowland later described it as one of her first and most important roles. The officeholder, jurisdiction, appointment dates, payroll title, hours and leave are unresolved. The2000–01 health-service biography identifies prior work advising a federal MP, resolving jurisdiction but not the officeholder.",
+      "evidence_note": "Parliament records electorate-officer work from 1995 to 1999, and Rowland later described it as one of her first and most important roles. A contemporary Australian Financial Review author description identifies her as a member of Mark Latham's staff across the same 1995–1999 interval; combined with the official electorate-officer classification and federal-MP description, this resolves the officeholder and jurisdiction. Exact appointment dates, payroll entity/title, hours, leave and whether every part of the interval was based in the electorate office remain unresolved.",
       "counting_note": "Political-staff employment is excluded under the codebook."
     },
     {
@@ -518,6 +519,16 @@
       "note": "Self-reported presidency October2021–July2024; law-firm interval repeats2000–2010 without hours.",
       "retrieved": "2026-10-02",
       "source_id": "src-linkedin-oct2"
+    },
+    {
+      "url": "https://www.afr.com/politics/labor-must-stop-dodging-and-start-taking-action-20041014-jkjo0",
+      "publisher": "Australian Financial Review",
+      "title": "Labor must stop dodging and start taking action",
+      "source_type": "news",
+      "locator": "14 October 2004 indexed author description",
+      "note": "Contemporary author description identifies Rowland as a member of Mark Latham's staff from 1995 to 1999. Direct article retrieval returned HTTP 403; the indexed description is retained with the official Parliament chronology rather than used to infer dates or hours independently.",
+      "retrieved": "2026-10-03",
+      "source_id": "src-afr-latham-oct3"
     }
   ],
   "research_notes": [
@@ -529,6 +540,7 @@
     "Searched employer/alumni references, supermarket names, electorate-officer identity, ordinary full-time hours, historical FTO/Screen NSW/Communities annual reports and public profiles. No reliable supermarket name, employing parliamentarian, NRMA business unit, private-employment hours or leave found. Namesake profiles and other workers’ hours excluded.",
     "Next leads: NSW appointment gazettes and Premier’s Council membership reports, legal practice personnel records and contemporaneous electorate-office staff lists. Chair scheduled term through 2011 conflicts only if mistaken for actual tenure; do not extend service. Pooled director remuneration is not an individual salary.",
     "Source access: NSW Parliament PDFs exposed indexed primary text but later page/screenshot retrieval returned HTTP500 redirect errors; government-data mirror timed out. Communities NSW financial statements remained readable and retirement entry was recovered. No term start back-calculated from nominal three-year appointment.",
-    "Second follow-up2October2026: health-service annual report materially narrows governance appointment and prior federal adviser/NRMA unit, plus LLM chronology; self-reported NSW Labor presidency added separately. Searches of supermarket identity,1996 university dates, electorate officeholder and NRMA full-time evidence did not resolve employer, hours or leave. Same-name medical alumni, beauty-business and US legal profiles excluded. Academic author-biography lead remains for qualification timing; party and board posts do not establish paid full-time service. Exact employment dates and overlaps remain priority gaps."
+    "Second follow-up2October2026: health-service annual report materially narrows governance appointment and prior federal adviser/NRMA unit, plus LLM chronology; self-reported NSW Labor presidency added separately. Searches of supermarket identity,1996 university dates, electorate officeholder and NRMA full-time evidence did not resolve employer, hours or leave. Same-name medical alumni, beauty-business and US legal profiles excluded. Academic author-biography lead remains for qualification timing; party and board posts do not establish paid full-time service. Exact employment dates and overlaps remain priority gaps.",
+    "Third follow-up3October2026 resolves Mark Latham MP as the federal officeholder for the1995–1999 staff interval by combining the official electorate-officer chronology, the contemporaneous health-service reference to advising a federal MP and an AFR author description naming Latham. Exact appointment dates, payroll entity/title, hours, leave and whether the whole interval was electorate-office based remain unresolved. Searches did not identify the Blacktown supermarket or improve private-employment hours; no headline total changed."
   ]
 }
