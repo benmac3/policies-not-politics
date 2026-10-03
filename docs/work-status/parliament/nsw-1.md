@@ -285,9 +285,9 @@ Batch check passes: 226 assigned exactly once across 13 batches; nsw-1 assignmen
 
 ## Active follow-up — 2026-10-04 08:00 Brisbane cycle, continuation 0
 
-- Attempt start: 2026-10-04T08:01:11+10:00. Latest checkpoint: 2026-10-04T09:30:13+10:00; end not yet observed.
+- Attempt start: 2026-10-04T08:01:11+10:00. Latest checkpoint: 2026-10-04T09:31:25+10:00; end not yet observed.
 - This invocation completed SA, Tasmania, ACT and NT before returning to NSW-1 for the next nationwide unresolved pass. Starting NSW-1 head: `520647d3700bfb64b3c87cc48d04929130177f9a`; no active conflicting writer or intervening branch change observed.
-- Current attempt/cycle/day: 38 distinct member records processed, 0 new initial, 19 materially enriched existing, 19 nonmaterial follow-ups, 0 newly research-complete. Counts include only validated, committed and remotely verified member records; checkpoint-only commits excluded.
+- Current attempt/cycle/day: 39 distinct member records processed, 0 new initial, 19 materially enriched existing, 20 nonmaterial follow-ups, 0 newly research-complete. Counts include only validated, committed and remotely verified member records; checkpoint-only commits excluded.
 - Anthony Albanese (R36): nonmaterial follow-up — fresh targeted searches of Prime Minister, National Archives, Sydney University and parliamentary records corroborated existing facts but found no new bank separation date, appointment day, university-period job or additional full-time evidence. APH search returned a non-retryable robots.txt block. Broad bank-date avenues remain exhausted pending a personnel record.
 - Ashvini Ambihaipahar (315618): materially enriched — Fair Work Commission correspondence establishes AHA NSW Senior Lawyer activity on 15 August 2022; an employer newsletter supplies the first primary evidence that she was on leave from Vinnies by February 2025. Exact boundaries, hours and leave pay remain unresolved.
 - Tim Ayres (16913): nonmaterial follow-up — targeted ACTU/AMWU and exact-name searches did not locate a cadet cohort, host employer, appointment record or payroll evidence; the 1995 snippet remains insufficiently attributed. Recorded avenues are exhausted pending an individual record.
@@ -295,9 +295,10 @@ Batch check passes: 226 assigned exactly once across 13 batches; nsw-1 assignmen
 - Carol Berry (23497): nonmaterial follow-up — targeted Family Planning, Michael Organ, NDIA and campaign-leave searches repeated only the already recorded undated or campaign-context evidence; no payroll boundary, personal hours or leave date was established.
 - Nicolette Boele (26417): nonmaterial follow-up — CEFC, SEDA and Good Car Company searches repeated known biography/event evidence; no secondment, board appointment, resignation, hours or payroll record emerged.
 - Chris Bowen (DZS): materially enriched — official Fairfield council minutes provide an exact 5 October 1999 observation that Bowen was then mayor, narrowing evidence within the existing year-level term. The appointment and cessation days remain unresolved.
-- Member commits: `ca50397f0f669a6f600dfd49e82a4776cc252d89` (Albanese), `5d9ff1c93bd32e7050ed48d05d8669ef860877a8` (Ambihaipahar), `7e3c33f7db23324a760ffb56389a5896881c9c72` (Ayres), `690515613e0058d2a491e9e0c6c6f4ff4ccb281a` (Bell), `5c6792241e0b401bd5e4907374f66bd85fb8ca27` (Berry), `ef2374736f8330e1ceb8aa53e21150aa09cb680b` (Boele), `68ac65644e2448be79261332d57f95a6e7ac5e55` (Bowen).
+- Andrew Bragg (256063): nonmaterial follow-up — exact financial-crisis duty, Commonwealth appointment and Woolworths queries repeated known profile material without identifying an appointing office, payroll entity, hours or leave.
+- Member commits: `ca50397f0f669a6f600dfd49e82a4776cc252d89` (Albanese), `5d9ff1c93bd32e7050ed48d05d8669ef860877a8` (Ambihaipahar), `7e3c33f7db23324a760ffb56389a5896881c9c72` (Ayres), `690515613e0058d2a491e9e0c6c6f4ff4ccb281a` (Bell), `5c6792241e0b401bd5e4907374f66bd85fb8ca27` (Berry), `ef2374736f8330e1ceb8aa53e21150aa09cb680b` (Boele), `68ac65644e2448be79261332d57f95a6e7ac5e55` (Bowen), `35efe1a92319791ecde2b48f99ef2308b1fb1940` (Bragg).
 - National baseline remains 226/226 initial records, 226 unresolved, 0 research-complete. NSW-1 remains 20/20 initial, 20 unresolved, 0 complete.
-- Durable next cursor: Andrew Bragg (256063).
+- Durable next cursor: Tony Burke (DYW).
 - OUTCOME: ongoing. STOPPING REASON: none; continue after remote verification. No successor requested. Scheduler terminal status unavailable; predecessor successor execution unverified.
 - Validation: JSON parse, `career_batches.py --check` (226/13), `career_batches.py --batch nsw-1`, `build_careers.py` and `git diff --check` passed. Only the assigned member and this checkpoint were written on the NSW-1 branch.
 - Recovered source error: APH search emitted `Blocked by robots.txt` (non-retryable). Other official sources remained accessible; this did not terminate the run.
