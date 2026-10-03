@@ -6,7 +6,7 @@
   "snapshot_party": "The Nationals",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/249764",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-02",
+  "last_reviewed": "2026-10-03",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -104,11 +104,11 @@
     },
     {
       "spell_id": "249764-05",
-      "employer": "Parliamentary electorate office not identified",
+      "employer": "Office of Ken O'Dowd MP, Member for Flynn",
       "role": "Electorate officer",
-      "start_date": "2010",
-      "end_date": "2012",
-      "date_precision": "year",
+      "start_date": "2010-11",
+      "end_date": "2012-07",
+      "date_precision": "month",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "political_staff",
@@ -117,9 +117,11 @@
       "counting_status": "excluded",
       "source_ids": [
         "src-1",
-        "src-6"
+        "src-6",
+        "src-10",
+        "src-11"
       ],
-      "evidence_note": "Official parliamentary records list electorate-officer work from 2010 to 2012. The member or office, payroll employing authority, exact dates, hours, leave and overlap with candidacy and business ownership are not identified.",
+      "evidence_note": "Official parliamentary records list electorate-officer work from 2010 to 2012. A public professional profile supplies November 2010 to July 2012 month boundaries and names Parliament of Australia; an independent election guide identifies Landry as an electorate officer to Flynn MP Ken O'Dowd. These sources resolve the office and improve date precision but do not establish day boundaries, hours, leave, payroll employing authority or overlap with candidacy and business ownership.",
       "counting_note": "Political staff employment is excluded irrespective of public funding."
     },
     {
@@ -349,6 +351,26 @@
       "note": "School1975–1978; NAB22-year career and family-shop context. No employment hours or legal-entity proof.",
       "retrieved": "2026-10-02",
       "source_id": "src-9"
+    },
+    {
+      "url": "https://au.linkedin.com/in/michelle-landry-67710342",
+      "publisher": "Michelle Landry via LinkedIn",
+      "title": "Michelle Landry professional profile",
+      "source_type": "professional_profile",
+      "locator": "Public search-index excerpt, electorate-officer entry",
+      "note": "Public profile gives Parliament of Australia electorate-officer service from November 2010 to July 2012. It does not identify the member's office, hours, leave or payroll authority.",
+      "retrieved": "2026-10-03",
+      "source_id": "src-10"
+    },
+    {
+      "url": "https://pollbludger.net/fed2022/HR.htm?s=Capricornia",
+      "publisher": "The Poll Bludger",
+      "title": "Capricornia — Federal Election 2022",
+      "source_type": "news",
+      "locator": "Michelle Landry candidate profile",
+      "note": "Independent election guide identifies Landry as a former electorate officer to Flynn MP Ken O'Dowd; it does not supply dates, hours or leave.",
+      "retrieved": "2026-10-03",
+      "source_id": "src-11"
     }
   ],
   "research_notes": [
@@ -357,6 +379,7 @@
     "Identify the family construction business and separate small bookkeeping business legal entities, payroll/self-employment status, hours, clients, cessation and all overlaps.",
     "Identify the 2010–2012 electorate office and employing authority; obtain exact appointment, cessation, hours, leave and campaign arrangements.",
     "Follow up the Lucky Daniels casket-agency childhood/first-job reference and include it as employment only if dates, paid status and substantive work can be established.",
-    "2026-10-02 follow-up: primary first speech and official/alumni biographies reviewed; publicly indexed professional profile supplies laboratory name and conflicting1979start. Full LinkedIn page returned429 Too Many Requests; not retried. Added childhood family-work context without paid assumption and four explicit volunteer roles. Searches for electorate-office employer, construction entity and NAB workload did not resolve them; mentor/colleague acknowledgements are not employer proof. Investigate Dr TB Lynch historical laboratory records and1978/1979 discrepancy, not namesake US/Canadian profiles. No totals calculated."
+    "2026-10-02 follow-up: primary first speech and official/alumni biographies reviewed; publicly indexed professional profile supplies laboratory name and conflicting1979start. Full LinkedIn page returned429 Too Many Requests; not retried. Added childhood family-work context without paid assumption and four explicit volunteer roles. Searches for electorate-office employer, construction entity and NAB workload did not resolve them; mentor/colleague acknowledgements are not employer proof. Investigate Dr TB Lynch historical laboratory records and1978/1979 discrepancy, not namesake US/Canadian profiles. No totals calculated.",
+    "2026-10-03 follow-up: an independent election guide identifies the previously unnamed political employer as Flynn MP Ken O'Dowd, and Landry's public professional-profile index supplies November2010–July2012 month boundaries for the Parliament of Australia electorate-officer role. No day boundaries, hours, leave, payroll authority or business/campaign overlap inferred. Fresh pathology, NAB and construction-business searches did not resolve the remaining entity/control/workload gaps."
   ]
 }

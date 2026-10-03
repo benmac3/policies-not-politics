@@ -127,3 +127,12 @@ Batch coverage, record fields, dates, enums, source references, build_careers.lo
 - 264121: Materially enriched: kitchen assistant primary evidence, Griffith 2009 graduation, Joe Ludwig media contact May 2010, Maurice Blackburn Aug 2014–May 2019; unsupported boundaries removed. Next: Andrew Willcox.
 - 286535: Materially enriched: deferred Gatton study, adjacent-farm transition and deputy-mayor March 2013–March 2016; investment-work cutoff removed; entity leads retained. Next: Terry Young.
 - 201906: Materially enriched: Good Guys August 2001 start and competing January 2007 end; June 2016 Maroochydore principal evidence, ownership/work separation and entity leads. QLD-2 follow-up pass complete, all unresolved; next batch in plan order.
+
+## Active follow-up — 2026-10-03 12:00 Brisbane cycle, continuation 1
+
+- Attempt entered QLD-2 after remotely verified completion of the QLD-1 pass. QLD-2 processing started after branch reconciliation at remote head 93d901875bb94e66d8b1f28ab5fc559c53d5bcc0; no branch-head change or active writer was observed.
+- Starting national coverage: 226/226 initial records; 226 unresolved; 0 research-complete. Cycle totals after remote verification of this member: 0 new initial, 73 materially enriched existing, 0 newly research-complete; 94 distinct member records processed, including 21 nonmaterial follow-ups. Brisbane-day deduplicated cumulative: 0 new initial, 83 materially enriched existing, 0 newly research-complete.
+- Member 249764, Michelle Landry: an independent election guide identifies the previously unnamed electorate office as that of Flynn MP Ken O'Dowd, while Landry's public professional-profile index supplies November 2010–July 2012 month boundaries for the Parliament of Australia role. The sources do not establish day boundaries, hours, leave, payroll authority or overlaps with business and candidacy. Pathology control, NAB workload and construction/bookkeeping entities remain unresolved.
+- Next follow-up: 265585 LITTLEPROUD, the Hon. David Kelly. Continue QLD-2 sequentially.
+- OUTCOME: ongoing. STOPPING REASON: none; continue after remote verification. Successor not requested. Scheduler terminal status unavailable.
+- Validation: individual JSON/source/date/enums, `career_batches.py --check`, `career_batches.py --batch qld-2`, `build_careers.load_records()` and `git diff --check`; each substantive commit changes only its assigned member file and this checkpoint.
