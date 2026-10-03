@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/295588",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-02",
+  "last_reviewed": "2026-10-03",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -31,9 +31,10 @@
         "src-1",
         "src-2",
         "src-6",
-        "oct2-fabians"
+        "oct2-fabians",
+        "oct3-abc2011"
       ],
-      "evidence_note": "Official occupation plus public professional affiliation support academic work; first speech describes insecurity. No dated appointment or full-time evidence. Event-host2020 biography specifically identifies earlier lecturer role at Sydney University; dates/hours not given.",
+      "evidence_note": "Official occupation plus public professional affiliation support academic work; first speech describes insecurity. ABC reporting on17 November2011 identifies Garland as teaching gender and cultural studies at Sydney University, the earliest dated teaching observation found. A2020 event-host biography separately identifies an earlier lecturer role. These observations do not establish an appointment start/end, contract type or full-time hours.",
       "counting_note": "Not counted: dates and/or substantive full-time status are insufficiently evidenced; year labels are not exact boundaries."
     },
     {
@@ -113,9 +114,11 @@
         "src-1",
         "src-2",
         "src-5",
-        "oct2-fabians"
+        "oct2-fabians",
+        "oct3-vthc2018",
+        "oct3-senate2022"
       ],
-      "evidence_note": "Held role in 2019 and before federal entry; no verified appointment boundaries.",
+      "evidence_note": "Contemporaneous sources observe the assistant-secretary title from16 November2018 through a Senate committee witness list for3 February2022. These are earliest/latest observations, not appointment or cessation dates. A July2021 secondary item called her former assistant secretary while an Albanese release days later called her current; no unsupported end boundary is adopted.",
       "counting_note": "Outside the two employment headlines under the codebook; retained as career context."
     },
     {
@@ -276,6 +279,36 @@
       "note": "Author identifies NUW communications officer; contemporaneous extension of previously known January2015 observation, not start/end boundaries.",
       "retrieved": "2026-10-02",
       "source_id": "oct2-overland"
+    },
+    {
+      "url": "https://www.abc.net.au/religion/feminism-struggling-beneath-the-burden-of-beauty/10101006",
+      "publisher": "ABC Religion & Ethics",
+      "title": "Feminism struggling beneath the burden of beauty, 17 November 2011",
+      "source_type": "news",
+      "locator": "Paragraph identifying Carina Garland as teaching gender and cultural studies",
+      "note": "Dated observation of teaching at Sydney University; does not state contract boundaries or hours.",
+      "retrieved": "2026-10-03",
+      "source_id": "oct3-abc2011"
+    },
+    {
+      "url": "https://overland.org.au/2018/11/will-robots-bring-us-utopia-an-end-of-year-debate/",
+      "publisher": "Overland",
+      "title": "Will robots bring us utopia? An end-of-year debate, 16 November 2018",
+      "source_type": "other",
+      "locator": "Event description naming the chair",
+      "note": "Contemporaneously identifies Garland as Victorian Trades Hall assistant secretary; point observation only.",
+      "retrieved": "2026-10-03",
+      "source_id": "oct3-vthc2018"
+    },
+    {
+      "url": "https://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Job_Security/JobSecurity/Fourth_Interim_Report/section?id=committees%2Freportsen%2F024780%2F78795",
+      "publisher": "Australian Parliament",
+      "title": "Select Committee on Job Security, fourth interim report, Appendix 3",
+      "source_type": "government_record",
+      "locator": "3 February 2022 public-hearing witness list",
+      "note": "Lists Dr Carina Garland as Victorian Trades Hall Council assistant secretary, extending the latest verified role observation into2022.",
+      "retrieved": "2026-10-03",
+      "source_id": "oct3-senate2022"
     }
   ],
   "research_notes": [
@@ -284,6 +317,7 @@
     "Public LinkedIn profile returned 999; no access bypass attempted. No defensible headline total; unknown is not zero.",
     "Follow-up2026-10-02: primary2017/18 annual report identifies Young Workers Centre governance entry2018; added official ALP senior vice-presidency2016–2018; refined lecturer/electorate/NUW titles with host and author biographies.",
     "Targeted university, cultural-employer and union appointment searches did not identify other employers or academic contract dates/hours. Archaeologist, Transport for NSW and counselling-profile namesakes lack identity confirmation and are not imported.2018–2021 VTHC interval in derivative biographies still needs primary boundary evidence.",
+    "Follow-up2026-10-03: ABC reporting gives a dated17 November2011 observation of teaching at Sydney University. Contemporaneous records now bracket the VTHC assistant-secretary title from16 November2018 through3 February2022; these points supersede derivative2018–2021 summaries but are not treated as exact appointment boundaries.",
     "Next leads: archived Sydney departmental staff/course lists and employment biography; VTHC appointment/cessation records; first-person identification of insecure cultural-institution jobs. Parents medical practice and study scholarship are not inferred personal paid work. No headline total calculated."
   ]
 }
