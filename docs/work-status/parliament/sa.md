@@ -59,7 +59,7 @@
 - 315434 VENNING, Tom: blocked; last review2026-10-04. Follow-up: Corporate payroll entities and full-time status; transition-day overlaps; harvest leave; farm status/cessation; app and mentoring pay. Public professional-profile indexing now supplies month-level Capgemini, Deloitte, Accenture and NAB chronology.
 
 
-- 316818 WALKER, Charlotte Grace: blocked; last review2026-10-01. Follow-up: Childcare and insurance employer/dates/control; Drakes earlier operator; substantive hours and leave; MP/ASU exact boundaries.
+- 316818 WALKER, Charlotte Grace: blocked; last review2026-10-04. Follow-up: Childcare employer/dates/control and actual duties; Drakes earlier operator; substantive hours and leave; ASU exact boundaries. Bignell electorate-office service now narrowed to November2022–November2023.
 
 
 - 00AOU WONG, the Hon. Penelope (Penny) Ying-Yen: blocked; last review2026-10-01. Follow-up: Duncan and Hannon full-time status/payroll/entity/dates; union predecessor and part-time transition; 1994–1995 gap; possible separate CFMEU advisory role and leave.
@@ -173,10 +173,11 @@
 - Previous accepted successor after the 2026-10-03 16:00 cycle produced no later branch commit before this cycle's audit; execution remains unverified. No usage-limit error is inferred.
 - Starting branch heads: {"act":"47458bd761bec89b2d22dba8d565358e550160cd","nsw-1":"520647d3700bfb64b3c87cc48d04929130177f9a","nsw-2":"1dbd0a54132ccfa80ffd2d9e2795e98ac74670d3","nsw-3":"4a0f0eaa1d7429b83fd6d36eaeb3b373eaa329f4","nt":"95f257cdd7d00f1c66fe2166a9962a037a1f71b1","qld-1":"072443ff2b247db13f56ec7961c0a20386a52842","qld-2":"f57a6839f3c755423b1bf82e0b477e9baa9492cd","sa":"8779ac672b3f56fabf319de7fa8bb418c627ebd7","tas":"31e7c4ec65fd64d424fb124cd733dfd9f7249de3","vic-1":"13fb695affae02e8e18dc12ae8a395f2789493ca","vic-2":"a862743ac89fb34193ea38e4755ed5903a75252c","wa-1":"99ae324fa356378bbdd8698ba8a27725b069b09a","wa-2":"d368d4d1b2a61f70fd860c0b3bb7982c5a5ea880"}.
 - Starting national baseline: 226/226 initial records, 226 unresolved, 0 research-complete. Starting SA: 22/22 initial, 22 unresolved, 0 complete. No active conflicting writer or intervening branch change observed.
-- Current attempt/cycle/day: 2 distinct members processed, 0 new, 2 materially enriched existing, 0 nonmaterial follow-ups, 0 newly research-complete. Counts include only remotely verified member commits; checkpoint-only commits excluded.
+- Current attempt/cycle/day: 3 distinct members processed, 0 new, 3 materially enriched existing, 0 nonmaterial follow-ups, 0 newly research-complete. Counts include only remotely verified member commits; checkpoint-only commits excluded.
 - Marielle Smith: materially enriched — conference records place her with Transit Systems in September2013 and August2017, while Brookings forum proceedings independently identify her as Education Advisor, Office of Julia Gillard, in February2015. These are dated observations only; continuity, legal employer, payroll, hours, leave and exact endpoints remain unresolved and no headline years were inferred.
-- Member commits: `60b3ce00fb2a0b35f60c5e0dcdddefdf94f89117` and `b2a66cf99ac4562c29dabfa1ea6a089e6f7bc5a3`, remotely written; verification follows this checkpoint.
+- Member commits: `60b3ce00fb2a0b35f60c5e0dcdddefdf94f89117`, `b2a66cf99ac4562c29dabfa1ea6a089e6f7bc5a3` and `aff64a832aa856db06a5c67bd49f68b04c7a3f19`, remotely written; verification follows this checkpoint.
 - Tom Venning: materially enriched — public professional-profile indexing supplies month-level chronology for Capgemini (July2017–January2019, with promotion), Deloitte (February2019–May2022, with promotion), Accenture (May–November2022) and NAB (October2022–May2024). Overlapping display months, payroll entities, hours, leave and harvest breaks remain unresolved; no double-counting or headline total was inferred.
-- Durable next cursor: Charlotte Walker (316818).
+- Charlotte Walker: materially enriched — public professional-profile indexing narrows Leon Bignell electorate-office service to November2022–November2023; separate reporting supports a few-days-a-week arrangement. A secondary 2026 profile identifies the unresolved childcare work as administration, but employer, dates, hours and control remain unknown.
+- Durable next cursor: Penny Wong (00AOU).
 - OUTCOME: ongoing. STOPPING REASON: none; continue to next record after remote verification. No successor requested. Scheduler terminal status unavailable.
 - Validation: JSON parse, `career_batches.py --check` (226/13), `career_batches.py --batch sa`, `build_careers.py` and `git diff --check` passed. Only the assigned member and this checkpoint were written.
