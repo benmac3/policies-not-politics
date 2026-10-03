@@ -125,5 +125,10 @@ Detailed attempted avenues, discrepancies and remaining leads are preserved in e
 - Continuation: 0. Attempt started: 2026-10-03T16:24:14+10:00; WA-1 segment started after a remotely verified QLD-2 pass. Starting WA-1 head: 505f2725fd33e27ad23f177a1709a41ad0ee5105.
 - Starting national coverage: 226/226 initial, 226 unresolved, 0 research-complete. No active conflicting WA-1 writer or changed remote head observed.
 - Progress before WA-1: 15 distinct QLD-2 members processed (0 new, 8 materially enriched, 7 nonmaterial follow-ups, 0 newly complete), all remotely verified. Brisbane-day cumulative before this member: 0 new, 96 materially enriched, 0 newly complete.
-- Current cursor: Anne Aly (13050) researched; validate, commit and remotely verify before Slade Brockman (30484).
+- Current cursor: Slade Brockman (30484) researched after Anne Aly was remotely verified; validate, commit and remotely verify before Michaelia Cash (I0M).
 - OUTCOME: ongoing. STOPPING REASON: none; continue after remote verification. Successor not requested. Scheduler terminal status unavailable.
+
+### This cycle's member results
+
+- 13050 Anne Aly: materially enriched — official interests evidence fixes PaVE chair resignation at 6 August 2016 and documents separate ECU/Curtin adjunct affiliations after the substantive ECU professorship was relinquished before nomination. Exact university resignation date, pay, hours and government contracts remain unresolved.
+- 30484 Slade Brockman: nonmaterial follow-up — targeted 1998–2005 employer and AGC-contract searches produced no defensible new fact; attempted avenues and false-positive year fragments documented to prevent repetition.
