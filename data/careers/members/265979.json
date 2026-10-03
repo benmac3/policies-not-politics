@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/265979",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-03",
+  "last_reviewed": "2026-10-04",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -121,9 +121,10 @@
         "src-secondary",
         "src-own-bio",
         "src-interests48-oct2",
-        "src-interests46-oct2"
+        "src-interests46-oct2",
+        "src-interests45-oct4"
       ],
-      "evidence_note": "Campbelltown City Council says he moved to the region as a locum in the early 1980s and grew paediatric practices in Campbelltown and Camden; the secondary biography places establishment in 1984. Legal entities, opening/closing dates, hours, staff, ownership and allocation against public-hospital work are unresolved. Election is used only as an outer boundary, not proof of exact cessation. Follow-up removes the unsupported 2016 private-practice end field: election/public-hospital resignation does not prove private-business cessation. Earlier 2016 value was contextual only, not sourced closure evidence. The2025 primary interests statement identifies his directorship in Pebema P/L and describes it as a defunct medical-practice company, now a superannuation trustee. The2019 disclosure transcription already uses that description. This identifies a practice entity and provides a ceased-operation observation, not its incorporation, full operating interval or exact clinical cessation date. No assumption that Pebema operated throughout the1984-onwards career; end field remains null because exact closure unknown, not because practice is asserted ongoing.",
+      "evidence_note": "Campbelltown City Council says he moved to the region as a locum in the early1980s and grew paediatric practices in Campbelltown and Camden; the secondary biography places establishment in1984. Legal entities, opening/closing dates, hours, staff, ownership and allocation against public-hospital work are unresolved. Election is not treated as exact cessation: a public transcription of the45th Parliament interests return records Pebema P/L medical-practice-company income on27September2016, after the2July election. This proves an income observation, not personal clinical work or its duration. The2025 primary interests statement identifies his directorship in Pebema and describes it as a defunct medical-practice company, now a superannuation trustee; the2019 transcription already uses that description. These observations identify a practice entity and later ceased-operation condition, not incorporation, full operating interval or exact clinical cessation. No assumption that Pebema operated throughout the1984-onwards career; end remains null because exact closure is unknown.",
       "counting_note": "Private self-employment is supported, but hours, precise dates and overlap prevent an exact full-time total."
     },
     {
@@ -333,6 +334,16 @@
       "source_id": "src-abc-2017"
     },
     {
+      "url": "https://icacpls.github.io/interests/mike-freelander.html",
+      "publisher": "Open-source Register of Members' Interests transcription",
+      "title": "Mike Freelander — interests",
+      "source_type": "other",
+      "locator": "Other Income: Pebema P/L medical practice company, updated27September2016",
+      "note": "Public transcription of the45th Parliament disclosure records company income after election. It does not establish ongoing personal clinical hours, the income period or practice closure date.",
+      "retrieved": "2026-10-04",
+      "source_id": "src-interests45-oct4"
+    },
+    {
       "url": "https://interests-register-api-public.aph.gov.au/api/members/265979/statement/48",
       "publisher": "Australian Parliament",
       "title": "Michael Freelander statement of registrable interests, submitted19August2025",
@@ -383,7 +394,8 @@
     "Further leads: Royal North Shore/Royal Alexandra personnel or annual reports; Campbelltown head appointment evidence resolving 1986 versus 1990; private-practice legal entities and closure evidence; WSU appointment classification. Contemporary report describing post-election clinics as part time does not establish payment or pre-election FTE. Governance and teaching remain separate from clinical employment.",
     "Second follow-up2October2026 identifies Pebema as a former medical-practice company using the primary2025 disclosure and2019 transcription. Practice closure is evidenced as an existing condition, not assigned to election day or disclosure date. Directorship is separate from operational work.",
     "Targeted visiting-medical-officer, full-time, resignation and legal-entity searches did not establish clinical hours or a personnel resignation day. A2019 first-person newsletter independently confirms volunteer status. Original45P disclosure link was restricted in web reader; current public48P PDF downloaded successfully when the reader itself could not open it. ABR view failed; commercial registry search was not used to infer employment. Next priority: original2016–19 practice accounts/closure record, hospital employment appointment terms and early residency dates.",
-    "Follow-up3October2026: targeted Royal North Shore residency,1979, head-of-paediatrics1986, NSW Health1984 and Pebema cessation searches returned the already known residency sequence,1986 versus1990 conflict and practice-declaration lead. NHMRC and GP Link corroborate1986; ALP biography still gives1990. Repetition does not resolve the conflict or show individual hours. No new substantive employment fact added. Do not rerun these generic queries absent a personnel/annual-report or closure-document lead; current unresolved priorities unchanged."
+    "Follow-up3October2026: targeted Royal North Shore residency,1979, head-of-paediatrics1986, NSW Health1984 and Pebema cessation searches returned the already known residency sequence,1986 versus1990 conflict and practice-declaration lead. NHMRC and GP Link corroborate1986; ALP biography still gives1990. Repetition does not resolve the conflict or show individual hours. No new substantive employment fact added. Do not rerun these generic queries absent a personnel/annual-report or closure-document lead; current unresolved priorities unchanged.",
+    "Fourth follow-up4October2026 found a public transcription of the45th Parliament interests return recording Pebema P/L medical-practice-company income on27September2016. This materially confirms that election did not itself prove all private-practice income had ended, while not establishing post-election clinical work, hours, the income period or closure. Targeted original hospital/personnel and Pebema searches otherwise repeated the1986/1990 conflict and later defunct-company disclosures. Preserve the null practice endpoint and seek the original return or accounts before assigning a cessation date."
   ],
   "open_questions": [
     "What were the exact Children's Hospital training appointments, dates, hours and leave from 1978 to 1984?",
