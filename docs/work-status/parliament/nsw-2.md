@@ -244,3 +244,13 @@ Batch check passes: 226 assigned exactly once across 13 batches; nsw-2 assignmen
 - Next follow-up:nsw-3 first assigned member. Continue in plan order; blocked records remain unresolved.
 - OUTCOME:ongoing. STOPPING REASON:none; continue after remote verification. Successor not requested. Scheduler terminal status unavailable.
 - Validation:career_batches --check226/13 and --batch nsw-2; individual JSON/source/date/enums and build_careers.load_records. Only assigned member/checkpoint changed.
+
+## Active follow-up — 2026-10-04 08:00 Brisbane cycle, continuation 1
+
+- Attempt start: 2026-10-04T09:41:05+10:00; NSW-2 branch entered at 2026-10-04T10:10:00+10:00 after completing the NSW-1 round. Starting branch head: `1dbd0a5`. No intervening or conflicting branch update was observed.
+- This continuation across NSW-1 and NSW-2: 8 distinct records processed, 0 new initial, 2 materially enriched existing, 6 nonmaterial follow-ups, 0 newly research-complete. Cycle/day cumulative across continuations 0–1: 52 distinct records, 0 new, 22 materially enriched, 30 nonmaterial, 0 newly complete. Counts include only validated, committed and remotely verified member records; checkpoint-only commits excluded.
+- Mehreen Faruqi (250362): nonmaterial follow-up — exact SKM1998/1999, ERM2004, Macquarie University and full-time campaign searches repeated the existing chronology. An SBS2018 interview's Macquarie lecturer description lacks dates, appointment or employer corroboration and conflicts with the detailed affidavit's enumerated work history, so it remains an unassigned lead rather than a new spell. SKM hours/leave and campaign allocation remain unresolved.
+- National baseline remains 226/226 initial, 226 unresolved, 0 research-complete. NSW-2 remains 19/19 initial, 19 unresolved, 0 complete.
+- Durable next cursor: Michael Freeland (265979).
+- OUTCOME: ongoing. STOPPING REASON: none; continue after remote verification. No successor requested. Scheduler terminal status unavailable.
+- Validation: JSON parse, `career_batches.py --check` (226/13), `career_batches.py --batch nsw-2`, `build_careers.py` and `git diff --check` passed. Only the assigned member and this checkpoint are included.
