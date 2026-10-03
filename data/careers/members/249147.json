@@ -6,12 +6,12 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/249147",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-02",
+  "last_reviewed": "2026-10-03",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
     "calculation_status": "not_calculable",
-    "note": "Added Starick board 2005–2007, unpaid Armadale reference-group evidence and May 2007 resignation, inaugural Law Access chair context, and March 2011 Freehills commencement. Hours, employment classification and leave gaps remain; no headline total calculated."
+    "note": "Added Starick board 2005–2007, unpaid Armadale reference-group evidence and May 2007 resignation, inaugural Law Access chair context, and March 2011 Freehills commencement. A published delegate biography now establishes progression to Principal Federal Prosecutor and a corporate-crime remit. Hours, employment classification and leave gaps remain; no headline total calculated."
   },
   "career_spells": [
     {
@@ -112,7 +112,7 @@
     },
     {
       "employer": "Commonwealth Director of Public Prosecutions",
-      "role": "Prosecutor",
+      "role": "Prosecutor; later Principal Federal Prosecutor",
       "start_date": "2006",
       "end_date": "2011",
       "date_precision": "year",
@@ -124,9 +124,10 @@
       "counting_status": "insufficient_evidence",
       "source_ids": [
         "src-1",
-        "src-2"
+        "src-2",
+        "src-16"
       ],
-      "evidence_note": "Commonwealth agency prosecutor; hours, exact boundaries and leave not documented.",
+      "evidence_note": "Commonwealth agency prosecutor. A published Australia–India Youth Dialogue delegate biography identifies later progression to Principal Federal Prosecutor, focused on insider trading, market manipulation and directors' duties. Hours, exact appointment/promotion boundaries and leave are not documented; no month dates imported from aggregators.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "249147-06"
     },
@@ -481,6 +482,16 @@
       "note": "A Matthew Keogh is acting chief of staff while federal MP already in Parliament; flags risk of same-name attribution across historical staff lists.",
       "retrieved": "2026-10-02",
       "source_id": "src-15"
+    },
+    {
+      "url": "https://www.aiyd.org/s/AIYD-Report-2018_V8-1.pdf",
+      "publisher": "Australia India Youth Dialogue",
+      "title": "AIYD Report 2018",
+      "source_type": "professional_profile",
+      "locator": "Page 22, Matt Keogh delegate biography",
+      "note": "Published participant biography says Keogh became a Principal Federal Prosecutor focused on insider trading, market manipulation and breaches of directors' duties; it also distinguishes this role from later private litigation work.",
+      "retrieved": "2026-10-03",
+      "source_id": "src-16"
     }
   ],
   "research_notes": [
@@ -489,6 +500,7 @@
     "Check earlier Law Access reports for founding chair term and Street Law Centre/Starick governance leads. Public professional-history index supplied unverified month-level dates, not adopted without primary corroboration. Confirm other early work and career breaks; governance/service roles do not establish additional full-time employment.",
     "Follow-up 2026-10-02: primary own biography, 2018 Hansard, indexed ARA 2003/2007 government records and December 2015 Pro Bono Centre report enrich excluded governance and volunteer history. Freehills commencement narrowed to March 2011 from public professional entry; direct profile 999.",
     "Important identity caution: WA 2005/2006 Carpenter staff lists and 2017 MacTiernan acting-chief answer name Matthew Keogh. A separate government/resource-industry professional profile also exists. Neither ministerial lists nor Level 8/term-of-government status attributed to this MP without identity reconciliation; existing 2003–05 DPC role retained provisionally, no public years counted.",
-    "Law Access 2016/17 PDF timed out; indexed report identifies Adam Ebell as chair, so secondary aggregator claim Keogh chaired continuously December 2014–December 2017 is not accepted. 2017/18 director cessation remains supported. Street Law September 2013–July 2016 and CDPP October 2006–March 2011 aggregator ranges remain follow-up leads, not confirmed appointments. Next: original professional CV, employer records and Law Access/Street Law appointment reports."
+    "Law Access 2016/17 PDF timed out; indexed report identifies Adam Ebell as chair, so secondary aggregator claim Keogh chaired continuously December 2014–December 2017 is not accepted. 2017/18 director cessation remains supported. Street Law September 2013–July 2016 and CDPP October 2006–March 2011 aggregator ranges remain follow-up leads, not confirmed appointments.",
+    "Follow-up 2026-10-03: AIYD's published delegate biography establishes progression to Principal Federal Prosecutor and the corporate-crime subject matter, but not promotion month, hours or leave. Targeted CDPP, HSF, iiNet and public-profile searches did not supply primary appointment boundaries. WA parliamentary staff lists naming an older Matt Keogh include an ex-Builders Labourers Federation biography and therefore remain quarantined as a different person; they are not used to recategorise this MP's DPC spell. Next: original professional CV, employer records and Law Access/Street Law appointment reports."
   ]
 }
