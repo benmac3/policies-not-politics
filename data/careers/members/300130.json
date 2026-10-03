@@ -6,12 +6,12 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/300130",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-02",
+  "last_reviewed": "2026-10-03",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
     "calculation_status": "not_calculable",
-    "note": "Added public professional chronology, reported police sergeant title and August 2021 candidacy. Conflicting early dates and Malaysian business/Perth overlap retained; hours, security employer and campaign leave unresolved. Totals remain unknown."
+    "note": "Added Malaysian supply-business activities, a dated 2018 acting-sergeant role and first-person confirmation of the final WA Police division. Conflicting early dates and Malaysian business/Perth overlap remain; hours, security employer and campaign leave unresolved. Totals remain unknown."
   },
   "career_spells": [
     {
@@ -75,9 +75,10 @@
         "src-1",
         "src-2",
         "src-3",
-        "src-8"
+        "src-8",
+        "src-11"
       ],
-      "evidence_note": "Official aggregate business interval retained. Own account distinguishes supply/distribution then family cafe; individual entity intervals unresolved. This umbrella entry is not additive to cafe detail. Public profile instead lists self-employment in Malaysia December 1984–October 2005, materially earlier than official 29 February 1988 business start and overlapping own 2002 Perth cafe account. Retain competing chronologies; profile location cannot date migration or establish continuous work.",
+      "evidence_note": "Official aggregate business interval retained. A 2022 school publication describes a successful supply business distributing test-tube cleaners and cleaning chemicals across Malaysia, followed by management of several companies, but provides no entity names or dates. Own account distinguishes supply/distribution then family cafe; individual entity intervals remain unresolved. This umbrella entry is not additive to cafe detail. Public profile instead lists self-employment in Malaysia December 1984–October 2005, materially earlier than official 29 February 1988 business start and overlapping own 2002 Perth cafe account. Retain competing chronologies; profile location cannot date migration or establish continuous work.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "300130-03"
     },
@@ -122,7 +123,7 @@
     },
     {
       "employer": "Western Australia Police Force",
-      "role": "Police officer; senior constable; sergeant reported in public professional profile",
+      "role": "Police officer; senior constable; acting sergeant in 2018; sergeant reported in public professional profile",
       "start_date": "2006-11-06",
       "end_date": "2022-05-20",
       "date_precision": "day",
@@ -139,9 +140,11 @@
         "src-5",
         "src-6",
         "src-8",
-        "src-10"
+        "src-10",
+        "src-12",
+        "src-13"
       ],
-      "evidence_note": "Official exact tenure; includes academy entry versus later graduation distinction. Employer confirms2020–21 unit, but no individual full-time or leave history. Public profile labels Police Sergeant November 2006–May 2022. This is an aggregate career title, not evidence sergeant rank throughout; exact promotion date unknown. It corroborates endpoint months but supplies no employment-type label. Long hours of community outreach do not establish whole-tenure full-time status.",
+      "evidence_note": "Official exact tenure; includes academy entry versus later graduation distinction. A December 2018 policing journal identifies Community Liaison Coordinator Acting Sergeant Sam Lim in the Community Engagement Division; later employer records identify Senior Constable in 2020–21, so the acting title is only a dated point, not a permanent promotion. In a 2024 first-person speech he described the Community Engagement Division as his last position. Public profile labels Police Sergeant November 2006–May 2022, an aggregate career title rather than evidence of that rank throughout. No source establishes individual full-time or leave history; outreach workload does not prove whole-tenure full-time status.",
       "counting_note": "Exact employment dates alone do not establish substantive full-time duration. Hours, unpaid/campaign leave and academy terms unresolved; no public headline total calculated.",
       "spell_id": "300130-06"
     },
@@ -303,6 +306,36 @@
       "note": "Host account of police community outreach; does not establish formal FTE or leave interval.",
       "retrieved": "2026-10-02",
       "source_id": "src-10"
+    },
+    {
+      "url": "https://anyflip.com/gpceo/ngnz/basic",
+      "publisher": "St Andrew's School, Muar",
+      "title": "The Andrean 2022, edition 29",
+      "source_type": "other",
+      "locator": "Career profile; Sam Lim pages in indexed edition",
+      "note": "Describes four years at Johor Safari Park and a subsequent supply business for test-tube cleaners and cleaning chemicals operating across Malaysia, followed by management of several companies. It supplies activities, not entity names, dates or hours.",
+      "retrieved": "2026-10-03",
+      "source_id": "src-11"
+    },
+    {
+      "url": "https://www.nhwa.com.au/wp-content/uploads/2020/11/NHWA-Journal_December-2018.pdf",
+      "publisher": "Neighbourhood Watch Australasia",
+      "title": "NHWA Journal, December 2018",
+      "source_type": "primary_organisation",
+      "locator": "PDF p34, Creating a connection",
+      "note": "Contemporaneously identifies Community Engagement Division Community Liaison Coordinator Acting Sergeant Sam Lim and describes his Chinese-community liaison work.",
+      "retrieved": "2026-10-03",
+      "source_id": "src-12"
+    },
+    {
+      "url": "https://www.openaustralia.org.au/debate/?id=2024-08-19.150.1",
+      "publisher": "House Hansard via OpenAustralia",
+      "title": "Safer Communities Fund speech, 19 August 2024",
+      "source_type": "first_person",
+      "locator": "Sam Lim, 12:06 pm; opening paragraph",
+      "note": "First-person account of more than 15 years serving from Eucla to Karratha and Perth, with Community Engagement Division identified as his last WA Police position; no hours or leave stated.",
+      "retrieved": "2026-10-03",
+      "source_id": "src-13"
     }
   ],
   "research_notes": [
@@ -312,6 +345,7 @@
     "WA Police individual appointment/academy and substantive full-time evidence, leave/breaks including2022 campaign, and resignation/payroll boundaries still needed. Religious retreat is25days but dates unknown; do not subtract it from an invented interval or treat it as paid employment.",
     "Follow-up 2026-10-02: public professional profile indexed by search engine supplies previously missing month-level competing early chronology; direct LinkedIn returned 999, no access bypass. AMSA speaker biography and interview reviewed. Preserve frozen dates in structured fields with explicit competing dates in evidence notes; do not silently repair inconsistency.",
     "Searches for police unpaid/campaign leave, private security employer, Johor park operator and Perth cafe name found no attributable employer/control or full-time statement. Singapore No Signboard CEO Sam Lim Yong Sim and US technology/security profiles are different people; restaurant visits and staff resumes are not this MPs ownership history.",
-    "Next: original Malaysian constable/academy service dates, contemporaneous Johor park employment/operator records, separate business registration/operating intervals and original WA Police employment/leave evidence. Resolve 1984 versus 1988 business commencement and 2002 migration versus Malaysia-labelled profile ending October 2005."
+    "Next: original Malaysian constable/academy service dates, contemporaneous Johor park employment/operator records, separate business registration/operating intervals and original WA Police employment/leave evidence. Resolve 1984 versus 1988 business commencement and 2002 migration versus Malaysia-labelled profile ending October 2005.",
+    "Follow-up 2026-10-03: a 2022 school publication adds the Malaysian supply-business products and national operating scope but still no entity names or dates. A December 2018 policing journal establishes a dated acting-sergeant/community-liaison point, while later employer records revert to Senior Constable; do not convert the acting title into a continuous rank. A 2024 first-person speech identifies Community Engagement Division as the final WA Police position. Targeted searches still did not identify the 2005–06 security employer or defensibly link a current Cafe Denada to the family's 2002 cafe."
   ]
 }
