@@ -6,7 +6,7 @@
   "snapshot_party": "The Nationals",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/219646",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-02",
+  "last_reviewed": "2026-10-03",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -48,9 +48,10 @@
       "source_ids": [
         "src-snapshot",
         "src-cadet-fulltime",
-        "src-csu-archive"
+        "src-csu-archive",
+        "src-road-safety-1984"
       ],
-      "evidence_note": "Member chronology gives 1981 entry; first-person professional post explicitly calls the initial cadet job full-time. End of cadetship and leave unknown; status is not extended automatically to later positions.",
+      "evidence_note": "Member chronology gives 1981 entry; first-person professional post explicitly calls the initial cadet job full-time. A separate first-person article places him on a Daily Advertiser cadet-reporter shift in February 1984. This proves the cadet phase continued at least into that month, but does not establish its end, contracted hours beyond the already stated full-time status, or leave; status is not extended automatically to later positions.",
       "counting_note": "Full-time status supported for cadetship, but an unbounded interval cannot support a numerical duration.",
       "spell_id": "219646-daily-cadet"
     },
@@ -472,6 +473,16 @@
       "note": "Describes ground-announcing work while aged 16. Legal employer, remuneration, hours and exact dates unstated.",
       "retrieved": "2026-10-01",
       "source_id": "src-announcer-speech"
+    },
+    {
+      "url": "https://www.michaelmccormack.com.au/2021-1-10-road-safety-an-issue-always-at-front-of-mind/",
+      "publisher": "Michael McCormack MP",
+      "title": "Road safety an issue always at front of mind",
+      "source_type": "professional_profile",
+      "locator": "10 January 2021 article, paragraphs describing the February 1984 Brucedale crash and the author's Daily Advertiser shift",
+      "note": "First-person account identifies McCormack as a 19-year-old cadet reporter finishing a Daily Advertiser shift in February 1984. It establishes an observation within the cadet interval, not the cadetship endpoint or later full-time continuity.",
+      "retrieved": "2026-10-03",
+      "source_id": "src-road-safety-1984"
     }
   ],
   "research_notes": [
@@ -482,7 +493,8 @@
     "No private full-time total is calculated because exact boundaries, hours, leave and the substantive status of MSS remain unsupported.",
     "2026-10-01 follow-up separates explicitly full-time cadetship from the broader official reporter interval, adds the earlier ground-announcer role and four sporting organisation roles, and identifies MSS company/ABN history. Election day is removed as an unsupported business cessation date.",
     "Searched public professional posts, registry history, employer ownership archives, member career and first-speech material, exact newspaper entry/exit dates, business clients and dismissal reporting. Full-time evidence applies only to the initial cadetship. ABC’s original suspension page was inaccessible but its September 2003 settlement report was retrieved. An anniversary post with relative timestamp does not justify an exact start date. Unrelated namesakes and other workers’ full-time arrangements excluded.",
-    "Second follow-up2October2026: employer/cadetship, exact commencement, dismissal newsletters, company sale and client searches did not resolve cadetship completion, later full-time status or MSS cessation. The member’s general1991 editor wording is documented against the detailed acting/editor chronology; no new countable interval. UQ newspaper-history newsletters16/17 returned403 and were not retried. Public indexed snippets insufficient to identify exact suspension/dismissal dates. A15November1981 date in the member’s2020 sports interview dates league reorganisation, not his employment commencement. Relative forty-year anniversary remains insufficient for an exact start. No substantive new employment fact established; do not count this as materially enriched."
+    "Second follow-up2October2026: employer/cadetship, exact commencement, dismissal newsletters, company sale and client searches did not resolve cadetship completion, later full-time status or MSS cessation. The member’s general1991 editor wording is documented against the detailed acting/editor chronology; no new countable interval. UQ newspaper-history newsletters16/17 returned403 and were not retried. Public indexed snippets insufficient to identify exact suspension/dismissal dates. A15November1981 date in the member’s2020 sports interview dates league reorganisation, not his employment commencement. Relative forty-year anniversary remains insufficient for an exact start. No substantive new employment fact established; do not count this as materially enriched.",
+    "Third follow-up3October2026: first-person road-safety article places McCormack on a Daily Advertiser cadet-reporter shift in February1984, proving the cadet phase continued at least into that month. It does not resolve the cadetship end, later reporter/editor full-time status, leave or MSS boundaries, so the headline total remains null."
   ],
   "open_questions": [
     "What were the exact appointment and promotion dates, contracted hours and leave across the Daily Advertiser and Riverina Media Group roles?",
