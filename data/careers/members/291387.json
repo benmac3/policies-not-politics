@@ -6,12 +6,12 @@
   "snapshot_party": "Liberal Party of Australia",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/291387",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-02",
+  "last_reviewed": "2026-10-03",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
     "calculation_status": "not_calculable",
-    "note": "The official parliamentary biography supplies year-level boundaries for seven consecutive pre-parliament roles from 2007 to 2020, but does not establish substantive full-time status, leave, exact transition dates or overlaps. Earlier work for BHP, Alcan and Parsons Brinckerhoff is undated. Racing Queensland is public-controlled; the other commercial engineering employers are private, while CRC ORE was a nonprofit research collaboration. Missing evidence is not zero."
+    "note": "The official parliamentary biography supplies year-level boundaries for seven consecutive pre-parliament roles from 2007 to 2020, but does not establish substantive full-time status, leave, exact transition dates or overlaps. A contemporary late-2020 candidate profile confirms that Hamilton remained employed by CRC ORE as a project manager during the by-election campaign, but does not provide hours or a cessation date. Earlier work for BHP, Alcan and Parsons Brinckerhoff is undated. Racing Queensland is public-controlled; the other commercial engineering employers are private, while CRC ORE was a nonprofit research collaboration. Missing evidence is not zero."
   },
   "career_spells": [
     {
@@ -221,7 +221,7 @@
     {
       "spell_id": "291387-11",
       "employer": "CRC ORE Ltd (Cooperative Research Centre for Optimising Resource Extraction)",
-      "role": "Research Coordinator; program manager",
+      "role": "Research Coordinator; program/project manager",
       "start_date": "2019",
       "end_date": "2020",
       "date_precision": "year",
@@ -235,9 +235,10 @@
         "src-1",
         "src-6",
         "src-7",
-        "src-13"
+        "src-13",
+        "src-16"
       ],
-      "evidence_note": "The official biography gives a 2019-2020 Research Coordinator role. A CRC ORE project snapshot names Hamilton as program manager for work timed September 2019-December 2020. The industry-led nonprofit was funded by mining participants, researchers and the Australian Government; funding does not establish government control. Exact payroll dates, hours and leave are unavailable. Additional P2-008 snapshot names him as program manager. Its July2019–December2020 project schedule is not substituted for payroll dates or proof of continued work after election.",
+      "evidence_note": "The official biography gives a 2019-2020 Research Coordinator role. CRC ORE project snapshots name Hamilton as program manager for projects timed July/September 2019-December 2020. A contemporary late-2020 by-election profile says he was then currently employed by CRC ORE as a project manager, establishing continuing employment during the campaign but not an exact payroll end. The industry-led nonprofit was funded by mining participants, researchers and the Australian Government; funding does not establish government control. Exact appointment, cessation, hours and leave remain unavailable, and project schedules are not substituted for payroll dates or proof of service after election.",
       "counting_note": "Nonprofit research employment is excluded from the two-sector headline."
     },
     {
@@ -507,6 +508,16 @@
       "note": "Lists commercial clients, not additional payroll employers. No contact data used.",
       "retrieved": "2026-10-02",
       "source_id": "src-15"
+    },
+    {
+      "source_id": "src-16",
+      "url": "https://www.thechronicle.com.au/news/toowoomba/mining-engineer-family-man-who-is-groom-lnp-candidate-garth-hamilton/news-story/7a6d7d66ec4f3515a8bd7af787acdb2f",
+      "publisher": "The Chronicle",
+      "title": "Who is Groom LNP candidate Garth Hamilton?",
+      "retrieved": "2026-10-03",
+      "source_type": "news_report",
+      "locator": "Late-2020 candidate profile; current-employment description",
+      "note": "Contemporary by-election profile reports Hamilton was then employed as a project manager by CRC ORE. It establishes a late-2020 employment observation during the campaign, not hours, exact commencement or cessation."
     }
   ],
   "research_notes": [
@@ -514,6 +525,7 @@
     "Obtain exact appointment/cessation, substantive full-time status and leave evidence for the 2007-2020 official occupation sequence; year labels share transition years and must not be converted to exact boundaries.",
     "Resolve Define Construction ownership, paid status and workload, and any overlap with the 2016-2020 party positions.",
     "Confirm Racing Queensland payroll status/hours and CRC ORE legal employer, hours and cessation around the 2020 preselection and by-election campaign.",
-    "2026-10-02 follow-up: court evidence corroborates November2013 Argyle role; historical Racing Queensland report supports period-specific control; another CRC project snapshot confirms role without extending payroll dates. Added Spectator contribution, volunteering and childhood work-context rows. Muck Rack client list does not establish employment by each client. Searches for earlyBHP/Alcan/PB, Define legal identity and UQ dates found no reliable boundaries/hours; Assurity technology executive, Adaptimmune scientist and US alumni namesakes rejected. AustLII and federal-court judgment URLs returned Internal Error; public judgment reproduction accessible. Follow up original judgment/personnel documents, Define ABN/company history and writing remuneration; no totals inferred."
+    "2026-10-02 follow-up: court evidence corroborates November2013 Argyle role; historical Racing Queensland report supports period-specific control; another CRC project snapshot confirms role without extending payroll dates. Added Spectator contribution, volunteering and childhood work-context rows. Muck Rack client list does not establish employment by each client. Searches for earlyBHP/Alcan/PB, Define legal identity and UQ dates found no reliable boundaries/hours; Assurity technology executive, Adaptimmune scientist and US alumni namesakes rejected. AustLII and federal-court judgment URLs returned Internal Error; public judgment reproduction accessible. Follow up original judgment/personnel documents, Define ABN/company history and writing remuneration; no totals inferred.",
+    "2026-10-03 follow-up: a contemporary late-2020 candidate profile identifies current CRC ORE employment as project manager, proving that employment continued into the by-election campaign. This does not prove hours, exact cessation or employment after election. Fresh searches of BHP, Alcan, Parsons Brinckerhoff, Balfour Beatty, Buro Happold, Racing Queensland, Define Construction and UQ records found no additional person-specific primary dates or full-time evidence; multiple technology/logistics namesakes were excluded. Next: archived engineering directories, historical company filings for Define, and CRC ORE personnel/payroll material."
   ]
 }
