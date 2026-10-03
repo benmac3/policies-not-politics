@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/249224",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-02",
+  "last_reviewed": "2026-10-03",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -92,18 +92,19 @@
         "src-2",
         "src-3",
         "src-11",
-        "src-10"
+        "src-10",
+        "src-12"
       ],
-      "evidence_note": "Assistant-principal presence in 2008 attested; role boundaries unknown. Roles grouped to avoid double counting. Government institutional history establishes public control; exact departmental payroll name at personal appointment still unknown.2011–2014 school strategic plan cover names Ryan as Acting Principal, with blank date/signature fields. Not evidence she held role throughout plan or from its first day.",
+      "evidence_note": "Assistant-principal presence in2008 is attested. ABC News directly identified Ryan as Galvin Park's acting principal on22November2010; the2011–2014 school strategic-plan cover also names her in that role but has blank date/signature fields. These are dated observations, not appointment boundaries or evidence she held the role throughout the plan. Roles are grouped to avoid double counting. Government institutional history establishes public control; exact departmental payroll name, hours and transitions remain unknown.",
       "counting_note": "Dates, employer control and/or substantive full-time status remain insufficient for a duration calculation; unknown is not zero."
     },
     {
       "spell_id": "249224-05",
       "employer": "Moonee Ponds Central School / Moonee Ponds Primary School",
       "role": "Principal",
-      "start_date": null,
+      "start_date": "2012",
       "end_date": "2013",
-      "date_precision": "mixed",
+      "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "public_service",
@@ -115,9 +116,10 @@
         "src-2",
         "src-4",
         "src-5",
-        "src-6"
+        "src-6",
+        "src-13"
       ],
-      "evidence_note": "Public-school principal before election; 2013 name change established. Start, resignation date, leave and full-time terms unknown.",
+      "evidence_note": "Public-school principal before election; 2013 name change established. In a farewell report published5August2013 Ryan said she had spent 18 months at the school. Back-calculating that rounded statement supports an approximate early-2012 commencement and therefore a2012 start year only; it does not establish an exact appointment or resignation day, leave, or substantive full-time terms.",
       "counting_note": "Dates, employer control and/or substantive full-time status remain insufficient for a duration calculation; unknown is not zero."
     },
     {
@@ -309,6 +311,26 @@
       "note": "Government-school portfolio/departmental oversight and2011 roof collapse at former Galvin Park. Establishes historical public control, not personal payroll terms.",
       "retrieved": "2026-10-02",
       "source_id": "src-11"
+    },
+    {
+      "source_id": "src-12",
+      "url": "https://www.abc.net.au/news/2010-11-22/students-injured-at-end-of-year-function/2345662",
+      "publisher": "ABC News",
+      "title": "Students injured at end of year function",
+      "retrieved": "2026-10-03",
+      "source_type": "news",
+      "locator": "Report published22November2010; Galvin Park response",
+      "note": "Contemporaneously identifies Joanne Ryan as Galvin Park's acting principal. This is a role observation, not appointment-start, hours or leave evidence."
+    },
+    {
+      "source_id": "src-13",
+      "url": "https://www.heraldsun.com.au/leader/moonee-ponds-principal-joanne-ryan-farewells-students-to-contest-julia-gillards-lalor-seat/news-story/2a4cb7d457412c982eb63e26cf5fad30",
+      "publisher": "Moonee Valley Leader / Herald Sun",
+      "title": "Moonee Ponds principal Joanne Ryan farewells students to contest Julia Gillard's Lalor seat",
+      "retrieved": "2026-10-03",
+      "source_type": "news",
+      "locator": "Report published5August2013; Ryan quotation on tenure",
+      "note": "Ryan says she had an 'absolutely fantastic 18 months' at the school. Rounded duration supports an approximate early-2012 start year, not an exact appointment/resignation day or hours."
     }
   ],
   "research_notes": [
@@ -316,6 +338,7 @@
     "Reviewed 2026-09-29 APH, first speech, 2008 role recollection, own profile, contemporaneous ABC report, Victorian government school history, ABN history and Darwin school history. Targeted school annual-report and 2011/2012 searches did not produce personal appointment dates.",
     "Secondary accounts describe an 18-month principalship; do not back-calculate an exact start date without the underlying 2013 farewell report. APH says Central, speech says Primary: official 2013 name change resolves identity without creating two jobs.",
     "2008 role presence is not a start boundary. Job seniority and lengthy teaching descriptions do not prove continuous full-time service. Years/FTE remain unknown; no totals calculated. Last follow-up 2026-09-29; partial initial record.",
-    "2026-10-02 follow-up: added previously omitted packing/sales work from first speech. Government directory and departmental historical case study resolve public control of Laverton/Galvin Park;2011–14 strategic-plan cover supplies contemporary acting-principal evidence without tenure endpoints. Moonee Ponds farewell article found but direct open returned Failed to fetch restricted URL;18-month secondary claim remains unconverted. VRQA result naming Joanne Ryan concerns Lightning Reef Primary in Bendigo: identity unverified and not added. Next: early employers, departmental appointment/leave/hours records, Galvin transition and Moonee Ponds2012–13 annual reports. Dates/FTE/totals remain unknown; public classification is not full-time proof."
+    "2026-10-02 follow-up: added previously omitted packing/sales work from first speech. Government directory and departmental historical case study resolve public control of Laverton/Galvin Park;2011–14 strategic-plan cover supplies contemporary acting-principal evidence without tenure endpoints. Moonee Ponds farewell article found but direct open returned Failed to fetch restricted URL;18-month secondary claim remains unconverted. VRQA result naming Joanne Ryan concerns Lightning Reef Primary in Bendigo: identity unverified and not added. Next: early employers, departmental appointment/leave/hours records, Galvin transition and Moonee Ponds2012–13 annual reports. Dates/FTE/totals remain unknown; public classification is not full-time proof.",
+    "2026-10-03 follow-up recovered the original farewell report's indexed quotation: on5August2013 Ryan said she had spent18 months at Moonee Ponds. The rounded duration supports a2012 start year by explicit back-calculation (approximately early2012), but not a day/month boundary or full-time-hours inference. ABC News independently observes her as Galvin Park acting principal on22November2010, narrowing that leadership chronology without establishing appointment endpoints. Repeated Darwin, Laverton and departmental staffing searches did not establish appointment dates, hours, leave or exact payroll entities. Early packing/sales employers and teaching breaks remain unknown; no headline duration calculated."
   ]
 }
