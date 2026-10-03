@@ -6,12 +6,12 @@
   "snapshot_party": "Liberal Party of Australia",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/201906",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-02",
+  "last_reviewed": "2026-10-03",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
     "calculation_status": "not_calculable",
-    "note": "Additional primary club evidence places Young as Maroochydore principal by June 2016, conflicting with official 2018 franchisee start. Public professional profile narrows Good Guys start to August 2001 but gives January 2007 cessation versus official 2006. Governance, ownership and operational work require separation; hours and gaps remain unknown, totals null."
+    "note": "Additional primary club evidence places Young as Maroochydore principal byJune2016, conflicting with official2018 franchisee start. Public professional profile gives Good Guys managing director August2001–January2007 and separate Drummond director entries fromMay2007 at Maroochydore andJune2016 at West Gosford. Governance, ownership and operational work require separation; hours and gaps remain unknown, totals null."
   },
   "career_spells": [
     {
@@ -224,10 +224,10 @@
     {
       "spell_id": "201906-11",
       "employer": "The Good Guys, Morayfield",
-      "role": "Joint-venture partner",
+      "role": "Joint-venture partner and managing director",
       "start_date": "2001-08",
-      "end_date": "2006",
-      "date_precision": "mixed",
+      "end_date": "2007-01",
+      "date_precision": "month",
       "employment_status": "self_employed",
       "fte_fraction": null,
       "category": "private_enterprise",
@@ -241,7 +241,7 @@
         "src-4",
         "src-7"
       ],
-      "evidence_note": "The official biography gives 2001-06. Young's first speech says he opened the Morayfield franchise in 2001 and later sold it. The exact 2006 sale date, entity structure, workload and leave are not published; the 2000-01 transition is unresolved. Public professional index instead reports managing director August 2001–January 2007. Official 2001–2006 chronology preserved pending reconciliation of partnership sale versus directorship end; month start can be narrowed to August 2001 but cessation remains conflicting.",
+      "evidence_note": "The official biography gives joint-venture partnership from2001 to2006. Young's first speech says he opened the Morayfield franchise in2001 and later sold it. His public professional profile separately gives Managing Director fromAugust2001 toJanuary2007. The month-level professional-profile interval is retained while preserving the conflict: January2007 may reflect a directorship/payroll end after a2006 partnership sale. Exact sale and workdays, entity structure, workload and leave are not published; the2000–01 transition is unresolved.",
       "counting_note": "Private self-employment is supported, but substantive full-time status and exact boundaries are not sufficiently evidenced."
     },
     {
@@ -353,11 +353,11 @@
       "counting_note": "Federal elected office is excluded."
     },
     {
-      "employer": "Drummond Golf franchise business or businesses; legal entities unresolved",
-      "role": "Director / ownership interests distinct from operational franchise work",
-      "start_date": null,
+      "employer": "Drummond Golf, Maroochydore; legal entity unresolved",
+      "role": "Director / ownership interest distinct from operational franchise work",
+      "start_date": "2007-05",
       "end_date": null,
-      "date_precision": "unknown",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "private_enterprise",
@@ -370,9 +370,29 @@
         "src-8",
         "src-9"
       ],
-      "evidence_note": "Public profile contains director entries beginning May 2007 and June 2016, but store/entity allocation is incomplete; first speech confirms retained interests July 2019. Governance and ownership are not evidence of full-time employment. No additive duration or current appointment inferred.",
+      "evidence_note": "Young's public professional profile gives a Maroochydore Drummond Golf director entry fromMay2007 to present when retrieved3October2026. This conflicts with the official2018 franchisee start, while a club record identifies him as a Maroochydore principal byJune2016 and his first speech confirms retained interests inJuly2019. A profile's 'present' label, governance and ownership do not prove continuous operational work or full-time employment; legal entity, workload and any cessation remain unresolved.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "201906-17"
+    },
+    {
+      "employer": "Drummond Golf, West Gosford; legal entity unresolved",
+      "role": "Director / ownership interest distinct from operational franchise work",
+      "start_date": "2016-06",
+      "end_date": null,
+      "date_precision": "mixed",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "private_enterprise",
+      "headline_sector": "private",
+      "government_control_at_time": "private",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-4",
+        "src-7"
+      ],
+      "evidence_note": "Young's public professional profile gives a West Gosford Drummond Golf director entry fromJune2016 to present when retrieved3October2026. The official biography separately gives operational franchisee service in Gosford2016–2019, and the first speech confirms retained franchise interests inJuly2019. The current profile label and ownership/governance title do not establish continuous paid operational work, hours, leave or an employing entity.",
+      "counting_note": "Governance or ownership alone is not counted as full-time employment; no headline years calculated.",
+      "spell_id": "201906-18"
     }
   ],
   "sources": [
@@ -442,8 +462,8 @@
       "title": "Public professional profile",
       "source_type": "professional_profile",
       "locator": "Publicly indexed experience entries",
-      "note": "Good Guys managing director Aug 2001–Jan 2007; Drummond director entries May 2007–Present and Jun 2016–... visible. Direct retrieval 999; location/role grouping and currentness require verification.",
-      "retrieved": "2026-10-02",
+      "note": "Public profile gives Good Guys Managing Director August2001–January2007 at Morayfield, Drummond Golf director fromMay2007 at Maroochydore and another fromJune2016 at West Gosford. Present labels were visible when retrieved3October2026 but do not prove continuous paid operational work.",
+      "retrieved": "2026-10-03",
       "source_id": "src-7"
     },
     {
@@ -486,6 +506,7 @@
     "Obtain preselection/campaign leave and paid-status evidence for 2018-19 party activity.",
     "Follow-up 2026-10-02: reviewed public professional index, Maleny 2016 and Headland 2019 club sponsor/member reports and ABR business-name search. Added company-director/ownership evidence with unresolved store allocation; preserved official date conflicts.",
     "Priority follow-up: Good Guys partnership sale in 2006 versus director end January 2007; 2016 Maroochydore principal versus official 2018 start; determine May 2007 and June 2016 director entities, acquisitions and working hours. Current ABN 43 648 661 330 is not assumed to be the historical employer.",
-    "Searches for 2013–2015 work, Philips 1995 transition and explicit full-time status found no sufficiently attributable evidence. Namesake US realtor, police officer and academic results excluded. LinkedIn direct page returned 999 UnknownStatusCode; only publicly indexed dates used. TheOrg marks its record Unverified and is not relied on for new facts."
+    "Searches for2013–2015work,Philips1995transition and explicitfull-timestatus found no sufficiently attributable evidence. NamesakeUSrealtor,policeofficer andacademic results excluded. PublicLinkedIn experience snippets became accessible without authentication on3October2026; only visible dates/titles used. TheOrg marks its recordUnverified and is not relied on for new facts.",
+    "Follow-up2026-10-03: publicprofessionalprofile gives GoodGuysManagingDirector August2001–January2007, resolving the profile's month endpoint while preserving conflict with official2006 partnership end. It also separately identifies Drummond director entries fromMay2007 atMaroochydore andJune2016 atWestGosford. These governance/ownership entries are separated from official operational franchise spells; 'present' does not prove full-time work, and no additive years calculated."
   ]
 }
