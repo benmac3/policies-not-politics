@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/E5X",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-02",
+  "last_reviewed": "2026-10-04",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -75,7 +75,29 @@
       "spell_id": "E5X-03"
     },
     {
-      "employer": "Offices of two Tasmanian senators, identities unresolved in primary account",
+      "employer": "Office of Senator Shayne Murphy",
+      "role": "Electorate officer",
+      "start_date": "1997-05",
+      "end_date": "1997-05",
+      "date_precision": "month",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "political_staff",
+      "headline_sector": "excluded",
+      "government_control_at_time": "public",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-3",
+        "src-4",
+        "src-5",
+        "src-8"
+      ],
+      "evidence_note": "A public first-person account by a briefly employed May1997 coworker explicitly identifies Polley as Murphy's electorate officer. Month fields are an observation point only, not the full tenure; start, end, hours and leave remain unknown. This conflicts with the broad first-party statement that work for two senators occurred in the1980s.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "E5X-04"
+    },
+    {
+      "employer": "Office of another Tasmanian senator, identity unresolved",
       "role": "Political staff",
       "start_date": null,
       "end_date": null,
@@ -91,9 +113,9 @@
         "src-4",
         "src-5"
       ],
-      "evidence_note": "First-party biography says two senators in the 1980s. Wikipedia names Terry Aulich 1984–92 and Shayne Murphy 1995–98, but linked ABC text does not substantiate names or dates. Keep these as leads, not established boundaries.",
+      "evidence_note": "First-party biography says Polley worked for two Tasmanian senators. Murphy is now independently identified at a May1997 observation point; Terry Aulich remains only an attributed lead for the other office. Employer, title, dates, hours and leave remain unresolved.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
-      "spell_id": "E5X-04"
+      "spell_id": "E5X-12"
     },
     {
       "employer": "Office of Michael Field MHA",
@@ -310,6 +332,16 @@
       "note": "Partisan list describes Northern adviser to Bacon and cites 2003 ministerial staff listing and Examiner 5 May 2003. Useful archival lead, not independent hours evidence.",
       "retrieved": "2026-10-01",
       "source_id": "src-7"
+    },
+    {
+      "url": "https://vibrantnation.au/this-one-time-i-worked-beside-former-deputy-prime-minister/",
+      "publisher": "Paul Mallett / Vibrant Nation",
+      "title": "This one time when I worked beside a former Deputy Prime Minister for two days",
+      "source_type": "professional_profile",
+      "locator": "May1997 account, paragraphs describing the Shayne Murphy electorate office and Helen Polley",
+      "note": "First-person public account by a briefly employed coworker identifies Polley as Murphy's electorate officer in May1997. It supplies an observation point and role, not her tenure boundaries or hours.",
+      "retrieved": "2026-10-04",
+      "source_id": "src-8"
     }
   ],
   "research_notes": [
@@ -320,6 +352,7 @@
     "Live former personal biography returned 502 Bad Gateway, recovered through public archived page. Live old ABC link redirects to homepage; archived profile retrieved successfully. These source errors did not stop research.",
     "Follow up accessible first-speech transcript, 2003 ministerial staff listing, contemporary Field office and senator staff records; seek earlier finance/transport/manufacturing employers, substantive hours, employment breaks and study overlap. Broad profile searches exhausted for this initial pass; names needed for targeted employer annual reports.",
     "Follow-up2026-10-02(non-material): targeted2005first-speech text, TerryAulich/ShayneMurphy office history,2003ministerial staff listing and earlier manufacturing/finance/transport employment. APH-targeted search returned Blocked by robots.txt, non-retryable; no retry. Searches on Tasmanian parliamentary/DPAC domains did not surface the contemporary staff listing. TasmanianTimes2006entry repeats existing Northern adviser lead, not new primary proof.",
-    "Exact chronology results were Wikipedia mirrors, factsnippet and an unsourced contact-directory biography; excluded as independent corroboration. No new employer identity, term, full-time evidence or employment break resolved. Preserve sourced facts and uncertainties. Next follow-up requires accessible first speech or contemporary staff-list archive; defer repetitive broad searches until a new lead is available."
+    "Exact chronology results were Wikipedia mirrors, factsnippet and an unsourced contact-directory biography; excluded as independent corroboration. No new employer identity, term, full-time evidence or employment break resolved. Preserve sourced facts and uncertainties. Next follow-up requires accessible first speech or contemporary staff-list archive; defer repetitive broad searches until a new lead is available.",
+    "Follow-up2026-10-04: a public first-person account by Paul Mallett, briefly employed in Senator Shayne Murphy's Launceston office in May1997, identifies Polley as the office's electorate officer. This materially resolves one senator and role at one observation month, but does not prove the Wikipedia1995–98 tenure, hours or leave. The other senator remains unresolved; the broad archived biography's reference to two senators in the1980s conflicts with the1997 observation and is preserved rather than rewritten."
   ]
 }
