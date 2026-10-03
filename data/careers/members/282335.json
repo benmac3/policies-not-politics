@@ -6,7 +6,7 @@
   "snapshot_party": "Independent",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/282335",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-02",
+  "last_reviewed": "2026-10-03",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -91,28 +91,31 @@
       "counting_status": "insufficient_evidence",
       "source_ids": [
         "src-1",
-        "src-2"
+        "src-2",
+        "oct3-drh2015"
       ],
-      "evidence_note": "Academic appointment overlaps hospital roles, doctoral study and overseas affiliations. Paid FTE allocation/control assessment unavailable.",
+      "evidence_note": "Academic appointment overlaps hospital roles, doctoral study and overseas affiliations. University annual reports2015–2018 list Haines in one staff row as Senior Lecturer – Director Rural Health Academic Network, while the frozen roster uses Senior Research Fellow. The title variation is retained rather than silently harmonised; paid FTE allocation/control assessment unavailable.",
       "counting_note": "Not counted: dates and/or substantive full-time status are insufficiently evidenced; year labels are not exact boundaries."
     },
     {
       "spell_id": "282335-05",
-      "employer": "Rural Academic Health Network",
-      "role": "Director",
+      "employer": "University of Melbourne, Rural Health Academic Network",
+      "role": "Research coordinator; later director",
       "start_date": "2007",
       "end_date": "2019",
       "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
-      "category": "unknown",
+      "category": "university",
       "headline_sector": "unknown",
       "government_control_at_time": "unknown",
       "counting_status": "insufficient_evidence",
       "source_ids": [
-        "src-1"
+        "src-1",
+        "oct3-drh2015",
+        "oct3-rrh2012"
       ],
-      "evidence_note": "Official roster lists network directorship; employing entity is not established. It may overlap the university appointment and must not be independently summed without contract evidence.",
+      "evidence_note": "Official roster lists network directorship2007–2019. A2012 peer-reviewed article identifies Haines as the network's research coordinator at the University of Melbourne Rural Health Academic Centre; university annual reports2015–2018 list her as Senior Lecturer – Director Rural Health Academic Network in a single staff row. These establish the university host/employer context and title evolution, but not exact transition dates, contract fraction or a separate additive appointment. This spell must not be independently summed with the university appointment without contract evidence.",
       "counting_note": "Not counted: dates and/or substantive full-time status are insufficiently evidenced; year labels are not exact boundaries."
     },
     {
@@ -363,6 +366,26 @@
       "note": "Reports matron appointment at age26 and three years in job. Does not establish exact calendar boundaries.",
       "retrieved": "2026-10-02",
       "source_id": "oct2-firstspeech"
+    },
+    {
+      "url": "https://medicine.unimelb.edu.au/__data/assets/pdf_file/0005/2076926/DRH-Annual-Report-2015.pdf",
+      "publisher": "University of Melbourne, Department of Rural Health",
+      "title": "Department of Rural Health Annual Report2015",
+      "source_type": "employer",
+      "locator": "Staffing table, printed p30; corroborated by2016–2018 annual reports",
+      "note": "Lists Helen Haines in one University staff row as Senior Lecturer, Director Rural Health Academic Network, Wangaratta. Establishes institutional relationship and combined role presentation, not FTE or the exact title-transition date.",
+      "retrieved": "2026-10-03",
+      "source_id": "oct3-drh2015"
+    },
+    {
+      "url": "https://www.rrh.org.au/journal/article/2013",
+      "publisher": "Rural and Remote Health",
+      "title": "Thrombolysis for acute ST elevation myocardial infarction",
+      "source_type": "professional_profile",
+      "locator": "Author affiliation for Helen Haines; published8 June2012",
+      "note": "Identifies Haines as Rural Health Academic Network Research Co-ordinator at the University of Melbourne Rural Health Academic Centre, Wangaratta; a dated title observation, not an appointment boundary.",
+      "retrieved": "2026-10-03",
+      "source_id": "oct3-rrh2012"
     }
   ],
   "research_notes": [
@@ -372,6 +395,7 @@
     "Public professional-profile access returned 429; no bypass attempted. Three-decade career descriptions do not establish thirty full-time public-sector years.",
     "Follow-up2026-10-02: public research profile provides Karolinska fellowshipApril–November2014 and Melbourne research-methods lecturer affiliation fromSeptember2006. Uppsala research-associateFebruary2013 differs from official adjunct role2014–2019; retained as reconciliation gap rather than erasing facts.",
     "Employer historical report resolves Chiltern private community control; contemporaneous nonprofit status still needs constitution/annual report. First speech supplies age26 and three-year matron duration, not exact dates or FT. Do not back-calculate calendar boundaries from birthday or narrative sequence.",
+    "Follow-up2026-10-03: primary University annual reports2015–2018 identify Haines in a single staff row as Senior Lecturer – Director Rural Health Academic Network, resolving the network's University of Melbourne institutional context and showing that the academic/network roles must not be independently summed. A2012 peer-reviewed author affiliation records the earlier Research Co-ordinator title. Exact title-transition dates, contract fraction, leave and overlap with hospital work remain unknown.",
     "Next leads: historical Chiltern governing documents and staffing reports; Melbourne appointment/secondment and hospital joint-funding records; Uppsala title/contract changes; clinical appointment and leave chronology. Nursing training at St Vincent’s/Mercy remains study absent paid-employment evidence. Public research profile accessible; no authenticated profile collection used."
   ]
 }
