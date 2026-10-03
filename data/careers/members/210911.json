@@ -6,7 +6,7 @@
   "snapshot_party": "Liberal Party of Australia",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/210911",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-02",
+  "last_reviewed": "2026-10-03",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -233,6 +233,26 @@
       "counting_note": "Excluded from the two employment headlines under the codebook."
     },
     {
+      "spell_id": "210911-14",
+      "employer": "Liberal Party of Australia",
+      "role": "Federal candidate for Wannon",
+      "start_date": "2009",
+      "end_date": "2010",
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "party_organisation",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-1",
+        "src-8"
+      ],
+      "evidence_note": "Contemporary 13 November 2009 interview identifies Tehan as the Liberal candidate for Wannon; APH records election on 21 August 2010. This brackets political campaign activity only. Neither source establishes party employment, remuneration, hours or that candidacy filled the whole 2009-2010 interval.",
+      "counting_note": "Excluded party activity; candidacy is not treated as paid employment or used to fill the unresolved employment gap."
+    },
+    {
       "spell_id": "210911-12",
       "employer": "Parliament of Australia",
       "role": "Member for Wannon",
@@ -341,6 +361,16 @@
       "note": "Lists Master of Foreign Affairs and Trade1999. Graduation year is not enrolment duration or evidence of employment leave.",
       "retrieved": "2026-10-02",
       "source_id": "src-7"
+    },
+    {
+      "url": "https://www.mitchfifield.com/2009/11/transcript-abc-radio-south-west-victoria-13-november-2009/",
+      "publisher": "Senator Mitch Fifield / ABC Radio South West Victoria",
+      "title": "Transcript - ABC Radio South West Victoria",
+      "source_type": "primary_source",
+      "locator": "13 November 2009 transcript, opening answer",
+      "note": "Contemporary interview identifies Tehan as Liberal candidate for Wannon. It does not say whether campaign activity was paid or identify concurrent employment.",
+      "retrieved": "2026-10-03",
+      "source_id": "src-8"
     }
   ],
   "research_notes": [
@@ -348,6 +378,7 @@
     "Reviewed APH, two government biographies and maiden speech on 2026-09-29. First speech adds overseas/student work not represented in short occupation list. Three nights per week supports part-time coding only; no FTE estimated.",
     "A third party's existing public FOI request was inspected read-only: thread is marked refused and shows June decision/July internal-review correspondence. It supplies no disclosed personnel evidence here; requested date range is not proof of actual employment. No new FOI, contact or outreach initiated.",
     "Year-only intervals and possible adjacent-year gaps are preserved. Do not count farm upbringing as employment or extend DFAT years from the FOI question. Last follow-up 2026-09-29; initial record remains unresolved.",
-    "2026-10-02 follow-up: contemporary government Ramsar delegation report independently identifies second-secretary role in May1999; Monash confirms1999 qualification year. Targeted DFAT/annual-report/gazette and farm-work searches did not resolve hours, leave, exact posting boundaries or farm/bar employers. ABC2019 Wannon profile search result describes two years Danish agricultural exchange, whereas first speech describes a year out; do not convert either into dated tenure without reconciliation. Additional public archives-request thread https://www.righttoknow.org.au/request/archives_act_access_request_dan could not be fetched (DisabledError); no personnel disclosure established, applicant assertions not adopted. Next: contemporary DFAT appointment/separation instruments,1999 study overlap,2001–02 transition and2009–10 work. No duration calculated."
+    "2026-10-02 follow-up: contemporary government Ramsar delegation report independently identifies second-secretary role in May1999; Monash confirms1999 qualification year. Targeted DFAT/annual-report/gazette and farm-work searches did not resolve hours, leave, exact posting boundaries or farm/bar employers. ABC2019 Wannon profile search result describes two years Danish agricultural exchange, whereas first speech describes a year out; do not convert either into dated tenure without reconciliation. Additional public archives-request thread https://www.righttoknow.org.au/request/archives_act_access_request_dan could not be fetched (DisabledError); no personnel disclosure established, applicant assertions not adopted. Next: contemporary DFAT appointment/separation instruments,1999 study overlap,2001–02 transition and2009–10 work. No duration calculated.",
+    "2026-10-03 follow-up: a contemporaneous 13 November 2009 ABC Radio transcript identifies Tehan as Liberal candidate for Wannon before his 21 August 2010 election. The campaign interval is recorded as excluded party activity so it is not mistaken for paid employment; no source establishes remuneration, hours or concurrent work. Fresh searches of DFAT/posting, ACCI, ministerial-office and Wannon campaign material did not resolve DFAT full-time terms, exact 2001-2002 transition, party-role endpoint, or any paid 2009-2010 employment. Candidacy is evidence of activity, not evidence of unemployment or a job. Next: DFAT appointment/separation instruments and archived Liberal Victoria or campaign payroll records. No duration calculated."
   ]
 }
