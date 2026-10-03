@@ -6,7 +6,7 @@
   "snapshot_party": "Independent",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/280304",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-02",
+  "last_reviewed": "2026-10-03",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -74,8 +74,8 @@
     },
     {
       "spell_id": "280304-04",
-      "employer": "Children’s services employer unidentified",
-      "role": "Worker",
+      "employer": "Yappera Children’s Service Co-Operative Ltd",
+      "role": "Cook",
       "start_date": null,
       "end_date": null,
       "date_precision": "unknown",
@@ -86,9 +86,11 @@
       "government_control_at_time": "unknown",
       "counting_status": "insufficient_evidence",
       "source_ids": [
-        "src-3"
+        "src-3",
+        "src-10",
+        "src-11"
       ],
-      "evidence_note": "Official role listing; dates/hours/control incomplete.",
+      "evidence_note": "First-person Senate statement identifies Yappera and cook duties at age17, materially resolving the employer and role. With an18August1973 birth date, age17 corresponds to18August1990–17August1991, but the statement supplies no appointment day, duration, hours or leave; that age window is not encoded as employment boundaries. Yappera says it opened in1981 and is now a not-for-profit Aboriginal Community Controlled Organisation, but current status is not assumed to prove historical control.",
       "counting_note": "Dates, employer control and/or substantive full-time status remain insufficient for a duration calculation; unknown is not zero."
     },
     {
@@ -105,9 +107,10 @@
       "government_control_at_time": "public",
       "counting_status": "insufficient_evidence",
       "source_ids": [
-        "src-2"
+        "src-2",
+        "src-12"
       ],
-      "evidence_note": "Commonwealth service identified; historical department and appointment dates unknown.",
+      "evidence_note": "Commonwealth service identified. A2018 profile says Thorpe resigned after the Welfare to Work policy was introduced, adding transition context but not a precise cessation date, role title, hours or leave. Historical employing department and appointment dates remain unknown.",
       "counting_note": "Dates, employer control and/or substantive full-time status remain insufficient for a duration calculation; unknown is not zero."
     },
     {
@@ -555,6 +558,36 @@
       "note": "Contemporary employer confirmation of Indigenous Rights Lead role.",
       "retrieved": "2026-10-02",
       "source_id": "src-9"
+    },
+    {
+      "url": "https://www.openaustralia.org.au/senate/?id=2024-11-26.294.1",
+      "publisher": "OpenAustralia Foundation, reproducing Australian Senate Hansard",
+      "title": "Wage Justice for Early Childhood Education and Care Workers Bill debate,26November2024",
+      "source_type": "parliament",
+      "locator": "Lidia Thorpe speech,9:21pm, paragraph at9:32pm",
+      "note": "First-person statement: she was the cook at Yappera Children's Services when17. The linked official ParlInfo transcript returned403, so the accessible Hansard reproduction is retained.",
+      "retrieved": "2026-10-03",
+      "source_id": "src-10"
+    },
+    {
+      "url": "https://yappera.com.au/about/",
+      "publisher": "Yappera Children’s Service Co-Operative Ltd",
+      "title": "About Yappera",
+      "source_type": "employer",
+      "locator": "Opening and organisation paragraphs",
+      "note": "Gives legal name,1981 opening and current not-for-profit Aboriginal Community Controlled Organisation status; current governance is not treated as proof of1990–1991 historical control.",
+      "retrieved": "2026-10-03",
+      "source_id": "src-11"
+    },
+    {
+      "url": "https://indigenousx.com.au/daniel-james-lidia-thorpe-member-for-northcote/",
+      "publisher": "IndigenousX",
+      "title": "Lidia Thorpe, Member for Northcote",
+      "source_type": "reliable_secondary",
+      "locator": "Opening paragraph",
+      "note": "Reports that Thorpe resigned from Centrelink after the Welfare to Work policy was introduced; no appointment or cessation date is supplied.",
+      "retrieved": "2026-10-03",
+      "source_id": "src-12"
     }
   ],
   "research_notes": [
@@ -562,6 +595,7 @@
     "Reviewed 2026-09-29: APH, own profile, fellowship profile, Victorian former-member page and MAV 2012/13 report. MAV p35 lists Thorpe as Aboriginal Employment Adviser; p36 says grant-funded group had ten full-time and ten part-time staff. No individual allocation is given.",
     "MAV is statutorily incorporated under the Municipal Association Act 1907, but statute and government grants alone do not settle control/sector. Keep unresolved pending governance/control analysis. Own-business experience is attested but not mapped conclusively to every named directorship.",
     "Victoria's official page gives 19 December 2018 end, distinct from election-loss day; retain sourced date and do not infer earnings through it. Frozen federal roster party and start retained. No political views or controversies used as career evidence. Last follow-up 2026-09-29; unresolved initial record.",
-    "2026-10-02 follow-up: co-authored report adds omitted advisory clients and Greens commission; do not sum concurrent engagements. Seven-year funeral-service account has no calendar/FTE bounds. Appointment reporting confirms OurWatch work and provides Amnesty2020 snapshot, with APH2019 start retained. Targeted council/MAV hours and early-employer searches still leave FTE, control, dates and contractual entities unresolved.2019 candidate booklet yielded indexed funeral-service lead but subsequent retrieval redirected to Gellung Warl homepage; insufficient to resolve legal employer. Full-time wording in senator-office job advertisements describes staff vacancies, not Thorpe. Next: original consulting contracts/entity, MAV individual appointment/control evidence and early employment chronology; no years calculated."
+    "2026-10-02 follow-up: co-authored report adds omitted advisory clients and Greens commission; do not sum concurrent engagements. Seven-year funeral-service account has no calendar/FTE bounds. Appointment reporting confirms OurWatch work and provides Amnesty2020 snapshot, with APH2019 start retained. Targeted council/MAV hours and early-employer searches still leave FTE, control, dates and contractual entities unresolved.2019 candidate booklet yielded indexed funeral-service lead but subsequent retrieval redirected to Gellung Warl homepage; insufficient to resolve legal employer. Full-time wording in senator-office job advertisements describes staff vacancies, not Thorpe. Next: original consulting contracts/entity, MAV individual appointment/control evidence and early employment chronology; no years calculated.",
+    "2026-10-03 follow-up materially resolves the previously unidentified children's-services job: Thorpe told the Senate she was Yappera's cook at17. Her known birth date gives an age window of18August1990–17August1991, but no appointment boundaries, duration or hours, so dates remain unknown and no FTE is inferred. Employer material confirms Yappera opened in1981 and is now an Aboriginal-controlled nonprofit; current control is not back-cast. A2018 profile says she resigned from Centrelink after Welfare to Work was introduced, but the wording cannot establish a precise cessation date or full-time status. Official ParlInfo retrieval returned403; the accessible OpenAustralia Hansard reproduction was used. Searches did not resolve Koori, health, funeral, Lake Tyers, council or MAV individual terms, consulting entities or overlaps. Next: historical Yappera/early-employer records, Centrelink appointment and cessation evidence, and MAV/council personnel records. No duration calculated."
   ]
 }
