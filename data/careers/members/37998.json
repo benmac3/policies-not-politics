@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/37998",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-02",
+  "last_reviewed": "2026-10-03",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -163,9 +163,10 @@
       "counting_status": "insufficient_evidence",
       "source_ids": [
         "src-1",
-        "src-3"
+        "src-3",
+        "src-14"
       ],
-      "evidence_note": "Professional contributor biography expands employer name. Commercial PR consultancy work is private enterprise despite political clients. Legal employer, exact dates, hours and breaks remain unknown; title alone not full-time evidence.",
+      "evidence_note": "Professional contributor biography expands employer name and general-manager title. Reporting on contemporaneous ICAC-tendered file notes places Chalmers in CPR employment in June 2007 and identifies lobbying work for Australian Water Holdings concerning Queensland expansion. Commercial PR consultancy work is private enterprise despite political clients. Legal employer, exact start/end dates, hours and breaks remain unknown; title alone is not full-time evidence.",
       "counting_note": "Dates, employer control and/or substantive full-time status remain insufficient for a duration calculation; unknown is not zero."
     },
     {
@@ -499,6 +500,16 @@
       "note": "Two Griffith advisory memberships and Georgetown advisory membership are listed; snapshot, not appointment or cessation dates.",
       "retrieved": "2026-10-02",
       "source_id": "src-13"
+    },
+    {
+      "source_id": "src-14",
+      "url": "https://www.theguardian.com/world/2014/mar/27/michael-costa-says-pole-dancing-among-expenses-claimed-by-awh-staff",
+      "publisher": "The Guardian Australia",
+      "title": "Pole dancing among expenses claimed by AWH staff",
+      "retrieved": "2026-10-03",
+      "source_type": "news",
+      "locator": "Paragraphs on ICAC-tendered June 2007 file notes and CPR employment",
+      "note": "Reports that June 2007 file notes identified Chalmers as then employed by CPR and recommended for Australian Water Holdings lobbying in Queensland. The original exhibit was not located; no exact employment boundary or hours inferred."
     }
   ],
   "research_notes": [
@@ -507,6 +518,7 @@
     "Full-time Chifley evidence is preserved even though role is excluded. Do not classify party-affiliated think-tank employment as commercial private enterprise or ministerial staff as ordinary public service. Earlier Queensland role has explicit first-person public-service confirmation. Titles at CPR and universities cannot substitute for hours evidence.",
     "ANU/Canberra tutoring may overlap study and each other; never add whole calendar years per employer. APH's year-only transitions cannot be treated as contiguous full years. Third teaching institution remains unidentified. Publications and author profiles establish writing activity but not a separately verified paid full-time writing occupation; publisher contract/royalty evidence remains a follow-up lead.",
     "Retain unknown public/private totals; no zero, prorating or inflated whole-year arithmetic. No historical annual report located in targeted searches resolved individual hours. Generic claims that he never worked privately are contradicted by the documented CPR role, but that does not establish its duration or full-time status.",
-    "2026-10-02 follow-up: added university-confirmed1999 Griffith and2004 ANU study completion and two distinct Griffith advisory roles documented in2023. Targeted CPR/June2007, ICAC exhibits, university tutoring and thesis searches did not establish individual hours, leave, full employment boundaries or third teaching employer. ANU repository item b582da33-8f37-402d-83e2-9b437bcd2fb6 and full metadata returned (403) Forbidden, so thesis acknowledgements not inspected. Guardian27March2014 article is a lead to June2007 CPR file notes; original ICAC exhibit not located and no date boundary changed. Orkney/acupuncture tutor namesakes excluded. Next useful avenues: publicly accessible thesis acknowledgements,2001 university appointment records and original CPR employer documentation; preserve earlier gaps and null totals."
+    "2026-10-02 follow-up: added university-confirmed1999 Griffith and2004 ANU study completion and two distinct Griffith advisory roles documented in2023. Targeted CPR/June2007, ICAC exhibits, university tutoring and thesis searches did not establish individual hours, leave, full employment boundaries or third teaching employer. ANU repository item b582da33-8f37-402d-83e2-9b437bcd2fb6 and full metadata returned (403) Forbidden, so thesis acknowledgements not inspected. Guardian27March2014 article is a lead to June2007 CPR file notes; original ICAC exhibit not located and no date boundary changed. Orkney/acupuncture tutor namesakes excluded. Next useful avenues: publicly accessible thesis acknowledgements,2001 university appointment records and original CPR employer documentation; preserve earlier gaps and null totals.",
+    "2026-10-03 follow-up: coded the Guardian's report of ICAC-tendered file notes as a dated June 2007 CPR employment observation and evidence of Australian Water Holdings lobbying duties. This improves the private-sector spell without treating a client assignment as a separate employer or inferring full-time status. Searches of ICAC, NSW Parliament, university biographies and thesis/tutoring references did not locate the original exhibit, the unidentified third teaching institution, appointment hours or exact CPR-to-Swan transition. A social-media snippet naming different universities conflicts with APH and was not adopted."
   ]
 }
