@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/298840",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-02",
+  "last_reviewed": "2026-10-03",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -58,7 +58,7 @@
       "counting_note": "No duration is counted without an identified employing entity, bounded dates and substantive full-time evidence."
     },
     {
-      "employer": "Double R Equipment Repairs (legal payroll entity unresolved)",
+      "employer": "Double R Pty Ltd trading as Double R Equipment Repairs (payroll entity unresolved)",
       "role": "Line borer; helped establish line-boring division",
       "start_date": "2010",
       "end_date": "2011",
@@ -71,7 +71,8 @@
       "counting_status": "insufficient_evidence",
       "source_ids": [
         "src-coalface-2019",
-        "src-coalface-2024"
+        "src-coalface-2024",
+        "src-double-r-abr"
       ],
       "evidence_note": "In the 2019 first-person interview he dates entry to 2010 and subsequent Rio Tinto commencement to late 2011. End year follows that described job transition, not a precise last working day; overlap and leave unresolved. The 2024 profile independently names both Tefol and Double R.",
       "counting_note": "Year-level boundaries and unknown ordinary hours do not support an exact full-time total.",
@@ -105,7 +106,7 @@
     },
     {
       "spell_id": "298840-double-r",
-      "employer": "Double R Equipment Repairs",
+      "employer": "Double R Pty Ltd trading as Double R Equipment Repairs (payroll entity unresolved)",
       "role": "Hunter Valley branch manager, Singleton then Rutherford",
       "start_date": "2017-12",
       "end_date": "2021-12",
@@ -124,9 +125,11 @@
         "src-abc-2022",
         "src-coalface-2019",
         "src-coalface-2024",
-        "src-shooting-work"
+        "src-shooting-work",
+        "src-double-r-abr",
+        "src-linkedin-index-oct3"
       ],
-      "evidence_note": "The frozen Parliamentary Handbook records manager work from December 2017 to December 2021. Repacholi says Double R founder Rusty Russell recruited him at the end of 2017 to manage a new Singleton engineering shop and describes growth from about 15 to more than 70 employees over four years. Double R's employer site corroborates its private machinery-sales, repairs and engineering business. Exact appointment and cessation days, hours, leave and any campaign-related reduction are unresolved. The 2019 first-person interview identifies the branch-manager title and relocation to Rutherford; September 2017 is the branch opening, not his proven appointment month. Shooting Australia confirms work at Rutherford by July 2020 and training outside work, without ordinary hours or leave terms.",
+      "evidence_note": "The frozen Parliamentary Handbook records manager work from December 2017 to December 2021. Repacholi says Double R founder Rusty Russell recruited him at the end of 2017 to manage a new Singleton engineering shop and describes growth from about 15 to more than 70 employees over four years. The ABR identifies the private Australian company Double R Pty Ltd as operator of the registered Double R Equipment Repairs business name from 16 May 2014; that establishes the operating entity, not Repacholi's personal payroll company. Exact appointment and cessation days, hours, leave and any campaign-related reduction are unresolved. The 2019 first-person interview identifies the branch-manager title and relocation to Rutherford; September 2017 is the branch opening, not his proven appointment month. Shooting Australia confirms work at Rutherford by July 2020 and training outside work, without ordinary hours or leave terms. A publicly indexed LinkedIn profile displays October 2017 to 'Present'; its start conflicts with the frozen December 2017 record and its stale open-ended display conflicts with the documented December 2021 end, so neither boundary is adopted.",
       "counting_note": "Month boundaries and employer classification are supported, but the manager title and four-year narrative do not independently prove substantive full-time hours throughout the interval."
     },
     {
@@ -423,6 +426,26 @@
       "note": "Repacholi distinguishes himself and two other direct full-time Rio Tinto workers from two labour-hire colleagues. Later contractor-pay testimony is another speaker’s experience and is not attributed to him.",
       "retrieved": "2026-10-02",
       "source_id": "src-direct-employment-oct2"
+    },
+    {
+      "url": "https://abr.business.gov.au/ABN/View/61116529938",
+      "publisher": "Australian Business Register",
+      "title": "Current details for ABN 61 116 529 938",
+      "source_type": "government_record",
+      "locator": "Entity name, entity type and business-name table",
+      "note": "Identifies Double R Pty Ltd as an Australian private company and records Double R Equipment Repairs as its registered business name from 16 May 2014. Registration does not by itself prove Repacholi's payroll entity or employment dates.",
+      "retrieved": "2026-10-03",
+      "source_id": "src-double-r-abr"
+    },
+    {
+      "url": "https://au.linkedin.com/in/dan-repacholi-5bb604153",
+      "publisher": "LinkedIn / Dan Repacholi",
+      "title": "Dan Repacholi — publicly indexed profile",
+      "source_type": "professional_profile",
+      "locator": "Public search-index experience excerpt: Hunter Valley Branch Manager, Double R Equipment Repairs",
+      "note": "Public index displays October 2017 to 'Present'. Direct open was denied by robots.txt. The start conflicts with the frozen December 2017 record and the stale open end conflicts with documented December 2021 cessation; retained only as a discrepancy and lead, not an adopted boundary.",
+      "retrieved": "2026-10-03",
+      "source_id": "src-linkedin-index-oct3"
     }
   ],
   "research_notes": [
@@ -434,6 +457,7 @@
     "Searched trade-press historical interviews, public professional profile, employer and sporting-body records, apprenticeship/full-time terms and historical mine-acquisition accounts. A 5:50 daily start in the interview is not a normal weekly-hours statement. No reliable apprenticeship dates, ordinary Double R hours, sporting paid-leave arrangements or January–May 2022 employment found.",
     "Resolve the 2019 six-year and later seven-year mine narratives using personnel records. Preserve December 2017 frozen cessation and branch-opening versus appointment distinction. Obtain precise payroll identity across 1 September 2017 before splitting private versus state-controlled service. Yancoal is not presumed privately controlled merely because listed. No shared methodology changed.",
     "Follow-up leads: Tefol and Double R historical staff material, employment disclosures and appointment records, Rio Tinto/Coal & Allied transfer documents, union delegate release terms and podcast remuneration. The 2019 trade PDF direct open returned content-length error 14983779; indexed first-person passage available, issue date/page still needs direct verification.",
-    "Second follow-up2October2026 resolves direct Rio Tinto employment versus labour hire for the period recalled in a government transcript and records explicit unpaid-leave evidence overlooked in the earlier sporting source. Do not attribute the separate speaker’s contractor salary/lack-of-entitlement account to Repacholi. Unpaid leave and sporting retirements prevent assuming uninterrupted work or sport; exact dates/employer allocation remain necessary for calculations. Targeted apprenticeship, Rodwell, Tefol, Double R and public-profile searches did not resolve ordinary hours or exact boundaries. Mine acquisition/control caveats remain. No headline years changed."
+    "Second follow-up2October2026 resolves direct Rio Tinto employment versus labour hire for the period recalled in a government transcript and records explicit unpaid-leave evidence overlooked in the earlier sporting source. Do not attribute the separate speaker’s contractor salary/lack-of-entitlement account to Repacholi. Unpaid leave and sporting retirements prevent assuming uninterrupted work or sport; exact dates/employer allocation remain necessary for calculations. Targeted apprenticeship, Rodwell, Tefol, Double R and public-profile searches did not resolve ordinary hours or exact boundaries. Mine acquisition/control caveats remain. No headline years changed.",
+    "Third follow-up3October2026 identifies Double R Pty Ltd as the private entity operating the Double R Equipment Repairs business name before the documented manager spell. This improves employer identity but does not prove the personal payroll contract. A legitimately public LinkedIn search-index excerpt reports Hunter Valley Branch Manager from October2017 to 'Present'; because this conflicts with the frozen December2017–December2021 history and appears stale, it is recorded as a discrepancy only. No hours, leave, campaign reduction, mine-transfer payroll allocation or exact employment boundary was resolved; headline totals remain null."
   ]
 }
