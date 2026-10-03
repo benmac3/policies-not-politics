@@ -6,7 +6,7 @@
   "snapshot_party": "Independent",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/297660",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-02",
+  "last_reviewed": "2026-10-03",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -287,8 +287,8 @@
       "employer": "Royal Children’s Hospital, Melbourne",
       "role": "Neurology director",
       "start_date": "2015",
-      "end_date": "2021",
-      "date_precision": "year",
+      "end_date": "2021-12",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "public_service",
@@ -298,9 +298,10 @@
       "source_ids": [
         "src-3",
         "src-5",
-        "src-6"
+        "src-6",
+        "src-8"
       ],
-      "evidence_note": "CV leadership dates; occupational endpoint conflict retained in notes. September2022 report Personal Details expressly states RCH resignation in late2021. This confirms2021 employment endpoint at year precision; APH’s neurologist2003–2022 is a broader occupation description, not sufficient to extend RCH payroll.",
+      "evidence_note": "CV leadership dates; occupational endpoint conflict retained in notes. September2022 report Personal Details expressly states RCH resignation in late2021. Ryan's campaign newsletter indexed23December2021 says she took her last RCH clinic 'yesterday' after resigning, supporting a December2021 endpoint. Last clinic is not assumed to be the exact payroll/contract day. APH’s neurologist2003–2022 is a broader occupation description, not sufficient to extend RCH payroll.",
       "counting_note": "Dates, employer control and/or substantive full-time status remain insufficient for a duration calculation; unknown is not zero."
     },
     {
@@ -308,8 +309,8 @@
       "employer": "Royal Children’s Hospital, Melbourne",
       "role": "Neuromuscular clinic head",
       "start_date": "2008",
-      "end_date": "2021",
-      "date_precision": "year",
+      "end_date": "2021-12",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "public_service",
@@ -319,9 +320,10 @@
       "source_ids": [
         "src-3",
         "src-6",
-        "src-7"
+        "src-7",
+        "src-8"
       ],
-      "evidence_note": "Concurrent clinical leadership; no separate counted duration. Same2012 staff document describes full-time neuromuscular clinic work, overlapping senior staff specialist appointment, not a second full-time job.",
+      "evidence_note": "Concurrent clinical leadership; no separate counted duration. Same2012 staff document describes full-time neuromuscular clinic work, overlapping senior staff specialist appointment, not a second full-time job. Campaign archive dates the last RCH clinic to22December2021 by explicit 'yesterday' calculation from its23December index; December is retained as the endpoint month without treating clinic day as exact contract cessation.",
       "counting_note": "Dates, employer control and/or substantive full-time status remain insufficient for a duration calculation; unknown is not zero."
     },
     {
@@ -491,6 +493,16 @@
       "note": "Explicit full-time description of Ryan as neuromuscular clinic neurologist. Text and page screenshot inspected; adjacent colleagues’ hours not attributed to her. Snapshot does not prove status throughout2006–2015.",
       "retrieved": "2026-10-02",
       "source_id": "src-7"
+    },
+    {
+      "source_id": "src-8",
+      "url": "https://www.moniqueryan.com.au/weekly_update",
+      "publisher": "Monique Ryan for Kooyong",
+      "title": "Weekly Update",
+      "retrieved": "2026-10-03",
+      "source_type": "official_biography",
+      "locator": "Paragraph beginning 'Yesterday, Monique took her last clinic'; newsletter index dates update23December2021",
+      "note": "Campaign page says Ryan took her last RCH clinic the previous day and had resigned; archive index dates the update23December2021, making the clinic observation22December2021. This establishes a December exit month, not an exact payroll or contract day."
     }
   ],
   "research_notes": [
@@ -498,6 +510,7 @@
     "Reviewed both inquiry CVs, official biography, own career statements and RCH Foundation profile on 2026-09-29. These are public professional evidence; no medical opinions or patient facts were copied. The updated CV search found no full-time wording.",
     "The CVs give overlapping training, academic and hospital appointments. Generic evidence notes refer to source locators; no title is treated as FTE proof. Clinical training is retained as potential employment, not automatically unpaid study. No duration calculated.",
     "The updated CV also lists journal editing, grant review, teaching and professional governance. Their remuneration and employing relationships need follow-up; they are not automatically independent employment spells. Ongoing marks in an old CV are not extrapolated to the frozen 2026 snapshot. Last follow-up 2026-09-29; unresolved initial record.",
-    "2026-10-02 follow-up: found explicit individual full-time RCH description in6February2012 orientation notes, visually verified onp.2. No extension across all2006–2015/2008–2021 years or duplicate hours across clinic/staff roles. Re-read public inquiry professional appendix: late2021 RCH/MCRI resignation and honorary Monash professorship resolve earlier ambiguities. A2022 fellowship advert names Ryan as supervisor but its full-time wording describes the advertised fellow, not Ryan. Westmead2005 annual-report dataset download returned404; historical control/payroll for early hospitals and US fellowships still needs primary annual reports. Next: adjacent-year RCH staff lists/appointment and leave changes, early hospital annual reports, US fellowship contracts and private/expert work terms. No full-time years yet calculable; patient/case detail not retained."
+    "2026-10-02 follow-up: found explicit individual full-time RCH description in6February2012 orientation notes, visually verified onp.2. No extension across all2006–2015/2008–2021 years or duplicate hours across clinic/staff roles. Re-read public inquiry professional appendix: late2021 RCH/MCRI resignation and honorary Monash professorship resolve earlier ambiguities. A2022 fellowship advert names Ryan as supervisor but its full-time wording describes the advertised fellow, not Ryan. Westmead2005 annual-report dataset download returned404; historical control/payroll for early hospitals and US fellowships still needs primary annual reports. Next: adjacent-year RCH staff lists/appointment and leave changes, early hospital annual reports, US fellowship contracts and private/expert work terms. No full-time years yet calculable; patient/case detail not retained.",
+    "2026-10-03 follow-up: Ryan's own campaign archive dates its Weekly Update to23December2021 and says she took her last RCH clinic 'yesterday' after resigning. The explicit date calculation places the final clinic on22December2021 and materially narrows the RCH endpoint to December2021. The record stores month precision because a last clinical session is not necessarily the contract/payroll cessation day. A16January2022 first-person update independently says she took a short break after resigning; no intervening paid role is inferred. RCH full-time status remains directly evidenced only on6February2012; leave, FTE changes, early hospital control/payroll and US fellowship terms remain unresolved, so no duration calculation."
   ]
 }
