@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/282212",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-02",
+  "last_reviewed": "2026-10-03",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -30,9 +30,10 @@
       "source_ids": [
         "src-1",
         "src-2",
-        "src-5"
+        "src-5",
+        "src-11"
       ],
-      "evidence_note": "Official year range; Commonwealth public broadcaster. No hours, leave or transition dates established.",
+      "evidence_note": "Official year range; Commonwealth public broadcaster. ABC News credits Thwaites for television reporting on27October2008, providing a late-year employment observation. No exact departure day, hours or leave established.",
       "counting_note": "Dates, employer control and/or substantive full-time status remain insufficient for a duration calculation; unknown is not zero."
     },
     {
@@ -51,9 +52,10 @@
       "source_ids": [
         "src-1",
         "src-4",
-        "src-5"
+        "src-5",
+        "src-12"
       ],
-      "evidence_note": "Charitable employer is separate from private enterprise under codebook; contemporaneous employer contact corroborates role.",
+      "evidence_note": "Charitable employer is separate from private enterprise under codebook. Oxfam directly lists Thwaites as its media contact on19December2008, bracketing the ABC-to-Oxfam transition after the ABC's27October credit without proving either contractual boundary, hours or leave.",
       "counting_note": "Excluded from the two employment headlines under the codebook."
     },
     {
@@ -300,6 +302,26 @@
       "note": "Accessible published extract supports community-radio work and leave; article timestamp differs from official speech date, so use parliamentary date.",
       "retrieved": "2026-10-02",
       "source_id": "src-10"
+    },
+    {
+      "url": "https://www.abc.net.au/news/2008-10-27/minister-says-yarra-river-is-healthy/183358",
+      "publisher": "ABC News",
+      "title": "Minister says Yarra River is healthy",
+      "source_type": "employer",
+      "locator": "Image credit and publication timestamp",
+      "note": "ABC TV credit names Kate Thwaites on27October2008. It is a dated work observation, not a contract endpoint or hours record.",
+      "retrieved": "2026-10-03",
+      "source_id": "src-11"
+    },
+    {
+      "url": "https://www.oxfam.org.au/media-releases/urgent-action-needed-to-help-millions-of-zimbabweans-facing-growing-crisis/",
+      "publisher": "Oxfam Australia",
+      "title": "Urgent action needed to help millions of Zimbabweans facing growing crisis",
+      "source_type": "employer",
+      "locator": "19December2008 release, media contact",
+      "note": "Employer release lists Kate Thwaites as media contact, providing a dated Oxfam observation soon after her final located ABC credit.",
+      "retrieved": "2026-10-03",
+      "source_id": "src-12"
     }
   ],
   "research_notes": [
@@ -308,6 +330,7 @@
     "The 2016 chart names Assistant Director, Reform Communications and the 2017 yearbook names Assistant Director, Portfolio Communications; these refine a single departmental spell, not two additive jobs. A newer mental-health nurse named Kate Thwaites is a namesake and was not conflated.",
     "A first-speech search result says she now worked full time while her partner worked three days. That describes her elected-office arrangement in 2019 and does not prove earlier employment hours. Direct APH first-speech fetch returned 403; no access controls bypassed. Personal-site fetch timed out.",
     "Year-only ranges and same-year transitions cannot be summed as exact elapsed full-time years. No missing period or hours is assigned zero. Last follow-up 2026-09-29; retain blocked status until substantive hours, gaps and date evidence can be resolved.",
-    "2026-10-02 follow-up: public professional profile resolves CPR Jun2014–Jul2015, NDIA Jul–Nov2015 and DHHS Nov2015–Mar2019; employer anniversary post and contemporary Enero ownership report independently corroborate private business. First speech adds omitted2002 community-radio work and nine months partly unpaid maternity leave; exact leave interval unresolved and no deduction invented. No direct LinkedIn retry after earlier cycle429; public search index used. Own-site timeout, APH restricted fetch and AustralianPolitics verification screen were source gaps; accessible published extract/index used. Next:2013–Jun2014 chronology,2002 radio/ABC boundary,CPR/NDIA exact transitions,individual FTE and leave; yoga teaching remains qualification-only. All durations null."
+    "2026-10-02 follow-up: public professional profile resolves CPR Jun2014–Jul2015, NDIA Jul–Nov2015 and DHHS Nov2015–Mar2019; employer anniversary post and contemporary Enero ownership report independently corroborate private business. First speech adds omitted2002 community-radio work and nine months partly unpaid maternity leave; exact leave interval unresolved and no deduction invented. No direct LinkedIn retry after earlier cycle429; public search index used. Own-site timeout, APH restricted fetch and AustralianPolitics verification screen were source gaps; accessible published extract/index used. Next:2013–Jun2014 chronology,2002 radio/ABC boundary,CPR/NDIA exact transitions,individual FTE and leave; yoga teaching remains qualification-only. All durations null.",
+    "2026-10-03 follow-up materially narrows the ABC-to-Oxfam transition: ABC News credits Thwaites for television reporting on27October2008, while an Oxfam employer release lists her as media contact on19December2008. These observations bracket the switch within late2008 but do not establish departure/commencement days, hours, leave or whether any overlap occurred. Searches did not resolve the2013–June2014 interval,2002 radio-to-ABC boundary, yoga teaching as paid work, maternity-leave dates or individual FTE. No duration calculated."
   ]
 }
