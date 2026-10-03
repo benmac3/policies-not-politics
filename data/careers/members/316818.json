@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/316818",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-02",
+  "last_reviewed": "2026-10-04",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -41,9 +41,9 @@
     {
       "employer": "Office of Leon Bignell, South Australian Parliament",
       "role": "Electorate officer",
-      "start_date": "2022",
-      "end_date": "2023",
-      "date_precision": "year",
+      "start_date": "2022-11",
+      "end_date": "2023-11",
+      "date_precision": "month",
       "employment_status": "part_time",
       "fte_fraction": null,
       "category": "political_staff",
@@ -54,15 +54,16 @@
         "src-1",
         "src-2",
         "src-5",
-        "src-8"
+        "src-8",
+        "src-4"
       ],
-      "evidence_note": "Official year labels retained. NDTV explicitly reports part-time recruitment following high school; no FTE fraction or monthly dates independently verified. Political staffing excluded.",
+      "evidence_note": "Public professional-profile indexing identifies the electorate-officer role from November2022 to November2023. Secondary reporting independently says Leon Bignell recruited her after high school for a few days a week, supporting part-time status but not an exact FTE fraction. Political staffing excluded.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "316818-02"
     },
     {
       "employer": "Childcare employer not yet identified",
-      "role": "Childcare work; exact duties to verify",
+      "role": "Childcare administration (secondary description; exact duties to verify)",
       "start_date": null,
       "end_date": null,
       "date_precision": "unknown",
@@ -73,9 +74,10 @@
       "government_control_at_time": "unknown",
       "counting_status": "insufficient_evidence",
       "source_ids": [
-        "src-6"
+        "src-6",
+        "src-13"
       ],
-      "evidence_note": "Walker personally confirms childcare work in verified guest AMA. No employer, dates, hours or ownership supplied; do not infer for-profit sector from service type.",
+      "evidence_note": "Walker personally confirms childcare work in verified guest AMA. A 2026 news profile describes it as childcare administration, but supplies no employer, dates, hours or ownership; do not infer for-profit sector from service type.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "316818-03"
     },
@@ -239,8 +241,8 @@
       "title": "Public professional profile",
       "source_type": "professional_profile",
       "locator": "public indexed Experience and Volunteer Experience",
-      "note": "Indexed extract names casual retail assistant, Drakes, October 2018–October 2022; volunteer school captain and student representation. No login or direct fetch used. New indexed experience explicitly identifies Customer Experience Support,Health Partners,December2023–June2024. No direct fetch or login.",
-      "retrieved": "2026-10-02",
+      "note": "Public indexed experience names casual retail assistant at Drakes, October2018–October2022; electorate officer to Leon Bignell, November2022–November2023; and Customer Experience Support at Health Partners, December2023–June2024. No login or direct profile fetch used; displayed months are not exact-day evidence.",
+      "retrieved": "2026-10-04",
       "source_id": "src-4"
     },
     {
@@ -322,6 +324,16 @@
       "note": "Contemporaneous local history account dates retail banner change to1August2022. Does not itself prove individual payroll transfer or earlier legal operator.",
       "retrieved": "2026-10-02",
       "source_id": "src-12"
+    },
+    {
+      "url": "https://www.news.com.au/national/south-australia/south-australian-senator-charlotte-walker-fined-for-speeding-in-taxpayerfunded-parliamentary-vehicle/news-story/3c7da2c701a420b26dad563979fbb242",
+      "publisher": "news.com.au",
+      "title": "Charlotte Walker fined for speeding in taxpayer-funded car, 12 August 2026",
+      "source_type": "news",
+      "locator": "career summary near article end",
+      "note": "Describes pre-parliamentary work as retail, childcare administration, private health insurance, political staffing and union work. Only the childcare-duty description is additional; the article supplies no employer, dates or hours.",
+      "retrieved": "2026-10-04",
+      "source_id": "src-13"
     }
   ],
   "research_notes": [
@@ -331,6 +343,7 @@
     "Full-time evidence absent. Casual retail work remains unknown in approved enum; political staff part-time rests on secondary reporting. Student and volunteer overlaps preclude automatic continuous full-time assumptions. Union/party/study/elected office excluded; no zero inferred for public or private employment.",
     "Follow-up: childcare identity/duties/dates/control, insurance legal employer and nonprofit status, retail predecessor/contract/hours, MP and union exact dates and leave, Young Labor end and remuneration. Last follow-up 2026-10-01. Next initial member Penny Wong.",
     "Follow-up2026-10-02: independently public professional profile confirms Health Partners customer-support role December2023–June2024; former contact-aggregator lead no longer sole basis. Historical employer statement establishes mutual nonprofit control and classification. Unknown hours retained.",
-    "Contemporaneous31July2022historical-society post gives1August2022Foodland-to-Drakes transition, but not individual employment-transfer date. Targeted childcare queries returned UK/USnamesakes and general childcare-administration summaries; no Australian primary employer identification. No namesakejobs assigned. Next seek childcare employer, retail predecessor payroll and ASU/member-officecontract dates."
+    "Contemporaneous31July2022historical-society post gives1August2022Foodland-to-Drakes transition, but not individual employment-transfer date. Targeted childcare queries returned UK/USnamesakes and general childcare-administration summaries; no Australian primary employer identification. No namesakejobs assigned. Next seek childcare employer, retail predecessor payroll and ASU/member-officecontract dates.",
+    "Follow-up2026-10-04: public professional-profile indexing narrows Leon Bignell electorate-office service to November2022–November2023; the independently reported few-days-a-week arrangement remains the basis for part-time status. A 2026 secondary profile describes the otherwise unidentified childcare work as administration, but employer, dates, hours and control remain unknown. No full-time headline interval was inferred."
   ]
 }
