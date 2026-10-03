@@ -6,12 +6,12 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/270198",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-02",
+  "last_reviewed": "2026-10-03",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
     "calculation_status": "not_calculable",
-    "note": "Some full-time UK communications work is supported, but its boundaries are unknown. The aggregator’s2002 Healthcare Commission start predates establishment of that body and is withdrawn pending predecessor evidence. Journalism, later private work, care/medical leave and self-employment lack sufficient hours or endpoints for totals. Excluded political, nonprofit, care, sport and elected roles remain separate. Missing evidence is not zero."
+    "note": "Some full-time UK communications work is supported, but its boundaries are unknown. A dated March 2004 NHS archive identifies France under her former name as a Commission for Health Improvement press contact immediately before that body's replacement by the Healthcare Commission. This resolves a predecessor employer observation, not a 2002 start or continuous payroll transfer. Journalism, later private work, care/medical leave and self-employment lack sufficient hours or endpoints for totals. Excluded political, nonprofit, care, sport and elected roles remain separate. Missing evidence is not zero."
   },
   "career_spells": [
     {
@@ -298,6 +298,29 @@
       ],
       "evidence_note": "Official parliamentary service starts with the 3 May 2025 election.",
       "counting_note": "Federal elected office is excluded from the employment headlines."
+    },
+    {
+      "spell_id": "270198-15",
+      "employer": "Commission for Health Improvement (United Kingdom)",
+      "role": "Press contact; exact job title unconfirmed",
+      "start_date": "2004-03-10",
+      "end_date": "2004-03-10",
+      "date_precision": "day",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "public_service",
+      "headline_sector": "public",
+      "government_control_at_time": "public",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-2",
+        "src-12",
+        "src-13",
+        "src-14",
+        "src-15"
+      ],
+      "evidence_note": "An archived official CHI news release dated 10 March 2004 names Ali Lawlor as the further-information contact. The former-name identity is supported by contemporaneous reporting after her 2011 accident and by her father's 2001 speech and Hong Kong byline. The release states CHI would cease on 31 March and be replaced by the Commission for Healthcare Audit and Inspection on 1 April. This is a dated employment observation only: it does not prove commencement, hours, service through 31 March or automatic transfer to the successor.",
+      "counting_note": "Public-sector communications work is directly observed, but no calculable interval or substantive full-time status is established."
     }
   ],
   "sources": [
@@ -440,6 +463,16 @@
       "note": "Contemporaneous confirmation of Hong Kong journalism and earlier Courier-Mail work in Brisbane and Townsville. Campaign assistance not evidence of paid party job.",
       "retrieved": "2026-10-02",
       "source_id": "src-14"
+    },
+    {
+      "source_id": "src-15",
+      "url": "https://www.gosportpanel.independent.gov.uk/media/panel_documents/NHE000116.pdf",
+      "publisher": "Commission for Health Improvement / NHS England archive",
+      "title": "CHI reviews community health services in south east Hampshire and calls for public comment",
+      "retrieved": "2026-10-03",
+      "source_type": "government_record",
+      "locator": "pp.1–2, release date, successor-body note and media contact",
+      "note": "Official 10 March 2004 release identifies Ali Lawlor as the contact and states CHI would cease 31 March 2004 and be replaced by the Commission for Healthcare Audit and Inspection on 1 April. It establishes a predecessor-body snapshot, not the start or end of France's employment."
     }
   ],
   "research_notes": [
@@ -447,6 +480,7 @@
     "The public profile aggregation is used as a lead for month dates, not as conclusive payroll evidence. The Carbon start date conflicts slightly with the approximate four-year care break in France's speech.",
     "Follow up News Corp and Hong Kong employment records, Westminster/Healthcare Commission transition and hours, Carbon Media appointment/cessation, Karuna hours, Ali France Creative workload, and the title/dates of the Steven Miles role.",
     "Resolve work, leave and campaign boundaries during accident recovery, the 2019/2022 campaigns, and the 18-month care period ending in February 2024.",
-    "2026-10-02 follow-up: degree year corrected to1996 from government transcript; healthcare-regulator identity/date conflict documented using UK public-body records; added contemporary2001 Hong Kong/Courier-Mail location corroboration. Searched France and Lawlor names for commission/Westminster, internship and Karuna employer evidence: no primary individual appointment or hours found. ANU Australian National Internships Program appears in aggregator education; retain as follow-up lead pending primary confirmation, dates and placement host. Do not assign UK rehabilitation-officer namesake or other speakers’ career details. Priority next: primary profile, predecessor regulator2002–04, first two report acknowledgements and Karuna2017–18 personnel/annual reports; no contact details used."
+    "2026-10-02 follow-up: degree year corrected to1996 from government transcript; healthcare-regulator identity/date conflict documented using UK public-body records; added contemporary2001 Hong Kong/Courier-Mail location corroboration. Searched France and Lawlor names for commission/Westminster, internship and Karuna employer evidence: no primary individual appointment or hours found. ANU Australian National Internships Program appears in aggregator education; retain as follow-up lead pending primary confirmation, dates and placement host. Do not assign UK rehabilitation-officer namesake or other speakers’ career details. Priority next: primary profile, predecessor regulator2002–04, first two report acknowledgements and Karuna2017–18 personnel/annual reports; no contact details used.",
+    "2026-10-03 follow-up: NHS England's Gosport archive yielded an original CHI news release naming Ali Lawlor as media contact on10March2004. Former-name identity is corroborated by her father's2001 speech/Hong Kong byline and contemporaneous2011 accident reporting. This establishes work at the Healthcare Commission predecessor shortly before the statutory1April transition, but not a2002 start, weekly hours, uninterrupted employment or automatic payroll transfer. The predecessor is therefore a separate dated observation. Searches for additional CHI/CHAI releases, first two state-of-healthcare report credits, Westminster appointment and Karuna personnel records did not yet resolve intervals. Next: archived press-office directories/reports, Westminster personnel material, Karuna annual reports and Steven Miles office appointment."
   ]
 }
