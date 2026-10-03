@@ -6,7 +6,7 @@
   "snapshot_party": "Liberal Party of Australia",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/IMW",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-02",
+  "last_reviewed": "2026-10-03",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -364,11 +364,11 @@
     },
     {
       "spell_id": "IMW-18",
-      "employer": "Victorian board of Australian Health Practitioner Regulation Agency",
+      "employer": "Victorian Nursing and Midwifery Board (Australian Health Practitioner Regulation Agency)",
       "role": "Board member",
-      "start_date": null,
-      "end_date": null,
-      "date_precision": "unknown",
+      "start_date": "2011",
+      "end_date": "2013",
+      "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "public_service",
@@ -376,9 +376,11 @@
       "government_control_at_time": "public",
       "counting_status": "excluded",
       "source_ids": [
-        "src-2"
+        "src-1",
+        "src-2",
+        "src-15"
       ],
-      "evidence_note": "Governance only; precise board, dates and remuneration unresolved.",
+      "evidence_note": "Governance only. Current APH biography identifies the Victorian Nursing and Midwifery Board and gives 2011–2013. Wilson's first-person February2026 parliamentary account says 2010 until about2013; the approximate recollection is retained as a start-date conflict rather than replacing the official chronology. Appointment days, remuneration and hours remain unresolved.",
       "counting_note": "Excluded from the two employment headlines under the codebook."
     },
     {
@@ -582,6 +584,16 @@
       "note": "Describes Wilson as a consultant to Australian APEC Study Centre at Monash; no proof of university payroll. Full PDF inaccessible via retrieval tool.",
       "retrieved": "2026-10-02",
       "source_id": "src-14"
+    },
+    {
+      "url": "https://www.openaustralia.org.au/debate/?id=2026-02-04.42.1",
+      "publisher": "Parliament of Australia / OpenAustralia transcript",
+      "title": "Health Legislation Amendment (Prescribing of Pharmaceutical Benefits) Bill 2025 — Tim Wilson",
+      "source_type": "parliament",
+      "locator": "House of Representatives, 4 February 2026, 12:39 pm; opening paragraph",
+      "note": "First-person parliamentary account describes service on AHPRA's Nursing and Midwifery Board from 2010 until about 2013. Its approximate start conflicts with APH's 2011–2013 official range and does not establish appointment days, hours or remuneration.",
+      "retrieved": "2026-10-03",
+      "source_id": "src-15"
     }
   ],
   "research_notes": [
@@ -592,6 +604,7 @@
     "Governance at Alfred Health, Monash, AHPRA and Monyx is recorded separately from paid executive employment. Dynamic Sunrise ownership and Gondwana investment interests do not establish additional full-time employment. Member mentions start-up and capital-raising work but no separate verifiable employers or dates.",
     "Consulting, nonprofit policy and media periods overlap extensively. No additive duration total is calculated; missing private hours are not zero. Full-time Commissioner evidence does not resolve the whole career or justify complete research status. Last follow-up 2026-09-29; retain blocked and advance national initial pass.",
     "2026-10-02 follow-up: Alfred Health2013\u201314 primary annual report refines board cessation; contemporary ABC interview corroborates effective commissioner departure19February2016. LinkedIn public-index grouped Dynamic Sunrise2007\u201316 range preserved as an overlap discrepancy rather than overwriting APH split spells. Contemporary IPA column identifies APEC consultancy, not proof of university payroll.",
-    "Appointment media-release index identifies Federal Executive Council appointment17February2014; ABC17February2014 transcript introduction refers to taking up post tomorrow, whereas February2016 resignation report describes second anniversary. These may represent different milestones. Retain month-only commencement pending instrument. Seek leave records, APEC contracting entity, exact AHPRA board and electorate employer, and post2022 consulting hours. APH estimatesPDF restricted, IPA PDF inaccessible and LinkedIn open Internal Error; no access bypass. Last follow-up2026-10-02; blocked remains."
+    "Appointment media-release index identifies Federal Executive Council appointment17February2014; ABC17February2014 transcript introduction refers to taking up post tomorrow, whereas February2016 resignation report describes second anniversary. These may represent different milestones. Retain month-only commencement pending instrument. Seek leave records, APEC contracting entity, exact AHPRA board and electorate employer, and post2022 consulting hours. APH estimatesPDF restricted, IPA PDF inaccessible and LinkedIn open Internal Error; no access bypass. Last follow-up2026-10-02; blocked remains.",
+    "2026-10-03 follow-up: current APH material resolves the previously generic AHPRA entry to the Victorian Nursing and Midwifery Board and dates it 2011–2013. Wilson's first-person parliamentary account on 4 February 2026 recalls service from 2010 until about 2013; because the start is approximate and conflicts with APH, both are documented and the official year range retained. This is excluded governance, not additional public-service employment. Fresh commencement-instrument, APEC-payroll and consulting-hours searches did not resolve those gaps; record remains blocked."
   ]
 }
