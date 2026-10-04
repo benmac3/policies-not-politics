@@ -6,7 +6,7 @@
   "snapshot_party": "One Nation",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/BK6",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-04",
+  "last_reviewed": "2026-10-05",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -99,7 +99,7 @@
       "role": "Barmaid",
       "start_date": "1987",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "nonprofit",
@@ -220,7 +220,7 @@
       "role": "Founder, leader, candidate and party office-holder",
       "start_date": "1997",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "party_organisation",
@@ -240,7 +240,7 @@
       "role": "Real-estate agent",
       "start_date": "2005",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "private_enterprise",
@@ -280,7 +280,7 @@
       "role": "Senator for Queensland",
       "start_date": "2016-07-02",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "day",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -318,7 +318,7 @@
       "role": "Regular guest; charity donation arrangement",
       "start_date": null,
       "end_date": "2019",
-      "date_precision": "mixed",
+      "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "unpaid_work",
@@ -337,7 +337,7 @@
       "role": "Regular guest; charity donation arrangement",
       "start_date": "2019",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "unpaid_work",
@@ -426,6 +426,28 @@
       ],
       "evidence_note": "Contemporary reporting documents Hanson's participation through her firing from Celebrity Apprentice on 15 November 2011. Coverage also distinguishes charity fundraising and a separate rejected cash offer during a task, neither of which proves her programme fee. Contracting entity, appearance fee, filming dates, hours and employee/contractor status remain unknown.",
       "counting_note": "Television participation is part of the post-parliament work history, but no substantive full-time employment interval is established."
+    },
+    {
+      "employer": "A Super Progressive Movie Pty Ltd / A Pauline Production Pty Ltd and Stepmates Studios; personal contracting entity unresolved",
+      "role": "Executive producer and featured performer,A Super Progressive Movie",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "private_enterprise",
+      "headline_sector": "private",
+      "government_control_at_time": "private",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-20",
+        "src-21",
+        "src-22",
+        "src-23"
+      ],
+      "evidence_note": "Official credits name Hanson as executive producer and featured participant. Film launch advertised26January2026; production-work dates, fee, employee/contractor basis and hours unknown. ABR records A Pauline Production as a private company active28October2025; registration is not a personal appointment. Contemporary reporting identifies her shareholding and planned donations of proceeds to One Nation, which do not prove salary or full-time work.",
+      "counting_note": "Film activity is retained separately from elected/party office. Corporate credit and ownership do not establish substantive full-time employment; no duration calculated.",
+      "spell_id": "BK6-22"
     }
   ],
   "sources": [
@@ -605,7 +627,7 @@
       "publisher": "The Monthly",
       "title": "This is your afterlife",
       "retrieved": "2026-10-03",
-      "source_type": "news_report",
+      "source_type": "news",
       "locator": "September 2005; stage-show passage",
       "note": "Contemporary profile records Hanson's just-completed finale appearance in Todd McKenney's stage show. The duration is corroborated by McKenney's professional biography, but no contract, fee or hours are published."
     },
@@ -615,9 +637,49 @@
       "publisher": "news.com.au",
       "title": "Pauline Hanson says she felt betrayed and set up after being fired from Celebrity Apprentice",
       "retrieved": "2026-10-03",
-      "source_type": "news_report",
+      "source_type": "news",
       "locator": "15 November 2011; participation and firing",
       "note": "Contemporary report establishes programme participation through 15 November 2011. It does not disclose the programme contract, fee or work hours; task fundraising is not treated as personal remuneration."
+    },
+    {
+      "source_id": "src-20",
+      "url": "https://asuperprogressivemovie.com/",
+      "publisher": "A Super Progressive Movie Pty Ltd",
+      "title": "A Super Progressive Movie: official production credits",
+      "retrieved": "2026-10-05",
+      "source_type": "employer",
+      "locator": "Footer credits, lines79–81, copyright line94",
+      "note": "Primary credits name Hanson as executive producer and identify A Pauline Production with Stepmates Studios; no contract or hours published."
+    },
+    {
+      "source_id": "src-21",
+      "url": "https://abr.business.gov.au/ABN/View?id=49692287648",
+      "publisher": "Australian Business Register",
+      "title": "A Pauline Production Pty Ltd,ABN49 692 287 648",
+      "retrieved": "2026-10-05",
+      "source_type": "government_record",
+      "locator": "Entity details: active28October2025; Australian Private Company",
+      "note": "Registration identifies the entity and control type, not Hanson's personal work commencement."
+    },
+    {
+      "source_id": "src-22",
+      "url": "https://www.onenation.org.au/brisbane-movie-premiere",
+      "publisher": "Pauline Hanson's One Nation",
+      "title": "Brisbane:A Super Progressive Movie Premiere",
+      "retrieved": "2026-10-05",
+      "source_type": "professional_profile",
+      "locator": "5January2026 event notice; event26January2026",
+      "note": "Primary launch notice; premiere date does not date production work."
+    },
+    {
+      "source_id": "src-23",
+      "url": "https://www.theaustralian.com.au/nation/pauline-hanson-to-channel-one-nation-film-profits-through-privately-owned-company/news-story/2160a180b177f6be248942a1909fa444",
+      "publisher": "The Australian",
+      "title": "Pauline Hanson film profits earmarked for2028 election bid",
+      "retrieved": "2026-10-05",
+      "source_type": "news",
+      "locator": "2March2026 indexed company-structure passage",
+      "note": "Reports Hanson,AlexJones andJamesAshby equal shareholders in A Pauline Production and intended film proceeds donated to One Nation; company ownership does not establish paid hours."
     }
   ],
   "research_notes": [
@@ -627,6 +689,7 @@
     "The official 1978-1997 small-business span is preserved but not treated as one continuous full-time interval because the underlying enterprises, divorce/liquidation, club job, local office and business sale have distinct and partly unresolved boundaries.",
     "2026-10-02 follow-up: added paid Sunrise commentary and separated later charitable/unpaid media,2004 TV participation and2007 authorship; refined Professionals to Annerley late2005 and removed unsupported cessation; withdrew company incorporation as personal start. Enough Rope410 and SCMP403 were source-only failures; indexed contemporary SCMP passage available. Early-job detail needs original autobiography/transcript corroboration, not Wikipedia mirrors. Celebrity Apprentice2011, motivational speaking2010 and stage appearances2005 remain leads requiring primary contract/producer evidence. Search found impersonator Nathy Gaffney speaker listing: rejected as not Hanson employment. No hours inferred; property ownership, charitable payments and election funding not payroll. Follow up broadcaster contracts, Annerley agency historical records and original early-career sources.",
     "2026-10-03 follow-up: contemporary reporting resolves two post-House media-performance observations: a 2005 Todd McKenney Live stage-show engagement and 2011 Celebrity Apprentice participation through 15 November. Both are coded as private-sector activity with unknown paid basis, contracting entity and hours; charity fundraising or a rejected task-specific cash offer is not personal remuneration evidence. Searches for original early-career payroll records, Celebrity Apprentice fees, 2010 speaking contracts and the Annerley agency did not resolve further boundaries. Next: Nine/Seven production credits or contracts, Star City programme archives, original autobiography pages and historical business filings.",
-    "2026-10-04 follow-up: exact entity/employer searches for Marsden Hanson Pty Ltd, Taylors Elliotts and Booval Bowls Club mostly returned Wikipedia mirrors and derivative biographies repeating the inaccessible early-career narrative. No original payroll, business-registry, liquidation, sale or autobiography page evidence surfaced; a 2026 anonymous Reddit recollection was not used. The early-job rows remain leads requiring primary corroboration. Next: ASIC historical extracts, library-accessible autobiography pages or archived employer records."
+    "2026-10-04 follow-up: exact entity/employer searches for Marsden Hanson Pty Ltd, Taylors Elliotts and Booval Bowls Club mostly returned Wikipedia mirrors and derivative biographies repeating the inaccessible early-career narrative. No original payroll, business-registry, liquidation, sale or autobiography page evidence surfaced; a 2026 anonymous Reddit recollection was not used. The early-job rows remain leads requiring primary corroboration. Next: ASIC historical extracts, library-accessible autobiography pages or archived employer records.",
+    "Targeted follow-up2026-10-05: Added primary-confirmed2026 film executive-production activity, with company identity from ABR and corporate-ownership context from contemporary reporting. Production dates, remuneration and workload remain unknown; registration/premiere dates and intended political donations are not employment boundaries or pay. Original memoir search still exposed derivative biographies only, so early-shop/Woolworths/Taylors/club assertions retain primary-corroboration gaps. New lead: original Senate interest declaration may identify A Pauline Production and Small Batch Brewing interests; unverified aggregator listing not adopted as a directorship or job."
   ]
 }

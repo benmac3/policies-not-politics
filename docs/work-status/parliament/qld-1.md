@@ -354,3 +354,6 @@ Deduplicated Brisbane-day new member IDs: 00AMR, 101351, 124514, 132880, 140590,
 
 - 2026-10-05T00:30:00+10:00: Garth Hamilton: international engineering searches repeated existing chronology; no substantive enrichment.
 - Originating cycle2026-10-04 16:00 continuation1; attempt started2026-10-04T17:00:01+10:00 and ongoing. Attempt219distinct,0new,141material,78nonmaterial,0complete; cycle226distinct,145material,81nonmaterial. Current Brisbane day2026-10-05: 10distinct,0new,6material,4nonmaterial,0complete. Counts deduplicated within attempt/cycle/day. Next: Pauline HansonBK6: original early business/work evidence.. OUTCOME:ongoing; STOPPING REASON:none. No successor requested.
+
+- 2026-10-05T00:32:01+10:00: Pauline Hanson: added film-production activity with primary credits and legal entity; no full-time years inferred.
+- Originating cycle2026-10-04 16:00 continuation1; attempt started2026-10-04T17:00:01+10:00 and ongoing. Attempt220distinct,0new,142material,78nonmaterial,0complete; cycle226distinct,146material,80nonmaterial. Current Brisbane day2026-10-05: 11distinct,0new,7material,4nonmaterial,0complete. Counts deduplicated within attempt/cycle/day. Next: Rowan Holzberger88411: original construction/survey/union records.. OUTCOME:ongoing; STOPPING REASON:none. No successor requested.
