@@ -262,3 +262,8 @@ Batch coverage, record fields, dates, enums, source references, build_careers.lo
 - Sarah Witty: nonmaterial follow-up — narrow Bank of Melbourne, National Credit Insurance, ScotPac, Subway and ballet searches found no primary personnel or business record. Two profile aggregators still conflict materially on month ranges, so no dates were adopted. Archived employer staff pages, contracts/payroll, registrations and the underlying professional profile remain decisive.
 - Current continuation: 17 distinct records, 0 new, 3 materially enriched, 14 nonmaterial follow-ups and 0 newly complete. Cycle/day cumulative: 133 distinct, 0 new, 50 materially enriched, 83 nonmaterial follow-ups and 0 newly complete.
 - Durable next cursor: Jason Wood (E0F).
+
+
+- Jason Wood: nonmaterial follow-up — focused searches reconfirmed the 2013 first-person police-return account and the two-year pre-police camp period, but found no Victoria Police appointment/service record, return or cessation date, hours, leave, 2001 break evidence, camp employer or pay basis. Generic web avenues are now documented as exhausted; personnel records remain decisive.
+- Current continuation: 18 distinct records, 0 new, 3 materially enriched, 15 nonmaterial follow-ups and 0 newly complete. Cycle/day cumulative: 134 distinct, 0 new, 50 materially enriched, 84 nonmaterial follow-ups and 0 newly complete.
+- Durable next cursor: next national batch in plan order; vic-2 follow-up pass reached end of assigned sequence.
