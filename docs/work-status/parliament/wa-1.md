@@ -194,3 +194,6 @@ Detailed attempted avenues, discrepancies and remaining leads are preserved in e
 
 - Matt Keogh enriched: primary Street Law unpaid governance commencement and cessation window, correcting aggregator lead.
 - Attempt29distinct,0new,16material,13nonmaterial,0complete; cycle46distinct,22material,24nonmaterial; day183distinct,72material,111nonmaterial; all0new/complete. Next: Madeleine King 102376. OUTCOME:ongoing; STOPPING REASON:none.
+
+- Madeleine King follow-up: archival and employer-name attempts logged; no new supported boundaries/hours.
+- Attempt30distinct,0new,16material,14nonmaterial,0complete; cycle47distinct,22material,25nonmaterial; day184distinct,72material,112nonmaterial; all0new/complete. Next: Tania Lawrence 299150. OUTCOME:ongoing; STOPPING REASON:none.
