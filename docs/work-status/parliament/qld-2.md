@@ -240,3 +240,6 @@ Batch coverage, record fields, dates, enums, source references, build_careers.lo
 
 - Elizabeth Watson Brown300127 follow-up: rejected misattributed hours/employer leads; no material career change.
 - Attempt14distinct,0new,7material,7nonmaterial,0complete; cycle31distinct,13material,18nonmaterial; day168distinct,63material,105nonmaterial; all0new/complete. Next: MurrayWatt245759. OUTCOME:ongoing; STOPPING REASON:none.
+
+- Murray Watt245759 follow-up: legal-employer split and public-service payroll evidence still unavailable.
+- Attempt15distinct,0new,7material,8nonmaterial,0complete; cycle32distinct,13material,19nonmaterial; day169distinct,63material,106nonmaterial; all0new/complete. Next: AnikaWells264121. OUTCOME:ongoing; STOPPING REASON:none.
