@@ -113,9 +113,10 @@
       "government_control_at_time": "public",
       "counting_status": "excluded",
       "source_ids": [
-        "src-1"
+        "src-1",
+        "src-14"
       ],
-      "evidence_note": "Political staff role from frozen CV. Separate from non-political Treasury employment.",
+      "evidence_note": "Political staff role from frozen CV. Separate from non-political Treasury employment. His contemporaneous ANU employer interview in Summer2010 reports eighteen months working as Cook’s trade adviser. This retrospective duration refines the broad1998–2000envelope without deriving commencement/cessation months or full-time status.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "BU8-05"
     },
@@ -159,9 +160,10 @@
         "src-4",
         "src-8",
         "src-10",
-        "src-11"
+        "src-11",
+        "src-14"
       ],
-      "evidence_note": "Frozen and Harvard summaries use professor for 2004–10. Indexed CV refines progression: fellow Jul 2004–Jan 2008; associate professor Feb 2008–Mar 2009. Professor confirmed January 2010, promotion date unresolved. Treasury secondment and visiting appointments overlap this umbrella. Historical control, substantive hours, leave and exact departure remain open.",
+      "evidence_note": "Frozen and Harvard summaries use professor for 2004–10. Indexed CV refines progression: fellow Jul 2004–Jan 2008; associate professor Feb 2008–Mar 2009. Professor confirmed January 2010, promotion date unresolved. Treasury secondment and visiting appointments overlap this umbrella. Historical control, substantive hours, leave and exact departure remain open. ANU’s Summer2010magazine says he resigned earlier that year to stand for parliament, supporting resignation rather than assuming an employment endpoint on election day; exact separation remains unknown.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "BU8-07"
     },
@@ -514,6 +516,16 @@
       "note": "Clifford Chance1998; Minter part-time1995–96; IFN StockholmMay2008. Full PDF inaccessible; independently corroborate before duration totals.",
       "retrieved": "2026-10-02",
       "source_id": "src-13"
+    },
+    {
+      "source_id": "src-14",
+      "url": "https://openresearch-repository.anu.edu.au/server/api/core/bitstreams/158dbccb-2dda-4e56-9362-3aa26b91fbc1/content",
+      "publisher": "ANU College of Business and Economics / Stephen Green",
+      "title": "Margin, Issue2 Summer2010 — Out of the frying pan, into the fire",
+      "source_type": "employer",
+      "locator": "Printedpp20–21; public indexed interview paragraphs on ANU resignation and eighteen-month Cook role",
+      "retrieved": "2026-10-04",
+      "note": "Initial PDF open retrieved front matter; targeted public index supplied career interview text. Follow-up open and screenshot returned403Forbidden, so no visual verification or complete PDF reading claimed. Interview reports eighteen months with Cook and resignation from ANU earlier in2010; no exact departure date or work hours."
     }
   ],
   "research_notes": [
@@ -526,6 +538,7 @@
     "Follow-up2026-10-02: indexed personal CV resolves firm-specific Clifford Chance year and explicit Minter part/full-time split, and dates IFN visit. All index-only evidence clearly labelled. Direct old CV returned502, alternate unavailable, ordinary curl returned22HTTP502. No access bypass.",
     "Minter status subspells are portions of preserved umbrella, not additive jobs. Same-year full-time component lacks months/days and overlaps Kirby chronology; no duration totals justified. IFN visit is documented affiliation, not presumed paid employment.",
     "Remaining leads: retrieve complete CV or primary appointment records; reconcile court/Cook/Clifford chronology, ANU promotion/exit/leave/control, NYU/Melbourne visit dates, doctoral funding versus paid work, PPI salary and author contracts. Search results giving lecture dates are not visiting-employment dates.",
-    "Follow-up 2026-10-04: repeated exact-phrase searches against both published CV locations for Coleman & Grieg, Clifford Chance, New York University and University of Melbourne. Results did not expose additional CV text or primary appointment records; the live personal biography still says only that he was an ANU professor before election. The existing index-only chronology is retained without inventing visit dates, paid status, ANU workload or departure boundaries."
+    "Follow-up 2026-10-04: repeated exact-phrase searches against both published CV locations for Coleman & Grieg, Clifford Chance, New York University and University of Melbourne. Results did not expose additional CV text or primary appointment records; the live personal biography still says only that he was an ANU professor before election. The existing index-only chronology is retained without inventing visit dates, paid status, ANU workload or departure boundaries.",
+    "Follow-up2026-10-04: Located contemporaneous employer magazine Margin, Summer2010 pp20–21. Interview reports eighteen months in Cook’s office and ANU resignation earlier that year to stand for parliament; added the duration and separation evidence without back-calculating dates or assuming full-time work. Initial PDF front matter accessible, subsequent text-open/screenshot403; targeted public search index supplied attributable career paragraphs, limitation explicit. A separate ANU quarterly PDF timed out400. Promotion, visiting posts and actual ANU workload/leave remain unresolved. Public index results about other professors and generic CV advice rejected."
   ]
 }

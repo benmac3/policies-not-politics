@@ -73,3 +73,6 @@
 
 - 2026-10-04T20:56:17+10:00: Gallagher: RSPCA annual report resolves board endpoint26November2019; Calvary correspondence lead located.
 - Attempt130distinct,0new,75material,55nonmaterial,0complete; cycle147distinct,81material,66nonmaterial; day226distinct,118material,108nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Andrew LeighBU8. OUTCOME:ongoing; STOPPING REASON:none.
+
+- 2026-10-04T20:58:06+10:00: Leigh: employer interview supplies eighteen-month Cook role and2010ANU resignation evidence.
+- Attempt131distinct,0new,76material,55nonmaterial,0complete; cycle148distinct,82material,66nonmaterial; day226distinct,119material,107nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Alicia Payne144732. OUTCOME:ongoing; STOPPING REASON:none.
