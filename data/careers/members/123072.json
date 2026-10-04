@@ -6,7 +6,7 @@
   "snapshot_party": "The Nationals",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/123072",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-02",
+  "last_reviewed": "2026-10-04",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -18,9 +18,9 @@
       "spell_id": "123072-01",
       "employer": "University of Queensland",
       "role": "Bachelor of Commerce and Bachelor of Economics student",
-      "start_date": null,
-      "end_date": null,
-      "date_precision": "unknown",
+      "start_date": "1989",
+      "end_date": "1993",
+      "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "study",
@@ -29,9 +29,10 @@
       "counting_status": "excluded",
       "source_ids": [
         "src-1",
-        "src-2"
+        "src-2",
+        "src-22"
       ],
-      "evidence_note": "The official biography and member profile list both UQ degrees but no attendance or completion dates.",
+      "evidence_note": "Official biographies establish both UQ qualifications; the directly linked public professional profile self-reports attendance 1989–1993 at year precision. No exact dates, study workload or separate degree-award dates are inferred.",
       "counting_note": "Study is excluded."
     },
     {
@@ -131,9 +132,9 @@
       "spell_id": "123072-06",
       "employer": "Beef Australia",
       "role": "Director",
-      "start_date": "2016",
-      "end_date": null,
-      "date_precision": "mixed",
+      "start_date": "2016-08",
+      "end_date": "2018-12",
+      "date_precision": "month",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "nonprofit",
@@ -143,9 +144,10 @@
       "source_ids": [
         "src-5",
         "src-10",
-        "src-13"
+        "src-13",
+        "src-22"
       ],
-      "evidence_note": "Existing contemporary evidence reports board appointment in 2016 and the 2019 event biography corroborates membership. Dates within the year, cessation, pay and commitment remain unknown. This is governance, not established substantive employment.",
+      "evidence_note": "Self-reported public profile supplies August2016–December2018 board term, consistent with contemporary2016 appointment coverage. The2019 school biography is retained as a conflicting or stale membership description. Listed under Volunteer Experience; remuneration and workload are not independently established.",
       "counting_note": "Governance roles are excluded from substantive full-time employment totals."
     },
     {
@@ -229,8 +231,8 @@
       "employer": "Royal National Agricultural and Industrial Association of Queensland",
       "role": "Council member; later treasurer",
       "start_date": "2016-10",
-      "end_date": "2018",
-      "date_precision": "mixed",
+      "end_date": "2018-08",
+      "date_precision": "month",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "nonprofit",
@@ -240,9 +242,10 @@
       "source_ids": [
         "src-5",
         "src-10",
-        "src-19"
+        "src-19",
+        "src-22"
       ],
-      "evidence_note": "RNA Summer 2016 gives October appointment. Summer 2018 reports resignation preceding a replacement in November; exact resignation month not established. The 2019 school biography still calls her treasurer; treated as conflicting or stale biography, not proof of continued office. Treasurer appointment and remuneration remain unknown.",
+      "evidence_note": "RNA primary2016 appointment and2018 resignation reports corroborate the self-reported profile October2016–August2018 interval. The combined Treasurer and Councillor entry does not establish when she first became Treasurer. The2019 school description is conflicting or stale; no remuneration or full-time workload inferred.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "123072-11"
     },
@@ -534,6 +537,26 @@
       "note": "Retrospective industry profile reports that after her brother's 2013 death McDonald managed six Super Butcher stores on top of her full-time job, then took on Super Butcher full-time; also records completion of a butchery apprenticeship. It does not supply exact transition dates, weekly hours or leave.",
       "retrieved": "2026-10-03",
       "source_id": "src-21"
+    },
+    {
+      "source_id": "src-22",
+      "url": "https://au.linkedin.com/in/susan-mcdonald-099a2822",
+      "publisher": "Susan McDonald / LinkedIn",
+      "title": "Susan McDonald — public professional profile",
+      "source_type": "professional_profile",
+      "retrieved": "2026-10-04",
+      "locator": "Education and Volunteer Experience sections, publicly indexed text",
+      "note": "Identity linked directly by Duchesne College to the Queensland senator. Self-reported UQ 1989–1993, Beef Australia August2016–December2018, RNA October2016–August2018; no payroll or hours evidence. Direct profile click returned (999) Unknown Status Code; public index was accessible."
+    },
+    {
+      "source_id": "src-23",
+      "url": "https://duchesne.uq.edu.au/2025endofyear/",
+      "publisher": "Duchesne College",
+      "title": "2025 End of Year Wrap Up",
+      "source_type": "official_biography",
+      "retrieved": "2026-10-04",
+      "locator": "2025 Wise Women Dinner Series, final dinner paragraph and Susan McDonald profile link",
+      "note": "Explicitly identifies the Queensland senator as DC89 and links her public professional profile, establishing identity. Cohort shorthand itself is not converted to an employment or study boundary."
     }
   ],
   "research_notes": [
@@ -545,6 +568,7 @@
     "Follow-up 2026-10-02: searched primary LifeFlight, RNA historical magazines, ABSF reports/releases, school professional biography, Rural Press Club speech and public professional-profile index. Added early stock-camp/Expo work and AMIC/SSG/honorary roles. No accounting employer names or full-time/leave evidence recovered. Arts Queensland board lead unconfirmed and not encoded; similarly named UK/US professionals excluded.",
     "RNA primary resignation report narrows council cessation to 2018 despite 2019 speaker biography. Obtain exact resignation and treasurer term. ABSF indexed annual update confirms departure by 2019 report but not year boundary.",
     "Recovered source gaps: ABSF PDF full open returned (400) Content length is too large: 13567066; another mirror and RNA 2018 PDF returned Internal Error without code. Indexed primary text and accessible 2018 release used; no access control bypass. Further follow-up requires early-job/employer records, accounting employment histories, Super Butcher appointment/leave and exact political-staff transition.",
-    "Follow-up 2026-10-03: Australian Meat News November 2019 resolves substantive full-time status for the chief-of-staff job and subsequent Super Butcher management, and adds a completed butchery apprenticeship. The article confirms an interim overlap after the 2013 family death but gives no exact transition date, weekly hours or leave; no accounting employer names were found."
+    "Follow-up 2026-10-03: Australian Meat News November 2019 resolves substantive full-time status for the chief-of-staff job and subsequent Super Butcher management, and adds a completed butchery apprenticeship. The article confirms an interim overlap after the 2013 family death but gives no exact transition date, weekly hours or leave; no accounting employer names were found.",
+    "Follow-up2026-10-04: a primary college biography links the senator to her public professional profile, resolving UQ attendance years and month-level Beef Australia/RNA board terms. UQ2015 BEL philanthropy report p28 lists a Susan McDonald with BCom92/BEcon93, but identity is not independently established and direct PDF open was inaccessible; retain as a lead rather than separate degree-award facts. Accountant-employer and staff/Super Butcher transition searches did not resolve employment dates, hours or leave. No additional full-time duration calculated."
   ]
 }
