@@ -156,3 +156,6 @@
 
 - 2026-10-04T20:35:33+10:00: Chandler: retained promotion-date conflict and rejected staff-job hours/namesakes; no material change.
 - Attempt115distinct,0new,69material,46nonmaterial,0complete; cycle132distinct,75material,57nonmaterial; day226distinct,115material,111nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Richard Colbeck00AOL. OUTCOME:ongoing; STOPPING REASON:none.
+
+- 2026-10-04T20:36:27+10:00: Colbeck: added personal corroboration without counting it as material new chronology; recorded dated maiden-speech retrieval lead.
+- Attempt116distinct,0new,69material,47nonmaterial,0complete; cycle133distinct,75material,58nonmaterial; day226distinct,115material,111nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Julie Collins HWM. OUTCOME:ongoing; STOPPING REASON:none.
