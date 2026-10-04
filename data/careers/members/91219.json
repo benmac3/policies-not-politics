@@ -99,7 +99,7 @@
     {
       "spell_id": "91219-cepu-official",
       "employer": "Communications, Electrical and Plumbing Union — Communications Division",
-      "role": "Official and Divisional Vice-President",
+      "role": "Industrial officer and organiser, Postal and Telecommunications Branch (NSW)",
       "start_date": "1996",
       "end_date": "1999",
       "date_precision": "year",
@@ -111,10 +111,30 @@
       "counting_status": "excluded",
       "source_ids": [
         "src-snapshot",
-        "src-secondary"
+        "src-secondary",
+        "src-handbook45-oct4"
       ],
-      "evidence_note": "The frozen extract supplies roles and year boundaries. Secondary material describes election as a branch organiser in 1997 and vice-president in 1998, which does not fully reconcile with the official 1996 start. Exact paid appointment, elected-office transitions, hours and leave are unresolved.",
+      "evidence_note": "The frozen extract supplies roles and year boundaries. Secondary material describes election as a branch organiser in 1997 and vice-president in 1998, which does not fully reconcile with the official 1996 start. Exact paid appointment, elected-office transitions, hours and leave are unresolved. The historic2017 official handbook separates officer/organiser1996–99 from Divisional Vice-President1998–99. This clarifies that the frozen combined entry does not establish vice-presidency from1996. The secondary1997 election can concern a different office; paid terms and exact dates remain unresolved.",
       "counting_note": "Union employment and office are displayed separately and excluded from the narrow public/private headline."
+    },
+    {
+      "spell_id": "91219-cepu-vicepresident",
+      "employer": "Communications, Electrical and Plumbing Union — Communications Division",
+      "role": "Divisional Vice-President",
+      "start_date": "1998",
+      "end_date": "1999",
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "union",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-handbook45-oct4"
+      ],
+      "evidence_note": "Historic official2017 handbook explicitly gives this separate union office1998–99, overlapping officer/organiser service1996–99. Precise dates, remuneration and hours unknown; not another full-time employment interval.",
+      "counting_note": "Union office excluded from public/private employment headlines."
     },
     {
       "spell_id": "91219-integral",
@@ -295,6 +315,25 @@
       "evidence_note": "Official parliamentary biography gives year boundaries. Remuneration, hours and precise terms unknown; overlaps with professional and union roles are retained without assuming additional full-time employment.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "91219-greenway-secretary"
+    },
+    {
+      "employer": "Australian Labor Party — Communications and Arts Policy Committee (NSW)",
+      "role": "Chair",
+      "start_date": "1998",
+      "end_date": "1999",
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "party_organisation",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-handbook45-oct4"
+      ],
+      "evidence_note": "2017 Parliamentary Handbook lists this party committee chairmanship1998–99. Exact terms, payment and hours absent. Overlaps other party, union and professional roles; no additional paid job inferred.",
+      "counting_note": "Party organisation role excluded from employment headlines.",
+      "spell_id": "91219-alp-policychair"
     }
   ],
   "sources": [
@@ -407,6 +446,16 @@
       "note": "Lists Blacktown Branch secretary1991–2004 and Greenway Federal Electorate Council secretary1995–1998. Direct reader unavailable/restricted; retrieved indexed text used without refreshing frozen roster.",
       "retrieved": "2026-10-02",
       "source_id": "src-aph-party-oct2"
+    },
+    {
+      "source_id": "src-handbook45-oct4",
+      "url": "https://openresearch-repository.anu.edu.au/bitstreams/f9296d1e-0d24-4d6c-a116-752d72366345/download",
+      "publisher": "Australian Parliament / Parliamentary Library; ANU public repository copy",
+      "title": "45th Parliament: Parliamentary Handbook2017",
+      "retrieved": "2026-10-04",
+      "source_type": "official_biography",
+      "locator": "Printed page126, HUSIC Edham, Qualifications and occupation; Party positions",
+      "note": "Full public PDF text separately lists industrial officer/organiser1996–99, Divisional Vice-President1998–99 and NSW party policy chair1998–99. Retains Integral1999–2004; no hours supplied."
     }
   ],
   "research_notes": [
@@ -419,7 +468,8 @@
     "Second follow-up2October2026 resolves study years through public professional profile and adds two omitted party-secretary offices from indexed official biography. No hours inferred from leadership titles.",
     "Targeted Integral Energy annual-report/full-time, Burson employment and APSS appointment searches did not resolve qualifying employment hours or Integral2003/2004 departure conflict. Australia Post2009–10 annual report describes Husic negotiating as CEPU president, not Australia Post employment. Reproduced Cooper v Metcher[2015]FCA6 identifies PostSuper as APSS trustee and quotes Husic union correspondence, but does not establish his individual original board appointment; retain trustee annual-report lead. Direct LinkedIn999 and APH restricted-URL reader errors are source-level gaps; public indexed text remains available.",
     "Follow-up3October2026 tested the original APSS/PostSuper trustee appointment lead using both search services, trustee annual-report queries and the public17December2014 trustee-director factsheet mirror at https://expydoc.com/doc/4996713/trustee-director-profiles---australia-post-superannuation... . That later factsheet contains no Husic entry; its2006–2010 directorship line belongs to another director and is not attributed to him. Australia Post2008–09 report https://auspost.com.au/content/dam/auspost_corp/media/documents/auspost-anntpt-2009.pdf identifies APSS as employer-sponsored but does not identify his appointment. Existing court correspondence and union filings remain the only located person-level leads; no new dates, individual pay or hours established. Original pre2010 trustee reports remain unresolved; defer repeated generic APSS queries until a new archive or report lead emerges.",
-    "Fourth follow-up4October2026 used exact Burson-Marsteller, Integral Energy, APSS trustee and Roger Price adviser queries. Public parliamentary handbooks repeated Burson1993–1994 and Integral1999–2004; secondary sources repeated the conflicting Integral2003 end. The original union filing again supplies only the1April–7September2010 APSS observation, not appointment origin, pay or hours. No new personnel record, hours, leave or2004–2005 transition evidence surfaced; generic trustee avenues remain deferred pending an actual pre2010 report. No material change."
+    "Fourth follow-up4October2026 used exact Burson-Marsteller, Integral Energy, APSS trustee and Roger Price adviser queries. Public parliamentary handbooks repeated Burson1993–1994 and Integral1999–2004; secondary sources repeated the conflicting Integral2003 end. The original union filing again supplies only the1April–7September2010 APSS observation, not appointment origin, pay or hours. No new personnel record, hours, leave or2004–2005 transition evidence surfaced; generic trustee avenues remain deferred pending an actual pre2010 report. No material change.",
+    "Follow-up2026-10-04: Full2017 official handbook resolves the previously combined early union offices: officer/organiser1996–99 and vice-president1998–99; separate office added. Adds omitted NSW Communications and Arts Policy Committee chair1998–99. Original Integral2001–02 report at https://data.nsw.gov.au/data/dataset/c0d7de46-bab4-4e30-ad7e-708c97d7e785/resource/2837dab2-eef5-4e0e-b966-34bb16545789/download/annualreport2002_1__14681.pdf contains no Husic match or Corporate Affairs match in reader text; aggregate staffing and political participation policies cannot establish personal hours, leave or departure. NSW tabled2001 report catalogue located but reader lacked attached links. Next lead: actual2003/04 employer personnel or APSS pre2010 trustee reports, not repeated generic profiles."
   ],
   "open_questions": [
     "What were the exact dates, hours, leave and payroll entities for both early federal adviser roles?",

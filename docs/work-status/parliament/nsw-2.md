@@ -292,3 +292,6 @@ Batch check passes: 226 assigned exactly once across 13 batches; nsw-2 assignmen
 
 - 2026-10-04T19:25:51+10:00: Kevin Hogan: second teaching interval and exact Trinity advisory resignation evidenced.
 - Attempt79distinct,0new,44material,35nonmaterial,0complete; cycle96distinct,50material,46nonmaterial; day226distinct,98material,128nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Ed Husic91219. OUTCOME:ongoing; STOPPING REASON:none.
+
+- 2026-10-04T19:27:30+10:00: Ed Husic: distinguish early union appointments and add party policy chair.
+- Attempt80distinct,0new,45material,35nonmaterial,0complete; cycle97distinct,51material,46nonmaterial; day226distinct,99material,127nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Barnaby JoyceE5D. OUTCOME:ongoing; STOPPING REASON:none.
