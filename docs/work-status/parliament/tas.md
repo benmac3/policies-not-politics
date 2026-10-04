@@ -159,3 +159,6 @@
 
 - 2026-10-04T20:36:27+10:00: Colbeck: added personal corroboration without counting it as material new chronology; recorded dated maiden-speech retrieval lead.
 - Attempt116distinct,0new,69material,47nonmaterial,0complete; cycle133distinct,75material,58nonmaterial; day226distinct,115material,111nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Julie Collins HWM. OUTCOME:ongoing; STOPPING REASON:none.
+
+- 2026-10-04T20:37:15+10:00: Collins: preserved two distinct early work episodes and departmental classification gap; no material change.
+- Attempt117distinct,0new,69material,48nonmaterial,0complete; cycle134distinct,75material,59nonmaterial; day226distinct,115material,111nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Josh Dolega316935. OUTCOME:ongoing; STOPPING REASON:none.
