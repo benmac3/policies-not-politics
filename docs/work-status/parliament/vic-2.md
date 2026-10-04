@@ -244,3 +244,7 @@ Batch coverage, record fields, dates, enums, source references, build_careers.lo
 - Aaron Violi: nonmaterial follow-up — a September 2026 first-person interview confirms the commercial sequence and says he led Mars sales in Victoria/Tasmania for 'a couple of years' during the Mars/Wrigley merger. That is consistent with the indexed profile but does not establish exact boundaries, FTE, leave, earlier Wrigley work, the snack-food duration conflict or Ritual election overlap.
 - Current continuation: 13 distinct records, 0 new, 2 materially enriched, 11 nonmaterial follow-ups and 0 newly complete. Cycle/day cumulative: 129 distinct, 0 new, 49 materially enriched, 80 nonmaterial follow-ups and 0 newly complete.
 - Durable next cursor: Tim Watts (193430).
+
+- Tim Watts: nonmaterial follow-up — targeted Mallesons/Telstra searches returned derivative biographies and the secondary July 2009 Telstra appointment report already reflected in the record. No personnel record, practising-certificate history, departure day, hours, leave or evidence resolving the Brumby 2008/2009 conflict surfaced.
+- Current continuation: 14 distinct records, 0 new, 2 materially enriched, 12 nonmaterial follow-ups and 0 newly complete. Cycle/day cumulative: 130 distinct, 0 new, 49 materially enriched, 81 nonmaterial follow-ups and 0 newly complete.
+- Durable next cursor: Anne Webster (281688).
