@@ -346,3 +346,6 @@ Batch coverage, record fields, dates, enums, source references, build_careers.lo
 
 - 2026-10-04T23:36:27+10:00: Tim Wilson: Monyx ownership/formation conflict and publisher-confirmed authorship added; full-time Commissioner evidence preserved.
 - Attempt197distinct,0new,128material,69nonmaterial,0complete; cycle214distinct,134material,80nonmaterial; day226distinct,148material,78nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Sarah Witty316660. OUTCOME:ongoing; STOPPING REASON:none.
+
+- 2026-10-04T23:37:21+10:00: Sarah Witty: no new supported employment fact; retained conflicting commercial dates and recorded professional-profile source failure.
+- Attempt198distinct,0new,128material,70nonmaterial,0complete; cycle215distinct,134material,81nonmaterial; day226distinct,148material,78nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Jason WoodE0F. OUTCOME:ongoing; STOPPING REASON:none.

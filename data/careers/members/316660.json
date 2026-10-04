@@ -195,14 +195,14 @@
       "date_precision": "unknown",
       "employment_status": "unknown",
       "fte_fraction": null,
-      "category": "unpaid_work",
+      "category": "unknown",
       "headline_sector": "excluded",
       "government_control_at_time": "unknown",
       "counting_status": "excluded",
       "source_ids": [
         "src-4"
       ],
-      "evidence_note": "Care role not assumed to be salaried public employment. Reimbursements or allowances would not alone establish employee status.",
+      "evidence_note": "Care role not assumed to be salaried public employment. Reimbursements or allowances would not alone establish employee status. Paid/unpaid basis remains unknown; care role is excluded without assuming wages or lack of reimbursement.",
       "counting_note": "Excluded from the two employment headlines under the codebook."
     },
     {
@@ -211,7 +211,7 @@
       "role": "Member for Melbourne",
       "start_date": "2025-05-03",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "day",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -248,7 +248,7 @@
       "role": "Volunteer childcare provider",
       "start_date": "2017-01",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "month",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "unpaid_work",
@@ -305,7 +305,7 @@
       "role": "Non-executive director",
       "start_date": "2019-10",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "month",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "nonprofit",
@@ -324,7 +324,7 @@
       "role": "Business Advisory Group member",
       "start_date": "2019-10",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "month",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "public_service",
@@ -520,6 +520,7 @@
     "2026-10-02 follow-up resolved property agency to Harcourts City Residential using employer-published listings and2010sale snapshot; refined FCAV board startSeptember2022. Readable public professional profile adds named volunteering, judging, nonprofit governance and council advisory work. These are excluded rather than assumed paid employment.",
     "Paid-profile entries remain blank. Banking/insurance/ScottishPacific search results still chiefly aggregators with inconsistent date ranges; not adopted. Harcourts dates also conflict across aggregators, so no synthetic range added. PCA profile says present while aggregator suggestsJuly2022departure; only committee-chair endJuly2022directly supported, board end remainsunknown. VerySpecialKids volunteering overlaps commercial-career leads; MacKillop service may overlap existing foster-care spell and is not counted twice. Seek employer announcements, contracts/hours, ballet/Subway entity and nonprofit workload. Last follow-up2026-10-02; all totals remainnull.",
     "2026-10-03 follow-up: two public professional-profile indexes consistently identify National Credit Insurance (new business/sales), Bank of Melbourne (local business manager) and Scottish Pacific/ScotPac (business development), and corroborate the Harcourts sales-executive and Subway owner/operator roles. Because their month ranges conflict materially, only employer and role identities were adopted; no synthetic boundaries or full-time inference was made. Fresh employer-domain searches did not locate appointment records, contracts or hours. Multiple primary Harcourts listings continue to support2010 activity only. Record remains blocked, totals null.",
-    "2026-10-04 follow-up: narrow employer-by-employer searches recovered no primary personnel or appointment record. ContactOut and SignalHire continue to disagree materially on Harcourts, NCI, Bank of Melbourne and ScotPac month ranges, so none was adopted; Guardian and first-person-derived summaries confirm only the generic banking, insurance, Subway and ballet sequence. Decisive evidence remains archived employer staff pages, contracts/payroll, business/franchise registrations and the member's underlying professional profile. Record remains blocked."
+    "2026-10-04 follow-up: narrow employer-by-employer searches recovered no primary personnel or appointment record. ContactOut and SignalHire continue to disagree materially on Harcourts, NCI, Bank of Melbourne and ScotPac month ranges, so none was adopted; Guardian and first-person-derived summaries confirm only the generic banking, insurance, Subway and ballet sequence. Decisive evidence remains archived employer staff pages, contracts/payroll, business/franchise registrations and the member's underlying professional profile. Record remains blocked.",
+    "Follow-up2026-10-04: Targeted full-time and qualification queries returned job advertisements for staff in Witty’s parliamentary office, not her pre-parliamentary hours or education. Current direct professional-profile open returned(999)Unknown Status Code; no retry or access-control bypass. Existing earlier public profile evidence preserved, no new dates adopted. Corrected foster-care pay classification to unknown and one-sided date precision. Existing inconsistent commercial month ranges and overlapping nonprofit work remain unresolved. Next: employer personnel records, legally public franchise/ballet registrations and original self-reported education, rather than repeatedly searching the same contact indexes."
   ]
 }
