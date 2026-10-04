@@ -167,3 +167,6 @@
 
 - Jordon Steele John250156: materially added named nonprofit governance/advocacy; unresolved.
 - Attempt41distinct,0new,23material,18nonmaterial,0complete; cycle58distinct,29material,29nonmaterial; day195distinct,79material,116nonmaterial; all0new/complete. Next: Glenn SterleE68. OUTCOME:ongoing; STOPPING REASON:none.
+
+- Glenn SterleE68: materially strengthened union re-election and self-employment evidence; unresolved.
+- Attempt42distinct,0new,24material,18nonmaterial,0complete; cycle59distinct,30material,29nonmaterial; day196distinct,80material,116nonmaterial; all0new/complete. Next: Ellie Whiteaker316555. OUTCOME:ongoing; STOPPING REASON:none.
