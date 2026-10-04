@@ -462,7 +462,7 @@
       "role": "Member for Flinders",
       "start_date": "2022-05-21",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "day",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -533,6 +533,26 @@
       "evidence_note": "Previously included in combined portfolio spell; retained separately to preserve supported sequence while dates and principal remain unresolved. Do not infer uninterrupted2003–2007 employment.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "124514-26"
+    },
+    {
+      "spell_id": "124514-27",
+      "employer": "Save Our Spidercrabs",
+      "role": "Committee member / community environmental advocacy",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "oct4-community-primary",
+        "oct4-sos-committee"
+      ],
+      "evidence_note": "Party biography identifies involvement and contemporary reporting observes committee membership on 24 May 2021. Legal entity, compensation and tenure not established. Community committee role is not evidence of paid employment or substantive full-time work.",
+      "counting_note": "Governance/community role excluded from employment headlines; unpaid status is not presumed."
     }
   ],
   "sources": [
@@ -705,6 +725,26 @@
       "note": "Reports that McKenzie had stood down from several boards and her own company, Trade & Investment Advisory, to pursue Liberal preselection. Publication timing supports a December 2021 cessation month, not an exact day or full-time-hours finding.",
       "retrieved": "2026-10-04",
       "source_id": "oct4-mpnews-company"
+    },
+    {
+      "source_id": "oct4-community-primary",
+      "url": "https://www.liberal.org.au/team/zoe-mckenzie",
+      "publisher": "Liberal Party of Australia",
+      "title": "Zoe McKenzie",
+      "retrieved": "2026-10-04",
+      "source_type": "official_biography",
+      "locator": "About Zoe, paragraph beginning Zoe served on the Board",
+      "note": "Names work with Mornington Peninsula Foundation and Save our Spidercrabs without contract, pay, hours or tenure."
+    },
+    {
+      "source_id": "oct4-sos-committee",
+      "url": "https://www.mpnews.com.au/2021/05/31/zoes-big-day-out-for-hugs/",
+      "publisher": "Mornington Peninsula News Group",
+      "title": "Zoe’s big day out for hugs, 31 May 2021",
+      "retrieved": "2026-10-04",
+      "source_type": "news",
+      "locator": "Paragraphs beginning ZOE the Giant Spider Crab and Members of Save Our Spidercrabs",
+      "note": "Identifies McKenzie as a committee member during 24 May 2021 community event; this is a dated observation, not an appointment boundary."
     }
   ],
   "research_notes": [
@@ -716,6 +756,7 @@
     "Concurrent directorships, advisory committees and business operation remain separate. Board fees, principal and senior-associate titles cannot establish full-time duration. Unknown is not zero; record remains blocked despite substantial chronology recovery.",
     "2026-10-02 follow-up located contemporary Fondapol author biography, separating dated Nelson/Bishop2003–2006 and Brandis2007 political roles and confirming senior research in2008. The2003/2004 start conflict is explicit; no full-time inference. Searches for KPMG tenure, law-firm promotion records and advisory-business founding produced no admissible hours/endpoints. An aggregation profile suggests July2016 business founding and November2013 Robb appointment, but is discovery-only and not entered as dates; seek primary business/ministerial records. Namesake professional profiles excluded. Next: KPMG chairman/CEO office archives, Freehills2003 promotions, and business registration corroborated with actual work rather than registration alone. Both totals remain null.",
     "2026-10-03 follow-up: Australian Business Register history identifies Kommerz Pty Ltd as the exact legal entity behind Trade and Investment Advisory, materially resolving the advisory employer identity and private-company control. The entity was active 1 October 2016–6 January 2023 and the business name registered 25 October 2016–12 March 2020. Those are entity/name dates, not McKenzie's work dates: official biographies observe her leading the firm from 2016–17 onward, and contemporary 15 December 2021 reporting says she had stood down from her company to seek preselection. No exact personal start/end, hours or full-time status is inferred. Parliamentary committee material also describes the earlier KPMG function as strategic advice to a major professional-services CEO, consistent with but not dating the French biography's named KPMG chairman-office role. Legal-practice, KPMG, secondment payroll and personal advisory-work boundaries remain unresolved.",
-    "2026-10-04 follow-up: Mornington Peninsula News reporting first published 15 December 2021 says McKenzie had stood down from her own Trade & Investment Advisory company and several boards to pursue preselection. The advisory-business spell now ends at December 2021 month precision; the publication date is not used as the exact cessation day and does not prove hours. Exact commencement, KPMG and legal-practice dates, and secondment payroll remain unresolved. Targeted firm/alumni searches returned only derivative 2003 Freehills and 2004 policy claims, so those were not promoted over the conflicting contemporary employer biography."
+    "2026-10-04 follow-up: Mornington Peninsula News reporting first published 15 December 2021 says McKenzie had stood down from her own Trade & Investment Advisory company and several boards to pursue preselection. The advisory-business spell now ends at December 2021 month precision; the publication date is not used as the exact cessation day and does not prove hours. Exact commencement, KPMG and legal-practice dates, and secondment payroll remain unresolved. Targeted firm/alumni searches returned only derivative 2003 Freehills and 2004 policy claims, so those were not promoted over the conflicting contemporary employer biography.",
+    "Follow-up2026-10-04: Primary party biography and contemporary local reporting establish Save Our Spidercrabs committee membership, observed at a 24 May 2021 event. Added the separate community governance role with unknown compensation and tenure, rather than treating it as paid work or automatically unpaid. Mornington Peninsula Foundation involvement is also named, but a defined role, dates and employment relationship remain a follow-up lead. Searches for community remuneration and legal/KPMG employment boundaries did not resolve hours; unrelated younger school and science profiles excluded. Both headline totals remain null."
   ]
 }
