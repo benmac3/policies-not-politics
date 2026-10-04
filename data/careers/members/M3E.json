@@ -239,6 +239,26 @@
       ],
       "evidence_note": "In a 2016 parliamentary speech Mitchell described truck driving and vehicle servicing among the work he performed during a rounded 20-year transport-industry career. The source does not identify employers, dates, contractual status, hours or whether these duties belonged to an existing roadside, sales or parts-supply spell. Record the omitted work but do not create an additional duration or extend the dated 1987–2002 chronology.",
       "counting_note": "Dates, employer control and/or substantive full-time status remain insufficient for a duration calculation; unknown is not zero. This potentially overlaps other transport-industry spells and must not be added to them."
+    },
+    {
+      "spell_id": "M3E-tafe",
+      "employer": "Collingwood TAFE (institution name as recalled)",
+      "role": "Footwear/clothing apprenticeship-related study",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "oct4-tafe",
+        "src-1"
+      ],
+      "evidence_note": "Own2025 speech identifies Collingwood TAFE and footwear/clothing apprenticeship context. Official apprenticeship1983–1987 retained in existing paid-work candidate; classroom attendance dates/duration not separately supplied and not assumed identical. Training provider is not necessarily the legal employer.",
+      "counting_note": "Study excluded and not added to concurrent apprenticeship employment."
     }
   ],
   "sources": [
@@ -331,6 +351,16 @@
       "note": "First-person account adds truck driving and vehicle servicing to the known transport-industry work. The rounded 20-year description is not treated as an exact continuous interval and does not identify employers or hours.",
       "retrieved": "2026-10-03",
       "source_id": "src-9"
+    },
+    {
+      "source_id": "oct4-tafe",
+      "url": "https://www.openaustralia.org.au/debate/?id=2025-02-10.158.1",
+      "publisher": "Australian Parliament / OpenAustralia transcript",
+      "title": "Rob Mitchell: Apprenticeships,10 February2025",
+      "source_type": "government_record",
+      "retrieved": "2026-10-04",
+      "locator": "12:33pm contribution; paragraph beginning I am proud to have done my apprenticeship",
+      "note": "First-person testimony names Collingwood TAFE for apprenticeship-related study. No calendar attendance boundaries or employing factory name."
     }
   ],
   "research_notes": [
@@ -341,6 +371,7 @@
     "Campaigns in 1999, 2006 and 2007 and party participation described in first speech are political activity, not presumed paid employment. Professional membership and volunteer work likewise are not substantive paid employment. No unsupported zero or uninterrupted duration entered; initial record remains blocked.",
     "2026-10-02 follow-up: added apprenticeship daily-hours recollection and October2007 cessation of political advisory work, qualifying the existing2006–2010 envelope. State Parliament profile confirms term and supplies 27February2003 first-speech archive lead, but legacy endpoint unavailable. Searches for footwear/diesel/parts employers and ministerial work found no company identity or weekly-hours evidence; overseas BMW, diesel social-media and medical namesakes excluded. Next: accessible Victorian2003 Hansard p56 onward for employer clues, and post-election adviser reappointment record; do not repeat generic company searches without a new lead. Both headline totals remain unknown.",
     "2026-10-03 follow-up: a first-person 18 April 2016 parliamentary speech adds truck driving and vehicle servicing to the previously recorded transport-industry work. Its rounded '20 years' is not used to extend the dated 1987–2002 sequence, because it supplies no boundaries and conflicts with treating that 15-year envelope as exact continuous work. Added an undated, potentially overlapping spell so the work is not omitted. Targeted employer-name, diesel-parts, RACV contractor and Victorian inaugural-speech searches still did not identify a legal employer, weekly hours or the 1998/2000 transitions. Preserve the 27 February 2003 Victorian Hansard and historical company/personnel records as leads; totals remain uncalculable.",
-    "2026-10-04 follow-up: exact-phrase searches combining Rob/Robert Mitchell with bootmaking, RACV contracting, truck/bus parts and diesel-engine parts found no employer identity or personnel record. Official APH indexing repeats only the existing generic role/year chronology; derivative biographies repeat the RACV-contractor and unnamed diesel-company descriptions without a primary citation that resolves legal employer, control, hours or transitions. Broad company-name search is exhausted for this pass. The remaining productive avenues are the 27 February 2003 Victorian inaugural-speech record and historical RACV contractor/company or payroll archives; namesake transport and automotive results were excluded."
+    "2026-10-04 follow-up: exact-phrase searches combining Rob/Robert Mitchell with bootmaking, RACV contracting, truck/bus parts and diesel-engine parts found no employer identity or personnel record. Official APH indexing repeats only the existing generic role/year chronology; derivative biographies repeat the RACV-contractor and unnamed diesel-company descriptions without a primary citation that resolves legal employer, control, hours or transitions. Broad company-name search is exhausted for this pass. The remaining productive avenues are the 27 February 2003 Victorian inaugural-speech record and historical RACV contractor/company or payroll archives; namesake transport and automotive results were excluded.",
+    "Follow-up2026-10-04: New10 February2025 first-person parliamentary testimony identifies Collingwood TAFE for apprenticeship study, previously missing. Added study separately without equating attendance dates to the1983–1987 apprenticeship or treating the provider as employer. Source says factory-floor experience but supplies no factory name or weekly hours. Official qualifications repeat the already recorded diploma/membership, with no new provider/date. State member page still routes2003 inaugural speech to the legacy tex.parliament.vic.gov.au endpoint; this pass did not recover its text. Transport employers, hours and adviser reappointment remain unresolved."
   ]
 }

@@ -292,3 +292,6 @@ Batch coverage, record fields, dates, enums, source references, build_careers.lo
 
 - 2026-10-04T22:57:35+10:00: Marles: verified science/law study added; namesake/adjoining-biography dates rejected.
 - Attempt179distinct,0new,115material,64nonmaterial,0complete; cycle196distinct,121material,75nonmaterial; day226distinct,138material,88nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Rob MitchellM3E. OUTCOME:ongoing; STOPPING REASON:none.
+
+- 2026-10-04T22:58:54+10:00: Mitchell: previously omitted named TAFE training recovered; employer/hour gaps retained.
+- Attempt180distinct,0new,116material,64nonmaterial,0complete; cycle197distinct,122material,75nonmaterial; day226distinct,139material,87nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Daniel Mulino132880. OUTCOME:ongoing; STOPPING REASON:none.
