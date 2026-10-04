@@ -67,7 +67,8 @@
       "counting_status": "excluded",
       "source_ids": [
         "src-1",
-        "src-7"
+        "src-7",
+        "src-17"
       ],
       "evidence_note": "Student office retained separately; no full-time inference.",
       "counting_note": "Excluded from the two employment headlines under the codebook."
@@ -78,7 +79,7 @@
       "role": "Development project manager",
       "start_date": "2004",
       "end_date": "2006-04",
-      "date_precision": "month",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "university",
@@ -308,7 +309,7 @@
       "role": "Member for Goldstein, returned parliamentary period",
       "start_date": "2025",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -398,9 +399,10 @@
       "government_control_at_time": "unknown",
       "counting_status": "excluded",
       "source_ids": [
-        "src-1"
+        "src-1",
+        "src-17"
       ],
-      "evidence_note": "Board/director title retained as governance, not presumed full-time work; organisational status requires historical evidence.",
+      "evidence_note": "Board/director title retained as governance, not presumed full-time work; organisational status requires historical evidence. MONSU history says Monyx established2003 and jointly half-owned by student organisations and Monash commercial arm MONCOMM. This conflicts with the official2002 director start; entity/predecessor history requires reconciliation. Equal ownership does not establish which party controlled the board.",
       "counting_note": "Excluded from the two employment headlines under the codebook."
     },
     {
@@ -420,7 +422,7 @@
         "src-1",
         "src-7"
       ],
-      "evidence_note": "Qualifications and career development excluded; paid employment during study not inferred.",
+      "evidence_note": "Qualifications and career development excluded; paid employment during study not inferred. Own biography says initial painting degree study at Monash Caulfield lasted a year before switching to public policy; absolute dates and degree completion for painting unestablished.",
       "counting_note": "Excluded from the two employment headlines under the codebook."
     },
     {
@@ -443,6 +445,26 @@
       ],
       "evidence_note": "Additional media activity mentioned outside two dated commercial radio roles; employer-contract identity, remuneration, dates and possible duplication unresolved.",
       "counting_note": "Dates, employer control and/or substantive full-time status remain insufficient for a duration calculation; unknown is not zero."
+    },
+    {
+      "spell_id": "IMW-22",
+      "employer": "Connor Court Publishing / Kapunda Press (publisher; employment relationship unknown)",
+      "role": "Author of The New Social Contract: Renewing the liberal vision for Australia",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-7",
+        "src-18"
+      ],
+      "evidence_note": "Own biography confirms2020 book; publisher confirms author and imprint. Writing period, contract and remuneration unknown; release not an employment endpoint.",
+      "counting_note": "No evidence of substantive full-time authorship. University-associated imprint does not establish university payroll or public employment."
     }
   ],
   "sources": [
@@ -511,9 +533,9 @@
       "url": "https://www.timwilsonmp.com.au/about_tim",
       "publisher": "Tim Wilson MP",
       "title": "About Tim",
-      "retrieved": "2026-09-29",
+      "retrieved": "2026-10-04",
       "source_type": "official_biography",
-      "locator": "Career and education narrative",
+      "locator": "About Tim, painting/public-policy study paragraphs and2020 book, lines33–42",
       "note": "Identifies consulting/business, international development, media and university activity; no complete dated payroll chronology."
     },
     {
@@ -590,7 +612,7 @@
       "url": "https://www.openaustralia.org.au/debate/?id=2026-02-04.42.1",
       "publisher": "Parliament of Australia / OpenAustralia transcript",
       "title": "Health Legislation Amendment (Prescribing of Pharmaceutical Benefits) Bill 2025 — Tim Wilson",
-      "source_type": "parliament",
+      "source_type": "government_record",
       "locator": "House of Representatives, 4 February 2026, 12:39 pm; opening paragraph",
       "note": "First-person parliamentary account describes service on AHPRA's Nursing and Midwifery Board from 2010 until about 2013. Its approximate start conflicts with APH's 2011–2013 official range and does not establish appointment days, hours or remuneration.",
       "retrieved": "2026-10-03",
@@ -602,9 +624,29 @@
       "publisher": "DeSmog",
       "title": "Australian APEC Study Centre",
       "retrieved": "2026-10-04",
-      "source_type": "secondary_profile",
+      "source_type": "news",
       "locator": "Staff table, Tim Wilson row",
       "note": "Staff-history compilation records Tim Wilson as project manager and 'Resigned. April 2006'. Used only to refine the endpoint to month precision; payroll entity, hours and day remain unresolved."
+    },
+    {
+      "source_id": "src-17",
+      "url": "https://www.monsu.org/business/alumni/",
+      "publisher": "MONSU Caulfield",
+      "title": "History",
+      "retrieved": "2026-10-04",
+      "source_type": "employer",
+      "locator": "History paragraphs and Past Presidents table, lines37–40,65–66",
+      "note": "Organisation records2003 establishment of Monyx, half student-owned through MONSU/MSA and half via Monash commercial arm MONCOMM; dissolution2007. Lists Wilson president2002–03. No personal pay/hours."
+    },
+    {
+      "source_id": "src-18",
+      "url": "https://www.connorcourtpublishing.com.au/THE-NEW-SOCIAL-CONTRACT-Renewing-the-liberal-vision-for-Australia--Tim-Wilson_p_377.html",
+      "publisher": "Connor Court Publishing",
+      "title": "The New Social Contract: Renewing the liberal vision for Australia — Tim Wilson",
+      "retrieved": "2026-10-04",
+      "source_type": "employer",
+      "locator": "Public indexed product description, author, imprint and planned July2020 release",
+      "note": "Publisher confirms author and Kapunda Press imprint, in association with PM Glynn Institute at Australian Catholic University. Planned release not proof of actual writing or employment dates."
     }
   ],
   "research_notes": [
@@ -617,6 +659,7 @@
     "2026-10-02 follow-up: Alfred Health2013–14 primary annual report refines board cessation; contemporary ABC interview corroborates effective commissioner departure19February2016. LinkedIn public-index grouped Dynamic Sunrise2007–16 range preserved as an overlap discrepancy rather than overwriting APH split spells. Contemporary IPA column identifies APEC consultancy, not proof of university payroll.",
     "Appointment media-release index identifies Federal Executive Council appointment17February2014; ABC17February2014 transcript introduction refers to taking up post tomorrow, whereas February2016 resignation report describes second anniversary. These may represent different milestones. Retain month-only commencement pending instrument. Seek leave records, APEC contracting entity, exact AHPRA board and electorate employer, and post2022 consulting hours. APH estimatesPDF restricted, IPA PDF inaccessible and LinkedIn open Internal Error; no access bypass. Last follow-up2026-10-02; blocked remains.",
     "2026-10-03 follow-up: current APH material resolves the previously generic AHPRA entry to the Victorian Nursing and Midwifery Board and dates it 2011–2013. Wilson's first-person parliamentary account on 4 February 2026 recalls service from 2010 until about 2013; because the start is approximate and conflicts with APH, both are documented and the official year range retained. This is excluded governance, not additional public-service employment. Fresh commencement-instrument, APEC-payroll and consulting-hours searches did not resolve those gaps; record remains blocked.",
-    "2026-10-04 follow-up: a staff-history compilation records Wilson as Australian APEC Study Centre project manager and says he resigned in April 2006, refining the official 2006 endpoint to month precision. Exact electorate-office identity, APEC payroll/contract counterparty and hours, Human Rights Commissioner commencement instrument/leave, and private consulting hours remain unresolved. Narrow exact-name searches avoided prior oversized-result truncation; public-web avenues did not supply the decisive personnel or contracting records. Record remains blocked."
+    "2026-10-04 follow-up: a staff-history compilation records Wilson as Australian APEC Study Centre project manager and says he resigned in April 2006, refining the official 2006 endpoint to month precision. Exact electorate-office identity, APEC payroll/contract counterparty and hours, Human Rights Commissioner commencement instrument/leave, and private consulting hours remain unresolved. Narrow exact-name searches avoided prior oversized-result truncation; public-web avenues did not supply the decisive personnel or contracting records. Record remains blocked.",
+    "Follow-up2026-10-04: Primary MONSU history clarifies Monyx joint ownership and2003 formation, raising a documented conflict with official2002 director start. Equal ownership does not prove board control; governance remains excluded. Added publisher-confirmed2020 book authorship with contract, pay and writing dates unknown. Own biography adds one-year initial Monash painting study before switching subjects, without absolute dates. Reconciled APEC year/month precision and source enums. Search full-time statements concerned other commissioners, not IPA employment. Next: historical Monyx incorporation/board instruments, commissioner effective appointment and leave, consulting contracts/hours, named electorate employer."
   ]
 }

@@ -343,3 +343,6 @@ Batch coverage, record fields, dates, enums, source references, build_careers.lo
 
 - 2026-10-04T23:35:03+10:00: Anne Webster: official AMusA qualification added; scholarship and AICD leads retained without inventing employment.
 - Attempt196distinct,0new,127material,69nonmaterial,0complete; cycle213distinct,133material,80nonmaterial; day226distinct,148material,78nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Tim WilsonIMW. OUTCOME:ongoing; STOPPING REASON:none.
+
+- 2026-10-04T23:36:27+10:00: Tim Wilson: Monyx ownership/formation conflict and publisher-confirmed authorship added; full-time Commissioner evidence preserved.
+- Attempt197distinct,0new,128material,69nonmaterial,0complete; cycle214distinct,134material,80nonmaterial; day226distinct,148material,78nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Sarah Witty316660. OUTCOME:ongoing; STOPPING REASON:none.
