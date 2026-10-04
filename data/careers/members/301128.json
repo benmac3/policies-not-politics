@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/301128",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-03",
+  "last_reviewed": "2026-10-04",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -231,8 +231,8 @@
       "employer": "Portable Long Service Leave Authority",
       "role": "Board member",
       "start_date": "2022-09",
-      "end_date": "2024-04",
-      "date_precision": "month",
+      "end_date": "2024-02-27",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "unknown",
@@ -241,9 +241,10 @@
       "counting_status": "excluded",
       "source_ids": [
         "src-1",
-        "src-2"
+        "src-2",
+        "oct4-plsa2024"
       ],
-      "evidence_note": "Statutory-board service not full-time employment evidence.",
+      "evidence_note": "Statutory-board service, not substantive full-time employment. The Authority's 2023–24 responsible-persons table records board service through 27 February 2024, providing an exact cessation date that conflicts with the inherited official-biography month label April 2024; the primary body record is retained and the discrepancy documented.",
       "counting_note": "Outside the two employment headlines under the codebook; retained as career context."
     },
     {
@@ -482,6 +483,16 @@
       "note": "Lists Lisa Darmanin as branch secretary and full-time officer from 1 July 2022 to 2 June 2024, with Natasha Wark appointed on 2 June 2024.",
       "retrieved": "2026-10-03",
       "source_id": "oct3-asu-2024"
+    },
+    {
+      "url": "https://www.plsa.vic.gov.au/2023-24-annual-report-portable-long-service-authority/financial-statements",
+      "publisher": "Portable Long Service Authority, Victorian Government",
+      "title": "Annual Report 2023–24 — financial statements",
+      "source_type": "government_record",
+      "locator": "Responsible persons table, period of appointment: Lisa Darmanin",
+      "note": "Official table records Darmanin as director from 1 July 2023 to 27 February 2024. It provides an exact cessation observation for the board role but no full-time employment evidence.",
+      "retrieved": "2026-10-04",
+      "source_id": "oct4-plsa2024"
     }
   ],
   "research_notes": [
@@ -492,6 +503,7 @@
     "Follow-up2026-10-02: added explicitly part-time Safeway first job, organiser start2000, confirmed department and Trades Hall secondments, recovered Vision exact board/chair dates and deputy role, and Equal Workplaces advisory membership.",
     "Searches of official/state, union, employer and conference records did not resolve department hours, payroll or exact secondment dates, or early ASU promotion dates.2006 date in derivative biographies remains unadopted.2024 Vision fees paid to union are not personal full-time employment evidence.",
     "Follow-up2026-10-03: regulator records now observe the assistant-secretary title by1 January2008, establish the exact25 July2014 president transition, the exact26 June2018 branch-secretary transition and2 June2024 cessation, and directly label the secretary as a full-time officer for1 July2022–2 June2024. Union work remains outside the two headline sectors.",
-    "Next follow-up: DPC appointment/secondment agreement or staff biography; primary election record for the original assistant-secretary appointment and evidence for work status outside the directly reported union intervals. Preserve headline nulls pending supported public FT interval; partial private job is not proof of zero lifetime FT work."
+    "Next follow-up: DPC appointment/secondment agreement or staff biography; primary election record for the original assistant-secretary appointment and evidence for work status outside the directly reported union intervals. Preserve headline nulls pending supported public FT interval; partial private job is not proof of zero lifetime FT work.",
+    "Fourth follow-up4October2026: the Portable Long Service Authority's primary2023–24 financial table records Darmanin as a director only through27February2024, materially refining the prior inherited April2024 endpoint while documenting the conflict. This governance role remains excluded and supplies no public-service FTE. DPC/Trades Hall searches still produced only derivative or conference biographies; they repeat a2006 campaign/secondment narrative but do not identify DPC payroll, exact appointment dates or hours. Headline public years remain uncalculable."
   ]
 }
