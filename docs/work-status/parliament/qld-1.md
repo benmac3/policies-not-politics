@@ -342,3 +342,6 @@ Deduplicated Brisbane-day new member IDs: 00AMR, 101351, 124514, 132880, 140590,
 
 - 2026-10-05T00:21:00+10:00: Cook: primary court-report index confirms associateship at30June2009; no full-time or interval inferred.
 - Originating cycle2026-10-04 16:00 continuation1; attempt started2026-10-04T17:00:01+10:00 and ongoing. Attempt215distinct,0new,140material,75nonmaterial,0complete; cycle226distinct,144material,82nonmaterial. Current Brisbane day2026-10-05: 6distinct,0new,5material,1nonmaterial,0complete. Counts deduplicated within attempt/cycle/day. Next: Milton Dick53517: original party/office appointment archives; avoid exhausted biographies. OUTCOME:ongoing; STOPPING REASON:none. No successor requested.
+
+- 2026-10-05T00:26:57+10:00: Milton Dick: primary directory link could not be resolved; no substantive employment enrichment.
+- Originating cycle2026-10-04 16:00 continuation1; attempt started2026-10-04T17:00:01+10:00 and ongoing. Attempt216distinct,0new,140material,76nonmaterial,0complete; cycle226distinct,144material,82nonmaterial. Current Brisbane day2026-10-05: 7distinct,0new,5material,2nonmaterial,0complete. Counts deduplicated within attempt/cycle/day. Next: Ali France270198: targeted primary employment/profile evidence.. OUTCOME:ongoing; STOPPING REASON:none. No successor requested.
