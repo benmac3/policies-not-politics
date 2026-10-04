@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/298574",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-04",
+  "last_reviewed": "2026-10-05",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -196,7 +196,7 @@
       "role": "Member for Brisbane",
       "start_date": "2025-05-03",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "day",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -309,6 +309,28 @@
       "evidence_note": "Aggregation identifies1991–1992; no primary individual appointment found. Public agency name supports provisional sector, but role, dates and hours need verification.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "298574-14"
+    },
+    {
+      "spell_id": "298574-15",
+      "employer": "Australian Labor Party / Aspley and Brisbane campaigns",
+      "role": "Candidate for Aspley1995 and Brisbane2022/2025; intermittent campaigning",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "party_organisation",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-16",
+        "src-4",
+        "src-5",
+        "src-7"
+      ],
+      "evidence_note": "Original1999 committee report identifies1995 Aspley candidacy; ABC candidate guides confirm the later2022 and2025 Brisbane contests. These are separate campaigns, not a continuous1995–2025 job. Appointment/pay, campaign leave, weekly hours and exact campaign boundaries unknown.",
+      "counting_note": "Political candidacy is excluded regardless of pay; campaign years do not date Deloitte employment or leave."
     }
   ],
   "sources": [
@@ -467,9 +489,9 @@
       "publisher": "Queensland Parliament",
       "title": "Estimates Committee F Report1of1999",
       "source_type": "government_record",
-      "locator": "PDFp11, statement of reservations section7.7",
+      "locator": "PDFp11, statement of reservations section7.7: consultancy and1995Aspley candidacy",
       "note": "Reports payment to Jarrett of MJM Issues Management; ministerial corroboration in28October1999Hansard.",
-      "retrieved": "2026-10-02",
+      "retrieved": "2026-10-05",
       "source_id": "src-16"
     },
     {
@@ -542,6 +564,7 @@
     "2026-10-02 follow-up: recovered explicit full-time and six-month leave evidence, MJM Issues Management consultancy and separate departmental-unit role from historical ministerial records; board annual-report corroboration. Profile leads additionally identify Queensland Justice/Corrective Services adviser1989–1990, Queensland Employment/Training/IR adviser/chief of staff1992–1996 and NSW vocational education adviser1996–1998; verify offices and true dates before splitting existing grouped row. Radiography Mater/private practice1984–1989 and Victorian Financial Institutions Commission1991–1992 require primary records. Early Deloitte2000–2004 roles added as provisional; Jan boundaries not asserted. Original global role may begin September2004 (aggregation), to corroborate against employer archive. No calculation until dates, overlaps and six-month leave placement resolved. Annual-report2022–23 full open400 size error was source-only; indexed passage and accessible2023–24 report used. Search namesakes Dr Anderson/SPI Pharma rejected. Do not infer an unbroken25-year total or literal2000 appointment from opposition assertion corrected by minister.",
     "Validation caught pre-existing governance category outside approved vocabulary; volunteer board row recoded unpaid_work, still excluded. Local AssertionError resolved before commit.",
     "2026-10-03 follow-up: an August 2023 joint IOE-Deloitte report provides the latest primary Deloitte observation found and records a title change to Director, Strategy, Innovation and Public Policy, Deloitte Global. It does not establish uninterrupted service from January 2019, weekly hours, campaign leave or final cessation. Fresh Queensland parliamentary, Mater, historical government-office and Deloitte searches otherwise repeated existing facts or professional-profile aggregations; exact early employers and boundaries remain unresolved.",
-    "2026-10-04 follow-up: a contemporary Deloitte IAS Plus release identifies Jarrett as Director, Global Public Relations and CEO Communications on 19 December 2005, moving the first primary Deloitte observation earlier than the January 2006 release. Exact-name searches for Mater radiography, the Victorian Financial Institutions Commission and Queensland Justice/Corrective Services produced only professional-profile aggregations already treated as leads, not original appointment or payroll evidence. Early employers, government-office boundaries, hours, the six-month parental break placement and Deloitte commencement remain unresolved."
+    "2026-10-04 follow-up: a contemporary Deloitte IAS Plus release identifies Jarrett as Director, Global Public Relations and CEO Communications on 19 December 2005, moving the first primary Deloitte observation earlier than the January 2006 release. Exact-name searches for Mater radiography, the Victorian Financial Institutions Commission and Queensland Justice/Corrective Services produced only professional-profile aggregations already treated as leads, not original appointment or payroll evidence. Early employers, government-office boundaries, hours, the six-month parental break placement and Deloitte commencement remain unresolved.",
+    "Targeted follow-up2026-10-05: Added previously unseparated intermittent1995Aspley and2022/2025Brisbane candidacy, primary1999 parliamentary report corroborating the earlier contest. No continuous party job or campaign-induced Deloitte cessation inferred. Earlier Deloitte2001 query exposed only professional aggregations. Full-name/Madonna Camp historical search yielded no primary radiography, VFIC or ministerial personnel boundary. Original2000 Hansard identifies the alternative name, but its disputed current-job claim remains superseded by Braddy's correction. Next: hospital/vintage government personnel lists or original Deloitte role/leave records."
   ]
 }
