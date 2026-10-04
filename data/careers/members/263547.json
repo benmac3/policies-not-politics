@@ -160,7 +160,7 @@
       "role": "Member for Corangamite",
       "start_date": "2019-05-18",
       "end_date": null,
-      "date_precision": "unknown",
+      "date_precision": "day",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -192,6 +192,85 @@
       "evidence_note": "Official annual reports establish re-electionOctober2016 and resignation effective27 May2019; preserves break after9 May2016. Election month is not an invented oath/appointment day.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "263547-council2"
+    },
+    {
+      "spell_id": "263547-study1",
+      "employer": "University of New England",
+      "role": "Bachelor of Arts",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "oct4-qualifications",
+        "oct4-abcqual"
+      ],
+      "evidence_note": "Qualification and institution identified; course, attendance and conferral dates and study load not established. Qualification does not establish an employment interval.",
+      "counting_note": "Study excluded from both employment headlines; no implied work or dates."
+    },
+    {
+      "spell_id": "263547-study2",
+      "employer": "Monash University",
+      "role": "Diploma of Education",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "oct4-qualifications",
+        "oct4-abcqual"
+      ],
+      "evidence_note": "Qualification and institution identified; course, attendance and conferral dates and study load not established. Qualification does not establish an employment interval.",
+      "counting_note": "Study excluded from both employment headlines; no implied work or dates."
+    },
+    {
+      "spell_id": "263547-study3",
+      "employer": "Deakin University",
+      "role": "Bachelor of Letters",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "oct4-qualifications",
+        "oct4-abcqual"
+      ],
+      "evidence_note": "Qualification and institution identified; course, attendance and conferral dates and study load not established. Qualification does not establish an employment interval.",
+      "counting_note": "Study excluded from both employment headlines; no implied work or dates."
+    },
+    {
+      "spell_id": "263547-study4",
+      "employer": "Australian Institute of Company Directors",
+      "role": "Graduate qualification / Grad(AICD)",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "oct4-qualifications"
+      ],
+      "evidence_note": "Qualification and institution identified; course, attendance and conferral dates and study load not established. Qualification does not establish an employment interval.",
+      "counting_note": "Study excluded from both employment headlines; no implied work or dates."
     }
   ],
   "sources": [
@@ -251,8 +330,8 @@
       "title": "Guest speaker history",
       "source_type": "other",
       "locator": "November2021, Libby Coker Zoom address",
-      "note": "Event host reports her early high-school teaching in Frankston and Geelong; no institutions or dates.",
-      "retrieved": "2026-10-02",
+      "note": "Event host reports her early high-school teaching in Frankston and Geelong; no institutions or dates. Full-page check distinguishes November2021 Coker teaching account from February2022 Libby Mears health-industry account; latter not this member.",
+      "retrieved": "2026-10-04",
       "source_id": "oct2-probus"
     },
     {
@@ -294,6 +373,26 @@
       "note": "First election2008, mayoral terms2009–2010 and2012–2013; updated accessible URL for existing source5.",
       "retrieved": "2026-10-02",
       "source_id": "oct2-owncouncil"
+    },
+    {
+      "source_id": "oct4-qualifications",
+      "url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=263547",
+      "publisher": "Australian Parliament",
+      "title": "Libby Coker official biography, qualifications",
+      "retrieved": "2026-10-04",
+      "source_type": "official_biography",
+      "locator": "Indexed Qualifications and occupation before entering Federal Parliament section",
+      "note": "Indexed official qualification list identifies BA(University of New England), DipEd(Monash), BLitt(Deakin), Grad(AICD). Direct full-page fetch403 Forbidden; no course or conferral dates supplied."
+    },
+    {
+      "source_id": "oct4-abcqual",
+      "url": "https://www.abc.net.au/news/elections/federal/2025/guide/cora",
+      "publisher": "ABC News",
+      "title": "Corangamite2025 candidate guide",
+      "retrieved": "2026-10-04",
+      "source_type": "news",
+      "locator": "More on Candidates, Libby Coker paragraph",
+      "note": "Corroborates named BA, Diploma of Education and Bachelor of Letters institutions, with no dates. Residence duration is not a study or employment duration."
     }
   ],
   "research_notes": [
@@ -304,6 +403,7 @@
     "Targeted school, department, journalism and consultancy searches yielded no dated CV or hours. Contemporary school/TAFE visits do not identify former employers.2015 council conflict declaration indicates part ownership of an unidentified establishment, not proof of consultancy identity or paid operational work; retain lead, no new employment inferred.",
     "Next leads: named schools in Frankston/Geelong, historical education-department staff records and journalism bylines/employer archives; identify consultancy and ownership versus active work, then obtain date/hours evidence. All headline values remain null.",
     "Third follow-up3October2026: targeted searches for Frankston/Geelong schools, Victorian Education communications, Geelong Advertiser/The Age bylines and the consultancy found no reliable dated CV, employer name or hours. Results about contemporary school visits and a different candidate's management consultancy were rejected. The available phrase that teaching was brief is too imprecise for an interval, and no school sector can be inferred. No material record or headline change; attempted avenues documented for later archival follow-up.",
-    "Fourth follow-up4October2026: exact-name Geelong Advertiser, The Age, Victorian Education communications and consultancy searches again returned broad biographies or current political coverage, not bylines, appointment records, school names, dates, hours or a business identity. Derivative summaries add only 'briefly' or 'outer Melbourne' and were not converted to an interval or school sector. A same-name paralegal profile and contemporary school/TAFE events were rejected. The school, TAFE, newspaper, department and consultancy boundaries remain unresolved; no headline change."
+    "Fourth follow-up4October2026: exact-name Geelong Advertiser, The Age, Victorian Education communications and consultancy searches again returned broad biographies or current political coverage, not bylines, appointment records, school names, dates, hours or a business identity. Derivative summaries add only 'briefly' or 'outer Melbourne' and were not converted to an interval or school sector. A same-name paralegal profile and contemporary school/TAFE events were rejected. The school, TAFE, newspaper, department and consultancy boundaries remain unresolved; no headline change.",
+    "Follow-up2026-10-04: Added four omitted qualifications as undated study, corroborating three university degrees in ABC guide. Health-industry search lead belongs to Libby Mears, not Coker. Same-name overseas and school-council profiles rejected. University-alumni, consultancy and business-identity searches found no dates or employer identity; modern interest declarations predominantly concern spouse entities and do not identify historical consultancy or active paid work. APH full-page403 recovered using indexed qualification text. School/TAFE, newspapers and Education-department tenure/hours still unresolved; next archival bylines, named-school staff lists, dated CV and consultancy records."
   ]
 }

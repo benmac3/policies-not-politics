@@ -324,3 +324,6 @@ State: ready-for-integration
 
 - 2026-10-04T22:22:46+10:00: Ciccone materially enriched: study and volunteer party offices added; financial employer/hours still unresolved.
 - Attempt165distinct,0new,101material,64nonmaterial,0complete; cycle182distinct,107material,75nonmaterial; day226distinct,131material,95nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Libby Coker263547. OUTCOME:ongoing; STOPPING REASON:none.
+
+- 2026-10-04T22:28:38+10:00: Coker: four study qualifications; mistaken health-care lead rejected; employment gaps retained.
+- Attempt166distinct,0new,102material,64nonmaterial,0complete; cycle183distinct,108material,75nonmaterial; day226distinct,132material,94nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Lisa Darmanin301128. OUTCOME:ongoing; STOPPING REASON:none.
