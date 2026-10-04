@@ -177,3 +177,6 @@
 
 - 2026-10-04T20:43:34+10:00: Lambie: added explicit person-specific full-time service assertion, with third-party and whole-term limitations preserved.
 - Attempt122distinct,0new,72material,50nonmaterial,0complete; cycle139distinct,78material,61nonmaterial; day226distinct,117material,109nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Nick McKim JKM. OUTCOME:ongoing; STOPPING REASON:none.
+
+- 2026-10-04T20:44:26+10:00: McKim: tested original advertising-inquiry lead; other people company roles not attributed.
+- Attempt123distinct,0new,72material,51nonmaterial,0complete; cycle140distinct,78material,62nonmaterial; day226distinct,117material,109nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Helen Polley E5X. OUTCOME:ongoing; STOPPING REASON:none.
