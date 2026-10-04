@@ -306,3 +306,6 @@ State: ready-for-integration
 
 - 2026-10-04T22:07:28+10:00: Jodie Belyea enriched with pro bono training and official education history; no paid-hours inference.
 - Attempt159distinct,0new,95material,64nonmaterial,0complete; cycle176distinct,101material,75nonmaterial; day226distinct,127material,99nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Sam Birrell288713. OUTCOME:ongoing; STOPPING REASON:none.
+
+- 2026-10-04T22:12:56+10:00: Birrell materially enriched: four study periods and degree-year evidence; FT agronomy gaps retained.
+- Attempt160distinct,0new,96material,64nonmaterial,0complete; cycle177distinct,102material,75nonmaterial; day226distinct,128material,98nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Jo Briskey263427. OUTCOME:ongoing; STOPPING REASON:none.

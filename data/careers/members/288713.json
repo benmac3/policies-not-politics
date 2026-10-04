@@ -65,7 +65,7 @@
       "role": "Volunteer",
       "start_date": "2013",
       "end_date": null,
-      "date_precision": "unknown",
+      "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "unpaid_work",
@@ -106,7 +106,7 @@
       "role": "Member for Nicholls",
       "start_date": "2022-05-21",
       "end_date": null,
-      "date_precision": "unknown",
+      "date_precision": "day",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -173,9 +173,10 @@
       "source_ids": [
         "src-mba2017",
         "src-4",
-        "src-profile"
+        "src-profile",
+        "src-hansard2023"
       ],
-      "evidence_note": "Graduated2017 according to university. Full-time employment during study is supported by separate university testimonial, but study start/end months and employer allocation are absent. Does not justify extending FT status across Netafim or CEO tenure. Follow-up2October: public professional-profile index supplies2015 start year. This narrows the study window, not employer-specific FT boundaries, and does not establish uninterrupted employment or study.",
+      "evidence_note": "Graduated2017 according to university. Full-time employment during study is supported by separate university testimonial, but study start/end months and employer allocation are absent. Does not justify extending FT status across Netafim or CEO tenure. Follow-up2October: public professional-profile index supplies2015 start year. This narrows the study window, not employer-specific FT boundaries, and does not establish uninterrupted employment or study. In2023 Hansard he describes evening classes after work; this does not identify employment hours or leave.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "288713-08"
     },
@@ -197,6 +198,86 @@
       "evidence_note": "University article dated3July2020 identifies his volunteer contribution. Personal session dates unknown; program availability throughDecember is not his tenure. Overlaps association CEO role.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "288713-09"
+    },
+    {
+      "spell_id": "288713-10",
+      "employer": "Unidentified university",
+      "role": "Arts degree studies; not completed",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-hansard2023",
+        "src-party-career"
+      ],
+      "evidence_note": "Own parliamentary account identifies course before agricultural work. Institution and calendar dates absent.",
+      "counting_note": "Study is excluded; no employment years or leave deductions inferred."
+    },
+    {
+      "spell_id": "288713-11",
+      "employer": "University of Melbourne, Dookie campus",
+      "role": "Bachelor of Applied Science in Agriculture",
+      "start_date": null,
+      "end_date": "2002",
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-unimelb2016",
+        "src-hansard2023",
+        "src-2"
+      ],
+      "evidence_note": "University alumni record gives degree year2002. Enrolment and last attendance dates unknown; degree-year label is not an exact graduation day. Relation to early2002 agronomy boundaries remains unresolved.",
+      "counting_note": "Study is excluded; no employment years or leave deductions inferred."
+    },
+    {
+      "spell_id": "288713-12",
+      "employer": "Fairley Leadership program",
+      "role": "Leadership studies",
+      "start_date": null,
+      "end_date": "2013",
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-2"
+      ],
+      "evidence_note": "Member biography dates completion2013, without course start or session dates. Overlaps agronomy career; no work leave evidenced.",
+      "counting_note": "Study is excluded; no employment years or leave deductions inferred."
+    },
+    {
+      "spell_id": "288713-13",
+      "employer": "Winston Churchill Memorial Trust",
+      "role": "Churchill Fellowship study tour: industry and secondary education",
+      "start_date": "2023",
+      "end_date": "2023",
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-churchill2023",
+        "src-hansard2023"
+      ],
+      "evidence_note": "2020 award is distinct from2023 study. June news anticipates travel; August speech discusses completed European visits. Exact departure/return and leave unknown; year labels represent an event within2023, not continuous annual study.",
+      "counting_note": "Study is excluded; no employment years or leave deductions inferred."
     }
   ],
   "sources": [
@@ -215,10 +296,10 @@
       "url": "https://sambirrell.com.au/about",
       "publisher": "Sam Birrell",
       "title": "About Sam",
-      "retrieved": "2026-09-12",
+      "retrieved": "2026-10-04",
       "source_type": "other",
-      "locator": "Career/biography or relevant appointment section",
-      "note": "Fourteen-year agronomy career, orchards/vineyards then Netafim; C4GS volunteer then CEO."
+      "locator": "About Sam: farm, degree and Fairley Leadership paragraphs",
+      "note": "Fourteen-year agronomy career, orchards/vineyards then Netafim; C4GS volunteer then CEO. Re-read: Fairley Leadership completed2013."
     },
     {
       "source_id": "src-3",
@@ -309,6 +390,36 @@
       "note": "Reports help developing a vineyard on the family farm, separate from Ardmona orchard history; no personal dates, paid status or hours.",
       "retrieved": "2026-10-01",
       "source_id": "src-family-vineyard"
+    },
+    {
+      "source_id": "src-unimelb2016",
+      "url": "https://cpb-ap-se2.wpmucdn.com/blogs.unimelb.edu.au/dist/7/166/files/2016/05/3010_issue_5_2016-1oy8nvg.pdf",
+      "publisher": "University of Melbourne",
+      "title": "3010 magazine, issue 1, 2016",
+      "source_type": "other",
+      "locator": "Printed p36, Alumni Milestones; PDF p19, visually checked",
+      "note": "Lists Birrell as BAppSc(Agr)2002 and new Committee CEO. Degree year does not establish course start or employment hours.",
+      "retrieved": "2026-10-04"
+    },
+    {
+      "source_id": "src-hansard2023",
+      "url": "https://www.openaustralia.org.au/debate/?id=2023-08-09.121.2",
+      "publisher": "Australian Parliament / OpenAustralia Hansard transcript",
+      "title": "Sam Birrell, higher education debate,9August2023",
+      "source_type": "government_record",
+      "locator": "Birrell speech 5:42pm, paragraphs on his education and Churchill study",
+      "note": "Identifies unfinished arts degree, subsequent agricultural work and Dookie degree; evening MBA classes and completed European fellowship. Ages are not converted into calendar boundaries.",
+      "retrieved": "2026-10-04"
+    },
+    {
+      "source_id": "src-churchill2023",
+      "url": "https://www.sheppnews.com.au/news/birrell-off-to-europe-on-churchill-fellowship/",
+      "publisher": "Shepparton News",
+      "title": "Birrell off to Europe on Churchill Fellowship,22June2023",
+      "source_type": "news",
+      "locator": "Opening and fellowship/travel paragraphs",
+      "note": "2020 award delayed by pandemic; study tour planned during 2023 winter parliamentary break, funded by Trust. Planned itinerary is not proof of attendance at every destination.",
+      "retrieved": "2026-10-04"
     }
   ],
   "research_notes": [
@@ -319,6 +430,7 @@
     "Avenues: official/member/party first-person chronology and maiden speech,2005 horticulture report, Netafim-era industry material, university alumni2020 article and postgraduate testimonial, university campus proposal at https://treasury.gov.au/sites/default/files/2019-03/360985-La-Trobe-University.pdf p7 (night classes but no personal FT interval), Churchill biography and public profile index. Direct LinkedIn returned429, not retried. Full-time statement in campus proposal p6 belongs to Geraldine Christou, not Birrell. Follow-up: personal FT contract/leave and MBA enrolment dates, reconcile January/February2002 and August/September2008 boundaries, identify Ardmona farm and dates, paid status/family-vineyard hours, any work during initial university/travel breaks. No totals manufactured.",
     "Follow-up2October2026: public LinkedIn education index supplies MBA2015–2017 and university source establishes a2020 volunteer leadership-course role. Prior note about missing study-start year is now partly resolved; exact term dates and allocation of full-time testimonial to Netafim versus Committee for Greater Shepparton remain unknown. Searches of Netafim conference/industry records corroborate employer but provide no hours. Victorian GROW hearing full-time statement belongs to Lisa Hulm, not Birrell; March2022 newspaper full-time statement describes his wife, not him. Do not convert these into personal FT evidence. Next seek contemporaneous2015 MBA enrolment/employer arrangement and actual agronomy employment terms; reconcile official/profile month discrepancy. Early farm identity and vineyard pay still unresolved.",
     "Third follow-up3October2026: repeated targeted searches for Netafim, Croptec/Wayne Skinner, MBA and full-time terms returned the same La Trobe testimonial and broad14-year agronomist descriptions, but no employment contract, hours or employer-specific full-time statement. The MBA2015–2017 window crosses the February/March2016 change from Netafim to Committee for Greater Shepparton, so the testimonial cannot be allocated safely to the whole Netafim interval or used to calculate headline years. No reliable evidence resolved the one-month boundary discrepancies, Ardmona legal employer or vineyard pay. No material record or numerical change.",
-    "Fourth follow-up4October2026: targeted searches for Netafim full-time status, Wayne Skinner Rural Supplies/Croptec, agronomy contracts and the2016 CEO transition returned known chronology or point-in-time observations only. A Victorian irrigation resource names Birrell at Netafim in April2009 and a council archive names him Committee CEO on6May2016, both within already supported official intervals and neither supplying hours or appointment boundaries. Apparent full-time search hits again referred to other people, not Birrell, and were rejected. The Netafim/Croptec employment fractions, MBA-related leave, month-boundary conflicts, Ardmona legal employer and vineyard pay remain unresolved; no numerical change."
+    "Fourth follow-up4October2026: targeted searches for Netafim full-time status, Wayne Skinner Rural Supplies/Croptec, agronomy contracts and the2016 CEO transition returned known chronology or point-in-time observations only. A Victorian irrigation resource names Birrell at Netafim in April2009 and a council archive names him Committee CEO on6May2016, both within already supported official intervals and neither supplying hours or appointment boundaries. Apparent full-time search hits again referred to other people, not Birrell, and were rejected. The Netafim/Croptec employment fractions, MBA-related leave, month-boundary conflicts, Ardmona legal employer and vineyard pay remain unresolved; no numerical change.",
+    "Follow-up2026-10-04: Added four previously unrecorded study periods: unfinished arts degree, Dookie agricultural degree with university-supported2002 degree year, Fairley Leadership completion2013 and Churchill study undertaken2023 rather than award year2020. Own2023 Hansard narrows sequence but supplies no employment hours. Churchill profile verification wall and LinkedIn999 respected; primary university PDF and Hansard provide usable evidence. Next seek agronomy contracts/leave, exact early-work/study boundaries, Ardmona legal employer and vineyard pay. Headlines unchanged."
   ]
 }
