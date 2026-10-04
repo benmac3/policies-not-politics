@@ -238,3 +238,6 @@ Batch coverage, record fields, dates, enums, source references, build_careers.lo
 
 - 2026-10-04T19:55:35+10:00: Tanya Plibersek: materially added named charitable roles and unnamed publication-income disclosure.
 - Attempt96distinct,0new,54material,42nonmaterial,0complete; cycle113distinct,60material,53nonmaterial; day226distinct,104material,122nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Gordon Reid300126. OUTCOME:ongoing; STOPPING REASON:none.
+
+- 2026-10-04T19:57:00+10:00: Gordon Reid: materially refined honorary clinical capacity and district identity.
+- Attempt97distinct,0new,55material,42nonmaterial,0complete; cycle114distinct,61material,53nonmaterial; day226distinct,105material,121nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Dan Repacholi298840. OUTCOME:ongoing; STOPPING REASON:none.
