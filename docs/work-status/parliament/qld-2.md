@@ -188,4 +188,4 @@ Batch coverage, record fields, dates, enums, source references, build_careers.lo
 - OUTCOME: Returned normally — no blocking error observed. Error code/message: none. Scheduler terminal status unavailable.
 - STOPPING REASON: Voluntary stop; no observed blocking limit — this execution reached its response boundary after 17 remotely verified member records. Susan McDonald was not processed before this boundary; the durable cursor remains 123072.
 - Recovered, non-terminal tool/source errors: a GitHub branch URL containing an encoded slash returned `INVALID_ARGUMENT: GitHub Fetch URL contains an invalid repository path`; the git-ref endpoint was used successfully and no write had occurred. Direct aph.gov.au search retrieval reported `Blocked by robots.txt`; accessible primary mirrors and indexed official records were used conservatively. These errors did not terminate research.
-- Successor status before request: not yet requested.
+- Successor status: Requested/accepted — result pending. Automations response: `Immediate run requested. The saved schedule is unchanged.` Acceptance is asynchronous and does not establish execution completion or delivery.
