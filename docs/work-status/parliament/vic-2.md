@@ -240,3 +240,7 @@ Batch coverage, record fields, dates, enums, source references, build_careers.lo
 - Kate Thwaites: nonmaterial follow-up — exact searches for the 2013–June 2014 interval and CPR commencement returned only the existing professional profile, general summaries and namesakes. No employer/freelance contract, appointment, hours, leave or paid yoga work surfaced. CPR personnel and Macklin-office separation records remain decisive.
 - Current continuation: 12 distinct records, 0 new, 2 materially enriched, 10 nonmaterial follow-ups and 0 newly complete. Cycle/day cumulative: 128 distinct, 0 new, 49 materially enriched, 79 nonmaterial follow-ups and 0 newly complete.
 - Durable next cursor: Aaron Violi (300147).
+
+- Aaron Violi: nonmaterial follow-up — a September 2026 first-person interview confirms the commercial sequence and says he led Mars sales in Victoria/Tasmania for 'a couple of years' during the Mars/Wrigley merger. That is consistent with the indexed profile but does not establish exact boundaries, FTE, leave, earlier Wrigley work, the snack-food duration conflict or Ritual election overlap.
+- Current continuation: 13 distinct records, 0 new, 2 materially enriched, 11 nonmaterial follow-ups and 0 newly complete. Cycle/day cumulative: 129 distinct, 0 new, 49 materially enriched, 80 nonmaterial follow-ups and 0 newly complete.
+- Durable next cursor: Tim Watts (193430).
