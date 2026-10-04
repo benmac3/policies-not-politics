@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/249147",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-04",
+  "last_reviewed": "2026-10-05",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -198,7 +198,7 @@
       "role": "Inaugural chairperson; director",
       "start_date": null,
       "end_date": "2017-12",
-      "date_precision": "mixed",
+      "date_precision": "month",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "nonprofit",
@@ -208,9 +208,10 @@
       "source_ids": [
         "src-5",
         "src-8",
-        "src-12"
+        "src-12",
+        "src-20"
       ],
-      "evidence_note": "Annual report confirms December 2017 cessation. Start and chairmanship dates require earlier reports; overlaps elected office. Own biography confirms inaugural chair and December 2015 event confirms chair then. Company incorporation December 2014 does not by itself establish exact personal appointment; director endpoint is not chair endpoint.",
+      "evidence_note": "Annual report confirms December 2017 cessation. Start and chairmanship dates require earlier reports; overlaps elected office. Own biography confirms inaugural chair and December 2015 event confirms chair then. Company incorporation December 2014 does not by itself establish exact personal appointment; director endpoint is not chair endpoint. Full2016/17primaryreport independently lists AdamEbell as chair and Keogh as director; supersedes merely indexed lead and rules out assumed continuouschairmanshiptoDecember2017.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "249147-10"
     },
@@ -238,7 +239,7 @@
       "role": "BA/LLB study",
       "start_date": null,
       "end_date": "2004",
-      "date_precision": "mixed",
+      "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "study",
@@ -257,7 +258,7 @@
       "role": "Member for Burt",
       "start_date": "2016-07-02",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "day",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -296,7 +297,7 @@
       "role": "Community representative",
       "start_date": null,
       "end_date": "2007-05",
-      "date_precision": "mixed",
+      "date_precision": "month",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "unpaid_work",
@@ -337,7 +338,7 @@
       "role": "Management Committee member; deputy chairperson then ordinary member",
       "start_date": "2013-10",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "month",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "unpaid_work",
@@ -347,10 +348,69 @@
       "source_ids": [
         "src-17",
         "src-18",
-        "src-19"
+        "src-19",
+        "src-21"
       ],
-      "evidence_note": "2013/14 report records October2013 welcome and describes committee time as donated. Deputy chair in that report; 2014/15 report identifies replacement with continued membership. Resignation occurred within 1July2015–30June2016, exact calendar year/month unresolved; end_date remains null to avoid a fabricated boundary. Committee role distinct from paid legal staff.",
+      "evidence_note": "2013/14 report records October2013 welcome and describes committee time as donated. Deputy chair in that report; 2014/15 report identifies replacement with continued membership. Resignation occurred within 1July2015–30June2016, exact calendar year/month unresolved; end_date remains null to avoid a fabricated boundary. Committee role distinct from paid legal staff. Public register transcription updated27September2016 explicitly gives15July2016resignation, conflicting with2015/16report financial-year framing. Original declaration unavailable; endpoint remains unknown pending reconciliation. Both supported accounts preserved.",
       "counting_note": "Unpaid nonprofit governance excluded; no additional paid legal-employment years or full-time assumption."
+    },
+    {
+      "spell_id": "249147-18",
+      "employer": "Law Society of Western Australia",
+      "role": "Council member; separate from2015presidency",
+      "start_date": null,
+      "end_date": "2016-07-29",
+      "date_precision": "day",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "nonprofit",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-16",
+        "src-21"
+      ],
+      "evidence_note": "AIYDdelegatebiography establishes election to Council. Publictranscription of27September2016interests records councilresignation29July2016; originalPDFnotread so day remains secondary evidence pending primaryconfirmation. Commencement and executive-title transitions unknown.",
+      "counting_note": "Professionalassociation governance excluded; no additional paidlegalpractice/hours inferred."
+    },
+    {
+      "spell_id": "249147-19",
+      "employer": "Law Society of Western Australia, Young Lawyers Committee",
+      "role": "Convenor",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "nonprofit",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-16"
+      ],
+      "evidence_note": "AIYDdelegatebiography independently identifies convenorship. Aggregator2010–2011range remains unverified; no exactdatesadopted.",
+      "counting_note": "Professionalassociation governance excluded; no additional paidlegalpractice/hours inferred."
+    },
+    {
+      "spell_id": "249147-20",
+      "employer": "Law Council of Australia, Australian Young Lawyers Committee",
+      "role": "Chairperson",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "nonprofit",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-16"
+      ],
+      "evidence_note": "AIYDdelegatebiography independently identifies committeechair role, distinct from2015LawCouncildirectorship. AggregatorMay2011–April2014range remains lead, not verified.",
+      "counting_note": "Professionalassociation governance excluded; no additional paidlegalpractice/hours inferred."
     }
   ],
   "sources": [
@@ -543,6 +603,26 @@
       "locator": "PDF page3, section1.3 Management Committee Appointments",
       "retrieved": "2026-10-04",
       "note": "Reports Keogh resignation during the financial year; does not specify month. July2016 aggregator end not adopted."
+    },
+    {
+      "source_id": "src-20",
+      "url": "https://lawaccess.org.au/lawp/wp-content/uploads/2019/11/LA_AnnualReport_2016-17.pdf",
+      "publisher": "Law Access Limited",
+      "title": "Annual Report2016/17",
+      "source_type": "primary_organisation",
+      "retrieved": "2026-10-05",
+      "locator": "Printedpage1/PDFpage3 BoardMembers, page3 Chairperson report",
+      "note": "Recovered full primaryPDF after earlier timeout; Keogh is director while AdamEbell is chair. Report observation is not exact chairperson transition."
+    },
+    {
+      "source_id": "src-21",
+      "url": "https://icacpls.github.io/interests/matt-keogh.html",
+      "publisher": "Interests public register transcription",
+      "title": "Matt Keogh interests transcription,45thParliament",
+      "source_type": "reliable_secondary",
+      "retrieved": "2026-10-05",
+      "locator": "Directorships section, entries updated27September2016; link to official KeoghM_45P.pdf",
+      "note": "Transcribes personal council resignation29July2016 and StreetLaw management resignation15July2016. Linked officialPDF webrestrictedURL and ordinaryHTTP403, so primary declaration not independently read; retain explicit conflict with StreetLaw2015/16annualreport period."
     }
   ],
   "research_notes": [
@@ -553,6 +633,7 @@
     "Important identity caution: WA 2005/2006 Carpenter staff lists and 2017 MacTiernan acting-chief answer name Matthew Keogh. A separate government/resource-industry professional profile also exists. Neither ministerial lists nor Level 8/term-of-government status attributed to this MP without identity reconciliation; existing 2003–05 DPC role retained provisionally, no public years counted.",
     "Law Access 2016/17 PDF timed out; indexed report identifies Adam Ebell as chair, so secondary aggregator claim Keogh chaired continuously December 2014–December 2017 is not accepted. 2017/18 director cessation remains supported. Street Law September 2013–July 2016 and CDPP October 2006–March 2011 aggregator ranges remain follow-up leads, not confirmed appointments.",
     "Follow-up 2026-10-03: AIYD's published delegate biography establishes progression to Principal Federal Prosecutor and the corporate-crime subject matter, but not promotion month, hours or leave. Targeted CDPP, HSF, iiNet and public-profile searches did not supply primary appointment boundaries. WA parliamentary staff lists naming an older Matt Keogh include an ex-Builders Labourers Federation biography and therefore remain quarantined as a different person; they are not used to recategorise this MP's DPC spell. Next: original professional CV, employer records and Law Access/Street Law appointment reports.",
-    "Follow-up2026-10-04: Recovered Street Law Centre 2013/14, 2014/15 and 2015/16 primary reports. Added donated governance role from October2013, separate deputy-chair transition and resignation financial-year window. This supersedes unverified September2013–July2016 aggregator lead: neither of those month boundaries matches primary evidence. 2013 report link showed verification wall; used accessible public later reports without bypass. CDPP/iiNet/DPC ordinary appointment and private-practice dates, full-span hours and campaign breaks remain unresolved."
+    "Follow-up2026-10-04: Recovered Street Law Centre 2013/14, 2014/15 and 2015/16 primary reports. Added donated governance role from October2013, separate deputy-chair transition and resignation financial-year window. This supersedes unverified September2013–July2016 aggregator lead: neither of those month boundaries matches primary evidence. 2013 report link showed verification wall; used accessible public later reports without bypass. CDPP/iiNet/DPC ordinary appointment and private-practice dates, full-span hours and campaign breaks remain unresolved.",
+    "Follow-up2026-10-05: Recovered fullLawAccess2016/17report corroborates director-versusAdamEbellchair distinction. ExistingprimaryAIYDbiography supplies three omitted professionalgovernance roles: LawSocietyCouncil, YoungLawyersconvenor and AustralianYoungLawyerschair. Publicinterests transcription gives29July2016Councilresignation and15July2016StreetLawresignation; originalAPHdeclaration restrictedURL/HTTP403. StreetLawdate conflicts with2015/16annualreportperiod; retain nullendpointandbothclaims pendingprimaryreconciliation. Exact paidjob dates,hoursandcampaignleave still missing; cannot deriveFTtotals."
   ]
 }
