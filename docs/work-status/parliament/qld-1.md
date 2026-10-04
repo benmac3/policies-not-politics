@@ -215,3 +215,10 @@ Deduplicated Brisbane-day new member IDs: 00AMR, 101351, 124514, 132880, 140590,
 - Julie-Ann Campbell: nonmaterial follow-up — EY official-domain and transition searches found no staff profile or appointment notice. March and June 2022 reporting gives only a planned departure and a later observation that she had joined EY, not exact payroll/commencement boundaries, employing entity or hours. Appointment or professional-profile evidence remains decisive.
 - Current continuation: 21 distinct records, 0 new initial, 3 materially enriched existing, 18 nonmaterial follow-ups and 0 newly complete. Cycle/day cumulative: 137 distinct, 0 new, 50 materially enriched, 87 nonmaterial follow-ups and 0 newly complete.
 - Durable next cursor: Matt Canavan (245212).
+
+- Attempt end: 2026-10-04T12:07:57+10:00; observable elapsed time: 27m19s.
+- Validation passed on both touched branches: JSON/build load, `career_batches.py --check` (226/13), `career_batches.py --batch vic-2`, `career_batches.py --batch qld-1`, `build_careers.py` and `git diff --check`. Generated aggregate files were local/untracked and not committed.
+- Final continuation totals: 21 distinct records, 0 new initial, 3 materially enriched existing, 18 nonmaterial follow-ups and 0 newly research-complete. Cycle/day cumulative: 137 distinct, 0 new, 50 materially enriched, 87 nonmaterial follow-ups and 0 newly complete.
+- OUTCOME: Returned normally — no blocking error observed. Error code/message: none. Scheduler terminal status unavailable.
+- STOPPING REASON: Voluntary stop; no observed blocking limit — this execution reached its response boundary after remotely verifying 21 member commits and the next durable cursor. Matt Canavan was not processed before that boundary.
+- Successor status: not yet requested at this checkpoint; one immediate successor will be requested after remote verification.
