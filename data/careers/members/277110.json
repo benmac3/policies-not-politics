@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/277110",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-04",
+  "last_reviewed": "2026-10-05",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -29,9 +29,10 @@
       "counting_status": "excluded",
       "source_ids": [
         "src-1",
-        "src-19"
+        "src-19",
+        "src-22"
       ],
-      "evidence_note": "The official parliamentary biography lists the completed qualifications but no study dates or attendance pattern. A 2022–23 foundation annual report says the Juris Doctor was still being completed at that time. ALP2025 election post explicitly says she worked full-time while putting herself through university; employer and study dates are not identified, so the statement cannot assign full-time status across whole career spells.",
+      "evidence_note": "The official parliamentary biography lists the completed qualifications but no study dates or attendance pattern. A 2022–23 foundation annual report says the Juris Doctor was still being completed at that time. ALP2025 election post explicitly says she worked full-time while putting herself through university; employer and study dates are not identified, so the statement cannot assign full-time status across whole career spells. The foundation 2023–24 profile describes the Juris Doctor as completed, narrowing the documentary sequence from ongoing study in the prior report without supplying a graduation date or employer mapping.",
       "counting_note": "Study is excluded."
     },
     {
@@ -40,7 +41,7 @@
       "role": "Ministerial media staff",
       "start_date": "2006",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "political_staff",
@@ -82,7 +83,7 @@
       "role": "Director, Research and Engagement",
       "start_date": "2019-09-30",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "day",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "public_service",
@@ -102,10 +103,10 @@
     {
       "spell_id": "277110-05",
       "employer": "The Star Entertainment Group",
-      "role": "Head of Public Affairs (Queensland), later described as General Manager, Corporate Affairs",
+      "role": "Head of Public Affairs (Queensland); General Manager Public Affairs Queensland; elsewhere described as General Manager, Corporate Affairs",
       "start_date": "2022-01",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "month",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "private_enterprise",
@@ -115,9 +116,10 @@
       "source_ids": [
         "src-12",
         "src-13",
-        "src-14"
+        "src-14",
+        "src-22"
       ],
-      "evidence_note": "The Common Good's January 2023 announcement and 2022–23 annual report identify Mulholland as Star's Head of Public Affairs Queensland. A 2024 interview reports that she worked as General Manager of Corporate Affairs from January 2022, commenced parental leave in September 2023 and was no longer employed by Star by the interview. Exact title transition, leave/pay status, cessation and hours are not published.",
+      "evidence_note": "The Common Good's January 2023 announcement and 2022–23 annual report identify Mulholland as Star's Head of Public Affairs Queensland. A 2024 interview reports that she worked as General Manager of Corporate Affairs from January 2022, commenced parental leave in September 2023 and was no longer employed by Star by the interview. Exact title transition, leave/pay status, cessation and hours are not published. The foundation 2023–24 report uses General Manager Public Affairs Queensland, adding a distinct published title. Its description is not a dated promotion or proof of continued work through the reporting or publication date, and could be a retained profile during parental leave; preserve the later interview cessation account pending payroll evidence.",
       "counting_note": "The private role is supported but parental leave and final payroll boundaries must be resolved before counting."
     },
     {
@@ -147,7 +149,7 @@
       "role": "Senator for Queensland",
       "start_date": "2025-07-01",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "day",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -209,7 +211,7 @@
       "date_precision": "unknown",
       "employment_status": "unknown",
       "fte_fraction": null,
-      "category": "unpaid_work",
+      "category": "nonprofit",
       "headline_sector": "excluded",
       "government_control_at_time": "nonprofit",
       "counting_status": "excluded",
@@ -217,7 +219,7 @@
         "src-18",
         "src-19"
       ],
-      "evidence_note": "ALP biography identifies past charity-board service. Governance, not executive employment; appointment/cessation and remuneration unknown.",
+      "evidence_note": "ALP biography identifies past charity-board service. Governance, not executive employment; appointment/cessation and remuneration unknown. Charity-board service is coded nonprofit governance with pay unknown, rather than treating the absence of remuneration evidence as unpaid status.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "277110-10"
     },
@@ -451,6 +453,16 @@
       "note": "Signed ministerial submission identifies Corinne Mulholland as Senior Policy Advisor in Neil Roberts's office on 15 April 2010. It is a dated role observation, not an appointment or cessation record.",
       "retrieved": "2026-10-04",
       "source_id": "src-21"
+    },
+    {
+      "source_id": "src-22",
+      "url": "https://www.thecommongood.org.au/wp-content/uploads/2024/09/2023-2024-Annual-Report-with-financials.pdf",
+      "publisher": "The Prince Charles Hospital Foundation",
+      "title": "Annual Report 2023–2024",
+      "retrieved": "2026-10-05",
+      "source_type": "government_record",
+      "locator": "Printed pp16 and18, individual board fees and Mulholland profile; PDF pp15 and17",
+      "note": "Profile gives the distinct Star title General Manager Public Affairs Queensland and a completed Juris Doctor. It is a report-period observation, not a title-change, graduation or payroll boundary; board table shows no fees."
     }
   ],
   "research_notes": [
@@ -461,6 +473,7 @@
     "Verify actual board service end and whether any governance remuneration existed; it remains excluded regardless of volunteer service.",
     "2026-10-02 follow-up: separated Purcell and Roberts ministerial offices;2012 valedictory is acknowledgement not proof of current staff status. PrimaryIGEM2021–22 report identifies relieving director fromDecember2021, but not payroll end; inferredend removed. Foundation2024–25 report resolves retirement30June2025 and nil fees; inherited invalid governance category replaced with approved unpaid_work. Added community ambassador, youth-program board and teenage volunteering. ALP statement establishes some full-time employment during university, but lack of study dates/employer mapping prevents allocating it to council, IGEM or Star. Public Facebook full-page Internal Error recovered via indexed official post. Star leave, final cessation and council campaign arrangements still unresolved; no totals calculated.",
     "2026-10-03 follow-up: the primary IGEM 2020–21 annual report adds substantive executive-leadership duties across media, internal communication, strategic partnerships, research, engagement and assurance. It does not resolve weekly hours, leave or the December2021 relief/January2022 Star transition. Fresh searches of council-campaign leave and Star parental-leave/cessation repeated existing reports or inaccessible paywalled material; no boundary inferred.",
-    "2026-10-04 follow-up: a signed Neil Roberts ministerial submission dated 15 April 2010 identifies Mulholland as Senior Policy Advisor, refining the previously generic ministerial-media/senior-staff record. It supplies a dated observation only; exact appointment, title progression, hours, cessation and possible 2011 council overlap remain unresolved. Star, council and parental-leave searches otherwise repeated existing annual reports and reporting; no final Star payroll boundary or council campaign-leave record surfaced."
+    "2026-10-04 follow-up: a signed Neil Roberts ministerial submission dated 15 April 2010 identifies Mulholland as Senior Policy Advisor, refining the previously generic ministerial-media/senior-staff record. It supplies a dated observation only; exact appointment, title progression, hours, cessation and possible 2011 council overlap remain unresolved. Star, council and parental-leave searches otherwise repeated existing annual reports and reporting; no final Star payroll boundary or council campaign-leave record surfaced.",
+    "2026-10-05 primary annual-report follow-up: the Prince Charles Hospital Foundation 2023–24 report, printed p18, adds the distinct Star title General Manager Public Affairs Queensland and describes the Juris Doctor as completed. Neither is converted into a promotion, graduation or payroll date; a retained board profile during leave could conflict with later cessation reporting. IGEM2021–22 financial notes6 and staff statistics were examined: remuneration is by position and aggregate FTE includes part-time staff, so it cannot establish her personal full-time status or final payroll boundary. Corrected charity-board classification to nonprofit governance with pay unknown, preserving exclusion. Council appointment, Star parental-leave/pay and final cessation remain unresolved. No totals calculated."
   ]
 }
