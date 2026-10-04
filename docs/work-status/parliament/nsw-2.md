@@ -283,3 +283,6 @@ Batch check passes: 226 assigned exactly once across 13 batches; nsw-2 assignmen
 
 - 2026-10-04T19:17:54+10:00: Mike Freelander265979 nonmaterial follow-up: additional accessible primary narratives and stale directory provide no new employment boundary, hours or closure.
 - Attempt76distinct,0new,43material,33nonmaterial,0complete; cycle93distinct,49material,44nonmaterial; day226distinct,98material,128nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Andrew Gee261393. OUTCOME:ongoing; STOPPING REASON:none.
+
+- 2026-10-04T19:19:28+10:00: Andrew Gee261393 nonmaterial follow-up: original Bar publication recovered, but photo/donation mentions do not establish new employment facts.
+- Attempt77distinct,0new,43material,34nonmaterial,0complete; cycle94distinct,49material,45nonmaterial; day226distinct,98material,128nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Alex HawkeHWO. OUTCOME:ongoing; STOPPING REASON:none.
