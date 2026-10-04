@@ -220,3 +220,7 @@ Batch coverage, record fields, dates, enums, source references, build_careers.lo
 - Joanne Ryan: nonmaterial follow-up — exact-name Laverton High/Galvin Park searches returned only the existing first speech and derivative summaries. No annual report, departmental appointment list, payroll, hours or leave evidence surfaced; namesakes were excluded. Education personnel archives and school annual reports remain decisive.
 - Current continuation: 7 distinct records, 0 new, 2 materially enriched, 5 nonmaterial follow-ups and 0 newly complete. Cycle/day cumulative: 123 distinct, 0 new, 49 materially enriched, 74 nonmaterial follow-ups and 0 newly complete.
 - Durable next cursor: Monique Ryan (297660).
+
+- Monique Ryan: nonmaterial follow-up — targeted full-time/appointment searches found only the existing February 2012 RCH snapshot, publication affiliations and a fellowship position reporting to her. A contact aggregator's month-level profile data was rejected because the underlying self-profile could not be independently retrieved and it falsely implied ongoing RCH employment. Personnel/appointment records remain decisive.
+- Current continuation: 8 distinct records, 0 new, 2 materially enriched, 6 nonmaterial follow-ups and 0 newly complete. Cycle/day cumulative: 124 distinct, 0 new, 49 materially enriched, 75 nonmaterial follow-ups and 0 newly complete.
+- Durable next cursor: Jana Stewart (299352).
