@@ -191,3 +191,14 @@ State: ready-for-integration
 - VIC-1 follow-up pass complete through assigned member25/25. Next national follow-up: VIC-2 durable cursor, after reconciling its remote checkpoint. Blocked records remain unresolved; do not treat batch boundary as task completion.
 - OUTCOME:ongoing. STOPPING REASON:none; continue after remote verification. Successor not requested. Scheduler terminal status unavailable.
 - Validation:career_batches --check226/13 and --batch vic-1; individual JSON/source/date/enums and build_careers.load_records. Only assigned member/checkpoint changed.
+
+## Active follow-up — 2026-10-04 08:00 Brisbane cycle, continuation 1
+
+- Attempt start: 2026-10-04T09:41:05+10:00. Entered VIC-1 after completing and remotely verifying NSW-1, NSW-2 and NSW-3 in this continuation. Starting VIC-1 head: `13fb695affae02e8e18dc12ae8a395f2789493ca`; no intervening branch change or active writer observed.
+- Starting national baseline remains 226/226 initial records, 226 unresolved and 0 research-complete. Current continuation after this member: 46 distinct records processed, 0 new initial, 14 materially enriched existing, 32 nonmaterial follow-ups and 0 newly research-complete. Current Brisbane cycle/day deduplicated cumulative: 90 distinct records, 0 new, 34 materially enriched, 56 nonmaterial follow-ups and 0 newly complete. Counts exclude checkpoint-only commits.
+- Basem Abdo: materially enriched — official migration-committee media releases name him as Maria Vamvakinou's media contact on 17 February 2011 and 31 January 2012, materially bracketing an observed professional association across nearly a year. They do not establish continuous employment, exact appointment/cessation, title or hours, or identify which of the two reported staff periods this was; no headline total was inferred. Teaching, placement, car-wash and intervening-work gaps remain unresolved.
+- Durable next cursor: Mary Aldred (11788). Continue VIC-1 sequentially, avoiding repeated exhausted searches and retaining blocked status where the specification remains unsatisfied.
+- OUTCOME: ongoing. STOPPING REASON: none; continue after remote verification. No successor requested. Scheduler terminal status unavailable.
+- Validation: JSON parse/source-reference checks and `career_batches.py --check` (226/13) plus `career_batches.py --batch vic-1` passed; only the assigned member and this checkpoint are written.
+- Recovered source error: direct aph.gov.au search returned `Blocked by robots.txt`; indexed official records and the official aphref PDF supplied the dated evidence. This did not terminate the run.
+
