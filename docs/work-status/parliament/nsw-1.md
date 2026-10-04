@@ -389,3 +389,5 @@ Batch check passes: 226 assigned exactly once across 13 batches; nsw-1 assignmen
 
 - 2026-10-04T21:54:29+10:00: Conroy materially refined party-delegation term and nested Defence Materiel adviser portfolio years.
 - Attempt154distinct,0new,91material,63nonmaterial,0complete; cycle171distinct,97material,74nonmaterial; day226distinct,127material,99nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: DZW Justine Elliot already processed; then62329 David Farley already processed; NSW-1 pass complete, continue VIC-1 earliest unprocessed. OUTCOME:ongoing; STOPPING REASON:none.
+
+- Conroy same-member refinement: preserved all remaining original indexed party committee/conference terms from the opened result; no additional distinct processed record or material count. Next batch VIC-1. OUTCOME ongoing; STOPPING REASON none.
