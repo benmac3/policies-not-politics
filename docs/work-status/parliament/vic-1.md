@@ -204,4 +204,7 @@ State: ready-for-integration
 - Mary Aldred: materially enriched — May 2023 succession reporting says she exited the Franchise Council of Australia in February 2023 and an acting CEO then served. This conflicts with her inherited profile's December 2022 endpoint while aligning with Fujitsu's separately reported February commencement; no exact cessation day, hours or leave was inferred and the conflict is retained. Farm pay/dates, early energy hours and other recorded gaps remain unresolved.
 - Current continuation after this member: 47 distinct records, 0 new, 15 materially enriched, 32 nonmaterial follow-ups and 0 newly complete. Current cycle/day cumulative: 91 distinct, 0 new, 35 materially enriched, 56 nonmaterial follow-ups and 0 newly complete.
 - Durable next cursor: Michelle Ananda-Rajah (290544).
+- Michelle Ananda-Rajah: nonmaterial employment follow-up — the official MRFF recipient table confirms Monash University as grant recipient, a 1 January 2019–31 December 2020 project window and $181,066 funding, but it is not a personal employment contract or FTE statement. Targeted institute, fellowship, clinical-CV and resignation searches repeated known chronology without a new appointment boundary; unresolved gaps are retained.
+- Current continuation after this member: 48 distinct records, 0 new, 15 materially enriched, 33 nonmaterial follow-ups and 0 newly complete. Current cycle/day cumulative: 92 distinct, 0 new, 35 materially enriched, 57 nonmaterial follow-ups and 0 newly complete.
+- Durable next cursor: Ralph Babet (300706).
 
