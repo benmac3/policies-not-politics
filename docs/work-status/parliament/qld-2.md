@@ -234,3 +234,6 @@ Batch coverage, record fields, dates, enums, source references, build_careers.lo
 
 - Andrew Wallace265967 follow-up: new conference biography corroborates existing sequence without resolving employment gaps.
 - Attempt12distinct,0new,6material,6nonmaterial,0complete; cycle29distinct,12material,17nonmaterial; day166distinct,62material,104nonmaterial; all0new/complete. Next: LarissaWaters192970. OUTCOME:ongoing; STOPPING REASON:none.
+
+- Larissa Waters192970 materially enriched with casual work, full-time commencement evidence and prior party offices.
+- Attempt13distinct,0new,7material,6nonmaterial,0complete; cycle30distinct,13material,17nonmaterial; day167distinct,63material,104nonmaterial; all0new/complete. Next: ElizabethWatsonBrown300127. OUTCOME:ongoing; STOPPING REASON:none.
