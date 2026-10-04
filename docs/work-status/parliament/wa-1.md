@@ -173,3 +173,6 @@ Detailed attempted avenues, discrepancies and remaining leads are preserved in e
 
 - Kate Chaney300006: materially enriched exact Next25 retirement and SCF advisory membership/leave; no employment-year total.
 - Attempt22distinct,0new,11material,11nonmaterial,0complete; cycle39distinct,17material,22nonmaterial; day176distinct,67material,109nonmaterial; all0new/complete. Next: Trish Cook312871. OUTCOME:ongoing; STOPPING REASON:none.
+
+- Trish Cook312871: materially enriched previously unrecorded named Midland nursing-work setting, with explicit employer and dates gaps.
+- Attempt23distinct,0new,12material,11nonmaterial,0complete; cycle40distinct,18material,22nonmaterial; day177distinct,68material,109nonmaterial; all0new/complete. Next: Dorinda Cox296215. OUTCOME:ongoing; STOPPING REASON:none.

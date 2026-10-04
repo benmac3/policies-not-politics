@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/312871",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-03",
+  "last_reviewed": "2026-10-04",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -318,6 +318,27 @@
       "evidence_note": "Cook's publicly indexed professional profile dates ECU undergraduate tutoring to 2017–2021; her 2026 first-person parliamentary statement independently confirms ECU teaching and mentoring registered nurses. Contract type, campus allocation, hours and leave remain unpublished.",
       "counting_note": "University work is excluded from the public/private headline under the codebook; no full-time assumption is made.",
       "spell_id": "312871-15"
+    },
+    {
+      "spell_id": "312871-16",
+      "employer": "North Street Medical Centre precinct, Midland; legal payroll employer unresolved",
+      "role": "Nurse in clinic adjacent to later Midland urgent-care clinic",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "unknown",
+      "government_control_at_time": "unknown",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-12",
+        "src-13",
+        "src-14"
+      ],
+      "evidence_note": "Cook states22November2024 and9January2025 that she previously worked as a nurse at the Midland clinic facility, explicitly identified as NorthStreetMedicalCentre in2024transcript.29June2026Hansard clarifies her former clinic was next door to the urgent-care clinic. Do not assume she worked in the new urgentcare service or assign its opening date as her start. Named clinical work setting added; payroll entity, historical employer control, dates, paid relationship, hours and leave unknown. Government Medicare funding does not establish government employment; private current facility ownership does not establish historical payroll employer.",
+      "counting_note": "Previously unrecorded clinical work; no dated/full-time interval or employer-sector total inferred. May overlap other clinical work; no additive years."
     }
   ],
   "sources": [
@@ -430,6 +451,36 @@
       "note": "Public index corroborates the 1996–2011 oil-and-gas/OHS interval. The full data profile is subscription-only and was not accessed; no employer, hours or contract details are inferred beyond visible text.",
       "retrieved": "2026-10-03",
       "source_id": "src-11"
+    },
+    {
+      "source_id": "src-12",
+      "url": "https://www.health.gov.au/ministers/the-hon-mark-butler-mp/media/minister-for-health-and-aged-care-press-conference-22-november",
+      "publisher": "Department of Health",
+      "title": "Press conference22November2024",
+      "retrieved": "2026-10-04",
+      "source_type": "first_person",
+      "locator": "Opening Trish Cook paragraphs",
+      "note": "Names NorthStreetMedicalCentre location and first-person previous nursing work; facility identified, legal payroll entity/hours/dates unconfirmed."
+    },
+    {
+      "source_id": "src-13",
+      "url": "https://www.pm.gov.au/media/doorstop-interview-perth-9",
+      "publisher": "Prime Minister of Australia",
+      "title": "Doorstop interview Perth9January2025",
+      "retrieved": "2026-10-04",
+      "source_type": "first_person",
+      "locator": "Trish Cook opening remarks",
+      "note": "First-person repeats previous nursing work at Midland facility; not employment cessation day."
+    },
+    {
+      "source_id": "src-14",
+      "url": "https://www.openaustralia.org.au/debate/?id=2026-06-29.16.1",
+      "publisher": "House Hansard via OpenAustralia",
+      "title": "Health Care29June2026",
+      "retrieved": "2026-10-04",
+      "source_type": "first_person",
+      "locator": "11:34 speech; NorthStreetMedicalCentre paragraph",
+      "note": "Clarifies urgent-care clinic is next door to the clinic where she previously worked, rather than proof she worked in urgentcare operations."
     }
   ],
   "research_notes": [
@@ -440,6 +491,7 @@
     "Follow-up 2026-10-02: first speech and official qualifications identify Subiaco hospital training; university thesis establishes 2026 award, with interviews from 2017 requiring reconciliation with stated 2019 study commencement. Council announcement quoted contemporaneously settles 28 May 2025 resignation.",
     "Curtin 2008–2011 and ECU 2017–2021 remain secondary leads: Wikipedia links old public professional profile trish-cook-28a36738, but direct 999; renamed trish-cook-mp denied robots and targeted indexes lacked role detail. No authentication or access bypass. Business News visible profile did not supply the claimed oil/gas date interval.",
     "Gov Insights namesake is an administration specialist without matching nursing biography; not attributed. Searches for Nurses@Work legal entity and TAFE appointments did not identify payroll records. Next leads: historical nursing business registry, public academic CV, TAFE annual reports, and paid hospital-training record.",
-    "Follow-up 2026-10-03: public professional-profile evidence was sufficient to promote prior leads into bounded but hours-unknown Curtin OHS lecturing (2008–2011), ECU tutoring (2017–2021), and a broad 1996–2011 oil-and-gas/OHS umbrella. Business News corroborates the latter in visible index text. The university spells overlap the umbrella and are not additive. Exact payroll employers/clients, hours, leave and Nurses@Work boundaries remain unresolved; subscription content was not accessed."
+    "Follow-up 2026-10-03: public professional-profile evidence was sufficient to promote prior leads into bounded but hours-unknown Curtin OHS lecturing (2008–2011), ECU tutoring (2017–2021), and a broad 1996–2011 oil-and-gas/OHS umbrella. Business News corroborates the latter in visible index text. The university spells overlap the umbrella and are not additive. Exact payroll employers/clients, hours, leave and Nurses@Work boundaries remain unresolved; subscription content was not accessed.",
+    "Follow-up2026-10-04: New primary ministerial/PM transcripts and Hansard identify nursing work in the NorthStreetMedicalCentre Midland precinct.2026speech clarifies former clinic was next door to urgentcare, preventing wrong service/opening-date attribution. Legal payer, historic control, hours and start/end remain unknown; clinic work saved separately. Targeted Nurses@Work and Solomon Islands searches lack payroll/business endpoints; US namesake nurse/physician records rejected."
   ]
 }
