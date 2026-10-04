@@ -6,7 +6,7 @@
   "snapshot_party": "Liberal Party of Australia",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/30484",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-03",
+  "last_reviewed": "2026-10-04",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -180,6 +180,44 @@
       "evidence_note": "Public professional profile identifies company, title and years, Perth/Sydney. Nested within the broad 1996–2005 business period. Legal employer name, hours, leave and contract dates remain unknown.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "30484-08"
+    },
+    {
+      "spell_id": "30484-09",
+      "employer": "Liberal Party of Australia",
+      "role": "Member of Rick Wilson for O’Connor Liberal campaign committee; chair in2016",
+      "start_date": "2013",
+      "end_date": "2019",
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "party_organisation",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-15"
+      ],
+      "evidence_note": "Official biography records committee membership2013–2019 and chair2016. Nested within the prior broad party spell for2013–2017, with previously omitted continuation2018–2019; no separate paid employment established.",
+      "counting_note": "Party campaign/governance activity excluded; overlaps are not additive employment years."
+    },
+    {
+      "spell_id": "30484-10",
+      "employer": "Liberal Party of Australia",
+      "role": "Member of Nicole Robins for Fremantle Liberal campaign committee",
+      "start_date": "2019",
+      "end_date": "2019",
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "party_organisation",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-15"
+      ],
+      "evidence_note": "Official biography lists2019campaign committee membership. No paid employment, individual day/month dates or workload established.",
+      "counting_note": "Party campaign/governance activity excluded; overlaps are not additive employment years."
     }
   ],
   "sources": [
@@ -322,6 +360,16 @@
       "note": "Reports company formed in 2015 for commercial CBH bid, backed by GrainCorp and Morrison investment. Supports commercial company classification, not industry association; does not establish Brockman hours or cessation.",
       "retrieved": "2026-10-02",
       "source_id": "src-14"
+    },
+    {
+      "source_id": "src-15",
+      "url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=30484",
+      "publisher": "Parliament of Australia",
+      "title": "Senator Slade Brockman — refreshed party positions",
+      "retrieved": "2026-10-04",
+      "source_type": "official_biography",
+      "locator": "Party positions: Rick Wilson2013–2019 committee and2016chair; Nicole Robins2019committee",
+      "note": "Public indexed official biography adds party activity extending beyond2017; no paid party employment or hours established."
     }
   ],
   "research_notes": [
@@ -332,6 +380,7 @@
     "Follow-up 2026-10-02: public profile names Ideas Department operations/general management 1996–1998. Search index also exposes 1998–2002 Perth but not the associated employer/title; do not guess. Broader business chronology remains incomplete.",
     "AGC legal adviser identifies Pty Ltd commercial bidder; ABC contemporaneous director interview corroborates private acquisition purpose. Corrected prior association exclusion. Identify payroll/contract, hours and 2017 cessation separately from 2016 bid withdrawal.",
     "Attempted public professional-profile queries, member career interview, Advoc8 and corporate/annual-report leads. LinkedIn 999 and some primary pages 403/Internal Error were source gaps; public index used without authentication or paywall bypass. Next leads: complete public CV or historical employer material for 1998–2005 and contracts for farm/Ideas/AGC.",
-    "Follow-up 2026-10-03: targeted exact-year and title searches across the public LinkedIn index, Advoc8, official parliamentary records, Australian Grains Champion materials and contemporary reporting yielded no defensible employer/title for the still-hidden 1998–2002 profile entry and no personal AGC contract or cessation boundary. The apparent 1998–2002 search fragments were unrelated people/events and were not adopted. Remaining leads require a complete public CV, historical employer archive or contract/payroll evidence."
+    "Follow-up 2026-10-03: targeted exact-year and title searches across the public LinkedIn index, Advoc8, official parliamentary records, Australian Grains Champion materials and contemporary reporting yielded no defensible employer/title for the still-hidden 1998–2002 profile entry and no personal AGC contract or cessation boundary. The apparent 1998–2002 search fragments were unrelated people/events and were not adopted. Remaining leads require a complete public CV, historical employer archive or contract/payroll evidence.",
+    "Follow-up2026-10-04: Refreshed official party list documents previously omitted Rick Wilson campaign committee continuation to2019 and Nicole Robins campaign committee2019, excluded as political/party activity with unknown paid status. Targeted early-employer and AGC-workload searches still lack attributable facts. NLA2014 archived election site lead inaccessible via search tool; no bypass. Unrelated football entries/older explorer and NBN director’s Integrated Maintenance Services business not attributed to Brockman. Retain farm/1998–2005 employers and AGC contract gaps."
   ]
 }

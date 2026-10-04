@@ -164,3 +164,6 @@ Detailed attempted avenues, discrepancies and remaining leads are preserved in e
 
 - Anne Aly13050: materially enriched OMI duties with two historical primary annual reports; no FTyears.
 - Attempt19distinct,0new,9material,10nonmaterial,0complete; cycle36distinct,15material,21nonmaterial; day173distinct,65material,108nonmaterial; all0new/complete. Next: Slade Brockman30484. OUTCOME:ongoing; STOPPING REASON:none.
+
+- Slade Brockman30484: material extension of documented party activity to2019; payroll and full-time gaps remain.
+- Attempt20distinct,0new,10material,10nonmaterial,0complete; cycle37distinct,16material,21nonmaterial; day174distinct,66material,108nonmaterial; all0new/complete. Next: Michaelia CashI0M. OUTCOME:ongoing; STOPPING REASON:none.
