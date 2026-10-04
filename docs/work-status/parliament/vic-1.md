@@ -336,3 +336,6 @@ State: ready-for-integration
 
 - 2026-10-04T22:34:39+10:00: Dreyfus: degree year and readers intake recovered; professional-hours gap retained.
 - Attempt169distinct,0new,105material,64nonmaterial,0complete; cycle186distinct,111material,75nonmaterial; day226distinct,133material,93nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Cassandra Fernando299964. OUTCOME:ongoing; STOPPING REASON:none.
+
+- 2026-10-04T22:36:07+10:00: Fernando: qualifications and party offices recorded; retail hours remain unresolved.
+- Attempt170distinct,0new,106material,64nonmaterial,0complete; cycle187distinct,112material,75nonmaterial; day226distinct,134material,92nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Sarah HendersonZN4; Garland, Giles, Gregg and Haines already verified this attempt.. OUTCOME:ongoing; STOPPING REASON:none.

@@ -106,7 +106,7 @@
       "role": "Member for Holt",
       "start_date": "2022-05-21",
       "end_date": null,
-      "date_precision": "unknown",
+      "date_precision": "day",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -138,6 +138,143 @@
       "evidence_note": "Own account places these workplace responsibilities before paid organiser work. No dates or separate salary; nested within retail employment rather than additional full-time job-years.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "299964-delegate"
+    },
+    {
+      "spell_id": "299964-study1",
+      "employer": "Box Hill TAFE",
+      "role": "Certificate III in Commercial Cookery",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "oct4-qual"
+      ],
+      "evidence_note": "Official named qualification and institution; no dates.",
+      "counting_note": "Study excluded; qualification does not establish paid apprenticeship or employment."
+    },
+    {
+      "spell_id": "299964-study2",
+      "employer": "William Angliss Institute",
+      "role": "Certificate IV in Hospitality (Patisserie)",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "oct4-qual",
+        "oct4-angliss"
+      ],
+      "evidence_note": "Institution confirms graduate; no course dates or apprenticeship contract.",
+      "counting_note": "Study excluded; qualification does not establish paid apprenticeship or employment."
+    },
+    {
+      "spell_id": "299964-study3",
+      "employer": "William Angliss Institute",
+      "role": "Diploma of Hospitality Management",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "oct4-qual",
+        "oct4-angliss",
+        "oct4-tafe"
+      ],
+      "evidence_note": "Official and institution confirmation; no course dates or work fraction.",
+      "counting_note": "Study excluded; qualification does not establish paid apprenticeship or employment."
+    },
+    {
+      "spell_id": "299964-study4",
+      "employer": "Institution unidentified",
+      "role": "Certificate III in Education Support / teaching aide course",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "oct4-abcqual",
+        "oct2-ames"
+      ],
+      "evidence_note": "ABC names certificate; AMES account places teaching-aide course after hospitality qualifications. Institution and dates unknown, not paid teaching employment.",
+      "counting_note": "Study excluded; qualification does not establish paid apprenticeship or employment."
+    },
+    {
+      "spell_id": "299964-party1",
+      "employer": "Australian Labor Party",
+      "role": "Administration Committee member",
+      "start_date": "2019",
+      "end_date": "2020",
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "party_organisation",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "oct4-qual"
+      ],
+      "evidence_note": "Official committee-service years; no exact boundaries, salary or employment hours evidenced.",
+      "counting_note": "Party activity excluded; overlapping committee roles not counted as extra employment."
+    },
+    {
+      "spell_id": "299964-party2",
+      "employer": "Australian Labor Party",
+      "role": "Rules Revision Committee member",
+      "start_date": "2019",
+      "end_date": "2020",
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "party_organisation",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "oct4-qual"
+      ],
+      "evidence_note": "Official committee-service years; no exact boundaries, salary or employment hours evidenced.",
+      "counting_note": "Party activity excluded; overlapping committee roles not counted as extra employment."
+    },
+    {
+      "spell_id": "299964-party3",
+      "employer": "Australian Labor Party",
+      "role": "Campaign Committee proxy member",
+      "start_date": "2019",
+      "end_date": "2020",
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "party_organisation",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "oct4-qual"
+      ],
+      "evidence_note": "Official committee-service years; no exact boundaries, salary or employment hours evidenced.",
+      "counting_note": "Party activity excluded; overlapping committee roles not counted as extra employment."
     }
   ],
   "sources": [
@@ -210,6 +347,46 @@
       "note": "Explicitly describes full-time SDA organiser for preceding five years; does not establish full-time Woolworths employment.",
       "retrieved": "2026-10-02",
       "source_id": "oct2-abc"
+    },
+    {
+      "source_id": "oct4-qual",
+      "url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=299964",
+      "publisher": "Australian Parliament",
+      "title": "Cassandra Fernando qualifications and party roles",
+      "retrieved": "2026-10-04",
+      "source_type": "official_biography",
+      "locator": "Indexed qualifications and Party positions sections",
+      "note": "Commercial Cookery CertificateIII(Box Hill), Patisserie CertificateIV and Hospitality Management diploma(William Angliss); three party committee roles2019–2020. No qualification dates or paid-study proof."
+    },
+    {
+      "source_id": "oct4-angliss",
+      "url": "https://www.angliss.edu.au/about/news/angliss-alumni-on-role-models--mentors-at-international-womens-day/",
+      "publisher": "William Angliss Institute",
+      "title": "Angliss Alumni at International Women’s Day",
+      "retrieved": "2026-10-04",
+      "source_type": "other",
+      "locator": "Cassandra keynote paragraph, before Anna biography",
+      "note": "Institution confirms CertificateIV Hospitality(Patisserie) and Diploma Hospitality Management graduate. Later tourism enrolment and Intrepid employment describe Anna de Leeuw Pool, not Fernando; roughly20-year union involvement includes delegate/HSR, not20 years paid organiser work."
+    },
+    {
+      "source_id": "oct4-abcqual",
+      "url": "https://www.abc.net.au/news/elections/federal/2025/guide/holt",
+      "publisher": "ABC News",
+      "title": "Holt2025 candidate biography",
+      "retrieved": "2026-10-04",
+      "source_type": "news",
+      "locator": "Cassandra Fernando candidate paragraph",
+      "note": "CertificateIII Education Support; not evidence of a paid school employer, training dates or study load."
+    },
+    {
+      "source_id": "oct4-tafe",
+      "url": "https://ministers.dewr.gov.au/giles/doorstop-interview-parliament-house-canberra-0",
+      "publisher": "Department of Employment and Workplace Relations",
+      "title": "National TAFE Day doorstop transcript",
+      "retrieved": "2026-10-04",
+      "source_type": "government_record",
+      "locator": "Cassandra Fernando opening statement",
+      "note": "Own statement identifies William Angliss hospitality-management study specialising in patisserie. No attendance dates or paid-training status."
     }
   ],
   "research_notes": [
@@ -220,6 +397,7 @@
     "First-speech account broadens worksite history beyond Dandenong Plaza and adds delegate/HSR responsibilities. Study qualifications are not paid teaching. An AMES article about chief of staff Hafiz and his full-time employment concerns another person and is excluded.",
     "Follow-up2026-10-03: targeted searches for Woolworths contract status, pastry apprenticeship/training, store transitions, exact SDA commencement and education-support employment returned only the already recorded broad biographies and Summer2017 organiser observation. A2025 ABC profile restates baking/shelf work and qualifications but supplies no employment boundaries or hours. No retail full-time interval was inferred.",
     "Next leads: Woolworths work-history confirmation with store and contract changes, dated training/apprenticeship records, exact SDA appointment/cessation and AMES volunteer dates. Private FT headline stays null because excluded union FT evidence cannot be transferred to retail.",
-    "Follow-up2026-10-04: targeted pastry-apprenticeship, qualification and Woolworths-training searches found the current official profile's Cert III Commercial Cookery (Box Hill TAFE), Cert IV Patisserie and Diploma of Hospitality Management (William Angliss), alongside the already recorded 2002–2017 shop-assistant and 2008–2017 pastry-chef labels. The qualifications do not establish an apprenticeship employer, training dates, paid study, contract type or full-time hours. Exact retail status transitions, store movements, SDA appointment/cessation and AMES volunteer dates remain unresolved; no headline interval was inferred."
+    "Follow-up2026-10-04: targeted pastry-apprenticeship, qualification and Woolworths-training searches found the current official profile's Cert III Commercial Cookery (Box Hill TAFE), Cert IV Patisserie and Diploma of Hospitality Management (William Angliss), alongside the already recorded 2002–2017 shop-assistant and 2008–2017 pastry-chef labels. The qualifications do not establish an apprenticeship employer, training dates, paid study, contract type or full-time hours. Exact retail status transitions, store movements, SDA appointment/cessation and AMES volunteer dates remain unresolved; no headline interval was inferred.",
+    "Follow-up2026-10-04: Added four omitted qualifications and three party committee offices. Institution biography corroborates Angliss graduation; AMES interview explains teaching-aide course followed hospitality study. Tourism, travel-business and chef careers of other panel members rejected; twenty-year union involvement not converted to paid organiser tenure. Official, university and exact-name full-time searches still supply no retail contract transitions, store dates or apprenticeship pay/leave evidence. Next Woolworths contract changes and institution course dates; unknowns retained."
   ]
 }
