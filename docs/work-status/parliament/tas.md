@@ -168,3 +168,6 @@
 
 - 2026-10-04T20:38:50+10:00: Dowling: earlier dated November2024 observation materially narrows Meta-to-Winter transition evidence.
 - Attempt119distinct,0new,70material,49nonmaterial,0complete; cycle136distinct,76material,60nonmaterial; day226distinct,115material,111nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Jonno Duniam263418. OUTCOME:ongoing; STOPPING REASON:none.
+
+- 2026-10-04T20:41:10+10:00: Duniam: located current personal disclosure index, documented failed PDF/link retrieval, preserved leave gaps. Nonmaterial provenance update.
+- Attempt120distinct,0new,70material,50nonmaterial,0complete; cycle137distinct,76material,61nonmaterial; day226distinct,115material,111nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Chris Gatenby324140. OUTCOME:ongoing; STOPPING REASON:none.
