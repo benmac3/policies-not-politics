@@ -331,3 +331,6 @@ Batch check passes: 226 assigned exactly once across 13 batches; nsw-2 assignmen
 
 - 2026-10-04T19:49:35+10:00: Melissa McIntosh: nonmaterial follow-up; no new employment evidence.
 - Attempt92distinct,0new,52material,40nonmaterial,0complete; cycle109distinct,58material,51nonmaterial; day226distinct,103material,123nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Deborah O’Neill140651. OUTCOME:ongoing; STOPPING REASON:none.
+
+- 2026-10-04T19:50:29+10:00: Deborah O’Neill: nonmaterial archival surname follow-up; NSW2 pass complete with all19 still unresolved.
+- Attempt93distinct,0new,52material,41nonmaterial,0complete; cycle110distinct,58material,52nonmaterial; day226distinct,103material,123nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: NSW3 first unresolved record in frozen batch order. OUTCOME:ongoing; STOPPING REASON:none.
