@@ -318,3 +318,10 @@ Deduplicated Brisbane-day new member IDs: 00AMR, 101351, 124514, 132880, 140590,
 
 - 2026-10-04T23:46:41+10:00: Julie-Ann Campbell: original union media releases corroborate existing duties, without new dates/hours or policy-office identity.
 - Attempt204distinct,0new,131material,73nonmaterial,0complete; cycle221distinct,137material,84nonmaterial; day226distinct,150material,76nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: SA Marielle Smith281603;17 earlier cycle members skipped after durable checkpoint reconciliation.. OUTCOME:ongoing; STOPPING REASON:none.
+
+## Targeted unresolved evidence pass — originating2026-10-04 16:00 cycle continuation1
+
+- Still same human-requested attempt started2026-10-04T17:00:01+10:00; entering new Brisbane day2026-10-05 after209distinct attempt records (135material/74nonmaterial), cycle226distinct (141material/85nonmaterial), all0new/complete. Fresh13branch audit confirms226blocked,0missing/complete. Starting QLD1head0252b779e743012794fe31702bbf14fe309d525d; frozen assignment check226/13 and qld1 passed; no new conflicting branch writer. Prior-day material classifications being reconciled from per-member commits; semantic-diff170 does not equal substantive count. New-day baseline0membercommits verified before this targeted pass. Active cursorCanavan, chosen before repeatedly exhausted CPR/Santos leads. No terminal error observed.
+
+- 2026-10-05T00:06:16+10:00: Canavan: original anniversary booklet inspected; no new calculable employment evidence.
+- Originating cycle2026-10-04 16:00 continuation1; attempt started2026-10-04T17:00:01+10:00 and ongoing. Attempt210distinct,0new,135material,75nonmaterial,0complete; cycle226distinct,141material,85nonmaterial. Current Brisbane day2026-10-05: 1distinct,0new,0material,1nonmaterial,0complete. Counts deduplicated within attempt/cycle/day. Next: QLD1assignment9JimChalmers; original thesis/CPR evidence only, otherwise advance to a new primary lead. OUTCOME:ongoing; STOPPING REASON:none. No successor requested.
