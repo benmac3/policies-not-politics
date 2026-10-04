@@ -57,7 +57,7 @@
     {
       "spell_id": "249127-alp-governance",
       "employer": "Australian Labor Party and Australian Young Labor",
-      "role": "Member from 1994; state and federal Young Labor vice-president, 2003–2004",
+      "role": "Member from 1994; state and federal Young Labor vice-president, 2003–2004; proxy delegate to ALP National Conference2004–2007",
       "start_date": "1994",
       "end_date": null,
       "date_precision": "mixed",
@@ -68,9 +68,10 @@
       "government_control_at_time": "private",
       "counting_status": "excluded",
       "source_ids": [
-        "src-secondary"
+        "src-secondary",
+        "src-aph-party-oct4"
       ],
-      "evidence_note": "Secondary material drawing on the parliamentary biography and maiden speech records ALP membership from 1994 and Young Labor vice-presidential roles from 2003 to 2004. Exact terms, pay, hours and overlap with paid work are unresolved; governance is not assumed to be employment.",
+      "evidence_note": "Secondary material drawing on the parliamentary biography and maiden speech records ALP membership from 1994 and Young Labor vice-presidential roles from 2003 to 2004. Exact terms, pay, hours and overlap with paid work are unresolved; governance is not assumed to be employment.Primary parliamentary biography index additionally identifies proxy National Conference delegation2004–2007. This term is party representation, not salaried employment; membership start1994 is not the delegation start.",
       "counting_note": "Party activity is excluded under the codebook."
     },
     {
@@ -173,9 +174,10 @@
         "src-snapshot",
         "src-secondary",
         "src-first-speech",
-        "src-aspi-bio"
+        "src-aspi-bio",
+        "src-conroy-aspi2015"
       ],
-      "evidence_note": "The frozen extract records service from 2008 to 2011. Exact appointment dates, payroll entity, hours, leave and AMWU transition are unresolved. First speech places appointment after the2007 election; this does not establish a2007 start. Hosted biography corroborates2008–2013 combined office service, preserving separate frozen role periods.",
+      "evidence_note": "The frozen extract records service from 2008 to 2011. Exact appointment dates, payroll entity, hours, leave and AMWU transition are unresolved. First speech places appointment after the2007 election; this does not establish a2007 start. Hosted biography corroborates2008–2013 combined office service, preserving separate frozen role periods.Member-authored3December2015 ASPI article dates Defence Materiel Adviser duties2008–2010 within this role. Distinct portfolio description, not an additional staff job or day-level boundary; no Defence public-service transfer inferred.",
       "counting_note": "Political staff employment is excluded under the codebook."
     },
     {
@@ -321,6 +323,26 @@
       "note": "Contemporaneous reporting quotes party announcement of preselection that day; describes Conroy as former deputy chief of staff. Not exact payroll cessation.",
       "retrieved": "2026-10-02",
       "source_id": "src-aap2013-oct2"
+    },
+    {
+      "source_id": "src-aph-party-oct4",
+      "url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=249127",
+      "publisher": "Australian Parliament",
+      "title": "Hon Pat Conroy MP: Party positions",
+      "retrieved": "2026-10-04",
+      "source_type": "official_biography",
+      "locator": "Public parliamentary biography index: Proxy Delegate to ALP National Conference2004–2007",
+      "note": "Indexed primary party-history entry. Party governance does not establish paid staff service; no membership-derived employment dates."
+    },
+    {
+      "source_id": "src-conroy-aspi2015",
+      "url": "https://www.aspistrategist.org.au/the-first-principles-review-one-defence-but-at-what-cost/",
+      "publisher": "Pat Conroy / ASPI The Strategist",
+      "title": "The First Principles Review—One Defence,but at what cost?,3December2015",
+      "retrieved": "2026-10-04",
+      "source_type": "official_biography",
+      "locator": "Author biography: Defence Materiel Adviser2008–2010",
+      "note": "Member-authored article supplies portfolio-specific staff duties within existing2008–2011 Principal Policy Adviser spell. No separate Defence departmental employment assumed."
     }
   ],
   "research_notes": [
@@ -333,7 +355,8 @@
     "Queries for Coles full-time/part-time status and2013 campaign transition located no reliable individual hours or exact payroll boundaries. Preserve these gaps for targeted historical store/employer, alumni or public professional-profile leads; repeating generic biographies is unlikely to resolve them. Official first-speech link unavailable; OpenAustralia mirror recovered content. No job-wide tool error.",
     "Second follow-up2October2026 materially resolves candidacy start27July2013 from contemporary AAP reporting of the party announcement. Former-staffer wording also supplies departure-by observation for Combet office, without inventing an exact cessation day. Campaign end uses known7September election, not assumed payroll duration.",
     "Targeted Coles store/hours, AMWU transition and professional-profile searches yielded no new individual work terms. Customer-assistant recollections and existing2004–2008 economist interval recur. US author namesake and unrelated Coles security commentary excluded. Remaining work is personal appointment/leave and1995–2000 Coles payroll/hours evidence; union and political staff remain excluded.",
-    "Third follow-up4October2026 used exact-name searches for the1995–2000 Coles customer-service role and the AMWU National Projects Officer/National Economist titles. Official and primary results repeated the frozen occupation sequence and the16May2005 National Projects Officer observation; a Productivity Commission submission also showed the AMWU title and work email but supplied no appointment/promotion boundary, hours or leave. No personal Coles payroll/store evidence surfaced, and namesakes were excluded. No material change; retain the unresolved questions rather than infer full-time status or exact dates."
+    "Third follow-up4October2026 used exact-name searches for the1995–2000 Coles customer-service role and the AMWU National Projects Officer/National Economist titles. Official and primary results repeated the frozen occupation sequence and the16May2005 National Projects Officer observation; a Productivity Commission submission also showed the AMWU title and work email but supplied no appointment/promotion boundary, hours or leave. No personal Coles payroll/store evidence surfaced, and namesakes were excluded. No material change; retain the unresolved questions rather than infer full-time status or exact dates.",
+    "Follow-up2026-10-04: New primary party-history index identifies previously omitted2004–2007 National Conference proxy delegation; original member-authored2015 article dates Defence Materiel adviser duties2008–2010 within existing Combet-office service. No separate Defence employer, continuous whole-year term or hours inferred. May2010 CCH stafflist corroborates Materiel and Science portfolio without appointment boundaries. Coles payroll/store and personal AMWU leave/hours remain missing; generic reports and other people’s contracts not transferred."
   ],
   "open_questions": [
     "What were the exact Coles employer/store dates, hours, leave and overlap with study?",
