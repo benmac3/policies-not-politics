@@ -6,12 +6,12 @@
   "snapshot_party": "Liberal Party of Australia",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/249308",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-03",
+  "last_reviewed": "2026-10-04",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
     "calculation_status": "not_calculable",
-    "note": "A contemporary WA parliamentary record now places Price as CBH business development manager in May 2008, and a primary governance report carries BrightSpark service through 2015. Full-time/leave and precise interval evidence remain incomplete; both sector totals are unknown, not zero."
+    "note": "Historical own public-profile screenshot refines CBH to Aug2002–Jun2008 and Crosslands to Jun2008–Jun2012 and dates an unresolved advisory entry from Jun2012. Hours, leave, precise days and advisory employer/continuity remain unknown; both totals remain null."
   },
   "career_spells": [
     {
@@ -156,9 +156,9 @@
     {
       "employer": "CBH Group / Co-operative Bulk Handling",
       "role": "General counsel, then business development manager",
-      "start_date": "2002",
-      "end_date": "2008",
-      "date_precision": "year",
+      "start_date": "2002-08",
+      "end_date": "2008-06",
+      "date_precision": "month",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "private_enterprise",
@@ -170,18 +170,19 @@
         "src-2",
         "src-4",
         "src-7",
-        "src-12"
+        "src-12",
+        "src-13"
       ],
-      "evidence_note": "Official combined range; first speech confirms roles were sequential, transition date unknown. A WA parliamentary committee participant list identifies Price as CBH Manager, Business Development on 27 May 2008, establishing the later role by that date but not its commencement. Grower-owned commercial cooperative; split not fabricated. Exact hours/leave unverified.",
+      "evidence_note": "Official combined range; first speech confirms roles were sequential, transition date unknown. A WA parliamentary committee participant list identifies Price as CBH Manager, Business Development on 27 May 2008, establishing the later role by that date but not its commencement. Grower-owned commercial cooperative; split not fabricated. Exact hours/leave unverified. Historical own professional-profile screenshot reproduced by SBS gives August2002–June2008 for the combined CBH entry, refining compatible official years. It does not separate the two role terms or establish individual hours/leave.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "249308-08"
     },
     {
       "employer": "Crosslands Resources Ltd",
       "role": "Vice-President, Legal and Business Development; Company Secretary",
-      "start_date": "2008",
-      "end_date": "2012",
-      "date_precision": "year",
+      "start_date": "2008-06",
+      "end_date": "2012-06",
+      "date_precision": "month",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "private_enterprise",
@@ -194,9 +195,10 @@
         "src-4",
         "src-5",
         "src-6",
-        "src-10"
+        "src-10",
+        "src-13"
       ],
-      "evidence_note": "Official range; corporate ownership50/50Murchison/Mitsubishi in2008; wholly Mitsubishi from20February2012. No government control shown. VP title does not establish full-time terms. Contemporary ASX report p7 dates appointment to the quarter ended 30 June 2008 (April–June); start remains year precision because no supported month. Kalgoorlie Miner on 26 July 2012 describes this as a former role, providing an upper bound for departure within the official 2012 end year. Neither date is substituted for an exact employment boundary. Company-secretary duties recorded within the same spell, not double-counted.",
+      "evidence_note": "Official range; corporate ownership50/50Murchison/Mitsubishi in2008; wholly Mitsubishi from20February2012. No government control shown. VP title does not establish full-time terms. Contemporary ASX report p7 dates appointment to the quarter ended 30 June 2008 (April–June); start remains year precision because no supported month. Kalgoorlie Miner on 26 July 2012 describes this as a former role, providing an upper bound for departure within the official 2012 end year. Neither date is substituted for an exact employment boundary. Company-secretary duties recorded within the same spell, not double-counted. Historical own professional-profile screenshot gives June2008–June2012, consistent with ASX appointment quarter and July2012 former-role observation. Month endpoints do not supply exact days, hours or leave.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "249308-09"
     },
@@ -287,10 +289,10 @@
     },
     {
       "employer": "Corporate advisory employer or clients unidentified",
-      "role": "Corporate adviser",
-      "start_date": null,
+      "role": "Corporate adviser / resources lawyer / non-executive director",
+      "start_date": "2012-06",
       "end_date": null,
-      "date_precision": "unknown",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "unknown",
@@ -298,9 +300,10 @@
       "government_control_at_time": "unknown",
       "counting_status": "insufficient_evidence",
       "source_ids": [
-        "src-11"
+        "src-11",
+        "src-13"
       ],
-      "evidence_note": "Charity board biography describes former corporate-adviser work. It may refer to duties within listed jobs or separate advisory engagements; neither independent employment nor a 2012–2013 interval established. Retained as an unresolved role, not additive years.",
+      "evidence_note": "Charity board biography describes former corporate-adviser work. It may refer to duties within listed jobs or separate advisory engagements; neither independent employment nor a 2012–2013 interval established. Retained as an unresolved role, not additive years. Historical own profile identifies June2012 start and lists corporate governance, strategic planning and mine-study project management consulting, resources law, and company-secretary/director duties. Employer field is merely Mining, not an identified legal entity. Present on the screenshot published February2019 may be stale and cannot establish continuous work or an actual end; possible overlap with listed board positions and Parliament is not additive employment.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "249308-14"
     }
@@ -425,6 +428,16 @@
       "note": "Contemporaneous official record identifies Melissa Price as Manager, Business Development at CBH. It establishes the later CBH role by this date, not its start date or full-time terms.",
       "retrieved": "2026-10-03",
       "source_id": "src-12"
+    },
+    {
+      "source_id": "src-13",
+      "url": "https://www.sbs.com.au/news/the-feed/article/environmental-policy-got-a-huge-boost-so-where-was-the-minister/nemonmfpc",
+      "publisher": "Melissa Price / LinkedIn, reproduced by SBS News",
+      "title": "Historical Melissa Price public professional-profile screenshot",
+      "source_type": "professional_profile",
+      "locator": "25 February 2019 article; image caption Mel Price LinkedIn History; visible Experience entries",
+      "retrieved": "2026-10-04",
+      "note": "Screenshot personally inspected at https://assets.sbs.com.au/drupal/news/public/screen_shot_2019-02-25_at_4.06.42_pm.png?imwidth=1280. Identity explicitly Federal Member for Durack. CBH Aug2002–Jun2008, Crosslands Jun2008–Jun2012, advisory/resources-lawyer/NED Jun2012–Present. Present is historical profile wording, not proof of continuing paid work. No full-time label. Search click Internal Error recovered by authorised direct public image retrieval."
     }
   ],
   "research_notes": [
@@ -434,6 +447,7 @@
     "Periods remain year precision except Cancer Council month endpoints. UK ten-year narrative may overlap other identified roles and is retained as a lead, not a duplicate additive spell. Charity board terms excluded even where they overlap Parliament.",
     "Follow-up 2026-10-02: contemporary Murchison ASX quarterly report establishes appointment quarter and company-secretary duties; July 2012 local reporting bounds Crosslands departure and dates preselection activity. Charity annual report adds construction/commercial specialisms and an unresolved corporate-adviser role. Full-time status remains unproved.",
     "Searched CBH historical report mentions, BrightSpark appointment, UK and maiden-name employment, Crosslands resignation and public professional profile. No reliable employer-by-employer UK dates, CBH transition, leave or hours found. Public LinkedIn education/membership snippets do not establish job dates; unrelated US advisers/accountants and defence-force namesakes excluded. Next leads: CBH 2005–06 annual report and original professional CV; distinguish advisory engagements from executive duties.",
-    "Follow-up 2026-10-03: a WA parliamentary committee record identifies Price as CBH Manager, Business Development on 27 May 2008, proving the later role by that observation but not its commencement. Cancer Council WA's 2014–15 governance report signed in September 2015 independently shows that she remained a BrightSpark Foundation director. Searches still did not resolve the CBH role-transition date, BrightSpark appointment, substantive hours/leave, early employers or the 2012–13 gap."
+    "Follow-up 2026-10-03: a WA parliamentary committee record identifies Price as CBH Manager, Business Development on 27 May 2008, proving the later role by that observation but not its commencement. Cancer Council WA's 2014–15 governance report signed in September 2015 independently shows that she remained a BrightSpark Foundation director. Searches still did not resolve the CBH role-transition date, BrightSpark appointment, substantive hours/leave, early employers or the 2012–13 gap.",
+    "Follow-up2026-10-04: Inspected a historical public LinkedIn screenshot published by SBS on25February2019. Named CBH and Crosslands month boundaries are compatible with official years and contemporary filings; added Jun2012 advisory/resources-lawyer/NED start and duties without treating Mining as legal employer or Present as continuing employment. CBH transition within combined role remains unknown; governance and parliamentary overlaps not summed. Early UK/hospitality/insurance/Robe River and full-time/leave searches still unresolved. Source click Internal Error recovered via public SBS image HTTP200, not a terminal blocker."
   ]
 }
