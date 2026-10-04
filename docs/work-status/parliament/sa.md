@@ -224,3 +224,6 @@
 
 - Louise Miller-Frost296272: added five omitted governance spells,AMC January2022end and historical role distinctions; employee fractions unresolved.
 - Attempt57distinct,0new,31material,26nonmaterial,0complete; cycle74distinct,37material,37nonmaterial; day211distinct,87material,124nonmaterial; all0new/complete. Next: Andrew McLachlan287062. OUTCOME:ongoing; STOPPING REASON:none.
+
+- Andrew McLachlan287062: new historical StJohn report avenue attempted; source verification wall and no new payroll/interval evidence.
+- Attempt58distinct,0new,31material,27nonmaterial,0complete; cycle75distinct,37material,38nonmaterial; day212distinct,87material,125nonmaterial; all0new/complete. Next: Tony Pasin240756. OUTCOME:ongoing; STOPPING REASON:none.
