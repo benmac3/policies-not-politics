@@ -204,3 +204,6 @@ Batch coverage, record fields, dates, enums, source references, build_careers.lo
 
 - James McGrath217241: nonmaterial follow-up — SA minister, Ombudsman personnel, legal admission and public profile searches did not establish new dates, employer, hours or leave. LinkedIn429 source-only, not retried. Existing contract dates/clients preserved.
 - Current attempt2distinct,0new,1material,1nonmaterial,0complete; cycle19distinct,7material,12nonmaterial; day156distinct,57material,99nonmaterial; all0new/complete. Durable next cursor: Shayne NeumannHVO. OUTCOME:ongoing; STOPPING REASON:none.
+
+- Shayne NeumannHVO: nonmaterial follow-up — legal admission, university dates, Dinmore operator, Baptist terms and clerk-employer avenues unresolved. Reproduced court judgment corroborates existing practice but neither costs nor another partner admission supply personal employment dates/hours. Original judgment retrieval inaccessible, source-only gap.
+- Attempt3distinct,0new,1material,2nonmaterial,0complete; cycle20distinct,7material,13nonmaterial; day157distinct,57material,100nonmaterial; all0new/complete. Next: Ted OBrien138932. OUTCOME:ongoing; STOPPING REASON:none.
