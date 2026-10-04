@@ -273,3 +273,6 @@ Batch coverage, record fields, dates, enums, source references, build_careers.lo
 
 - 2026-10-04T20:19:57+10:00: Anne Stanley: material previously undocumented unpaid leave/break evidence in bank career.
 - Attempt107distinct,0new,63material,44nonmaterial,0complete; cycle124distinct,69material,55nonmaterial; day226distinct,111material,115nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Zali Steggall175696. OUTCOME:ongoing; STOPPING REASON:none.
+
+- 2026-10-04T20:21:06+10:00: Zali Steggall: material party-founding activity and dated actual CAS adjudication.
+- Attempt108distinct,0new,64material,44nonmaterial,0complete; cycle125distinct,70material,55nonmaterial; day226distinct,111material,115nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Meryl Swanson264170. OUTCOME:ongoing; STOPPING REASON:none.
