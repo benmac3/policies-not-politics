@@ -213,3 +213,6 @@ Batch coverage, record fields, dates, enums, source references, build_careers.lo
 
 - Llew OBrien265991: nonmaterial follow-up — police rank/training/cessation and early employers remain unidentified. Unrelated retirement and factory visits not conflated with personal work.
 - Attempt5distinct,0new,2material,3nonmaterial,0complete; cycle22distinct,8material,14nonmaterial; day159distinct,58material,101nonmaterial; all0new/complete. Next: Henry Pike300120. OUTCOME:ongoing; STOPPING REASON:none.
+
+- Henry Pike300120: nonmaterial follow-up — automotive employer and implemented consultancy intervals remain unknown; existing announced arrangements preserved.
+- Attempt6distinct,0new,2material,4nonmaterial,0complete; cycle23distinct,8material,15nonmaterial; day160distinct,58material,102nonmaterial; all0new/complete. Next: Leon Rebello316547. OUTCOME:ongoing; STOPPING REASON:none.
