@@ -179,3 +179,6 @@
 
 - Rick Wilson: material omitted party-office coverage from official index; farm/study boundaries and hours unresolved.
 - Attempt45distinct,0new,26material,19nonmaterial,0complete; cycle62distinct,32material,30nonmaterial; day199distinct,82material,117nonmaterial; all0new/complete. Next: Josh Wilson265970. OUTCOME:ongoing; STOPPING REASON:none.
+
+- Josh Wilson: nonmaterial follow-up; Curtin fractions, law/client allocation and observer leave unresolved; namesakes rejected.
+- Attempt46distinct,0new,26material,20nonmaterial,0complete; cycle63distinct,32material,31nonmaterial; day200distinct,82material,118nonmaterial; all0new/complete. Next: SA Alex Antic269375. OUTCOME:ongoing; STOPPING REASON:none.
