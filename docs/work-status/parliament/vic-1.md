@@ -268,3 +268,13 @@ State: ready-for-integration
 - Alice Jordan-Baird: nonmaterial employment follow-up — searches for later ministerial-office assignments, Melbourne Water employment status, the direct Transdev employing entity, the burger traineeship and bus-depot employer returned only the current official aggregate chronology, the already recorded profile mirror and broad campaign biographies. Searches pairing her with James Merlino and Melissa Horne did not recover a second appointment instrument or post-May 2020 assignment. Contemporary staff advertisements and derivative profiles were rejected as evidence of her own hours.
 - Current continuation after this member: 66 distinct records, 0 new, 25 materially enriched, 41 nonmaterial follow-ups and 0 newly complete. Current cycle/day cumulative: 110 distinct, 0 new, 45 materially enriched, 65 nonmaterial follow-ups and 0 newly complete.
 - VIC-1 follow-up round complete. Durable next batch cursor: VIC-2, first unresolved member in assigned order after reconciling its remote checkpoint.
+
+
+## Active national follow-up — 2026-10-04 16:00 Brisbane cycle, continuation1
+
+- Additional user-requested attempt started2026-10-04T17:00:01+10:00. National remote API/gitreferences rechecked;226initial,226blocked,0complete. Four VIC1, one VIC2, four QLD1 member records still have last_reviewed2026-10-03 and are prioritized before repeating fresh same-day searches. Starting VIC1head7af57ee469bf383fc5567b64ae8d1859ff09ca22;25initial,25blocked,0complete;21reviewedtoday. No new conflicting writer observed.
+- Attempt63distinct,0new,34material,29nonmaterial,0complete; cycle80distinct40material40nonmaterial; day217distinct90material127nonmaterial. Current cursor Carina Garland295588. OUTCOME:ongoing; STOPPING REASON:none. Scheduler terminal status unavailable; successor not requested.
+- Git fetch briefly yielded stale tracking refs on three API-written branches; git ls-remote and connector confirmed current QLD2,WA1,SA heads. Do not trust stale tracking-ref dates or restart those63verified records.
+
+- Carina Garland295588: nonmaterial targeted employment follow-up and NUW corroboration.
+- Attempt64distinct,0new,34material,30nonmaterial,0complete; cycle81distinct,40material,41nonmaterial; day218distinct,90material,128nonmaterial; all0new/complete. Next: Andrew Giles243609. OUTCOME:ongoing; STOPPING REASON:none.
