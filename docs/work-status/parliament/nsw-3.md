@@ -222,3 +222,13 @@ Batch coverage, record fields, dates, enums, source references, build_careers.lo
 - Durable next cursor: next batch in plan order, VIC-1.
 - OUTCOME: ongoing. STOPPING REASON: none; continue after remote verification. No successor requested. Scheduler terminal status unavailable.
 - Validation: JSON parse, `career_batches.py --check` (226/13), `career_batches.py --batch nsw-3`, `build_careers.py` and `git diff --check` passed. Only the assigned member and this checkpoint are included.
+
+## Human-requested resumption — 2026-10-04 16:00 Brisbane cycle, continuation1
+
+- Attempt started2026-10-04T17:00:01+10:00; NSW3 entered2026-10-04T19:51:18+10:00. Starting NSW3 remote head1fec7699bfdbe5c21c87c720f1655ee81e593aeb. National226initial/226unresolved/0complete; batch19initial/19unresolved/0complete. All13 remote branches and main inspected and refreshed before switching. No active conflicting writer or intervening remote update observed.
+- Current attempt93distinct,0new,52material,41nonmaterial,0complete; cycle110distinct58material52nonmaterial. Day226distinct provisional103material123nonmaterial; semantic-diff versus material classification audit remains to reconcile six differences, so these classifications are provisional, distinct coverage verified.
+- Previous accepted asynchronous successor execution remains unverified; scheduler final telemetry unavailable. This human-requested attempt does not establish predecessor execution.
+- Next: Alison Penfold248895 then sequential frozen order. OUTCOME:ongoing; STOPPING REASON:none. No successor requested.
+
+- 2026-10-04T19:53:09+10:00: Alison Penfold: materially added distinct campaign and volunteer roles; no countable employment interval.
+- Attempt94distinct,0new,53material,41nonmaterial,0complete; cycle111distinct,59material,52nonmaterial; day226distinct,104material,122nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Fiona Phillips147140. OUTCOME:ongoing; STOPPING REASON:none.

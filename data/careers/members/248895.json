@@ -485,6 +485,44 @@
       "evidence_note": "Self-reported volunteer role corroborated by participant Niki Ford. No payroll or ordinary hours inferred.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "248895-nff-mentor"
+    },
+    {
+      "spell_id": "248895-griggs-campaign",
+      "employer": "Country Liberal Party — Natasha Griggs campaign for Solomon",
+      "role": "Campaign director",
+      "start_date": null,
+      "end_date": "2010",
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "party_organisation",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-griggs-hansard-2010"
+      ],
+      "evidence_note": "Griggs’s first-person House speech on 18 October 2010 names Penfold as campaign director and describes campaigning together for nine months. Exact appointment/cessation days, payroll, payment, hours and overlap with Terry Mills’s office remain unknown. The retrospective nine-month description is not back-calculated into a commencement date or treated as continuous full-time work.",
+      "counting_note": "Separately displayed excluded activity; not added to public/private full-time employment headlines."
+    },
+    {
+      "spell_id": "248895-burgmann-mentor",
+      "employer": "Burgmann College",
+      "role": "Volunteer BAM mentor",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unpaid_work",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-burgmann-winter25"
+      ],
+      "evidence_note": "The college’s Winter 2025 newsletter records repeated volunteering as a BAM mentor later in her career. Individual years, dates and workload are unstated; no paid employment inferred.",
+      "counting_note": "Separately displayed excluded activity; not added to public/private full-time employment headlines."
     }
   ],
   "sources": [
@@ -697,6 +735,26 @@
       "note": "Contemporaneous report states that Penfold already worked for Terry Mills as senior policy adviser and would replace Greg Charter as chief of staff, anchoring the title transition to March 2011 without supplying an exact appointment day or later endpoint.",
       "retrieved": "2026-10-03",
       "source_id": "src-abc-mills-transition"
+    },
+    {
+      "source_id": "src-griggs-hansard-2010",
+      "url": "https://www.aph.gov.au/binaries/hansard/reps/dailys/dr181010.pdf",
+      "publisher": "Parliament of Australia",
+      "title": "House Hansard, 18 October 2010 — Natasha Griggs Address-in-Reply",
+      "retrieved": "2026-10-04",
+      "source_type": "government_record",
+      "locator": "Printed page477, 4:30pm speech; campaign thanks; mirrored at https://www.openaustralia.org.au/debate/?id=2010-10-18.81.11",
+      "note": "Official PDF search index supplies identical campaign-director text to directly retrieved OpenAustralia Hansard transcription. Original PDF open and shell retrieval returned403; neither bypassed. Political campaign role and reported nine-month participation established, but pay, hours and exact dates unstated."
+    },
+    {
+      "source_id": "src-burgmann-winter25",
+      "url": "https://burgmann-assets.spicyweb.net.au/main/Alumni/Newsletter/2025/2025_Winter-Newsletter/25070-BC-Alumni-Newsletter-JUN25-V16.pdf",
+      "publisher": "Burgmann College",
+      "title": "Alumni & Friends Newsletter, Winter2025",
+      "retrieved": "2026-10-04",
+      "source_type": "other",
+      "locator": "Printed page5 / PDF page5, Alison Penfold elected MP for Lyne electorate",
+      "note": "Original college PDF directly read by search reader; shell retrieval403 recovered with available reader. Names repeated BAM volunteering. Describes Futureye as most-recent role without dates, which conflicts with biographies naming later political staff roles; not treated as continuous consultancy through2025."
     }
   ],
   "research_notes": [
@@ -711,6 +769,7 @@
     "Remaining leads: Futureye corporate/payroll history and exact tenure; NFF temporary contract and earlier/later communications records; NCCP chair contract; Woolworths appointment/acting interval; Reith/Truss/Mills/Hogan/Gillespie title transitions, campaign leave and career/travel breaks. No hours inferred from job advertisements for Penfold’s own later staff.",
     "Second follow-up2October2026 supplies month-level Woolworths and NFF contract boundaries, ANU study years and a separately excluded volunteer mentoring role. Public profile places a personal Camino pilgrimage inAugust–September2016. First-person Aurora interview describes walking after leaving a job in2016 and again in2019; retain these breaks rather than assume continuous work across transitions. A Littleproud-office indexed fragment givesMarch–May2018 without a clearly associated title; do not apply it to the entire chief-of-staff tenure, which contemporary August2018 reporting also observes. Exact title progression, later consultancy boundaries, ordinary hours and leave remain unresolved. Burgmann alumni1990–1992 residence is not degree completion. Search snippets and broad career narratives are not evidence of continuous full-time work.",
     "Third follow-up3October2026: contemporaneous ABC reporting separates Penfold's Terry Mills service into senior policy adviser before March2011 and announced chief-of-staff succession in March2011. The transition is retained at month precision because the article does not state the actual commencement day. Earlier appointment, later cessation, payroll, hours and leave remain unresolved. A separate first-speech account identifies her as Natasha Griggs's campaign director over the nine-month2010 campaign; it is a party-campaign lead rather than proof of paid employment and was not converted into an employment interval.",
-    "Fourth follow-up4October2026 repeated exact Futureye, Woolworths, NFF and parliamentary-office queries. Results reproduced the already recorded January2021 Futureye observation, December2016 NFF media contact, temporary custodial description and Woolworths government-relations title. No new appointment boundary, payroll entity, hours, leave or title transition emerged; contact-data aggregator dates were not independently adopted."
+    "Fourth follow-up4October2026 repeated exact Futureye, Woolworths, NFF and parliamentary-office queries. Results reproduced the already recorded January2021 Futureye observation, December2016 NFF media contact, temporary custodial description and Woolworths government-relations title. No new appointment boundary, payroll entity, hours, leave or title transition emerged; contact-data aggregator dates were not independently adopted.",
+    "Follow-up2026-10-04: Resolved previously retained 2010 Griggs campaign-director lead using contemporaneous House Hansard primary indexing and directly accessible transcription; added separately excluded party-campaign activity without inventing pay or nine-month start boundary. Original Winter2025 Burgmann newsletter also adds repeated BAM volunteer mentoring. Its most-recent Futureye wording is undated and does not prove current or continuous work through2025. Futureye tenure/hours remain gaps. Original PDF403s were recovered through available reader/transcription, not bypassed."
   ]
 }
