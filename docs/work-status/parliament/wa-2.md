@@ -176,3 +176,6 @@
 
 - Tyron Whitten: nonmaterial follow-up; pre2001 payroll, oyster/construction overlap and personal work hours unresolved; original register403.
 - Attempt44distinct,0new,25material,19nonmaterial,0complete; cycle61distinct,31material,30nonmaterial; day198distinct,81material,117nonmaterial; all0new/complete. Next: Rick Wilson198084. OUTCOME:ongoing; STOPPING REASON:none.
+
+- Rick Wilson: material omitted party-office coverage from official index; farm/study boundaries and hours unresolved.
+- Attempt45distinct,0new,26material,19nonmaterial,0complete; cycle62distinct,32material,30nonmaterial; day199distinct,82material,117nonmaterial; all0new/complete. Next: Josh Wilson265970. OUTCOME:ongoing; STOPPING REASON:none.

@@ -6,7 +6,7 @@
   "snapshot_party": "Liberal Party of Australia",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/198084",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-03",
+  "last_reviewed": "2026-10-04",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -161,7 +161,7 @@
       "source_ids": [
         "src-9"
       ],
-      "evidence_note": "Official biography lists role without tenure/pay basis. Earlier Katanning branch and OConnor division president/treasurer roles found as secondary leads and require primary dates.",
+      "evidence_note": "Official biography lists rural-policy committee membership without tenure/pay basis. Follow-up official index also establishes Katanning branch presidency and OConnor division treasury/presidency, recorded separately as excluded party offices with unknown dates and pay.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "198084-07"
     },
@@ -223,6 +223,44 @@
       "evidence_note": "Frozen first-service date; elected parliamentary work excluded.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "198084-10"
+    },
+    {
+      "employer": "Liberal Party of Australia, Katanning Branch (WA)",
+      "role": "President",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "party_organisation",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-9"
+      ],
+      "evidence_note": "Official parliamentary biography public index lists branch presidency. Tenure, paid/unpaid basis and hours not given; no dates inferred from candidacy or election.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "198084-11"
+    },
+    {
+      "employer": "Liberal Party of Australia, OConnor Division (WA)",
+      "role": "Treasurer and president (separate offices; transition dates unknown)",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "party_organisation",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-9"
+      ],
+      "evidence_note": "Official parliamentary biography public index lists both offices. No dates or pay/hours evidence; not a presumed continuous salaried role.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "198084-12"
     }
   ],
   "sources": [
@@ -312,8 +350,8 @@
       "title": "Rick Wilson parliamentary biography",
       "source_type": "official_biography",
       "locator": "Public indexed party positions/qualifications",
-      "note": "Party rural-policy role and Curtin qualification; direct open Internal Error. Official career dates preserved from frozen record.",
-      "retrieved": "2026-10-01",
+      "note": "Party rural-policy role and Curtin qualification; direct open Internal Error. Official career dates preserved from frozen record. Follow-up official public index additionally lists Katanning Branch president and OConnor Division treasurer/president; no tenure or pay basis supplied.",
+      "retrieved": "2026-10-04",
       "source_id": "src-9"
     },
     {
@@ -355,6 +393,7 @@
     "Follow-up2026-10-02:2015 and2018personal Hansard resolve two-year post-school family-farm work before Muresk, enriching early chronology. No unlocated employer invented; account specifically names family farm in2015. Avoid adding two years mechanically to1990–2013 farming range or inferring full-time from benefit independence.",
     "FarmWeekly detailed profile https://www.farmweekly.com.au/story/7812275/political-career-inspired-by-life-on-the-land/ returned (500) redirected to tollbit.farmweekly.com.au, non-retryable; not retried. ABR historical partnership view again unavailable. Other public parliamentary material remained usable.",
     "Targeted Muresk graduation/attendance, early farm and working-time searches did not recover exact years. US/Canadian namesakes and staff job vacancies discarded. Next leads: Muresk original graduation/attendance records, partnership and farm pay records, historical pre-study dates,2013operating exit versus retained financial interests, association role remuneration.",
-    "Follow-up 2026-10-03: located a public2019 first-person electorate listing stating that Rick and Allan continued to operate and expand the family farm. This conflicts with treating the official1990–2013 self-employed range as a complete operational cutoff, but does not establish Rick's personal post-entry hours, pay or continuity; retained financial and possible operative involvement remain unresolved and are not added as full-time years."
+    "Follow-up 2026-10-03: located a public2019 first-person electorate listing stating that Rick and Allan continued to operate and expand the family farm. This conflicts with treating the official1990–2013 self-employed range as a complete operational cutoff, but does not establish Rick's personal post-entry hours, pay or continuity; retained financial and possible operative involvement remain unresolved and are not added as full-time years.",
+    "Follow-up2026-10-04: Official parliamentary public index resolves earlier secondary leads for Katanning Branch presidency and OConnor Division treasury/presidency, added as excluded party offices without fabricated dates or remuneration. Muresk attendance/graduation and personal farm-hours/operating-exit searches yielded no new reliable dates. Foreign political, NASCAR, school and property namesakes and staff vacancies rejected. Farm ownership and continued2019operation do not establish personal full-time work."
   ]
 }
