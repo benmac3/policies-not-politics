@@ -6,7 +6,7 @@
   "snapshot_party": "The Nationals",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/245212",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-03",
+  "last_reviewed": "2026-10-04",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -123,9 +123,11 @@
         "src-11",
         "src-12",
         "src-13",
-        "src-14"
+        "src-14",
+        "src-15",
+        "src-16"
       ],
-      "evidence_note": "First speech describes a few weeks of stock-camp work between the 2013 election and July 2014 Senate commencement. Independent 2017 and 2018 career profiles identify employment by Stanbroke Beef as a business analyst and a short stockhand stint at its Miranda Downs property. April 2021 primary newsletter captions corroborate jackeroo/mustering activity. April 2013 government briefing, ABR history and industry ownership reporting establish private Stanbroke control of the host property. The profiles resolve the employer and substantive business-analyst role, but not the employing legal entity, exact dates, hours, leave, continuity or whether the stockhand stint was a separate employment arrangement.",
+      "evidence_note": "First speech describes a few weeks of stock-camp work between the 2013 election and July 2014 Senate commencement. A first-party 29 May 2014 release states the Miranda Downs stock-camp placement lasted two weeks; a 7 May 2014 release identifies Canavan as then working for Stanbroke Beef until he took his Senate seat on 1 July. Independent 2017 and 2018 career profiles identify employment by Stanbroke Beef as a business analyst and a short stockhand stint at its Miranda Downs property. April 2021 primary newsletter captions corroborate jackeroo/mustering activity. April 2013 government briefing, ABR history and industry ownership reporting establish private Stanbroke control of the host property. The evidence resolves a two-week placement duration and a 7 May 2014 Stanbroke employment observation, but not the employing legal entity, calendar start/end days, hours, leave, continuity or whether the stockhand stint was separately contracted.",
       "counting_note": "Dates, employer control and/or substantive full-time status remain insufficient for a duration calculation; unknown is not zero."
     },
     {
@@ -308,6 +310,26 @@
       "source_type": "news",
       "locator": "Public indexed career passage, 9 December 2018",
       "note": "Independently reports that Canavan was employed as a Stanbroke Beef business analyst and went to the company's Miranda Downs property; exact boundaries and hours remain unavailable."
+    },
+    {
+      "source_id": "src-15",
+      "url": "https://mattcanavan.com.au/why_beef_must_be_the_real_meat_in_northern_australia_sandwich/",
+      "publisher": "Senator Matt Canavan",
+      "title": "Why Beef Must be the 'Real Meat' in Northern Australia Sandwich",
+      "retrieved": "2026-10-04",
+      "source_type": "first_party_release",
+      "locator": "7 May 2014, final paragraph",
+      "note": "Contemporaneous first-party release says Canavan then worked for Stanbroke Beef and would take his Senate seat on 1 July. This is a point-in-time observation, not a commencement boundary or hours record."
+    },
+    {
+      "source_id": "src-16",
+      "url": "https://mattcanavan.com.au/bush_experience_readies_canavan_for_senate_role/",
+      "publisher": "Senator Matt Canavan",
+      "title": "Bush Experience Readies Canavan for Senate Role",
+      "retrieved": "2026-10-04",
+      "source_type": "first_party_release",
+      "locator": "29 May 2014, opening and third-person summary",
+      "note": "States the Miranda cattle-station stock-camp work lasted two weeks. It does not give calendar start/end days, pay basis or hours."
     }
   ],
   "research_notes": [
@@ -317,6 +339,7 @@
     "Do not compute six public years or one private year by subtracting year labels. Adjacent boundary years, unknown breaks and unresolved hours preclude defensible totals. Commission research and director jobs are ordinary public service; Joyce staff work is separately excluded. Short stock-camp work remains unresolved, not rounded to zero.",
     "Retain frozen roster and party fields despite later political news; this is career research rather than roster refresh. Follow-up should target missing evidence and named archives instead of repeating broad political-news searches.",
     "2026-10-02 follow-up: new primary newsletter and historical ownership/registry evidence clarify stock-camp duties and private host control. PC report-acknowledgement, employer chronology and precise KPMG transition searches did not resolve personal hours or 2007/2008 conflict. LinkedIn direct open again returned (999) Unknown Status Code; no bypass. Florida university IT-coordinator full-time record is a namesake; family bank/mining work is not his. Next leads: contemporary Miranda Downs placement/pay record; named PC appointment/separation or KPMG professional history. Keep stock-camp category/headline unknown pending remuneration/employment basis, and preserve PC date discrepancy.",
-    "2026-10-03 follow-up: 2017 Australian Financial Review and 2018 Courier-Mail career profiles independently identify employment by Stanbroke Beef as a business analyst and a short stockhand stint at Miranda Downs. The private-enterprise employer and role are therefore coded, superseding the prior unknown-category host-only treatment. Neither source gives exact dates, hours, leave, employing legal entity or whether the stockhand work was separately contracted, so employment_status and duration remain unknown. Fresh Productivity Commission, KPMG and professional-profile searches found a 20 March 2003 Commission workshop observation and January 2008–January 2009 indexed LinkedIn KPMG dates, but neither resolves the APH date conflict or full-time status; no unsupported month boundary adopted."
+    "2026-10-03 follow-up: 2017 Australian Financial Review and 2018 Courier-Mail career profiles independently identify employment by Stanbroke Beef as a business analyst and a short stockhand stint at Miranda Downs. The private-enterprise employer and role are therefore coded, superseding the prior unknown-category host-only treatment. Neither source gives exact dates, hours, leave, employing legal entity or whether the stockhand work was separately contracted, so employment_status and duration remain unknown. Fresh Productivity Commission, KPMG and professional-profile searches found a 20 March 2003 Commission workshop observation and January 2008–January 2009 indexed LinkedIn KPMG dates, but neither resolves the APH date conflict or full-time status; no unsupported month boundary adopted.",
+    "2026-10-04 follow-up (second nationwide pass): contemporaneous first-party releases materially refine the Stanbroke interval. On 7 May 2014 Canavan was described as working for Stanbroke Beef until his 1 July Senate start, and on 29 May the Miranda Downs stock-camp placement was stated to have lasted two weeks. These are adopted as an employment observation and duration, not exact calendar boundaries or full-time evidence. Employing legal entity, business-analyst commencement, pay basis, hours, leave and whether the placement was separately contracted remain unresolved; no headline duration is calculated."
   ]
 }

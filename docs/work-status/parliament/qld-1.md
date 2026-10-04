@@ -224,3 +224,13 @@ Deduplicated Brisbane-day new member IDs: 00AMR, 101351, 124514, 132880, 140590,
 - Successor status: not yet requested at this checkpoint; one immediate successor will be requested after remote verification.
 
 - Successor status: Requested/accepted — result pending. Automations response: `Immediate run requested. The saved schedule is unchanged.` Acceptance is asynchronous and does not establish execution completion or delivery.
+
+
+## Active follow-up — 2026-10-04 16:00 Brisbane cycle, continuation 0
+
+- Attempt started: 2026-10-04T15:55:16+10:00. Starting QLD-1 head: `dc2e14618c9e5bceb6207a8c6e0e761f591c705f`; it matched the preceding checkpoint and no branch-head conflict was observed. The prior cycle's accepted successor produced no later QLD-1 commit before this invocation and remains execution unverified.
+- Starting national baseline: 226/226 initial records, 226 unresolved, 0 research-complete. Brisbane-day cumulative before this member: 137 distinct records, 0 new, 50 materially enriched, 87 nonmaterial follow-ups and 0 newly complete.
+- Matt Canavan: materially enriched — contemporaneous first-party releases establish that he was working for Stanbroke Beef on 7 May 2014 and that the Miranda Downs stock-camp placement lasted two weeks. These are an observation and duration, not exact calendar boundaries or full-time proof. Legal employer, analyst commencement, pay basis, hours, leave and placement contracting remain unresolved.
+- Current cycle/continuation: 1 distinct record, 0 new initial, 1 materially enriched existing, 0 nonmaterial follow-ups and 0 newly research-complete. Brisbane-day cumulative: 138 distinct, 0 new, 51 materially enriched, 87 nonmaterial follow-ups and 0 newly complete.
+- Durable next cursor: Jim Chalmers (37998).
+- OUTCOME: ongoing. STOPPING REASON: none; continue after remote verification. Successor not requested. Scheduler terminal status unavailable.
