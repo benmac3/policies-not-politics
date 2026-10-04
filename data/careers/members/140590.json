@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/140590",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-04",
+  "last_reviewed": "2026-10-05",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -172,9 +172,10 @@
         "src-1",
         "src-3",
         "src-6",
-        "src-8"
+        "src-8",
+        "oct5-marngarr-registry"
       ],
-      "evidence_note": "APH names employer and year; event biography says nine months in Arnhem Land. This does not establish nine paid months at Marngarr or whether it was a secondment/volunteer placement. December2013 first speech places nine-month residence two years earlier, consistent with2011. ALP page instead says2010; retain APH2011 while recording conflict. Still no payroll/secondment evidence.",
+      "evidence_note": "APH names employer and year; event biography says nine months in Arnhem Land. This does not establish nine paid months at Marngarr or whether it was a secondment/volunteer placement. December2013 first speech places nine-month residence two years earlier, consistent with2011. ALP page instead says2010; retain APH2011 while recording conflict. Still no payroll/secondment evidence. ABR historical record identifies the candidate legal host Marngarr Resource Centre Aboriginal Corporation, an Other Incorporated Entity active from6May2008 in the relevant Northern Territory location. Name/location alignment is an inference; personal employment/payroll linkage remains unconfirmed. Charity registration begins20January2016 and cannot alone retrospectively settle nonprofit purpose or government control in2011. ABN commencement is not her work start.",
       "counting_note": "Dates, employer control and/or substantive full-time status remain insufficient for a duration calculation; unknown is not zero."
     },
     {
@@ -227,12 +228,12 @@
       "fte_fraction": null,
       "category": "nonprofit",
       "headline_sector": "excluded",
-      "government_control_at_time": "nonprofit",
+      "government_control_at_time": "unknown",
       "counting_status": "excluded",
       "source_ids": [
         "src-4"
       ],
-      "evidence_note": "Public professional profile lists a board-member role from2002 to2006. No remuneration, workload, exact boundaries or employment contract is stated; retained as governance rather than salaried employment.",
+      "evidence_note": "Public professional profile lists a board-member role from2002 to2006. No remuneration, workload, exact boundaries or employment contract is stated; retained as governance rather than salaried employment. Nonprofit category does not by itself determine historical government control.",
       "counting_note": "Nonprofit governance is excluded from the two employment headlines under the codebook; unknown remuneration is not treated as zero or full-time work."
     },
     {
@@ -246,12 +247,12 @@
       "fte_fraction": null,
       "category": "nonprofit",
       "headline_sector": "excluded",
-      "government_control_at_time": "nonprofit",
+      "government_control_at_time": "unknown",
       "counting_status": "excluded",
       "source_ids": [
         "src-4"
       ],
-      "evidence_note": "Public professional profile lists a board-member role from2004 to2006. No remuneration, workload, exact boundaries or employment contract is stated; retained as governance rather than salaried employment.",
+      "evidence_note": "Public professional profile lists a board-member role from2004 to2006. No remuneration, workload, exact boundaries or employment contract is stated; retained as governance rather than salaried employment. Nonprofit category does not by itself determine historical government control.",
       "counting_note": "Nonprofit governance is excluded from the two employment headlines under the codebook; unknown remuneration is not treated as zero or full-time work."
     }
   ],
@@ -375,6 +376,16 @@
       "source_type": "professional_profile",
       "locator": "Opening biography paragraphs, Monash study in2003 and2006 Harvard scholarship",
       "note": "Scholarship organisation confirms Monash study continuing in2003 and Harvard scholarship in2006. Neither is a precise Monash course endpoint; scholarship is not paid employment."
+    },
+    {
+      "source_id": "oct5-marngarr-registry",
+      "url": "https://abr.business.gov.au/AbnHistory/View?id=94458483796",
+      "publisher": "Australian Business Register",
+      "title": "Historical details for ABN94 458483796",
+      "source_type": "government_record",
+      "retrieved": "2026-10-05",
+      "locator": "Entity name, entity type, ABN status, location history and charity-registration tables",
+      "note": "Marngarr Resource Centre Aboriginal Corporation: incorporated entity active from6May2008 inNT0880; charity registration from20January2016. Matching unusual name/location offers a candidate legal host, not proof of personal payroll or historical nonprofit/government control in2011."
     }
   ],
   "research_notes": [
@@ -385,6 +396,7 @@
     "2026-10-02 follow-up: added contemporary McKinsey project evidence and publisher-confirmed authorship; first speech corroborates2011 Arnhem Land residence but ALP biography says2010. Targeted Marngarr/secondment/leave and historical annual-report searches did not establish payroll, hours, control or leave. ABR exact-full-name sole trader record is a lead only, not a new employment spell; seek declared business activity/contract evidence. Own public LinkedIn post about returning full time eight weeks after2013 birth concerns her MP job, not McKinsey; no private full-time inference. Home Affairs17February2023 podcast/own biography adds background but no missing employment terms. Next: Marngarr2010–11 records/constitution, McKinsey leave/appointment and NYSE internship terms; earlier jobs, author payment and registry identity remain unresolved. No years calculated.",
     "2026-10-03 follow-up: own public professional profile dates the two-year Harvard MPP2006–2008 and discloses previously omitted Springvale Community Aid and Advice Bureau board service2002–2006 and Jesuit Social Services board service2004–2006. Governance is retained but excluded without inferring pay. A first-person2023 government transcript says McKinsey lasted just under four years, while contemporaneous Guardian reporting observed her still at McKinsey on12August2013; these materially strengthen but do not complete the2009–2013 chronology. They do not resolve start/departure days, hours, leave or whether the2011 Marngarr work was McKinsey-paid, seconded, volunteer or separately employed. NYSE internship pay/hours and earlier student work remain unresolved; no employment years calculated.",
     "2026-10-04 follow-up: narrow exact-name searches for Marngarr plus McKinsey/secondment found the current APH entry, historical Parliamentary Handbooks and derivative biographies, but no employment contract, payroll, leave, secondment or volunteer-status evidence. The nine-month Arnhem Land residence remains a residence/activity duration, not a measured paid interval; no source connects it to McKinsey payroll. Search was deliberately narrowed after the earlier oversized-query issue. Generic web search for this overlap is exhausted for this pass; Marngarr corporate/archival records and McKinsey personnel or social-impact placement files are the decisive avenues. No substantive fact changed and totals remain null.",
-    "Follow-up2026-10-04: Fulbright Australia primary scholar biography newly confirms Monash study in2003 and2006 Harvard scholarship. Review identified2006–2008 wrongly attached to the Monash spell despite its evidence note saying dates unknown: removed those unsupported Monash boundaries and placed the already-supported2006–2008 profile dates on the Harvard spell. No exact enrolment/graduation days inferred. This materially corrects education chronology and corroborates overlap with council service. No new evidence resolves McKinsey/Marngarr payroll, leave or substantive full-time terms. Unknown employment totals retained; archive-placement and personnel evidence remain next avenues."
+    "Follow-up2026-10-04: Fulbright Australia primary scholar biography newly confirms Monash study in2003 and2006 Harvard scholarship. Review identified2006–2008 wrongly attached to the Monash spell despite its evidence note saying dates unknown: removed those unsupported Monash boundaries and placed the already-supported2006–2008 profile dates on the Harvard spell. No exact enrolment/graduation days inferred. This materially corrects education chronology and corroborates overlap with council service. No new evidence resolves McKinsey/Marngarr payroll, leave or substantive full-time terms. Unknown employment totals retained; archive-placement and personnel evidence remain next avenues.",
+    "2026-10-05 follow-up adds original ABR history for the candidate Marngarr legal host: incorporated entity active2008 onward inNT0880, charity registration only2016. Name/location linkage is explicitly inferential and does not establish her payroll employer,2011 nonprofit purpose/control, paid placement, leave or hours. NT2014–15 grants identify the organisation but are outside the work year and cannot establish personal employment or public control. One search engine returned irrelevant rule-book results; discarded, not an exhaustive archive search. Next distinct evidence:2010–11 corporation rulebook/annual return and personal placement agreement, not later charity status or grant-funded jobs. Existing2010/2011 conflict and null totals retained."
   ]
 }
