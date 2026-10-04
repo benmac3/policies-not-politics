@@ -345,3 +345,6 @@ State: ready-for-integration
 
 - 2026-10-04T22:39:53+10:00: Hill: dated postgraduate study and executive training recovered; departmental hours remain unknown.
 - Attempt172distinct,0new,108material,64nonmaterial,0complete; cycle189distinct,114material,75nonmaterial; day226distinct,134material,92nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Steph Hodgins-May310860. OUTCOME:ongoing; STOPPING REASON:none.
+
+- 2026-10-04T22:41:34+10:00: Hodgins-May: qualifications and pro bono coaching recovered; employer and payroll gaps retained.
+- Attempt173distinct,0new,109material,64nonmaterial,0complete; cycle190distinct,115material,75nonmaterial; day226distinct,134material,92nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Jane Hume266499. OUTCOME:ongoing; STOPPING REASON:none.

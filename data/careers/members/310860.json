@@ -20,7 +20,7 @@
       "role": "Volunteer",
       "start_date": "2009",
       "end_date": null,
-      "date_precision": "unknown",
+      "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "unpaid_work",
@@ -39,7 +39,7 @@
       "role": "Corporate lawyer",
       "start_date": "2009",
       "end_date": null,
-      "date_precision": "unknown",
+      "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "private_enterprise",
@@ -198,7 +198,7 @@
       "role": "Senator for Victoria",
       "start_date": "2024-05-01",
       "end_date": null,
-      "date_precision": "unknown",
+      "date_precision": "day",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -231,6 +231,82 @@
       "evidence_note": "In2022 public AMA she confirms work for Di Natale while he was leader, involving parliamentary groups on drug law, medicinal cannabis and voluntary euthanasia. Reader letter2016 supplies a contemporaneous lead, not confirmed employment boundary. Remuneration/hours and exact appointment remain unknown.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "310860-dinatale"
+    },
+    {
+      "spell_id": "310860-study1",
+      "employer": "Deakin University",
+      "role": "Bachelor of Arts (International Relations)",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "oct4-qual"
+      ],
+      "evidence_note": "Official qualification and institution; course dates and load unknown. Degree does not identify legal employer or paid training.",
+      "counting_note": "Study excluded from both employment headlines."
+    },
+    {
+      "spell_id": "310860-study2",
+      "employer": "Deakin University",
+      "role": "Bachelor of Laws",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "oct4-qual"
+      ],
+      "evidence_note": "Official qualification and institution; course dates and load unknown. Degree does not identify legal employer or paid training.",
+      "counting_note": "Study excluded from both employment headlines."
+    },
+    {
+      "spell_id": "310860-study3",
+      "employer": "Deakin University",
+      "role": "Master of International Relations",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "oct4-qual"
+      ],
+      "evidence_note": "Official qualification and institution; course dates and load unknown. Degree does not identify legal employer or paid training.",
+      "counting_note": "Study excluded from both employment headlines."
+    },
+    {
+      "spell_id": "310860-larita",
+      "employer": "Larita Academy",
+      "role": "Pro bono coach, Class of26",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unpaid_work",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "oct4-larita"
+      ],
+      "evidence_note": "Host identifies her as Coach Class of26 and describes Coach roles as pro bono. Exact appointment, delivery dates and hours not supplied; program year is an observation.",
+      "counting_note": "Pro bono activity excluded; not a paid coaching job."
     }
   ],
   "sources": [
@@ -308,7 +384,7 @@
       "url": "https://www.theguardian.com/australia-news/2026/oct/03/tragedy-and-loss-helped-forge-steph-hodgins-may-into-a-steely-climate-campaigner-now-shes-taking-on-anthony-albanese",
       "publisher": "The Guardian Australia",
       "title": "Tragedy and loss helped forge Steph Hodgins-May into a steely climate campaigner",
-      "source_type": "reliable_secondary",
+      "source_type": "news",
       "locator": "Career passage after leaving corporate law; published3 October2026",
       "note": "Interview-based profile describes New York support-negotiator work and separately reports AusAID climate, food-security and Pacific work; quotes Hodgins-May about negotiating behind the Australia placard. No employment dates, hours or appointment mechanism.",
       "retrieved": "2026-10-03",
@@ -323,6 +399,26 @@
       "note": "ABC quotes Hodgins-May describing her father Rod May as her business partner and identifies him as a Blampied farmer who died in 2017. The report does not identify the entity, dates, pay, ownership share or hours.",
       "retrieved": "2026-10-04",
       "source_id": "oct4-abc-family"
+    },
+    {
+      "source_id": "oct4-qual",
+      "url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=310860",
+      "publisher": "Australian Parliament",
+      "title": "Steph Hodgins-May official qualifications",
+      "retrieved": "2026-10-04",
+      "source_type": "official_biography",
+      "locator": "Indexed Qualifications and occupation before entering Federal Parliament",
+      "note": "BA(IntRel), LLB and MIR, all Deakin University. No attendance/degree dates or legal-employer identity supplied."
+    },
+    {
+      "source_id": "oct4-larita",
+      "url": "https://www.larita.com.au/our-crew/steph-hodgins-may",
+      "publisher": "Larita Academy",
+      "title": "Steph Hodgins-May, Coach, Class of26",
+      "retrieved": "2026-10-04",
+      "source_type": "employer",
+      "locator": "Coach Class of26 heading and pro bono Coach/Support Crew footer",
+      "note": "Host identifies coaching role; site labels Coach and Support Crew roles pro bono. Class year2026 is a program label, not exact appointment/cessation date. No paid employment inferred."
     }
   ],
   "research_notes": [
@@ -333,6 +429,7 @@
     "Searched legal-firm identity, organic business, UN mission archive and nonprofit records. ABR name-match entry does not identify organic business or establish actual work dates, so registration dates not used. Crikey2016 statement is a reader letter and not silently promoted to verified reported chronology.",
     "Follow-up2026-10-03: interview-based Guardian reporting identifies previously omitted AusAID work on climate, food security and the Pacific and clarifies the New York function as support negotiator for Australia's positions. AusAID is retained as a separate unresolved spell because the source names the agency, but it may overlap the Mission assignment; payroll status, dates, hours and public-service appointment remain unknown. Repeated business-name and legal-employer searches did not resolve those identities.",
     "Next leads: Di Natale archived office staffing/role biography; UN mission internship/adviser appointment record;2009 legal firm and later environmental-law employment identity; organic business trading name and ownership documents. No outreach or authenticated collection; dates/FTE still unknown.",
-    "Follow-up2026-10-04: a primary ABC court report quotes Hodgins-May calling her late father Rod May her business partner and identifies him as a Blampied farmer. This adds a previously omitted family-farming business relationship. The report supplies no legal entity, start date, pay, ownership share or hours; it is not silently merged with the separately recorded unidentified organic-food founder role. Her father's2017 death is context, not an inferred business-cessation date."
+    "Follow-up2026-10-04: a primary ABC court report quotes Hodgins-May calling her late father Rod May her business partner and identifies him as a Blampied farmer. This adds a previously omitted family-farming business relationship. The report supplies no legal entity, start date, pay, ownership share or hours; it is not silently merged with the separately recorded unidentified organic-food founder role. Her father's2017 death is context, not an inferred business-cessation date.",
+    "Follow-up2026-10-04: Added three official Deakin qualifications and host-confirmed pro bono Larita coaching. Degree dates and course/employment overlap remain unknown. Law-firm and organic-business searches still yield broad biographies; first speech identifies father distribution brand Farmer Rods but does not prove it is her organic-founder entity. Panel-member education, parents teaching/farming durations, current staff jobs and derivative UN wording not adopted as personal employer/payroll evidence. Guardian source enum normalized to approved news without changing supported facts. Next law-firm records, actual Mission/AusAID appointment terms and historic family-business documents."
   ]
 }
