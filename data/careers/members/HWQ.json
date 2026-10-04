@@ -205,7 +205,7 @@
       "role": "Member for Corio",
       "start_date": "2007-11-24",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "day",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -239,6 +239,44 @@
       "evidence_note": "Weekly television co-hosting alongside elected service. Contemporary launch report says presenters would not be paid; primary participant transcripts establish actual appearances and final programme on 29 March 2019. Start is advertised premiere, corroborated by 13 February participant transcript. These are programme dates, not a continuous salaried job or evidence of every-week attendance. No FTE inferred.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "HWQ-11"
+    },
+    {
+      "spell_id": "HWQ-llb",
+      "employer": "University of Melbourne",
+      "role": "Bachelor of Laws (Honours)",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "oct4-defence-study"
+      ],
+      "evidence_note": "Official biography confirms qualification and institution; attendance and conferral dates unknown. Separate from student-association offices and later law employment.",
+      "counting_note": "Study excluded; no commencement of legal employment inferred from qualification."
+    },
+    {
+      "spell_id": "HWQ-bsc",
+      "employer": "University of Melbourne",
+      "role": "Bachelor of Science",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "oct4-defence-study"
+      ],
+      "evidence_note": "Official biography confirms qualification and institution; attendance and conferral dates unknown. Separate from student-association offices and later law employment.",
+      "counting_note": "Study excluded; no commencement of legal employment inferred from qualification."
     }
   ],
   "sources": [
@@ -351,6 +389,16 @@
       "note": "Primary transcript explicitly identifies last episode; does not create paid employment.",
       "retrieved": "2026-10-02",
       "source_id": "src-11"
+    },
+    {
+      "source_id": "oct4-defence-study",
+      "url": "https://www.minister.defence.gov.au/current-ministers/2022-06/richard-marles",
+      "publisher": "Australian Department of Defence",
+      "title": "Richard Marles minister profile",
+      "source_type": "official_biography",
+      "retrieved": "2026-10-04",
+      "locator": "Biographical paragraph on Law and Science at Melbourne",
+      "note": "Names University of Melbourne LLB(Hons) and BSc, without attendance or conferral dates."
     }
   ],
   "research_notes": [
@@ -361,6 +409,7 @@
     "The record preserves both solicitor start claims in the spell note. No January dates invented for year-only sources; no numerical duration calculated from either conflicting span. Missing public employment evidence is not a confirmed zero.",
     "2026-10-02 follow-up: added previously omitted unpaid Sky News co-presenting 2016–2019, with primary participant transcripts and contemporary no-payment report. It overlaps Parliament and contributes no headline employment duration. Targeted Slater and Gordon admission/articles/1990–1993, ACTU resignation/campaign leave and ASCC 2006–2008 searches did not resolve the earlier start conflict, private-law hours or later exact exits. Jeff Lawrence succession material concerns replacing Greg Combet, not Marles, and was not applied. Retain those unresolved avenues for future employer/personnel or council membership records; no full-time total newly calculable.",
     "2026-10-03 follow-up: rechecked official archived NOHSC/ASCC material, federal appointment instruments, the Parliamentary Handbook, legal-admission/articles leads and contemporaneous 2007 campaign reporting. The official 2005–06 report supplies only the 13 October 2005 ASCC appointment; Marles's September 2008 speech describes the council role retrospectively but gives no cessation date. ABC still called him ACTU assistant secretary on 26 March 2007, while October 2007 reports conflict between current and former wording and do not establish resignation or campaign leave. The 2017 Parliamentary Handbook repeats solicitor 1993–94 but does not explain the NOHSC annual report's 1990–94 span; later accounts mentioning articles do not date them. No employment spell, endpoint, hours or calculation changed. Preserve Slater and Gordon personnel/admission records, ACTU employment files and ASCC membership records as the remaining high-value leads rather than inferring dates from preselection or election.",
-    "2026-10-04 follow-up: targeted searches for Victorian admission/articles records, a 1990 Slater and Gordon commencement, and contemporaneous 2007 ACTU employment again produced no personnel-grade boundary or hours evidence. The available results corroborate only the already recorded employer sequence; one 2010 legal-industry article says merely that he had a prior stint at the firm. The 1990–94 NOHSC annual-report biography and 1993–94 APH chronology therefore remain unresolved rather than being reconciled by inference. The official/employer annual reports, admission roll and ACTU personnel or campaign-leave records remain the decisive avenues; broad web searches are now marked exhausted for this pass."
+    "2026-10-04 follow-up: targeted searches for Victorian admission/articles records, a 1990 Slater and Gordon commencement, and contemporaneous 2007 ACTU employment again produced no personnel-grade boundary or hours evidence. The available results corroborate only the already recorded employer sequence; one 2010 legal-industry article says merely that he had a prior stint at the firm. The 1990–94 NOHSC annual-report biography and 1993–94 APH chronology therefore remain unresolved rather than being reconciled by inference. The official/employer annual reports, admission roll and ACTU personnel or campaign-leave records remain the decisive avenues; broad web searches are now marked exhausted for this pass.",
+    "Follow-up2026-10-04: Added omitted Melbourne science/law study from the official Defence biography. Searches for degree-year,1990/1993 employment and articles did not retrieve a personal qualification or employment date record. Melbourne Law School honour-board Victoria F Marles qualification dates belong to another person; Quarterly Essay Slater/articles narrative concerns Bill Shorten, not Richard Marles. Neither assigned to member. Publishing/author biographies corroborate qualifications but do not independently establish a paid author-employment spell. Existing law-start conflict, FTE, ACTU leave and ASCC cessation gaps retained."
   ]
 }
