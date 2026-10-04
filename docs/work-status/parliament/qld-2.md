@@ -173,3 +173,7 @@ Batch coverage, record fields, dates, enums, source references, build_careers.lo
 - Michelle Landry: nonmaterial follow-up — pathology, NAB, construction/property-management, bookkeeping and O'Dowd-office searches repeated the existing chronology. A later journal acknowledgement confirms Dr T. B. Lynch as a Rockhampton pathologist but does not evidence Landry's appointment, hours, legal employer or historical control; no career field changed.
 - Current cycle/continuation: 15 distinct records, 0 new initial, 5 materially enriched existing, 10 nonmaterial follow-ups and 0 newly research-complete. Brisbane-day cumulative: 152 distinct, 0 new, 55 materially enriched, 97 nonmaterial follow-ups and 0 newly complete.
 - Durable next cursor: David Littleproud (265585).
+
+- David Littleproud: nonmaterial follow-up — targeted Suncorp appointment/cessation, NAB transfers, cotton work and Mr Rental searches repeated existing year-level facts. A Treasury biography's aggregate 20-year wording cannot establish a small-business start or continuous operation. No hours, leave, exact payroll boundary, campaign arrangement or personal rental-company workload was recovered.
+- Current cycle/continuation: 16 distinct records, 0 new initial, 5 materially enriched existing, 11 nonmaterial follow-ups and 0 newly research-complete. Brisbane-day cumulative: 153 distinct, 0 new, 55 materially enriched, 98 nonmaterial follow-ups and 0 newly complete.
+- Durable next cursor: Corinne Mulholland (277110).
