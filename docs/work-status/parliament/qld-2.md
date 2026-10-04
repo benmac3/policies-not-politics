@@ -219,3 +219,6 @@ Batch coverage, record fields, dates, enums, source references, build_careers.lo
 
 - Leon Rebello316547: materially enriched — added omitted pharmacy/tutor activity and dated full-time campaign, with legal-work overlap/break caution; no continuous KWM duration or public-client-as-employer inference.
 - Attempt7distinct,0new,3material,4nonmaterial,0complete; cycle24distinct,9material,15nonmaterial; day161distinct,59material,102nonmaterial; all0new/complete. Next: Malcolm Roberts266524. OUTCOME:ongoing; STOPPING REASON:none.
+
+- Malcolm Roberts266524: nonmaterial follow-up — tax-case identity checked; namesake judgments and APPEA chief executive not conflated. Consulting client dates and post2017work remain unresolved.
+- Attempt8distinct,0new,3material,5nonmaterial,0complete; cycle25distinct,9material,16nonmaterial; day162distinct,59material,103nonmaterial; all0new/complete. Next: Paul Scarr282997. OUTCOME:ongoing; STOPPING REASON:none.
