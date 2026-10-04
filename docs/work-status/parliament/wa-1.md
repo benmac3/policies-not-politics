@@ -202,4 +202,6 @@ Detailed attempted avenues, discrepancies and remaining leads are preserved in e
 - Attempt31distinct,0new,17material,14nonmaterial,0complete; cycle48distinct,23material,25nonmaterial; day185distinct,73material,112nonmaterial; all0new/complete. Next: Sam Lim 300130. OUTCOME:ongoing; STOPPING REASON:none.
 
 - Sam Lim follow-up: business/security and campaign-leave avenues logged; no new attributable boundaries or hours.
-- Attempt32distinct,0new,17material,15nonmaterial,0complete; cycle49distinct,23material,26nonmaterial; day186distinct,73material,113nonmaterial; all0new/complete. Next: wa-2 follow-up: Zaneta Mascarenhas 298839 (resolve assignment before writing). OUTCOME:ongoing; STOPPING REASON:none.
+- Attempt32distinct,0new,17material,15nonmaterial,0complete; cycle49distinct,23material,26nonmaterial; day186distinct,73material,113nonmaterial; all0new/complete. Next: wa-2 follow-up: Susan (Sue) Lines 112096, first assigned member in current follow-up pass. OUTCOME:ongoing; STOPPING REASON:none.
+
+- WA-1 segment released2026-10-04T17:53:08+10:00,14/14 followed-up this pass. Current execution continues to WA-2 in plan order; first assignment Sue Lines112096. No terminal constraint observed; OUTCOME:ongoing; STOPPING REASON:none. Run32distinct,0new,17material,15nonmaterial,0complete; cycle49distinct23material26nonmaterial; day186distinct73material113nonmaterial. Counts exclude this checkpoint correction.
