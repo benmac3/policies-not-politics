@@ -212,3 +212,6 @@
 
 - Steve GeorganasDZY: added primary-sourced WHIA second vice-president election and previous treasurer role; governance excluded, employment gaps retained.
 - Attempt53distinct,0new,28material,25nonmaterial,0complete; cycle70distinct,34material,36nonmaterial; day207distinct,84material,123nonmaterial; all0new/complete. Next: Karen Grogan296331. OUTCOME:ongoing; STOPPING REASON:none.
+
+- Karen Grogan296331: added ACOSS staff September2016–May2017 and two primary-sourced historical advisory-council roles; overlaps retained.
+- Attempt54distinct,0new,29material,25nonmaterial,0complete; cycle71distinct,35material,36nonmaterial; day208distinct,85material,123nonmaterial; all0new/complete. Next: Sarah Hanson-YoungI0U. OUTCOME:ongoing; STOPPING REASON:none.

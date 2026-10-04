@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/296331",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-03",
+  "last_reviewed": "2026-10-04",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -373,6 +373,63 @@
       "evidence_note": "Speech separately recalls CDEP operations management before program termination. May describe the ATSIS spell rather than additional employment; payroll entity and intended termination event unresolved. No cessation date imposed and no separate/additive years calculated.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "296331-18"
+    },
+    {
+      "end_date": "2017-05",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "counting_status": "excluded",
+      "headline_sector": "excluded",
+      "spell_id": "296331-19",
+      "employer": "Australian Council of Social Service",
+      "role": "Staff member; title not stated",
+      "start_date": "2016-09",
+      "date_precision": "month",
+      "category": "nonprofit",
+      "government_control_at_time": "unknown",
+      "source_ids": [
+        "src-14"
+      ],
+      "evidence_note": "Annual staff list supplies September2016–May2017. Separate from previously recorded board service. Overlaps Butler chief-of-staff interval throughOctober2016 and SA Premier deputy chief-of-staff fromMarch2017; transitions, leave, payroll arrangement and hours unresolved.",
+      "counting_note": "Nonprofit staff employment excluded from public/private headlines; overlapping roles not summed."
+    },
+    {
+      "end_date": null,
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "counting_status": "excluded",
+      "headline_sector": "excluded",
+      "spell_id": "296331-20",
+      "employer": "South Australian Energy Consumers Council / DTEI",
+      "role": "Council member",
+      "start_date": null,
+      "date_precision": "unknown",
+      "category": "public_service",
+      "government_control_at_time": "public",
+      "source_ids": [
+        "src-15"
+      ],
+      "evidence_note": "Named during2006–07 among members entitled to remuneration; entitlement does not prove receipt or amount. Appointment/cessation and individual hours unknown.",
+      "counting_note": "Government advisory governance excluded from substantive employee public/private totals; remuneration does not establish full-time employment."
+    },
+    {
+      "end_date": null,
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "counting_status": "excluded",
+      "headline_sector": "excluded",
+      "spell_id": "296331-21",
+      "employer": "Housing Council–Community Sector / SA Department for Families and Communities",
+      "role": "Council member",
+      "start_date": null,
+      "date_precision": "unknown",
+      "category": "public_service",
+      "government_control_at_time": "public",
+      "source_ids": [
+        "src-16"
+      ],
+      "evidence_note": "Named in2006–07 committee disclosure. Council termination30September2006 provides organisational context, not a proven personal departure date. Appointment, individual fees and hours unknown.",
+      "counting_note": "Government advisory governance excluded from substantive employee public/private totals; remuneration does not establish full-time employment."
     }
   ],
   "sources": [
@@ -505,6 +562,36 @@
       "note": "ATSIS identified as Commonwealth FMA Act agency; supports public control, not personal job dates.",
       "retrieved": "2026-10-02",
       "source_id": "src-13"
+    },
+    {
+      "source_id": "src-14",
+      "url": "https://www.acoss.org.au/wp-content/uploads/2017/11/Annual-Report-2017_web.pdf",
+      "publisher": "Australian Council of Social Service",
+      "title": "Annual report2017",
+      "source_type": "employer",
+      "locator": "Printed page24/PDF page24,ACOSS Staff2016–17; visual layout checked",
+      "retrieved": "2026-10-04",
+      "note": "Lists Karen Grogan September2016–May2017 under staff; her job-title field is blank. Does not give full-time fraction or allocate overlap with political-office employment."
+    },
+    {
+      "source_id": "src-15",
+      "url": "https://www.dit.sa.gov.au/__data/assets/pdf_file/0004/22756/DTEI_annual_report_18_oct_2007_pt2.pdf",
+      "publisher": "SA Department for Transport,Energy and Infrastructure",
+      "title": "Annual report2006–07 financial statements",
+      "source_type": "government_record",
+      "locator": "Printed page174/PDF page33,Remuneration of Board and Committee Members: Energy Consumers Council",
+      "retrieved": "2026-10-04",
+      "note": "Grogan listed among Energy Consumers Council members entitled to remuneration during reporting year. No individual amount, receipt, endpoints or substantive employee hours established."
+    },
+    {
+      "source_id": "src-16",
+      "url": "https://www.audit.sa.gov.au/sites/default/files/2022-10/Part%20B%20-%20Volume%202_6.pdf",
+      "publisher": "SA Auditor-General / Department for Families and Communities",
+      "title": "Annual report2006–07,Part B Volume2",
+      "source_type": "government_record",
+      "locator": "Printed pages458–460/PDF pages164–166,Note34 board/committee disclosures; Housing Council–Community Sector",
+      "retrieved": "2026-10-04",
+      "note": "Lists Karen Grogan on Housing Council–Community Sector during2006–07; council terminated30September2006. Aggregate committee payments do not establish her individual payment or employment status."
     }
   ],
   "research_notes": [
@@ -517,6 +604,7 @@
     "Follow-up2026-10-02: UniSA professional-profile months and interim College head identified, with April2010 university corroboration. September–October2010 overlap with Butler office retained for reconciliation; hours and university historical control remain unknown.",
     "February2023 Senate testimony adds ATSIS employment and CDEP operations management, which may be the same spell. Public ATSIS control supported by contemporary ANAO agency audit. Ten years NT/two years CLC are rounded recollections, not calculable FT intervals.",
     "Searches for CLC role, ATSIS/CDEP title and earlier employers did not resolve endpoints/hours. UK/US namesake profiles excluded; no PhD completion inferred. Direct LinkedIn999 was a source access gap, not a terminal research error.",
-    "Follow-up2026-10-03: exact-name CLC, ATSIS, CDEP and AliceSprings searches returned only her existing first-person accounts and current party biography. The2023Senate wording calls her the last-standing CDEP operations manager after separately saying she worked for ATSIS; it still does not conclusively establish whether ATSIS was the payroll entity for that function or provide dates/hours. CDEP program-history sources describe policy milestones but were not used as personal employment endpoints. No new employer or interval added."
+    "Follow-up2026-10-03: exact-name CLC, ATSIS, CDEP and AliceSprings searches returned only her existing first-person accounts and current party biography. The2023Senate wording calls her the last-standing CDEP operations manager after separately saying she worked for ATSIS; it still does not conclusively establish whether ATSIS was the payroll entity for that function or provide dates/hours. CDEP program-history sources describe policy milestones but were not used as personal employment endpoints. No new employer or interval added.",
+    "Follow-up2026-10-04: Primary ACOSS2017annual report reveals a separate staff spell September2016–May2017 with unspecified title and hours. Overlaps with two recorded political-office spells retained for reconciliation; no assumption of full-time concurrent work. Historical SA financial reports identify Energy Consumers Council membership/remuneration entitlement in2006–07 and Housing Council–Community Sector membership before council termination30September2006; personal endpoints/payment remain unknown and advisory governance excluded. CLC/ATSIS/CDEP individual dates, early payroll and leave remain unresolved."
   ]
 }
