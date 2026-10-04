@@ -304,3 +304,6 @@ Deduplicated Brisbane-day new member IDs: 00AMR, 101351, 124514, 132880, 140590,
 
 - 282981 Angie Bell: materially identified training-package advisory committee role from primary index; no NRA tenure extension inferred.
 - Attempt71distinct,0new,39material,32nonmaterial,0complete; cycle88distinct,45material,43nonmaterial; day225distinct,95material,130nonmaterial; all0new/complete. Next: 299498 Colin Boyce. OUTCOME:ongoing; STOPPING REASON:none.
+
+- 299498 Colin Boyce: materially narrowed brigade cessation, added2023 active-business snapshot and corrected unsupported unpaid-work category; national226initial/226unresolved/0complete.
+- Attempt72distinct,0new,40material,32nonmaterial,0complete; cycle89distinct,46material,43nonmaterial; day226distinct,96material,130nonmaterial; all0new/complete. Next: national least-recent follow-up/new-lead queue in frozen plan order. OUTCOME:ongoing; STOPPING REASON:none.
