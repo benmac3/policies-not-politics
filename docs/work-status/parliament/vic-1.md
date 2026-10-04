@@ -281,3 +281,6 @@ State: ready-for-integration
 
 - Andrew Giles243609: material acting-role sequence and party-office addition.
 - Attempt65distinct,0new,35material,30nonmaterial,0complete; cycle82distinct,41material,41nonmaterial; day219distinct,91material,128nonmaterial; all0new/complete. Next: Matt Gregg315154. OUTCOME:ongoing; STOPPING REASON:none.
+
+- Matt Gregg315154: nonmaterial primary-speech and school/legal follow-up; personal full-time not established.
+- Attempt66distinct,0new,35material,31nonmaterial,0complete; cycle83distinct,41material,42nonmaterial; day220distinct,91material,129nonmaterial; all0new/complete. Next: Helen Haines282335. OUTCOME:ongoing; STOPPING REASON:none.
