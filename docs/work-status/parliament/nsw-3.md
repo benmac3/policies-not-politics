@@ -244,3 +244,6 @@ Batch coverage, record fields, dates, enums, source references, build_careers.lo
 
 - 2026-10-04T19:58:56+10:00: Dan Repacholi: material original-source/duty and named-sponsor enrichment.
 - Attempt98distinct,0new,56material,42nonmaterial,0complete; cycle115distinct,62material,53nonmaterial; day226distinct,106material,120nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Michelle Rowland159771. OUTCOME:ongoing; STOPPING REASON:none.
+
+- 2026-10-04T20:03:02+10:00: Rowland: primary party leadership list dates secretary service to1996; excluded from employment totals. DPC2007–08 report supplies no individual council tenure.
+- Attempt99distinct,0new,57material,42nonmaterial,0complete; cycle116distinct,63material,53nonmaterial; day226distinct,106material,120nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Sophie Scamps299623. OUTCOME:ongoing; STOPPING REASON:none.

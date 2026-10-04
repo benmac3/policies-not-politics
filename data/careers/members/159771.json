@@ -296,9 +296,10 @@
       "government_control_at_time": "private",
       "counting_status": "excluded",
       "source_ids": [
-        "src-aph-current"
+        "src-aph-current",
+        "src-young-labor-past-oct4"
       ],
-      "evidence_note": "Official parliamentary biography identifies these party offices without dates, remuneration or hours. They are separate from electorate-office employment; no paid organising appointment or full-time status inferred.",
+      "evidence_note": "Official parliamentary biography identifies these party offices without dates, remuneration or hours. They are separate from electorate-office employment; no paid organising appointment or full-time status inferred. NSW Young Labor’s own historical list identifies secretary service in 1996. This is a service-year observation, not an exact appointment or cessation date and not evidence for the separately recorded senior vice-presidency dates, remuneration or full-time status.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "159771-young-labor"
     },
@@ -540,6 +541,16 @@
       "note": "First-person interview says she started checkout work at age 15 and worked nights and weekends to help fund high school and university law study. It does not name the supermarket or state weekly hours, exact boundaries or leave.",
       "retrieved": "2026-10-04",
       "source_id": "src-hills-interview-oct4"
+    },
+    {
+      "source_id": "src-young-labor-past-oct4",
+      "url": "https://www.nswyounglabor.com/past-leaders",
+      "publisher": "NSW Young Labor",
+      "title": "Past Leaders",
+      "source_type": "primary_other",
+      "locator": "Notable Leaders: The Hon Michelle Rowland MP; NSW Young Labor Secretary 1996",
+      "retrieved": "2026-10-04",
+      "note": "Party historical leadership list identifies secretary service in 1996. It does not establish exact commencement, cessation, pay or hours. Other displayed current ministerial and presidency labels are outdated and are not used to establish current offices."
     }
   ],
   "research_notes": [
@@ -553,6 +564,7 @@
     "Source access: NSW Parliament PDFs exposed indexed primary text but later page/screenshot retrieval returned HTTP500 redirect errors; government-data mirror timed out. Communities NSW financial statements remained readable and retirement entry was recovered. No term start back-calculated from nominal three-year appointment.",
     "Second follow-up2October2026: health-service annual report materially narrows governance appointment and prior federal adviser/NRMA unit, plus LLM chronology; self-reported NSW Labor presidency added separately. Searches of supermarket identity,1996 university dates, electorate officeholder and NRMA full-time evidence did not resolve employer, hours or leave. Same-name medical alumni, beauty-business and US legal profiles excluded. Academic author-biography lead remains for qualification timing; party and board posts do not establish paid full-time service. Exact employment dates and overlaps remain priority gaps.",
     "Third follow-up3October2026 resolves Mark Latham MP as the federal officeholder for the1995–1999 staff interval by combining the official electorate-officer chronology, the contemporaneous health-service reference to advising a federal MP and an AFR author description naming Latham. Exact appointment dates, payroll entity/title, hours, leave and whether the whole interval was electorate-office based remain unresolved. Searches did not identify the Blacktown supermarket or improve private-employment hours; no headline total changed.",
-    "Fourth follow-up4October2026 materially adds Rowland's first-person description of nights-and-weekends checkout work while funding high school and university law study. This supports a study-compatible work pattern and cautions against assuming full-time employment across1987–1995, but it does not provide weekly hours, exact dates, continuity, leave or the supermarket identity. Exact NRMA, Latham-office and board searches otherwise repeated official chronology; no headline total changed."
+    "Fourth follow-up4October2026 materially adds Rowland's first-person description of nights-and-weekends checkout work while funding high school and university law study. This supports a study-compatible work pattern and cautions against assuming full-time employment across1987–1995, but it does not provide weekly hours, exact dates, continuity, leave or the supermarket identity. Exact NRMA, Latham-office and board searches otherwise repeated official chronology; no headline total changed.",
+    "Follow-up2026-10-04: New primary party historical list resolves secretary service to an observation in1996 without manufacturing tenure boundaries or extending it to senior vice-presidency. Downloaded and text-searched the original NSW DPC2007–08 report: no Rowland match; generic women’s programmes do not establish her Premier’s Council appointment. Targeted admission/promotion and council searches returned existing biographies or namesakes, with no new legal employment hours or dates. Defer exhausted queries until a gazette, personnel record or council list is identified."
   ]
 }
