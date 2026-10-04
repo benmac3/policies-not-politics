@@ -279,3 +279,6 @@ Batch coverage, record fields, dates, enums, source references, build_careers.lo
 
 - 2026-10-04T20:22:02+10:00: Meryl Swanson: material specific1990 NBN start discrepancy from her own Hansard account.
 - Attempt109distinct,0new,65material,44nonmaterial,0complete; cycle126distinct,71material,55nonmaterial; day226distinct,112material,114nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Angus Taylor231027. OUTCOME:ongoing; STOPPING REASON:none.
+
+- 2026-10-04T20:24:41+10:00: Angus Taylor: material two omitted corporate governance roles, no employment duration added.
+- Attempt110distinct,0new,66material,44nonmaterial,0complete; cycle127distinct,72material,55nonmaterial; day226distinct,113material,113nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Susan Templeman181810. OUTCOME:ongoing; STOPPING REASON:none.

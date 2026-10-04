@@ -351,6 +351,44 @@
       "evidence_note": "Secondary investigative report places directorship during company2003–09 life, not necessarily continuously. No personally bounded tenure or remuneration verified; governance excluded.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "231027-17"
+    },
+    {
+      "spell_id": "231027-jrat",
+      "employer": "JRAT International Pty Ltd (later Centaurus Partners)",
+      "role": "Co-founder, director and shareholder",
+      "start_date": "2004",
+      "end_date": "2015",
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "private_enterprise",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-jrat-resolution-oct4"
+      ],
+      "evidence_note": "Report quotes Taylor confirming directorship/shareholding2004–2015. Preserve year precision; reported4March2004 and7September2015 days have not been independently read in original registry extract. His statement denies personal financial benefit; corporate business activity is not proof of his own consulting employment.",
+      "counting_note": "Corporate governance/ownership excluded from full-time employment headline absent separately supported substantive paid work; do not add concurrent consultancy time."
+    },
+    {
+      "spell_id": "231027-resolution",
+      "employer": "Resolution Manager Pty Ltd / Resolution Managers Pty Ltd (reported name variation unresolved)",
+      "role": "Founding director",
+      "start_date": "2010",
+      "end_date": null,
+      "date_precision": "mixed",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "private_enterprise",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-jrat-resolution-oct4"
+      ],
+      "evidence_note": "Report places founding directorship in2010 and describes departure after a few months, without a verified personal cessation date. Article uses both singular and plural company names; legal name needs original filing. No operational job, remuneration or hours established.",
+      "counting_note": "Corporate governance/ownership excluded from full-time employment headline absent separately supported substantive paid work; do not add concurrent consultancy time."
     }
   ],
   "sources": [
@@ -513,6 +551,16 @@
       "note": "Reports joint directorship with Tony Reid during company’s2003–09 life. Company life not assumed personal tenure; register extract still sought.",
       "retrieved": "2026-10-02",
       "source_id": "src-farmsmart2019"
+    },
+    {
+      "source_id": "src-jrat-resolution-oct4",
+      "url": "https://michaelwest.com.au/rowers-reprise-how-angus-taylors-mates-cleaned-up-without-him/",
+      "publisher": "Michael West Media",
+      "title": "Rowers’ Reprise: how Angus Taylor’s mates cleaned up without him,21June2019",
+      "retrieved": "2026-10-04",
+      "source_type": "news",
+      "locator": "JRAT International/Centaurus paragraphs and Resolution Manager section",
+      "note": "Reports JRAT2004–2015 directorship, quotes Taylor confirming those years, and identifies Resolution founding-director role in2010. Embedded registry images were not readable through ordinary download(HTTP403); precise days remain secondary-only claims."
     }
   ],
   "research_notes": [
@@ -524,6 +572,7 @@
     "Avenues: employer Rabobank2012 press release/index, college public professional-network post,2013 ABC taskforce membership, linked44P interests original403, Farmshed ASX and corporate-report leads, full-time consulting searches, Centaurus/JRAT reporting and farm-manager programme history. Source searches sometimes returned irrelevant names; rejected. Corporate reportage does not independently show Taylor personally performed paid consulting for Centaurus; report authorship by a firm is insufficient. Keep JRAT, other corporate offices, historical Farmshed contracts, consulting leave and paid teaching as follow-up needs. Gas final-report obsolete URLs not recovered. Secondary ownership/dividend dates are not work boundaries.",
     "Second follow-up2October2026: public first-party professional-profile index refines McKinsey and PJP dates to months; direct999 respected. Contemporary October2002 Farmshed sale reporting identifies CEO and a management offer; no accepted new employment inferred. Added Farmsmart directorship with unbounded personal tenure. Reporting places Farm Partnerships establishment2003 versus grouped official1998; retain discrepancy pending entity/role-specific primary record. Farmshed secondary reports conflict on administration2002/2005 and director periods; not used as CEO boundaries. Gas taskforce report searches found later parliamentary policy reports but no original appointment record. Next: public original corporate appointment extracts, McKinsey/PJP contract/leave evidence, Farmshed transition and Rabobank/teaching service arrangements. No full-time totals calculated.",
     "Third follow-up3October2026: recovered the complete25July2001 ASX-hosted Colloqui/The Farmshed announcement previously available only as an index. It directly establishes Taylor acting as CEO of The Farmshed Pty Limited, discussing its professional advisory services and using a company contact, but remains only a point-in-time observation and supplies no start, end, hours, leave or McKinsey secondment terms. Renewed EAI, Farm Partnerships, Rabobank and PJP searches returned secondary corporate/governance dates or facts already recorded; no further employment boundary was adopted.",
-    "Fourth follow-up4October2026: targeted Farmshed transition, Port Jackson Partners commencement and Rabobank searches recovered a2008 PJP submission hosted by the National Competition Council stating that Taylor worked at McKinsey1994–2001 and began with PJP in2002. This corroborates, but does not improve on, the already recorded employer report and month-level public profile dates. ASX search repeated the25July2001 Farmshed CEO point; no sale filing, secondment terms, individual hours, leave, exact CEO boundaries or accepted purchaser role emerged."
+    "Fourth follow-up4October2026: targeted Farmshed transition, Port Jackson Partners commencement and Rabobank searches recovered a2008 PJP submission hosted by the National Competition Council stating that Taylor worked at McKinsey1994–2001 and began with PJP in2002. This corroborates, but does not improve on, the already recorded employer report and month-level public profile dates. ASX search repeated the25July2001 Farmshed CEO point; no sale filing, secondment terms, individual hours, leave, exact CEO boundaries or accepted purchaser role emerged.",
+    "Follow-up2026-10-04: Added missing JRAT/Centaurus and Resolution founding-director roles from identified investigative reporting, including quoted personal confirmation of JRAT2004–2015. Original extract images’ ordinary download returned403; exact-day secondary claims not adopted. Resolution legal-name variation and departure remain unresolved. Rural Press’s original18October2002 ASX address confirms Farmshed business sale, but company sale is not Taylor’s personal CEO end or accepted purchaser employment. No individual hours/leave established."
   ]
 }
