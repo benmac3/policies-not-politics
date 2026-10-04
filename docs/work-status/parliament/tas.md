@@ -180,3 +180,6 @@
 
 - 2026-10-04T20:44:26+10:00: McKim: tested original advertising-inquiry lead; other people company roles not attributed.
 - Attempt123distinct,0new,72material,51nonmaterial,0complete; cycle140distinct,78material,62nonmaterial; day226distinct,117material,109nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Helen Polley E5X. OUTCOME:ongoing; STOPPING REASON:none.
+
+- 2026-10-04T20:48:27+10:00: Polley: retained May1997 Murphy role observation without encoding unsupported tenure; first-speech403 persisted, no new substantive evidence.
+- Attempt124distinct,0new,72material,52nonmaterial,0complete; cycle141distinct,78material,63nonmaterial; day226distinct,117material,109nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Jess Teesdale314526. OUTCOME:ongoing; STOPPING REASON:none.
