@@ -196,10 +196,10 @@
     {
       "spell_id": "300122-10",
       "employer": "Australian National University",
-      "role": "Science student",
+      "role": "Bachelor of Science (Forestry) student",
       "start_date": null,
       "end_date": "2009",
-      "date_precision": "mixed",
+      "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "study",
@@ -208,7 +208,8 @@
       "counting_status": "excluded",
       "source_ids": [
         "src-1",
-        "src-4"
+        "src-4",
+        "oct4-aph-qual"
       ],
       "evidence_note": "Secondary graduation year; course start not established.",
       "counting_note": "Excluded from the two employment headlines under the codebook."
@@ -238,7 +239,7 @@
       "role": "Member for Hawke",
       "start_date": "2022-05-21",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "day",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -250,6 +251,25 @@
       ],
       "evidence_note": "Frozen roster entry; ongoing elected office excluded.",
       "counting_note": "Excluded from the two employment headlines under the codebook."
+    },
+    {
+      "spell_id": "300122-13",
+      "employer": "Melbourne Business School",
+      "role": "Postgraduate Diploma in Management student",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "oct4-aph-qual"
+      ],
+      "evidence_note": "Official parliamentary qualification list explicitly names PostGradDipMgt at Melbourne Business School, distinct from MBA. Dates, study load and overlap with employment unknown.",
+      "counting_note": "Study excluded from employment headlines."
     }
   ],
   "sources": [
@@ -312,6 +332,16 @@
       "source_type": "news",
       "locator": "Paragraphs describing early factory work, PwC appointment/projects and departure after Hawke preselection",
       "note": "Former colleague Kos Samaras says Rae worked in factories to support himself through university; James MacKenzie describes PwC non-government policy work and business expertise. Report says Rae became partner months after the2018 election and left after Hawke preselection. Relative wording does not supply exact employment dates or hours."
+    },
+    {
+      "source_id": "oct4-aph-qual",
+      "url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=300122",
+      "publisher": "Parliament of Australia",
+      "title": "Hon Sam Rae MP, qualifications and occupation",
+      "retrieved": "2026-10-04",
+      "source_type": "official_biography",
+      "locator": "Search-indexed Qualifications and occupation before entering Federal Parliament, first three bullets",
+      "note": "Official indexed biography names BSc(For), PostGradDipMgt and MBA, identifying Melbourne Business School for both management qualifications. Direct lang=en variant returned restricted-URL failure; no gated access attempted. No qualification dates supplied."
     }
   ],
   "research_notes": [
@@ -321,6 +351,7 @@
     "Study and concurrent early jobs require overlap checks. Dates retained at year precision with null FTE; unknown employers are not assumed private from job title. Last follow-up 2026-09-29; initial record unresolved.",
     "2026-10-02 follow-up: first speech adds Queanbeyan factory location and dishwashing duties, providing specific early-employer search leads. Checked APH, original11September2019 PwC appointment URL in both p526q6/p52qe6 variants (web open Internal Error), PwC domain,2019 transition reporting and early-job queries.18September2019 Australian indexed story forecasts departure next month; a forecast does not establish actual October start, so retain2019. No confirmed early employer identities/full-time terms or2021–22 work found. Next: Queanbeyan factory employment, hospitality/childcare/call-centre public CV; primary PwC partnership entry/cessation and campaign leave; historical ALP staffing records. Searches returned unrelated NZ call-centre professional, US musician and Harvard student; excluded. No chronology/hours or numerical totals invented.",
     "2026-10-03 follow-up: a detailed Guardian account based on former colleagues observes factory work supporting Rae through university and identifies PwC work with James MacKenzie on non-government policy-oriented projects involving broad business and cost-of-capital understanding. It says Rae left PwC after Hawke preselection; preselection was reported on15June2021, but 'after' is not converted to an exact June endpoint. Separate contemporary reporting observed him as a partner on17April2021. These materially improve duty and transition evidence while preserving the official2019–2021 year range. Primary PwC appointment/cessation, full-time hours, leave and activity after departure remain unavailable. Early employer identities, multiple-factory question and study dates remain unresolved; no employment-year calculation.",
-    "2026-10-04 follow-up: the original 11 September 2019 PwC appointment story was located through an accessible Brisbane Times syndication and a 18 September report forecast that Rae would depart Victorian Labor the following month to take up the PwC partnership. Because the latter is prospective, it is not converted into an October employment start; the official 2019 year remains. Searches again found no exact actual commencement, 2021 cessation day, hours, leave, employer confirmation or post-PwC/pre-election paid role. Early hospitality/factory/childcare/call-centre employer identities also remain absent. Generic web search is exhausted for this pass; PwC personnel/partnership records and historical payroll/CV evidence are decisive. No substantive fact changed."
+    "2026-10-04 follow-up: the original 11 September 2019 PwC appointment story was located through an accessible Brisbane Times syndication and a 18 September report forecast that Rae would depart Victorian Labor the following month to take up the PwC partnership. Because the latter is prospective, it is not converted into an October employment start; the official 2019 year remains. Searches again found no exact actual commencement, 2021 cessation day, hours, leave, employer confirmation or post-PwC/pre-election paid role. Early hospitality/factory/childcare/call-centre employer identities also remain absent. Generic web search is exhausted for this pass; PwC personnel/partnership records and historical payroll/CV evidence are decisive. No substantive fact changed.",
+    "Follow-up2026-10-04: Official indexed parliamentary qualification list identifies a previously omitted Postgraduate Diploma in Management at Melbourne Business School and specifies ANU forestry science. Added undated study spell without inventing qualification years or part/full-time study load. Direct APH lang=en fetch reported restricted URL; usable official index evidence obtained separately without circumventing access controls. Education/first-job searches otherwise returned US cello, Boston engineering and UK charity namesakes; excluded. Primary early-employer identities, PwC partnership hours/leave and actual appointment boundaries remain unavailable."
   ]
 }

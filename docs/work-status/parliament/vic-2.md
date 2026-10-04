@@ -313,3 +313,6 @@ Batch coverage, record fields, dates, enums, source references, build_careers.lo
 
 - 2026-10-04T23:14:33+10:00: James Paterson144138: material programme chronology and two fellowships; day upgrade from earlier nonmaterial.
 - Attempt186distinct,0new,121material,65nonmaterial,0complete; cycle203distinct,127material,76nonmaterial; day226distinct,142material,84nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Sam Rae300122, VIC2 member12. OUTCOME:ongoing; STOPPING REASON:none.
+
+- 2026-10-04T23:16:10+10:00: Sam Rae300122: materially added omitted Melbourne Business School postgraduate diploma; day upgrade from earlier nonmaterial.
+- Attempt187distinct,0new,122material,65nonmaterial,0complete; cycle204distinct,128material,76nonmaterial; day226distinct,143material,83nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Joanne Ryan249224, VIC2 member13. OUTCOME:ongoing; STOPPING REASON:none.
