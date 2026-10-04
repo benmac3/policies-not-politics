@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/316537",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-04",
+  "last_reviewed": "2026-10-05",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -20,7 +20,7 @@
       "role": "Volunteer lawyer",
       "start_date": null,
       "end_date": "2012",
-      "date_precision": "mixed",
+      "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "unpaid_work",
@@ -40,7 +40,7 @@
       "role": "Solicitor",
       "start_date": null,
       "end_date": "2012",
-      "date_precision": "mixed",
+      "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "private_enterprise",
@@ -80,7 +80,7 @@
       "role": "Founder, Director and Principal Lawyer",
       "start_date": "2015-12",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "month",
       "employment_status": "self_employed",
       "fte_fraction": null,
       "category": "private_enterprise",
@@ -211,7 +211,7 @@
       "role": "Member for Bonner",
       "start_date": "2025-05-03",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "day",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -225,7 +225,7 @@
       "counting_note": "Federal elected office is excluded from the employment headlines."
     },
     {
-      "employer": "District Court of Queensland,Gold Coast / Judge Clive Wall",
+      "employer": "District Court of Queensland, Southport / Judge Clive Wall",
       "role": "Judicial associate",
       "start_date": null,
       "end_date": null,
@@ -237,9 +237,10 @@
       "government_control_at_time": "public",
       "counting_status": "insufficient_evidence",
       "source_ids": [
-        "src-19"
+        "src-19",
+        "src-27"
       ],
-      "evidence_note": "2015 interview records a year as judicial associate after graduating. Start/end and hours unknown; one-year recollection not a calculable full-time interval.",
+      "evidence_note": "2015 interview records a year as judicial associate after graduating. Start/end and hours unknown; one-year recollection not a calculable full-time interval. Original2008–09courtannualreport public index lists Kara Cook as associate to Judge CFWallQC(Southport) as at30June2009. This dated personnel observation independently corroborates the judge/location, not an appointment/cessation day or full-time terms.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "316537-11"
     },
@@ -286,7 +287,7 @@
       "role": "LLB and Bachelor of Business",
       "start_date": null,
       "end_date": "2008",
-      "date_precision": "mixed",
+      "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "study",
@@ -305,7 +306,7 @@
       "role": "Graduate Diploma of Legal Practice,Skills and Ethics",
       "start_date": null,
       "end_date": "2009",
-      "date_precision": "mixed",
+      "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "study",
@@ -580,6 +581,16 @@
       "source_type": "employer",
       "locator": "Pets in Crisis fundraiser passage",
       "note": "Records Kara Cook of Cook Legal holding a fundraiser on 2 November 2017, providing a contemporaneous dated observation of her association with the firm."
+    },
+    {
+      "source_id": "src-27",
+      "url": "https://www.courts.qld.gov.au/__data/assets/pdf_file/0003/84693/dc-ar-2008-09.pdf",
+      "publisher": "District Court of Queensland",
+      "title": "Annual Report2008–2009",
+      "source_type": "government_record",
+      "retrieved": "2026-10-05",
+      "locator": "Public indexed Appendix2: District Court Associates as at30June2009, printedp54, KaraCook / CFWallQC(Southport)",
+      "note": "Indexed original court staff list names Cook and judge at dated census. Direct web open and independently started ordinary public download both returned403; no fullPDF obtained or visually inspected, and no further access retry."
     }
   ],
   "research_notes": [
@@ -589,6 +600,7 @@
     "No gated LinkedIn page was accessed; only the public search-result statement was retained.",
     "2026-10-02 follow-up corrected namesake LinkedIn attribution;2009 admission is independently supported by2015 interview. Added judicial associate role, early service/governance and degree years; dated CHQ board accurately and revised BRQ to2023–24 with exact endpoints still open. Lawyers Weekly page displayed zero-free-articles banner but returned article text; no login, payment or bypass used. June2024 D’Ath diary open returned Internal Error; separate accessible Nicholls diary and employer annual report used. Cook Legal founder/sole-lawyer wording describes launch only:2016 reporting documents later consultant appointments, so do not assume sole staffing throughout. Priorprivatefirmname,hours,CookLegalcessation and council overlap still unresolved. Council April2023 official endpoint versus May2023 secondary reports also needs primary council minutes. None of these additions establishes headline full-time duration.",
     "2026-10-03 follow-up: official Griffith interview transcripts add first-person evidence that WLS volunteering occurred throughout the degree and included client interviewing, and that Cook also completed a Semester in Practice placement. The placement host, dates, paid basis and hours are not supplied, so it is retained as study context rather than a fabricated job. Cook also describes opening her own practice after industry experience and managing others, strengthening substantive Cook Legal owner-practitioner duties but not full-time hours. Searches of council records, judicial-associate archives and legal directories did not identify the earlier family-law firm, exact court dates or Cook Legal cessation. Next: admission/practising-certificate archive, named family-law firm, Cook Legal closure or transfer record, and primary council resignation minutes.",
-    "2026-10-04 follow-up: Brisbane City Council's annual report resolves the council endpoint to 2 April 2023 and reports remuneration, while DVConnect supplies a dated Cook Legal observation on 2 November 2017. These records do not establish Cook Legal cessation, weekly hours or whether the practice continued during council service. Searches targeting the Judge Clive Wall associateship, pre-WLS family-law firm and practising-certificate history did not expose an original personnel/register record. Next decisive evidence remains a court appointment record, named prior-firm personnel record, practising-certificate archive or Cook Legal closure/transfer record."
+    "2026-10-04 follow-up: Brisbane City Council's annual report resolves the council endpoint to 2 April 2023 and reports remuneration, while DVConnect supplies a dated Cook Legal observation on 2 November 2017. These records do not establish Cook Legal cessation, weekly hours or whether the practice continued during council service. Searches targeting the Judge Clive Wall associateship, pre-WLS family-law firm and practising-certificate history did not expose an original personnel/register record. Next decisive evidence remains a court appointment record, named prior-firm personnel record, practising-certificate archive or Cook Legal closure/transfer record.",
+    "Targeted follow-up2026-10-05: New public index of originalDistrictCourt2008–09annualreport names Cook as JudgeCFWallQC(Southport) associate at30June2009, resolving a dated primary personnel observation. Direct webPDF403 and concurrently initiated ordinarydownload also403; no fullPDF/visualinspection or further retry. The dated staff-list heading and names are visible in indexed primaryextract only. Neither the 2015one-year recollection nor this census establishes personal appointment/cessation days or hours.2009–10search returns unrelated USjudges and derivativeyearbook; Berkeleysecond-yearlawstudentKaraCook is not thismember. Earlier privatefirm, CookLegalcessation/transfer and weeklyhours remain unresolved. A2022FriendsInLaw podcast is a fresh primaryinterview lead for later targeted follow-up, not listened to in thiscommit."
   ]
 }

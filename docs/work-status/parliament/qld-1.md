@@ -339,3 +339,6 @@ Deduplicated Brisbane-day new member IDs: 00AMR, 101351, 124514, 132880, 140590,
 
 - 2026-10-05T00:18:29+10:00: Comer: primary university page names student partnership and organising activity; paid staff roles kept separate.
 - Originating cycle2026-10-04 16:00 continuation1; attempt started2026-10-04T17:00:01+10:00 and ongoing. Attempt214distinct,0new,139material,75nonmaterial,0complete; cycle226distinct,144material,82nonmaterial. Current Brisbane day2026-10-05: 5distinct,0new,4material,1nonmaterial,0complete. Counts deduplicated within attempt/cycle/day. Next: Kara Cook316537: original legal-practice or council transition record. OUTCOME:ongoing; STOPPING REASON:none. No successor requested.
+
+- 2026-10-05T00:21:00+10:00: Cook: primary court-report index confirms associateship at30June2009; no full-time or interval inferred.
+- Originating cycle2026-10-04 16:00 continuation1; attempt started2026-10-04T17:00:01+10:00 and ongoing. Attempt215distinct,0new,140material,75nonmaterial,0complete; cycle226distinct,144material,82nonmaterial. Current Brisbane day2026-10-05: 6distinct,0new,5material,1nonmaterial,0complete. Counts deduplicated within attempt/cycle/day. Next: Milton Dick53517: original party/office appointment archives; avoid exhausted biographies. OUTCOME:ongoing; STOPPING REASON:none. No successor requested.
