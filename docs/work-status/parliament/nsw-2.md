@@ -319,3 +319,6 @@ Batch check passes: 226 assigned exactly once across 13 batches; nsw-2 assignmen
 
 - 2026-10-04T19:42:55+10:00: Jenny McAllister: AECOM Technical Director phase gains original contemporaneous title evidence, with dated observation; no hours inferred.
 - Attempt88distinct,0new,51material,37nonmaterial,0complete; cycle105distinct,57material,48nonmaterial; day226distinct,103material,123nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Kristy McBain 281988. OUTCOME:ongoing; STOPPING REASON:none.
+
+- 2026-10-04T19:43:49+10:00: Kristy McBain: unresolved legal-employer and early-work leads checked; no new supported fact.
+- Attempt89distinct,0new,51material,38nonmaterial,0complete; cycle106distinct,57material,49nonmaterial; day226distinct,103material,123nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Emma McBride 248353. OUTCOME:ongoing; STOPPING REASON:none.
