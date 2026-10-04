@@ -79,3 +79,6 @@
 
 - 2026-10-04T20:59:58+10:00: Payne: primary2008report establishes UC had no present control of its50percent NATSEM holding; corporate acquisition dated15September2009.
 - Attempt132distinct,0new,77material,55nonmaterial,0complete; cycle149distinct,83material,66nonmaterial; day226distinct,119material,107nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: David Pocock256136. OUTCOME:ongoing; STOPPING REASON:none.
+
+- 2026-10-04T21:04:37+10:00: David Pocock: materially enriched with planned Japanese club reporting date and contemporary Force contract extension; contract boundaries, hours and conservation payer still unresolved.
+- Attempt133distinct,0new,78material,55nonmaterial,0complete; cycle150distinct,84material,66nonmaterial; day226distinct,120material,106nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: David Smith276714. OUTCOME:ongoing; STOPPING REASON:none.
