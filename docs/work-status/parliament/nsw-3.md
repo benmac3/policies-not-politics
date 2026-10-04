@@ -270,3 +270,6 @@ Batch coverage, record fields, dates, enums, source references, build_careers.lo
 
 - 2026-10-04T20:19:05+10:00: Allegra Spender: material omitted party-founding activity, no paid employment inferred.
 - Attempt106distinct,0new,62material,44nonmaterial,0complete; cycle123distinct,68material,55nonmaterial; day226distinct,110material,116nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Anne Stanley265990. OUTCOME:ongoing; STOPPING REASON:none.
+
+- 2026-10-04T20:19:57+10:00: Anne Stanley: material previously undocumented unpaid leave/break evidence in bank career.
+- Attempt107distinct,0new,63material,44nonmaterial,0complete; cycle124distinct,69material,55nonmaterial; day226distinct,111material,115nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Zali Steggall175696. OUTCOME:ongoing; STOPPING REASON:none.
