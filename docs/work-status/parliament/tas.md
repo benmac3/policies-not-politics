@@ -192,3 +192,6 @@
 
 - 2026-10-04T20:51:35+10:00: Urquhart: refined named union employer succession using ANU archival authority; factory hours and dates unresolved.
 - Attempt127distinct,0new,74material,53nonmaterial,0complete; cycle144distinct,80material,64nonmaterial; day226distinct,118material,108nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Rebecca White224102. OUTCOME:ongoing; STOPPING REASON:none.
+
+- 2026-10-04T20:52:39+10:00: White: investigated academy and staff-history leads; no new personal employment evidence. Dowling August2024 report lead queued.
+- Attempt128distinct,0new,74material,54nonmaterial,0complete; cycle145distinct,80material,65nonmaterial; day226distinct,118material,108nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Andrew WilkieC2T. OUTCOME:ongoing; STOPPING REASON:none.
