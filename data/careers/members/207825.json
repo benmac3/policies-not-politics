@@ -29,9 +29,10 @@
       "counting_status": "excluded",
       "source_ids": [
         "src-1",
-        "src-2"
+        "src-2",
+        "oct4-deakin-2004"
       ],
-      "evidence_note": "Qualifications supported; dates not established.",
+      "evidence_note": "Qualifications supported; dates not established. Employer council biography observes undergraduate enrolment in 2004; this is not a study start or graduation boundary.",
       "counting_note": "Excluded from the two employment headlines under the codebook."
     },
     {
@@ -124,7 +125,7 @@
       "role": "Senator for Victoria",
       "start_date": "2011-07-01",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "day",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -180,8 +181,8 @@
       "employer": "Connor Court Publishing / unidentified author arrangements",
       "role": "Author, John McEwen: Right Man, Right Place, Right Time",
       "start_date": null,
-      "end_date": "2020-12",
-      "date_precision": "mixed",
+      "end_date": null,
+      "date_precision": "unknown",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "unknown",
@@ -191,8 +192,27 @@
       "source_ids": [
         "src-11"
       ],
-      "evidence_note": "Publisher record confirms McKenzie authored the 180-page biography and gives a December 2020 release. Publication is an endpoint observation only: writing start, contract, royalties/payment and hours are unknown. The activity overlaps elected office and is not treated as continuous or full-time employment.",
+      "evidence_note": "Publisher record confirms McKenzie authored the 180-page biography and gives a December 2020 release. Publication is an endpoint observation only: writing start, contract, royalties/payment and hours are unknown. The activity overlaps elected office and is not treated as continuous or full-time employment. December 2020 is the release observation, retained in this note rather than a personal work end date.",
       "counting_note": "Dates and substantive full-time status remain insufficient for a duration calculation; authorship is not added to elected service or assumed to be salaried."
+    },
+    {
+      "spell_id": "207825-10",
+      "employer": "Deakin University Council",
+      "role": "Council member; Finance and Business Affairs and Legislation committees",
+      "start_date": "2004-01-01",
+      "end_date": "2004-12-31",
+      "date_precision": "day",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "university",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "oct4-deakin-2004"
+      ],
+      "evidence_note": "Indexed 2004 employer report names B.G. McKenzie, former DUSA president, with stated council term and committees. This identifies a separate governance appointment, not a salaried university teaching role. Term dates are reported as printed; no duration calculation. Pay and hours unknown; full PDF currently unavailable.",
+      "counting_note": "Governance excluded from employment headlines regardless of university control or any fees."
     }
   ],
   "sources": [
@@ -305,6 +325,16 @@
       "note": "Primary publisher record confirms authorship and December 2020 release. It does not disclose writing dates, contract, pay, royalties or hours.",
       "retrieved": "2026-10-03",
       "source_id": "src-11"
+    },
+    {
+      "source_id": "oct4-deakin-2004",
+      "url": "https://www.deakin.edu.au/__data/assets/pdf_file/0009/662499/2004-deakin-annual-report.pdf",
+      "publisher": "Deakin University",
+      "title": "Annual Report 2004",
+      "retrieved": "2026-10-04",
+      "source_type": "employer",
+      "locator": "Search-indexed printed page33, Ms B.G. McKenzie council biography and term",
+      "note": "Indexed employer report states council term 1 January–31 December 2004, undergraduate status and former DUSA presidency. Direct open returned 404 Not Found; retained as indexed evidence, not claimed full PDF inspection. Recheck an accessible university archive."
     }
   ],
   "research_notes": [
@@ -314,6 +344,7 @@
     "Frozen roster retained. Initial record is partial/blocked, not research-complete. Last follow-up 2026-09-29; public school archives and university annual reports remain leads, not inspected appointment evidence.",
     "2026-10-02 follow-up adds previously omitted paid family milk-round work; corroborates Yarram affiliation via2006 parliamentary inquiry and adds Monash2010 unit-coordination duties. Self-profile school/university transition2008 conflicts with APH2009; both preserved, no invented overlap resolution. First speech identifies unfinished GConnect research; no evidence of separately paid research role. Government-library report link InternalError and CiteSeerX502 are source-specific, not terminal. Next:24May2006 Yarram hearingpp14–15,school2005–2009 staffing archives,Monash2008 appointment records to resolve transition,Deakin presidency pay and pre2005 work. NamesakeUK museum educator and contact aggregators not used. Totals remain null; do not interpret student workload as lecturer FTE.",
     "2026-10-03 follow-up: primary publisher material adds previously omitted authorship of the 180-page John McEwen biography, released December 2020. It overlaps elected office; no writing start, contract, royalties/payment or hours were found, so the activity is recorded without full-time or duration inference. The 2003 student-association account adds responsibility for a 300-person organisation and $15 million budget but still does not establish remuneration or work hours and does not change its excluded classification. Repeated Yarram appointment/payroll, Monash2008 and Deakin remuneration searches produced no reliable new boundaries or hours. Preserve school staffing archives, Monash appointment records and DUSA accounts/board minutes as leads; headline totals remain null.",
-    "2026-10-04 follow-up: narrow exact-name searches after the prior oversized-query output independently surfaced a National Rural Health Alliance biography that confirms Faculty of Education lecturing in 2009–2010, and repeated the existing 2003 DUSA presidency and Yarram/Monash role sequence. None supplies appointment boundaries beyond the recorded years, payroll entity, contract type, paid hours, leave or DUSA remuneration. No new substantive fact was added. Generic web search is exhausted for this pass; decisive unresolved avenues remain Yarram/Victorian education staffing or payroll records, Monash appointment files (including the 2008/2009 start conflict), and DUSA 2003 accounts or board minutes. Oversized search output was mitigated by one-topic queries; no source-access failure terminated the work."
+    "2026-10-04 follow-up: narrow exact-name searches after the prior oversized-query output independently surfaced a National Rural Health Alliance biography that confirms Faculty of Education lecturing in 2009–2010, and repeated the existing 2003 DUSA presidency and Yarram/Monash role sequence. None supplies appointment boundaries beyond the recorded years, payroll entity, contract type, paid hours, leave or DUSA remuneration. No new substantive fact was added. Generic web search is exhausted for this pass; decisive unresolved avenues remain Yarram/Victorian education staffing or payroll records, Monash appointment files (including the 2008/2009 start conflict), and DUSA 2003 accounts or board minutes. Oversized search output was mitigated by one-topic queries; no source-access failure terminated the work.",
+    "Follow-up2026-10-04: A targeted university annual-report search located indexed Deakin2004 council biography: newly added 1 January–31 December2004 university governance term and committee duties, with undergraduate status observed that year. Direct report open returned404 Not Found; indexed evidence is expressly distinguished from full-document inspection and accessible archive verification remains a lead. No remuneration or hours found in DUSA2003 finance search; institution-wide student-administration spending is not her salary. School/Monash2008–2009 chronology conflict remains unresolved. Corrected book release observation so it is not treated as the personal writing end date. Totals remain null."
   ]
 }

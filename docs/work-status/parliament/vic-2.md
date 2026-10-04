@@ -301,3 +301,6 @@ Batch coverage, record fields, dates, enums, source references, build_careers.lo
 
 - 2026-10-04T23:08:39+10:00: Zoe McKenzie124514: materially added Save Our Spidercrabs committee role; pay/tenure unknown. Already material earlier today, no additional day classification.
 - Attempt182distinct,0new,118material,64nonmaterial,0complete; cycle199distinct,124material,75nonmaterial; day226distinct,139material,87nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Bridget McKenzie207825, VIC2 member8. OUTCOME:ongoing; STOPPING REASON:none.
+
+- 2026-10-04T23:10:19+10:00: Bridget McKenzie207825: new Deakin2004 council term; material upgrade from earlier nonmaterial today. Source-specific404 recovered through explicitly labelled index evidence.
+- Attempt183distinct,0new,119material,64nonmaterial,0complete; cycle200distinct,125material,75nonmaterial; day226distinct,140material,86nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Gabriel Ng316052, VIC2 member9. OUTCOME:ongoing; STOPPING REASON:none.
