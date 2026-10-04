@@ -174,3 +174,6 @@
 
 - 2026-10-04T20:42:19+10:00: Gatenby: later primary March2026 board observation materially extends known governance chronology.
 - Attempt121distinct,0new,71material,50nonmaterial,0complete; cycle138distinct,77material,61nonmaterial; day226distinct,116material,110nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Jacqui Lambie250026. OUTCOME:ongoing; STOPPING REASON:none.
+
+- 2026-10-04T20:43:34+10:00: Lambie: added explicit person-specific full-time service assertion, with third-party and whole-term limitations preserved.
+- Attempt122distinct,0new,72material,50nonmaterial,0complete; cycle139distinct,78material,61nonmaterial; day226distinct,117material,109nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Nick McKim JKM. OUTCOME:ongoing; STOPPING REASON:none.
