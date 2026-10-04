@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/252157",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-04",
+  "last_reviewed": "2026-10-05",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -167,7 +167,7 @@
       "role": "Senator for Victoria",
       "start_date": "2019-07-01",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "day",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -198,6 +198,25 @@
       "evidence_note": "University magazine describes affiliation in2000 beyond APH fellowship1998–99. May overlap EPI; continuity, remuneration and hours unknown.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "252157-09"
+    },
+    {
+      "spell_id": "252157-10",
+      "employer": "University of Melbourne, urban planning (conference affiliation)",
+      "role": "Conference presenter; university affiliation, appointment type unresolved",
+      "start_date": "2001",
+      "end_date": "2001",
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "university",
+      "headline_sector": "excluded",
+      "government_control_at_time": "public",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-12"
+      ],
+      "evidence_note": "ILO programme for 29–30 March 2001 in Geneva names Jess Walsh with urban-planning affiliation at the University of Melbourne. This is a dated affiliation observation in the previously unresolved 2000–2002 interval, not evidence of paid academic employment or a continuous one-year appointment. Doctoral study may overlap; presenter listing is not proof of attendance or remuneration.",
+      "counting_note": "University category excluded. No duration, hours or continuity inferred from the event dates."
     }
   ],
   "sources": [
@@ -310,6 +329,16 @@
       "note": "Contemporary2000 scholarly record identifies Jess Walsh at the Economic Policy Institute and describes her labour-regulation/service-sector research; publication metadata is not an employment contract or FTE record.",
       "retrieved": "2026-10-03",
       "source_id": "src-11"
+    },
+    {
+      "source_id": "src-12",
+      "url": "https://webapps.ilo.org/public/french/protection/ses/conf/carework.htm",
+      "publisher": "International Labour Organization",
+      "title": "Consultation informelle sur le travail des auxiliaires de vie, 29–30 March 2001",
+      "retrieved": "2026-10-05",
+      "source_type": "government_record",
+      "locator": "Programme heading and Session 5, item 3; page last modified 25 September 2001",
+      "note": "Search service returned the indexed original programme in full, naming Jess Walsh, urban planning, University of Melbourne. Direct web open returned Unicode decoding error and normal Python fetch returned HTTP403; no access controls bypassed. Programme attribution identifies an affiliation at this event, not appointment title, remuneration, contract or hours."
     }
   ],
   "research_notes": [
@@ -320,6 +349,7 @@
     "Known excluded jobs are not proof there was no countable earlier or concurrent work. Headline values remain null, not zero; no year-range sum or full-time assumption. Last follow-up 2026-09-29; retain unresolved status and advance initial national pass.",
     "2026-10-02 follow-up: contemporary Johns Hopkins magazine supplies previously unrecorded2000 visiting-scholar affiliation; preserve official1998–99 fellowship without silently extending salary or resolving EPI overlap. EPI2002 acknowledgments corroborate research participation, not ongoing appointment. First speech now retrieved through Hansard mirror; decade in universities/policy centres is not a decade of paid full-time work. Melbourne thesis catalogue link returned restricted-URL error; secondary2002 completion year not adopted without primary catalogue/thesis. Early-work,full-time and2000–02 targeted searches yielded many namesakes and no hours evidence. Next: visiting-scholar terms and dated fellowship records, doctoral title page and pre1998 employment. No totals calculated.",
     "2026-10-03 follow-up: Walsh's current first-person biography identifies her PhD field as economic geography but supplies no completion year. A2000 SAGE scholarly record contemporaneously affiliates her with EPI and documents labour-regulation/service-sector research, enriching duties without extending the official1999–2000 employment range. An ILO book contributor biography indexed elsewhere describes SEIU/EPI and Johns Hopkins fellowship types, but the accessible copy was an unauthoritative Slideshare upload and was not used to alter role titles. Searches did not locate primary appointment terms, remuneration, hours, a university thesis record, pre1998 jobs or a paid bridge between2000 and2002. No duration calculated.",
-    "Follow-up2026-10-04: Followed publisher-side ILO Care Work lead: current official publication page returned(403)Forbidden; accessible historical ILO page confirms book only and offers ordering, not Walsh contributor CV/appointment terms. University catalogue link returned Internal Error / Failed to fetch restricted URL. Legitimate Wayback capture redirected to29February2024catalogue shell without thesis metadata, so it did not verify completion year. A third-party thesis-list upload provides T2710lead but no authoritative cataloguing record inspected; no study year or SEIU fellowship employer promoted. Primary appointment terms, paid bridge2000–02and pre1998work remain unresolved; exhausted generic thesis/fellowship searches logged."
+    "Follow-up2026-10-04: Followed publisher-side ILO Care Work lead: current official publication page returned(403)Forbidden; accessible historical ILO page confirms book only and offers ordering, not Walsh contributor CV/appointment terms. University catalogue link returned Internal Error / Failed to fetch restricted URL. Legitimate Wayback capture redirected to29February2024catalogue shell without thesis metadata, so it did not verify completion year. A third-party thesis-list upload provides T2710lead but no authoritative cataloguing record inspected; no study year or SEIU fellowship employer promoted. Primary appointment terms, paid bridge2000–02and pre1998work remain unresolved; exhausted generic thesis/fellowship searches logged.",
+    "Follow-up 2026-10-05: Original ILO programme for 29–30 March 2001 identifies Walsh with University of Melbourne urban-planning affiliation, adding a dated observation in the 2000–02 gap. Recorded separately as an affiliation with appointment, pay, hours and doctoral overlap unresolved; no continuous paid university spell inferred. Indexed original recovered after Unicode decoding error and normal HTTP403; English path inaccessible. ScienceDirect service-sector article is by Mia Gray and merely cites Walsh, so rejected as a Walsh employment record. Original thesis and paid appointments still unresolved; missing requests module recovered with standard-library urllib. No totals calculated."
   ]
 }
