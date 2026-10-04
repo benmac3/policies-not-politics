@@ -162,3 +162,6 @@
 
 - 2026-10-04T20:37:15+10:00: Collins: preserved two distinct early work episodes and departmental classification gap; no material change.
 - Attempt117distinct,0new,69material,48nonmaterial,0complete; cycle134distinct,75material,59nonmaterial; day226distinct,115material,111nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Josh Dolega316935. OUTCOME:ongoing; STOPPING REASON:none.
+
+- 2026-10-04T20:37:55+10:00: Dolega: retained unverified call-centre employer and facility/payroll distinction; no material new evidence.
+- Attempt118distinct,0new,69material,49nonmaterial,0complete; cycle135distinct,75material,60nonmaterial; day226distinct,115material,111nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Richard Dowling55842. OUTCOME:ongoing; STOPPING REASON:none.
