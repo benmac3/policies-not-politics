@@ -333,3 +333,6 @@ State: ready-for-integration
 
 - 2026-10-04T22:32:41+10:00: Doyle: qualifications and dated training recovered; early-employment hours remain unknown.
 - Attempt168distinct,0new,104material,64nonmaterial,0complete; cycle185distinct,110material,75nonmaterial; day226distinct,132material,94nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Mark DreyfusHWG. OUTCOME:ongoing; STOPPING REASON:none.
+
+- 2026-10-04T22:34:39+10:00: Dreyfus: degree year and readers intake recovered; professional-hours gap retained.
+- Attempt169distinct,0new,105material,64nonmaterial,0complete; cycle186distinct,111material,75nonmaterial; day226distinct,133material,93nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Cassandra Fernando299964. OUTCOME:ongoing; STOPPING REASON:none.

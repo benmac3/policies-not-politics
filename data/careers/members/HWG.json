@@ -100,7 +100,7 @@
     },
     {
       "spell_id": "HWG-05",
-      "employer": "Victorian ministerial offices, including Attorney-General Jim Kennan",
+      "employer": "Victorian Attorney-General, Planning and Corrections ministerial offices, including Attorney-General Jim Kennan",
       "role": "Ministerial adviser",
       "start_date": "1985",
       "end_date": "1987",
@@ -113,7 +113,8 @@
       "counting_status": "excluded",
       "source_ids": [
         "src-1",
-        "src-2"
+        "src-2",
+        "oct4-dfat"
       ],
       "evidence_note": "Political appointment separate from ordinary public service.",
       "counting_note": "Outside the two employment headlines under the codebook; retained as career context."
@@ -164,7 +165,7 @@
       "role": "Member for Isaacs",
       "start_date": "2007-11-24",
       "end_date": null,
-      "date_precision": "unknown",
+      "date_precision": "day",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -197,6 +198,122 @@
       "evidence_note": "Own2024 oration says commissioned in1980 while an NLC field officer and delivered two papers the following year. A contemporaneous project report says he accepted a legal-history research brief, took leave without pay from the NLC and was expected to begin in early November1980 and finish within six months. The schedule was prospective, so only the start month and year-only end are retained; actual completion, remuneration, contract entity and hours remain unknown. AIATSIS finding aids separately preserve his1979 field report, September1980 Gagudju Association policy draft and NLC work files.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "HWG-aias"
+    },
+    {
+      "spell_id": "HWG-study-arts",
+      "employer": "University of Melbourne",
+      "role": "Bachelor of Arts",
+      "start_date": null,
+      "end_date": "1978",
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "oct4-unimelb",
+        "oct4-dfat"
+      ],
+      "evidence_note": "University qualification notation BA/LLB1978 supports qualification year; course start and exact conferral day unknown.",
+      "counting_note": "Study or party activity excluded; no substantive employment duration inferred."
+    },
+    {
+      "spell_id": "HWG-study-law",
+      "employer": "University of Melbourne",
+      "role": "Bachelor of Laws",
+      "start_date": null,
+      "end_date": "1978",
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "oct4-unimelb",
+        "oct4-dfat"
+      ],
+      "evidence_note": "University qualification notation BA/LLB1978 supports qualification year; course start and exact conferral day unknown. Possible overlapping degree study not counted twice.",
+      "counting_note": "Study or party activity excluded; no substantive employment duration inferred."
+    },
+    {
+      "spell_id": "HWG-readers",
+      "employer": "Victorian Bar",
+      "role": "Readers Course, September1987 intake",
+      "start_date": "1987-09",
+      "end_date": null,
+      "date_precision": "month",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "oct4-readers"
+      ],
+      "evidence_note": "Court account names Dreyfus in September1987 cohort. Does not establish completion, bar-roll signing day, remunerated employment or full-time practice.",
+      "counting_note": "Study or party activity excluded; no substantive employment duration inferred."
+    },
+    {
+      "spell_id": "HWG-party-president",
+      "employer": "Australian Labor Party",
+      "role": "President, Collingwood Branch (Victoria)",
+      "start_date": "1985",
+      "end_date": "1985",
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "party_organisation",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "oct4-dfat"
+      ],
+      "evidence_note": "Official year labels retained; exact boundaries, remuneration and work fraction not specified.",
+      "counting_note": "Study or party activity excluded; no substantive employment duration inferred."
+    },
+    {
+      "spell_id": "HWG-party-review",
+      "employer": "Australian Labor Party",
+      "role": "Chair, Review Panel (Victoria)",
+      "start_date": "1998",
+      "end_date": "1998",
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "party_organisation",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "oct4-dfat"
+      ],
+      "evidence_note": "Official year labels retained; exact boundaries, remuneration and work fraction not specified.",
+      "counting_note": "Study or party activity excluded; no substantive employment duration inferred."
+    },
+    {
+      "spell_id": "HWG-party-policy",
+      "employer": "Australian Labor Party",
+      "role": "Chair, National Policy Committee",
+      "start_date": "2008",
+      "end_date": "2009",
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "party_organisation",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "oct4-dfat"
+      ],
+      "evidence_note": "Official year labels retained; exact boundaries, remuneration and work fraction not specified.",
+      "counting_note": "Study or party activity excluded; no substantive employment duration inferred."
     }
   ],
   "sources": [
@@ -299,6 +416,36 @@
       "note": "Archives a September1980 Gagudju Association policy draft and field reports/correspondence relating to Dreyfus's NLC work; supports project substance, not payroll or hours.",
       "retrieved": "2026-10-03",
       "source_id": "oct3-aiatsis-files"
+    },
+    {
+      "source_id": "oct4-unimelb",
+      "url": "https://law.unimelb.edu.au/alumni/benefits-and-services/mls-alumni-seminar-series",
+      "publisher": "University of Melbourne",
+      "title": "Melbourne Law School alumni seminar archive",
+      "retrieved": "2026-10-04",
+      "source_type": "other",
+      "locator": "2014 archive, July Dreyfus presenter entry",
+      "note": "University identifies BA/LLB1978. Seminar date2014 is not degree or employment date."
+    },
+    {
+      "source_id": "oct4-readers",
+      "url": "https://www.fedcourt.gov.au/digital-law-library/judges-speeches/justice-beach/beach-j-20140630",
+      "publisher": "Federal Court of Australia",
+      "title": "Ceremonial sitting for Justice Beach,30 June2014",
+      "retrieved": "2026-10-04",
+      "source_type": "government_record",
+      "locator": "Speech paragraphs: September1987 Readers Course, other intake members",
+      "note": "Names Dreyfus as a member of September1987 readers intake. Adjacent full-time study/work, mentor and chamber descriptions concern Justice Beach, not Dreyfus."
+    },
+    {
+      "source_id": "oct4-dfat",
+      "url": "https://ministers.dfat.gov.au/minister/mark-dreyfus",
+      "publisher": "Department of Foreign Affairs and Trade",
+      "title": "Mark Dreyfus official biography",
+      "retrieved": "2026-10-04",
+      "source_type": "official_biography",
+      "locator": "Party positions; Qualifications and occupation before entering Federal Parliament",
+      "note": "Official APH-derived biography corroborates BA/LLB and three state ministerial portfolios in adviser role; party presidency1985, review-panel chair1998 and policy-committee chair2008–2009. No working-hours proof."
     }
   ],
   "research_notes": [
@@ -309,6 +456,7 @@
     "Searched profession roll/history, historical research publications and institutional histories. No full-time law practice or NLC hours obtained. US energy/education/Avaya namesakes rejected. AustLII2010 profile open returned Internal Error; independent primary material available.",
     "Follow-up2026-10-03: a contemporaneous AIAS project report establishes leave without pay from the NLC for a legal-history research brief expected to start in early November1980 and run six months. AIATSIS finding aids identify related1979 field work and a September1980 Gagudju Association draft. Prospective timing was not converted to exact completed dates or full-time status.",
     "Next leads: NLC1979–81 staff/annual reports and contemporaneous control rules; actual AIAS brief completion/pay/contract and hours; institute1982 appointment/payroll and governing arrangements; exact legal practice/adviser transitions and work pattern. Existing totals remain null.",
-    "Fourth follow-up4October2026: Northern Land Council annual-report/staff, Freehills and barrister work-pattern searches returned the official chronology, a1979 field-report archival description and retrospective interview material, but no NLC contract/hours, employer-control evidence, legal-firm full-time statement or exact adviser/practice transitions. The archival 1979 field report is already represented by AIATSIS finding-aid evidence and does not add payroll status. Same-name US legal/medical results and unrelated full-time references were rejected. Early institutional control and private-practice hours remain unresolved; no headline change."
+    "Fourth follow-up4October2026: Northern Land Council annual-report/staff, Freehills and barrister work-pattern searches returned the official chronology, a1979 field-report archival description and retrospective interview material, but no NLC contract/hours, employer-control evidence, legal-firm full-time statement or exact adviser/practice transitions. The archival 1979 field report is already represented by AIATSIS finding-aid evidence and does not add payroll status. Same-name US legal/medical results and unrelated full-time references were rejected. Early institutional control and private-practice hours remain unresolved; no headline change.",
+    "Follow-up2026-10-04: Recovered Melbourne BA/LLB1978 qualification year and September1987 Bar readers cohort from university and court sources, with party offices and adviser portfolios corroborated by official government biography. Course entry is not an employment start. Judicial appointee admission/practice dates and Justice Beach full-time statements rejected as other-person facts. NLC and private-practice searches still lack member-specific hours, leave completion/payroll and dated firm contracts; institute control remains unresolved. Law Council conference fetch Internal Error recovered via independent primary sources. Next actual NLC/AIAS contract, research completion, gerontology appointment and bar-roll/employment boundaries."
   ]
 }
