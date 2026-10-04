@@ -176,3 +176,6 @@ Detailed attempted avenues, discrepancies and remaining leads are preserved in e
 
 - Trish Cook312871: materially enriched previously unrecorded named Midland nursing-work setting, with explicit employer and dates gaps.
 - Attempt23distinct,0new,12material,11nonmaterial,0complete; cycle40distinct,18material,22nonmaterial; day177distinct,68material,109nonmaterial; all0new/complete. Next: Dorinda Cox296215. OUTCOME:ongoing; STOPPING REASON:none.
+
+- Dorinda Cox296215: material SWALSC June2014 contract cessation and new police-advisory membership; no FTyears.
+- Attempt24distinct,0new,13material,11nonmaterial,0complete; cycle41distinct,19material,22nonmaterial; day178distinct,69material,109nonmaterial; all0new/complete. Next: Tom French316550. OUTCOME:ongoing; STOPPING REASON:none.

@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/296215",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-03",
+  "last_reviewed": "2026-10-04",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -221,10 +221,10 @@
     },
     {
       "employer": "South West Aboriginal Land and Sea Council",
-      "role": "Program manager",
+      "role": "Program Manager, Ngalla Kaartdijin / Noongar Leadership Program",
       "start_date": "2013",
-      "end_date": "2014",
-      "date_precision": "year",
+      "end_date": "2014-06",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "nonprofit",
@@ -232,9 +232,10 @@
       "government_control_at_time": "private",
       "counting_status": "excluded",
       "source_ids": [
-        "src-5"
+        "src-5",
+        "src-23"
       ],
-      "evidence_note": "Business News career table identifies role and year range. Primary employer report not yet located; no month dates or hours adopted from commercial contact aggregators.",
+      "evidence_note": "Business News career table identifies role and year range. Primary employer report not yet located; no month dates or hours adopted from commercial contact aggregators. Full primary SWALSC2014annual report names Program Manager for Leadership Program, community-leadership-program development and contract endJune2014, resolving employer/title and narrowing endpoint. Start2013 remains secondary; report’s2013unit formation and workshop dates are not personal appointment dates.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "296215-11"
     },
@@ -374,6 +375,26 @@
       "evidence_note": "WACOSS’s 2018–19 annual report lists Cox among its social-policy staff and gives exact from/until dates. Contemporary descriptions later call her acting executive officer, but no evidence establishes an additional post-30 June 2019 payroll period, hours or remuneration.",
       "counting_note": "Nonprofit employment is excluded from public/private employment headlines under the codebook.",
       "spell_id": "296215-18"
+    },
+    {
+      "spell_id": "296215-19",
+      "employer": "Western Australia Police — Aboriginal Police Advisory Forum",
+      "role": "Inaugural Aboriginal community member providing policy advice",
+      "start_date": "2018",
+      "end_date": null,
+      "date_precision": "mixed",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "public_service",
+      "headline_sector": "excluded",
+      "government_control_at_time": "public",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-19",
+        "src-24"
+      ],
+      "evidence_note": "MG Corporation October2018newsletter identifies Cox as inaugural forum member; WA Police2019annual report corroborates identity and reports first forum meetingSeptember2018 and quarterly policy-advice remit.2018start is year-precision establishment/inaugural-member context; no exact personal appointment day/month, end or remuneration. Separate advisory activity, not renewed sworn-police or liaison employment.",
+      "counting_note": "Advisory governance excluded; does not prove substantive paid public-service work or additional full-time years."
     }
   ],
   "sources": [
@@ -596,6 +617,26 @@
       "note": "UWA repository records Cox as co-author on a 2020 research output affiliated with UWA Law School; corroborates research participation but not employment boundaries or hours.",
       "retrieved": "2026-10-03",
       "source_id": "src-22"
+    },
+    {
+      "source_id": "src-23",
+      "url": "https://www.noongar.org.au/s/2014_Annual_Report_digital.pdf",
+      "publisher": "South West Aboriginal Land and Sea Council",
+      "title": "Annual Report2014",
+      "retrieved": "2026-10-04",
+      "source_type": "employer_record",
+      "locator": "PDFpage18 Leadership Unit / Recruitment",
+      "note": "Full primary PDF downloadedHTTP200 after search-open400content-size limitation(11670463bytes). Explicitly says Program Manager for Leadership Program and contract ended June2014. No individual hours/start date."
+    },
+    {
+      "source_id": "src-24",
+      "url": "https://www.wa.gov.au/system/files/2023-06/annual-report-2019-wapolice.pdf",
+      "publisher": "Western Australia Police Force",
+      "title": "Annual Report2019",
+      "retrieved": "2026-10-04",
+      "source_type": "government_record",
+      "locator": "Printedpage28 Aboriginal Police Advisory Forum",
+      "note": "Public primary index lists Cox among eight inaugural Aboriginal leaders and forum first meetingSeptember2018. First meeting is not personal appointment boundary; advisory pay/hours/end unknown."
     }
   ],
   "research_notes": [
@@ -606,6 +647,7 @@
     "Follow-up 2026-10-02: HREOC 2007 report and first-person ACSSA 2008 contribution resolve unnamed state project and department; project funding date deliberately not used as Cox appointment. Our Watch appointment now 7 November 2016.",
     "Added SWALSC program-manager 2013–2014 role from reliable business career table; December 2021 SWALSC newsletter only congratulates election and does not corroborate employment dates. Contact-aggregator August 2013–June 2014 remains a lead, not adopted.",
     "Ombudsman 2014–2015 and 2019–2020 panel observations and ANROWS 2016 practitioner group recorded separately from employment. Senate directorship index does not prove active consulting after 2021. Next: SARC/WA Health personnel histories, SWALSC 2013–2014 annual reports, company formation and payroll/workload/leave; retail employer unresolved. Recovered source errors: legacy Ombudsman redirects, ACSSA timeout, Senate register open failure.",
-    "Follow-up 2026-10-03: Business News provides year-level Department of Health, Morrgul and UWA roles; primary WACOSS annual report fixes Noongar Family Safety management to 10 December 2018–30 June 2019, while contemporary MG Corporation and UWA material corroborate research work. A Cox interview adds the otherwise omitted Centrelink public-policy role after police service; exact dates remain unknown. September 2016 event material establishes Keeping Kids Safe Project employment but not boundaries or hours. Commercial contact-aggregator month dates and additional titles were not adopted. Remaining gaps: exact Centrelink/SARC/Health transitions, all hours/leave, 2012–2013 and 2014–2016 chronology, Morrgul/UWA contract boundaries, post-June 2019 Noongar Family Safety status, and consulting workload/cessation."
+    "Follow-up 2026-10-03: Business News provides year-level Department of Health, Morrgul and UWA roles; primary WACOSS annual report fixes Noongar Family Safety management to 10 December 2018–30 June 2019, while contemporary MG Corporation and UWA material corroborate research work. A Cox interview adds the otherwise omitted Centrelink public-policy role after police service; exact dates remain unknown. September 2016 event material establishes Keeping Kids Safe Project employment but not boundaries or hours. Commercial contact-aggregator month dates and additional titles were not adopted. Remaining gaps: exact Centrelink/SARC/Health transitions, all hours/leave, 2012–2013 and 2014–2016 chronology, Morrgul/UWA contract boundaries, post-June 2019 Noongar Family Safety status, and consulting workload/cessation.",
+    "Follow-up2026-10-04: Full employer2014annual report obtained after content-size400recovery establishes SWALSC leadership-program manager contract endJune2014; title/duties refined and2013start remains secondary. Added primary-correlated AboriginalPoliceAdvisoryForum inaugural membership2018, separate from policing payroll. SocialJustice2007full-time claim refers to community project officers, not Cox’s manager job; no FTstatus assigned. UWA Pathways page Wanslea research-manager paragraph belongs to another person, not Cox. Retain Centrelink, SARC/Health transitions, consulting workload/cessation and hours gaps."
   ]
 }
