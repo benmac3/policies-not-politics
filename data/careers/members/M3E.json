@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/M3E",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-04",
+  "last_reviewed": "2026-10-05",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -31,9 +31,10 @@
         "src-1",
         "src-2",
         "src-3",
-        "src-6"
+        "src-6",
+        "oct5-vic-first"
       ],
-      "evidence_note": "Paid trade apprenticeship is distinct from classroom study; employer and hours unreported. Do not presume full-time status from apprenticeship. In 2011 Hansard he recalls starting at 7.30 am and leaving at 4.30 pm during the apprenticeship. This supplies a daily span, not weekly paid hours, continuity over all four years, or named employer; employment_status and FTE remain unknown.",
+      "evidence_note": "Paid trade apprenticeship is distinct from classroom study; employer and hours unreported. Do not presume full-time status from apprenticeship. In 2011 Hansard he recalls starting at 7.30 am and leaving at 4.30 pm during the apprenticeship. This supplies a daily span, not weekly paid hours, continuity over all four years, or named employer; employment_status and FTE remain unknown. The2003 first speech says he completed the apprenticeship; no employer or weekly-hours evidence.",
       "counting_note": "Dates, employer control and/or substantive full-time status remain insufficient for a duration calculation; unknown is not zero."
     },
     {
@@ -52,9 +53,10 @@
       "source_ids": [
         "src-2",
         "src-3",
-        "src-5"
+        "src-5",
+        "oct5-vic-first"
       ],
-      "evidence_note": "Handbook supplies years. Speech identifies RACV service contracting but not whether personally self-employed or employed by a contractor. Client is not established as legal employer; relationship and control unresolved.",
+      "evidence_note": "Handbook supplies years. Speech identifies RACV service contracting but not whether personally self-employed or employed by a contractor. Client is not established as legal employer; relationship and control unresolved. The2003 first speech recalls three years as a tow-truck operator after the apprenticeship. That duration needs reconciliation with the1987–1989 year labels; neither supplies precise endpoints. No start/end shifted to force agreement.",
       "counting_note": "Dates, employer control and/or substantive full-time status remain insufficient for a duration calculation; unknown is not zero."
     },
     {
@@ -168,7 +170,7 @@
       "role": "Member for McEwen",
       "start_date": "2010",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -185,7 +187,7 @@
     {
       "spell_id": "M3E-09",
       "employer": "Community Emergency Response Team",
-      "role": "Founding member and volunteer",
+      "role": "Founding member, committee member and volunteer",
       "start_date": null,
       "end_date": null,
       "date_precision": "unknown",
@@ -196,9 +198,10 @@
       "government_control_at_time": "unknown",
       "counting_status": "excluded",
       "source_ids": [
-        "src-5"
+        "src-5",
+        "oct5-vic-first"
       ],
-      "evidence_note": "Community role recorded separately; dates unavailable.",
+      "evidence_note": "Community role recorded separately; dates unavailable. The2003 speech identifies Craigieburn committee service and training/support from the Metropolitan Ambulance Service; the latter is not asserted as payroll employer.",
       "counting_note": "Excluded from the two employment headlines under the codebook."
     },
     {
@@ -361,6 +364,16 @@
       "retrieved": "2026-10-04",
       "locator": "12:33pm contribution; paragraph beginning I am proud to have done my apprenticeship",
       "note": "First-person testimony names Collingwood TAFE for apprenticeship-related study. No calendar attendance boundaries or employing factory name."
+    },
+    {
+      "source_id": "oct5-vic-first",
+      "url": "https://hansard.parliament.vic.gov.au/downloadhansard/pdf/Council/Autumn%202003/Council%20Parlynet%20Extract%2027%20February%202003%20from%20Book%201.pdf",
+      "publisher": "Parliament of Victoria",
+      "title": "Legislative Council Hansard,27 February2003",
+      "retrieved": "2026-10-05",
+      "source_type": "government_record",
+      "locator": "Printedpp156–159, especiallyp157; PDFpp42–45, especiallyp43",
+      "note": "Original first speech recovered via contemporaneous Hansard Download PDF link and ordinary public download/text extraction. Legacy startpage56 omits a digit; modern PDF shows156. Three-year towing recollection, completed footwear apprenticeship and volunteer committee work."
     }
   ],
   "research_notes": [
@@ -372,6 +385,7 @@
     "2026-10-02 follow-up: added apprenticeship daily-hours recollection and October2007 cessation of political advisory work, qualifying the existing2006–2010 envelope. State Parliament profile confirms term and supplies 27February2003 first-speech archive lead, but legacy endpoint unavailable. Searches for footwear/diesel/parts employers and ministerial work found no company identity or weekly-hours evidence; overseas BMW, diesel social-media and medical namesakes excluded. Next: accessible Victorian2003 Hansard p56 onward for employer clues, and post-election adviser reappointment record; do not repeat generic company searches without a new lead. Both headline totals remain unknown.",
     "2026-10-03 follow-up: a first-person 18 April 2016 parliamentary speech adds truck driving and vehicle servicing to the previously recorded transport-industry work. Its rounded '20 years' is not used to extend the dated 1987–2002 sequence, because it supplies no boundaries and conflicts with treating that 15-year envelope as exact continuous work. Added an undated, potentially overlapping spell so the work is not omitted. Targeted employer-name, diesel-parts, RACV contractor and Victorian inaugural-speech searches still did not identify a legal employer, weekly hours or the 1998/2000 transitions. Preserve the 27 February 2003 Victorian Hansard and historical company/personnel records as leads; totals remain uncalculable.",
     "2026-10-04 follow-up: exact-phrase searches combining Rob/Robert Mitchell with bootmaking, RACV contracting, truck/bus parts and diesel-engine parts found no employer identity or personnel record. Official APH indexing repeats only the existing generic role/year chronology; derivative biographies repeat the RACV-contractor and unnamed diesel-company descriptions without a primary citation that resolves legal employer, control, hours or transitions. Broad company-name search is exhausted for this pass. The remaining productive avenues are the 27 February 2003 Victorian inaugural-speech record and historical RACV contractor/company or payroll archives; namesake transport and automotive results were excluded.",
-    "Follow-up2026-10-04: New10 February2025 first-person parliamentary testimony identifies Collingwood TAFE for apprenticeship study, previously missing. Added study separately without equating attendance dates to the1983–1987 apprenticeship or treating the provider as employer. Source says factory-floor experience but supplies no factory name or weekly hours. Official qualifications repeat the already recorded diploma/membership, with no new provider/date. State member page still routes2003 inaugural speech to the legacy tex.parliament.vic.gov.au endpoint; this pass did not recover its text. Transport employers, hours and adviser reappointment remain unresolved."
+    "Follow-up2026-10-04: New10 February2025 first-person parliamentary testimony identifies Collingwood TAFE for apprenticeship study, previously missing. Added study separately without equating attendance dates to the1983–1987 apprenticeship or treating the provider as employer. Source says factory-floor experience but supplies no factory name or weekly hours. Official qualifications repeat the already recorded diploma/membership, with no new provider/date. State member page still routes2003 inaugural speech to the legacy tex.parliament.vic.gov.au endpoint; this pass did not recover its text. Transport employers, hours and adviser reappointment remain unresolved.",
+    "2026-10-05 original inaugural speech recovered from a modern Hansard Download PDF link after the legacy redirect and direct search-open failed. Printedp157 supplies a three-year towing recollection, requiring reconciliation with existing1987–1989 labels, and clarifies volunteer committee service. No employer, weekly hours or exact dates supplied; no date shifted. The old startpage56 link is misleading: actual speech begins printedp156. Ordinary public download/text extraction succeeded; no access controls bypassed. This closes the inaccessible-speech avenue while retaining personnel and contractor gaps."
   ]
 }
