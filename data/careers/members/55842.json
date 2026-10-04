@@ -186,9 +186,10 @@
       "source_ids": [
         "src-1",
         "src-2",
-        "src-9"
+        "src-9",
+        "src-winter-nov2024"
       ],
-      "evidence_note": "Five-month duration reported by ARN, but exact endpoints/hours not established; no month back-calculation. Same-year dates are not zero duration.",
+      "evidence_note": "Five-month duration reported by ARN, but exact endpoints/hours not established; no month back-calculation. Same-year dates are not zero duration. New5November2024account describes him as former Meta director, supplying latest known cessation observation, not exact last-working date; no subtraction of five months to invent start.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "55842-08"
     },
@@ -205,9 +206,10 @@
       "government_control_at_time": "public",
       "counting_status": "excluded",
       "source_ids": [
-        "src-12"
+        "src-12",
+        "src-winter-nov2024"
       ],
-      "evidence_note": "Contemporary December 2024 reporting establishes employment in that year; beginning and end unknown. No assumed continuity to Senate commencement.",
+      "evidence_note": "Contemporary December 2024 reporting establishes employment in that year; beginning and end unknown. No assumed continuity to Senate commencement. New5November2024contemporary account establishes this role already held by that observation, earlier than previously recorded December2024. Exact appointment/end not inferred.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "55842-09"
     },
@@ -523,6 +525,16 @@
       "note": "Amp describes itself as principal strategic investor. Does not specify voting percentages or all control rights; not sufficient alone to settle whole2017–2019control interval.",
       "retrieved": "2026-10-02",
       "source_id": "src-17"
+    },
+    {
+      "source_id": "src-winter-nov2024",
+      "url": "https://www.pollbludger.net/2024/11/05/miscellany-morgan-guardian-poll-tracker-preselection-latest-open-thread/",
+      "publisher": "William Bowe / The Poll Bludger",
+      "title": "Miscellany: Morgan, Guardian poll tracker, preselection latest, 5 November 2024",
+      "retrieved": "2026-10-04",
+      "source_type": "news",
+      "locator": "Further, bullet summarising Matthew Denholm Senate-preselection report",
+      "note": "Author identifies Dowling as current adviser to Dean Winter and former Meta public-policy director. Earlier observation than recorded 2 December account, not actual appointment or cessation date. Underlying Australian report linked but not independently retrieved; reader comments not used."
     }
   ],
   "research_notes": [
@@ -535,6 +547,7 @@
     "Follow-up: Treasury cadet/analyst hours and transition, dated employer professional history, KFC legal employer, company control/contract details, exact private role endpoints, 2019–20 and 2024–25 gaps, study/campaign leave. Government and employer primary records may refine boundaries; totals remain unknown.",
     "Follow-up2026-10-02: fellow cadet Dean Winter parliamentary testimony adds individual-linked program evidence of full-time cadet work/part-time study. Cadet component recorded separately without invented dates or double-counting2002–2007aggregate. Analyst component and leave remain unresolved.",
     "Faraday historical Companies House index and primary Amp investment release examined; underlying2017accounts and2018confirmation statement failed with500redirect errors labelled non-retryable, not retried. Private investors identified, but full2017–2019control not proven. Targeted2019–2020and Winter/Meta transition searches did not resolve dates. Earlier statement that no full-time designation was found is superseded only for the undated cadet component.",
-    "Follow-up 2026-10-04: the publicly indexed professional profile now exposes July 2002–April 2007 for the Tasmanian Treasury Policy Analyst entry, narrowing the aggregate Treasury interval without inventing the cadet-to-analyst transition. Targeted searches did not independently resolve the exact Faraday-to-VMware gap, private-role hours/leave, Meta endpoints or Winter-office end. A direct profile fetch returned status 999; only the search-indexed profile text was used."
+    "Follow-up 2026-10-04: the publicly indexed professional profile now exposes July 2002–April 2007 for the Tasmanian Treasury Policy Analyst entry, narrowing the aggregate Treasury interval without inventing the cadet-to-analyst transition. Targeted searches did not independently resolve the exact Faraday-to-VMware gap, private-role hours/leave, Meta endpoints or Winter-office end. A direct profile fetch returned status 999; only the search-indexed profile text was used.",
+    "Follow-up2026-10-04: Contemporary5November2024William Bowe account, summarising identified Australian reporter Matthew Denholm, establishes Winter adviser role already held and Meta role already former by that observation. This moves the available transition evidence earlier than2December without inventing month endpoints or back-calculating five-month duration. Data-broker November2024–May2025claim not adopted; unrelated SEC ownership tables and namesakes not attributed. Need dated personal/employer appointment, hours/leave and Treasury cadet component boundaries to support totals."
   ]
 }
