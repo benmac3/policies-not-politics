@@ -161,3 +161,6 @@
 
 - Ben Small291406: follow-up saved; Clime proposal remains unproven appointment, employment gaps retained.
 - Attempt39distinct,0new,21material,18nonmaterial,0complete; cycle56distinct,27material,29nonmaterial; day193distinct,77material,116nonmaterial; all0new/complete. Next: Dean Smith241710. OUTCOME:ongoing; STOPPING REASON:none.
+
+- Dean Smith241710: materially enriched historical Optus control evidence; totals remain unknown.
+- Attempt40distinct,0new,22material,18nonmaterial,0complete; cycle57distinct,28material,29nonmaterial; day194distinct,78material,116nonmaterial; all0new/complete. Next: Jordon Steele John250156. OUTCOME:ongoing; STOPPING REASON:none.

@@ -6,7 +6,7 @@
   "snapshot_party": "Liberal Party of Australia",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/241710",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-03",
+  "last_reviewed": "2026-10-04",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -171,9 +171,10 @@
         "src-2",
         "src-4",
         "src-5",
-        "src-6"
+        "src-6",
+        "src-15"
       ],
-      "evidence_note": "Historical Singtel report identifies wholly-owned Optus and majority Temasek ownership; Temasek’s2008 statement identifies Singapore Minister for Finance ownership. Coded government-controlled corporation by indirect majority ownership, not Australian civil service; operational independence does not erase ownership. Verify chain throughout2005–09 and legal payroll entity before finalising. FTE unknown.",
+      "evidence_note": "Historical Singtel report identifies wholly-owned Optus and majority Temasek ownership; Temasek’s2008 statement identifies Singapore Minister for Finance ownership. Coded government-controlled corporation by indirect majority ownership, not Australian civil service; operational independence does not erase ownership. Verify chain throughout2005–09 and legal payroll entity before finalising. FTE unknown. Corporate2008/09 annual report independently confirms Temasek as ultimate holding company and54.46% direct shareholding28May2009, with100% effective Optus equity for both2008 and2009. This strengthens historical end-of-tenure control evidence without resolving personal hours or identifying the exact payroll subsidiary; intervening ownership changes still require checking.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "241710-08"
     },
@@ -477,10 +478,20 @@
       "publisher": "Dean Smith / LinkedIn",
       "title": "Senator Dean Smith professional profile",
       "source_type": "professional_profile",
-      "locator": "Indexed experience excerpt 2009–2010",
-      "note": "A newer profile index shows a 2009–2010 interval without sufficient visible surrounding title context. Direct open returned (429) Too Many Requests; not retried, and interval not substituted for supported Enhance chronology.",
+      "locator": "Indexed Experience: initial ambiguous2009–2010 fragment; later Smith & Duda2010–Apr2012 entry obtained3October2026",
+      "note": "Direct2October open429 Too Many Requests not retried. Later public index supplied Apr2012 consultancy endpoint but conflicting2010 commencement; official2011 start retained. No hours.",
       "retrieved": "2026-10-02",
       "source_id": "src-14"
+    },
+    {
+      "source_id": "src-15",
+      "url": "https://www.annualreports.com/HostedData/AnnualReportArchive/s/ASX_SGT_2009.pdf",
+      "publisher": "Singapore Telecommunications Limited, mirrored by AnnualReports",
+      "title": "Annual Report2008/2009",
+      "source_type": "employer",
+      "locator": "Printed pp172,175 Note45 and45.2; p184 Shareholder information as at28May2009",
+      "retrieved": "2026-10-04",
+      "note": "Names Temasek as immediate/ultimate holding company, shows54.46% direct Singtel shareholding28May2009, and100% effective equity in SingTel Optus Pty Ltd and Optus Networks Pty Ltd in both2008/2009. Corporate control evidence, not individual payroll or hours."
     }
   ],
   "research_notes": [
@@ -490,6 +501,7 @@
     "Follow-up 2026-10-02: contemporary reporting and public professional profile resolve Enhance chief-executive title and February 2009 commencement, with 2011 end year supported by older profile and governmental contact observations. No exact end or hours established.",
     "Pre-1996 and IAG/Optus individual working-time searches did not resolve remaining gaps. Asialink old URL 404, WA tabled-paper PDF 403, current LinkedIn profile 429 Too Many Requests (not retried); other public evidence allowed work to continue. Unrelated football coach full-time appointment explicitly discarded.",
     "Added Archives, ANU and Political Exchange Council governance separately. These appointments during Senate service do not extend pre-entry employment totals. Next leads: original Enhance appointment/release or accessible historical CV; reconciliation of newer profile excerpt, consultancy transition, all full-time/leave evidence and historical Optus control throughout tenure.",
-    "Follow-up 2026-10-03: publicly indexed current LinkedIn text gives Smith & Duda Consulting as 2010–April 2012. The April 2012 end month is consistent with Smith's 2 May Senate appointment and is adopted. The 2010 start conflicts with the frozen official 2011–12 range, 7 July 2011 partnership registration and older public profile's 2011 start, so no earlier start is inferred. Enhance end month, full-time terms, leave and pre-1996 history remain unresolved."
+    "Follow-up 2026-10-03: publicly indexed current LinkedIn text gives Smith & Duda Consulting as 2010–April 2012. The April 2012 end month is consistent with Smith's 2 May Senate appointment and is adopted. The 2010 start conflicts with the frozen official 2011–12 range, 7 July 2011 partnership registration and older public profile's 2011 start, so no earlier start is inferred. Enhance end month, full-time terms, leave and pre-1996 history remain unresolved.",
+    "Follow-up2026-10-04: Read Singtel2008/09 historical primary report via public mirror; extended ownership evidence into2008/2009 without inferring individual hours or payroll entity. Additional2007/2008 mirror URLs were reported not accessible via search tool, leaving intervening verification for official archive. Corrected newer-profile metadata to reflect already-recorded3October consultancy evidence. Pre1996/IAG/full-time searches returned namesake UK communications founder, US educator and football coach, not this senator. IPART2005 correspondence is corroboration within known Optus service, not a new boundary. Enhance exit, conflicting2010 consultancy start, leave and personal hours remain unresolved."
   ]
 }
