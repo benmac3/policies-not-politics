@@ -215,3 +215,6 @@
 
 - Karen Grogan296331: added ACOSS staff September2016–May2017 and two primary-sourced historical advisory-council roles; overlaps retained.
 - Attempt54distinct,0new,29material,25nonmaterial,0complete; cycle71distinct,35material,36nonmaterial; day208distinct,85material,123nonmaterial; all0new/complete. Next: Sarah Hanson-YoungI0U. OUTCOME:ongoing; STOPPING REASON:none.
+
+- Sarah Hanson-YoungI0U: added contemporaneous Amnesty role corroboration; no material new employment interval or hours.
+- Attempt55distinct,0new,29material,26nonmaterial,0complete; cycle72distinct,35material,37nonmaterial; day209distinct,85material,124nonmaterial; all0new/complete. Next: Kerrynne Liddle300644. OUTCOME:ongoing; STOPPING REASON:none.
