@@ -276,3 +276,6 @@ Batch coverage, record fields, dates, enums, source references, build_careers.lo
 
 - 2026-10-04T20:21:06+10:00: Zali Steggall: material party-founding activity and dated actual CAS adjudication.
 - Attempt108distinct,0new,64material,44nonmaterial,0complete; cycle125distinct,70material,55nonmaterial; day226distinct,111material,115nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Meryl Swanson264170. OUTCOME:ongoing; STOPPING REASON:none.
+
+- 2026-10-04T20:22:02+10:00: Meryl Swanson: material specific1990 NBN start discrepancy from her own Hansard account.
+- Attempt109distinct,0new,65material,44nonmaterial,0complete; cycle126distinct,71material,55nonmaterial; day226distinct,112material,114nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Angus Taylor231027. OUTCOME:ongoing; STOPPING REASON:none.
