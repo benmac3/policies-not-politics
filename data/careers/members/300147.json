@@ -40,7 +40,7 @@
       "role": "Bachelor of Arts (Honours) student",
       "start_date": null,
       "end_date": "2007",
-      "date_precision": "mixed",
+      "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "study",
@@ -60,7 +60,7 @@
       "role": "Sales leadership",
       "start_date": "2007",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "private_enterprise",
@@ -81,7 +81,7 @@
       "role": "Sales management",
       "start_date": null,
       "end_date": "2019",
-      "date_precision": "mixed",
+      "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "private_enterprise",
@@ -166,14 +166,14 @@
       "date_precision": "unknown",
       "employment_status": "unknown",
       "fte_fraction": null,
-      "category": "unpaid_work",
+      "category": "unknown",
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
       "source_ids": [
         "src-2"
       ],
-      "evidence_note": "Community participation presented separately from employment; no wage evidence. Dates and paid/unpaid basis would need confirmation if later sources suggest remunerated work.",
+      "evidence_note": "Community participation presented separately from employment; no wage evidence. Dates and paid/unpaid basis would need confirmation if later sources suggest remunerated work. Governance pay is unknown; classification corrected from unsupported unpaid work.",
       "counting_note": "Excluded from the two employment headlines under the codebook."
     },
     {
@@ -182,7 +182,7 @@
       "role": "Member for Casey",
       "start_date": "2022-05-21",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "day",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -261,7 +261,7 @@
       "url": "https://www.openaustralia.org.au/debate/?id=2026-08-12.196.1",
       "publisher": "OpenAustralia Foundation, reproducing Australian House Hansard",
       "title": "Wine and Other Legislation Amendment Bill debate,12August2026",
-      "source_type": "parliament",
+      "source_type": "government_record",
       "locator": "Aaron Violi speech,4:47pm, paragraphs32–35",
       "note": "First-person account names Prestige Events owners, paid work beginning at15, work during high school and university, and wedding/winery duties. It does not give continuous dates or hours.",
       "retrieved": "2026-10-03",
@@ -286,6 +286,7 @@
     "Member's current about page mentions local business work, community volunteering and sporting committees but does not add an employment chronology. Last follow-up 2026-09-29; unresolved cases remain blocked, not complete.",
     "2026-10-02 follow-up: publicly indexed professional profile supplies month boundaries for Paterson political staffing and Ritual, plus Mars Wrigley interval. No direct LinkedIn retry or gated access. Snack-food profile snippet describes eight years one month versus biography seven-year narrative; exact original entry boundaries need verification before changing2007 start. Aggregator suggests earlier Wrigley and several snack-food positions, but these remain leads, not adopted dates. Next: original dated employer records and hours,Prestige catering dates,snack-food start conflict and2022 Ritual/election overlap. Do not sum promotions or assume stock options mean full-time. Remains unresolved.",
     "2026-10-03 follow-up materially enriches the earliest paid job: in parliamentary debate Violi says he began paid Prestige Events work at15, continued during high school and university, and worked marquee weddings and winery partnerships for owners Michael and Gayle Thwaites. The broad study-period description is not treated as uninterrupted tenure or full-time status. Contemporary July2022 reporting says he left Ritual's APAC partnerships-head role to run for parliament, but supplies no day and conflicts with the public profile's June2022 endpoint after the21May election; retain the overlap and do not invent campaign leave. Searches did not resolve Prestige dates/hours, the snack-food seven/eight-year conflict, pre-December2017 Mars service or employer-confirmed Ritual boundaries. No duration calculated.",
-    "2026-10-04 follow-up: current first-person September2026 interview confirms the private-sector sequence and says Violi led Mars sales in Victoria/Tasmania for 'a couple of years' during the Mars/Wrigley merger. The rounded wording is consistent with the indexed December2017–May2019 profile interval but does not independently establish appointment boundaries, full-time status, leave or earlier Wrigley service. Exact-name searches found no employer personnel record resolving the snack-food seven/eight-year conflict or Ritual election overlap. No substantive fact changed; employer records remain decisive."
+    "2026-10-04 follow-up: current first-person September2026 interview confirms the private-sector sequence and says Violi led Mars sales in Victoria/Tasmania for 'a couple of years' during the Mars/Wrigley merger. The rounded wording is consistent with the indexed December2017–May2019 profile interval but does not independently establish appointment boundaries, full-time status, leave or earlier Wrigley service. Exact-name searches found no employer personnel record resolving the snack-food seven/eight-year conflict or Ritual election overlap. No substantive fact changed; employer records remain decisive.",
+    "Follow-up2026-10-04: Targeted MBA and Lilydale Township Action Group searches supplied no new appointment dates or individual hours. Current party biography repeats existing education and governance facts; Tech Council event repeats that biography. SignalHire promotion dates remain unaccepted aggregator leads. Search hits for other Deakin graduates and unrelated community committee members were rejected. Corrected unsupported unpaid classification of community governance to unknown pay; corrected one-sided date precision and parliamentary source enum. Retain snack-food start/duration conflict, missing earlier Wrigley evidence and Ritual election overlap. Next evidence: employer personnel records and dated local-group minutes; do not repeat exhausted broad title searches."
   ]
 }

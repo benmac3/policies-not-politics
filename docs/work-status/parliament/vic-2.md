@@ -334,3 +334,6 @@ Batch coverage, record fields, dates, enums, source references, build_careers.lo
 
 - 2026-10-04T23:26:29+10:00: Kate Thwaites282212: materially added publisher-confirmed authorship and2017 leadership programme; day upgrade from earlier nonmaterial. Source403 did not terminate research.
 - Attempt193distinct,0new,125material,68nonmaterial,0complete; cycle210distinct,131material,79nonmaterial; day226distinct,146material,80nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Aaron Violi300147, VIC2 member19. OUTCOME:ongoing; STOPPING REASON:none.
+
+- 2026-10-04T23:32:12+10:00: Aaron Violi: follow-up retained all supported employment facts, corrected governance pay classification; no new employment evidence.
+- Attempt194distinct,0new,125material,69nonmaterial,0complete; cycle211distinct,131material,80nonmaterial; day226distinct,146material,80nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Tim Watts193430; Jess Walsh already processed in this attempt.. OUTCOME:ongoing; STOPPING REASON:none.
