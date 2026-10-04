@@ -236,3 +236,7 @@ Batch coverage, record fields, dates, enums, source references, build_careers.lo
 - Lidia Thorpe: nonmaterial follow-up — exact searches for the seven-year Aboriginal funeral-service work found the existing first-person interview and official biography but no employer name, calendar boundaries, hours, leave or control. Her current biography's six years in local government is consistent with the 2011–16 sequence but does not prove continuous full-time service. Organisational/payroll records remain decisive.
 - Current continuation: 11 distinct records, 0 new, 2 materially enriched, 9 nonmaterial follow-ups and 0 newly complete. Cycle/day cumulative: 127 distinct, 0 new, 49 materially enriched, 78 nonmaterial follow-ups and 0 newly complete.
 - Durable next cursor: Kate Thwaites (282212).
+
+- Kate Thwaites: nonmaterial follow-up — exact searches for the 2013–June 2014 interval and CPR commencement returned only the existing professional profile, general summaries and namesakes. No employer/freelance contract, appointment, hours, leave or paid yoga work surfaced. CPR personnel and Macklin-office separation records remain decisive.
+- Current continuation: 12 distinct records, 0 new, 2 materially enriched, 10 nonmaterial follow-ups and 0 newly complete. Cycle/day cumulative: 128 distinct, 0 new, 49 materially enriched, 79 nonmaterial follow-ups and 0 newly complete.
+- Durable next cursor: Aaron Violi (300147).
