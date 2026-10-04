@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/299150",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-04",
+  "last_reviewed": "2026-10-05",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -106,7 +106,7 @@
       "role": "Managing director / founder",
       "start_date": "2021-04",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "month",
       "employment_status": "self_employed",
       "fte_fraction": null,
       "category": "private_enterprise",
@@ -152,7 +152,7 @@
       "role": "Director; president",
       "start_date": "2015-08",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "month",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "nonprofit",
@@ -192,7 +192,7 @@
       "role": "Member for Hasluck",
       "start_date": "2022-05-21",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "day",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -321,6 +321,25 @@
       ],
       "evidence_note": "Chair identified in2003; committee first meeting April2003 is a formation event, not automatically personal appointment. Treasurer identified at30June2005 after Council cessation. Exact chair/treasurer transitions, cessation, pay and hours unknown; governance distinct from paid IPAA staff.",
       "counting_note": "Association governance excluded; overlapping membership and DPC employment not additive."
+    },
+    {
+      "spell_id": "299150-16",
+      "employer": "Rotary exchange programme, Japan; host institution unidentified",
+      "role": "Exchange participant",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-13"
+      ],
+      "evidence_note": "Own28July2022firstspeech identifies a year in Japan on Rotaryexchange before laterBangladeshUNHCRexperience. Exactcalendar dates, hostinstitution and studyload unknown; year-longprogramme is not salariedemployment or a dated unpaidleave interval.",
+      "counting_note": "Exchange/study excluded; no additional employment years or inferredcareerbreak dates."
     }
   ],
   "sources": [
@@ -449,9 +468,9 @@
       "publisher": "House Hansard via OpenAustralia",
       "title": "Address in Reply, 28 July 2022",
       "source_type": "first_person",
-      "locator": "Tania Lawrence 9:49 am, paragraphs beginning Before all of that and The experience I bring",
-      "note": "After-school work from age 14 and time with UNHCR Bangladesh; no employer, dates or remuneration inference beyond statement.",
-      "retrieved": "2026-10-02",
+      "locator": "Tania Lawrence 9:49 am, paragraphs beginning Before all of that and The experience I bring; JapanRotaryexchange paragraph",
+      "note": "After-school work from age 14 and time with UNHCR Bangladesh; no employer, dates or remuneration inference beyond statement. Re-read full relevant paragraph confirms one-yearJapanexchange but gives no calendar dates or placementinstitution.",
+      "retrieved": "2026-10-05",
       "source_id": "src-13"
     },
     {
@@ -514,6 +533,7 @@
     "First speech confirms after-school paid work from age 14 and a later period with UNHCR Bangladesh; employment details are missing, not zero. Army Reserve service in official biography newly recorded without invented dates or hours. Party vice-presidency recorded separately.",
     "Next: DPC personnel/title history to reconcile 2000 annual-report biography with 2001 principal-policy span; military service statement and early employer/UNHCR placement evidence; Woodside leave and dated Beelu workload evidence. Searches again located secondary full-time distillery assertion but no primary interval proof. Public 2021 distillers association membership observation is not employment commencement.",
     "Follow-up 2026-10-03: a publicly indexed professional profile supplies April 2021 as the Beelu start, and ABC reporting corroborates the early-2021 government-to-distillery sequence; the profile's stale continuing-tenure label was rejected against the later first-person former-director statement. A contemporaneous October 2015 profile identifies Woodside Business Development & Growth, but none of these sources establishes full-time hours, exact Woodside boundaries, campaign leave or Beelu cessation.",
-    "Follow-up2026-10-04: New primary IPAA2002/03 and2004/05 reports supply omitted Council and Young Professionals roles and independent DPC affiliation. Council endDecember2004 is separate from ongoing Young Professionals treasurer observationJune2005 and cannot end departmental work. Graduate-entry/UNHCR/full-time-Beelu queries did not close contract or hours gaps. ACT gazette namesake health contact and own electorate-staff full-time advertisements not attributed to historical employment. Retain2000/2001 DPC title discrepancy, Woodside leave, Beelu active work/cessation and early work/UNHCR details."
+    "Follow-up2026-10-04: New primary IPAA2002/03 and2004/05 reports supply omitted Council and Young Professionals roles and independent DPC affiliation. Council endDecember2004 is separate from ongoing Young Professionals treasurer observationJune2005 and cannot end departmental work. Graduate-entry/UNHCR/full-time-Beelu queries did not close contract or hours gaps. ACT gazette namesake health contact and own electorate-staff full-time advertisements not attributed to historical employment. Retain2000/2001 DPC title discrepancy, Woodside leave, Beelu active work/cessation and early work/UNHCR details.",
+    "Follow-up2026-10-05: First-person firstspeech re-read adds previously omitted year-longJapanRotaryexchange, separatelyexcludedstudy. UNHCRBangladeshrole/pay/dates stillnotestablished; secondarymirrorFTdistilleryclaim notindependentlyverified. Neither2021grant nor businessmanagingtitle proves hours. Reject unrelated UNHCRsocialmedia and automaticallynormalised1January1998degree date fromWhorunsAus. Retain earlyemployer, DPC2000/2001, Woodsideleave and Beelucessation gaps; next specific employer/registry or university/Rotaryarchive."
   ]
 }
