@@ -353,3 +353,6 @@ Batch check passes: 226 assigned exactly once across 13 batches; nsw-1 assignmen
 
 - 2026-10-04T21:30:45+10:00: Sean Bell: filmcontract/businessidentity follow-up exhausted without new supported employment facts; namesakes excluded.
 - Attempt142distinct,0new,85material,57nonmaterial,0complete; cycle159distinct,91material,68nonmaterial; day226distinct,122material,104nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: 23497 Carol Berry; dated public health-policy/nonprofit appointments and leave evidence.. OUTCOME:ongoing; STOPPING REASON:none.
+
+- 2026-10-04T21:34:47+10:00: Berry primary government-project corroboration saved; hours and payroll gaps retained.
+- Attempt143distinct,0new,85material,58nonmaterial,0complete; cycle160distinct,91material,69nonmaterial; day226distinct,122material,104nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: 26417 Nicolette Boele. OUTCOME:ongoing; STOPPING REASON:none.

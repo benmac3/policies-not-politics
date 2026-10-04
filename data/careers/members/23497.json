@@ -144,7 +144,7 @@
     {
       "spell_id": "23497-ombudsman",
       "employer": "NSW Ombudsman",
-      "role": "Principal Project Officer; disability-sector oversight",
+      "role": "Principal Project Officer, Practice Reform, Disability Reportable Incidents Division; disability-sector oversight",
       "start_date": "2013-12",
       "end_date": "2018-03",
       "date_precision": "month",
@@ -158,9 +158,11 @@
         "src-snapshot",
         "src-linkedin",
         "src-summit",
-        "src-secondary"
+        "src-secondary",
+        "src-ombo-annexure",
+        "src-case-review2018"
       ],
-      "evidence_note": "Professional-profile index supplies month endpoints; official frozen occupation text and biographies corroborate title and disability-oversight work. Hours and leave remain unknown.",
+      "evidence_note": "Professional-profile index supplies month endpoints; official frozen occupation text and biographies corroborate title and disability-oversight work. Hours and leave remain unknown. Further4October check: publicly indexed parliamentary annexure identifies the Practice Reform / Disability Reportable Incidents Division portfolio. UNSW2018 guide p2 acknowledges Berry as NSW Ombudsman project Reference Group member. This is employer representation, not established separate employment; publication year does not establish her appointment or departure date.",
       "counting_note": "Public control is clear, but substantive full-time status is not; no headline duration counted."
     },
     {
@@ -508,6 +510,26 @@
       "note": "Institutional response discusses revenue, nonprofit status and workforce policy. No Berry name match in extracted text; not a personal CV or hours record.",
       "retrieved": "2026-10-02",
       "source_id": "src-rc-exhibit-oct2"
+    },
+    {
+      "source_id": "src-ombo-annexure",
+      "url": "https://www.aph.gov.au/DocumentStore.ashx?amp%3BsubId=350759&id=857af43a-0a57-45b5-b97d-2da5d0815f0d",
+      "publisher": "Australian Parliament / submission author not yet verified",
+      "title": "Parliamentary submission: Annexure2 stakeholder list",
+      "retrieved": "2026-10-04",
+      "source_type": "government_record",
+      "locator": "Public search-index Annexure2, printed p30",
+      "note": "Indexed personal title and division. Web opening returned Internal Error; ordinary original-document request HTTP403 Forbidden. Cover, submission date and full text not inspected; do not use crawl/publication metadata as historical service dates."
+    },
+    {
+      "source_id": "src-case-review2018",
+      "url": "https://2019folbigginquiry.dcj.nsw.gov.au/content/dam/dcj/dcj-website/documents/service-providers/deliver-disability-services/effective-case-review-guide.pdf",
+      "publisher": "UNSW Sydney / NSW Department of Communities and Justice",
+      "title": "Doing an effective case review with a person with disability: A person-centred approach (2018)",
+      "retrieved": "2026-10-04",
+      "source_type": "government_record",
+      "locator": "Printed p2 acknowledgements and suggested citation",
+      "note": "Read primary guide. Reference Group includes Carol Berry, NSW Ombudsman. No personal pay, hours, appointment dates or separate employing relationship supplied."
     }
   ],
   "open_questions": [
@@ -526,6 +548,7 @@
     "Second follow-up2026-10-02 materially dates Family Planning work from the public professional-profile index; primary confirmation and simultaneous-role allocation remain open. Royal Commission exhibit32-092 lead retrieved: organisational evidence, not personal hours. May2025 successor recruitment pack identifies a replacement process but is not evidence of Berry contract hours. Broad exact-name searches produce US namesakes, excluded.",
     "Next targeted leads: historical2004–05 Family Planning personnel/annual reports, Michael Organ office records and contemporaneous pay/hours evidence for Ombudsman/NDIA. Do not repeat generic biographies or interpret general staff policies as Berry employment status.",
     "Further2October pass: PIAC2008 staff appendix already captured, no new personal-hours evidence. Green magazine Issue13 p11 clarifies adjacent full-time campaign wording describes John, not Berry. Organ office notice titled New MP's office up and running (ParlInfo media/pressrel/EJW86) publicly indexes Berry as lawyer/former Cunningham candidate, but full text returned (403) Forbidden and indexed context did not establish exact employment commencement. Retain as lead without converting notice date into start. Southern Highlands Express19February2025 retrospectively reports advising Organ during2002 election, which does not distinguish campaign advice from paid parliamentary employment. Historical Family Planning legal identity and public-service hours remain open; no substantive fact newly resolved in this pass.",
-    "Follow-up 2026-10-04: targeted Family Planning, Michael Organ, NDIA and campaign-leave searches yielded the same secondary 2002 campaign-advice account and undated employer interview already recorded. The interview page still exposes no publication date, and the 2002 account does not distinguish campaign advice from paid parliamentary staff employment. No source supplied Berry-specific hours or leave dates. Do not promote campaign milestones into payroll boundaries; retain the existing gaps and advance."
+    "Follow-up 2026-10-04: targeted Family Planning, Michael Organ, NDIA and campaign-leave searches yielded the same secondary 2002 campaign-advice account and undated employer interview already recorded. The interview page still exposes no publication date, and the 2002 account does not distinguish campaign advice from paid parliamentary staff employment. No source supplied Berry-specific hours or leave dates. Do not promote campaign milestones into payroll boundaries; retain the existing gaps and advance.",
+    "Follow-up2026-10-04: Retrieved UNSW2018 case-review guide p2 and parliamentary annexure index. Added precise public-service portfolio and employer representation as corroboration, conservatively nonmaterial for run counts. The primary guide does not establish personal hours or a new employment spell. Parliamentary original returned web Internal Error / ordinary HTTP403; preserve indexed limitation. Family Planning, Organ and NDIA queries yielded no new personal boundaries or hours. Next target: historical personnel records rather than repeating biographies."
   ]
 }
