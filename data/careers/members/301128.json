@@ -209,29 +209,9 @@
     {
       "spell_id": "301128-10",
       "employer": "Trust for Nature",
-      "role": "Chair",
-      "start_date": "2022-05",
-      "end_date": "2024-06",
-      "date_precision": "month",
-      "employment_status": "unknown",
-      "fte_fraction": null,
-      "category": "unknown",
-      "headline_sector": "excluded",
-      "government_control_at_time": "unknown",
-      "counting_status": "excluded",
-      "source_ids": [
-        "src-1",
-        "src-2"
-      ],
-      "evidence_note": "Governance appointment; legal entity control and full-time employee status not assumed.",
-      "counting_note": "Outside the two employment headlines under the codebook; retained as career context."
-    },
-    {
-      "spell_id": "301128-11",
-      "employer": "Portable Long Service Leave Authority",
-      "role": "Board member",
-      "start_date": "2022-09",
-      "end_date": "2024-02-27",
+      "role": "Acting chair",
+      "start_date": "2023-12",
+      "end_date": "2024-04-19",
       "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
@@ -242,9 +222,31 @@
       "source_ids": [
         "src-1",
         "src-2",
-        "oct4-plsa2024"
+        "oct4-tfn2024"
       ],
-      "evidence_note": "Statutory-board service, not substantive full-time employment. The Authority's 2023–24 responsible-persons table records board service through 27 February 2024, providing an exact cessation date that conflicts with the inherited official-biography month label April 2024; the primary body record is retained and the discrepancy documented.",
+      "evidence_note": "Primary annual report distinguishes chairDecember2023–April2024 from earlier trustee service, ending19 April2024. Corrects inheritedMay2022–June2024 chair span; chair day of appointment remains unknown. Governance only.",
+      "counting_note": "Outside the two employment headlines under the codebook; retained as career context."
+    },
+    {
+      "spell_id": "301128-11",
+      "employer": "Portable Long Service Leave Authority",
+      "role": "Board member",
+      "start_date": "2022-09-01",
+      "end_date": "2024-02-27",
+      "date_precision": "day",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-1",
+        "src-2",
+        "oct4-plsa2024",
+        "oct4-plsa2023"
+      ],
+      "evidence_note": "Statutory-board service, not substantive full-time employment. The Authority's 2023–24 responsible-persons table records board service through 27 February 2024, providing an exact cessation date that conflicts with the inherited official-biography month label April 2024; the primary body record is retained and the discrepancy documented. Prior-year report explicitly gives appointment1 September2022.",
       "counting_note": "Outside the two employment headlines under the codebook; retained as career context."
     },
     {
@@ -273,7 +275,7 @@
       "role": "Senator for Victoria",
       "start_date": "2024-05-29",
       "end_date": null,
-      "date_precision": "unknown",
+      "date_precision": "day",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -307,7 +309,7 @@
     },
     {
       "employer": "Victorian Trades Hall Council",
-      "role": "Seconded role, duties unspecified",
+      "role": "Seconded campaign coordinator, Your Rights At Work",
       "start_date": null,
       "end_date": null,
       "date_precision": "unknown",
@@ -318,9 +320,11 @@
       "government_control_at_time": "private",
       "counting_status": "excluded",
       "source_ids": [
-        "oct2-genvic"
+        "oct2-genvic",
+        "oct4-alp",
+        "oct4-wheeler"
       ],
-      "evidence_note": "Conference biography confirms a separate Trades Hall secondment, without dates or detailed role; do not merge it into department employment.",
+      "evidence_note": "Conference biography confirms a separate Trades Hall secondment, without dates or detailed role; do not merge it into department employment. Party biography places campaign coordination in2006; no exact secondment boundaries or payroll inferred, and2006 is not transferred to DPC.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "301128-vthc"
     },
@@ -361,6 +365,142 @@
       "evidence_note": "Conference biography identifies deputy chair before later chair tenure; date boundaries absent. Nested board role, not extra employment years.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "301128-visiondeputy"
+    },
+    {
+      "spell_id": "301128-tfnboard",
+      "employer": "Trust for Nature (Victoria)",
+      "role": "Trustee",
+      "start_date": "2022-05-03",
+      "end_date": "2024-04-19",
+      "date_precision": "day",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "oct4-tfn2024"
+      ],
+      "evidence_note": "Departed-trustees table gives exact term. Chair responsibility is nested; sitting fees do not prove full-time employee status.",
+      "counting_note": "Study or governance role excluded; no substantive full-time employment inferred."
+    },
+    {
+      "spell_id": "301128-study1",
+      "employer": "Institution unidentified",
+      "role": "Bachelor of Business (Industrial Relations / Human Resources)",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "oct4-ownqual",
+        "oct4-wheeler",
+        "oct4-tfn2024"
+      ],
+      "evidence_note": "Degree and field identified, dates and institution absent. Same-name Olympic sailor UNSW commerce education is not this senator.",
+      "counting_note": "Study or governance role excluded; no substantive full-time employment inferred."
+    },
+    {
+      "spell_id": "301128-study2",
+      "employer": "Institution unidentified",
+      "role": "Diploma of Community Development",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "oct4-ownqual",
+        "oct4-wheeler"
+      ],
+      "evidence_note": "Qualification confirmed; institution, dates and study load unknown.",
+      "counting_note": "Study or governance role excluded; no substantive full-time employment inferred."
+    },
+    {
+      "spell_id": "301128-trainingboard",
+      "employer": "Community Services and Health Industry Training Board",
+      "role": "Board member",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "oct4-wheeler"
+      ],
+      "evidence_note": "Speaker biography identifies governance, without tenure or remuneration. Legal control unresolved.",
+      "counting_note": "Study or governance role excluded; no substantive full-time employment inferred."
+    },
+    {
+      "spell_id": "301128-aist",
+      "employer": "Australian Institute of Superannuation Trustees",
+      "role": "Director",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "employer_association",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "oct4-plsaboards"
+      ],
+      "evidence_note": "Authority report identifies industry-governance role, no exact tenure or personal employment status.",
+      "counting_note": "Study or governance role excluded; no substantive full-time employment inferred."
+    },
+    {
+      "spell_id": "301128-ifmadvisory",
+      "employer": "IFM Shareholder Advisory Board",
+      "role": "Shareholder representative",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "oct4-plsaboards"
+      ],
+      "evidence_note": "Advisory representation, not evidence of employment at IFM; dates and remuneration unknown.",
+      "counting_note": "Study or governance role excluded; no substantive full-time employment inferred."
+    },
+    {
+      "spell_id": "301128-plsaarc",
+      "employer": "Portable Long Service Authority",
+      "role": "Audit and Risk Committee member",
+      "start_date": null,
+      "end_date": "2024-02-27",
+      "date_precision": "day",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "excluded",
+      "government_control_at_time": "public",
+      "counting_status": "excluded",
+      "source_ids": [
+        "oct4-plsaboards"
+      ],
+      "evidence_note": "Primary report confirms committee resignation27 February2024; start unknown. Nested within board tenure.",
+      "counting_note": "Study or governance role excluded; no substantive full-time employment inferred."
     }
   ],
   "sources": [
@@ -493,6 +633,66 @@
       "note": "Official table records Darmanin as director from 1 July 2023 to 27 February 2024. It provides an exact cessation observation for the board role but no full-time employment evidence.",
       "retrieved": "2026-10-04",
       "source_id": "oct4-plsa2024"
+    },
+    {
+      "source_id": "oct4-tfn2024",
+      "url": "https://trustfornature.org.au/wp-content/uploads/2025/02/TFN-Annual-Report-for-2023-24.pdf",
+      "publisher": "Trust for Nature (Victoria)",
+      "title": "Annual Report2023–24",
+      "source_type": "employer",
+      "locator": "Printed pp4,28,93; Chair report, departed trustees and note8.5",
+      "note": "Trustee3 May2022–19 April2024; chairDecember2023–April2024. Trustee fees are per sitting, not evidence of substantive employment. Statutory body status is described, but historical control has not been separately resolved.",
+      "retrieved": "2026-10-04"
+    },
+    {
+      "source_id": "oct4-ownqual",
+      "url": "https://lisadarmanin.com.au/",
+      "publisher": "Lisa Darmanin",
+      "title": "Member homepage qualifications",
+      "source_type": "professional_profile",
+      "locator": "First-person biography paragraph",
+      "note": "Bachelor of Business and Diploma of Community Development, without institutions or dates.",
+      "retrieved": "2026-10-04"
+    },
+    {
+      "source_id": "oct4-wheeler",
+      "url": "https://www.wheelercentre.com/people/lisa-darmanin",
+      "publisher": "The Wheeler Centre",
+      "title": "Lisa Darmanin speaker biography",
+      "source_type": "other",
+      "locator": "About paragraph",
+      "note": "Business degree Industrial Relations; Community Services and Health Industry Training Board governance and Trades Hall campaign coordination.",
+      "retrieved": "2026-10-04"
+    },
+    {
+      "source_id": "oct4-plsaboards",
+      "url": "https://www.plsa.vic.gov.au/2023-24-annual-report-portable-long-service-authority/our-board-committees",
+      "publisher": "Portable Long Service Authority",
+      "title": "Annual Report2023–24, board and committees",
+      "source_type": "government_record",
+      "locator": "Lisa Darmanin biography; retiring members and Audit and Risk Committee",
+      "note": "AIST director, IFM shareholder advisory representative; board and audit/risk resignation27 February2024. No personal executive-employment evidence.",
+      "retrieved": "2026-10-04"
+    },
+    {
+      "source_id": "oct4-plsa2023",
+      "url": "https://www.plsa.vic.gov.au/portable-long-service-authority-annual-report-2022-23/governance-and-organisational-structure",
+      "publisher": "Portable Long Service Authority",
+      "title": "Annual Report2022–23, governance",
+      "source_type": "government_record",
+      "locator": "Table2 footnote, Lisa Darmanin appointment",
+      "note": "Exact Authority director commencement1 September2022.",
+      "retrieved": "2026-10-04"
+    },
+    {
+      "source_id": "oct4-alp",
+      "url": "https://alp.org.au/our-people/our-people/lisa-darmanin/",
+      "publisher": "Australian Labor Party",
+      "title": "Lisa Darmanin biography",
+      "source_type": "professional_profile",
+      "locator": "Your Rights At Work paragraph",
+      "note": "Own party biography places campaign coordination at Trades Hall in2006. Its secretary2017 claim conflicts with regulator record2018 and is not adopted.",
+      "retrieved": "2026-10-04"
     }
   ],
   "research_notes": [
@@ -504,6 +704,7 @@
     "Searches of official/state, union, employer and conference records did not resolve department hours, payroll or exact secondment dates, or early ASU promotion dates.2006 date in derivative biographies remains unadopted.2024 Vision fees paid to union are not personal full-time employment evidence.",
     "Follow-up2026-10-03: regulator records now observe the assistant-secretary title by1 January2008, establish the exact25 July2014 president transition, the exact26 June2018 branch-secretary transition and2 June2024 cessation, and directly label the secretary as a full-time officer for1 July2022–2 June2024. Union work remains outside the two headline sectors.",
     "Next follow-up: DPC appointment/secondment agreement or staff biography; primary election record for the original assistant-secretary appointment and evidence for work status outside the directly reported union intervals. Preserve headline nulls pending supported public FT interval; partial private job is not proof of zero lifetime FT work.",
-    "Fourth follow-up4October2026: the Portable Long Service Authority's primary2023–24 financial table records Darmanin as a director only through27February2024, materially refining the prior inherited April2024 endpoint while documenting the conflict. This governance role remains excluded and supplies no public-service FTE. DPC/Trades Hall searches still produced only derivative or conference biographies; they repeat a2006 campaign/secondment narrative but do not identify DPC payroll, exact appointment dates or hours. Headline public years remain uncalculable."
+    "Fourth follow-up4October2026: the Portable Long Service Authority's primary2023–24 financial table records Darmanin as a director only through27February2024, materially refining the prior inherited April2024 endpoint while documenting the conflict. This governance role remains excluded and supplies no public-service FTE. DPC/Trades Hall searches still produced only derivative or conference biographies; they repeat a2006 campaign/secondment narrative but do not identify DPC payroll, exact appointment dates or hours. Headline public years remain uncalculable.",
+    "Follow-up2026-10-04: Primary annual report corrects Trust for Nature chair period and supplies exact trustee term. Added two undated qualifications and training-board, AIST, IFM advisory and Authority audit/risk roles; recovered exact Authority appointment1 September2022. Trades Hall campaign2006 distinguished from DPC2016–2017 secondment. Same-name Olympic sailor education rejected. Parliament-hosted PDF DisabledError recovered through employer PDF; HESTA committee primary fetch Internal Error remains follow-up lead. DPC dates, hours and payroll remain unresolved."
   ]
 }

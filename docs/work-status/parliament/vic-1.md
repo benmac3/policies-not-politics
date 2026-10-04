@@ -327,3 +327,6 @@ State: ready-for-integration
 
 - 2026-10-04T22:28:38+10:00: Coker: four study qualifications; mistaken health-care lead rejected; employment gaps retained.
 - Attempt166distinct,0new,102material,64nonmaterial,0complete; cycle183distinct,108material,75nonmaterial; day226distinct,132material,94nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Lisa Darmanin301128. OUTCOME:ongoing; STOPPING REASON:none.
+
+- 2026-10-04T22:31:23+10:00: Darmanin: corrected chair versus trustee chronology, study and governance additions; department gap retained.
+- Attempt167distinct,0new,103material,64nonmaterial,0complete; cycle184distinct,109material,75nonmaterial; day226distinct,132material,94nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Mary Doyle299962. OUTCOME:ongoing; STOPPING REASON:none.
