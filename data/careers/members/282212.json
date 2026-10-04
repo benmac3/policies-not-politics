@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/282212",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-04",
+  "last_reviewed": "2026-10-05",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -122,7 +122,7 @@
       "counting_note": "Excluded from the two employment headlines under the codebook."
     },
     {
-      "employer": "2CUZ FM, Bourke; legal employer to verify",
+      "employer": "2CUZ FM, Bourke; operator Muda Aboriginal Corporation, personal payroll unverified",
       "role": "Community-radio journalist",
       "start_date": "2002",
       "end_date": null,
@@ -135,9 +135,11 @@
       "counting_status": "insufficient_evidence",
       "source_ids": [
         "src-6",
-        "src-10"
+        "src-10",
+        "oct5-own-speech",
+        "oct5-2cuz"
       ],
-      "evidence_note": "Speech identifies work in2002; potential same-year ABC transition unresolved. Community radio does not establish payroll entity or hours.",
+      "evidence_note": "Speech identifies work in2002; potential same-year ABC transition unresolved. Community radio does not establish payroll entity or hours. First-person2026 speech describes a number of months, not a dated term. Station history names Muda as operator; personal payroll and historical control still need independent verification.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "282212-06"
     },
@@ -184,10 +186,10 @@
     },
     {
       "employer": "RMIT University",
-      "role": "BA Journalism and Master of International Development student",
-      "start_date": null,
-      "end_date": null,
-      "date_precision": "unknown",
+      "role": "BA Journalism with honours student",
+      "start_date": "1998",
+      "end_date": "2001",
+      "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "study",
@@ -195,9 +197,10 @@
       "government_control_at_time": "unknown",
       "counting_status": "excluded",
       "source_ids": [
-        "src-1"
+        "src-1",
+        "src-7"
       ],
-      "evidence_note": "Official qualifications; study dates and load unknown.",
+      "evidence_note": "Public self-authored profile indexes RMIT Honours1998–2001. APH supplies BA journalism qualification; no personal load, paid work or exact course boundaries inferred. Master separately undated.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "282212-09"
     },
@@ -238,6 +241,64 @@
       ],
       "evidence_note": "2017 yearbook identifies her among participants; her own profile discusses Williamson. Adjacent Folio graduate heading is for other columns, not her programme. No exact course-day boundaries or salary inferred.",
       "counting_note": "No employment duration or FTE calculated; course participation and publication are not full-time-work evidence."
+    },
+    {
+      "spell_id": "282212-12",
+      "employer": "Special Broadcasting Service",
+      "role": "Journalist",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "public_corporation",
+      "headline_sector": "public",
+      "government_control_at_time": "public",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "oct5-own-speech"
+      ],
+      "evidence_note": "First-person speech names SBS among national broadcasters in early journalism career. Exact role, dates, contract, leave and overlap with ABC or study not given.",
+      "counting_note": "No duration calculated; calendar boundaries, employment terms, hours and overlaps unresolved."
+    },
+    {
+      "spell_id": "282212-13",
+      "employer": "Arts Alive; production entity Independent Media Foundation, payroll unverified",
+      "role": "Community-radio contributor / broadcast experience",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "unknown",
+      "government_control_at_time": "unknown",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "oct5-own-speech",
+        "oct5-radioinfo"
+      ],
+      "evidence_note": "Own account and programme alumni list identify participation. Duties, remuneration, volunteering versus paid work, dates and relationship to RMIT study unknown.",
+      "counting_note": "No duration calculated; calendar boundaries, employment terms, hours and overlaps unresolved."
+    },
+    {
+      "spell_id": "282212-14",
+      "employer": "RMIT University",
+      "role": "Master of International Development student",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-1"
+      ],
+      "evidence_note": "Official qualification retained; no dated enrolment or graduation evidence.",
+      "counting_note": "No duration calculated; calendar boundaries, employment terms, hours and overlaps unresolved."
     }
   ],
   "sources": [
@@ -307,7 +368,7 @@
       "title": "Public professional profile",
       "source_type": "professional_profile",
       "locator": "Publicly indexed Experience entries:CPR,NDIA,DHHS",
-      "note": "CPR senior adviser Jun2014–Jul2015; NDIA media/communications director Jul–Nov2015; DHHS director reform communications Nov2015–Mar2019. No full-time label retrieved; did not access gated content.",
+      "note": "CPR senior adviser Jun2014–Jul2015; NDIA media/communications director Jul–Nov2015; DHHS director reform communications Nov2015–Mar2019. No full-time label retrieved; did not access gated content. Public education index also supplies RMIT Honours1998–2001; not full-time work evidence.",
       "retrieved": "2026-10-02",
       "source_id": "src-7"
     },
@@ -370,6 +431,36 @@
       "source_type": "employer",
       "locator": "Publication date and author heading",
       "note": "Primary publisher lists Kate Thwaites and Jenny Macklin as coauthors and1July2021 publication. Writing dates, contract, pay/royalties and hours not disclosed."
+    },
+    {
+      "source_id": "oct5-own-speech",
+      "url": "https://www.katethwaites.com/news-bargaining-incentive-nbi/",
+      "publisher": "Kate Thwaites MP",
+      "title": "News Bargaining Incentive,19August2026",
+      "retrieved": "2026-10-05",
+      "source_type": "government_record",
+      "locator": "Opening personal journalism paragraph; later Arts Alive/2CUZ/Warrnambool paragraph",
+      "note": "First-person account names community radio, SBS and ABC journalism; describes a number of months at2CUZ and experience at Arts Alive. No contract, calendar boundaries or hours."
+    },
+    {
+      "source_id": "oct5-radioinfo",
+      "url": "https://radioinfo.com.au/news/arts-alive-celebrates-28-years/",
+      "publisher": "RadioInfo Australia",
+      "title": "Arts Alive celebrates28years,10April2025",
+      "retrieved": "2026-10-05",
+      "source_type": "news",
+      "locator": "Programme origins and alumni paragraphs",
+      "note": "Lists Thwaites among Arts Alive alumni; programme produced by Independent Media Foundation and originally RMIT students. Does not establish her pay, dates or employment status."
+    },
+    {
+      "source_id": "oct5-2cuz",
+      "url": "https://www.2cuzfm.com/about-us.php",
+      "publisher": "2CUZ FM / Muda Aboriginal Corporation",
+      "title": "About us",
+      "retrieved": "2026-10-05",
+      "source_type": "employer",
+      "locator": "Publicly indexed institutional history; broadcasting1999/licence2004",
+      "note": "Station operator identified as Muda Aboriginal Corporation. Direct fetch timed out; indexed history used as organisational lead, not proof of personal payroll or historical control."
     }
   ],
   "research_notes": [
@@ -381,6 +472,7 @@
     "2026-10-02 follow-up: public professional profile resolves CPR Jun2014–Jul2015, NDIA Jul–Nov2015 and DHHS Nov2015–Mar2019; employer anniversary post and contemporary Enero ownership report independently corroborate private business. First speech adds omitted2002 community-radio work and nine months partly unpaid maternity leave; exact leave interval unresolved and no deduction invented. No direct LinkedIn retry after earlier cycle429; public search index used. Own-site timeout, APH restricted fetch and AustralianPolitics verification screen were source gaps; accessible published extract/index used. Next:2013–Jun2014 chronology,2002 radio/ABC boundary,CPR/NDIA exact transitions,individual FTE and leave; yoga teaching remains qualification-only. All durations null.",
     "2026-10-03 follow-up materially narrows the ABC-to-Oxfam transition: ABC News credits Thwaites for television reporting on27October2008, while an Oxfam employer release lists her as media contact on19December2008. These observations bracket the switch within late2008 but do not establish departure/commencement days, hours, leave or whether any overlap occurred. Searches did not resolve the2013–June2014 interval,2002 radio-to-ABC boundary, yoga teaching as paid work, maternity-leave dates or individual FTE. No duration calculated.",
     "2026-10-04 follow-up: exact-name searches for the unresolved 2013–June2014 interval and CPR commencement returned the public professional profile already used, general career summaries and unrelated namesakes. No employer, freelance contract, appointment, hours, leave or yoga-teaching pay evidence surfaced. The 2021 coauthored book is post-election authorship and does not fill this pre-parliament gap. Generic web search is exhausted for this pass; CPR personnel records, Macklin-office separation records and a complete public CV remain decisive. No substantive fact changed.",
-    "Follow-up2026-10-04: Primary Monash publisher record now substantiates omitted coauthorship, kept as undated potential professional activity with unknown pay/contract rather than using publication as a work endpoint. Leadership Victoria2017 yearbook identifies personal Williamson programme participation; added excluded study with year precision. Yoga qualification is not converted into paid teaching; adjacent Folio heading/other participant careers were not assigned to her. Web PDF text was accessible, while ordinary local download returned HTTP403 Forbidden and rendering consequently lacked a file; source-specific failure recorded without access-control workaround or false visual-inspection claim. Existing ABC/NDIA/DHHS/CPR hours, maternity leave and2013–2014 bridge remain unresolved."
+    "Follow-up2026-10-04: Primary Monash publisher record now substantiates omitted coauthorship, kept as undated potential professional activity with unknown pay/contract rather than using publication as a work endpoint. Leadership Victoria2017 yearbook identifies personal Williamson programme participation; added excluded study with year precision. Yoga qualification is not converted into paid teaching; adjacent Folio heading/other participant careers were not assigned to her. Web PDF text was accessible, while ordinary local download returned HTTP403 Forbidden and rendering consequently lacked a file; source-specific failure recorded without access-control workaround or false visual-inspection claim. Existing ABC/NDIA/DHHS/CPR hours, maternity leave and2013–2014 bridge remain unresolved.",
+    "Follow-up2026-10-05 materially adds previously omitted SBS journalism and Arts Alive participation from own19August2026 speech; trade programme history independently lists her as an alumnus. No paid/volunteer assumption for Arts Alive and no SBS dates/hours inferred. Public professional education index dates RMIT honours1998–2001; master remains undated. 2CUZ history identifies Muda as operator, but individual payroll and2002 control unverified; own speech gives only a number of months. Direct station fetch timeout is a source gap, not terminal failure. Prior cursor mistakenly said Jess Thwaites; assigned ID282212 is Kate Thwaites and that error is corrected here. Retain2013–2014 gap, maternity-leave allocation and individual ABC/CPR/NDIA/DHHS terms. No headline years calculated."
   ]
 }
