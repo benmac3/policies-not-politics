@@ -61,3 +61,11 @@
 - NT follow-up pass complete. Durable next cursor: NSW-1, Anthony Albanese (R36), beginning the next nationwide unresolved pass.
 - OUTCOME: ongoing. STOPPING REASON: none; continue after remote verification. No successor requested. Scheduler terminal status unavailable.
 - Validation: JSON parse, `career_batches.py --check` (226/13), `career_batches.py --batch nt`, `build_careers.py` and `git diff --check` passed. Only the assigned member and this checkpoint were written on the NT branch.
+
+
+## Continuing follow-up — 2026-10-04 16:00 Brisbane cycle, continuation1
+
+- Explicit human resume attempt began2026-10-04T17:00:01+10:00; latest checkpoint2026-10-04T21:07:25+10:00. Entering NT at134distinct,0new,79material,55nonmaterial,0complete; cycle151distinct85material66nonmaterial; day226distinct120material106nonmaterial provisionally classified from prior checkpoints/member commits, semantic change audit130IDs includes corroboration/note-only corrections and is not material count. Starting NT head98a32cdff246afdfd4ee99e7ec1e709e1ef5e8a2;4initial4unresolved0complete; national226initial226unresolved0complete. All13 heads and main inspected; no intervening competing writer observed; old active markers stale. Next Luke Gosling245392 then122087,263528,F2S. OUTCOME:ongoing; STOPPING REASON:none. No successor requested; earlier accepted successor execution unverified; scheduler terminal telemetry unavailable.
+
+- 2026-10-04T21:08:19+10:00: Luke Gosling: nonmaterial follow-up; misleading full-time snippet checked against actual speaker, no new individual contract or hours evidence.
+- Attempt135distinct,0new,79material,56nonmaterial,0complete; cycle152distinct,85material,67nonmaterial; day226distinct,120material,106nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Malarndirri McCarthy122087. OUTCOME:ongoing; STOPPING REASON:none.
