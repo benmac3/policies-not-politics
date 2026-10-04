@@ -238,3 +238,7 @@ Deduplicated Brisbane-day new member IDs: 00AMR, 101351, 124514, 132880, 140590,
 - Jim Chalmers: nonmaterial follow-up — targeted ICAC/Operation Credo searches found contemporaneous reports of the tendered file notes but not the original exhibit or CPR personnel record. University searches again produced no third teaching institution or hours. The June 2007 CPR observation remains unchanged; revisit on an original file note or appointment archive.
 - Current cycle/continuation: 2 distinct records, 0 new initial, 1 materially enriched existing, 1 nonmaterial follow-up and 0 newly complete. Brisbane-day cumulative: 139 distinct, 0 new, 51 materially enriched, 88 nonmaterial follow-ups and 0 newly complete.
 - Durable next cursor: Anthony Chisholm (39801).
+
+- Anthony Chisholm: nonmaterial follow-up — Santos separation and interests searches repeated the April 2016 employer confirmation and later broad claims of work until election, but supplied no last working day, campaign leave, hours or continuity proof. Swan role and pre-2004 work remain unresolved; an original separation record, CV or interests filing is required.
+- Current cycle/continuation: 3 distinct records, 0 new initial, 1 materially enriched existing, 2 nonmaterial follow-ups and 0 newly complete. Brisbane-day cumulative: 140 distinct, 0 new, 51 materially enriched, 89 nonmaterial follow-ups and 0 newly complete.
+- Durable next cursor: Renee Coffey (312323).
