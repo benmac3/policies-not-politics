@@ -267,3 +267,6 @@ Batch coverage, record fields, dates, enums, source references, build_careers.lo
 
 - 2026-10-04T20:17:25+10:00: Zhi Soon: material later AITSL observation and prior advisory cessation evidence, no invented boundaries.
 - Attempt105distinct,0new,61material,44nonmaterial,0complete; cycle122distinct,67material,55nonmaterial; day226distinct,109material,117nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Allegra Spender286042. OUTCOME:ongoing; STOPPING REASON:none.
+
+- 2026-10-04T20:19:05+10:00: Allegra Spender: material omitted party-founding activity, no paid employment inferred.
+- Attempt106distinct,0new,62material,44nonmaterial,0complete; cycle123distinct,68material,55nonmaterial; day226distinct,110material,116nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Anne Stanley265990. OUTCOME:ongoing; STOPPING REASON:none.
