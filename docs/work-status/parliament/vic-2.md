@@ -155,3 +155,7 @@ Batch coverage, record fields, dates, enums, source references, build_careers.lo
 - Next follow-up: next batch in plan order. Continue systematic national follow-up; blocked records remain unresolved.
 - OUTCOME:ongoing. STOPPING REASON:none; continue after remote verification. Successor not requested. Scheduler terminal status unavailable.
 - Validation:career_batches --check226/13 and --batch vic-2; individual JSON/source/date/enums and build_careers.load_records. Only assigned member/checkpoint changed.
+
+- Ged Kearney: materially enriched — her public professional profile refines the later Austin Health employment envelope to January 1999–April 2003 (4 years 4 months), surrounding the official 2000–2002 deputy-director range. The profile months do not prove title-transition days, full-time continuity, hours or leave and cannot be extended to her separately evidenced Austin nursing in the 1980s. The aged-care provider and earlier nursing boundaries remain unresolved.
+- Current continuation after this member: 67 distinct records, 0 new, 26 materially enriched, 41 nonmaterial follow-ups and 0 newly complete. Current cycle/day cumulative: 111 distinct, 0 new, 46 materially enriched, 65 nonmaterial follow-ups and 0 newly complete.
+- Durable next cursor: Peter Khalil (101351).
