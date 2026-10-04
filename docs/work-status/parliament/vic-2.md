@@ -322,3 +322,6 @@ Batch coverage, record fields, dates, enums, source references, build_careers.lo
 
 - 2026-10-04T23:19:10+10:00: Monique Ryan297660: materially added nine study/governance spells from public CV; day upgrade from earlier nonmaterial. Remaining professional duties and payroll relationships unresolved.
 - Attempt189distinct,0new,123material,66nonmaterial,0complete; cycle206distinct,129material,77nonmaterial; day226distinct,144material,82nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Jana Stewart299352, VIC2 member15. OUTCOME:ongoing; STOPPING REASON:none.
+
+- 2026-10-04T23:20:08+10:00: Jana Stewart299352: nonmaterial follow-up; named retail and full-time results excluded as namesakes.
+- Attempt190distinct,0new,123material,67nonmaterial,0complete; cycle207distinct,129material,78nonmaterial; day226distinct,144material,82nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Dan Tehan210911, VIC2 member16. OUTCOME:ongoing; STOPPING REASON:none.
