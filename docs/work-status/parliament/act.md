@@ -76,3 +76,6 @@
 
 - 2026-10-04T20:58:06+10:00: Leigh: employer interview supplies eighteen-month Cook role and2010ANU resignation evidence.
 - Attempt131distinct,0new,76material,55nonmaterial,0complete; cycle148distinct,82material,66nonmaterial; day226distinct,119material,107nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Alicia Payne144732. OUTCOME:ongoing; STOPPING REASON:none.
+
+- 2026-10-04T20:59:58+10:00: Payne: primary2008report establishes UC had no present control of its50percent NATSEM holding; corporate acquisition dated15September2009.
+- Attempt132distinct,0new,77material,55nonmaterial,0complete; cycle149distinct,83material,66nonmaterial; day226distinct,119material,107nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: David Pocock256136. OUTCOME:ongoing; STOPPING REASON:none.
