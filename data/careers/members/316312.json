@@ -104,7 +104,7 @@
       "role": "Chair",
       "start_date": "2018",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -326,8 +326,8 @@
       "employer": "Murray Darling Association, Region11",
       "role": "Chair",
       "start_date": null,
-      "end_date": null,
-      "date_precision": "unknown",
+      "end_date": "2024-05-16",
+      "date_precision": "day",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "nonprofit",
@@ -335,9 +335,10 @@
       "government_control_at_time": "private",
       "counting_status": "excluded",
       "source_ids": [
-        "src-nuclear-advisory"
+        "src-nuclear-advisory",
+        "src-mda-agm2024-oct4"
       ],
-      "evidence_note": "Public appointment biography identifies regional chair role. Dates, pay and contractual terms unknown; association governance excluded.",
+      "evidence_note": "Public appointment biography identifies regional chair role. Dates, pay and contractual terms unknown; association governance excluded. Primary16May2024 AGM minutes thank outgoing chair Chaffey and elect Russell Webb as successor. End date records the observed chair handover at that meeting; original appointment date, formal legal cessation, pay and hours remain unknown.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "316312-murray-darling"
     }
@@ -492,6 +493,16 @@
       "note": "Vacancies arose when Chaffey and two others did not contest September local elections; retrospective corroboration of departure.",
       "retrieved": "2026-10-02",
       "source_id": "src-lgnsw-confirmation-oct2"
+    },
+    {
+      "source_id": "src-mda-agm2024-oct4",
+      "url": "https://static1.squarespace.com/static/64090f72cb0de32c59d45d5b/t/675bcaa715d12247d45a57f9/1734068904242/MDA%2BRegion%2B11%2BAGM%2BAnnual%2BMeeting%2BMinutes%2B16052024%2B-%2BFINAL.pdf",
+      "publisher": "Murray Darling Association Inc.",
+      "title": "Region11 Annual General Meeting minutes,16May2024",
+      "retrieved": "2026-10-04",
+      "source_type": "employer",
+      "locator": "PDF/printed page2, Election of Chairperson and Region Executives; lines56–67",
+      "note": "Outgoing chair Chaffey thanked; Russell Webb elected unopposed and accepted, with Tamworth taking secretariat. Text inspected; screenshot tool exposed no viewable image block."
     }
   ],
   "research_notes": [
@@ -505,7 +516,8 @@
     "Second follow-up 2 October 2026 materially dates LGNSW governance 2022–September 2024 and resolves association type from its annual report. These excluded roles overlap business and elected office; no headline employment duration added. Council March 2022 release additionally confirms Namoi chair re-election and CMA deputy-chair election but does not redefine original starts.",
     "Targeted Woolworths/apprenticeship/profile searches did not establish personal employment dates or hours. Namesake overseas corporate profiles excluded. LGNSW 2021–22 report web fetch timed out; 2022–23 PDF downloaded and text-read successfully. Top-five remuneration and overall staff numbers not transferred to Chaffey. Further leads: Woolworths training/payroll history, apprenticeship registration, business leave/operational transition and individual director remuneration.",
     "Further2October pass: rechecked company timeline against traineeship/apprenticeship and2006 founding queries. Stripes2006/2007/2018 milestones and store locations are already captured. Company2000s joining claim still conflicts with first-speech elapsed-tenure implication; no registration or payroll record resolved it.1991 residence description does not establish a Woolworths appointment date. No material addition; defer generic Woolworths/Stripes biography searches pending original apprenticeship, contract or leave evidence.",
-    "Third follow-up 2026-10-04: targeted Woolworths store-history, apprenticeship, Gunnedah Industries and Stripes managing-director searches repeated the first speech, candidate interview, company timeline and September 2024 handover already recorded. No apprenticeship registration, Woolworths appointment, individual hours, leave or legal payroll entity was found. No material enrichment counted; retain the company-timeline conflict and advance pending an original training, contract or personnel record."
+    "Third follow-up 2026-10-04: targeted Woolworths store-history, apprenticeship, Gunnedah Industries and Stripes managing-director searches repeated the first speech, candidate interview, company timeline and September 2024 handover already recorded. No apprenticeship registration, Woolworths appointment, individual hours, leave or legal payroll entity was found. No material enrichment counted; retain the company-timeline conflict and advance pending an original training, contract or personnel record.",
+    "Follow-up2026-10-04: Primary Murray Darling Association Region11 AGM minutes establish outgoing chair handover to Russell Webb on16May2024, resolving an undated governance endpoint at day precision as a meeting milestone. The minutes explicitly thank Chaffey as chair and record successor election/acceptance; appointment date, formal legal cessation and personal remuneration remain unknown. Subsequent ordinary meeting lists Webb as chair and Chaffey attending as Gunnedah mayor. Apprenticeship-year query yielded no training record. Next: original apprenticeship registration, Woolworths personnel record, business contracts/hours and association appointment instrument; governance excluded."
   ],
   "open_questions": [
     "What were the exact start/end dates, hours and store transitions for the Woolworths management career?",
