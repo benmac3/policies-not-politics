@@ -209,3 +209,6 @@
 
 - Don FarrellI0N: targeted REST commencement and study/leave follow-up; first-person study evidence retained, no new employment intervals or hours.
 - Attempt52distinct,0new,27material,25nonmaterial,0complete; cycle69distinct,33material,36nonmaterial; day206distinct,83material,123nonmaterial; all0new/complete. Next: Steve GeorganasDZY. OUTCOME:ongoing; STOPPING REASON:none.
+
+- Steve GeorganasDZY: added primary-sourced WHIA second vice-president election and previous treasurer role; governance excluded, employment gaps retained.
+- Attempt53distinct,0new,28material,25nonmaterial,0complete; cycle70distinct,34material,36nonmaterial; day207distinct,84material,123nonmaterial; all0new/complete. Next: Karen Grogan296331. OUTCOME:ongoing; STOPPING REASON:none.

@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/DZY",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-03",
+  "last_reviewed": "2026-10-04",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -340,6 +340,45 @@
       "evidence_note": "Club history gives1991–1992 presidency; pay and hours unknown. Community governance, not additional counted employment.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "DZY-16"
+    },
+    {
+      "spell_id": "DZY-17",
+      "employer": "World Hellenic Inter-Parliamentary Association (PADEE-WHIA)",
+      "role": "Second vice-president and board member",
+      "start_date": "2021-04-09",
+      "end_date": null,
+      "date_precision": "mixed",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-14",
+        "src-15"
+      ],
+      "evidence_note": "Election at9April2021 board reorganisation established by association press release. Current board biography corroborates role; end and breaks unknown. Governance alongside parliamentary service, not ordinary substantive employment.",
+      "counting_note": "Association governance excluded from substantive public/private employment totals; legal status, control and remuneration remain unknown."
+    },
+    {
+      "spell_id": "DZY-18",
+      "employer": "World Hellenic Inter-Parliamentary Association (PADEE-WHIA)",
+      "role": "Treasurer",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-15"
+      ],
+      "evidence_note": "Association board biography explicitly describes previous treasurer service. Appointment and departure dates, pay and hours unknown; do not infer that departure coincided with9April2021 vice-president election.",
+      "counting_note": "Association governance excluded from substantive public/private employment totals; legal status, control and remuneration remain unknown."
     }
   ],
   "sources": [
@@ -472,6 +511,26 @@
       "note": "Names Georganas as a branch employee; records EISS trustee-board service fromFebruary2014 toAugust2014 and Statewide trustee-board service fromJuly2014. The reporting statement establishes observation bounds and role transitions, not personal hours or additive employment.",
       "retrieved": "2026-10-03",
       "source_id": "src-13"
+    },
+    {
+      "source_id": "src-14",
+      "url": "https://padeewhia.org/wp-content/uploads/2021/07/PRESS-RELEASE-of-PADEE-WHIA-NEW-BOARD-OF-DIRECTORS-issued-APRIL-12-2021.pdf",
+      "publisher": "World Hellenic Inter-Parliamentary Association",
+      "title": "Board reorganisation press release,12April2021",
+      "source_type": "employer",
+      "locator": "PDF page1,9April2021 board reorganisation and second vice-president election",
+      "retrieved": "2026-10-04",
+      "note": "Primary association record gives election day9April2021; publication12April is distinct. Association governance, not government payroll or full-time employment."
+    },
+    {
+      "source_id": "src-15",
+      "url": "https://padeewhia.org/board-2/",
+      "publisher": "World Hellenic Inter-Parliamentary Association",
+      "title": "Board biographies",
+      "source_type": "employer",
+      "locator": "Steve Georganas: second vice-president and previous treasurer",
+      "retrieved": "2026-10-04",
+      "note": "Corroborates April2021 election and earlier treasurer service; does not date the earlier term, specify fees or establish uninterrupted service through retrieval."
     }
   ],
   "research_notes": [
@@ -482,6 +541,7 @@
     "Parliamentary defeat in 2013 and return in 2016 leave a real employment interval; union organising and governance during that interval are not relabelled public/private full-time employment.",
     "Follow-up2026-10-02: primary union report resolves Statewide trustee and confirms branch receipt of fees, while exposing2013versusJuly2014start conflict. Adds previously unrecorded Electricity Industry Superannuation Scheme board endingAugust2014 with no board fees. No aggregate employee/FTE count assigned personally.",
     "Club primary indexed history establishes Adelaide Hellenic Lions presidency1991–1992. Glendi board remains unverified lead. Factory, taxi and insurer employers/hours remain unknown after targeted searches; current Guardian Insurance event attendance is not employment evidence.",
-    "Follow-up2026-10-03: prior-year ASU operating report narrows EISS trustee-board service toFebruary–August2014 and independently confirms Statewide service fromJuly2014. It also calls Georganas a branch employee, consistent with the existing2013–2016ASU spell but not proof of full-time hours. Targeted insurer, taxi, factory, Thebarton and Statewide searches did not resolve the remaining employer or substantive-hours gaps."
+    "Follow-up2026-10-03: prior-year ASU operating report narrows EISS trustee-board service toFebruary–August2014 and independently confirms Statewide service fromJuly2014. It also calls Georganas a branch employee, consistent with the existing2013–2016ASU spell but not proof of full-time hours. Targeted insurer, taxi, factory, Thebarton and Statewide searches did not resolve the remaining employer or substantive-hours gaps.",
+    "Follow-up2026-10-04: Primary PADEE-WHIA press release establishes previously unrecorded second vice-president election on9April2021; association board biography also establishes earlier treasurer service with unknown endpoints. Both governance roles excluded from employment headlines; government legislators participating does not establish government control or a payroll appointment. Glendi festival board remains a secondary lead; Thebarton honorary-board register reproductions do not supply its endpoints. No insurer, factory, taxi payroll or personal hours identified."
   ]
 }
