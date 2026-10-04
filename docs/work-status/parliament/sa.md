@@ -227,3 +227,6 @@
 
 - Andrew McLachlan287062: new historical StJohn report avenue attempted; source verification wall and no new payroll/interval evidence.
 - Attempt58distinct,0new,31material,27nonmaterial,0complete; cycle75distinct,37material,38nonmaterial; day212distinct,87material,125nonmaterial; all0new/complete. Next: Tony Pasin240756. OUTCOME:ongoing; STOPPING REASON:none.
+
+- Tony Pasin240756: historical counsel/practice searches did not resolve earlier firms or working fraction; remaining gaps retained.
+- Attempt59distinct,0new,31material,28nonmaterial,0complete; cycle76distinct,37material,39nonmaterial; day213distinct,87material,126nonmaterial; all0new/complete. Next: Barbara PocockBFQ. OUTCOME:ongoing; STOPPING REASON:none.
