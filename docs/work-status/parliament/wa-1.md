@@ -167,3 +167,6 @@ Detailed attempted avenues, discrepancies and remaining leads are preserved in e
 
 - Slade Brockman30484: material extension of documented party activity to2019; payroll and full-time gaps remain.
 - Attempt20distinct,0new,10material,10nonmaterial,0complete; cycle37distinct,16material,21nonmaterial; day174distinct,66material,108nonmaterial; all0new/complete. Next: Michaelia CashI0M. OUTCOME:ongoing; STOPPING REASON:none.
+
+- Michaelia CashI0M: nonmaterial targeted employer/admission follow-up; unrelated legal appointment biographies rejected.
+- Attempt21distinct,0new,10material,11nonmaterial,0complete; cycle38distinct,16material,22nonmaterial; day175distinct,66material,109nonmaterial; all0new/complete. Next: Kate Chaney300006. OUTCOME:ongoing; STOPPING REASON:none.
