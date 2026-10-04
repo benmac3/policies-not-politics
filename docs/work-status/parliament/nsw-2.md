@@ -310,3 +310,6 @@ Batch check passes: 226 assigned exactly once across 13 batches; nsw-2 assignmen
 
 - 2026-10-04T19:38:05+10:00: Dai Le: distinct DMP commercial activity added, ABC unit and ECC governance month interval refined; totals unknown, blocked retained.
 - Attempt85distinct,0new,49material,36nonmaterial,0complete; cycle102distinct,55material,47nonmaterial; day226distinct,102material,124nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Julian Leeser 109556. OUTCOME:ongoing; STOPPING REASON:none.
+
+- 2026-10-04T19:40:14+10:00: Julian Leeser: omitted 2013 campaign role added and hospital committee capacity resolved; no countable duration.
+- Attempt86distinct,0new,50material,36nonmaterial,0complete; cycle103distinct,56material,47nonmaterial; day226distinct,103material,123nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: David Moncrieff 316540. OUTCOME:ongoing; STOPPING REASON:none.

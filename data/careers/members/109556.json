@@ -552,7 +552,7 @@
     },
     {
       "employer": "Hornsby-Kuring-Gai Hospital",
-      "role": "Board or advisory role (capacity unresolved)",
+      "role": "Member, Community Participation Committee",
       "start_date": null,
       "end_date": null,
       "date_precision": "unknown",
@@ -563,9 +563,10 @@
       "government_control_at_time": "public",
       "counting_status": "excluded",
       "source_ids": [
-        "src-piac2014-oct2"
+        "src-piac2014-oct2",
+        "src-hornsby-committee-oct4"
       ],
-      "evidence_note": "PIAC2014 biography identifies board or advisory service without distinguishing capacity, dates or fees.",
+      "evidence_note": "PIAC2014 biography identifies board or advisory service without distinguishing capacity, dates or fees. First-person House speech on 28 March 2017 identifies the Community Participation Committee specifically and places his involvement before federal election. This resolves capacity, not precise dates, remuneration or an operational hospital job.",
       "counting_note": "Governance, conference and advisory activity excluded; no operational paid employment inferred.",
       "spell_id": "109556-hornsby-hospital"
     },
@@ -587,6 +588,25 @@
       "evidence_note": "PIAC2014 biography identifies board or advisory service without distinguishing capacity, dates or fees.",
       "counting_note": "Governance, conference and advisory activity excluded; no operational paid employment inferred.",
       "spell_id": "109556-chinese-forum"
+    },
+    {
+      "spell_id": "109556-citizens-no-2013",
+      "employer": "Citizens’ No Case Committee for the proposed Local Government referendum",
+      "role": "National Convener",
+      "start_date": "2013",
+      "end_date": "2013",
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "party_organisation",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-declaration"
+      ],
+      "evidence_note": "Co-author-hosted professional biography explicitly records national convener service in 2013. This is a distinct campaign from the 1998 convention and 1999 republic No committee. Exact commencement/cessation, pay, hours and overlap with ACU work are not given. A campaign-year label does not represent a whole year of employment.",
+      "counting_note": "Political campaign organisation is excluded under the codebook; no paid or full-time status inferred."
     }
   ],
   "sources": [
@@ -655,7 +675,7 @@
       "url": "https://damienfreeman.com/indigenous-recognition/the-australian-declaration-of-recognition/",
       "publisher": "Damien Freeman",
       "title": "The Australian Declaration of Recognition — Julian Leeser biography",
-      "retrieved": "2026-09-25",
+      "retrieved": "2026-10-04",
       "source_type": "professional_profile",
       "locator": "Author biography",
       "note": "Professional biography gives the High Court-to-ACU sequence, Harvard fellowship, Menzies 2006–2012 interval and ACU title."
@@ -819,6 +839,16 @@
       "retrieved": "2026-10-03",
       "locator": "Public indexed printed page4, Julian Leeser MP GAICD entry",
       "note": "Indexed original text: personal March2017 director appointment, November2017–July2019 committee term. Direct original download404; no claimed full-page inspection. Corporate1March2017 incorporation date is not substituted for personal appointment."
+    },
+    {
+      "source_id": "src-hornsby-committee-oct4",
+      "url": "https://www.openaustralia.org.au/debate/?id=2017-03-28.73.2",
+      "publisher": "Julian Leeser / House of Representatives, public Hansard mirror",
+      "title": "Medicare, 28 March 2017",
+      "source_type": "government_record",
+      "retrieved": "2026-10-04",
+      "locator": "Leeser speech at 3:57 pm, Hornsby Hospital paragraph",
+      "note": "First-person statement specifies community participation committee before federal election. It does not establish commencement, cessation, remuneration or hospital operational employment."
     }
   ],
   "research_notes": [
@@ -831,7 +861,8 @@
     "Searched legal-employer and court chronology, full-time wording, Menzies publications, ACU/Mercy annual reports, charity filings and library reports. Full-time searches found staff vacancies rather than evidence about Leeser. ACNC scanned report inspected visually after one copy failed retrieval. NLA old PDF redirects and archive failed; exact appointment day remains a labelled indexed lead. No supported High Court/Mallesons full-time interval, leave history or dates found.",
     "Second follow-up2October2026: primary financial-report index resolves Teach For Australia term; BCA2002 original identifies Executive Adviser title at Mallesons; PIAC reports add governance and conference service. Full-time searches returned unrelated lawyers and roles, not personal evidence. Python requests import unavailable, replaced by standard-library download; Teach For Australia download403 not retried. Reader source gaps remain explicitly labelled. Further priorities: court/Mallesons hours and leave, board instruments and Harvard/Menzies overlap. No new countable full-time interval.",
     "Follow-up3October2026 closes Mercy Public Hospitals board term at May2016 from original report and refines Ramsay board start to March2017 using clearly labelled indexed original financial report. Direct Ramsay2019 original404; local extraction consequently had no file, not a permission or account limit. Harvard searches repeat2006–07 without work pattern; no leave or full-time interval established. Record2013 Citizens No Case Committee national convener and specific Hornsby Hospital Community Participation Committee as further leads from professional/council publications; original employment terms still absent. Prior Mercy Health and Mercy Public Hospitals entries remain distinct pending legal appointment mapping.",
-    "Fourth follow-up4October2026 repeated exact High Court associate, Menzies, ACU and Ramsay searches. Results reproduced the already recorded ACU2012–mid-2016 observations, Menzies/Harvard chronology and later biographical summaries; no personnel instrument, actual cessation day, hours, leave or accessible original Ramsay2019 report emerged. No existing boundary or total was changed."
+    "Fourth follow-up4October2026 repeated exact High Court associate, Menzies, ACU and Ramsay searches. Results reproduced the already recorded ACU2012–mid-2016 observations, Menzies/Harvard chronology and later biographical summaries; no personnel instrument, actual cessation day, hours, leave or accessible original Ramsay2019 report emerged. No existing boundary or total was changed.",
+    "Follow-up2026-10-04: Previously recorded new leads pursued: original co-author-hosted professional biography confirms distinct 2013 Citizens’ No Case Committee national-convener role, now added; first-person March 2017 House speech resolves Hornsby Hospital committee capacity. Court/Mallesons individual hours/date searches produced no personal employment instrument. A third-party mirror of Political Exchange Council 2010–13 report gives a June–July 2010 study-tour lead; original not located, so no leave deduction or employment boundary added. Remaining High Court/Mallesons hours and leave, Harvard/Menzies overlap and Ramsay scoping contract unresolved."
   ],
   "open_questions": [
     "What were the exact dates, hours, leave and employment status for the High Court associateship and Mallesons solicitor role?",
@@ -844,6 +875,7 @@
     "What were the Ramsay board appointment/cessation dates and fees, and National Library Council reappointments and end?",
     "Can separate Mercy Health and Mercy Public Hospitals appointments, teaching and community-governance dates and remuneration be established?",
     "What were the precise Hornsby-Kuring-Gai Hospital and Chinese Australian Forum capacities/terms, and did the BCA contribution involve a formal Mallesons secondment?",
-    "Can a currently accessible original Ramsay2019 financial report corroborate indexed March2017 appointment and November2017–July2019 committee subterm, and establish actual board cessation rather than committee departure?"
+    "Can a currently accessible original Ramsay2019 financial report corroborate indexed March2017 appointment and November2017–July2019 committee subterm, and establish actual board cessation rather than committee departure?",
+    "What appointment dates and terms apply to Hornsby Hospital Community Participation Committee membership and the 2013 Citizens’ No campaign, and did either alter ACU working hours?"
   ]
 }
