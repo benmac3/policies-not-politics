@@ -123,7 +123,7 @@
       "role": "Founder / volunteer project development",
       "start_date": "2018",
       "end_date": null,
-      "date_precision": "unknown",
+      "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "nonprofit",
@@ -206,7 +206,7 @@
       "role": "Member for Dunkley",
       "start_date": "2024-03-02",
       "end_date": null,
-      "date_precision": "unknown",
+      "date_precision": "day",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -318,6 +318,124 @@
       "evidence_note": "Her parliamentary community newsletter explicitly says she worked at Mission Australia, separately naming Anglicare and Family Life. A 2004 national youth-mentoring report lists “Jodie Belyea, Mission Australia” among people consulted, establishing a contemporaneous affiliation observation in 2004 but not a continuous employment interval. Role, contract boundaries, remuneration, hours and overlap with council/other work are not supplied. Mission Australia is a national charity, so the spell is retained as nonprofit rather than public employment.",
       "counting_note": "Outside the two employment headlines under the codebook; retained as career context.",
       "spell_id": "309484-15"
+    },
+    {
+      "spell_id": "309484-16",
+      "employer": "Fitted for Work",
+      "role": "Pro bono training provider",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unpaid_work",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "oct4-ffw-probono"
+      ],
+      "evidence_note": "Institutional annual report acknowledges her training among pro bono/in-kind support in2010–11. Personal dates/hours unknown; not direct paid employment, and no Sussan employment inferred from its separate supporter listing.",
+      "counting_note": "Study or pro bono service excluded; no employment duration or leave inference."
+    },
+    {
+      "spell_id": "309484-17",
+      "employer": "Chisholm Institute",
+      "role": "Certificate in Residential and Community Services",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-1",
+        "src-first"
+      ],
+      "evidence_note": "Official qualifications list supports award/institution, without attendance or completion dates. Mt Eliza scholarship1995 does not by itself establish course start/end. TAFE study distinct from brief teaching job.",
+      "counting_note": "Study or pro bono service excluded; no employment duration or leave inference."
+    },
+    {
+      "spell_id": "309484-18",
+      "employer": "Mt Eliza Business School",
+      "role": "Graduate Certificate in Business Administration",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-1",
+        "src-first"
+      ],
+      "evidence_note": "Official qualifications list supports award/institution, without attendance or completion dates. Mt Eliza scholarship1995 does not by itself establish course start/end. TAFE study distinct from brief teaching job.",
+      "counting_note": "Study or pro bono service excluded; no employment duration or leave inference."
+    },
+    {
+      "spell_id": "309484-19",
+      "employer": "RMIT University",
+      "role": "Graduate Diploma in Organisational Consulting",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-1",
+        "src-first"
+      ],
+      "evidence_note": "Official qualifications list supports award/institution, without attendance or completion dates. Mt Eliza scholarship1995 does not by itself establish course start/end. TAFE study distinct from brief teaching job.",
+      "counting_note": "Study or pro bono service excluded; no employment duration or leave inference."
+    },
+    {
+      "spell_id": "309484-20",
+      "employer": "RMIT University",
+      "role": "Master of Business Leadership (Organisational Change and Consulting)",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-1",
+        "src-first"
+      ],
+      "evidence_note": "Official qualifications list supports award/institution, without attendance or completion dates. Mt Eliza scholarship1995 does not by itself establish course start/end. TAFE study distinct from brief teaching job.",
+      "counting_note": "Study or pro bono service excluded; no employment duration or leave inference."
+    },
+    {
+      "spell_id": "309484-21",
+      "employer": "Rotary Group Study Exchange",
+      "role": "Study exchange scholar",
+      "start_date": "1994",
+      "end_date": "1994",
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-1"
+      ],
+      "evidence_note": "Official honours give1994 scholarship. Exact exchange dates, host, duration, pay and employment leave unknown; year not a full-year interval.",
+      "counting_note": "Study or pro bono service excluded; no employment duration or leave inference."
     }
   ],
   "sources": [
@@ -326,10 +444,10 @@
       "url": "https://www.aph.gov.au/Senators%20and%20Members/Parliamentarian.aspx?MPID=309484",
       "publisher": "Australian Parliament",
       "title": "Jodie Belyea biography",
-      "retrieved": "2026-09-12",
+      "retrieved": "2026-10-04",
       "source_type": "official_biography",
-      "locator": "Career/biography or relevant appointment section",
-      "note": "Official year-precision occupation chronology, also preserved in frozen roster."
+      "locator": "Indexed Qualifications and Honours",
+      "note": "Official year-precision occupation chronology, also preserved in frozen roster. Identifies four qualifications plus Rotary exchange1994 and Mt Eliza scholarship1995; qualification dates otherwise absent."
     },
     {
       "source_id": "src-2",
@@ -510,6 +628,16 @@
       "note": "The report's consultation appendix lists “Jodie Belyea, Mission Australia”, supplying a contemporaneous 2004 affiliation observation. It does not state her title, contract dates, pay or hours.",
       "retrieved": "2026-10-04",
       "source_id": "src-mentoring2004"
+    },
+    {
+      "source_id": "oct4-ffw-probono",
+      "url": "https://fittedforwork.org/wp-content/uploads/2020/10/FFW-Annual-Report-2010-11.pdf",
+      "publisher": "Fitted for Work",
+      "title": "Annual report2010–11",
+      "retrieved": "2026-10-04",
+      "source_type": "employer",
+      "locator": "Printed p14 / PDF page8, Major Partners; text and screenshot checked",
+      "note": "Names Mary Grech and Jodie Belyea for training under major pro bono and in-kind providers. This is not a paid staff list; report interval is not a personal tenure boundary. Ordinary download403; web PDF extraction and page image accessible."
     }
   ],
   "research_notes": [
@@ -519,6 +647,8 @@
     "2026-10-01: recovered missing Chisholm teaching and three named earlier council employers from her summit speech. Frankston Council work also confirmed in speech, but its mapping to the dated centre coordinator entry remains explicit follow-up rather than an extra potentially duplicate spell. Contemporaneous PDPC and VicHealth reports corroborate Connectus appointment and institutional association; May2018 CfC submission adds coordinator title observation. No full-time totals calculated.",
     "Avenues: parliamentary/member biography and first speech; GSEM summit transcript; historical PDPC2004–05 and VicHealth2005–06 reports; Human Rights Commission2018 submission index; council-centre and CfC employer searches; public professional-profile index. LinkedIn direct returned429 Too Many Requests, not retried; AHRC PDF unavailable but cover index usable with limitation. Contact aggregators with all dates May2026 rejected. Sussan/Marc Besen early-career claim surfaced only in unsourced derivative accounts; retain unverified lead, do not create employment facts. Follow-up: council titles/dates/amalgamation continuity, Frankston contract employer, Chisholm dates/pay/FTE, Connectus legal employer, CfC full submission/Anglicare contract, Family Life title progression, all breaks/hours.",
     "Second follow-up2October2026: recovered Glen Eira Council newsletters from Victorian Collections, establishing youth-services staff observations July1997/November1999 and coordinator title March2001. Publication months retained as observations rather than fabricated employment endpoints. No FT fraction supplied; volunteer course obligations belong to volunteers. CfC contemporary organisation website confirms Anglicare hosting now but post-election event attendance cannot prove2018 payroll; prior2018 submission remains stronger historical lead. Family Life2020 community-change title corroborated in secondary reporting, no new boundaries. Next inspect Glen Eira staff appointment/departure and council-amalgamation records, Frankston coordinator contract, CfC2018 original submission, Chisholm pay/dates and early corporate work. No totals calculated.",
-    "Third follow-up3October2026: member-issued Winter2024 newsletter identifies previously omitted Mission Australia employment, separately from Anglicare and Family Life. It gives no role, date or hours, so a distinct undated nonprofit spell is retained without affecting headline totals. Targeted searches did not resolve the Sussan/Marc Besen derivative claim, council appointment boundaries, Frankston legal employer, Chisholm dates or full-time fractions. The newsletter's35-year cross-sector summary is too broad for interval calculation."
+    "Third follow-up3October2026: member-issued Winter2024 newsletter identifies previously omitted Mission Australia employment, separately from Anglicare and Family Life. It gives no role, date or hours, so a distinct undated nonprofit spell is retained without affecting headline totals. Targeted searches did not resolve the Sussan/Marc Besen derivative claim, council appointment boundaries, Frankston legal employer, Chisholm dates or full-time fractions. The newsletter's35-year cross-sector summary is too broad for interval calculation.",
+    "Mt Eliza Business School scholarship1995 is recorded as support/recognition, not a salaried employer or assumed attendance boundary for the undated graduate certificate.",
+    "Follow-up2026-10-04: Added previously omitted pro bono Fitted for Work training from2010–11 institutional annual report; visual layout confirms Major Partners pro bono/in-kind heading. Sussan is a separate supporter, not her verified employer. Added four official qualifications and Rotary1994 study exchange, retaining unknown attendance/completion and leave; Mt Eliza1995 scholarship not assumed course boundary. Ordinary Fitted for Work and AHRC submissions returnHTTP403; web PDF text/image recovered the former, AHRC remains inaccessible. Connectus/Frankston/CfC payroll identity and substantive hours remain unresolved."
   ]
 }

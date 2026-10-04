@@ -303,3 +303,6 @@ State: ready-for-integration
 
 - 2026-10-04T22:05:06+10:00: Ralph Babet enriched with omitted official qualifications; earlier sales/Telstra employment remains uncorroborated.
 - Attempt158distinct,0new,94material,64nonmaterial,0complete; cycle175distinct,100material,75nonmaterial; day226distinct,127material,99nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Jodie Belyea309484. OUTCOME:ongoing; STOPPING REASON:none.
+
+- 2026-10-04T22:07:28+10:00: Jodie Belyea enriched with pro bono training and official education history; no paid-hours inference.
+- Attempt159distinct,0new,95material,64nonmaterial,0complete; cycle176distinct,101material,75nonmaterial; day226distinct,127material,99nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Sam Birrell288713. OUTCOME:ongoing; STOPPING REASON:none.
