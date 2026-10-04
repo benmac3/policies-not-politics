@@ -276,3 +276,10 @@ Batch coverage, record fields, dates, enums, source references, build_careers.lo
 
 - Jess Walsh252157: nonmaterial publisher/archive follow-up; no unsupported study/fellowship dates.
 - Attempt68distinct,0new,36material,32nonmaterial,0complete; cycle85distinct,42material,43nonmaterial; day222distinct,92material,130nonmaterial; all0new/complete. Next: QLD1 Penny Allman-Payne298839; allVIC2members now reviewedtoday. OUTCOME:ongoing; STOPPING REASON:none.
+
+## National systematic follow-up continued — 2026-10-04 16:00 cycle continuation1
+
+- Attempt started17:00:01+10:00; entering VIC2 from remote dce3296e6683a2dc95bae0428c51e36843d60bd3. Starting national226initial,226blocked,0complete; VIC2 25blocked,25reviewedOct4. Current attempt175distinct,111material,64nonmaterial,0new/complete; cycle192distinct117material75nonmaterial; day226distinct135material91nonmaterial, provisional classification pending final reconciliation. No new remote batch writer; prior local scratch changes preserved in separate worktree. Prior calls/source errors recovered, none terminal. Next least-recent in assigned order: Ged KearneyLTU; Jess Walsh already processed this attempt. OUTCOME ongoing; STOPPING REASON none; successor not requested.
+
+- 2026-10-04T22:51:49+10:00: Kearney: Cbus commencement month, education and successor-agency board service recovered; nursing-duration blockers retained.
+- Attempt176distinct,0new,112material,64nonmaterial,0complete; cycle193distinct,118material,75nonmaterial; day226distinct,135material,91nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Peter Khalil101351. OUTCOME:ongoing; STOPPING REASON:none.

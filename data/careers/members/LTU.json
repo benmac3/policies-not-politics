@@ -241,7 +241,7 @@
       "spell_id": "LTU-10",
       "employer": "Cbus",
       "role": "Board member",
-      "start_date": null,
+      "start_date": "2011-08",
       "end_date": "2018-03",
       "date_precision": "month",
       "employment_status": "unknown",
@@ -252,9 +252,10 @@
       "counting_status": "excluded",
       "source_ids": [
         "src-9",
-        "oct2-cbus"
+        "oct2-cbus",
+        "oct4-cbus-early"
       ],
-      "evidence_note": "First-person retrospective places this after HESTA; no endpoints. Governance excluded without assuming full-time employment or personal receipt of fees. Employer annual report supplies resignation month March2018; start remains unknown.",
+      "evidence_note": "Cbus2011/12 and2012/13 indexed employer biographies state director since August2011, resolving the previously missing start month. Existing2018 report supplies March2018 resignation. Governance excluded; no precise days, full-time employment or personal receipt of fees inferred.",
       "counting_note": "Excluded from the two employment headlines under the codebook."
     },
     {
@@ -282,7 +283,7 @@
       "role": "Member for Batman, then Cooper",
       "start_date": "2018-03-17",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "day",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -313,6 +314,83 @@
       "evidence_note": "Union journal dates initial job-representative activity to1993. Concurrent nursing; pay and end unknown.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "LTU-rep"
+    },
+    {
+      "spell_id": "LTU-bed",
+      "employer": "La Trobe University",
+      "role": "Bachelor of Education",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "oct4-aph-study",
+        "oct4-cbus-early"
+      ],
+      "evidence_note": "Official qualification; attendance/award dates unknown.",
+      "counting_note": "Study/qualification context excluded from employment totals."
+    },
+    {
+      "spell_id": "LTU-economics",
+      "employer": "Monash University",
+      "role": "Bachelor of Economics study, not completed",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "oct4-economics"
+      ],
+      "evidence_note": "Secondary biography describes leaving this course to pursue nursing. No dates inferred from age or nurse registration.",
+      "counting_note": "Study/qualification context excluded from employment totals."
+    },
+    {
+      "spell_id": "LTU-rg146",
+      "employer": "Training provider not established",
+      "role": "RG146 superannuation qualification",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "oct4-cbus-early"
+      ],
+      "evidence_note": "Employer biography lists qualification; course provider, attendance and award dates not supplied.",
+      "counting_note": "Study/qualification context excluded from employment totals."
+    },
+    {
+      "spell_id": "LTU-awpa",
+      "employer": "Australian Workforce and Productivity Agency",
+      "role": "Board member",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "public_service",
+      "headline_sector": "excluded",
+      "government_control_at_time": "public",
+      "counting_status": "excluded",
+      "source_ids": [
+        "oct4-awpa"
+      ],
+      "evidence_note": "Own3 October2012 speech confirms AWPA board service separately from predecessor Skills Australia. Observation does not establish appointment/cessation or substantive employment.",
+      "counting_note": "Government advisory governance excluded; no full-time secretariat role inferred."
     }
   ],
   "sources": [
@@ -495,6 +573,46 @@
       "note": "Public profile gives Austin Health employment January 1999–April 2003 (4 years 4 months). It does not state hours, leave, or title boundaries within that envelope.",
       "retrieved": "2026-10-04",
       "source_id": "oct4-linkedin"
+    },
+    {
+      "source_id": "oct4-cbus-early",
+      "url": "https://www.resources.mediasuper.com.au/content/dam/cbus/files/governance/reporting/Cbus-Annual-Report-2011-2012.pdf",
+      "publisher": "Cbus",
+      "title": "Annual report2011/12",
+      "source_type": "employer",
+      "locator": "Indexed printed p32, Ged Kearney director biography",
+      "note": "Director since August2011; BEd, RN and RG146 qualifications. Readable official indexed report text; direct open DisabledError, main Cbus URL Internal Error. No full-PDF visual verification claimed.",
+      "retrieved": "2026-10-04"
+    },
+    {
+      "source_id": "oct4-aph-study",
+      "url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=LTU&lang=en",
+      "publisher": "Australian Parliament",
+      "title": "Ged Kearney biography",
+      "source_type": "official_biography",
+      "locator": "Indexed qualifications",
+      "note": "BEd at La Trobe; registered nursing at Mercy Private Hospital. No degree dates.",
+      "retrieved": "2026-10-04"
+    },
+    {
+      "source_id": "oct4-economics",
+      "url": "https://www.businessnews.com.au/Person/Ged-Kearney",
+      "publisher": "Business News",
+      "title": "Ged Kearney professional biography",
+      "source_type": "news",
+      "locator": "Opening career paragraphs",
+      "note": "Reports unfinished Monash economics study before nursing; no calendar dates.",
+      "retrieved": "2026-10-04"
+    },
+    {
+      "source_id": "oct4-awpa",
+      "url": "https://www.actu.org.au/wp-content/uploads/2023/06/media185328Kearney-121003-workforce-final.pdf",
+      "publisher": "Australian Council of Trade Unions",
+      "title": "The High Road to Productivity,3 October2012",
+      "source_type": "employer",
+      "locator": "PDF p1, opening paragraph",
+      "note": "First-person statement confirms board membership at AWPA and its predecessor Skills Australia; speech date is observation, not appointment.",
+      "retrieved": "2026-10-04"
     }
   ],
   "research_notes": [
@@ -508,6 +626,7 @@
     "Follow-up2026-10-03: current first-person biography adds previously omitted aged-care nursing and a government ministerial statement places Austin work in the1980s. Neither identifies an aged-care provider or supplies appointment boundaries. The rounded 20-year nursing description is not converted to a continuous full-time duration.",
     "Searched Austin/Cowin historical records and employer/union/government reports. ANMJ2019 says trained at Austin, whereas direct first speech identifies Mercy; do not replace stronger first-person training account. PUPPS2004 article acknowledgement naming Cowin on a working group is a follow-up lead, not proof of employment.",
     "APH submission direct open Internal Error and AWPA report403; official indexed cover usable. No exact nursing start/cessation, aged-care employer, hours changes or leave recovered. Next:2003 election/appointment result and Austin cessation record; aged-care provider; earliest Cbus/HESTA appointments; Skills Australia/AWPA appointment terms.",
-    "Follow-up2026-10-04: Kearney's public professional profile refines the later Austin Health employment envelope to January1999–April2003 (4 years 4 months), surrounding the official2000–2002 deputy-director range. This materially improves boundaries but does not establish title-transition days, full-time continuity, hours or leave and cannot be applied to her separately evidenced Austin nursing in the1980s. Aged-care provider identity and earlier nursing boundaries remain unresolved."
+    "Follow-up2026-10-04: Kearney's public professional profile refines the later Austin Health employment envelope to January1999–April2003 (4 years 4 months), surrounding the official2000–2002 deputy-director range. This materially improves boundaries but does not establish title-transition days, full-time continuity, hours or leave and cannot be applied to her separately evidenced Austin nursing in the1980s. Aged-care provider identity and earlier nursing boundaries remain unresolved.",
+    "Follow-up2026-10-04: Cbus2011/12 indexed employer report resolves directorship commencement to August2011, with2012/13 indexed report independently consistent. Added omitted BEd, unfinished economics study, RG146 qualification and AWPA governance. Failed PDF opens were source-level errors recovered via readable indexed report; no access-control bypass or full-document visual claim. Austin/aged-care boundaries, nursing continuity/leave and2002/2003 union transition remain unresolved. Skills Australia appointment searches recovered AWPA membership observation but no exact original tenure."
   ]
 }
