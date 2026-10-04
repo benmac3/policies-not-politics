@@ -203,3 +203,6 @@
 
 - Mark Butler: nonmaterial follow-up; primary GamingCare chair distinction logged, paralegal hours and appointment dates unresolved.
 - Attempt50distinct,0new,27material,23nonmaterial,0complete; cycle67distinct,33material,34nonmaterial; day204distinct,83material,121nonmaterial; all0new/complete. Next: Claire Clutterham316101. OUTCOME:ongoing; STOPPING REASON:none.
+
+- Claire Clutterham316101: targeted early-career/RFDS/employment-status follow-up; no material new evidence. Remains blocked.
+- Attempt51distinct,0new,27material,24nonmaterial,0complete; cycle68distinct,33material,35nonmaterial; day205distinct,83material,122nonmaterial; all0new/complete. Next: Don FarrellI0N. OUTCOME:ongoing; STOPPING REASON:none.
