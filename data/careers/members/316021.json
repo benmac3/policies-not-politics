@@ -125,7 +125,7 @@
       "role": "Member for Gorton",
       "start_date": "2025-05-03",
       "end_date": null,
-      "date_precision": "unknown",
+      "date_precision": "day",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -175,6 +175,27 @@
       "evidence_note": "Published career survey lists this work without employer or dates. May overlap later Transdev work; not additive and not assigned to Transdev without evidence.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "316021-bus"
+    },
+    {
+      "spell_id": "316021-study",
+      "employer": "University of Melbourne",
+      "role": "Bachelor of Science (Neuroscience) study",
+      "start_date": "2013",
+      "end_date": "2016",
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "oct4-aph-study",
+        "src-6",
+        "src-8"
+      ],
+      "evidence_note": "Official biography and own biography corroborate science/neuroscience study. Only the public professional-profile mirror supplies2013–2016 attendance labels; independent university dates and conferral date not established. Concurrent communications work is not proof of full-time hours.",
+      "counting_note": "Study excluded; year labels are not exact day boundaries or paid employment."
     }
   ],
   "sources": [
@@ -255,8 +276,8 @@
       "title": "Alice Jordan-Baird professional profile mirror",
       "retrieved": "2026-09-14",
       "source_type": "other",
-      "locator": "Career/biography or relevant appointment section",
-      "note": "Public professional-profile mirror gives Transdev Project Advisor May2017–May2019, Senior Communications and Engagement Advisor May–June2019, and Melissa Horne adviser June2019–May2020. Employer/title sequence is partly corroborated by primary point-in-time sources; exact profile boundaries and hours are not independently verified."
+      "locator": "Jobs and Education: University of Melbourne, Bachelor of Science, Neuroscience",
+      "note": "Public professional-profile mirror gives Transdev Project Advisor May2017–May2019, Senior Communications and Engagement Advisor May–June2019, and Melissa Horne adviser June2019–May2020. Employer/title sequence is partly corroborated by primary point-in-time sources; exact profile boundaries and hours are not independently verified. Education section also lists2013–2016; those dates are sole-source profile labels, not independently verified."
     },
     {
       "url": "https://www.openaustralia.org.au/debate/?id=2025-07-28.102.1",
@@ -287,6 +308,16 @@
       "note": "CDC acquired additional20%, reaching70% and sole control; earlier joint control not retrospectively classified.",
       "retrieved": "2026-10-02",
       "source_id": "oct2-control"
+    },
+    {
+      "source_id": "oct4-aph-study",
+      "url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=316021",
+      "publisher": "Australian Parliament",
+      "title": "Alice Jordan-Baird: biography",
+      "source_type": "official_biography",
+      "retrieved": "2026-10-04",
+      "locator": "Indexed qualifications and occupation before entering Federal Parliament",
+      "note": "Records BSc(Neuro), University of Melbourne, without attendance dates."
     }
   ],
   "research_notes": [
@@ -299,6 +330,7 @@
     "Follow-up2026-10-03: adopted the public professional-profile mirror's May2017–June2019 Transdev title sequence because primary 2017 and2019 sources independently corroborate employer and role observations within it. The mirror alone supplies exact month boundaries, so hours, transitions and full-time status remain unverified; the broader official2015–19 communications interval may include another employer.",
     "Searched personal biography, first-speech transcript, published career survey, public profiles and historical parent accounts. Professional-profile mirror boundaries are retained with an explicit sole-source caveat and corroborating point observations, not treated as proof of full-time status. Saturday Paper direct open403; used indexed excerpt. Later OpenAustralia speech returned Internal Error; earlier transcript accessible. Staff job ads do not evidence her own FTE.",
     "Next leads: burger business name and traineeship dates, depot employer and overlap, direct Transdev employing subsidiary/contracts and hours, Melbourne Water hours, remaining ministerial assignments and2022–23 gap. No full-time total defensible.",
-    "Follow-up2026-10-04: targeted searches for remaining ministerial-office assignments, Melbourne Water employment status, Transdev employing entity, the burger traineeship and bus-depot employer produced only the current official aggregate chronology, the previously recorded public professional-profile mirror and broad campaign biographies. Searches pairing Jordan-Baird with James Merlino and Melissa Horne did not recover a second appointment instrument or post-May2020 assignment. No employer, boundary or full-time status was inferred from contemporary staff job advertisements or derivative profiles."
+    "Follow-up2026-10-04: targeted searches for remaining ministerial-office assignments, Melbourne Water employment status, Transdev employing entity, the burger traineeship and bus-depot employer produced only the current official aggregate chronology, the previously recorded public professional-profile mirror and broad campaign biographies. Searches pairing Jordan-Baird with James Merlino and Melissa Horne did not recover a second appointment instrument or post-May2020 assignment. No employer, boundary or full-time status was inferred from contemporary staff job advertisements or derivative profiles.",
+    "Follow-up2026-10-04: Added previously omitted Melbourne science/neuroscience study. Own and official biographies corroborate the subject/institution;2013–2016 attendance labels come only from the already recorded public profile mirror and retain that limitation. Targeted primary/public-profile education and full-time searches did not recover independent attendance/conferral dates or individual employment hours. Other people’s professional-profile education and her staff recruitment advertisements were rejected as evidence of her own history. Remaining employer/traineeship,2022–23 coverage and payroll gaps unchanged."
   ]
 }

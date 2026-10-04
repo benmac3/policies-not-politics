@@ -351,3 +351,6 @@ State: ready-for-integration
 
 - 2026-10-04T22:47:52+10:00: Hume: omitted director term, qualifications and dated party offices recovered; employment-hours/leave gaps retained.
 - Attempt174distinct,0new,110material,64nonmaterial,0complete; cycle191distinct,116material,75nonmaterial; day226distinct,134material,92nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Alice Jordan-Baird316021. OUTCOME:ongoing; STOPPING REASON:none.
+
+- 2026-10-04T22:48:59+10:00: Jordan-Baird: university study added with explicit sole-source date caveat; no employment-hours inference.
+- Attempt175distinct,0new,111material,64nonmaterial,0complete; cycle192distinct,117material,75nonmaterial; day226distinct,135material,91nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: VIC2 least-recent unresolved queue; prior attempt members skipped. OUTCOME:ongoing; STOPPING REASON:none.
