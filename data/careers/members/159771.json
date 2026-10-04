@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/159771",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-03",
+  "last_reviewed": "2026-10-04",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -53,9 +53,10 @@
         "src-snapshot",
         "src-aph-current",
         "src-member",
-        "src-interview"
+        "src-interview",
+        "src-hills-interview-oct4"
       ],
-      "evidence_note": "The official occupation record gives 1987–1995. Rowland identifies a supermarket in Blacktown and says she worked as a checkout operator for eight years, including while studying. The supermarket, exact dates, hours, leave and study overlap are not published.",
+      "evidence_note": "The official occupation record gives 1987–1995. Rowland identifies a supermarket in Blacktown and says she worked as a checkout operator for eight years, including while studying. In a 2019 local interview she says the work was on nights and weekends while she put herself through high school and a university law degree. This supports a study-compatible work pattern but not weekly hours, substantive full-time status or continuous service. The supermarket, exact dates and leave remain unpublished.",
       "counting_note": "The work is private-sector employment, but the unidentified employer, year-only dates and missing hours prevent a full-time duration calculation."
     },
     {
@@ -529,6 +530,16 @@
       "note": "Contemporary author description identifies Rowland as a member of Mark Latham's staff from 1995 to 1999. Direct article retrieval returned HTTP 403; the indexed description is retained with the official Parliament chronology rather than used to infer dates or hours independently.",
       "retrieved": "2026-10-03",
       "source_id": "src-afr-latham-oct3"
+    },
+    {
+      "url": "https://hillsdistrictmums.com.au/5-minutes-with-michelle-rowland-mp-for-greenway/",
+      "publisher": "Hills District Mums",
+      "title": "5 minutes with Michelle Rowland, MP for Greenway",
+      "source_type": "professional_profile",
+      "locator": "10 May 2019, answer to ‘Tell us how you ended up where you are today’; page disclosure labels the article sponsored",
+      "note": "First-person interview says she started checkout work at age 15 and worked nights and weekends to help fund high school and university law study. It does not name the supermarket or state weekly hours, exact boundaries or leave.",
+      "retrieved": "2026-10-04",
+      "source_id": "src-hills-interview-oct4"
     }
   ],
   "research_notes": [
@@ -541,6 +552,7 @@
     "Next leads: NSW appointment gazettes and Premier’s Council membership reports, legal practice personnel records and contemporaneous electorate-office staff lists. Chair scheduled term through 2011 conflicts only if mistaken for actual tenure; do not extend service. Pooled director remuneration is not an individual salary.",
     "Source access: NSW Parliament PDFs exposed indexed primary text but later page/screenshot retrieval returned HTTP500 redirect errors; government-data mirror timed out. Communities NSW financial statements remained readable and retirement entry was recovered. No term start back-calculated from nominal three-year appointment.",
     "Second follow-up2October2026: health-service annual report materially narrows governance appointment and prior federal adviser/NRMA unit, plus LLM chronology; self-reported NSW Labor presidency added separately. Searches of supermarket identity,1996 university dates, electorate officeholder and NRMA full-time evidence did not resolve employer, hours or leave. Same-name medical alumni, beauty-business and US legal profiles excluded. Academic author-biography lead remains for qualification timing; party and board posts do not establish paid full-time service. Exact employment dates and overlaps remain priority gaps.",
-    "Third follow-up3October2026 resolves Mark Latham MP as the federal officeholder for the1995–1999 staff interval by combining the official electorate-officer chronology, the contemporaneous health-service reference to advising a federal MP and an AFR author description naming Latham. Exact appointment dates, payroll entity/title, hours, leave and whether the whole interval was electorate-office based remain unresolved. Searches did not identify the Blacktown supermarket or improve private-employment hours; no headline total changed."
+    "Third follow-up3October2026 resolves Mark Latham MP as the federal officeholder for the1995–1999 staff interval by combining the official electorate-officer chronology, the contemporaneous health-service reference to advising a federal MP and an AFR author description naming Latham. Exact appointment dates, payroll entity/title, hours, leave and whether the whole interval was electorate-office based remain unresolved. Searches did not identify the Blacktown supermarket or improve private-employment hours; no headline total changed.",
+    "Fourth follow-up4October2026 materially adds Rowland's first-person description of nights-and-weekends checkout work while funding high school and university law study. This supports a study-compatible work pattern and cautions against assuming full-time employment across1987–1995, but it does not provide weekly hours, exact dates, continuity, leave or the supermarket identity. Exact NRMA, Latham-office and board searches otherwise repeated official chronology; no headline total changed."
   ]
 }
