@@ -325,3 +325,6 @@ Batch coverage, record fields, dates, enums, source references, build_careers.lo
 
 - 2026-10-04T23:20:08+10:00: Jana Stewart299352: nonmaterial follow-up; named retail and full-time results excluded as namesakes.
 - Attempt190distinct,0new,123material,67nonmaterial,0complete; cycle207distinct,129material,78nonmaterial; day226distinct,144material,82nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Dan Tehan210911, VIC2 member16. OUTCOME:ongoing; STOPPING REASON:none.
+
+- 2026-10-04T23:21:14+10:00: Dan Tehan210911: nonmaterial follow-up; study/DFAT evidence gaps retained and retrieval quality issue documented.
+- Attempt191distinct,0new,123material,68nonmaterial,0complete; cycle208distinct,129material,79nonmaterial; day226distinct,144material,82nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Lidia Thorpe280304, VIC2 member17. OUTCOME:ongoing; STOPPING REASON:none.
