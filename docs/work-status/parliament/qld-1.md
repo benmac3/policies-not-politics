@@ -289,3 +289,12 @@ Deduplicated Brisbane-day new member IDs: 00AMR, 101351, 124514, 132880, 140590,
 - Bob Katter: materially enriched — 2009 Hansard identifies his Gulf Country property as Saint Francis station and records his first-person statement that he owned 250,000 unencumbered acres when he entered parliament. This supplies a December 1974 ownership observation but not the legal entity, exact operating interval, hours or overlap boundaries. Mount Isa Mines, AMP, Flor Dora and 1992–93 searches did not resolve their remaining gaps.
 - Current cycle/continuation: 14 distinct records, 0 new initial, 5 materially enriched existing, 9 nonmaterial follow-ups and 0 newly research-complete. Brisbane-day cumulative: 151 distinct, 0 new, 55 materially enriched, 96 nonmaterial follow-ups and 0 newly complete.
 - QLD-1 follow-up cursor complete for this pass; all 21 records remain unresolved. Durable national cursor: qld-2, reconcile its checkpoint and process its least-recent unresolved record in plan order.
+
+
+## Active national follow-up — 2026-10-04 16:00 Brisbane cycle, continuation1
+
+- Additional user-authorized attempt started2026-10-04T17:00:01+10:00. StartingQLD1head ec06e2d01422e2bf0c5cbd005f2677a127ab455d;21initial,21blocked,0complete;17reviewedtoday. Remaining older follow-ups: Penny Allman-Payne298839,David Batt315478,Angie Bell282981,Colin Boyce299498 in assigned order. No new conflicting writer observed.
+- Attempt68distinct,0new,36material,32nonmaterial,0complete; cycle85distinct42material43nonmaterial; day222distinct92material130nonmaterial. National226initial,226unresolved,0complete. OUTCOME:ongoing; STOPPING REASON:none. Successor not requested; scheduler terminal status unavailable.
+
+- 298839 Penny Allman-Payne: materially added earlier deputy party office and preserved primary co-convenor chronology conflict; no full-time years calculated.
+- Attempt69distinct,0new,37material,32nonmaterial,0complete; cycle86distinct,43material,43nonmaterial; day223distinct,93material,130nonmaterial; all0new/complete. Next: 315478 David Batt. OUTCOME:ongoing; STOPPING REASON:none.

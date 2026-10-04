@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Greens",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/298839",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-03",
+  "last_reviewed": "2026-10-04",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -232,9 +232,10 @@
       "source_ids": [
         "src-1",
         "src-3",
-        "src-5"
+        "src-5",
+        "src-9"
       ],
-      "evidence_note": "Party office distinct from full-time teaching; interview describes Greens work as voluntary.",
+      "evidence_note": "Party office distinct from full-time teaching; interview describes Greens work as voluntary. The party honour roll records co-convenorship from November 2013, renewed November 2014 with a bracketed November 2016 end. This conflicts with the parliamentary 2014 commencement; retain the existing supported range pending reconciliation and do not treat the organisational end as a precise paid-employment boundary.",
       "counting_note": "Excluded from the two employment headlines under the codebook."
     },
     {
@@ -352,6 +353,25 @@
       ],
       "evidence_note": "Frozen-roster first-service date preserved; elected office excluded from employment headlines.",
       "counting_note": "Excluded from the two employment headlines under the codebook."
+    },
+    {
+      "spell_id": "298839-18",
+      "employer": "Australian Greens",
+      "role": "Deputy co-convenor",
+      "start_date": "2012-11",
+      "end_date": "2013-11",
+      "date_precision": "month",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "party_organisation",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-9"
+      ],
+      "evidence_note": "Honour roll places her deputy co-convenorship under November 2012, with November 2013 in brackets. The source labels bracketed ends known or presumed; no remuneration or work hours established.",
+      "counting_note": "Party organisation office excluded from public/private employment headlines; approximate organisational dates do not establish paid work."
     }
   ],
   "sources": [
@@ -434,6 +454,16 @@
       "source_type": "government_record",
       "locator": "PDF page 2, Key Contacts: HASS and Languages",
       "note": "Primary school record lists Mrs Penny Allman-Payne as a contact in both HASS and Languages in 2022. This establishes a dated employer-and-duties snapshot, not continuous service, hours or a full-year interval."
+    },
+    {
+      "source_id": "src-9",
+      "url": "https://greens.org.au/about/office-bearers/honour-roll",
+      "publisher": "Australian Greens",
+      "title": "Honour Roll of Australian Greens Office Bearers",
+      "retrieved": "2026-10-04",
+      "source_type": "other",
+      "locator": "November 2012, November 2013 and November 2014 entries; introductory date caveat",
+      "note": "Primary organisational history; bracketed end dates are described as known or presumed. Establishes an earlier deputy role and a conflicting co-convenor commencement."
     }
   ],
   "research_notes": [
@@ -443,6 +473,7 @@
     "Searched official biography and first speech, party historical annual-report material, school-domain and annual-report searches, union material, legal-employer terms, ABC profiles and public professional-profile results. LinkedIn retrieval returned 429; no bypass attempted. APH speech returned 403; party transcript available. No reliable named firm or precise full-time service chronology retrieved. Last follow-up 2026-09-29.",
     "Further leads: school annual reports/personnel notices for Kenmore, Bundaberg, Cleveland and Gladstone; archived national-firm professional-indemnity staff lists from 2007–2012; law qualification chronology. Missing pay/hours are unknown, not zero.",
     "2026-10-02 follow-up: searched Penny/Penelope Allman-Payne with solicitor, law firm, marine insurance, 2009, Clayton Utz, DLA and Ebsworth, and QTU historical material. No attributable named legal employer, law-practice hours or dated school/payroll/leave record was located. Existing ABC 2013 and first-speech accounts remain the evidence; search absence is not proof of no employment. Public LinkedIn https://au.linkedin.com/in/penny-allman-payne-727695242 returned (999) Unknown Status Code via web open; indexed summary only identifies teacher/lawyer/activist and does not expose earlier employers. No access controls bypassed. Advance to next member; revisit with a named legal-employer or dated school archive lead, retaining all existing gaps. No material new career fact found; excluded from enrichment count.",
-    "2026-10-03 follow-up: employer-domain and school-archive searching recovered Gladstone State High School's primary 2022 student planner, which lists Penny Allman-Payne as a HASS and Languages contact. This materially resolves the previously generic later Gladstone employer and records contemporaneous subject-area duties. It remains a point-in-time source: no continuous 2018–2022 interval, full-year service, payroll hours, leave, transfer date, exact Cleveland school, earlier Gladstone school or law-firm name is inferred. Retain blocked status and no headline total."
+    "2026-10-03 follow-up: employer-domain and school-archive searching recovered Gladstone State High School's primary 2022 student planner, which lists Penny Allman-Payne as a HASS and Languages contact. This materially resolves the previously generic later Gladstone employer and records contemporaneous subject-area duties. It remains a point-in-time source: no continuous 2018–2022 interval, full-year service, payroll hours, leave, transfer date, exact Cleveland school, earlier Gladstone school or law-firm name is inferred. Retain blocked status and no headline total.",
+    "Follow-up2026-10-04: Fresh APH party-position indexing confirms the existing APGF 2017–2019 and Queensland 2020–2021 ranges; contradictory tertiary summaries were not adopted. Primary Greens office-bearer honour roll adds deputy co-convenorship November 2012–November 2013 and exposes a co-convenor commencement discrepancy (party November 2013 versus APH 2014), with known-or-presumed organisational end dates. Further solicitor/professional-indemnity and Cleveland school searches recovered no named legal employer, school transfer dates, legal hours or teaching leave/continuity evidence. Employment totals remain unknown. Revisit firm archival staff lists or school service documentation when a new attributable lead emerges."
   ]
 }
