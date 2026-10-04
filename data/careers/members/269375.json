@@ -6,7 +6,7 @@
   "snapshot_party": "Liberal Party of Australia",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/269375",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-03",
+  "last_reviewed": "2026-10-04",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -18,8 +18,8 @@
       "employer": "University of Adelaide",
       "role": "BA, LLB and Graduate Diploma in Legal Practice studies",
       "start_date": null,
-      "end_date": "2017-04",
-      "date_precision": "mixed",
+      "end_date": null,
+      "date_precision": "unknown",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "study",
@@ -30,7 +30,7 @@
         "src-2",
         "src-4"
       ],
-      "evidence_note": "Official biography lists BA/LLB; archived employer adds GDLP. Attendance dates and overlap with work unknown.",
+      "evidence_note": "Official biography lists BA/LLB; archived employer adds GDLP. Attendance dates and overlap with work unknown. Audit correction: prior2017-04 end was not established as study completion by the listed qualification/archived employer observation. Removed unsupported endpoint; qualifications retained.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "269375-01"
     },
@@ -60,8 +60,8 @@
       "employer": "Duncan Basheer Hannon",
       "role": "Solicitor, civil/commercial and estate litigation",
       "start_date": null,
-      "end_date": null,
-      "date_precision": "unknown",
+      "end_date": "2017-04",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "private_enterprise",
@@ -72,7 +72,7 @@
         "src-3",
         "src-10"
       ],
-      "evidence_note": "September2014LawSociety profile explicitly places him at this private law firm. A7April2017 contemporaneous report says he had moved to Tindall Gask Bentley after eight years at Duncan Basheer Hannon, supporting an April2017 transition and an approximate2009 DBH start but not an exact commencement date. Full-time status unknown.",
+      "evidence_note": "September2014LawSociety profile explicitly places him at this private law firm. A7April2017 contemporaneous report says he had moved to Tindall Gask Bentley after eight years at Duncan Basheer Hannon, supporting an April2017 transition and an approximate2009 DBH start but not an exact commencement date. Full-time status unknown. The same April2017 employer transition supports DBH cessation at month precision, without inferring start or continuous full-time employment.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "269375-03"
     },
@@ -309,6 +309,7 @@
     "Follow-up2026-10-02:added previously unrecorded Adelaide Park Lands Authority governance with exact appointment and early resignation dates from government notice and authority annual report; council allowance and committee deputy-chair role corroborated. Governance excluded regardless of possible remuneration.",
     "Targeted TGB2015/2016appointment and law-firm transition searches returned no reliable new employment timing. AustLII2014SASC78 direct open Internal Error; prior case-aggregatorFebruary2013DBHlead remains unverified, not adopted. CityPDF web-reader Internal Errors recovered by ordinary primaryPDFdownloads, with readable tables.",
     "Remaining priorities: earliest legal firms, DBH/TGBtransition and personal hours/leave, law-society council exit/remuneration, university dates. ParkLands2016resignation is not law-firm or CityCouncil employment exit.",
-    "Follow-up 2026-10-03: contemporaneous7April2017 reporting resolves the DBH-to-TGB transition to April2017 and describes eight years at DBH. The implied circa2009 start is retained only as an approximate lead, not an exact boundary. This corrects the directory's conflicting2002–2019 all-TGB attribution; full-time status and earlier2002–circa2009 employer allocation remain unresolved."
+    "Follow-up 2026-10-03: contemporaneous7April2017 reporting resolves the DBH-to-TGB transition to April2017 and describes eight years at DBH. The implied circa2009 start is retained only as an approximate lead, not an exact boundary. This corrects the directory's conflicting2002–2019 all-TGB attribution; full-time status and earlier2002–circa2009 employer allocation remain unresolved.",
+    "Follow-up2026-10-04: Evidence audit removes unsupported2017-04 study end: archived employer qualifications establish possession, not completion date. Existing April2017 DBH-to-TGB transition now consistently applied to DBH end at month precision. Early2002–circa2009 employers, hours and leave searches remain unresolved. CaseChat reproduces2016SASC33 identifying19February2014DBH client instructions, but primary judgment not recovered; retain as corroborative lead without substituting an exact tenure. DrAlexAntic AI academic namesake excluded."
   ]
 }

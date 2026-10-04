@@ -183,3 +183,14 @@
 - Durable next cursor: Tasmania / Vanessa Bleyer (25813). The SA follow-up pass is complete; continuing in plan order.
 - OUTCOME: ongoing. STOPPING REASON: none; continue to next record after remote verification. No successor requested. Scheduler terminal status unavailable.
 - Validation: JSON parse, `career_batches.py --check` (226/13), `career_batches.py --batch sa`, `build_careers.py` and `git diff --check` passed. Only the assigned member and this checkpoint were written.
+
+
+## Active follow-up — 2026-10-04 16:00 Brisbane cycle, continuation 1
+
+- Additional user-authorized attempt started2026-10-04T17:00:01+10:00; SA segment starts after46validated remotely verified follow-ups across QLD2/WA1/WA2. Starting SA head34438860fb95fa4b85050e71f1bc42af200c1cea;22initial,22unresolved,0complete. Remote head unchanged and no current conflicting writer observed.
+- National226/226initial,226unresolved,0complete. Run0new,26material,20nonmaterial; cycle63distinct32material31nonmaterial; day200distinct82material118nonmaterial (all0new/complete). Checkpoint-only commits excluded.
+- SA follows first17assigned members not reviewed on this day; final5have fresh08:00cycle records already preserved and will not be needlessly re-researched. NextAlexAntic269375. All13batch ownership and frozen226roster retained.
+- OUTCOME:ongoing; STOPPING REASON:none. Successor not requested; predecessor accepted successor execution remains unverified. Scheduler terminal status unavailable.
+
+- Alex Antic: material date-evidence corrections; study end unknown, DBH end April2017; early employers/full-time unresolved.
+- Attempt47distinct,0new,27material,20nonmaterial,0complete; cycle64distinct,33material,31nonmaterial; day201distinct,83material,118nonmaterial; all0new/complete. Next: Leah Blyth315170. OUTCOME:ongoing; STOPPING REASON:none.
