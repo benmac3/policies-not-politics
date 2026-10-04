@@ -212,3 +212,7 @@ Batch coverage, record fields, dates, enums, source references, build_careers.lo
 - James Paterson: nonmaterial follow-up — IPA-domain searches found a 25 January 2016 employer release and October 2016 submission naming him deputy executive director, corroborating the existing role envelope without narrowing appointment/departure dates, hours or leave. No VECCI terms, Fifield break evidence or pre-2006 work surfaced; employer/personnel records remain decisive.
 - Current continuation: 5 distinct records, 0 new, 2 materially enriched, 3 nonmaterial follow-ups and 0 newly complete. Cycle/day cumulative: 121 distinct, 0 new, 49 materially enriched, 72 nonmaterial follow-ups and 0 newly complete.
 - Durable next cursor: Sam Rae (300122).
+
+- Sam Rae: nonmaterial follow-up — the original 11 September 2019 PwC appointment story was located via syndication, and a 18 September report forecast his Victorian Labor departure the following month. The prospective wording is not converted into an October start; no actual commencement/cessation day, hours, leave, employer confirmation or post-PwC role surfaced. Early employer identities remain unresolved.
+- Current continuation: 6 distinct records, 0 new, 2 materially enriched, 4 nonmaterial follow-ups and 0 newly complete. Cycle/day cumulative: 122 distinct, 0 new, 49 materially enriched, 73 nonmaterial follow-ups and 0 newly complete.
+- Durable next cursor: Joanne Ryan (249224).
