@@ -275,3 +275,7 @@ Deduplicated Brisbane-day new member IDs: 00AMR, 101351, 124514, 132880, 140590,
 - Pauline Hanson: nonmaterial follow-up — exact Marsden Hanson, Taylors Elliotts and Booval Bowls Club searches returned derivative biographies and Wikipedia mirrors, not original payroll, registry, liquidation, sale or autobiography evidence. An anonymous 2026 recollection was rejected. Early-job detail remains unverified pending primary records.
 - Current cycle/continuation: 11 distinct records, 0 new initial, 3 materially enriched existing, 8 nonmaterial follow-ups and 0 newly research-complete. Brisbane-day cumulative: 148 distinct, 0 new, 53 materially enriched, 95 nonmaterial follow-ups and 0 newly complete.
 - Durable next cursor: Rowan Holzberger (88411).
+
+- Rowan Holzberger: nonmaterial follow-up — insurance, construction, directorship and political-staff searches repeated generic biographies and the already recorded approximately-2018 Watt start, but supplied no employer entity, appointment, hours or transition evidence. A construction recollection did not identify the firm or prove an interval.
+- Current cycle/continuation: 12 distinct records, 0 new initial, 3 materially enriched existing, 9 nonmaterial follow-ups and 0 newly research-complete. Brisbane-day cumulative: 149 distinct, 0 new, 53 materially enriched, 96 nonmaterial follow-ups and 0 newly complete.
+- Durable next cursor: Madonna Jarrett (298574).
