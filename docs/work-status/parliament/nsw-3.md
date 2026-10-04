@@ -250,3 +250,5 @@ Batch coverage, record fields, dates, enums, source references, build_careers.lo
 
 - 2026-10-04T20:04:00+10:00: Scamps: checked original2004 Oxford athletics annual report and project chronology; no employment or study boundary resolved.
 - Attempt100distinct,0new,57material,43nonmaterial,0complete; cycle117distinct,63material,54nonmaterial; day226distinct,106material,120nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Dave Sharma274506. OUTCOME:ongoing; STOPPING REASON:none.
+
+- Record-format correction: Rowland historical party source uses approved source_type other; no new processed/material count. Sharma research underway; no Sharma mutation yet.
