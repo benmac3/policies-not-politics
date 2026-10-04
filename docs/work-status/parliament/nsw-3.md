@@ -282,3 +282,6 @@ Batch coverage, record fields, dates, enums, source references, build_careers.lo
 
 - 2026-10-04T20:24:41+10:00: Angus Taylor: material two omitted corporate governance roles, no employment duration added.
 - Attempt110distinct,0new,66material,44nonmaterial,0complete; cycle127distinct,72material,55nonmaterial; day226distinct,113material,113nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Susan Templeman181810. OUTCOME:ongoing; STOPPING REASON:none.
+
+- 2026-10-04T20:25:55+10:00: Susan Templeman: material personal maternity/work context and separated study overlap.
+- Attempt111distinct,0new,67material,44nonmaterial,0complete; cycle128distinct,73material,55nonmaterial; day226distinct,114material,112nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Matt Thistlethwaite182468. OUTCOME:ongoing; STOPPING REASON:none.
