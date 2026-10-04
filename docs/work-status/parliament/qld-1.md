@@ -351,3 +351,6 @@ Deduplicated Brisbane-day new member IDs: 00AMR, 101351, 124514, 132880, 140590,
 
 - 2026-10-05T00:29:09+10:00: Nita Green: university conferral avenue yielded no new boundaries; no substantive enrichment.
 - Originating cycle2026-10-04 16:00 continuation1; attempt started2026-10-04T17:00:01+10:00 and ongoing. Attempt218distinct,0new,141material,77nonmaterial,0complete; cycle226distinct,145material,81nonmaterial. Current Brisbane day2026-10-05: 9distinct,0new,6material,3nonmaterial,0complete. Counts deduplicated within attempt/cycle/day. Next: Garth Hamilton291387: original international engineering-employer evidence.. OUTCOME:ongoing; STOPPING REASON:none. No successor requested.
+
+- 2026-10-05T00:30:00+10:00: Garth Hamilton: international engineering searches repeated existing chronology; no substantive enrichment.
+- Originating cycle2026-10-04 16:00 continuation1; attempt started2026-10-04T17:00:01+10:00 and ongoing. Attempt219distinct,0new,141material,78nonmaterial,0complete; cycle226distinct,145material,81nonmaterial. Current Brisbane day2026-10-05: 10distinct,0new,6material,4nonmaterial,0complete. Counts deduplicated within attempt/cycle/day. Next: Pauline HansonBK6: original early business/work evidence.. OUTCOME:ongoing; STOPPING REASON:none. No successor requested.
