@@ -18,9 +18,9 @@
       "spell_id": "140590-01",
       "employer": "Monash University",
       "role": "Arts and law student",
-      "start_date": "2006",
-      "end_date": "2008",
-      "date_precision": "year",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "study",
@@ -28,9 +28,10 @@
       "government_control_at_time": "unknown",
       "counting_status": "excluded",
       "source_ids": [
-        "src-1"
+        "src-1",
+        "oct4-fulbright"
       ],
-      "evidence_note": "Honours qualifications supported; dates not established here.",
+      "evidence_note": "Honours qualifications supported by APH. Fulbright biography independently observes her still studying at Monash in2003; exact course boundaries remain unknown. Removed unsupported2006–2008 dates from this Monash entry: those years belong to the separately evidenced Harvard MPP, not Monash.",
       "counting_note": "Excluded from the two employment headlines under the codebook."
     },
     {
@@ -56,9 +57,9 @@
       "spell_id": "140590-03",
       "employer": "Harvard University",
       "role": "Master of Public Policy student",
-      "start_date": null,
-      "end_date": null,
-      "date_precision": "unknown",
+      "start_date": "2006",
+      "end_date": "2008",
+      "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "study",
@@ -68,9 +69,10 @@
       "source_ids": [
         "src-1",
         "src-4",
-        "src-10"
+        "src-10",
+        "oct4-fulbright"
       ],
-      "evidence_note": "Her public professional profile dates the two-year Harvard Kennedy School MPP to 2006–2008; a 2023 first-person government interview independently says she studied at Harvard for two years. Year precision does not establish exact enrolment or graduation days.",
+      "evidence_note": "Her public professional profile dates the two-year Harvard Kennedy School MPP to 2006–2008; a 2023 first-person government interview independently says she studied at Harvard for two years. Year precision does not establish exact enrolment or graduation days. Fulbright itself corroborates the2006 scholarship; public profile supplies2006–2008 course years. Scholarship does not establish salary or work FTE.",
       "counting_note": "Excluded from the two employment headlines under the codebook."
     },
     {
@@ -181,7 +183,7 @@
       "role": "Member for Hotham",
       "start_date": "2013-09-07",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "day",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -363,6 +365,16 @@
       "source_type": "news",
       "locator": "Article published12August2013, paragraph describing current employment",
       "note": "Contemporaneous report says O'Neil currently worked at McKinsey. This is an employment observation, not an exact departure date or hours record."
+    },
+    {
+      "source_id": "oct4-fulbright",
+      "url": "https://www.fulbright.org.au/scholars/hon-clare-oneil-mp/",
+      "publisher": "Fulbright Australia",
+      "title": "Hon. Clare O’Neil MP",
+      "retrieved": "2026-10-04",
+      "source_type": "professional_profile",
+      "locator": "Opening biography paragraphs, Monash study in2003 and2006 Harvard scholarship",
+      "note": "Scholarship organisation confirms Monash study continuing in2003 and Harvard scholarship in2006. Neither is a precise Monash course endpoint; scholarship is not paid employment."
     }
   ],
   "research_notes": [
@@ -372,6 +384,7 @@
     "All year labels retained. Nine months residence is not a measured employment interval. Political, elected and study roles excluded; no overlapping durations summed. Last follow-up 2026-09-29; partial initial record.",
     "2026-10-02 follow-up: added contemporary McKinsey project evidence and publisher-confirmed authorship; first speech corroborates2011 Arnhem Land residence but ALP biography says2010. Targeted Marngarr/secondment/leave and historical annual-report searches did not establish payroll, hours, control or leave. ABR exact-full-name sole trader record is a lead only, not a new employment spell; seek declared business activity/contract evidence. Own public LinkedIn post about returning full time eight weeks after2013 birth concerns her MP job, not McKinsey; no private full-time inference. Home Affairs17February2023 podcast/own biography adds background but no missing employment terms. Next: Marngarr2010–11 records/constitution, McKinsey leave/appointment and NYSE internship terms; earlier jobs, author payment and registry identity remain unresolved. No years calculated.",
     "2026-10-03 follow-up: own public professional profile dates the two-year Harvard MPP2006–2008 and discloses previously omitted Springvale Community Aid and Advice Bureau board service2002–2006 and Jesuit Social Services board service2004–2006. Governance is retained but excluded without inferring pay. A first-person2023 government transcript says McKinsey lasted just under four years, while contemporaneous Guardian reporting observed her still at McKinsey on12August2013; these materially strengthen but do not complete the2009–2013 chronology. They do not resolve start/departure days, hours, leave or whether the2011 Marngarr work was McKinsey-paid, seconded, volunteer or separately employed. NYSE internship pay/hours and earlier student work remain unresolved; no employment years calculated.",
-    "2026-10-04 follow-up: narrow exact-name searches for Marngarr plus McKinsey/secondment found the current APH entry, historical Parliamentary Handbooks and derivative biographies, but no employment contract, payroll, leave, secondment or volunteer-status evidence. The nine-month Arnhem Land residence remains a residence/activity duration, not a measured paid interval; no source connects it to McKinsey payroll. Search was deliberately narrowed after the earlier oversized-query issue. Generic web search for this overlap is exhausted for this pass; Marngarr corporate/archival records and McKinsey personnel or social-impact placement files are the decisive avenues. No substantive fact changed and totals remain null."
+    "2026-10-04 follow-up: narrow exact-name searches for Marngarr plus McKinsey/secondment found the current APH entry, historical Parliamentary Handbooks and derivative biographies, but no employment contract, payroll, leave, secondment or volunteer-status evidence. The nine-month Arnhem Land residence remains a residence/activity duration, not a measured paid interval; no source connects it to McKinsey payroll. Search was deliberately narrowed after the earlier oversized-query issue. Generic web search for this overlap is exhausted for this pass; Marngarr corporate/archival records and McKinsey personnel or social-impact placement files are the decisive avenues. No substantive fact changed and totals remain null.",
+    "Follow-up2026-10-04: Fulbright Australia primary scholar biography newly confirms Monash study in2003 and2006 Harvard scholarship. Review identified2006–2008 wrongly attached to the Monash spell despite its evidence note saying dates unknown: removed those unsupported Monash boundaries and placed the already-supported2006–2008 profile dates on the Harvard spell. No exact enrolment/graduation days inferred. This materially corrects education chronology and corroborates overlap with council service. No new evidence resolves McKinsey/Marngarr payroll, leave or substantive full-time terms. Unknown employment totals retained; archive-placement and personnel evidence remain next avenues."
   ]
 }
