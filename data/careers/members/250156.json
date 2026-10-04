@@ -6,12 +6,12 @@
   "snapshot_party": "Australian Greens",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/250156",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-03",
+  "last_reviewed": "2026-10-04",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
     "calculation_status": "not_calculable",
-    "note": "Paid health advisory-council service is evidenced and excluded as governance. Employer and paid status of other advocacy remain unknown; no adequately evidenced full-time public/private interval. Excluded study, party and advisory activity does not establish a complete employment history."
+    "note": "Historical organisation report adds named nonprofit governance and transport-access advocacy. These do not establish salaried advocacy or complete employment history; personal terms and hours remain unresolved and totals null."
   },
   "career_spells": [
     {
@@ -212,6 +212,44 @@
       "evidence_note": "Government annual reports establish paid advisory service: 12 months membership during financial year 2015–16 with $150 actual remuneration, and 2 months during 2016–17 with $180. Exact appointment start/end unknown; do not equate reporting-period durations with full tenure or infer particular end month. Advisory governance is excluded, and meeting fees are not proof of substantive full-time employment. May overlap generic disability/youth advocacy; not additive ordinary employment.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "250156-10"
+    },
+    {
+      "employer": "People With Disabilities (WA) Inc",
+      "role": "Committee of Management ordinary member",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "nonprofit",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-9"
+      ],
+      "evidence_note": "Listed during2014/15 reporting year, independently in committee and related-party tables. Fiscal coverage is not exact personal tenure. Governance separate from staff employment; no personal pay or hours supplied.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "250156-11"
+    },
+    {
+      "employer": "People With Disabilities (WA) Inc / Self Advocacy and Peer Support group",
+      "role": "Self Advocacy and Peer Support group member; transport-access advocacy",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "nonprofit",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-9"
+      ],
+      "evidence_note": "Named in2014/15 report transport work concerning survey, forum and report. Project context includes August2014 forum but not exact personal commencement. May overlap generic advocacy; pay/hours unknown, not a proven employee.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "250156-12"
     }
   ],
   "sources": [
@@ -294,6 +332,16 @@
       "note": "Full PDF extracted from official equivalent About-Us/Strategic-focus media URL. Name changed to Rockingham Peel Group Community Advisory Council. Two months membership during 2016–17; $180 gross/actual remuneration, per-meeting basis.",
       "retrieved": "2026-10-02",
       "source_id": "src-8"
+    },
+    {
+      "source_id": "src-9",
+      "url": "https://pwdwa.org/documents/annual_reports/Annual%20report_14_15.pdf",
+      "publisher": "People With Disabilities (WA) Inc",
+      "title": "Annual Report2014–2015",
+      "source_type": "employer",
+      "locator": "Printed pp5–6 Committee of Management; p23 Self Advocacy and Peer Support; p41 Note7",
+      "retrieved": "2026-10-04",
+      "note": "Names Steele-John as ordinary management committee member and SAPS participant in transport-access work. Distinguished from named paid project staff; dates/hours and personal remuneration not specified."
     }
   ],
   "research_notes": [
@@ -303,6 +351,7 @@
     "Follow-up 2026-10-02: historical health annual reports reveal previously unrecorded paid Rockingham health advisory-council service. Added separately from city youth council/Commissioner reference-group participation; payment evidence does not establish employment status or hours.",
     "Searched earlier/later health-report references and appointment leads; no exact tenure or substantive full-time work recovered. Public professional profile https://au.linkedin.com/in/jordon-steele-john-656ba917a/ returned (999) Unknown Status Code. Official alternate annual-report PDF downloaded and extracted after web open/screenshot access failures. These are source-specific gaps, not terminal errors.",
     "Next leads: appointment and cessation minutes for Rockingham health council; 2014–15 and 2017–18 remuneration/appointments; other paid disability/youth projects and conference honoraria, precise education and leave history. No zero total inferred from absence of other identified employers.",
-    "Follow-up 2026-10-03: targeted searches for the Rockingham health council appointment and pre-Senate advocacy employment recovered only the already-cited official 2015–16 and 2016–17 remuneration tables and generic contemporaneous advocate descriptions. No new appointment boundary, employer, remuneration or hours evidence was found. The source avenues were documented to avoid treating repeated search results as new evidence; the record remains unresolved."
+    "Follow-up 2026-10-03: targeted searches for the Rockingham health council appointment and pre-Senate advocacy employment recovered only the already-cited official 2015–16 and 2016–17 remuneration tables and generic contemporaneous advocate descriptions. No new appointment boundary, employer, remuneration or hours evidence was found. The source avenues were documented to avoid treating repeated search results as new evidence; the record remains unresolved.",
+    "Follow-up2026-10-04: Found2014/15 PWdWA primary report, naming management committee and SAPS membership. Roles excluded; employment not inferred. Health-council earlier/later tables still did not resolve exact tenure. City2014 minutes open Internal Error; indexed mention alone not assigned a Bushfire Council role without context. Further leads: PWdWA earlier/later annual and appointment records, personal payment terms, health-council minutes and education dates."
   ]
 }

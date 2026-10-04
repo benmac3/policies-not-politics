@@ -164,3 +164,6 @@
 
 - Dean Smith241710: materially enriched historical Optus control evidence; totals remain unknown.
 - Attempt40distinct,0new,22material,18nonmaterial,0complete; cycle57distinct,28material,29nonmaterial; day194distinct,78material,116nonmaterial; all0new/complete. Next: Jordon Steele John250156. OUTCOME:ongoing; STOPPING REASON:none.
+
+- Jordon Steele John250156: materially added named nonprofit governance/advocacy; unresolved.
+- Attempt41distinct,0new,23material,18nonmaterial,0complete; cycle58distinct,29material,29nonmaterial; day195distinct,79material,116nonmaterial; all0new/complete. Next: Glenn SterleE68. OUTCOME:ongoing; STOPPING REASON:none.
