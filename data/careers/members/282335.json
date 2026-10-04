@@ -6,7 +6,7 @@
   "snapshot_party": "Independent",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/282335",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-03",
+  "last_reviewed": "2026-10-04",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -30,9 +30,10 @@
       "source_ids": [
         "src-2",
         "src-3",
-        "src-4"
+        "src-4",
+        "oct4-abcprogram"
       ],
-      "evidence_note": "Clinical work began 1986; later hospital research role is separate. Clinical breaks, community-program boundaries and hours unknown; not continuous 1986–2019 employment by inference.",
+      "evidence_note": "Clinical work began 1986; later hospital research role is separate. Clinical breaks, community-program boundaries and hours unknown; not continuous 1986–2019 employment by inference. First-person2023ABCaccount identifies founding-team participation in Wangaratta Community Midwife Program in late1990s. Rounded programme-era description does not establish personal start/end or hours.",
       "counting_note": "Not counted: dates and/or substantive full-time status are insufficiently evidenced; year labels are not exact boundaries."
     },
     {
@@ -241,9 +242,9 @@
       "spell_id": "282335-12",
       "employer": "Northeast Health Wangaratta",
       "role": "Executive director, Education and Research",
-      "start_date": "2018",
+      "start_date": "2018-09",
       "end_date": "2019-05",
-      "date_precision": "mixed",
+      "date_precision": "month",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "public_service",
@@ -252,9 +253,11 @@
       "counting_status": "insufficient_evidence",
       "source_ids": [
         "src-1",
-        "src-3"
+        "src-3",
+        "oct4-linkedin",
+        "oct4-insidestory"
       ],
-      "evidence_note": "Official start year; employer annual report confirms May2019 cessation and Victorian statutory responsibility. Individual FTE absent; overlapping university role not additive.",
+      "evidence_note": "Official start year; employer annual report confirms May2019 cessation and Victorian statutory responsibility. Individual FTE absent; overlapping university role not additive. Public professional-profile indexing narrows executive commencement toSeptember2018. A13March2019interview anticipated cessation of hospital work by mid-March, while employer annual report and profile giveMay2019end; actual duties, campaign leave and formal departure must be distinguished. Neither forecast nor campaign full-time is imposed as an employment boundary/status.",
       "counting_note": "Not counted: dates and/or substantive full-time status are insufficiently evidenced; year labels are not exact boundaries."
     },
     {
@@ -386,6 +389,36 @@
       "note": "Identifies Haines as Rural Health Academic Network Research Co-ordinator at the University of Melbourne Rural Health Academic Centre, Wangaratta; a dated title observation, not an appointment boundary.",
       "retrieved": "2026-10-03",
       "source_id": "oct3-rrh2012"
+    },
+    {
+      "source_id": "oct4-linkedin",
+      "url": "https://au.linkedin.com/in/dr-helen-haines-b5251423",
+      "publisher": "Helen Haines / LinkedIn",
+      "title": "Public professional profile",
+      "retrieved": "2026-10-04",
+      "source_type": "professional_profile",
+      "locator": "Indexed Experience: Executive Director Education and Research, Northeast Health Wangaratta,Sep2018–May2019",
+      "note": "Public indexed experience clearly associates month labels with executive role; body not collected. Nine-month display is not full-time evidence."
+    },
+    {
+      "source_id": "oct4-insidestory",
+      "url": "https://insidestory.org.au/a-red-hot-chance-in-indi/",
+      "publisher": "Inside Story",
+      "title": "A red-hot chance in Indi?,13March2019",
+      "retrieved": "2026-10-04",
+      "source_type": "news",
+      "locator": "Opening interview setting: university role ceased; hospital work expected to end by mid-March",
+      "note": "Contemporary reporting identifies transition to campaign work. Publication day is not interview day, forecast is not actual termination and campaign full-time is not salaried nursing employment."
+    },
+    {
+      "source_id": "oct4-abcprogram",
+      "url": "https://www.abc.net.au/news/2023-01-22/lessons-longest-running-regional-midwifery-group-program/101760860",
+      "publisher": "ABC",
+      "title": "What can we learn from one of the longest-running regional midwifery programs?,22January2023",
+      "retrieved": "2026-10-04",
+      "source_type": "news",
+      "locator": "Helen Haines first-person account and team photograph caption",
+      "note": "Identifies involvement founding Wangaratta Community Midwife Program in late1990s, without precise employment dates/hours."
     }
   ],
   "research_notes": [
@@ -396,6 +429,8 @@
     "Follow-up2026-10-02: public research profile provides Karolinska fellowshipApril–November2014 and Melbourne research-methods lecturer affiliation fromSeptember2006. Uppsala research-associateFebruary2013 differs from official adjunct role2014–2019; retained as reconciliation gap rather than erasing facts.",
     "Employer historical report resolves Chiltern private community control; contemporaneous nonprofit status still needs constitution/annual report. First speech supplies age26 and three-year matron duration, not exact dates or FT. Do not back-calculate calendar boundaries from birthday or narrative sequence.",
     "Follow-up2026-10-03: primary University annual reports2015–2018 identify Haines in a single staff row as Senior Lecturer – Director Rural Health Academic Network, resolving the network's University of Melbourne institutional context and showing that the academic/network roles must not be independently summed. A2012 peer-reviewed author affiliation records the earlier Research Co-ordinator title. Exact title-transition dates, contract fraction, leave and overlap with hospital work remain unknown.",
-    "Next leads: historical Chiltern governing documents and staffing reports; Melbourne appointment/secondment and hospital joint-funding records; Uppsala title/contract changes; clinical appointment and leave chronology. Nursing training at St Vincent’s/Mercy remains study absent paid-employment evidence. Public research profile accessible; no authenticated profile collection used."
+    "Next leads: historical Chiltern governing documents and staffing reports; Melbourne appointment/secondment and hospital joint-funding records; Uppsala title/contract changes; clinical appointment and leave chronology. Nursing training at St Vincent’s/Mercy remains study absent paid-employment evidence. Public research profile accessible; no authenticated profile collection used.",
+    "2026-10-04 transition gap: contemporary13March2019report says Haines was one day out of university role at interview and would be campaigning full-time by mid-March. Interview date not supplied; no exact university last day calculated. Hospital anticipatedMarchdeparture conflicts withMayformal cessation and may reflect leave or duties transition. Preserve explicitmonthSep2018–May2019profile/employer dates while seeking payroll/leave documentation.",
+    "Follow-up2026-10-04: Public indexed profile resolves Northeast executive start toSeptember2018; contemporaneousMarch2019career-exit account records campaign/leave reconciliation gap againstMayformal cessation. First-personABCidentifies community-midwife programme. No university exact day, campaign salary or personal nursing FT inferred."
   ]
 }

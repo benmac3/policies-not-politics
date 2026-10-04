@@ -284,3 +284,6 @@ State: ready-for-integration
 
 - Matt Gregg315154: nonmaterial primary-speech and school/legal follow-up; personal full-time not established.
 - Attempt66distinct,0new,35material,31nonmaterial,0complete; cycle83distinct,41material,42nonmaterial; day220distinct,91material,129nonmaterial; all0new/complete. Next: Helen Haines282335. OUTCOME:ongoing; STOPPING REASON:none.
+
+- Helen Haines282335: material executive start precision and transition/programme evidence.
+- Attempt67distinct,0new,36material,31nonmaterial,0complete; cycle84distinct,42material,42nonmaterial; day221distinct,92material,129nonmaterial; all0new/complete. Next: VIC2 Jess Walsh252157; otherVIC1members already reviewed today. OUTCOME:ongoing; STOPPING REASON:none.
