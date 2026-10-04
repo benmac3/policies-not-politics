@@ -232,3 +232,7 @@ Batch coverage, record fields, dates, enums, source references, build_careers.lo
 - Dan Tehan: nonmaterial follow-up — recovered NAA correspondence for request NAA1000448692. On 11 June 2026 NAA said RecordSearch found no employment file, inferred it likely remained with DFAT, and explained embassy/departmental records are not indexed by officer name; the applicant withdrew before NAA contacted DFAT. This precisely documents the archival blocker but supplies no appointment, secondment, hours or leave evidence. No outreach was sent.
 - Current continuation: 10 distinct records, 0 new, 2 materially enriched, 8 nonmaterial follow-ups and 0 newly complete. Cycle/day cumulative: 126 distinct, 0 new, 49 materially enriched, 77 nonmaterial follow-ups and 0 newly complete.
 - Durable next cursor: Lidia Thorpe (280304).
+
+- Lidia Thorpe: nonmaterial follow-up — exact searches for the seven-year Aboriginal funeral-service work found the existing first-person interview and official biography but no employer name, calendar boundaries, hours, leave or control. Her current biography's six years in local government is consistent with the 2011–16 sequence but does not prove continuous full-time service. Organisational/payroll records remain decisive.
+- Current continuation: 11 distinct records, 0 new, 2 materially enriched, 9 nonmaterial follow-ups and 0 newly complete. Cycle/day cumulative: 127 distinct, 0 new, 49 materially enriched, 78 nonmaterial follow-ups and 0 newly complete.
+- Durable next cursor: Kate Thwaites (282212).
