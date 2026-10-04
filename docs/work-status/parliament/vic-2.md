@@ -267,3 +267,12 @@ Batch coverage, record fields, dates, enums, source references, build_careers.lo
 - Jason Wood: nonmaterial follow-up — focused searches reconfirmed the 2013 first-person police-return account and the two-year pre-police camp period, but found no Victoria Police appointment/service record, return or cessation date, hours, leave, 2001 break evidence, camp employer or pay basis. Generic web avenues are now documented as exhausted; personnel records remain decisive.
 - Current continuation: 18 distinct records, 0 new, 3 materially enriched, 15 nonmaterial follow-ups and 0 newly complete. Cycle/day cumulative: 134 distinct, 0 new, 50 materially enriched, 84 nonmaterial follow-ups and 0 newly complete.
 - Durable next cursor: next national batch in plan order; vic-2 follow-up pass reached end of assigned sequence.
+
+
+## Active national follow-up — 2026-10-04 16:00 Brisbane cycle, continuation1
+
+- Additional user-authorized attempt started2026-10-04T17:00:01+10:00. Starting VIC2head8804be347b765129ec2cf9ac123569459f90d382;25initial,25blocked,0complete;24reviewedtoday, Jess Walsh still last_reviewed2026-10-03. No new conflicting writer observed.
+- Attempt67distinct,0new,36material,31nonmaterial,0complete; cycle84distinct42material42nonmaterial; day221distinct92material129nonmaterial. National226initial,226unresolved,0complete. Cursor Jess Walsh252157. OUTCOME:ongoing; STOPPING REASON:none. Successor not requested; scheduler terminal status unavailable.
+
+- Jess Walsh252157: nonmaterial publisher/archive follow-up; no unsupported study/fellowship dates.
+- Attempt68distinct,0new,36material,32nonmaterial,0complete; cycle85distinct,42material,43nonmaterial; day222distinct,92material,130nonmaterial; all0new/complete. Next: QLD1 Penny Allman-Payne298839; allVIC2members now reviewedtoday. OUTCOME:ongoing; STOPPING REASON:none.
