@@ -239,3 +239,6 @@
 
 - Anne Ruston243273: nonmaterial targeted contract/payroll follow-up; unresolved dates/hours retained.
 - Attempt62distinct,0new,33material,29nonmaterial,0complete; cycle79distinct,39material,40nonmaterial; day216distinct,89material,127nonmaterial; all0new/complete. Next: Rebekha Sharkie265980. OUTCOME:ongoing; STOPPING REASON:none.
+
+- Rebekha Sharkie265980: material2008Briggs boundary and Redmond part-time evidence.
+- Attempt63distinct,0new,34material,29nonmaterial,0complete; cycle80distinct,40material,40nonmaterial; day217distinct,90material,127nonmaterial; all0new/complete. Next: SA remaining5already reviewed2026-10-04; audit least-recent national queue next. OUTCOME:ongoing; STOPPING REASON:none.
