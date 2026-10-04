@@ -194,3 +194,13 @@ Batch coverage, record fields, dates, enums, source references, build_careers.lo
 - Next follow-up: next batch in plan order, VIC-1. Continue nationally; blocked records remain unresolved.
 - OUTCOME:ongoing. STOPPING REASON:none; continue after remote verification. Successor not requested. Scheduler terminal status unavailable.
 - Validation:career_batches --check226/13 and --batch nsw-3; individual JSON/source/date/enums and build_careers.load_records. Only assigned member/checkpoint changed.
+
+## Active follow-up — 2026-10-04 08:00 Brisbane cycle, continuation 1
+
+- NSW-3 branch entered at 2026-10-04T10:31:00+10:00 after completing the NSW-1 and NSW-2 rounds. Starting branch head: `4a0f0ea`. No intervening or conflicting branch update was observed.
+- This continuation across NSW-1, NSW-2 and NSW-3: 27 distinct records processed, 0 new initial, 8 materially enriched existing, 19 nonmaterial follow-ups, 0 newly research-complete. Cycle/day cumulative across continuations 0–1: 71 distinct records, 0 new, 28 materially enriched, 43 nonmaterial, 0 newly complete. Counts include only validated, committed and remotely verified member records; checkpoint-only commits excluded.
+- Alison Penfold (248895): nonmaterial follow-up — exact Futureye, Woolworths, NFF and parliamentary-office queries repeated the January 2021 Futureye observation, December 2016 NFF media contact, temporary custodial description and Woolworths title. No new boundary, payroll entity, hours, leave or title transition emerged; contact-data aggregator dates were not independently adopted.
+- National baseline remains 226/226 initial, 226 unresolved, 0 research-complete. NSW-3 remains 19/19 initial, 19 unresolved, 0 complete.
+- Durable next cursor: Fiona Phillips (147140).
+- OUTCOME: ongoing. STOPPING REASON: none; continue after remote verification. No successor requested. Scheduler terminal status unavailable.
+- Validation: JSON parse, `career_batches.py --check` (226/13), `career_batches.py --batch nsw-3`, `build_careers.py` and `git diff --check` passed. Only the assigned member and this checkpoint are included.
