@@ -348,3 +348,6 @@ State: ready-for-integration
 
 - 2026-10-04T22:41:34+10:00: Hodgins-May: qualifications and pro bono coaching recovered; employer and payroll gaps retained.
 - Attempt173distinct,0new,109material,64nonmaterial,0complete; cycle190distinct,115material,75nonmaterial; day226distinct,134material,92nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Jane Hume266499. OUTCOME:ongoing; STOPPING REASON:none.
+
+- 2026-10-04T22:47:52+10:00: Hume: omitted director term, qualifications and dated party offices recovered; employment-hours/leave gaps retained.
+- Attempt174distinct,0new,110material,64nonmaterial,0complete; cycle191distinct,116material,75nonmaterial; day226distinct,134material,92nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Alice Jordan-Baird316021. OUTCOME:ongoing; STOPPING REASON:none.
