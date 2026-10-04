@@ -272,3 +272,11 @@ Batch check passes: 226 assigned exactly once across 13 batches; nsw-2 assignmen
 - Durable next cursor: NSW-3 first assigned member.
 - OUTCOME: ongoing. STOPPING REASON: none; continue after remote verification. No successor requested. Scheduler terminal status unavailable.
 - Validation: JSON parse, `career_batches.py --check` (226/13), `career_batches.py --batch nsw-2`, `build_careers.py` and `git diff --check` passed. Only the assigned member and this checkpoint are included.
+
+
+## Additional authorised attempt — 2026-10-04 16:00 Brisbane cycle, continuation1
+
+- Attempt began2026-10-04T17:00:01+10:00; enteredNSW-2 afterNSW-1 verified member commit96c0a851403c6fdf6b6a9fb954b98f3d17d9ea15. StartingNSW-2 head0a0dc989da4e3e8627bd3c2db59628986b1f7482. Baseline19/19blocked; nationwide226initial/226unresolved/0complete. No conflicting head or active marker observed. Frozen batch validation226/13 and assignmentNSW-2 passed. Earlier ongoing checkpoint final status not exposed; outcome remains unknown.
+
+- 2026-10-04T19:16:38+10:00: Mehreen Faruqi250362 materially enriched: exact22June2009 Mosman role observation; hours and boundaries remain unresolved.
+- Attempt75distinct,0new,43material,32nonmaterial,0complete; cycle92distinct,49material,43nonmaterial; day226distinct,98material,128nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Michael Freelander265979. OUTCOME:ongoing; STOPPING REASON:none.
