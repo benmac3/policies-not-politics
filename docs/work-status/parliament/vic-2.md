@@ -331,3 +331,6 @@ Batch coverage, record fields, dates, enums, source references, build_careers.lo
 
 - 2026-10-04T23:23:58+10:00: Lidia Thorpe280304: material health board term, programme-management titles and leadership/advisory roles; day upgrade from earlier nonmaterial.
 - Attempt192distinct,0new,124material,68nonmaterial,0complete; cycle209distinct,130material,79nonmaterial; day226distinct,145material,81nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Kate Thwaites282212, VIC2 member18. OUTCOME:ongoing; STOPPING REASON:none.
+
+- 2026-10-04T23:26:29+10:00: Kate Thwaites282212: materially added publisher-confirmed authorship and2017 leadership programme; day upgrade from earlier nonmaterial. Source403 did not terminate research.
+- Attempt193distinct,0new,125material,68nonmaterial,0complete; cycle210distinct,131material,79nonmaterial; day226distinct,146material,80nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Aaron Violi300147, VIC2 member19. OUTCOME:ongoing; STOPPING REASON:none.

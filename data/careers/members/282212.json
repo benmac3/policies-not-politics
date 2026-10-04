@@ -108,7 +108,7 @@
       "role": "Member for Jagajaga",
       "start_date": "2019-05-18",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "day",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -200,6 +200,44 @@
       "evidence_note": "Official qualifications; study dates and load unknown.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "282212-09"
+    },
+    {
+      "spell_id": "282212-10",
+      "employer": "Monash University Publishing; employment relationship unknown",
+      "role": "Coauthor with Jenny Macklin, Enough is Enough",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "unknown",
+      "government_control_at_time": "unknown",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "oct4-monash-publisher"
+      ],
+      "evidence_note": "Publisher confirms authorship and1July2021 release; publication is an observation, not a personal work endpoint. Overlaps elected service; remuneration and contractual relationship unknown.",
+      "counting_note": "No employment duration or FTE calculated; course participation and publication are not full-time-work evidence."
+    },
+    {
+      "spell_id": "282212-11",
+      "employer": "Leadership Victoria",
+      "role": "Williamson leadership programme participant",
+      "start_date": "2017",
+      "end_date": "2017",
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-2"
+      ],
+      "evidence_note": "2017 yearbook identifies her among participants; her own profile discusses Williamson. Adjacent Folio graduate heading is for other columns, not her programme. No exact course-day boundaries or salary inferred.",
+      "counting_note": "No employment duration or FTE calculated; course participation and publication are not full-time-work evidence."
     }
   ],
   "sources": [
@@ -218,10 +256,10 @@
       "url": "https://www.leadershipvictoria.org/wp-content/uploads/2019/09/2017-yearbook-web-version.pdf",
       "publisher": "Leadership Victoria",
       "title": "Yearbook 2017: Embracing Disruption",
-      "retrieved": "2026-09-29",
+      "retrieved": "2026-10-04",
       "source_type": "professional_profile",
-      "locator": "PDF page 7, Kate Thwaites profile, lines 1101–1140",
-      "note": "Contemporaneous participant profile identifies Assistant Director, Portfolio Communications, Department of Health and Human Services, and earlier ABC/minister work. Qualification as yoga teacher is not evidence of paid employment."
+      "locator": "PDFp7/printedpp12–13, Kate Thwaites profile and Williamson reflection",
+      "note": "Contemporaneous participant profile identifies Assistant Director, Portfolio Communications, Department of Health and Human Services, and earlier ABC/minister work. Qualification as yoga teacher is not evidence of paid employment. Text re-inspected for personal programme identification. Local visual-download attempt returned HTTP403; no claim of a new rendered-page inspection."
     },
     {
       "source_id": "src-3",
@@ -322,6 +360,16 @@
       "note": "Employer release lists Kate Thwaites as media contact, providing a dated Oxfam observation soon after her final located ABC credit.",
       "retrieved": "2026-10-03",
       "source_id": "src-12"
+    },
+    {
+      "source_id": "oct4-monash-publisher",
+      "url": "https://publishing.monash.edu/product/enough-is-enough/",
+      "publisher": "Monash University Publishing",
+      "title": "Enough is Enough",
+      "retrieved": "2026-10-04",
+      "source_type": "employer",
+      "locator": "Publication date and author heading",
+      "note": "Primary publisher lists Kate Thwaites and Jenny Macklin as coauthors and1July2021 publication. Writing dates, contract, pay/royalties and hours not disclosed."
     }
   ],
   "research_notes": [
@@ -332,6 +380,7 @@
     "Year-only ranges and same-year transitions cannot be summed as exact elapsed full-time years. No missing period or hours is assigned zero. Last follow-up 2026-09-29; retain blocked status until substantive hours, gaps and date evidence can be resolved.",
     "2026-10-02 follow-up: public professional profile resolves CPR Jun2014–Jul2015, NDIA Jul–Nov2015 and DHHS Nov2015–Mar2019; employer anniversary post and contemporary Enero ownership report independently corroborate private business. First speech adds omitted2002 community-radio work and nine months partly unpaid maternity leave; exact leave interval unresolved and no deduction invented. No direct LinkedIn retry after earlier cycle429; public search index used. Own-site timeout, APH restricted fetch and AustralianPolitics verification screen were source gaps; accessible published extract/index used. Next:2013–Jun2014 chronology,2002 radio/ABC boundary,CPR/NDIA exact transitions,individual FTE and leave; yoga teaching remains qualification-only. All durations null.",
     "2026-10-03 follow-up materially narrows the ABC-to-Oxfam transition: ABC News credits Thwaites for television reporting on27October2008, while an Oxfam employer release lists her as media contact on19December2008. These observations bracket the switch within late2008 but do not establish departure/commencement days, hours, leave or whether any overlap occurred. Searches did not resolve the2013–June2014 interval,2002 radio-to-ABC boundary, yoga teaching as paid work, maternity-leave dates or individual FTE. No duration calculated.",
-    "2026-10-04 follow-up: exact-name searches for the unresolved 2013–June2014 interval and CPR commencement returned the public professional profile already used, general career summaries and unrelated namesakes. No employer, freelance contract, appointment, hours, leave or yoga-teaching pay evidence surfaced. The 2021 coauthored book is post-election authorship and does not fill this pre-parliament gap. Generic web search is exhausted for this pass; CPR personnel records, Macklin-office separation records and a complete public CV remain decisive. No substantive fact changed."
+    "2026-10-04 follow-up: exact-name searches for the unresolved 2013–June2014 interval and CPR commencement returned the public professional profile already used, general career summaries and unrelated namesakes. No employer, freelance contract, appointment, hours, leave or yoga-teaching pay evidence surfaced. The 2021 coauthored book is post-election authorship and does not fill this pre-parliament gap. Generic web search is exhausted for this pass; CPR personnel records, Macklin-office separation records and a complete public CV remain decisive. No substantive fact changed.",
+    "Follow-up2026-10-04: Primary Monash publisher record now substantiates omitted coauthorship, kept as undated potential professional activity with unknown pay/contract rather than using publication as a work endpoint. Leadership Victoria2017 yearbook identifies personal Williamson programme participation; added excluded study with year precision. Yoga qualification is not converted into paid teaching; adjacent Folio heading/other participant careers were not assigned to her. Web PDF text was accessible, while ordinary local download returned HTTP403 Forbidden and rendering consequently lacked a file; source-specific failure recorded without access-control workaround or false visual-inspection claim. Existing ABC/NDIA/DHHS/CPR hours, maternity leave and2013–2014 bridge remain unresolved."
   ]
 }
