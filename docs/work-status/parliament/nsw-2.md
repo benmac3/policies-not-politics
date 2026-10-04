@@ -313,3 +313,6 @@ Batch check passes: 226 assigned exactly once across 13 batches; nsw-2 assignmen
 
 - 2026-10-04T19:40:14+10:00: Julian Leeser: omitted 2013 campaign role added and hospital committee capacity resolved; no countable duration.
 - Attempt86distinct,0new,50material,36nonmaterial,0complete; cycle103distinct,56material,47nonmaterial; day226distinct,103material,123nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: David Moncrieff 316540. OUTCOME:ongoing; STOPPING REASON:none.
+
+- 2026-10-04T19:41:01+10:00: David Moncrieff: APRA bargaining-record avenue checked; no new career fact, blocked gaps retained.
+- Attempt87distinct,0new,50material,37nonmaterial,0complete; cycle104distinct,56material,48nonmaterial; day226distinct,103material,123nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Jenny McAllister 121628. OUTCOME:ongoing; STOPPING REASON:none.
