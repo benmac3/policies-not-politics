@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/74519",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-03",
+  "last_reviewed": "2026-10-04",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -159,9 +159,10 @@
       "government_control_at_time": "public",
       "counting_status": "excluded",
       "source_ids": [
-        "src-2"
+        "src-2",
+        "src-16"
       ],
-      "evidence_note": "Qualifications established; dates/workload and work overlap unknown.",
+      "evidence_note": "Qualifications established; dates/workload and work overlap unknown. Personal Guild interview specifies Curtin enrolment in 2003 for a Social Science/Communications double degree and later withdrawal from the film/television component. UWA commencement and both completion dates remain unknown; combined spell boundaries stay null.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "74519-07"
     },
@@ -241,6 +242,25 @@
       "evidence_note": "Rikki Hendon, Education VP in 2005, identifies Gorman as president and herself and Gorman as the two full-timers. Retrospective first-hand full-time description; remuneration, exact term days and leave still unknown.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "74519-11"
+    },
+    {
+      "spell_id": "74519-12",
+      "employer": "Curtin Student Guild",
+      "role": "Guild Council member, filling a vacancy",
+      "start_date": "2003",
+      "end_date": null,
+      "date_precision": "mixed",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "nonprofit",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-16"
+      ],
+      "evidence_note": "First-person interview identifies appointment to a vacant Council place in 2003 before the separately recorded 2004 Humanities representative and 2005 presidency. Council appointment day, cessation, remuneration and hours unknown; no paid employment inferred.",
+      "counting_note": "Governance role excluded; overlapping Guild roles are not added as employment years."
     }
   ],
   "sources": [
@@ -393,6 +413,16 @@
       "note": "Lists Patrick Gorman as Adviser to Kevin Rudd, Minister for Foreign Affairs, for an Argentina study tour from 7 to 19 December 2011.",
       "retrieved": "2026-10-03",
       "source_id": "src-15"
+    },
+    {
+      "source_id": "src-16",
+      "url": "https://guild.curtin.edu.au/news/article/6013/patrick-gorman/",
+      "publisher": "Curtin Student Guild / Patrick Gorman interview",
+      "title": "50 years of the Guild: looking back, Patrick Gorman, former Guild President",
+      "source_type": "first_person",
+      "locator": "28 June 2022; enrolment and Guild Council questions",
+      "retrieved": "2026-10-04",
+      "note": "Personal account dates Curtin enrolment and filling a vacant Guild Council place to 2003; does not establish pay or workload."
     }
   ],
   "research_notes": [
@@ -401,6 +431,7 @@
     "Obtain United Voice and WA Labor exact payroll dates/hours/leave and 2018 resignation; separate paid secretary role from voluntary party governance. Resolve qualification dates, study/work overlap and any career breaks. Political, party and union roles remain excluded regardless of funding or full-time status.",
     "Follow-up 2026-10-02: full first-speech text on own website recovered after APH restricted-URL failure and identifies McDonalds shift management, overturning earlier unsuccessful hospitality search. Two Guild primary pages establish Humanities Representative 2004 and full-time president 2005; pay still unknown.",
     "Distinguished three-month leave reported before Parliament in 2018 from separate three-month leave ending around March 2021; neither assigned invented day boundaries. May 2018 secretary handover supported by Dixon succession account, not July election proxy.",
-    "Targeted early-job, union, staff and public professional searches still leave Travers date conflict and hospitality dates/outlet/entity unresolved. US restaurant, cybersecurity and recruitment namesakes excluded. DEWR McDonalds keyword hit was an unrelated recommended Tony Burke interview, not Gorman employment evidence. Next: Guild 2005 remuneration/annual report, McDonalds outlet and dates, original staff appointments and union payroll."
+    "Targeted early-job, union, staff and public professional searches still leave Travers date conflict and hospitality dates/outlet/entity unresolved. US restaurant, cybersecurity and recruitment namesakes excluded. DEWR McDonalds keyword hit was an unrelated recommended Tony Burke interview, not Gorman employment evidence. Next: Guild 2005 remuneration/annual report, McDonalds outlet and dates, original staff appointments and union payroll.",
+    "Follow-up2026-10-04: New Guild interview records earlier 2003 Council membership and Curtin enrolment; preserved separate 2004/2005 roles and unknown study completion/work overlap. Targeted McDonalds outlet, Travers appointment and 2005 remuneration searches did not close private-work date/hour gaps. Curtin tabled annual-report index contains 13 August 2005 cessation for a university elected representative; two report opens returned HTTP403, so do not apply that date to Guild presidency or payroll. Future avenue: inspect full 2004/2005 university reports for separate governance membership, with no assumption it was salaried."
   ]
 }

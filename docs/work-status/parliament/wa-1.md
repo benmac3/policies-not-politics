@@ -185,3 +185,6 @@ Detailed attempted avenues, discrepancies and remaining leads are preserved in e
 
 - Varun Ghosh follow-up: no new attributable contract, hours or practice-cessation evidence.
 - Attempt26distinct,0new,13material,13nonmaterial,0complete; cycle43distinct,19material,24nonmaterial; day180distinct,69material,111nonmaterial; all0new/complete. Next: Patrick Gorman 74519. OUTCOME:ongoing; STOPPING REASON:none.
+
+- Patrick Gorman enriched: added previously omitted 2003 Guild Council appointment and personal study chronology.
+- Attempt27distinct,0new,14material,13nonmaterial,0complete; cycle44distinct,20material,24nonmaterial; day181distinct,70material,111nonmaterial; all0new/complete. Next: Andrew Hastie 260805. OUTCOME:ongoing; STOPPING REASON:none.
