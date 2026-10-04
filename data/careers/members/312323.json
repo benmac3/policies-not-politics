@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/312323",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-03",
+  "last_reviewed": "2026-10-04",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -76,7 +76,7 @@
     {
       "spell_id": "312323-04",
       "employer": "Australian Indigenous Education Foundation",
-      "role": "Programs director; general manager, Strategy and Policy",
+      "role": "Pathways Director; Programs Director; Projects Director; later general manager, Strategy and Policy",
       "start_date": "2010",
       "end_date": "2018",
       "date_precision": "year",
@@ -88,9 +88,12 @@
       "counting_status": "excluded",
       "source_ids": [
         "src-1",
-        "src-3"
+        "src-3",
+        "src-14",
+        "src-15",
+        "src-16"
       ],
-      "evidence_note": "Combined parliamentary role interval. Annual Report 2009 names Pathways Director in report signed May 2010; title transition and any pre-2010 start remain unresolved.",
+      "evidence_note": "Combined parliamentary role interval. AIEF's 2009 annual report, signed in May 2010, names Coffey as Pathways Director; its 2010 and 2011 reports name her Programs Director; the 2013 report names her Projects Director. These primary employer snapshots establish title progression but not exact transition dates or a pre-2010 commencement. Later parliamentary material supplies the general-manager title and 2018 endpoint.",
       "counting_note": "Excluded from the two employment headlines under the codebook."
     },
     {
@@ -502,6 +505,36 @@
       "source_type": "employer",
       "locator": "Repository metadata: Coffey, Renee (2006), Honours Thesis, School of History, Philosophy, Religion and Classics",
       "note": "Primary university repository metadata establishes the 2006 honours-thesis year; it does not supply degree commencement, study load or employment evidence."
+    },
+    {
+      "source_id": "src-14",
+      "url": "https://www.aief.com.au/wp-content/uploads/2022/08/2010_aief_annual_report-52538ea7d0b99.pdf",
+      "publisher": "Australian Indigenous Education Foundation",
+      "title": "Annual Report 2010",
+      "retrieved": "2026-10-04",
+      "source_type": "annual_report",
+      "locator": "Team listing, Renée Coffey",
+      "note": "Lists Renée Coffey as Programs Director. Snapshot supports title and 2010 activity, not exact appointment date or hours."
+    },
+    {
+      "source_id": "src-15",
+      "url": "https://www.aief.com.au/wp-content/uploads/2022/08/2011_annual_report-525380a34e7cf.pdf",
+      "publisher": "Australian Indigenous Education Foundation",
+      "title": "Annual Report 2011",
+      "retrieved": "2026-10-04",
+      "source_type": "annual_report",
+      "locator": "AIEF team listing",
+      "note": "Lists Renée Coffey as Programs Director. Snapshot supports continuing title in 2011, not exact boundaries or hours."
+    },
+    {
+      "source_id": "src-16",
+      "url": "https://www.aief.com.au/wp-content/uploads/2022/08/2013-aief-annual-report-2018-edition.pdf",
+      "publisher": "Australian Indigenous Education Foundation",
+      "title": "Annual Report 2013",
+      "retrieved": "2026-10-04",
+      "source_type": "annual_report",
+      "locator": "Governance and people, team listing, page 22",
+      "note": "Lists Renée Coffey as Projects Director. Establishes title evolution by 2013; exact transition date and hours remain unknown."
     }
   ],
   "research_notes": [
@@ -512,6 +545,7 @@
     "First speech describes six months of full-time campaigning. That does not establish hours in the charity CEO role or a precise resignation date. Public biographies' public-service totals are not substitutes for non-overlapping dated employment spells.",
     "No eligible private-enterprise spell established in this pass; completeness has not been established, so absence of a identified spell is not a zero headline. Blocked initial record requires systematic follow-up.",
     "2026-10-02 follow-up: added2000 commencement for unresolved government-work umbrella,1998 youth founding and separately dated UniSA/UNSW/Stanford study. Seven-year public-service claim still lacks employer-by-employer boundaries and hours. Recovered2008–09 Library annual report but no person match. UQ repository UQ:319766 returned (403) Forbidden;2006 thesis remains a verification lead, not adopted graduation date. Historical2018 professional biography and2020 school profile do not resolve AIEF promotion/start boundaries, government employment conditions or2025 charity cessation. Next: early Queensland departmental staff records, historical Reconciliation SA employment/control and dated public CV. Existing supported facts and null totals retained.",
-    "2026-10-03 follow-up: search indexing exposed UQ's primary repository metadata for the 2006 honours thesis and the public LinkedIn profile's January 2004–December 2006 Reconciliation Queensland interval. The latter is coded as volunteering because Coffey's first speech explicitly describes that activity as volunteer work; it is not added to employment totals. The possible 2006 overlap with Reconciliation South Australia remains unresolved. Searches of Queensland Government, State Library, Education, Reconciliation SA, Kookaburra Kids and successor records did not identify the missing departments, public-service hours or exact charity cessation. A March 2025 self-report says she had recently stepped down and names a successor managing director, but no exact cessation day is inferred."
+    "2026-10-03 follow-up: search indexing exposed UQ's primary repository metadata for the 2006 honours thesis and the public LinkedIn profile's January 2004–December 2006 Reconciliation Queensland interval. The latter is coded as volunteering because Coffey's first speech explicitly describes that activity as volunteer work; it is not added to employment totals. The possible 2006 overlap with Reconciliation South Australia remains unresolved. Searches of Queensland Government, State Library, Education, Reconciliation SA, Kookaburra Kids and successor records did not identify the missing departments, public-service hours or exact charity cessation. A March 2025 self-report says she had recently stepped down and names a successor managing director, but no exact cessation day is inferred.",
+    "2026-10-04 follow-up (second nationwide pass): employer annual reports materially refine the AIEF title sequence: Programs Director in the 2010 and 2011 reports and Projects Director in 2013, following the 2009 report's Pathways Director listing. These are employer snapshots, not exact promotion dates, hours or proof of a pre-2010 commencement; APH's 2010 overall start remains retained. Kookaburra searches repeated the March 2023 appointment and a March 2025 'recently stepped down' statement without an exact cessation day. Government department identities and person-specific public-service hours remain unresolved."
   ]
 }

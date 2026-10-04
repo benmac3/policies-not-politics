@@ -242,3 +242,7 @@ Deduplicated Brisbane-day new member IDs: 00AMR, 101351, 124514, 132880, 140590,
 - Anthony Chisholm: nonmaterial follow-up — Santos separation and interests searches repeated the April 2016 employer confirmation and later broad claims of work until election, but supplied no last working day, campaign leave, hours or continuity proof. Swan role and pre-2004 work remain unresolved; an original separation record, CV or interests filing is required.
 - Current cycle/continuation: 3 distinct records, 0 new initial, 1 materially enriched existing, 2 nonmaterial follow-ups and 0 newly complete. Brisbane-day cumulative: 140 distinct, 0 new, 51 materially enriched, 89 nonmaterial follow-ups and 0 newly complete.
 - Durable next cursor: Renee Coffey (312323).
+
+- Renee Coffey: materially enriched — AIEF employer annual reports now establish title progression from Programs Director in 2010–11 to Projects Director in 2013, alongside the previously recorded Pathways Director and later general-manager titles. Exact promotion dates, hours, pre-2010 commencement, government departments and Kookaburra cessation remain unresolved.
+- Current cycle/continuation: 4 distinct records, 0 new initial, 2 materially enriched existing, 2 nonmaterial follow-ups and 0 newly complete. Brisbane-day cumulative: 141 distinct, 0 new, 52 materially enriched, 89 nonmaterial follow-ups and 0 newly complete.
+- Durable next cursor: Emma Comer (316551).
