@@ -241,3 +241,6 @@ Batch coverage, record fields, dates, enums, source references, build_careers.lo
 
 - 2026-10-04T19:57:00+10:00: Gordon Reid: materially refined honorary clinical capacity and district identity.
 - Attempt97distinct,0new,55material,42nonmaterial,0complete; cycle114distinct,61material,53nonmaterial; day226distinct,105material,121nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Dan Repacholi298840. OUTCOME:ongoing; STOPPING REASON:none.
+
+- 2026-10-04T19:58:56+10:00: Dan Repacholi: material original-source/duty and named-sponsor enrichment.
+- Attempt98distinct,0new,56material,42nonmaterial,0complete; cycle115distinct,62material,53nonmaterial; day226distinct,106material,120nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Michelle Rowland159771. OUTCOME:ongoing; STOPPING REASON:none.
