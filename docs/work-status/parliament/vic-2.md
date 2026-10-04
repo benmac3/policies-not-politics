@@ -310,3 +310,6 @@ Batch coverage, record fields, dates, enums, source references, build_careers.lo
 
 - 2026-10-04T23:12:31+10:00: Clare O’Neil140590: materially corrected misplaced course years; primary Fulbright corroboration of2003 Monash study/2006 award. Day upgrade from earlier nonmaterial.
 - Attempt185distinct,0new,120material,65nonmaterial,0complete; cycle202distinct,126material,76nonmaterial; day226distinct,141material,85nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: James Paterson144138, VIC2 member11. OUTCOME:ongoing; STOPPING REASON:none.
+
+- 2026-10-04T23:14:33+10:00: James Paterson144138: material programme chronology and two fellowships; day upgrade from earlier nonmaterial.
+- Attempt186distinct,0new,121material,65nonmaterial,0complete; cycle203distinct,127material,76nonmaterial; day226distinct,142material,84nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Sam Rae300122, VIC2 member12. OUTCOME:ongoing; STOPPING REASON:none.
