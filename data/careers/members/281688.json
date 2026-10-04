@@ -6,7 +6,7 @@
   "snapshot_party": "The Nationals",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/281688",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-04",
+  "last_reviewed": "2026-10-05",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -181,7 +181,7 @@
       "spell_id": "281688-09",
       "employer": "Australian National University",
       "role": "Doctoral study",
-      "start_date": null,
+      "start_date": "2012",
       "end_date": "2018",
       "date_precision": "year",
       "employment_status": "unknown",
@@ -193,9 +193,11 @@
       "source_ids": [
         "src-1",
         "src-2",
-        "src-4"
+        "src-4",
+        "src-10",
+        "src-11"
       ],
-      "evidence_note": "Completion in 2018 supported. Scholarship does not by itself establish employee status or countable public service.",
+      "evidence_note": "Completion in 2018 supported. Scholarship does not by itself establish employee status or countable public service. Original thesis acknowledgements date the research beginning to2012 and describe two extended breaks to support family, without boundaries or durations. RTP scholarship support documented. Declaration dated26July2018 is a manuscript milestone; university graduate list confirms2018 completion. These are study breaks, not inferred leave from Zoe employment.",
       "counting_note": "Excluded from the two employment headlines under the codebook."
     },
     {
@@ -365,6 +367,26 @@
       "note": "Contemporaneous council record identifies Webster as Zoe Support's founder and executive director on 26 January 2019. It supplies a dated role snapshot, not pay, hours or the later departure day.",
       "retrieved": "2026-10-03",
       "source_id": "src-9"
+    },
+    {
+      "source_id": "src-10",
+      "url": "https://openresearch-repository.anu.edu.au/server/api/core/bitstreams/c434a1fd-9b84-476a-889f-b71aa09eb421/content",
+      "publisher": "Anne Webster / Australian National University repository",
+      "title": "The Legacy, Legality and Legitimacy of Adopting Out — doctoral thesis",
+      "retrieved": "2026-10-05",
+      "source_type": "other",
+      "locator": "Printed pages ii–iii: declaration dated 26 July 2018 and acknowledgements",
+      "note": "Original university-hosted PDF retrieved by standard urllib request with HTTP200, 5,292,343bytes; web search open separately returned403. Author dates research beginning to2012 and describes two extended study breaks to support family, with no dates/durations. RTP scholarship support is not a payroll appointment. Declaration day is not conferral day."
+    },
+    {
+      "source_id": "src-11",
+      "url": "https://sociology.cass.anu.edu.au/people/graduated-phd-students",
+      "publisher": "Australian National University, School of Sociology",
+      "title": "Graduated PhD Students",
+      "retrieved": "2026-10-05",
+      "source_type": "employer",
+      "locator": "2018 heading, Anne Webster entry",
+      "note": "University independently lists Webster among2018 graduates; thesis description Adopting-out, the Unchoice in Contemporary Australia differs from final document title but no second doctorate inferred."
     }
   ],
   "research_notes": [
@@ -378,6 +400,7 @@
     "Remaining: actual teaching employers, seamstress and image-consultancy trading entities, hours/pay and breaks; MASP resignation/chair dates and Zoe employment basis. Targeted searches mostly namesakes; no new supported school employer. Zoe2018PDF timeout,2017ACNCblob404, LinkedIn999 and ParliamentVictoria transcript inaccessible; indexed primary extracts and accessible coauthored article used. Do not endlessly repeat these failed URLs without new leads. Last follow-up2026-10-02; unresolved, totals null.",
     "2026-10-03 follow-up: Mildura Rural City Council's dated Australia Day award notice observes Webster as Zoe Support founder and executive director on 26 January 2019, materially bracketing the transition to patron shown in the employer's 2019 report. This does not identify the departure day, pay or hours and is not used to infer full-time work. Fresh searches for teaching schools, music clients, seamstress/image-consulting entities and MASP chair/end dates returned only previously captured material or namesakes. Record remains blocked; totals null.",
     "2026-10-04 follow-up: exact-name Mildura searches for music teaching, seamstress and image-consulting work returned the existing general biography, current member page and unrelated namesakes. No school/client, trading entity, appointment, hours, leave or payroll evidence surfaced. Generic web search is exhausted for this pass; historical local directories, school records, business registrations and contemporaneous advertisements remain the targeted avenues. Zoe executive evidence was not revisited because the prior pass already bracketed it to 26January2019 and the employer report; no substantive fact changed.",
-    "Follow-up2026-10-04: Official parliamentary index adds previously unrecorded AMusA qualification, attributed there to University of Melbourne; timing and attendance remain unknown. Index also reports2011 Lachlan Macquarie Internship Scholarship, but an award alone does not establish attendance, placement employer or salaried internship. Current own biography lists Australian Company Directors Institute ambiguously, without identifying a course, role or dates; retained as a clarification lead, not an invented appointment. Direct APH fetch403Forbidden, indexed official text used transparently. Targeted full-time Zoe query refers to a client’s full-time study, not Webster’s work. Next: AMusA examination record, identifiable AICD role/course, scholarship placement confirmation, early work employers and hours."
+    "Follow-up2026-10-04: Official parliamentary index adds previously unrecorded AMusA qualification, attributed there to University of Melbourne; timing and attendance remain unknown. Index also reports2011 Lachlan Macquarie Internship Scholarship, but an award alone does not establish attendance, placement employer or salaried internship. Current own biography lists Australian Company Directors Institute ambiguously, without identifying a course, role or dates; retained as a clarification lead, not an invented appointment. Direct APH fetch403Forbidden, indexed official text used transparently. Targeted full-time Zoe query refers to a client’s full-time study, not Webster’s work. Next: AMusA examination record, identifiable AICD role/course, scholarship placement confirmation, early work employers and hours.",
+    "Follow-up 2026-10-05: Retrieved original ANU thesis by normal HTTP200 download after search-service403. Acknowledgements establish2012 doctoral-research beginning, RTP scholarship support and two extended study breaks without dates/durations. University2018 graduate list independently corroborates completion. Recorded2012–18 study with interruptions explicitly unresolved; manuscript declaration26July2018 not conferral and study breaks not employment leave. No earlier payroll employers or hours found in thesis; music/sewing/consultancy overlap remains. AdvOc8 index1989AMusA is a secondary clarification lead, not adopted over official undated qualification; scholarship award still not placement attendance. No totals calculated."
   ]
 }
