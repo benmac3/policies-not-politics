@@ -374,3 +374,6 @@ Batch check passes: 226 assigned exactly once across 13 batches; nsw-1 assignmen
 
 - 2026-10-04T21:46:37+10:00: Cadell namesake and weak forum evidence rejected; targeted original-employment follow-up remains unresolved.
 - Attempt149distinct,0new,87material,62nonmaterial,0complete; cycle166distinct,93material,73nonmaterial; day226distinct,124material,102nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: HWL Jason Clare. OUTCOME:ongoing; STOPPING REASON:none.
+
+- 2026-10-04T21:47:31+10:00: Clare primary-school alumni corroboration and unverified UTS qualification lead saved; employment boundaries unchanged.
+- Attempt150distinct,0new,87material,63nonmaterial,0complete; cycle167distinct,93material,74nonmaterial; day226distinct,124material,102nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: 248181 Sharon Claydon. OUTCOME:ongoing; STOPPING REASON:none.
