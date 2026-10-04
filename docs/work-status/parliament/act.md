@@ -64,3 +64,12 @@
 - OUTCOME: ongoing. STOPPING REASON: none; continue after remote verification. No successor requested. Scheduler terminal status unavailable.
 - Validation: JSON parse, `career_batches.py --check` (226/13), `career_batches.py --batch act`, `build_careers.py` and `git diff --check` passed. Only the assigned member and this checkpoint were written on the ACT branch.
 - Recovered tool errors: initial combined local-read/upload orchestration returned `exec-server transport disconnected`; no remote write occurred in that failed call. A subsequent ordinary read and single update succeeded and was remotely verified. The first ACT clone validation command ran from the parent directory and returned `python: can't open file '/workspace/scratch/344d5ff97750/scripts/career_batches.py'`; rerunning from the checkout passed. One Andrew Leigh search response was truncated; narrower follow-up searches completed. None was terminal.
+
+## Active follow-up — 2026-10-04 16:00 Brisbane cycle, continuation1
+
+- Explicit human resume began2026-10-04T17:00:01+10:00; same invocation continuing from Tasmania. Starting ACT remote head74ebe985937dd0512d6a8c4646f1b9eb4829b250;5initial/5unresolved/0complete. All13remote heads refreshed and current checkpoint inspected; no competing writer or changed ACT head observed. Baseline nationwide226initial/226unresolved/0complete.
+- Entering ACT: attempt129distinct,0new,74material,55nonmaterial,0newlycomplete; cycle146distinct,80material,66nonmaterial. Day226distinct, provisional118material/108nonmaterial; classification reconciliation pending, no claim that semantic source/note changes alone are material. These counts are deduplicated remotely verified member commits; source-only and checkpoint-only changes excluded from material counts.
+- Next: Katy GallagherING, then remaining assigned members sequentially. Prior successor remains execution unverified; no successor requested in this execution. OUTCOME:ongoing. STOPPING REASON:none. Final scheduler telemetry unavailable.
+
+- 2026-10-04T20:56:17+10:00: Gallagher: RSPCA annual report resolves board endpoint26November2019; Calvary correspondence lead located.
+- Attempt130distinct,0new,75material,55nonmaterial,0complete; cycle147distinct,81material,66nonmaterial; day226distinct,118material,108nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Andrew LeighBU8. OUTCOME:ongoing; STOPPING REASON:none.
