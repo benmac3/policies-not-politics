@@ -6,7 +6,7 @@
   "snapshot_party": "Liberal Party of Australia",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/260805",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-04",
+  "last_reviewed": "2026-10-05",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -130,7 +130,7 @@
       "role": "Member for Canning",
       "start_date": "2015-09-19",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "day",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -162,6 +162,25 @@
       "evidence_note": "Own speech describes five years as a cadet including 1998 training at age 15, before later Army service. Participation/training, not salaried Army employment; no calendar endpoints inferred.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "260805-07"
+    },
+    {
+      "spell_id": "260805-08",
+      "employer": "George Washington University, Washington DC",
+      "role": "Short-course student; programme title not verified in primary transcript",
+      "start_date": "2007",
+      "end_date": "2007",
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-16"
+      ],
+      "evidence_note": "Hastie personally dates shortcourse to2007inANU-hosted transcript. Exact dates, duration, funding and studyload unknown. Secondary ElliottSchool USForeignPolicySummerProgramme title remains a lead requiring provider confirmation. Overlaps existingArmyofficer year and does not establish unpaid/non-service break.",
+      "counting_note": "Study excluded; no additional paidjob or subtraction from Army service inferred."
     }
   ],
   "sources": [
@@ -314,6 +333,16 @@
       "locator": "24 November 2020; paragraph beginning When I posted to SASR",
       "retrieved": "2026-10-04",
       "note": "Publicly reproduced personal article specifies January 2010 posting as a non-qualified captain; not a new employer or separate period to add."
+    },
+    {
+      "source_id": "src-16",
+      "url": "https://nsc.anu.edu.au/podcast/andrew-hastie-social-cohesion-defence-and-strategic-challenges",
+      "publisher": "Australian National University National Security College / Andrew Hastie",
+      "title": "Andrew Hastie on social cohesion, defence and strategic challenges",
+      "source_type": "first_person",
+      "retrieved": "2026-10-05",
+      "locator": "Published podcast transcript; personal career paragraph mentioning short course at GeorgeWashingtonUniversity backin2007",
+      "note": "First-person transcript independently establishes2007shortcourse; no duration, studyload or Army leave/payroll treatment stated."
     }
   ],
   "research_notes": [
@@ -325,6 +354,7 @@
     "Secondary December 2006 commissioning claim remains in tension with frozen officer range from 2007; searches for individual Duntroon graduation/personnel evidence did not resolve it. A general December graduation ceremony cannot establish personal commissioning. Existing conditional August boundary envelope remains a broad earlier envelope, not certified total.",
     "Targeted first-job/full-time/personnel and court-domain searches did not establish civilian employment or an individual training contract. ABC local-law-firm first-job quotation belongs to Matt Keogh, not Hastie.",
     "Follow-up 2026-10-03: Defence-hosted first-person evidence establishes a three-year ADFA plus one-year Duntroon sequence; statutory review evidence establishes that ADFA cadets were salaried ADF members undertaking residential military and academic training. A publicly indexed professional profile supplies January-December 2006 for Duntroon. These support full-time paid training status but not a certified 2003 start day, leave record or internal payroll transition. Next: individual appointment/commissioning record, final payroll and non-service breaks.",
-    "Follow-up2026-10-04: Personal article supplies month-level January 2010 SASR posting within existing Army service. Commissioning/ADFA-entry/payroll and early civilian-work searches did not find an individual service document. LinkedIn indexed January 2003 YOFT quotation is a displayed comment without demonstrated subject attribution and is not adopted as Hastie entry date. Reserve-to-regular transfer, precise 2003 start, December 2006 commissioning claim, non-service breaks and final payroll remain gaps; retain unknown totals."
+    "Follow-up2026-10-04: Personal article supplies month-level January 2010 SASR posting within existing Army service. Commissioning/ADFA-entry/payroll and early civilian-work searches did not find an individual service document. LinkedIn indexed January 2003 YOFT quotation is a displayed comment without demonstrated subject attribution and is not adopted as Hastie entry date. Reserve-to-regular transfer, precise 2003 start, December 2006 commissioning claim, non-service breaks and final payroll remain gaps; retain unknown totals.",
+    "Follow-up2026-10-05: ANU-hosted first-person podcast transcript identifies previously omitted GeorgeWashingtonUniversity shortcourse in2007; added excludedstudy separate from Army payroll. Secondaryprogramme title not attributed to primarysource. Exactname/commissioning searches still no individual2006commission order; do not adopt general12Decemberceremony as personalappointment. Study overlaps existingArmyyear; no unpaidleave assumed. Next individual service entry/separation or commission record and course provider dates."
   ]
 }
