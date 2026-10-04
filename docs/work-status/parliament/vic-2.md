@@ -283,3 +283,6 @@ Batch coverage, record fields, dates, enums, source references, build_careers.lo
 
 - 2026-10-04T22:51:49+10:00: Kearney: Cbus commencement month, education and successor-agency board service recovered; nursing-duration blockers retained.
 - Attempt176distinct,0new,112material,64nonmaterial,0complete; cycle193distinct,118material,75nonmaterial; day226distinct,135material,91nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Peter Khalil101351. OUTCOME:ongoing; STOPPING REASON:none.
+
+- 2026-10-04T22:54:23+10:00: Khalil: primary degree-year evidence and study history recovered; appointment-announcement caveat preserved.
+- Attempt177distinct,0new,113material,64nonmaterial,0complete; cycle194distinct,119material,75nonmaterial; day226distinct,136material,90nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Catherine King00AMR. OUTCOME:ongoing; STOPPING REASON:none.

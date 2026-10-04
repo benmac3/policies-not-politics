@@ -337,9 +337,10 @@
       "counting_status": "excluded",
       "source_ids": [
         "src-2",
-        "src-6"
+        "src-6",
+        "oct4-vmc-release"
       ],
-      "evidence_note": "Statutory advisory/governance appointment. Annual report specifically dates RAC resignation; commission narrative confirms resignation after appointment, but same exact commission endpoint should be checked. Not a demonstrated full-time public-service role.",
+      "evidence_note": "Statutory advisory/governance appointment. Annual report specifically dates RAC resignation; commission narrative confirms resignation after appointment, but same exact commission endpoint should be checked. Not a demonstrated full-time public-service role. Government27 October2015 announcement names him among six new commissioners; announcement not substituted for effective appointment date.",
       "counting_note": "Excluded from the two employment headlines under the codebook."
     },
     {
@@ -348,7 +349,7 @@
       "role": "Member for Wills",
       "start_date": "2016-07-02",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "day",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -360,6 +361,66 @@
       ],
       "evidence_note": "Elected service and ministerial/envoy appointments excluded.",
       "counting_note": "Excluded from the two employment headlines under the codebook."
+    },
+    {
+      "spell_id": "101351-ba",
+      "employer": "University of Melbourne",
+      "role": "Bachelor of Arts",
+      "start_date": null,
+      "end_date": "1997",
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "oct2-alumni",
+        "src-2"
+      ],
+      "evidence_note": "University alumni magazine, June2010, printed p36/PDF p38 labels his degrees BA, LLB1997. Qualification-year label, not an independently dated final day of attendance. Start unknown; derivative1996 completion claim not substituted for this primary record.",
+      "counting_note": "Study excluded; degree-year label does not date employment."
+    },
+    {
+      "spell_id": "101351-llb",
+      "employer": "University of Melbourne",
+      "role": "Bachelor of Laws",
+      "start_date": null,
+      "end_date": "1997",
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "oct2-alumni",
+        "src-2"
+      ],
+      "evidence_note": "University alumni magazine, June2010, printed p36/PDF p38 labels his degrees BA, LLB1997. Qualification-year label, not an independently dated final day of attendance. Start unknown; derivative1996 completion claim not substituted for this primary record.",
+      "counting_note": "Study excluded; degree-year label does not date employment."
+    },
+    {
+      "spell_id": "101351-masters",
+      "employer": "Australian National University",
+      "role": "Master of Laws / international-law postgraduate study",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-2",
+        "src-5"
+      ],
+      "evidence_note": "Official Defence and contemporary Brookings biographies identify ANU postgraduate law study; dates unresolved. Qualification naming varies between Master of Laws and international-law/international-relations wording; no additional degree inferred.",
+      "counting_note": "Study excluded; no Defence commencement inferred from graduation."
     }
   ],
   "sources": [
@@ -488,8 +549,8 @@
       "publisher": "University of Melbourne / Peter Khalil",
       "title": "Melbourne University Magazine, June2010",
       "source_type": "professional_profile",
-      "locator": "Printed p36/PDF p38: Class Notes, Peter Khalil",
-      "note": "First-person contribution lists current Hawker Britton consultancy and Sydney adjunct appointment. Describes Defence and later ministerial work; no individual hours.",
+      "locator": "Printed p36 / PDF p38; Peter Khalil entry",
+      "note": "First-person contribution lists current Hawker Britton consultancy and Sydney adjunct appointment. Describes Defence and later ministerial work; no individual hours. Labels BA, LLB1997. Public PDF download and text extraction succeeded after web fetch timeout; adjacent film/Innovation/Justice career belongs to another alumnus, not Khalil.",
       "retrieved": "2026-10-02",
       "source_id": "oct2-alumni"
     },
@@ -552,6 +613,16 @@
       "note": "Contemporaneously identifies Khalil as a Middle East and Africa Analyst at Eurasia Group and describes the prior Brookings, DFAT, CPA and Defence sequence. This is a dated role observation, not an appointment boundary or full-time-hours statement.",
       "retrieved": "2026-10-04",
       "source_id": "oct4-brookings-forum"
+    },
+    {
+      "source_id": "oct4-vmc-release",
+      "url": "https://www.premier.vic.gov.au/new-appointments-embrace-diversity-victorian-multicultural-commission",
+      "publisher": "Premier of Victoria / Minister for Multicultural Affairs",
+      "title": "New appointments embrace diversity of Victorian Multicultural Commission,27 October2015",
+      "source_type": "government_record",
+      "retrieved": "2026-10-04",
+      "locator": "Published date and list of six new commissioners",
+      "note": "Names Khalil in appointment announcement. Announcement date is not necessarily the legal effective date."
     }
   ],
   "research_notes": [
@@ -565,6 +636,7 @@
     "Follow-up2026-10-03: contemporaneous sources now bracket Eurasia Group from8 July2005 through8 December2006 and support a February2007 Rudd-office start month. A May2008 dialogue programme observes the Defence-minister adviser role, and a register current29 October2009 independently confirms Hawker Britton affiliation. Point observations were not converted into exact appointment boundaries or full-time status.",
     "Examined SBS2014–15 and2015–16 reports, appointment releases, university alumni profile, historical consultancy and departure searches. Crikey3 September2015 indexed departure lead pointed toward annual reports; restricted article not bypassed. Primary2014–15 report supplies stronger month evidence.",
     "Next leads: exact SBS cessation/contract and leave, Eurasia and Hawker appointment/cessation/FTE records, exact2008 political-staff transition, pre-Defence employer identities and dates, post-July2015 consulting, VMC individual appointment/cessation. Defence commencement cannot be inferred from the alumni degree year.",
-    "2026-10-04 follow-up: a Brookings participant biography for the 18–20 February 2006 U.S.-Islamic World Forum independently observes current Eurasia Group employment and the sequence after Brookings. This does not narrow the already bracketed July 2005–December 2006 Eurasia interval or establish full-time hours. Targeted APH, SBS, Brookings and public professional-profile searches found no stronger Hawker Britton commencement, Defence start/secondment, post-SBS consultancy or FTE evidence. APH search access was blocked by robots.txt; the avenue and exact limitation are recorded rather than treated as zero evidence."
+    "2026-10-04 follow-up: a Brookings participant biography for the 18–20 February 2006 U.S.-Islamic World Forum independently observes current Eurasia Group employment and the sequence after Brookings. This does not narrow the already bracketed July 2005–December 2006 Eurasia interval or establish full-time hours. Targeted APH, SBS, Brookings and public professional-profile searches found no stronger Hawker Britton commencement, Defence start/secondment, post-SBS consultancy or FTE evidence. APH search access was blocked by robots.txt; the avenue and exact limitation are recorded rather than treated as zero evidence.",
+    "Follow-up2026-10-04: Added omitted university studies. Primary June2010 alumni magazine labels BA/LLB1997, which differs from derivative1996 graduation descriptions; retained primary qualification year without inventing attendance endpoints. ANU qualification dates remain unknown, and unlabeled professional-profile rows are not mapped to institutions. Government27 October2015 VMC appointment announcement corroborates governance but is not a commencement instrument. Web alumniPDF400 Timeout fetching was recovered through ordinary public PDF retrieval/text extraction; neighboring film/public-service career not assigned to Khalil. Employment hours, earlier employers, secondment and later gaps retained."
   ]
 }
