@@ -302,7 +302,7 @@
     },
     {
       "spell_id": "11788-15",
-      "employer": "Australian Minister for Veterans Affairs and Assistant Defence Minister",
+      "employer": "Ministerial office of Bruce Billson",
       "role": "Adviser",
       "start_date": "2006",
       "end_date": "2007",
@@ -314,9 +314,10 @@
       "government_control_at_time": "public",
       "counting_status": "excluded",
       "source_ids": [
-        "src-3"
+        "src-3",
+        "src-5"
       ],
-      "evidence_note": "Inherited profile transcription.  Working hours not established.",
+      "evidence_note": "Inherited profile transcription.  Working hours not established. Billson’s own FCA appointment message independently identifies his ministerial office as the employer; this does not independently verify the inherited year boundaries, portfolio sequence or hours.",
       "counting_note": "Outside the two employment headlines under the codebook; retained as career context."
     },
     {
@@ -392,9 +393,10 @@
       "government_control_at_time": "unknown",
       "counting_status": "excluded",
       "source_ids": [
-        "src-8"
+        "src-8",
+        "oct4-hansard-study"
       ],
-      "evidence_note": "Undated board service; paid/full-time employee status is not established.",
+      "evidence_note": "Undated board service; paid/full-time employee status is not established. First-person parliamentary speech on 2 September 2025 expressly describes this service as previous. It had ceased by that observation, but no actual cessation date or paid status established.",
       "counting_note": "Outside the two employment headlines under the codebook; retained as career context."
     },
     {
@@ -403,7 +405,7 @@
       "role": "Member for Monash",
       "start_date": "2025-05-03",
       "end_date": null,
-      "date_precision": "unknown",
+      "date_precision": "day",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -529,6 +531,182 @@
       "evidence_note": "2018 career interview places this role after Bill Nelson internship and before energy-association work. Distinct from later ministerial adviser role; no exact dates, hours or continuous tenure inferred.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "11788-26"
+    },
+    {
+      "spell_id": "11788-27",
+      "employer": "Gippsland Community Leadership Program",
+      "role": "Study / leadership programme",
+      "start_date": "2011",
+      "end_date": "2011",
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "oct4-hansard-study"
+      ],
+      "evidence_note": "First-person speech explicitly places participation in 2011. Duration and any leave from concurrent employment unknown.",
+      "counting_note": "Study or advisory appointment; no paid employment duration or automatic leave deduction."
+    },
+    {
+      "spell_id": "11788-28",
+      "employer": "Monash University",
+      "role": "Bachelor of Arts (Honours)",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-5",
+        "src-8"
+      ],
+      "evidence_note": "Qualification supported by employer appointment biography; attendance and completion dates unknown.",
+      "counting_note": "Study or advisory appointment; no paid employment duration or automatic leave deduction."
+    },
+    {
+      "spell_id": "11788-29",
+      "employer": "University of Melbourne",
+      "role": "Master of Agribusiness",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-5",
+        "src-8"
+      ],
+      "evidence_note": "Qualification supported; attendance and completion dates unknown.",
+      "counting_note": "Study or advisory appointment; no paid employment duration or automatic leave deduction."
+    },
+    {
+      "spell_id": "11788-30",
+      "employer": "Federation University",
+      "role": "Master of Business Administration",
+      "start_date": null,
+      "end_date": "2018",
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-5",
+        "src-8"
+      ],
+      "evidence_note": "Speaker biography states graduation in 2018. Study start, duration and employment leave unknown; graduation year not invented exact boundary.",
+      "counting_note": "Study or advisory appointment; no paid employment duration or automatic leave deduction."
+    },
+    {
+      "spell_id": "11788-31",
+      "employer": "Harvard University, Kennedy School of Government",
+      "role": "Infrastructure in a Market Economy: Public Private Partnerships study",
+      "start_date": "2016-07",
+      "end_date": null,
+      "date_precision": "month",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-actu2016",
+        "src-5"
+      ],
+      "evidence_note": "Conference biography identifies study in July 2016. Start within month and cessation unknown; month is not a full-month duration. Leave from Committee for Gippsland unknown.",
+      "counting_note": "Study or advisory appointment; no paid employment duration or automatic leave deduction."
+    },
+    {
+      "spell_id": "11788-32",
+      "employer": "Australian Institute of Company Directors",
+      "role": "Course graduate",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-5",
+        "src-8"
+      ],
+      "evidence_note": "Graduation supported; course and dates unspecified.",
+      "counting_note": "Study or advisory appointment; no paid employment duration or automatic leave deduction."
+    },
+    {
+      "spell_id": "11788-33",
+      "employer": "Australian Taxation Office",
+      "role": "Small Business and Franchising Advisory Committee member",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-8"
+      ],
+      "evidence_note": "Public indexed speaker biography identifies advisory appointment. Dates, pay, precise remit and hours absent; not coded as government staff employment.",
+      "counting_note": "Study or advisory appointment; no paid employment duration or automatic leave deduction."
+    },
+    {
+      "spell_id": "11788-34",
+      "employer": "Fair Work Ombudsman",
+      "role": "Restaurant industry advisory committee member",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-8"
+      ],
+      "evidence_note": "Public indexed speaker biography identifies advisory appointment. Dates, pay, precise remit and hours absent; not coded as government staff employment.",
+      "counting_note": "Study or advisory appointment; no paid employment duration or automatic leave deduction."
+    },
+    {
+      "spell_id": "11788-35",
+      "employer": "Australian Treasury",
+      "role": "COVID recovery taskforce appointment",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-8"
+      ],
+      "evidence_note": "Public indexed speaker biography identifies advisory appointment. Dates, pay, precise remit and hours absent; not coded as government staff employment.",
+      "counting_note": "Study or advisory appointment; no paid employment duration or automatic leave deduction."
     }
   ],
   "sources": [
@@ -577,10 +755,10 @@
       "url": "https://www.businessfranchiseaustralia.com.au/latest-news/fca-appoints-mary-aldred-new-ceo/",
       "publisher": "Business Franchise Australia / FCA chair",
       "title": "FCA appoints Mary Aldred as new CEO",
-      "retrieved": "2026-09-12",
+      "retrieved": "2026-10-04",
       "source_type": "employer",
-      "locator": "Career/biography or relevant appointment section",
-      "note": "FCA commencement announced for 3 April 2018."
+      "locator": "Bruce Billson message, ministerial office and qualifications paragraphs",
+      "note": "FCA commencement announced for 3 April 2018. Billson himself identifies Aldred as a former member of his ministerial office; lists qualifications and 2016 Harvard study."
     },
     {
       "source_id": "src-6",
@@ -607,10 +785,10 @@
       "url": "https://www.aicd.com.au/about-aicd/authors-speakers/a-g/mary-aldred.html",
       "publisher": "Australian Institute of Company Directors",
       "title": "Mary Aldred speaker biography",
-      "retrieved": "2026-09-12",
+      "retrieved": "2026-10-04",
       "source_type": "other",
-      "locator": "Career/biography or relevant appointment section",
-      "note": "Corroborates executive careers and hospital, charity, aged-care and hardwood board roles; no dates or hours."
+      "locator": "Public indexed speaker biography: qualifications and federal advisory bodies",
+      "note": "Corroborates executive careers and hospital, charity, aged-care and hardwood board roles; no dates or hours. Index also identifies ATO, Fair Work Ombudsman and Treasury advisory roles. Direct URL redirected to system-maintenance page; indexed biography used, and its current-role language may be stale."
     },
     {
       "source_id": "src-9",
@@ -676,7 +854,7 @@
       "url": "https://latrobevalleyexpress.com.au/news/2018/07/17/aldred-thanks-gippsland/",
       "publisher": "Latrobe Valley Express",
       "title": "Aldred thanks Gippsland,17July2018",
-      "source_type": "reliable_secondary",
+      "source_type": "news",
       "locator": "Career sequence paragraphs, lines33–45",
       "note": "Reports electorate-officer work for Russell Broadbent following US internship; family equestrian business with distance study. No personally dated job boundaries. Relative Committee/FCA departure statement conflicts with other notices and is not used as a replacement date.",
       "retrieved": "2026-10-02",
@@ -701,6 +879,16 @@
       "source_type": "news",
       "locator": "Succession paragraph naming Peter White acting CEO",
       "note": "Reports on 1 May 2023 that former CEO Mary Aldred exited in February 2023 and Peter White had been acting CEO. This conflicts with the inherited profile's December 2022 endpoint and supplies no exact day or hours."
+    },
+    {
+      "source_id": "oct4-hansard-study",
+      "url": "https://www.openaustralia.org.au/debate/?id=2025-09-02.110.1",
+      "publisher": "OpenAustralia reproducing House Hansard",
+      "title": "Mary Aldred appropriation speech, 2 September 2025",
+      "retrieved": "2026-10-04",
+      "source_type": "government_record",
+      "locator": "7:22 pm contribution; leadership-program paragraph and Woorayl Lodge paragraph",
+      "note": "First-person 2011 leadership-program participation and former Woorayl board service. The speech date is an observation, not a cessation date."
     }
   ],
   "research_notes": [
@@ -713,6 +901,7 @@
     "Avenues: indexed public profile (direct999), Gippsland Water2022 primary submission, basketball institution announcement, Hansard reproduction, Bass Coast Post interview, FCA/Fujitsu appointment coverage, hospital/charity annual-report and early energy regulatory searches. No new hours, farm remuneration or historical energy-control proof. Retain January versus February2023 Fujitsu start conflict and newly identified2021 versus2022 ViPlus end discrepancy. Profile additionally lists Hawthorn young executive committee from2015, chair2015–17, with ongoing marker that needs historical cessation confirmation; future follow-up lead. Seek primary hospital/charity board appointments, Woorayl tenure, energy employer contracts/control and leave.",
     "Second follow-up2October2026: recovered omitted Russell Broadbent electorate-officer role from2018 career interview; identified family farm as equestrian business and July2016 Harvard study as possible leave/overlap requiring investigation. Corrected Woorayl employer spelling. Canadian Ontario Energy Board counsel and US Aldred-Crouch are namesakes;2023 mid-1990s Broadbent staff quote belongs John Pesutto, not Aldred. Source2018 relative departure statement/equivalent FCA name conflicts with established appointment notices; no dates overwritten. Original Australian Carbon Innovation PDF now404. Early regulatory and hospital searches yielded no new full-time/payroll evidence. Next pursue original Broadbent staff chronology, farm remuneration/dates, Simply Energy/Green Made Easy contracts/control and Fujitsu January/February2023 discrepancy. No totals or full-time assumptions added.",
     "Third follow-up3October2026: the full text of Aldred's public Fujitsu departure post is now accessible and supplies role-scope detail across cybersecurity, AI, defence and national security. Fujitsu regional CEO Graeme Beardsell's public reply independently corroborates her strategic engagement across academia, government and industry peak bodies. The page still renders only a relative age, so the existing January2025 end remains based on the separate April interview; it does not resolve January-versus-February2023 commencement or hours. Searches for early energy, ministerial and Broadbent records otherwise produced no reliable new boundary; the apparent mid-1990s Broadbent quote again belongs John Pesutto and was rejected.",
-    "Fourth follow-up 4 October 2026: FCA succession reporting says Aldred exited in February 2023 and an acting CEO then served, conflicting with the inherited public-profile December 2022 endpoint while aligning with Fujitsu's separately reported February commencement. The later report is not an exact-day cessation instrument, so the existing structured date was not silently overwritten. Targeted early energy, Broadbent, farm and Fujitsu searches otherwise repeated existing material or unrelated namesakes; hours, leave, farm pay and the 2022–23 transition remain unresolved."
+    "Fourth follow-up 4 October 2026: FCA succession reporting says Aldred exited in February 2023 and an acting CEO then served, conflicting with the inherited public-profile December 2022 endpoint while aligning with Fujitsu's separately reported February commencement. The later report is not an exact-day cessation instrument, so the existing structured date was not silently overwritten. Targeted early energy, Broadbent, farm and Fujitsu searches otherwise repeated existing material or unrelated namesakes; hours, leave, farm pay and the 2022–23 transition remain unresolved.",
+    "Follow-up2026-10-04: Added six omitted study entries and three federal advisory appointments from employer/speaker biographies and her own 2 September 2025 parliamentary speech. Bruce Billson’s employer statement resolves identity of the ministerial office without inventing exact dates. Woorayl service is expressly former by September 2025; actual cessation unknown. AICD direct maintenance redirect recorded; public index used. Early energy and historical Woorayl searches yielded no contracts or new hours. Study and advisory service remain excluded; Harvard July 2016 overlap requires leave evidence. Existing Fujitsu and FCA date conflicts preserved. Corrected one inherited source enum to news and elected-office day precision without changing facts."
   ]
 }
