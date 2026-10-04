@@ -42,7 +42,7 @@
       "role": "Founder / head partner / practising solicitor, specialising in conveyancing",
       "start_date": "2006",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "year",
       "employment_status": "self_employed",
       "fte_fraction": null,
       "category": "private_enterprise",
@@ -85,7 +85,7 @@
       "role": "Board director",
       "start_date": "2020",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "nonprofit",
@@ -123,7 +123,7 @@
       "role": "Member for Fadden",
       "start_date": "2023-07-15",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "day",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -136,6 +136,25 @@
       ],
       "evidence_note": "Federal elected service from frozen roster and by-election account; excluded from employment headlines.",
       "counting_note": "Excluded from the two employment headlines under the codebook."
+    },
+    {
+      "spell_id": "306489-07",
+      "employer": "Queensland University of Technology",
+      "role": "University study; qualification unspecified",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-2"
+      ],
+      "evidence_note": "Own biography states university studies completed at QUT. Qualification name, enrolment/conferral dates and attendance mode unreported;2003legal admission is not substituted for graduation.",
+      "counting_note": "Study excluded; no inference of paid university employment or leave."
     }
   ],
   "sources": [
@@ -154,10 +173,10 @@
       "url": "https://cameroncaldwellmp.com.au/about/",
       "publisher": "Cameron Caldwell MP",
       "title": "About: My Story",
-      "retrieved": "2026-09-29",
+      "retrieved": "2026-10-04",
       "source_type": "official_biography",
-      "locator": "Paragraph beginning In 2006",
-      "note": "First-person confirmation of Caldwell Solicitors founding at Hope Island and private-sector business experience."
+      "locator": "My Story, university paragraph43 and2006practice paragraph45",
+      "note": "First-person confirmation of Caldwell Solicitors founding at Hope Island and private-sector business experience. Own biography identifies university studies at QUT; no degree title or conferral dates."
     },
     {
       "source_id": "src-3",
@@ -217,6 +236,7 @@
     "Next archival leads: historical Queensland Law Society/practice directories and former Caldwell Solicitors website, council annual-report interest declarations for concurrent practice, and firm closure/transfer records. Primary council end date retained; unsupported secondary date not silently substituted. All date precision and unknown gaps preserved.",
     "2026-10-02 follow-up: searched pre-2006 employer, practice sale/closure, full-time/part-time status, council disclosures, ABR and professional profiles. Re-read 2017 CCC testimony page 3: confirms practice before council, not cessation or hours. Historical directory listings and 2012 Queensland Law Reporter notice concern the firm or another clerk, not Caldwell employment boundaries. Former practice website https://www.caldwellsolicitors.com.au/ returned tool error: URL is not accessible via this tool. LNP/member biographies repeat 2006 foundation only. US lawyers/staffers and Melbourne telecom namesake profiles rejected. No new substantive employment fact established; 2015/2016 discrepancy and 2003–06 employers remain unresolved. Next useful evidence: archived practitioner directory or practice-transfer notice and dated council-interest record; do not repeat generic name searches without a new lead.",
     "2026-10-03 follow-up: a focused practice-name, council-domain and exact-name search recovered the public professional biography's previously uncoded conveyancing specialisation and head-partner description. These materially improve duties but do not resolve the APH2015 versus biography2016 cessation conflict, hours, council overlap, practice transfer or pre-2006 employers. UK/US namesakes rejected. No full-time duration inferred; blocked status and null totals retained.",
-    "2026-10-04 follow-up (second nationwide pass): targeted former-firm, Queensland Law Reporter, address and 2016 endpoint searches repeated the member's 2006 foundation account, the official 2003–2015 solicitor range and a secondary 2016 head-partner endpoint. Historical business directories place the firm at Suite 12, 331 Hope Island Road but do not name a successor, transfer or personal cessation. No practitioner-directory or practice-transfer notice resolved the 2015/2016 conflict, pre-2006 employers, hours, leave or council overlap. Generic web avenues are exhausted pending a dated professional-register or transfer record."
+    "2026-10-04 follow-up (second nationwide pass): targeted former-firm, Queensland Law Reporter, address and 2016 endpoint searches repeated the member's 2006 foundation account, the official 2003–2015 solicitor range and a secondary 2016 head-partner endpoint. Historical business directories place the firm at Suite 12, 331 Hope Island Road but do not name a successor, transfer or personal cessation. No practitioner-directory or practice-transfer notice resolved the 2015/2016 conflict, pre-2006 employers, hours, leave or council overlap. Generic web avenues are exhausted pending a dated professional-register or transfer record.",
+    "Follow-up2026-10-04: Own biography identifies previously unrecorded QUT study. Degree title, commencement/conferral and load unknown;2003admission not treated as graduation or work start. Foundation biography independently repeats solicitor/mediator qualification without identifying an additional paid mediation practice. Search hits for US Christian-ministry/clinical-counselling graduate and Queensland occupational-health consultant are namesakes, not member. Next: QUT conferral,2003–06legal employers, practice-transfer/register notice, individual hours and council overlap; do not reuse inconsistent2015/2016summary as cessation."
   ]
 }

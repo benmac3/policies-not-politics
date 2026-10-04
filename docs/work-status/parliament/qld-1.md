@@ -312,3 +312,6 @@ Deduplicated Brisbane-day new member IDs: 00AMR, 101351, 124514, 132880, 140590,
 
 - 2026-10-04T23:44:22+10:00: Scott Buchholz: historical governance/qualification follow-up yielded no new individual boundaries; namesakes rejected.
 - Attempt202distinct,0new,130material,72nonmaterial,0complete; cycle219distinct,136material,83nonmaterial; day226distinct,149material,77nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Cameron Caldwell306489. OUTCOME:ongoing; STOPPING REASON:none.
+
+- 2026-10-04T23:45:19+10:00: Cameron Caldwell: QUT study identified from own biography; qualification dates and practice gaps unresolved.
+- Attempt203distinct,0new,131material,72nonmaterial,0complete; cycle220distinct,137material,83nonmaterial; day226distinct,150material,76nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Julie-Ann Campbell312823. OUTCOME:ongoing; STOPPING REASON:none.
