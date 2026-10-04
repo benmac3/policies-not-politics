@@ -380,3 +380,6 @@ Batch check passes: 226 assigned exactly once across 13 batches; nsw-1 assignmen
 
 - 2026-10-04T21:48:52+10:00: Claydon materially enriched with original staff observation and separately identified campaign-director activity.
 - Attempt151distinct,0new,88material,63nonmaterial,0complete; cycle168distinct,94material,74nonmaterial; day226distinct,125material,101nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: 297964 Jessica Collins. OUTCOME:ongoing; STOPPING REASON:none.
+
+- 2026-10-04T21:51:47+10:00: Collins materially enriched with two omitted2014 roles from named public profile; access limits and hours retained.
+- Attempt152distinct,0new,89material,63nonmaterial,0complete; cycle169distinct,95material,74nonmaterial; day226distinct,125material,101nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: 279991 Patrick Conaghan. OUTCOME:ongoing; STOPPING REASON:none.

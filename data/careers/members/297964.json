@@ -244,6 +244,45 @@
       "evidence_note": "Personal biography and first speech date joining2019 and recount earlier North Sydney/Senate nomination attempts. Membership and candidacy do not prove paid party employment. Exact bid dates and campaign workload unresolved.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "297964-liberal-membership"
+    },
+    {
+      "spell_id": "297964-scoa-internship",
+      "employer": "Settlement Council of Australia Incorporated",
+      "role": "Research Internship",
+      "start_date": "2014-06",
+      "end_date": "2014-07",
+      "date_precision": "month",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "nonprofit",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-linkedin-public",
+        "src-scoa-report2014"
+      ],
+      "evidence_note": "Named public professional-profile Experience entry gives June–July2014. Public original annual-report index independently names Jessica Collins among2013–2014 interns. Exact days, stipend/pay, hours and placement terms unknown; the report year is not the complete personal interval. This is distinct from the later Griffith ministerial-office internship.",
+      "counting_note": "Nonprofit activity excluded; paid status not established."
+    },
+    {
+      "spell_id": "297964-macquarie-support",
+      "employer": "Macquarie University",
+      "role": "Support Academic",
+      "start_date": "2014-03",
+      "end_date": "2014-06",
+      "date_precision": "month",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "university",
+      "headline_sector": "public",
+      "government_control_at_time": "public",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-linkedin-public"
+      ],
+      "evidence_note": "Named public professional-profile Experience entry gives March–June2014. Duties, contract/casual status, hours and leave unresolved; neither academic title nor author affiliation establishes full-time employment. Macquarie is a NSW public university. Do not import later contracts from namesake Jessica Collins-Bojovic, whose Macquarie PhD was2019–2023.",
+      "counting_note": "Public institution established, but substantive full-time status and exact net-work interval not established; no headline years calculated."
     }
   ],
   "sources": [
@@ -332,8 +371,8 @@
       "publisher": "Jessica Collins / LinkedIn",
       "title": "Jessica Collins — Parliament of Australia",
       "source_type": "professional_profile",
-      "locator": "Publicly indexed honours: Griffith Award for Academic Excellence2020",
-      "note": "Legitimately public profile index records Griffith University education 2020–2021 and academic-excellence award 2020. Direct page previously returned999; no authenticated/private content accessed.",
+      "locator": "Publicly indexed honours: Griffith Award for Academic Excellence2020; indexed Experience: Research Internship,SCOA,June–July2014; Support Academic,Macquarie,March–June2014",
+      "note": "Legitimately public profile index records Griffith University education 2020–2021 and academic-excellence award 2020. Direct page previously returned999; no authenticated/private content accessed. On4October2026 web search exposed the two named Experience entries and their month endpoints; direct open returned (999) Unknown Status Code, so no full-profile/hours claim is made.",
       "retrieved": "2026-10-04",
       "source_id": "src-linkedin-public"
     },
@@ -346,6 +385,16 @@
       "note": "Hawke-office identification remains secondary lead; cited article’s relevant section requires login, not bypassed.",
       "retrieved": "2026-10-01",
       "source_id": "src-wiki-lead"
+    },
+    {
+      "source_id": "src-scoa-report2014",
+      "url": "https://scoa.org.au/wp-content/uploads/2017/08/SCOA-Annual-Report-2013-2014.pdf",
+      "publisher": "Settlement Council of Australia",
+      "title": "Annual Report2013–2014",
+      "retrieved": "2026-10-04",
+      "source_type": "employer",
+      "locator": "Printed p17 Interns; financial notes identify not-for-profit incorporated association",
+      "note": "Public annual-report search index names Jessica Collins among hosted interns on printed p17. Paired with her named professional-profile entry. Web full-text find failed to recover this passage and ordinary direct download returned HTTP403; no full-document/visual verification claimed. Report supplies no individual hours/pay or exact dates; other internship list onp5 names different people."
     }
   ],
   "research_notes": [
@@ -360,7 +409,8 @@
     "Next follow-up: public Griffith internship/award records, QUT study funding and paid-teaching acknowledgements, historical Lowy governance and personnel terms; confirm whether Hawke-office work is solely the study internship. National queue advances without assuming no earlier employment.",
     "Second follow-up 2 October 2026: no material enrichment. Targeted Griffith internship/year/award, Alex Hawke office, Lowy part-time/full-time terms and Jessica Nancy Bird scholarship searches found no new individual employment or study boundaries. Rechecked journal biography corroborates existing doctoral years; Lowy event profiles corroborate existing roles without hours or contracts.",
     "Hawke-office descriptions remain secondary and do not prove a separate salaried staff appointment beyond the known study internship. Public-profile index adds publication title but no internship dates. Namesake clinical, actress and arts/design careers excluded; journal author affiliation is not paid-employment evidence. Restricted QUT thesis and earlier direct-profile denial not bypassed. Advance queue, retain personal Lowy hours/leave and pre2021 paid-work questions.",
-    "Third follow-up 2026-10-04: the legitimately public professional-profile index now exposes Griffith University education as 2020–2021, materially refining the Master of Global Development interval to year precision. It separately dates the academic-excellence award to 2020/issued 2021; award timing is not substituted for enrolment days. Targeted Griffith, QUT scholarship, Lowy and ministerial-internship searches found no individual contract, paid university appointment, hours or leave evidence. Other anonymised profile intervals were not assigned to institutions without an identity-safe mapping."
+    "Third follow-up 2026-10-04: the legitimately public professional-profile index now exposes Griffith University education as 2020–2021, materially refining the Master of Global Development interval to year precision. It separately dates the academic-excellence award to 2020/issued 2021; award timing is not substituted for enrolment days. Targeted Griffith, QUT scholarship, Lowy and ministerial-internship searches found no individual contract, paid university appointment, hours or leave evidence. Other anonymised profile intervals were not assigned to institutions without an identity-safe mapping.",
+    "Follow-up2026-10-04: Newly exposed named public profile entries establish omitted Macquarie Support Academic March–June2014 and SCOA Research Internship June–July2014. SCOA2013–2014 original-report index names her among interns, but direct PDF403 and web full-text find failure limit retrieval;2014–2015 PDF also403. Direct LinkedIn open returned999; indexed facts only, no denied material accessed. QUT article affiliations do not prove payroll; Macquarie academic namesake Collins-Bojovic excluded. Exactdays,pay,hours,leave and overlap with seven-year family-care period remain unknown. Next original university contract/appointment and internshipterms, not generic academic biography queries."
   ],
   "open_questions": [
     "What were the exact undergraduate, honours, master's and PhD dates, loads, scholarship conditions and overlaps with paid work?",
