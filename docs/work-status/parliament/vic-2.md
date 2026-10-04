@@ -204,3 +204,7 @@ Batch coverage, record fields, dates, enums, source references, build_careers.lo
 - Gabriel Ng: materially enriched — first-person parliamentary remarks on 4 February 2026 identify him as a CPSU delegate at Home Affairs and say he remained there after the Albanese government took office, when Clare O'Neil announced TIS insourcing. This creates a post-May 2022 Home Affairs observation and resolves the union identity, but does not establish appointment boundaries, hours, leave or separate union employment. County Court/Pillay searches still yielded no personnel dates.
 - Current continuation: 3 distinct records, 0 new, 2 materially enriched, 1 nonmaterial follow-up and 0 newly complete. Cycle/day cumulative: 119 distinct, 0 new, 49 materially enriched, 70 nonmaterial follow-ups and 0 newly complete.
 - Durable next cursor: Clare O'Neil (140590).
+
+- Clare O'Neil: nonmaterial follow-up — exact-name Marngarr/McKinsey/secondment searches returned official and historical-handbook repetitions of the existing 2011 business-adviser role and nine-month Arnhem Land residence, but no contract, payroll, leave, secondment or volunteer-status evidence. Generic web search is exhausted for this pass; Marngarr archives and McKinsey personnel/social-impact placement files remain decisive.
+- Current continuation: 4 distinct records, 0 new, 2 materially enriched, 2 nonmaterial follow-ups and 0 newly complete. Cycle/day cumulative: 120 distinct, 0 new, 49 materially enriched, 71 nonmaterial follow-ups and 0 newly complete.
+- Durable next cursor: James Paterson (144138).
