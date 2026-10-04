@@ -206,3 +206,6 @@
 
 - Claire Clutterham316101: targeted early-career/RFDS/employment-status follow-up; no material new evidence. Remains blocked.
 - Attempt51distinct,0new,27material,24nonmaterial,0complete; cycle68distinct,33material,35nonmaterial; day205distinct,83material,122nonmaterial; all0new/complete. Next: Don FarrellI0N. OUTCOME:ongoing; STOPPING REASON:none.
+
+- Don FarrellI0N: targeted REST commencement and study/leave follow-up; first-person study evidence retained, no new employment intervals or hours.
+- Attempt52distinct,0new,27material,25nonmaterial,0complete; cycle69distinct,33material,36nonmaterial; day206distinct,83material,123nonmaterial; all0new/complete. Next: Steve GeorganasDZY. OUTCOME:ongoing; STOPPING REASON:none.
