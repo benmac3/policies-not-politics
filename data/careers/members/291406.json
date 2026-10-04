@@ -6,7 +6,7 @@
   "snapshot_party": "Liberal Party of Australia",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/291406",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-04",
+  "last_reviewed": "2026-10-05",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -137,10 +137,10 @@
     },
     {
       "employer": "Woodside Energy",
-      "role": "Marine manager",
+      "role": "Marine manager, production logistics",
       "start_date": "2020",
-      "end_date": "2020",
-      "date_precision": "year",
+      "end_date": "2020-11",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "private_enterprise",
@@ -149,18 +149,19 @@
       "counting_status": "insufficient_evidence",
       "source_ids": [
         "src-1",
-        "src-2"
+        "src-2",
+        "src-15"
       ],
-      "evidence_note": "Official year-level chronology. Commercial shipping/energy enterprise; no individual full-time, leave or rotation evidence. Adjacent years not treated as exact boundaries.",
+      "evidence_note": "Official year-level chronology. Commercial shipping/energy enterprise; no individual full-time, leave or rotation evidence. Adjacent years not treated as exact boundaries. Contemporary ABC interview published9November2020 says he had held this role until that day, supporting cessation in November2020 before Senate appointment. Month precision retained because the report is not a payroll/notice record; no final-day, leave or full-time inference.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "291406-07"
     },
     {
-      "employer": "Small’s Bar, Eaton; legal employing entity unresolved",
+      "employer": "Small’s Bar, Eaton / Small’s Bar & Bites Pty Ltd (ABN36 615 369 536); personal payroll relation unresolved",
       "role": "Co-founder and joint business owner",
       "start_date": "2017",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "private_enterprise",
@@ -171,9 +172,13 @@
         "src-4",
         "src-5",
         "src-9",
-        "src-10"
+        "src-10",
+        "src-15",
+        "src-16",
+        "src-17",
+        "src-18"
       ],
-      "evidence_note": "Opened2017; ownership/business activity overlaps Woodside and potentially Parliament. Employee headcount is not owner hours. End date unknown. Pique biography describes a 300-seat cashless tavern and retained business interest; this does not establish ongoing operational employment.",
+      "evidence_note": "Opened2017; ownership/business activity overlaps Woodside and potentially Parliament. Employee headcount is not owner hours. End date unknown. Pique biography describes a 300-seat cashless tavern and retained business interest; this does not establish ongoing operational employment. Dardanup2018 payment record names the supplier company for a dinner at Smalls Bar. ABR establishes private-company identity, active24October2016–10September2025 and GST cancellation15May2025; these are registration dates, not his work boundaries. ABC2020 identifies co-owner Michael Prosser and concurrent Woodside/bar operation, without owner hours. Another company registered Small’s Bar Eaton from11November2024; this does not prove a sale date or Small’s exit. Eaton Bistro Bites was registered under the earlier company17May2022–20June2024; not yet verified as his separately recorded second venture.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "291406-08"
     },
@@ -258,7 +263,7 @@
     {
       "employer": "Bunbury Sea Search and Rescue Group",
       "role": "Volunteer skipper, trainee officer and committee member",
-      "start_date": "2005",
+      "start_date": "2004",
       "end_date": "2015",
       "date_precision": "year",
       "employment_status": "unknown",
@@ -270,9 +275,10 @@
       "source_ids": [
         "src-4",
         "src-9",
-        "src-14"
+        "src-14",
+        "src-19"
       ],
-      "evidence_note": "WA Parliament's 25 November 2020 nomination record gives the 2005–2015 range and roles. A 22 August 2005 WA Government award release independently identifies seventeen-year-old Small as a committed Bunbury Sea Search and Rescue volunteer attending duties and training twice weekly. Volunteer service is not paid maritime employment.",
+      "evidence_note": "WA Parliament's 25 November 2020 nomination record gives the 2005–2015 range and roles. A 22 August 2005 WA Government award release independently identifies seventeen-year-old Small as a committed Bunbury Sea Search and Rescue volunteer attending duties and training twice weekly. Volunteer service is not paid maritime employment. Earlier contemporary15April2005 WA Government award biography explicitly dates commencement to2004, refining the2020 retrospective2005 start. Both accounts retained; end2015 unchanged.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "291406-13"
     },
@@ -358,7 +364,7 @@
       "role": "Member for Forrest",
       "start_date": "2025",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -396,7 +402,7 @@
       "role": "Volunteer ambulance driver/officer and volunteer development officer",
       "start_date": "2009",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "unpaid_work",
@@ -429,6 +435,25 @@
       "evidence_note": "WA Parliament's 25 November 2020 nomination record identifies the organisation as not-for-profit and gives the 2015–2017 inaugural-secretary term. It does not state remuneration, hours or an employment relationship.",
       "counting_note": "Nonprofit organisational office is excluded from public/private full-time employment headlines; no salaried employment is inferred.",
       "spell_id": "291406-21"
+    },
+    {
+      "employer": "Leeuwin Ocean Adventure Foundation / STS Leeuwin",
+      "role": "Volunteer; youth-development voyage participant",
+      "start_date": "2004",
+      "end_date": null,
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unpaid_work",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-19"
+      ],
+      "evidence_note": "Contemporary2005 WA Government award account dates volunteering aboard STS Leeuwin from2004. A2021 joint release independently recalls his2004 youth voyage; voyage participation is not cadet paid employment or board appointment. Cessation, volunteering hours and relation to later governance unknown.",
+      "counting_note": "Volunteer and youth-development activity excluded; not added to paid maritime employment.",
+      "spell_id": "291406-22"
     }
   ],
   "sources": [
@@ -571,6 +596,56 @@
       "note": "Identifies Small as a committed Bunbury Sea Search and Rescue volunteer in 2005, attending duties and training each Wednesday and Sunday and serving as a trainer.",
       "retrieved": "2026-10-03",
       "source_id": "src-14"
+    },
+    {
+      "source_id": "src-15",
+      "url": "https://www.abc.net.au/news/2020-11-09/restaurateur-likely-to-replace-mathias-cormann-in-the-senate/12864758",
+      "publisher": "ABC South West WA / Zoe Keenan",
+      "title": "Bunbury restaurateur Ben Small selected for Senate,9November2020",
+      "source_type": "news",
+      "locator": "From small beginnings and Bar owner to shake up Senate",
+      "retrieved": "2026-10-05",
+      "note": "Contemporary interview reports Woodside cessation that day, bar co-owner and operational overlap; no personal hours."
+    },
+    {
+      "source_id": "src-16",
+      "url": "https://www.dardanup.wa.gov.au/council-meetings/ordinary-council-meeting/ordinary-council-meeting-30-may-2018/162/documents/20180530-ordinary-agenda.pdf",
+      "publisher": "Shire of Dardanup",
+      "title": "Ordinary Council agenda,30May2018",
+      "source_type": "government_record",
+      "locator": "PDF p106, printed101, DD13536.3 paid17April2018 for28March2018 dinner",
+      "retrieved": "2026-10-05",
+      "note": "Names Small’s Bar & Bites Pty Ltd supplier; not personal employment or tenure evidence."
+    },
+    {
+      "source_id": "src-17",
+      "url": "https://abr.business.gov.au/AbnHistory/View?id=36615369536",
+      "publisher": "Australian Business Register",
+      "title": "Historical details, Small’s Bar & Bites Pty Ltd",
+      "source_type": "government_record",
+      "locator": "Entity, ABN/GST status, business-name table",
+      "retrieved": "2026-10-05",
+      "note": "Ordinary direct HTTP200 inspected after web tool unavailable. Private company; ABN24Oct2016–10Sep2025, GST ends14May2025, Eaton Bistro Bites17May2022–20Jun2024. Registration is not personal work."
+    },
+    {
+      "source_id": "src-18",
+      "url": "https://abr.business.gov.au/AbnHistory/View?id=13681307488",
+      "publisher": "Australian Business Register",
+      "title": "Historical details, Darshan Thandi Eaton Pty Ltd",
+      "source_type": "government_record",
+      "locator": "Entity and Small’s Bar Eaton name table",
+      "retrieved": "2026-10-05",
+      "note": "Private company active4Oct2024, name from11Nov2024. Later registration does not establish Small shareholding, payroll or departure."
+    },
+    {
+      "source_id": "src-19",
+      "url": "https://www.wa.gov.au/government/media-statements/Gallop%20Labor%20Government/WA%27s-outstanding-youth-awarded-and-positive-media-portrayal-applauded-20050415",
+      "publisher": "Government of Western Australia",
+      "title": "WA youth awards,15April2005",
+      "source_type": "government_record",
+      "locator": "Active Achievement—Ben Small of Bunbury",
+      "retrieved": "2026-10-05",
+      "note": "Explicit2004 commencement for Leeuwin and local Sea Search and Rescue volunteering; contemporary evidence predates retrospective2005 start."
     }
   ],
   "research_notes": [
@@ -583,6 +658,7 @@
     "Source attempts: Leeuwin 2023 financial report returned 404; Pique Capital website inaccessible. Capability PDF search retrieval exceeded size limit (400; 15259658 bytes), recovered through ordinary public download and text extraction; first download script lacked requests, recovered with standard-library urllib. US Pique Partners marketing company is a namesake, excluded. SignalHire even associates Australian profile with that US domain; its detailed month dates remain unverified discovery leads.",
     "Remaining follow-up: maritime contracts, cadet training versus service/leave, Farstad legal employer/restructure, Pique/JESCO appointment and exit, second hospitality business identity and own workload; Leeuwin governance dates. Generic current BP cadet programme conditions cannot establish Small’s 2006 terms.",
     "Follow-up 2026-10-03: WA Parliament's 2020 nomination record supplies the exact 2005–2015 Bunbury Sea Rescue range, St John volunteering from 2009 and a 2015–2017 South West Young Professionals secretary term. A 2005 WA Government award release independently confirms frequent sea-rescue duties and training. These volunteer/nonprofit activities are separated into distinct excluded spells; rounded St John duration is not converted into an invented end date.",
-    "Follow-up2026-10-04: Targeted original Clime poll, Leeuwin appointment/report, Farstad operations and JESCO/Pique chronology. Clime shareholder centre exposes 2024 results for a different unlisted Clime Private company, not the disputed CIW February election; do not confuse legal entities. Secondary rejection summary unchanged and original poll remains unavailable. Leeuwin 2021 donation/board-member posts refer to other appointees or his public advocacy, not his appointment. Government2004–05 youth-award listing supplies no employment. Farstad month dates still only aggregator; JESCO live undated executive listing cannot establish ongoing paid work after House election. Retain gaps on contracts/rotations, Farstad legal employing entity, consultancy/JESCO terms, second hospitality business and personal workload; no new calculable interval."
+    "Follow-up2026-10-04: Targeted original Clime poll, Leeuwin appointment/report, Farstad operations and JESCO/Pique chronology. Clime shareholder centre exposes 2024 results for a different unlisted Clime Private company, not the disputed CIW February election; do not confuse legal entities. Secondary rejection summary unchanged and original poll remains unavailable. Leeuwin 2021 donation/board-member posts refer to other appointees or his public advocacy, not his appointment. Government2004–05 youth-award listing supplies no employment. Farstad month dates still only aggregator; JESCO live undated executive listing cannot establish ongoing paid work after House election. Retain gaps on contracts/rotations, Farstad legal employing entity, consultancy/JESCO terms, second hospitality business and personal workload; no new calculable interval.",
+    "Follow-up 2026-10-05: Contemporary ABC interview refines final Woodside departure toNovember2020 and confirms overlapping active bar operation. Council supplier record plus ABR identify original bar company; later business-name registration is not a proven ownership/work exit. Original2005WAaward release dates Leeuwin/sea-rescue volunteering from2004, resolving earlier commencement against retrospective2005 statement. Added distinct Leeuwin volunteer spell. Original interests compilation remains inaccessible (web restricted URL and ordinary direct403); indexed Small’s Bar company entry is corroboration only. Clime original poll, maritime hours/contracts, Pique/JESCO terms and second hospitality identity remain unresolved; aggregator dates and foreign Ben Small businesses rejected. Local bs4 absent recovered with standard-library HTML stripping. Next leads: direct employer working arrangements and original company/interest notices, rather than repeated general-name search."
   ]
 }
