@@ -189,3 +189,6 @@
 
 - 2026-10-04T20:50:21+10:00: Tyrrell: tested additional provider leads; no defensible employer or full-time evidence resolved.
 - Attempt126distinct,0new,73material,53nonmaterial,0complete; cycle143distinct,79material,64nonmaterial; day226distinct,118material,108nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Anne Urquhart231199. OUTCOME:ongoing; STOPPING REASON:none.
+
+- 2026-10-04T20:51:35+10:00: Urquhart: refined named union employer succession using ANU archival authority; factory hours and dates unresolved.
+- Attempt127distinct,0new,74material,53nonmaterial,0complete; cycle144distinct,80material,64nonmaterial; day226distinct,118material,108nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Rebecca White224102. OUTCOME:ongoing; STOPPING REASON:none.
