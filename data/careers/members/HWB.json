@@ -111,7 +111,7 @@
       "role": "Founder/operator",
       "start_date": "1982",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "year",
       "employment_status": "self_employed",
       "fte_fraction": null,
       "category": "private_enterprise",
@@ -139,9 +139,10 @@
       "counting_status": "excluded",
       "source_ids": [
         "src-2",
-        "src-3"
+        "src-3",
+        "src-17"
       ],
-      "evidence_note": "First speech confirms30years council and last10as mayor; overlaps business and political staff. Council duties not ordinary public employment.",
+      "evidence_note": "First speech confirms30years council and last10as mayor; overlaps business and political staff. Council duties not ordinary public employment. Archived council notice confirms a proposed resignation conditional on declaration of the federal poll, with Joe Caruso appointed acting mayor. Do not convert19December2007 capture or secondary21December claim into a verified cessation day.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "HWB-06"
     },
@@ -189,7 +190,7 @@
     },
     {
       "employer": "Local Government Association of South Australia",
-      "role": "Executive member",
+      "role": "State Executive Committee member, Adelaide Metropolitan Representative",
       "start_date": null,
       "end_date": null,
       "date_precision": "unknown",
@@ -200,9 +201,10 @@
       "government_control_at_time": "unknown",
       "counting_status": "excluded",
       "source_ids": [
-        "src-2"
+        "src-2",
+        "src-18"
       ],
-      "evidence_note": "Association governance separately recorded; not automatically public-sector employment merely because members are councils. Remuneration and dates unknown.",
+      "evidence_note": "Association governance separately recorded; not automatically public-sector employment merely because members are councils. Remuneration and dates unknown. Primary2007–08annual-report index identifies the regional representative role, departure following late2007 federal election and successor Miriam Smith. This bounds an observed departure to the reporting period; exact date and start remain unknown. Allowances listed for senior officers do not establish Zappia personal payment.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "HWB-09"
     },
@@ -251,7 +253,7 @@
       "role": "Member for Makin",
       "start_date": "2007-11-24",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "day",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -428,6 +430,26 @@
       "note": "Current employer site says the centre was founded in1979 by a local family and is now owned and operated by Dominic Trimboli. It does not date the ownership transfer or Tony Zappia's personal operating period.",
       "retrieved": "2026-10-04",
       "source_id": "src-16"
+    },
+    {
+      "source_id": "src-17",
+      "url": "https://web.archive.org/web/20071219142151/http://cweb.salisbury.sa.gov.au:80/manifest/servlet/page/website/home.html",
+      "publisher": "City of Salisbury, archived primary website",
+      "title": "New Acting Mayor for Salisbury",
+      "source_type": "government_record",
+      "retrieved": "2026-10-04",
+      "locator": "Archived home-page notice, lines32–40, capture19December2007",
+      "note": "Council notice says Zappia will resign when federal poll is officially declared and Joe Caruso is acting mayor. Capture date is not resignation date; no21December endpoint substantiated here."
+    },
+    {
+      "source_id": "src-18",
+      "url": "https://citeseerx.ist.psu.edu/document?doi=4d4eb58231e8472d3df1b8acceb133a2567c814d&repid=rep1&type=pdf",
+      "publisher": "Local Government Association of South Australia, annual report held by CiteSeerX",
+      "title": "Annual Report2007–08",
+      "source_type": "employer",
+      "retrieved": "2026-10-04",
+      "locator": "Public indexed LGA State Executive Committee section, printedp36",
+      "note": "Indexed primary report names Zappia as Adelaide Metropolitan Representative, resignation following late2007 federal election and replacement by Miriam Smith. FullPDF request timed out; exact appointment/exit days and individual allowance unknown."
     }
   ],
   "research_notes": [
@@ -439,6 +461,7 @@
     "Follow-up: ANZ dates/status/leave and legal-entity transfer; gym1981vs1979 start, third site, entity/operator dates/hours and ownership exit; library appointment start, planning/LGA/MRC dates and pay; athlete/mentor pay. Last review2026-10-01. South Australian initial pass ends with this record; proceed to Tasmania before unresolved follow-up pass.",
     "Follow-up2026-10-02: Libraries Board appointment start resolved to15April2004 with gazette plus contemporary annual report.2005gazette supplies separate term beginning9June2005; possible gap/holdover15April–8June2005 retained as unknown. Existing actual26October2007retirement preserved despite scheduled2008expiry. Governance remains excluded.",
     "Targeted third fitness-centre, business start and planning-commission searches repeated knownABCsequence or unrelated namesakes; no new hours or ownership-transfer proof. Contemporary planning minutes name a Studio Nine architect Tony Zappia and are not this member’s career. Next seek bank continuity/leave, third gym entity and individual operating periods, planning/LGA/MRCappointment instruments.",
-    "Follow-up2026-10-04: official ABR history resolves that Antonio was expressly named in the Funlife family partnership from1November1999 to17May2001. Later entity-name versions use initials and include two A Zappia partners, so they cannot prove Tony's continuing ownership; no ABN or business-name date was treated as an employment boundary. Funlife's employer site corroborates a1979 family founding and names Dominic Trimboli as current owner/operator but supplies no transfer date. ANZ continuity/leave, pre-1999 gym legal forms, third-centre identity, personal hours and exact ownership/operating exit remain unresolved; no headline years calculated."
+    "Follow-up2026-10-04: official ABR history resolves that Antonio was expressly named in the Funlife family partnership from1November1999 to17May2001. Later entity-name versions use initials and include two A Zappia partners, so they cannot prove Tony's continuing ownership; no ABN or business-name date was treated as an employment boundary. Funlife's employer site corroborates a1979 family founding and names Dominic Trimboli as current owner/operator but supplies no transfer date. ANZ continuity/leave, pre-1999 gym legal forms, third-centre identity, personal hours and exact ownership/operating exit remain unresolved; no headline years calculated.",
+    "Follow-up2026-10-04: New contemporary Salisbury notice documents planned mayoral resignation conditional on declaration of federal poll; archival capture19December2007 is not the actual resignation day. Public indexed LGA2007–08annual report identifies Adelaide Metropolitan Representative role, departure following late2007 election and successor Miriam Smith; exact departure and individual fees unknown. Primary1977/1997gazette links returned403; no access bypass or adoption of uncited secondary day dates. Full LGA report request timed out, so only indexed section used. Targeted ANZ/full-time/business and planning queries yielded no new bank continuity, gym hours, third-centre name or planning appointment. Existing ANZ commencement and business evidence preserved."
   ]
 }

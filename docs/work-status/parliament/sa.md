@@ -256,3 +256,6 @@
 
 - 2026-10-04T23:55:37+10:00: Penny Wong: added omitted party, Law Society, UNIFEM and NUS activity from primary biographies; pay unknown, private practice gap remains.
 - Attempt208distinct,0new,134material,74nonmaterial,0complete; cycle225distinct,140material,85nonmaterial; day226distinct,150material,76nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Tony Zappia (HWB). OUTCOME:ongoing; STOPPING REASON:none.
+
+- 2026-10-04T23:58:10+10:00: Tony Zappia: added contemporary mayoral-overlap and LGA departure evidence; headline still unknown. National cycle follow-up has now touched all226 distinct members without treating blocked records as complete.
+- Attempt209distinct,0new,135material,74nonmaterial,0complete; cycle226distinct,141material,85nonmaterial; day226distinct,150material,76nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Targeted unresolved pass: refresh remote audit and choose oldest new lead across all13batches. OUTCOME:ongoing; STOPPING REASON:none.
