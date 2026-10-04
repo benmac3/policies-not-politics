@@ -140,3 +140,13 @@
 - Durable next cursor: ACT batch, Katy Gallagher (ING).
 - OUTCOME: ongoing. STOPPING REASON: none; continue after remote verification. No successor requested. Scheduler terminal status unavailable.
 - Validation: JSON parse, `career_batches.py --check` (226/13), `career_batches.py --batch tas`, `build_careers.py` and `git diff --check` passed. Only the assigned member and this checkpoint were written.
+
+
+## Active follow-up — 2026-10-04 16:00 Brisbane cycle, continuation 1
+
+- Human-requested attempt start:2026-10-04T17:00:01+10:00; previous branches'112 distinct remotely verified member updates,0new,68material,44nonmaterial,0complete. Cycle129distinct,74material,55nonmaterial. Day226distinct,115material,111nonmaterial provisionally; classification audit remains separate from semantic-change count.
+- Starting TAS head:847944ab47ce8b09a618eba6207856e83b539b6f;17initial,17unresolved,0complete. Fresh all13branch audit:226initial,226blocked,0complete,0missing; each reviewed4October. No remote changes except this writer's owned branches observed. Prior accepted successor's last-run timestamp does not establish completed execution; execution unverified. No active conflicting writer observed.
+- Durable cursor: Vanessa Bleyer25813, then TAS assignment order, ACT and NT. No terminal blocking error observed; OUTCOME ongoing; STOPPING REASON none. Scheduler terminal status unavailable; no successor requested.
+
+- 2026-10-04T20:33:36+10:00: Bleyer: documented a separate primary-confirmed volunteer activity; legal-work full-time status remains unresolved.
+- Attempt113distinct,0new,69material,44nonmaterial,0complete; cycle130distinct,75material,55nonmaterial; day226distinct,115material,111nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Carol Brown F49. OUTCOME:ongoing; STOPPING REASON:none.

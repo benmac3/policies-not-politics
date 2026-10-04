@@ -399,6 +399,25 @@
       "evidence_note": "Public professional profile now independently identifies board role and years. Prior aggregator lead corroborated; legal nonprofit status and remuneration unresolved. Governance is not assumed executive employment.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "25813-19"
+    },
+    {
+      "spell_id": "25813-20",
+      "employer": "Landcare Tasmania / Greens Beach Landcare",
+      "role": "Volunteer supporting Landcare stall at Agfest",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unpaid_work",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-landcare-agfest2023"
+      ],
+      "evidence_note": "Organisation explicitly thanks Bleyer as a volunteer affiliated with Greens Beach Landcare in its 26 May 2023 newsletter. Event observation, not a continuous volunteer tenure or paid job; exact personal activity dates/hours unknown. Distinct from Landcare Tasmania board and Greens Beach council advisory roles.",
+      "counting_note": "Explicit volunteer activity excluded from employment headlines; no invented interval or employment total."
     }
   ],
   "sources": [
@@ -531,6 +550,16 @@
       "note": "Confirms spokesperson alongside law practice; undated wording not used to override dated2023–2024 personal chronology.",
       "retrieved": "2026-10-01",
       "source_id": "src-13"
+    },
+    {
+      "source_id": "src-landcare-agfest2023",
+      "url": "https://www.landcaretas.org.au/the_dirty_hands_may_2023",
+      "publisher": "Landcare Tasmania",
+      "title": "The Dirty Hands - May 2023, published 26 May 2023",
+      "retrieved": "2026-10-04",
+      "source_type": "other",
+      "locator": "AgFest was a hoot! paragraph thanking volunteers",
+      "note": "Names Vanessa Bleyer with Greens Beach Landcare among volunteers staffing the Landcare stall at May 2023 Agfest. Distinct from statutory advisory membership and statewide board governance; no employment or dates beyond event observation."
     }
   ],
   "research_notes": [
@@ -542,6 +571,7 @@
     "Follow-up: school-job employers and dates; all internet company identities/control/hours; early law articles/traineeship and precise firms’ dates/status/leave; remuneration and exit for external roles; Hillwood lead; retirement page correction. Last review2026-10-01. Next initial record Carol Brown.",
     "Follow-up2026-10-02: targeted primary professional-profile indexing independently resolves Coadys2005–2007, Webology Australia1999–2001 within broader internet-company period, and Hillwood association board2010–2013. No contact aggregator used as final evidence. Unknown hours/control/legal payroll and overlaps preserved; private totals remain null.",
     "Contemporary2005professional article located through Lawyers for Forests; image-only copy did not supply usable additional employment text, AustLII direct reader Internal Error. LinkedIn direct fetch999; accessible public index used.2024Community Care financial-report lead inaccessible through web tool;2025Landcare AGM lists board participation but no exit. These are source gaps, not terminal errors. Next seek early traineeship/school jobs, other internet employer, contracts/hours and external-role exits.",
-    "Follow-up2026-10-04: the primary Architects Registration Board2006–07 report narrows Bleyer's board appointment to September2006 and records9of10meetings attended. This improves governance chronology only; meeting attendance does not establish hours, remuneration or ordinary public employment. Exact school employers, the other internet company, legal traineeship, private-practice hours/leave and external-role exits remain unresolved."
+    "Follow-up2026-10-04: the primary Architects Registration Board2006–07 report narrows Bleyer's board appointment to September2006 and records9of10meetings attended. This improves governance chronology only; meeting attendance does not establish hours, remuneration or ordinary public employment. Exact school employers, the other internet company, legal traineeship, private-practice hours/leave and external-role exits remain unresolved.",
+    "Follow-up2026-10-04: Primary Landcare Tasmania May2023 newsletter identifies separate volunteer work at the Agfest stall with Greens Beach Landcare, previously omitted from the completeness chronology. Added event-observation spell without converting month into start/end dates. Exact-name internet-company, school-job, private legal-hours and CCT2024 searches supplied no new reliable employer or hours boundary; unrelated name-only results rejected. Continue seeking historical Webology legal entity and primary law-employment conditions; no total inferred."
   ]
 }
