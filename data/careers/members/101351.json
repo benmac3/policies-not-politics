@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/101351",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-04",
+  "last_reviewed": "2026-10-05",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -262,7 +262,7 @@
       "role": "Associate / government-relations consultant",
       "start_date": null,
       "end_date": "2012",
-      "date_precision": "mixed",
+      "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "private_enterprise",
@@ -421,6 +421,46 @@
       ],
       "evidence_note": "Official Defence and contemporary Brookings biographies identify ANU postgraduate law study; dates unresolved. Qualification naming varies between Master of Laws and international-law/international-relations wording; no additional degree inferred.",
       "counting_note": "Study excluded; no Defence commencement inferred from graduation."
+    },
+    {
+      "spell_id": "101351-jcrc-advisory",
+      "employer": "John Curtin Research Centre",
+      "role": "Advisory Council member",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "nonprofit",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "oct5-jcrc-people",
+        "oct5-jcrc-2024"
+      ],
+      "evidence_note": "Organisation distinguishes its Advisory Council from its Board and lists Khalil in the former. March2024 publication gives a contemporary observation; current page also lists him. Appointment and cessation, remuneration, hours and legal control remain unestablished; not a continuous term from2024 to retrieval.",
+      "counting_note": "Nonprofit governance/publication activity excluded from public/private full-time headlines. Pay unknown; no unpaid or continuous employment assumption."
+    },
+    {
+      "spell_id": "101351-jcrc-publications",
+      "employer": "John Curtin Research Centre",
+      "role": "Author / contributor",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "nonprofit",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "oct5-tocsin-2017",
+        "oct5-tocsin-2021"
+      ],
+      "evidence_note": "Publisher contents attributes Workers of the World? to Khalil in The Tocsin Issue1,2017; its Issue15,2021 editorial attributes Taxing Times: It is time for Multinationals to Pay Up to the MP. These are publication observations, not continuous2017–2021employment. Commission, royalties, pay, working dates and hours unknown; not inferred self-employment.",
+      "counting_note": "Nonprofit governance/publication activity excluded from public/private full-time headlines. Pay unknown; no unpaid or continuous employment assumption."
     }
   ],
   "sources": [
@@ -568,7 +608,7 @@
       "url": "https://www.cfr.org/backgrounders/multiple-iraq-reports-compete-presidents-attention",
       "publisher": "Council on Foreign Relations",
       "title": "Multiple Iraq Reports to Compete for President's Attention",
-      "source_type": "reliable_secondary",
+      "source_type": "other",
       "locator": "Published 8 December 2006; National Security Council Plan section",
       "note": "Identifies Khalil as a Eurasia Group Middle East analyst shortly before the February2007 Rudd appointment.",
       "retrieved": "2026-10-03",
@@ -623,6 +663,46 @@
       "retrieved": "2026-10-04",
       "locator": "Published date and list of six new commissioners",
       "note": "Names Khalil in appointment announcement. Announcement date is not necessarily the legal effective date."
+    },
+    {
+      "source_id": "oct5-jcrc-people",
+      "url": "https://curtinrc.org/our-people/",
+      "publisher": "John Curtin Research Centre",
+      "title": "Our People",
+      "retrieved": "2026-10-05",
+      "source_type": "other",
+      "locator": "Advisory Council heading, Khalil entry",
+      "note": "Original organisation lists the MP on its advisory council, separately from its Board; no term dates, remuneration or workload."
+    },
+    {
+      "source_id": "oct5-jcrc-2024",
+      "url": "https://curtinrc.org/wp-content/uploads/2024/03/Tocsin-20-full-issue_19032024-WEB.pdf",
+      "publisher": "John Curtin Research Centre",
+      "title": "The Tocsin, Issue20, March2024",
+      "retrieved": "2026-10-05",
+      "source_type": "other",
+      "locator": "Publicly indexed Governance / Advisory Council list",
+      "note": "Contemporary publication names the MP on the advisory council. Original PDF search open Internal Error and ordinary download403 Forbidden; only publicly indexed listing used."
+    },
+    {
+      "source_id": "oct5-tocsin-2017",
+      "url": "https://curtinrc.org/wp-content/uploads/2023/06/TheTocsinNo1.pdf",
+      "publisher": "John Curtin Research Centre",
+      "title": "The Tocsin, Issue1,2017",
+      "retrieved": "2026-10-05",
+      "source_type": "other",
+      "locator": "Publicly indexed contents, printedp3, article listedpp12–14",
+      "note": "Original publisher index attributes Workers of the World? to Peter Khalil. Full PDF open Internal Error / ordinary download403; article text not inspected. Publication year is not a paid-work interval."
+    },
+    {
+      "source_id": "oct5-tocsin-2021",
+      "url": "https://curtinrc.org/wp-content/uploads/2023/06/TocsinE15SecondDraft.pdf",
+      "publisher": "John Curtin Research Centre",
+      "title": "The Tocsin, Issue15,2021",
+      "retrieved": "2026-10-05",
+      "source_type": "other",
+      "locator": "Publicly indexed executive-director editorial, printedp3",
+      "note": "Publisher retrospective attributes Taxing Times: It is time for Multinationals to Pay Up to the MP among that year’s work. Publication activity, not proof of separate paid employment, dates or hours."
     }
   ],
   "research_notes": [
@@ -637,6 +717,7 @@
     "Examined SBS2014–15 and2015–16 reports, appointment releases, university alumni profile, historical consultancy and departure searches. Crikey3 September2015 indexed departure lead pointed toward annual reports; restricted article not bypassed. Primary2014–15 report supplies stronger month evidence.",
     "Next leads: exact SBS cessation/contract and leave, Eurasia and Hawker appointment/cessation/FTE records, exact2008 political-staff transition, pre-Defence employer identities and dates, post-July2015 consulting, VMC individual appointment/cessation. Defence commencement cannot be inferred from the alumni degree year.",
     "2026-10-04 follow-up: a Brookings participant biography for the 18–20 February 2006 U.S.-Islamic World Forum independently observes current Eurasia Group employment and the sequence after Brookings. This does not narrow the already bracketed July 2005–December 2006 Eurasia interval or establish full-time hours. Targeted APH, SBS, Brookings and public professional-profile searches found no stronger Hawker Britton commencement, Defence start/secondment, post-SBS consultancy or FTE evidence. APH search access was blocked by robots.txt; the avenue and exact limitation are recorded rather than treated as zero evidence.",
-    "Follow-up2026-10-04: Added omitted university studies. Primary June2010 alumni magazine labels BA/LLB1997, which differs from derivative1996 graduation descriptions; retained primary qualification year without inventing attendance endpoints. ANU qualification dates remain unknown, and unlabeled professional-profile rows are not mapped to institutions. Government27 October2015 VMC appointment announcement corroborates governance but is not a commencement instrument. Web alumniPDF400 Timeout fetching was recovered through ordinary public PDF retrieval/text extraction; neighboring film/public-service career not assigned to Khalil. Employment hours, earlier employers, secondment and later gaps retained."
+    "Follow-up2026-10-04: Added omitted university studies. Primary June2010 alumni magazine labels BA/LLB1997, which differs from derivative1996 graduation descriptions; retained primary qualification year without inventing attendance endpoints. ANU qualification dates remain unknown, and unlabeled professional-profile rows are not mapped to institutions. Government27 October2015 VMC appointment announcement corroborates governance but is not a commencement instrument. Web alumniPDF400 Timeout fetching was recovered through ordinary public PDF retrieval/text extraction; neighboring film/public-service career not assigned to Khalil. Employment hours, earlier employers, secondment and later gaps retained.",
+    "2026-10-05 new-lead follow-up: original John Curtin Research Centre Our People page separates its board and advisory council and lists Khalil in the latter; March2024 publisher governance index provides a contemporary advisory observation. Added omitted nonprofit advisory activity and publisher-attributed2017/2021 publication work, with unknown paid status, working dates and hours. No continuous term or2017–2021employment inferred. Original magazine PDF open Internal Error and ordinary download403 Forbidden are source-only failures; indexed contents/editorial used explicitly, with no bypass or claim to article inspection. FIRST UK trustee at AWS is a namesake and was rejected. Earlier employers, Defence/consultancy/SBS hours and personal payroll dates remain follow-up gaps; no totals calculated."
   ]
 }
