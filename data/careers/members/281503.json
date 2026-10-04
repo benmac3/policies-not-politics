@@ -145,7 +145,7 @@
       "role": "Senator for Victoria",
       "start_date": "2019-03-06",
       "end_date": null,
-      "date_precision": "unknown",
+      "date_precision": "day",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -199,6 +199,160 @@
       "evidence_note": "Listed in2016–17 report as board responsibility; appointment/cessation dates absent. Within existing voluntary board service, no separate salary or FT years.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "281503-financechair"
+    },
+    {
+      "spell_id": "281503-study-commerce",
+      "employer": "Deakin University",
+      "role": "Bachelor of Commerce; Financial Planning",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-1"
+      ],
+      "evidence_note": "Official qualification; course dates unavailable. Local interview reports university graduation2008 without allocating degrees; conflicting unlabeled profile years not assigned.",
+      "counting_note": "Study/party activity excluded; no paid full-time employment inferred."
+    },
+    {
+      "spell_id": "281503-study-arts",
+      "employer": "Deakin University",
+      "role": "Bachelor of Arts; Politics and Public Policy",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-1"
+      ],
+      "evidence_note": "Official qualification; course dates unavailable. Local interview reports university graduation2008 without allocating degrees; conflicting unlabeled profile years not assigned.",
+      "counting_note": "Study/party activity excluded; no paid full-time employment inferred."
+    },
+    {
+      "spell_id": "281503-study-honours",
+      "employer": "University of Melbourne",
+      "role": "Bachelor of Arts Honours; Political Science and Government",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-1"
+      ],
+      "evidence_note": "Official qualification; course dates unavailable. Local interview reports university graduation2008 without allocating degrees; conflicting unlabeled profile years not assigned.",
+      "counting_note": "Study/party activity excluded; no paid full-time employment inferred."
+    },
+    {
+      "spell_id": "281503-study-governance",
+      "employer": "Institute of Community Directors Australia",
+      "role": "Diploma of Business; Governance",
+      "start_date": "2016",
+      "end_date": "2017",
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-1",
+        "src-3"
+      ],
+      "evidence_note": "Official title; named institute row in public profile gives2016–2017, without term dates or work leave.",
+      "counting_note": "Study/party activity excluded; no paid full-time employment inferred."
+    },
+    {
+      "spell_id": "281503-party-national",
+      "employer": "Australian Labor Party",
+      "role": "National executive member",
+      "start_date": "2020-08",
+      "end_date": null,
+      "date_precision": "month",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "party_organisation",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-2",
+        "src-3"
+      ],
+      "evidence_note": "Member site and public volunteer profile agree on August2020 commencement. Volunteer context; overlaps other work, not another FT job.",
+      "counting_note": "Study/party activity excluded; no paid full-time employment inferred."
+    },
+    {
+      "spell_id": "281503-party-vice",
+      "employer": "Australian Labor Party",
+      "role": "Junior vice president, Victorian branch",
+      "start_date": "2018-06",
+      "end_date": "2019-11",
+      "date_precision": "month",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "party_organisation",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-3"
+      ],
+      "evidence_note": "Public volunteer profile gives month boundaries. Volunteer context; overlaps other work, not another FT job.",
+      "counting_note": "Study/party activity excluded; no paid full-time employment inferred."
+    },
+    {
+      "spell_id": "281503-party-admin",
+      "employer": "Australian Labor Party",
+      "role": "Administrative committee member, Victorian branch",
+      "start_date": "2016-11",
+      "end_date": "2019-11",
+      "date_precision": "month",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "party_organisation",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-3"
+      ],
+      "evidence_note": "Public volunteer profile lists committee office; proxy period separately recorded. Volunteer context; overlaps other work, not another FT job.",
+      "counting_note": "Study/party activity excluded; no paid full-time employment inferred."
+    },
+    {
+      "spell_id": "281503-party-proxy",
+      "employer": "Australian Labor Party",
+      "role": "Administrative committee proxy member, Victorian branch",
+      "start_date": "2009",
+      "end_date": "2016",
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "party_organisation",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-3"
+      ],
+      "evidence_note": "Profile explicitly gives proxy period2009–2016; exact handover to committee membership unknown. Volunteer context; overlaps other work, not another FT job.",
+      "counting_note": "Study/party activity excluded; no paid full-time employment inferred."
     }
   ],
   "sources": [
@@ -207,30 +361,30 @@
       "url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=281503",
       "publisher": "Australian Parliament",
       "title": "Raff Ciccone biography",
-      "retrieved": "2026-09-12",
+      "retrieved": "2026-10-04",
       "source_type": "official_biography",
-      "locator": "Career/biography or relevant appointment section",
-      "note": "Adviser 2008–2013, SDA 2013–2019 and Link board years."
+      "locator": "Qualifications and occupation, official indexed biography",
+      "note": "Adviser 2008–2013, SDA 2013–2019 and Link board years. Four qualifications identified: Deakin BCom and BA, Melbourne BA(Hons), ICDA DipBus(Gov); study dates absent."
     },
     {
       "source_id": "src-2",
       "url": "https://senatorciccone.com.au/meet-raff/",
       "publisher": "Raff Ciccone",
       "title": "Meet Raff",
-      "retrieved": "2026-09-12",
+      "retrieved": "2026-10-04",
       "source_type": "other",
       "locator": "Career/biography or relevant appointment section",
-      "note": "Teenage dry-cleaning work, financial planning and explicitly voluntary Link board role."
+      "note": "Teenage dry-cleaning work, financial planning and explicitly voluntary Link board role. National ALP executive since August2020."
     },
     {
       "source_id": "src-3",
       "url": "https://au.linkedin.com/in/senraffciccone",
       "publisher": "Raff Ciccone",
       "title": "Public professional profile",
-      "retrieved": "2026-09-12",
+      "retrieved": "2026-10-04",
       "source_type": "professional_profile",
-      "locator": "Career/biography or relevant appointment section",
-      "note": "Visible volunteer section: Link director November 2010–February 2019, chair December 2017–February 2019; employment dates not exposed."
+      "locator": "Visible volunteer and education sections in public index",
+      "note": "Visible volunteer section: Link director November 2010–February 2019, chair December 2017–February 2019; employment dates not exposed. Party volunteer offices and ICDA study2016–2017 visible; other education-year rows lack labels and are not mapped."
     },
     {
       "source_id": "src-4",
@@ -311,6 +465,7 @@
     "Own first speech reviewed: represented7-Eleven workers; did not claim employment at7-Eleven. Father/grandfather manufacturing careers not imported.2020 local interview names Debonaires as current dry-cleaning supplier, not teenage employer. Italian municipal/accountancy namesakes rejected.",
     "Next leads: finance employer or public CV, university/Collins/financial-work sequence and working hours; identify teenage dry cleaner. Keep historical governance control unknown pending constitution/appointment powers; public funding alone insufficient. All headline values remain null.",
     "Third follow-up3October2026: targeted searches under Raff and Raffaele for the financial-planning employer, adviser sequence and teenage dry cleaner produced no reliable employer name, dates or hours. The current first-person member biography narrates SDA work before the Collins adviser role, while APH gives adviser2008–2013 then SDA2013–2019 and the2020 local interview places financial planning after graduation; the conflict is preserved rather than reordered. No new appointment, full-time or governance-control evidence was found; nonmaterial follow-up recorded and headline totals remain null.",
-    "Fourth follow-up4October2026: a first-person2020 workplace article materially narrows the teenage employer to a dry cleaner inside Chadstone Shopping Centre and calls it his first job. The legal business name, dates and hours remain unresolved, and a current supplier mentioned elsewhere was not conflated with the former employer. Exact-name finance/adviser searches produced no financial-planning employer or safer work sequence; unrelated overseas namesakes were rejected."
+    "Fourth follow-up4October2026: a first-person2020 workplace article materially narrows the teenage employer to a dry cleaner inside Chadstone Shopping Centre and calls it his first job. The legal business name, dates and hours remain unresolved, and a current supplier mentioned elsewhere was not conflated with the former employer. Exact-name finance/adviser searches produced no financial-planning employer or safer work sequence; unrelated overseas namesakes were rejected.",
+    "Follow-up2026-10-04: Added four omitted qualifications and four party volunteer offices using official biography, own member site and visible professional-profile sections. ICDA2016–2017 dates attach to named institution; unlabeled2002–2006/2007 rows are not assigned to degrees. Local graduation2008 claim remains unallocated. Finance-employer searches under Raff/Raffaele returned no reliable entity or contract; modern Swinburne visits and represented7-Eleven workers are not personal employers. Existing Collins/SDA narrative order conflict retained. Next dated finance CV and contracts, dry-cleaner identity, degree conferral and staff/study overlaps."
   ]
 }
