@@ -6,7 +6,7 @@
   "snapshot_party": "Liberal Party of Australia",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/30484",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-04",
+  "last_reviewed": "2026-10-05",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -16,11 +16,11 @@
   "career_spells": [
     {
       "spell_id": "30484-01",
-      "employer": "Brockman family farm, Pemberton district",
+      "employer": "Brockman family farm (Warren House), Pemberton district",
       "role": "Farm labourer and manager",
       "start_date": null,
       "end_date": "1996",
-      "date_precision": "mixed",
+      "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "private_enterprise",
@@ -30,9 +30,11 @@
       "source_ids": [
         "src-2",
         "src-3",
-        "src-4"
+        "src-4",
+        "src-7",
+        "src-16"
       ],
-      "evidence_note": "Brockman and party biographies report running or working on the family farm; a detailed secondary profile says he returned after study and worked as a labourer and manager until 1996. Commencement, entity, ownership, hours and leave are not published.",
+      "evidence_note": "Brockman and party biographies report running or working on the family farm; a detailed secondary profile says he returned after study and worked as a labourer and manager until 1996. Commencement, entity, ownership, hours and leave are not published. First speech identifies the family property as Warren House; this is a property name, not a verified payroll entity. In a June2023 interview he says the farmland was leased to a local sheep producer several years after his father died in2008. Family ownership/lease dates do not establish his personal employment or extend the existing reported1996 endpoint.",
       "counting_note": "Agricultural work is supported, but its start, employment relationship and substantive full-time duration are not established."
     },
     {
@@ -137,9 +139,10 @@
       "government_control_at_time": "private",
       "counting_status": "excluded",
       "source_ids": [
-        "src-1"
+        "src-1",
+        "src-16"
       ],
-      "evidence_note": "The official biography lists O'Connor divisional, state-council, federal-council, campaign and Senate-candidate positions from 2008 to 2017. No paid party employment is established. Exact Senate appointment day removed as unsupported party cessation proxy.",
+      "evidence_note": "The official biography lists O'Connor divisional, state-council, federal-council, campaign and Senate-candidate positions from 2008 to 2017. No paid party employment is established. Exact Senate appointment day removed as unsupported party cessation proxy. June2023 interview recalls high-level party involvement around2006. This is a broader approximate participation claim, not an exact appointment boundary; retain the official dated offices and flag possible earlier activity.",
       "counting_note": "Party and candidate activity is excluded."
     },
     {
@@ -148,7 +151,7 @@
       "role": "Senator for Western Australia",
       "start_date": "2017-08-16",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "day",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -218,6 +221,63 @@
       ],
       "evidence_note": "Official biography lists2019campaign committee membership. No paid employment, individual day/month dates or workload established.",
       "counting_note": "Party campaign/governance activity excluded; overlaps are not additive employment years."
+    },
+    {
+      "spell_id": "30484-11",
+      "employer": "Murdoch University",
+      "role": "Student; first-class honours degree in political history",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-10"
+      ],
+      "evidence_note": "Primary source identifies qualification and institution but no personal enrolment, conferral dates or study workload.",
+      "counting_note": "Study excluded; potential employment overlap remains undated."
+    },
+    {
+      "spell_id": "30484-12",
+      "employer": "University of New England",
+      "role": "Student; Bachelor of Laws",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-10"
+      ],
+      "evidence_note": "Primary source identifies qualification and institution but no personal enrolment, conferral dates or study workload.",
+      "counting_note": "Study excluded; potential employment overlap remains undated."
+    },
+    {
+      "spell_id": "30484-13",
+      "employer": "Australian Liberal Students’ Federation",
+      "role": "Accreditation Committee member",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "party_organisation",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-17"
+      ],
+      "evidence_note": "Clause7.23 of constitution amended13July2025 names Brockman as the Accreditation Committee. Amendment date is not his appointment boundary; paid status, workload and tenure remain unknown.",
+      "counting_note": "Political student organisation activity excluded; formal party affiliation and paid employment are not assumed."
     }
   ],
   "sources": [
@@ -286,10 +346,10 @@
       "url": "https://sladebrockman.com.au/about/first-speech/",
       "publisher": "Senator Slade Brockman",
       "title": "First speech",
-      "retrieved": "2026-10-01",
+      "retrieved": "2026-10-05",
       "source_type": "first_person",
-      "locator": "PGA and Cormann career passages",
-      "note": "First-person account corroborating the policy-director role and move to Cormann's office in 2008."
+      "locator": "PGA and Cormann career passages; family property Warren House",
+      "note": "First-person account corroborating the policy-director role and move to Cormann's office in 2008. Refreshed public index used; direct open returned Internal Error."
     },
     {
       "source_id": "src-8",
@@ -316,10 +376,10 @@
       "url": "https://www.parliament.wa.gov.au/Hansard/hansard.nsf/0/DD840C48B8DE23BE482581830012902B/$file/J40%20S1%2020170816%20All.pdf",
       "publisher": "Parliament of Western Australia",
       "title": "Joint sitting — Senate vacancy",
-      "retrieved": "2026-10-01",
+      "retrieved": "2026-10-05",
       "source_type": "government_record",
       "locator": "16 August 2017, page 2842",
-      "note": "Primary appointment record corroborating Australian Grains Champion work and election to the casual Senate vacancy."
+      "note": "Primary appointment record corroborating Australian Grains Champion work and election to the casual Senate vacancy. Page2842 also identifies first-class honours in political history at Murdoch University and an LLB at University of New England, without study dates."
     },
     {
       "source_id": "src-11",
@@ -370,6 +430,26 @@
       "source_type": "official_biography",
       "locator": "Party positions: Rick Wilson2013–2019 committee and2016chair; Nicole Robins2019committee",
       "note": "Public indexed official biography adds party activity extending beyond2017; no paid party employment or hours established."
+    },
+    {
+      "source_id": "src-16",
+      "url": "https://sladebrockman.com.au/blog/slades-career-path-inevitably-leads-to-parliament/",
+      "publisher": "Senator Slade Brockman / Bree Swift interview",
+      "title": "Slade’s career path inevitably leads to parliament",
+      "retrieved": "2026-10-05",
+      "source_type": "first_person",
+      "locator": "8June2023; answers on family farm and entry into party activity",
+      "note": "Interview republished on member website; public indexed full text used after direct403/Internal Error. Farm leasing is asset/operations context, not personal cessation or full-time evidence."
+    },
+    {
+      "source_id": "src-17",
+      "url": "https://alsf.org.au/our-constitution/",
+      "publisher": "Australian Liberal Students’ Federation",
+      "title": "Constitution, amended13July2025",
+      "retrieved": "2026-10-05",
+      "source_type": "primary_organisation_record",
+      "locator": "PartVII clause7.23; PartII clauses2.1–2.3",
+      "note": "Constitution names Brockman as the Accreditation Committee. Observed designation, not appointment date; organisation promotes Liberal student activity and states it is not formally affiliated with a political party. No remuneration or hours evidenced."
     }
   ],
   "research_notes": [
@@ -381,6 +461,7 @@
     "AGC legal adviser identifies Pty Ltd commercial bidder; ABC contemporaneous director interview corroborates private acquisition purpose. Corrected prior association exclusion. Identify payroll/contract, hours and 2017 cessation separately from 2016 bid withdrawal.",
     "Attempted public professional-profile queries, member career interview, Advoc8 and corporate/annual-report leads. LinkedIn 999 and some primary pages 403/Internal Error were source gaps; public index used without authentication or paywall bypass. Next leads: complete public CV or historical employer material for 1998–2005 and contracts for farm/Ideas/AGC.",
     "Follow-up 2026-10-03: targeted exact-year and title searches across the public LinkedIn index, Advoc8, official parliamentary records, Australian Grains Champion materials and contemporary reporting yielded no defensible employer/title for the still-hidden 1998–2002 profile entry and no personal AGC contract or cessation boundary. The apparent 1998–2002 search fragments were unrelated people/events and were not adopted. Remaining leads require a complete public CV, historical employer archive or contract/payroll evidence.",
-    "Follow-up2026-10-04: Refreshed official party list documents previously omitted Rick Wilson campaign committee continuation to2019 and Nicole Robins campaign committee2019, excluded as political/party activity with unknown paid status. Targeted early-employer and AGC-workload searches still lack attributable facts. NLA2014 archived election site lead inaccessible via search tool; no bypass. Unrelated football entries/older explorer and NBN director’s Integrated Maintenance Services business not attributed to Brockman. Retain farm/1998–2005 employers and AGC contract gaps."
+    "Follow-up2026-10-04: Refreshed official party list documents previously omitted Rick Wilson campaign committee continuation to2019 and Nicole Robins campaign committee2019, excluded as political/party activity with unknown paid status. Targeted early-employer and AGC-workload searches still lack attributable facts. NLA2014 archived election site lead inaccessible via search tool; no bypass. Unrelated football entries/older explorer and NBN director’s Integrated Maintenance Services business not attributed to Brockman. Retain farm/1998–2005 employers and AGC contract gaps.",
+    "Follow-up2026-10-05: Added previously omitted Murdoch political-history honours and UNE law study, dates unknown, using WA joint-sitting page2842. Own June2023 interview distinguishes later family-farm leasing from his reported1996 work endpoint and suggests approximate party activity around2006, not exact appointment. First speech names Warren House property, not legal employer. ALSF constitution7.23 identifies omitted Accreditation Committee designation, excluded political student activity, appointment/pay/hours unknown. Direct member pages403/Internal Error recovered through public indexed text. No1998–2005 employer or AGC workload evidence; continue with complete public CV/employer archives rather than repeat exhausted generic searches."
   ]
 }
