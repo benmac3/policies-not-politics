@@ -383,3 +383,6 @@ Batch check passes: 226 assigned exactly once across 13 batches; nsw-1 assignmen
 
 - 2026-10-04T21:51:47+10:00: Collins materially enriched with two omitted2014 roles from named public profile; access limits and hours retained.
 - Attempt152distinct,0new,89material,63nonmaterial,0complete; cycle169distinct,95material,74nonmaterial; day226distinct,125material,101nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: 279991 Patrick Conaghan. OUTCOME:ongoing; STOPPING REASON:none.
+
+- 2026-10-04T21:53:19+10:00: Conaghan materially enriched with explicitly named earlier sole practice; ambiguous adjacent dates remain a lead.
+- Attempt153distinct,0new,90material,63nonmaterial,0complete; cycle170distinct,96material,74nonmaterial; day226distinct,126material,100nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: 249127 Patrick Conroy. OUTCOME:ongoing; STOPPING REASON:none.

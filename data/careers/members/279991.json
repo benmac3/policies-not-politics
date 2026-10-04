@@ -141,7 +141,7 @@
         "src-cancer-council",
         "src-mp-profile-oct2"
       ],
-      "evidence_note": "The frozen extract records solicitor work from 2001 to 2019. Secondary material says Conaghan established his own criminal-defence practice, and a public professional-profile result names Conaghan Lawyers. ABN Lookup records the Australian private company as active from 6 July 2001. The corporate registration date does not prove Conaghan's exact work start; exact cessation, hours, ownership period, leave and campaign overlap remain unresolved. Public3December2014 professional introduction confirms principal role in Port Macquarie.2019 parliamentary declaration identifies retained shareholding/directorship and calls law-firm income passive; do not extend active legal employment merely because company and income continued. Follow-up profiles identify three businesses/practices and defence, immigration and commercial litigation. The official2001–2019 interval is solicitor work overall, not proof of continuous employment at this one company; retain aggregate pending employer-by-employer disaggregation. Second follow-up2October2026 identifies nested practice intervals: Conaghan Hunter Solicitors August2005–December2010 and Conaghan Lawyers December2010–May2019. Aggregate retained to cover unresolved earlier2001–2005 work; no double counting. Public profile also describes sole-practitioner duties, but employer/date association not exposed sufficiently to assign another bounded spell.",
+      "evidence_note": "The frozen extract records solicitor work from 2001 to 2019. Secondary material says Conaghan established his own criminal-defence practice, and a public professional-profile result names Conaghan Lawyers. ABN Lookup records the Australian private company as active from 6 July 2001. The corporate registration date does not prove Conaghan's exact work start; exact cessation, hours, ownership period, leave and campaign overlap remain unresolved. Public3December2014 professional introduction confirms principal role in Port Macquarie.2019 parliamentary declaration identifies retained shareholding/directorship and calls law-firm income passive; do not extend active legal employment merely because company and income continued. Follow-up profiles identify three businesses/practices and defence, immigration and commercial litigation. The official2001–2019 interval is solicitor work overall, not proof of continuous employment at this one company; retain aggregate pending employer-by-employer disaggregation. Second follow-up2October2026 identifies nested practice intervals: Conaghan Hunter Solicitors August2005–December2010 and Conaghan Lawyers December2010–May2019. Aggregate retained to cover unresolved earlier2001–2005 work; no double counting. Public profile also describes sole-practitioner duties, but employer/date association not exposed sufficiently to assign another bounded spell.4October2026 newly indexed narrative explicitly names his earlier Conaghan Legal,Manly sole practice; separately retained without assigning ambiguous date snippet or treating ABN registration as personal work.",
       "counting_note": "Private control and self-employment are supported, but year-only work boundaries and unproven substantive full-time status prevent an exact headline duration."
     },
     {
@@ -300,6 +300,25 @@
       "evidence_note": "Parliamentary biography identifies qualification. Attendance dates, load and concurrent police/legal work unknown; award does not establish salaried practice.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "279991-college-law"
+    },
+    {
+      "spell_id": "279991-conaghan-legal",
+      "employer": "Conaghan Legal,Manly (legal entity/ABN link unresolved)",
+      "role": "Sole Practitioner,General Legal Practice",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "self_employed",
+      "fte_fraction": null,
+      "category": "private_enterprise",
+      "headline_sector": "private",
+      "government_control_at_time": "private",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-mp-profile-oct2"
+      ],
+      "evidence_note": "Named public professional-profile narrative explicitly identifies Conaghan Legal,Manly and Sole Practitioner,General Legal Practice. This resolves the personal practice-name link previously sought. Calendar endpoints are not identity-safe from the available adjacent date snippets; July2003–August2005 remains an unmapped lead. Sole-trader ABN80527846642 is not independently linked to this practice merely by matching name. Component within overall2001–2019 solicitor history; overlap with Hunter/council remains unresolved.",
+      "counting_note": "Self-employment and private practice supported; hours, dates and breaks unresolved. Do not add aggregate and component time."
     }
   ],
   "sources": [
@@ -458,9 +477,9 @@
       "publisher": "Pat Conaghan / LinkedIn public professional profile",
       "title": "Pat Conaghan — Federal Member for Cowper",
       "source_type": "professional_profile",
-      "locator": "Publicly indexed Experience / Solicitors section",
-      "note": "Index explicitly gives Conaghan Hunter Solicitors August2005–December2010 senior partner and Conaghan Lawyers December2010–May2019 senior solicitor. Full profile not accessed; no hours inferred.",
-      "retrieved": "2026-10-02",
+      "locator": "Publicly indexed Experience / Solicitors section; public indexed narrative explicitly names Conaghan Legal,Manly,Sole Practitioner,General Legal Practice",
+      "note": "Index explicitly gives Conaghan Hunter Solicitors August2005–December2010 senior partner and Conaghan Lawyers December2010–May2019 senior solicitor. Full profile not accessed; no hours inferred.4October2026 index now explicitly links the member to Conaghan Legal,Manly. Adjacent July2003–August2005 date snippet follows managing-director duties and precedes the Conaghan Legal heading; complete date-to-role layout not recovered, so do not assign endpoints from adjacency. Direct profile returned999; indexed facts only.",
+      "retrieved": "2026-10-04",
       "source_id": "src-mp-profile-oct2"
     },
     {
@@ -497,7 +516,8 @@
     "Second follow-up2October2026 materially disaggregates two legal practices using public professional-profile index: Conaghan Hunter August2005–December2010 and Conaghan Lawyers December2010–May2019. These components remain nested in overall2001–2019 solicitor interval. Added omitted College of Law diploma study without inferred dates.",
     "Earlier2001–2005 practice identity/terms, law-school dates and undercover assignment boundaries remain unresolved. UK civil servant, US lawyer and Macquarie geologist namesakes excluded. Public index used without authenticated profile or direct-access retry. May2019 cessation is month precision only and does not settle campaign leave, passive-income transition day or hours.",
     "Follow-up3October2026 tested earlier-practice identity via Conaghan Legal, sole-practitioner and2001–2005 searches on two public search engines. ABR80 527 846 642 names Patrick Conaghan, individual/sole trader, active2003–2009 and from2011; Conaghan Legal trading name from18November2003 and separately registered business name17February2004–19May2010. Identity link to this member remains unconfirmed; locality/name similarity is not sufficient. These registration milestones do not establish personal employment boundaries, continuity or hours. No new employer/date/full-time fact adopted. Public professional-profile index again exposed police sequence but not earlier sole-practice dates; existing dates retained. US and unrelated Australian namesakes excluded. Next useful avenue is a historical firm biography or professional directory explicitly pairing this member with Conaghan Legal; do not repeat broad name searches.",
-    "Fourth follow-up 2026-10-04: exact-name searches for Conaghan Legal, Conaghan Hunter and Patrick John Conaghan again failed to produce a historical firm biography or directory explicitly pairing the member with the sole-trader ABN. ABR search output adds current NSW 2444 location, but matching name and locality still do not prove identity, operational work or personal hours. The 2018 Doyle’s listing only confirms the already recorded Conaghan Lawyers practice. No material enrichment counted; advance pending an identity-linked professional directory, admission/practice record or contract."
+    "Fourth follow-up 2026-10-04: exact-name searches for Conaghan Legal, Conaghan Hunter and Patrick John Conaghan again failed to produce a historical firm biography or directory explicitly pairing the member with the sole-trader ABN. ABR search output adds current NSW 2444 location, but matching name and locality still do not prove identity, operational work or personal hours. The 2018 Doyle’s listing only confirms the already recorded Conaghan Lawyers practice. No material enrichment counted; advance pending an identity-linked professional directory, admission/practice record or contract.",
+    "Follow-up2026-10-04: Newly indexed personal narrative explicitly identifies Conaghan Legal,Manly,Sole Practitioner,General Legal Practice, resolving the previously missing practice-name identity bridge. Original full layout remains unavailable999; adjacent July2003–August2005 snippet is not confidently mapped to that heading and therefore is not adopted as its dates. ABN80527846642 remains a separate unconfirmed legal-entity match. Added undated component within overall legal work, not additional summed time. Next historical firm/admission directory or full legitimately public profile layout for dates; hours and police boundaries unchanged."
   ],
   "open_questions": [
     "What were the exact NSW Police appointment, transfer, promotion and cessation dates, hours and leave?",
