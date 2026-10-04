@@ -247,3 +247,6 @@
 
 - 2026-10-04T23:48:18+10:00: Marielle Smith: two institution-specific qualifications added from official index; employment and board discrepancies retained.
 - Attempt205distinct,0new,132material,73nonmaterial,0complete; cycle222distinct,138material,84nonmaterial; day226distinct,150material,76nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Tom Venning315434. OUTCOME:ongoing; STOPPING REASON:none.
+
+- 2026-10-04T23:49:10+10:00: Tom Venning: targeted app and mentoring follow-up found no new supported employment evidence; NAB status and harvest gaps preserved.
+- Attempt206distinct,0new,132material,74nonmaterial,0complete; cycle223distinct,138material,85nonmaterial; day226distinct,150material,76nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Charlotte Walker316818. OUTCOME:ongoing; STOPPING REASON:none.
