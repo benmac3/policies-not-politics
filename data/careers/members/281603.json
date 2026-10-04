@@ -200,7 +200,7 @@
       "role": "Part-time State Procurement Board and Procurement Approval Committee member",
       "start_date": "2015-10-08",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "day",
       "employment_status": "part_time",
       "fte_fraction": null,
       "category": "public_corporation",
@@ -262,7 +262,7 @@
       "role": "Labor Women Executive, State Executive, State Council and State Convention delegate",
       "start_date": "2017",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "party_organisation",
@@ -319,7 +319,7 @@
       "role": "Senator for South Australia",
       "start_date": "2019-07-01",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "day",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -333,6 +333,44 @@
       "evidence_note": "Senate term commencement retained separately from election/sworn-in dates; committee duties within parliamentary service.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "281603-15"
+    },
+    {
+      "spell_id": "281603-16",
+      "employer": "Australian National University",
+      "role": "Bachelor of Arts(Honours) study",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-2"
+      ],
+      "evidence_note": "Official qualification list identifies institution and degree. Commencement/conferral and study load not reported; potential employment/volunteer overlaps unresolved.",
+      "counting_note": "Study excluded; qualifications do not establish paid university work."
+    },
+    {
+      "spell_id": "281603-17",
+      "employer": "London School of Economics and Political Science",
+      "role": "MSc(Public Policy and Administration) study",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-2"
+      ],
+      "evidence_note": "Official qualification list identifies institution and degree. Commencement/conferral and study load not reported; potential employment/volunteer overlaps unresolved.",
+      "counting_note": "Study excluded; qualifications do not establish paid university work."
     }
   ],
   "sources": [
@@ -351,9 +389,9 @@
       "publisher": "Parliament of Australia",
       "title": "Senator Marielle Smith",
       "source_type": "official_biography",
-      "locator": "occupations; party positions",
-      "note": "Indexed official year chronology. Direct open restricted; frozen record corroborates occupations.",
-      "retrieved": "2026-10-01",
+      "locator": "Public indexed Qualifications and occupations: BA(Hons),MSc(Public Policy and Administration)",
+      "note": "Indexed official year chronology. Direct open restricted; frozen record corroborates occupations. Fresh official index identifies both qualifications and institutions; no course boundaries.",
+      "retrieved": "2026-10-04",
       "source_id": "src-2"
     },
     {
@@ -527,6 +565,7 @@
     "Follow-up leads: recovered USC archive; named researcher employer primary record; manager legal entity; historical Transit Systems appointment/cessation and pay; procurement resignation discrepancy; graduate appointment and actual hours; Gillard office contract and breaks. Last follow-up 2026-10-01; next Tom Venning.",
     "Follow-up2026-10-02: contemporary2013conference affiliation places Smith with Transit Systems Australia;2018audited accounts identify overlapping Procurement Approval Committee duties with combined fees;2023first-person five-year Gillard recollection constrains interpretation of official envelope. All hours and legal-contract gaps retained.",
     "Targeted StateGazette,2018audit,USCprofile andbusiness-title searches did not resolve board resignation inconsistency or2012–13manager employer. Procurement2018note4 is a further service anchor, not an exit record.2011South Sudan visit in2023speech is travel, not a paidjob or proven employment break. NamesakeAmazonforest researcher excluded. Next seek2012–13company staffing records, originalGillard appointment/leave and2018boardminutes.",
-    "Follow-up2026-10-04: conference records add dated Transit Systems affiliations in September2013 and August2017; the latter cannot by itself extend board tenure. Brookings' February2015 forum proceedings independently identify Smith as Education Advisor in the Office of Julia Gillard. These observations improve chronology but do not resolve payroll, full-time status, leave, legal employing entity or exact endpoints; no headline years were inferred."
+    "Follow-up2026-10-04: conference records add dated Transit Systems affiliations in September2013 and August2017; the latter cannot by itself extend board tenure. Brookings' February2015 forum proceedings independently identify Smith as Education Advisor in the Office of Julia Gillard. These observations improve chronology but do not resolve payroll, full-time status, leave, legal employing entity or exact endpoints; no headline years were inferred.",
+    "Follow-up2026-10-04: Official indexed qualification list resolves previously unrecorded ANU BA(Honours) and LSE MSc(Public Policy and Administration); dates/load remain unknown. Search Oxford degree produced no identity-matched Oxford qualification, and staff-vacancy full-time wording is not her personal employment status. University list containing Marielle Oldervik and other Smiths rejected. Existing Transit Systems affiliations, graduate program and Gillard observations preserved; no continuity inferred. Next: ANU/LSE conferral/enrolment, PM&C personal hours/leave, Transit payroll subsidiary and State Procurement Board resignation instrument."
   ]
 }
