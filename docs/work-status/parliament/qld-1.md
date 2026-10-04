@@ -315,3 +315,6 @@ Deduplicated Brisbane-day new member IDs: 00AMR, 101351, 124514, 132880, 140590,
 
 - 2026-10-04T23:45:19+10:00: Cameron Caldwell: QUT study identified from own biography; qualification dates and practice gaps unresolved.
 - Attempt203distinct,0new,131material,72nonmaterial,0complete; cycle220distinct,137material,83nonmaterial; day226distinct,150material,76nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Julie-Ann Campbell312823. OUTCOME:ongoing; STOPPING REASON:none.
+
+- 2026-10-04T23:46:41+10:00: Julie-Ann Campbell: original union media releases corroborate existing duties, without new dates/hours or policy-office identity.
+- Attempt204distinct,0new,131material,73nonmaterial,0complete; cycle221distinct,137material,84nonmaterial; day226distinct,150material,76nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: SA Marielle Smith281603;17 earlier cycle members skipped after durable checkpoint reconciliation.. OUTCOME:ongoing; STOPPING REASON:none.
