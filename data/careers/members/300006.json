@@ -6,7 +6,7 @@
   "snapshot_party": "Independent",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/300006",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-03",
+  "last_reviewed": "2026-10-04",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -261,8 +261,8 @@
       "employer": "Next25",
       "role": "Board member",
       "start_date": "2013-03",
-      "end_date": "2022-01",
-      "date_precision": "month",
+      "end_date": "2022-01-22",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "nonprofit",
@@ -271,9 +271,10 @@
       "counting_status": "excluded",
       "source_ids": [
         "src-7",
-        "src-8"
+        "src-8",
+        "src-16"
       ],
-      "evidence_note": "Public profile dates corroborate official board identity. Governance, not substantive employment; remuneration unknown.",
+      "evidence_note": "Public profile dates corroborate official board identity. Governance, not substantive employment; remuneration unknown. Primary Next25 annual report confirms board retirement22January2022, refining earlier month endpoint. Its adjacent Anglicare job label describes her external occupation; the retirement applies to Next25 board service, not that employment.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "300006-13"
     },
@@ -340,6 +341,27 @@
       "evidence_note": "Official report states commencement 12 December 2016; 2017–2018 report says retired during year before 30 June 2018. Profile instead labels January 2017–July 2018; discrepancy retained. Exact cessation not supplied. Advisory governance, not substantive public-service employment.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "300006-16"
+    },
+    {
+      "spell_id": "300006-17",
+      "employer": "Supporting Communities Forum, WA Department of the Premier and Cabinet",
+      "role": "Forum and working-group member representing Anglicare WA",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "public_service",
+      "headline_sector": "excluded",
+      "government_control_at_time": "public",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-17",
+        "src-18",
+        "src-19"
+      ],
+      "evidence_note": "Official2019–2020annual report lists Chaney as member with remunerationN/A and no grossamount.2021–2023Forum page lists Anglicare representation in workinggroups.2March2022minutes list an apology and leave of absence due to federal candidacy until1June2022. Start of leave and actual return/end not given; Forum tenure and scheduled leave-end are not personal employment boundaries. Representative advisory duty may overlap Anglicare work, not separate paid public-service employment.",
+      "counting_note": "Advisory governance excluded. Leave relates to Forum participation; not assumed Anglicare campaign leave or payroll cessation."
     }
   ],
   "sources": [
@@ -492,6 +514,46 @@
       "note": "Contemporary official hearing records WAC's institutional and commercial shareholders, corroborating private control near Chaney's 2007 role.",
       "retrieved": "2026-10-03",
       "source_id": "src-15"
+    },
+    {
+      "source_id": "src-16",
+      "url": "https://files.next25.org.au/NEXT25_Annual_Report_2022.pdf",
+      "publisher": "Next25",
+      "title": "Annual Report2021–2022",
+      "retrieved": "2026-10-04",
+      "source_type": "employer_record",
+      "locator": "Printedpage3/PDFpage3 board table;page4 executive director report",
+      "note": "Board retirement22January2022, not Anglicare cessation; full accessiblePDF retrieved."
+    },
+    {
+      "source_id": "src-17",
+      "url": "https://www.wa.gov.au/system/files/2022-06/SCF%20Meeting%20Notes%20-%202%20March%202022.pdf",
+      "publisher": "WA Department of the Premier and Cabinet",
+      "title": "Supporting Communities Forum meeting notes2March2022",
+      "retrieved": "2026-10-04",
+      "source_type": "government_record",
+      "locator": "Page1 membership/apologies anditem1.2",
+      "note": "Indexed official minutes record candidate-related Forum leave until1June2022; commencement and actual return not given; not employer leave evidence."
+    },
+    {
+      "source_id": "src-18",
+      "url": "https://www.wa.gov.au/organisation/department-of-the-premier-and-cabinet/the-supporting-communities-forum-2021-2023",
+      "publisher": "WA Department of the Premier and Cabinet",
+      "title": "Supporting Communities Forum2021–2023",
+      "retrieved": "2026-10-04",
+      "source_type": "government_record",
+      "locator": "Working-group membership tables: Kate Chaney/Anglicare WA",
+      "note": "Official public index identifies Forum and working-group membership; directpage InternalError. Tenure of forum is not personal tenure."
+    },
+    {
+      "source_id": "src-19",
+      "url": "https://www.parliament.wa.gov.au/publications/tabledpapers.nsf/displaypaper/4013768aa58d14587cd27586482585ed000acf54/%24file/3768.pdf",
+      "publisher": "WA Department of the Premier and Cabinet",
+      "title": "Annual Report2019–2020",
+      "retrieved": "2026-10-04",
+      "source_type": "government_record",
+      "locator": "Printedpage49 Supporting Communities Forum remuneration table",
+      "note": "Indexed primary table lists Kate Chaney member remunerationN/A, dash in gross actual remuneration. Report-period observation does not date appointment or establish paid service."
     }
   ],
   "research_notes": [
@@ -502,6 +564,7 @@
     "Follow-up 2026-10-02: AGSM MBA 2002–2003 resolves provider gap; UWA lists LLB 1998. Added four board roles with profile dates and official corroboration; Trust official commencement differs from profile, and official retirement by June 2018 conflicts with profile July 2018.",
     "Anglicare annual report says farewell after May 2022 election; RAP February working-group endpoint is not job cessation. No Fibs first-person 17-year part-time account differs from Hansard 16 years; neither permits exact employer allocation or FTE.",
     "Searches for employer-specific part-time status and historical airport records did not settle hours/control. State Recovery Advisory Group search result appears adjacent to another member in multi-person article; not attributed without primary evidence. Next leads: dated Wesfarmers/Anglicare contracts and leave, airport ownership reports, precise Trust resignation, Redfern remuneration and consultancy clients.",
-    "Follow-up 2026-10-03: public professional-profile text documents the WAC role's retail, ground-transport and aviation business-development remit. The contemporaneous 2007–08 employer report and 2005 parliamentary ownership evidence establish that WAC was a privately owned operator under Commonwealth lease, resolving the provisional control classification. Exact appointment/cessation, hours, leave and reported part-time allocation remain unresolved."
+    "Follow-up 2026-10-03: public professional-profile text documents the WAC role's retail, ground-transport and aviation business-development remit. The contemporaneous 2007–08 employer report and 2005 parliamentary ownership evidence establish that WAC was a privately owned operator under Commonwealth lease, resolving the provisional control classification. Exact appointment/cessation, hours, leave and reported part-time allocation remain unresolved.",
+    "Follow-up2026-10-04: Next25 annual report narrows board end to22January2022; explicitly separates its retirement label from Anglicare payroll. New primary government minutes document SCF candidate-related leave until1June2022; recorded separately as governance with unknown commencement/actual return, not Anglicare leave.2019–2020report supplies N/A remuneration observation; Forum working-group membership corroborates Anglicare representation. Employer-specific part-time/Redfern searches still lack boundaries, hours or pay. SEEK vacancies are employees in MP’s office, not her former workload."
   ]
 }

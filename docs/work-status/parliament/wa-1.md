@@ -170,3 +170,6 @@ Detailed attempted avenues, discrepancies and remaining leads are preserved in e
 
 - Michaelia CashI0M: nonmaterial targeted employer/admission follow-up; unrelated legal appointment biographies rejected.
 - Attempt21distinct,0new,10material,11nonmaterial,0complete; cycle38distinct,16material,22nonmaterial; day175distinct,66material,109nonmaterial; all0new/complete. Next: Kate Chaney300006. OUTCOME:ongoing; STOPPING REASON:none.
+
+- Kate Chaney300006: materially enriched exact Next25 retirement and SCF advisory membership/leave; no employment-year total.
+- Attempt22distinct,0new,11material,11nonmaterial,0complete; cycle39distinct,17material,22nonmaterial; day176distinct,67material,109nonmaterial; all0new/complete. Next: Trish Cook312871. OUTCOME:ongoing; STOPPING REASON:none.
