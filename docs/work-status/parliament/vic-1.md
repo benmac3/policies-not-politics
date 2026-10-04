@@ -330,3 +330,6 @@ State: ready-for-integration
 
 - 2026-10-04T22:31:23+10:00: Darmanin: corrected chair versus trustee chronology, study and governance additions; department gap retained.
 - Attempt167distinct,0new,103material,64nonmaterial,0complete; cycle184distinct,109material,75nonmaterial; day226distinct,132material,94nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Mary Doyle299962. OUTCOME:ongoing; STOPPING REASON:none.
+
+- 2026-10-04T22:32:41+10:00: Doyle: qualifications and dated training recovered; early-employment hours remain unknown.
+- Attempt168distinct,0new,104material,64nonmaterial,0complete; cycle185distinct,110material,75nonmaterial; day226distinct,132material,94nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Mark DreyfusHWG. OUTCOME:ongoing; STOPPING REASON:none.

@@ -184,7 +184,7 @@
       "role": "Member for Aston",
       "start_date": "2023-04-01",
       "end_date": null,
-      "date_precision": "unknown",
+      "date_precision": "day",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -255,6 +255,121 @@
       "evidence_note": "Doyle's first speech says she occasionally worked as a bit-part actor and appeared on Neighbours. It supplies no production entity, date, remuneration or hours, so no self-employment or full-time status is assumed.",
       "counting_note": "Dates, employer, remuneration and substantive full-time status are insufficiently evidenced.",
       "spell_id": "299962-actor"
+    },
+    {
+      "spell_id": "299962-study1",
+      "employer": "Box Hill TAFE",
+      "role": "Certificate I in Performing Arts",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "oct4-qual"
+      ],
+      "evidence_note": "Official qualification, dates and study load absent.",
+      "counting_note": "Study/training excluded; no employment duration or work fraction inferred."
+    },
+    {
+      "spell_id": "299962-study2",
+      "employer": "Swinburne University of Technology",
+      "role": "Certificate II in Performing Arts",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "oct4-qual"
+      ],
+      "evidence_note": "Official qualification, dates and study load absent.",
+      "counting_note": "Study/training excluded; no employment duration or work fraction inferred."
+    },
+    {
+      "spell_id": "299962-study3",
+      "employer": "Victoria University",
+      "role": "DipCS qualification / study",
+      "start_date": "2002",
+      "end_date": "2002",
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "oct4-qual",
+        "oct4-profile"
+      ],
+      "evidence_note": "Official qualification paired with named institution. Profile reports institution attendance2002–2002 but degree label is hidden; not evidence of an exact course interval or conferral day.",
+      "counting_note": "Study/training excluded; no employment duration or work fraction inferred."
+    },
+    {
+      "spell_id": "299962-study4",
+      "employer": "Australian Institute of Superannuation Trustees",
+      "role": "RG146 certification",
+      "start_date": null,
+      "end_date": "2012-05",
+      "date_precision": "month",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "oct4-profile"
+      ],
+      "evidence_note": "Visible certification issuedMay2012. No course commencement or hours.",
+      "counting_note": "Study/training excluded; no employment duration or work fraction inferred."
+    },
+    {
+      "spell_id": "299962-study5",
+      "employer": "Australian Institute of Superannuation Trustees",
+      "role": "RG146 refresher",
+      "start_date": null,
+      "end_date": "2016-09",
+      "date_precision": "month",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "oct4-profile"
+      ],
+      "evidence_note": "Visible refresher issuedSeptember2016. No course commencement or hours.",
+      "counting_note": "Study/training excluded; no employment duration or work fraction inferred."
+    },
+    {
+      "spell_id": "299962-study6",
+      "employer": "Association of Superannuation Funds of Australia",
+      "role": "RG146 refresher",
+      "start_date": null,
+      "end_date": "2022-10",
+      "date_precision": "month",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "oct4-profile"
+      ],
+      "evidence_note": "Visible refresher issuedOctober2022. No course commencement or hours.",
+      "counting_note": "Study/training excluded; no employment duration or work fraction inferred."
     }
   ],
   "sources": [
@@ -397,6 +512,26 @@
       "note": "Contemporary arts coverage identifies Mary Doyle as a member of The Beautiful Few in connection with the band's Dancing Under the Lights EP. It does not establish remuneration, contract dates or hours.",
       "retrieved": "2026-10-04",
       "source_id": "oct4-beautifulfew"
+    },
+    {
+      "source_id": "oct4-qual",
+      "url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=299962",
+      "publisher": "Australian Parliament",
+      "title": "Mary Doyle official qualifications",
+      "retrieved": "2026-10-04",
+      "source_type": "official_biography",
+      "locator": "Indexed Qualifications and occupation before entering Federal Parliament",
+      "note": "CertIPerfArts(Box Hill TAFE), CertIIPerfArts(Swinburne University of Technology), DipCS(Victoria University). No attendance or conferral dates supplied; abbreviation DipCS not expanded without evidence."
+    },
+    {
+      "source_id": "oct4-profile",
+      "url": "https://au.linkedin.com/in/maryjjdoyle",
+      "publisher": "Mary Doyle MP / LinkedIn",
+      "title": "Public professional profile, education and certifications",
+      "retrieved": "2026-10-04",
+      "source_type": "professional_profile",
+      "locator": "Visible Education and Licenses & Certifications sections",
+      "note": "Named Victoria University education row2002–2002 with qualification label hidden; RG146 issuedMay2012(AIST), refresherSeptember2016(AIST) andOctober2022(ASFA). Issuance months are observations, not course commencement or continuous tenure."
     }
   ],
   "research_notes": [
@@ -408,6 +543,7 @@
     "Recorded1995 two-month absence and casual call-centre status without inventing absence dates or extrapolating casual status to six years. Added music activity with remuneration unknown. Member also mentions several early jobs, still unidentified.",
     "Follow-up2026-10-03: recovered the current first-speech transcript after the obsolete nested URL returned404. Added the previously omitted first after-school job and occasional bit-part acting, refined the ACTU role sequence, and recorded the mid-February HESTA goodbye against the official5 April cessation date without guessing leave or contract arrangements.",
     "Next leads: TAB/NEC/HBA employment hours and any changed contracts; exact absence and payroll-transfer boundaries; names and dates for early jobs/acting and whether music was paid; HESTA campaign leave or contractual cessation evidence. Historical sector resolution does not establish headline years.",
-    "Fourth follow-up4October2026: primary/near-contemporaneous music records now resolve two previously unnamed bands: The Late Mail and The Beautiful Few. The Late Mail's own recording credits place Doyle as vocalist on material planned for a1996 second album, while arts coverage names her in The Beautiful Few's EP lineup. These are point-in-time creative-work observations, not proof of remuneration, continuous tenure or full-time hours. HBA/TAB/NEC and acting searches produced no contract or work-status evidence; unrelated same-name performers were rejected."
+    "Fourth follow-up4October2026: primary/near-contemporaneous music records now resolve two previously unnamed bands: The Late Mail and The Beautiful Few. The Late Mail's own recording credits place Doyle as vocalist on material planned for a1996 second album, while arts coverage names her in The Beautiful Few's EP lineup. These are point-in-time creative-work observations, not proof of remuneration, continuous tenure or full-time hours. HBA/TAB/NEC and acting searches produced no contract or work-status evidence; unrelated same-name performers were rejected.",
+    "Follow-up2026-10-04: Added three official qualifications and three professional-profile certifications. Victoria University2002 institution attendance distinguished from unknown qualification conferral; RG146 issue months not treated as course starts. Employer/hour searches for TAB, NEC and HBA found no member-specific contracts or work fractions. American performers/students, Irish namesakes and New Zealand retirement facilities rejected; other people full-time statements not imported. Existing casual TAB episode, illness absence, music, acting and HESTA cessation conflict remain. Next contracts/leave records and institution qualification confirmation."
   ]
 }
