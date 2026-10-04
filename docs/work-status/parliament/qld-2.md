@@ -177,3 +177,7 @@ Batch coverage, record fields, dates, enums, source references, build_careers.lo
 - David Littleproud: nonmaterial follow-up — targeted Suncorp appointment/cessation, NAB transfers, cotton work and Mr Rental searches repeated existing year-level facts. A Treasury biography's aggregate 20-year wording cannot establish a small-business start or continuous operation. No hours, leave, exact payroll boundary, campaign arrangement or personal rental-company workload was recovered.
 - Current cycle/continuation: 16 distinct records, 0 new initial, 5 materially enriched existing, 11 nonmaterial follow-ups and 0 newly research-complete. Brisbane-day cumulative: 153 distinct, 0 new, 55 materially enriched, 98 nonmaterial follow-ups and 0 newly complete.
 - Durable next cursor: Corinne Mulholland (277110).
+
+- Corinne Mulholland: materially enriched — a signed Neil Roberts ministerial submission dated 15 April 2010 identifies her as Senior Policy Advisor, refining the generic ministerial staff row with a dated title observation. Appointment, title progression, hours, cessation and possible 2011 council overlap remain unresolved; Star and parental-leave searches produced no new boundary.
+- Current cycle/continuation: 17 distinct records, 0 new initial, 6 materially enriched existing, 11 nonmaterial follow-ups and 0 newly research-complete. Brisbane-day cumulative: 154 distinct, 0 new, 56 materially enriched, 98 nonmaterial follow-ups and 0 newly complete.
+- Durable next cursor: Susan McDonald (123072).
