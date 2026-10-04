@@ -228,3 +228,7 @@ Batch coverage, record fields, dates, enums, source references, build_careers.lo
 - Jana Stewart: nonmaterial follow-up — targeted 2021–22 bridge and DJCS searches returned only APH/first-speech chronology ending public-service work in 2021 and later candidacy/election reporting. Candidacy was not treated as paid employment; no exact departure, hours, leave, bridge employer or retailer identity surfaced. Appointment/payroll records remain decisive.
 - Current continuation: 9 distinct records, 0 new, 2 materially enriched, 7 nonmaterial follow-ups and 0 newly complete. Cycle/day cumulative: 125 distinct, 0 new, 49 materially enriched, 76 nonmaterial follow-ups and 0 newly complete.
 - Durable next cursor: Dan Tehan (210911).
+
+- Dan Tehan: nonmaterial follow-up — recovered NAA correspondence for request NAA1000448692. On 11 June 2026 NAA said RecordSearch found no employment file, inferred it likely remained with DFAT, and explained embassy/departmental records are not indexed by officer name; the applicant withdrew before NAA contacted DFAT. This precisely documents the archival blocker but supplies no appointment, secondment, hours or leave evidence. No outreach was sent.
+- Current continuation: 10 distinct records, 0 new, 2 materially enriched, 8 nonmaterial follow-ups and 0 newly complete. Cycle/day cumulative: 126 distinct, 0 new, 49 materially enriched, 77 nonmaterial follow-ups and 0 newly complete.
+- Durable next cursor: Lidia Thorpe (280304).
