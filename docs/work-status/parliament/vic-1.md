@@ -207,4 +207,7 @@ State: ready-for-integration
 - Michelle Ananda-Rajah: nonmaterial employment follow-up — the official MRFF recipient table confirms Monash University as grant recipient, a 1 January 2019–31 December 2020 project window and $181,066 funding, but it is not a personal employment contract or FTE statement. Targeted institute, fellowship, clinical-CV and resignation searches repeated known chronology without a new appointment boundary; unresolved gaps are retained.
 - Current continuation after this member: 48 distinct records, 0 new, 15 materially enriched, 33 nonmaterial follow-ups and 0 newly complete. Current cycle/day cumulative: 92 distinct, 0 new, 35 materially enriched, 57 nonmaterial follow-ups and 0 newly complete.
 - Durable next cursor: Ralph Babet (300706).
+- Ralph Babet: materially enriched — the primary Senate interests file directly records Babet Brothers Pty Ltd as a real-estate directorship on 26 July 2022, its deletion dated 26 April 2023 and a company shareholding added 21 May 2023. These filing dates bracket declared interests but do not prove legal appointment/cessation, paid work or hours; operational and earlier-employment gaps remain unresolved.
+- Current continuation after this member: 49 distinct records, 0 new, 16 materially enriched, 33 nonmaterial follow-ups and 0 newly complete. Current cycle/day cumulative: 93 distinct, 0 new, 36 materially enriched, 57 nonmaterial follow-ups and 0 newly complete.
+- Durable next cursor: Jodie Belyea (309484).
 
