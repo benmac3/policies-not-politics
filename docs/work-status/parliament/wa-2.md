@@ -132,3 +132,14 @@
 - OUTCOME: ongoing. STOPPING REASON: none; continue after checkpoint verification. Successor not requested. Scheduler terminal status unavailable.
 - Validation: JSON parse, `career_batches.py --check` (226/13), `career_batches.py --batch wa-2`, `build_careers.py` load/build and `git diff --check` passed. Generated local aggregate files were discarded; only the assigned member and this checkpoint are being written.
 - Recovered source/tool gaps: the archived AIC board citation could not be opened through the search service and the current page is not a historical register. Indexed primary-organisation text plus the live board policy were used conservatively. This did not terminate research.
+
+## Active follow-up — 2026-10-04 16:00 Brisbane cycle, continuation1
+
+- Additional user-requested execution began2026-10-04T17:00:01+10:00; WA2segment began after verified WA1pass at17:53:08; end not observed. Starting WA2head d368d4d1b2a61f70fd860c0b3bb7982c5a5ea880 matches fresh GitHub check; previous Oct3 marker stale/released; no changed head or active conflicting writer observed.
+- Starting national226/226initial,0complete,226unresolved. Current attempt32distinct,0new,17material,15nonmaterial,0complete; cycle49distinct23material26nonmaterial; day186distinct73material113nonmaterial. Derived baseline from remote checkpoints/member commits; metadata-only corrections excluded. Starting batch14initial0complete14blocked; all14 reviewedOct3, first new follow-up Sue Lines112096 in assigned order.
+- All13starting heads recorded in QLD2checkpoint; QLD2segment final860a6f5527eb7ed25a2b0a5db3a1193a9ad766ca; WA1finalmember7c97604cd96b72fa93c731e9346cc4c7a5eac79a; cursor-onlycorrectionff631d1303ebea931aa6f47df04f217e60aa5d6b.
+- Predecessor accepted successor remains executionunverified: task peek last_run_time2026-10-04T06:22:18.810151Z does not expose terminal status or subsequent research. No successor requested by this execution. Scheduler terminal telemetry unavailable.
+- OUTCOME:ongoing. STOPPING REASON:none; continue research after verified member saves. Individual source403/999/429/content-size and search extraction gaps are not terminal job errors.
+
+- Sue Lines112096: materially enriched school/community evidence and party roles; unresolved. Next assigned member Zaneta Mascarenhas298800.
+- Attempt33distinct,0new,18material,15nonmaterial,0complete; cycle50distinct,24material,26nonmaterial; day187distinct,74material,113nonmaterial; all0new/complete. Next: Zaneta Mascarenhas298800. OUTCOME:ongoing; STOPPING REASON:none.
