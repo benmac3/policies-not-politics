@@ -301,3 +301,6 @@ Batch check passes: 226 assigned exactly once across 13 batches; nsw-2 assignmen
 
 - 2026-10-04T19:29:43+10:00: Simon Kennedy: employer2006 interval and active Banksia advisory work added.
 - Attempt82distinct,0new,46material,36nonmaterial,0complete; cycle99distinct,52material,47nonmaterial; day226distinct,100material,126nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Maria Kovacic306168. OUTCOME:ongoing; STOPPING REASON:none.
+
+- 2026-10-04T19:31:15+10:00: Maria Kovacic: original directorship attribution and separate party terms added.
+- Attempt83distinct,0new,47material,36nonmaterial,0complete; cycle100distinct,53material,47nonmaterial; day226distinct,101material,125nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Jerome Laxale299174. OUTCOME:ongoing; STOPPING REASON:none.

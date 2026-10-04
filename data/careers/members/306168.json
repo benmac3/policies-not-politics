@@ -339,9 +339,10 @@
       "counting_status": "excluded",
       "source_ids": [
         "src-interests-index-oct2",
-        "src-senate-declaration-oct2"
+        "src-senate-declaration-oct2",
+        "src-originalregister2023-directors-oct4"
       ],
-      "evidence_note": "Financial services and consulting company directorship reported in public Senate-register transcription. Original personal attribution and terms, remuneration, operational duties and hours require confirmation. Primary indexed10July2023 declaration independently corroborates company/shareholding identity, not appointment dates. No additional paid-work interval inferred.",
+      "evidence_note": "Financial services and consulting company directorship reported in public Senate-register transcription. Original personal attribution and terms, remuneration, operational duties and hours require confirmation. Primary indexed10July2023 declaration independently corroborates company/shareholding identity, not appointment dates. No additional paid-work interval inferred. Original10July2023 Form A indexed Section4 now directly corroborates these registered directorships and company activities. This resolves original declaration attribution at that observation; appointment/cessation, personal operations, pay and hours remain unresolved. Direct PDF reader403; indexed primary passage used with that access limit.",
       "counting_note": "Governance/ownership excluded from full-time employment totals without substantive work evidence.",
       "spell_id": "306168-mobile-director"
     },
@@ -359,9 +360,10 @@
       "counting_status": "excluded",
       "source_ids": [
         "src-interests-index-oct2",
-        "src-senate-declaration-oct2"
+        "src-senate-declaration-oct2",
+        "src-originalregister2023-directors-oct4"
       ],
-      "evidence_note": "Financial services and consulting company directorship reported in public Senate-register transcription. Original personal attribution and terms, remuneration, operational duties and hours require confirmation. Primary indexed10July2023 declaration independently corroborates company/shareholding identity, not appointment dates. No additional paid-work interval inferred.",
+      "evidence_note": "Financial services and consulting company directorship reported in public Senate-register transcription. Original personal attribution and terms, remuneration, operational duties and hours require confirmation. Primary indexed10July2023 declaration independently corroborates company/shareholding identity, not appointment dates. No additional paid-work interval inferred. Original10July2023 Form A indexed Section4 now directly corroborates these registered directorships and company activities. This resolves original declaration attribution at that observation; appointment/cessation, personal operations, pay and hours remain unresolved. Direct PDF reader403; indexed primary passage used with that access limit.",
       "counting_note": "Governance/ownership excluded from full-time employment totals without substantive work evidence.",
       "spell_id": "306168-borrowright-director"
     },
@@ -379,9 +381,10 @@
       "counting_status": "excluded",
       "source_ids": [
         "src-interests-index-oct2",
-        "src-senate-declaration-oct2"
+        "src-senate-declaration-oct2",
+        "src-originalregister2023-directors-oct4"
       ],
-      "evidence_note": "Holding company company directorship reported in public Senate-register transcription. Original personal attribution and terms, remuneration, operational duties and hours require confirmation. Primary indexed10July2023 declaration independently corroborates company/shareholding identity, not appointment dates. No additional paid-work interval inferred.",
+      "evidence_note": "Holding company company directorship reported in public Senate-register transcription. Original personal attribution and terms, remuneration, operational duties and hours require confirmation. Primary indexed10July2023 declaration independently corroborates company/shareholding identity, not appointment dates. No additional paid-work interval inferred. Original10July2023 Form A indexed Section4 now directly corroborates these registered directorships and company activities. This resolves original declaration attribution at that observation; appointment/cessation, personal operations, pay and hours remain unresolved. Direct PDF reader403; indexed primary passage used with that access limit.",
       "counting_note": "Governance/ownership excluded from full-time employment totals without substantive work evidence.",
       "spell_id": "306168-holding-director"
     },
@@ -403,6 +406,63 @@
       "evidence_note": "Indexed official biography gives month boundaries. Remuneration and hours unknown; party office excluded and not presumed to replace other work.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "306168-hornsby-president"
+    },
+    {
+      "employer": "Liberal Party — Westleigh Fox Valley Branch (NSW)",
+      "role": "President",
+      "start_date": "2018-05",
+      "end_date": "2020-11",
+      "date_precision": "month",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "party_organisation",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-partypositions-oct4"
+      ],
+      "evidence_note": "Indexed official parliamentary biography lists this separate party office with month boundaries. Pay and hours unknown; overlapping franchise/advisory and other party offices retained without extra full-time employment inference.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "306168-westleigh"
+    },
+    {
+      "employer": "Liberal Party — Hornsby State Electorate Conference (NSW)",
+      "role": "Vice-President",
+      "start_date": "2018-05",
+      "end_date": "2020-11",
+      "date_precision": "month",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "party_organisation",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-partypositions-oct4"
+      ],
+      "evidence_note": "Indexed official parliamentary biography lists this separate party office with month boundaries. Pay and hours unknown; overlapping franchise/advisory and other party offices retained without extra full-time employment inference.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "306168-hornsby-vice"
+    },
+    {
+      "employer": "Liberal Party — Berowra Federal Electorate Conference (NSW)",
+      "role": "President",
+      "start_date": "2019-07",
+      "end_date": "2022-10",
+      "date_precision": "month",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "party_organisation",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-partypositions-oct4"
+      ],
+      "evidence_note": "Indexed official parliamentary biography lists this separate party office with month boundaries. Pay and hours unknown; overlapping franchise/advisory and other party offices retained without extra full-time employment inference.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "306168-berowra"
     }
   ],
   "sources": [
@@ -575,6 +635,26 @@
       "note": "Hornsby State Electorate Conference president March2021–October2022; NSW president4October2022–20April2023. Earlier party announcement dated5October conflicts by one day with official commencement.",
       "retrieved": "2026-10-02",
       "source_id": "src-aph-party-oct2"
+    },
+    {
+      "source_id": "src-originalregister2023-directors-oct4",
+      "url": "https://www.aph.gov.au/parliamentary_business/committees/senate/senators_interests/~/-/media/DC929C7123E24B90B1477163D33A4503.ashx",
+      "publisher": "Australian Senate",
+      "title": "Maria Kovacic, Form A,10July2023",
+      "source_type": "government_record",
+      "retrieved": "2026-10-04",
+      "locator": "Section4 Registered directorships of companies",
+      "note": "Primary indexed text names all three directorships; PDF reader403. Directorship observation does not establish paid labour or franchise legal continuity."
+    },
+    {
+      "source_id": "src-partypositions-oct4",
+      "url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=306168",
+      "publisher": "Australian Parliament",
+      "title": "Maria Kovacic parliamentary biography, party positions",
+      "source_type": "official_biography",
+      "retrieved": "2026-10-04",
+      "locator": "Party positions, Westleigh Fox Valley/Hornsby vice-president/Berowra",
+      "note": "Primary indexed text gives three separate month-level offices. Live reader403; frozen roster unchanged."
     }
   ],
   "research_notes": [
@@ -588,7 +668,8 @@
     "Second follow-up2October2026 corroborates Services company spelling via original indexed declaration; adds separately flagged company governance from register transcription and omitted Hornsby party presidency. Neither business distributions nor directorships establish employment or hours.",
     "ANZ/payroll and earlier public-sector searches did not resolve missing employer history. Indian BorrowRight finance firm is unrelated; do not conflate. Direct APH access is robots-blocked and Shorted reader unavailable; primary indexed declaration and openly accessible transcription used with limits. Future priorities: original directorship attribution, historical franchise entity linkage and pre2006 public employer records.",
     "Follow-up3October2026 targeted pre2006 public-sector employment, Mobile Home legal franchise linkage and Executive Women founding chronology using two search services. Results repeated party/profile claims without a named early public employer or payroll link. Current organisational page https://www.westernsydneywomen.com.au/wsew describes a network and contemporary programs but no personal founding dates.13September2023 Senate speech reproduction https://www.openaustralia.org.au/senate/?gid=2023-09-13.214.1 reiterates2015 Western Sydney Women founding and says Executive Women followed later; this supplies no more precise date than existing evidence. No boundaries or hours changed. Do not repeat these generic searches absent a historical ANZ credit-representative record, original personal register attribution or named pre2006 employer lead.",
-    "Fourth follow-up4October2026 used exact public-sector, Mobile Home entity, ANZ franchise and banking-Royal-Commission queries. Official and first-party results repeated the2006–2021 franchise,2007 Mobile Home profile claim and undated regulatory-response work. No named pre2006 public employer, client, credit-representative record, payroll link, hours or leave emerged. The current National Library page repeats the already recorded12August2026 council appointment. No material change; later company-name registrations and profile wording remain insufficient to backdate a legal employer."
+    "Fourth follow-up4October2026 used exact public-sector, Mobile Home entity, ANZ franchise and banking-Royal-Commission queries. Official and first-party results repeated the2006–2021 franchise,2007 Mobile Home profile claim and undated regulatory-response work. No named pre2006 public employer, client, credit-representative record, payroll link, hours or leave emerged. The current National Library page repeats the already recorded12August2026 council appointment. No material change; later company-name registrations and profile wording remain insufficient to backdate a legal employer.",
+    "Follow-up2026-10-04: Original indexed10July2023 Senate Form A Section4 confirms personal company directorship observations, resolving reliance solely on a third-party transcription while keeping dates/pay/operational work unknown. Official indexed party positions adds omitted Westleigh presidency, Hornsby vice-presidency and Berowra presidency. Live APH PDF/biography reader403 not terminal; indexed retrieved passages retained with access qualifier. ANZ credit/payroll history and pre2006 employment still unresolved; commercial ANZ facilities do not identify the franchise employing entity."
   ],
   "open_questions": [
     "What work did Kovacic perform before January 2006, particularly the claimed public-sector experience, and for which employers and dates?",
