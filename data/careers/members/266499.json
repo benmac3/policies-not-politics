@@ -6,7 +6,7 @@
   "snapshot_party": "Liberal Party of Australia",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/266499",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-03",
+  "last_reviewed": "2026-10-04",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -58,9 +58,9 @@
       "spell_id": "266499-03",
       "employer": "National Australia Bank",
       "role": "Private banker",
-      "start_date": "1998",
-      "end_date": "1999",
-      "date_precision": "year",
+      "start_date": "1998-08",
+      "end_date": "1999-06",
+      "date_precision": "month",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "private_enterprise",
@@ -70,9 +70,10 @@
       "source_ids": [
         "src-1",
         "src-2",
-        "src-3"
+        "src-3",
+        "oct4-linkedin"
       ],
-      "evidence_note": "Official year labels; full-time status absent.",
+      "evidence_note": "Public professional profile refines the official year labels to August1998–June1999 (11 months). These are profile month labels, not exact day boundaries, and no full-time status or leave history is stated.",
       "counting_note": "Not counted: dates and/or substantive full-time status are insufficiently evidenced; year labels are not exact boundaries."
     },
     {
@@ -314,6 +315,16 @@
       "note": "Gives exact directorship interval 26 September 2014–15 June 2015 and five of five board and audit-committee meetings attended. Remuneration bands are aggregate, not attributable to an individual.",
       "retrieved": "2026-10-03",
       "source_id": "oct3-fed"
+    },
+    {
+      "url": "https://au.linkedin.com/in/senatorhume",
+      "publisher": "Jane Hume",
+      "title": "Jane Hume public professional profile",
+      "source_type": "professional_profile",
+      "locator": "Experience entry: National Australia Bank, Private Banker",
+      "note": "Public profile gives August 1998–June 1999 (11 months) for the NAB private-banker role. It does not state employment fraction, leave or exact days.",
+      "retrieved": "2026-10-04",
+      "source_id": "oct4-linkedin"
     }
   ],
   "research_notes": [
@@ -323,6 +334,7 @@
     "Non-executive directorships are excluded even where government controls the organisation. Neither unknown headline becomes zero.",
     "Follow-up2026-10-03: Fed Square's 2014–15 directors' report resolves the governance interval as 26 September 2014–15 June 2015 and confirms meeting attendance. This supersedes the earlier unresolved conflict between the prospective September2014 welcome and the parliamentary biography's year-only2015 label; governance remains excluded from employment headlines.",
     "Searches of historical governance reports and public financial-services profiles did not resolve banking/policy FTE or six-year leave boundaries. Financial Standard profile was subscription-only; no bypass attempted. APH retirement-inquiry footnotes open returned Internal Error; indexed hearing reference remains a lead only.",
-    "Next leads: individual employer appointment/FTE records for banking and AustralianSuper, original brokerage name, and six-year maternity-leave endpoints. Totals remain unknown; excluded governance is not employment."
+    "Next leads: individual employer appointment/FTE records for banking and AustralianSuper, original brokerage name, and six-year maternity-leave endpoints. Totals remain unknown; excluded governance is not employment.",
+    "Follow-up2026-10-04: Hume's public professional profile refines her NAB private-banker role to August1998–June1999 (11 months). The month labels materially narrow one banking interval but do not establish exact start/end days, substantive full-time status or leave. Searches did not recover equivalent month-level evidence for NAFM, Rothschild, Deutsche Bank or AustralianSuper, and the six-year maternity-leave boundaries remain unresolved."
   ]
 }
