@@ -350,3 +350,6 @@ Batch check passes: 226 assigned exactly once across 13 batches; nsw-1 assignmen
 
 - 2026-10-04T21:29:19+10:00: Tim Ayres: documented personal2014/2015union remuneration and source-bound limits on superannuation/board fees.
 - Attempt141distinct,0new,85material,56nonmaterial,0complete; cycle158distinct,91material,67nonmaterial; day226distinct,122material,104nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: 319142 Sean Bell; original defence service and departure/self-employment records.. OUTCOME:ongoing; STOPPING REASON:none.
+
+- 2026-10-04T21:30:45+10:00: Sean Bell: filmcontract/businessidentity follow-up exhausted without new supported employment facts; namesakes excluded.
+- Attempt142distinct,0new,85material,57nonmaterial,0complete; cycle159distinct,91material,68nonmaterial; day226distinct,122material,104nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: 23497 Carol Berry; dated public health-policy/nonprofit appointments and leave evidence.. OUTCOME:ongoing; STOPPING REASON:none.
