@@ -236,3 +236,6 @@
 
 - Amanda Rishworth HWA: material party-history additions; psychology/payroll gaps retained.
 - Attempt61distinct,0new,33material,28nonmaterial,0complete; cycle78distinct,39material,39nonmaterial; day215distinct,89material,126nonmaterial; all0new/complete. Next: Anne Ruston243273. OUTCOME:ongoing; STOPPING REASON:none.
+
+- Anne Ruston243273: nonmaterial targeted contract/payroll follow-up; unresolved dates/hours retained.
+- Attempt62distinct,0new,33material,29nonmaterial,0complete; cycle79distinct,39material,40nonmaterial; day216distinct,89material,127nonmaterial; all0new/complete. Next: Rebekha Sharkie265980. OUTCOME:ongoing; STOPPING REASON:none.
