@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/312871",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-04",
+  "last_reviewed": "2026-10-05",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -196,7 +196,7 @@
         "src-8",
         "src-10"
       ],
-      "evidence_note": "Public profile reports general-nursing diploma 1985, midwifery diploma 1988, health-science degree 1996 and Curtin OHS study across 1999–2006; exact course-specific attendance remains unmapped. First speech says PhD started 2019, while the profile reports an ECU return in 2016 and the thesis records interviews from July 2017. ECU repository records integrated PhD award in 2026. Enrolment/research-phase distinction remains unresolved; no paid research appointment inferred.",
+      "evidence_note": "Public profile reports general-nursing diploma 1985, midwifery diploma 1988, health-science degree 1996 and Curtin OHS study across 1999–2006; exact course-specific attendance remains unmapped. First speech says PhD started 2019, while the profile reports an ECU return in 2016 and the thesis records interviews from July 2017. ECU repository records integrated PhD award in 2026. Enrolment/research-phase distinction remains unresolved; no paid research appointment inferred. Conflict retained explicitly: ECU’s2025profile reports Bachelor of Nursing1991 and OHS masters2007, whereas public profile gives health-science degree1996 and Curtin OHS study1999–2006. It is not established whether nursing degree labels refer to distinct awards; do not silently substitute dates. APH identifies Curtin as OHS provider; the ECU article does not specify that masters provider.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "312871-09"
     },
@@ -245,7 +245,7 @@
       "role": "Member for Bullwinkel",
       "start_date": "2025-05-03",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "day",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -301,7 +301,7 @@
     },
     {
       "employer": "Edith Cowan University",
-      "role": "Undergraduate tutor",
+      "role": "Undergraduate nursing tutor, including social determinants of health",
       "start_date": "2017",
       "end_date": "2021",
       "date_precision": "year",
@@ -313,9 +313,10 @@
       "counting_status": "excluded",
       "source_ids": [
         "src-7",
-        "src-10"
+        "src-10",
+        "src-3"
       ],
-      "evidence_note": "Cook's publicly indexed professional profile dates ECU undergraduate tutoring to 2017–2021; her 2026 first-person parliamentary statement independently confirms ECU teaching and mentoring registered nurses. Contract type, campus allocation, hours and leave remain unpublished.",
+      "evidence_note": "Cook's publicly indexed professional profile dates ECU undergraduate tutoring to 2017–2021; her 2026 first-person parliamentary statement independently confirms ECU teaching and mentoring registered nurses. Contract type, campus allocation, hours and leave remain unpublished. ECU’s16May2025profile quotes Cook describing prior undergraduate nursing tutoring on social determinants of health; this independently corroborates teaching content, not profile year boundaries or hours.",
       "counting_note": "University work is excluded from the public/private headline under the codebook; no full-time assumption is made.",
       "spell_id": "312871-15"
     },
@@ -339,6 +340,25 @@
       ],
       "evidence_note": "Cook states22November2024 and9January2025 that she previously worked as a nurse at the Midland clinic facility, explicitly identified as NorthStreetMedicalCentre in2024transcript.29June2026Hansard clarifies her former clinic was next door to the urgent-care clinic. Do not assume she worked in the new urgentcare service or assign its opening date as her start. Named clinical work setting added; payroll entity, historical employer control, dates, paid relationship, hours and leave unknown. Government Medicare funding does not establish government employment; private current facility ownership does not establish historical payroll employer.",
       "counting_note": "Previously unrecorded clinical work; no dated/full-time interval or employer-sector total inferred. May overlap other clinical work; no additive years."
+    },
+    {
+      "spell_id": "312871-17",
+      "employer": "Edith Cowan University",
+      "role": "Participant in university media-training workshops",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-3"
+      ],
+      "evidence_note": "University profile16May2025identifies Cook as former participant of in-house media-training workshops. Personal dates and workload are unpublished; no employment by media unit inferred.",
+      "counting_note": "Professional-development study excluded; no paid media role or additive employment duration."
     }
   ],
   "sources": [
@@ -367,9 +387,9 @@
       "publisher": "Edith Cowan University",
       "title": "ECU alumni rise to national leadership",
       "source_type": "employer",
-      "locator": "Trish Cook profile",
-      "note": "Hospital training; Bachelor of Nursing 1991, masters 2007 and current PhD at time of publication.",
-      "retrieved": "2026-10-01",
+      "locator": "16May2025, TrishCook section: qualifications, media workshops and own tutoring statement",
+      "note": "ECU reports nursing completion1991 and OHS masters2007, differing from public-profile chronology. OHS sentence does not identify award institution; APH lists Curtin. Primary quote corroborates social-determinants nursing teaching. Workshop participation is study, not media employment.",
+      "retrieved": "2026-10-05",
       "source_id": "src-3"
     },
     {
@@ -492,6 +512,7 @@
     "Curtin 2008–2011 and ECU 2017–2021 remain secondary leads: Wikipedia links old public professional profile trish-cook-28a36738, but direct 999; renamed trish-cook-mp denied robots and targeted indexes lacked role detail. No authentication or access bypass. Business News visible profile did not supply the claimed oil/gas date interval.",
     "Gov Insights namesake is an administration specialist without matching nursing biography; not attributed. Searches for Nurses@Work legal entity and TAFE appointments did not identify payroll records. Next leads: historical nursing business registry, public academic CV, TAFE annual reports, and paid hospital-training record.",
     "Follow-up 2026-10-03: public professional-profile evidence was sufficient to promote prior leads into bounded but hours-unknown Curtin OHS lecturing (2008–2011), ECU tutoring (2017–2021), and a broad 1996–2011 oil-and-gas/OHS umbrella. Business News corroborates the latter in visible index text. The university spells overlap the umbrella and are not additive. Exact payroll employers/clients, hours, leave and Nurses@Work boundaries remain unresolved; subscription content was not accessed.",
-    "Follow-up2026-10-04: New primary ministerial/PM transcripts and Hansard identify nursing work in the NorthStreetMedicalCentre Midland precinct.2026speech clarifies former clinic was next door to urgentcare, preventing wrong service/opening-date attribution. Legal payer, historic control, hours and start/end remain unknown; clinic work saved separately. Targeted Nurses@Work and Solomon Islands searches lack payroll/business endpoints; US namesake nurse/physician records rejected."
+    "Follow-up2026-10-04: New primary ministerial/PM transcripts and Hansard identify nursing work in the NorthStreetMedicalCentre Midland precinct.2026speech clarifies former clinic was next door to urgentcare, preventing wrong service/opening-date attribution. Legal payer, historic control, hours and start/end remain unknown; clinic work saved separately. Targeted Nurses@Work and Solomon Islands searches lack payroll/business endpoints; US namesake nurse/physician records rejected.",
+    "Follow-up2026-10-05: Primary ECU profile independently corroborates nursing tutoring content (social determinants of health) and omitted media-training workshops, saved as undated excluded study. Explicitly preserves university/profile qualification conflicts1991vs1996 nursing and2007vs1999–2006OHS; masters provider not implied ECU because APH identifies Curtin. Generic full-time placement passages describe students, staff vacancies describe electorate employees, and US/UK nurses/farmers namesakes rejected. Registry/name queries still yield no attributable Nurses@Work entity or clinical payroll/TAFE dates. Next lead historical nurse-business registry and individual academic/employmentCV; no full-time totals."
   ]
 }
