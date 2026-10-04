@@ -252,3 +252,8 @@ Batch coverage, record fields, dates, enums, source references, build_careers.lo
 - Anne Webster: nonmaterial follow-up — exact-name Mildura searches for music teaching, seamstress and image-consulting work returned only the existing general biography/current member page and namesakes. No school/client, business entity, appointment, hours, leave or payroll evidence surfaced. Local directories, school records, registrations and contemporaneous advertisements remain targeted leads.
 - Current continuation: 15 distinct records, 0 new, 2 materially enriched, 13 nonmaterial follow-ups and 0 newly complete. Cycle/day cumulative: 131 distinct, 0 new, 49 materially enriched, 82 nonmaterial follow-ups and 0 newly complete.
 - Durable next cursor: Tim Wilson (IMW).
+
+
+- Tim Wilson: materially enriched follow-up — a secondary staff-history compilation records his Australian APEC Study Centre resignation in April 2006, refining the APH year-only endpoint to month precision. It does not resolve the payroll/contracting entity, hours or day. Exact electorate-office identity, Commissioner commencement/leave and consulting hours remain unresolved; narrow searches prevented prior result truncation.
+- Current continuation: 16 distinct records, 0 new, 3 materially enriched, 13 nonmaterial follow-ups and 0 newly complete. Cycle/day cumulative: 132 distinct, 0 new, 50 materially enriched, 82 nonmaterial follow-ups and 0 newly complete.
+- Durable next cursor: Sarah Witty (316660).

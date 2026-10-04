@@ -6,7 +6,7 @@
   "snapshot_party": "Liberal Party of Australia",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/IMW",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-03",
+  "last_reviewed": "2026-10-04",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -77,8 +77,8 @@
       "employer": "Australian APEC Study Centre, then associated with Monash University",
       "role": "Development project manager",
       "start_date": "2004",
-      "end_date": "2006",
-      "date_precision": "year",
+      "end_date": "2006-04",
+      "date_precision": "month",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "university",
@@ -88,9 +88,10 @@
       "source_ids": [
         "src-1",
         "src-6",
-        "src-14"
+        "src-14",
+        "src-16"
       ],
-      "evidence_note": "University affiliation evidenced, but payroll entity and control for this appointment require verification. Not automatically private enterprise or public service. Contemporary IPA author byline describes a consultant to the centre; contractual counterparty and whether on Monash payroll remain open.",
+      "evidence_note": "University affiliation evidenced, but payroll entity and control for this appointment require verification. Not automatically private enterprise or public service. Contemporary IPA author byline describes a consultant to the centre; contractual counterparty and whether on Monash payroll remain open. A secondary staff-history compilation records resignation in April 2006, refining the APH year-only endpoint without establishing the day or payroll entity.",
       "counting_note": "Dates, employer control and/or substantive full-time status remain insufficient for a duration calculation; unknown is not zero."
     },
     {
@@ -174,7 +175,7 @@
         "src-7",
         "src-13"
       ],
-      "evidence_note": "Consulting business; actual contracted entity, hours and overlaps need verification. Not counted as seven additive full-time years. LinkedIn indexed2007\u20132016 grouped tenure conflicts with this APH split; grouping may describe business affiliation rather than continuous paid work, so no bridge across commissioner service.",
+      "evidence_note": "Consulting business; actual contracted entity, hours and overlaps need verification. Not counted as seven additive full-time years. LinkedIn indexed2007–2016 grouped tenure conflicts with this APH split; grouping may describe business affiliation rather than continuous paid work, so no bridge across commissioner service.",
       "counting_note": "Dates, employer control and/or substantive full-time status remain insufficient for a duration calculation; unknown is not zero."
     },
     {
@@ -258,7 +259,7 @@
         "src-1",
         "src-13"
       ],
-      "evidence_note": "Distinct post-commission/pre-parliament consulting period; no exact transitions or hours. LinkedIn indexed2007\u20132016 grouped tenure conflicts with this APH split; grouping may describe business affiliation rather than continuous paid work, so no bridge across commissioner service.",
+      "evidence_note": "Distinct post-commission/pre-parliament consulting period; no exact transitions or hours. LinkedIn indexed2007–2016 grouped tenure conflicts with this APH split; grouping may describe business affiliation rather than continuous paid work, so no bridge across commissioner service.",
       "counting_note": "Dates, employer control and/or substantive full-time status remain insufficient for a duration calculation; unknown is not zero."
     },
     {
@@ -462,14 +463,14 @@
       "title": "Human Rights Commissioner, Mr Tim Wilson",
       "retrieved": "2026-09-29",
       "source_type": "employer",
-      "locator": "Former Commissioner biography, lines 18\u201325",
-      "note": "Employer gives February 2014\u2013February 2016, prior IPA/trade/media work and governance appointments."
+      "locator": "Former Commissioner biography, lines 18–25",
+      "note": "Employer gives February 2014–February 2016, prior IPA/trade/media work and governance appointments."
     },
     {
       "source_id": "src-3",
       "url": "https://humanrights.gov.au/__data/assets/file/0029/45569/AHRC-Annual-Report-2015-2016.pdf",
       "publisher": "Australian Human Rights Commission",
-      "title": "Annual Report 2015\u20132016",
+      "title": "Annual Report 2015–2016",
       "retrieved": "2026-09-29",
       "source_type": "government_record",
       "locator": "Printed pages 2, 4 and 9: statutory status and departing commissioners",
@@ -482,7 +483,7 @@
       "title": "Morrison Government response to Equality Australia, 22 April 2019",
       "retrieved": "2026-09-29",
       "source_type": "other",
-      "locator": "PDF page 2, response to questions 1\u20132, lines 53\u201358",
+      "locator": "PDF page 2, response to questions 1–2, lines 53–58",
       "note": "Party's own signed election response explicitly describes Wilson's 2014 appointment as full time; supported additionally by 2016 response indexed at same host. Not inferred from title."
     },
     {
@@ -548,7 +549,7 @@
     {
       "url": "https://www.alfredhealth.org.au/images/resources/corporate-publications/Annual-Report/Alfred-Health-Annual-Report-2013-2014.pdf",
       "publisher": "Alfred Health",
-      "title": "Annual Report2013\u201314",
+      "title": "Annual Report2013–14",
       "source_type": "employer",
       "locator": "Printed pages33 and100 / PDF pages35 and102: Wilson biography and responsible persons",
       "note": "Board term ended/resigned30June2014; lists committee responsibilities. Collective remuneration bands do not establish his hours or an executive role.",
@@ -570,15 +571,15 @@
       "publisher": "Tim Wilson / LinkedIn",
       "title": "Tim Wilson professional profile",
       "source_type": "professional_profile",
-      "locator": "Public indexed Dynamic Sunrise Consulting experience2007\u20132016",
-      "note": "Self-reported aggregated range spans commissioner tenure, unlike APH split2007\u201314 and2016. Do not infer continuous consulting employment. Direct open returned Internal Error.",
+      "locator": "Public indexed Dynamic Sunrise Consulting experience2007–2016",
+      "note": "Self-reported aggregated range spans commissioner tenure, unlike APH split2007–14 and2016. Do not infer continuous consulting employment. Direct open returned Internal Error.",
       "retrieved": "2026-10-02",
       "source_id": "src-13"
     },
     {
       "url": "https://ipa.org.au/wp-content/uploads/57-4-shouldbusinessesjustsayno.pdf",
       "publisher": "Institute of Public Affairs",
-      "title": "IPA Review volume57 number4 \u2014 Tim Wilson author affiliation",
+      "title": "IPA Review volume57 number4 — Tim Wilson author affiliation",
       "source_type": "professional_profile",
       "locator": "Indexed technology-column author biography",
       "note": "Describes Wilson as a consultant to Australian APEC Study Centre at Monash; no proof of university payroll. Full PDF inaccessible via retrieval tool.",
@@ -594,17 +595,28 @@
       "note": "First-person parliamentary account describes service on AHPRA's Nursing and Midwifery Board from 2010 until about 2013. Its approximate start conflicts with APH's 2011–2013 official range and does not establish appointment days, hours or remuneration.",
       "retrieved": "2026-10-03",
       "source_id": "src-15"
+    },
+    {
+      "source_id": "src-16",
+      "url": "https://www.desmog.com/australian-apec-study-centre/",
+      "publisher": "DeSmog",
+      "title": "Australian APEC Study Centre",
+      "retrieved": "2026-10-04",
+      "source_type": "secondary_profile",
+      "locator": "Staff table, Tim Wilson row",
+      "note": "Staff-history compilation records Tim Wilson as project manager and 'Resigned. April 2006'. Used only to refine the endpoint to month precision; payroll entity, hours and day remain unresolved."
     }
   ],
   "research_notes": [
     "Obtain AHRC primary commencement/cessation and leave evidence; verify business hours, clients/legal entity and overlaps across three Dynamic Sunrise spells, SDA, IPA and radio. Resolve APEC payroll/control and early electorate-office identity.",
-    "2026-09-29 initial research checked APH indexed chronology, AHRC former-officeholder page and 2015\u20132016 annual report, Coalition's signed 2019 survey response, contemporaneous IPA author biography, APEC 2004 institutional credits, member narrative and current ABC shareholding report. No outreach or source access controls bypassed.",
-    "Commissioner full-time status has direct documentary wording, unlike other senior titles. Employer dates remain February 2014\u2013February 2016. A 17 February 2014 appointment-announcement search result is not necessarily the service commencement; secondary report says resignation effective 19 February 2016. Exact primary instruments remain follow-up leads; no invented boundary dates.",
-    "AHRC 2013\u20132014 PDF exceeded retrieval size, some archived IPA PDFs returned unavailable/404, and the Productivity Commission PDF was available only through indexed author text. Preserve these attempted avenues rather than repeatedly retrying them without new leads.",
+    "2026-09-29 initial research checked APH indexed chronology, AHRC former-officeholder page and 2015–2016 annual report, Coalition's signed 2019 survey response, contemporaneous IPA author biography, APEC 2004 institutional credits, member narrative and current ABC shareholding report. No outreach or source access controls bypassed.",
+    "Commissioner full-time status has direct documentary wording, unlike other senior titles. Employer dates remain February 2014–February 2016. A 17 February 2014 appointment-announcement search result is not necessarily the service commencement; secondary report says resignation effective 19 February 2016. Exact primary instruments remain follow-up leads; no invented boundary dates.",
+    "AHRC 2013–2014 PDF exceeded retrieval size, some archived IPA PDFs returned unavailable/404, and the Productivity Commission PDF was available only through indexed author text. Preserve these attempted avenues rather than repeatedly retrying them without new leads.",
     "Governance at Alfred Health, Monash, AHPRA and Monyx is recorded separately from paid executive employment. Dynamic Sunrise ownership and Gondwana investment interests do not establish additional full-time employment. Member mentions start-up and capital-raising work but no separate verifiable employers or dates.",
     "Consulting, nonprofit policy and media periods overlap extensively. No additive duration total is calculated; missing private hours are not zero. Full-time Commissioner evidence does not resolve the whole career or justify complete research status. Last follow-up 2026-09-29; retain blocked and advance national initial pass.",
-    "2026-10-02 follow-up: Alfred Health2013\u201314 primary annual report refines board cessation; contemporary ABC interview corroborates effective commissioner departure19February2016. LinkedIn public-index grouped Dynamic Sunrise2007\u201316 range preserved as an overlap discrepancy rather than overwriting APH split spells. Contemporary IPA column identifies APEC consultancy, not proof of university payroll.",
+    "2026-10-02 follow-up: Alfred Health2013–14 primary annual report refines board cessation; contemporary ABC interview corroborates effective commissioner departure19February2016. LinkedIn public-index grouped Dynamic Sunrise2007–16 range preserved as an overlap discrepancy rather than overwriting APH split spells. Contemporary IPA column identifies APEC consultancy, not proof of university payroll.",
     "Appointment media-release index identifies Federal Executive Council appointment17February2014; ABC17February2014 transcript introduction refers to taking up post tomorrow, whereas February2016 resignation report describes second anniversary. These may represent different milestones. Retain month-only commencement pending instrument. Seek leave records, APEC contracting entity, exact AHPRA board and electorate employer, and post2022 consulting hours. APH estimatesPDF restricted, IPA PDF inaccessible and LinkedIn open Internal Error; no access bypass. Last follow-up2026-10-02; blocked remains.",
-    "2026-10-03 follow-up: current APH material resolves the previously generic AHPRA entry to the Victorian Nursing and Midwifery Board and dates it 2011–2013. Wilson's first-person parliamentary account on 4 February 2026 recalls service from 2010 until about 2013; because the start is approximate and conflicts with APH, both are documented and the official year range retained. This is excluded governance, not additional public-service employment. Fresh commencement-instrument, APEC-payroll and consulting-hours searches did not resolve those gaps; record remains blocked."
+    "2026-10-03 follow-up: current APH material resolves the previously generic AHPRA entry to the Victorian Nursing and Midwifery Board and dates it 2011–2013. Wilson's first-person parliamentary account on 4 February 2026 recalls service from 2010 until about 2013; because the start is approximate and conflicts with APH, both are documented and the official year range retained. This is excluded governance, not additional public-service employment. Fresh commencement-instrument, APEC-payroll and consulting-hours searches did not resolve those gaps; record remains blocked.",
+    "2026-10-04 follow-up: a staff-history compilation records Wilson as Australian APEC Study Centre project manager and says he resigned in April 2006, refining the official 2006 endpoint to month precision. Exact electorate-office identity, APEC payroll/contract counterparty and hours, Human Rights Commissioner commencement instrument/leave, and private consulting hours remain unresolved. Narrow exact-name searches avoided prior oversized-result truncation; public-web avenues did not supply the decisive personnel or contracting records. Record remains blocked."
   ]
 }
