@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/296272",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-03",
+  "last_reviewed": "2026-10-04",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -226,8 +226,8 @@
       "employer": "Australian Medical Council",
       "role": "Council consumer member",
       "start_date": "2019-05",
-      "end_date": null,
-      "date_precision": "mixed",
+      "end_date": "2022-01",
+      "date_precision": "month",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "nonprofit",
@@ -235,9 +235,10 @@
       "government_control_at_time": "private",
       "counting_status": "excluded",
       "source_ids": [
-        "src-11"
+        "src-11",
+        "src-23"
       ],
-      "evidence_note": "Primary annual report records May2019appointment by directors. Separate from statutory SA Medical Board; end and fees unresolved.",
+      "evidence_note": "Primary annual report records May2019appointment by directors. Separate from statutory SA Medical Board; end and fees unresolved. AMC2021–22primary member table ends her council service inJanuary2022; no exact day or AMC directorship inferred.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "296272-11"
     },
@@ -263,7 +264,7 @@
     },
     {
       "employer": "Winston Churchill Memorial Trust",
-      "role": "SA selection panel member",
+      "role": "SA selection panel member; later SA Selection Committee chair",
       "start_date": "2019",
       "end_date": "2022",
       "date_precision": "year",
@@ -275,9 +276,10 @@
       "counting_status": "excluded",
       "source_ids": [
         "src-2",
-        "src-17"
+        "src-17",
+        "src-24"
       ],
-      "evidence_note": "Official role is selection panel; general references to board service do not prove national directorship. Exact endpoints/pay unresolved.",
+      "evidence_note": "Official role is selection panel; general references to board service do not prove national directorship. Exact endpoints/pay unresolved. Trust2021–22chair report describes succession from Alexandrea Cannon roughly a year earlier and replacement by Shona Reid as SA Selection Committee chair. Exact chair start and relation to panel tenure unresolved; separate national directorship now recorded.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "296272-13"
     },
@@ -381,10 +383,10 @@
     },
     {
       "employer": "South Australian Public Health Council",
-      "role": "Local Government Association representative",
-      "start_date": null,
-      "end_date": null,
-      "date_precision": "unknown",
+      "role": "Deputy board member / Local Government Association representative",
+      "start_date": "2015",
+      "end_date": "2017",
+      "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "unknown",
@@ -392,11 +394,109 @@
       "government_control_at_time": "public",
       "counting_status": "excluded",
       "source_ids": [
-        "src-20"
+        "src-20",
+        "src-2"
       ],
-      "evidence_note": "April2017council vacancy record attributes vacancy to her resignation. Event establishes departure before agenda, not exact employment endpoint. Advisory/governance role may be concurrent with Burnside employment; pay/hours unknown.",
+      "evidence_note": "April2017council vacancy record attributes vacancy to her resignation. Event establishes departure before agenda, not exact employment endpoint. Advisory/governance role may be concurrent with Burnside employment; pay/hours unknown. Official biography supplies2015–2017year range and deputy-board status; agenda resignation observation remains distinct from exact endpoint.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "296272-19"
+    },
+    {
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "headline_sector": "excluded",
+      "counting_status": "excluded",
+      "spell_id": "296272-20",
+      "employer": "UnitingCare Wesley Bowden",
+      "role": "Board member",
+      "start_date": "2010-02",
+      "end_date": "2017-04",
+      "date_precision": "month",
+      "category": "nonprofit",
+      "government_control_at_time": "unknown",
+      "source_ids": [
+        "src-2"
+      ],
+      "evidence_note": "Official member interval distinct from2015–2017chair spell; overlapping governance not additive. Fees/hours unknown.",
+      "counting_note": "Governance excluded from substantive public/private employment; no full-time years or additive overlaps inferred."
+    },
+    {
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "headline_sector": "excluded",
+      "counting_status": "excluded",
+      "spell_id": "296272-21",
+      "employer": "Eastern Business Enterprise Centre",
+      "role": "Board member",
+      "start_date": "2014",
+      "end_date": "2017",
+      "date_precision": "year",
+      "category": "nonprofit",
+      "government_control_at_time": "unknown",
+      "source_ids": [
+        "src-2",
+        "src-25"
+      ],
+      "evidence_note": "Official years; council later identifies body as nonprofit predecessor of Propel SA. Government funding does not prove public control. Fees/hours unknown.",
+      "counting_note": "Governance excluded from substantive public/private employment; no full-time years or additive overlaps inferred."
+    },
+    {
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "headline_sector": "excluded",
+      "counting_status": "excluded",
+      "spell_id": "296272-22",
+      "employer": "Economic Development Australia,SA Management Committee",
+      "role": "Committee board member",
+      "start_date": "2015",
+      "end_date": "2016",
+      "date_precision": "year",
+      "category": "unknown",
+      "government_control_at_time": "unknown",
+      "source_ids": [
+        "src-2"
+      ],
+      "evidence_note": "Official biography supplies role and years; precise legal entity, control and pay unresolved. Committee governance not substantive employment.",
+      "counting_note": "Governance excluded from substantive public/private employment; no full-time years or additive overlaps inferred."
+    },
+    {
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "headline_sector": "excluded",
+      "counting_status": "excluded",
+      "spell_id": "296272-23",
+      "employer": "South Australian Medical Education and Training",
+      "role": "Board member",
+      "start_date": "2020",
+      "end_date": "2022",
+      "date_precision": "year",
+      "category": "unknown",
+      "government_control_at_time": "unknown",
+      "source_ids": [
+        "src-2"
+      ],
+      "evidence_note": "Official biography identifies SA MET,distinct from SAPMEA association board. Legal governance/payroll structure, control and fees unresolved; no employee or clinical role inferred.",
+      "counting_note": "Governance excluded from substantive public/private employment; no full-time years or additive overlaps inferred."
+    },
+    {
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "headline_sector": "excluded",
+      "counting_status": "excluded",
+      "spell_id": "296272-24",
+      "employer": "Winston Churchill Memorial Trust",
+      "role": "National board member",
+      "start_date": "2021",
+      "end_date": "2022-01",
+      "date_precision": "mixed",
+      "category": "nonprofit",
+      "government_control_at_time": "unknown",
+      "source_ids": [
+        "src-2",
+        "src-24"
+      ],
+      "evidence_note": "Official start year; primary Trust report narrows retirement toJanuary2022 at end of its financial year. Not assumed30June, nor exact31January personal last day. Distinct from SA selection-panel/chair role; pay/hours unknown.",
+      "counting_note": "Governance excluded from substantive public/private employment; no full-time years or additive overlaps inferred."
     }
   ],
   "sources": [
@@ -415,9 +515,9 @@
       "publisher": "Parliament of Australia",
       "title": "Louise Miller-Frost biography",
       "source_type": "official_biography",
-      "locator": "Occupations and other public activities",
-      "note": "Indexed official month endpoints and board years; frozen roster unchanged.",
-      "retrieved": "2026-10-01",
+      "locator": "Indexed Occupations and Other Positions: UCWB member/chair,EBEC,EDA,SAPHC,SA MET,Churchill national board",
+      "note": "Indexed official month endpoints and board years; frozen roster unchanged. Fresh indexed official entries reveal omitted governance appointments; direct403, narrow explicit facts used. Frozen assignment unchanged.",
+      "retrieved": "2026-10-04",
       "source_id": "src-2"
     },
     {
@@ -619,6 +719,36 @@
       "note": "Reports3 years9 months and title Primary Mental Health Care Statewide Development and Liaison Officer. Exact months and working fraction were not exposed; no authenticated content used.",
       "retrieved": "2026-10-03",
       "source_id": "src-22"
+    },
+    {
+      "source_id": "src-23",
+      "url": "https://www.amc.org.au/wp-content/uploads/2022/11/AMC-2021-22-Annual-Report.pdf",
+      "publisher": "Australian Medical Council",
+      "title": "Annual report2021–22",
+      "source_type": "employer",
+      "locator": "Printed page7,Non-current members serving during2021–22",
+      "retrieved": "2026-10-04",
+      "note": "Explicitly lists Louise Miller Frost toJanuary2022; narrow indexed primary table used. Full PDF returned400 Content length is too large:34047815. Council member is not necessarily an AMC director."
+    },
+    {
+      "source_id": "src-24",
+      "url": "https://www.churchilltrust.com.au/app/uploads/2022/06/WCT_Annual-report-2022.pdf",
+      "publisher": "Winston Churchill Memorial Trust",
+      "title": "Annual report2021–22",
+      "source_type": "employer",
+      "locator": "PDF page8/printed pages12–13,National Chair report: financial year ended31January2022 and retiring directors",
+      "retrieved": "2026-10-04",
+      "note": "Miller Frost retired at end of reporting financial year, which ended31January2022; recorded January precision rather than a proven last service day. Successor is SA Selection Committee chair; she had succeeded Alexandrea Cannon a year earlier. Not National Chair."
+    },
+    {
+      "source_id": "src-25",
+      "url": "https://www.burnside.sa.gov.au/files/assets/public/about-council/policies-plans-amp-reports/annual-business-plan-amp-budget/adopted-annual-business-plan-amp-budgets/202021abp-summary.pdf",
+      "publisher": "City of Burnside",
+      "title": "Annual business plan and budget2020–21 summary",
+      "source_type": "government_record",
+      "locator": "Publicly indexed achievements: Propel SA launch,formerly Eastern Business Enterprise Centre",
+      "retrieved": "2026-10-04",
+      "note": "Council identifies former EBEC as nonprofit. Later organisational character supports category, but historical control and personal director remuneration unknown; council funding is not control."
     }
   ],
   "research_notes": [
@@ -632,6 +762,7 @@
     "All governance and advocacy roles are recorded separately from public health and council employment. Unknown pay is not volunteering, and incomplete private-sector evidence is not a zero-year total. Research remains blocked pending gaps.",
     "Follow-up2026-10-02: first-person House speech confirms previously lead-only doctor recruitment work. Retained separately with possible duplication because exact employer/dates and relationship to existing SA Health posts are unresolved. Rounded15years not used to back-calculate career start or full-time totals.",
     "Primary council records confirm Corporate Services portfolio and add SAPHC representative governance/resignation beforeApril2017. Searches for early workforce/recruitment and SA Divisions history did not establish applicable payroll or full-time evidence. Burnside/West TorrensPDF403 and Probus502 treated as source gaps; narrow indexed evidence identified explicitly. Remaining health/council leave, board terms and private-sector gaps retained.",
-    "Follow-up2026-10-03: public professional-profile indexing supplied a3-year9-month SA Divisions duration and fuller Primary Mental Health Care title. Because exact months and substantive hours remain unavailable, the profile duration was recorded as evidence but not converted into endpoints or headline years. Searches for a primary payroll record and for the Country Health doctor-recruitment role did not resolve those gaps."
+    "Follow-up2026-10-03: public professional-profile indexing supplied a3-year9-month SA Divisions duration and fuller Primary Mental Health Care title. Because exact months and substantive hours remain unavailable, the profile duration was recorded as evidence but not converted into endpoints or headline years. Searches for a primary payroll record and for the Country Health doctor-recruitment role did not resolve those gaps.",
+    "Follow-up2026-10-04: AMC primary member table narrows council departure toJanuary2022. Trust primary annual report separately establishes national-board retirement at end of its31January2022financial year; month precision retained and SA chair role distinguished from National Chair. Official parliamentary indexing adds UCWB board membershipFebruary2010–April2017,EBEC2014–2017,EDA SA committee2015–2016,SA MET2020–2022,national Churchill board2021–2022,plus SAPHC deputy2015–2017. These omitted governance roles are separate from employee appointments and cannot resolve personal working fraction. Full AMC PDF exceeded tool length; APH403; narrow explicit indexed evidence recorded. Early health/recruitment employer and existing hours/leave gaps remain unresolved."
   ]
 }
