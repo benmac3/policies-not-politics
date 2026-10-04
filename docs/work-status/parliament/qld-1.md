@@ -263,3 +263,7 @@ Deduplicated Brisbane-day new member IDs: 00AMR, 101351, 124514, 132880, 140590,
 - Ali France: nonmaterial follow-up — exact-name searches for Ali Lawlor at CHI/Healthcare Commission, Karuna personnel material and Steven Miles office records repeated existing secondary/profile evidence. No new original appointment, hours or endpoint record surfaced; the March 2004 CHI release remains the only dated primary UK personnel observation, and no automatic transfer is inferred.
 - Current cycle/continuation: 8 distinct records, 0 new initial, 3 materially enriched existing, 5 nonmaterial follow-ups and 0 newly research-complete. Brisbane-day cumulative: 145 distinct, 0 new, 53 materially enriched, 92 nonmaterial follow-ups and 0 newly complete.
 - Durable next cursor: Nita Green (259819).
+
+- Nita Green: nonmaterial follow-up — Maurice Blackburn, AMWU, Watt-office, university and traineeship searches repeated the published sequence and 2015 admission but produced no appointment/cessation, hours, conferral dates or unidentified employer names. Admission and professional titles were not treated as full-time proof.
+- Current cycle/continuation: 9 distinct records, 0 new initial, 3 materially enriched existing, 6 nonmaterial follow-ups and 0 newly research-complete. Brisbane-day cumulative: 146 distinct, 0 new, 53 materially enriched, 93 nonmaterial follow-ups and 0 newly complete.
+- Durable next cursor: Garth Hamilton (291387).
