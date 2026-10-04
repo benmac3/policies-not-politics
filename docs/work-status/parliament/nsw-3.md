@@ -235,3 +235,6 @@ Batch coverage, record fields, dates, enums, source references, build_careers.lo
 
 - 2026-10-04T19:54:09+10:00: Fiona Phillips: nonmaterial workload/union-journal follow-up.
 - Attempt95distinct,0new,53material,42nonmaterial,0complete; cycle112distinct,59material,53nonmaterial; day226distinct,104material,122nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Tanya Plibersek83M. OUTCOME:ongoing; STOPPING REASON:none.
+
+- 2026-10-04T19:55:35+10:00: Tanya Plibersek: materially added named charitable roles and unnamed publication-income disclosure.
+- Attempt96distinct,0new,54material,42nonmaterial,0complete; cycle113distinct,60material,53nonmaterial; day226distinct,104material,122nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Gordon Reid300126. OUTCOME:ongoing; STOPPING REASON:none.
