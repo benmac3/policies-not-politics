@@ -258,3 +258,6 @@ Batch coverage, record fields, dates, enums, source references, build_careers.lo
 
 - 2026-10-04T20:09:40+10:00: Sheldon: original union transition notice corroborated; Queensland archival clipping403; early employers and trustee tenure unresolved.
 - Attempt102distinct,0new,58material,44nonmaterial,0complete; cycle119distinct,64material,55nonmaterial; day226distinct,107material,119nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: David Shoebridge169119. OUTCOME:ongoing; STOPPING REASON:none.
+
+- 2026-10-04T20:10:53+10:00: Shoebridge: additional first-person interview exposes Taylor & Scott duration discrepancy; official month boundaries retained.
+- Attempt103distinct,0new,59material,44nonmaterial,0complete; cycle120distinct,65material,55nonmaterial; day226distinct,107material,119nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Sally Sitou298121. OUTCOME:ongoing; STOPPING REASON:none.

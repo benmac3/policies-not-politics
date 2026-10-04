@@ -127,9 +127,10 @@
       "source_ids": [
         "src-1",
         "src-2",
-        "src-3"
+        "src-3",
+        "src-scl-interview-oct4"
       ],
-      "evidence_note": "Month boundaries from NSW biography; speech describes a law firm serving unions and workers. Union clients do not make the firm a union employer.",
+      "evidence_note": "Month boundaries from NSW biography; speech describes a law firm serving unions and workers. Union clients do not make the firm a union employer. In a separate first-person law-firm interview he recalls six years at Taylor & Scott, exceeding the roughly four years nine months between official June1998–March2003 month boundaries. Exact personnel records must reconcile the discrepancy; rounded recollection does not replace explicit dates or prove hours.",
       "counting_note": "Dates, employer control and/or substantive full-time status remain insufficient for a duration calculation; unknown is not zero."
     },
     {
@@ -361,6 +362,16 @@
       "note": "Reports night-shift work at a local nursing home and odd jobs during high school. The original URL returned a non-retryable open error; the article text and original link were accessible through a public Reddit reproduction. Odd jobs were not classified as employment without evidence of payment or an employer.",
       "retrieved": "2026-10-04",
       "source_id": "src-smh-2022-oct4"
+    },
+    {
+      "source_id": "src-scl-interview-oct4",
+      "url": "https://www.sydneycriminallawyers.com.au/blog/greens-mp-david-shoebridge-an-exclusive-interview/",
+      "publisher": "Sydney Criminal Lawyers / David Shoebridge",
+      "title": "Greens MP David Shoebridge, an Exclusive Interview",
+      "source_type": "professional_profile",
+      "locator": "First question: several years practising as a lawyer; displayed updated1May2020 (not original interview date)",
+      "retrieved": "2026-10-04",
+      "note": "First-person account says three years with Baker, six with Taylor & Scott and about seven at the Bar; no private practice while an MP. Rounded recollections conflict with some explicit official dates and are retained as discrepancies, not replacement boundaries. Interviewer firm is not his employer."
     }
   ],
   "research_notes": [
@@ -372,6 +383,7 @@
     "Next evidence priorities: RAS payroll/seasonal appointment records and exact entity; Family Court associate appointment/cessation records resolving speech versus biography; Taylor and Scott/Denman hours, breaks and departure records; corporate-firm name; council minutes for deputy-mayor boundaries. No dates inferred from career gaps; all headline totals remain null.",
     "Second follow-up2October2026: targeted corporate-law employer/Denman and council-boundary searches yielded no new supported employment hours, breaks or employer name. Wikipedia List of mayors of Woollahra supplies primary leads: Council Meeting Minutes13September2004 and Extraordinary Council Meeting Minutes7September2005, archived8September2006. Web click calls to its council/archive references returned Internal Error: Unable to resolve click call due to invalid arguments; underlying minutes were not retrieved. Secondary claimed dates13September2004–7September2005 remain leads, not adopted as verified primary endpoints. Contact-data aggregator January boundaries discarded in favour of official March2003–September2010 legal-practice dates. Current leadership news concerns parliamentary politics and does not resolve pre-parliament employment; no frozen roster changes. Continue with archived original council minutes, corporate-law employer evidence and individual court/firm appointment and hours records.",
     "Third follow-up3October2026: recovered the exact archived Woollahra council PDF locations for the13September2004 meeting (Sept13councilmins04.pdf, capture20060908173714) and7September2005 mayoral election meeting (sept7-05mayorelectmins.pdf, capture20060908233629). The archive shells confirm captures and meeting metadata, but the embedded first PDF timed out and indexed search did not expose either resolution text. The secondary office table still reports13September2004–7September2005, but without retrieved primary contents those dates remain leads and are not written into the spell. Repeated exact-name searches also found no court appointment instrument, Taylor and Scott/Denman hours or breaks, or name of the brief corporate-law employer. Advance the cursor; retry the two archived PDFs only if archive access changes or a council catalogue copy appears.",
-    "Fourth follow-up4October2026 found no indexed resolution text for the two archived Woollahra minute filenames and did not improve Taylor and Scott or Denman boundaries/hours. It did recover a previously omitted early job: a March2022 Sydney Morning Herald interview reports nursing-home night shifts during Shoebridge's latter high-school years. The original article URL returned a non-retryable open error, but its exact link and article text were publicly reproduced on Reddit. Employer, duties, dates, pay, hours, leave and control remain unknown; accompanying odd jobs were not classified as employment without payment evidence."
+    "Fourth follow-up4October2026 found no indexed resolution text for the two archived Woollahra minute filenames and did not improve Taylor and Scott or Denman boundaries/hours. It did recover a previously omitted early job: a March2022 Sydney Morning Herald interview reports nursing-home night shifts during Shoebridge's latter high-school years. The original article URL returned a non-retryable open error, but its exact link and article text were publicly reproduced on Reddit. Employer, duties, dates, pay, hours, leave and control remain unknown; accompanying odd jobs were not classified as employment without payment evidence.",
+    "Follow-up2026-10-04: New first-person Sydney Criminal Lawyers interview exposes a six-year Taylor & Scott recollection against the official June1998–March2003 interval; retained as a material chronology discrepancy requiring personnel records. The same interview repeats the three-year Baker recollection and confirms no private practice as an MP. Displayed2020 update is not original interview timing. Nursing-home identity searches returned generic current recruitment, not Shoebridge employment; admissions and current chambers do not establish historical hours. No old archive-PDF retries without changed access; council minute contents remain unresolved. Next leads: original firm personnel/payroll chronology and court associate instruments."
   ]
 }
