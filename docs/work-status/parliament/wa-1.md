@@ -200,3 +200,6 @@ Detailed attempted avenues, discrepancies and remaining leads are preserved in e
 
 - Tania Lawrence enriched: omitted IPAA voluntary Council term and committee roles supported by historical reports.
 - Attempt31distinct,0new,17material,14nonmaterial,0complete; cycle48distinct,23material,25nonmaterial; day185distinct,73material,112nonmaterial; all0new/complete. Next: Sam Lim 300130. OUTCOME:ongoing; STOPPING REASON:none.
+
+- Sam Lim follow-up: business/security and campaign-leave avenues logged; no new attributable boundaries or hours.
+- Attempt32distinct,0new,17material,15nonmaterial,0complete; cycle49distinct,23material,26nonmaterial; day186distinct,73material,113nonmaterial; all0new/complete. Next: wa-2 follow-up: Zaneta Mascarenhas 298839 (resolve assignment before writing). OUTCOME:ongoing; STOPPING REASON:none.
