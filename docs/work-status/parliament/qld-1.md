@@ -267,3 +267,7 @@ Deduplicated Brisbane-day new member IDs: 00AMR, 101351, 124514, 132880, 140590,
 - Nita Green: nonmaterial follow-up — Maurice Blackburn, AMWU, Watt-office, university and traineeship searches repeated the published sequence and 2015 admission but produced no appointment/cessation, hours, conferral dates or unidentified employer names. Admission and professional titles were not treated as full-time proof.
 - Current cycle/continuation: 9 distinct records, 0 new initial, 3 materially enriched existing, 6 nonmaterial follow-ups and 0 newly research-complete. Brisbane-day cumulative: 146 distinct, 0 new, 53 materially enriched, 93 nonmaterial follow-ups and 0 newly complete.
 - Durable next cursor: Garth Hamilton (291387).
+
+- Garth Hamilton: nonmaterial follow-up — full-name searches across Balfour Beatty, Buro Happold, Define Construction and Racing Queensland repeated official year ranges and project descriptions but yielded no new appointment, corporate-filing, hours, leave or transition evidence. CRC ORE remains the sole late-2020 contemporaneous employment observation.
+- Current cycle/continuation: 10 distinct records, 0 new initial, 3 materially enriched existing, 7 nonmaterial follow-ups and 0 newly research-complete. Brisbane-day cumulative: 147 distinct, 0 new, 53 materially enriched, 94 nonmaterial follow-ups and 0 newly complete.
+- Durable next cursor: Pauline Hanson (BK6).
