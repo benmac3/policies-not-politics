@@ -69,3 +69,6 @@
 
 - 2026-10-04T21:08:19+10:00: Luke Gosling: nonmaterial follow-up; misleading full-time snippet checked against actual speaker, no new individual contract or hours evidence.
 - Attempt135distinct,0new,79material,56nonmaterial,0complete; cycle152distinct,85material,67nonmaterial; day226distinct,120material,106nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Malarndirri McCarthy122087. OUTCOME:ongoing; STOPPING REASON:none.
+
+- 2026-10-04T21:09:41+10:00: Malarndirri McCarthy: materially enriched with first-person consultancy ownership and conflicting community-radio chronology, retained unresolved dates.
+- Attempt136distinct,0new,80material,56nonmaterial,0complete; cycle153distinct,86material,67nonmaterial; day226distinct,120material,106nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Jacinta Nampijinpa Price263528. OUTCOME:ongoing; STOPPING REASON:none.
