@@ -271,3 +271,7 @@ Deduplicated Brisbane-day new member IDs: 00AMR, 101351, 124514, 132880, 140590,
 - Garth Hamilton: nonmaterial follow-up — full-name searches across Balfour Beatty, Buro Happold, Define Construction and Racing Queensland repeated official year ranges and project descriptions but yielded no new appointment, corporate-filing, hours, leave or transition evidence. CRC ORE remains the sole late-2020 contemporaneous employment observation.
 - Current cycle/continuation: 10 distinct records, 0 new initial, 3 materially enriched existing, 7 nonmaterial follow-ups and 0 newly research-complete. Brisbane-day cumulative: 147 distinct, 0 new, 53 materially enriched, 94 nonmaterial follow-ups and 0 newly complete.
 - Durable next cursor: Pauline Hanson (BK6).
+
+- Pauline Hanson: nonmaterial follow-up — exact Marsden Hanson, Taylors Elliotts and Booval Bowls Club searches returned derivative biographies and Wikipedia mirrors, not original payroll, registry, liquidation, sale or autobiography evidence. An anonymous 2026 recollection was rejected. Early-job detail remains unverified pending primary records.
+- Current cycle/continuation: 11 distinct records, 0 new initial, 3 materially enriched existing, 8 nonmaterial follow-ups and 0 newly research-complete. Brisbane-day cumulative: 148 distinct, 0 new, 53 materially enriched, 95 nonmaterial follow-ups and 0 newly complete.
+- Durable next cursor: Rowan Holzberger (88411).
