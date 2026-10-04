@@ -347,3 +347,6 @@ Batch check passes: 226 assigned exactly once across 13 batches; nsw-1 assignmen
 
 - 2026-10-04T21:25:55+10:00: Ash Ambihaipahar: original charity reports refine volunteer-board chronology; legal-service dates and hours unresolved.
 - Attempt140distinct,0new,84material,56nonmaterial,0complete; cycle157distinct,90material,67nonmaterial; day226distinct,121material,105nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: 16913 Tim Ayres; seek original public education/rural labour and AMWUappointment evidence.. OUTCOME:ongoing; STOPPING REASON:none.
+
+- 2026-10-04T21:29:19+10:00: Tim Ayres: documented personal2014/2015union remuneration and source-bound limits on superannuation/board fees.
+- Attempt141distinct,0new,85material,56nonmaterial,0complete; cycle158distinct,91material,67nonmaterial; day226distinct,122material,104nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: 319142 Sean Bell; original defence service and departure/self-employment records.. OUTCOME:ongoing; STOPPING REASON:none.
