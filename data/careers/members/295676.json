@@ -208,9 +208,10 @@
         "src-member-story",
         "src-avld",
         "src-secondary",
-        "src-abc-election-day-oct4"
+        "src-abc-election-day-oct4",
+        "src-lc-abc-unit-oct4"
       ],
-      "evidence_note": "Le's current biography describes progression from an ABC researcher role into reporting and broadcasting. An archived Australia Vietnam Leadership Dialogue profile calls her a former ABC journalist, film-maker and broadcaster; secondary synthesis reports ABC service from 1994 to 2008 across television and radio. Contemporary ABC election-day reporting on 18 October 2008 identifies her as an ABC journalist while she was the Cabramatta candidate, establishing an employment observation and campaign overlap on that date. The frozen extract confirms the overall journalism endpoint in 2008, but exact cessation, hours, appointment basis, leave and internal role transitions remain unresolved.",
+      "evidence_note": "Le's current biography describes progression from an ABC researcher role into reporting and broadcasting. An archived Australia Vietnam Leadership Dialogue profile calls her a former ABC journalist, film-maker and broadcaster; secondary synthesis reports ABC service from 1994 to 2008 across television and radio. Contemporary ABC election-day reporting on 18 October 2008 identifies her as an ABC journalist while she was the Cabramatta candidate, establishing an employment observation and campaign overlap on that date. The frozen extract confirms the overall journalism endpoint in 2008, but exact cessation, hours, appointment basis, leave and internal role transitions remain unresolved. Indexed 22 October 2008 NSW Hansard identifies ABC Radio National’s social and history unit. This refines the unit identity without extending employment beyond the separately established 18 October observation or proving cessation/hours.",
       "counting_note": "ABC is government-controlled, but a long professional career and senior duties do not alone establish a countable full-time interval."
     },
     {
@@ -332,9 +333,10 @@
       "source_ids": [
         "src-snapshot",
         "src-dawn-interest-lead",
-        "src-dawn-abr-lead"
+        "src-dawn-abr-lead",
+        "src-aala-dmp-oct4"
       ],
-      "evidence_note": "The frozen official extract provides only 'Business owner from 2014 to 2022'. Public biographies identify several DAWN/media, leadership and entrepreneurial initiatives but do not reliably identify which legal entity or activity the official business-owner interval denotes. Hours, revenue/remuneration, leave, exact boundaries and overlap with cancer treatment, council and governance roles are unresolved. Follow-up finds Dawn Media Productions Pty Ltd as a declared-shareholding lead and matching ABR company name. Neither source maps the entire 2014–2022 employment interval to it; ownership is not labour, and ABN cancellation is not an employment end.",
+      "evidence_note": "The frozen official extract provides only 'Business owner from 2014 to 2022'. Public biographies identify several DAWN/media, leadership and entrepreneurial initiatives but do not reliably identify which legal entity or activity the official business-owner interval denotes. Hours, revenue/remuneration, leave, exact boundaries and overlap with cancer treatment, council and governance roles are unresolved. Follow-up finds Dawn Media Productions Pty Ltd as a declared-shareholding lead and matching ABR company name. Neither source maps the entire 2014–2022 employment interval to it; ownership is not labour, and ABN cancellation is not an employment end. AALA’s 9 March 2022 event profile now identifies DMP founding and commercial brand-video services. It does not establish that DMP accounts for the whole frozen interval; separate activity spell retains unknown boundaries and overlap.",
       "counting_note": "Business ownership does not by itself prove self-employment or substantive full-time work."
     },
     {
@@ -385,9 +387,9 @@
       "spell_id": "295676-eccnsw",
       "employer": "Ethnic Communities Council of NSW",
       "role": "Deputy Chair",
-      "start_date": null,
-      "end_date": null,
-      "date_precision": "unknown",
+      "start_date": "2011-08",
+      "end_date": "2013-08",
+      "date_precision": "month",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "nonprofit",
@@ -397,9 +399,10 @@
       "source_ids": [
         "src-avld",
         "src-crc13-oct2",
-        "src-symposium14-oct2"
+        "src-symposium14-oct2",
+        "src-profile-oct3"
       ],
-      "evidence_note": "The archived 2022 organisation profile reports the Deputy Chair title but gives no dates, remuneration, workload or operational employment relationship. Government profile lists deputy chair as at30June2013;2014 symposium calls her a former deputy chair. Exact cessation remains unresolved.",
+      "evidence_note": "The archived 2022 organisation profile reports the Deputy Chair title but gives no dates, remuneration, workload or operational employment relationship. Government profile lists deputy chair as at30June2013;2014 symposium calls her a former deputy chair. Exact cessation remains unresolved. Public professional-profile indexed Organisations entry specifies Deputy Chair August 2011–August 2013, consistent with the 2013 government observation and former-title 2014 profile. Direct profile reader returned 999 Unknown Status Code; month dates are explicitly indexed self-report, not independently checked appointment instruments or exact days.",
       "counting_note": "Nonprofit governance is excluded from the narrow employment headline."
     },
     {
@@ -614,6 +617,27 @@
       ],
       "evidence_note": "Author biography separately names local Relay for Life ambassadorship. Relationship to broader Cancer Council appointment, dates, pay and hours unresolved; not counted twice as employment.",
       "counting_note": "Governance/ambassadorial affiliation excluded; no substantive full-time employment inferred."
+    },
+    {
+      "spell_id": "295676-dawn-media-productions",
+      "employer": "Dawn Media Productions (DMP; matching Pty Ltd legal entity remains to be confirmed)",
+      "role": "Founder; brand storytelling and video production business",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "private_enterprise",
+      "headline_sector": "private",
+      "government_control_at_time": "private",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-aala-dmp-oct4",
+        "src-dawn-interest-lead",
+        "src-dawn-abr-lead"
+      ],
+      "evidence_note": "AALA’s original 9 March 2022 speaker profile identifies Le as founder of her company DMP and describes video/storytelling services to established brands. This is evidence of commercial activity beyond passive ownership. The official interests and ABR indexed leads name Dawn Media Productions Pty Ltd, but linkage to the trading activity, contractual employer, pay, hours and precise start/end remain unresolved. DMP is recorded separately from the nonprofit DAWN network; neither the network’s January 2014 founding nor the frozen 2014–2022 unidentified business-owner interval is assigned wholesale to DMP.",
+      "counting_note": "Potential overlap with the broader business-owner spell; no separately additive duration or full-time assumption. Ownership, advertised company services and company status do not establish a personal full-time interval."
     }
   ],
   "sources": [
@@ -836,6 +860,26 @@
       "retrieved": "2026-10-04",
       "locator": "Contemporary report published 18 October 2008, Cabramatta section",
       "note": "Describes Liberal candidate Dai Le as an ABC journalist on election day. It supports an employment observation and campaign overlap, not exact cessation, hours, leave or campaign remuneration."
+    },
+    {
+      "source_id": "src-aala-dmp-oct4",
+      "url": "https://www.membersuite.aala.org.au/event-4702497",
+      "publisher": "Asian Australian Lawyers Association",
+      "title": "Break the Bias 2022: A NSW Celebration of Women in AALA and Community",
+      "source_type": "professional_profile",
+      "retrieved": "2026-10-04",
+      "locator": "Event dated 9 March 2022; About Dai, company paragraph",
+      "note": "Original event organiser profile describes company founder and brand video/storytelling services. Event date is an observation, not company formation, employment start or cessation."
+    },
+    {
+      "source_id": "src-lc-abc-unit-oct4",
+      "url": "https://www.parliament.nsw.gov.au/parliamentary-business/hansard/hansard-full-details?id=HANSARD-1820781676-60511&section=HANSARD-1820781676-60499",
+      "publisher": "NSW Legislative Council",
+      "title": "Hansard, 22 October 2008",
+      "source_type": "government_record",
+      "retrieved": "2026-10-04",
+      "locator": "Indexed Cabramatta by-election statement; Dai Le paragraph",
+      "note": "Indexed original parliamentary statement names ABC Radio National social and history unit. Reader returned only Loading Hansard shell, so this is indexed text, not a fully rendered transcript. Political praise is not payroll evidence."
     }
   ],
   "research_notes": [
@@ -848,7 +892,8 @@
     "Searched ABC employer material, first-person interviews, company and interest records. Money interview and ABC transcript readable. Direct ABR company record and original 47P parliamentary interest PDF inaccessible; indexed legal-entity/shareholding leads retained without claiming verification of employment dates. Searches did not resolve 2008–2014 paid-work gap or treatment-related leave.",
     "Second follow-up2October2026 identifies omitted Beloka marketing role, resolves DAWN founding month and CRC appointment day/part-time status, and improves governance observations. All added activity remains uncounted; public/private totals remain unknown. CRC PDF reader failed internally but ordinary direct PDF download succeeded; table visually checked. Further leads: Beloka personnel/contract history, ABC hours and leave, unidentified2008–2014 work, DAWN legal entity and workload, and original STARTTS appointment. Do not substitute award dates, scheduled board expiry or annual-report observation dates for employment boundaries.",
     "Follow-up3October2026 resolves Multicultural NSW retirement5August2021 using visually checked original2021/22 report; adds previously omitted Global Sisters board and two ambassador affiliations. Beloka title searches yielded already-known award observations, not contract dates. STARTTS initial appointment remains unknown.2018/19 government dataset PDF returned404; later original report accessible. Public LinkedIn999 retained as source-access limitation; indexed board dates explicitly labelled. Next leads remain Beloka/ABC personnel records, STARTTS appointment, legal entity/workload of DAWN and unverified Global Sisters conditions.",
-    "Fourth follow-up4October2026 finds contemporary ABC election-day reporting that identifies Le as an ABC journalist on18October2008 while she was the Cabramatta candidate. This establishes an ABC employment observation and campaign overlap on that date, but not exact cessation, hours, leave or campaign remuneration. Exact Beloka, STARTTS and DAWN Media Productions searches did not resolve their remaining term or workload gaps."
+    "Fourth follow-up4October2026 finds contemporary ABC election-day reporting that identifies Le as an ABC journalist on18October2008 while she was the Cabramatta candidate. This establishes an ABC employment observation and campaign overlap on that date, but not exact cessation, hours, leave or campaign remuneration. Exact Beloka, STARTTS and DAWN Media Productions searches did not resolve their remaining term or workload gaps.",
+    "Follow-up2026-10-04: Original AALA March 2022 profile resolves DMP commercial video/storytelling activity; recorded distinct from DAWN nonprofit and broader unidentified ownership interval. Indexed NSW Hansard resolves Radio National unit; indexed public professional profile gives ECC NSW deputy-chair August 2011–August 2013, with 999 access limitation explicit. Original parliamentary 18 July 2024 alteration index lists deletion of company interests; reader restricted URL, and deletion is not an employment end. No exact company employment dates/hours, ABC hours/leave, Beloka terms or cancer-related breaks established."
   ],
   "open_questions": [
     "What were the exact start/end dates, hours, leave and employment terms at the Liverpool City Champion, Fairfield City Champion and ABC, and how should the 1990 versus 1991 start discrepancy be resolved?",
@@ -861,6 +906,7 @@
     "Which employers and dates apply to the restaurant, waitressing, nightclub and Katies roles?",
     "Can original interest/company records distinguish Dawn Foundation, the DAWN network and Dawn Media Productions employment and ownership intervals?",
     "When did the Beloka Water CMO role begin/end, was it employment or consultancy, with what hours and breaks, and did it overlap the2014–2022 business-owner activity?",
-    "What appointment instruments, remuneration and workload apply to Global Sisters March–November2015 board service, and what are the dates/pay basis and relationship of the two Cancer Council/Relay for Life ambassador roles?"
+    "What appointment instruments, remuneration and workload apply to Global Sisters March–November2015 board service, and what are the dates/pay basis and relationship of the two Cancer Council/Relay for Life ambassador roles?",
+    "When were DMP commercial services personally performed, for which legal entity and with what pay/hours; how do those intervals overlap the unidentified business-owner spell and nonprofit DAWN?"
   ]
 }

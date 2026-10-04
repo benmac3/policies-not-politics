@@ -307,3 +307,6 @@ Batch check passes: 226 assigned exactly once across 13 batches; nsw-2 assignmen
 
 - 2026-10-04T19:33:10+10:00: Jerome Laxale: omitted consultancy evidenced; family board/executive duration conflict retained.
 - Attempt84distinct,0new,48material,36nonmaterial,0complete; cycle101distinct,54material,47nonmaterial; day226distinct,102material,124nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Dai Le295676. OUTCOME:ongoing; STOPPING REASON:none.
+
+- 2026-10-04T19:38:05+10:00: Dai Le: distinct DMP commercial activity added, ABC unit and ECC governance month interval refined; totals unknown, blocked retained.
+- Attempt85distinct,0new,49material,36nonmaterial,0complete; cycle102distinct,55material,47nonmaterial; day226distinct,102material,124nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Julian Leeser 109556. OUTCOME:ongoing; STOPPING REASON:none.
