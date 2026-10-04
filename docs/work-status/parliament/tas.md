@@ -153,3 +153,6 @@
 
 - 2026-10-04T20:34:44+10:00: Brown: tested historical personnel-report and title-based gazette avenues; no person-specific classification or hours recovered.
 - Attempt114distinct,0new,69material,45nonmaterial,0complete; cycle131distinct,75material,56nonmaterial; day226distinct,115material,111nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Claire Chandler264449. OUTCOME:ongoing; STOPPING REASON:none.
+
+- 2026-10-04T20:35:33+10:00: Chandler: retained promotion-date conflict and rejected staff-job hours/namesakes; no material change.
+- Attempt115distinct,0new,69material,46nonmaterial,0complete; cycle132distinct,75material,57nonmaterial; day226distinct,115material,111nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Richard Colbeck00AOL. OUTCOME:ongoing; STOPPING REASON:none.
