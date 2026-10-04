@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/300122",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-04",
+  "last_reviewed": "2026-10-05",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -175,7 +175,7 @@
     {
       "spell_id": "300122-09",
       "employer": "PwC Australia",
-      "role": "Partner",
+      "role": "Partner, consulting division",
       "start_date": "2019",
       "end_date": "2021",
       "date_precision": "year",
@@ -188,9 +188,10 @@
       "source_ids": [
         "src-1",
         "src-3",
-        "src-6"
+        "src-6",
+        "oct5-rae-pwc-list"
       ],
-      "evidence_note": "Official 2021 end retained; 2019 appointment report supports start year, not exact start day or full-time capacity. Contemporaneous reporting observed him as a PwC partner on17April2021; a2025 account says he left after Hawke preselection and describes his work with James MacKenzie on non-government projects as policy-oriented, with broader business and cost-of-capital content. These sources improve duties and transition context but do not establish a departure day, full-time hours or leave.",
+      "evidence_note": "Official 2021 end retained; 2019 appointment report supports start year, not exact start day or full-time capacity. Contemporaneous reporting observed him as a PwC partner on17April2021; a2025 account says he left after Hawke preselection and describes his work with James MacKenzie on non-government projects as policy-oriented, with broader business and cost-of-capital content. These sources improve duties and transition context but do not establish a departure day, full-time hours or leave. Contemporaneous8September2020 consulting-industry partner list places Samuel Rae among FY20 lateral hires in Consulting. FY20 intake is consistent with2019 start but not an exact commencement. Its description hired from public sector is not adopted as employer classification: preceding ALP work remains party employment.",
       "counting_note": "Dates, employer control and/or substantive full-time status remain insufficient for a duration calculation; unknown is not zero."
     },
     {
@@ -219,8 +220,8 @@
       "employer": "Melbourne Business School",
       "role": "MBA student",
       "start_date": null,
-      "end_date": null,
-      "date_precision": "unknown",
+      "end_date": "2016",
+      "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "study",
@@ -228,9 +229,11 @@
       "government_control_at_time": "unknown",
       "counting_status": "excluded",
       "source_ids": [
-        "src-1"
+        "src-1",
+        "src-4",
+        "oct5-rae-profile"
       ],
-      "evidence_note": "Qualification is not a paid employment spell.",
+      "evidence_note": "Qualification is not a paid employment spell. The Weekly SOURCE explicitly reports MBA completion in2016. Public indexed self-profile lists Melbourne Business School2014–2016 but hides degree labels; retained as supporting education chronology rather than proven MBA start.2016 end at year precision records reported completion, not exact graduation, study load or employment hours. Institution confirmation remains desirable.",
       "counting_note": "Excluded from the two employment headlines under the codebook."
     },
     {
@@ -342,6 +345,26 @@
       "source_type": "official_biography",
       "locator": "Search-indexed Qualifications and occupation before entering Federal Parliament, first three bullets",
       "note": "Official indexed biography names BSc(For), PostGradDipMgt and MBA, identifying Melbourne Business School for both management qualifications. Direct lang=en variant returned restricted-URL failure; no gated access attempted. No qualification dates supplied."
+    },
+    {
+      "source_id": "oct5-rae-profile",
+      "url": "https://au.linkedin.com/in/samraemp",
+      "publisher": "Sam Rae / LinkedIn",
+      "title": "Sam Rae, Australian Government, public professional profile",
+      "source_type": "professional_profile",
+      "retrieved": "2026-10-05",
+      "locator": "Public search-indexed Education entries; own MP authorisation footer",
+      "note": "Identity aligns with Hawke MP authorisation. Melbourne Business School2014–2016 named;2013–2014 and2006–2009 entries have missing institution/degree labels in index and cannot individually be assigned. No restricted login content accessed."
+    },
+    {
+      "source_id": "oct5-rae-pwc-list",
+      "url": "https://www.consultancy.com.au/news/2518/pwc-appointed-23-new-partners-in-2020-financial-year",
+      "publisher": "Consultancy.com.au",
+      "title": "PwC appointed23 new partners in2020 financial year,8September2020",
+      "source_type": "news",
+      "retrieved": "2026-10-05",
+      "locator": "New lateral hire partners list, Samuel Rae – Consulting",
+      "note": "Contemporaneous trade publication lists Rae in FY20 consulting partnership intake. Public-sector predecessor description is loose; official predecessor remains ALP party employment. No exact start or hours supplied."
     }
   ],
   "research_notes": [
@@ -352,6 +375,7 @@
     "2026-10-02 follow-up: first speech adds Queanbeyan factory location and dishwashing duties, providing specific early-employer search leads. Checked APH, original11September2019 PwC appointment URL in both p526q6/p52qe6 variants (web open Internal Error), PwC domain,2019 transition reporting and early-job queries.18September2019 Australian indexed story forecasts departure next month; a forecast does not establish actual October start, so retain2019. No confirmed early employer identities/full-time terms or2021–22 work found. Next: Queanbeyan factory employment, hospitality/childcare/call-centre public CV; primary PwC partnership entry/cessation and campaign leave; historical ALP staffing records. Searches returned unrelated NZ call-centre professional, US musician and Harvard student; excluded. No chronology/hours or numerical totals invented.",
     "2026-10-03 follow-up: a detailed Guardian account based on former colleagues observes factory work supporting Rae through university and identifies PwC work with James MacKenzie on non-government policy-oriented projects involving broad business and cost-of-capital understanding. It says Rae left PwC after Hawke preselection; preselection was reported on15June2021, but 'after' is not converted to an exact June endpoint. Separate contemporary reporting observed him as a partner on17April2021. These materially improve duty and transition evidence while preserving the official2019–2021 year range. Primary PwC appointment/cessation, full-time hours, leave and activity after departure remain unavailable. Early employer identities, multiple-factory question and study dates remain unresolved; no employment-year calculation.",
     "2026-10-04 follow-up: the original 11 September 2019 PwC appointment story was located through an accessible Brisbane Times syndication and a 18 September report forecast that Rae would depart Victorian Labor the following month to take up the PwC partnership. Because the latter is prospective, it is not converted into an October employment start; the official 2019 year remains. Searches again found no exact actual commencement, 2021 cessation day, hours, leave, employer confirmation or post-PwC/pre-election paid role. Early hospitality/factory/childcare/call-centre employer identities also remain absent. Generic web search is exhausted for this pass; PwC personnel/partnership records and historical payroll/CV evidence are decisive. No substantive fact changed.",
-    "Follow-up2026-10-04: Official indexed parliamentary qualification list identifies a previously omitted Postgraduate Diploma in Management at Melbourne Business School and specifies ANU forestry science. Added undated study spell without inventing qualification years or part/full-time study load. Direct APH lang=en fetch reported restricted URL; usable official index evidence obtained separately without circumventing access controls. Education/first-job searches otherwise returned US cello, Boston engineering and UK charity namesakes; excluded. Primary early-employer identities, PwC partnership hours/leave and actual appointment boundaries remain unavailable."
+    "Follow-up2026-10-04: Official indexed parliamentary qualification list identifies a previously omitted Postgraduate Diploma in Management at Melbourne Business School and specifies ANU forestry science. Added undated study spell without inventing qualification years or part/full-time study load. Direct APH lang=en fetch reported restricted URL; usable official index evidence obtained separately without circumventing access controls. Education/first-job searches otherwise returned US cello, Boston engineering and UK charity namesakes; excluded. Primary early-employer identities, PwC partnership hours/leave and actual appointment boundaries remain unavailable.",
+    "2026-10-05 materially refines education and commercial role: explicit news MBA completion2016 supported by public self-profile MBS2014–2016 observation; missing degree labels prevent an inferred2014 MBA start or mapping2013–2014 diploma/2006–2009 ANU. Added contemporary FY20 consulting lateral-partner list; preceding party job remains party employment despite loose public-sector description. Primary PwC-domain query yielded unrelated namesakes, not employer evidence. No early employer identities, hours, leave or2021–22 bridge recovered; registry/profiles of UK companies and NZ marketing professional rejected. Totals remain null, original educational appointment and PwC terms remain follow-up needs."
   ]
 }
