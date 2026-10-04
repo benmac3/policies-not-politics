@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/LTU",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-04",
+  "last_reviewed": "2026-10-05",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -221,7 +221,7 @@
       "role": "Trustee director",
       "start_date": null,
       "end_date": "2010-10-28",
-      "date_precision": "mixed",
+      "date_precision": "day",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "unknown",
@@ -391,6 +391,26 @@
       ],
       "evidence_note": "Own3 October2012 speech confirms AWPA board service separately from predecessor Skills Australia. Observation does not establish appointment/cessation or substantive employment.",
       "counting_note": "Government advisory governance excluded; no full-time secretariat role inferred."
+    },
+    {
+      "spell_id": "LTU-macsm",
+      "employer": "Ministerial Advisory Council on Skilled Migration / Commonwealth immigration portfolio",
+      "role": "Council member representing the ACTU",
+      "start_date": null,
+      "end_date": "2017-04",
+      "date_precision": "month",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "public_service",
+      "headline_sector": "excluded",
+      "government_control_at_time": "public",
+      "counting_status": "excluded",
+      "source_ids": [
+        "oct5-macsm-gov",
+        "oct5-macsm-exit"
+      ],
+      "evidence_note": "Government publication confirms membership 2 December 2016; primary ACTU release 21 April 2017 reports resignation following April visa-policy changes. Cessation month supported, exact day and first appointment unverified. Council was separately observed reconstituted/reappointment in 2015 secondary reporting; do not assert continuous 2012–2017 tenure or substantive secretariat employment. Pay/fees and hours unknown.",
+      "counting_note": "Government advisory representation excluded from public/private employment headlines; concurrent ACTU work is not counted twice."
     }
   ],
   "sources": [
@@ -613,6 +633,26 @@
       "locator": "PDF p1, opening paragraph",
       "note": "First-person statement confirms board membership at AWPA and its predecessor Skills Australia; speech date is observation, not appointment.",
       "retrieved": "2026-10-04"
+    },
+    {
+      "source_id": "oct5-macsm-gov",
+      "url": "https://minister.homeaffairs.gov.au/peterdutton/Pages/2016/Review-csol.aspx",
+      "publisher": "Department of Immigration and Border Protection / Peter Dutton",
+      "title": "Review of the consolidated skills occupation list, 2 December 2016",
+      "retrieved": "2026-10-05",
+      "source_type": "government_record",
+      "locator": "Final membership paragraph",
+      "note": "Primary ministerial release names Kearney as MACSM member representing ACTU; dated observation is not appointment or substantive public employment."
+    },
+    {
+      "source_id": "oct5-macsm-exit",
+      "url": "https://www.actu.org.au/media-release/actu-resigns-from-skilled-migration-council-after-deeply-flawed-visa-program-announced/",
+      "publisher": "Australian Council of Trade Unions",
+      "title": "ACTU resigns from skilled migration council, 21 April 2017",
+      "retrieved": "2026-10-05",
+      "source_type": "employer",
+      "locator": "Dated heading and first two paragraphs",
+      "note": "Primary member organisation announces resignation in response to April 2017 visa changes; month-level cessation retained, exact resignation day and first appointment unknown."
     }
   ],
   "research_notes": [
@@ -627,6 +667,7 @@
     "Searched Austin/Cowin historical records and employer/union/government reports. ANMJ2019 says trained at Austin, whereas direct first speech identifies Mercy; do not replace stronger first-person training account. PUPPS2004 article acknowledgement naming Cowin on a working group is a follow-up lead, not proof of employment.",
     "APH submission direct open Internal Error and AWPA report403; official indexed cover usable. No exact nursing start/cessation, aged-care employer, hours changes or leave recovered. Next:2003 election/appointment result and Austin cessation record; aged-care provider; earliest Cbus/HESTA appointments; Skills Australia/AWPA appointment terms.",
     "Follow-up2026-10-04: Kearney's public professional profile refines the later Austin Health employment envelope to January1999–April2003 (4 years 4 months), surrounding the official2000–2002 deputy-director range. This materially improves boundaries but does not establish title-transition days, full-time continuity, hours or leave and cannot be applied to her separately evidenced Austin nursing in the1980s. Aged-care provider identity and earlier nursing boundaries remain unresolved.",
-    "Follow-up2026-10-04: Cbus2011/12 indexed employer report resolves directorship commencement to August2011, with2012/13 indexed report independently consistent. Added omitted BEd, unfinished economics study, RG146 qualification and AWPA governance. Failed PDF opens were source-level errors recovered via readable indexed report; no access-control bypass or full-document visual claim. Austin/aged-care boundaries, nursing continuity/leave and2002/2003 union transition remain unresolved. Skills Australia appointment searches recovered AWPA membership observation but no exact original tenure."
+    "Follow-up2026-10-04: Cbus2011/12 indexed employer report resolves directorship commencement to August2011, with2012/13 indexed report independently consistent. Added omitted BEd, unfinished economics study, RG146 qualification and AWPA governance. Failed PDF opens were source-level errors recovered via readable indexed report; no access-control bypass or full-document visual claim. Austin/aged-care boundaries, nursing continuity/leave and2002/2003 union transition remain unresolved. Skills Australia appointment searches recovered AWPA membership observation but no exact original tenure.",
+    "2026-10-05 follow-up: new government December 2016 membership publication and ACTU 21 April 2017 resignation release establish omitted skilled-migration advisory council governance, ending April 2017 with first appointment and exact resignation day unknown. Secondary 2012 appointment and 2015 reappointment leads suggest a reconstitution gap; original 2012 ParlInfo open unavailable and 2015 Nine open403, so no synthetic continuous tenure adopted. Austin/Cowin 1998 and 2003 union-election queries found no nursing or paid-appointment instrument; HESTA early-start search found later commentary only. Full-time nursing envelope/leave, aged-care employer, transition conflict and HESTA appointment remain unresolved. Correction: preceding Wood checkpoint said all 25 VIC-2 assignments visited prematurely; this Kearney follow-up now makes 25/25 distinct current-pass records verified after publishing, not 25 complete. Next national follow-up uses oldest full-pass checkpoint WA-1, then plan order; existing completed records not restarted."
   ]
 }
