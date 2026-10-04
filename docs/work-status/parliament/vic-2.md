@@ -328,3 +328,6 @@ Batch coverage, record fields, dates, enums, source references, build_careers.lo
 
 - 2026-10-04T23:21:14+10:00: Dan Tehan210911: nonmaterial follow-up; study/DFAT evidence gaps retained and retrieval quality issue documented.
 - Attempt191distinct,0new,123material,68nonmaterial,0complete; cycle208distinct,129material,79nonmaterial; day226distinct,144material,82nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Lidia Thorpe280304, VIC2 member17. OUTCOME:ongoing; STOPPING REASON:none.
+
+- 2026-10-04T23:23:58+10:00: Lidia Thorpe280304: material health board term, programme-management titles and leadership/advisory roles; day upgrade from earlier nonmaterial.
+- Attempt192distinct,0new,124material,68nonmaterial,0complete; cycle209distinct,130material,79nonmaterial; day226distinct,145material,81nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Kate Thwaites282212, VIC2 member18. OUTCOME:ongoing; STOPPING REASON:none.

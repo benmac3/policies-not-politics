@@ -36,7 +36,7 @@
     {
       "spell_id": "280304-02",
       "employer": "Aboriginal health employer unidentified",
-      "role": "Worker",
+      "role": "Regional Aboriginal Health programme manager; Bairnsdale Healthy for Life programme manager",
       "start_date": null,
       "end_date": null,
       "date_precision": "unknown",
@@ -47,9 +47,11 @@
       "government_control_at_time": "unknown",
       "counting_status": "insufficient_evidence",
       "source_ids": [
-        "src-2"
+        "src-2",
+        "oct4-brhs2009",
+        "oct4-abc-health2008"
       ],
-      "evidence_note": "Official role listing; dates/hours/control incomplete.",
+      "evidence_note": "Official role listing; dates/hours/control incomplete. Contemporary2008 news and2009 board biography identify these programme-management titles. Whether they describe one appointment or successive work, and the actual payroll employer, are unresolved. Neither the programme location nor BRHS board membership proves BRHS employment; no dates or FTE inferred.",
       "counting_note": "Dates, employer control and/or substantive full-time status remain insufficient for a duration calculation; unknown is not zero."
     },
     {
@@ -127,7 +129,8 @@
       "government_control_at_time": "unknown",
       "counting_status": "insufficient_evidence",
       "source_ids": [
-        "src-1"
+        "src-1",
+        "oct4-brhs2010"
       ],
       "evidence_note": "Official role listing; dates/hours/control incomplete.",
       "counting_note": "Dates, employer control and/or substantive full-time status remain insufficient for a duration calculation; unknown is not zero."
@@ -147,7 +150,8 @@
       "counting_status": "insufficient_evidence",
       "source_ids": [
         "src-1",
-        "src-3"
+        "src-3",
+        "oct4-brhs2010"
       ],
       "evidence_note": "Potential private business; legal entity, control and full-time substance unresolved.",
       "counting_note": "Dates, employer control and/or substantive full-time status remain insufficient for a duration calculation; unknown is not zero."
@@ -237,7 +241,7 @@
       "role": "First Nations consultant",
       "start_date": "2019",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "nonprofit",
@@ -359,7 +363,7 @@
       "role": "Senator for Victoria",
       "start_date": "2020-09-04",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "day",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -466,6 +470,65 @@
       "evidence_note": "January2020 appointment profile identifies recent work; terms and dates unestablished.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "280304-23"
+    },
+    {
+      "spell_id": "280304-24",
+      "employer": "Bairnsdale Regional Health Service",
+      "role": "Board member",
+      "start_date": "2008",
+      "end_date": "2010-05",
+      "date_precision": "mixed",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "public_service",
+      "headline_sector": "excluded",
+      "government_control_at_time": "public",
+      "counting_status": "excluded",
+      "source_ids": [
+        "oct4-brhs2009",
+        "oct4-brhs2010"
+      ],
+      "evidence_note": "Contemporary reports name2008 appointment and May2010 resignation. Public-hospital context established in2009 report. Governance distinct from separately described programme management; no day boundaries inferred.",
+      "counting_note": "Governance/professional development excluded; fees, salary and full-time hours not presumed."
+    },
+    {
+      "spell_id": "280304-25",
+      "employer": "Fellowship for Indigenous Leadership",
+      "role": "Emerging Leader programme participant",
+      "start_date": "2008",
+      "end_date": "2009",
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-3",
+        "oct4-abc-health2008"
+      ],
+      "evidence_note": "Programme profile identifies2008–2009 cohort. Pay, award support, course duration and work status unknown.",
+      "counting_note": "Governance/professional development excluded; fees, salary and full-time hours not presumed."
+    },
+    {
+      "spell_id": "280304-26",
+      "employer": "Fellowship for Indigenous Leadership",
+      "role": "Advisory committee member",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "oct4-fil-advisory2019"
+      ],
+      "evidence_note": "Host observes committee membership at16October2019 event; no tenure or paid appointment inferred.",
+      "counting_note": "Governance/professional development excluded; fees, salary and full-time hours not presumed."
     }
   ],
   "sources": [
@@ -563,7 +626,7 @@
       "url": "https://www.openaustralia.org.au/senate/?id=2024-11-26.294.1",
       "publisher": "OpenAustralia Foundation, reproducing Australian Senate Hansard",
       "title": "Wage Justice for Early Childhood Education and Care Workers Bill debate,26November2024",
-      "source_type": "parliament",
+      "source_type": "government_record",
       "locator": "Lidia Thorpe speech,9:21pm, paragraph at9:32pm",
       "note": "First-person statement: she was the cook at Yappera Children's Services when17. The linked official ParlInfo transcript returned403, so the accessible Hansard reproduction is retained.",
       "retrieved": "2026-10-03",
@@ -583,11 +646,51 @@
       "url": "https://indigenousx.com.au/daniel-james-lidia-thorpe-member-for-northcote/",
       "publisher": "IndigenousX",
       "title": "Lidia Thorpe, Member for Northcote",
-      "source_type": "reliable_secondary",
+      "source_type": "news",
       "locator": "Opening paragraph",
       "note": "Reports that Thorpe resigned from Centrelink after the Welfare to Work policy was introduced; no appointment or cessation date is supplied.",
       "retrieved": "2026-10-03",
       "source_id": "src-12"
+    },
+    {
+      "source_id": "oct4-brhs2009",
+      "url": "https://vgls.sdp.sirsidynix.net.au/client/search/asset/1265237",
+      "publisher": "Bairnsdale Regional Health Service / Victorian Government Library",
+      "title": "Annual Report2008–09",
+      "retrieved": "2026-10-04",
+      "source_type": "employer",
+      "locator": "Printedpp15–16/PDFpp17–18, board arrival and Thorpe profile; printedp8/PDFp10 public-hospital description",
+      "note": "Records2008 board appointment and regional Aboriginal health programme manager title. Board appointment does not establish employment at the hospital."
+    },
+    {
+      "source_id": "oct4-brhs2010",
+      "url": "https://vgls.sdp.sirsidynix.net.au/client/search/asset/1265238",
+      "publisher": "Bairnsdale Regional Health Service / Victorian Government Library",
+      "title": "Annual Report2009–10",
+      "retrieved": "2026-10-04",
+      "source_type": "employer",
+      "locator": "Printedp14/PDFp16, Lidia Thorpe board profile",
+      "note": "States resigned May2010 and describes Lake Tyers training-centre management and own events business. No personal FTE or payroll terms."
+    },
+    {
+      "source_id": "oct4-abc-health2008",
+      "url": "https://www.abc.net.au/news/2008-07-18/mother-receives-indigenous-fellowship-award/443678",
+      "publisher": "ABC News",
+      "title": "Mother receives Indigenous fellowship award,18July2008",
+      "retrieved": "2026-10-04",
+      "source_type": "news",
+      "locator": "Opening and ministerial award paragraphs",
+      "note": "Contemporary report identifies Bairnsdale Healthy for Life programme management; does not name legal payroll employer."
+    },
+    {
+      "source_id": "oct4-fil-advisory2019",
+      "url": "https://indigenousfellowship.net.au/gallery/announcement-awards-2019/",
+      "publisher": "Fellowship for Indigenous Leadership",
+      "title": "Announcement Awards2019",
+      "retrieved": "2026-10-04",
+      "source_type": "employer",
+      "locator": "16October2019 account, awards presented by Advisory Committee Members",
+      "note": "Names Thorpe as advisory committee member at2019 event; observation is not appointment tenure."
     }
   ],
   "research_notes": [
@@ -597,6 +700,7 @@
     "Victoria's official page gives 19 December 2018 end, distinct from election-loss day; retain sourced date and do not infer earnings through it. Frozen federal roster party and start retained. No political views or controversies used as career evidence. Last follow-up 2026-09-29; unresolved initial record.",
     "2026-10-02 follow-up: co-authored report adds omitted advisory clients and Greens commission; do not sum concurrent engagements. Seven-year funeral-service account has no calendar/FTE bounds. Appointment reporting confirms OurWatch work and provides Amnesty2020 snapshot, with APH2019 start retained. Targeted council/MAV hours and early-employer searches still leave FTE, control, dates and contractual entities unresolved.2019 candidate booklet yielded indexed funeral-service lead but subsequent retrieval redirected to Gellung Warl homepage; insufficient to resolve legal employer. Full-time wording in senator-office job advertisements describes staff vacancies, not Thorpe. Next: original consulting contracts/entity, MAV individual appointment/control evidence and early employment chronology; no years calculated.",
     "2026-10-03 follow-up materially resolves the previously unidentified children's-services job: Thorpe told the Senate she was Yappera's cook at17. Her known birth date gives an age window of18August1990–17August1991, but no appointment boundaries, duration or hours, so dates remain unknown and no FTE is inferred. Employer material confirms Yappera opened in1981 and is now an Aboriginal-controlled nonprofit; current control is not back-cast. A2018 profile says she resigned from Centrelink after Welfare to Work was introduced, but the wording cannot establish a precise cessation date or full-time status. Official ParlInfo retrieval returned403; the accessible OpenAustralia Hansard reproduction was used. Searches did not resolve Koori, health, funeral, Lake Tyers, council or MAV individual terms, consulting entities or overlaps. Next: historical Yappera/early-employer records, Centrelink appointment and cessation evidence, and MAV/council personnel records. No duration calculated.",
-    "2026-10-04 follow-up: exact-phrase searches for the seven-year Aboriginal funeral-service work found the existing first-person 7am interview and Thorpe's current official biography, but neither names the employer or supplies calendar boundaries, hours, leave or control. The current biography also says she served six years in local government, consistent with the already recorded 2011–2016 council/MAV sequence but not enough to treat either role as continuous full-time service. Generic web search is exhausted for this pass; funeral-service organisational/payroll records and council/MAV appointment records remain decisive. No substantive fact changed."
+    "2026-10-04 follow-up: exact-phrase searches for the seven-year Aboriginal funeral-service work found the existing first-person 7am interview and Thorpe's current official biography, but neither names the employer or supplies calendar boundaries, hours, leave or control. The current biography also says she served six years in local government, consistent with the already recorded 2011–2016 council/MAV sequence but not enough to treat either role as continuous full-time service. Generic web search is exhausted for this pass; funeral-service organisational/payroll records and council/MAV appointment records remain decisive. No substantive fact changed.",
+    "Follow-up2026-10-04: Historical health-service reports newly identify a board term and health-programme management duties; governance remains separate from paid work, and programme names do not prove payroll identity. Added leadership programme participation and later advisory-committee observation from programme sources, without treating award support or board fees as full-time employment. Annual-report qualifications beside Thorpe’s profile belong to other directors and were excluded; Swinburne2007 graduation remains derivative-only rather than a verified primary date. Early employers, programme payroll, MAV individual hours/control and concurrent business contracts remain unresolved; totals stay null."
   ]
 }
