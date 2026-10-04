@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/309484",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-03",
+  "last_reviewed": "2026-10-04",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -312,9 +312,10 @@
       "government_control_at_time": "private",
       "counting_status": "excluded",
       "source_ids": [
-        "src-newsletter2024"
+        "src-newsletter2024",
+        "src-mentoring2004"
       ],
-      "evidence_note": "Her parliamentary community newsletter explicitly says she worked at Mission Australia, separately naming Anglicare and Family Life. Role, dates, remuneration, hours and overlap with other spells are not supplied. Mission Australia is a national charity, so the spell is retained as nonprofit rather than public employment.",
+      "evidence_note": "Her parliamentary community newsletter explicitly says she worked at Mission Australia, separately naming Anglicare and Family Life. A 2004 national youth-mentoring report lists “Jodie Belyea, Mission Australia” among people consulted, establishing a contemporaneous affiliation observation in 2004 but not a continuous employment interval. Role, contract boundaries, remuneration, hours and overlap with council/other work are not supplied. Mission Australia is a national charity, so the spell is retained as nonprofit rather than public employment.",
       "counting_note": "Outside the two employment headlines under the codebook; retained as career context.",
       "spell_id": "309484-15"
     }
@@ -499,6 +500,16 @@
       "note": "Member-issued career summary names Mission Australia in addition to Anglicare and Family Life, and describes short TAFE teaching and35 years across sectors. The broad duration does not supply spell boundaries or full-time fractions.",
       "retrieved": "2026-10-03",
       "source_id": "src-newsletter2024"
+    },
+    {
+      "url": "https://media.scottishmentoringnetwork.co.uk/youthmentoringnationalstrategyaustralia_93cee5a244.pdf",
+      "publisher": "Big Brothers Big Sisters Australia, Dusseldorp Skills Forum and The Smith Family",
+      "title": "Young people and mentoring: towards a national strategy",
+      "source_type": "other",
+      "locator": "Acknowledgements p ii and Appendix 1, list of people consulted; roundtable held 23 April 2004",
+      "note": "The report's consultation appendix lists “Jodie Belyea, Mission Australia”, supplying a contemporaneous 2004 affiliation observation. It does not state her title, contract dates, pay or hours.",
+      "retrieved": "2026-10-04",
+      "source_id": "src-mentoring2004"
     }
   ],
   "research_notes": [

@@ -211,3 +211,6 @@ State: ready-for-integration
 - Current continuation after this member: 49 distinct records, 0 new, 16 materially enriched, 33 nonmaterial follow-ups and 0 newly complete. Current cycle/day cumulative: 93 distinct, 0 new, 36 materially enriched, 57 nonmaterial follow-ups and 0 newly complete.
 - Durable next cursor: Jodie Belyea (309484).
 
+- Jodie Belyea: materially enriched — a 2004 national youth-mentoring strategy report lists “Jodie Belyea, Mission Australia” among people consulted, providing a contemporaneous point-in-time affiliation observation and materially narrowing the previously undated employer spell. The report does not identify title, contract boundaries, pay, hours or continuity, so no interval or headline total was inferred. Targeted Anglicare/Communities for Children, Frankston centre and council searches otherwise repeated recorded evidence; those gaps remain unresolved.
+- Current continuation after this member: 50 distinct records, 0 new, 17 materially enriched, 33 nonmaterial follow-ups and 0 newly complete. Current cycle/day cumulative: 94 distinct, 0 new, 37 materially enriched, 57 nonmaterial follow-ups and 0 newly complete.
+- Durable next cursor: Aaron Birrell (288713).
