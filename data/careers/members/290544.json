@@ -126,7 +126,7 @@
       "role": "Associate editor",
       "start_date": "2021-01",
       "end_date": null,
-      "date_precision": "unknown",
+      "date_precision": "month",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "unknown",
@@ -165,7 +165,7 @@
       "role": "Senator for Victoria",
       "start_date": "2025",
       "end_date": null,
-      "date_precision": "unknown",
+      "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -259,24 +259,69 @@
       "spell_id": "290544-12"
     },
     {
-      "employer": "fungalAi; legal entity and relationship to university research unresolved",
+      "employer": "fungalAi, nonprofit research group; legal entity unresolved",
       "role": "Founder, AI platform for fungal-infection surveillance",
       "start_date": null,
       "end_date": null,
       "date_precision": "unknown",
       "employment_status": "unknown",
       "fte_fraction": null,
-      "category": "unknown",
-      "headline_sector": "unknown",
+      "category": "nonprofit",
+      "headline_sector": "excluded",
       "government_control_at_time": "unknown",
-      "counting_status": "insufficient_evidence",
+      "counting_status": "excluded",
       "source_ids": [
         "src-4",
-        "src-senate2025"
+        "src-senate2025",
+        "oct4-fungal-nonprofit"
       ],
-      "evidence_note": "Professional biography names platform and founder; Senate speech independently describes founding an AI startup. No legal entity, ownership, paid employment, hours or personal boundaries verified. Could overlap fellowship/research; not additive employment.",
-      "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
+      "evidence_note": "Professional biography names platform and founder; Senate speech independently describes founding an AI startup. No legal entity, ownership, paid employment, hours or personal boundaries verified. Could overlap fellowship/research; not additive employment. Her own 2019 article disclosure expressly identifies this as a nonprofit research group. This resolves sector/category at that observation, while later legal structure, personal pay and boundaries remain unknown; startup wording alone does not prove commercial employment.",
+      "counting_note": "Nonprofit founder activity excluded; not additional private employment.",
       "spell_id": "290544-13"
+    },
+    {
+      "spell_id": "290544-14",
+      "employer": "University of Sydney",
+      "role": "Medical degree study (MBBS Honours)",
+      "start_date": "1991-01",
+      "end_date": "1997-01",
+      "date_precision": "month",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-1",
+        "src-2",
+        "oct4-researchgate-education"
+      ],
+      "evidence_note": "Profile self-reported attendance endpoints preserved. Party biography says degree achieved1996; attendance and conferral may differ, but discrepancy unresolved. No internship employment inferred.",
+      "counting_note": "Study/scholarship not salaried employment. No clinical leave or hours deducted without evidence."
+    },
+    {
+      "spell_id": "290544-15",
+      "employer": "University of Melbourne",
+      "role": "Doctoral medicine study; NHMRC postgraduate scholarship",
+      "start_date": "2009-01",
+      "end_date": "2014-05",
+      "date_precision": "month",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-1",
+        "src-2",
+        "oct4-researchgate-education",
+        "oct4-thesis-repository",
+        "oct4-nhmrc-acknowledgement"
+      ],
+      "evidence_note": "Profile gives attendance January2009–May2014 and scholarship February2009. Institutional repository dates thesis publication2014, whereas party biography gives PhD2016. These may represent attendance/submission/conferral but no reconciliation established. Scholarship amount, paid employment status, hours and clinical-study leave unknown.",
+      "counting_note": "Study/scholarship not salaried employment. No clinical leave or hours deducted without evidence."
     }
   ],
   "sources": [
@@ -295,10 +340,10 @@
       "url": "https://www.alp.org.au/our-people/our-people/dr-michelle-ananda-rajah/",
       "publisher": "Australian Labor Party",
       "title": "Dr Michelle Ananda-Rajah",
-      "retrieved": "2026-09-12",
+      "retrieved": "2026-10-04",
       "source_type": "other",
-      "locator": "Career/biography or relevant appointment section",
-      "note": "Reports 26 years of medical experience, Alfred physician, Monash associate professor and BMJ Leader editor."
+      "locator": "Education paragraph",
+      "note": "Reports 26 years of medical experience, Alfred physician, Monash associate professor and BMJ Leader editor. Current biography says Sydney medical degree1996 and Melbourne PhD2016; conflicts with profile endpoints, retained explicitly."
     },
     {
       "source_id": "src-3",
@@ -419,6 +464,46 @@
       "source_type": "government_record",
       "locator": "Clinician Researchers table: Doctor Michelle Ananda-Rajah, Monash University",
       "note": "Lists a 1 January 2019–31 December 2020 grant window and $181,066 to Monash University. This is a project/funder record, not a personal employment contract or FTE statement."
+    },
+    {
+      "source_id": "oct4-fungal-nonprofit",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31491944/",
+      "publisher": "Authors / Journal of Clinical Medicine, indexed by PubMed",
+      "title": "Closing the Gap in Surveillance and Audit of Invasive Mold Diseases, 5 September 2019",
+      "retrieved": "2026-10-04",
+      "source_type": "professional_profile",
+      "locator": "Conflict of interest statement",
+      "note": "Authors identify fungalAi as a nonprofit research group and say Merck/Gilead speaking fees were paid to her department, not personally. No incorporation, hours or employment terms supplied."
+    },
+    {
+      "source_id": "oct4-researchgate-education",
+      "url": "https://www.researchgate.net/profile/Michelle-Ananda-Rajah",
+      "publisher": "Michelle Ananda-Rajah / ResearchGate",
+      "title": "Public professional profile education and awards",
+      "retrieved": "2026-10-04",
+      "source_type": "professional_profile",
+      "locator": "Education; scholarship block",
+      "note": "Lists Sydney medicine January1991–January1997, Melbourne medicine January2009–May2014 and February2009 NHMRC scholarship. Dates self-reported; completion dates differ from current party biography. Undated consultant label not treated as a new employer or current salaried appointment."
+    },
+    {
+      "source_id": "oct4-thesis-repository",
+      "url": "https://repository.monashhealth.org/monashhealthjspui/handle/1/49207",
+      "publisher": "Monash Health Research Repository",
+      "title": "Re-imagining the surveillance of invasive mould diseases",
+      "retrieved": "2026-10-04",
+      "source_type": "government_record",
+      "locator": "Thesis publication date and description",
+      "note": "Repository identifies 2014 publication and PhD thesis submitted to University of Melbourne. Publication/submission does not establish degree-conferral date, paid employment or a Monash Health employee appointment."
+    },
+    {
+      "source_id": "oct4-nhmrc-acknowledgement",
+      "url": "https://haematologica.org/article/view/6251/32867",
+      "publisher": "Authors / Haematologica",
+      "title": "2011/051995 author contributions, published2012",
+      "retrieved": "2026-10-04",
+      "source_type": "professional_profile",
+      "locator": "PDF page1 acknowledgements and guarantor",
+      "note": "Author disclosure names an NHMRC postgraduate medical scholarship and Alfred Health affiliation; scholarship is not proof of NHMRC employment or clinical full-time fraction."
     }
   ],
   "research_notes": [
@@ -429,6 +514,7 @@
     "Avenues: 2004 MJA author roles; Austin2009–10 annual report; Monash2019 institutional research news and infectious-diseases directory; MASSIVE2019–20 report; SBS interview and first-speech reproduction; MRFF grant-recipient searches and fellowship biographies. Health.gov grant-recipient2025 PDF returned404; older indexed grant table could not safely map salary/employment or precise personal appointment dates. Direct Monash staff page timed out but official indexed role is preserved with limitation. Education-only affiliations and coauthors’ hospitals not attributed as jobs. Follow-up: pre2009 rotations/employers and Austin interval; Alfred continuous tenure/hours/leave; paid status and relationship of Monash roles, medtech entity name, fellowship allocation; editorial remuneration and endpoints.",
     "Second follow-up2October2026: resolved medtech institute name through February2021 University of Melbourne panel biography, preserving associate-director versus co-director title discrepancy.2025 Senate first speech describes resignation after2021 Q+A pressure but gives no exact date. Added named fungalAi founder activity from Healthed professional biography and startup account; no separate commercial salary/control assumed. Full-time searches yielded no personally bounded FTE evidence; paper snippets combining Royal Darwin registrar with her name belong to different author entries, not confirmed employment. Next seek institute appointment/resignation records, fungalAi legal/commercialisation documents and actual salary relationship, earlier clinical rotations and funded research/clinical fractions. No total calculated.",
     "Third follow-up3October2026: repeated registrar, CV, hospital, LinkedIn and publication-affiliation searches found the existing2004 Austin point and Alfred affiliations from2009 onward, but no new personally bounded pre-2009 employer or rotation. A Royal Darwin Hospital registrar phrase in a multi-author guideline belongs to another author entry and was again rejected. Public LinkedIn indexing suppresses employer names/dates rather than exposing usable experience chronology. Institute resignation, fungalAi legal/pay relationship, clinical/research fractions, leave and substantive hours remain unresolved; advance the national cursor without repeating generic medical-biography searches.",
-    "Fourth follow-up 4 October 2026: the official MRFF recipient table confirms Monash University as grant recipient, a 1 January 2019–31 December 2020 project window and $181,066 funding for the clinician-researcher project. These facts do not establish Ananda-Rajah's individual appointment, salary, hours or full-time fraction and do not change the structured employment interval. Targeted institute, fellowship, clinical-CV and resignation searches otherwise repeated the November2020–February2021 profile chronology and 2021 association; no new employment boundary. Advance pending appointment/payroll records rather than repeat generic biography searches."
+    "Fourth follow-up 4 October 2026: the official MRFF recipient table confirms Monash University as grant recipient, a 1 January 2019–31 December 2020 project window and $181,066 funding for the clinician-researcher project. These facts do not establish Ananda-Rajah's individual appointment, salary, hours or full-time fraction and do not change the structured employment interval. Targeted institute, fellowship, clinical-CV and resignation searches otherwise repeated the November2020–February2021 profile chronology and 2021 association; no new employment boundary. Advance pending appointment/payroll records rather than repeat generic biography searches.",
+    "Follow-up2026-10-04: The authors’ 2019 conflict disclosure expressly calls fungalAi a nonprofit research group, resolving its earlier unknown category at that observation. Speaking fees were paid to her department, not assumed personal employment. Added omitted Sydney medical and Melbourne PhD study with self-reported month endpoints, scholarship evidence and explicit1996/1997 and2014/2016 completion-date discrepancies. Monash Health repository2014 thesis publication is not employee status or degree conferral. NHMRC funding is not NHMRC payroll. Direct PMC recaptcha respected; PubMed provided original indexed disclosure. No clinical/research hours or earlier employer boundaries recovered; totals remain unknown."
   ]
 }

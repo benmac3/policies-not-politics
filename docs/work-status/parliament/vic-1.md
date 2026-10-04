@@ -297,3 +297,6 @@ State: ready-for-integration
 
 - 2026-10-04T22:02:13+10:00: Mary Aldred enriched with omitted education/advisory history and ministerial employer identity; no headline totals.
 - Attempt156distinct,0new,92material,64nonmaterial,0complete; cycle173distinct,98material,75nonmaterial; day226distinct,127material,99nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Michelle Ananda-Rajah290544. OUTCOME:ongoing; STOPPING REASON:none.
+
+- 2026-10-04T22:04:05+10:00: Michelle Ananda-Rajah enriched with nonprofit founder classification and dated study/scholarship history.
+- Attempt157distinct,0new,93material,64nonmaterial,0complete; cycle174distinct,99material,75nonmaterial; day226distinct,127material,99nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Ralph Babet300706. OUTCOME:ongoing; STOPPING REASON:none.
