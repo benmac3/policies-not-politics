@@ -222,3 +222,5 @@ Deduplicated Brisbane-day new member IDs: 00AMR, 101351, 124514, 132880, 140590,
 - OUTCOME: Returned normally — no blocking error observed. Error code/message: none. Scheduler terminal status unavailable.
 - STOPPING REASON: Voluntary stop; no observed blocking limit — this execution reached its response boundary after remotely verifying 21 member commits and the next durable cursor. Matt Canavan was not processed before that boundary.
 - Successor status: not yet requested at this checkpoint; one immediate successor will be requested after remote verification.
+
+- Successor status: Requested/accepted — result pending. Automations response: `Immediate run requested. The saved schedule is unchanged.` Acceptance is asynchronous and does not establish execution completion or delivery.
