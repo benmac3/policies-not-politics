@@ -356,3 +356,6 @@ Batch check passes: 226 assigned exactly once across 13 batches; nsw-1 assignmen
 
 - 2026-10-04T21:34:47+10:00: Berry primary government-project corroboration saved; hours and payroll gaps retained.
 - Attempt143distinct,0new,85material,58nonmaterial,0complete; cycle160distinct,91material,69nonmaterial; day226distinct,122material,104nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: 26417 Nicolette Boele. OUTCOME:ongoing; STOPPING REASON:none.
+
+- 2026-10-04T21:36:40+10:00: Boele materially enriched with omitted advisory/volunteer roles and PRI duties; no new headline calculation.
+- Attempt144distinct,0new,86material,58nonmaterial,0complete; cycle161distinct,92material,69nonmaterial; day226distinct,123material,103nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: DZS Chris Bowen. OUTCOME:ongoing; STOPPING REASON:none.

@@ -486,7 +486,7 @@
       "source_ids": [
         "src-public-profile"
       ],
-      "evidence_note": "Hosts, not verified employing entities; payment and hours unresolved.",
+      "evidence_note": "Hosts, not verified employing entities; payment and hours unresolved. Public profile describes British Airways environment reporting and tourism-award administration, WTTC Green Globe project work and Oxford Brookes research. Host assignments do not establish employing entity, paid status or hours.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "26417-internship"
     },
@@ -511,6 +511,203 @@
       "evidence_note": "Membership documented March2022, personal work on FY2024 assessment reported September2024 and role listed in2025 event biography. These observations are not term endpoints. Advisory governance or consulting, remuneration and hours unresolved.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "26417-climate-fund"
+    },
+    {
+      "spell_id": "26417-afia",
+      "employer": "Australian Finance Industry Association",
+      "role": "AFFIES sustainability judge",
+      "start_date": "2022-09",
+      "end_date": null,
+      "date_precision": "month",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unpaid_work",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-public-profile"
+      ],
+      "evidence_note": "Listed under Volunteer Experience in public professional-profile index; endpoints retained at supplied precision. No separate paid employment inferred. Present label may be stale; no verified end date or continuous service assumed.",
+      "counting_note": "Volunteer activity excluded from public/private full-time employment."
+    },
+    {
+      "spell_id": "26417-brand",
+      "employer": "Brand Ethics (legal entity unresolved)",
+      "role": "Steering committee / interim board member",
+      "start_date": "2015-11",
+      "end_date": "2018-11",
+      "date_precision": "month",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unpaid_work",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-public-profile",
+        "src-riaa2018-extra",
+        "src-riaa2020-extra"
+      ],
+      "evidence_note": "Listed under Volunteer Experience in public professional-profile index; endpoints retained at supplied precision. No separate paid employment inferred. RIAA2018/2020 profiles corroborate the role. Later profile may repeat earlier text and does not establish continuous service beyond indexed end. Steering-committee versus interim-board title remains unresolved.",
+      "counting_note": "Volunteer activity excluded from public/private full-time employment."
+    },
+    {
+      "spell_id": "26417-green-globe",
+      "employer": "NSW Office of Environment and Heritage / predecessor agencies",
+      "role": "Green Globe awards judge and category chair",
+      "start_date": "2007",
+      "end_date": "2018-10",
+      "date_precision": "mixed",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unpaid_work",
+      "headline_sector": "excluded",
+      "government_control_at_time": "public",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-public-profile",
+        "src-riaa2018-extra",
+        "src-riaa2020-extra"
+      ],
+      "evidence_note": "Listed under Volunteer Experience in public professional-profile index; endpoints retained at supplied precision. No separate paid employment inferred. RIAA2018/2020 profiles corroborate the role. Later profile may repeat earlier text and does not establish continuous service beyond indexed end. Later agency label does not establish historical legal employer at every date.",
+      "counting_note": "Volunteer activity excluded from public/private full-time employment."
+    },
+    {
+      "spell_id": "26417-banksia",
+      "employer": "Banksia Foundation",
+      "role": "Circular-economy awards judge and category chair",
+      "start_date": "2015-07",
+      "end_date": "2018-07",
+      "date_precision": "month",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unpaid_work",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-public-profile",
+        "src-riaa2018-extra",
+        "src-riaa2020-extra"
+      ],
+      "evidence_note": "Listed under Volunteer Experience in public professional-profile index; endpoints retained at supplied precision. No separate paid employment inferred. RIAA2018/2020 profiles corroborate the role. Later profile may repeat earlier text and does not establish continuous service beyond indexed end.",
+      "counting_note": "Volunteer activity excluded from public/private full-time employment."
+    },
+    {
+      "spell_id": "26417-katerva",
+      "employer": "Katerva",
+      "role": "Transportation scalability expert panel",
+      "start_date": "2013-10",
+      "end_date": "2016-09",
+      "date_precision": "month",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unpaid_work",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-public-profile"
+      ],
+      "evidence_note": "Listed under Volunteer Experience in public professional-profile index; endpoints retained at supplied precision. No separate paid employment inferred.",
+      "counting_note": "Volunteer activity excluded from public/private full-time employment."
+    },
+    {
+      "spell_id": "26417-oeh-panel",
+      "employer": "NSW Office of Environment and Heritage / predecessor agencies",
+      "role": "Energy-efficiency accounting and education external panel",
+      "start_date": "2010",
+      "end_date": "2012",
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unpaid_work",
+      "headline_sector": "excluded",
+      "government_control_at_time": "public",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-public-profile"
+      ],
+      "evidence_note": "Listed under Volunteer Experience in public professional-profile index; endpoints retained at supplied precision. No separate paid employment inferred. Later agency label does not establish historical legal employer at every date.",
+      "counting_note": "Volunteer activity excluded from public/private full-time employment."
+    },
+    {
+      "spell_id": "26417-planning-panel",
+      "employer": "NSW planning department (historical name unresolved)",
+      "role": "Sustainability Advisory Council member",
+      "start_date": "2001",
+      "end_date": "2003",
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unpaid_work",
+      "headline_sector": "excluded",
+      "government_control_at_time": "public",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-public-profile"
+      ],
+      "evidence_note": "Listed under Volunteer Experience in public professional-profile index; endpoints retained at supplied precision. No separate paid employment inferred. Later agency label does not establish historical legal employer at every date.",
+      "counting_note": "Volunteer activity excluded from public/private full-time employment."
+    },
+    {
+      "spell_id": "26417-cana",
+      "employer": "Climate Action Network Australia",
+      "role": "Secretary",
+      "start_date": "2001",
+      "end_date": "2003",
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unpaid_work",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-public-profile"
+      ],
+      "evidence_note": "Listed under Volunteer Experience in public professional-profile index; endpoints retained at supplied precision. No separate paid employment inferred.",
+      "counting_note": "Volunteer activity excluded from public/private full-time employment."
+    },
+    {
+      "spell_id": "26417-amnesty",
+      "employer": "Amnesty International Australia",
+      "role": "Business Group co-convenor",
+      "start_date": "1999",
+      "end_date": "2002",
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unpaid_work",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-public-profile"
+      ],
+      "evidence_note": "Listed under Volunteer Experience in public professional-profile index; endpoints retained at supplied precision. No separate paid employment inferred.",
+      "counting_note": "Volunteer activity excluded from public/private full-time employment."
+    },
+    {
+      "spell_id": "26417-pri",
+      "employer": "Principles for Responsible Investment (legal entity unresolved)",
+      "role": "Global Policy Reference Group member",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-riaa2018-extra",
+        "src-riaa2020-extra"
+      ],
+      "evidence_note": "RIAA employer profiles record group participation. Could be representative duties within RIAA; no independent employment, remuneration or term boundaries established.",
+      "counting_note": "Do not double-count representative governance as separate employment."
     }
   ],
   "sources": [
@@ -599,9 +796,9 @@
       "publisher": "Nicolette Boele / LinkedIn",
       "title": "Public professional profile",
       "source_type": "professional_profile",
-      "locator": "Publicly indexed Volunteer Experience, Projects and scholarship entries",
-      "note": "Public index retrieved; direct open returned999. Employment section lacks detail. Project listings do not establish employing entity or paid status.",
-      "retrieved": "2026-10-01",
+      "locator": "Public indexed Volunteer Experience and Honors & Awards",
+      "note": "Public index retrieved; direct open returned999. Employment section lacks detail. Project listings do not establish employing entity or paid status. Further indexed volunteer roles added4October; direct access restrictions respected, no login or bypass. Present and relative-duration labels not converted into dates.",
+      "retrieved": "2026-10-04",
       "source_id": "src-public-profile"
     },
     {
@@ -683,6 +880,26 @@
       "note": "Names Boele as council member; primary corroboration of already recorded volunteer governance, not new term endpoints.",
       "retrieved": "2026-10-02",
       "source_id": "src-acf2007-oct2"
+    },
+    {
+      "source_id": "src-riaa2018-extra",
+      "url": "https://riaa.glueup.com/event/7820/speakers.html",
+      "publisher": "Responsible Investment Association Australasia",
+      "title": "RI Australia2018: speakers",
+      "retrieved": "2026-10-04",
+      "source_type": "employer",
+      "locator": "Nicolette Boele biography",
+      "note": "Primary employer biography records PRI group, Brand Ethics interim board, Green Globe and Banksia judging. Repeated wording may be stale; publication is not appointment/cessation date."
+    },
+    {
+      "source_id": "src-riaa2020-extra",
+      "url": "https://riaa.glueup.com/event/ri-australia-2020-12612/speakers.html",
+      "publisher": "Responsible Investment Association Australasia",
+      "title": "RI Australia2020: speakers",
+      "retrieved": "2026-10-04",
+      "source_type": "employer",
+      "locator": "Nicolette Boele biography",
+      "note": "Primary employer biography records PRI group, Brand Ethics interim board, Green Globe and Banksia judging. Repeated wording may be stale; publication is not appointment/cessation date."
     }
   ],
   "open_questions": [
@@ -693,7 +910,9 @@
     "What was the exact legal NSW department name during the 2003–2004 public-service spell?",
     "Does the IGCC2014–2015 project correspond to the frozen2014 role or a different assignment?",
     "Was Good Car service advisory or statutory non-executive directorship, and is the2025 biography stale?",
-    "What were the employing entities, pay and hours for the early internship, client projects and climate-fund work?"
+    "What were the employing entities, pay and hours for the early internship, client projects and climate-fund work?",
+    "Can original panel rosters and organisation records verify volunteer term endpoints, Brand Ethics legal board status and PRI representation dates?",
+    "Can personnel records identify the hotel-management trainee employer(s) suggested by the1990 TAFE award? Award and study alone do not establish employment."
   ],
   "research_notes": [
     "Systematic follow-up2026-10-01; repaired absent required research_notes while preserving existing sources, spells and open_questions. Added project assignments separately from proven employment, so government client names never automatically generate public-service years. All substantive hours remain unknown.",
@@ -703,6 +922,7 @@
     "Follow-up priorities: early paid career/employers; exact1996–1999 and2003–2004 public-service dates/hours/leave; CEFC payroll and secondment; IGCC role/project distinction; Banarra hours/ownership; Good Car legal appointment/term conflict; climate-fund remuneration and boundaries; project contracting entities. No headline duration inferred from seniority, project budgets or general tenure. Last follow-up2026-10-01; advance nationally before repeating these avenues.",
     "Second follow-up2026-10-02: targeted CEFC site and external-affairs/secondment searches, SEDA and historical annual reports, Banarra2012 association and personal full-time/maternity searches. Retrieved ACF2006–07 report corroborates existing council role; no new personal hours, leave or employment endpoints. Full-time recruitment references concern her parliamentary assistant, not Boele. Derivative January1 CEFC dates not adopted. No material enrichment counted.",
     "Next revisit requires CEFC founding-team/contract records, original SEDA staff documentation or public contract/dated professional-profile evidence. Broad generic biographies and repeated exact-name secondment searches have yielded no additional evidence; retained all open gaps.",
-    "Follow-up 2026-10-04: targeted CEFC, SEDA and Good Car Company searches returned the same parliamentary biography and later event profiles already captured. The 2025 RIAA biography still conflicts with the frozen 2024 Good Car endpoint and supplies no appointment or resignation record; CEFC results do not identify secondment/payroll or hours. No new fact promoted. Defer further generic searches until an original board filing, founding-team record or personnel document appears."
+    "Follow-up 2026-10-04: targeted CEFC, SEDA and Good Car Company searches returned the same parliamentary biography and later event profiles already captured. The 2025 RIAA biography still conflicts with the frozen 2024 Good Car endpoint and supplies no appointment or resignation record; CEFC results do not identify secondment/payroll or hours. No new fact promoted. Defer further generic searches until an original board filing, founding-team record or personnel document appears.",
+    "Follow-up2026-10-04: Public profile index supplies nine omitted dated volunteer roles; original RIAA2018 and2020 biographies corroborate three and add PRI reference-group participation. Added separate excluded spells without assuming paid employment or government payroll. Intern-host assignments clarified, hours/payment unresolved. AICD ordinary membership and1999 leadership program are not employment evidence. No CEFC secondment or Good Car original filing found. Target original organisation rosters and historical trainee records; do not repeat generic biographies."
   ]
 }
