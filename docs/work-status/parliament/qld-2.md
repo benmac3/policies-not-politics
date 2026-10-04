@@ -243,3 +243,6 @@ Batch coverage, record fields, dates, enums, source references, build_careers.lo
 
 - Murray Watt245759 follow-up: legal-employer split and public-service payroll evidence still unavailable.
 - Attempt15distinct,0new,7material,8nonmaterial,0complete; cycle32distinct,13material,19nonmaterial; day169distinct,63material,106nonmaterial; all0new/complete. Next: AnikaWells264121. OUTCOME:ongoing; STOPPING REASON:none.
+
+- Anika Wells264121 follow-up: facility and additional-office searches did not resolve recorded gaps.
+- Attempt16distinct,0new,7material,9nonmaterial,0complete; cycle33distinct,13material,20nonmaterial; day170distinct,63material,107nonmaterial; all0new/complete. Next: AndrewWillcox286535. OUTCOME:ongoing; STOPPING REASON:none.
