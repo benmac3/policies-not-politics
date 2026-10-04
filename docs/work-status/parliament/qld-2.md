@@ -237,3 +237,6 @@ Batch coverage, record fields, dates, enums, source references, build_careers.lo
 
 - Larissa Waters192970 materially enriched with casual work, full-time commencement evidence and prior party offices.
 - Attempt13distinct,0new,7material,6nonmaterial,0complete; cycle30distinct,13material,17nonmaterial; day167distinct,63material,104nonmaterial; all0new/complete. Next: ElizabethWatsonBrown300127. OUTCOME:ongoing; STOPPING REASON:none.
+
+- Elizabeth Watson Brown300127 follow-up: rejected misattributed hours/employer leads; no material career change.
+- Attempt14distinct,0new,7material,7nonmaterial,0complete; cycle31distinct,13material,18nonmaterial; day168distinct,63material,105nonmaterial; all0new/complete. Next: MurrayWatt245759. OUTCOME:ongoing; STOPPING REASON:none.
