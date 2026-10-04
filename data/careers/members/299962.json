@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/299962",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-03",
+  "last_reviewed": "2026-10-04",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -198,8 +198,8 @@
       "counting_note": "Outside the two employment headlines under the codebook; retained as career context."
     },
     {
-      "employer": "Melbourne bands, names not established from primary source",
-      "role": "Singer",
+      "employer": "The Late Mail; The Beautiful Few",
+      "role": "Singer / vocalist",
       "start_date": null,
       "end_date": null,
       "date_precision": "unknown",
@@ -210,9 +210,11 @@
       "government_control_at_time": "unknown",
       "counting_status": "insufficient_evidence",
       "source_ids": [
-        "oct2-about"
+        "oct2-about",
+        "oct4-latemail",
+        "oct4-beautifulfew"
       ],
-      "evidence_note": "Member biography places performances in1990s but gives no exact tenure, remuneration or hours. Could be paid or amateur; do not assume self-employment or full-time work.",
+      "evidence_note": "The member biography places performances in the 1990s. Band-produced recording credits identify her as a vocalist with The Late Mail and describe a planned 1996 second album; contemporary arts coverage identifies her as a member of The Beautiful Few for the Dancing Under the Lights EP. Exact tenure, remuneration and hours remain unknown; band activity is not assumed self-employment or full-time work.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "299962-music"
     },
@@ -375,6 +377,26 @@
       "note": "First-person evidence of an after-school job at15, occasional bit-part acting including Neighbours, ACTU role sequence and a mid-February HESTA goodbye that conflicts with the official April cessation date.",
       "retrieved": "2026-10-03",
       "source_id": "oct3-first"
+    },
+    {
+      "url": "https://soundaseveraustralianindie90-99.bandcamp.com/track/climb-into-the-light?action=download",
+      "publisher": "The Late Mail / Sound As Ever",
+      "title": "Climb Into The Light — recording credits",
+      "source_type": "employer",
+      "locator": "Track credits and production note",
+      "note": "Band-produced credit names Mary Doyle as vocalist and says the song was planned for the band's second album in 1996. It supports band identity and a 1996 point-in-time activity observation, not employment terms or hours.",
+      "retrieved": "2026-10-04",
+      "source_id": "oct4-latemail"
+    },
+    {
+      "url": "https://goingdownswinging.org.au/wordpress/wp-content/uploads/2021/10/Edition-15.pdf",
+      "publisher": "Going Down Swinging",
+      "title": "Edition 15 — Poetry Seen",
+      "source_type": "other",
+      "locator": "Printed/PDF p184, The Beautiful Few paragraph",
+      "note": "Contemporary arts coverage identifies Mary Doyle as a member of The Beautiful Few in connection with the band's Dancing Under the Lights EP. It does not establish remuneration, contract dates or hours.",
+      "retrieved": "2026-10-04",
+      "source_id": "oct4-beautifulfew"
     }
   ],
   "research_notes": [
@@ -385,6 +407,7 @@
     "Follow-up2026-10-02: resolved HBA historical private commercial classification using1997 Industry Commission and2000 ACCC records; employer1995 report gives TAB privatisation/listing15 August1994. Unknown historical HBA classification in earlier notes is superseded by this evidence.",
     "Recorded1995 two-month absence and casual call-centre status without inventing absence dates or extrapolating casual status to six years. Added music activity with remuneration unknown. Member also mentions several early jobs, still unidentified.",
     "Follow-up2026-10-03: recovered the current first-speech transcript after the obsolete nested URL returned404. Added the previously omitted first after-school job and occasional bit-part acting, refined the ACTU role sequence, and recorded the mid-February HESTA goodbye against the official5 April cessation date without guessing leave or contract arrangements.",
-    "Next leads: TAB/NEC/HBA employment hours and any changed contracts; exact absence and payroll-transfer boundaries; names and dates for early jobs/acting and whether music was paid; HESTA campaign leave or contractual cessation evidence. Historical sector resolution does not establish headline years."
+    "Next leads: TAB/NEC/HBA employment hours and any changed contracts; exact absence and payroll-transfer boundaries; names and dates for early jobs/acting and whether music was paid; HESTA campaign leave or contractual cessation evidence. Historical sector resolution does not establish headline years.",
+    "Fourth follow-up4October2026: primary/near-contemporaneous music records now resolve two previously unnamed bands: The Late Mail and The Beautiful Few. The Late Mail's own recording credits place Doyle as vocalist on material planned for a1996 second album, while arts coverage names her in The Beautiful Few's EP lineup. These are point-in-time creative-work observations, not proof of remuneration, continuous tenure or full-time hours. HBA/TAB/NEC and acting searches produced no contract or work-status evidence; unrelated same-name performers were rejected."
   ]
 }
