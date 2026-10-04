@@ -196,3 +196,7 @@ Batch coverage, record fields, dates, enums, source references, build_careers.lo
 - Zoe McKenzie: materially enriched — contemporaneous reporting first published 15 December 2021 says she had stood down from Trade & Investment Advisory to pursue preselection. Her personal advisory-work endpoint is now December 2021 at month precision; the publication day is not treated as the cessation day and no hours/FTE are inferred. KPMG, legal-practice and secondment-payroll gaps remain.
 - Current continuation: 1 distinct record, 0 new, 1 materially enriched, 0 nonmaterial follow-ups and 0 newly complete. Cycle/day cumulative: 117 distinct, 0 new, 48 materially enriched, 69 nonmaterial follow-ups and 0 newly complete.
 - Durable next cursor: Bridget McKenzie (207825).
+
+- Bridget McKenzie: nonmaterial follow-up — narrow exact-name searches found an independent National Rural Health Alliance biography confirming Faculty of Education lecturing in 2009–2010, but no appointment boundary, payroll entity, contract type, hours, leave or DUSA remuneration. The prior oversized search result was mitigated with one-topic queries. Generic web search is exhausted for this pass; Yarram/Victorian education payroll records, Monash appointment files and DUSA accounts or board minutes remain decisive.
+- Current continuation: 2 distinct records, 0 new, 1 materially enriched, 1 nonmaterial follow-up and 0 newly complete. Cycle/day cumulative: 118 distinct, 0 new, 48 materially enriched, 70 nonmaterial follow-ups and 0 newly complete.
+- Durable next cursor: Gabriel Ng (316052).
