@@ -194,3 +194,6 @@
 
 - Alex Antic: material date-evidence corrections; study end unknown, DBH end April2017; early employers/full-time unresolved.
 - Attempt47distinct,0new,27material,20nonmaterial,0complete; cycle64distinct,33material,31nonmaterial; day201distinct,83material,118nonmaterial; all0new/complete. Next: Leah Blyth315170. OUTCOME:ongoing; STOPPING REASON:none.
+
+- Leah Blyth: nonmaterial follow-up; primary university appointments, family-business/consultancy identity and hours unresolved.
+- Attempt48distinct,0new,27material,21nonmaterial,0complete; cycle65distinct,33material,32nonmaterial; day202distinct,83material,119nonmaterial; all0new/complete. Next: Matt Burnell300129. OUTCOME:ongoing; STOPPING REASON:none.
