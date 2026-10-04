@@ -187,3 +187,12 @@ Batch coverage, record fields, dates, enums, source references, build_careers.lo
 - STOPPING REASON: Voluntary stop; no observed blocking limit — the execution reached its reporting/continuation handoff boundary after 1h58m13s of active work. The next record, Zoe McKenzie (124514), was not started so it can resume atomically from this verified cursor. No account or token exhaustion was inferred.
 - SUCCESSOR: not yet requested; exactly one immediate successor will be requested after this checkpoint is remotely verified. Scheduler terminal status unavailable.
 - SUCCESSOR RESULT: Requested/accepted — result pending. Automations platform returned success=true for automation 6aa8d833784081919d5a2cdcb397e2cd and confirmed the saved schedule is unchanged; acceptance is asynchronous and does not prove execution or delivery.
+
+## Brisbane cycle 2026-10-04 08:00 — continuation 2
+
+- Attempt start: 2026-10-04T11:40:38+10:00. Starting branch head: `747acf4269a968a458427f2f9292d8654b181803`.
+- Predecessor reconciliation: the accepted immediate successor demonstrably began as this invocation; predecessor checkpoint and member commits were present at the recorded remote head. No competing branch movement or active-writer conflict observed.
+- Starting cycle/day cumulative: 116 distinct records, 0 new, 47 materially enriched, 69 nonmaterial follow-ups and 0 newly complete. National baseline: 226/226 initial records, 226 unresolved, 0 research-complete.
+- Zoe McKenzie: materially enriched — contemporaneous reporting first published 15 December 2021 says she had stood down from Trade & Investment Advisory to pursue preselection. Her personal advisory-work endpoint is now December 2021 at month precision; the publication day is not treated as the cessation day and no hours/FTE are inferred. KPMG, legal-practice and secondment-payroll gaps remain.
+- Current continuation: 1 distinct record, 0 new, 1 materially enriched, 0 nonmaterial follow-ups and 0 newly complete. Cycle/day cumulative: 117 distinct, 0 new, 48 materially enriched, 69 nonmaterial follow-ups and 0 newly complete.
+- Durable next cursor: Bridget McKenzie (207825).
