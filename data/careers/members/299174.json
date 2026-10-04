@@ -50,10 +50,31 @@
       "source_ids": [
         "src-snapshot",
         "src-secondary",
-        "src-abr-family"
+        "src-abr-family",
+        "src-lexpress2022-oct4"
       ],
-      "evidence_note": "The frozen official extract supplies the employer, combined titles and November 2004 to November 2017 boundaries. The secondary biography identifies it as the family hair-and-beauty supplies business. Ownership, remuneration, hours, leave and title transitions are unresolved, including overlap with party and elected roles. Follow-up: matching ABR entity identifies legal name and ABN 74 098 599 065; its 2001 registration is not the member’s employment commencement. Historical shareholding, actual hours and division between management work and directorship remain unknown.",
+      "evidence_note": "The frozen official extract supplies the employer, combined titles and November 2004 to November 2017 boundaries. The secondary biography identifies it as the family hair-and-beauty supplies business. Ownership, remuneration, hours, leave and title transitions are unresolved, including overlap with party and elected roles. Follow-up: matching ABR entity identifies legal name and ABN 74 098 599 065; its 2001 registration is not the member’s employment commencement. Historical shareholding, actual hours and division between management work and directorship remain unknown. First-person1June2022 interview describes nearly20years in family business within a board-director narrative, differing from the recorded2004–2017 combined executive interval. This does not extend active management to2022; separate board versus employee terms require clarification.",
       "counting_note": "A senior title in a family business does not prove self-employment or substantive full-time work."
+    },
+    {
+      "spell_id": "299174-consultancy",
+      "employer": "Small business consultancy (legal entity and client names unresolved)",
+      "role": "Business consultant / consultancy operator",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "self_employed",
+      "fte_fraction": null,
+      "category": "private_enterprise",
+      "headline_sector": "private",
+      "government_control_at_time": "private",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-rdm2022-consult-oct4",
+        "src-ryde2019-consult-oct4"
+      ],
+      "evidence_note": "First-person2022 campaign questionnaire says Laxale runs a small business consultancy separately from serving on boards. Original2018–19 council report independently describes current business-consultant activity. These are dated observations, not appointment/cessation boundaries. Consultancy entity, clients, payment, weekly hours, leave and overlap with family business/council/governance unknown. Self-employment is supported by operating a consultancy, without full-time inference.",
+      "counting_note": "Private commercial activity supported, but dates and substantive full-time hours absent; no headline duration or election cessation inferred."
     },
     {
       "spell_id": "299174-alp-activity",
@@ -520,6 +541,36 @@
       "locator": "Printed page5, paragraph on alumni returning as hosts",
       "note": "Explicit ANIP2004 alumni attribution for Jerome Laxale MP. Reader timed out; original PDF downloaded and text extracted successfully. Does not name original host or remuneration.",
       "retrieved": "2026-10-03"
+    },
+    {
+      "source_id": "src-rdm2022-consult-oct4",
+      "url": "https://rydedistrictmums.com.au/jerome-laxale-labor/",
+      "publisher": "Ryde District Mums / Jerome Laxale candidate responses",
+      "title": "Jerome Laxale Labor,2022 candidate questionnaire",
+      "source_type": "professional_profile",
+      "retrieved": "2026-10-04",
+      "locator": "Tell us a bit about yourself and what other hats you wear",
+      "note": "First-person running consultancy distinguished from separate board posts; no entity, hours or boundaries."
+    },
+    {
+      "source_id": "src-ryde2019-consult-oct4",
+      "url": "https://www.ryde.nsw.gov.au/files/assets/public/v/1/publications/annual-reports/annual-report-2018-19.pdf",
+      "publisher": "City of Ryde",
+      "title": "2018–19 Annual Report",
+      "source_type": "government_record",
+      "retrieved": "2026-10-04",
+      "locator": "Civic Leadership, Our Councillors, West Ward, Clr Jerome Laxale",
+      "note": "Primary indexed councillor profile identifies current business consultant and company director. Reader exceeded11357248-byte content size; indexed profile used without personal hours or report-period employment interval."
+    },
+    {
+      "source_id": "src-lexpress2022-oct4",
+      "url": "https://lexpress.mu/node/409447",
+      "publisher": "L’Express / Shivanee Runghen",
+      "title": "Jerome Laxale interview,1June2022",
+      "source_type": "news",
+      "retrieved": "2026-10-04",
+      "locator": "Tell us more about you, first-person answer",
+      "note": "Nearly20years in family business as board/private-sector experience; rounded duration does not identify operational dates or override frozen management spell."
     }
   ],
   "open_questions": [
@@ -528,7 +579,8 @@
     "What were the historical ownership/control arrangements of StateCover, and which external boards account for disclosed aggregate remuneration?",
     "Are earlier jobs or later business-consulting clients omitted from official occupations, and what are their dates and hours?",
     "Can primary records refine Venture Café, party and local-government chronology and paid/unpaid conditions?",
-    "Which parliamentary office hosted the2004 ANU internship, on which exact dates, and with what remuneration, hours and study-credit arrangements?"
+    "Which parliamentary office hosted the2004 ANU internship, on which exact dates, and with what remuneration, hours and study-credit arrangements?",
+    "What is the consultancy legal entity, exact commencement/cessation, clients, personal pay/hours and leave? Could GFTH Pty Ltd consultancy holding be linked through original declarations, and how does family-business governance extend beyond executive2017 endpoint?"
   ],
   "research_notes": [
     "2026-10-01 follow-up: official register resolves matching family company; historical LGP report reclassifies Associate Director as excluded governance, and LGNSW report refines StateCover appointment and establishes paid treasurer governance. No salary-to-hours conversion or external-board pay allocation made.",
@@ -536,6 +588,7 @@
     "Second follow-up2October2026 improves education and placement chronology; totals remain unknown.",
     "Targeted family-business full-time searches yielded staff vacancies rather than personal hours, which were rejected. Council26June2018 agenda, printed pp49–50, reproduces Venture Cafe innovation partnership resolution but does not appoint Laxale personally to its board. PDF exceeded web-reader size limit; ordinary direct download and text extraction succeeded. Partnership funding/trial dates do not establish personal governance term. Next leads remain family payroll/hours, personal Venture Cafe appointment, internship host and original LGP appointment instruments.",
     "Follow-up3October2026 resolves ANIP internship year to2004 through original university anniversary publication. Targeted Venture Cafe search yielded a commercial aggregator claiming30June2018, without an original appointment instrument, so no exact date adopted. Council partnership date was already examined and is not personal appointment evidence. Full-time search again found staff vacancies, not personal working hours. No headline years calculated; future needs are original internship host record, Venture Cafe board minutes and family payroll/work-pattern evidence.",
-    "Fourth follow-up4October2026 repeated exact ANIP2004 host-office, Venture Cafe Sydney board and family-business full-time searches. Results repeated the existing ANIP program attribution, organisation-level partnership and unrelated staff vacancies; no host, appointment instrument, personal payroll, hours or leave evidence emerged. Namesakes and organisation-level partnership material were excluded."
+    "Fourth follow-up4October2026 repeated exact ANIP2004 host-office, Venture Cafe Sydney board and family-business full-time searches. Results repeated the existing ANIP program attribution, organisation-level partnership and unrelated staff vacancies; no host, appointment instrument, personal payroll, hours or leave evidence emerged. Namesakes and organisation-level partnership material were excluded.",
+    "Follow-up2026-10-04: First-person2022 campaign answer and primary2018–19 council profile establish omitted consultancy work; separate unknown-date self-employed spell added. New1June2022 interview nearly20-year family-business wording is not substituted for2004–2017 executive interval; possible board continuation retained as gap.2025 local interview corroborates later consultancy. Public interests index GFTH Pty Ltd consultancy is only an original-register lead, not silently made payroll employer.2018–19 PDF reader content-size error and LGP2021 URL404 are source gaps; primary indexed profile and accessible personal testimony remain usable."
   ]
 }

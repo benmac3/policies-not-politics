@@ -304,3 +304,6 @@ Batch check passes: 226 assigned exactly once across 13 batches; nsw-2 assignmen
 
 - 2026-10-04T19:31:15+10:00: Maria Kovacic: original directorship attribution and separate party terms added.
 - Attempt83distinct,0new,47material,36nonmaterial,0complete; cycle100distinct,53material,47nonmaterial; day226distinct,101material,125nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Jerome Laxale299174. OUTCOME:ongoing; STOPPING REASON:none.
+
+- 2026-10-04T19:33:10+10:00: Jerome Laxale: omitted consultancy evidenced; family board/executive duration conflict retained.
+- Attempt84distinct,0new,48material,36nonmaterial,0complete; cycle101distinct,54material,47nonmaterial; day226distinct,102material,124nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Dai Le295676. OUTCOME:ongoing; STOPPING REASON:none.
