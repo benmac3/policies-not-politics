@@ -280,3 +280,6 @@ Batch check passes: 226 assigned exactly once across 13 batches; nsw-2 assignmen
 
 - 2026-10-04T19:16:38+10:00: Mehreen Faruqi250362 materially enriched: exact22June2009 Mosman role observation; hours and boundaries remain unresolved.
 - Attempt75distinct,0new,43material,32nonmaterial,0complete; cycle92distinct,49material,43nonmaterial; day226distinct,98material,128nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Michael Freelander265979. OUTCOME:ongoing; STOPPING REASON:none.
+
+- 2026-10-04T19:17:54+10:00: Mike Freelander265979 nonmaterial follow-up: additional accessible primary narratives and stale directory provide no new employment boundary, hours or closure.
+- Attempt76distinct,0new,43material,33nonmaterial,0complete; cycle93distinct,49material,44nonmaterial; day226distinct,98material,128nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Andrew Gee261393. OUTCOME:ongoing; STOPPING REASON:none.
