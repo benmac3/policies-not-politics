@@ -218,3 +218,6 @@
 
 - Sarah Hanson-YoungI0U: added contemporaneous Amnesty role corroboration; no material new employment interval or hours.
 - Attempt55distinct,0new,29material,26nonmaterial,0complete; cycle72distinct,35material,37nonmaterial; day209distinct,85material,124nonmaterial; all0new/complete. Next: Kerrynne Liddle300644. OUTCOME:ongoing; STOPPING REASON:none.
+
+- Kerrynne Liddle300644: primary2004Tandanya observation and previously unrecorded Indigenous-newspaper contribution added; payroll/hours unknown.
+- Attempt56distinct,0new,30material,26nonmaterial,0complete; cycle73distinct,36material,37nonmaterial; day210distinct,86material,124nonmaterial; all0new/complete. Next: Louise Miller-Frost296272. OUTCOME:ongoing; STOPPING REASON:none.

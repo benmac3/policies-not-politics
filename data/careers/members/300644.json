@@ -6,7 +6,7 @@
   "snapshot_party": "Liberal Party of Australia",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/300644",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-03",
+  "last_reviewed": "2026-10-04",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -234,8 +234,8 @@
       "spell_id": "300644-11"
     },
     {
-      "employer": "Self / commissioning publishers, including eContent Management and AIDA",
-      "role": "Book co-editor and writer",
+      "employer": "Self / commissioning publishers, including eContent Management and AIDA; unidentified Indigenous newspaper",
+      "role": "Book co-editor, writer and newspaper-feature contributor",
       "start_date": null,
       "end_date": null,
       "date_precision": "unknown",
@@ -247,9 +247,10 @@
       "counting_status": "insufficient_evidence",
       "source_ids": [
         "src-4",
-        "src-16"
+        "src-16",
+        "src-23"
       ],
-      "evidence_note": "Co-editor In our own right2005 and writer Journeys into medicine2009. Could form part of consultancy; contractual/pay relationship unknown. Kept as output-linked work, not additive years or publishing-company employment.",
+      "evidence_note": "Co-editor In our own right2005 and writer Journeys into medicine2009. Could form part of consultancy; contractual/pay relationship unknown. Kept as output-linked work, not additive years or publishing-company employment. First-person9September2004presentation records a domestic-violence feature in an unidentified Indigenous newspaper earlier that year. This extends documented written work before the known2005book, not the start of continuous paid writing; no additional duration counted.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "300644-12"
     },
@@ -287,9 +288,10 @@
       "government_control_at_time": "private",
       "counting_status": "excluded",
       "source_ids": [
-        "src-10"
+        "src-10",
+        "src-23"
       ],
-      "evidence_note": "Former chair in official IBA biography; governance, remuneration and term dates unknown.",
+      "evidence_note": "Former chair in official IBA biography; governance, remuneration and term dates unknown. Contemporary9September2004university event identifies her as Tandanya chair; dated observation does not establish appointment start/end or fees.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "300644-14"
     },
@@ -606,8 +608,8 @@
       "title": "Annual report 2021",
       "source_type": "employer",
       "locator": "Indexed board appointment narrative",
-      "note": "Reports appointment of Kerrynne Liddle to board; direct open Internal Error, exact date unresolved.",
-      "retrieved": "2026-10-01",
+      "note": "Reports appointment of Kerrynne Liddle to board; direct open Internal Error, exact date unresolved. Follow-up public download returned HTML rather than PDF; pdftotext failed to find trailer/xref, so no unexamined report contents used.",
+      "retrieved": "2026-10-04",
       "source_id": "src-14"
     },
     {
@@ -689,6 +691,16 @@
       "note": "Names Liddle as manager and2012/2013document contributor; dates are work observations, not employment endpoints.",
       "retrieved": "2026-10-02",
       "source_id": "src-22"
+    },
+    {
+      "source_id": "src-23",
+      "url": "https://hawkecentre.adelaide.edu.au/events-and-exhibitions/events/2004/respect-for-women-seminar/respect-for-women-seminar---kerrynne-liddle/",
+      "publisher": "University of South Australia,Hawke Centre; now Adelaide University archive",
+      "title": "RESPECT for Women seminar–Kerrynne Liddle,9September2004",
+      "source_type": "professional_profile",
+      "locator": "Presentation heading and paragraph beginning As a journalist",
+      "retrieved": "2026-10-04",
+      "note": "Contemporary event identifies Tandanya chair; first-person transcript states she wrote an Indigenous-newspaper feature earlier in2004. Newspaper name, pay, employment arrangement and exact dates absent. Sister’s police service is not her employment."
     }
   ],
   "research_notes": [
@@ -702,6 +714,7 @@
     "Senate interests search located Liddle Sapio Trust, but asset/trust declarations are not evidence of employment or active management. Other health/arts/tertiary roles and multiple businesses referenced generally in first speech remain unidentified; no completeness claim.",
     "Follow-up2026-10-02: historical AHL report and estimates answer establish board initial appointment, part-time classification and acting-chair assignment; IBA report resolves August2019departure. AHL biography adds SA Affordable Housing Trust directorship and identifies inaugural Aboriginal Foundation SA membership, whose duties/dates/pay remain a lead.",
     "Santos primary EIS documents substantiate2012/2013work observations. SKM/Santos exact transition, ABC/commercial media dates and hours, consultancy periods, Voyages employment fraction and Ruston contract remain unresolved. IBA start-date search yielded unrelated neighbouring board appointments, which were not borrowed. No term-expiry date or aggregate director remuneration used as personal fact.",
-    "Follow-up2026-10-03: searched exact-name combinations for SKM, Santos, Voyages and Precise Media Management. Results repeated the already captured September2010 SKM observation, May2018 Voyages start and2005 Precise Media Management partner description; no new primary evidence fixed an employment endpoint or substantive full-time status. Secondary claims that Santos began in2011 were not substituted for an exact employer appointment record."
+    "Follow-up2026-10-03: searched exact-name combinations for SKM, Santos, Voyages and Precise Media Management. Results repeated the already captured September2010 SKM observation, May2018 Voyages start and2005 Precise Media Management partner description; no new primary evidence fixed an employment endpoint or substantive full-time status. Secondary claims that Santos began in2011 were not substituted for an exact employer appointment record.",
+    "Follow-up2026-10-04: Recovered a contemporary9September2004university-hosted presentation that identifies Tandanya chair and first-person Indigenous-newspaper feature writing earlier in2004. Newspaper/payroll, remuneration, personal hours and intervals remain unknown; writing may overlap consultancy. GPEx2021report search index still supplies appointment narrative only; ordinary download returned HTML and pdftotext reported missing trailer/xref, so no full-report dates invented. IBA2016–17direct PDF now403; retained existing indexed facts and did not bypass restriction. IBA commencement, commercial broadcaster employers/years, SKM/Santos transitions and Voyages working fraction remain unresolved."
   ]
 }
