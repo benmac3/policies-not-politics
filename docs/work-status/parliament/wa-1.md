@@ -155,3 +155,12 @@ Detailed attempted avenues, discrepancies and remaining leads are preserved in e
 - Sam Lim: materially enriched — a school publication identifies the Malaysian supply-business products and national scope; a December 2018 policing journal establishes an acting-sergeant/community-liaison point, and a later first-person speech identifies Community Engagement Division as his final WA Police placement. Business entity names/dates, security employer, police hours/leave and early chronology remain unresolved.
 - Durable next cursor: WA-2 / Susan (Sue) Lines (112096). WA-1's current follow-up pass is complete; continue sequentially in plan order.
 - OUTCOME: ongoing. STOPPING REASON: none; continue after remote verification. Successor not requested while research remains active.
+
+## Active follow-up — 2026-10-04 16:00 Brisbane cycle, continuation1
+
+- Additional user-requested attempt started2026-10-04T17:00:01+10:00. QLD2 segment completed18distinct,0new,8material,10nonmaterial,0newlycomplete; every member commit verified remotely. QLD2 endinghead860a6f5527eb7ed25a2b0a5db3a1193a9ad766ca. WA1 startinghead99ae324fa356378bbdd8698ba8a27725b069b09a. National226/226initial,226unresolved,0complete; previously audited all13heads plusmain/integration. No active competing writer observed; WA1 remotehead matches fetched checkout.
+- Resume national plan-order follow-up pass at Anne Aly13050; preserve each assigned member’s prior evidence and avoid repeating exhausted queries. Previous WA1 cursor pointing to WA2 was the completed3October pass, not evidence that the4October follow-up is complete.
+- Counts enteringWA1: thisrun18distinct,8material,10nonmaterial; cycle35distinct,14material,21nonmaterial; day172distinct,64material,108nonmaterial; all0new/complete. Prior accepted successor has no demonstrable research execution; executionunverified. Scheduler terminal telemetry unavailable. OUTCOME:ongoing; STOPPING REASON:none; successor notrequested while workactive.
+
+- Anne Aly13050: materially enriched OMI duties with two historical primary annual reports; no FTyears.
+- Attempt19distinct,0new,9material,10nonmaterial,0complete; cycle36distinct,15material,21nonmaterial; day173distinct,65material,108nonmaterial; all0new/complete. Next: Slade Brockman30484. OUTCOME:ongoing; STOPPING REASON:none.
