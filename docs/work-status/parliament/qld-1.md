@@ -363,3 +363,6 @@ Deduplicated Brisbane-day new member IDs: 00AMR, 101351, 124514, 132880, 140590,
 
 - 2026-10-05T00:35:13+10:00: Madonna Jarrett: separated intermittent candidacy from substantive jobs; early payroll gaps unresolved.
 - Originating cycle2026-10-04 16:00 continuation1; attempt started2026-10-04T17:00:01+10:00 and ongoing. Attempt222distinct,0new,143material,79nonmaterial,0complete; cycle226distinct,146material,80nonmaterial. Current Brisbane day2026-10-05: 13distinct,0new,8material,5nonmaterial,0complete. Counts deduplicated within attempt/cycle/day. Next: Bob KatterHX4: original mining,insurance and business history evidence.. OUTCOME:ongoing; STOPPING REASON:none. No successor requested.
+
+- 2026-10-05T00:36:13+10:00: Bob Katter: family-theatre archive search yielded context only; relative/namesake jobs kept separate.
+- Originating cycle2026-10-04 16:00 continuation1; attempt started2026-10-04T17:00:01+10:00 and ongoing. Attempt223distinct,0new,143material,80nonmaterial,0complete; cycle226distinct,146material,80nonmaterial. Current Brisbane day2026-10-05: 14distinct,0new,8material,6nonmaterial,0complete. Counts deduplicated within attempt/cycle/day. Next: QLD2MichelleLandry249764: reconcile branch and original employment evidence.. OUTCOME:ongoing; STOPPING REASON:none. No successor requested.
