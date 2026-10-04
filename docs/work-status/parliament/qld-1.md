@@ -330,3 +330,6 @@ Deduplicated Brisbane-day new member IDs: 00AMR, 101351, 124514, 132880, 140590,
 
 - 2026-10-05T00:09:50+10:00: Chalmers: added two primary-confirmed author activities without inferring paid employment or writing dates.
 - Originating cycle2026-10-04 16:00 continuation1; attempt started2026-10-04T17:00:01+10:00 and ongoing. Attempt211distinct,0new,136material,75nonmaterial,0complete; cycle226distinct,142material,84nonmaterial. Current Brisbane day2026-10-05: 2distinct,0new,1material,1nonmaterial,0complete. Counts deduplicated within attempt/cycle/day. Next: Chisholm39801: original employer/interests material only; then fresh targeted primary leads. OUTCOME:ongoing; STOPPING REASON:none. No successor requested.
+
+- 2026-10-05T00:12:47+10:00: Chisholm: primary Swan speech resolves office and teenage assistance duty; pay and dates still unknown.
+- Originating cycle2026-10-04 16:00 continuation1; attempt started2026-10-04T17:00:01+10:00 and ongoing. Attempt212distinct,0new,137material,75nonmaterial,0complete; cycle226distinct,143material,83nonmaterial. Current Brisbane day2026-10-05: 3distinct,0new,2material,1nonmaterial,0complete. Counts deduplicated within attempt/cycle/day. Next: Renee Coffey312323: remaining original AIEF/personnel and government-employer evidence. OUTCOME:ongoing; STOPPING REASON:none. No successor requested.
