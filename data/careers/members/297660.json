@@ -6,7 +6,7 @@
   "snapshot_party": "Independent",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/297660",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-04",
+  "last_reviewed": "2026-10-05",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -206,7 +206,7 @@
     },
     {
       "spell_id": "297660-11",
-      "employer": "Children’s Hospital at Westmead",
+      "employer": "Royal Alexandra Hospital for Children, trading as Children’s Hospital at Westmead",
       "role": "Staff specialist",
       "start_date": "2003",
       "end_date": "2006",
@@ -218,9 +218,10 @@
       "government_control_at_time": "unknown",
       "counting_status": "insufficient_evidence",
       "source_ids": [
-        "src-2"
+        "src-2",
+        "oct5-westmead2005"
       ],
-      "evidence_note": "CV employment list; see source locator. Hours and employer terms unresolved.",
+      "evidence_note": "CV employment list; see source locator. Hours and employer terms unresolved. Original2005 annual report financial note1 resolves the legal hospital name and establishes NSW Health/state-sector consolidation in2005. This is historical public-control evidence during the recorded interval; boundary-year control/actual payroll linkage and substantive hours remain follow-up needs, so the whole-spell unresolved control treatment is retained pending full-period verification.",
       "counting_note": "Dates, employer control and/or substantive full-time status remain insufficient for a duration calculation; unknown is not zero."
     },
     {
@@ -256,9 +257,10 @@
       "government_control_at_time": "unknown",
       "counting_status": "insufficient_evidence",
       "source_ids": [
-        "src-2"
+        "src-2",
+        "oct5-westmead2005"
       ],
-      "evidence_note": "CV employment list; see source locator. Hours and employer terms unresolved.",
+      "evidence_note": "CV employment list; see source locator. Hours and employer terms unresolved. Hospital2005 report printedp18 lists Monique Ryan among new Senior Lecturer appointments in the University of Sydney Clinical School discussion, separately from new conjoint/clinical titles. Corroborates2005 appointment year, not an exact start day or hours. Part-time label on the adjacent Anne Morris entry is not Ryan status. Separate university/hospital payroll and potential shared duties remain unresolved.",
       "counting_note": "Dates, employer control and/or substantive full-time status remain insufficient for a duration calculation; unknown is not zero."
     },
     {
@@ -674,6 +676,16 @@
       "source_type": "official_biography",
       "locator": "Paragraph beginning 'Yesterday, Monique took her last clinic'; newsletter index dates update23December2021",
       "note": "Campaign page says Ryan took her last RCH clinic the previous day and had resigned; archive index dates the update23December2021, making the clinic observation22December2021. This establishes a December exit month, not an exact payroll or contract day."
+    },
+    {
+      "source_id": "oct5-westmead2005",
+      "url": "https://wayback.archive-it.org/22771/20240423201346/https://www.opengov.nsw.gov.au/download/12257",
+      "publisher": "Royal Alexandra Hospital for Children / NSW Government OpenGov, archived by Archive-It",
+      "title": "The Children’s Hospital at Westmead Annual Report2005",
+      "source_type": "employer",
+      "retrieved": "2026-10-05",
+      "locator": "Printedp18/PDFp21 new academic appointments; printedp61/PDFp64 financial note1 reporting entity",
+      "note": "Original archived1052859-byte PDF downloaded normally and text inspected. Lists Monique Ryan as new Senior Lecturer. Identifies Royal Alexandra Hospital for Children trading as CHW and consolidation by NSW Health into total state sector accounts. Adjacent part-time label belongs to Anne Morris; not Ryan. No patient information retained."
     }
   ],
   "research_notes": [
@@ -684,6 +696,7 @@
     "2026-10-02 follow-up: found explicit individual full-time RCH description in6February2012 orientation notes, visually verified onp.2. No extension across all2006–2015/2008–2021 years or duplicate hours across clinic/staff roles. Re-read public inquiry professional appendix: late2021 RCH/MCRI resignation and honorary Monash professorship resolve earlier ambiguities. A2022 fellowship advert names Ryan as supervisor but its full-time wording describes the advertised fellow, not Ryan. Westmead2005 annual-report dataset download returned404; historical control/payroll for early hospitals and US fellowships still needs primary annual reports. Next: adjacent-year RCH staff lists/appointment and leave changes, early hospital annual reports, US fellowship contracts and private/expert work terms. No full-time years yet calculable; patient/case detail not retained.",
     "2026-10-03 follow-up: Ryan's own campaign archive dates its Weekly Update to23December2021 and says she took her last RCH clinic 'yesterday' after resigning. The explicit date calculation places the final clinic on22December2021 and materially narrows the RCH endpoint to December2021. The record stores month precision because a last clinical session is not necessarily the contract/payroll cessation day. A16January2022 first-person update independently says she took a short break after resigning; no intervening paid role is inferred. RCH full-time status remains directly evidenced only on6February2012; leave, FTE changes, early hospital control/payroll and US fellowship terms remain unresolved, so no duration calculation.",
     "2026-10-04 follow-up: narrow searches for full-time and appointment evidence found the already-recorded February2012 RCH full-time observation, dated publication affiliations and a 2022 fellowship position reporting to Ryan. None establishes Ryan's own continuous full-time status, leave or payroll boundaries. A contact aggregator displayed month-level dates copied from an unidentified profile, but it was not adopted because the underlying self-profile fields could not be independently retrieved and the aggregator also inaccurately implied ongoing RCH employment. Generic web search is exhausted for this pass; RCH/NSW hospital personnel records and appointment letters remain decisive. No substantive fact changed.",
-    "Follow-up2026-10-04: Re-inspected public professional appendix for omitted education and governance. Added qualifications, additional training and separate board terms, retaining unknown pay and any open endpoints rather than extending old CV entries. These are excluded activities; the two separated international research-board terms are not treated as continuous. Fellowship credential year differs between the appendix summary and detailed CV and remains an explicit follow-up gap. Other committee/registry, teaching, editing, author and expert-appointment remuneration and any independent payroll relationships still require investigation; professional activity is not automatically a separate job. No new personal hospital hours/leave evidence; 2012 full-time observation remains a point only."
+    "Follow-up2026-10-04: Re-inspected public professional appendix for omitted education and governance. Added qualifications, additional training and separate board terms, retaining unknown pay and any open endpoints rather than extending old CV entries. These are excluded activities; the two separated international research-board terms are not treated as continuous. Fellowship credential year differs between the appendix summary and detailed CV and remains an explicit follow-up gap. Other committee/registry, teaching, editing, author and expert-appointment remuneration and any independent payroll relationships still require investigation; professional activity is not automatically a separate job. No new personal hospital hours/leave evidence; 2012 full-time observation remains a point only.",
+    "2026-10-05 recovered original Westmead2005 employer report via government-linked Archive-It capture after legacy government PDF404 and web-reader archive InternalError. Ordinary download succeeded1052859bytes; text verified new Monique Ryan Senior Lecturer appointment p18/PDF21 and hospital legal reporting entity/state-sector consolidation p61/PDF64. Legal hospital name materially clarified; historical public control observed2005, full-period payroll/control verification remains explicit. Academic appointment corroborated without transferring adjoining Anne Morris part-time label or inferring separate/additive salaries. Personal hours/leave, early hospital boundaries,US fellowship contracts and paid expert work remain missing. No patient facts retained, no calculated duration."
   ]
 }
