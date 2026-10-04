@@ -307,3 +307,8 @@ Deduplicated Brisbane-day new member IDs: 00AMR, 101351, 124514, 132880, 140590,
 
 - 299498 Colin Boyce: materially narrowed brigade cessation, added2023 active-business snapshot and corrected unsupported unpaid-work category; national226initial/226unresolved/0complete.
 - Attempt72distinct,0new,40material,32nonmaterial,0complete; cycle89distinct,46material,43nonmaterial; day226distinct,96material,130nonmaterial; all0new/complete. Next: national least-recent follow-up/new-lead queue in frozen plan order. OUTCOME:ongoing; STOPPING REASON:none.
+
+- 2026-10-04T23:44 Brisbane: continuing16:00cycle continuation1, original attempt start17:00:01. Startingheadbc86c9d0de9b39e5298a3546b9b3d3e0d0169c25;21blocked/0complete/0missing. Remote checkpoints identify14Canavan–Katter and3QLD2Landry/Littleproud/Mulholland already processed earlier this same cycle; avoid duplicate generic follow-up. Remaining cycle-first followups230531Buchholz,306489Caldwell,312823Campbell, then5SA members. National226blocked. OUTCOME ongoing; STOPPING REASON none.
+
+- 2026-10-04T23:44:22+10:00: Scott Buchholz: historical governance/qualification follow-up yielded no new individual boundaries; namesakes rejected.
+- Attempt202distinct,0new,130material,72nonmaterial,0complete; cycle219distinct,136material,83nonmaterial; day226distinct,149material,77nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Cameron Caldwell306489. OUTCOME:ongoing; STOPPING REASON:none.
