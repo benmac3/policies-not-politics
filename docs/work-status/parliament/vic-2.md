@@ -248,3 +248,7 @@ Batch coverage, record fields, dates, enums, source references, build_careers.lo
 - Tim Watts: nonmaterial follow-up — targeted Mallesons/Telstra searches returned derivative biographies and the secondary July 2009 Telstra appointment report already reflected in the record. No personnel record, practising-certificate history, departure day, hours, leave or evidence resolving the Brumby 2008/2009 conflict surfaced.
 - Current continuation: 14 distinct records, 0 new, 2 materially enriched, 12 nonmaterial follow-ups and 0 newly complete. Cycle/day cumulative: 130 distinct, 0 new, 49 materially enriched, 81 nonmaterial follow-ups and 0 newly complete.
 - Durable next cursor: Anne Webster (281688).
+
+- Anne Webster: nonmaterial follow-up — exact-name Mildura searches for music teaching, seamstress and image-consulting work returned only the existing general biography/current member page and namesakes. No school/client, business entity, appointment, hours, leave or payroll evidence surfaced. Local directories, school records, registrations and contemporaneous advertisements remain targeted leads.
+- Current continuation: 15 distinct records, 0 new, 2 materially enriched, 13 nonmaterial follow-ups and 0 newly complete. Cycle/day cumulative: 131 distinct, 0 new, 49 materially enriched, 82 nonmaterial follow-ups and 0 newly complete.
+- Durable next cursor: Tim Wilson (IMW).
