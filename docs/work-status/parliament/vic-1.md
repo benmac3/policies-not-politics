@@ -201,4 +201,7 @@ State: ready-for-integration
 - OUTCOME: ongoing. STOPPING REASON: none; continue after remote verification. No successor requested. Scheduler terminal status unavailable.
 - Validation: JSON parse/source-reference checks and `career_batches.py --check` (226/13) plus `career_batches.py --batch vic-1` passed; only the assigned member and this checkpoint are written.
 - Recovered source error: direct aph.gov.au search returned `Blocked by robots.txt`; indexed official records and the official aphref PDF supplied the dated evidence. This did not terminate the run.
+- Mary Aldred: materially enriched — May 2023 succession reporting says she exited the Franchise Council of Australia in February 2023 and an acting CEO then served. This conflicts with her inherited profile's December 2022 endpoint while aligning with Fujitsu's separately reported February commencement; no exact cessation day, hours or leave was inferred and the conflict is retained. Farm pay/dates, early energy hours and other recorded gaps remain unresolved.
+- Current continuation after this member: 47 distinct records, 0 new, 15 materially enriched, 32 nonmaterial follow-ups and 0 newly complete. Current cycle/day cumulative: 91 distinct, 0 new, 35 materially enriched, 56 nonmaterial follow-ups and 0 newly complete.
+- Durable next cursor: Michelle Ananda-Rajah (290544).
 
