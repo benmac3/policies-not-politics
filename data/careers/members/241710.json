@@ -6,7 +6,7 @@
   "snapshot_party": "Liberal Party of Australia",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/241710",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-04",
+  "last_reviewed": "2026-10-05",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -116,7 +116,7 @@
     },
     {
       "employer": "Insurance Australia Group",
-      "role": "General manager government relations",
+      "role": "General manager, government relations; also recorded as Manager, Government Relations and Policy",
       "start_date": "2002",
       "end_date": "2004",
       "date_precision": "year",
@@ -128,9 +128,11 @@
       "counting_status": "insufficient_evidence",
       "source_ids": [
         "src-1",
-        "src-2"
+        "src-2",
+        "src-17",
+        "src-18"
       ],
-      "evidence_note": "Commercial insurer; government-relations job is corporate employment, not ministerial staff. Senior title supplies no working-time evidence.",
+      "evidence_note": "Commercial insurer; government-relations job is corporate employment, not ministerial staff. Senior title supplies no working-time evidence. Contemporary Senate witness appendix2May2003 and Asialink2004 forum participants use Manager, Government Relations and Policy. The title variant is retained within this spell rather than inventing a third IAG job; observation in2004 leaves transition to insurance strategy that year unresolved.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "241710-06"
     },
@@ -148,9 +150,10 @@
       "counting_status": "insufficient_evidence",
       "source_ids": [
         "src-1",
-        "src-2"
+        "src-2",
+        "src-17"
       ],
-      "evidence_note": "Commercial insurer; government-relations job is corporate employment, not ministerial staff. Senior title supplies no working-time evidence.",
+      "evidence_note": "Commercial insurer; government-relations job is corporate employment, not ministerial staff. Senior title supplies no working-time evidence. Asialink2004 participant list still uses government-relations/policy title; this could precede the strategy transition or be a lagging title, so no precise transition date inferred.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "241710-07"
     },
@@ -267,7 +270,7 @@
       "role": "Senator for Western Australia",
       "start_date": "2012-05-02",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "day",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -288,7 +291,7 @@
       "role": "Member",
       "start_date": "2022-07",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "month",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "public_service",
@@ -340,6 +343,44 @@
       "evidence_note": "Government speaker biography confirms representative governance role in August 2018. Dates and pay not supplied; no substantive full-time employment inferred.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "241710-16"
+    },
+    {
+      "employer": "Asialink, University of Melbourne",
+      "role": "Asialink Leaders Program participant",
+      "start_date": null,
+      "end_date": "2004",
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "public",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-16"
+      ],
+      "evidence_note": "Provider alumni interview explicitly confirms completion2004 during corporate career. Enrolment, precise dates, hours and any employment leave not supplied; inconsistent2024 alumnus wording in later social posts not substituted for provider record.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "241710-17"
+    },
+    {
+      "employer": "School unidentified, Perth; Bali cultural exchange",
+      "role": "School-nominated cultural-exchange student",
+      "start_date": "1981",
+      "end_date": "1981",
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-16"
+      ],
+      "evidence_note": "Provider-hosted own recollection identifies a two-week school exchange to Bali in1981. Exact dates/school and any paid work absent; educational activity, not employment.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "241710-18"
     }
   ],
   "sources": [
@@ -492,6 +533,36 @@
       "locator": "Printed pp172,175 Note45 and45.2; p184 Shareholder information as at28May2009",
       "retrieved": "2026-10-04",
       "note": "Names Temasek as immediate/ultimate holding company, shows54.46% direct Singtel shareholding28May2009, and100% effective equity in SingTel Optus Pty Ltd and Optus Networks Pty Ltd in both2008/2009. Corporate control evidence, not individual payroll or hours."
+    },
+    {
+      "source_id": "src-16",
+      "url": "https://asialink.unimelb.edu.au/leaders/30-years/shaping-the-national-agenda/dean-smith/",
+      "publisher": "Asialink, University of Melbourne",
+      "title": "Senator Dean Smith (2004 Alumnus)",
+      "source_type": "employer",
+      "locator": "Asia curious opening and final biographical paragraph",
+      "retrieved": "2026-10-05",
+      "note": "Own interview identifies1981two-week school exchange; provider explicitly states leadership-program completion2004. No employment hours or study leave."
+    },
+    {
+      "source_id": "src-17",
+      "url": "https://assets.asialink.unimelb.edu.au/2024-08/31.29-National-Forum-2004.pdf",
+      "publisher": "Asialink, University of Melbourne / Australian National University",
+      "title": "2004 National Forum: Australia engagement with Asia",
+      "source_type": "employer",
+      "locator": "PDF/printed p47, Participants; December2004 publication",
+      "retrieved": "2026-10-05",
+      "note": "Lists Smith as IAG Manager, Government Relations and Policy; point-in-time title not exact role boundary."
+    },
+    {
+      "source_id": "src-18",
+      "url": "https://www.aph.gov.au/binaries/senate/committee/economics_ctte/completed_inquiries/2002-04/design/report/report.pdf",
+      "publisher": "Australian Senate Economics Committee",
+      "title": "Designs bills2002 report",
+      "source_type": "government_record",
+      "locator": "Appendix2:2May2003 witnesses in Canberra",
+      "retrieved": "2026-10-05",
+      "note": "Publicly indexed primary witness list names IAG Manager, Government Relations and Policy; full PDF403. No individual hours."
     }
   ],
   "research_notes": [
@@ -502,6 +573,7 @@
     "Pre-1996 and IAG/Optus individual working-time searches did not resolve remaining gaps. Asialink old URL 404, WA tabled-paper PDF 403, current LinkedIn profile 429 Too Many Requests (not retried); other public evidence allowed work to continue. Unrelated football coach full-time appointment explicitly discarded.",
     "Added Archives, ANU and Political Exchange Council governance separately. These appointments during Senate service do not extend pre-entry employment totals. Next leads: original Enhance appointment/release or accessible historical CV; reconciliation of newer profile excerpt, consultancy transition, all full-time/leave evidence and historical Optus control throughout tenure.",
     "Follow-up 2026-10-03: publicly indexed current LinkedIn text gives Smith & Duda Consulting as 2010–April 2012. The April 2012 end month is consistent with Smith's 2 May Senate appointment and is adopted. The 2010 start conflicts with the frozen official 2011–12 range, 7 July 2011 partnership registration and older public profile's 2011 start, so no earlier start is inferred. Enhance end month, full-time terms, leave and pre-1996 history remain unresolved.",
-    "Follow-up2026-10-04: Read Singtel2008/09 historical primary report via public mirror; extended ownership evidence into2008/2009 without inferring individual hours or payroll entity. Additional2007/2008 mirror URLs were reported not accessible via search tool, leaving intervening verification for official archive. Corrected newer-profile metadata to reflect already-recorded3October consultancy evidence. Pre1996/IAG/full-time searches returned namesake UK communications founder, US educator and football coach, not this senator. IPART2005 correspondence is corroboration within known Optus service, not a new boundary. Enhance exit, conflicting2010 consultancy start, leave and personal hours remain unresolved."
+    "Follow-up2026-10-04: Read Singtel2008/09 historical primary report via public mirror; extended ownership evidence into2008/2009 without inferring individual hours or payroll entity. Additional2007/2008 mirror URLs were reported not accessible via search tool, leaving intervening verification for official archive. Corrected newer-profile metadata to reflect already-recorded3October consultancy evidence. Pre1996/IAG/full-time searches returned namesake UK communications founder, US educator and football coach, not this senator. IPART2005 correspondence is corroboration within known Optus service, not a new boundary. Enhance exit, conflicting2010 consultancy start, leave and personal hours remain unresolved.",
+    "Follow-up 2026-10-05: Recovered attributable Asialink provider biography at a new URL: added2004leadership-program completion and1981school exchange, separated from employment. Contemporary2004forumPDF and2003Senate witness index show IAG government-relations/policy title variant; no fabricated extra job or transition day. Enhance2011 contact tables still prove observations, not an exact exit or new2010consultancy commencement. Singtel2007/08 public mirror attempts returned404; official archive exposes only dynamic landing metadata, no intervening ownership record retrieved. Historical ownership classification preserved, hours/leave/payroll subsidiary and pre1996career still unresolved. Full2003report403 and oversized Asialink history PDF400 are individual source gaps; accessible provider evidence used instead. Next leads: original corporate personnel/CV and accessible intervening ownership reports."
   ]
 }
