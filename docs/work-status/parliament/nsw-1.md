@@ -365,3 +365,6 @@ Batch check passes: 226 assigned exactly once across 13 batches; nsw-1 assignmen
 
 - 2026-10-04T21:39:22+10:00: Bragg materially enriched: named parliamentary adviser lead and original Treasury working-group duties.
 - Attempt146distinct,0new,87material,59nonmaterial,0complete; cycle163distinct,93material,70nonmaterial; day226distinct,124material,102nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: DYW Tony Burke. OUTCOME:ongoing; STOPPING REASON:none.
+
+- 2026-10-04T21:41:25+10:00: Burke source-specific access failures and qualified governance leads saved; no material claim promoted.
+- Attempt147distinct,0new,87material,60nonmaterial,0complete; cycle164distinct,93material,71nonmaterial; day226distinct,124material,102nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: 299145 Alison Byrnes. OUTCOME:ongoing; STOPPING REASON:none.
