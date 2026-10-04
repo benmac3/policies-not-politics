@@ -334,3 +334,6 @@ Batch check passes: 226 assigned exactly once across 13 batches; nsw-1 assignmen
 - Durable next follow-up: David Farley (62329), NSW-1; seek original AAco contract/annual-report evidence rather than exhausted broad biography queries.
 - OUTCOME: ongoing. STOPPING REASON: none; continue after remote verification. No successor requested; scheduler terminal status unavailable.
 - Validation: 20 member records parsed by scripts.build_careers.load_records; career_batches.py --check and --batch nsw-1 passed before this research; git diff --check passed. Only assigned member and checkpoint edited.
+
+- 2026-10-04T19:13:55+10:00: David Farley(62329) materially enriched: original2009 annual-report full-time appointment context and2010/2012/2013 contractual/payroll evidence recovered. FT basis changed unknown→full_time; exact contractual span1338days recorded without assuming zero unpaid breaks or changing annualisation methodology. Remains blocked; missing earlier hours and net-work/break details.
+- Attempt74distinct,0new,42material,32nonmaterial,0newlycomplete. Cycle91distinct,48material,43nonmaterial. Day226distinct,97material,129nonmaterial: Farley already counted as material today, so no day increment. Next NSW-2 lead assessment, Mehreen Faruqi250362. OUTCOME:ongoing; STOPPING REASON:none. No successor requested.

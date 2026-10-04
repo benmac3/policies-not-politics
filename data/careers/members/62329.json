@@ -11,7 +11,7 @@
     "public_full_time_years": null,
     "private_full_time_years": null,
     "calculation_status": "not_calculable",
-    "note": "A long private-sector agribusiness career is documented, but sources do not establish substantive full-time status and exact non-overlapping boundaries for the entire sequence. Executive titles are not treated as proof of full-time work. Governance, advocacy, campaigning and elected office are excluded; missing evidence is not zero."
+    "note": "Private agribusiness work is documented. AACo full-time appointment is now supported by explicit2009 employer evidence, with1338calendar days between exact contractual boundaries; net duration remains uncalculated pending unpaid-break/hour-change evidence. Earlier roles retain unknown hours and conflicting dates. Governance, advocacy, campaigns and elected office are excluded; missing evidence is not zero."
   },
   "career_spells": [
     {
@@ -114,8 +114,8 @@
       "start_date": "2009-12-01",
       "end_date": "2013-07-31",
       "date_precision": "day",
-      "employment_status": "unknown",
-      "fte_fraction": null,
+      "employment_status": "full_time",
+      "fte_fraction": 1.0,
       "category": "private_enterprise",
       "headline_sector": "private",
       "government_control_at_time": "private",
@@ -124,10 +124,14 @@
         "src-party",
         "src-abc",
         "src-aaco2011",
-        "src-aaco2014"
+        "src-aaco2014",
+        "src-aaco2009-oct4",
+        "src-aaco2010-oct4",
+        "src-aaco2012-oct4",
+        "src-aaco2013-oct4"
       ],
-      "evidence_note": "Company filings confirm appointment1December2009 and employment cessation31July2013, superseding earlier month-only start and30July news-announcement endpoint.2011 report describes an indefinite executive service agreement and group payroll subsidiaries A.A.Company Pty Ltd/Chef’s Partner Pty Ltd; individual payroll entity remains to verify.2014 report distinguishes notice/leave payments from active service. Salary and title do not establish hours or breaks.",
-      "counting_note": "Private employment and month/day boundaries are supported, but substantive full-time status is not directly evidenced."
+      "evidence_note": "Company filings establish appointment1December2009 and cessation31July2013. The2009 corporate-governance statement explicitly describes the permanent full-time CEO recruitment replacing Lonie’s temporary arrangement ending30November; read with Farley’s named appointment, this supports full-time appointment rather than inferring it from seniority. Later reports document the continuing indefinite service agreement. The2012 report names A.A.Company Pty Ltd as group employer and restricts Chef’s Partner Pty Ltd employment to that business until its2011 closure;2013 lists only A.A.Company Pty Ltd. Earlier individual payroll allocation/transfer remains unverified.2014 notice and accrued-leave payments do not extend service. Individual unpaid leave or changes in hours are not independently resolved.",
+      "counting_note": "Full-time appointment is now supported. Half-open contractual interval[2009-12-01,2013-07-31) spans1338calendar days. This is contractual elapsed time, not a verified net-work total: unpaid breaks/hours changes remain to check. No overlapping governance years added. Headline remains null; no new annualisation convention or assumed zero leave introduced."
     },
     {
       "spell_id": "62329-matrix",
@@ -663,6 +667,46 @@
       "locator": "PDF page20, 40 Years Honour Roll; fourth column, Directors and Chairmen, David Farley row",
       "note": "Downloaded publicly linked PDF and visually verified1991–1996 directly below David Farley under Directors and Chairmen. This is governance, not the adjacent staff list; exact days, pay and hours absent.",
       "retrieved": "2026-10-03"
+    },
+    {
+      "source_id": "src-aaco2009-oct4",
+      "url": "https://www.annualreports.com/HostedData/AnnualReportArchive/a/ASX_AAC_2009.pdf",
+      "publisher": "Australian Agricultural Company Limited",
+      "title": "Annual report2009",
+      "retrieved": "2026-10-04",
+      "source_type": "employer",
+      "locator": "Printedpp26,33–34,44 (PDF29,36–37,47,one-based)",
+      "note": "Named appointment and explicit permanent full-time CEO recruitment; contract and group employing subsidiaries."
+    },
+    {
+      "source_id": "src-aaco2010-oct4",
+      "url": "https://www.annualreports.com/HostedData/AnnualReportArchive/a/ASX_AAC_2010.pdf",
+      "publisher": "Australian Agricultural Company Limited",
+      "title": "Annual report2010",
+      "retrieved": "2026-10-04",
+      "source_type": "employer",
+      "locator": "Printedpp36–37 (PDF39–40,one-based)",
+      "note": "Continuing indefinite service agreement and named appointment; no individual leave history."
+    },
+    {
+      "source_id": "src-aaco2012-oct4",
+      "url": "https://www.annualreports.com/HostedData/AnnualReportArchive/a/ASX_AAC_2012.pdf",
+      "publisher": "Australian Agricultural Company Limited",
+      "title": "Annual report2012",
+      "retrieved": "2026-10-04",
+      "source_type": "employer",
+      "locator": "Printedpp46–47,59 (PDF49–50,62,one-based)",
+      "note": "A.A.Company group payroll; Chef’s Partner exception until2011 closure; continuing contract and term table."
+    },
+    {
+      "source_id": "src-aaco2013-oct4",
+      "url": "https://www.annualreports.com/HostedData/AnnualReportArchive/a/ASX_AAC_2013.pdf",
+      "publisher": "Australian Agricultural Company Limited",
+      "title": "Annual report2013",
+      "retrieved": "2026-10-04",
+      "source_type": "employer",
+      "locator": "Printedp30 (PDF34,one-based)",
+      "note": "A.A.Company Pty Ltd named sole group employer and Farley’s continuing service agreement."
     }
   ],
   "research_notes": [
@@ -677,7 +721,8 @@
     "Second follow-up2October2026 added omitted consulting activity, Namoi governance and short-course study from contemporary public professional biography. Consulting client is not necessarily payroll employer; no public-sector years attributed merely because a government or multilateral body commissioned work.",
     "Targeted AACo full-time/service-agreement queries returned remuneration and notice provisions, not personal contractual hours. Advertisements concern Farley’s staff; proposed abattoir full-time positions are workforce plans, not his status. Banking David Farley in World Bank/PPIAF2010 material is not identity-matched to agricultural executive and is excluded. Cotton Australia2011–12 anniversary-report mirror appears to contain historical board dates, but multi-column alignment and original report remain to verify; no date adopted. Further priority: original personal terms, Colly/Visypak transitions and consulting contracts.",
     "Follow-up3October2026 recovered the publicly linked2011/12 Cotton Australia anniversary PDF from its document mirror. Current organisation annual-report page links only2014/15 onward; the mirror reproduces the original designed report. Visual page20 inspection resolves the earlier multi-column ambiguity: Farley is in Directors and Chairmen with1991–1996, not staff. Refined existing Foundation/Cotton Australia governance term; remains excluded from full-time employment headlines and overlaps Colly work. No hours inferred. Visypak and personal AACo full-time queries yielded existing material only; retain appointment, leave and control questions. Next leads: original historical Colly/Visypak service documentation and personal AACo contract terms, not repeating the recovered honour-roll search.",
-    "Follow-up4October2026 located a public Marquis Who's Who-derived biographical profile for David Dickson Farley. Its1982–1983 farm-manager,1983–1984 general-manager and1984–1987 joint-managing-director observations materially refine the Colly internal sequence. Its managing-director-from1987 claim conflicts with the existing1988 and1990 sources, so no promotion year was silently replaced. Exact dates, legal employer, hours, leave, Colly cessation and Visypak transition remain unresolved. Matrix and exact Visypak searches otherwise repeated known evidence; namesakes were excluded."
+    "Follow-up4October2026 located a public Marquis Who's Who-derived biographical profile for David Dickson Farley. Its1982–1983 farm-manager,1983–1984 general-manager and1984–1987 joint-managing-director observations materially refine the Colly internal sequence. Its managing-director-from1987 claim conflicts with the existing1988 and1990 sources, so no promotion year was silently replaced. Exact dates, legal employer, hours, leave, Colly cessation and Visypak transition remain unresolved. Matrix and exact Visypak searches otherwise repeated known evidence; namesakes were excluded.",
+    "Follow-up2026-10-04: original2009 annual report recovered after contract searches had repeated later summaries. Explicit full-time recruitment context establishes appointment basis; this supersedes earlier absent-full-time statements for AACo only.2010/2012/2013 reports document contractual continuity and refine subsidiary payroll evidence. Leave/hours changes remain unresolved; whole-career research stays blocked. Staff vacancies and aggregate FTE figures are not personal evidence."
   ],
   "open_questions": [
     "What were the legal employing entities, exact dates, hours and leave for F.S. Falkiner and each Colly Cotton role?",
@@ -686,7 +731,7 @@
     "When did Farley first begin paid work through Matrix, and what were his hours, ownership, client engagements and AACo/board/campaign overlaps?",
     "Did Matrix work continue after election, and what leave or cessation arrangements applied?",
     "Were Waverley Mills and Speak Up 4 Water roles paid substantive employment or governance only?",
-    "What were AACo contractual hours, individual payroll entity and any unpaid leave/breaks during1December2009–31July2013?",
+    "Were there unpaid leave, breaks or changes to full-time hours during AACo1December2009–31July2013, and can the individual payroll entity before2011 be confirmed? Full-time appointment is now supported.",
     "When precisely did Visypak employment and earlier Matrix operational work occur, and how did they overlap Colly/Calcot/AACo?",
     "Can original Colly records resolve1988 versus1990 managing-director promotion and1982 versus1983 farm-manager commencement?",
     "What were term dates, remuneration and time commitment for the historical statutory/industry boards and advisory chair role?",
