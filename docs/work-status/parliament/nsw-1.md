@@ -377,3 +377,6 @@ Batch check passes: 226 assigned exactly once across 13 batches; nsw-1 assignmen
 
 - 2026-10-04T21:47:31+10:00: Clare primary-school alumni corroboration and unverified UTS qualification lead saved; employment boundaries unchanged.
 - Attempt150distinct,0new,87material,63nonmaterial,0complete; cycle167distinct,93material,74nonmaterial; day226distinct,124material,102nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: 248181 Sharon Claydon. OUTCOME:ongoing; STOPPING REASON:none.
+
+- 2026-10-04T21:48:52+10:00: Claydon materially enriched with original staff observation and separately identified campaign-director activity.
+- Attempt151distinct,0new,88material,63nonmaterial,0complete; cycle168distinct,94material,74nonmaterial; day226distinct,125material,101nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: 297964 Jessica Collins. OUTCOME:ongoing; STOPPING REASON:none.

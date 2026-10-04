@@ -136,9 +136,11 @@
         "src-snapshot",
         "src-secondary",
         "src-first-speech",
-        "src-abc2022"
+        "src-abc2022",
+        "src-grierson-valedictory2013",
+        "src-grierson-staff2010"
       ],
-      "evidence_note": "The frozen extract identifies electorate-officer work, and secondary material names Allan Morris and Sharon Grierson. Exact appointment sequence, dates, payroll entity, hours, leave and overlaps with party or council roles are unresolved.",
+      "evidence_note": "The frozen extract identifies electorate-officer work, and secondary material names Allan Morris and Sharon Grierson. Exact appointment sequence, dates, payroll entity, hours, leave and overlaps with party or council roles are unresolved. Grierson’s19June2013 valedictory independently names Claydon among former/present staff. It does not distinguish current from former staff or date her contract; no2013 cessation inferred.20October2010 speech names Claydon among Grierson’s staff; dated observation of this office association, not an appointment boundary or evidence of continuous service.",
       "counting_note": "Political staff employment is excluded under the codebook."
     },
     {
@@ -322,6 +324,25 @@
       "evidence_note": "2022 interview identifies community work through ANTaR with Queensland pastoralists around the Wik decision-making process. Employment versus volunteering, exact dates, hours and legal employing entity remain unknown. Do not treat1996 court decision as appointment date or duplicate fieldwork time.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "248181-antar"
+    },
+    {
+      "spell_id": "248181-grierson-campaign-director",
+      "employer": "Australian Labor Party / Sharon Grierson Newcastle campaign (legal entity unresolved)",
+      "role": "Campaign director",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "party_organisation",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-grierson-valedictory2013"
+      ],
+      "evidence_note": "Grierson’s19June2013 valedictory names Claydon as one of her campaign directors over time. Campaign year(s), pay, hours and overlap with parliamentary staff/council roles are unstated. The acknowledgement date is not the date of campaign work; do not merge with Claydon’s own2012–2013 candidature.",
+      "counting_note": "Party/campaign work excluded. No separate payroll or additional elapsed employment time inferred."
     }
   ],
   "sources": [
@@ -464,6 +485,26 @@
       "note": "Council includes House-elected representative; listed appointment term 28 July 2025–27 July 2028. Future scheduled end is not realised cessation; nested with elected service.",
       "retrieved": "2026-10-02",
       "source_id": "src-nla-oct2"
+    },
+    {
+      "source_id": "src-grierson-valedictory2013",
+      "url": "https://www.openaustralia.org.au/debates/?id=2013-06-19.28.2",
+      "publisher": "Australian Parliament / Sharon Grierson; reproduced by OpenAustralia",
+      "title": "Sharon Grierson valedictory,19June2013",
+      "retrieved": "2026-10-04",
+      "source_type": "government_record",
+      "locator": "12:11pm speech: former/present staff acknowledgement and campaign-director thanks",
+      "note": "Names Claydon among former/present staff and previous campaign directors; neither list dates her appointment, cessation or pay."
+    },
+    {
+      "source_id": "src-grierson-staff2010",
+      "url": "https://www.openaustralia.org.au/debate/?id=2010-10-20.114.1",
+      "publisher": "Australian Parliament / Sharon Grierson; reproduced by OpenAustralia",
+      "title": "Sharon Grierson Address-in-Reply,20October2010",
+      "retrieved": "2026-10-04",
+      "source_type": "government_record",
+      "locator": "5:57pm speech: staff thanks after August election",
+      "note": "Names Claydon among staff. Donovan Harris, not Claydon, is named as2010 campaign director; his leave evidence cannot be transferred to her."
     }
   ],
   "research_notes": [
@@ -478,7 +519,8 @@
     "The2022 interview names ANTaR for later community advocacy with Queensland pastoralists; added separately from unidentified Bunuba fieldwork employers. Paid status not established.",
     "Second follow-up 2 October 2026: materially refined EMILY’s List co-convenor start to 2017 using museum oral-history description and contemporaneous event programme; added dated NLA council representative duties within elected service. Neither governance activity establishes substantive full-time employment.",
     "Targeted South Coast disability-provider, Morris/Grierson employment and Bunuba appointment searches did not identify legal payroll entities or new personal dates/hours. Public thesis acknowledgements show familiarity, not employment. Morris/Grierson parliamentary terms cannot be assigned as staff-contract bounds. Restricted cultural material and earlier paywalled profile not accessed. Remaining priority is employer/commission identification and individual appointment records.",
-    "Third follow-up 2026-10-04: exact-name searches for the South Coast disability provider, group-home programme, Allan Morris staff service and Bunuba employment again returned only the existing secondary biography, parliamentary speeches and unattributed acknowledgements. A 2026 group-home speech concerns national policy and is not evidence about her former employer. No legal entity, contract, hours or boundary was established; no material enrichment counted. Restricted cultural records remain outside scope and the nationwide queue advances pending an original appointment, provider or commissioning record."
+    "Third follow-up 2026-10-04: exact-name searches for the South Coast disability provider, group-home programme, Allan Morris staff service and Bunuba employment again returned only the existing secondary biography, parliamentary speeches and unattributed acknowledgements. A 2026 group-home speech concerns national policy and is not evidence about her former employer. No legal entity, contract, hours or boundary was established; no material enrichment counted. Restricted cultural records remain outside scope and the nationwide queue advances pending an original appointment, provider or commissioning record.",
+    "Follow-up2026-10-04: Original Grierson2010 and2013 parliamentary statements now establish a dated staff association and omitted past campaign-director activity. Keep campaign years unknown:2010 expressly names Donovan Harris as director, whose annual leave is not Claydon’s. Morris term bounds, restricted Bunuba cultural material, provider identity and all hours remain unresolved. No new station/disability-employer personnel evidence surfaced; queue original appointments or commissioning records."
   ],
   "open_questions": [
     "What were the exact University of Sydney enrolment, withdrawal, honours and PhD dates and study loads?",
