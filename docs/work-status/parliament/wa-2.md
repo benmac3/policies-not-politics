@@ -173,3 +173,6 @@
 
 - Ellie Whiteaker: material May2018 party-role start refinement; ordinary Subway work remains undated/hours unknown.
 - Attempt43distinct,0new,25material,18nonmaterial,0complete; cycle60distinct,31material,29nonmaterial; day197distinct,81material,116nonmaterial; all0new/complete. Next: Tyron Whitten317026. OUTCOME:ongoing; STOPPING REASON:none.
+
+- Tyron Whitten: nonmaterial follow-up; pre2001 payroll, oyster/construction overlap and personal work hours unresolved; original register403.
+- Attempt44distinct,0new,25material,19nonmaterial,0complete; cycle61distinct,31material,30nonmaterial; day198distinct,81material,117nonmaterial; all0new/complete. Next: Rick Wilson198084. OUTCOME:ongoing; STOPPING REASON:none.
