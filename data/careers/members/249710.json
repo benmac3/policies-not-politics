@@ -119,7 +119,7 @@
       "role": "Member for Bendigo",
       "start_date": "2013-09-07",
       "end_date": null,
-      "date_precision": "unknown",
+      "date_precision": "day",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -191,6 +191,25 @@
       "evidence_note": "Primary organisation lists ambassador; no appointment date, pay or hours supplied. Advocacy not assumed paid employment.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "249710-endo"
+    },
+    {
+      "spell_id": "249710-study",
+      "employer": "University of Queensland",
+      "role": "Bachelor of Arts studies",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-1"
+      ],
+      "evidence_note": "Official biography lists BA and university without enrolment/completion dates. Student-union office2002 and casual university-era bar work are separate; no course interval inferred.",
+      "counting_note": "Study excluded from public/private full-time years."
     }
   ],
   "sources": [
@@ -199,10 +218,10 @@
       "url": "https://www.aph.gov.au/senators_and_members/Parliamentarian?MPID=249710",
       "publisher": "Australian Parliament",
       "title": "Lisa Chesters biography",
-      "retrieved": "2026-09-12",
+      "retrieved": "2026-10-04",
       "source_type": "official_biography",
-      "locator": "Career/biography or relevant appointment section",
-      "note": "Student union secretary 2002, national women's officer 2003, United Voice 2003–2013."
+      "locator": "Qualifications and occupation before entering Federal Parliament, indexed official biography",
+      "note": "Student union secretary 2002, national women's officer 2003, United Voice 2003–2013. Official indexed biography also lists BA, University of Queensland. Direct biography returned restricted URL; qualification used from visible official index."
     },
     {
       "source_id": "src-2",
@@ -293,6 +312,7 @@
     "Targeted early-job/Hansard/own biography and employer-profile searches:2013 first speech and some2025 proceedings contain other members’ careers, which were not attributed to Chesters. Endometriosis ambassador image alt text belongs to another person and was ignored.",
     "Next evidence: names/dates of family businesses and bar, nature of family remuneration, actual weekly hours, university dates/overlaps and dismissal date. Casual employment and union work do not become full-time public/private years. No gated-profile collection or outreach.",
     "Third follow-up3October2026: a2014 first-person parliamentary speech locates the parents' second-hand furniture business on the Sunshine Coast and describes her working there for many childhood summers. This materially clarifies employer context and repeated seasonal work but supplies no legal name, calendar years, ordinary wage or hours; it is not converted to continuous employment. Searches did not identify the holiday-hire company or university bar. No headline totals changed.",
-    "Fourth follow-up4October2026: a2015 first-person House speech resolves the family furniture business name as CJ Discount Furniture and states that it had one award-paid employee while her parents did most work. The paid employee is not identified as Chesters; her separate2025 account describes pocket money for family-business tasks. The source materially improves employer identity but does not justify treating her as the award-paid worker, calculating a continuous seasonal interval or inferring hours. Holiday-hire business and university bar names/dates remain unresolved."
+    "Fourth follow-up4October2026: a2015 first-person House speech resolves the family furniture business name as CJ Discount Furniture and states that it had one award-paid employee while her parents did most work. The paid employee is not identified as Chesters; her separate2025 account describes pocket money for family-business tasks. The source materially improves employer identity but does not justify treating her as the award-paid worker, calculating a continuous seasonal interval or inferring hours. Holiday-hire business and university bar names/dates remain unresolved.",
+    "Follow-up2026-10-04: Added previously unrecorded UQ BA study from official parliamentary biography index. No study dates recovered. Exact-name bar, CJ Discount Furniture and holiday-hire searches returned known speeches only; UQ student-union operation of a campus bar does not prove it was her bar employer. Full-time disability/early-learning hits concern constituents or represented workers, not her personal employment. APH direct biography restricted; indexed qualification available. Next business/legal payroll identity, actual paid family role and casual bar dates/hours."
   ]
 }
