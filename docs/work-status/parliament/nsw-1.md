@@ -344,3 +344,6 @@ Batch check passes: 226 assigned exactly once across 13 batches; nsw-1 assignmen
 
 - 2026-10-04T21:23:05+10:00: Anthony Albanese: added independently sourced South Sydney governance and separate music activity; recovered full school-job source.
 - Attempt139distinct,0new,83material,56nonmaterial,0complete; cycle156distinct,89material,67nonmaterial; day226distinct,121material,105nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: 315618 Ash Ambihaipahar; seek historical disability-provider employment/annual reports and union secondment evidence.. OUTCOME:ongoing; STOPPING REASON:none.
+
+- 2026-10-04T21:25:55+10:00: Ash Ambihaipahar: original charity reports refine volunteer-board chronology; legal-service dates and hours unresolved.
+- Attempt140distinct,0new,84material,56nonmaterial,0complete; cycle157distinct,90material,67nonmaterial; day226distinct,121material,105nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: 16913 Tim Ayres; seek original public education/rural labour and AMWUappointment evidence.. OUTCOME:ongoing; STOPPING REASON:none.

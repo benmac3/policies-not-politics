@@ -243,9 +243,11 @@
       "government_control_at_time": "private",
       "counting_status": "excluded",
       "source_ids": [
-        "src-emily2023"
+        "src-emily2023",
+        "src-stgct-ar2021",
+        "src-stgct-ar2022"
       ],
-      "evidence_note": "Candidate biography expressly describes this as volunteering; exact governance term unavailable.",
+      "evidence_note": "Candidate biography expressly describes this as volunteering; exact governance term unavailable. Original2021employer report welcomes her as new board member and includes own expressly volunteer description; original2022report p38 says nearly a year since joining. These establish earlier observed membership/relative tenure, but report compilation versus reference-year timing prevents exact appointment boundary. No continuous salary or FTE inferred.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "315618-sgct"
     },
@@ -331,7 +333,8 @@
     "Second follow-up2026-10-02: targeted historical role/profile index supplies previously absent UniversityofSydneyJanuary2008–January2014employment boundaries. Historic2013annualreport documents nonprofit/Senate institutional structure. Degree completion is not an assumed employment start; observedprofilemonths independently supportdates.",
     "Union/law-firm targeted searches supplied no new personal boundaries or hours. Do not infer law teaching from poorly punctuated secondary candidate summary; primary interview describes anatomy teaching and separate law degree. Next leads:2008–14schoolstaff directories/contracts, ANMFandETUlegalstaff transitions, AHA/HospitalityLegalappointments, Vinniescampaignleave.",
     "Further2October pass after nationwide follow-up: targeted2014/2019/2020 employer queries produced public ETU-pairedJanuary2014–December2020 profile interval, corroborated in employer identity by existing2018 FWC correspondence. No direct profile retry. New Vinnies Winter2025 magazine p24 calls her Metropolitan Regional Director while reporting election, but does not establish employment continued after election, departure date or campaign leave. ANMF/AHA/Hospitality Legal queries still no person-specific boundaries. Next seek union payroll/title transitions and leave records, and legal-firm appointment notice; do not derive ANMF dates from remaining gaps.",
-    "Follow-up 2026-10-04: Fair Work Commission-filed correspondence establishes AHA NSW Senior Lawyer activity on 15 August 2022. Vinnies' April 2025 Broken Bay newsletter says an acting regional director had covered the role since February while Ambihaipahar was on leave, supplying the first primary campaign-leave evidence. Neither observation establishes appointment/cessation, hours, whether leave was paid or whether AHA and Hospitality Legal were separate jobs."
+    "Follow-up 2026-10-04: Fair Work Commission-filed correspondence establishes AHA NSW Senior Lawyer activity on 15 August 2022. Vinnies' April 2025 Broken Bay newsletter says an acting regional director had covered the role since February while Ambihaipahar was on leave, supplying the first primary campaign-leave evidence. Neither observation establishes appointment/cessation, hours, whether leave was paid or whether AHA and Hospitality Legal were separate jobs.",
+    "Follow-up2026-10-04: Recovered original StGeorgeCommunityTransport2021 and2022 reports, establishing earlier primary volunteer-board membership and own nearly-year tenure statement; reporting/compilation dates not converted into appointment days. ANMF/NSWNMAand2021HospitalityLegal searches found no personalemployment dates. FWC2019CEPUappearance only corroborates existingunionrole; sourcewebUnicodeerror and ordinaryHTTP403, no further retry. No substantiveFTpersonal evidence or unionsecondment/payroll proof; remainingunknowns retained."
   ],
   "research_status": "blocked",
   "snapshot_chamber": "Member",
@@ -498,6 +501,26 @@
       "note": "Employer newsletter says Louis Hearnden had acted since February while Ambihaipahar was on leave. It does not give an exact leave day, pay status, return or cessation.",
       "retrieved": "2026-10-04",
       "source_id": "src-vinnies-leave2025"
+    },
+    {
+      "source_id": "src-stgct-ar2021",
+      "url": "https://www.stgct.org.au/wp-content/uploads/Annual-Report-2021-SINGLES-LORES.pdf",
+      "publisher": "St George Community Transport",
+      "title": "Annual report2021",
+      "source_type": "employer",
+      "locator": "Printed/PDF pp8,13",
+      "note": "Original report downloaded and relevant text inspected. Board member’s own account expressly calls role volunteer; CEO welcomes her as new board member. Earlier primary observation than2023candidate biography. Reporting label not assigned as exact appointment day.",
+      "retrieved": "2026-10-04"
+    },
+    {
+      "source_id": "src-stgct-ar2022",
+      "url": "https://www.stgct.org.au/wp-content/uploads/Annual-Report-2022_v1a-1.pdf",
+      "publisher": "St George Community Transport",
+      "title": "Annual report2022",
+      "source_type": "employer",
+      "locator": "Printed/PDF pp18,21,38",
+      "note": "Original report downloaded and relevant text inspected; p38 visually checked. Own statement says nearly a year since joining volunteer board. Chair and CEO also welcome her among new members; report compiled after financial year. Relative tenure is not back-calculated to a fabricated month/day.",
+      "retrieved": "2026-10-04"
     }
   ]
 }
