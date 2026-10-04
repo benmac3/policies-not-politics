@@ -216,3 +216,7 @@ Batch coverage, record fields, dates, enums, source references, build_careers.lo
 - Sam Rae: nonmaterial follow-up — the original 11 September 2019 PwC appointment story was located via syndication, and a 18 September report forecast his Victorian Labor departure the following month. The prospective wording is not converted into an October start; no actual commencement/cessation day, hours, leave, employer confirmation or post-PwC role surfaced. Early employer identities remain unresolved.
 - Current continuation: 6 distinct records, 0 new, 2 materially enriched, 4 nonmaterial follow-ups and 0 newly complete. Cycle/day cumulative: 122 distinct, 0 new, 49 materially enriched, 73 nonmaterial follow-ups and 0 newly complete.
 - Durable next cursor: Joanne Ryan (249224).
+
+- Joanne Ryan: nonmaterial follow-up — exact-name Laverton High/Galvin Park searches returned only the existing first speech and derivative summaries. No annual report, departmental appointment list, payroll, hours or leave evidence surfaced; namesakes were excluded. Education personnel archives and school annual reports remain decisive.
+- Current continuation: 7 distinct records, 0 new, 2 materially enriched, 5 nonmaterial follow-ups and 0 newly complete. Cycle/day cumulative: 123 distinct, 0 new, 49 materially enriched, 74 nonmaterial follow-ups and 0 newly complete.
+- Durable next cursor: Monique Ryan (297660).
