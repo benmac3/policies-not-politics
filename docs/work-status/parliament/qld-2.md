@@ -249,3 +249,6 @@ Batch coverage, record fields, dates, enums, source references, build_careers.lo
 
 - Andrew Willcox286535 materially enriched with named farm and1996–2010stage.
 - Attempt17distinct,0new,8material,9nonmaterial,0complete; cycle34distinct,14material,20nonmaterial; day171distinct,64material,107nonmaterial; all0new/complete. Next: TerryYoung201906. OUTCOME:ongoing; STOPPING REASON:none.
+
+- Terry Young201906: undated ownership corroboration and rejected adjacent-date inference saved; no material enrichment or calculated years.
+- Attempt18distinct,0new,8material,10nonmaterial,0complete; cycle35distinct,14material,21nonmaterial; day172distinct,64material,108nonmaterial; all0new/complete. Next: wa-1 follow-up cursor per its checkpoint. OUTCOME:ongoing; STOPPING REASON:none.
