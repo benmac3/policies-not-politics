@@ -286,3 +286,6 @@ Batch coverage, record fields, dates, enums, source references, build_careers.lo
 
 - 2026-10-04T22:54:23+10:00: Khalil: primary degree-year evidence and study history recovered; appointment-announcement caveat preserved.
 - Attempt177distinct,0new,113material,64nonmaterial,0complete; cycle194distinct,119material,75nonmaterial; day226distinct,136material,90nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Catherine King00AMR. OUTCOME:ongoing; STOPPING REASON:none.
+
+- 2026-10-04T22:56:16+10:00: King: verified qualifications separated from employment; inaccessible law-date posts remain leads.
+- Attempt178distinct,0new,114material,64nonmaterial,0complete; cycle195distinct,120material,75nonmaterial; day226distinct,137material,89nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Richard MarlesHWQ. OUTCOME:ongoing; STOPPING REASON:none.

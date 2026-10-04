@@ -204,7 +204,7 @@
       "role": "Member for Ballarat",
       "start_date": "2001-11-10",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "day",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -216,6 +216,65 @@
       ],
       "evidence_note": "Federal elected service, parliamentary secretary and ministerial appointments excluded.",
       "counting_note": "Excluded from the two employment headlines under the codebook."
+    },
+    {
+      "spell_id": "00AMR-socialwork",
+      "employer": "Phillip Institute of Technology",
+      "role": "Bachelor-level social-work qualification",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-2",
+        "oct4-about"
+      ],
+      "evidence_note": "Ministerial biography uses BA(SocWk); own page calls a degree in social work. Institution recorded, dates absent.",
+      "counting_note": "Study excluded; no employment boundaries or hours inferred."
+    },
+    {
+      "spell_id": "00AMR-publicpolicy",
+      "employer": "Australian National University",
+      "role": "Master-level public-policy qualification",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-2",
+        "oct4-about"
+      ],
+      "evidence_note": "Ministerial biography uses MA(PubPolcy); own page calls a Masters in Public Policy. Attendance/award dates unknown.",
+      "counting_note": "Study excluded; no employment boundaries or hours inferred."
+    },
+    {
+      "spell_id": "00AMR-law",
+      "employer": "Law-study institution not independently verified",
+      "role": "Bachelor of Law",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "oct4-about"
+      ],
+      "evidence_note": "Own biography confirms qualification; derivative Deakin2018/admission2021 descriptions remain leads because original posts could not be read. No legal employment inferred.",
+      "counting_note": "Study excluded; no employment boundaries or hours inferred."
     }
   ],
   "sources": [
@@ -338,6 +397,16 @@
       "note": "Dates the Partnership's establishment to late1996 and describes its intergovernmental membership. It does not identify King's appointment, payroll employer or hours.",
       "retrieved": "2026-10-03",
       "source_id": "oct3-nphp"
+    },
+    {
+      "source_id": "oct4-about",
+      "url": "https://www.catherineking.com.au/about/",
+      "publisher": "Catherine King MP",
+      "title": "About Catherine",
+      "source_type": "official_biography",
+      "retrieved": "2026-10-04",
+      "locator": "Paragraph beginning Catherine holds a degree",
+      "note": "Own biography confirms social-work, law and public-policy degrees. It gives no dates or law institution."
     }
   ],
   "research_notes": [
@@ -349,6 +418,7 @@
     "Later law degree and admission are study/qualification leads, not proof of a legal job while in parliament. No gaps are filled from degrees, elections or title seniority. NPHP and departmental roles must be reconciled for overlap before any calculation; unknown full-time years remain null.",
     "2026-10-02 follow-up: searched Catherine/Cathy King and NPHP, historical 1996–1998 health roles, Birmingham 1991 and Theophanous. New leads: 15 May 1997 Commonwealth Gazette contact-officer notice (src-10), and Vivian Lin/Cathy King chapter in Health Reform in Australia and New Zealand (2000), pp251–263, identified by OUP review (src-11). Neither proves personal employment boundaries; no dates or hours changed. Trove full notice/print and AustLII About the House 2002/17 retrieval failed; The Age 7 September 2004 again returned non-retryable Internal Error. Medical librarian/overseas namesakes excluded.",
     "Follow-up2026-10-03: repeated Catherine/Cathy King, NPHP, Population Health Division, KPMG and Birmingham searches found no reliable personal appointment boundary, employer identity or hours. Federal Health material corrects the Partnership's establishment context to late1996, but does not date King's role. The Age original and Canberra Times career profile remained inaccessible through non-retryable source errors; no bypass attempted. Next targeted avenues remain the full Gazette notice, original chapter contributor affiliation, KPMG personnel material and original Birmingham report. This pass is nonmaterial, not completion.",
-    "2026-10-04 follow-up: repeated exact-name searches for the National Public Health Partnership, Population Health Division, KPMG Consulting and the reported 1991 Birmingham work. Official APH and ministerial pages still supply only the existing year-level chronology. Search indexes again surfaced the six-month Birmingham claim only through Wikipedia-derived pages citing the inaccessible 7 September 2004 Age article; no employer, pay, hours, leave or exact dates were available, so it remains a lead rather than a career spell. The full 15 May 1997 Gazette notice, original 2000 chapter contributor affiliation and personnel records remain the highest-value unresolved avenues. Namesake medical, dental and overseas results were excluded."
+    "2026-10-04 follow-up: repeated exact-name searches for the National Public Health Partnership, Population Health Division, KPMG Consulting and the reported 1991 Birmingham work. Official APH and ministerial pages still supply only the existing year-level chronology. Search indexes again surfaced the six-month Birmingham claim only through Wikipedia-derived pages citing the inaccessible 7 September 2004 Age article; no employer, pay, hours, leave or exact dates were available, so it remains a lead rather than a career spell. The full 15 May 1997 Gazette notice, original 2000 chapter contributor affiliation and personnel records remain the highest-value unresolved avenues. Namesake medical, dental and overseas results were excluded.",
+    "Follow-up2026-10-04: Added three previously omitted study qualifications, using official ministerial and own biographies. Social-work/public-policy institutions are verified; law institution, attendance and award dates retained unknown. Original claimed degree/admission posts: Twitter https://twitter.com/CatherineKingMP/status/966248174531657728 returned403 Forbidden; Facebook https://www.facebook.com/photo.php?fbid=434950464671551&set=pb.100044698021801.-2207520000.&type=3 returned Online fetch throttled. No bypass/retry of those controls. Do not convert derivative dates or part-time-study wording into verified boundaries/hours. Cathy King/1997 Partnership search supplied namesakes and derivative biographies, not a personnel record. NPHP payroll/overlap,1994–97 gap, Birmingham and paid-employment hours remain unresolved."
   ]
 }
