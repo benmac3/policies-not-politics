@@ -224,3 +224,7 @@ Batch coverage, record fields, dates, enums, source references, build_careers.lo
 - Monique Ryan: nonmaterial follow-up — targeted full-time/appointment searches found only the existing February 2012 RCH snapshot, publication affiliations and a fellowship position reporting to her. A contact aggregator's month-level profile data was rejected because the underlying self-profile could not be independently retrieved and it falsely implied ongoing RCH employment. Personnel/appointment records remain decisive.
 - Current continuation: 8 distinct records, 0 new, 2 materially enriched, 6 nonmaterial follow-ups and 0 newly complete. Cycle/day cumulative: 124 distinct, 0 new, 49 materially enriched, 75 nonmaterial follow-ups and 0 newly complete.
 - Durable next cursor: Jana Stewart (299352).
+
+- Jana Stewart: nonmaterial follow-up — targeted 2021–22 bridge and DJCS searches returned only APH/first-speech chronology ending public-service work in 2021 and later candidacy/election reporting. Candidacy was not treated as paid employment; no exact departure, hours, leave, bridge employer or retailer identity surfaced. Appointment/payroll records remain decisive.
+- Current continuation: 9 distinct records, 0 new, 2 materially enriched, 7 nonmaterial follow-ups and 0 newly complete. Cycle/day cumulative: 125 distinct, 0 new, 49 materially enriched, 76 nonmaterial follow-ups and 0 newly complete.
+- Durable next cursor: Dan Tehan (210911).
