@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/13050",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-04",
+  "last_reviewed": "2026-10-05",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -210,7 +210,7 @@
       "role": "Member of the House of Representatives for Cowan",
       "start_date": "2016-07-02",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "day",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -226,7 +226,7 @@
     },
     {
       "employer": "Adult Migrant English Program provider, employer unresolved",
-      "role": "English-language teacher; reported casual work",
+      "role": "English-language/TESOL teacher specialising in low/no literacy clients; reported casual work",
       "start_date": null,
       "end_date": null,
       "date_precision": "unknown",
@@ -238,9 +238,10 @@
       "counting_status": "insufficient_evidence",
       "source_ids": [
         "src-12",
-        "src-13"
+        "src-13",
+        "src-25"
       ],
-      "evidence_note": "First-person AMEP teaching confirmed; SBS describes casual teaching before full-time policy work. Provider and dates unknown; government funding does not identify employer control or hours.",
+      "evidence_note": "First-person AMEP teaching confirmed; SBS describes casual teaching before full-time policy work. Provider and dates unknown; government funding does not identify employer control or hours. First-person22May2017speech specifies low/no literacy-client specialisation and TESOL training; several years of experience not converted to dated service.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "13050-11"
     },
@@ -360,6 +361,86 @@
       "evidence_note": "Aly's signed 45th Parliament interests statement, lodged 16 September 2016 and declaring interests as at election day, lists Adjunct Associate Professor at Curtin. The document does not give appointment dates, pay or workload.",
       "counting_note": "An adjunct affiliation without evidence of substantive paid employment or hours is excluded from headline employment years.",
       "spell_id": "13050-17"
+    },
+    {
+      "spell_id": "13050-18",
+      "employer": "American University in Cairo",
+      "role": "Bachelor of Arts qualification",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-23"
+      ],
+      "evidence_note": "Qualification identified by official biography; university supplies completion year where adopted. Attendance start/mode, individual hours and any employment leave unknown; completion is not a payroll transition. Bachelor year remains unadopted pending original institution/member documentation.",
+      "counting_note": "Study/qualification excluded; no employment-duration or full-time inference."
+    },
+    {
+      "spell_id": "13050-19",
+      "employer": "Edith Cowan University",
+      "role": "Graduate Diploma of Arts (Language Studies)",
+      "start_date": null,
+      "end_date": "1994",
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-23",
+        "src-24"
+      ],
+      "evidence_note": "Qualification identified by official biography; university supplies completion year where adopted. Attendance start/mode, individual hours and any employment leave unknown; completion is not a payroll transition. Bachelor year remains unadopted pending original institution/member documentation.",
+      "counting_note": "Study/qualification excluded; no employment-duration or full-time inference."
+    },
+    {
+      "spell_id": "13050-20",
+      "employer": "Edith Cowan University",
+      "role": "Master of Education, TESOL specialisation",
+      "start_date": null,
+      "end_date": "1996",
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-23",
+        "src-24",
+        "src-25"
+      ],
+      "evidence_note": "Qualification identified by official biography; university supplies completion year where adopted. Attendance start/mode, individual hours and any employment leave unknown; completion is not a payroll transition. Bachelor year remains unadopted pending original institution/member documentation.",
+      "counting_note": "Study/qualification excluded; no employment-duration or full-time inference."
+    },
+    {
+      "spell_id": "13050-21",
+      "employer": "Edith Cowan University",
+      "role": "Doctor of Philosophy",
+      "start_date": null,
+      "end_date": "2008",
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-23",
+        "src-24"
+      ],
+      "evidence_note": "Qualification identified by official biography; university supplies completion year where adopted. Attendance start/mode, individual hours and any employment leave unknown; completion is not a payroll transition. Bachelor year remains unadopted pending original institution/member documentation.",
+      "counting_note": "Study/qualification excluded; no employment-duration or full-time inference."
     }
   ],
   "sources": [
@@ -582,6 +663,36 @@
       "source_type": "government_record",
       "locator": "Culturally and Linguistically Diverse Family and Domestic Violence Advisory Group membership and terms of reference;2006–07 printedpage140",
       "note": "DirectPDF open returned403; publicly indexed primary report text identifies Anne Aly representing Office of Multicultural Interests. Committee establishment2005 is not her personal appointment date; report period does not establish individual start/end or paid additional work."
+    },
+    {
+      "source_id": "src-23",
+      "url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=13050",
+      "publisher": "Parliament of Australia",
+      "title": "Anne Aly biography, qualifications",
+      "retrieved": "2026-10-05",
+      "source_type": "official_biography",
+      "locator": "Indexed Qualifications and occupation section",
+      "note": "Lists BA American University of Cairo, PGDA/MEd/PhD Edith Cowan University, without calendar award dates."
+    },
+    {
+      "source_id": "src-24",
+      "url": "https://www.ecu.edu.au/newsroom/articles/campus-and-community/ecu-alumni-rise-to-national-leadership-in-federal-government",
+      "publisher": "Edith Cowan University",
+      "title": "ECU Alumni rise to national leadership in Federal Government,16 May2025",
+      "retrieved": "2026-10-05",
+      "source_type": "employer_record",
+      "locator": "Hon Dr Anne Aly MP section, completion paragraph",
+      "note": "University itself supplies graduate diploma1994, MEd1996 and PhD2008. Completion years not study starts or employment endpoints."
+    },
+    {
+      "source_id": "src-25",
+      "url": "https://www.openaustralia.org.au/debate/?id=2017-05-22.211.1",
+      "publisher": "House of Representatives Hansard / OpenAustralia",
+      "title": "Anne Aly, Adult Migrant English Program,22 May2017",
+      "retrieved": "2026-10-05",
+      "source_type": "first_person",
+      "locator": "5:04pm, first and third substantive paragraphs",
+      "note": "First-person AMEP teaching specialisation in clients with low/no literacy, and MEd TESOL; does not identify provider, contract dates or individual workload."
     }
   ],
   "research_notes": [
@@ -595,6 +706,7 @@
     "Remaining: identify AMEP/TAFE/RTO employers and role overlap; find first full-time policy appointment and later status changes/leave; EOC 2008 cessation, OMI 2002 versus secondary 2003 commencement; ECU/Curtin precise transfers; own consultancy from 2011 versus Phoenix association; 2016 campaign leave.",
     "Recovered APH 403/robots and member speech Internal Error handled with visible official index and accessible first-person transcripts. No access bypass. Source timing and date conflicts retained.",
     "Follow-up 2026-10-03: official interests evidence resolves PaVE chair cessation to 6 August 2016 and confirms separate post-election ECU/Curtin adjunct affiliations. Inside Story reports the substantive ECU professorship was relinquished before nomination, reconciling it with those adjunct titles; the exact resignation letter date, campaign leave, pay and workload remain unavailable.",
-    "Follow-up2026-10-04: Historical government annual-report searches produced OMI advisory-group representation in2005–06 and2006–07; added specific duties and primary corroboration within the existing OMI spell. Group formation2005 is not an individual start date. Direct WA ParliamentPDF403; indexed membership/terms retained. NAATI review index corroborates OMI senior-policy title but undated interview not used as boundary. AMEP/TAFE provider queries mostly returned ministerial responsibilities and colleagues, not former payroll employers. Hours, exact transfers, university overlap and consulting entity remain unresolved."
+    "Follow-up2026-10-04: Historical government annual-report searches produced OMI advisory-group representation in2005–06 and2006–07; added specific duties and primary corroboration within the existing OMI spell. Group formation2005 is not an individual start date. Direct WA ParliamentPDF403; indexed membership/terms retained. NAATI review index corroborates OMI senior-policy title but undated interview not used as boundary. AMEP/TAFE provider queries mostly returned ministerial responsibilities and colleagues, not former payroll employers. Hours, exact transfers, university overlap and consulting entity remain unresolved.",
+    "2026-10-05 follow-up: original22May2017AMEP speech specifies TESOL teaching specialisation with low/no literacy clients. Added omitted BA qualification (award date unknown), ECU diploma completion1994, MEd TESOL1996 and PhD2008 using official biography and16May2025 university alumni publication. Study timing does not identify teaching/government payroll boundaries or prove hours/leave; no continuous interval inferred. Teaching-provider and consultant-entity searches found no original appointment records; a cleaner/factory/cook search snippet belonged to Joan Child, not Aly, and is rejected. Bachelor1990 secondary/parliamentary colleague report is a lead, not original AUC conferral; study starts and workload overlap remain unknown. Queued same ECU publication Cook section for her assignment: Bachelor Nursing1991, masters2007 and PhD candidate as at May2025; not counted as processed Cook work. WA-1 fresh headff631d1303ebea931aa6f47df04f217e60aa5d6b and isolated checkout checked; frozen226member coverage and14member assignment validations passed."
   ]
 }
