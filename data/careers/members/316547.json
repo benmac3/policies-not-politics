@@ -6,7 +6,7 @@
   "snapshot_party": "Liberal Party of Australia",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/316547",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-03",
+  "last_reviewed": "2026-10-04",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -104,9 +104,10 @@
         "src-8",
         "src-16",
         "src-12",
-        "src-18"
+        "src-18",
+        "src-19"
       ],
-      "evidence_note": "The official biography says only 'Solicitor'. Rebello and party profiles identify King & Wood Mallesons and foreign-investment specialization; a March 2025 Lawyers Weekly profile says he had worked there for the past six years and remained a solicitor while campaigning. A user-supplied screenshot of his public professional profile displays Solicitor, October2019–June2025, after the separately recorded graduate program. Public first-person post confirms admission in ACT Supreme Court, but only relative publication age is accessible. Hours, leave, secondments, exact day boundaries and the May–June2025 overlap with elected office remain unresolved.",
+      "evidence_note": "The official biography says only 'Solicitor'. Rebello and party profiles identify King & Wood Mallesons and foreign-investment specialization; a March 2025 Lawyers Weekly profile says he had worked there for the past six years and remained a solicitor while campaigning. A user-supplied screenshot of his public professional profile displays Solicitor, October2019–June2025, after the separately recorded graduate program. Public first-person post confirms admission in ACT Supreme Court, but only relative publication age is accessible. Hours, leave, secondments, exact day boundaries and the May–June2025 overlap with elected office remain unresolved. April2025 interview describes practising law retrospectively and full-time candidacy since April2024, so KWM profile-title tenure cannot establish continuous active work through June2025. He also reports acting for the Commonwealth during the Bushfire Royal Commission; employer/secondment and dates of that assignment are unconfirmed, not assumed to be public employment.",
       "counting_note": "Substantive private legal work and month boundaries are supported, but unknown hours, leave and overlap with elected office prevent treating the whole interval as countable full-time work."
     },
     {
@@ -380,6 +381,63 @@
       "evidence_note": "A user-supplied screenshot of Rebello's public professional profile displays a KWM graduate role from February to October2019. A 2025 legal-industry interview confirms that he had earlier deferred the graduate program while working for Julie Bishop. Exact day boundaries, hours, leave and whether the displayed end and solicitor start occurred on the same day are not stated.",
       "counting_note": "Private-enterprise work is supported, but unknown hours, leave and day boundaries prevent a countable full-time interval.",
       "spell_id": "316547-18"
+    },
+    {
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "unknown",
+      "government_control_at_time": "unknown",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-19"
+      ],
+      "counting_note": "Employer, employment basis, dates and substantive full-time status are insufficiently evidenced; no headline years calculated.",
+      "spell_id": "316547-19",
+      "employer": "Unidentified pharmacy employer",
+      "role": "Pharmacist assistant",
+      "evidence_note": "Rebello directly describes this prior career role in his April2025 interview. Employer/provider, dates, pay basis, hours, leave and overlaps with study or other work are not given. No private-control or continuous full-time assumption."
+    },
+    {
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "unknown",
+      "government_control_at_time": "unknown",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-19"
+      ],
+      "counting_note": "Employer, employment basis, dates and substantive full-time status are insufficiently evidenced; no headline years calculated.",
+      "spell_id": "316547-20",
+      "employer": "Unidentified tutoring employer or clients",
+      "role": "Tutor",
+      "evidence_note": "Rebello directly describes this prior career role in his April2025 interview. Employer/provider, dates, pay basis, hours, leave and overlaps with study or other work are not given. No private-control or continuous full-time assumption."
+    },
+    {
+      "start_date": "2024-04",
+      "end_date": null,
+      "date_precision": "mixed",
+      "employment_status": "full_time",
+      "fte_fraction": 1.0,
+      "category": "party_organisation",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-19"
+      ],
+      "counting_note": "Party/campaign activity excluded; overlap with KWM title tenure is unresolved and not counted twice.",
+      "spell_id": "316547-21",
+      "employer": "Liberal National Party McPherson candidacy — employment/payroll status unknown",
+      "role": "Full-time candidate and campaigner",
+      "evidence_note": "April2025 first-person interview dates preselection to April last year and says he has been a full-time candidate since then. No exact day, wage, employment contract or campaign cessation provided. Full-time activity is not evidence of paid employment. May2025 election date not substituted as campaign end."
     }
   ],
   "sources": [
@@ -562,6 +620,16 @@
       "note": "Contemporary profile says Rebello was a penultimate-year KWM summer clerk, then joined Julie Bishop's office and temporarily deferred the KWM graduate program; it does not provide exact dates or hours.",
       "retrieved": "2026-10-03",
       "source_id": "src-18"
+    },
+    {
+      "source_id": "src-19",
+      "url": "https://www.insidegoldcoast.com.au/meet-leon-rebello",
+      "publisher": "Inside Gold Coast / Leon Rebello",
+      "title": "Meet Leon Rebello",
+      "source_type": "professional_profile",
+      "retrieved": "2026-10-04",
+      "locator": "18April2025, Tell us a little about yourself answers",
+      "note": "First-person answers identify pharmacist-assistant and tutor work, Commonwealth Bushfire Royal Commission representation and full-time candidacy since April2024. Does not identify early employers, pay/hours or exact legal leave boundaries."
     }
   ],
   "research_notes": [
@@ -573,6 +641,7 @@
     "Follow-up2026-10-02: primary professional index and posts, ANU exchange accounts, current Cura board and APH qualifications reviewed. Removed annual-report-year board cessation. Degree/provider conflict explicitly retained. Public profile experience fields partly blank; unidentified date rows not assigned to jobs.",
     "Further leads: KWM graduate versus solicitor dates and final cessation; exact ACT admission roll; parliamentary-attendant employer department and hours;2015–16exchange leave; Wallace/clerkship overlap; client work and campaign leave. A third-party LinkedIn post by Raagulan Pathy claims unpaid campaign leave but full post robots-denied; treat as unverified lead, not a quantified deduction.",
     "Source errors recovered/limited: old LinkedIn profile DisabledError; current profile999Unknown Status Code; ANU2018clerkshipguide400Unsupported content-type application/octet-stream; third-party post robots.txt fetch denied. Publicly indexed facts used only where explicit; no access-control bypass.",
-    "Follow-up 2026-10-03: user-supplied screenshot of the public professional profile resolves KWM Graduate February–October2019 and Solicitor October2019–June2025 at month precision. Lawyers Weekly independently confirms the summer-clerk-to-Bishop-office sequence and temporary graduate-program deferral. Hours, leave, exact day boundaries, ACT admission date and the May–June2025 KWM/elected-office overlap remain unresolved; no full-time total calculated."
+    "Follow-up 2026-10-03: user-supplied screenshot of the public professional profile resolves KWM Graduate February–October2019 and Solicitor October2019–June2025 at month precision. Lawyers Weekly independently confirms the summer-clerk-to-Bishop-office sequence and temporary graduate-program deferral. Hours, leave, exact day boundaries, ACT admission date and the May–June2025 KWM/elected-office overlap remain unresolved; no full-time total calculated.",
+    "Follow-up2026-10-04: First-person18April2025interview recovers pharmacist-assistant and tutor roles and full-time campaign from April2024. Employers, early-job dates/pay/hours and legal leave allocation remain unknown. Commonwealth royal-commission representation is a client-work observation, not proof of government payroll. Third-party unpaid-leave claim remains a lead; direct LinkedIn returned DisabledError and no quantitative deduction was adopted. Exact ACT admission, KWM daily boundaries and attendant department still unresolved."
   ]
 }

@@ -216,3 +216,6 @@ Batch coverage, record fields, dates, enums, source references, build_careers.lo
 
 - Henry Pike300120: nonmaterial follow-up — automotive employer and implemented consultancy intervals remain unknown; existing announced arrangements preserved.
 - Attempt6distinct,0new,2material,4nonmaterial,0complete; cycle23distinct,8material,15nonmaterial; day160distinct,58material,102nonmaterial; all0new/complete. Next: Leon Rebello316547. OUTCOME:ongoing; STOPPING REASON:none.
+
+- Leon Rebello316547: materially enriched — added omitted pharmacy/tutor activity and dated full-time campaign, with legal-work overlap/break caution; no continuous KWM duration or public-client-as-employer inference.
+- Attempt7distinct,0new,3material,4nonmaterial,0complete; cycle24distinct,9material,15nonmaterial; day161distinct,59material,102nonmaterial; all0new/complete. Next: Malcolm Roberts266524. OUTCOME:ongoing; STOPPING REASON:none.
