@@ -163,3 +163,13 @@ Batch coverage, record fields, dates, enums, source references, build_careers.lo
 - Member 201906, Terry Young: his public professional profile gives Good Guys Managing Director August2001–January2007 and separate Drummond director entries fromMay2007 atMaroochydore andJune2016 atWestGosford. The Good Guys month endpoint is retained alongside the official2006 partnership-end conflict; Drummond governance/ownership entries are separated from operational franchise spells and do not prove continuous full-time work. Entities, hours, leave, 2013–2015 work and operational cessation remain unresolved.
 - Next follow-up: qld-2 pass complete; continue the next safe batch in national plan order, avoiding any active writer.
 - OUTCOME: ongoing. STOPPING REASON: none; continue after remote verification. Successor not requested. Scheduler terminal status unavailable.
+
+
+## Active follow-up — 2026-10-04 16:00 Brisbane cycle, continuation 0
+
+- Attempt start: 2026-10-04T15:55:16+10:00. QLD-2 segment started after 14 remotely verified QLD-1 member records. Starting QLD-2 head: `f57a6839f3c755423b1bf82e0b477e9baa9492cd`; no branch conflict or intervening writer observed.
+- Starting national baseline remains 226/226 initial records, 226 unresolved, 0 research-complete. Brisbane-day cumulative before this member: 151 distinct records, 0 new, 55 materially enriched, 96 nonmaterial follow-ups and 0 newly complete.
+
+- Michelle Landry: nonmaterial follow-up — pathology, NAB, construction/property-management, bookkeeping and O'Dowd-office searches repeated the existing chronology. A later journal acknowledgement confirms Dr T. B. Lynch as a Rockhampton pathologist but does not evidence Landry's appointment, hours, legal employer or historical control; no career field changed.
+- Current cycle/continuation: 15 distinct records, 0 new initial, 5 materially enriched existing, 10 nonmaterial follow-ups and 0 newly research-complete. Brisbane-day cumulative: 152 distinct, 0 new, 55 materially enriched, 97 nonmaterial follow-ups and 0 newly complete.
+- Durable next cursor: David Littleproud (265585).
