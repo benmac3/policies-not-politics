@@ -246,3 +246,7 @@ Deduplicated Brisbane-day new member IDs: 00AMR, 101351, 124514, 132880, 140590,
 - Renee Coffey: materially enriched — AIEF employer annual reports now establish title progression from Programs Director in 2010–11 to Projects Director in 2013, alongside the previously recorded Pathways Director and later general-manager titles. Exact promotion dates, hours, pre-2010 commencement, government departments and Kookaburra cessation remain unresolved.
 - Current cycle/continuation: 4 distinct records, 0 new initial, 2 materially enriched existing, 2 nonmaterial follow-ups and 0 newly complete. Brisbane-day cumulative: 141 distinct, 0 new, 52 materially enriched, 89 nonmaterial follow-ups and 0 newly complete.
 - Durable next cursor: Emma Comer (316551).
+
+- Emma Comer: nonmaterial follow-up — Anthony Chisholm's 2025 first-person interview corroborates that Comer was his former staffer, while the existing Skelton source remains the Nicklin-office observation. Neither resolves dates, title, hours or allocation within the April 2023–April 2025 umbrella; no D'Ath personnel or hospitality employer evidence surfaced.
+- Current cycle/continuation: 5 distinct records, 0 new initial, 2 materially enriched existing, 3 nonmaterial follow-ups and 0 newly complete. Brisbane-day cumulative: 142 distinct, 0 new, 52 materially enriched, 90 nonmaterial follow-ups and 0 newly complete.
+- Durable next cursor: Kara Cook (316537).
