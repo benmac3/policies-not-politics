@@ -231,3 +231,6 @@ Batch coverage, record fields, dates, enums, source references, build_careers.lo
 
 - Phillip Thompson281826 materially enriched with separate2017local reference-group role and documented Jobtrain identity/control lead.
 - Attempt11distinct,0new,6material,5nonmaterial,0complete; cycle28distinct,12material,16nonmaterial; day165distinct,62material,103nonmaterial; all0new/complete. Next: AndrewWallace265967. OUTCOME:ongoing; STOPPING REASON:none.
+
+- Andrew Wallace265967 follow-up: new conference biography corroborates existing sequence without resolving employment gaps.
+- Attempt12distinct,0new,6material,6nonmaterial,0complete; cycle29distinct,12material,17nonmaterial; day166distinct,62material,104nonmaterial; all0new/complete. Next: LarissaWaters192970. OUTCOME:ongoing; STOPPING REASON:none.
