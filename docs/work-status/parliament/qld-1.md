@@ -211,3 +211,7 @@ Deduplicated Brisbane-day new member IDs: 00AMR, 101351, 124514, 132880, 140590,
 - Cameron Caldwell: nonmaterial follow-up — former-firm, Queensland Law Reporter, address and 2016-endpoint searches repeated the 2006 foundation and conflicting 2015/2016 endpoints. Directories identify the Hope Island premises but no successor, transfer or personal cessation. A dated professional-register or practice-transfer record remains decisive.
 - Current continuation: 20 distinct records, 0 new initial, 3 materially enriched existing, 17 nonmaterial follow-ups and 0 newly complete. Cycle/day cumulative: 136 distinct, 0 new, 50 materially enriched, 86 nonmaterial follow-ups and 0 newly complete.
 - Durable next cursor: Julie-Ann Campbell (312823).
+
+- Julie-Ann Campbell: nonmaterial follow-up — EY official-domain and transition searches found no staff profile or appointment notice. March and June 2022 reporting gives only a planned departure and a later observation that she had joined EY, not exact payroll/commencement boundaries, employing entity or hours. Appointment or professional-profile evidence remains decisive.
+- Current continuation: 21 distinct records, 0 new initial, 3 materially enriched existing, 18 nonmaterial follow-ups and 0 newly complete. Cycle/day cumulative: 137 distinct, 0 new, 50 materially enriched, 87 nonmaterial follow-ups and 0 newly complete.
+- Durable next cursor: Matt Canavan (245212).
