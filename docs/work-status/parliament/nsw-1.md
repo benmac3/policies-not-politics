@@ -368,3 +368,6 @@ Batch check passes: 226 assigned exactly once across 13 batches; nsw-1 assignmen
 
 - 2026-10-04T21:41:25+10:00: Burke source-specific access failures and qualified governance leads saved; no material claim promoted.
 - Attempt147distinct,0new,87material,60nonmaterial,0complete; cycle164distinct,93material,71nonmaterial; day226distinct,124material,102nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: 299145 Alison Byrnes. OUTCOME:ongoing; STOPPING REASON:none.
+
+- 2026-10-04T21:42:36+10:00: Byrnes contemporary staff observation corroborated; study dates and2002–2005 gap unresolved.
+- Attempt148distinct,0new,87material,61nonmaterial,0complete; cycle165distinct,93material,72nonmaterial; day226distinct,124material,102nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: 300134 Ross Cadell. OUTCOME:ongoing; STOPPING REASON:none.
