@@ -120,7 +120,7 @@
       "role": "Member for Gippsland",
       "start_date": "2008-06-28",
       "end_date": null,
-      "date_precision": "unknown",
+      "date_precision": "day",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -230,6 +230,46 @@
       "evidence_note": "Defence ministerial biography explicitly describes voluntary assistance with children’s junior sporting interests; no dates or hours. Separate from2024 governance appointment.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "IPZ-football-volunteer"
+    },
+    {
+      "spell_id": "IPZ-cwa-chair",
+      "employer": "Cycling Without Age Gippsland",
+      "role": "Inaugural honorary chair",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "nonprofit",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-cwa2024",
+        "src-cwa2025",
+        "src-cwa2026"
+      ],
+      "evidence_note": "Own August2024 release explicitly states volunteering as chair; September2026 release calls him honorary chair. Appointment/resignation dates absent; concurrent governance, not paid FT employment.",
+      "counting_note": "Unpaid charity/volunteer activity excluded from employment headlines."
+    },
+    {
+      "spell_id": "IPZ-cwa-pilot",
+      "employer": "Cycling Without Age Gippsland",
+      "role": "Volunteer trishaw pilot",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unpaid_work",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-cwa2025"
+      ],
+      "evidence_note": "January2025 member release caption identifies his personal pilot activity. Exact sessions, duration and hours unknown; distinct from chair governance.",
+      "counting_note": "Unpaid charity/volunteer activity excluded from employment headlines."
     }
   ],
   "sources": [
@@ -312,6 +352,36 @@
       "note": "First-person speech sequences newspapers before regional television and describes WIN work as20-odd years earlier. This supports broad1990s placement, not an exact interval or hours.",
       "retrieved": "2026-10-03",
       "source_id": "oct3-win2016"
+    },
+    {
+      "source_id": "src-cwa2024",
+      "url": "https://darrenchester.com.au/cycling-without-age-gippsland-set-to-ride/",
+      "publisher": "Darren Chester MP",
+      "title": "Cycling Without Age Gippsland set to ride,29August2024",
+      "retrieved": "2026-10-04",
+      "source_type": "other",
+      "locator": "Opening charity formation and inaugural-chair paragraphs",
+      "note": "Explicitly identifies volunteering as inaugural chair of newly formed charity; no appointment day."
+    },
+    {
+      "source_id": "src-cwa2025",
+      "url": "https://darrenchester.com.au/cycling-without-age-arrives-in-lakes-entrance/",
+      "publisher": "Darren Chester MP",
+      "title": "Cycling Without Age arrives in Lakes Entrance,20January2025",
+      "retrieved": "2026-10-04",
+      "source_type": "other",
+      "locator": "Opening and photograph caption",
+      "note": "Identifies chair and personal volunteer trishaw pilot activity; no personal session interval."
+    },
+    {
+      "source_id": "src-cwa2026",
+      "url": "https://darrenchester.com.au/cycling-without-age-gippsland-back-after-winter-break/",
+      "publisher": "Darren Chester MP",
+      "title": "Cycling Without Age Gippsland back after winter break,21September2026",
+      "retrieved": "2026-10-04",
+      "source_type": "other",
+      "locator": "Honorary chair paragraph",
+      "note": "Confirms honorary chair observation in2026; service winter break is not proven personal resignation/leave."
     }
   ],
   "research_notes": [
@@ -322,6 +392,7 @@
     "Targeted own-site, newspaper archive, employer/control-history and marketing-name searches did not establish individual journalism transitions or consultancy trading/legal name and substantive full-time hours. UK CDK/Amazing Marketing and NHS plastic surgeon namesakes were rejected. UQ historical newspaper-ownership PDF fetch failed;1958 indexed ownership does not establish whole1986–1998 tenure.",
     "Next leads: historical mastheads/staff records at each named outlet; consultancy registration or contemporaneous client records; LEBTA annual reports for two presidential terms. No source restriction bypass or outreach. Headline years remain unknown, not zero.",
     "Third follow-up3October2026: a2016 parliamentary speech now sequences newspaper work before regional television and places WIN Television work broadly '20-odd years ago', supporting a1990s point without inventing a year boundary. Targeted searches still did not resolve Gippsland Times-to-Express-to-WIN transitions, legal employing entities/control, consultancy trading name, hours or business-association terms. The broad phrase is retained only as evidence context; no headline totals changed.",
-    "Fourth follow-up4October2026: targeted outlet, WIN, consultancy and LEBTA searches returned the member's broad first-person sequence, known two-term association service and a2016 retrospective '20-odd years ago' WIN observation, but no individual newspaper/television transition, historical employing legal entity, marketing-business trading name, paid fraction or presidential term dates. A current about page says he ran his own marketing business, corroborating self-employment but adding no boundary or hours. Same-name medical and overseas results were rejected. Journalism control and hours, consultancy intensity and association dates remain unresolved; no headline change."
+    "Fourth follow-up4October2026: targeted outlet, WIN, consultancy and LEBTA searches returned the member's broad first-person sequence, known two-term association service and a2016 retrospective '20-odd years ago' WIN observation, but no individual newspaper/television transition, historical employing legal entity, marketing-business trading name, paid fraction or presidential term dates. A current about page says he ran his own marketing business, corroborating self-employment but adding no boundary or hours. Same-name medical and overseas results were rejected. Journalism control and hours, consultancy intensity and association dates remain unresolved; no headline change.",
+    "Follow-up2026-10-04: Added omitted honorary charity chair and volunteer trishaw-pilot roles using own2024–2026 releases. Secondary register extraction suggests chair as of15July2024 and surf role as of4August2024, but linked primary parliamentary PDF returned restricted URL and ordinaryHTTP403; those dates are not adopted as appointment boundaries. July2024 surf AGM evidence retained pending reconciliation. Own marketing trading name, hours and historical journalism employer transitions/control remain unresolved; targeted ownership searches returned material outside his tenure. Next primary register, old mastheads, marketing registration and association term records."
   ]
 }

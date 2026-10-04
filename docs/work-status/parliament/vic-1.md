@@ -315,3 +315,6 @@ State: ready-for-integration
 
 - 2026-10-04T22:17:20+10:00: Burns materially enriched: Monash study retained separately; early employers and FT evidence unresolved.
 - Attempt162distinct,0new,98material,64nonmaterial,0complete; cycle179distinct,104material,75nonmaterial; day226distinct,130material,96nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Darren ChesterIPZ. OUTCOME:ongoing; STOPPING REASON:none.
+
+- 2026-10-04T22:19:51+10:00: Chester materially enriched: volunteer charity chair/pilot distinguished from paid employment; employment gaps retained.
+- Attempt163distinct,0new,99material,64nonmaterial,0complete; cycle180distinct,105material,75nonmaterial; day226distinct,131material,95nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Lisa Chesters249710. OUTCOME:ongoing; STOPPING REASON:none.
