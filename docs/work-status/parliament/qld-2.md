@@ -210,3 +210,6 @@ Batch coverage, record fields, dates, enums, source references, build_careers.lo
 
 - Ted OBrien138932: materially enriched — indexed primary Queensland tabled paper adds Defiance Marketing and Administrative Officer title and Taiwan venture context. Original paper date/page inaccessible403; archive identifier not converted into a1996employment date. Accenture/Ricegrowers/Defiancehours and boundaries unresolved.
 - Attempt4distinct,0new,2material,2nonmaterial,0complete; cycle21distinct,8material,13nonmaterial; day158distinct,58material,100nonmaterial; all0new/complete. Next: Llew OBrien265991. OUTCOME:ongoing; STOPPING REASON:none.
+
+- Llew OBrien265991: nonmaterial follow-up — police rank/training/cessation and early employers remain unidentified. Unrelated retirement and factory visits not conflated with personal work.
+- Attempt5distinct,0new,2material,3nonmaterial,0complete; cycle22distinct,8material,14nonmaterial; day159distinct,58material,101nonmaterial; all0new/complete. Next: Henry Pike300120. OUTCOME:ongoing; STOPPING REASON:none.
