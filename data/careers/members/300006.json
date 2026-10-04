@@ -6,7 +6,7 @@
   "snapshot_party": "Independent",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/300006",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-04",
+  "last_reviewed": "2026-10-05",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -118,7 +118,7 @@
     },
     {
       "employer": "Wesfarmers Ltd",
-      "role": "Sustainability Manager",
+      "role": "Manager, Sustainability and Community Partnerships",
       "start_date": "2013",
       "end_date": "2015",
       "date_precision": "year",
@@ -130,9 +130,10 @@
       "counting_status": "insufficient_evidence",
       "source_ids": [
         "src-1",
-        "src-2"
+        "src-2",
+        "src-22"
       ],
-      "evidence_note": "Official year labels retained without invented month/day boundaries. Hours and career-break allocation unresolved; first-person account confirms substantial part-time work across the wider career.",
+      "evidence_note": "Official year labels retained without invented month/day boundaries. Hours and career-break allocation unresolved; first-person account confirms substantial part-time work across the wider career. Primary circular-economy report names the fuller sustainability/community-partnerships title, corroborated by March2014 trade reporting. Contribution does not establish separate Foundation employment or narrow appointment dates.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "300006-06"
     },
@@ -222,7 +223,7 @@
       "role": "Member for Curtin",
       "start_date": "2022-05-21",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "day",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -325,7 +326,7 @@
       "role": "Trust member",
       "start_date": "2016-12-12",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "day",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "public_service",
@@ -362,6 +363,26 @@
       ],
       "evidence_note": "Official2019–2020annual report lists Chaney as member with remunerationN/A and no grossamount.2021–2023Forum page lists Anglicare representation in workinggroups.2March2022minutes list an apology and leave of absence due to federal candidacy until1June2022. Start of leave and actual return/end not given; Forum tenure and scheduled leave-end are not personal employment boundaries. Representative advisory duty may overlap Anglicare work, not separate paid public-service employment.",
       "counting_note": "Advisory governance excluded. Leave relates to Forum participation; not assumed Anglicare campaign leave or payroll cessation."
+    },
+    {
+      "spell_id": "300006-18",
+      "employer": "Cranlana Centre for Ethical Leadership",
+      "role": "Participant, Perth Executive Colloquium",
+      "start_date": "2018",
+      "end_date": "2018",
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-20",
+        "src-21"
+      ],
+      "evidence_note": "Provider alumni table identifies Perth Executive Colloquium2018, corroborated by participant interview April2019. Individual course dates unknown; short course overlaps Anglicare career and is not a year of full-time study or employment.",
+      "counting_note": "Study excluded; do not convert course duration into employer leave or employment FTE."
     }
   ],
   "sources": [
@@ -554,6 +575,36 @@
       "source_type": "government_record",
       "locator": "Printedpage49 Supporting Communities Forum remuneration table",
       "note": "Indexed primary table lists Kate Chaney member remunerationN/A, dash in gross actual remuneration. Report-period observation does not date appointment or establish paid service."
+    },
+    {
+      "source_id": "src-20",
+      "url": "https://alumni.cranlana.org.au/",
+      "publisher": "Cranlana Centre for Ethical Leadership",
+      "title": "Alumni search",
+      "retrieved": "2026-10-05",
+      "source_type": "primary_education_record",
+      "locator": "Kate Chaney / Director / AnglicareWA / Perth Executive Colloquium /2018",
+      "note": "Public indexed primary table identifies program and year. Direct open InternalError; no personal day/month boundaries or employment hours."
+    },
+    {
+      "source_id": "src-21",
+      "url": "https://www.businessnews.com.au/article/Overcoming-the-isolation-of-leadership",
+      "publisher": "Business News",
+      "title": "Overcoming the isolation of leadership",
+      "retrieved": "2026-10-05",
+      "source_type": "first_person_interview",
+      "locator": "17April2019; paragraphs on2018Cranlana course and week of reflection",
+      "note": "Accessible interview corroborates course participation and Anglicare role. A reported week of reflection is course context, not work FTE or precise leave dates."
+    },
+    {
+      "source_id": "src-22",
+      "url": "https://content.ellenmacarthurfoundation.org/m/6a11c4eb28e1f628/original/Towards-the-circular-economy-Vol-3-Accelerating-the-scale-up-across-global-supply-chains.pdf",
+      "publisher": "Ellen MacArthur Foundation / World Economic Forum",
+      "title": "Towards the Circular Economy, Volume3",
+      "retrieved": "2026-10-05",
+      "source_type": "primary_professional_record",
+      "locator": "Acknowledgements, printedpage7/PDFpage4: WesfarmersLimited contributor entry",
+      "note": "Primary contributor table names Manager Sustainability and Community Partnerships. Contribution is evidence of role description, not a separate Foundation employment or personal appointment date."
     }
   ],
   "research_notes": [
@@ -565,6 +616,7 @@
     "Anglicare annual report says farewell after May 2022 election; RAP February working-group endpoint is not job cessation. No Fibs first-person 17-year part-time account differs from Hansard 16 years; neither permits exact employer allocation or FTE.",
     "Searches for employer-specific part-time status and historical airport records did not settle hours/control. State Recovery Advisory Group search result appears adjacent to another member in multi-person article; not attributed without primary evidence. Next leads: dated Wesfarmers/Anglicare contracts and leave, airport ownership reports, precise Trust resignation, Redfern remuneration and consultancy clients.",
     "Follow-up 2026-10-03: public professional-profile text documents the WAC role's retail, ground-transport and aviation business-development remit. The contemporaneous 2007–08 employer report and 2005 parliamentary ownership evidence establish that WAC was a privately owned operator under Commonwealth lease, resolving the provisional control classification. Exact appointment/cessation, hours, leave and reported part-time allocation remain unresolved.",
-    "Follow-up2026-10-04: Next25 annual report narrows board end to22January2022; explicitly separates its retirement label from Anglicare payroll. New primary government minutes document SCF candidate-related leave until1June2022; recorded separately as governance with unknown commencement/actual return, not Anglicare leave.2019–2020report supplies N/A remuneration observation; Forum working-group membership corroborates Anglicare representation. Employer-specific part-time/Redfern searches still lack boundaries, hours or pay. SEEK vacancies are employees in MP’s office, not her former workload."
+    "Follow-up2026-10-04: Next25 annual report narrows board end to22January2022; explicitly separates its retirement label from Anglicare payroll. New primary government minutes document SCF candidate-related leave until1June2022; recorded separately as governance with unknown commencement/actual return, not Anglicare leave.2019–2020report supplies N/A remuneration observation; Forum working-group membership corroborates Anglicare representation. Employer-specific part-time/Redfern searches still lack boundaries, hours or pay. SEEK vacancies are employees in MP’s office, not her former workload.",
+    "Follow-up2026-10-05: Provider alumni table plus accessible April2019interview identify omitted Perth Executive Colloquium2018, added as excluded short-course study overlapping Anglicare, not employer leave. Primary circular-economy contributor table printed7/PDF4 expands Wesfarmers sustainability role to community partnerships. LinkedIn index exposes Mar2009–May2011 but adjacent role association inaccessible999; preserve official years pending full context. AIMWA interview gives broad two-decade career, not hours; job advertisements describe staff positions and rejected again. No new employer-specific part-time/leave/Redfern pay evidence; future targeted primary contracts/CV needed."
   ]
 }
