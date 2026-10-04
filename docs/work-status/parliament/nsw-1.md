@@ -362,3 +362,6 @@ Batch check passes: 226 assigned exactly once across 13 batches; nsw-1 assignmen
 
 - 2026-10-04T21:37:28+10:00: Bowen targeted follow-up saved; derivative mayoral endpoint rejected and original records still needed.
 - Attempt145distinct,0new,86material,59nonmaterial,0complete; cycle162distinct,92material,70nonmaterial; day226distinct,123material,103nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: 256063 Andrew Bragg. OUTCOME:ongoing; STOPPING REASON:none.
+
+- 2026-10-04T21:39:22+10:00: Bragg materially enriched: named parliamentary adviser lead and original Treasury working-group duties.
+- Attempt146distinct,0new,87material,59nonmaterial,0complete; cycle163distinct,93material,70nonmaterial; day226distinct,124material,102nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: DYW Tony Burke. OUTCOME:ongoing; STOPPING REASON:none.

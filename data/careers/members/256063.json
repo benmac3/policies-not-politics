@@ -62,8 +62,8 @@
     },
     {
       "spell_id": "256063-fsc-manager",
-      "employer": "Financial Services Council",
-      "role": "Policy Manager",
+      "employer": "Financial Services Council Ltd (previous organisation name requires period-specific verification)",
+      "role": "Policy Manager / Senior Policy Manager, Investment and Superannuation",
       "start_date": "2009",
       "end_date": "2014",
       "date_precision": "year",
@@ -77,9 +77,11 @@
         "src-snapshot",
         "src-fsc",
         "src-secondary",
-        "src-fsc-departure"
+        "src-fsc-departure",
+        "src-fssuper2012",
+        "src-fsc-asx2013"
       ],
-      "evidence_note": "Official frozen biography supplies title and year endpoints. FSC describes itself as a peak body for financial-services member companies. Exact dates, title transitions, hours and leave are unresolved.",
+      "evidence_note": "Official frozen biography supplies title and year endpoints. FSC describes itself as a peak body for financial-services member companies. Exact dates, title transitions, hours and leave are unresolved. Own2012 author biography identifies specific senior portfolio;26November2013 employer signature confirms Senior Policy Manager and legal entity. This does not date promotion within2009–2014 or prove hours. Organisation predecessor IFSA name requires historical transition confirmation.",
       "counting_note": "Employer-association work is excluded under the codebook."
     },
     {
@@ -286,9 +288,10 @@
       "counting_status": "insufficient_evidence",
       "source_ids": [
         "src-linkedin",
-        "src-fix2014"
+        "src-fix2014",
+        "src-fssuper2012"
       ],
-      "evidence_note": "Profile index gives month boundaries; contemporaneous biography corroborates government policy work. Cannot distinguish public-service employment, political staff or other engagement without employer/appointment evidence. Hours, leave and overlap with EY/FSC unresolved; no public years inferred. Further indexed profile text describes work on short-selling regulation and bank-deposit/wholesale-funding guarantees. Duties do not identify an appointing department or distinguish ministerial from public-service employment.",
+      "evidence_note": "Profile index gives month boundaries; contemporaneous biography corroborates government policy work. Cannot distinguish public-service employment, political staff or other engagement without employer/appointment evidence. Hours, leave and overlap with EY/FSC unresolved; no public years inferred. Further indexed profile text describes work on short-selling regulation and bank-deposit/wholesale-funding guarantees. Duties do not identify an appointing department or distinguish ministerial from public-service employment. New2012 own-article author biography identifies prior work for Chris Pearce MP, but does not explicitly connect that office to these profile month endpoints. Separate undated account retained as possible same spell; no department or public-service classification inferred.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "256063-commonwealth-adviser"
     },
@@ -305,9 +308,10 @@
       "government_control_at_time": "private",
       "counting_status": "excluded",
       "source_ids": [
-        "src-fix2014"
+        "src-fix2014",
+        "src-fssuper2012"
       ],
-      "evidence_note": "Position observed in2014 conference biography. Term boundaries, remuneration and whether representative duties within FSC employment are unknown. Governance/advisory service alone is not substantive full-time employment; no additive duration.",
+      "evidence_note": "Position observed in2014 conference biography. Term boundaries, remuneration and whether representative duties within FSC employment are unknown. Governance/advisory service alone is not substantive full-time employment; no additive duration.2012 author biography independently records membership, broadening observations without term endpoints.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "256063-asx-council"
     },
@@ -324,9 +328,10 @@
       "government_control_at_time": "public",
       "counting_status": "excluded",
       "source_ids": [
-        "src-fix2014"
+        "src-fix2014",
+        "src-fssuper2012"
       ],
-      "evidence_note": "Position observed in2014 conference biography. Term boundaries, remuneration and whether representative duties within FSC employment are unknown. Governance/advisory service alone is not substantive full-time employment; no additive duration.",
+      "evidence_note": "Position observed in2014 conference biography. Term boundaries, remuneration and whether representative duties within FSC employment are unknown. Governance/advisory service alone is not substantive full-time employment; no additive duration.2012 author biography independently records membership, broadening observations without term endpoints.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "256063-asic-taskforce"
     },
@@ -424,6 +429,45 @@
       "evidence_note": "Public professional-profile search index names employer, traineeship and February2002–February2003. Independently corroborates prior aggregator-only lead. Exact days, store/location, hours, pay and leave remain unknown; traineeship title does not establish full-time work.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "256063-woolworths"
+    },
+    {
+      "spell_id": "256063-pearce",
+      "employer": "Office of the Hon. Chris Pearce MP (payroll entity unresolved)",
+      "role": "Financial-services, superannuation and corporate-governance policy adviser",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "political_staff",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-fssuper2012"
+      ],
+      "evidence_note": "Author biography identifies advisory work to a named MP before FSC entry in2009. It does not date that work. Could describe the already-recorded2008–09 Commonwealth adviser spell; matching remains unresolved. Reference to Pearce as a Howard-government Treasury minister describes Pearce, not necessarily when Bragg served him.",
+      "counting_note": "Political staff excluded. Do not treat possible duplicate account as an additional employment duration."
+    },
+    {
+      "spell_id": "256063-stronger-super",
+      "employer": "Treasury Stronger Super working groups (FSC representative)",
+      "role": "Working-group participant, including SMSF group",
+      "start_date": "2011",
+      "end_date": "2011",
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "employer_association",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-fssuper2012",
+        "src-treasury-smsf"
+      ],
+      "evidence_note": "Author biography explicitly places working-group engagement during2011; Treasury roster confirms FSC affiliation. Year identifies participation, not continuous year-long term. Representative duties may fall within FSC employment; no separate payroll inferred.",
+      "counting_note": "Representative employer-association duties excluded and not added to FSC duration."
     }
   ],
   "sources": [
@@ -566,6 +610,36 @@
       "note": "First-person recollection of work in orchards, a cannery and a dairy during regional Victorian upbringing. No employers, pay, hours or dates supplied. Original first-speech date is separately documented by existing source.",
       "retrieved": "2026-10-01",
       "source_id": "src-first-speech-primary"
+    },
+    {
+      "source_id": "src-fssuper2012",
+      "url": "https://media.fssuper.com.au/prod/media/library/FS_Super_v04i03_Superannuation_account_consolidation-Andrew_Bragg-FSC.pdf",
+      "publisher": "FS Super / Financial Standard; Andrew Bragg author",
+      "title": "Superannuation account consolidation, Volume04 Issue03 (2012)",
+      "retrieved": "2026-10-04",
+      "source_type": "professional_profile",
+      "locator": "Printed p53 author biography",
+      "note": "Read original article. Identifies prior adviser-to-Chris-Pearce work,2011 Treasury working groups, EY NSW Government Practice, ASX/ASIC roles and qualifications. Pearce former Howard ministry descriptor does not date Bragg employment. No personal hours or payroll terms."
+    },
+    {
+      "source_id": "src-treasury-smsf",
+      "url": "https://treasury.gov.au/programs-and-initiatives-superannuation/stronger-super/self-managed-superannuation-funds-smsf",
+      "publisher": "Australian Treasury",
+      "title": "Stronger Super: Self Managed Superannuation Funds",
+      "retrieved": "2026-10-04",
+      "source_type": "government_record",
+      "locator": "Membership table: Andrew Bragg, Financial Services Council",
+      "note": "Primary roster identifies FSC representative, not Treasury employee. No personal term endpoints, remuneration or hours."
+    },
+    {
+      "source_id": "src-fsc-asx2013",
+      "url": "https://www.asx.com.au/content/dam/asx/about/corporate-governance-council/reviews-and-submissions/2013/financial-services-council-submission-26nov13.pdf",
+      "publisher": "Financial Services Council / ASX",
+      "title": "Draft third-edition corporate-governance principles submission,26November2013",
+      "retrieved": "2026-10-04",
+      "source_type": "employer",
+      "locator": "PDFp1 signature block and organisation legal name",
+      "note": "Original employer submission signed Senior Policy Manager; identifies Financial Services Council Ltd,ABN82080744163. This is a role observation, not appointment date."
     }
   ],
   "open_questions": [
@@ -576,7 +650,8 @@
     "Was the announced November2016 FSC departure implemented, and what explains the frozen2017 endpoint?",
     "Which Commonwealth department or political office employed him in2008–09, and on what hours?",
     "Who employed him in early orchard, cannery and dairy work, and when?",
-    "What were the Woolworths traineeship store, exact dates, substantive hours and leave, and do EY payroll records confirm the profile January2007 start beyond the frozen2008-only entry?"
+    "What were the Woolworths traineeship store, exact dates, substantive hours and leave, and do EY payroll records confirm the profile January2007 start beyond the frozen2008-only entry?",
+    "Is the reported Chris Pearce adviser role the same as the profile September2008–October2009 Commonwealth spell? Obtain dated appointment/payroll evidence before resolving or treating it as distinct."
   ],
   "research_notes": [
     "Systematic nationwide follow-up2026-10-01. Required research_notes added; supported existing spells preserved. Material additions: previously omitted Commonwealth advisory work and three early work activities; governance observations, education correction and stronger FSC/Menzies endpoints. No substantive full-time evidence found; totals remain null, not zero.",
@@ -588,6 +663,7 @@
     "Second follow-up2026-10-02 materially corroborates previously unadopted Woolworths and EY dates via the public professional-profile index. Added Woolworths spell and refined EY dates, preserving frozen2008-only discrepancy; unknown hours and September2008 transition overlap retained. No contact-data aggregators used as final evidence.",
     "Commonwealth adviser queries corroborate existing September2008–October2009 generic government description but still do not identify appointing office/department. Nick Sherry query returned unrelated Ann Sherry material, not evidence of staff employment. Orchard/cannery/dairy employers remain unresolved. Next targeted lead: actual Commonwealth appointment or CV naming department; Woolworths training and EY payroll/leave evidence.",
     "Further2October pass: targeted Treasury/Sherry/Commonwealth appointment and financial-crisis-duty queries found public profile duty descriptions but no employing office or personal hours. Employer-paired profile still explicitly gives September2008–October2009; a detached2008–10 snippet is not adopted as an employment boundary. Current senator-office job advertisements and Argent Advisory/APM namesakes excluded. Next avenue is an original Commonwealth appointment/CV naming the office; repeated generic advisory biographies exhausted. Duty detail and consistency correction only, no material gap resolution counted.",
-    "Follow-up 2026-10-04: exact duty, Policy Adviser, Commonwealth and Woolworths searches again returned the public professional profile, 2014 conference biography and retrospective campaign material already recorded. A 2016 report describes only generic Commonwealth Government policy-adviser work during the financial crisis. No appointing office, payroll entity, hours or leave emerged. Do not infer Treasury or a ministerial office from policy subject matter; defer until an original appointment or CV appears."
+    "Follow-up 2026-10-04: exact duty, Policy Adviser, Commonwealth and Woolworths searches again returned the public professional profile, 2014 conference biography and retrospective campaign material already recorded. A 2016 report describes only generic Commonwealth Government policy-adviser work during the financial crisis. No appointing office, payroll entity, hours or leave emerged. Do not infer Treasury or a ministerial office from policy subject matter; defer until an original appointment or CV appears.",
+    "Follow-up2026-10-04: Original2012 FS Super own-article biography names Chris Pearce adviser work; retained undated political-staff account as possibly the same2008–09 spell. No Howard-government service date inferred from MP description. Treasury confirms FSC representation on SMSF working group;2011 engagement explicitly supplied by biography. Added representative spell, legal FSC name and specific senior portfolio; no extra full-time duration. ContactOut ASX month dates remain unadopted without independent source. Target dated Pearce appointment/CV to reconcile, not generic Treasury duty searches."
   ]
 }
