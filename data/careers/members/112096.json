@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/112096",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-04",
+  "last_reviewed": "2026-10-05",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -130,7 +130,7 @@
       "role": "Board member / strategic planning working group",
       "start_date": "2011-08-01",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "day",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "public_service",
@@ -148,7 +148,7 @@
       "spell_id": "112096-06"
     },
     {
-      "employer": "Aged Care Financing Authority (Funding Authority in own biography)",
+      "employer": "Aged Care Financing Authority",
       "role": "Ministerial appointee / authority member",
       "start_date": null,
       "end_date": null,
@@ -160,9 +160,10 @@
       "government_control_at_time": "public",
       "counting_status": "excluded",
       "source_ids": [
-        "src-3"
+        "src-3",
+        "src-16"
       ],
-      "evidence_note": "Pre-Senate governance; legal body/title/tenure needs appointment evidence.",
+      "evidence_note": "Own biography names ACFA with a variant Funding title. Departmental2013 consultation appendix confirms legal body Aged Care Financing Authority and identifies Susan Lines, Assistant National Secretary United Voice, as RESIGNED. Exact appointment/resignation dates and pay remain unknown; body establishment1August2012 does not date her service. Governance remains excluded.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "112096-07"
     },
@@ -171,7 +172,7 @@
       "role": "Member",
       "start_date": "2012-05-03",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "day",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "public_service",
@@ -249,7 +250,7 @@
       "role": "Senator for Western Australia",
       "start_date": "2013-05-15",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "day",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -282,6 +283,25 @@
       "evidence_note": "Nomination Hansard reports various party positions during membership since 1983. Membership commencement is not the start of these unspecified positions; payment, titles and tenure are unknown.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "112096-13"
+    },
+    {
+      "employer": "Strategic Workforce Advisory Group (Australian Government aged-care reform)",
+      "role": "United Voice representative / member",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "public_service",
+      "headline_sector": "excluded",
+      "government_control_at_time": "public",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-16"
+      ],
+      "evidence_note": "Departmental2013 appendix lists Susan Lines for United Voice on the since-disbanded group. Group meetings18June–25September2012 do not establish her individual tenure. Committee advice overlaps union duties; no additional full-time employment inferred. Remuneration unknown.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "112096-14"
     }
   ],
   "sources": [
@@ -434,6 +454,16 @@
       "locator": "15 May 2013, printed p520; Mark McGowan at 11.03 am, working-life and party paragraphs",
       "retrieved": "2026-10-04",
       "note": "Search-indexed official Hansard read; direct PDF returned 403 Forbidden. Identifies public/private teaching, community-house establishment and party positions, without employer names or dates."
+    },
+    {
+      "source_id": "src-16",
+      "url": "https://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Community_Affairs/Completed_inquiries/2010-13/agedcare/report/~/media/wopapub/senate/committee/clac_ctte/completed_inquiries/2010-13/aged_care/report/e03.ashx",
+      "publisher": "Department of Health and Ageing / Senate Community Affairs Committee",
+      "title": "Aged Care reform inquiry 2013, Appendix3 consultation information",
+      "source_type": "government_record",
+      "locator": "Appendix printed pp2,9,18; PDF pages3,10,19: ACFA and Strategic Workforce Advisory Group",
+      "retrieved": "2026-10-05",
+      "note": "Lists Susan Lines as resigned ACFA member and United Voice SWAG representative. Body formation and meeting dates are not individual appointment dates."
     }
   ],
   "research_notes": [
@@ -444,6 +474,7 @@
     "School/community employer and pre-1984 work searches remain unsuccessful. South Australian library result for a welfare-office assistant Sue Lines cannot be linked to this Senator and is not assigned. ACFA/NDIS dates remain for later agency appointment-register search. Union 2000/2001 dispute needs original WA branch election/appointment record; 2007 return cannot resolve it.",
     "Recovered local command error during batch handoff: git status/show invoked in scratch instead of repository returned fatal: not a git repository (or any of the parent directories): .git. Correct repository command and WA2 remote fetch/check recovered; no work lost or terminal blocker.",
     "Follow-up 2026-10-03: Commonwealth material dates the NDIS Workforce and Sector Capacity expert-group announcement to 3 May 2012 and anticipates advice over the following months; this supplies an earliest evidenced appointment point, not an exact legal term. A first-person 2014 speech adds roughly three years of aged-care reform work and significant National Aged Care Alliance representation within the national union role. Searches still did not identify the 1984–85 school, 1985–87 community employer, pre-1984 paid work or an authoritative ACFA appointment term.",
-    "Follow-up2026-10-04: Read indexed WA joint sitting Hansard of 15 May 2013, p520. Added school-sector breadth, community-house duties and omitted party positions; school and community payroll entities, dated sector allocation and hours remain gaps. Direct official PDF returned 403 Forbidden, recovered through its indexed text. ACFA appointment searches did not identify a authoritative term; union promotion and cessation discrepancies remain. No totals inferred."
+    "Follow-up2026-10-04: Read indexed WA joint sitting Hansard of 15 May 2013, p520. Added school-sector breadth, community-house duties and omitted party positions; school and community payroll entities, dated sector allocation and hours remain gaps. Direct official PDF returned 403 Forbidden, recovered through its indexed text. ACFA appointment searches did not identify a authoritative term; union promotion and cessation discrepancies remain. No totals inferred.",
+    "Follow-up2026-10-05: primary2013 departmental consultation appendix confirms ACFA legal title and resigned status, and adds SWAG committee membership. Individual tenure/pay remains unresolved. Teaching/community employer searches still yield no attributable names or hours; Wales namesake excluded. Next avenues: original appointment instrument/resignation and historical school/community payroll records."
   ]
 }
