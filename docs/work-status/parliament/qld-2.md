@@ -246,3 +246,6 @@ Batch coverage, record fields, dates, enums, source references, build_careers.lo
 
 - Anika Wells264121 follow-up: facility and additional-office searches did not resolve recorded gaps.
 - Attempt16distinct,0new,7material,9nonmaterial,0complete; cycle33distinct,13material,20nonmaterial; day170distinct,63material,107nonmaterial; all0new/complete. Next: AndrewWillcox286535. OUTCOME:ongoing; STOPPING REASON:none.
+
+- Andrew Willcox286535 materially enriched with named farm and1996–2010stage.
+- Attempt17distinct,0new,8material,9nonmaterial,0complete; cycle34distinct,14material,20nonmaterial; day171distinct,64material,107nonmaterial; all0new/complete. Next: TerryYoung201906. OUTCOME:ongoing; STOPPING REASON:none.

@@ -6,12 +6,12 @@
   "snapshot_party": "The Nationals",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/286535",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-03",
+  "last_reviewed": "2026-10-04",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
     "calculation_status": "not_calculable",
-    "note": "First-person evidence adds deferred study, an adjacent-farm ownership transition and deputy-mayor service. Council minutes establish mayoral campaign leave from2pm11April2022, but not farming or investment-work cessation. Aggregate22-year farming claim lacks precise boundaries, leave and personal full-time evidence. Investment disclosures do not establish employment; totals remain null."
+    "note": "First-person evidence adds deferred study, an adjacent-farm ownership transition and deputy-mayor service. Council minutes establish mayoral campaign leave from2pm11April2022, but not farming or investment-work cessation. Aggregate22-year farming claim lacks precise boundaries, leave and personal full-time evidence. Investment disclosures do not establish employment; totals remain null. Koorelah Farms managing-director years1996–2010now identified; workload remains unknown."
   },
   "career_spells": [
     {
@@ -34,7 +34,7 @@
         "src-4",
         "src-9"
       ],
-      "evidence_note": "Willcox and party profiles describe him as a third-generation tomato farmer who worked in the family farm, later purchased and managed it, expanded domestic and export supply, and operated it with his wife, sister and brother-in-law. A detailed 2017 profile says Willcox and his wife sold their interest to the other family operators in 2010. The commencement, employing entities, ownership transitions, hours and leave are not fully published; the statement that he purchased the business at age 27 is not converted into an invented calendar date. First speech describes practical farm duties, an adjacent farm purchase preceding the family partnership, and 22 years of farming. This aggregate duration does not establish exact start, continuous full-time status or leave. Fifteen permanent staff refers to employees, not his personal hours.",
+      "evidence_note": "Willcox and party profiles describe him as a third-generation tomato farmer who worked in the family farm, later purchased and managed it, expanded domestic and export supply, and operated it with his wife, sister and brother-in-law. A detailed 2017 profile says Willcox and his wife sold their interest to the other family operators in 2010. The commencement, employing entities, ownership transitions, hours and leave are not fully published; the statement that he purchased the business at age 27 is not converted into an invented calendar date. First speech describes practical farm duties, an adjacent farm purchase preceding the family partnership, and 22 years of farming. This aggregate duration does not establish exact start, continuous full-time status or leave. Fifteen permanent staff refers to employees, not his personal hours. Newly identified Koorelah1996–2010managing-director stage is represented separately without replacing earlier undated farm work; all describe overlapping enterprise activity.",
       "counting_note": "Substantive private farming activity is supported, but the unresolved boundaries, entities and workload prevent a documented full-time duration."
     },
     {
@@ -202,6 +202,29 @@
       "evidence_note": "First speech distinguishes purchase of the neighbouring farm from later family-business partnership. Boundaries and relationship to aggregate farming spell unresolved; do not add as independent full-time duration.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "286535-09"
+    },
+    {
+      "spell_id": "286535-10",
+      "employer": "Koorelah Farms; employing/trustee legal entity to confirm",
+      "role": "Managing director",
+      "start_date": "1996",
+      "end_date": "2010",
+      "date_precision": "year",
+      "employment_status": "self_employed",
+      "fte_fraction": null,
+      "category": "private_enterprise",
+      "headline_sector": "private",
+      "government_control_at_time": "private",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-13",
+        "src-4",
+        "src-9",
+        "src-14",
+        "src-15"
+      ],
+      "evidence_note": "Official parliamentary biography names managing director1996–2010. First speech and2017profile support active farming/business ownership, not merely passive governance. This is a named stage within the family-enterprise umbrella, not additional simultaneous calendar years. ABR locates JohnWillcoxFamilyDiscretionaryTrust trading-name connection; employment/ownership arrangement and pre2000entity unconfirmed. BornFarms is a possible successor lead, not an adopted employer.",
+      "counting_note": "Self-employed farming stage within broader enterprise; full-time hours,leave and exact boundaries unknown. Do not sum with umbrella/adjacent-farm spells."
     }
   ],
   "sources": [
@@ -324,6 +347,36 @@
       "note": "Official minutes acknowledge Mayor Willcox taking leave from2pm11April2022 and grant absence for the13April,27April and11May meetings. They do not state remuneration or a leave end date.",
       "retrieved": "2026-10-03",
       "source_id": "src-12"
+    },
+    {
+      "source_id": "src-13",
+      "url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=286535",
+      "publisher": "Parliament of Australia",
+      "title": "Mr Andrew Willcox MP",
+      "retrieved": "2026-10-04",
+      "source_type": "official_biography",
+      "locator": "Qualifications and occupation before entering Federal Parliament",
+      "note": "Fresh indexed official text names Koorelah Farms managing-director role1996–2010. Direct page restricted URL; indexed excerpt inspected. Hours and exact boundaries absent."
+    },
+    {
+      "source_id": "src-14",
+      "url": "https://abr.business.gov.au/ABN/View?id=23509889717",
+      "publisher": "Australian Business Register",
+      "title": "John Willcox Family Discretionary Trust ABN23509889717",
+      "retrieved": "2026-10-04",
+      "source_type": "government_record",
+      "locator": "Entity and trading names",
+      "note": "ABN active16May2000; Koorelah Farms Pty Ltd trading name same date. Trust registration does not define person tenure or resolve every legal entity."
+    },
+    {
+      "source_id": "src-15",
+      "url": "https://abr.business.gov.au/ABN/View?id=63141827803",
+      "publisher": "Australian Business Register",
+      "title": "Born Farms Pty Ltd ABN63141827803",
+      "retrieved": "2026-10-04",
+      "source_type": "government_record",
+      "locator": "Entity and business names",
+      "note": "ABNactive3February2010; Koorelah Farms business name8April2024. Does not prove Willcox worked for Born Farms or establish2010sale day."
     }
   ],
   "research_notes": [
@@ -335,6 +388,7 @@
     "Follow-up 2026-10-02: first speech and public professional index reviewed; added study, adjacent farm and deputy mayor. Removed unsupported 2012 investment-work cutoff. No full-time total inferred from staff headcount or 22-year recollection.",
     "Investment leads from register transcription: A & R Land, AJRW Investments, A & R Property Development, AR Supa Management, A & R Willcox, JSTW Holdings, JSTW Properties, OAG Properties, OAG Investments, R & A Corporation, Rayand, Rayandwill, Rayandwill Holdings, Rayandwill Investments, Rayandwill Properties, Rayandwill Land and JSTW Land. Obtain original disclosures and appointment/work evidence before treating these trustee/passive-investment directorships as substantive jobs; Bowen Farmers Transport dividends alone prove no employment.",
     "Source gaps: original https://www.aph.gov.au/-/media/03_Senators_and_Members/32_Members/Register/48p/SZ/Willcox.pdf returned403Forbidden; publicLinkedIn directopen InternalError, visibleindexed deputy datesused. Farm legal identities,startdates,hours and2010sale/2012counciltransition remain unresolved.",
-    "Follow-up2026-10-03: official13April2022councilminutes establish campaign-related mayoral leave from2pm11April and approved absences for three meetings through11May. Minutes do not state leave endpoint, mayoral remuneration or farm/investment work, so no broader cessation or full-time inference made. Searches for named farming entities returned interest disclosures and existing profiles, not work boundaries."
+    "Follow-up2026-10-03: official13April2022councilminutes establish campaign-related mayoral leave from2pm11April and approved absences for three meetings through11May. Minutes do not state leave endpoint, mayoral remuneration or farm/investment work, so no broader cessation or full-time inference made. Searches for named farming entities returned interest disclosures and existing profiles, not work boundaries.",
+    "Follow-up2026-10-04: Resolved named Koorelah Farms managing-director stage1996–2010 from official indexed biography. ABR identifies associated trust/trading name and later BornFarms name; avoided assigning successor registration dates as personal employment. Earlier work and investment management remain undated; no full-time years inferred."
   ]
 }
