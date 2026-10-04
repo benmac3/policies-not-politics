@@ -300,3 +300,6 @@ State: ready-for-integration
 
 - 2026-10-04T22:04:05+10:00: Michelle Ananda-Rajah enriched with nonprofit founder classification and dated study/scholarship history.
 - Attempt157distinct,0new,93material,64nonmaterial,0complete; cycle174distinct,99material,75nonmaterial; day226distinct,127material,99nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Ralph Babet300706. OUTCOME:ongoing; STOPPING REASON:none.
+
+- 2026-10-04T22:05:06+10:00: Ralph Babet enriched with omitted official qualifications; earlier sales/Telstra employment remains uncorroborated.
+- Attempt158distinct,0new,94material,64nonmaterial,0complete; cycle175distinct,100material,75nonmaterial; day226distinct,127material,99nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Jodie Belyea309484. OUTCOME:ongoing; STOPPING REASON:none.

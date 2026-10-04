@@ -68,7 +68,7 @@
       "role": "Senator for Victoria",
       "start_date": "2022-07-01",
       "end_date": null,
-      "date_precision": "unknown",
+      "date_precision": "day",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -118,6 +118,44 @@
       "evidence_note": "Official biography dates parliamentary leadership; parliamentary party function overlaps Senate service and is excluded from employment headlines.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "300706-05"
+    },
+    {
+      "spell_id": "300706-06",
+      "employer": "Swinburne University of Technology",
+      "role": "Bachelor of Business study",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-aph-live"
+      ],
+      "evidence_note": "Official indexed biography identifies qualification and institution without dates. Study is not paid employment; no attendance duration or career break inferred.",
+      "counting_note": "Study excluded from employment headlines."
+    },
+    {
+      "spell_id": "300706-07",
+      "employer": "Chisholm Institute",
+      "role": "Advanced Diploma in Sales and Marketing study",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-aph-live"
+      ],
+      "evidence_note": "Official indexed biography identifies qualification and institution without dates. Study is not paid employment; no attendance duration or career break inferred.",
+      "counting_note": "Study excluded from employment headlines."
     }
   ],
   "sources": [
@@ -206,9 +244,9 @@
       "publisher": "Australian Parliament",
       "title": "Senator Ralph Babet biography",
       "source_type": "official_biography",
-      "locator": "Party positions and qualifications/occupation",
-      "note": "Official indexed profile records parliamentary UAP leadership from1July2022, whip from26July2022; occupation small-business owner without dates.",
-      "retrieved": "2026-10-01",
+      "locator": "Public indexed Qualifications and occupation before entering Federal Parliament",
+      "note": "Official indexed profile records parliamentary UAP leadership from1July2022, whip from26July2022; occupation small-business owner without dates. Identifies BBus at Swinburne and Advanced Diploma in Sales and Marketing at Chisholm. Direct current retrieval failed with restricted-URL message; indexed primary qualifications used.",
+      "retrieved": "2026-10-04",
       "source_id": "src-aph-live"
     },
     {
@@ -225,7 +263,7 @@
       "url": "https://eliteagent.com/realtys-virtual-tools-to-accelerate-business/",
       "publisher": "Elite Agent",
       "title": "@realty’s virtual tools to accelerate business,31August2020",
-      "source_type": "reliable_secondary",
+      "source_type": "news",
       "locator": "Babet Brothers/Deej passages, lines80–88",
       "note": "Contemporaneous observation of his active property marketing and sales, with @realty partnership. Personal tenure endpoints still absent.",
       "retrieved": "2026-10-02",
@@ -270,6 +308,7 @@
     "Avenues: live APH indexed biography, first speech, primary company team/history, ABR historical names, SBS identity reporting, interests transcription with failed linked primary PDFs, targeted Deej/Ralph professional-profile and earlier-career searches. No verified public CV found. First-speech full-time references describe parents, not Babet. Follow-up: his personal operating interval and earlier sales employers, change to unpaid assistance, directorship appointment/resignation primary disclosure, any substantive prior nutrition business work. Company rename alone does not establish that he personally worked in nutrition.",
     "Second follow-up2October2026: added primary @realty partnership evidence and dated31August2020 observation of Deej’s property sales. This clarifies trading activity before legal rename without inventing personal start dates or separate @realty employment. Earlier sales search surfaced a Telstra claim in Advoc8’s truncated public biography; no reliable corroboration, title or dates. Sensis/Telstra contact-data snippets refer to Matt Babet, so not transferred to Ralph. Guardian2023 prospective return-to-full-time wording does not establish a bounded earlier full-time spell. Next seek legitimate original CV for earlier sales work, @realty partnership contract and personal paid operating/leave intervals; directorship primary register still unresolved. No numerical headline changes.",
     "Third follow-up3October2026: targeted Telstra and earlier-sales searches found no reliable Telstra corroboration or personal2017 sales date. A dated property record now verifies Deej Babet was personally active as a selling agent by25June2018, improving the prior August2020 point observation. The listing does not establish commencement, remuneration, hours, full-time status or the later transition to unpaid assistance. Those boundaries and the primary directorship record remain unresolved; no numerical headline changes.",
-    "Fourth follow-up 4 October 2026: recovered the primary Senate interests file previously unavailable. It directly records the Babet Brothers Pty Ltd real-estate directorship on 26 July 2022, deletion dated 26 April 2023 and addition of a company shareholding on 21 May 2023. These are declaration/alteration observations, not necessarily legal appointment/resignation or paid-work boundaries; operational assistance and hours remain unresolved. Repeated earlier-sales and Telstra searches produced no new reliable employment history."
+    "Fourth follow-up 4 October 2026: recovered the primary Senate interests file previously unavailable. It directly records the Babet Brothers Pty Ltd real-estate directorship on 26 July 2022, deletion dated 26 April 2023 and addition of a company shareholding on 21 May 2023. These are declaration/alteration observations, not necessarily legal appointment/resignation or paid-work boundaries; operational assistance and hours remain unresolved. Repeated earlier-sales and Telstra searches produced no new reliable employment history.",
+    "Follow-up2026-10-04: Recovered omitted Swinburne Business and Chisholm Sales/Marketing study from official indexed qualifications. Further searches linking Deej to Telstra or Sensis yielded only the existing unreferenced truncated Advoc8 claim and unrelated property descriptions; no employment spell asserted. ABR rename corroborates company chronology only, not personal nutrition work. Direct APH restricted-URL retrieval respected; indexed official record supplies qualification names. Dates, business hours and unpaid-work transition remain unresolved. Corrected inherited news enum and Senate day precision without changing supported dates."
   ]
 }
