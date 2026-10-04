@@ -257,3 +257,8 @@ Batch coverage, record fields, dates, enums, source references, build_careers.lo
 - Tim Wilson: materially enriched follow-up — a secondary staff-history compilation records his Australian APEC Study Centre resignation in April 2006, refining the APH year-only endpoint to month precision. It does not resolve the payroll/contracting entity, hours or day. Exact electorate-office identity, Commissioner commencement/leave and consulting hours remain unresolved; narrow searches prevented prior result truncation.
 - Current continuation: 16 distinct records, 0 new, 3 materially enriched, 13 nonmaterial follow-ups and 0 newly complete. Cycle/day cumulative: 132 distinct, 0 new, 50 materially enriched, 82 nonmaterial follow-ups and 0 newly complete.
 - Durable next cursor: Sarah Witty (316660).
+
+
+- Sarah Witty: nonmaterial follow-up — narrow Bank of Melbourne, National Credit Insurance, ScotPac, Subway and ballet searches found no primary personnel or business record. Two profile aggregators still conflict materially on month ranges, so no dates were adopted. Archived employer staff pages, contracts/payroll, registrations and the underlying professional profile remain decisive.
+- Current continuation: 17 distinct records, 0 new, 3 materially enriched, 14 nonmaterial follow-ups and 0 newly complete. Cycle/day cumulative: 133 distinct, 0 new, 50 materially enriched, 83 nonmaterial follow-ups and 0 newly complete.
+- Durable next cursor: Jason Wood (E0F).
