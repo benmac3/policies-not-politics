@@ -20,7 +20,7 @@
       "role": "Parenting",
       "start_date": "1983",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "unpaid_work",
@@ -141,7 +141,7 @@
       "role": "Founder and patron",
       "start_date": "2019",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "nonprofit",
@@ -160,7 +160,7 @@
       "role": "BA and Bachelor of Social Work (Honours) study",
       "start_date": "2006",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "study",
@@ -183,7 +183,7 @@
       "role": "Doctoral study",
       "start_date": null,
       "end_date": "2018",
-      "date_precision": "mixed",
+      "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "study",
@@ -223,7 +223,7 @@
       "role": "Member for Mallee",
       "start_date": "2019-05-18",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "day",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -241,7 +241,7 @@
       "role": "Board member; vice-president evidenced in 2010",
       "start_date": "2005",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "nonprofit",
@@ -254,6 +254,25 @@
       "evidence_note": "2010 organisation report gives 2005 board entry and vice-presidency at report date. End and officer appointment date unknown; governance not assumed salaried employment.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "281688-12"
+    },
+    {
+      "spell_id": "281688-13",
+      "employer": "University of Melbourne (institution as listed by Parliament)",
+      "role": "AMusA qualification; course/examination period unknown",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-1"
+      ],
+      "evidence_note": "Official parliamentary qualification list supplies AMusA and institution; dates and attendance unknown. Retain official label without inventing a university degree or paid appointment.",
+      "counting_note": "Qualification excluded from employment headlines."
     }
   ],
   "sources": [
@@ -262,10 +281,10 @@
       "url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=281688",
       "publisher": "Parliament of Australia",
       "title": "Dr Anne Webster parliamentary biography",
-      "retrieved": "2026-09-29",
+      "retrieved": "2026-10-04",
       "source_type": "official_biography",
-      "locator": "Qualifications and occupations; honours; party positions",
-      "note": "Indexed official text confirms frozen career years, scholarships and 2014–2015 party-office role; no working hours or early employers."
+      "locator": "Public indexed Qualifications, honours and occupations; direct page403Forbidden",
+      "note": "Indexed official text confirms frozen career years, scholarships and 2014–2015 party-office role; no working hours or early employers. Fresh official index lists AMusA (University of Melbourne), an internship scholarship in2011 and PhD Commonwealth scholarship. A scholarship award is not employment or proof of internship attendance."
     },
     {
       "source_id": "src-2",
@@ -358,6 +377,7 @@
     "2026-10-02 follow-up located MASP2010 annual-report board biography (public indexed mirror), Zoe2017 annual-report indexed biography and Webster-coauthored2014 Early Childhood Australia article. Added MASP governance and2006 concurrent degree start; captured2010 full-time study snapshot without applying it to employment.",
     "Remaining: actual teaching employers, seamstress and image-consultancy trading entities, hours/pay and breaks; MASP resignation/chair dates and Zoe employment basis. Targeted searches mostly namesakes; no new supported school employer. Zoe2018PDF timeout,2017ACNCblob404, LinkedIn999 and ParliamentVictoria transcript inaccessible; indexed primary extracts and accessible coauthored article used. Do not endlessly repeat these failed URLs without new leads. Last follow-up2026-10-02; unresolved, totals null.",
     "2026-10-03 follow-up: Mildura Rural City Council's dated Australia Day award notice observes Webster as Zoe Support founder and executive director on 26 January 2019, materially bracketing the transition to patron shown in the employer's 2019 report. This does not identify the departure day, pay or hours and is not used to infer full-time work. Fresh searches for teaching schools, music clients, seamstress/image-consulting entities and MASP chair/end dates returned only previously captured material or namesakes. Record remains blocked; totals null.",
-    "2026-10-04 follow-up: exact-name Mildura searches for music teaching, seamstress and image-consulting work returned the existing general biography, current member page and unrelated namesakes. No school/client, trading entity, appointment, hours, leave or payroll evidence surfaced. Generic web search is exhausted for this pass; historical local directories, school records, business registrations and contemporaneous advertisements remain the targeted avenues. Zoe executive evidence was not revisited because the prior pass already bracketed it to 26January2019 and the employer report; no substantive fact changed."
+    "2026-10-04 follow-up: exact-name Mildura searches for music teaching, seamstress and image-consulting work returned the existing general biography, current member page and unrelated namesakes. No school/client, trading entity, appointment, hours, leave or payroll evidence surfaced. Generic web search is exhausted for this pass; historical local directories, school records, business registrations and contemporaneous advertisements remain the targeted avenues. Zoe executive evidence was not revisited because the prior pass already bracketed it to 26January2019 and the employer report; no substantive fact changed.",
+    "Follow-up2026-10-04: Official parliamentary index adds previously unrecorded AMusA qualification, attributed there to University of Melbourne; timing and attendance remain unknown. Index also reports2011 Lachlan Macquarie Internship Scholarship, but an award alone does not establish attendance, placement employer or salaried internship. Current own biography lists Australian Company Directors Institute ambiguously, without identifying a course, role or dates; retained as a clarification lead, not an invented appointment. Direct APH fetch403Forbidden, indexed official text used transparently. Targeted full-time Zoe query refers to a client’s full-time study, not Webster’s work. Next: AMusA examination record, identifiable AICD role/course, scholarship placement confirmation, early work employers and hours."
   ]
 }

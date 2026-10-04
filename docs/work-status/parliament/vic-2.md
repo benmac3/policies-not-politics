@@ -340,3 +340,6 @@ Batch coverage, record fields, dates, enums, source references, build_careers.lo
 
 - 2026-10-04T23:33:46+10:00: Tim Watts: two publisher-confirmed authorship activities added, pay/dates/hours unresolved.
 - Attempt195distinct,0new,126material,69nonmaterial,0complete; cycle212distinct,132material,80nonmaterial; day226distinct,147material,79nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Anne Webster281688. OUTCOME:ongoing; STOPPING REASON:none.
+
+- 2026-10-04T23:35:03+10:00: Anne Webster: official AMusA qualification added; scholarship and AICD leads retained without inventing employment.
+- Attempt196distinct,0new,127material,69nonmaterial,0complete; cycle213distinct,133material,80nonmaterial; day226distinct,148material,78nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Tim WilsonIMW. OUTCOME:ongoing; STOPPING REASON:none.
