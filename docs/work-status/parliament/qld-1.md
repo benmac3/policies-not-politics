@@ -250,3 +250,8 @@ Deduplicated Brisbane-day new member IDs: 00AMR, 101351, 124514, 132880, 140590,
 - Emma Comer: nonmaterial follow-up — Anthony Chisholm's 2025 first-person interview corroborates that Comer was his former staffer, while the existing Skelton source remains the Nicklin-office observation. Neither resolves dates, title, hours or allocation within the April 2023–April 2025 umbrella; no D'Ath personnel or hospitality employer evidence surfaced.
 - Current cycle/continuation: 5 distinct records, 0 new initial, 2 materially enriched existing, 3 nonmaterial follow-ups and 0 newly complete. Brisbane-day cumulative: 142 distinct, 0 new, 52 materially enriched, 90 nonmaterial follow-ups and 0 newly complete.
 - Durable next cursor: Kara Cook (316537).
+
+
+- Kara Cook: materially enriched — Brisbane City Council's 2022–23 annual report fixes her resignation at 2 April 2023 and reports councillor remuneration; DVConnect independently records Kara Cook of Cook Legal holding a fundraiser on 2 November 2017. These observations refine the endpoint and bound the firm's activity but do not establish weekly hours, Cook Legal cessation or council overlap. Court-associate, prior-firm and practising-certificate searches yielded no original appointment or register record.
+- Current cycle/continuation: 6 distinct records, 0 new initial, 3 materially enriched existing, 3 nonmaterial follow-ups and 0 newly research-complete. Brisbane-day cumulative: 143 distinct, 0 new, 53 materially enriched, 90 nonmaterial follow-ups and 0 newly complete.
+- Durable next cursor: Milton Dick (53517).
