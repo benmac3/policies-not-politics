@@ -195,3 +195,8 @@
 
 - 2026-10-04T20:52:39+10:00: White: investigated academy and staff-history leads; no new personal employment evidence. Dowling August2024 report lead queued.
 - Attempt128distinct,0new,74material,54nonmaterial,0complete; cycle145distinct,80material,65nonmaterial; day226distinct,118material,108nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Andrew WilkieC2T. OUTCOME:ongoing; STOPPING REASON:none.
+
+- 2026-10-04T20:54:11+10:00: Wilkie: recovered shop-work observation after election night; no dates/hours gap resolved. Tasmania follow-up pass traversed17members; all remain unresolved.
+- Attempt129distinct,0new,74material,55nonmaterial,0complete; cycle146distinct,80material,66nonmaterial; day226distinct,118material,108nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: ACT batch next in frozen plan: David SmithING. OUTCOME:ongoing; STOPPING REASON:none.
+
+- Queued Dowling lead discovered while researching White: https://www.heraldsun.com.au/news/tasmania/federal-labor-plots-how-to-secure-marginal-seat-of-lyons-held-by-brian-mitchell/news-story/fbd39b1219d514f23a0ffbf247731f46 — public indexed Susan Bailey report says returned to Hobart in August to work for Dean Winter after Meta. Publication date must be independently established before assigning2024-08; exact separation and substantive hours remain unknown. Do not count this unprocessed lead as enrichment.
