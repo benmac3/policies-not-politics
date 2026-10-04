@@ -316,6 +316,44 @@
       ],
       "evidence_note": "House elected service and ministerial offices excluded.",
       "counting_note": "Excluded from the two employment headlines under the codebook."
+    },
+    {
+      "spell_id": "182468-16",
+      "employer": "Friends of the Laperouse Museum Inc.",
+      "role": "Patron",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "nonprofit",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-museum-hansard2013"
+      ],
+      "evidence_note": "First-person Hansard identifies fellow patrons at 17 November 2013 AGM, establishing his own patron role at that dated observation. Friends described as volunteers, distinct from museum staff, council or a museum trust. Appointment and cessation remain unknown; observation date is not a start date.",
+      "counting_note": "Community patronage, not evidence of substantive paid employment. Excluded from both employment headlines; unknown remuneration/hours do not become zero."
+    },
+    {
+      "spell_id": "182468-17",
+      "employer": "Eastern Suburbs Hakoah Futsal Club",
+      "role": "Patron",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-hakoah-patrons"
+      ],
+      "evidence_note": "Organisation names him as patron under 2021-2026 Patrons. Period heading retained as contextual chronology, not individual start/end dates or uninterrupted tenure. Not attributed a paid coaching or playing role. Constitutional category and historical control remain unresolved; patronage remains excluded governance regardless.",
+      "counting_note": "Community patronage, not evidence of substantive paid employment. Excluded from both employment headlines; unknown remuneration/hours do not become zero."
     }
   ],
   "sources": [
@@ -448,6 +486,26 @@
       "note": "Names Thistlethwaite as the Labor Council nominee representing stablehands and race-club employees for a third consecutive report period. This is a report-period observation, not an exact appointment, continuous-tenure or resignation date.",
       "retrieved": "2026-10-03",
       "source_id": "src-racing07-08"
+    },
+    {
+      "source_id": "src-museum-hansard2013",
+      "url": "https://www.openaustralia.org.au/debate/?id=2013-11-21.54.1",
+      "publisher": "OpenAustralia reproducing House Hansard",
+      "title": "Kingsford Smith Electorate: Laperouse Museum, 21 November 2013",
+      "retrieved": "2026-10-04",
+      "source_type": "government_record",
+      "locator": "1:48 pm, opening and final paragraphs",
+      "note": "First-person statement calls other attendees at 17 November 2013 AGM fellow patrons. Establishes patronage by that observation, not exact commencement or cessation; describes Friends volunteers. Independent of problematic museum-domain redirects."
+    },
+    {
+      "source_id": "src-hakoah-patrons",
+      "url": "https://www.eshfc.com.au/",
+      "publisher": "Eastern Suburbs Hakoah Futsal Club",
+      "title": "ESHFC Patrons",
+      "retrieved": "2026-10-04",
+      "source_type": "other",
+      "locator": "ESHFC Patrons / 2021-2026 Patrons / Matthew Thistlethwaite",
+      "note": "Club names Thistlethwaite as patron under a period heading spanning the frozen roster date. Heading is not proof of individual appointment or cessation on those years. No payment or hours; constitutional ownership not established."
     }
   ],
   "research_notes": [
@@ -462,6 +520,7 @@
     "Avenues: State Transit2005–06/2006–07/2007–08/2008–09 indexed board paragraphs;2007–08 direct PDF redirect500 and data.nsw copy inaccessible;2011 Senate and2013 House first-speech transcripts; primary club submission; public professional profile indexed result, direct999; Mallesons/full-time searches and manufacturing-council searches. No reliable full-time evidence obtained. Month-level Mallesons lead remains provisional because full experience block unavailable. Next leads: historical club employment and constitution, Mallesons appointment/cessation and hours, council/racing/jockey appointments, surf presidency endpoints and any2013 inter-house-gap work. No outreach or contact data collected.",
     "Second follow-up2October2026: repeated public professional-profile index now clearly pairs Mallesons with September2010–July2011; finer self-reported dates promoted with provenance, superseding earlier provisional-month note. No full-time evidence: job advertisements for his electorate staff are not his own employment. Racing NSW2005–06/2006–07 reports provide primary confirmation, statutory context and representative constituency for RIPAC, but no personal tenure endpoints. Manufacturing Council searches repeated official biographies; no appointment record found. Mallesons hours/leave, student club work, AWU/Unions NSW precise boundaries, surf presidency endpoints and2013 gap remain unresolved. Next inspect earlier/later Racing NSW membership reports and original law-firm appointment notices; no totals calculated.",
     "Third follow-up3October2026: Racing NSW's primary2007–08 annual report adds a third consecutive report-period observation of Thistlethwaite as the Labor Council nominee on RIPAC. This materially extends primary chronology through2007–08 but does not prove an uninterrupted appointment or exact endpoints. Searches for 2004–05/2008–09 membership, a Manufacturing Council appointment and original Mallesons personnel evidence did not locate a reliable new boundary or full-time-hours evidence.",
-    "Fourth follow-up4October2026: renewed searches for Racing NSW2004–05/2008–09 membership, the NSW Manufacturing Council and original Mallesons personnel material returned the existing2007–08 report, official biographies and derivative summaries. A2011 Parliamentary Handbook says solicitor at Mallesons from2010 but supplies no month, hours, leave or cessation beyond the already recorded sources. No new boundary was adopted; the next useful evidence is an original law-firm appointment/cessation record or missing annual-report membership list."
+    "Fourth follow-up4October2026: renewed searches for Racing NSW2004–05/2008–09 membership, the NSW Manufacturing Council and original Mallesons personnel material returned the existing2007–08 report, official biographies and derivative summaries. A2011 Parliamentary Handbook says solicitor at Mallesons from2010 but supplies no month, hours, leave or cessation beyond the already recorded sources. No new boundary was adopted; the next useful evidence is an original law-firm appointment/cessation record or missing annual-report membership list.",
+    "Follow-up2026-10-04: New independent 21 November 2013 Hansard establishes Friends of Laperouse Museum patronage at 17 November AGM; primary futsal-club patron listing adds a separate omitted community role. Neither becomes paid employment or a manufactured interval. Museum-domain article and PDF screenshot requests redirected to https://osadenishighschool.com/ gambling content: rejected current redirect as evidence. Cached 2013 annual-report text alleged acceptance on 7 October, but live PDF verification redirected; exact commencement not adopted without clean corroboration. Historic WordPress indexing and primary club listing were examined; Mallesons/Racing searches returned irrelevant or previously recorded results. Priority gaps remain legal full-time hours/leave, student club job terms, precise union/party transitions and statutory council appointments. Next avenues: independent museum annual-report copy and actual law-firm personnel record, rather than repeating exhausted broad queries."
   ]
 }

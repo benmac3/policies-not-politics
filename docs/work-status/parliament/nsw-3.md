@@ -285,3 +285,6 @@ Batch coverage, record fields, dates, enums, source references, build_careers.lo
 
 - 2026-10-04T20:25:55+10:00: Susan Templeman: material personal maternity/work context and separated study overlap.
 - Attempt111distinct,0new,67material,44nonmaterial,0complete; cycle128distinct,73material,55nonmaterial; day226distinct,114material,112nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Matt Thistlethwaite182468. OUTCOME:ongoing; STOPPING REASON:none.
+
+- 2026-10-04T20:31:31+10:00: Thistlethwaite: added independently confirmed museum patronage and club patronage, with domain-redirect provenance warning. Material update; no full-time duration supported. NSW3 pass finished; next least-recent follow-up batch to resolve from remote checkpoints.
+- Attempt112distinct,0new,68material,44nonmaterial,0complete; cycle129distinct,74material,55nonmaterial; day226distinct,115material,111nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: resolve TAS, ACT and NT durable follow-up cursors in plan order. OUTCOME:ongoing; STOPPING REASON:none.
