@@ -8,7 +8,7 @@
       "employer": "Unidentified newspaper seller/distributor",
       "employment_status": "part_time",
       "end_date": null,
-      "evidence_note": "Indexed first-person account says started selling newspapers after school at age 13; no legal employer, dates or FTE.",
+      "evidence_note": "Full first-person account says started selling newspapers after school at age 13; no legal employer, dates or FTE.",
       "fte_fraction": null,
       "government_control_at_time": "unknown",
       "headline_sector": "unknown",
@@ -27,7 +27,7 @@
       "employer": "Grace Brothers",
       "employment_status": "part_time",
       "end_date": null,
-      "evidence_note": "Indexed first-person account explicitly identifies part-time work at age 15. Retail employer named, exact employing entity and dates not established.",
+      "evidence_note": "Full first-person account explicitly identifies part-time work at age 15. Retail employer named, exact employing entity and dates not established.",
       "fte_fraction": null,
       "government_control_at_time": "private",
       "headline_sector": "private",
@@ -46,7 +46,7 @@
       "employer": "McDonald's (franchise/legal employer unidentified)",
       "employment_status": "part_time",
       "end_date": null,
-      "evidence_note": "Indexed first-person account explicitly identifies part-time work at age 15. Restaurant brand is not assumed to be legal employer.",
+      "evidence_note": "Full first-person account explicitly identifies part-time work at age 15. Restaurant brand is not assumed to be legal employer.",
       "fte_fraction": null,
       "government_control_at_time": "private",
       "headline_sector": "private",
@@ -201,6 +201,68 @@
       "evidence_note": "National Museum identifies presidency1985–87. Remuneration and hours unknown; overlaps Uren staff role and is not counted as additional salaried work.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "R36-young-labor"
+    },
+    {
+      "spell_id": "R36-souths-board",
+      "employer": "South Sydney Rugby League Football Club; historic legal entity to verify",
+      "role": "Football club director",
+      "start_date": "1999",
+      "end_date": "2002",
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-souths-almanac",
+        "src-souths-pmc",
+        "src-dj-dec2020"
+      ],
+      "evidence_note": "Club historian records board term1999–2002; personal primary speech confirms membership1999. Governance/pay unknown, not substantive salaried employment. Historic legal entity/control not transferred from later private ownership; overlaps parliamentary service. Exact days and remuneration require contemporary club reports.",
+      "counting_note": "Separate governance/occasional activity; no verified substantive full-time employment or additive public/private duration."
+    },
+    {
+      "spell_id": "R36-charity-dj",
+      "employer": "Various event organisers, including Reclink fundraisers; employing entity unestablished",
+      "role": "Occasional DJ Albo and Rage guest-host activity",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-vpta",
+        "src-dj-apr2020",
+        "src-dj-dec2020",
+        "src-record-store-2017"
+      ],
+      "evidence_note": "Own2020 accounts describe occasional charity gigs and earlier Rage guest hosting while DeputyPM. Charity proceeds do not establish personal fee/nonpayment; no salaried or substantive full-time DJ role established. Observed events and retrospective descriptions not converted into continuous service years.",
+      "counting_note": "Separate governance/occasional activity; no verified substantive full-time employment or additive public/private duration."
+    },
+    {
+      "spell_id": "R36-record-store-ambassador",
+      "employer": "Australian Music Retailers Association, Record Store Day Australia",
+      "role": "2017event ambassador",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "employer_association",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-record-store-2017"
+      ],
+      "evidence_note": "Announced28March2017for2017event; year label describes campaign, not proven personal contract dates. Ambassador activity/pay unknown, kept apart from paid retail/music employment.",
+      "counting_note": "Separate governance/occasional activity; no verified substantive full-time employment or additive public/private duration."
     }
   ],
   "headline": {
@@ -224,7 +286,8 @@
     "Next avenues if new evidence emerges: publicly released bank service record or detailed first-person chronology; university attendance/conferral archive; primary political payroll appointments. Do not repeat the same exhausted broad bank-date queries immediately. Retain research_status blocked and null headline years; advance follow-up cursor to Ambihaipahar.",
     "Second follow-up2026-10-02: searched university archive/conferral and alumni-magazine routes beyond prior VPTA/bank queries. Magazine independently repeatsBEc1985but does not resolve NAA1984or bank endpoints. Public derivative sites printing1January1980/1981are unsupported normalisations, not accepted dates. No new substantive employment fact; excluded from material-enrichment counts.",
     "AlumniPDFweb400size10485761+; indexed evidence only. Broad bank/VPTA avenues remain exhausted; next revisit should depend on newly public personnel/appointment record or accessible detailed chronology. No inference of zero private/full-time work; retain all gaps and advance.",
-    "Follow-up 2026-10-04: fresh targeted searches of Prime Minister, National Archives, Sydney University and parliamentary records corroborated the existing bank, degree and Uren-office chronology but did not produce a personal appointment day, bank separation record, university-period employment or full-time evidence beyond the already recorded first-person statement. APH search also returned a non-retryable robots.txt block. No new facts promoted; retain blocked status and avoid another broad bank-date search until a personnel or appointment record appears."
+    "Follow-up 2026-10-04: fresh targeted searches of Prime Minister, National Archives, Sydney University and parliamentary records corroborated the existing bank, degree and Uren-office chronology but did not produce a personal appointment day, bank separation record, university-period employment or full-time evidence beyond the already recorded first-person statement. APH search also returned a non-retryable robots.txt block. No new facts promoted; retain blocked status and avoid another broad bank-date search until a personnel or appointment record appears.",
+    "Follow-up2026-10-04: Recovered fullVPTAfirst-person page after historicaltimeouts, preserving schooljobs. Newprimary2020interview lead identifies charityDJactivity and SouthSydneygovernance; contemporaryclubhistorian gives1999–2002directorship corroborated by PM1999recollection. Separately recorded occasionalmusicactivity and2017AMRAeventambassadorship without assuming unpaid/pay, datesorFT. Exactbankdate searches yielded unsupported socialmediaguesses, rejected. Bankhours alreadyexplicitFT, endpoints/breaks stillunknown; originalclubreports and personalemploymentchronology remain follow-ups."
   ],
   "research_status": "blocked",
   "snapshot_chamber": "Member",
@@ -273,10 +336,10 @@
       "url": "https://www.commbank.com.au/about-us/our-company/history/1991-onwards.html"
     },
     {
-      "locator": "Indexed first-person paragraph on starting work at 13/15",
-      "note": "Search-index excerpt only; full page timed out. School jobs and part-time status, no calendar dates.",
+      "locator": "Full page, first-person paragraph beginning I started work at13",
+      "note": "Full original page successfully read by web retrieval on4October after earlier timeouts; confirms previously indexed school jobs and part-time status. Ordinary download returnedHTTP406; no bypass attempted.",
       "publisher": "Victorian Public Tenants Association",
-      "retrieved": "2026-09-16",
+      "retrieved": "2026-10-04",
       "source_id": "src-vpta",
       "source_type": "other",
       "title": "Anthony Albanese PM",
@@ -321,6 +384,56 @@
       "note": "BEc1985corroborates existing university alumni entry; no new employment dates. FullPDFweb400size10485761+; not fully inspected.",
       "retrieved": "2026-10-02",
       "source_id": "src-sydney-mag-oct2"
+    },
+    {
+      "source_id": "src-dj-apr2020",
+      "url": "https://anthonyalbanese.com.au/anthony-albanese-transcript-radio-interview-triple-m-bundy-breakfast-friday-24-april-2020",
+      "publisher": "Anthony Albanese",
+      "title": "Triple M Bundy Breakfast transcript,24April2020",
+      "source_type": "official_biography",
+      "locator": "First DJ exchange, own answer after Pixies discussion",
+      "note": "Own account identifies Rage hosting while DeputyPM and subsequent occasional Reclink charity gigs. Page header23April differs transcript24April; interview date used. Charity benefit does not prove personal nonpayment or paid employment.",
+      "retrieved": "2026-10-04"
+    },
+    {
+      "source_id": "src-dj-dec2020",
+      "url": "https://anthonyalbanese.com.au/anthony-albanese-transcript-radio-interview-triple-m-sydney-deadset-legends-thursday-10-december-2020",
+      "publisher": "Anthony Albanese",
+      "title": "Triple M Sydney Deadset Legends transcript,10December2020",
+      "source_type": "official_biography",
+      "locator": "DJ and South Sydney exchanges",
+      "note": "Own account distinguishes charity DJ activity and South Sydney directorship in late1990s/early2000s. No remuneration or appointment days supplied.",
+      "retrieved": "2026-10-04"
+    },
+    {
+      "source_id": "src-souths-pmc",
+      "url": "https://pmtranscripts.pmc.gov.au/release/transcript-45112",
+      "publisher": "Department of the Prime Minister and Cabinet",
+      "title": "Rabbitohs Heffron Community and High Performance Centre speech,1July2023",
+      "source_type": "government_record",
+      "locator": "Paragraph beginning Because back in1999",
+      "note": "Explicit own account of board membership in1999, an observation rather than appointment-day record.",
+      "retrieved": "2026-10-04"
+    },
+    {
+      "source_id": "src-souths-almanac",
+      "url": "https://www.ssralmanac.com/mobile/2013/news_20130303.htm",
+      "publisher": "South Sydney Rabbitohs Almanac",
+      "title": "South Sydney Member Company7thAnnualGeneralMeeting,3March2013",
+      "source_type": "other",
+      "locator": "Hon Anthony Albanese MP subsection",
+      "note": "Club historian’s contemporary AGM account gives Football Club directorship1999–2002. Retained at year precision and corroborated by member’s own1999 recollection; no salaried role inferred. Article elsewhere prints2012for meeting date contrary to2013heading; not used as an appointment date.",
+      "retrieved": "2026-10-04"
+    },
+    {
+      "source_id": "src-record-store-2017",
+      "url": "https://www.broadwayworld.com/australia-melbourne/article/Record-Store-Day-Australia-Announces-Anthony-Albanese-as-Final-Ambassador-for-2017-20170328",
+      "publisher": "Record Store Day announcement reproduced by BroadwayWorld",
+      "title": "Anthony Albanese announced ambassador for2017,28March2017",
+      "source_type": "other",
+      "locator": "Announcement and final Australian Music Retailers Association paragraph",
+      "note": "Event ambassador for2017; organised by AMRA. Announcement date not contractual commencement; no employment, fee or FTE statement.",
+      "retrieved": "2026-10-04"
     }
   ]
 }
