@@ -188,3 +188,6 @@ Detailed attempted avenues, discrepancies and remaining leads are preserved in e
 
 - Patrick Gorman enriched: added previously omitted 2003 Guild Council appointment and personal study chronology.
 - Attempt27distinct,0new,14material,13nonmaterial,0complete; cycle44distinct,20material,24nonmaterial; day181distinct,70material,111nonmaterial; all0new/complete. Next: Andrew Hastie 260805. OUTCOME:ongoing; STOPPING REASON:none.
+
+- Andrew Hastie enriched: first-person January 2010 SASR internal posting date.
+- Attempt28distinct,0new,15material,13nonmaterial,0complete; cycle45distinct,21material,24nonmaterial; day182distinct,71material,111nonmaterial; all0new/complete. Next: Matt Keogh 249147. OUTCOME:ongoing; STOPPING REASON:none.
