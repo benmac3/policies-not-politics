@@ -222,3 +222,6 @@ Batch coverage, record fields, dates, enums, source references, build_careers.lo
 
 - Malcolm Roberts266524: nonmaterial follow-up — tax-case identity checked; namesake judgments and APPEA chief executive not conflated. Consulting client dates and post2017work remain unresolved.
 - Attempt8distinct,0new,3material,5nonmaterial,0complete; cycle25distinct,9material,16nonmaterial; day162distinct,59material,103nonmaterial; all0new/complete. Next: Paul Scarr282997. OUTCOME:ongoing; STOPPING REASON:none.
+
+- Paul Scarr282997: materially enriched — omitted party offices/study added and June2015secretary/Frieda River observations documented without inferred boundaries or duration.
+- Attempt9distinct,0new,4material,5nonmaterial,0complete; cycle26distinct,10material,16nonmaterial; day163distinct,60material,103nonmaterial; all0new/complete. Next: Matt Smith312393. OUTCOME:ongoing; STOPPING REASON:none.

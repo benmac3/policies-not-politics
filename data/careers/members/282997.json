@@ -6,7 +6,7 @@
   "snapshot_party": "Liberal Party of Australia",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/282997",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-03",
+  "last_reviewed": "2026-10-04",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -184,14 +184,15 @@
         "src-9",
         "src-10",
         "src-11",
-        "src-12"
+        "src-12",
+        "src-13"
       ],
-      "evidence_note": "GRAM was a Chinese provincial state-owned group.13MayForm604records sub50%holding for12May; PanAust15Maystatement confirms70.433%controlling interest. Thus control changed inMay2015, exact day unresolved.20July2015was complete acquisition. Employer reports list Scarr on1January2019 and a successor by April. A21December2018report says the management changes, explicitly including Scarr, would occur the following month; a16January2019report still describes him as leaving. Together these support January2019 at month precision, not an exact final day.",
+      "evidence_note": "GRAM was a Chinese provincial state-owned group.13MayForm604records sub50%holding for12May; PanAust15Maystatement confirms70.433%controlling interest. Thus control changed inMay2015, exact day unresolved.20July2015was complete acquisition. Employer reports list Scarr on1January2019 and a successor by April. A21December2018report says the management changes, explicitly including Scarr, would occur the following month; a16January2019report still describes him as leaving. Together these support January2019 at month precision, not an exact final day. ABC4June2015interview explicitly identifies him as company secretary, corroborating continuing secretary activity after the May control change; it does not resolve exact cessation.",
       "counting_note": "Foreign state control classifies public corporation under codebook. Month boundary is a shared transition, not double-counted. Hours, leave, exact cessation day and campaign arrangements remain unknown."
     },
     {
       "spell_id": "282997-09",
-      "employer": "PanAust group companies",
+      "employer": "PanAust group companies, including Frieda River Ltd",
       "role": "Director of subsidiaries and related companies in multiple countries",
       "start_date": null,
       "end_date": null,
@@ -203,9 +204,10 @@
       "government_control_at_time": "mixed",
       "counting_status": "excluded",
       "source_ids": [
-        "src-6"
+        "src-6",
+        "src-13"
       ],
-      "evidence_note": "The LNP biography says Scarr served as a director of companies in Laos, Thailand, Myanmar, Singapore, Chile, PNG and Australia while at PanAust. Entity-specific appointment dates, remuneration and workload are not supplied, and corporate control changed in 2015. End of executive employment is not automatically cessation of all subsidiary directorships; unsupported2019boundary removed. Governance excluded independently of underlying sector.",
+      "evidence_note": "The LNP biography says Scarr served as a director of companies in Laos, Thailand, Myanmar, Singapore, Chile, PNG and Australia while at PanAust. Entity-specific appointment dates, remuneration and workload are not supplied, and corporate control changed in 2015. End of executive employment is not automatically cessation of all subsidiary directorships; unsupported2019boundary removed. Governance excluded independently of underlying sector. ABC4June2015names Frieda River Ltd directorship; this is a dated observation within the group-governance activity, not an appointment or cessation boundary.",
       "counting_note": "Subsidiary governance is excluded and must not be double-counted with executive employment."
     },
     {
@@ -227,6 +229,177 @@
       ],
       "evidence_note": "Official parliamentary records show election to the Senate commencing 1 July 2019.",
       "counting_note": "Federal elected office is excluded."
+    },
+    {
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "party_organisation",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-14"
+      ],
+      "evidence_note": "Official party-positions list supplies these year-level terms; exact dates, remuneration, hours and leave are unstated. Overlapping offices are separate roles, not additional full-time duration.",
+      "counting_note": "Internal party office excluded from public/private substantive employment headlines.",
+      "spell_id": "282997-11",
+      "employer": "Young Liberals Queensland",
+      "role": "Magazine editor",
+      "start_date": "1990",
+      "end_date": "1990"
+    },
+    {
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "party_organisation",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-14"
+      ],
+      "evidence_note": "Official party-positions list supplies these year-level terms; exact dates, remuneration, hours and leave are unstated. Overlapping offices are separate roles, not additional full-time duration.",
+      "counting_note": "Internal party office excluded from public/private substantive employment headlines.",
+      "spell_id": "282997-12",
+      "employer": "Young Liberals Queensland Policy Committee",
+      "role": "Chair",
+      "start_date": "1993",
+      "end_date": "1993"
+    },
+    {
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "party_organisation",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-14"
+      ],
+      "evidence_note": "Official party-positions list supplies these year-level terms; exact dates, remuneration, hours and leave are unstated. Overlapping offices are separate roles, not additional full-time duration.",
+      "counting_note": "Internal party office excluded from public/private substantive employment headlines.",
+      "spell_id": "282997-13",
+      "employer": "Liberal Party Hawken Drive Branch Queensland",
+      "role": "Chair",
+      "start_date": "1997",
+      "end_date": "1999"
+    },
+    {
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "party_organisation",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-14"
+      ],
+      "evidence_note": "Official party-positions list supplies these year-level terms; exact dates, remuneration, hours and leave are unstated. Overlapping offices are separate roles, not additional full-time duration.",
+      "counting_note": "Internal party office excluded from public/private substantive employment headlines.",
+      "spell_id": "282997-14",
+      "employer": "Liberal National Party Indooroopilly State Electoral Council",
+      "role": "Secretary",
+      "start_date": "2013",
+      "end_date": "2016"
+    },
+    {
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "party_organisation",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-14"
+      ],
+      "evidence_note": "Official party-positions list supplies these year-level terms; exact dates, remuneration, hours and leave are unstated. Overlapping offices are separate roles, not additional full-time duration.",
+      "counting_note": "Internal party office excluded from public/private substantive employment headlines.",
+      "spell_id": "282997-15",
+      "employer": "Liberal National Party Moreton Federal Electoral Council",
+      "role": "Vice-Chair",
+      "start_date": "2013",
+      "end_date": "2016"
+    },
+    {
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "party_organisation",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-14"
+      ],
+      "evidence_note": "Official party-positions list supplies these year-level terms; exact dates, remuneration, hours and leave are unstated. Overlapping offices are separate roles, not additional full-time duration.",
+      "counting_note": "Internal party office excluded from public/private substantive employment headlines.",
+      "spell_id": "282997-16",
+      "employer": "Liberal National Party Indooroopilly State Electoral Council",
+      "role": "Chair",
+      "start_date": "2016",
+      "end_date": "2016"
+    },
+    {
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "party_organisation",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-14"
+      ],
+      "evidence_note": "Official party-positions list supplies these year-level terms; exact dates, remuneration, hours and leave are unstated. Overlapping offices are separate roles, not additional full-time duration.",
+      "counting_note": "Internal party office excluded from public/private substantive employment headlines.",
+      "spell_id": "282997-17",
+      "employer": "Liberal National Party Miller State Electoral Council",
+      "role": "Chair",
+      "start_date": "2017",
+      "end_date": "2017"
+    },
+    {
+      "date_precision": "mixed",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "party_organisation",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-14"
+      ],
+      "evidence_note": "Official list records honorary recognition in2017; not employment or evidence of paid office.",
+      "counting_note": "Internal party office excluded from public/private substantive employment headlines.",
+      "spell_id": "282997-18",
+      "employer": "Liberal National Party Young Branch Queensland",
+      "role": "Honorary life member",
+      "start_date": "2017",
+      "end_date": null
+    },
+    {
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-14"
+      ],
+      "evidence_note": "Official biography lists diploma and fellowship but no study dates or workload. Fellowship credential is not a separate employment appointment.",
+      "counting_note": "Study excluded.",
+      "spell_id": "282997-19",
+      "employer": "Governance Institute of Australia",
+      "role": "Graduate Diploma of Applied Corporate Governance student",
+      "start_date": null,
+      "end_date": null
     }
   ],
   "sources": [
@@ -349,6 +522,26 @@
       "note": "Contemporary report says PanAust management changes, including Scarr's departure, would occur the following month. It supports January2019 at month precision but does not give his exact last day.",
       "retrieved": "2026-10-03",
       "source_id": "src-12"
+    },
+    {
+      "source_id": "src-13",
+      "url": "https://www.abc.net.au/pm/archive/articles/2015/06/04/s4249020.htm",
+      "publisher": "ABC PM / Paul Scarr",
+      "title": "Chinese companies buy sensitive mining projects in PNG",
+      "source_type": "news",
+      "retrieved": "2026-10-04",
+      "locator": "4June2015 transcript, final identification",
+      "note": "Contemporary interview identifies Scarr as PanAust company secretary and Frieda River Ltd director; point observation only."
+    },
+    {
+      "source_id": "src-14",
+      "url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=282997&lang=en",
+      "publisher": "Parliament of Australia",
+      "title": "Senator Paul Scarr",
+      "source_type": "official_biography",
+      "retrieved": "2026-10-04",
+      "locator": "Party positions; qualifications; publicly indexed official text",
+      "note": "Seven internal party offices plus honorary membership and Graduate Diploma of Applied Corporate Governance. Direct open403; dates retained only at stated year precision, no paid status assumed."
     }
   ],
   "research_notes": [
@@ -360,6 +553,7 @@
     "Follow-up2026-10-02:2015ASXtarget statement/substantial holding notices,2014annual report remuneration/service agreements,2019management-departure report and public professional profile attempted. Corrected control transition toMay2015. Joint secretary appointment does not date incumbent resignation.",
     "Remaining: obtain13–15May2015holding documents and actual majority date;23February2007secretary start does not establish general-counsel start. Seek company-secretary2015cessation,2019last paid day/leave,law-firm exact employment basis and transfers.",
     "Public LinkedIn profile returned999Unknown Status Code; public index did not expose relevant experience details. Search surfaced aggregator February2019end but no primary corroboration; not adopted. No contact-data collection. ASXannouncement wrapper showed access terms; already public indexed filing PDFs provided relevant evidence.",
-    "Follow-up 2026-10-03: a 21December2018 Post-Courier/Courier-Mail report says the PanAust management changes, explicitly including Scarr's departure, would occur the following month. Combined with the 1January employer snapshot,16January leaving report and successor by April, this narrows general-counsel cessation to January2019 at month precision. Exact day, leave and campaign arrangements remain unknown; the uncorroborated aggregator February label remains rejected."
+    "Follow-up 2026-10-03: a 21December2018 Post-Courier/Courier-Mail report says the PanAust management changes, explicitly including Scarr's departure, would occur the following month. Combined with the 1January employer snapshot,16January leaving report and successor by April, this narrows general-counsel cessation to January2019 at month precision. Exact day, leave and campaign arrangements remain unknown; the uncorroborated aggregator February label remains rejected.",
+    "Follow-up2026-10-04: Fresh official party-position review recovers seven omitted internal offices, honorary membership and an undated corporate-governance qualification. ABC2015interview identifies Frieda River Ltd and confirms secretary activity4June2015after majority-control change. No exact secretary cessation, actual payroll day, law-firm hours or leave recovered. Full-time staff advertisements concern other people and are not evidence of Scarr employment basis."
   ]
 }
