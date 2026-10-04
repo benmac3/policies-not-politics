@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/296215",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-04",
+  "last_reviewed": "2026-10-05",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -123,7 +123,7 @@
       "role": "Founder / Managing Director",
       "start_date": "2013",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "year",
       "employment_status": "self_employed",
       "fte_fraction": null,
       "category": "private_enterprise",
@@ -135,9 +135,10 @@
         "src-6",
         "src-7",
         "src-9",
-        "src-16"
+        "src-16",
+        "src-25"
       ],
-      "evidence_note": "2013 establishment is secondary; contemporaneous primary reports establish activity in 2018–19. Cessation, continuity and workload unknown. Senate interests index later lists company directorship, but does not establish continuing paid work after Senate entry or resolve 2013 versus 2015 business commencement leads.",
+      "evidence_note": "2013 establishment is secondary; contemporaneous primary reports establish activity in 2018–19. Cessation, continuity and workload unknown. Senate interests index later lists company directorship, but does not establish continuing paid work after Senate entry or resolve 2013 versus 2015 business commencement leads. July2015 primary ANROWS publication independently establishes director status and specialist training/advice in leadership, cultural security, family violence and gender policy. This observation does not resolve2013versusMarch2015commencement or prove continuity/FT.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "296215-06"
     },
@@ -146,7 +147,7 @@
       "role": "National Council and reference-group member",
       "start_date": "2008",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "unknown",
@@ -186,7 +187,7 @@
       "role": "Board member",
       "start_date": "2018-02-20",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "day",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "nonprofit",
@@ -205,7 +206,7 @@
       "role": "Senator for Western Australia",
       "start_date": "2021-09-14",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "day",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -262,9 +263,9 @@
     {
       "employer": "ANROWS",
       "role": "Practitioner Engagement Group member",
-      "start_date": null,
+      "start_date": "2015",
       "end_date": null,
-      "date_precision": "unknown",
+      "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "nonprofit",
@@ -272,9 +273,10 @@
       "government_control_at_time": "private",
       "counting_status": "excluded",
       "source_ids": [
-        "src-15"
+        "src-15",
+        "src-25"
       ],
-      "evidence_note": "Organisation’s 2016 conference report confirms membership, not paid appointment or full-time status; dates unknown.",
+      "evidence_note": "Organisation’s 2016 conference report confirms membership, not paid appointment or full-time status; dates unknown. July2015 primary announcement lists her in newly established2015–2016PEG cohort. Start remains year precision; cohort label and later2016participation do not establish end or payroll appointment.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "296215-13"
     },
@@ -293,7 +295,7 @@
       "source_ids": [
         "src-17"
       ],
-      "evidence_note": "In a 2021 interview Cox described moving from the police into a public-policy role at Centrelink before later advocacy work. Employer and sequence are established, but no appointment dates, title, hours or leave were supplied.",
+      "evidence_note": "In a 2021 interview Cox described moving from the police into a public-policy role at Centrelink before later advocacy work. Employer and sequence are established, but no appointment dates, title, hours or leave were supplied. NIT narrative age27/roughlydecadepolicing conflicts with frozen official liaison endJune2002 and1994cadetstart; age-based arithmetic is not used to fabricate Centrelink dates. Resolve separate personal service/transition history.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "296215-14"
     },
@@ -382,7 +384,7 @@
       "role": "Inaugural Aboriginal community member providing policy advice",
       "start_date": "2018",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "public_service",
@@ -395,6 +397,25 @@
       ],
       "evidence_note": "MG Corporation October2018newsletter identifies Cox as inaugural forum member; WA Police2019annual report corroborates identity and reports first forum meetingSeptember2018 and quarterly policy-advice remit.2018start is year-precision establishment/inaugural-member context; no exact personal appointment day/month, end or remuneration. Separate advisory activity, not renewed sworn-police or liaison employment.",
       "counting_note": "Advisory governance excluded; does not prove substantive paid public-service work or additional full-time years."
+    },
+    {
+      "spell_id": "296215-20",
+      "employer": "Every Woman, Everywhere / Every Woman Treaty campaign",
+      "role": "Expert Indigenous Women’s Working Group member",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-17"
+      ],
+      "evidence_note": "8September2021NIT interview identifies past expert working-group membership. Appointment/end/remuneration unknown; campaign advice is not established salaried employment. Primary2020SaferSooner index separately names Cox but does not by itself prove working-group title.",
+      "counting_note": "Advisory/campaign participation excluded; no public/private employment years."
     }
   ],
   "sources": [
@@ -637,6 +658,16 @@
       "source_type": "government_record",
       "locator": "Printedpage28 Aboriginal Police Advisory Forum",
       "note": "Public primary index lists Cox among eight inaugural Aboriginal leaders and forum first meetingSeptember2018. First meeting is not personal appointment boundary; advisory pay/hours/end unknown."
+    },
+    {
+      "source_id": "src-25",
+      "url": "https://anrows-2019.s3.ap-southeast-2.amazonaws.com/wp-content/uploads/2019/02/19025553/150713-Footprints-Issue-3-F.pdf",
+      "publisher": "ANROWS",
+      "title": "Footprints Issue03, July2015",
+      "retrieved": "2026-10-05",
+      "source_type": "organisation_record",
+      "locator": "Printedpage6/PDFpage8, Introducing2015–2016PractitionerEngagementGroup",
+      "note": "Contemporary primary member table names Cox, identifies director of InspireChange and describes consultancy services; group remit advisory knowledge translation. Cohort years are not precise appointment/cessation dates."
     }
   ],
   "research_notes": [
@@ -648,6 +679,7 @@
     "Added SWALSC program-manager 2013–2014 role from reliable business career table; December 2021 SWALSC newsletter only congratulates election and does not corroborate employment dates. Contact-aggregator August 2013–June 2014 remains a lead, not adopted.",
     "Ombudsman 2014–2015 and 2019–2020 panel observations and ANROWS 2016 practitioner group recorded separately from employment. Senate directorship index does not prove active consulting after 2021. Next: SARC/WA Health personnel histories, SWALSC 2013–2014 annual reports, company formation and payroll/workload/leave; retail employer unresolved. Recovered source errors: legacy Ombudsman redirects, ACSSA timeout, Senate register open failure.",
     "Follow-up 2026-10-03: Business News provides year-level Department of Health, Morrgul and UWA roles; primary WACOSS annual report fixes Noongar Family Safety management to 10 December 2018–30 June 2019, while contemporary MG Corporation and UWA material corroborate research work. A Cox interview adds the otherwise omitted Centrelink public-policy role after police service; exact dates remain unknown. September 2016 event material establishes Keeping Kids Safe Project employment but not boundaries or hours. Commercial contact-aggregator month dates and additional titles were not adopted. Remaining gaps: exact Centrelink/SARC/Health transitions, all hours/leave, 2012–2013 and 2014–2016 chronology, Morrgul/UWA contract boundaries, post-June 2019 Noongar Family Safety status, and consulting workload/cessation.",
-    "Follow-up2026-10-04: Full employer2014annual report obtained after content-size400recovery establishes SWALSC leadership-program manager contract endJune2014; title/duties refined and2013start remains secondary. Added primary-correlated AboriginalPoliceAdvisoryForum inaugural membership2018, separate from policing payroll. SocialJustice2007full-time claim refers to community project officers, not Cox’s manager job; no FTstatus assigned. UWA Pathways page Wanslea research-manager paragraph belongs to another person, not Cox. Retain Centrelink, SARC/Health transitions, consulting workload/cessation and hours gaps."
+    "Follow-up2026-10-04: Full employer2014annual report obtained after content-size400recovery establishes SWALSC leadership-program manager contract endJune2014; title/duties refined and2013start remains secondary. Added primary-correlated AboriginalPoliceAdvisoryForum inaugural membership2018, separate from policing payroll. SocialJustice2007full-time claim refers to community project officers, not Cox’s manager job; no FTstatus assigned. UWA Pathways page Wanslea research-manager paragraph belongs to another person, not Cox. Retain Centrelink, SARC/Health transitions, consulting workload/cessation and hours gaps.",
+    "Follow-up2026-10-05: PrimaryJuly2015ANROWSFootprints adds PEG2015cohortstart and earlier consulting-director observation with services; adds previously omitted EveryWomanTreaty expert working-group activity from existingNIT interview, separately excluded. Explicit police/Centrelink age-versusofficial-date conflict retained rather than deriveddates. EveryWomanprimaryPDFopen400contentlength15826094recoveredviaindexedtext; Kooraminningdirector lead needs originalcorporation/ORIC evidence, not mirror repetition. Retailhours, Centrelinktransition, Healthleave and consultancyworkload remain gaps. Next targeted primary service/formation records rather than genericFT jobadvertisements."
   ]
 }
