@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Greens",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/310860",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-03",
+  "last_reviewed": "2026-10-04",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -153,6 +153,25 @@
       "counting_note": "Not counted: dates and/or substantive full-time status are insufficiently evidenced; year labels are not exact boundaries."
     },
     {
+      "employer": "Family farming business with Rod May (legal entity unidentified)",
+      "role": "Business partner",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "self_employed",
+      "fte_fraction": null,
+      "category": "private_enterprise",
+      "headline_sector": "private",
+      "government_control_at_time": "private",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "oct4-abc-family"
+      ],
+      "evidence_note": "A 2019 ABC report quotes Hodgins-May describing her father, Blampied farmer Rod May, as her business partner. He died in2017, but the report does not establish when the partnership began, whether work was paid, the legal entity, ownership share, substantive hours or whether the underlying business continued. Kept separate from the unidentified organic-food founder entry unless future evidence establishes identity.",
+      "counting_note": "Not counted: legal employer, interval boundaries, remuneration and substantive full-time status remain unknown.",
+      "spell_id": "310860-familyfarm"
+    },
+    {
       "spell_id": "310860-07",
       "employer": "Greenpeace Australia Pacific",
       "role": "Campaigner / Head of Pacific",
@@ -294,6 +313,16 @@
       "note": "Interview-based profile describes New York support-negotiator work and separately reports AusAID climate, food-security and Pacific work; quotes Hodgins-May about negotiating behind the Australia placard. No employment dates, hours or appointment mechanism.",
       "retrieved": "2026-10-03",
       "source_id": "oct3-guardian"
+    },
+    {
+      "url": "https://www.abc.net.au/news/2019-07-02/man-pleads-guilty-dangerous-driving-causing-former-mayors-death/11271594",
+      "publisher": "ABC News",
+      "title": "Stuart Usherwood pleads guilty to dangerous driving causing death of former mayor Rod May",
+      "source_type": "news",
+      "locator": "Victim-impact passage quoting Steph Hodgins-May; published 3 July 2019",
+      "note": "ABC quotes Hodgins-May describing her father Rod May as her business partner and identifies him as a Blampied farmer who died in 2017. The report does not identify the entity, dates, pay, ownership share or hours.",
+      "retrieved": "2026-10-04",
+      "source_id": "oct4-abc-family"
     }
   ],
   "research_notes": [
@@ -303,6 +332,7 @@
     "Follow-up2026-10-02: added self-confirmed Di Natale political work omitted from initial timeline; employer press release provides dated Greenpeace observation30 October2020; AMA narrows UN research to Gillard/Rudd and Security Council campaign context.",
     "Searched legal-firm identity, organic business, UN mission archive and nonprofit records. ABR name-match entry does not identify organic business or establish actual work dates, so registration dates not used. Crikey2016 statement is a reader letter and not silently promoted to verified reported chronology.",
     "Follow-up2026-10-03: interview-based Guardian reporting identifies previously omitted AusAID work on climate, food security and the Pacific and clarifies the New York function as support negotiator for Australia's positions. AusAID is retained as a separate unresolved spell because the source names the agency, but it may overlap the Mission assignment; payroll status, dates, hours and public-service appointment remain unknown. Repeated business-name and legal-employer searches did not resolve those identities.",
-    "Next leads: Di Natale archived office staffing/role biography; UN mission internship/adviser appointment record;2009 legal firm and later environmental-law employment identity; organic business trading name and ownership documents. No outreach or authenticated collection; dates/FTE still unknown."
+    "Next leads: Di Natale archived office staffing/role biography; UN mission internship/adviser appointment record;2009 legal firm and later environmental-law employment identity; organic business trading name and ownership documents. No outreach or authenticated collection; dates/FTE still unknown.",
+    "Follow-up2026-10-04: a primary ABC court report quotes Hodgins-May calling her late father Rod May her business partner and identifies him as a Blampied farmer. This adds a previously omitted family-farming business relationship. The report supplies no legal entity, start date, pay, ownership share or hours; it is not silently merged with the separately recorded unidentified organic-food founder role. Her father's2017 death is context, not an inferred business-cessation date."
   ]
 }
