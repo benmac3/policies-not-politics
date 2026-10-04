@@ -200,3 +200,6 @@
 
 - Matt Burnell: nonmaterial follow-up; new specific2016podcast audio lead, employment identity/hours still unresolved.
 - Attempt49distinct,0new,27material,22nonmaterial,0complete; cycle66distinct,33material,33nonmaterial; day203distinct,83material,120nonmaterial; all0new/complete. Next: Mark ButlerHWK. OUTCOME:ongoing; STOPPING REASON:none.
+
+- Mark Butler: nonmaterial follow-up; primary GamingCare chair distinction logged, paralegal hours and appointment dates unresolved.
+- Attempt50distinct,0new,27material,23nonmaterial,0complete; cycle67distinct,33material,34nonmaterial; day204distinct,83material,121nonmaterial; all0new/complete. Next: Claire Clutterham316101. OUTCOME:ongoing; STOPPING REASON:none.
