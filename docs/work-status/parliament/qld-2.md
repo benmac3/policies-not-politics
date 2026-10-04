@@ -201,3 +201,6 @@ Batch coverage, record fields, dates, enums, source references, build_careers.lo
 - Durable next cursor: James McGrath217241. OUTCOME:ongoing. STOPPING REASON:none; continue after verification. No successor requested this attempt; scheduler terminal status unavailable.
 - Recovered source errors: university PDF open inaccessible via search; LinkedIn click `(999) Unknown Status Code`; accessible public index used. Recovered checkout `fatal: invalid reference: origin/work/parliament-qld-2` by explicitly fetching assigned ref. None terminated research.
 - Validation: batch check226/13; batch qld-2; JSON/load_records, dates/source references and git diff check. Only assigned member and checkpoint modified.
+
+- James McGrath217241: nonmaterial follow-up — SA minister, Ombudsman personnel, legal admission and public profile searches did not establish new dates, employer, hours or leave. LinkedIn429 source-only, not retried. Existing contract dates/clients preserved.
+- Current attempt2distinct,0new,1material,1nonmaterial,0complete; cycle19distinct,7material,12nonmaterial; day156distinct,57material,99nonmaterial; all0new/complete. Durable next cursor: Shayne NeumannHVO. OUTCOME:ongoing; STOPPING REASON:none.
