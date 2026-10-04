@@ -321,9 +321,9 @@
       "spell_id": "ZN4-16",
       "employer": "Australian Parliament",
       "role": "Senator for Victoria",
-      "start_date": "2019",
+      "start_date": "2019-09-11",
       "end_date": null,
-      "date_precision": "unknown",
+      "date_precision": "day",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -332,10 +332,51 @@
       "counting_status": "excluded",
       "source_ids": [
         "src-1",
+        "src-2",
+        "oct4-qualservice"
+      ],
+      "evidence_note": "Official biography gives exact casual-vacancy choice11 September2019 after House service. Does not imply continuous elected-office service between chambers.",
+      "counting_note": "Outside the two employment headlines under the codebook; retained as career context."
+    },
+    {
+      "spell_id": "ZN4-lawstudy",
+      "employer": "Monash University",
+      "role": "Bachelor of Laws (Honours)",
+      "start_date": null,
+      "end_date": "1998",
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "oct4-qualservice",
+        "oct4-abcstudy",
         "src-2"
       ],
-      "evidence_note": "Casual-vacancy appointment after House service; not continuous House employment.",
-      "counting_note": "Outside the two employment headlines under the codebook; retained as career context."
+      "evidence_note": "Official and own biographies confirm qualification; ABC reports completion1998 and law-correspondent work while studying. Course start, load and conferral day unknown.",
+      "counting_note": "Study excluded; concurrent media work does not establish full-time employment."
+    },
+    {
+      "spell_id": "ZN4-assistantminister",
+      "employer": "Australian Government",
+      "role": "Assistant Minister for Social Services, Housing and Disability Services",
+      "start_date": "2018-08-28",
+      "end_date": "2019-05-29",
+      "date_precision": "day",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "elected_office",
+      "headline_sector": "excluded",
+      "government_control_at_time": "public",
+      "counting_status": "excluded",
+      "source_ids": [
+        "oct4-qualservice"
+      ],
+      "evidence_note": "Official exact ministerial dates; retained separately from House/Senate tenure without manufacturing chamber boundaries.",
+      "counting_note": "Political executive office excluded; overlapping elected roles not additional employment years."
     }
   ],
   "sources": [
@@ -458,6 +499,26 @@
       "note": "Contemporary retrospective says Henderson left the television industry at the start of 2009 after working at NITV. This supports an early-2009 cessation window but not an exact day, contract type or hours.",
       "retrieved": "2026-10-04",
       "source_id": "oct4-afr"
+    },
+    {
+      "source_id": "oct4-qualservice",
+      "url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=ZN4&lang=en",
+      "publisher": "Australian Parliament",
+      "title": "Sarah Henderson qualifications and parliamentary service",
+      "retrieved": "2026-10-04",
+      "source_type": "official_biography",
+      "locator": "Indexed Qualifications; Parliamentary service; Ministerial appointments",
+      "note": "LLB(Hons), Monash; chosen Senate11 September2019; assistant minister28 August2018–29 May2019. Direct open Internal Error; indexed official text used."
+    },
+    {
+      "source_id": "oct4-abcstudy",
+      "url": "https://www.abc.net.au/news/elections/federal/2016/guide/cora",
+      "publisher": "ABC News",
+      "title": "Corangamite2016 candidate guide, Sarah Henderson",
+      "retrieved": "2026-10-04",
+      "source_type": "news",
+      "locator": "Sarah Henderson candidate paragraph",
+      "note": "Reports law degree completion1998 while previously continuing as ABC law correspondent; no course commencement or load. Confirms study/work overlap, not full-time contract."
     }
   ],
   "research_notes": [
@@ -469,6 +530,7 @@
     "Targeted historical media appointment, Clifton, NITV, Kudos and full-time searches did not supply exact contracts or individual hours. Unrelated overseas health/PR/academic namesakes and staff recruitment advertisements excluded. Women Australia entry open returned URL not accessible via this tool; other independent sources used.",
     "Follow-up2026-10-03: historical schedules place Henderson on ABC Holiday23 August1993 and the Victorian7.30 Report20 March1995; an ABC archive identifies her as a7.30 Report reporter in1996. These observations sit either side of her documented1994 Seven/3AW work and materially refine the chronology, but do not establish whether she resigned, took leave or held concurrent contracts. A sworn2024 affidavit confirms the later sequence Allens to News Corporation to own consultancy to Network Ten/NITV management, but supplies no dates or hours, so official year labels remain unchanged.",
     "Next leads: ABC staff/annual records distinguishing pre1994 and1995 return spells; Seven production contract; archived3AW appointment notices; legal-firm/NewsCorp and consultancy employer biographies; pre-SBS NITV constitution. Do not turn broadcast observations or programme schedules into full-time duration.",
-    "Follow-up2026-10-04: a 22 November2014 Australian Financial Review profile says Henderson left the television industry at the start of2009 after NITV. This materially narrows the NITV cessation window within the official2009 year label, but does not establish an exact termination day, leave, contract type, paid hours or employer control. Targeted Kudos, Clifton, News Corporation and NITV searches otherwise repeated broad biographies or returned namesakes."
+    "Follow-up2026-10-04: a 22 November2014 Australian Financial Review profile says Henderson left the television industry at the start of2009 after NITV. This materially narrows the NITV cessation window within the official2009 year label, but does not establish an exact termination day, leave, contract type, paid hours or employer control. Targeted Kudos, Clifton, News Corporation and NITV searches otherwise repeated broad biographies or returned namesakes.",
+    "Follow-up2026-10-04: Added Monash honours-law qualification with ABC-supported1998 completion year and study/work overlap; exact Senate appointment11 September2019 and assistant-minister dates recovered from indexed official biography. No course start or law/media full-time fraction inferred. Canberra-lawyer, UKacademic/solicitor and Palmerston councillor namesakes and media-adviser job advertisements rejected. State parliamentary file400 Content length is too large:20031498, recovered via official federal indexed text. ABC1994 leave/contract relationship and later business hours remain unresolved. Next historical ABC contracts, legal employment and date/status evidence rather than repeat exhausted broad biographies."
   ]
 }

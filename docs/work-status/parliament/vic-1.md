@@ -339,3 +339,6 @@ State: ready-for-integration
 
 - 2026-10-04T22:36:07+10:00: Fernando: qualifications and party offices recorded; retail hours remain unresolved.
 - Attempt170distinct,0new,106material,64nonmaterial,0complete; cycle187distinct,112material,75nonmaterial; day226distinct,134material,92nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Sarah HendersonZN4; Garland, Giles, Gregg and Haines already verified this attempt.. OUTCOME:ongoing; STOPPING REASON:none.
+
+- 2026-10-04T22:38:11+10:00: Henderson: law-study year and exact Senate appointment recovered; broadcast overlap remains unresolved.
+- Attempt171distinct,0new,107material,64nonmaterial,0complete; cycle188distinct,113material,75nonmaterial; day226distinct,134material,92nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Julian Hill86256. OUTCOME:ongoing; STOPPING REASON:none.
