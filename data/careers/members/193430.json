@@ -191,7 +191,7 @@
       "role": "Member for Gellibrand",
       "start_date": "2013-09-07",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "day",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -209,7 +209,7 @@
       "role": "Asialink Leaders Program participant",
       "start_date": null,
       "end_date": "2017",
-      "date_precision": "mixed",
+      "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "study",
@@ -222,6 +222,44 @@
       "evidence_note": "Provider dates completion to 2017; start, duration and attendance pattern unknown. Training is not university employment.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "193430-10"
+    },
+    {
+      "spell_id": "193430-11",
+      "employer": "Text Publishing (publisher; employment relationship unknown)",
+      "role": "Coauthor with Clare O’Neil: Two Futures: Australia at a Critical Moment",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-13"
+      ],
+      "evidence_note": "Author credit confirmed. Paperback published 2015-08-12; this is a publication milestone, not a writing appointment boundary.",
+      "counting_note": "Pay and contract unknown. No substantive full-time duration counted; authorship may overlap elected service."
+    },
+    {
+      "spell_id": "193430-12",
+      "employer": "Text Publishing (publisher; employment relationship unknown)",
+      "role": "Author: The Golden Country: Australia’s Changing Identity",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-14"
+      ],
+      "evidence_note": "Author credit confirmed. Paperback published 2019-09-17; this is a publication milestone, not a writing appointment boundary.",
+      "counting_note": "Pay and contract unknown. No substantive full-time duration counted; authorship may overlap elected service."
     }
   ],
   "sources": [
@@ -289,7 +327,7 @@
       "url": "https://www.lse.ac.uk/media-and-communications/assets/documents/research/msc-dissertations/2008/Watts-final.pdf",
       "publisher": "London School of Economics and Political Science",
       "title": "Psephological Peer Production — Tim Watts MSc dissertation",
-      "source_type": "education",
+      "source_type": "other",
       "locator": "PDF pages 1–2 (zero-index 0–1), title and submission statement",
       "note": "Institution-hosted dissertation submitted September 2008; publication copyright 2009 is not course completion. Degree and subject match official biography.",
       "retrieved": "2026-10-02",
@@ -319,7 +357,7 @@
       "url": "https://www.openaustralia.org.au/debate/?id=2013-12-02.89.2",
       "publisher": "Parliament of Australia / OpenAustralia transcript",
       "title": "Tim Watts first speech, 2 December 2013",
-      "source_type": "parliament",
+      "source_type": "government_record",
       "locator": "Tim Watts at 3:50 pm, paragraph beginning The second must-win debate",
       "note": "Broad account of nearly ten years in ICT is not ten years of corporate full-time employment; political and legal work cannot be double-counted.",
       "retrieved": "2026-10-02",
@@ -329,7 +367,7 @@
       "url": "https://www.aph.gov.au/Parliamentary_Business/Committees/Senate/Legal_and_Constitutional_Affairs/Completed_inquiries/2010-13/classificationboard/report/e02",
       "publisher": "Parliament of Australia",
       "title": "Appendix 2: Witnesses who appeared before the committee",
-      "source_type": "parliament",
+      "source_type": "government_record",
       "locator": "Canberra, 25 March 2011 witness list, Timothy Watts entry",
       "note": "Official committee record observes Timothy Watts as Regulatory Manager, Telstra Corporation on a specific date; this is a role snapshot, not proof of appointment boundaries or full-time hours.",
       "retrieved": "2026-10-03",
@@ -344,6 +382,26 @@
       "note": "Current official biography identifies Telstra work on the NBN rollout, radio-spectrum auction and distribution, and network-pricing regulation; it gives no appointment boundaries, hours or leave.",
       "retrieved": "2026-10-03",
       "source_id": "src-12"
+    },
+    {
+      "source_id": "src-13",
+      "url": "https://www.textpublishing.com.au/books/two-futures-9781925240214",
+      "publisher": "Text Publishing",
+      "title": "Two Futures: Australia at a Critical Moment",
+      "retrieved": "2026-10-04",
+      "source_type": "employer",
+      "locator": "Publication details and author list, lines81–105",
+      "note": "Publisher confirms author credit and edition publication date; contract, royalties, writing period and hours unreported."
+    },
+    {
+      "source_id": "src-14",
+      "url": "https://www.textpublishing.com.au/books/the-golden-country-9781925603989",
+      "publisher": "Text Publishing",
+      "title": "The Golden Country: Australia’s Changing Identity",
+      "retrieved": "2026-10-04",
+      "source_type": "employer",
+      "locator": "Publication details and author list, lines71–99",
+      "note": "Publisher confirms author credit and edition publication date; contract, royalties, writing period and hours unreported."
     }
   ],
   "research_notes": [
@@ -355,6 +413,7 @@
     "2026-10-02 follow-up: public professional-profile extract, LSE dissertation, Asialink provider biography, contemporary Delimiter chronology and Watts-specific first-speech section checked. Refined Mallesons and Conroy months and Telstra start; recorded September 2008 dissertation milestone and 2017 training. Direct LinkedIn open returned Internal Error and then (999) Unknown Status Code; no restricted material accessed.",
     "Remaining leads: primary Telstra/Mallesons appointment and departure records, individual hours and leave; reconcile Brumby 2008/2009 and Conroy return chronology. First-speech broad ICT experience is not additive paid employment. Melbourne-law research-page Tim Watts and foreign executives lack identity matching and were not adopted. Last follow-up 2026-10-02; research remains blocked, totals null.",
     "2026-10-03 follow-up: official parliamentary committee material independently observes Watts as Telstra Regulatory Manager on 25 March 2011, corroborating the within-employer role progression without establishing its start or end. His current DFAT biography adds substantive technology-policy duties covering the NBN, spectrum allocation and network-pricing regulation. Searches of Telstra, Mallesons and official parliamentary material did not produce individual contract, hours, leave or departure evidence; the 2008/2009 political-staff conflict remains. Material duties and dated-role enrichment only; no full-time duration calculated.",
-    "2026-10-04 follow-up: exact-name Mallesons and Telstra role searches returned derivative biographies and a secondary 15July2009 Telstra appointment report already reflected through the July2009 boundary. No employer personnel record, practising-certificate history, departure day, hours, leave or evidence resolving the 2008/2009 Brumby conflict surfaced. Generic web search is exhausted for this pass; Mallesons/Telstra personnel files and ministerial-office appointment records remain decisive. No substantive fact changed."
+    "2026-10-04 follow-up: exact-name Mallesons and Telstra role searches returned derivative biographies and a secondary 15July2009 Telstra appointment report already reflected through the July2009 boundary. No employer personnel record, practising-certificate history, departure day, hours, leave or evidence resolving the 2008/2009 Brumby conflict surfaced. Generic web search is exhausted for this pass; Mallesons/Telstra personnel files and ministerial-office appointment records remain decisive. No substantive fact changed.",
+    "Follow-up2026-10-04: Primary publisher records establish previously unrecorded coauthorship of Two Futures and authorship of The Golden Country. Paperback publication milestones12August2015 and17September2019 are kept in evidence notes, not work endpoints; royalties, writing hours and contracts remain unknown. Targeted Mallesons full-time search returned a different delegate’s employment, and Harvard search returned another professional’s study; neither attributed to Watts. Existing commercial employment and political-staff chronology conflicts retained. Next: author contracts if legitimately public, personnel and education records for existing gaps."
   ]
 }

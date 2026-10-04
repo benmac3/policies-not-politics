@@ -337,3 +337,6 @@ Batch coverage, record fields, dates, enums, source references, build_careers.lo
 
 - 2026-10-04T23:32:12+10:00: Aaron Violi: follow-up retained all supported employment facts, corrected governance pay classification; no new employment evidence.
 - Attempt194distinct,0new,125material,69nonmaterial,0complete; cycle211distinct,131material,80nonmaterial; day226distinct,146material,80nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Tim Watts193430; Jess Walsh already processed in this attempt.. OUTCOME:ongoing; STOPPING REASON:none.
+
+- 2026-10-04T23:33:46+10:00: Tim Watts: two publisher-confirmed authorship activities added, pay/dates/hours unresolved.
+- Attempt195distinct,0new,126material,69nonmaterial,0complete; cycle212distinct,132material,80nonmaterial; day226distinct,147material,79nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Anne Webster281688. OUTCOME:ongoing; STOPPING REASON:none.
