@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/249147",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-03",
+  "last_reviewed": "2026-10-04",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -330,6 +330,27 @@
       "evidence_note": "Own biography confirms volunteering; organisation and dates unknown. No salaried work inferred.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "249147-16"
+    },
+    {
+      "spell_id": "249147-17",
+      "employer": "Street Law Centre WA Inc",
+      "role": "Management Committee member; deputy chairperson then ordinary member",
+      "start_date": "2013-10",
+      "end_date": null,
+      "date_precision": "mixed",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unpaid_work",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-17",
+        "src-18",
+        "src-19"
+      ],
+      "evidence_note": "2013/14 report records October2013 welcome and describes committee time as donated. Deputy chair in that report; 2014/15 report identifies replacement with continued membership. Resignation occurred within 1July2015–30June2016, exact calendar year/month unresolved; end_date remains null to avoid a fabricated boundary. Committee role distinct from paid legal staff.",
+      "counting_note": "Unpaid nonprofit governance excluded; no additional paid legal-employment years or full-time assumption."
     }
   ],
   "sources": [
@@ -492,6 +513,36 @@
       "note": "Published participant biography says Keogh became a Principal Federal Prosecutor focused on insider trading, market manipulation and breaches of directors' duties; it also distinguishes this role from later private litigation work.",
       "retrieved": "2026-10-03",
       "source_id": "src-16"
+    },
+    {
+      "source_id": "src-17",
+      "url": "https://streetlawcentre.org.au/wp-content/uploads/2015/05/SLC-Annual-Report-2014.pdf",
+      "publisher": "Street Law Centre WA Inc",
+      "title": "Annual Report 1 July 2013 to 30 June 2014",
+      "source_type": "primary_organisation",
+      "locator": "Printed pp5,7; Management Committee and appointments",
+      "retrieved": "2026-10-04",
+      "note": "Names Keogh as deputy chair, records October 2013 committee welcome and donated committee time."
+    },
+    {
+      "source_id": "src-18",
+      "url": "https://streetlawcentre.org.au/wp-content/uploads/2015/10/SLC-Annual-Report-2015.pdf",
+      "publisher": "Street Law Centre WA Inc",
+      "title": "Annual Report 1 July 2014 to 30 June 2015",
+      "source_type": "primary_organisation",
+      "locator": "Printed pp5,8; Management Committee and appointments",
+      "retrieved": "2026-10-04",
+      "note": "Records James Hulmes replacing Keogh as deputy chair while Keogh remains a committee member; exact deputy-chair change date not expressly supplied."
+    },
+    {
+      "source_id": "src-19",
+      "url": "https://streetlawcentre.org.au/wp-content/uploads/2019/03/SLC-Annual-Report-2016-Final.pdf",
+      "publisher": "Street Law Centre WA Inc",
+      "title": "Annual Report 1 July 2015 to 30 June 2016",
+      "source_type": "primary_organisation",
+      "locator": "PDF page3, section1.3 Management Committee Appointments",
+      "retrieved": "2026-10-04",
+      "note": "Reports Keogh resignation during the financial year; does not specify month. July2016 aggregator end not adopted."
     }
   ],
   "research_notes": [
@@ -501,6 +552,7 @@
     "Follow-up 2026-10-02: primary own biography, 2018 Hansard, indexed ARA 2003/2007 government records and December 2015 Pro Bono Centre report enrich excluded governance and volunteer history. Freehills commencement narrowed to March 2011 from public professional entry; direct profile 999.",
     "Important identity caution: WA 2005/2006 Carpenter staff lists and 2017 MacTiernan acting-chief answer name Matthew Keogh. A separate government/resource-industry professional profile also exists. Neither ministerial lists nor Level 8/term-of-government status attributed to this MP without identity reconciliation; existing 2003–05 DPC role retained provisionally, no public years counted.",
     "Law Access 2016/17 PDF timed out; indexed report identifies Adam Ebell as chair, so secondary aggregator claim Keogh chaired continuously December 2014–December 2017 is not accepted. 2017/18 director cessation remains supported. Street Law September 2013–July 2016 and CDPP October 2006–March 2011 aggregator ranges remain follow-up leads, not confirmed appointments.",
-    "Follow-up 2026-10-03: AIYD's published delegate biography establishes progression to Principal Federal Prosecutor and the corporate-crime subject matter, but not promotion month, hours or leave. Targeted CDPP, HSF, iiNet and public-profile searches did not supply primary appointment boundaries. WA parliamentary staff lists naming an older Matt Keogh include an ex-Builders Labourers Federation biography and therefore remain quarantined as a different person; they are not used to recategorise this MP's DPC spell. Next: original professional CV, employer records and Law Access/Street Law appointment reports."
+    "Follow-up 2026-10-03: AIYD's published delegate biography establishes progression to Principal Federal Prosecutor and the corporate-crime subject matter, but not promotion month, hours or leave. Targeted CDPP, HSF, iiNet and public-profile searches did not supply primary appointment boundaries. WA parliamentary staff lists naming an older Matt Keogh include an ex-Builders Labourers Federation biography and therefore remain quarantined as a different person; they are not used to recategorise this MP's DPC spell. Next: original professional CV, employer records and Law Access/Street Law appointment reports.",
+    "Follow-up2026-10-04: Recovered Street Law Centre 2013/14, 2014/15 and 2015/16 primary reports. Added donated governance role from October2013, separate deputy-chair transition and resignation financial-year window. This supersedes unverified September2013–July2016 aggregator lead: neither of those month boundaries matches primary evidence. 2013 report link showed verification wall; used accessible public later reports without bypass. CDPP/iiNet/DPC ordinary appointment and private-practice dates, full-span hours and campaign breaks remain unresolved."
   ]
 }

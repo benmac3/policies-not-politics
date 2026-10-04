@@ -191,3 +191,6 @@ Detailed attempted avenues, discrepancies and remaining leads are preserved in e
 
 - Andrew Hastie enriched: first-person January 2010 SASR internal posting date.
 - Attempt28distinct,0new,15material,13nonmaterial,0complete; cycle45distinct,21material,24nonmaterial; day182distinct,71material,111nonmaterial; all0new/complete. Next: Matt Keogh 249147. OUTCOME:ongoing; STOPPING REASON:none.
+
+- Matt Keogh enriched: primary Street Law unpaid governance commencement and cessation window, correcting aggregator lead.
+- Attempt29distinct,0new,16material,13nonmaterial,0complete; cycle46distinct,22material,24nonmaterial; day183distinct,72material,111nonmaterial; all0new/complete. Next: Madeleine King 102376. OUTCOME:ongoing; STOPPING REASON:none.
