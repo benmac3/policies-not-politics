@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/74519",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-04",
+  "last_reviewed": "2026-10-05",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -171,7 +171,7 @@
       "role": "Member for Perth",
       "start_date": "2018-07-28",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "day",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -249,7 +249,7 @@
       "role": "Guild Council member, filling a vacancy",
       "start_date": "2003",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "nonprofit",
@@ -261,6 +261,25 @@
       ],
       "evidence_note": "First-person interview identifies appointment to a vacant Council place in 2003 before the separately recorded 2004 Humanities representative and 2005 presidency. Council appointment day, cessation, remuneration and hours unknown; no paid employment inferred.",
       "counting_note": "Governance role excluded; overlapping Guild roles are not added as employment years."
+    },
+    {
+      "spell_id": "74519-13",
+      "employer": "Curtin University of Technology, governing Council",
+      "role": "Undergraduate Council member elected by Curtin Student Guild Council",
+      "start_date": null,
+      "end_date": "2005-08-13",
+      "date_precision": "day",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "university",
+      "headline_sector": "excluded",
+      "government_control_at_time": "public",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-17"
+      ],
+      "evidence_note": "2005primaryannualreportp13lists PatrickGorman as undergraduate member in pre13August2005Guild-election category. Boundary is governance-category cessation recorded by report, not personal resignation/payroll; commencement unknown. Staff-elected full-time category is separate and does not describe him.",
+      "counting_note": "University governance excluded; no paid academic/public-service job inferred. This endpoint is not applied to2005Guildpresidency or McDonalds employment."
     }
   ],
   "sources": [
@@ -423,6 +442,16 @@
       "locator": "28 June 2022; enrolment and Guild Council questions",
       "retrieved": "2026-10-04",
       "note": "Personal account dates Curtin enrolment and filling a vacant Guild Council place to 2003; does not establish pay or workload."
+    },
+    {
+      "source_id": "src-17",
+      "url": "https://www.parliament.wa.gov.au/publications/tabledpapers.nsf/displaypaper/3711409a118729976a096d9f4825714f00063be2/%24file/curtin%20uni%20ar%202004-5.pdf",
+      "publisher": "Curtin University of Technology / Parliament of Western Australia",
+      "title": "Annual Report2005",
+      "source_type": "university_record",
+      "retrieved": "2026-10-05",
+      "locator": "Printedpage13, Governance of University, Members Elected by Curtin Student Guild Council",
+      "note": "Public indexed primary-page context names Gorman as undergraduate member under Until13August2005, distinct from full-time staff-elected members. Tabled12April2006paper1409. Direct web and ordinaryHTTPdownloads403; indexed evidence only."
     }
   ],
   "research_notes": [
@@ -432,6 +461,7 @@
     "Follow-up 2026-10-02: full first-speech text on own website recovered after APH restricted-URL failure and identifies McDonalds shift management, overturning earlier unsuccessful hospitality search. Two Guild primary pages establish Humanities Representative 2004 and full-time president 2005; pay still unknown.",
     "Distinguished three-month leave reported before Parliament in 2018 from separate three-month leave ending around March 2021; neither assigned invented day boundaries. May 2018 secretary handover supported by Dixon succession account, not July election proxy.",
     "Targeted early-job, union, staff and public professional searches still leave Travers date conflict and hospitality dates/outlet/entity unresolved. US restaurant, cybersecurity and recruitment namesakes excluded. DEWR McDonalds keyword hit was an unrelated recommended Tony Burke interview, not Gorman employment evidence. Next: Guild 2005 remuneration/annual report, McDonalds outlet and dates, original staff appointments and union payroll.",
-    "Follow-up2026-10-04: New Guild interview records earlier 2003 Council membership and Curtin enrolment; preserved separate 2004/2005 roles and unknown study completion/work overlap. Targeted McDonalds outlet, Travers appointment and 2005 remuneration searches did not close private-work date/hour gaps. Curtin tabled annual-report index contains 13 August 2005 cessation for a university elected representative; two report opens returned HTTP403, so do not apply that date to Guild presidency or payroll. Future avenue: inspect full 2004/2005 university reports for separate governance membership, with no assumption it was salaried."
+    "Follow-up2026-10-04: New Guild interview records earlier 2003 Council membership and Curtin enrolment; preserved separate 2004/2005 roles and unknown study completion/work overlap. Targeted McDonalds outlet, Travers appointment and 2005 remuneration searches did not close private-work date/hour gaps. Curtin tabled annual-report index contains 13 August 2005 cessation for a university elected representative; two report opens returned HTTP403, so do not apply that date to Guild presidency or payroll. Future avenue: inspect full 2004/2005 university reports for separate governance membership, with no assumption it was salaried.",
+    "Follow-up2026-10-05: PrimaryCurtin2005reportp13 indexed full governance context now distinguishes separate undergraduate UniversityCouncil membership until13August2005; recorded separately from Guildpresidency, no FTstaff attribution. Tabledpaper1409dated12April2006corroboratesreportyear despite2004-5filename. Two ordinarypublic opens403, no access bypass; localrequests module absence recoveredurllib. McDonaldsoutlet/entity,hours and staffdateconflict remain unresolved; next specific payroll/appointment or franchise evidence."
   ]
 }
