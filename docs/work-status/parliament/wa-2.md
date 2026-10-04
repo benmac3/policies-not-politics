@@ -170,3 +170,6 @@
 
 - Glenn SterleE68: materially strengthened union re-election and self-employment evidence; unresolved.
 - Attempt42distinct,0new,24material,18nonmaterial,0complete; cycle59distinct,30material,29nonmaterial; day196distinct,80material,116nonmaterial; all0new/complete. Next: Ellie Whiteaker316555. OUTCOME:ongoing; STOPPING REASON:none.
+
+- Ellie Whiteaker: material May2018 party-role start refinement; ordinary Subway work remains undated/hours unknown.
+- Attempt43distinct,0new,25material,18nonmaterial,0complete; cycle60distinct,31material,29nonmaterial; day197distinct,81material,116nonmaterial; all0new/complete. Next: Tyron Whitten317026. OUTCOME:ongoing; STOPPING REASON:none.

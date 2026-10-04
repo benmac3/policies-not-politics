@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/316555",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-03",
+  "last_reviewed": "2026-10-04",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -174,9 +174,9 @@
     {
       "employer": "Australian Labor Party, Western Australian branch",
       "role": "Assistant State Secretary; deputy campaign director",
-      "start_date": "2018",
+      "start_date": "2018-05",
       "end_date": "2022-07",
-      "date_precision": "mixed",
+      "date_precision": "month",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "party_organisation",
@@ -185,9 +185,10 @@
       "counting_status": "excluded",
       "source_ids": [
         "src-2",
-        "src-3"
+        "src-3",
+        "src-6"
       ],
-      "evidence_note": "Elected2018, deputy campaign director2021; July2022 promotion supplies boundary at month precision. Exact appointment date and hours/leave unknown.",
+      "evidence_note": "Party biography gives election in2018; public professional profile indexed entry specifies Assistant State Secretary and Deputy Campaign Director May2018–July2022, refining start to month precision. Exact appointment day, personal hours and leave remain unknown.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "316555-09"
     },
@@ -312,9 +313,9 @@
       "publisher": "Ellie Whiteaker / LinkedIn",
       "title": "Public professional profile indexed extract",
       "source_type": "professional_profile",
-      "locator": "Search-indexed UnionsWA entry",
-      "note": "Public index corroborates August2012–March2013 UnionsWA. Direct profile open returned Internal Error; no authenticated scraping or additional fields inferred.",
-      "retrieved": "2026-10-01",
+      "locator": "Search-indexed UnionsWA entry and Assistant State Secretary and Deputy Campaign Director entry",
+      "note": "Public index corroborates August2012–March2013 UnionsWA. Direct profile open returned Internal Error; no authenticated scraping or additional fields inferred. Follow-up public index specifies WA Labor May2018–July2022 assistant-secretary/deputy-campaign-director tenure. Direct access remains unavailable; no unexposed fields inferred.",
+      "retrieved": "2026-10-04",
       "source_id": "src-6"
     },
     {
@@ -366,6 +367,7 @@
     "Follow-up 2026-10-02: later penalty-rates Hansard and own speech reproduction identify first Subway job and school/university shift pattern. This supersedes earlier note that no ordinary private employment had been identified. Both totals remain unknown.",
     "Follow-up searches for internship/Cook dates, assistant-secretary appointment and party cessation did not resolve personal hours or payroll endpoints. Public30June2025 party post supplies outgoing-status observation only; exact11July2022 appointment remains an unverified secondary lead until original dated announcement is accessible.",
     "LinkedIn open999, APH Hansard source403 and Instagram Online fetch throttled were individual access gaps; no repeated access-control attempts. Next leads: historical Subway Baldivis franchise/payroll identity and tenure, labour-movement internship records, Cook relief dates, union and party leave/full-time evidence. No employment attributed from other speakers or shared social posts.",
-    "Follow-up 2026-10-03: a public first-person LinkedIn post establishes that maternity leave was active at the November2023 WA Labor State Conference, while the already-cited later speech fixes return to full-time work in April2024. The leave start and exact return date remain unknown, so no continuous full-time party tenure is inferred. Searches did not recover new internship/Cook-relief dates or Subway franchise records."
+    "Follow-up 2026-10-03: a public first-person LinkedIn post establishes that maternity leave was active at the November2023 WA Labor State Conference, while the already-cited later speech fixes return to full-time work in April2024. The leave start and exact return date remain unknown, so no continuous full-time party tenure is inferred. Searches did not recover new internship/Cook-relief dates or Subway franchise records.",
+    "Follow-up2026-10-04: Public professional index refines assistant-state-secretary start from2018 to May2018. Subway franchise identity, internship/Cook dates and personal union/staff working time remain unresolved after targeted searches. Exact11July2022 appointment still depends on original party announcement; secondary repetition is not promoted to primary evidence. Existing maternity-leave observation and April2024 return preserved."
   ]
 }
