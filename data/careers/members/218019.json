@@ -101,6 +101,25 @@
       "counting_note": "Private/non-government school employment is supported, but substantive full-time status and exact dates are not established."
     },
     {
+      "spell_id": "218019-st-marys-return",
+      "employer": "St Mary's High School, Casino",
+      "role": "Teacher, second appointment; subjects and leadership duty unresolved",
+      "start_date": "2011",
+      "end_date": "2012",
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "private_enterprise",
+      "headline_sector": "private",
+      "government_control_at_time": "private",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-handbook45-oct4"
+      ],
+      "evidence_note": "The2017 Parliamentary Handbook explicitly lists a second teaching interval2011–12, separate from1999–2006. Retain year precision; exact dates, payroll entity, hours, leave and any Deputy Principal duties in this return are unknown. A separate spell prevents counting the intervening gap as continuous teaching.",
+      "counting_note": "Full-time status is unproven; no headline duration calculated. Do not resolve seven-versus-ten-year rounded claims by imposing exact calendar years."
+    },
+    {
       "spell_id": "218019-csrf",
       "employer": "Catholic Superannuation and Retirement Fund (CSRF Industry Superannuation Fund)",
       "role": "Investment Officer",
@@ -233,8 +252,8 @@
       "employer": "Trinity Group — Investors Advisory Board",
       "role": "Independent non-executive committee member representing Catholic Super",
       "start_date": null,
-      "end_date": null,
-      "date_precision": "unknown",
+      "end_date": "2008-09-24",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "private_enterprise",
@@ -243,9 +262,10 @@
       "counting_status": "excluded",
       "source_ids": [
         "src-trinity-2008",
-        "src-trinity-news-2009"
+        "src-trinity-news-2009",
+        "src-trinity2009-oct4"
       ],
-      "evidence_note": "Company annual report 2007–2008 identifies Hogan and records one attended/one eligible meeting. Later trade report places IAB formation in mid-2008. Individual appointment and resignation dates remain unknown; report coverage is not copied into an employment interval.",
+      "evidence_note": "Company annual report 2007–2008 identifies Hogan and records one attended/one eligible meeting. Later trade report places IAB formation in mid-2008. Individual appointment and resignation dates remain unknown; report coverage is not copied into an employment interval. Trinity2009 annual report independently supplies personal resignation24September2008 and successor Greg Cantor appointment the same day. The board end date is now exact; it is not the CSRF employee cessation date.",
       "counting_note": "Investor advisory/governance role excluded; not additional paid Trinity employment or duplicated CSRF duration.",
       "spell_id": "218019-trinity-iab"
     },
@@ -459,6 +479,26 @@
       "locator": "First-person candidate account, teaching paragraph",
       "note": "Reports ten years teaching, conflicting with official1999–2006 and ABC seven years. Neither interval nor full-time status inferred from rounded duration.",
       "retrieved": "2026-10-03"
+    },
+    {
+      "source_id": "src-handbook45-oct4",
+      "url": "https://openresearch-repository.anu.edu.au/bitstreams/f9296d1e-0d24-4d6c-a116-752d72366345/download",
+      "publisher": "Australian Parliament / Parliamentary Library; ANU public repository copy",
+      "title": "45th Parliament: Parliamentary Handbook2017",
+      "source_type": "official_biography",
+      "locator": "Printed page121, HOGAN Kevin, occupation paragraph",
+      "retrieved": "2026-10-04",
+      "note": "Full public PDF downloaded normally and text extracted after web reader403. Lists two school appointments1999–2006 and2011–12; no refreshed roster or hours inferred."
+    },
+    {
+      "source_id": "src-trinity2009-oct4",
+      "url": "https://announcements.asx.com.au/asxpdf/20090831/pdf/31kg49q9tsl9z8.pdf",
+      "publisher": "Trinity Group / ASX",
+      "title": "2009 Annual Financial Report",
+      "source_type": "employer",
+      "locator": "Printed page26/PDF page30 one-based, Investors Advisory Board; printed page5 attendance table",
+      "retrieved": "2026-10-04",
+      "note": "Explicit individual resignation24September2008 and Greg Cantor replacement that day; non-executive committee duties only, not employee tenure."
     }
   ],
   "research_notes": [
@@ -473,7 +513,8 @@
     "Second follow-up2October2026 adds omitted local wastewater governance and school/sport community roles. Council minutes anchor Clunes appointment to14December2004, rather than the8February2005 date of the containing business papers. Roles are excluded from paid-employment totals.",
     "Targeted CSRF appointment, school leadership and consultancy/legal-entity searches did not resolve personal hours or finance employer transitions.2026 industry profiles repeat employer variants without dates; reader comments are not used as evidence. US management consultant Kevin Hogan and UK delivery director are namesakes, not this member. New priority: Clunes committee cessation minutes and named school/sport records, alongside still-open CSRF terms, finance transitions and consultancy entity.",
     "Follow-up3October2026 retrieved the actual Clunes retirement resolution, distinct from the9December2008 agenda recommendation. It establishes committee dissolution only, not personal cessation. Added specific superannuation consultancy activity and recorded seven-versus-ten-year teaching conflict. Targeted P&C and club searches led to a partisan reproduction of an apparent2010 campaign page; original NLA/Pandora page reader returned Internal Error (no code), so the Clunes P&C/tennis vice-presidency wording remains an unverified lead. No primary school/club term or employment hours obtained. Declared-interest summaries suggest honorary Page Research Institute directorship; verify the original parliamentary register before adopting.",
-    "Fourth follow-up4October2026 located a public45th Parliament interests transcription recording Hogan as honorary director of Page Research Institute on15March2018. Added this as excluded nonprofit governance, not employment; appointment/cessation, duties and hours remain unknown. The same search surfaced secondary reproductions of his2010 campaign biography naming Clunes P&C and tennis offices, but the original archived page remained unavailable and the reproductions do not resolve term dates or payment. No finance, teaching, consultancy or farm hours inferred."
+    "Fourth follow-up4October2026 located a public45th Parliament interests transcription recording Hogan as honorary director of Page Research Institute on15March2018. Added this as excluded nonprofit governance, not employment; appointment/cessation, duties and hours remain unknown. The same search surfaced secondary reproductions of his2010 campaign biography naming Clunes P&C and tennis offices, but the original archived page remained unavailable and the reproductions do not resolve term dates or payment. No finance, teaching, consultancy or farm hours inferred.",
+    "Follow-up2026-10-04: Recovered full historic official handbook supplies omitted2011–12 teaching return; separate spell added without bridging2006–2011 gap. Original2009 Trinity employer report gives exact24September2008 advisory resignation, distinct from CSRF paid-work departure before16September. Member-hosted maiden speech mentions periodic Sky News economic updates but compensation, formal employer, dates and hours remain an unverified employment lead; no paid media spell inferred. Web-reader403s recovered through ordinary public PDF retrieval; no access-control bypass. Finance entity sequence and full-time teacher evidence remain unresolved."
   ],
   "open_questions": [
     "Which finance legal entities employed Hogan from 1989 to 1998, on what exact dates and under what government control at each transition?",
@@ -487,6 +528,7 @@
     "What was the exact CSRF cessation day before 16 September 2008, and did the four-day arrangement cover the entire 2006–2008 appointment?",
     "What were the CSRF board and Trinity IAB appointment/cessation dates and fees?",
     "When did Clunes Wastewater Committee service cease; which school P&C and sports club, on what dates and with what remuneration or volunteer basis?",
-    "Did Hogan leave the Clunes committee before its9December2008 dissolution; how can the seven-versus-ten-year teaching accounts be reconciled? Verify original2010 biography for Clunes P&C/tennis offices and original appointment/cessation records for Page Research Institute governance."
+    "Did Hogan leave the Clunes committee before its9December2008 dissolution; how can the seven-versus-ten-year teaching accounts be reconciled? Verify original2010 biography for Clunes P&C/tennis offices and original appointment/cessation records for Page Research Institute governance.",
+    "What were the2011–2012 return-to-teaching appointment dates, hours, payroll entity and overlaps with consultancy/farming; did Deputy Principal duties belong to this interval or the earlier one?"
   ]
 }
