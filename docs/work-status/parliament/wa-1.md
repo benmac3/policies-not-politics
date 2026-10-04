@@ -197,3 +197,6 @@ Detailed attempted avenues, discrepancies and remaining leads are preserved in e
 
 - Madeleine King follow-up: archival and employer-name attempts logged; no new supported boundaries/hours.
 - Attempt30distinct,0new,16material,14nonmaterial,0complete; cycle47distinct,22material,25nonmaterial; day184distinct,72material,112nonmaterial; all0new/complete. Next: Tania Lawrence 299150. OUTCOME:ongoing; STOPPING REASON:none.
+
+- Tania Lawrence enriched: omitted IPAA voluntary Council term and committee roles supported by historical reports.
+- Attempt31distinct,0new,17material,14nonmaterial,0complete; cycle48distinct,23material,25nonmaterial; day185distinct,73material,112nonmaterial; all0new/complete. Next: Sam Lim 300130. OUTCOME:ongoing; STOPPING REASON:none.
