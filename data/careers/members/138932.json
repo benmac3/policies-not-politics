@@ -6,7 +6,7 @@
   "snapshot_party": "Liberal Party of Australia",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/138932",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-03",
+  "last_reviewed": "2026-10-04",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -61,7 +61,7 @@
     {
       "spell_id": "138932-03",
       "employer": "Defiance International",
-      "role": "Operations and Business Development Manager, Asia Pacific; Country Manager, Taiwan",
+      "role": "Marketing and Administrative Officer; Operations and Business Development Manager, Asia Pacific; Country Manager, Taiwan",
       "start_date": null,
       "end_date": null,
       "date_precision": "unknown",
@@ -75,9 +75,10 @@
         "src-1",
         "src-2",
         "src-3",
-        "src-5"
+        "src-5",
+        "src-20"
       ],
-      "evidence_note": "The official biography lists both roles and O'Brien's profiles describe progression to senior management in Asia. No dates, hours, leave, exact employing entity or role boundary are supplied.",
+      "evidence_note": "The official biography lists both roles and O'Brien's profiles describe progression to senior management in Asia. No dates, hours, leave, exact employing entity or role boundary are supplied. Indexed Queensland parliamentary paper4896T275 additionally identifies him as Defiance Marketing and Administrative Officer and discusses a Taiwan bakery-goods venture with Elite Food. Exact observation date and relationship to the other Defiance titles remain unverified; no separate or overlapping duration is manufactured.",
       "counting_note": "Senior titles and ordering do not prove a full-time interval."
     },
     {
@@ -538,6 +539,16 @@
       "note": "Contemporary index corroborates appointment announcement. Full article redirects to inaccessible Tollbit endpoint; no bypass.",
       "retrieved": "2026-10-02",
       "source_id": "src-19"
+    },
+    {
+      "source_id": "src-20",
+      "url": "https://www.parliament.qld.gov.au/Work-of-the-Assembly/Tabled-Papers/docs/4896t275/4896t275.pdf",
+      "publisher": "Queensland Parliament",
+      "title": "Tabled paper4896T275 — Defiance entry",
+      "source_type": "government_record",
+      "retrieved": "2026-10-04",
+      "locator": "Defiance heading, Ted OBrien Marketing and Administrative Officer paragraph; publicly indexed primary text",
+      "note": "Identifies OBrien with Defiance and its Taiwan bakery-goods venture with Elite Food. Direct search open403 and ordinary curl403; original paper date/page and full context not verified. No1996employment boundary inferred from archive identifier."
     }
   ],
   "research_notes": [
@@ -549,6 +560,7 @@
     "Follow-up2026-10-02: reviewed primary member/party biography, public professional index, GI founder/board and organisation history, ABC2013profile and Brisbane2032annual-report index. Removed personal-work dates inferred solely from registration; retained original ABR facts in notes. Captured pro bono work and2005Accenture promotion without duration arithmetic.",
     "Further priorities: Accenture individual appointments/secondments and leave; Defiance/Ricegrowers dates and hours; confirmation of public-profile Barton Deakin months and consultancy closure;2013campaign break and any paid work; named consultancy clients and pro bono hours. Present profile label and cancelled2016ABN do not independently resolve actual employment end.",
     "Source gaps: Mumbrella open returned(500) redirect to Tollbit inaccessible/non-retryable; Courier Mail launch article inaccessible; parliamentary annual report403; Olympic-library mirror requires JS/cookies. Explicit publicly indexed primary report dates retained with access limits; no source bypass.",
-    "Follow-up 2026-10-03: targeted Accenture corporate, contemporary candidate, Ricegrowers, Defiance and public professional-profile searches repeated the existing 2005 Market Maker promotion observation and aggregate over-ten-year Accenture claim. No source established overall Accenture boundaries, weekly hours, leave, Defiance/Ricegrowers dates or consultancy closure. No dates were derived by subtracting four strategy years from the 2005 promotion."
+    "Follow-up 2026-10-03: targeted Accenture corporate, contemporary candidate, Ricegrowers, Defiance and public professional-profile searches repeated the existing 2005 Market Maker promotion observation and aggregate over-ten-year Accenture claim. No source established overall Accenture boundaries, weekly hours, leave, Defiance/Ricegrowers dates or consultancy closure. No dates were derived by subtracting four strategy years from the 2005 promotion.",
+    "Follow-up2026-10-04: newly located primary tabled-paper index adds a Defiance Marketing and Administrative Officer title and Taiwan joint-venture context. Retrieve original paper date/page before using a dated observation;403from search and ordinary curl did not justify bypass. ABC2013biography places Ricegrowers entry after a mid1990s return to Australia and trainee baking during university, but neither relative timing resolves exact boundaries/hours. Accenture corporate/2009–10, SunRice and college searches found no full-time, leave or consultancy cessation evidence."
   ]
 }

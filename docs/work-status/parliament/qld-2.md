@@ -207,3 +207,6 @@ Batch coverage, record fields, dates, enums, source references, build_careers.lo
 
 - Shayne NeumannHVO: nonmaterial follow-up — legal admission, university dates, Dinmore operator, Baptist terms and clerk-employer avenues unresolved. Reproduced court judgment corroborates existing practice but neither costs nor another partner admission supply personal employment dates/hours. Original judgment retrieval inaccessible, source-only gap.
 - Attempt3distinct,0new,1material,2nonmaterial,0complete; cycle20distinct,7material,13nonmaterial; day157distinct,57material,100nonmaterial; all0new/complete. Next: Ted OBrien138932. OUTCOME:ongoing; STOPPING REASON:none.
+
+- Ted OBrien138932: materially enriched — indexed primary Queensland tabled paper adds Defiance Marketing and Administrative Officer title and Taiwan venture context. Original paper date/page inaccessible403; archive identifier not converted into a1996employment date. Accenture/Ricegrowers/Defiancehours and boundaries unresolved.
+- Attempt4distinct,0new,2material,2nonmaterial,0complete; cycle21distinct,8material,13nonmaterial; day158distinct,58material,100nonmaterial; all0new/complete. Next: Llew OBrien265991. OUTCOME:ongoing; STOPPING REASON:none.
