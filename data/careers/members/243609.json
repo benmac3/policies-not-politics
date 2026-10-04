@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/243609",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-03",
+  "last_reviewed": "2026-10-04",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -59,7 +59,7 @@
     {
       "spell_id": "243609-03",
       "employer": "Offices of Victorian ministers Gavin Jennings and Lily D'Ambrosio",
-      "role": "Chief of staff and senior adviser",
+      "role": "Chief of staff to Lily D’Ambrosio; earlier acting chief of staff to Gavin Jennings; senior adviser assignments unresolved",
       "start_date": null,
       "end_date": null,
       "date_precision": "unknown",
@@ -73,9 +73,10 @@
         "src-1",
         "oct2-apec",
         "oct2-abc",
-        "oct2-firstspeech"
+        "oct2-firstspeech",
+        "oct4-crikey2010"
       ],
-      "evidence_note": "Official combined entry; minister-by-minister sequence and boundaries unavailable, so not split into invented intervals. Follow-up resolves chief-of-staff title for each minister: government exchange report lists him with D’Ambrosio in April2010; ABC2020 identifies him as Jennings former chief of staff. Exact sequence and the separately listed senior-adviser role remain unresolved. Keeping combined entry avoids fabricated boundaries; political work excluded.",
+      "evidence_note": "Official combined entry; minister-by-minister sequence and boundaries unavailable, so not split into invented intervals. Follow-up resolves chief-of-staff title for each minister: government exchange report lists him with D’Ambrosio in April2010; ABC2020 identifies him as Jennings former chief of staff. Exact sequence and the separately listed senior-adviser role remain unresolved. Keeping combined entry avoids fabricated boundaries; political work excluded. Contemporaneous24June2010report describes D’Ambrosio chief of staff as current and Jennings acting chief of staff as previous. This establishes relative sequence and acting character, not individual contract endpoints; no separate additive staff duration.",
       "counting_note": "Outside the two employment headlines under the codebook; retained as career context."
     },
     {
@@ -118,6 +119,25 @@
       ],
       "evidence_note": "Frozen roster first entry; elected service excluded.",
       "counting_note": "Outside the two employment headlines under the codebook; retained as career context."
+    },
+    {
+      "spell_id": "243609-socialist-left",
+      "employer": "Australian Labor Party, Victorian Socialist Left faction",
+      "role": "Faction secretary",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "party_organisation",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "oct4-crikey2010"
+      ],
+      "evidence_note": "Contemporaneous24June2010report names Giles in this organisational office. Observation date is not appointment date; cessation and remuneration unknown.",
+      "counting_note": "Political organisational role excluded from public/private employment headlines; not inferred full-time salaried employment."
     }
   ],
   "sources": [
@@ -200,6 +220,26 @@
       "note": "Confirms both legal firms and work for Jennings and D’Ambrosio; Tanner called mentor, which does not identify electorate-office employer.",
       "retrieved": "2026-10-02",
       "source_id": "oct2-firstspeech"
+    },
+    {
+      "source_id": "oct4-crikey2010",
+      "url": "https://www.crikey.com.au/2010/06/24/giles-sounded-out-as-tanner-replacement/",
+      "publisher": "Crikey",
+      "title": "Giles sounded out as Tanner replacement,24June2010",
+      "retrieved": "2026-10-04",
+      "source_type": "news",
+      "locator": "Opening; paragraph naming current D’Ambrosio chief of staff and prior acting Jennings chief of staff",
+      "note": "Contemporaneous report establishes Socialist Left secretary observation and relative sequence/acting nature of ministerial roles. Exact employment dates and hours unstated."
+    },
+    {
+      "source_id": "oct4-amnesty",
+      "url": "https://www.amnesty.org.au/meet-the-amnesty-parliamentary-group/",
+      "publisher": "Amnesty International Australia",
+      "title": "Pollies promoting human rights in parliament,10November2016",
+      "retrieved": "2026-10-04",
+      "source_type": "other",
+      "locator": "Andrew Giles paragraph and parliamentary-group co-chairs",
+      "note": "Organisation profile identifies Ether guitar activity in1990s and parliamentary co-chair. Neither implies separate paid employment."
     }
   ],
   "research_notes": [
@@ -209,6 +249,8 @@
     "Follow-up2026-10-02: recovered dated Holding Redlich litigation observations2000–2001 and government report identifying D’Ambrosio chief of staff in April2010; clarified that chief-of-staff title also applied to Jennings. No period inferred from isolated observations.",
     "Searched firm biographies, historical court decisions, political exchange annual reports, contemporary2012 preselection reporting and public profiles. Aggregated professional-profile dates were not independently verified and not adopted; namesake academic/umpiring/legal records excluded. Electorate office unidentified; calling Tanner a mentor is not proof he employed Giles.",
     "Follow-up2026-10-03: repeated targeted searches of Victorian parliamentary/government records, legal-employer material, Tampa representation, ministerial roles and contemporary election coverage. An official2026 D'Ambrosio statement reconfirms Giles was among her ministerial staff, and retrospective reporting says Jennings recruited him from law, but neither supplies an appointment boundary, hours or the sequence among legal and political roles. The existing April2010 observation remains the narrowest reliable D'Ambrosio anchor; no new spell boundary or full-time inference adopted.",
-    "Next leads: archived firm appointment/departure notices and legitimate professional CV; Victorian ministerial staffing records for Jennings/D’Ambrosio; electorate-office appointment evidence. Full-time, leave and exact legal-work boundaries remain unknown; no numerical headline calculated."
+    "Next leads: archived firm appointment/departure notices and legitimate professional CV; Victorian ministerial staffing records for Jennings/D’Ambrosio; electorate-office appointment evidence. Full-time, leave and exact legal-work boundaries remain unknown; no numerical headline calculated.",
+    "2026-10-04 Amnesty organisation profile describes Giles playing guitar in Ether in1990s with James Cecil; exact period, pay and professional employment status unknown, retained as activity lead rather than a new paid-employment assumption. Amnesty parliamentary co-chair is within parliamentary service. No unrelated university/Cure Brain Cancer namesake job adopted.",
+    "Follow-up2026-10-04: Contemporaneous2010report resolves acting nature and relative Jennings→D’Ambrosio chief-of-staff sequence and adds previously omitted Socialist Left secretary office. Legal appointment, unnamed electorate-office and hours remain unresolved. No start/day boundaries or paid music assumed."
   ]
 }

@@ -278,3 +278,6 @@ State: ready-for-integration
 
 - Carina Garland295588: nonmaterial targeted employment follow-up and NUW corroboration.
 - Attempt64distinct,0new,34material,30nonmaterial,0complete; cycle81distinct,40material,41nonmaterial; day218distinct,90material,128nonmaterial; all0new/complete. Next: Andrew Giles243609. OUTCOME:ongoing; STOPPING REASON:none.
+
+- Andrew Giles243609: material acting-role sequence and party-office addition.
+- Attempt65distinct,0new,35material,30nonmaterial,0complete; cycle82distinct,41material,41nonmaterial; day219distinct,91material,128nonmaterial; all0new/complete. Next: Matt Gregg315154. OUTCOME:ongoing; STOPPING REASON:none.
