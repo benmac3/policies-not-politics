@@ -127,9 +127,10 @@
       "source_ids": [
         "src-2",
         "src-5",
-        "src-7"
+        "src-7",
+        "src-20"
       ],
-      "evidence_note": "Pre-2001 health leadership. Sources distinguish CEO/director and founding chair imperfectly; paid executive versus governance terms need separation. Mid-1990s description not exact endpoints.",
+      "evidence_note": "Pre-2001 health leadership. Sources distinguish CEO/director and founding chair imperfectly; paid executive versus governance terms need separation. Mid-1990s description not exact endpoints. Employer 2005–06 report independently names her first CEO; 1997–98 vice-chair dates belong to Helen Morris. Executive and inaugural-chair terms remain unresolved.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "F2S-06"
     },
@@ -225,7 +226,7 @@
     {
       "employer": "Wurli-Wurlinjang Aboriginal Corporation Health Service",
       "role": "Chief executive officer, return spell",
-      "start_date": null,
+      "start_date": "2013",
       "end_date": "2015",
       "date_precision": "year",
       "employment_status": "unknown",
@@ -237,9 +238,11 @@
       "source_ids": [
         "src-3",
         "src-5",
-        "src-11"
+        "src-11",
+        "src-17",
+        "src-18"
       ],
-      "evidence_note": "Current CEO on29April2015; AMSANT says departure for Tiwi council. Return date unestablished; do not infer continuous employment since1993.",
+      "evidence_note": "Current CEO on29April2015; AMSANT says departure for Tiwi council. Return date unestablished; do not infer continuous employment since1993. University-authored 2014 history explicitly dates return as CEO to 2013, citing NT News 8 March 2013 p5; start refined at year precision only. Governor-General’s dated program independently confirms CEO on 20 June 2014. Original 2013 announcement and precise appointment day remain a follow-up need; Red Cross cessation/overlap not inferred.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "F2S-11"
     },
@@ -301,9 +304,10 @@
       "counting_status": "excluded",
       "source_ids": [
         "src-5",
-        "src-11"
+        "src-11",
+        "src-21"
       ],
-      "evidence_note": "Chair inApril2015, successor fromApril2016. Governance term and subsequent appointment not equated with salaried executive employment.",
+      "evidence_note": "Chair inApril2015, successor fromApril2016. Governance term and subsequent appointment not equated with salaried executive employment. CDU 2016 report biography still calls her AMSANT chair; may reflect an earlier biographical observation within the reporting year, so it does not override independently recorded succession in April 2016.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "F2S-14"
     },
@@ -403,6 +407,63 @@
       "evidence_note": "First federal service from frozen roster; no parliamentary tenure added to employment totals.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "F2S-19"
+    },
+    {
+      "spell_id": "F2S-20",
+      "employer": "Lifeline Australia",
+      "role": "Non-executive director; Audit and Risk Committee member",
+      "start_date": "2012-11-02",
+      "end_date": "2013-03-27",
+      "date_precision": "day",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unpaid_work",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-19"
+      ],
+      "evidence_note": "Exact director term in employer report; committee term 7 December 2012–27 March 2013 is nested within it. Report explicitly says directors unpaid. Expense reimbursement is not salary; no double-counted committee spell or employment years.",
+      "counting_note": "Governance kept separate from substantive employment; no public/private headline duration."
+    },
+    {
+      "spell_id": "F2S-21",
+      "employer": "Charles Darwin University",
+      "role": "Council member",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "university",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-21"
+      ],
+      "evidence_note": "Documented council membership and attendance during reporting year 2016. Observation not substituted for appointment/end dates. Governance not an academic/staff appointment; pay and terms unknown, excluded regardless of remuneration.",
+      "counting_note": "Governance kept separate from substantive employment; no public/private headline duration."
+    },
+    {
+      "spell_id": "F2S-22",
+      "employer": "National Aboriginal Community Controlled Health Organisation",
+      "role": "National board member, Northern Territory representative",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "nonprofit",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-22"
+      ],
+      "evidence_note": "Named in 2013–14 employer report board roster, printed p15 index. Individual term and remuneration unavailable; reporting year not assigned as employment bounds. Full source access limitation explicit.",
+      "counting_note": "Governance kept separate from substantive employment; no public/private headline duration."
     }
   ],
   "sources": [
@@ -565,6 +626,66 @@
       "note": "Scrymgour calls this her last CEO report, says she is leaving for the Northern Land Council and describes 3.6 years leading TIRC. It supports an April 2019 end month, not an exact final workday.",
       "retrieved": "2026-10-04",
       "source_id": "src-16"
+    },
+    {
+      "source_id": "src-17",
+      "url": "https://www.womenaustralia.info/leaders/biogs/WLE0394b.htm",
+      "publisher": "Australian Women’s Archives Project; Caitlin Stone, University of Melbourne",
+      "title": "Scrymgour, Marion Rose; Encyclopedia of Women and Leadership, published 2014",
+      "source_type": "other",
+      "locator": "Biographical paragraph 2; newspaper bibliography",
+      "note": "Reliable secondary history explicitly gives Wurli return as CEO in 2013, citing NT News 8 March 2013 p5. Original newspaper not inspected; publication day is not adopted as appointment day.",
+      "retrieved": "2026-10-04"
+    },
+    {
+      "source_id": "src-18",
+      "url": "https://www.gg.gov.au/about-governor-general/governor-generals-program/visit-wurli-wurlinjang-health-service",
+      "publisher": "Governor-General of Australia",
+      "title": "Visit to Wurli-Wurlinjang Health Service, 20 June 2014",
+      "source_type": "government_record",
+      "locator": "Dated program entry, substantive paragraph",
+      "note": "Identifies Scrymgour as current Wurli CEO on the visit date. Observation supports the return spell; not an inferred commencement.",
+      "retrieved": "2026-10-04"
+    },
+    {
+      "source_id": "src-19",
+      "url": "https://www.lifeline.org.au/sites/default/files/2025-10/LLA-Annual-Report-2012-2013.pdf",
+      "publisher": "Lifeline Australia",
+      "title": "Annual report 2012–2013",
+      "source_type": "employer",
+      "locator": "Printed/PDF pp14,40–41",
+      "note": "Original report downloaded from current official URL and text inspected; p40 visually checked. Director 2 November 2012–27 March 2013; audit/risk committee 7 December 2012–27 March 2013. P14 explicitly states non-executive directors unpaid. Old Azure URL returned 502; current URL web extraction timed out but ordinary public download succeeded. Board dates are not employment dates.",
+      "retrieved": "2026-10-04"
+    },
+    {
+      "source_id": "src-20",
+      "url": "https://www.kwhb.com.au/wp-content/uploads/2021/01/2005-2006KWHB_Annual_Report.pdf",
+      "publisher": "Katherine West Health Board",
+      "title": "Annual report 2005–2006",
+      "source_type": "employer",
+      "locator": "PDF pp4–5; Helen Morris farewell and Jack Little histories",
+      "note": "Original public report downloaded and text inspected. Names Scrymgour first CEO and quotes her historical account. 1997–1998 vice-chair dates refer to Helen Morris, not Scrymgour; not assigned to her.",
+      "retrieved": "2026-10-04"
+    },
+    {
+      "source_id": "src-21",
+      "url": "https://www.cdu.edu.au/files/2019-07/annual-report-2016.pdf",
+      "publisher": "Charles Darwin University",
+      "title": "Annual report 2016",
+      "source_type": "employer",
+      "locator": "Printed/PDF pp25–26, Council members and meeting attendance",
+      "note": "Original public report downloaded and relevant text inspected. Names Scrymgour as council member and records attendance; does not specify her appointment or cessation dates or personal remuneration. Biography also describes her as AMSANT chair, which requires reconciliation with the separate April 2016 succession evidence.",
+      "retrieved": "2026-10-04"
+    },
+    {
+      "source_id": "src-22",
+      "url": "https://f.hubspotusercontent10.net/hubfs/5328468/Resources/Publications%20and%20Resources/Annual%20Reports/NACCHO-2013-2014-Annual-Report.pdf",
+      "publisher": "National Aboriginal Community Controlled Health Organisation",
+      "title": "Annual report 2013–2014",
+      "source_type": "employer",
+      "locator": "Indexed printed p15, The NACCHO Board (continued)",
+      "note": "Primary indexed page names Scrymgour in the national board roster. Full PDF web open returned Internal Error; ordinary download HTTP403. Only indexed evidence used; no appointment dates, pay or full-time status inferred.",
+      "retrieved": "2026-10-04"
     }
   ],
   "research_notes": [
@@ -575,6 +696,7 @@
     "Recovered source errors: Menzies HTML Unicode decoding error but PDF accessible; AMSANT PDF Internal Error; Tiwi Partners newsletter404. Primary indexed details retained with access limitations. No job-wide blocking error.",
     "Follow-up2026-10-02: contemporaneous Red Cross appointment reproduced inOctober2012Tiwi Times establishes national-head title and2012commencement, materially clarifying the frozen Research Council conflict. Exact termination and whether any separateResearchCouncilrole existed remain unresolved; no duplicate public years.",
     "Employer historical report index adds1997Katherine West engagement observation; Red Cross biography names trial executive officer. KWHBfullreportweb400size20198058; only index used. Next useful records: Red Cross2012–14staff departures, Wurli2013–15appointment announcement, Katherine West1997–2001executive contract and payroll, Tiwi2019separation and NLCJuly2021leave evidence. No individual full-time proof found.",
-    "Follow-up 2026-10-04: official Tiwi council agenda contains Scrymgour's 26 April 2019 last CEO report, refining the council end to April 2019 and corroborating the 2015 commencement interval. Exact final working day, transition overlap and individual hours remain unresolved; no headline total calculated."
+    "Follow-up 2026-10-04: official Tiwi council agenda contains Scrymgour's 26 April 2019 last CEO report, refining the council end to April 2019 and corroborating the 2015 commencement interval. Exact final working day, transition overlap and individual hours remain unresolved; no headline total calculated.",
+    "Follow-up2026-10-04: University history establishes Wurli return in2013 at year precision; Governor-General confirms CEO20June2014. Original Lifeline2012–13 report establishes unpaid director2November2012–27March2013 and nested committee dates. Added separately observed CDU and NACCHO governance, with remuneration/terms unknown and NACCHO indexed-only403 limitation. KWHB2005–06 confirms firstCEO but vice-chair1997–98 belongs to Helen Morris. Early employment, individual hours, Red Cross cessation, executive/governance separation and NLC leave remain gaps; no totals. Recovered Lifeline extraction timeout via ordinary official download; oldhost502 and NACCHO403 are source-specific, not terminal."
   ]
 }

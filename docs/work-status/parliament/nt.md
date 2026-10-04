@@ -77,3 +77,6 @@
 - Attempt137distinct,0new,81material,56nonmaterial,0complete; cycle154distinct,87material,67nonmaterial; day226distinct,120material,106nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Marion ScrymgourF2S. OUTCOME:ongoing; STOPPING REASON:none.
 
 - Price field correction: date_precision=mixed reflects day-level start and year-only end. Validation correction, no additional distinct or material record counted. Next remains Marion ScrymgourF2S; OUTCOME:ongoing; STOPPING REASON:none.
+
+- 2026-10-04T21:19:28+10:00: Marion Scrymgour: refined Wurli2013 start and documented unpaid Lifeline directorship; added separately observed governance.
+- Attempt138distinct,0new,82material,56nonmaterial,0complete; cycle155distinct,88material,67nonmaterial; day226distinct,120material,106nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: nsw-1 R36 Anthony Albanese; next national follow-up pass in frozen plan order, prioritising new leads.. OUTCOME:ongoing; STOPPING REASON:none.
