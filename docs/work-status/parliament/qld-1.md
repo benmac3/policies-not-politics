@@ -234,3 +234,7 @@ Deduplicated Brisbane-day new member IDs: 00AMR, 101351, 124514, 132880, 140590,
 - Current cycle/continuation: 1 distinct record, 0 new initial, 1 materially enriched existing, 0 nonmaterial follow-ups and 0 newly research-complete. Brisbane-day cumulative: 138 distinct, 0 new, 51 materially enriched, 87 nonmaterial follow-ups and 0 newly complete.
 - Durable next cursor: Jim Chalmers (37998).
 - OUTCOME: ongoing. STOPPING REASON: none; continue after remote verification. Successor not requested. Scheduler terminal status unavailable.
+
+- Jim Chalmers: nonmaterial follow-up — targeted ICAC/Operation Credo searches found contemporaneous reports of the tendered file notes but not the original exhibit or CPR personnel record. University searches again produced no third teaching institution or hours. The June 2007 CPR observation remains unchanged; revisit on an original file note or appointment archive.
+- Current cycle/continuation: 2 distinct records, 0 new initial, 1 materially enriched existing, 1 nonmaterial follow-up and 0 newly complete. Brisbane-day cumulative: 139 distinct, 0 new, 51 materially enriched, 88 nonmaterial follow-ups and 0 newly complete.
+- Durable next cursor: Anthony Chisholm (39801).
