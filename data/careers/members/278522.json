@@ -107,7 +107,7 @@
       "role": "Member for Macnamara",
       "start_date": "2019-05-18",
       "end_date": null,
-      "date_precision": "unknown",
+      "date_precision": "day",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -176,6 +176,26 @@
       "evidence_note": "Current first-person member biography states that he worked in the corporate sector after university. Employer names, role, dates, number of positions, hours and relationship to other early work are absent; no publishing-company identity is inferred from derivative profiles.",
       "counting_note": "Dates, substantive full-time status and employer identity remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "278522-07"
+    },
+    {
+      "spell_id": "278522-08",
+      "employer": "Monash University",
+      "role": "Bachelor of Arts studies; Political Studies major",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-mckell2021",
+        "oct2-abc2019"
+      ],
+      "evidence_note": "Own report biography and ABC candidate guide identify qualification, without enrolment or completion dates. First speech places teacher-aide work during university; no exact overlap can be calculated.",
+      "counting_note": "Study excluded from employment headlines."
     }
   ],
   "sources": [
@@ -268,6 +288,16 @@
       "note": "Lists post-university work as teacher's aide, factory hand, basketball coach and in the corporate sector before later Premier adviser work. Supplies no employers, dates or hours and conflicts with the earlier university timing for teacher-aide work.",
       "retrieved": "2026-10-03",
       "source_id": "oct3-member"
+    },
+    {
+      "source_id": "src-mckell2021",
+      "url": "https://mckellinstitute.org.au/wp-content/uploads/2022/02/The-Crumbling-Australian-Dream.pdf",
+      "publisher": "McKell Institute Victoria / Josh Burns",
+      "title": "The Crumbling Australian Dream,March2021",
+      "retrieved": "2026-10-04",
+      "source_type": "other",
+      "locator": "PDF p2 author biography, degree and earlier work",
+      "note": "Own authored report gives Monash Bachelor of Arts, Political Studies major. Authorship for institute does not establish separate employment or pay; no course dates."
     }
   ],
   "research_notes": [
@@ -278,6 +308,7 @@
     "School and printing employer searches, first-speech review and public professional-name searches remain inconclusive. Aluco construction managing director and overseas teaching/IT Josh Burns profiles are different people and rejected. Father’s30-year printing career is not the member’s duration.",
     "Next evidence needed: school/payroll or public employment profile with dates/hours, printing-company identity and individual summer periods, Danby appointment and leave history. No gated-profile collection or outreach performed.",
     "Third follow-up3October2026: current first-person member biography adds previously omitted basketball-coach and corporate-sector work after university. Separate undated spells preserve these claims without guessing employers, remuneration, hours or a publishing-company identity. Its post-graduation grouping conflicts with the prior university placement of teacher-aide work, so neither phrase is converted into a date. Targeted searches still did not resolve the school, printing/corporate employer, coaching organisation or Danby appointment/leave boundary. No headline totals changed.",
-    "Fourth follow-up4October2026: exact-phrase searches for the teacher-aide, printing factory/despatch, basketball-coaching and corporate work returned the member's current broad biography and later reporting only. No source named the school, printing or corporate employer, coaching organisation, dates, paid status or hours. Search results were heavily contaminated by unrelated same-name professionals and were rejected. The current biography's post-graduation grouping remains in tension with his first-speech statement placing teacher-aide work during university, so no calendar interval was inferred. Danby appointment/leave and early-job boundaries remain unresolved; no headline change."
+    "Fourth follow-up4October2026: exact-phrase searches for the teacher-aide, printing factory/despatch, basketball-coaching and corporate work returned the member's current broad biography and later reporting only. No source named the school, printing or corporate employer, coaching organisation, dates, paid status or hours. Search results were heavily contaminated by unrelated same-name professionals and were rejected. The current biography's post-graduation grouping remains in tension with his first-speech statement placing teacher-aide work during university, so no calendar interval was inferred. Danby appointment/leave and early-job boundaries remain unresolved; no headline change.",
+    "Follow-up2026-10-04: Added previously unrecorded Monash BA study using own2021 McKell report biography and ABC corroboration. McKell authorship is not assumed employment. Targeted printing/school/corporate searches returned broad biography and namesakes; father Phil’s industry career and sister’s packaging work are not the member’s employer or tenure. Coles Online and overseas publishing/IT profiles were rejected as unrelated. Summer factory spells and study/work chronology conflict remain unresolved. Next seek payroll/legal school and print employers, coaching pay and Danby leave boundaries."
   ]
 }

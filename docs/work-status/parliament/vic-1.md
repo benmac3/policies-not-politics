@@ -312,3 +312,6 @@ State: ready-for-integration
 
 - 2026-10-04T22:15:42+10:00: Briskey materially enriched: omitted bottle-shop employment and bachelor study; dated university/clinical hours still unknown.
 - Attempt161distinct,0new,97material,64nonmaterial,0complete; cycle178distinct,103material,75nonmaterial; day226distinct,129material,97nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Josh Burns278522. OUTCOME:ongoing; STOPPING REASON:none.
+
+- 2026-10-04T22:17:20+10:00: Burns materially enriched: Monash study retained separately; early employers and FT evidence unresolved.
+- Attempt162distinct,0new,98material,64nonmaterial,0complete; cycle179distinct,104material,75nonmaterial; day226distinct,130material,96nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Darren ChesterIPZ. OUTCOME:ongoing; STOPPING REASON:none.
