@@ -316,3 +316,6 @@ Batch coverage, record fields, dates, enums, source references, build_careers.lo
 
 - 2026-10-04T23:16:10+10:00: Sam Rae300122: materially added omitted Melbourne Business School postgraduate diploma; day upgrade from earlier nonmaterial.
 - Attempt187distinct,0new,122material,65nonmaterial,0complete; cycle204distinct,128material,76nonmaterial; day226distinct,143material,83nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Joanne Ryan249224, VIC2 member13. OUTCOME:ongoing; STOPPING REASON:none.
+
+- 2026-10-04T23:17:02+10:00: Joanne Ryan249224: nonmaterial follow-up; source-specific403 recorded, namesake full-time claims excluded.
+- Attempt188distinct,0new,122material,66nonmaterial,0complete; cycle205distinct,128material,77nonmaterial; day226distinct,143material,83nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Monique Ryan297660, VIC2 member14. OUTCOME:ongoing; STOPPING REASON:none.
