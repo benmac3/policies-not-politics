@@ -150,3 +150,6 @@
 
 - 2026-10-04T20:33:36+10:00: Bleyer: documented a separate primary-confirmed volunteer activity; legal-work full-time status remains unresolved.
 - Attempt113distinct,0new,69material,44nonmaterial,0complete; cycle130distinct,75material,55nonmaterial; day226distinct,115material,111nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Carol Brown F49. OUTCOME:ongoing; STOPPING REASON:none.
+
+- 2026-10-04T20:34:44+10:00: Brown: tested historical personnel-report and title-based gazette avenues; no person-specific classification or hours recovered.
+- Attempt114distinct,0new,69material,45nonmaterial,0complete; cycle131distinct,75material,56nonmaterial; day226distinct,115material,111nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Claire Chandler264449. OUTCOME:ongoing; STOPPING REASON:none.
