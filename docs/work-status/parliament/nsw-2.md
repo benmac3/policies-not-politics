@@ -328,3 +328,6 @@ Batch check passes: 226 assigned exactly once across 13 batches; nsw-2 assignmen
 
 - 2026-10-04T19:48:34+10:00: Michael McCormack: materially enriched MSS personal commercial activity/income evidence; no countable interval.
 - Attempt91distinct,0new,52material,39nonmaterial,0complete; cycle108distinct,58material,50nonmaterial; day226distinct,103material,123nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Melissa McIntosh281513. OUTCOME:ongoing; STOPPING REASON:none.
+
+- 2026-10-04T19:49:35+10:00: Melissa McIntosh: nonmaterial follow-up; no new employment evidence.
+- Attempt92distinct,0new,52material,40nonmaterial,0complete; cycle109distinct,58material,51nonmaterial; day226distinct,103material,123nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Deborah O’Neill140651. OUTCOME:ongoing; STOPPING REASON:none.
