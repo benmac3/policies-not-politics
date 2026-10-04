@@ -72,3 +72,6 @@
 
 - 2026-10-04T21:09:41+10:00: Malarndirri McCarthy: materially enriched with first-person consultancy ownership and conflicting community-radio chronology, retained unresolved dates.
 - Attempt136distinct,0new,80material,56nonmaterial,0complete; cycle153distinct,86material,67nonmaterial; day226distinct,120material,106nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Jacinta Nampijinpa Price263528. OUTCOME:ongoing; STOPPING REASON:none.
+
+- 2026-10-04T21:12:04+10:00: Jacinta Nampijinpa Price: materially enriched with three named arts roles and exact council election day, original annual-report pages verified.
+- Attempt137distinct,0new,81material,56nonmaterial,0complete; cycle154distinct,87material,67nonmaterial; day226distinct,120material,106nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Marion ScrymgourF2S. OUTCOME:ongoing; STOPPING REASON:none.
