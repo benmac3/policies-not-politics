@@ -6,7 +6,7 @@
   "snapshot_party": "Liberal Party of Australia",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/281826",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-03",
+  "last_reviewed": "2026-10-04",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -200,9 +200,12 @@
       "government_control_at_time": "unknown",
       "counting_status": "excluded",
       "source_ids": [
-        "src-12"
+        "src-12",
+        "src-16",
+        "src-17",
+        "src-18"
       ],
-      "evidence_note": "Official parliamentary biography gives role and years. Do not conflate Australian JobTrain with US JobTrain Inc or UK recruitment-software company. Legal identity, executive versus governance duties,pay and hours unresolved.",
+      "evidence_note": "Official parliamentary biography gives role and years. Do not conflate Australian JobTrain with US JobTrain Inc or UK recruitment-software company. Legal identity, executive versus governance duties,pay and hours unresolved. Follow-up: local selectability subsidiary Jobtrain Pty Ltd ABN36759736468 is now a strong candidate: its current primary site identifies former Jobtrain, ABR records charity status and the2018–19report records100%parent control. Those sources do not name Thompson as secretary; legal-entity match and earlier control remain unconfirmed, so existing unknown classification is retained.",
       "counting_note": "Company office represented separately; no evidence of substantive full-time employment. Excluded pending clarification.",
       "spell_id": "281826-09"
     },
@@ -263,6 +266,25 @@
       "evidence_note": "APH lists qualification but no study dates or attendance basis; no employment inferred.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "281826-12"
+    },
+    {
+      "employer": "Townsville Defence Community Reference Group",
+      "role": "Member representing selectability",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-7"
+      ],
+      "evidence_note": "Cathy O’Toole’s13September2017Hansard identifies Thompson among members of the locally established defence-policy reference group. This observation does not define appointment/cessation, remuneration or employment. Separate from NMHC review reference group; no public-service interval inferred.",
+      "counting_note": "Advisory participation excluded; pay and substantive employment unknown.",
+      "spell_id": "281826-13"
     }
   ],
   "sources": [
@@ -331,10 +353,10 @@
       "url": "https://www.openaustralia.org.au/debates/?id=2017-09-13.172.1",
       "publisher": "Parliament of Australia Hansard via OpenAustralia",
       "title": "Defence Legislation Amendment debate, 13 September 2017",
-      "retrieved": "2026-09-30",
+      "retrieved": "2026-10-04",
       "source_type": "government_record",
       "locator": "Townsville Defence Community Reference Group passage",
-      "note": "Contemporary parliamentary record identifying Phillip Thompson as a selectability representative in 2017."
+      "note": "Contemporary parliamentary record identifying Phillip Thompson as a selectability representative in 2017. Cathy O’Toole names Thompson in the Townsville Defence Community Reference Group; this is separate from the NMHC review reference group. Primary Parlinfo link403, Hansard reproduction directly readable."
     },
     {
       "source_id": "src-8",
@@ -415,6 +437,36 @@
       "note": "Undated commercial speaker profile; corroborates roles but does not establish paid bookings,workload or appointment boundaries.",
       "retrieved": "2026-10-02",
       "source_id": "src-15"
+    },
+    {
+      "source_id": "src-16",
+      "url": "https://www.selectabilitytraining.com.au/about/selectabilitytraining-ndis-community-services-training-courses/",
+      "publisher": "selectability Training",
+      "title": "Who we are",
+      "retrieved": "2026-10-04",
+      "source_type": "employer_record",
+      "locator": "Who we are; footer RTO0281/ABN36759736468",
+      "note": "Identifies former Jobtrain, owned by selectability, and current legal name Jobtrain Pty Ltd. Does not name Thompson or prove his company-secretary entity."
+    },
+    {
+      "source_id": "src-17",
+      "url": "https://abr.business.gov.au/ABN/View/36759736468",
+      "publisher": "Australian Business Register",
+      "title": "Jobtrain Pty Ltd ABN36759736468",
+      "retrieved": "2026-10-04",
+      "source_type": "government_record",
+      "locator": "Entity, charity registration and business name sections",
+      "note": "Australian private company; charity registration3December2012; selectability Training business name6December2018. Registration is not personal tenure."
+    },
+    {
+      "source_id": "src-18",
+      "url": "https://s3-ap-southeast-2.amazonaws.com/os-data/solas-org-au/bundle4/annual_report_2018_-_2019.pdf",
+      "publisher": "selectability",
+      "title": "Annual Report2018–19",
+      "retrieved": "2026-10-04",
+      "source_type": "employer_record",
+      "locator": "Printedpp33,41; financial reportpp1,9; directors report and Note1(a)",
+      "note": "Downloaded primary PDF directly after web-open Internal Error; reports Jobtrain training business and100%selectability control. No company-secretary appointment or Thompson identity link in extracted report. Historical control before2018–19 not established."
     }
   ],
   "research_notes": [
@@ -426,6 +478,7 @@
     "Follow-up2026-10-02: parliamentary indexed biography,first-personTownsvilleguide,RAR2017bio,speakerprofile,ABRhistory and searches for employer annual reports reviewed. AddedJobTrain/APMA/NMHC/study; removed assumed2019advocacy cessation and nonprofit classification for unidentifiedpilot employer.",
     "Remaining: JobTrain legal identity/executive status,2015pilot employer,hours,gaps2011–2015,Swiss8pre-registration structure,precise board dates,paid versus voluntary advisory/speaking work. Third-party profile exposes month dates and additionalDVAcommittee leads but primary records not found; no inferred month dates adopted. BraveryTrustJuly2012discharge quote belongs to Sonya,notThompson.",
     "Recovered source errors: APHdirect403/robots,WelcomePDF404,RUOKURL inaccessible. Official indexed excerpts supplied relevant chronology; no access controls bypassed.",
-    "Follow-up 2026-10-03: targeted searches for JobTrain, the 2015 veterans peer-support pilot, Australian Pain Management Association and selectability returned the existing parliamentary chronology, association biography and undated speaker profile or unrelated namesakes. The speaker profile's senior-project-management wording is consistent with the recorded selectability role but supplies no employer boundary, hours, leave or pay. JobTrain legal identity and the 2015 employing entity remain unresolved."
+    "Follow-up 2026-10-03: targeted searches for JobTrain, the 2015 veterans peer-support pilot, Australian Pain Management Association and selectability returned the existing parliamentary chronology, association biography and undated speaker profile or unrelated namesakes. The speaker profile's senior-project-management wording is consistent with the recorded selectability role but supplies no employer boundary, hours, leave or pay. JobTrain legal identity and the 2015 employing entity remain unresolved.",
+    "Follow-up2026-10-04: Added distinct Townsville Defence Community Reference Group advisory membership from2017Hansard. Investigated Jobtrain Pty Ltd/local nonprofit subsidiary candidate using employer website, ABR and downloaded2018–19annual report; identity remains unconfirmed. No full-time basis, medical-leave dates or2015pilot employer resolved. Recovered errors: web PDF Internal Error, primary Hansard403; curl PDF retrieval200; local requests unavailable, curl used."
   ]
 }

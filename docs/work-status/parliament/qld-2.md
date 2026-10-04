@@ -228,3 +228,6 @@ Batch coverage, record fields, dates, enums, source references, build_careers.lo
 
 - Matt Smith312393: materially enriched — two omitted state-league clubs added as activity, with paid status/control/hours explicitly unknown and primary-season gaps retained.
 - Attempt10distinct,0new,5material,5nonmaterial,0complete; cycle27distinct,11material,16nonmaterial; day164distinct,61material,103nonmaterial; all0new/complete. Next: Phillip Thompson281826. OUTCOME:ongoing; STOPPING REASON:none.
+
+- Phillip Thompson281826 materially enriched with separate2017local reference-group role and documented Jobtrain identity/control lead.
+- Attempt11distinct,0new,6material,5nonmaterial,0complete; cycle28distinct,12material,16nonmaterial; day165distinct,62material,103nonmaterial; all0new/complete. Next: AndrewWallace265967. OUTCOME:ongoing; STOPPING REASON:none.
