@@ -316,3 +316,6 @@ Batch check passes: 226 assigned exactly once across 13 batches; nsw-2 assignmen
 
 - 2026-10-04T19:41:01+10:00: David Moncrieff: APRA bargaining-record avenue checked; no new career fact, blocked gaps retained.
 - Attempt87distinct,0new,50material,37nonmaterial,0complete; cycle104distinct,56material,48nonmaterial; day226distinct,103material,123nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Jenny McAllister 121628. OUTCOME:ongoing; STOPPING REASON:none.
+
+- 2026-10-04T19:42:55+10:00: Jenny McAllister: AECOM Technical Director phase gains original contemporaneous title evidence, with dated observation; no hours inferred.
+- Attempt88distinct,0new,51material,37nonmaterial,0complete; cycle105distinct,57material,48nonmaterial; day226distinct,103material,123nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Kristy McBain 281988. OUTCOME:ongoing; STOPPING REASON:none.
