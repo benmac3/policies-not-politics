@@ -255,3 +255,6 @@ Batch coverage, record fields, dates, enums, source references, build_careers.lo
 
 - 2026-10-04T20:07:50+10:00: Sharma: Roots commencement narrowed toFebruary2018, reported consultancy terms and Rozana board added; ambassador cessation precision corrected.
 - Attempt101distinct,0new,58material,43nonmaterial,0complete; cycle118distinct,64material,54nonmaterial; day226distinct,107material,119nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Tony Sheldon168275. OUTCOME:ongoing; STOPPING REASON:none.
+
+- 2026-10-04T20:09:40+10:00: Sheldon: original union transition notice corroborated; Queensland archival clipping403; early employers and trustee tenure unresolved.
+- Attempt102distinct,0new,58material,44nonmaterial,0complete; cycle119distinct,64material,55nonmaterial; day226distinct,107material,119nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: David Shoebridge169119. OUTCOME:ongoing; STOPPING REASON:none.
