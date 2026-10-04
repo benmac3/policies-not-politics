@@ -342,3 +342,6 @@ State: ready-for-integration
 
 - 2026-10-04T22:38:11+10:00: Henderson: law-study year and exact Senate appointment recovered; broadcast overlap remains unresolved.
 - Attempt171distinct,0new,107material,64nonmaterial,0complete; cycle188distinct,113material,75nonmaterial; day226distinct,134material,92nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Julian Hill86256. OUTCOME:ongoing; STOPPING REASON:none.
+
+- 2026-10-04T22:39:53+10:00: Hill: dated postgraduate study and executive training recovered; departmental hours remain unknown.
+- Attempt172distinct,0new,108material,64nonmaterial,0complete; cycle189distinct,114material,75nonmaterial; day226distinct,134material,92nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Steph Hodgins-May310860. OUTCOME:ongoing; STOPPING REASON:none.

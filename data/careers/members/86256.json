@@ -164,7 +164,7 @@
       "role": "Member for Bruce",
       "start_date": "2016-07-02",
       "end_date": null,
-      "date_precision": "unknown",
+      "date_precision": "day",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -195,6 +195,104 @@
       "evidence_note": "Official undated party offices; no employment or remuneration inferred. Membership itself not treated as employment.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "86256-alp"
+    },
+    {
+      "spell_id": "86256-study1",
+      "employer": "Monash University",
+      "role": "Bachelor of Science",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "oct4-qual",
+        "src-4"
+      ],
+      "evidence_note": "Official and own degrees confirmed; course dates absent. Unlabeled1991–2000/1991–1999 profile rows and uncited2000 degree claim not assigned.",
+      "counting_note": "Study/training excluded; overlapping public service not converted to FTE or leave."
+    },
+    {
+      "spell_id": "86256-study2",
+      "employer": "Monash University",
+      "role": "Bachelor of Laws",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "oct4-qual",
+        "src-4"
+      ],
+      "evidence_note": "Official and own degrees confirmed; course dates absent. No paid legal employment inferred.",
+      "counting_note": "Study/training excluded; overlapping public service not converted to FTE or leave."
+    },
+    {
+      "spell_id": "86256-study3",
+      "employer": "Deakin University",
+      "role": "Graduate Certificate in Arts (International Relations)",
+      "start_date": "2013",
+      "end_date": "2015",
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "oct4-qual",
+        "oct4-linkedin"
+      ],
+      "evidence_note": "Named public education row reports2013–2015, completed graduate certificate and departure from broader course on preselection. Exact attendance/exit dates and load unknown; overlaps state employment.",
+      "counting_note": "Study/training excluded; overlapping public service not converted to FTE or leave."
+    },
+    {
+      "spell_id": "86256-study4",
+      "employer": "Provider unidentified",
+      "role": "Company Directors Course (Order of Merit)",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "oct4-qual"
+      ],
+      "evidence_note": "Official qualification title; dates and provider not explicitly given. Unlabeled2012 profile rows not mapped to course.",
+      "counting_note": "Study/training excluded; overlapping public service not converted to FTE or leave."
+    },
+    {
+      "spell_id": "86256-study5",
+      "employer": "Australia and New Zealand School of Government",
+      "role": "Executive Fellows Program",
+      "start_date": "2008",
+      "end_date": "2008",
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "oct4-qual"
+      ],
+      "evidence_note": "Official2008 training label; exact boundaries and study/employment leave unknown.",
+      "counting_note": "Study/training excluded; overlapping public service not converted to FTE or leave."
     }
   ],
   "sources": [
@@ -293,10 +391,20 @@
       "publisher": "Julian Hill",
       "title": "Julian Hill public professional profile",
       "source_type": "professional_profile",
-      "locator": "Public profile search extract for Victorian public-service roles",
-      "note": "Self-authored professional profile says he also acted as Executive Director, Metropolitan Planning during restructures. It does not supply dates, duration, FTE or leave history.",
+      "locator": "Public profile search extract for Victorian public-service roles; visible indexed Education section",
+      "note": "Self-authored professional profile says he also acted as Executive Director, Metropolitan Planning during restructures. It does not supply dates, duration, FTE or leave history. Named Deakin row2013–2015 says completed graduate certificate and exited course on preselection. Other education-year rows lack institutions and titles; not mapped. Direct open999.",
       "retrieved": "2026-10-04",
       "source_id": "oct4-linkedin"
+    },
+    {
+      "source_id": "oct4-qual",
+      "url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=86256",
+      "publisher": "Australian Parliament",
+      "title": "Julian Hill official qualifications and training",
+      "retrieved": "2026-10-04",
+      "source_type": "official_biography",
+      "locator": "Indexed Qualifications and Other positions sections",
+      "note": "BSc and LLB(Monash), GradCertArts(IR)(Deakin), Company Directors Course(Order of Merit); ANZSOG Executive Fellows Program2008. Degree dates absent. IPAA fellow status2012 is an honour/professional affiliation, not employee appointment."
     }
   ],
   "research_notes": [
@@ -307,6 +415,7 @@
     "Council direct page and PDF screenshots403; indexed official information used only for explicit facts. First state-hearing URL404 recovered through another indexed official version. Searched historical departmental records and public profiles; overseas public-service, surveying and consulting namesakes rejected.",
     "Follow-up2026-10-03: government records add Executive Director, Urban Development observation28 September2011 and Executive Director, Regional Services observation by16 March2012/in the2011–12 annual report. These refine portfolio succession inside the official2007–2013 DPCD spell but do not establish exact transfer boundaries, substantive full-time status, leave or2016 cessation.",
     "Next leads: individual departmental appointment/FTE/leave records and2002 public-service commencement evidence;2016 resignation date. Departmental year spans and fourteen-year narrative remain insufficient for exact full-time total.",
-    "Follow-up2026-10-04: Hill's public professional profile adds an acting Executive Director, Metropolitan Planning responsibility during departmental restructures, filling a previously generic part of the DPCD role description. The profile does not provide appointment or cessation dates, acting duration, full-time hours or leave. Targeted 2002 commencement and 2016 resignation searches otherwise repeated broad biographies; a 2018 public-administration profile only says he held the final executive-director post before election."
+    "Follow-up2026-10-04: Hill's public professional profile adds an acting Executive Director, Metropolitan Planning responsibility during departmental restructures, filling a previously generic part of the DPCD role description. The profile does not provide appointment or cessation dates, acting duration, full-time hours or leave. Targeted 2002 commencement and 2016 resignation searches otherwise repeated broad biographies; a 2018 public-administration profile only says he held the final executive-director post before election.",
+    "Follow-up2026-10-04: Added five qualifications/training spells, including named Deakin2013–2015 graduate-certificate study and ANZSOG2008 program. Unlabeled professional education rows not assigned to Monash degrees or director course; uncited2000 conferral claims remain follow-up. Direct LinkedIn999 recovered via legitimate public indexed section. Other litigation/agricultural professionals, staff education and general public-service FTE counts rejected. Fourteen-year career remains without individual hours, leave/cessation and private-history proof. Next dated degree records and departmental appointment/payroll/leave evidence."
   ]
 }
