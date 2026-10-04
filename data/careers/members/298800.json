@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/298800",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-04",
+  "last_reviewed": "2026-10-05",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -326,9 +326,11 @@
       "counting_status": "excluded",
       "source_ids": [
         "src-5",
-        "src-6"
+        "src-6",
+        "src-15",
+        "src-16"
       ],
-      "evidence_note": "Attested2018 and2021;2021 membership12months with per-meeting fees. Full tenure unknown; sitting fees do not establish full-time teaching/public service.",
+      "evidence_note": "Attested2018 and2021;2021 membership12months with per-meeting fees. Full tenure unknown; sitting fees do not establish full-time teaching/public service. Full original reports now read:2018 and2019 each report six-month membership ($768/$2,895);2020 twelve months ($1,536). These reporting figures do not identify exact appointment/renewal or leave boundaries and cannot be converted to July1 starts. Governance fees remain excluded.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "298800-16"
     },
@@ -357,7 +359,7 @@
       "role": "Member for Swan",
       "start_date": "2022-05-21",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "day",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -414,7 +416,7 @@
       "role": "Board member (before and alongside secretary role)",
       "start_date": "2016",
       "end_date": "2019",
-      "date_precision": "mixed",
+      "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "nonprofit",
@@ -448,6 +450,48 @@
       "evidence_note": "Registered-organisation annual return lists Mascarenhas as WA branch treasurer in its 2012 officeholder annexure. This may overlap the separately reported national vice-presidency and is governance, not another substantive employment interval; exact term boundaries and remuneration remain unknown.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "298800-22"
+    },
+    {
+      "employer": "University not identified — Masters study",
+      "role": "Masters in Community Development study (reported ongoing)",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-6",
+        "src-15",
+        "src-16"
+      ],
+      "evidence_note": "TAFE2018,2019 and2020 profiles describe studying a Masters in Community Development. Institution is not named in these profiles; Murdoch is verified only for separately recorded graduate qualifications, so do not transfer it to this degree. Dates, completion and employment overlap remain unknown. Repeated wording may be carried forward.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "298800-23"
+    },
+    {
+      "employer": "Vic Park Transition Network",
+      "role": "Volunteer",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unpaid_work",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-6",
+        "src-15",
+        "src-16"
+      ],
+      "evidence_note": "TAFE profiles2018–2020 identify current volunteering with the network; no exact tenure or paid work established. Anticipated Uniting Church WA Social Justice Commission membership is a prospective lead, not a confirmed appointment.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "298800-24"
     }
   ],
   "sources": [
@@ -506,9 +550,9 @@
       "publisher": "South Metropolitan TAFE",
       "title": "Annual Report2018",
       "source_type": "employer",
-      "locator": "Governing Council profile; indexed text",
-      "note": "Earlier board membership attestation, not appointment boundary.",
-      "retrieved": "2026-10-01",
+      "locator": "Council profile pp12–13; printed p88 remuneration",
+      "note": "Earlier board membership attestation, not appointment boundary. Full original PDF now retrieved:2018 six-month council membership, $768 per-meeting remuneration; profile identifies Masters study and Vic Park volunteering.",
+      "retrieved": "2026-10-05",
       "source_id": "src-6"
     },
     {
@@ -590,6 +634,26 @@
       "locator": "Chemical engineering celebrates 25 years; Terry Smith Award paragraph",
       "retrieved": "2026-10-04",
       "note": "Search-indexed historical magazine states graduation in 2003. Current direct URL redirects to central.curtin.edu.au generic home; historical indexed evidence retained with that limitation."
+    },
+    {
+      "source_id": "src-15",
+      "url": "https://www.southmetrotafe.wa.edu.au/sites/default/files/2020-07/SMTAFE2019AnnualReport_0.pdf",
+      "publisher": "South Metropolitan TAFE",
+      "title": "Annual Report 2019",
+      "source_type": "employer",
+      "locator": "Printed pp23,66; council profile and remuneration",
+      "note": "Names Energetics duties, Masters study and Vic Park volunteering; six-month council membership and per-meeting remuneration $2,895.",
+      "retrieved": "2026-10-05"
+    },
+    {
+      "source_id": "src-16",
+      "url": "https://www.southmetrotafe.wa.edu.au/sites/default/files/2021-04/SMTAFEAnnualReport2020.pdf",
+      "publisher": "South Metropolitan TAFE",
+      "title": "Annual Report 2020",
+      "source_type": "employer",
+      "locator": "Printed pp12,71; council profile and remuneration",
+      "note": "Repeats Masters study and volunteering; twelve-month council membership and $1,536 per-meeting remuneration. Profile wording may be carried forward; not proof of continuous study or volunteer service.",
+      "retrieved": "2026-10-05"
     }
   ],
   "research_notes": [
@@ -602,6 +666,7 @@
     "Public LinkedIn index displays a shared item about maternity leave; sharing alone is insufficient attribution of the underlying first-person statement. No individual leave date or employment fraction assigned. Energetics full-time/leave searches also found another employee tagging Mascarenhas; that employee's leave is not hers.",
     "Next leads: obtain readable Curtin council heading/appointment record and 2012 engineering feature; archived Energetics staff CV/individual work arrangements and AYAD placement terms remain needed. APH board membership from 2016 and secretary from 2017 are separate capacities; do not count twice.",
     "Follow-up 2026-10-03: WRAS 2019–20 reporting establishes that Mascarenhas served as secretary only to the 2019 AGM and names her successor from that AGM, bounding both board and secretary service without inventing an exact AGM day. A registered-organisation annual return separately records her as WA branch treasurer in 2012 alongside the reported national vice-presidency. Targeted employer searches still yielded no defensible month dates, hours or leave for Iluka, GHD or Energetics.",
-    "Follow-up2026-10-04: Historical Curtin August 2008 magazine adds a 2003 graduation statement. Exact enrolment and both-degree chronology remain open; no employment gap inferred between graduation and Iluka. South Metropolitan TAFE 2019 report open returned Internal Error; Curtin historical link now redirects to a generic home, so indexed evidence is identified explicitly. Targeted Energetics full-time/parental-leave and AYAD searches did not resolve individual dates/hours or placement contract terms. Public professional feed still mixes other people’s posts; do not assign a shared maternity-leave claim. Prior source leads retained."
+    "Follow-up2026-10-04: Historical Curtin August 2008 magazine adds a 2003 graduation statement. Exact enrolment and both-degree chronology remain open; no employment gap inferred between graduation and Iluka. South Metropolitan TAFE 2019 report open returned Internal Error; Curtin historical link now redirects to a generic home, so indexed evidence is identified explicitly. Targeted Energetics full-time/parental-leave and AYAD searches did not resolve individual dates/hours or placement contract terms. Public professional feed still mixes other people’s posts; do not assign a shared maternity-leave claim. Prior source leads retained.",
+    "Follow-up2026-10-05: original South Metropolitan TAFE2018–2020 PDFs retrieved normally, recovering prior web503/Internal Error. Added Masters study with unnamed institution and Vic Park Transition Network volunteering; added council membership/payment observations without inventing renewal boundaries. Prospective church appointment remains a lead; repetitive profile text may be carried forward. Engineering job hours/leave and AYAD employment terms remain unresolved. Search-index SignalHire January boundaries are unverified aggregator data and not adopted; public professional feed still mixes others posts. Next: original council appointment instrument, Energetics personnel arrangements and readable2012 engineering feature."
   ]
 }
