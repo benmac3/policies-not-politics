@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/157125",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-03",
+  "last_reviewed": "2026-10-04",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -284,9 +284,10 @@
       "government_control_at_time": "unknown",
       "counting_status": "excluded",
       "source_ids": [
-        "src-13"
+        "src-13",
+        "src-16"
       ],
-      "evidence_note": "Former directorship identified by school biography. Governing entity/control, term and pay unresolved; governance is excluded from employment headlines.",
+      "evidence_note": "Former directorship identified by school biography. Governing entity/control, term and pay unresolved; governance is excluded from employment headlines. LGIS own14April2021 account independently lists Roberts among board representatives and describes scheme as wholly member-owned, with local-government owners, member/independent directors and WALGA president/CEO representation. Legal trustee and ultimate-control rules require further charter review; do not equate service-provider JLT branding with scheme ownership. Membership is point evidence, not a term boundary.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "157125-14"
     },
@@ -327,6 +328,25 @@
       "evidence_note": "Representative advisory capacity tied to elected office; precise appointment dates/pay unknown. Hospital ownership does not convert this into clinical employment.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "157125-16"
+    },
+    {
+      "employer": "Western Australian Local Government Association training",
+      "role": "Statements of attainment towards Diploma of Local Government Elected Members",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-17"
+      ],
+      "evidence_note": "City minutes on13December2011 report completed units in planning, budgets, ethics, sustainable assets, strategy, conflict and CEO appraisals. This establishes training by that observation, not enrolment or full diploma completion. Dates, hours and any employment overlap remain unknown.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "157125-17"
     }
   ],
   "sources": [
@@ -465,8 +485,8 @@
       "publisher": "Tracey Roberts / LinkedIn",
       "title": "Tracey Roberts MP professional profile",
       "source_type": "professional_profile",
-      "locator": "Publicly indexed Experience: Foundation Registrar, Peter Moyes Anglican Community School, Sep 1999 –",
-      "note": "Visible indexed start month refines independently confirmed 1999 year. Direct open returned (999) Unknown Status Code; endpoint and hours not visible, so not inferred.",
+      "locator": "Publicly indexed Experience: Foundation Registrar, Sep1999–Sep2011 (endpoint obtained3October2026)",
+      "note": "Initial2October index supplied start only; subsequent3October follow-up exposed compatible full month range. Direct open999; individual hours still unknown.",
       "retrieved": "2026-10-02",
       "source_id": "src-14"
     },
@@ -479,6 +499,26 @@
       "note": "Roberts listed as Member for Pearce representative; advisory board meets six times per year. Not evidence of clinical or salaried hospital employment.",
       "retrieved": "2026-10-02",
       "source_id": "src-15"
+    },
+    {
+      "source_id": "src-16",
+      "url": "https://lgiswa.com.au/newsfeed/news/print/126",
+      "publisher": "Local Government Insurance Scheme",
+      "title": "Your Mutual Scheme",
+      "source_type": "employer",
+      "locator": "14 April2021; What is a mutual and Key benefits item1",
+      "retrieved": "2026-10-04",
+      "note": "Primary dated board membership for Roberts; describes scheme as entirely owned by local-government members and board representation. No personal appointment/end or pay basis."
+    },
+    {
+      "source_id": "src-17",
+      "url": "https://wanneroo.infocouncil.biz/Open/2011/12/OC_13122011_MIN.htm",
+      "publisher": "City of Wanneroo",
+      "title": "Ordinary Council meeting minutes,13December2011",
+      "source_type": "government_record",
+      "locator": "CEO correspondence from WALGA President concerning Roberts statements of attainment",
+      "retrieved": "2026-10-04",
+      "note": "Indexed minutes identify completed units towards a Diploma of Local Government Elected Members; no claim of full diploma completion. Direct open returned403 Forbidden."
     }
   ],
   "research_notes": [
@@ -488,6 +528,7 @@
     "Own20-year public-service marketing description refers to political/community service, not codebook public-service employment. Generic summaries ending mayor role on election day contradicted by local authority June2022 resignation. Pre-first-campaign secondary school chronology retained as gap, not used to alter primary year range.",
     "Follow-up 2026-10-02: council annual report resolves deputy-mayor subterm; 2015 appointment announcement bounds WALGA deputy presidency; public professional profile refines registrar start to September 1999. School and hospital organisation biographies add governance and explicit volunteer activities.",
     "SSTUWA employment title/dates and UK work remain unresolved after exact-name union searches. Do not substitute union presidents’ terms for her employment. LGIS indexed news lead returned an error page, and unrelated namesake profiles were discarded. Registrar profile endpoint/full-time status remains inaccessible (999); seek school personnel records or accessible professional CV. WALGA special-meeting minutes, LGIS appointment/end and school-board tenure remain follow-up leads.",
-    "Follow-up 2026-10-03: publicly indexed LinkedIn search text now exposes the complete Peter Moyes Anglican Community School range, September 1999 to September 2011. The end month is adopted at month precision; the profile still does not establish hours, leave, payroll entity or full-time status. Fresh exact-name SSTUWA searches yielded no attributable role title or dates, so that union spell and earlier UK/Australian employment remain unresolved."
+    "Follow-up 2026-10-03: publicly indexed LinkedIn search text now exposes the complete Peter Moyes Anglican Community School range, September 1999 to September 2011. The end month is adopted at month precision; the profile still does not establish hours, leave, payroll entity or full-time status. Fresh exact-name SSTUWA searches yielded no attributable role title or dates, so that union spell and earlier UK/Australian employment remain unresolved.",
+    "Follow-up2026-10-04: Primary LGIS14April2021 publication verifies board observation and member-owned scheme structure; no personal term boundary inferred. Indexed City13December2011 minutes add specified elected-member training units without asserting diploma completion; direct access403 recovered index. Corrected source14 metadata to match already-supported3October registrar endpoint. Exact-name SSTUWA and registrar full-time searches still yield no attributable personal employment hours/title/terms. Remaining leads: historical union personnel, original registrar work arrangement, LGIS charter/appointment and early UK/Australian work."
   ]
 }

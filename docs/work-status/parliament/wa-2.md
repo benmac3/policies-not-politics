@@ -155,3 +155,6 @@
 
 - Melissa Price249308: materially enriched month boundaries and advisory chronology; no full-time totals.
 - Attempt37distinct,0new,20material,17nonmaterial,0complete; cycle54distinct,26material,28nonmaterial; day191distinct,76material,115nonmaterial; all0new/complete. Next: Tracey Roberts157125. OUTCOME:ongoing; STOPPING REASON:none.
+
+- Tracey Roberts157125: materially enriched LGIS observation/structure and training; unresolved.
+- Attempt38distinct,0new,21material,17nonmaterial,0complete; cycle55distinct,27material,28nonmaterial; day192distinct,77material,115nonmaterial; all0new/complete. Next: Ben Small291406. OUTCOME:ongoing; STOPPING REASON:none.
