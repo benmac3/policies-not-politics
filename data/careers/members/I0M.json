@@ -6,7 +6,7 @@
   "snapshot_party": "Liberal Party of Australia",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/I0M",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-04",
+  "last_reviewed": "2026-10-05",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -43,7 +43,7 @@
       "role": "Party office-holder and Senate candidate",
       "start_date": "1988",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "party_organisation",
@@ -63,7 +63,7 @@
       "role": "Senator for Western Australia",
       "start_date": "2008-07-01",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "day",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -82,7 +82,7 @@
       "role": "Lawyer on secondment from Perth",
       "start_date": "2001-06",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "month",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "private_enterprise",
@@ -95,6 +95,101 @@
       "evidence_note": "Cash directly reports June 2001 commencement and a 12-month secondment. Approximate return around June 2002 may be inferred, but no exact cessation or actual return date is supplied, so end remains null. Nested within 1999–2008 Freehills service; do not double-count. Full-time status and leave unknown.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "I0M-04"
+    },
+    {
+      "spell_id": "I0M-05",
+      "employer": "Curtin University",
+      "role": "Student; Bachelor of Arts (Social Sciences)",
+      "start_date": null,
+      "end_date": "1990",
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-5"
+      ],
+      "evidence_note": "University confirms graduation1990 and triple major in public relations, politics and journalism. Start and workload unknown; graduation year is the supported completion precision.",
+      "counting_note": "Study excluded; work overlap unknown."
+    },
+    {
+      "spell_id": "I0M-06",
+      "employer": "University of London",
+      "role": "Student; honours law degree",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-2"
+      ],
+      "evidence_note": "Professional interview identifies honours law qualification before UWA legal-practice diploma, but gives no dates, study location/mode or workload.",
+      "counting_note": "Study excluded; work overlap unknown."
+    },
+    {
+      "spell_id": "I0M-07",
+      "employer": "University of Western Australia",
+      "role": "Student; Graduate Diploma in Legal Practice",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-2"
+      ],
+      "evidence_note": "Professional interview records legal-practice diploma after London law qualification. Individual start, completion and workload unknown.",
+      "counting_note": "Study excluded; work overlap unknown."
+    },
+    {
+      "spell_id": "I0M-08",
+      "employer": "Unidentified burger business",
+      "role": "Burger preparation worker during university study",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "unknown",
+      "government_control_at_time": "unknown",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-7"
+      ],
+      "evidence_note": "Secondary indexed report explicitly attributes burger work during university to Cash. Business, dates, paid arrangement and hours are not supplied; do not infer a particular fast-food chain.",
+      "counting_note": "Potential early paid employment; individual relationship, employer control at the time, dates and hours require corroboration. No full-time years calculated."
+    },
+    {
+      "spell_id": "I0M-09",
+      "employer": "Burswood Casino (legal employer unidentified)",
+      "role": "Table-service worker",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "unknown",
+      "government_control_at_time": "unknown",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-7"
+      ],
+      "evidence_note": "Secondary public index attributes table service at the newly opened Burswood Casino to Cash. Casino opening date is not a personal appointment date. Payroll employer/control, pay, hours and cessation unverified.",
+      "counting_note": "Potential early paid employment; individual relationship, employer control at the time, dates and hours require corroboration. No full-time years calculated."
     }
   ],
   "sources": [
@@ -113,9 +208,9 @@
       "url": "https://insight.thomsonreuters.com.au/legal/posts/senator-cash-workplace-reform",
       "publisher": "Thomson Reuters",
       "title": "Senator Michaelia Cash's journey from lawyer to workplace reformer",
-      "retrieved": "2026-10-02",
+      "retrieved": "2026-10-05",
       "source_type": "primary_employer_or_professional",
-      "locator": "4 April 2016; first-person paragraph immediately after Freehills 1999–2008 chronology",
+      "locator": "4 April 2016; first-person paragraph immediately after Freehills 1999–2008 chronology; education paragraphs",
       "note": "Cash states that her Melbourne-office secondment began June 2001 and lasted 12 months. Does not establish full-time hours or exact return day."
     },
     {
@@ -140,13 +235,13 @@
     },
     {
       "source_id": "src-5",
-      "url": "https://news.curtin.edu.au/media-releases/curtin-graduate-appointed-minister-for-women-and-minister-for-employment/",
+      "url": "https://www.curtin.edu.au/news/curtin-graduate-appointed-minister-for-women-and-minister-for-employment/",
       "publisher": "Curtin University",
       "title": "Curtin graduate appointed Minister for Women and Minister for Employment",
-      "retrieved": "2026-10-01",
+      "retrieved": "2026-10-05",
       "source_type": "primary_employer_or_professional",
       "locator": "6 October 2015 graduate profile",
-      "note": "University profile corroborating education and the pre-Parliament legal career."
+      "note": "University profile corroborating education and the pre-Parliament legal career. Refreshed university page identifies graduation1990; its claim of Senate election2008 conflicts with official2007 election, and is not adopted."
     },
     {
       "source_id": "src-6",
@@ -157,6 +252,16 @@
       "source_type": "official_biography",
       "locator": "Frozen roster and parliamentary service",
       "note": "Frozen-roster identity and Senate-service source."
+    },
+    {
+      "source_id": "src-7",
+      "url": "https://www.theaustralian.com.au/commentary/strewth/victorian-pair-of-easter-bunnies/news-story/5fe93e90d3ee0d71f83537a492502b4c",
+      "publisher": "The Australian",
+      "title": "Pair of Easter bunnies",
+      "retrieved": "2026-10-05",
+      "source_type": "reliable_secondary",
+      "locator": "Public indexed passage: Cash’s early work experience",
+      "note": "Index explicitly attributes burger work while at university and Burswood Casino table service to Cash. Full article unavailable; publication date not established. Employer entity, dates, workload and remuneration not evidenced; further primary corroboration required."
     }
   ],
   "research_notes": [
@@ -167,6 +272,7 @@
     "Searched first-job, overseas-work, admission, promotion and full-time-history terms; results did not establish additional paid employers, law admission/promotion dates or hours. Travel reporting alone is not paid employment evidence.",
     "Next leads: historical Freehills staff biographies and annual reviews for 1999 appointment, secondment return and 2008 departure; public CV for 1990–1999 employment/study/travel overlap. Do not repeat generic biography searches without a new lead.",
     "Follow-up 2026-10-03: targeted admission, legal-practice, preselection/campaign-leave, early-career and historical Senate-interest searches produced no defensible employment boundary beyond 1999–2008. A 24 June 1994 WA Government Gazette names Cash as a Commissioner for Declarations, but that appointment is not evidence of paid employment and was not converted into a career spell. Search-result admission fragments concerned other lawyers; they were rejected. Next useful evidence remains a historical Freehills staff record, practising-certificate/admission record tied to Cash, or a public CV documenting 1990–1999.",
-    "Follow-up2026-10-04: Targeted successor-firm HSF/HerbertSmithFreehills staff archives, admission and historical1999/2001 searches yielded no individual hours, promotion or cessation evidence. Australian Women Lawyers archive(created2009,updated2016) independently repeats1999–2008; no new employment fact. Judicial appointment/transcript results describe McEvoy,Mansini and other lawyers, not Cash’s own admission or summer-clerk history. No new fact adopted and no senior-title/full-time inference. Next lead remains identifiable historical staff CV/practising record or directly attributable earlywork account; retain1990–99gap."
+    "Follow-up2026-10-04: Targeted successor-firm HSF/HerbertSmithFreehills staff archives, admission and historical1999/2001 searches yielded no individual hours, promotion or cessation evidence. Australian Women Lawyers archive(created2009,updated2016) independently repeats1999–2008; no new employment fact. Judicial appointment/transcript results describe McEvoy,Mansini and other lawyers, not Cash’s own admission or summer-clerk history. No new fact adopted and no senior-title/full-time inference. Next lead remains identifiable historical staff CV/practising record or directly attributable earlywork account; retain1990–99gap.",
+    "Follow-up2026-10-05: Added omitted Curtin BA completion1990 from refreshed university source plus undated London honours law/UWA legal-practice study. Public Australian index explicitly attributes early burger work during university and Burswood table service to Cash; added provisional unknown-category spells with unknown payroll/control/hours/dates pending primary corroboration. Telegraph first-job snippet lacks full speaker context and remains a lead; restricted URL not bypassed. SkillsSummit ministerial speech contains generic youth-work discussion, not own employment. No Freehills contract or1990–99 boundary found; next leads original earlywork interview and historical payroll/CV."
   ]
 }
