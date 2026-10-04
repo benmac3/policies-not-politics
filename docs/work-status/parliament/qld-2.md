@@ -225,3 +225,6 @@ Batch coverage, record fields, dates, enums, source references, build_careers.lo
 
 - Paul Scarr282997: materially enriched — omitted party offices/study added and June2015secretary/Frieda River observations documented without inferred boundaries or duration.
 - Attempt9distinct,0new,4material,5nonmaterial,0complete; cycle26distinct,10material,16nonmaterial; day163distinct,60material,103nonmaterial; all0new/complete. Next: Matt Smith312393. OUTCOME:ongoing; STOPPING REASON:none.
+
+- Matt Smith312393: materially enriched — two omitted state-league clubs added as activity, with paid status/control/hours explicitly unknown and primary-season gaps retained.
+- Attempt10distinct,0new,5material,5nonmaterial,0complete; cycle27distinct,11material,16nonmaterial; day164distinct,61material,103nonmaterial; all0new/complete. Next: Phillip Thompson281826. OUTCOME:ongoing; STOPPING REASON:none.
