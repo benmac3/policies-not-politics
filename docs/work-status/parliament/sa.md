@@ -253,3 +253,6 @@
 
 - 2026-10-04T23:50:40+10:00: Charlotte Walker: primary business-name history adds2022store-holder legal entity; personal employer/transfer remains unverified.
 - Attempt207distinct,0new,133material,74nonmaterial,0complete; cycle224distinct,139material,85nonmaterial; day226distinct,150material,76nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Penny Wong00AOU. OUTCOME:ongoing; STOPPING REASON:none.
+
+- 2026-10-04T23:55:37+10:00: Penny Wong: added omitted party, Law Society, UNIFEM and NUS activity from primary biographies; pay unknown, private practice gap remains.
+- Attempt208distinct,0new,134material,74nonmaterial,0complete; cycle225distinct,140material,85nonmaterial; day226distinct,150material,76nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Tony Zappia (HWB). OUTCOME:ongoing; STOPPING REASON:none.
