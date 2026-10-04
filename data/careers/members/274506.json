@@ -212,7 +212,7 @@
       "employer": "Department of Foreign Affairs and Trade",
       "role": "Australian Ambassador to Israel",
       "start_date": "2013-06",
-      "end_date": "2017-06-19",
+      "end_date": "2017",
       "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
@@ -227,7 +227,7 @@
         "src-successor",
         "src-successor-arrival-oct3"
       ],
-      "evidence_note": "Parliament records service from 2013 to 2017, and contemporaneous records identify appointment in June 2013. The Foreign Minister announced Chris Cannan as successor on 12 April 2017, thanking outgoing ambassador Sharma; the embassy's publicly indexed 19 June 2017 announcement says the new ambassador had begun work. That fixes Sharma's ambassador-role endpoint to 19 June 2017, without establishing whether DFAT payroll or another public-service arrangement continued afterwards. Exact assumption day, hours, leave and post-return arrangements remain unresolved.",
+      "evidence_note": "Official chronology establishes ambassador service from2013 to2017, with June2013 transition reported. The12April2017 successor announcement and embassy observation that Chris Cannan had begun by19June2017 establish an upper bound on Sharma’s ambassador tenure, not Sharma’s own exact cessation day. Correct the previously over-precise19June2017 endpoint to the supported end year; retain the upper bound explicitly. Exact assumption/cessation days, DFAT payroll continuity after return, hours and leave remain unresolved.",
       "counting_note": "The public appointment is clear, but senior title and mixed date precision do not independently establish a countable full-time interval."
     },
     {
@@ -399,9 +399,9 @@
     {
       "employer": "Roots Sustainable Agricultural Technologies Ltd",
       "role": "International business consultant",
-      "start_date": "2018",
+      "start_date": "2018-02",
       "end_date": null,
-      "date_precision": "year",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "private_enterprise",
@@ -409,9 +409,11 @@
       "government_control_at_time": "private",
       "counting_status": "insufficient_evidence",
       "source_ids": [
-        "src-roots-ar"
+        "src-roots-ar",
+        "src-roots-letter-oct4",
+        "src-roots-contract-report-oct4"
       ],
-      "evidence_note": "Company annual report confirms engagement during 2018 to develop international contracts. Exact commencement, cessation, contracting entity, remuneration and hours are unresolved; potentially overlaps Kelly+Partners and must not be double-counted.",
+      "evidence_note": "Primary corporate shareholder letter dates joining to February2018 and describes international client/contracts work. A27February2018 investment-promotional report gives a three-year initial consultancy, $5,000 monthly payment and200,000 milestone-based performance rights, subject to primary-contract verification. Actual cessation, contracting/payroll entity, leave and hours remain unknown; nominal contract term does not prove service until2021. Concurrent Kelly+Partners work must not be double-counted.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "274506-roots"
     },
@@ -512,6 +514,26 @@
       "evidence_note": "Foundation statements expressly date appointment to February2023. Exact day, cessation, remuneration and workload unknown; organisation profile corroborates role without a dated tenure update. Separate from parliamentary funding announcements and company consulting.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "274506-neura-foundation"
+    },
+    {
+      "spell_id": "274506-project-rozana",
+      "employer": "Project Rozana Australia",
+      "role": "Australian board member",
+      "start_date": null,
+      "end_date": "2019",
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "nonprofit",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-roots-contract-report-oct4",
+        "src-rozana-review-oct4"
+      ],
+      "evidence_note": "AFebruary2018 report observes board membership; it is not an appointment date. The organisation’s2019 review confirms retirement following his election in May2019. Only retirement year2019 is established; no election-day cessation, remuneration or workload inferred. This governance role overlaps consultancy and campaigning.",
+      "counting_note": "Nonprofit governance is excluded from employment headlines."
     }
   ],
   "sources": [
@@ -720,9 +742,9 @@
       "publisher": "Roots Sustainable Agricultural Technologies Ltd / ASX",
       "title": "Annual report for year ended 31 December 2018",
       "source_type": "employer",
-      "locator": "Corporate review, appointment of Dave Sharma",
-      "note": "Indexed primary text confirms appointment to assist international contracts. Direct PDF fetch returned HTTP400 content length too large (18730002); pagination and full terms not inspected.",
-      "retrieved": "2026-10-01",
+      "locator": "Directors report, printed p3 / PDF page6, Corporate",
+      "note": "Original 18,730,002-byte ASX PDF downloaded and text-inspected successfully. Corporate section confirms his international-contracts work; no individual hours or remuneration terms identified. Earlier web-reader size error did not reflect an access restriction.",
+      "retrieved": "2026-10-04",
       "source_id": "src-roots-ar"
     },
     {
@@ -754,6 +776,36 @@
       "note": "Organisation lists Foundation board membership; biography describes him as former MP and may be stale, so no continuous current tenure assumed.",
       "retrieved": "2026-10-02",
       "source_id": "src-neura-profile-oct2"
+    },
+    {
+      "source_id": "src-roots-letter-oct4",
+      "url": "https://www.aspecthuntley.com.au/asxdata/20190102/pdf/02064119.pdf",
+      "publisher": "Roots Sustainable Agricultural Technologies Ltd, via public ASX-document mirror",
+      "title": "Letter to shareholders: 2018 review and 2019 outlook",
+      "source_type": "employer",
+      "locator": "Printed p5 / PDF page5, Enhanced team, Dave Sharma paragraph; dated catalogue 2 January2019",
+      "retrieved": "2026-10-04",
+      "note": "Original corporate letter explicitly says Sharma joined in February and worked on international contracts, clients and technology awareness. The year-in-review context establishes February2018. Direct ordinary download succeeded after web-reader Internal Error; no access control bypassed."
+    },
+    {
+      "source_id": "src-roots-contract-report-oct4",
+      "url": "https://nextinvestors.com/articles/former-israel-ambassador-dave-sharma-hop-aboard-roots-team/",
+      "publisher": "Next Investors / StocksDigital",
+      "title": "Former Israel ambassador Dave Sharma to hop aboard Roots team",
+      "source_type": "news",
+      "locator": "27February2018, appointment and remuneration paragraphs",
+      "retrieved": "2026-10-04",
+      "note": "Investment/promotional outlet reports three-year initial consultancy, monthly$5,000 and200,000 milestone-based performance rights. Its disclosed potential company/securities interests require caution; primary contract not recovered. Monthly payment does not establish weekly hours or actual three-year service."
+    },
+    {
+      "source_id": "src-rozana-review-oct4",
+      "url": "https://prprojectrozanaint.blob.core.windows.net/assets/contentpage_htmlcontent/2019projectrozanareview.pdf",
+      "publisher": "Project Rozana",
+      "title": "Year End Review2019",
+      "source_type": "employer",
+      "locator": "Printed p5 / PDF page3 (two-page spread), From the Chair, retirement paragraph",
+      "retrieved": "2026-10-04",
+      "note": "Chair identifies retirement from the Australian board following May2019 election success. Exact retirement day/month and earlier appointment remain unstated; election is not the resignation day."
     }
   ],
   "research_notes": [
@@ -767,6 +819,7 @@
     "Next leads: Kelly+Partners Government Relations/Incentives/Innovation partnership and personnel disclosures, Roots and ParaZero original consultancy/advisory contracts, Aegros resignation notice, SWG director register and DFAT personnel transfer records. Harbour Trust later ex-officio committee membership as MP should be assessed separately from the short 2018 board term.",
     "Second follow-up2October2026 adds NeuRA Foundation directorship from its financial statements, beginning February2023. Public board profile may predate Senate appointment; no assumed current continuity. Kelly+Partners partnership-interest/contract and Roots remuneration searches did not resolve substantive hours or employee status. Shekel2018 prospectus lead https://www.aspecthuntley.com.au/asxdata/20181116/pdf/02048980.pdf returned DisabledError through web open; no alternate access attempted. Indexed text repeats director/principal title only. Full-time references in parliamentary commentary concern other workers or elected office, not his diplomatic or commercial employment. Next leads remain public employer appointment/leave records, original consultancy agreements and board cessation notices; no salary or hours inferred from seniority.",
     "Third follow-up3October2026 resolves the ambassador-role endpoint to19June2017 from the Foreign Minister's April successor announcement and the embassy account's dated statement that Chris Cannan had begun work. This does not prove Sharma left DFAT payroll on that day or resolve any later public-service interval, leave, hours or classification. Searches of Kelly+Partners contracts, consultancy clients and post-ambassador transition found no reliable new contract or hours evidence; no headline total changed.",
-    "Fourth follow-up4October2026 targeted Kelly+Partners' own site, the principal title, DFAT departure and the named Victorian consulting client. Results returned no archived personnel page, partnership agreement, contract dates, workload or remuneration. A contemporaneous April2017 report said Sharma was expected to return to Canberra in mid-June, consistent with the already recorded successor transition but not evidence of DFAT payroll cessation, leave or a later posting. Search results confusing the Victorian State Government client with the Victorian historical era were excluded. These gaps now require corporate filings, contract disclosures or DFAT personnel records rather than repeated general web searches."
+    "Fourth follow-up4October2026 targeted Kelly+Partners' own site, the principal title, DFAT departure and the named Victorian consulting client. Results returned no archived personnel page, partnership agreement, contract dates, workload or remuneration. A contemporaneous April2017 report said Sharma was expected to return to Canberra in mid-June, consistent with the already recorded successor transition but not evidence of DFAT payroll cessation, leave or a later posting. Search results confusing the Victorian State Government client with the Victorian historical era were excluded. These gaps now require corporate filings, contract disclosures or DFAT personnel records rather than repeated general web searches.",
+    "Follow-up2026-10-04: Recovered original Roots2018 report by ordinary public download and corporate shareholder letter identifying February2018 consultancy commencement. Secondary investment-promotional remuneration terms are recorded cautiously pending primary contract; no workload or actual three-year duration inferred. Project Rozana’s original2019 review adds Australian-board membership and retirement year. Corrected ambassador successor-arrival observation from an exact personal cessation day to an explicit upper bound, preserving supported2017 end year. ASX historical ROO search says code no longer matches; source-specific web size/Internal Error failures recovered through ordinary original-file downloads, not terminal errors. New leads: Roots original27February2018 appointment agreement and remuneration/termination disclosures; Rozana appointment register; actual DFAT cessation rather than successor arrival."
   ]
 }
