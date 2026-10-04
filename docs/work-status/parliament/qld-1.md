@@ -279,3 +279,8 @@ Deduplicated Brisbane-day new member IDs: 00AMR, 101351, 124514, 132880, 140590,
 - Rowan Holzberger: nonmaterial follow-up — insurance, construction, directorship and political-staff searches repeated generic biographies and the already recorded approximately-2018 Watt start, but supplied no employer entity, appointment, hours or transition evidence. A construction recollection did not identify the firm or prove an interval.
 - Current cycle/continuation: 12 distinct records, 0 new initial, 3 materially enriched existing, 9 nonmaterial follow-ups and 0 newly research-complete. Brisbane-day cumulative: 149 distinct, 0 new, 53 materially enriched, 96 nonmaterial follow-ups and 0 newly complete.
 - Durable next cursor: Madonna Jarrett (298574).
+
+
+- Madonna Jarrett: materially enriched — a contemporary Deloitte IAS Plus release identifies her as Director, Global Public Relations and CEO Communications on 19 December 2005, moving the first primary Deloitte observation earlier than January 2006. Mater, Victorian Financial Institutions Commission and Queensland government-role searches otherwise returned only unverified profile aggregations; early employers, exact boundaries, hours and the parental-break placement remain unresolved.
+- Current cycle/continuation: 13 distinct records, 0 new initial, 4 materially enriched existing, 9 nonmaterial follow-ups and 0 newly research-complete. Brisbane-day cumulative: 150 distinct, 0 new, 54 materially enriched, 96 nonmaterial follow-ups and 0 newly complete.
+- Durable next cursor: Bob Katter (HX4).
