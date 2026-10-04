@@ -286,9 +286,11 @@
       "source_ids": [
         "src-13",
         "src-16",
-        "src-18"
+        "src-18",
+        "src-19",
+        "src-20"
       ],
-      "evidence_note": "Former directorship identified by school biography. Governing entity/control, term and pay unresolved; governance is excluded from employment headlines. LGIS own14April2021 account independently lists Roberts among board representatives and describes scheme as wholly member-owned, with local-government owners, member/independent directors and WALGA president/CEO representation. Legal trustee and ultimate-control rules require further charter review; do not equate service-provider JLT branding with scheme ownership. Membership is point evidence, not a term boundary. The 2019 employer report lists Roberts as a local-government member representative before her WALGA presidency; nine of ten eligible meetings attended. Board fees and superannuation were payable, without individual amount or salaried hours. Scheme nonprofit and jointly local-government owned; WALGA trustee/board appointor, JLT commercial manager, so those entities are not interchangeable. Personal term boundaries and ultimate-control classification remain unresolved.",
+      "evidence_note": "Former directorship identified by school biography. Governing entity/control, term and pay unresolved; governance is excluded from employment headlines. LGIS own14April2021 account independently lists Roberts among board representatives and describes scheme as wholly member-owned, with local-government owners, member/independent directors and WALGA president/CEO representation. Legal trustee and ultimate-control rules require further charter review; do not equate service-provider JLT branding with scheme ownership. Membership is point evidence, not a term boundary. The 2019 employer report lists Roberts as a local-government member representative before her WALGA presidency; nine of ten eligible meetings attended. Board fees and superannuation were payable, without individual amount or salaried hours. Scheme nonprofit and jointly local-government owned; WALGA trustee/board appointor, JLT commercial manager, so those entities are not interchangeable. Personal term boundaries and ultimate-control classification remain unresolved. Original 3September2021 State Council minutes independently identify Roberts on the LGIS board and specify nine-member charter composition and State Council endorsement of other directors. Their January2022 renewal is not hers. December2020 minutes identify WALGA ABN28 126 945 127 as trustee and Roberts signing in president capacity.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "157125-14"
     },
@@ -530,6 +532,26 @@
       "locator": "Printed pp2,4,11,13,15,29; reporting year ended30June2019, signed10October2019; Note12",
       "retrieved": "2026-10-05",
       "note": "Names member representative, attendance, paid board-fee arrangement and trustee/manager structure; no personal tenure endpoints or full-time terms."
+    },
+    {
+      "source_id": "src-19",
+      "url": "https://www.lakegrace.wa.gov.au/council-meetings/ordinary-council-meetings/29-september-2021/188/documents/09-ocm-29-september-2021-information-bulletin.pdf",
+      "publisher": "Western Australian Local Government Association via local-government host",
+      "title": "WALGA Regional State Council minutes,3September2021, hosted in Lake Grace information bulletin",
+      "source_type": "employer",
+      "locator": "PDF p302; printed minutes p57; items5.9–5.10",
+      "retrieved": "2026-10-05",
+      "note": "Original public PDF retrieved HTTP200 and inspected, recovering web Internal Error. Institutional governance evidence does not supply personal working hours or tenure boundaries."
+    },
+    {
+      "source_id": "src-20",
+      "url": "https://www.nannup.wa.gov.au/council-meetings/ordinary-meeting-of-council/ordinary-meeting-of-council/16/documents/december-2020-attachments.pdf",
+      "publisher": "Western Australian Local Government Association via local-government host",
+      "title": "WALGA State Council minutes,2December2020, hosted by Shire of Nannup",
+      "source_type": "employer",
+      "locator": "PDF p49; printed minutes p22; items5.10–5.11",
+      "retrieved": "2026-10-05",
+      "note": "Original public PDF retrieved HTTP200 and inspected, recovering web Internal Error. Institutional governance evidence does not supply personal working hours or tenure boundaries."
     }
   ],
   "research_notes": [
@@ -541,6 +563,7 @@
     "SSTUWA employment title/dates and UK work remain unresolved after exact-name union searches. Do not substitute union presidents’ terms for her employment. LGIS indexed news lead returned an error page, and unrelated namesake profiles were discarded. Registrar profile endpoint/full-time status remains inaccessible (999); seek school personnel records or accessible professional CV. WALGA special-meeting minutes, LGIS appointment/end and school-board tenure remain follow-up leads.",
     "Follow-up 2026-10-03: publicly indexed LinkedIn search text now exposes the complete Peter Moyes Anglican Community School range, September 1999 to September 2011. The end month is adopted at month precision; the profile still does not establish hours, leave, payroll entity or full-time status. Fresh exact-name SSTUWA searches yielded no attributable role title or dates, so that union spell and earlier UK/Australian employment remain unresolved.",
     "Follow-up2026-10-04: Primary LGIS14April2021 publication verifies board observation and member-owned scheme structure; no personal term boundary inferred. Indexed City13December2011 minutes add specified elected-member training units without asserting diploma completion; direct access403 recovered index. Corrected source14 metadata to match already-supported3October registrar endpoint. Exact-name SSTUWA and registrar full-time searches still yield no attributable personal employment hours/title/terms. Remaining leads: historical union personnel, original registrar work arrangement, LGIS charter/appointment and early UK/Australian work.",
-    "Follow-up 2026-10-05: LGISWA2019 employer report resolves scheme legal identity, representative capacity predating the WALGA presidency and paid governance basis. Board-member fees are not salaried full-time employment or personal fee amounts. Appointment/end dates and ultimate control remain unresolved. September2021 WALGA minutes and December2020 trustee-signature material are additional charter leads, not personal appointment evidence. Targeted SSTUWA and school-hour searches still unresolved; US donor, graphic designer and UK profiles not attributed. Web Internal Error on two minutes PDFs is a source-access gap; usable indexed text retained as leads. Next: original union personnel and registrar working arrangement, and original LGIS appointments/charter."
+    "Follow-up 2026-10-05: LGISWA2019 employer report resolves scheme legal identity, representative capacity predating the WALGA presidency and paid governance basis. Board-member fees are not salaried full-time employment or personal fee amounts. Appointment/end dates and ultimate control remain unresolved. September2021 WALGA minutes and December2020 trustee-signature material are additional charter leads, not personal appointment evidence. Targeted SSTUWA and school-hour searches still unresolved; US donor, graphic designer and UK profiles not attributed. Web Internal Error on two minutes PDFs is a source-access gap; usable indexed text retained as leads. Next: original union personnel and registrar working arrangement, and original LGIS appointments/charter.",
+    "Follow-up same execution: Both WALGA minutes PDFs recovered through ordinary direct public retrieval HTTP200 and inspected. Added precise original locators, trustee ABN/signatory evidence and 2021 board composition. Melville direct403 was a source gap; full employer2019PDF remained accessible through the web tool. A local pdftotext call before downloads finished returned missing-file exit2 and was recovered after completion. Corrected Ben Small cursor ID to frozen --batch output291406. Same member counted once."
   ]
 }
