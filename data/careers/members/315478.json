@@ -6,7 +6,7 @@
   "snapshot_party": "The Nationals",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/315478",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-03",
+  "last_reviewed": "2026-10-04",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -312,7 +312,7 @@
       "counting_note": "Excluded from the two employment headlines under the codebook."
     },
     {
-      "employer": "Training institution(s) not identified",
+      "employer": "Queensland Police Service; Diploma in Policing provider not individually verified",
       "role": "Diploma in Policing; Advanced Diploma in Investigative Practices",
       "start_date": null,
       "end_date": null,
@@ -324,9 +324,10 @@
       "government_control_at_time": "unknown",
       "counting_status": "excluded",
       "source_ids": [
-        "src-9"
+        "src-9",
+        "src-1"
       ],
-      "evidence_note": "Both qualifications listed in2010–11 council profile; award and attendance dates unknown. Not additional employment.",
+      "evidence_note": "Both qualifications listed in2010–11 council profile; award and attendance dates unknown. Not additional employment. Federal biography identifies QPS as Advanced Diploma in Investigative Practices provider; precise provider for the differently named Diploma in Policing is retained as unknown, rather than conflated with Diploma of Public Safety.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "315478-16"
     },
@@ -348,6 +349,101 @@
       "evidence_note": "Council2016–17 report identifies committee membership at reporting time; appointment, cessation and remuneration unverified. Governance excluded.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "315478-17"
+    },
+    {
+      "spell_id": "315478-18",
+      "employer": "Queensland Police Service; Local Government Association of Queensland; Australian Emergency Management Institute",
+      "role": "Certificate IV in Assessment and Training; Diploma of Public Safety; Diploma of Local Government Administration; Advanced Diploma of Public Safety",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-1"
+      ],
+      "evidence_note": "Official biography lists qualifications and institutions; award dates and study hours unknown. Separate from the already recorded policing/investigative-practices diplomas; not additional employment.",
+      "counting_note": "Study or community governance excluded from public/private employment headlines; no remuneration or full-time work inferred."
+    },
+    {
+      "spell_id": "315478-19",
+      "employer": "Wide Bay Volunteers",
+      "role": "Committee involvement",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "nonprofit",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-14"
+      ],
+      "evidence_note": "Council2008–2009 report lists current involvement in Batt profile. Snapshot only; appointment/cessation and remuneration unverified.",
+      "counting_note": "Study or community governance excluded from public/private employment headlines; no remuneration or full-time work inferred."
+    },
+    {
+      "spell_id": "315478-20",
+      "employer": "North Bundaberg Lions Club",
+      "role": "President",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "nonprofit",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-14"
+      ],
+      "evidence_note": "Council2008–2009 report lists current involvement in Batt profile. Snapshot only; appointment/cessation and remuneration unverified.",
+      "counting_note": "Study or community governance excluded from public/private employment headlines; no remuneration or full-time work inferred."
+    },
+    {
+      "spell_id": "315478-21",
+      "employer": "Bundy in Bloom Combined Lions Street Carnival",
+      "role": "President",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "nonprofit",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-14"
+      ],
+      "evidence_note": "Council2008–2009 report lists current involvement in Batt profile. Snapshot only; appointment/cessation and remuneration unverified.",
+      "counting_note": "Study or community governance excluded from public/private employment headlines; no remuneration or full-time work inferred."
+    },
+    {
+      "spell_id": "315478-22",
+      "employer": "Catholic Parish of Bundaberg, Parish Stewardship Council",
+      "role": "Council member",
+      "start_date": "2021-09",
+      "end_date": null,
+      "date_precision": "mixed",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "nonprofit",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-15"
+      ],
+      "evidence_note": "Primary parish bulletin identifies him among new council members in September2021. Exact appointment/cessation, remuneration and hours unknown; distinguished from his council staff job.",
+      "counting_note": "Study or community governance excluded from public/private employment headlines; no remuneration or full-time work inferred."
     }
   ],
   "sources": [
@@ -356,9 +452,9 @@
       "url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=315478",
       "publisher": "Parliament of Australia",
       "title": "Mr David Batt MP",
-      "retrieved": "2026-09-29",
+      "retrieved": "2026-10-04",
       "source_type": "official_biography",
-      "locator": "Occupation; local government; state service; party positions",
+      "locator": "Occupation; local government; state service; party positions; qualifications",
       "note": "Month-level employment chronology and elected/party roles; does not establish hours."
     },
     {
@@ -480,6 +576,26 @@
       "note": "First-person retrospective uses a broad five-year description for work before election. Official July2021–April2025 month boundaries are retained; the rounded wording is not converted to an earlier start.",
       "retrieved": "2026-10-03",
       "source_id": "src-13"
+    },
+    {
+      "source_id": "src-14",
+      "url": "https://www.bundaberg.qld.gov.au/files/assets/public/v/1/council/documents/annual-reports/2008-2009-annual-report.pdf",
+      "publisher": "Bundaberg Regional Council",
+      "title": "Annual Report 2008–2009",
+      "retrieved": "2026-10-04",
+      "source_type": "government_record",
+      "locator": "Public search-index text: Cr David Batt profile; Current committee involvements",
+      "note": "Primary indexed report identifies community committee and president roles. Direct web PDF retrieval returned (403) Forbidden; page number not inspected."
+    },
+    {
+      "source_id": "src-15",
+      "url": "https://www.bundabergcatholic.net.au/wp-content/uploads/2021/09/25thSundayOrdinarytime.pdf",
+      "publisher": "Catholic Parish of Bundaberg",
+      "title": "25th Sunday in Ordinary Time parish bulletin, September 2021",
+      "retrieved": "2026-10-04",
+      "source_type": "other",
+      "locator": "Public search-index text: The Parish Stewardship Council, new members",
+      "note": "Parish primary bulletin names Batt on the newly structured council. Direct web open said URL is not accessible via this tool; September2021 supported by archive path and upcoming25/26September collections, exact issue day not adopted."
     }
   ],
   "research_notes": [
@@ -490,6 +606,7 @@
     "ABC's broad pre-council police narrative cannot resolve the 2008–2012 overlap. Namesake barrister, academic, overseas police officer and veterinarian results were rejected. No reliable work-hour evidence retrieved. Last follow-up 2026-09-29; future leads include historical police/PCYC personnel notices and council position records.",
     "2026-10-02 materially enriched: identified explicit early2025 council full-time statement previously missed in first speech, two police qualifications and Across the Waves governance. Historical2010–11 primary report retrieved;2016–17 indexed. Police resignation indexed report narrows context to re-election but cannot resolve2008–12 leave. LinkedIn direct open returned Internal Error. Next leads: council appointment/leave notices2021–25, police service/PCYC secondment record; retain unknown interim work and retail dates. Existing note that no full-time evidence was found describes prior review only.",
     "First speech paragraph beginning The silver lining explicitly reports six months off work after the2020 election loss, with church volunteering. This partly explains the2020–21 gap; precise start/end and coverage of all months before July2021 appointment remain unknown. Do not invent a continuous unemployment or paid-leave interval.",
-    "2026-10-03 follow-up: primary council material adds a contemporaneous October2024 Disaster Management Officer snapshot and preparedness duties; Batt's first speech supplies more-than-11-years detective duration and a 2007 PCYC-manager snapshot. His later five-year council shorthand conflicts with the official July2021–April2025 interval and is treated as rounded narrative. No police leave/hours, PCYC employing arrangement, continuous council full-time status, campaign leave or retail dates were located. Material duties/duration enrichment only; blocked status and null totals retained."
+    "2026-10-03 follow-up: primary council material adds a contemporaneous October2024 Disaster Management Officer snapshot and preparedness duties; Batt's first speech supplies more-than-11-years detective duration and a 2007 PCYC-manager snapshot. His later five-year council shorthand conflicts with the official July2021–April2025 interval and is treated as rounded narrative. No police leave/hours, PCYC employing arrangement, continuous council full-time status, campaign leave or retail dates were located. Material duties/duration enrichment only; blocked status and null totals retained.",
+    "Follow-up2026-10-04: Fresh parliamentary qualifications list adds four training credentials with named providers, preserving distinctions from the earlier policing diploma. Primary2008–2009 council report index adds Wide Bay Volunteers committee involvement and North Bundaberg Lions/Bundy in Bloom president roles; September2021 parish bulletin index adds Parish Stewardship Council membership. PDF access failures are explicitly labelled; no full report/page verification claimed. Police leave-of-absence and council full-time/appointment searches found no service-hours continuity or leave evidence beyond existing2025 full-time snapshot. New governance and study are excluded; do not convert police medals, senior rank or contemporary training to continuous full-time years."
   ]
 }

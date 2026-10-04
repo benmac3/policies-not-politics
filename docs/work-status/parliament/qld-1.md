@@ -298,3 +298,6 @@ Deduplicated Brisbane-day new member IDs: 00AMR, 101351, 124514, 132880, 140590,
 
 - 298839 Penny Allman-Payne: materially added earlier deputy party office and preserved primary co-convenor chronology conflict; no full-time years calculated.
 - Attempt69distinct,0new,37material,32nonmaterial,0complete; cycle86distinct,43material,43nonmaterial; day223distinct,93material,130nonmaterial; all0new/complete. Next: 315478 David Batt. OUTCOME:ongoing; STOPPING REASON:none.
+
+- 315478 David Batt: materially added community governance and qualifications/provider evidence; police/council continuity remains blocked.
+- Attempt70distinct,0new,38material,32nonmaterial,0complete; cycle87distinct,44material,43nonmaterial; day224distinct,94material,130nonmaterial; all0new/complete. Next: 282981 Angie Bell. OUTCOME:ongoing; STOPPING REASON:none.
