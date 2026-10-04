@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/HWA",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-03",
+  "last_reviewed": "2026-10-04",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -281,6 +281,44 @@
       "evidence_note": "On22September2008she described this as the new club she was joining. Year-level membership start, not a paid employment contract. Exact date, duties and ending unknown; other volunteers hours not assigned to her.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "HWA-13"
+    },
+    {
+      "spell_id": "HWA-14",
+      "employer": "Australian Labor Party",
+      "role": "Australian Labor Party State Executive (SA) member",
+      "start_date": "2005",
+      "end_date": null,
+      "date_precision": "mixed",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "party_organisation",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-13"
+      ],
+      "evidence_note": "Official biography supplies2005start year only; end and remuneration unknown. Party committee office is not paid public service.",
+      "counting_note": "Party organisational office excluded from public/private employment headlines; personal remuneration unknown."
+    },
+    {
+      "spell_id": "HWA-15",
+      "employer": "Australian Labor Party",
+      "role": "Australian Labor Party National Conference delegate",
+      "start_date": "2002",
+      "end_date": "2007",
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "party_organisation",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-13"
+      ],
+      "evidence_note": "Discrete delegate appointments in2002,2004and2007; outer years form observation envelope, not uninterrupted employment. Pay and days unknown.",
+      "counting_note": "Party organisational office excluded from public/private employment headlines; personal remuneration unknown."
     }
   ],
   "sources": [
@@ -403,6 +441,16 @@
       "note": "Union-official retrospective date lead. Conflicts with age19recollection in first speech; underlying industrial decision still needed.",
       "retrieved": "2026-10-02",
       "source_id": "src-12"
+    },
+    {
+      "source_id": "src-13",
+      "url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=HWA&print=1",
+      "publisher": "Australian Parliament",
+      "title": "Hon Amanda Rishworth MP parliamentary biography",
+      "retrieved": "2026-10-04",
+      "source_type": "official_biography",
+      "locator": "Party positions; indexed text",
+      "note": "Official indexed party history names State Executive from2005and National Conference delegate2002/2004/2007. Direct opening returned Internal Error / Failed to fetch restricted URL. Open-ended listing does not establish continued paid employment."
     }
   ],
   "research_notes": [
@@ -415,6 +463,7 @@
     "Follow-up2026-10-02: first-person2008House speech identifies Seacliff volunteer organisation and Christies Beach membership begun2008. Generic volunteer hours in same speech are not personal paid/full-time evidence.",
     "Targeted FWC/Toys R Us, Sonder/Northern Division, Flinders research-assistant and university-president searches did not resolve legal employers, appointment hours or reinstatement case. Josh Peak retrospective1999dismissal date logged as conflict lead only. Original industrial commission decision and2005–07division staff records remain preferred next avenues.",
     "A multi-speaker FRSA conference result juxtaposes Rishworth with a research-assistant biography belonging elsewhere; no Murdoch Childrens position assigned. Ministerial interviews repeat broad psychology experience without employer evidence. All outstanding payroll/control/FT and chronology gaps retained.",
-    "Follow-up2026-10-03: targeted searches for the Toys R Us Industrial Relations Commission matter, including AustLII/reinstatement variants, returned the already captured first-person account and later SDA/Future Women retellings but no original decision, case number or employing-company name. Northern Division and Flinders research-assistant searches likewise repeated the public profile without payroll or hours evidence. No exact break or reinstatement date was inferred."
+    "Follow-up2026-10-03: targeted searches for the Toys R Us Industrial Relations Commission matter, including AustLII/reinstatement variants, returned the already captured first-person account and later SDA/Future Women retellings but no original decision, case number or employing-company name. Northern Division and Flinders research-assistant searches likewise repeated the public profile without payroll or hours evidence. No exact break or reinstatement date was inferred.",
+    "Follow-up2026-10-04: Added omitted State Executive and discrete National Conference delegate roles from official indexed party history. Northern Division2006and research-assistant1998searches repeated generic biographies; no legal payroll identity/hours or original retail reinstatement decision. Unrelated speakers and mechanically generated January1dates rejected."
   ]
 }

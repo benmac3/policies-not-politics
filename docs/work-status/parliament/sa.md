@@ -233,3 +233,6 @@
 
 - Barbara Pocock BFQ: material enrichment,15service-history spells; hours/fees unresolved.
 - Attempt60distinct,0new,32material,28nonmaterial,0complete; cycle77distinct,38material,39nonmaterial; day214distinct,88material,126nonmaterial; all0new/complete. Next: Amanda Rishworth HWA. OUTCOME:ongoing; STOPPING REASON:none.
+
+- Amanda Rishworth HWA: material party-history additions; psychology/payroll gaps retained.
+- Attempt61distinct,0new,33material,28nonmaterial,0complete; cycle78distinct,39material,39nonmaterial; day215distinct,89material,126nonmaterial; all0new/complete. Next: Anne Ruston243273. OUTCOME:ongoing; STOPPING REASON:none.
