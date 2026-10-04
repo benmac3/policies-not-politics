@@ -158,3 +158,6 @@
 
 - Tracey Roberts157125: materially enriched LGIS observation/structure and training; unresolved.
 - Attempt38distinct,0new,21material,17nonmaterial,0complete; cycle55distinct,27material,28nonmaterial; day192distinct,77material,115nonmaterial; all0new/complete. Next: Ben Small291406. OUTCOME:ongoing; STOPPING REASON:none.
+
+- Ben Small291406: follow-up saved; Clime proposal remains unproven appointment, employment gaps retained.
+- Attempt39distinct,0new,21material,18nonmaterial,0complete; cycle56distinct,27material,29nonmaterial; day193distinct,77material,116nonmaterial; all0new/complete. Next: Dean Smith241710. OUTCOME:ongoing; STOPPING REASON:none.
