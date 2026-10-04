@@ -371,3 +371,6 @@ Batch check passes: 226 assigned exactly once across 13 batches; nsw-1 assignmen
 
 - 2026-10-04T21:42:36+10:00: Byrnes contemporary staff observation corroborated; study dates and2002–2005 gap unresolved.
 - Attempt148distinct,0new,87material,61nonmaterial,0complete; cycle165distinct,93material,72nonmaterial; day226distinct,124material,102nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: 300134 Ross Cadell. OUTCOME:ongoing; STOPPING REASON:none.
+
+- 2026-10-04T21:46:37+10:00: Cadell namesake and weak forum evidence rejected; targeted original-employment follow-up remains unresolved.
+- Attempt149distinct,0new,87material,62nonmaterial,0complete; cycle166distinct,93material,73nonmaterial; day226distinct,124material,102nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: HWL Jason Clare. OUTCOME:ongoing; STOPPING REASON:none.
