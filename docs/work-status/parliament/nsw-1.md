@@ -359,3 +359,6 @@ Batch check passes: 226 assigned exactly once across 13 batches; nsw-1 assignmen
 
 - 2026-10-04T21:36:40+10:00: Boele materially enriched with omitted advisory/volunteer roles and PRI duties; no new headline calculation.
 - Attempt144distinct,0new,86material,58nonmaterial,0complete; cycle161distinct,92material,69nonmaterial; day226distinct,123material,103nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: DZS Chris Bowen. OUTCOME:ongoing; STOPPING REASON:none.
+
+- 2026-10-04T21:37:28+10:00: Bowen targeted follow-up saved; derivative mayoral endpoint rejected and original records still needed.
+- Attempt145distinct,0new,86material,59nonmaterial,0complete; cycle162distinct,92material,70nonmaterial; day226distinct,123material,103nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: 256063 Andrew Bragg. OUTCOME:ongoing; STOPPING REASON:none.
