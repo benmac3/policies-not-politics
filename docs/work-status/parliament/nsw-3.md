@@ -261,3 +261,6 @@ Batch coverage, record fields, dates, enums, source references, build_careers.lo
 
 - 2026-10-04T20:10:53+10:00: Shoebridge: additional first-person interview exposes Taylor & Scott duration discrepancy; official month boundaries retained.
 - Attempt103distinct,0new,59material,44nonmaterial,0complete; cycle120distinct,65material,55nonmaterial; day226distinct,107material,119nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Sally Sitou298121. OUTCOME:ongoing; STOPPING REASON:none.
+
+- 2026-10-04T20:15:56+10:00: Sally Sitou: material new Mosaic governance role and dated2019 service observation, no employment totals.
+- Attempt104distinct,0new,60material,44nonmaterial,0complete; cycle121distinct,66material,55nonmaterial; day226distinct,108material,118nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Zhi Soon298618. OUTCOME:ongoing; STOPPING REASON:none.

@@ -275,6 +275,27 @@
       "evidence_note": "Organisation and co-patron announcements identify new patronage by15January2025; exact effective appointment date, tenure, remuneration and workload are not given. Concurrent with elected office.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "298121-lean-patron"
+    },
+    {
+      "spell_id": "298121-mosaic",
+      "employer": "University of Sydney — Mosaic staff network",
+      "role": "Co-founder and co-chair",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "university",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-5",
+        "src-mosaic-application-oct4",
+        "src-mosaic-sage-oct4"
+      ],
+      "evidence_note": "UNSW speaker biography identifies Sitou as a Mosaic founder while working in university media. The university’s March2019 application names her as co-chair at the March2019 launch; this is a dated service observation, not her appointment date. SAGE records that the network was created in2018, but does not individually date her founding or chair service. Staff-network leadership is documented separately from her substantive media job. Sources do not establish separate remuneration, hours or cessation. The application also confirms she had participated in the VC Sponsorship Program by March2019; this is professional development, not another job.",
+      "counting_note": "Governance/association activity within a university staff network is excluded from the employment headlines; do not double-count it as separate full-time university employment or infer unpaid status from silence."
     }
   ],
   "sources": [
@@ -447,6 +468,26 @@
       "note": "Credits AusAID/Sally Sitou. Upload31August2012 conflicts with taken1July2016; do not treat either as employment boundary.",
       "retrieved": "2026-10-02",
       "source_id": "src-unwomen-photo-oct2"
+    },
+    {
+      "source_id": "src-mosaic-application-oct4",
+      "url": "https://www.sydney.edu.au/content/dam/corporate/documents/about-us/values-and-visions/gender-equity/university-of-sydney_sage-bronze-award-application.pdf",
+      "publisher": "University of Sydney",
+      "title": "SAGE Athena SWAN Bronze Award application, 29 March 2019",
+      "retrieved": "2026-10-04",
+      "source_type": "employer",
+      "locator": "Section7 Intersectionality, printed102–103/PDF102–103; Figure7.3",
+      "note": "Names Sitou among the three Mosaic co-chairs at the March2019 launch and confirms participation in the VC Sponsorship Program. Does not supply individual appointment date, remuneration or contracted hours."
+    },
+    {
+      "source_id": "src-mosaic-sage-oct4",
+      "url": "https://sciencegenderequity.org.au/resources/webinar/challenges-and-strategies-from-the-perspective-of-a-culturally-diverse-staff-network/",
+      "publisher": "Science in Australia Gender Equity",
+      "title": "Challenges and strategies from the perspective of a culturally diverse staff network",
+      "retrieved": "2026-10-04",
+      "source_type": "other",
+      "locator": "Opening network history and leadership-model paragraphs; Say My Name examples",
+      "note": "University network presentation records creation in2018 and three co-chairs, with Sitou named among campaign examples. Network creation year is not independently her personal appointment boundary."
     }
   ],
   "research_notes": [
@@ -458,6 +499,7 @@
     "Next leads: university personnel or public first-person account specifying 2016-era leave and return dates/hours; early Parliament House employer/contract (do not merge with Clare 2009–2012); AusAID appointment contract and China placement record. Full-time and part-time phrases in adjacent Hansard speakers or third-party LinkedIn posts are not Sitou’s employment evidence. Dynamic contact cards attached to older university news pages do not backdate doctoral enrolment.",
     "Second follow-up2October2026: added LEAN NSW federal patron role from organisation announcement; AusAID photographic work corroborated by UN Women without treating the UN as employer. Targeted Samoa, university part-time and DAWN searches did not resolve contracts, hours or leave dates. UN photo taken/upload chronology conflicts and was not used for employment dates. Search excerpts for university part-time study refer to her electorate staff, university vice-chancellor or other delegates, not Sitou. Parental-leave repost repeats already documented14-month absence without new boundaries. Continue employer-specific leave/return and early Parliament House appointment evidence; no employment totals inferred.",
     "Third follow-up3October2026: repeated exact-name searches for the pre-2009 Parliament House employer, Jason Clare appointment boundaries, AusAID Samoa contract and University of Sydney parental-leave/return evidence. Contemporary ACYD again establishes a2010 Australian Government policy-adviser point and one year in Beijing in2008 but does not name the employing office or add boundaries beyond existing spells. A University of Sydney April2014 conference program credits media-outreach advice, consistent with the documented2013 start but not a contract, hours or leave record. The paid-parental-leave speech supplies no dates beyond the already recorded14-month absence. No new supported employer, boundary, hours or leave allocation found; advance the cursor and avoid repeating these queries without a new archive or employer record.",
-    "Fourth follow-up4October2026 narrowed searches to Penny Wong/Parliament House, 2007 employment, Jason Clare appointment timing and AusAID Samoa media work. Results repeated the existing first-person Parliament House recollection, Whitlam biography and DFAT review annex. A 2025 social-media thank-you to Penny Wong does not identify her earlier employer and was not used to infer staff service. No appointment instrument, payroll entity, contract boundary, hours or leave allocation was found. Further progress requires parliamentary staffing records, AusAID personnel material or University of Sydney employment/leave documentation; repeated biography queries are exhausted."
+    "Fourth follow-up4October2026 narrowed searches to Penny Wong/Parliament House, 2007 employment, Jason Clare appointment timing and AusAID Samoa media work. Results repeated the existing first-person Parliament House recollection, Whitlam biography and DFAT review annex. A 2025 social-media thank-you to Penny Wong does not identify her earlier employer and was not used to infer staff service. No appointment instrument, payroll entity, contract boundary, hours or leave allocation was found. Further progress requires parliamentary staffing records, AusAID personnel material or University of Sydney employment/leave documentation; repeated biography queries are exhausted.",
+    "Follow-up2026-10-04: New university SAGE application documents Mosaic co-chair service at the March2019 launch, distinct from media employment; UNSW biography supports founding. Network creation2018 is not an individual appointment date. VC sponsorship is training, not another employer. Personal dates, pay/hours and cessation remain unknown. Co-founder CV retrieval returned HTTP503 and web find Internal Error; not used to fabricate a2018 appointment. AYAD and early staffing queries repeat earlier evidence; retain recorded gaps."
   ]
 }
