@@ -6,7 +6,7 @@
   "snapshot_party": "One Nation",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/E5D",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-03",
+  "last_reviewed": "2026-10-04",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -77,7 +77,7 @@
     },
     {
       "spell_id": "E5D-accountant",
-      "employer": "Chartered accountancy firm and an American multinational (names unresolved)",
+      "employer": "Unidentified chartered accountancy firm; Conagra",
       "role": "Accountant, including cost accounting",
       "start_date": "1991",
       "end_date": "1994",
@@ -90,9 +90,10 @@
       "counting_status": "insufficient_evidence",
       "source_ids": [
         "src-snapshot",
-        "src-member-education"
+        "src-member-education",
+        "src-house-conagra-oct4"
       ],
-      "evidence_note": "The frozen extract gives accountant from 1991 to 1994. Joyce's website says three years at a chartered firm followed by a short American-multinational cost-accounting role, but does not name either employer or identify the transition. Exact dates, hours and leave are unresolved.",
+      "evidence_note": "The frozen extract gives accountant from1991 to1994. Joyce's website says three years at an unidentified chartered firm followed by a short American-multinational cost-accounting role. In a27November2024 House speech Joyce identifies that multinational as Conagra and describes himself as a cost accountant there. This resolves one employer but not the firm, internal transition, exact dates, legal payroll entity, hours or leave.",
       "counting_note": "Private employment is supported, but employer boundaries and full-time status are not established."
     },
     {
@@ -414,6 +415,16 @@
       "source_id": "src-sbs-wicklow-oct2"
     },
     {
+      "source_id": "src-house-conagra-oct4",
+      "url": "https://www.openaustralia.org.au/debate/?id=2024-11-27.30.1",
+      "publisher": "OpenAustralia reproduction of House Hansard",
+      "title": "Future Made in Australia (Guarantee of Origin) Bill debate,27November2024",
+      "source_type": "government_record",
+      "locator": "Joyce contribution: cost-accountant paragraph",
+      "note": "First-person parliamentary statement names Conagra as the large American multinational where he was a cost accountant. It gives no dates, hours, payroll entity or leave.",
+      "retrieved": "2026-10-04"
+    },
+    {
       "source_id": "src-nga2011-oct3",
       "url": "https://www.vincent.wa.gov.au/profiles/vincent/assets/agenda/2011/20110419/att/ceommnationalgenassembly001.pdf",
       "publisher": "Australian Local Government Association / City of Vincent archive",
@@ -443,11 +454,12 @@
     "Business-register identity and contemporaneous ABC brother interview resolve registration and ownership/management distinctions; separate nightclub role added without guessed dates. Searched chartered-firm/multinational names, bank/history reports and Reserve sources; no exact hours, early employer identities or service-duty records found. Member education page timed out; old ABC URL inaccessible, current ABC transcript recovered. Original 2013 Hansard link inaccessible; reproduction labelled. Continue with payroll/control records, original practice succession documents and specific employer identities.",
     "Second follow-up2October2026 resolves Wicklow Hotel venue for previously unnamed bouncer employment, retaining unknown dates because reports differ on study overlap. Public GQ interview index independently mentions Wicklow; page redirected to cookie screen, no further access attempted.",
     "Early accountancy-firm and American-multinational searches again yielded unnamed sequence, not employer identities/hours. A secondary blog quotes older Age Moree-nightclub account and SMH two-year Wicklow account; treat these as original-article leads, not proof of another employer or fixed two-year interval. UTas thesis mirror mentions sixteen years of St Vincent de Paul volunteering citing Fidler2006; original ABC21November2006 interview not retrieved, so charity detail remains a lead pending primary corroboration. Avoid repeating exhausted generic biography searches; next focus named venue archives, original interview and employer histories.",
-    "Follow-up3October2026 locates independent2011 assembly biography and first-person2020 House speech confirming St Vincent de Paul activity; adds a separate excluded nonprofit record without adopting unverified sixteen-year duration or counselling title. Original ABC21November2006 URL https://www.abc.net.au/local/stories/2006/11/21/1793869.htm returned404; linked archive returned Internal Error. The Age2005 original Moree-bouncer article returned non-retryable reader error; not accessed through a restriction-bypassing mirror. Search click invalid-arguments errors were recovered by reading public Wikipedia source-link HTML; local missing bs4 recovered using Python standard-library HTMLParser. Further volunteer terms, venue chronology and unnamed accountant employers remain unresolved."
+    "Follow-up3October2026 locates independent2011 assembly biography and first-person2020 House speech confirming St Vincent de Paul activity; adds a separate excluded nonprofit record without adopting unverified sixteen-year duration or counselling title. Original ABC21November2006 URL https://www.abc.net.au/local/stories/2006/11/21/1793869.htm returned404; linked archive returned Internal Error. The Age2005 original Moree-bouncer article returned non-retryable reader error; not accessed through a restriction-bypassing mirror. Search click invalid-arguments errors were recovered by reading public Wikipedia source-link HTML; local missing bs4 recovered using Python standard-library HTMLParser. Further volunteer terms, venue chronology and unnamed accountant employers remain unresolved.",
+    "Fourth follow-up4October2026 materially identifies Conagra as the previously unnamed American multinational: Joyce's first-person27November2024 House speech says he was a cost accountant there. The chartered accountancy firm, exact transition, payroll entity, hours and leave remain unresolved. Exact Wicklow and St Vincent de Paul searches repeated the two-year and sixteen-year secondary leads without primary term evidence; those durations were not adopted."
   ],
   "open_questions": [
     "Which farms employed Joyce from 1989 to 1991, and what were the dates, hours and breaks, including any nightclub work?",
-    "What were the names, exact dates, hours and leave for the chartered accountancy firm and American multinational roles?",
+    "What was the chartered accountancy firm, and what were the exact Conagra legal payroll entity, transition dates, hours and leave?",
     "What paid-duty days, rank, hours and breaks applied to Army Reserve service?",
     "Was there paid non-parliamentary work during the 27 October–2 December 2017 eligibility gap?",
     "What were precise QIDC/Suncorp payroll and control transitions, working hours and leave within official 1994–1998 banking range, and how does the five-year narrative reconcile?",
