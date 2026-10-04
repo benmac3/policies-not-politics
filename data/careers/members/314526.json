@@ -75,9 +75,28 @@
         "src-6",
         "src-8"
       ],
-      "evidence_note": "Approximately ten NT teaching years stated in December 2024. Profile has additional unnamed entries; this is a completeness placeholder, not a second interval added over named schools. Do not infer all posts public or full-time.",
+      "evidence_note": "Approximately ten NT teaching years stated in December 2024. Profile has additional unnamed entries; this is a completeness placeholder, not a second interval added over named schools. Do not infer all posts public or full-time. A separately mapped senior-teacher appointment February2018–July2021 is now recorded independently; this residual placeholder covers unresolved postings only and is never added over that appointment.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "314526-03"
+    },
+    {
+      "employer": "Department of Education Northern Territory; posting location unresolved",
+      "role": "Senior Teacher: English as an Additional Language/Dialect",
+      "start_date": "2018-02",
+      "end_date": "2021-07",
+      "date_precision": "month",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "public_service",
+      "headline_sector": "public",
+      "government_control_at_time": "public",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-5"
+      ],
+      "evidence_note": "Matched public professional-profile search index explicitly maps this title to Department of Education Northern Territory and February2018–July2021. These are self-reported month boundaries; school/location, substantive hours, leave and exact days remain unresolved. Senior title does not establish full-time work. This appointment is a component of the broad NT career, not additional duration added over the completeness placeholder.",
+      "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
+      "spell_id": "314526-13"
     },
     {
       "employer": "Tasmanian education department — Riverside Primary School",
@@ -310,9 +329,9 @@
       "publisher": "Jess Teesdale / LinkedIn",
       "title": "Public professional profile",
       "source_type": "professional_profile",
-      "locator": "Public search-index Experience entries; Ramingining Classroom Teacher April2011–June2015",
-      "note": "Matched by Launceston, Indie School and teaching background. Visible workplaces include Prospect High, Riverside Primary, Anula Primary and Ramingining. Employment dates/titles mostly absent. Direct open 999 Unknown Status Code; no authentication attempted. Follow-up targeted index now exposes Department of Education Northern Territory Classroom Teacher April2011–June2015, Ramingining. Other role titles visible without reliable employer/date mapping; not assigned speculatively. Full-time status absent.",
-      "retrieved": "2026-10-02",
+      "locator": "Public search-index Experience entries; Ramingining Classroom Teacher April2011–June2015; Senior Teacher:English as an Additional Language/Dialect, Department of Education Northern Territory, February2018–July2021",
+      "note": "Matched by Launceston, Indie School and teaching background. Visible workplaces include Prospect High, Riverside Primary, Anula Primary and Ramingining. Employment dates/titles mostly absent. Direct open 999 Unknown Status Code; no authentication attempted. Follow-up targeted index now exposes Department of Education Northern Territory Classroom Teacher April2011–June2015, Ramingining. Other role titles visible without reliable employer/date mapping; not assigned speculatively. Full-time status absent. Follow-up public search-index extract now explicitly maps the senior-teacher title, NT department and February2018–July2021; no school inferred from neighboring entries.",
+      "retrieved": "2026-10-04",
       "source_id": "src-5"
     },
     {
@@ -446,6 +465,7 @@
     "Follow-up2026-10-02: newly visible public professional-profile index resolves Ramingining Classroom Teacher appointment April2011–June2015 under NT education department. These self-reported month boundaries replace inferred year start. No substantive hours or leave found; headline remains null.",
     "Other indexed titles include Inclusive Education(Support)Teacher, Literacy and Numeracy Intervention, and Senior Teacher:English as an Additional Language/Dialect. Search snippets do not consistently map titles to schools/dates; retained as leads rather than false precision. Anula snippet mentions1year6months but lacks anchored calendar dates. No new school annual-report staff entry located.",
     "Do not re-open previously999-blocked profile or use personlookup/contact aggregators. Further follow-up: independently corroborate Ramingining boundaries, obtain attributable Anula/other NT and Tasmanian transfer dates, and resolve Indie unpaid campaign leave. Public profile remained incomplete; study years not assigned to unlabeled qualifications.",
-    "Follow-up2026-10-04: exact-name searches for Anula, Riverside, Prospect and Indie employment repeated the existing workplace sequence. The indexed professional profile still exposes only an unanchored1year6month Anula duration, not calendar endpoints; social posts concern later school visits, not employment. Contemporary December2024 reporting confirms intended unpaid Indie leave but not the actual leave start or contract end. No transfer boundary, substantive hours or additional employer was inferred."
+    "Follow-up2026-10-04: exact-name searches for Anula, Riverside, Prospect and Indie employment repeated the existing workplace sequence. The indexed professional profile still exposes only an unanchored1year6month Anula duration, not calendar endpoints; social posts concern later school visits, not employment. Contemporary December2024 reporting confirms intended unpaid Indie leave but not the actual leave start or contract end. No transfer boundary, substantive hours or additional employer was inferred.",
+    "Follow-up2026-10-04: Public professional-profile index now explicitly maps Senior Teacher:English as an Additional Language/Dialect to Department of Education Northern Territory, February2018–July2021. Added a distinct public-service appointment with self-reported month boundaries; no school identity, substantive hours, leave or full-time duration inferred. Other title/date searches returned unrelated generic2015documents and were rejected. Existing December2024 leave announcement remains prospective; no actual leave boundary or Indie resignation date resolved. Follow up independent NT appointment/staff records and full-time/leave evidence."
   ]
 }
