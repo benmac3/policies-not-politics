@@ -171,3 +171,6 @@
 
 - 2026-10-04T20:41:10+10:00: Duniam: located current personal disclosure index, documented failed PDF/link retrieval, preserved leave gaps. Nonmaterial provenance update.
 - Attempt120distinct,0new,70material,50nonmaterial,0complete; cycle137distinct,76material,61nonmaterial; day226distinct,115material,111nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Chris Gatenby324140. OUTCOME:ongoing; STOPPING REASON:none.
+
+- 2026-10-04T20:42:19+10:00: Gatenby: later primary March2026 board observation materially extends known governance chronology.
+- Attempt121distinct,0new,71material,50nonmaterial,0complete; cycle138distinct,77material,61nonmaterial; day226distinct,116material,110nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Jacqui Lambie250026. OUTCOME:ongoing; STOPPING REASON:none.
