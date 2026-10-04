@@ -379,8 +379,8 @@
     },
     {
       "spell_id": "132880-19",
-      "employer": "Australian National University; University of Sydney; Yale University",
-      "role": "Arts/law, economics masters and doctorate studies",
+      "employer": "Australian National University; University of Sydney",
+      "role": "Arts/law bachelor studies and economics masters",
       "start_date": null,
       "end_date": null,
       "date_precision": "unknown",
@@ -396,7 +396,7 @@
         "src-7",
         "src-9"
       ],
-      "evidence_note": "Yale PhD completed 2005; no invented start date from five-year US residence. Study not employment.",
+      "evidence_note": "Official biography assigns BA/LLB to ANU and MEc to Sydney; attendance/award dates unknown. Previously combined Yale study now separately recorded with verified entering-cohort year. No study treated as paid work.",
       "counting_note": "Excluded from the two employment headlines under the codebook."
     },
     {
@@ -418,6 +418,46 @@
       ],
       "evidence_note": "Books in 2022 and 2026 are documented. Publication does not prove salaried or full-time authorship; possible overlaps with Parliament remain uncounted.",
       "counting_note": "Dates, employer control and/or substantive full-time status remain insufficient for a duration calculation; unknown is not zero."
+    },
+    {
+      "spell_id": "132880-yale",
+      "employer": "Yale University",
+      "role": "Doctor of Philosophy in Economics study",
+      "start_date": "2000",
+      "end_date": "2005",
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "oct4-yale-enrolment",
+        "src-10",
+        "src-1"
+      ],
+      "evidence_note": "Yale Spring2002 newsletter visibly lists him in Fall2000 entering PhD cohort; retained at year precision, without inventing September/day boundaries. ACFS2015 primary biography explicitly gives Yale PhD2005. These are study labels, not proof of employment, teaching pay, continuous attendance or no leave.",
+      "counting_note": "Study excluded; US research/internship engagements separately unresolved."
+    },
+    {
+      "spell_id": "132880-curtin",
+      "employer": "John Curtin Research Centre",
+      "role": "Advisory Council member",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "oct4-curtin-council"
+      ],
+      "evidence_note": "Primary organisation lists member. Political think-tank advisory governance; legal structure/control, remuneration and personal tenure not established. Not evidence of private consulting or2018–19 employment bridge.",
+      "counting_note": "Advisory governance excluded, with no full-time or remuneration inference."
     }
   ],
   "sources": [
@@ -580,6 +620,26 @@
       "note": "Contemporaneously identifies Daniel Mulino as a lecturer in economics at Monash University. It is a dated role observation, not an appointment boundary, contract term or full-time-hours statement.",
       "retrieved": "2026-10-04",
       "source_id": "oct4-afr-monash"
+    },
+    {
+      "source_id": "oct4-yale-enrolment",
+      "url": "https://economics.yale.edu/sites/default/files/econ_newsletter_2002.pdf",
+      "publisher": "Yale University Department of Economics",
+      "title": "Department of Economics Newsletter,Spring2002",
+      "source_type": "employer",
+      "retrieved": "2026-10-04",
+      "locator": "Printed/PDF p13, Graduate Student News, Entering students PhD program, Fall2000 column",
+      "note": "Visual inspection of rendered scanned page identifies Daniel Mulino in Fall2000 entering cohort. Public PDF retrieval succeeded after web400 Content length is too large:12175180. Blank text extraction not treated as absence."
+    },
+    {
+      "source_id": "oct4-curtin-council",
+      "url": "https://curtinrc.org/our-people/",
+      "publisher": "John Curtin Research Centre",
+      "title": "Our people",
+      "source_type": "employer",
+      "retrieved": "2026-10-04",
+      "locator": "Advisory Council list, Hon Daniel Mulino MP",
+      "note": "Primary organisation identifies advisory membership, not paid employment or commencement. Earlier2024–2026 primary report lists are consistent observations."
     }
   ],
   "research_notes": [
@@ -590,6 +650,7 @@
     "Year-level early departmental dates remain intact. No durations calculated from titles or sequential labels. Missing intervals, including 1996–1997 and state-to-federal transition, remain unknown rather than unemployment. Party membership/policy committee activity and campaigning are separate from paid employment; blocked initial record is not completion.",
     "2026-10-02 follow-up materially dates Nous and Pottinger from public indexed professional-profile entries and Casey council from its own honour board; adds a contemporaneous31August2005 Monash affiliation. Direct LinkedIn was not retried after429. Targeted searches for employer dates and Monash roles yielded no full-time evidence; generic exact-site searches were inconsistent, so retrieval method is explicit. Follow-up leads: employer corroboration of self-reported consulting months; academic appointment/annual-report payroll categories; ministerial appointment records; early departmental hours and US internship status. McKinsey2019 automation report advisory committee and Curtin Research Centre advisory council are governance leads, not evidence of salaried consulting or a2018–19 employment bridge. Retain all unresolved breaks/overlaps and null totals; blocked is not complete.",
     "2026-10-03 follow-up: official Victorian Parliament history narrows state elected service to 28 November 2014–22 November 2018 and lists both parliamentary secretary appointments from 30 November 2014 to 17 December 2018. The appointment endpoint after the elected-term endpoint is recorded as a source detail, not converted into a separate employment spell. AEC final results support federal service from the 18 May 2019 election. The remaining inter-parliamentary interval is therefore 23 November 2018–17 May 2019 for research purposes; targeted 2018–19 employment/consulting searches found only candidacy, campaigning and governance/advisory material, not paid work. Do not label the interval unemployment. Monash, Nous/Pottinger hours, early departments and US internship status remain unresolved.",
-    "2026-10-04 follow-up: an Australian Financial Review article published 17 June 2006 contemporaneously identifies Mulino as a Monash University economics lecturer. Together with the 31 August 2005 Monash paper, this materially brackets observed affiliation across those dates, but neither source supplies appointment commencement/cessation, contract type, hours or leave. Targeted 2018–19 bridge, ministerial-adviser and consulting searches found no paid employment for the inter-parliamentary gap; candidacy and governance material remain excluded."
+    "2026-10-04 follow-up: an Australian Financial Review article published 17 June 2006 contemporaneously identifies Mulino as a Monash University economics lecturer. Together with the 31 August 2005 Monash paper, this materially brackets observed affiliation across those dates, but neither source supplies appointment commencement/cessation, contract type, hours or leave. Targeted 2018–19 bridge, ministerial-adviser and consulting searches found no paid employment for the inter-parliamentary gap; candidacy and governance material remain excluded.",
+    "Follow-up2026-10-04: Visually verified scanned YaleSpring2002 newsletterp13: Mulino belongs to Fall2000 entering PhD cohort. Separate Yale study now2000–2005year labels; no exact days, uninterrupted attendance, teaching pay or employment inferred. Added primary-confirmed John Curtin Research Centre advisory membership; organisational category/control unknown pending legal evidence.2005 dissertation completion/Monash placement independently corroborated in advisor George Hall public CV, not employment commencement/hours. Searches for Yale teaching/World Bank/CV found other authors and present staff vacancies, not his own employment contract. WebPDFsize error recovered through ordinary public download/render. Existing internship/pay, consultingFTE, ministerial and2018–19 gaps retained."
   ]
 }

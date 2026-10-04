@@ -295,3 +295,6 @@ Batch coverage, record fields, dates, enums, source references, build_careers.lo
 
 - 2026-10-04T22:58:54+10:00: Mitchell: previously omitted named TAFE training recovered; employer/hour gaps retained.
 - Attempt180distinct,0new,116material,64nonmaterial,0complete; cycle197distinct,122material,75nonmaterial; day226distinct,139material,87nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Daniel Mulino132880. OUTCOME:ongoing; STOPPING REASON:none.
+
+- 2026-10-04T23:02:54+10:00: Mulino: Yale doctoral entering cohort and omitted advisory service verified; paid-work gaps retained.
+- Attempt181distinct,0new,117material,64nonmaterial,0complete; cycle198distinct,123material,75nonmaterial; day226distinct,139material,87nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Zoe McKenzie124514. OUTCOME:ongoing; STOPPING REASON:none.
