@@ -323,3 +323,14 @@ Batch check passes: 226 assigned exactly once across 13 batches; nsw-1 assignmen
 - Durable next cursor: NSW-2 batch, Mehreen Faruqi (250362). NSW-1 round complete; unresolved records remain queued for later least-recent follow-up.
 - OUTCOME: ongoing. STOPPING REASON: none; continue after remote verification. No successor requested. Scheduler terminal status unavailable.
 - Validation: JSON parse, `career_batches.py --check` (226/13), `career_batches.py --batch nsw-1`, `build_careers.py` and `git diff --check` passed. Only the assigned member and this checkpoint were written on the NSW-1 branch.
+
+
+## Additional authorised attempt — 2026-10-04 16:00 Brisbane cycle, continuation 1
+
+- Actual attempt start: 2026-10-04T17:00:01+10:00; latest checkpoint: 2026-10-04T19:11:09+10:00; end not observed. Starting NSW-1 head: be2dcc5a91d9d6920ef8e0182be1e648a1a029c8. National starting baseline: 226 initial, 226 unresolved, 0 complete. All 13 remote branch heads re-fetched and audited; no competing NSW-1 writer observed. Earlier ongoing checkpoints lack terminal telemetry; their final outcome remains unknown unless a later checkpoint establishes it. Predecessor successor execution unverified.
+- Elliot (DZW): materially enriched existing record. Recovered full first speech from public original daily-Hansard reproduction; added general-duty police work, departure reasons, study order and juvenile-justice mediation duties. No unsupported year, hours or family-care interval added. Earlier individual-source transcript access failure recovered.
+- Attempt: 73 distinct, 0 new, 41 materially enriched, 32 nonmaterial, 0 newly complete. Cycle: 90 distinct, 47 material, 43 nonmaterial. Day: 226 distinct, 97 material, 129 nonmaterial; Elliot was already reviewed today and is counted once, reclassified from nonmaterial to material. Automated semantic-diff audit counts 102 changed records before this commit, including corroboration-only edits; this is not a material-enrichment count. Manual classifications retained pending reconciliation.
+- Current national coverage: 226/226 initial records; 226 blocked/unresolved; 0 research-complete. All initial and today-reviewed counts independently confirmed from remote assigned branches.
+- Durable next follow-up: David Farley (62329), NSW-1; seek original AAco contract/annual-report evidence rather than exhausted broad biography queries.
+- OUTCOME: ongoing. STOPPING REASON: none; continue after remote verification. No successor requested; scheduler terminal status unavailable.
+- Validation: 20 member records parsed by scripts.build_careers.load_records; career_batches.py --check and --batch nsw-1 passed before this research; git diff --check passed. Only assigned member and checkpoint edited.

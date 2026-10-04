@@ -30,15 +30,16 @@
       "source_ids": [
         "src-secondary",
         "src-alp-profile",
-        "src-ifa2010"
+        "src-ifa2010",
+        "src-hansard2004-mirror-oct4"
       ],
-      "evidence_note": "The secondary biography, citing parliamentary material, records a Bachelor of Arts from the University of Queensland with English and history majors. Enrolment dates, load, completion date and employment overlap are unresolved. First-party ALP biography and2010 ministerial speaker profile independently corroborate qualification, but still no date or load.",
+      "evidence_note": "The secondary biography, citing parliamentary material, records a Bachelor of Arts from the University of Queensland with English and history majors. Enrolment dates, load, completion date and employment overlap are unresolved. First-party ALP biography and2010 ministerial speaker profile independently corroborate qualification, but still no date or load. First speech places BA completion before joining police; no calendar completion date.",
       "counting_note": "Study is excluded under the codebook."
     },
     {
       "spell_id": "DZW-qps",
       "employer": "Queensland Police Service",
-      "role": "Police officer",
+      "role": "General duties police officer",
       "start_date": "1990",
       "end_date": "1997",
       "date_precision": "year",
@@ -54,9 +55,10 @@
         "src-secondary",
         "src-ifa2010",
         "src-echo2006-oct2",
-        "src-abc2025-oct2"
+        "src-abc2025-oct2",
+        "src-hansard2004-mirror-oct4"
       ],
-      "evidence_note": "The frozen official extract records police service from 1990 to 1997. Her current first-party biography describes front-line police work, and the secondary biography identifies Queensland Police. Exact appointment and cessation dates, rank, postings, hours, leave and any study overlap are unresolved.2010 hosted ministerial profile corroborates seven years as a police officer and later youth justice convenor work. Rounded duration does not resolve calendar boundaries or full-time status. Follow-up2October2026: recovered Echo23May2006p15 repeats seven years from1990, without hours/boundaries. ABC2025 guide locates police work on Gold Coast; specific station/rank and whether all service was there remain unverified.",
+      "evidence_note": "The frozen official extract records police service from 1990 to 1997. Her current first-party biography describes front-line police work, and the secondary biography identifies Queensland Police. Exact appointment and cessation dates, rank, postings, hours, leave and any study overlap are unresolved.2010 hosted ministerial profile corroborates seven years as a police officer and later youth justice convenor work. Rounded duration does not resolve calendar boundaries or full-time status. Follow-up2October2026: recovered Echo23May2006p15 repeats seven years from1990, without hours/boundaries. ABC2025 guide locates police work on Gold Coast; specific station/rank and whether all service was there remain unverified. First speech describes seven years handling domestic incidents, fatal crashes, break-ins and assaults; she left policing for university and parenthood. This establishes reasons for departure, not a dated leave interval.",
       "counting_note": "Public employment is supported, but year-only boundaries and absent substantive full-time evidence do not establish an exact countable interval."
     },
     {
@@ -75,9 +77,10 @@
       "source_ids": [
         "src-secondary",
         "src-alp-profile",
-        "src-ifa2010"
+        "src-ifa2010",
+        "src-hansard2004-mirror-oct4"
       ],
-      "evidence_note": "The secondary biography records this Griffith University qualification. Dates, study load and overlap with police or later work are unresolved. First-party ALP biography and2010 ministerial speaker profile independently corroborate qualification, but still no date or load.",
+      "evidence_note": "The secondary biography records this Griffith University qualification. Dates, study load and overlap with police or later work are unresolved. First-party ALP biography and2010 ministerial speaker profile independently corroborate qualification, but still no date or load. First speech says she completed the diploma after leaving police, in the same year as her first child’s birth; no calendar year or study load stated.",
       "counting_note": "Study is excluded under the codebook."
     },
     {
@@ -116,9 +119,10 @@
         "src-snapshot",
         "src-secondary",
         "src-ifa2010",
-        "src-echo2006-oct2"
+        "src-echo2006-oct2",
+        "src-hansard2004-mirror-oct4"
       ],
-      "evidence_note": "The frozen official extract names the department and role and gives 2002–2003 boundaries. Exact appointment and cessation dates, employment basis, hours, leave and overlap with party activity are unresolved.2010 hosted ministerial profile corroborates seven years as a police officer and later youth justice convenor work. Rounded duration does not resolve calendar boundaries or full-time status. Recovered2006 Echo profile corroborates existing2002–2003 interval only; convenor title does not determine hours or casual basis.",
+      "evidence_note": "The frozen official extract names the department and role and gives 2002–2003 boundaries. Exact appointment and cessation dates, employment basis, hours, leave and overlap with party activity are unresolved.2010 hosted ministerial profile corroborates seven years as a police officer and later youth justice convenor work. Rounded duration does not resolve calendar boundaries or full-time status. Recovered2006 Echo profile corroborates existing2002–2003 interval only; convenor title does not determine hours or casual basis. First speech identifies mediation between young offenders and victims as her duties.",
       "counting_note": "Public employment is supported, but year-only boundaries and absent substantive full-time evidence do not establish an exact countable interval."
     },
     {
@@ -321,6 +325,16 @@
       "note": "Former Gold Coast police officer; location corroboration, no particular station, rank or employment dates.",
       "retrieved": "2026-10-02",
       "source_id": "src-abc2025-oct2"
+    },
+    {
+      "source_id": "src-hansard2004-mirror-oct4",
+      "url": "https://www.gwb.com.au/gwb/news/goss/jack01.pdf",
+      "publisher": "Parliament of Australia (public GWB-hosted reproduction)",
+      "title": "House of Representatives Official Hansard, 2 December 2004 — Justine Elliot first speech",
+      "retrieved": "2026-10-04",
+      "source_type": "government_record",
+      "locator": "Printed pages 15–19; employment passages pp16 and18 (PDF pages32 and34, one-based)",
+      "note": "Complete official daily Hansard reproduction; cover and relevant page images retrieved; transcript inspected. Third-party host does not alter parliamentary authorship."
     }
   ],
   "research_notes": [
@@ -334,7 +348,8 @@
     "Aggregator dates showing1January for1990/1997 and2002/2003 were rejected as unsupported precision; frozen official year boundaries retained. Seven-year police duration and front-line title do not prove full-time service. No family-care interval inferred from family biography.",
     "Second follow-up2October2026: no material enrichment counted. Recovered previously oversized14.1MB Echo volume20issue52 public PDF by ordinary download and text extraction; printedp15 corroborates existing years, not full-time status. Added ABC Gold Coast location context without inferring specific station or whole-service posting.",
     "First-speech search again yielded no accessible transcript: public Advoc8 page supplies first-speech date/summary but returned only page shell. No access controls bypassed. Police/juvenile-justice hours queries repeated broad biographies.1997–2002 remains unknown; family details and spouse’s police work are not her employment record. Future lead is personal QPS service/leave record, historical university completion material or complete public maiden speech, not repeating Echo recovery.",
-    "Third follow-up4October2026 searched exact first-speech, police-to-youth-justice gap, appointment-title and university-history leads. Official parliamentary search was blocked by robots.txt, while accessible official and secondary indexes repeated only1990–1997 police service and2002–2003 conference-convenor work. The2010 speaker report says her husband supported the family as a stay-at-home father; this does not establish Elliot’s own work, leave or hours during1997–2002. Aggregator1January dates remain rejected. No material change; retain the gap pending a personal service, university or complete maiden-speech record."
+    "Third follow-up4October2026 searched exact first-speech, police-to-youth-justice gap, appointment-title and university-history leads. Official parliamentary search was blocked by robots.txt, while accessible official and secondary indexes repeated only1990–1997 police service and2002–2003 conference-convenor work. The2010 speaker report says her husband supported the family as a stay-at-home father; this does not establish Elliot’s own work, leave or hours during1997–2002. Aggregator1January dates remain rejected. No material change; retain the gap pending a personal service, university or complete maiden-speech record.",
+    "Follow-up2026-10-04: recovered complete first speech through publicly hosted official daily Hansard. New duties and relative study/departure sequence added. No dates inferred from children’s ages; spouse’s full-time caring does not establish her hours. Gap still unresolved; earlier transcript-access blocker is recovered."
   ],
   "open_questions": [
     "What were the exact Queensland Police appointment, posting, rank, hours, leave and cessation details?",
@@ -344,6 +359,6 @@
     "What paid work or campaign activity occurred from the 2003 role ending until election on 9 October 2004?",
     "Was the Tweed Coast branch presidency remunerated, and how did it overlap public employment and campaigning?",
     "What were appointment/cessation dates and remuneration, if any, for the health council and coastal committee representative roles?",
-    "Can the2December2004 first speech or a public police employment/alumni record resolve police postings, hours, leave or1997–2002 activities?"
+    "Can a public QPS service or university completion record establish dates, hours and the remaining 1997–2002 chronology? Complete first speech recovered; it supplies relative sequence, not calendar boundaries."
   ]
 }
