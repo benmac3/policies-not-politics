@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/300130",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-04",
+  "last_reviewed": "2026-10-05",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -78,16 +78,16 @@
         "src-8",
         "src-11"
       ],
-      "evidence_note": "Official aggregate business interval retained. A 2022 school publication describes a successful supply business distributing test-tube cleaners and cleaning chemicals across Malaysia, followed by management of several companies, but provides no entity names or dates. Own account distinguishes supply/distribution then family cafe; individual entity intervals remain unresolved. This umbrella entry is not additive to cafe detail. Public profile instead lists self-employment in Malaysia December 1984–October 2005, materially earlier than official 29 February 1988 business start and overlapping own 2002 Perth cafe account. Retain competing chronologies; profile location cannot date migration or establish continuous work.",
+      "evidence_note": "Official aggregate business interval retained. A 2022 school publication describes a successful supply business distributing test-tube cleaners and cleaning chemicals across Malaysia, followed by management of several companies, but provides no entity names or dates. Own account distinguishes supply/distribution then family cafe; individual entity intervals remain unresolved. This umbrella entry is not additive to cafe detail. Public profile instead lists self-employment in Malaysia December 1984–October 2005, materially earlier than official 29 February 1988 business start and overlapping own 2002 Perth cafe account. Retain competing chronologies; profile location cannot date migration or establish continuous work. June2005 Perth business records now identify Manhattans on Hay and associated partnerships; Malaysian supply-business entities remain unresolved. Preserve the umbrella interval and nonadditive cafe component.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "300130-03"
     },
     {
-      "employer": "Family cafe, Perth CBD — trading name unresolved",
+      "employer": "Family café, Perth — Manhattans on Hay documented June 2005; B LIM & C WONG / B.C LIM & G.M OAKLEY & M OAKLEY & C WONG partnerships",
       "role": "Owner/operator",
       "start_date": "2002",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "year",
       "employment_status": "self_employed",
       "fte_fraction": null,
       "category": "private_enterprise",
@@ -96,9 +96,15 @@
       "counting_status": "insufficient_evidence",
       "source_ids": [
         "src-2",
-        "src-3"
+        "src-3",
+        "src-7",
+        "src-14",
+        "src-15",
+        "src-16",
+        "src-17",
+        "src-18"
       ],
-      "evidence_note": "Own2002 migration/cafe account; component of aggregate business tenure, not separate additional years. End of individual cafe work unknown.",
+      "evidence_note": "Own2002 migration/cafe account; component of aggregate business tenure, not separate additional years. End of individual cafe work unknown. Contemporary June2005 advertisement names Bon Cheng Lim and Graeme Oakley as cafe contacts; SBS identifies MP as Bon Cheng Lim and UTAR names wife Wong Chew Yong. ABR histories identify private family partnership B LIM & C WONG and partnership B.C LIM & G.M OAKLEY & M OAKLEY & C WONG trading as Manhattans on Hay from 2003/2004. Attribution is triangulated, not a direct first-person naming of his 2002 cafe. Preserve the broader own-account 2002 cafe start; continuity of that cafe with the named2005 business needs confirmation. ABN/GST/trading-name dates and later cancellation do not replace personal employment start/end, establish cafe sale, or prove full-time work. Do not add multiple partnerships as independent overlapping jobs. IP Australia2005 joint class43 filing corroborates the full-name pair but no mark text was obtained.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "300130-04"
     },
@@ -172,7 +178,7 @@
       "role": "Member for Tangney",
       "start_date": "2022-05-21",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "day",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -191,7 +197,7 @@
       "role": "Candidate for Tangney",
       "start_date": "2021-08",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "month",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "party_organisation",
@@ -273,8 +279,8 @@
       "title": "Inspirational talk by Australian MP Sam Lim",
       "source_type": "other",
       "locator": "January2023 event account",
-      "note": "Talk host reports two years police then higher-paid safari work; migration2005 conflicts with own2002 speech.",
-      "retrieved": "2026-10-01",
+      "note": "Talk host reports two years police then higher-paid safari work; migration2005 conflicts with own2002 speech. Event host names his wife Wong Chew Yong; combined with SBS full name and contemporary advertisement/ABR records this supports business identity triangulation.",
+      "retrieved": "2026-10-05",
       "source_id": "src-7"
     },
     {
@@ -336,6 +342,56 @@
       "note": "First-person account of more than 15 years serving from Eucla to Karratha and Perth, with Community Engagement Division identified as his last WA Police position; no hours or leave stated.",
       "retrieved": "2026-10-03",
       "source_id": "src-13"
+    },
+    {
+      "source_id": "src-14",
+      "url": "https://www.sbs.com.au/language/malay/ms/podcast-episode/anak-malaysia-dilantik-ke-dewan-rakyat-australia-mengupas-ertinya-sambutan-tahun-baru-cina/ctlgpmm95",
+      "publisher": "SBS Bahasa Melayu",
+      "title": "Sam Lim interview, 8 February 2024",
+      "source_type": "reliable_secondary",
+      "locator": "Introduction: full name Bon Cheng Lim",
+      "note": "Full-name attribution; identity bridge for historical business records.",
+      "retrieved": "2026-10-05"
+    },
+    {
+      "source_id": "src-15",
+      "url": "http://intxtrust.com/upload/newsletters/200609260509144518d21a4d16b.pdf",
+      "publisher": "E Banc Trade Pty Ltd",
+      "title": "E Banc Trade newsletter, June 2005, volume 6 issue 5",
+      "source_type": "primary_organisation",
+      "locator": "Members Market, WA: Manhattans on Hay advertisement",
+      "note": "Original public PDF retrieved. Lists Bon Cheng Lim and Graeme Oakley as contacts for Manhattans on Hay, East Perth. Advertisement establishes a dated business association, not hours, ownership percentages or employment boundaries.",
+      "retrieved": "2026-10-05"
+    },
+    {
+      "source_id": "src-16",
+      "url": "https://abr.business.gov.au/AbnHistory/View?id=54684685033",
+      "publisher": "Australian Business Register",
+      "title": "Historical details: ABN 54 684 685 033",
+      "source_type": "government_record",
+      "locator": "Entity name, ABN status, entity type, trading name and GST tables",
+      "note": "B LIM & C WONG; Family Partnership; ABN active from 28 August 2003 until 25 March 2021; Manhattans on Hay trading name from 28 August 2003; GST registration ended 29 September 2006. Administrative dates do not establish personal working tenure or sale dates.",
+      "retrieved": "2026-10-05"
+    },
+    {
+      "source_id": "src-17",
+      "url": "https://abr.business.gov.au/AbnHistory/View?id=76498106858",
+      "publisher": "Australian Business Register",
+      "title": "Historical details: ABN 76 498 106 858",
+      "source_type": "government_record",
+      "locator": "Entity name, ABN status, entity type, trading name and GST tables",
+      "note": "B.C LIM & G.M OAKLEY & M OAKLEY & C WONG; Other Partnership; ABN active 16 August 2004 to 15 October 2024; Manhattans on Hay trading name from 16 August 2004; GST registration ended 19 January 2005. Registration overlap does not prove two simultaneous jobs.",
+      "retrieved": "2026-10-05"
+    },
+    {
+      "source_id": "src-18",
+      "url": "https://pericles.ipaustralia.gov.au/ols/epublish/content/journals/trademarks/tm1926p20050707.pdf",
+      "publisher": "IP Australia",
+      "title": "Australian Official Journal of Trade Marks, volume 19 no.26, 7 July 2005",
+      "source_type": "government_record",
+      "locator": "Printed p7895, Applications Filed alphabetical index: Lim, Bon Cheng / Wong, Chew Yong; application 1060207",
+      "note": "Joint class43 application filed 15 June 2005 corroborates full-name pair. This journal entry does not supply the mark text or prove the cafe employment interval; those remain follow-up leads.",
+      "retrieved": "2026-10-05"
     }
   ],
   "research_notes": [
@@ -347,6 +403,7 @@
     "Searches for police unpaid/campaign leave, private security employer, Johor park operator and Perth cafe name found no attributable employer/control or full-time statement. Singapore No Signboard CEO Sam Lim Yong Sim and US technology/security profiles are different people; restaurant visits and staff resumes are not this MPs ownership history.",
     "Next: original Malaysian constable/academy service dates, contemporaneous Johor park employment/operator records, separate business registration/operating intervals and original WA Police employment/leave evidence. Resolve 1984 versus 1988 business commencement and 2002 migration versus Malaysia-labelled profile ending October 2005.",
     "Follow-up 2026-10-03: a 2022 school publication adds the Malaysian supply-business products and national operating scope but still no entity names or dates. A December 2018 policing journal establishes a dated acting-sergeant/community-liaison point, while later employer records revert to Senior Constable; do not convert the acting title into a continuous rank. A 2024 first-person speech identifies Community Engagement Division as the final WA Police position. Targeted searches still did not identify the 2005–06 security employer or defensibly link a current Cafe Denada to the family's 2002 cafe.",
-    "Follow-up2026-10-04: Targeted individual police campaign leave,2005/06 security payroll employer,2002 cafe name and Johor park operator searches did not close substantive hours or entity gaps. Own current biography and contemporary ABC/PerthNow again corroborate2002 family migration but do not explain Malaysian self-employment profile ending2005. Public forum claim that spouse ran cafe while Lim travelled to Malaysian business has no identified original evidence and is retained only as a search lead, not adopted. Singapore KH Security Agency manager, No Signboard executive leave, health academic and church pastor Sam Lims are not this MP. Next avenues: primary Malaysian business records linked by full identity, historical Perth cafe registration and dated WA Police leave/appointment evidence. Keep conflicting early spans and unknown full-time years."
+    "Follow-up2026-10-04: Targeted individual police campaign leave,2005/06 security payroll employer,2002 cafe name and Johor park operator searches did not close substantive hours or entity gaps. Own current biography and contemporary ABC/PerthNow again corroborate2002 family migration but do not explain Malaysian self-employment profile ending2005. Public forum claim that spouse ran cafe while Lim travelled to Malaysian business has no identified original evidence and is retained only as a search lead, not adopted. Singapore KH Security Agency manager, No Signboard executive leave, health academic and church pastor Sam Lims are not this MP. Next avenues: primary Malaysian business records linked by full identity, historical Perth cafe registration and dated WA Police leave/appointment evidence. Keep conflicting early spans and unknown full-time years.",
+    "Follow-up2026-10-05: full identity Bon Cheng Lim (SBS) and spouse Wong Chew Yong (UTAR) opened primary historical cafe records. June2005 E Banc Trade original PDF identifies Manhattans on Hay contacts Lim/Oakley; ABR histories identify B LIM & C WONG and the Oakley/Lim/Wong partnership, with registration dates distinguished from individual work. IP Australia7July2005p7895 application1060207 corroborates name pair, but mark text not retrieved. Employer field enriched with dated cafe/legal entity attribution; continuity back to2002, sale/cessation, hours, Malaysian company entities and security employer remain gaps. ABR full-name search returned fuzzy namesakes; only matching cafe partnership names adopted. Device-report mirror403 recovered by original public intxtrust PDF; no access bypass. Empire Trade2008 account24240 suspension is not evidence of business closure or personal work in2008. No full-time years or dates invented. Next: trademark1060207 detail and dated cafe transfer/personnel records; individual2005–06 security employer and police leave evidence."
   ]
 }
