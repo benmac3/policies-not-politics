@@ -179,3 +179,6 @@ Detailed attempted avenues, discrepancies and remaining leads are preserved in e
 
 - Dorinda Cox296215: material SWALSC June2014 contract cessation and new police-advisory membership; no FTyears.
 - Attempt24distinct,0new,13material,11nonmaterial,0complete; cycle41distinct,19material,22nonmaterial; day178distinct,69material,109nonmaterial; all0new/complete. Next: Tom French316550. OUTCOME:ongoing; STOPPING REASON:none.
+
+- Tom French follow-up: rejected UPFU Thomas Nolan namesake; no new employment boundaries or hours verified.
+- Attempt25distinct,0new,13material,12nonmaterial,0complete; cycle42distinct,19material,23nonmaterial; day179distinct,69material,110nonmaterial; all0new/complete. Next: Varun Ghosh 257613. OUTCOME:ongoing; STOPPING REASON:none.
