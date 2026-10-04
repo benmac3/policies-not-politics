@@ -20,7 +20,7 @@
       "role": "Bachelor of Economics student",
       "start_date": null,
       "end_date": "2001",
-      "date_precision": "mixed",
+      "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "study",
@@ -41,7 +41,7 @@
       "role": "Rhodes Scholar; economics master's and doctoral study",
       "start_date": null,
       "end_date": "2005",
-      "date_precision": "mixed",
+      "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "study",
@@ -115,9 +115,10 @@
       "source_ids": [
         "src-snapshot",
         "src-party",
-        "src-secondary"
+        "src-secondary",
+        "src-abs-conference-oct4"
       ],
-      "evidence_note": "The frozen official biography gives 2008–2010 and identifies the senior adviser and G20 Sherpa roles. The Labor biography says he joined the new government in 2007; secondary reporting supplies December 2007–June 2010, but primary month-level appointment evidence was not located, so the record retains the frozen year precision. Exact appointment/payroll dates, hours and the LSE overlap remain unresolved.",
+      "evidence_note": "The frozen official biography gives 2008–2010 and identifies the senior adviser and G20 Sherpa roles. The Labor biography says he joined the new government in 2007; secondary reporting supplies December 2007–June 2010, but primary month-level appointment evidence was not located, so the record retains the frozen year precision. Exact appointment/payroll dates, hours and the LSE overlap remain unresolved. ABS-hosted biography also identifies Prime Minister’s representative duties at UNFCCC conferences and Major Economies Forum on Energy and Climate. Nested political-staff duties, not international-organisation employment or new additive appointments.",
       "counting_note": "Political staff employment is excluded under the codebook."
     },
     {
@@ -588,11 +589,21 @@
       "url": "https://www.bnc.ox.ac.uk/downloads/brazen_notes/thebrazennose2006.pdf",
       "publisher": "Brasenose College, University of Oxford",
       "title": "The Brazen Nose 2006",
-      "source_type": "university_record",
+      "source_type": "employer",
       "locator": "Doctorates 2005: Andrew Charlton — Economics; printed matriculation year 2004",
       "note": "Indexed college record establishes the doctorate in the 2005 list. Direct PDF open returned 404 on 4 October 2026. The printed matriculation year conflicts with the earlier Rhodes chronology and is preserved as a conflict, not used as the Oxford start date.",
       "retrieved": "2026-10-04",
       "source_id": "src-brasenose2006"
+    },
+    {
+      "source_id": "src-abs-conference-oct4",
+      "url": "https://www.abs.gov.au/about/consultation-and-conferences/conferences/economic-implications-digital-economy",
+      "publisher": "Australian Bureau of Statistics",
+      "title": "Economic implications of the digital economy: conference biographies",
+      "retrieved": "2026-10-04",
+      "source_type": "government_record",
+      "locator": "Dr Andrew Charlton biography, lines52–55",
+      "note": "Government-hosted professional biography explicitly records UNFCCC and Major Economies Forum representation within prime-ministerial adviser work; not a separate employer or hours record."
     }
   ],
   "research_notes": [
@@ -607,7 +618,8 @@
     "Second follow-up 2 October 2026: added omitted e61 founder/director role, March 2021–24 March 2022, using organisation announcement and financial statements. Exact resignation in accounts takes priority over secondary narrative implying departure at May election. Governance/nonprofit excluded and Accenture overlap preserved.",
     "Contemporaneous e61 announcement confirms candidacy by 30 March 2022; corrected unsupported 1 April inception to March precision without guessing exact endorsement day. RBA conference profile independently corroborates BCG and Accenture. Full-time, payroll, leave and earlier-job boundaries remain unresolved; next leads are actual personal appointment/cessation documents, not corporate milestones.",
     "Further2October pass materially adds previously omitted OECD and Initiative for Policy Dialogue consultancies, and specifies Oxford teaching. Client bodies are identified, but contracts/payroll status are not: unknown classification retained pending evidence. UNDP consultancy may duplicate known analyst work and is not counted twice.2003 OECD authorship corroborates research activity, not paid service duration; the March2003 paper affiliates him with Oxford. OECD website PDF clicks returned Internal Error: Unable to resolve click call due to invalid arguments; accessible institutional/publisher biographies used instead. LSE2007 paper confirms Research Officer title. Next: consultant contracts/payment status/dates; Oxford teaching appointment; LSE hours/leave; original BCG appointment. Already materially counted today, so no extra distinct-member increment.",
-    "Third follow-up 2026-10-04: Brasenose College’s indexed 2006 record lists Andrew Charlton’s economics doctorate among 2005 doctorates, materially refining the Oxford study endpoint to 2005 at year precision. The same record prints matriculation 2004, inconsistent with the 2001 Rhodes chronology; that field is documented but not substituted for whole-study commencement. Direct PDF open returned 404. Targeted Oxford teaching and Accenture 2022 searches did not establish paid appointment, hours, leave or cessation; those gaps remain."
+    "Third follow-up 2026-10-04: Brasenose College’s indexed 2006 record lists Andrew Charlton’s economics doctorate among 2005 doctorates, materially refining the Oxford study endpoint to 2005 at year precision. The same record prints matriculation 2004, inconsistent with the 2001 Rhodes chronology; that field is documented but not substituted for whole-study commencement. Direct PDF open returned 404. Targeted Oxford teaching and Accenture 2022 searches did not establish paid appointment, hours, leave or cessation; those gaps remain.",
+    "Follow-up2026-10-04: Government-hosted ABS conference biography adds specific UNFCCC and Major Economies Forum representation within existing prime-ministerial adviser work. Duties remain nested under excluded political staffing; client conference participation does not create multilateral employment. Full-time AlphaBeta hits describe general graduate labour-market outcomes, not Charlton’s personal hours; advocacy-site lecturer/BCG title not adopted without reliable corroboration. Meteorological Charlton-Perez namesake excluded. Exact BCG/Accenture appointments, consulting contracts, LSE hours/leave and study chronology still require original records."
   ],
   "open_questions": [
     "What were the exact University of Sydney and Oxford study dates, loads and overlaps with paid work?",

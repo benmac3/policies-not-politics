@@ -396,3 +396,6 @@ Batch check passes: 226 assigned exactly once across 13 batches; nsw-1 assignmen
 
 - 2026-10-04T23:40:35+10:00: Jamie Chaffey: primary AGM minutes date Region11 chair handover16May2024; employment gaps retained.
 - Attempt200distinct,0new,129material,71nonmaterial,0complete; cycle217distinct,135material,82nonmaterial; day226distinct,149material,77nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Andrew CharltonI8M. OUTCOME:ongoing; STOPPING REASON:none.
+
+- 2026-10-04T23:42:04+10:00: Andrew Charlton: official conference biography adds international representation responsibilities within existing adviser spell; employment gaps retained.
+- Attempt201distinct,0new,130material,71nonmaterial,0complete; cycle218distinct,136material,82nonmaterial; day226distinct,149material,77nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: QLD-1Scott Buchholz230531; follow remaining attempt IDs sequentially.. OUTCOME:ongoing; STOPPING REASON:none.
