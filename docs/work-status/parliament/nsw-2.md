@@ -286,3 +286,6 @@ Batch check passes: 226 assigned exactly once across 13 batches; nsw-2 assignmen
 
 - 2026-10-04T19:19:28+10:00: Andrew Gee261393 nonmaterial follow-up: original Bar publication recovered, but photo/donation mentions do not establish new employment facts.
 - Attempt77distinct,0new,43material,34nonmaterial,0complete; cycle94distinct,49material,45nonmaterial; day226distinct,98material,128nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Alex HawkeHWO. OUTCOME:ongoing; STOPPING REASON:none.
+
+- 2026-10-04T19:20:28+10:00: Alex HawkeHWO nonmaterial follow-up: specific original-domain routes found no commissioning, graduation, payroll or roster evidence.
+- Attempt78distinct,0new,43material,35nonmaterial,0complete; cycle95distinct,49material,46nonmaterial; day226distinct,98material,128nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Kevin Hogan218019. OUTCOME:ongoing; STOPPING REASON:none.
