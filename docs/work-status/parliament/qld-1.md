@@ -198,3 +198,12 @@ Deduplicated Brisbane-day new member IDs: 00AMR, 101351, 124514, 132880, 140590,
 - QLD-1 current follow-up pass complete. Next national follow-up: qld-2, first durable unresolved cursor after branch reconciliation. Blocked records remain unresolved and retain their recorded leads.
 - OUTCOME: ongoing. STOPPING REASON: none; continue after remote verification. Successor not requested. Scheduler terminal status unavailable.
 - Validation: individual JSON/source/date/enums, `career_batches.py --check`, `career_batches.py --batch qld-1`, `build_careers.load_records()` and `git diff --check`; each substantive commit changes only its assigned member file and this checkpoint.
+
+
+## Active follow-up — 2026-10-04 08:00 Brisbane cycle, continuation 2
+
+- Attempt started: 2026-10-04T11:40:38+10:00; QLD-1 segment began after the remotely verified VIC-2 pass. Starting QLD-1 head: `072443ff2b247db13f56ec7961c0a20386a52842`; no active conflicting writer or intervening branch change observed.
+- Scott Buchholz: nonmaterial follow-up — registry targeting found Central Queensland Express Holdings Pty Ltd ACN 087 560 012 and its 13 May 1999 registration date, but that entity event does not establish his personal appointment, hours or the 1992–1999 business form. No staff commencement, station employer, AGC entity, 1987–89 work, leave or overlap evidence surfaced. Revisit only on a dated personnel or filing lead naming him.
+- Current continuation: 19 distinct records, 0 new initial, 3 materially enriched existing, 16 nonmaterial follow-ups and 0 newly research-complete. Cycle/day cumulative: 135 distinct, 0 new, 50 materially enriched, 85 nonmaterial follow-ups and 0 newly complete.
+- National coverage: 226/226 initial records, 226 unresolved, 0 research-complete. Durable next cursor: Cameron Caldwell (306489).
+- OUTCOME: ongoing. STOPPING REASON: none; continue after remote verification. Successor not requested. Scheduler terminal status unavailable.
