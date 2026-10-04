@@ -186,3 +186,6 @@
 
 - 2026-10-04T20:49:36+10:00: Teesdale: identified NT senior-teacher appointment February2018–July2021; hours and leave unknown.
 - Attempt125distinct,0new,73material,52nonmaterial,0complete; cycle142distinct,79material,63nonmaterial; day226distinct,118material,108nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Tammy Tyrrell300639. OUTCOME:ongoing; STOPPING REASON:none.
+
+- 2026-10-04T20:50:21+10:00: Tyrrell: tested additional provider leads; no defensible employer or full-time evidence resolved.
+- Attempt126distinct,0new,73material,53nonmaterial,0complete; cycle143distinct,79material,64nonmaterial; day226distinct,118material,108nonmaterial; all0new/complete. Day counts deduplicated: additional material updates to earlier-material members do not increment; earlier nonmaterial members reclassified once. Next: Anne Urquhart231199. OUTCOME:ongoing; STOPPING REASON:none.
