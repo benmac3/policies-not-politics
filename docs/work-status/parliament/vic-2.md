@@ -208,3 +208,7 @@ Batch coverage, record fields, dates, enums, source references, build_careers.lo
 - Clare O'Neil: nonmaterial follow-up — exact-name Marngarr/McKinsey/secondment searches returned official and historical-handbook repetitions of the existing 2011 business-adviser role and nine-month Arnhem Land residence, but no contract, payroll, leave, secondment or volunteer-status evidence. Generic web search is exhausted for this pass; Marngarr archives and McKinsey personnel/social-impact placement files remain decisive.
 - Current continuation: 4 distinct records, 0 new, 2 materially enriched, 2 nonmaterial follow-ups and 0 newly complete. Cycle/day cumulative: 120 distinct, 0 new, 49 materially enriched, 71 nonmaterial follow-ups and 0 newly complete.
 - Durable next cursor: James Paterson (144138).
+
+- James Paterson: nonmaterial follow-up — IPA-domain searches found a 25 January 2016 employer release and October 2016 submission naming him deputy executive director, corroborating the existing role envelope without narrowing appointment/departure dates, hours or leave. No VECCI terms, Fifield break evidence or pre-2006 work surfaced; employer/personnel records remain decisive.
+- Current continuation: 5 distinct records, 0 new, 2 materially enriched, 3 nonmaterial follow-ups and 0 newly complete. Cycle/day cumulative: 121 distinct, 0 new, 49 materially enriched, 72 nonmaterial follow-ups and 0 newly complete.
+- Durable next cursor: Sam Rae (300122).
