@@ -179,3 +179,10 @@ Batch coverage, record fields, dates, enums, source references, build_careers.lo
 - Daniel Mulino: materially enriched — a contemporaneous Australian Financial Review article published 17 June 2006 identifies him as a Monash University economics lecturer, extending the dated observation beyond the 31 August 2005 Monash paper. The two points do not establish appointment boundaries, contract type, hours or leave. Targeted 2018–19 bridge and adviser/consulting searches found no paid employment; candidacy and governance remain excluded.
 - Current continuation after this member: 72 distinct records, 0 new, 27 materially enriched, 45 nonmaterial follow-ups and 0 newly complete. Current cycle/day cumulative: 116 distinct, 0 new, 47 materially enriched, 69 nonmaterial follow-ups and 0 newly complete.
 - Durable next cursor: Zoe McKenzie (124514).
+
+- Attempt end: 2026-10-04T11:39:18+10:00; elapsed 1h58m13s from observable start 2026-10-04T09:41:05+10:00.
+- Final current-continuation totals: 72 distinct member records processed; 0 new initial records; 27 materially enriched existing records; 45 nonmaterial follow-ups; 0 newly research-complete. Cycle/day cumulative: 116 distinct; 0 new; 47 materially enriched; 69 nonmaterial; 0 newly complete. National baseline remains 226/226 initial records, 226 unresolved, 0 research-complete.
+- Validation: PASS career_batches.py --check (226 people / 13 batches), PASS --batch vic-2 (25 assigned members), PASS build_careers.py (25 summaries / 331 spells); generated aggregate files were not committed. Only assigned member files and this checkpoint were changed.
+- OUTCOME: Returned normally — no blocking error observed.
+- STOPPING REASON: Voluntary stop; no observed blocking limit — the execution reached its reporting/continuation handoff boundary after 1h58m13s of active work. The next record, Zoe McKenzie (124514), was not started so it can resume atomically from this verified cursor. No account or token exhaustion was inferred.
+- SUCCESSOR: not yet requested; exactly one immediate successor will be requested after this checkpoint is remotely verified. Scheduler terminal status unavailable.
