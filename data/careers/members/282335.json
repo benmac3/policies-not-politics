@@ -6,7 +6,7 @@
   "snapshot_party": "Independent",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/282335",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-04",
+  "last_reviewed": "2026-10-05",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -20,7 +20,7 @@
       "role": "Midwife; later community midwifery work",
       "start_date": "1986",
       "end_date": null,
-      "date_precision": "unknown",
+      "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "public_service",
@@ -114,15 +114,17 @@
       "source_ids": [
         "src-1",
         "oct3-drh2015",
-        "oct3-rrh2012"
+        "oct3-rrh2012",
+        "src-nhw-research2008-oct5",
+        "src-nhw-research2013-oct5"
       ],
-      "evidence_note": "Official roster lists network directorship2007–2019. A2012 peer-reviewed article identifies Haines as the network's research coordinator at the University of Melbourne Rural Health Academic Centre; university annual reports2015–2018 list her as Senior Lecturer – Director Rural Health Academic Network in a single staff row. These establish the university host/employer context and title evolution, but not exact transition dates, contract fraction or a separate additive appointment. This spell must not be independently summed with the university appointment without contract evidence.",
-      "counting_note": "Not counted: dates and/or substantive full-time status are insufficiently evidenced; year labels are not exact boundaries."
+      "evidence_note": "Official roster lists network directorship2007–2019. A2012 peer-reviewed article identifies Haines as the network's research coordinator at the University of Melbourne Rural Health Academic Centre; university annual reports2015–2018 list her as Senior Lecturer – Director Rural Health Academic Network in a single staff row. These establish the university host/employer context and title evolution, but not exact transition dates, contract fraction or a separate additive appointment. This spell must not be independently summed with the university appointment without contract evidence. Hospital 2007/08 report describes a half-time RHAN research position established September 2006 and names Haines as RHAN Coordinator/project lead; 2012/13 report repeats the establishment. This links her to the role context but does not expressly establish her initial appointment, entire contract fraction or total concurrent workload. Existing official years are retained, with September 2006 role-establishment lead noted rather than imposed as personal commencement.",
+      "counting_note": "Not counted: dates and/or substantive full-time status are insufficiently evidenced; year labels are not exact boundaries. Half-time position evidence prevents assuming this role was full-time; individual fraction across all years/other appointments remains unresolved."
     },
     {
       "spell_id": "282335-06",
       "employer": "Wangaratta Unlimited Economic Advisory Board",
-      "role": "Board member",
+      "role": "Board member and former chair",
       "start_date": "2010",
       "end_date": "2016",
       "date_precision": "year",
@@ -133,9 +135,10 @@
       "government_control_at_time": "unknown",
       "counting_status": "excluded",
       "source_ids": [
-        "src-1"
+        "src-1",
+        "src-walwa-farmstay-oct5"
       ],
-      "evidence_note": "Advisory-board governance; payment status is unknown, so not labelled unpaid. No substantive full-time employment demonstrated.",
+      "evidence_note": "Advisory-board governance; payment status is unknown, so not labelled unpaid. No substantive full-time employment demonstrated. February 2019 candidate-team biography identifies a former chair role, without a separate chair interval or payment evidence.",
       "counting_note": "Outside the two employment headlines under the codebook; retained as career context."
     },
     {
@@ -266,7 +269,7 @@
       "role": "Member for Indi",
       "start_date": "2019-05-18",
       "end_date": null,
-      "date_precision": "unknown",
+      "date_precision": "day",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -297,6 +300,25 @@
       "evidence_note": "Public research profile lists lecturer fromSeptember2006 with stale present endpoint. This may overlap or precede official senior-research-fellow2007–2019 appointment. No independent additive duration, employment contract or hours inferred.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "282335-lecturer"
+    },
+    {
+      "spell_id": "282335-farmstay",
+      "employer": "Family farmstay accommodation business, trading/legal name unresolved",
+      "role": "Co-operator with husband",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "self_employed",
+      "fte_fraction": null,
+      "category": "private_enterprise",
+      "headline_sector": "private",
+      "government_control_at_time": "private",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-walwa-farmstay-oct5"
+      ],
+      "evidence_note": "February 2019 candidate-team biography reports prior farmstay business operation with her husband. Legal entity, personal working hours, pay and boundaries unstated; family farm ownership is not separately treated as agricultural employment.",
+      "counting_note": "Commercial business activity identified, but substantive full-time status and interval are unknown. No private full-time years calculated."
     }
   ],
   "sources": [
@@ -419,6 +441,36 @@
       "source_type": "news",
       "locator": "Helen Haines first-person account and team photograph caption",
       "note": "Identifies involvement founding Wangaratta Community Midwife Program in late1990s, without precise employment dates/hours."
+    },
+    {
+      "source_id": "src-walwa-farmstay-oct5",
+      "url": "https://walwabushnursing.com/wp-content/uploads/2019/03/Walwa-World-February-2019.pdf",
+      "publisher": "Walwa Bush Nursing Centre / Team HH",
+      "title": "Walwa World, February 2019",
+      "retrieved": "2026-10-05",
+      "source_type": "other",
+      "locator": "Printed p10, Orange community independent candidate for Indi, Team HH biography; indexed full text",
+      "note": "Candidate-team biography reports family farmstay operation and past Wangaratta Unlimited chair role. Direct web open and ordinary download returned 404; indexed text available, not an authenticated profile."
+    },
+    {
+      "source_id": "src-nhw-research2008-oct5",
+      "url": "https://www.northeasthealth.org.au/wp-content/uploads/Quality-of-Care-2007-08.pdf",
+      "publisher": "Northeast Health Wangaratta",
+      "title": "Quality of Care Report 2007/08",
+      "retrieved": "2026-10-05",
+      "source_type": "employer",
+      "locator": "Printed p31, Our Staff / Rural Health Academic Network, indexed report text",
+      "note": "Describes half-time research position established September 2006 and names Haines as RHAN Coordinator/project lead. Direct page presented verification interstitial; indexed report text available."
+    },
+    {
+      "source_id": "src-nhw-research2013-oct5",
+      "url": "https://www.northeasthealth.org.au/wp-content/uploads/Quality-of-Care-2012-13.pdf",
+      "publisher": "Northeast Health Wangaratta",
+      "title": "Quality of Care Report 2012/13",
+      "retrieved": "2026-10-05",
+      "source_type": "employer",
+      "locator": "Printed p35 / PDF p37, Research / Rural Health Academic Network",
+      "note": "Repeats half-time research-position establishment in September 2006. Role establishment is not necessarily Haines individual contract commencement or fraction across all appointments."
     }
   ],
   "research_notes": [
@@ -431,6 +483,7 @@
     "Follow-up2026-10-03: primary University annual reports2015–2018 identify Haines in a single staff row as Senior Lecturer – Director Rural Health Academic Network, resolving the network's University of Melbourne institutional context and showing that the academic/network roles must not be independently summed. A2012 peer-reviewed author affiliation records the earlier Research Co-ordinator title. Exact title-transition dates, contract fraction, leave and overlap with hospital work remain unknown.",
     "Next leads: historical Chiltern governing documents and staffing reports; Melbourne appointment/secondment and hospital joint-funding records; Uppsala title/contract changes; clinical appointment and leave chronology. Nursing training at St Vincent’s/Mercy remains study absent paid-employment evidence. Public research profile accessible; no authenticated profile collection used.",
     "2026-10-04 transition gap: contemporary13March2019report says Haines was one day out of university role at interview and would be campaigning full-time by mid-March. Interview date not supplied; no exact university last day calculated. Hospital anticipatedMarchdeparture conflicts withMayformal cessation and may reflect leave or duties transition. Preserve explicitmonthSep2018–May2019profile/employer dates while seeking payroll/leave documentation.",
-    "Follow-up2026-10-04: Public indexed profile resolves Northeast executive start toSeptember2018; contemporaneousMarch2019career-exit account records campaign/leave reconciliation gap againstMayformal cessation. First-personABCidentifies community-midwife programme. No university exact day, campaign salary or personal nursing FT inferred."
+    "Follow-up2026-10-04: Public indexed profile resolves Northeast executive start toSeptember2018; contemporaneousMarch2019career-exit account records campaign/leave reconciliation gap againstMayformal cessation. First-personABCidentifies community-midwife programme. No university exact day, campaign salary or personal nursing FT inferred.",
+    "Follow-up 5 October 2026: added family farmstay operation and advisory-board chair context from a 2019 candidate-team newsletter. Hospital reports establish a half-time RHAN position from September 2006 and name Haines coordinator in 2007/08. Individual appointment/whole-tenure fraction and concurrent workload remain unresolved; no full-time university inference. Direct newsletter 404 and historical report verification interstitial are source-access gaps; public indexed text supplies the recorded evidence. Farmstay legal name, dates, personal pay and hours need a business biography or original records. Clinical breaks and 2019 campaign leave remain unknown; no total calculated."
   ]
 }
