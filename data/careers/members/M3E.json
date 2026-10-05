@@ -16,7 +16,7 @@
   "career_spells": [
     {
       "spell_id": "M3E-01",
-      "employer": "Unidentified footwear employer",
+      "employer": "Koala Shoes factory; exact historical payroll entity unresolved",
       "role": "Apprentice bootmaker and finisher",
       "start_date": "1983",
       "end_date": "1987",
@@ -32,9 +32,12 @@
         "src-2",
         "src-3",
         "src-6",
-        "oct5-vic-first"
+        "oct5-vic-first",
+        "src-koala-hansard-pass2",
+        "src-koala-interview-pass2",
+        "src-koala-award-pass2"
       ],
-      "evidence_note": "Paid trade apprenticeship is distinct from classroom study; employer and hours unreported. Do not presume full-time status from apprenticeship. In 2011 Hansard he recalls starting at 7.30 am and leaving at 4.30 pm during the apprenticeship. This supplies a daily span, not weekly paid hours, continuity over all four years, or named employer; employment_status and FTE remain unknown. The2003 first speech says he completed the apprenticeship; no employer or weekly-hours evidence.",
+      "evidence_note": "Paid trade apprenticeship is distinct from classroom study; hours unreported in the chronology. Do not presume full-time status from apprenticeship. In 2011 Hansard he recalls starting at 7.30 am and leaving at 4.30 pm during the apprenticeship. This supplies a daily span, not weekly paid hours, continuity over all four years, ; employment_status and FTE remain unknown. The2003 first speech says he completed the apprenticeship; no weekly-hours evidence. His22 March2012 parliamentary testimony explicitly names Koala Shoes as former workplace; ABC18 December2014 interview links that factory to his school-leaving apprenticeship. The later Footwear Industries Award2000 lists Koala Shoes Pty. Ltd. at169 Grange Road, Fairfield as a candidate legal identity, but cannot establish his earlier payroll entity, personal award coverage or control in1983–1987. Historical control remains unknown; no standard award hours imposed.",
       "counting_note": "Dates, employer control and/or substantive full-time status remain insufficient for a duration calculation; unknown is not zero."
     },
     {
@@ -374,6 +377,36 @@
       "source_type": "government_record",
       "locator": "Printedpp156–159, especiallyp157; PDFpp42–45, especiallyp43",
       "note": "Original first speech recovered via contemporaneous Hansard Download PDF link and ordinary public download/text extraction. Legacy startpage56 omits a digit; modern PDF shows156. Three-year towing recollection, completed footwear apprenticeship and volunteer committee work."
+    },
+    {
+      "source_id": "src-koala-hansard-pass2",
+      "url": "https://www.openaustralia.org.au/debate/?id=2012-03-22.36.11",
+      "publisher": "House of Representatives Hansard, reproduced by OpenAustralia",
+      "title": "Rob Mitchell: Fair Work Amendment (Textile, Clothing and Footwear Industry) Bill, 22 March 2012, 12:52pm",
+      "retrieved": "2026-10-05",
+      "source_type": "government_record",
+      "locator": "Paragraph beginning The opposition do not understand, first-person Koala Shoes employment recollection",
+      "note": "Member explicitly identifies Koala Shoes as former workplace. Does not give exact dates, legal entity or hours."
+    },
+    {
+      "source_id": "src-koala-interview-pass2",
+      "url": "https://www.abc.net.au/news/2014-12-18/the-former-lives-of-australian-politicians/5973234",
+      "publisher": "ABC News",
+      "title": "MPs’ former lives: The quirky backgrounds of Australia’s federal politicians, 18 December 2014",
+      "retrieved": "2026-10-05",
+      "source_type": "news",
+      "locator": "Shoemaker section, Rob Mitchell interview, lines272–299",
+      "note": "Interview identifies school-leaving apprenticeship at Koala Shoes factory, linking the named workplace to the existing apprenticeship rather than creating a separate job."
+    },
+    {
+      "source_id": "src-koala-award-pass2",
+      "url": "https://www.fwc.gov.au/documents/consolidated_awards/ap/ap781127/ap781127-40.htm",
+      "publisher": "Fair Work Commission",
+      "title": "Footwear Industries Award 2000, respondents list",
+      "retrieved": "2026-10-05",
+      "source_type": "government_record",
+      "locator": "Victoria respondent row: Koala Shoes Pty. Ltd., 169 Grange Road, Fairfield,3078",
+      "note": "Primary later industry record identifies a candidate corporate name/address. Not proof of Mitchell’s exact1983–1987 payroll entity, historical ownership/control or personal award coverage; no award-standard hours assigned to him."
     }
   ],
   "research_notes": [
@@ -386,6 +419,7 @@
     "2026-10-03 follow-up: a first-person 18 April 2016 parliamentary speech adds truck driving and vehicle servicing to the previously recorded transport-industry work. Its rounded '20 years' is not used to extend the dated 1987–2002 sequence, because it supplies no boundaries and conflicts with treating that 15-year envelope as exact continuous work. Added an undated, potentially overlapping spell so the work is not omitted. Targeted employer-name, diesel-parts, RACV contractor and Victorian inaugural-speech searches still did not identify a legal employer, weekly hours or the 1998/2000 transitions. Preserve the 27 February 2003 Victorian Hansard and historical company/personnel records as leads; totals remain uncalculable.",
     "2026-10-04 follow-up: exact-phrase searches combining Rob/Robert Mitchell with bootmaking, RACV contracting, truck/bus parts and diesel-engine parts found no employer identity or personnel record. Official APH indexing repeats only the existing generic role/year chronology; derivative biographies repeat the RACV-contractor and unnamed diesel-company descriptions without a primary citation that resolves legal employer, control, hours or transitions. Broad company-name search is exhausted for this pass. The remaining productive avenues are the 27 February 2003 Victorian inaugural-speech record and historical RACV contractor/company or payroll archives; namesake transport and automotive results were excluded.",
     "Follow-up2026-10-04: New10 February2025 first-person parliamentary testimony identifies Collingwood TAFE for apprenticeship study, previously missing. Added study separately without equating attendance dates to the1983–1987 apprenticeship or treating the provider as employer. Source says factory-floor experience but supplies no factory name or weekly hours. Official qualifications repeat the already recorded diploma/membership, with no new provider/date. State member page still routes2003 inaugural speech to the legacy tex.parliament.vic.gov.au endpoint; this pass did not recover its text. Transport employers, hours and adviser reappointment remain unresolved.",
-    "2026-10-05 original inaugural speech recovered from a modern Hansard Download PDF link after the legacy redirect and direct search-open failed. Printedp157 supplies a three-year towing recollection, requiring reconciliation with existing1987–1989 labels, and clarifies volunteer committee service. No employer, weekly hours or exact dates supplied; no date shifted. The old startpage56 link is misleading: actual speech begins printedp156. Ordinary public download/text extraction succeeded; no access controls bypassed. This closes the inaccessible-speech avenue while retaining personnel and contractor gaps."
+    "2026-10-05 original inaugural speech recovered from a modern Hansard Download PDF link after the legacy redirect and direct search-open failed. Printedp157 supplies a three-year towing recollection, requiring reconciliation with existing1987–1989 labels, and clarifies volunteer committee service. No employer, weekly hours or exact dates supplied; no date shifted. The old startpage56 link is misleading: actual speech begins printedp156. Ordinary public download/text extraction succeeded; no access controls bypassed. This closes the inaccessible-speech avenue while retaining personnel and contractor gaps.",
+    "Second targeted employer-identity pass:22March2012 first-person Hansard names Koala Shoes;18December2014 ABC interview links the factory to his school-leaving apprenticeship. Replaced unidentified footwear employer with Koala Shoes factory while retaining exact payroll identity/control and hours unknown. Later Footwear Industries Award2000 names Koala Shoes Pty.Ltd.,169GrangeRoadFairfield as a corporate lead, not personal1983–1987 coverage or historical control proof; no award hours applied. Remaining parts/towing employers, adviser return afterOctober2007 and employment continuity unresolved. Search results for US professors/financial advisers and Canadian MLA are namesakes;2016 ABC neighboring candidate university credentials not assigned to Mitchell."
   ]
 }
