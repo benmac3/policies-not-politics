@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Greens",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/250362",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-04",
+  "last_reviewed": "2026-10-05",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -213,7 +213,7 @@
       "role": "Member from 2004; candidate and later deputy leader",
       "start_date": "2004",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "party_organisation",
@@ -479,6 +479,27 @@
       "evidence_note": "Affidavit14(f) places activity about2010; approximate observation not exact start/end. Advisory role; pay unknown.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "250362-water-advisory"
+    },
+    {
+      "spell_id": "250362-authorship-unallocated",
+      "employer": "Author contracting/payroll entity unresolved; publishers include Federation Press and Allen & Unwin",
+      "role": "Coauthor of Environmental Decision-Making; memoir author",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "unknown",
+      "government_control_at_time": "unknown",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-federation-author-oct5",
+        "src-allen-unwin-author-oct5",
+        "src-aph-publications-oct5"
+      ],
+      "evidence_note": "Publisher and official bibliographic records support2009 coauthored environmental book and2021 memoir. No author contract, pay/royalties, substantive hours or writing boundaries supplied. Publisher is not assumed payroll employer. Academic writing may be nested in university or consulting duties;2021 memoir overlaps Senate service. No separate continuous job or additional duration established.",
+      "counting_note": "Employment/payment status and allocation unresolved; output publication dates do not establish countable employment."
     }
   ],
   "sources": [
@@ -631,6 +652,36 @@
       "source_type": "government_record",
       "locator": "AppendixFour, printedpp111–112 (PDF125–126,one-based), minutes6 dated22June2009",
       "note": "Names Faruqi as Manager, Environment and Services, Mosman Council in evidence examination. Reader text inspected; screenshot failed500 redirect not accessible via this tool. Exact observation not a term boundary."
+    },
+    {
+      "source_id": "src-federation-author-oct5",
+      "url": "https://federationpress.com.au/product/environmental-decision-making/",
+      "publisher": "The Federation Press",
+      "title": "Environmental Decision-Making",
+      "retrieved": "2026-10-05",
+      "source_type": "other",
+      "locator": "Product author/publication metadata,lines9–11",
+      "note": "Lists Faruqi as coauthor and5August2009 publication. Publication date is an output observation, not author employment start/end."
+    },
+    {
+      "source_id": "src-allen-unwin-author-oct5",
+      "url": "https://www.allenandunwin.com/browse/book/Mehreen-Faruqi-Too-Migrant%2C-Too-Muslim%2C-Too-Loud-9781760878184",
+      "publisher": "Allen & Unwin",
+      "title": "Too Migrant,Too Muslim,Too Loud",
+      "retrieved": "2026-10-05",
+      "source_type": "other",
+      "locator": "Publicly indexed publisher author/product description",
+      "note": "Author identity corroborated in publisher index; direct reader exposes JavaScript shell only.2021 publication corroborated by official parliamentary bibliography, not an employment interval."
+    },
+    {
+      "source_id": "src-aph-publications-oct5",
+      "url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=250362",
+      "publisher": "Australian Parliament",
+      "title": "Senator Mehreen Faruqi — Publications",
+      "retrieved": "2026-10-05",
+      "source_type": "official_biography",
+      "locator": "Public index Publications section",
+      "note": "Lists2009 coauthored book and2021 memoir. Output dates, not payroll evidence."
     }
   ],
   "research_notes": [
@@ -648,7 +699,8 @@
     "Next priority: verify oral-history audio around39:54–42:18 and original SKM appointment/leave documentation to reconcile1998 versus March1999; identify the large Pakistan consulting firm without guessing from size; identify CRC contract entity and NGO organisations.",
     "Follow-up3October2026: publicly filed personal affidavit resolves NESPAK identity and omitted ERM employment, separates advisory affiliations and narrows acting directorship. Historical NESPAK account supports public control and contemporary3i release supports private ERM group ownership. Personal pay, hours, leave,2004 transitions and Australian payroll entity remain unresolved. Orica indexed newsletter adds November2005 chair start; direct403 not retried. NESPAK oversized web-reader failure recovered by authorized ordinary PDF download. No job-wide error or inferred full-time status. Additional precise roles from the affidavit are accounted for without copying unrelated court claims or family material.",
     "Fourth follow-up4October2026 targeted Sinclair Knight Merz1998/1999, ERM2004, Macquarie University and full-time campaign leads. Official parliamentary and first-party results repeated the recorded chronology. An SBS2018 interview says she lectured at Macquarie University, but no appointment, dates, payroll or corroborating employer record surfaced and the detailed2023 affidavit instead enumerates other employment; the claim remains an unassigned lead rather than a new spell. No evidence allocates the campaign full-time statement or resolves SKM leave/continuous hours. No material change; preserve null totals and exact open questions.",
-    "Follow-up2026-10-04: Council-report route yielded a new22June2009 primary employment observation. Mosman2008/09 annual report describes managerial functions but contains no personal name/hours; not assigned as personal FT proof. Environmental Trust2008/09 report lists existing advisory membership with acting-director affiliation potentially carried forward; does not extend UNSW appointment. Government PDF screenshot500 redirects inaccessible to reader are individual-source errors. No new hours, leave or calendar boundaries; await personal employer documents."
+    "Follow-up2026-10-04: Council-report route yielded a new22June2009 primary employment observation. Mosman2008/09 annual report describes managerial functions but contains no personal name/hours; not assigned as personal FT proof. Environmental Trust2008/09 report lists existing advisory membership with acting-director affiliation potentially carried forward; does not extend UNSW appointment. Government PDF screenshot500 redirects inaccessible to reader are individual-source errors. No new hours, leave or calendar boundaries; await personal employer documents.",
+    "2026-10-05 material follow-up adds author activity as an unallocated component from primary publisher and parliamentary bibliography:2009 environmental book coauthorship and2021 memoir. Unknown author contract/payment/hours; publisher not assumed employer, academic writing potentially nested and2021 overlaps Senate. No output date converted to job boundary. Macquarie institutional results show2023 elected-office panel participation, not an academic appointment; SBS wording remains uncorroborated, and stale course-author credits do not establish2008 paid work. Existing SKM1998/1999 conflict and leave/hours gaps retained. Allen&Unwin reader returned JavaScript shell, indexed public metadata only. Advance pending personal contracts or original full-time interval evidence."
   ],
   "open_questions": [
     "Who employed Faruqi as a structural engineer in Pakistan, on what dates and hours, and under what ownership?",
@@ -659,6 +711,7 @@
     "Were any Greens roles or campaigns paid, and how did they overlap employment?",
     "When did Mehreen Faruqi Consulting actually trade, with what hours, clients and leave/overlaps? Registration from 2005 to 2023 is not proof of continuous work.",
     "Which employer and exact period did each explicit full-time-work account describe? Was the campaign account 2011 or 2012, and did it include leave?",
-    "Reconcile oral-history1998 SKM start and approximately three-year duration with official March1999–June2001; establish the full-time interval and leave. Identify CRC payroll/contract arrangements and Pakistan NGO work dates/status."
+    "Reconcile oral-history1998 SKM start and approximately three-year duration with official March1999–June2001; establish the full-time interval and leave. Identify CRC payroll/contract arrangements and Pakistan NGO work dates/status.",
+    "Was authorship paid via a separate contract/royalties or performed within academic/consulting duties, with what writing dates, hours and overlaps? Publication2009/2021 is not an employment interval."
   ]
 }
