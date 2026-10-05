@@ -215,6 +215,26 @@
       ],
       "evidence_note": "Federal elected service and associated ministerial duties excluded; not used as a proxy employment end date.",
       "counting_note": "Excluded from the two employment headlines under the codebook."
+    },
+    {
+      "spell_id": "39801-11",
+      "employer": "Writing/publishing counterpart Connor Court Publishing; employment relationship unverified",
+      "role": "Essay contributor, The Write Stuff: Voices of Unity on Labor future",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "unknown",
+      "government_control_at_time": "unknown",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-writestuff-publisher-pass2",
+        "src-writestuff-review-pass2"
+      ],
+      "evidence_note": "Contemporary Australian Fabians book review names Anthony Chisholm among contributors, independently resolving earlier sole unofficial-retailer-preview lead. Publisher identifies editors Nick Dyrenfurth/Misha Zelinsky and midDecember2020release. No chapter title, writing start/end, remuneration, royalty or full-time hours established; political essay content alone does not prove paid party staff work. Publication date is not a personal-work boundary.",
+      "counting_note": "No paid employment contract, sector or full-time duration inferred from essay authorship; potential overlap with Senate duties unresolved."
     }
   ],
   "sources": [
@@ -307,6 +327,26 @@
       "retrieved": "2026-10-05",
       "locator": "Opening paragraph,line19",
       "note": "Swan describes Chisholm handling envelopes in his electorate office as a teenager. Pay, title and calendar interval unstated; prospective campaign reference is not a new appointment boundary."
+    },
+    {
+      "source_id": "src-writestuff-publisher-pass2",
+      "url": "https://www.connorcourtpublishing.com.au/The-Write-Stuff-Voices-of-Unity-on-Labors-Future--Edited-by-Nick-Dyrenfurth-and-Misha-Zelinsky_p_416.html",
+      "publisher": "Connor Court Publishing",
+      "title": "The Write Stuff: Voices of Unity on Labor future",
+      "retrieved": "2026-10-05",
+      "source_type": "other",
+      "locator": "Description: editors, ISBN9781922449429 and midDecember2020release",
+      "note": "Primary publisher confirms anthology/editor/publication context, not individual contributors or payment."
+    },
+    {
+      "source_id": "src-writestuff-review-pass2",
+      "url": "https://assets.nationbuilder.com/australianfabians/pages/1482/attachments/original/1684757199/Fabians-Issue-2-FA-LowRes.pdf?1684757199=",
+      "publisher": "Australian Fabian Society / Declan Davis",
+      "title": "Australian Fabians Review Issue2 July2021: New ideas, old ideas and Right culture of ideas",
+      "retrieved": "2026-10-05",
+      "source_type": "reliable_secondary",
+      "locator": "Printedpp78–79 / PDFp40, review names Anthony Chisholm among contributors; lines3931–3933",
+      "note": "Contemporary review independently names Chisholm contribution. Secondary evidence about book authorship, not work contract."
     }
   ],
   "research_notes": [
@@ -318,6 +358,7 @@
     "2026-10-02 follow-up: recovered Santos2015 annual report through its ASX filing after earlier employer-hosted403; reviewed shareholder/voting sections and searched person name without match. Added primary classmate/university1996 study commencement. Searches for actual Santos resignation/cessation, employment terms, pre2004 work and Swan position found no reliable additional individual detail. Later political speeches saying until2016/election are broad retrospective assertions, not an exact cessation or proof of continuous full-time work. Keep end null and prior gaps. Original2015–16 Santos employment statement or public CV remains needed. The Griffith oration also supplies Jim Chalmers1996 study-start evidence for his next assigned follow-up; his record was already committed and is not edited in this member commit.",
     "2026-10-03 follow-up: fully reviewed the accessible Guardian article rather than its short index snippet. It supplies employer-confirmed October 2015 commencement, strategic-advice duties and the reported political-support remit; it also records only a prospective end in coming months when the federal campaign began. The duty evidence is added, but the planned cessation is not converted into an actual end date or continuity claim. Searches for a later Santos separation announcement, campaign commencement, full-time terms, Swan staff title and pre-2004 employment found no decisive primary or employer evidence. A 2010 AFR preview and 2011 Courier-Mail preview repeat that Chisholm once worked for Swan but do not resolve role or dates.",
     "2026-10-04 follow-up (second nationwide pass): focused Santos separation and interests searches returned the existing April 2016 employer confirmation plus later parliamentary/derivative descriptions that he worked there until election. Those retrospective phrases do not establish a last working day, campaign leave, full-time status or uninterrupted service through 2 July 2016, so the end remains unknown. Direct interests material was blocked by robots and indexed results did not expose an employment declaration. No Swan-office title, pre-2004 employer or person-specific hours surfaced. Revisit only with a Santos separation record, staff CV or original interests filing.",
-    "Targeted follow-up2026-10-05: New17February2012WayneSwan first-person speech identifies Chisholm teenage envelope-handling assistance in Swan electorate office, refining the previously unspecified Swan-office record without inventing pay, title, dates or a second contracted position. Upcoming campaign wording is prospective, not appointment evidence. Santos/interests searches repeat third-party parliamentary assertions until election without hours/actualcessation. A2020WriteStuff chapter is a new authorship lead: publisher confirms book/release window, but primary publisher page does not name individual contributors; no newauthor spell adopted on the unofficialretailerPDFalone. Revisit Santos only on an original separation/payroll or interests filing."
+    "Targeted follow-up2026-10-05: New17February2012WayneSwan first-person speech identifies Chisholm teenage envelope-handling assistance in Swan electorate office, refining the previously unspecified Swan-office record without inventing pay, title, dates or a second contracted position. Upcoming campaign wording is prospective, not appointment evidence. Santos/interests searches repeat third-party parliamentary assertions until election without hours/actualcessation. A2020WriteStuff chapter is a new authorship lead: publisher confirms book/release window, but primary publisher page does not name individual contributors; no newauthor spell adopted on the unofficialretailerPDFalone. Revisit Santos only on an original separation/payroll or interests filing.",
+    "Targeted second pass: recorded WriteStuff lead now independently supported by original July2021 Australian Fabians review naming Chisholm contributor, alongside original publisher2020release details. Add undated writing activity without payroll/pay/FTE assumptions; no longer reliant only on unofficial retailer PDF. Santos strategic-adviser end, personal hours and prior office pay remain unknown; searches repeat employer quotation and other MPs retrospective assertions, not actual separation. American actor namesake excluded."
   ]
 }
