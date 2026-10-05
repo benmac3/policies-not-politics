@@ -284,9 +284,10 @@
         "src-nsw2015-oct4",
         "src-mert2015-pass2",
         "src-mert2016-pass2",
-        "src-mert2017-pass2"
+        "src-mert2017-pass2",
+        "src-mert2018-pass3"
       ],
-      "evidence_note": "2013 union filing identifies alternate role. Historical trustee entity/control, dates and pay unresolved; not assumed ordinary employment. 2017nationalunionrule directs employee director/sittingfees to union; not proof of individual remuneration for every year or afteremployment. NSW2015report records$2,500MERTfees received by branch without naming individual recipient. Not assigned as Ayres personal earnings or evidence of continuous directorship. Original MERT2015–17reports now identify trustee legal entity and confirm alternate director listing in each report. Equal employer/employee voting, two-thirds decision threshold and named union/employer-association sponsors support non-government control. Reporting observations are not appointment or cessation dates, uninterrupted service or personal remuneration. Governance remains excluded, category unresolved rather than treating fund investment as ordinary private-enterprise employment.",
+      "evidence_note": "2013 union filing identifies alternate role. Historical start and pay remain unresolved; not assumed ordinary employment. 2017nationalunionrule directs employee director/sittingfees to union; not proof of individual remuneration for every year or after employment. NSW2015report records$2,500MERTfees received by branch without naming individual recipient. Not assigned as Ayres personal earnings. Original MERT2015–17reports identify trustee legal entity and confirm Ayres as alternate director in each report. The 2018 report instead lists Steve Murphy as AMWU director and no AMWU alternate, establishing that Ayres was no longer on its named board list by that report. Equal employer/employee voting, two-thirds decision threshold and named union/employer-association sponsors support non-government control. Annual-report observations do not establish an exact appointment or cessation date, uninterrupted service or personal remuneration; end remains null as unknown, not ongoing.",
       "counting_note": "Governance/union role; not established substantive full-time employment, no headline duration or overlapping years added.",
       "spell_id": "16913-mert"
     },
@@ -316,7 +317,7 @@
     "private_full_time_years": null,
     "public_full_time_years": null
   },
-  "last_reviewed": "2026-10-05",
+  "last_reviewed": "2026-10-06",
   "name": "AYRES, the Hon. Timothy (Tim)",
   "person_id": "16913",
   "research_notes": [
@@ -335,7 +336,8 @@
     "Follow-up 2026-10-04: targeted ACTU, AMWU and exact-name searches did not locate a cohort list, cadet host, appointment record or payroll evidence. Ayres' own profile repeats Organising Works enrolment and AMWU career sequence without dates; the AFR search excerpt still lacks enough surrounding attribution to promote 1995 as his cadet start. National aggregate filings remain exhausted. Retain the unresolved pre-1996 and 2017–19 gaps and advance without repeating them.",
     "Follow-up2026-10-04: OriginalNSW2014/2015union reports add person-specific remuneration supporting paid work, notFT;2014Nil trustee table corroborates Cbusdeparture without exactday,2015MERTfees payablebranch not assigned to him. ICN2013–14original report404; alternativeprimarynational/stateinstitutionreports didnotresolve individualICNappointments. OrdinaryFWCdownloadtimeouts recovered via web extraction. Exhausted2017–19aggregatepayroll route not repeated; cadethost/2017–19paidworkgap remains.",
     "2026-10-05 targeted ICN NSW historical board, MERT legal-entity and cadet-cohort searches did not recover individual appointment/cessation or host/payroll evidence. Own first-speech paragraph thanking AMWU for23years of official/leader service is a cumulative recollection, not an exact1996–2019 payroll interval, and does not resolve2017–19gap. Existing Cbus2012/13 indexed biography says18years union service and MERT PtyLtd directorship; full PDF open failedInternalError, so no new exact duration/control assigned. Aggregate2017–19payroll route remains exhausted; advance pending new individual evidence.",
-    "Second targeted primary pass: original MERT2015/2016/2017reports identify trustee MERT PtyLimited ABN25 003743244 and non-government union/employer-association governance, each naming Timothy Ayres alternate director. Resolves legal entity/control observation, not appointment/cessation/pay/hours or2017–19employment gap; no new FT years. New2018archive located but web tool returned DisabledError; no bypass or inferred cessation from unavailable report. ICN/cadet-specific searches again returned no individual appointment; aggregate AMWU payroll not repeated. Future lead: lawfully accessible2018/19MERT director report or individual career statement."
+    "Second targeted primary pass: original MERT2015/2016/2017reports identify trustee MERT PtyLimited ABN25 003743244 and non-government union/employer-association governance, each naming Timothy Ayres alternate director. Resolves legal entity/control observation, not appointment/cessation/pay/hours or2017–19employment gap; no new FT years. New2018archive located but web tool returned DisabledError; no bypass or inferred cessation from unavailable report. ICN/cadet-specific searches again returned no individual appointment; aggregate AMWU payroll not repeated. Future lead: lawfully accessible2018/19MERT director report or individual career statement.",
+    "Third national follow-up2026-10-06 recovered the previously inaccessible MERT2018 report through public indexed text. Its board list names Steve Murphy as AMWU director and no AMWU alternate, whereas2015–17 reports name Ayres as alternate. This materially bounds the governance follow-up: Ayres was no longer on the named board list by the2018 report, but report compilation/snapshot timing does not justify a fabricated cessation date. The spell end remains unknown rather than ongoing. This governance evidence does not resolve Ayres' separate2017–19 employment/payroll gap or add headline full-time years."
   ],
   "research_status": "blocked",
   "snapshot_chamber": "Senator",
@@ -562,6 +564,16 @@
       "retrieved": "2026-10-05",
       "locator": "Printed/PDF p6, The people looking after MERT",
       "note": "Original report identifies MERT Pty Limited ABN25 003743244; equal employer/employee board voting and two-thirds decision threshold. Names Timothy Ayres as AMWU alternate director. No personal appointment/cessation or compensation/hours specified."
+    },
+    {
+      "source_id": "src-mert2018-pass3",
+      "url": "https://www.mert.com.au/FormBuilder/_Resource/_module/Z2_0NTnueUCdZoC_vjMUeA/docs/2018_Annual_Report.pdf",
+      "publisher": "Mechanical and Electrical Redundancy Trust",
+      "title": "Annual report 2018",
+      "source_type": "employer",
+      "retrieved": "2026-10-06",
+      "locator": "Printed/PDF p6, The people looking after MERT; publicly indexed report text",
+      "note": "Names Steve Murphy as AMWU director and lists no AMWU alternate; Ayres is absent from the named2018 board list after being identified as alternate in2015–17 reports. This bounds an observation, not an exact cessation day or personal remuneration record. Direct open returned DisabledError; indexed full-page text was used without bypass."
     }
   ]
 }
