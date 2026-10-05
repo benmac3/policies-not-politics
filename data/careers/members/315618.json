@@ -50,15 +50,17 @@
       "employer": "Electrical Trades Union of Australia",
       "employment_status": "unknown",
       "end_date": "2020-12",
-      "evidence_note": "Official occupation; dates/hours unknown. UTS supports general union-law career without allocating its duration. Follow-up2026-10-01: FWC-filed correspondence confirms ETU affiliation4April2018. This is a point observation, not an appointment or cessation boundary. Further2October pass recovers employer-paired public profile January2014–December2020 dates. Earlier observation-only limitation partly resolved; these remain self-reported and do not establish hours, leave or title changes during tenure. January2014 overlaps University of Sydney ending month and is not added as separate FT time.",
+      "evidence_note": "Official occupation labels legal counsel; UTS supports a general union-law career. FWC-filed correspondence confirms ETU affiliation4April2018, then identifies National Junior Industrial Officer on23October2018 and National Industrial Officer on23April2020. These point observations establish a title progression but not appointment days. Public professional index gives employer-paired January2014–December2020 bounds; self-reported dates do not establish hours, leave or exact title-change dates. January2014 overlaps University of Sydney ending month and is not added as separate FT time.",
       "fte_fraction": null,
       "government_control_at_time": "private",
       "headline_sector": "excluded",
-      "role": "Legal Counsel",
+      "role": "Legal counsel; National Junior Industrial Officer; National Industrial Officer",
       "source_ids": [
         "src-snapshot",
         "src-fwccorr2018",
-        "src-profile"
+        "src-profile",
+        "src-fwc-etu-title2018",
+        "src-fwc-etu-title2020"
       ],
       "spell_id": "315618-etu",
       "start_date": "2014-01"
@@ -231,6 +233,63 @@
       "spell_id": "315618-psi"
     },
     {
+      "spell_id": "315618-uts-work",
+      "employer": "University of Technology Sydney",
+      "role": "Unspecified work",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "university",
+      "headline_sector": "unknown",
+      "government_control_at_time": "unknown",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-emily2023"
+      ],
+      "evidence_note": "Candidate biography says she worked for UTS, separately from listing her UTS qualification. It supplies no role, paid basis, dates, hours or control analysis; do not merge the work claim into the Juris Doctor study spell.",
+      "counting_note": "Potential employment retained for completeness; no duration or sector total until employer terms and substantive hours are established."
+    },
+    {
+      "spell_id": "315618-guardianship-tribunal",
+      "employer": "Guardianship Tribunal of New South Wales (historic employing entity to verify)",
+      "role": "Unspecified work",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "public_service",
+      "headline_sector": "public",
+      "government_control_at_time": "public",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-emily2023"
+      ],
+      "evidence_note": "Candidate biography says she worked for the Guardianship Tribunal of NSW and parenthetically describes it as now part of the NSW Department of Justice. No role, legal employing entity at the time, dates, hours or leave are supplied; the current administrative successor is not substituted for the historic employer.",
+      "counting_note": "Public work is identified but duration and substantive full-time status are unknown; no headline years calculated."
+    },
+    {
+      "spell_id": "315618-salvos-legal",
+      "employer": "Salvos Legal Humanitarian",
+      "role": "Unspecified legal work representing refugees and people in immigration detention",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "nonprofit",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-emily2023"
+      ],
+      "evidence_note": "Candidate biography identifies work for Salvos Legal Humanitarian and the client group. It does not establish whether the work was salaried, pro bono, a placement or volunteering, nor provide dates or hours.",
+      "counting_note": "Nonprofit activity excluded from public/private full-time headline; paid basis and overlap remain unresolved."
+    },
+    {
       "employer": "St George Community Transport",
       "role": "Volunteer board member",
       "start_date": null,
@@ -349,11 +408,11 @@
   ],
   "headline": {
     "calculation_status": "not_calculable",
-    "note": "Employment is documented but spell dates and full-time status are not established. University control and association-owned law-firm treatment require review. Union, employer-association, nonprofit, study and elected roles are not counted as private/public full-time employment. Unknown is not zero. Own2025speech establishes an unallocated full-time component; personal employer/date allocation is still required.",
+    "note": "Employment is documented but spell dates and full-time status are not established. University control and association-owned law-firm treatment require review. The Guardianship Tribunal work has public control but no dates or substantive-hours evidence. Union, employer-association, nonprofit, study and elected roles are not counted as private/public full-time employment. Unknown is not zero. Own2025speech establishes an unallocated full-time component; personal employer/date allocation is still required.",
     "private_full_time_years": null,
     "public_full_time_years": null
   },
-  "last_reviewed": "2026-10-05",
+  "last_reviewed": "2026-10-06",
   "name": "AMBIHAIPAHAR, Ashvini (Ash)",
   "person_id": "315618",
   "research_notes": [
@@ -374,7 +433,8 @@
     "Follow-up 2026-10-04: Fair Work Commission-filed correspondence establishes AHA NSW Senior Lawyer activity on 15 August 2022. Vinnies' April 2025 Broken Bay newsletter says an acting regional director had covered the role since February while Ambihaipahar was on leave, supplying the first primary campaign-leave evidence. Neither observation establishes appointment/cessation, hours, whether leave was paid or whether AHA and Hospitality Legal were separate jobs.",
     "Follow-up2026-10-04: Recovered original StGeorgeCommunityTransport2021 and2022 reports, establishing earlier primary volunteer-board membership and own nearly-year tenure statement; reporting/compilation dates not converted into appointment days. ANMF/NSWNMAand2021HospitalityLegal searches found no personalemployment dates. FWC2019CEPUappearance only corroborates existingunionrole; sourcewebUnicodeerror and ordinaryHTTP403, no further retry. No substantiveFTpersonal evidence or unionsecondment/payroll proof; remainingunknowns retained.",
     "2026-10-05 own25August2025housing speech newly establishes full-time work alongside study, employer/interval unallocated. No blanket FT inference for named roles. New Advoc8 indexed parliamentary lead says anatomy department about eight years, in tension with2008–14profile; full fetch returned non-retryable500redirect, so preserve existing dates and seek original Hansard before resolving. Targeted ANMF/AHA/HospitalityLegal queries added no payroll boundaries; job advertisements concern her staff and are not her own employment.",
-    "Second targeted pass: council annual report2022/23 p73 adds previously omitted Graduate Certificate in Professional Legal Practice as excluded study, institution/dates unknown. Over-nine-year solicitor summary is not allocated or back-calculated among ETU/ANMF/AHA/Hospitality employment. Primary UTS profile reconfirmed2013 enrolment, not graduation; council oath26 September2022 distinguished from countback election. Targeted first-speech/eight-year-anatomy searches returned no original supporting transcript; conflicting lead retained, no calendar or FT inference. Existing full-time housing statement remains unallocated to employer/date; leave and legal-hour gaps persist."
+    "Second targeted pass: council annual report2022/23 p73 adds previously omitted Graduate Certificate in Professional Legal Practice as excluded study, institution/dates unknown. Over-nine-year solicitor summary is not allocated or back-calculated among ETU/ANMF/AHA/Hospitality employment. Primary UTS profile reconfirmed2013 enrolment, not graduation; council oath26 September2022 distinguished from countback election. Targeted first-speech/eight-year-anatomy searches returned no original supporting transcript; conflicting lead retained, no calendar or FT inference. Existing full-time housing statement remains unallocated to employer/date; leave and legal-hour gaps persist.",
+    "Third national follow-up2026-10-06 materially expands the record from a previously underused candidate biography: distinct work for UTS, the NSW Guardianship Tribunal and Salvos Legal Humanitarian is now retained separately from study and volunteering, with role/pay/date/hour limitations explicit. FWC-filed correspondence supplies ETU title observations: National Junior Industrial Officer on23October2018 and National Industrial Officer on23April2020, refining progression inside the existing2014–2020 interval without inventing promotion days. The official occupation's legal-counsel label remains as a broader conflicting/aggregated title. New searches did not establish ANMF/AHA/Hospitality dates, university hours, Tribunal terms or allocation of the later full-time statement."
   ],
   "research_status": "blocked",
   "snapshot_chamber": "Member",
@@ -483,6 +543,26 @@
       "source_id": "src-fwccorr2018"
     },
     {
+      "url": "https://www.fwc.gov.au/documents/sites/awardsmodernfouryr/am201623-corr-corrinreply-aig-ors-fwc-231018.pdf",
+      "publisher": "Fair Work Commission",
+      "title": "AM2016/23 correspondence, 23 October 2018",
+      "source_type": "government_record",
+      "locator": "Filed email signature",
+      "note": "Identifies Ambihaipahar as ETU National Junior Industrial Officer on that date. Point observation only; personal contact details omitted and no promotion date or hours inferred.",
+      "retrieved": "2026-10-06",
+      "source_id": "src-fwc-etu-title2018"
+    },
+    {
+      "url": "https://web-prd.fwc.gov.au/documents/awards/variations/2020/am202012-sub-etu-230420.pdf",
+      "publisher": "Fair Work Commission",
+      "title": "AM2020/12 ETU submission correspondence, 23 April 2020",
+      "source_type": "government_record",
+      "locator": "Filed email signature beneath ETU submission",
+      "note": "Identifies Ambihaipahar as ETU National Industrial Officer on that date. Point observation only; personal contact details omitted and no appointment day, hours or leave inferred.",
+      "retrieved": "2026-10-06",
+      "source_id": "src-fwc-etu-title2020"
+    },
+    {
       "url": "https://www.htalegal.com.au/news",
       "publisher": "HTA Legal",
       "title": "News: Vaccination: Unfair Dismissal",
@@ -508,8 +588,8 @@
       "title": "Endorsed candidates NSW state election",
       "source_type": "official_biography",
       "locator": "Ashvini Ambihaipahar for Oatley",
-      "note": "Candidate biography explicitly identifies volunteer transport board and three volunteering organisations.",
-      "retrieved": "2026-10-01",
+      "note": "Candidate biography explicitly identifies volunteer transport board and three volunteering organisations. Reinspection on6October2026 also records distinct work for UTS, the NSW Guardianship Tribunal and Salvos Legal Humanitarian, without dates, roles or hours except a broad refugee/immigration representation description for Salvos Legal.",
+      "retrieved": "2026-10-06",
       "source_id": "src-emily2023"
     },
     {
