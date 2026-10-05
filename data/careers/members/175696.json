@@ -256,12 +256,13 @@
       "fte_fraction": null,
       "category": "nonprofit",
       "headline_sector": "excluded",
-      "government_control_at_time": "unknown",
+      "government_control_at_time": "private",
       "counting_status": "excluded",
       "source_ids": [
-        "src-3"
+        "src-3",
+        "src-queenwood2018-pass2"
       ],
-      "evidence_note": "2018 biography gives 2018 in list and 2017 in narrative. Start unresolved; governance, not teaching employment.",
+      "evidence_note": "2018 biography gives 2018 in list and 2017 in narrative. Start unresolved; governance, not teaching employment. Original school2018 report describes an independent nonprofit company and Council members acting in a voluntary capacity;2017 report gives the same description. This documents the governance arrangement during the disputed2017/2018 start window, rather than assume remuneration unknown solely from silence. Reports do not name Steggall individually or date her appointment/exit; retain the professional-biography date conflict and do not assign generic school-staff FTE to governors.",
       "counting_note": "Excluded from the two employment headlines under the codebook."
     },
     {
@@ -561,6 +562,16 @@
       "source_type": "employer",
       "locator": "Single-page release, panel and hearing paragraphs",
       "note": "Names Steggall among three panel members hearing the Russian-athlete applications, a dated actual adjudication observation. Office opening/closing dates are not her contract dates or hours."
+    },
+    {
+      "source_id": "src-queenwood2018-pass2",
+      "url": "https://www.queenwood.nsw.edu.au/queenwood/media/Qqueenwood-documents/Annual-Report-2018_1.pdf",
+      "publisher": "Queenwood School",
+      "title": "Annual Report2018, produced for NESA",
+      "retrieved": "2026-10-05",
+      "source_type": "employer",
+      "locator": "Printedp3/PDFindex2, From the Chair of the Council of Governors",
+      "note": "Independent not-for-profit company; all council members described as acting in voluntary capacity. Does not name individual governors or appointment dates."
     }
   ],
   "research_notes": [
@@ -574,6 +585,7 @@
     "Third follow-up3October2026: her publicly indexed professional profile independently supplies Family Law Chambers2016–May2019, materially refining the final chambers affiliation inside the official2008–2019 self-employed practice envelope. It is not treated as payroll employment, proof of uninterrupted work or full-time hours. Searches for Kemp Strang, Roper & Steggall and NSW Bar archives otherwise returned existing firm-name corroboration, unrelated Kemp Strang partners and point-in-time law-almanac/chambers material; no independently supported Kemp Strang spell or earlier transition dates were found. Sporting contracts, legal-practice hours, leave and exact Roper/solicitor boundaries remain unresolved.",
     "Fourth follow-up4October2026: a contemporary NSW Bar Association notice records acceptance as a member on21May2008 and lists Sixth Floor Selborne/Wentworth chambers, materially adding an exact early professional point inside the existing2008–2019 self-employed envelope. A Bar News readers list corroborates the2008 cohort but does not add a paid-work boundary. Renewed Kemp Strang and Roper & Steggall searches still found only the unverified aggregator timeline or derivative biographies; no firm appointment, hours, leave or continuous-practice proof was found.",
     "Follow-up2026-10-04: Added omitted Community Strong joint founding and CAS7February2018 actual hearing-panel observation. Party and adjudication remain excluded, no paid-hours inference. Personal cheaper-childcare speech corroborates childcare during study/bar practice but general part-time-mother discussion is not her own workload statement. Roper/chambers bounds and sport contracts remain as recorded; avoid generic repeats without new personnel material.",
-    "Follow-up 2026-10-05: public first-party professional-profile index independently resolves previously aggregator-only Kemp Strang employment and intermediate chambers affiliation; adds separate sporting-body governance and dated coverage at the family firm. Retrieval limited to public index; direct LinkedIn page returned HTTP999, no bypass. Exact title at Kemp Strang and legal-practice hours, breaks, early commencement and sporting contracts remain unknown. Preserve contradictory study-era recollection, no invented full-time interval. Both engines otherwise returned derivative biographies, spouse income and unrelated lawyers; these were excluded."
+    "Follow-up 2026-10-05: public first-party professional-profile index independently resolves previously aggregator-only Kemp Strang employment and intermediate chambers affiliation; adds separate sporting-body governance and dated coverage at the family firm. Retrieval limited to public index; direct LinkedIn page returned HTTP999, no bypass. Exact title at Kemp Strang and legal-practice hours, breaks, early commencement and sporting contracts remain unknown. Preserve contradictory study-era recollection, no invented full-time interval. Both engines otherwise returned derivative biographies, spouse income and unrelated lawyers; these were excluded.",
+    "Second targeted pass recovered original Queenwood2017/2018 annual reports: school independent nonprofit and council voluntary arrangement materially distinguishes governance from paid teaching employment. Reports have no individual Steggall appointment list;2017/2018 start conflict retained. Other school inUK named Queenswood and ski-profile aggregators excluded; no athlete contract or legal-hour evidence found."
   ]
 }
