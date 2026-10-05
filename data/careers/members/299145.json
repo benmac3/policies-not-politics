@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/299145",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-05",
+  "last_reviewed": "2026-10-06",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -143,6 +143,26 @@
       ],
       "evidence_note": "Official parliamentary and party biographies identify the qualification and institution. Byrnes says it followed a sizeable study gap, but the enrolment/completion dates, load and overlap with employment are not published. In4September2023 speech she explicitly describes university study in her30s while a full-time adviser. This establishes full-time work during an undated subperiod, not the entire2007–2022 role. Calendar course boundaries and leave remain unknown; no dates calculated from age.",
       "counting_note": "Study is excluded under the codebook."
+    },
+    {
+      "spell_id": "299145-cunningham-campaign-2022",
+      "employer": "Australian Labor Party / Alison Byrnes federal election campaign (payroll entity unresolved)",
+      "role": "Candidate for Cunningham",
+      "start_date": "2022-02-25",
+      "end_date": "2022-05-21",
+      "date_precision": "day",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "party_organisation",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-abc",
+        "src-aec2022-cunningham-pass3"
+      ],
+      "evidence_note": "ABC reported Byrnes formally launching her Cunningham campaign on 25 February 2022 while still working for Sharon Bird. The AEC final results record her election on 21 May 2022. This is a bounded campaign-activity interval, not proof of a separate paid or full-time job. Preselection activity preceded the launch; its start, campaign remuneration, payroll entity, weekly hours, Bird-office leave/cessation and any March–May employment overlap remain unknown.",
+      "counting_note": "Election candidacy and campaign activity are excluded under the codebook and are not added to the Bird staff spell or headline totals."
     },
     {
       "spell_id": "299145-house",
@@ -375,6 +395,16 @@
       "source_type": "government_record",
       "locator": "PDFp1 present list: ASU(The Hon Sharon Bird MP), remote attendance",
       "note": "Directly dates ASU bargaining representation and Bird affiliation. Not separate union payroll or new Finance employment."
+    },
+    {
+      "source_id": "src-aec2022-cunningham-pass3",
+      "url": "https://results.aec.gov.au/27966/Website/HouseDivisionPage-27966-114.htm",
+      "publisher": "Australian Electoral Commission",
+      "title": "2022 federal election final results: Cunningham",
+      "retrieved": "2026-10-06",
+      "source_type": "government_record",
+      "locator": "Final first-preference and two-candidate-preferred tables: Byrnes, Alison, Labor, elected",
+      "note": "Confirms Byrnes was elected for Cunningham at the 21 May 2022 election; the result does not establish campaign pay, hours or Bird-office cessation."
     }
   ],
   "open_questions": [
@@ -383,7 +413,7 @@
     "What employment or other activity fills the period between Stephen Martin's office and Sharon Bird's office, particularly 2002–2005?",
     "What were the exact transition date, payroll entity, hours and leave for the two Sharon Bird roles, including ministerial-office periods and the 2022 campaign?",
     "When did the Master of Management study begin and end, and was it undertaken alongside paid work?",
-    "Was there paid work between the LinkedIn-listed March 2022 endpoint and election on 21 May 2022?"
+    "What were the Bird-office cessation/leave arrangements and any paid work during the now-documented 25 February–21 May 2022 Cunningham campaign?"
   ],
   "research_notes": [
     "Systematic follow-up2026-10-01. Added omitted private fast-food work and business-administration study; strengthened1996 political-staff observation and explicit full-time evidence during university study. Required research_notes repaired; preserved supported existing facts.",
@@ -397,6 +427,7 @@
     "Third follow-up 2026-10-04: targeted University of Wollongong graduation and Master of Management records, Stephen Martin 2002–2005 transition material, and McDonald’s Corrimal/Wollongong outlet history. Results only repeated the current official biography, Martin’s parliamentary service and unrelated local sponsorship; none safely establishes Byrnes’s study dates, post-Martin activity or fast-food legal employer. No material enrichment counted. Generic location coincidence and other people’s outlet histories were not transferred; advance the nationwide queue pending an original graduation list, payroll record or identifiable employer document.",
     "Follow-up2026-10-04: Read Bird24June2010 Hansard reproduction: confirms existing staff affiliation, no new contract/hours boundaries. Graduation-year and2004-work searches produced overseas Duke graduate, Minnesota nurse, Melbourne Monash clinician and Michigan artist namesakes; no dates transferred. Candidate Q&A says nearly three decades of supporting MPs but does not resolve2002–2005 employers. Retain prior gaps; future progress requires original UOW graduation record or Martin/post-Martin payroll account, not repeated generic year searches.",
     "Follow-up2026-10-05: primary Finance16February2018WHS minutes add previously omitted staff-committee representation, with ALP affiliation and documented interventions. Dated attendance is not appointment/end or a separate Finance/Defence job; retain unknown hours and no additive duration. Target ministerial staffing,2003transition and McDonald’s employer queries yielded existing court record and foreign namesakes; applicant-specific contract in1997judgment remains unassigned. Original2002–2005payroll and UOW course dates still required.",
-    "Second targeted pass found named primary2017FWC employee evidence plus2018ECG/2021bargaining minutes. Commonwealth MOP(S) employer/payroll context resolved for observed Bird employment; adds staff consultative/ASU bargaining activity with unknown terms/pay. Generic38-hour agreement provisions and other witnesses casual/leave evidence are not assigned personally. FWC paragraph21 year anomaly noted against paragraph9 ballot chronology. UOW searches still give current MP visits and Michigan artist, not study boundaries;2002–2005 gap and McDonald’s outlet unresolved."
+    "Second targeted pass found named primary2017FWC employee evidence plus2018ECG/2021bargaining minutes. Commonwealth MOP(S) employer/payroll context resolved for observed Bird employment; adds staff consultative/ASU bargaining activity with unknown terms/pay. Generic38-hour agreement provisions and other witnesses casual/leave evidence are not assigned personally. FWC paragraph21 year anomaly noted against paragraph9 ballot chronology. UOW searches still give current MP visits and Michigan artist, not study boundaries;2002–2005 gap and McDonald’s outlet unresolved.",
+    "Third targeted pass2026-10-06 adds the omitted 2022 Cunningham campaign from ABC's dated formal launch to the AEC election. ABC explicitly observed that Byrnes still worked for Bird at campaign launch, so campaign and staff activity may overlap; no leave, cessation, campaign pay or hours inferred. This narrows the prior March–May activity gap but does not establish paid employment after the public professional profile's March endpoint."
   ]
 }
