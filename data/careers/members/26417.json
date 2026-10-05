@@ -728,6 +728,82 @@
       ],
       "evidence_note": "Own biography explicitly describes establishing a management consultancy after state-policy work. Does not name it, establish remuneration or personal legal-employment form, dates or hours. May describe already-recorded Banarra role; retained as unallocated component/identity lead, not assumed another employer or separate duration.",
       "counting_note": "No additive duration; resolve identity and overlap before any counting."
+    },
+    {
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-aph-qualifications-pass2"
+      ],
+      "evidence_note": "Qualification established in official biography; dates, load and historical institution name unresolved. No employment inferred.",
+      "counting_note": "Study excluded under codebook; no public/private years.",
+      "spell_id": "26417-tourism-study",
+      "employer": "University of Technology Sydney / predecessor institution",
+      "role": "Management (Tourism) student"
+    },
+    {
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-aph-qualifications-pass2"
+      ],
+      "evidence_note": "Qualification established in official biography; dates, load and historical institution name unresolved. No employment inferred.",
+      "counting_note": "Study excluded under codebook; no public/private years.",
+      "spell_id": "26417-leisure-study",
+      "employer": "University of Technology Sydney / predecessor institution",
+      "role": "Management (Leisure) student"
+    },
+    {
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-aph-qualifications-pass2"
+      ],
+      "evidence_note": "Qualification established in official biography; dates, load and historical institution name unresolved. No employment inferred.",
+      "counting_note": "Study excluded under codebook; no public/private years.",
+      "spell_id": "26417-environment-study",
+      "employer": "Oxford Brookes University",
+      "role": "Certificate in Environment and Science student"
+    },
+    {
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "unknown",
+      "government_control_at_time": "unknown",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-public-profile"
+      ],
+      "evidence_note": "Indexed own professional profile records1990top-trainee award for hotel-management studies and experience. Pay, legal employer, commencement, completion and hours unknown.1990is award observation, not service boundary. Could overlap study; not duplicate counted work.",
+      "counting_note": "Possible training/work unallocated; no paid or full-time duration inferred.",
+      "spell_id": "26417-hotel-trainee",
+      "employer": "TAFE NSW; training employer unidentified",
+      "role": "Hotel-management trainee: study and experience"
     }
   ],
   "sources": [
@@ -817,8 +893,8 @@
       "title": "Public professional profile",
       "source_type": "professional_profile",
       "locator": "Public indexed Volunteer Experience and Honors & Awards",
-      "note": "Public index retrieved; direct open returned999. Employment section lacks detail. Project listings do not establish employing entity or paid status. Further indexed volunteer roles added4October; direct access restrictions respected, no login or bypass. Present and relative-duration labels not converted into dates.",
-      "retrieved": "2026-10-04",
+      "note": "Public index retrieved; direct open returned999. Employment section lacks detail. Project listings do not establish employing entity or paid status. Further indexed volunteer roles added4October; direct access restrictions respected, no login or bypass. Present and relative-duration labels not converted into dates. Second targeted pass indexed honours section includes1990TAFE NSW top-trainee award for hotel-management studies/experience. Original profile999UnknownStatusCode; programme year is not exact employment boundary.",
+      "retrieved": "2026-10-05",
       "source_id": "src-public-profile"
     },
     {
@@ -940,6 +1016,16 @@
       "retrieved": "2026-10-05",
       "locator": "RIAA volunteer-to-executive and resignation account; web lines250–257",
       "note": "Accessible interview reports her explanation for leaving RIAA. Corroborates a career break before first2022campaign without exact resignation day or inference that every advisory assignment ceased."
+    },
+    {
+      "source_id": "src-aph-qualifications-pass2",
+      "url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=26417",
+      "publisher": "Australian Parliament",
+      "title": "Nicolette Boele qualifications",
+      "source_type": "official_biography",
+      "retrieved": "2026-10-05",
+      "locator": "Qualifications and occupation; public indexed biography",
+      "note": "Lists BMgmt(Tourism), BMgmt(Leisure) at UTS and CertEnv&Sci at Oxford Brookes. Original open returned403Forbidden; indexed qualification text retained, no course dates or graduate-level status inferred."
     }
   ],
   "open_questions": [
@@ -964,6 +1050,7 @@
     "Next revisit requires CEFC founding-team/contract records, original SEDA staff documentation or public contract/dated professional-profile evidence. Broad generic biographies and repeated exact-name secondment searches have yielded no additional evidence; retained all open gaps.",
     "Follow-up 2026-10-04: targeted CEFC, SEDA and Good Car Company searches returned the same parliamentary biography and later event profiles already captured. The 2025 RIAA biography still conflicts with the frozen 2024 Good Car endpoint and supplies no appointment or resignation record; CEFC results do not identify secondment/payroll or hours. No new fact promoted. Defer further generic searches until an original board filing, founding-team record or personnel document appears.",
     "Follow-up2026-10-04: Public profile index supplies nine omitted dated volunteer roles; original RIAA2018 and2020 biographies corroborate three and add PRI reference-group participation. Added separate excluded spells without assuming paid employment or government payroll. Intern-host assignments clarified, hours/payment unresolved. AICD ordinary membership and1999 leadership program are not employment evidence. No CEFC secondment or Good Car original filing found. Target original organisation rosters and historical trainee records; do not repeat generic biographies.",
-    "2026-10-05 own updated biography newly records establishing an unnamed management consultancy; recorded as unallocated component because possible Banarra identity/ownership relation is unproven. Accessible17February2022interview supports RIAA departure/break without exact payroll date. Historical1998government-report acknowledgement supplies name/referee context only; not new employment or hours. SEDA/CEFC specific searches still no individual hours, leave or secondment. Full-bio old URL404; current own page recovered."
+    "2026-10-05 own updated biography newly records establishing an unnamed management consultancy; recorded as unallocated component because possible Banarra identity/ownership relation is unproven. Accessible17February2022interview supports RIAA departure/break without exact payroll date. Historical1998government-report acknowledgement supplies name/referee context only; not new employment or hours. SEDA/CEFC specific searches still no individual hours, leave or secondment. Full-bio old URL404; current own page recovered.",
+    "Second targeted pass adds three omitted tertiary qualification/study entries from primary parliamentary index and an unallocated hotel-management trainee component from own indexed1990award account. No course or employment endpoints inferred from award/scholarship years; training employer/pay/hours remain unknown. Direct parliamentary403 and LinkedIn999 limitations recorded. Banarra-founder and CEFC-secondment checks supplied no new contracting boundary; current MP staff job ads refer to staff, not Boele hours. Good Car board-versus-director conflict retained. Next target original hotel trainee award/employer or dated qualification records."
   ]
 }
