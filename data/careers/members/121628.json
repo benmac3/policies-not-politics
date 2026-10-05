@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/121628",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-04",
+  "last_reviewed": "2026-10-05",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -81,7 +81,7 @@
       "role": "Adviser",
       "start_date": null,
       "end_date": "2002",
-      "date_precision": "unknown",
+      "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "political_staff",
@@ -347,6 +347,25 @@
       "evidence_note": "Secondary executive table gives1994 secretary role. Remuneration, load and exact term need original student-union evidence; not an employment inference.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "121628-uqu-secretary"
+    },
+    {
+      "spell_id": "121628-mckell-director",
+      "employer": "The McKell Institute Ltd (ABN 32 152 447 142)",
+      "role": "Director — charitable policy research institute",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "nonprofit",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-mckell2014-index-oct5"
+      ],
+      "evidence_note": "The employer’s ACNC-filed 2014 financial-report public index lists Jenny Mcallister among directors in office during or since the year ended 30 June 2014. The indexed report also describes its charitable policy-research purpose. Full PDF returned404, so the standard since-start-of-year wording is not treated as an exact commencement without checking exceptions and signature. Exact board term, paid status, hours, leave and historical control remain unknown; institute foundation in2012 is not her appointment date.",
+      "counting_note": "Nonprofit governance excluded from public/private operational employment headlines. Director title does not establish substantive full-time work; AECOM overlap requires separate evidence."
     }
   ],
   "sources": [
@@ -539,6 +558,16 @@
       "retrieved": "2026-10-04",
       "locator": "Printed pages78–79; PDFpage41, Eisenhower Fellows on global urban futures, McAllister quote attribution",
       "note": "Original government PDF page visually checked. Conference dated17October2013 and personal AECOM Technical Director, Infrastructure Advisory attribution appear on same spread. Observation, not appointment/cessation; does not establish personal fellowship or full-time employment."
+    },
+    {
+      "source_id": "src-mckell2014-index-oct5",
+      "url": "https://acncpubfilesprodstorage.blob.core.windows.net/public/a347ac16-2caf-e811-a963-000d3ad244fd-de8aa069-f093-4198-9242-743c9ccb597f-Financial%20Report-430bd524-3ab0-e811-a961-000d3ad24182-The_McKell_Institute_2014_.pdf",
+      "publisher": "The McKell Institute Ltd / Australian Charities and Not-for-profits Commission",
+      "title": "Financial Report for year ended 30 June 2014 — indexed directors report",
+      "source_type": "annual_report",
+      "retrieved": "2026-10-05",
+      "locator": "Public search-index extract: Directors Report, Directors and Principal Activities sections; ABN 32 152 447 142",
+      "note": "Original employer-file index names Jenny Mcallister as director and describes charitable policy-research activities. Direct PDF retrieval returned 404 Not Found; full report, exceptions, signature date and personal remuneration not inspected. Observed reporting-year association, not an exact appointment or cessation boundary."
     }
   ],
   "research_notes": [
@@ -552,7 +581,8 @@
     "Second follow-up2October2026 adds attributed CPSU organiser and student-union secretary roles and explicit Sydney study conflict. Employer-targeted AECOM searches and personal full-/part-time searches did not resolve employment load or phase boundaries; US realtor and UK teaching/travel profiles excluded as different people. The CPSU report is a new union-archive lead, not proof of employment in2006 or2001. No totals calculated.",
     "3 October 2026 targeted follow-up found the directly readable 2001 Crikey account and resolved the reported CPSU office as North Coast, without fabricating start/end dates. University archive search found Semper Floreat 1994 issue 1 at https://espace.library.uq.edu.au/view/UQ%3A243944/SF_1994_Issue1.pdf with an indexed first-person student-union committee contact by McAllister, but original PDF returned 403 Forbidden; not retried or treated as verified secretary/pay evidence. University of Sydney targeted search did not resolve conferral. Next useful evidence is original CPSU North Coast staff records, accessible original UQU executive records and Sydney conferral records; avoid repeating broad AECOM/title and generic hours searches.",
     "Fourth follow-up4October2026 refines the existing primary NSW parliamentary source: footnote and committee minutes place McAllister's Director, Climate Change Policy and Programs Group observation at an October2008 briefing. This does not establish appointment boundaries, hours or leave. Exact AECOM and ALP term searches did not resolve remaining transitions; the University of Sydney repository was robots-blocked and not bypassed.",
-    "Follow-up2026-10-04: Targeted Jennifer-name contemporary AECOM PDF search found original Singapore government annual report: Technical Director, Infrastructure Advisory personally attributed at17October2013 conference; page visually checked and title now primary-supported. Conference also included invited professionals, so no individual Eisenhower fellowship inferred. CPSU/UQU original-record queries returned existing secondary lists and staff of her later Senate office; those employees’ bargaining activity is not hers. Avoid repeated generic hours searches; leave, AECOM title transitions/2015 cessation, CPSU original appointment and university conferral remain unresolved."
+    "Follow-up2026-10-04: Targeted Jennifer-name contemporary AECOM PDF search found original Singapore government annual report: Technical Director, Infrastructure Advisory personally attributed at17October2013 conference; page visually checked and title now primary-supported. Conference also included invited professionals, so no individual Eisenhower fellowship inferred. CPSU/UQU original-record queries returned existing secondary lists and staff of her later Senate office; those employees’ bargaining activity is not hers. Avoid repeated generic hours searches; leave, AECOM title transitions/2015 cessation, CPSU original appointment and university conferral remain unresolved.",
+    "Follow-up2026-10-05: Targeted Jennifer-name AECOM managing-director appointment searches returned existing unsourced derivative title phases and unrelated overseas professionals, without transition/hours evidence. UQU and CPSU original-record queries returned prior secondary tables and North Coast account; no new original terms. A new McKell board lead led to the public index of the institute’s own ACNC-filed2014 financial report, naming Jenny Mcallister as director and its charitable research purpose. Added separately excluded nonprofit governance with ABN, unknown boundaries/control/pay/hours, and explicit indexed-only evidence limitation: direct original PDF returned404 Not Found, not retried or bypassed. Institute founding in2012 is not personal appointment; standard continuous-term wording requires full report exceptions/signature verification. Future useful leads are original board registers/archived employer reports, not duplicate ministerial event listings or generic biographies. No full-time totals calculated."
   ],
   "open_questions": [
     "What were the exact appointment dates, payroll entities, hours and leave for the Tanya Plibersek and Bob Debus adviser roles?",
@@ -565,6 +595,7 @@
     "Can original party election/term records reconcile presidency start/end dates in secondary infobox versus narrative (July/November 2011 and June/July 2015)?",
     "What work or study occurred between university completion and the first known Plibersek role; can 1996/1997 graduation accounts be reconciled?",
     "Can CPSU North Coast contemporary staff records confirm the reported organiser role around the 2001 Richmond candidacy, establish dates/pay/hours, and reconcile the 2015 contrary classification?",
-    "Can original UQU records confirm secretary term and paid status, and Sydney conferral records resolve1996 versus1997?"
+    "Can original UQU records confirm secretary term and paid status, and Sydney conferral records resolve1996 versus1997?",
+    "Can an accessible original McKell Institute board register or financial report confirm McAllister’s appointment/cessation, pay, hours and historical control, including overlap with AECOM and party presidency?"
   ]
 }
