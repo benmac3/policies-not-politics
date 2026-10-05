@@ -6,7 +6,7 @@
   "snapshot_party": "The Nationals",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/316312",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-04",
+  "last_reviewed": "2026-10-05",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -51,9 +51,10 @@
         "src-first-speech",
         "src-personal-bio",
         "src-candidate-profile",
-        "src-stripes-history"
+        "src-stripes-history",
+        "src-gunnedah-trust-history"
       ],
-      "evidence_note": "First speech describes apprenticeship with father-in-law Harold before later ownership. Employer history identifies Harold Hockings and Gunnedah Industries. Its broad2000s joining heading does not resolve apprenticeship dates against the first speech’s28-year business duration. Apprenticeship is separated from later ownership; hours and legal payroll entity unknown.",
+      "evidence_note": "First speech describes apprenticeship with father-in-law Harold before later ownership. Employer history identifies Harold Hockings and Gunnedah Industries. Its broad2000s joining heading does not resolve apprenticeship dates against the first speech’s28-year business duration. Apprenticeship is separated from later ownership; hours and legal payroll entity unknown. ABR identifies a later Gunnedah Industries trading trust from2000, not the unknown apprenticeship-era employer; do not substitute registration for training commencement.",
       "counting_note": "The work was privately controlled, but the evidence does not establish a calendar-bounded substantive full-time interval."
     },
     {
@@ -243,7 +244,7 @@
       "counting_note": "Elected office is excluded under the codebook."
     },
     {
-      "employer": "Gunnedah Industries / related family businesses",
+      "employer": "Gunnedah Industries / related family businesses; historical brand registered to Hockings & Chaffey Family Trust, later The Chaffey Family Trust (ABN60 354353214); personal operating/payroll entity still unresolved",
       "role": "Second-generation co-owner/operator with wife",
       "start_date": null,
       "end_date": null,
@@ -257,9 +258,11 @@
       "source_ids": [
         "src-first-speech",
         "src-stripes-history",
-        "src-stripes-transition"
+        "src-stripes-transition",
+        "src-gunnedah-trust-history",
+        "src-register2025"
       ],
-      "evidence_note": "First speech reports28years in family business before handover to children. This duration is not back-calculated; operational handover is distinct from continuing company ownership/directorship. Exact ownership start, operating end and hours unresolved.",
+      "evidence_note": "First speech reports28years in family business before handover to children. This duration is not back-calculated; operational handover is distinct from continuing company ownership/directorship. Exact ownership start, operating end and hours unresolved. Primary ABR resolves a historical Gunnedah Industries trading entity: Hockings & Chaffey Family Trust from23March2000, renamed The Chaffey Family Trust on1February2007. Parliamentary register names Jamie as joint beneficiary of The Chaffey Family Trust and separately shareholder/beneficiary of Gunnedah Industries(NW)PtyLtd. Brand, trust and company must not be collapsed into one payroll entity or ownership interval; no apprentice dates or personal trustee/director appointment inferred.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "316312-family-ownership"
     },
@@ -440,7 +443,7 @@
       "title": "Jamie Chaffey statement of registrable interests,48th Parliament",
       "source_type": "government_record",
       "locator": "Alteration notified23August2025: directorship/shareholdings",
-      "note": "Publicly indexed primary text explicitly dates resignation19August2025. Direct PDF open returned403; not treated as a personal employment cessation date.",
+      "note": "Publicly indexed primary text explicitly dates resignation19August2025. Direct PDF open returned403; not treated as a personal employment cessation date. Indexed original5October2026 also identifies The Chaffey Family Trust joint-beneficiary interest, separately from Gunnedah Industries(NW)PtyLtd.",
       "retrieved": "2026-10-01",
       "source_id": "src-register2025"
     },
@@ -503,6 +506,16 @@
       "source_type": "employer",
       "locator": "PDF/printed page2, Election of Chairperson and Region Executives; lines56–67",
       "note": "Outgoing chair Chaffey thanked; Russell Webb elected unopposed and accepted, with Tamworth taking secretariat. Text inspected; screenshot tool exposed no viewable image block."
+    },
+    {
+      "source_id": "src-gunnedah-trust-history",
+      "url": "https://abr.business.gov.au/AbnHistory/View?id=60354353214",
+      "publisher": "Australian Business Register",
+      "title": "Historical detailsABN60 354353214",
+      "retrieved": "2026-10-05",
+      "source_type": "government_record",
+      "locator": "Entity-name history, trading name and type; extracted5October2026",
+      "note": "Gunnedah Industries trading name since23March2000; Hockings & Chaffey Family Trust renamed The Chaffey Family Trust on1February2007. Discretionary Trading Trust. Registration/name milestones do not date personal apprenticeship/ownership or legal employer."
     }
   ],
   "research_notes": [
@@ -517,7 +530,8 @@
     "Targeted Woolworths/apprenticeship/profile searches did not establish personal employment dates or hours. Namesake overseas corporate profiles excluded. LGNSW 2021–22 report web fetch timed out; 2022–23 PDF downloaded and text-read successfully. Top-five remuneration and overall staff numbers not transferred to Chaffey. Further leads: Woolworths training/payroll history, apprenticeship registration, business leave/operational transition and individual director remuneration.",
     "Further2October pass: rechecked company timeline against traineeship/apprenticeship and2006 founding queries. Stripes2006/2007/2018 milestones and store locations are already captured. Company2000s joining claim still conflicts with first-speech elapsed-tenure implication; no registration or payroll record resolved it.1991 residence description does not establish a Woolworths appointment date. No material addition; defer generic Woolworths/Stripes biography searches pending original apprenticeship, contract or leave evidence.",
     "Third follow-up 2026-10-04: targeted Woolworths store-history, apprenticeship, Gunnedah Industries and Stripes managing-director searches repeated the first speech, candidate interview, company timeline and September 2024 handover already recorded. No apprenticeship registration, Woolworths appointment, individual hours, leave or legal payroll entity was found. No material enrichment counted; retain the company-timeline conflict and advance pending an original training, contract or personnel record.",
-    "Follow-up2026-10-04: Primary Murray Darling Association Region11 AGM minutes establish outgoing chair handover to Russell Webb on16May2024, resolving an undated governance endpoint at day precision as a meeting milestone. The minutes explicitly thank Chaffey as chair and record successor election/acceptance; appointment date, formal legal cessation and personal remuneration remain unknown. Subsequent ordinary meeting lists Webb as chair and Chaffey attending as Gunnedah mayor. Apprenticeship-year query yielded no training record. Next: original apprenticeship registration, Woolworths personnel record, business contracts/hours and association appointment instrument; governance excluded."
+    "Follow-up2026-10-04: Primary Murray Darling Association Region11 AGM minutes establish outgoing chair handover to Russell Webb on16May2024, resolving an undated governance endpoint at day precision as a meeting milestone. The minutes explicitly thank Chaffey as chair and record successor election/acceptance; appointment date, formal legal cessation and personal remuneration remain unknown. Subsequent ordinary meeting lists Webb as chair and Chaffey attending as Gunnedah mayor. Apprenticeship-year query yielded no training record. Next: original apprenticeship registration, Woolworths personnel record, business contracts/hours and association appointment instrument; governance excluded.",
+    "Follow-up2026-10-05: primary ABR historical trading-name table resolves Gunnedah Industries trust entity and2007rename; primary parliamentary index links member’s joint-beneficiary interest. Retain personal payroll/apprentice boundaries unresolved and separate later company. Namoi council primary index reports23November2023resolution to discontinue activities from31December2023 and seek dissolution by30June2024; audit says Governor approval still required, so no unsupported chair end/dissolution assumed. Tamworth original release open403, individual source gap; original instrument/minutes remain leads. Woolworths/apprenticeship searches yielded existing biography without dates/hours."
   ],
   "open_questions": [
     "What were the exact start/end dates, hours and store transitions for the Woolworths management career?",
@@ -527,6 +541,7 @@
     "Was the September 2024–May 2025 full-time campaign paid, and what was the exact start date?",
     "What legal entity employed the Gunnedah Industries apprentice, and when did apprenticeship, ownership and operating duties start/end? Resolve2000s company heading versus28-year first-person duration.",
     "What were Stripes payroll/directorship entities, hours, leave and overlap with2016–2024 elected duties? Does primary departure documentation corroborateSeptember2024?",
-    "Were Nuclear Taskforce, Murray Darling Association or other investment-company duties remunerated, and what were their exact terms?"
+    "Were Nuclear Taskforce, Murray Darling Association or other investment-company duties remunerated, and what were their exact terms?",
+    "How did Hockings & Chaffey Family Trust / The Chaffey Family Trust and Gunnedah Industries(NW)PtyLtd relate to apprentice payroll and later operational roles; what trustee/transfer documents bridge them? Namoi board activities ceased by resolution from31December2023 but formal dissolution/personal term requires original instrument."
   ]
 }
