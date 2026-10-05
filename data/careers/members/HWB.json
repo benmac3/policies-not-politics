@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/HWB",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-04",
+  "last_reviewed": "2026-10-05",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -32,7 +32,8 @@
         "src-7",
         "src-8",
         "src-9",
-        "src-10"
+        "src-10",
+        "src-20"
       ],
       "evidence_note": "Official years, named bank in primary biography. Conference biography explicitly says full-time work began1969, corroborated by2012 profile. Full-time entry established, but later status, leave and exact boundaries not verified.1970 merger noted without inventing payroll-transfer date.",
       "counting_note": "Explicit full-time commencement; year-only dates give a conditional gross calendar envelope of about6–8years, not a confirmed employment total. Continuity/status changes/leave remain unresolved; headline null.",
@@ -268,6 +269,25 @@
       "evidence_note": "Frozen first-service date retained.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "HWB-12"
+    },
+    {
+      "spell_id": "HWB-13",
+      "employer": "Professional wrestling promoter or promoters not identified",
+      "role": "Wrestling referee, sideline",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "unknown",
+      "government_control_at_time": "unknown",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-19"
+      ],
+      "evidence_note": "Identity-matched ABC interview says Zappia took up wrestling refereeing after training with professional wrestlers; he describes a sideline and recalls a Mario Milano bout. Neither promoter nor remuneration, dates or substantive hours stated. Do not derive interval from another athlete age or assume professional wrestlers make referee a paid employee.",
+      "counting_note": "Possible paid or unpaid sideline retained unresolved; no full-time sector years."
     }
   ],
   "sources": [
@@ -450,6 +470,26 @@
       "retrieved": "2026-10-04",
       "locator": "Public indexed LGA State Executive Committee section, printedp36",
       "note": "Indexed primary report names Zappia as Adelaide Metropolitan Representative, resignation following late2007 federal election and replacement by Miriam Smith. FullPDF request timed out; exact appointment/exit days and individual allowance unknown."
+    },
+    {
+      "source_id": "src-19",
+      "url": "https://www.abc.net.au/news/2014-12-18/the-former-lives-of-australian-politicians/5973234",
+      "publisher": "ABC News / Louise Yaxley",
+      "title": "MPs former lives: The quirky backgrounds of Australian federal politicians,18December2014",
+      "retrieved": "2026-10-05",
+      "source_type": "news",
+      "locator": "The powerlifting champion,lines300–328, first-person sideline description",
+      "note": "Identity-matched interview documents professional-wrestling refereeing; promoters/pay/hours and exact interval unstated. Championship placings alone not employment."
+    },
+    {
+      "source_id": "src-20",
+      "url": "https://www.indusage.com.au/?p=46798",
+      "publisher": "Indus Age / Nancy Choudary",
+      "title": "A vote for Tony is to vote for a brighter future and growth,29May2016",
+      "retrieved": "2026-10-05",
+      "source_type": "news",
+      "locator": "Opening career paragraphs,lines15–21",
+      "note": "Corroborates explicit1969full-time ANZ commencement and part-owned fitness-centre aggregate1981–2007, but repeats secondary1980Cavanagh end conflicting with firstspeech1981. No new continuity/leave evidence."
     }
   ],
   "research_notes": [
@@ -462,6 +502,7 @@
     "Follow-up2026-10-02: Libraries Board appointment start resolved to15April2004 with gazette plus contemporary annual report.2005gazette supplies separate term beginning9June2005; possible gap/holdover15April–8June2005 retained as unknown. Existing actual26October2007retirement preserved despite scheduled2008expiry. Governance remains excluded.",
     "Targeted third fitness-centre, business start and planning-commission searches repeated knownABCsequence or unrelated namesakes; no new hours or ownership-transfer proof. Contemporary planning minutes name a Studio Nine architect Tony Zappia and are not this member’s career. Next seek bank continuity/leave, third gym entity and individual operating periods, planning/LGA/MRCappointment instruments.",
     "Follow-up2026-10-04: official ABR history resolves that Antonio was expressly named in the Funlife family partnership from1November1999 to17May2001. Later entity-name versions use initials and include two A Zappia partners, so they cannot prove Tony's continuing ownership; no ABN or business-name date was treated as an employment boundary. Funlife's employer site corroborates a1979 family founding and names Dominic Trimboli as current owner/operator but supplies no transfer date. ANZ continuity/leave, pre-1999 gym legal forms, third-centre identity, personal hours and exact ownership/operating exit remain unresolved; no headline years calculated.",
-    "Follow-up2026-10-04: New contemporary Salisbury notice documents planned mayoral resignation conditional on declaration of federal poll; archival capture19December2007 is not the actual resignation day. Public indexed LGA2007–08annual report identifies Adelaide Metropolitan Representative role, departure following late2007 election and successor Miriam Smith; exact departure and individual fees unknown. Primary1977/1997gazette links returned403; no access bypass or adoption of uncited secondary day dates. Full LGA report request timed out, so only indexed section used. Targeted ANZ/full-time/business and planning queries yielded no new bank continuity, gym hours, third-centre name or planning appointment. Existing ANZ commencement and business evidence preserved."
+    "Follow-up2026-10-04: New contemporary Salisbury notice documents planned mayoral resignation conditional on declaration of federal poll; archival capture19December2007 is not the actual resignation day. Public indexed LGA2007–08annual report identifies Adelaide Metropolitan Representative role, departure following late2007 election and successor Miriam Smith; exact departure and individual fees unknown. Primary1977/1997gazette links returned403; no access bypass or adoption of uncited secondary day dates. Full LGA report request timed out, so only indexed section used. Targeted ANZ/full-time/business and planning queries yielded no new bank continuity, gym hours, third-centre name or planning appointment. Existing ANZ commencement and business evidence preserved.",
+    "Follow-up2026-10-05: identity-matchedABCinterview adds wrestling-referee sideline, separate from powerlifting/fitness business; promoter/pay/dates/hours unresolved.2016IndusAgeinterview independently repeats full-timeANZ1969commencement but not continuity/leave;1980Cavanaghend conflict preserved against primary1981. Targeted thirdgym/Fairview/planning/MRCsearches yielded no contracts or original appointments; Cronullaadministrator/USunion/baseball/StudioNinearchitect namesakes rejected. Next seek referee promoter/terms, bank continuity and personal gym operating periods. All22SAfollow-ups saved; nationwide unresolved review continues inTasmania."
   ]
 }
