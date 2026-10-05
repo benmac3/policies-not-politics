@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Greens",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/310860",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-04",
+  "last_reviewed": "2026-10-05",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -147,9 +147,10 @@
       "government_control_at_time": "private",
       "counting_status": "insufficient_evidence",
       "source_ids": [
-        "src-3"
+        "src-3",
+        "src-abr-business-oct5"
       ],
-      "evidence_note": "Business ownership/work documented but legal name, start/end and full-time nature not recovered.",
+      "evidence_note": "Business ownership/work documented but legal name, start/end and full-time nature not recovered. ABR lead under Stephanie Jean/Stephanie J Hodgins-May records sole-trader ABN active 31 May 2012–15 September 2015, reactivated 1 March 2026, and Green Collar Connect business name 19 April 2013–15 September 2015. No source links that trading name to this particular food/farm business or establishes active paid work; registration intervals are not personal employment boundaries, so this spell remains undated.",
       "counting_note": "Not counted: dates and/or substantive full-time status are insufficiently evidenced; year labels are not exact boundaries."
     },
     {
@@ -165,9 +166,10 @@
       "government_control_at_time": "private",
       "counting_status": "insufficient_evidence",
       "source_ids": [
-        "oct4-abc-family"
+        "oct4-abc-family",
+        "src-abr-business-oct5"
       ],
-      "evidence_note": "A 2019 ABC report quotes Hodgins-May describing her father, Blampied farmer Rod May, as her business partner. He died in2017, but the report does not establish when the partnership began, whether work was paid, the legal entity, ownership share, substantive hours or whether the underlying business continued. Kept separate from the unidentified organic-food founder entry unless future evidence establishes identity.",
+      "evidence_note": "A 2019 ABC report quotes Hodgins-May describing her father, Blampied farmer Rod May, as her business partner. He died in2017, but the report does not establish when the partnership began, whether work was paid, the legal entity, ownership share, substantive hours or whether the underlying business continued. Kept separate from the unidentified organic-food founder entry unless future evidence establishes identity. ABR lead under Stephanie Jean/Stephanie J Hodgins-May records sole-trader ABN active 31 May 2012–15 September 2015, reactivated 1 March 2026, and Green Collar Connect business name 19 April 2013–15 September 2015. No source links that trading name to this particular food/farm business or establishes active paid work; registration intervals are not personal employment boundaries, so this spell remains undated.",
       "counting_note": "Not counted: legal employer, interval boundaries, remuneration and substantive full-time status remain unknown.",
       "spell_id": "310860-familyfarm"
     },
@@ -419,6 +421,16 @@
       "source_type": "employer",
       "locator": "Coach Class of26 heading and pro bono Coach/Support Crew footer",
       "note": "Host identifies coaching role; site labels Coach and Support Crew roles pro bono. Class year2026 is a program label, not exact appointment/cessation date. No paid employment inferred."
+    },
+    {
+      "source_id": "src-abr-business-oct5",
+      "url": "https://abr.business.gov.au/AbnHistory/View?id=92256740371",
+      "publisher": "Australian Business Register / ABN Lookup",
+      "title": "Historical details for ABN 92 256 740 371",
+      "retrieved": "2026-10-05",
+      "source_type": "government_record",
+      "locator": "Entity name, ABN status, entity type and Business names history",
+      "note": "Public individual/sole trader registration under Stephanie Jean / Stephanie J Hodgins-May. Business identity lead consistent with personal name and central-Victorian location, not proof of her organic business identity or active paid employment."
     }
   ],
   "research_notes": [
@@ -430,6 +442,7 @@
     "Follow-up2026-10-03: interview-based Guardian reporting identifies previously omitted AusAID work on climate, food security and the Pacific and clarifies the New York function as support negotiator for Australia's positions. AusAID is retained as a separate unresolved spell because the source names the agency, but it may overlap the Mission assignment; payroll status, dates, hours and public-service appointment remain unknown. Repeated business-name and legal-employer searches did not resolve those identities.",
     "Next leads: Di Natale archived office staffing/role biography; UN mission internship/adviser appointment record;2009 legal firm and later environmental-law employment identity; organic business trading name and ownership documents. No outreach or authenticated collection; dates/FTE still unknown.",
     "Follow-up2026-10-04: a primary ABC court report quotes Hodgins-May calling her late father Rod May her business partner and identifies him as a Blampied farmer. This adds a previously omitted family-farming business relationship. The report supplies no legal entity, start date, pay, ownership share or hours; it is not silently merged with the separately recorded unidentified organic-food founder role. Her father's2017 death is context, not an inferred business-cessation date.",
-    "Follow-up2026-10-04: Added three official Deakin qualifications and host-confirmed pro bono Larita coaching. Degree dates and course/employment overlap remain unknown. Law-firm and organic-business searches still yield broad biographies; first speech identifies father distribution brand Farmer Rods but does not prove it is her organic-founder entity. Panel-member education, parents teaching/farming durations, current staff jobs and derivative UN wording not adopted as personal employer/payroll evidence. Guardian source enum normalized to approved news without changing supported facts. Next law-firm records, actual Mission/AusAID appointment terms and historic family-business documents."
+    "Follow-up2026-10-04: Added three official Deakin qualifications and host-confirmed pro bono Larita coaching. Degree dates and course/employment overlap remain unknown. Law-firm and organic-business searches still yield broad biographies; first speech identifies father distribution brand Farmer Rods but does not prove it is her organic-founder entity. Panel-member education, parents teaching/farming durations, current staff jobs and derivative UN wording not adopted as personal employer/payroll evidence. Guardian source enum normalized to approved news without changing supported facts. Next law-firm records, actual Mission/AusAID appointment terms and historic family-business documents.",
+    "Follow-up 5 October 2026: recovered a primary sole-trader registration/business-name lead, Green Collar Connect, with historical registration dates. Identity and activity linkage still require an original business biography or document; ABN/name activation does not prove operation, paid hours or cessation, so no new additive employment interval. Corporate law/AusAID/Mission searches still lack payroll and firm boundaries. March 2013 Canberra Times career profile is a potentially useful lead but direct open returned 500 with a non-retryable redirect to an inaccessible Tollbit destination; no access bypass or content claim. Current office job advertisements concern her staff; generic UN/Oxfam internships do not establish her own appointment terms. Next original 2013 career article or individual employer/mission/business record; no numerical change."
   ]
 }
