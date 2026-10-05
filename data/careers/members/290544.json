@@ -30,7 +30,7 @@
       "source_ids": [
         "src-2"
       ],
-      "evidence_note": "26-year experience claim is not a continuous full-time employment interval; early employers and boundaries missing. Austin registrar role now separately identified at a 2004 observation; this residual placeholder is not an additional additive spell. Internship separately identified by personal2022 recollection; remaining earlier rotations still unknown.",
+      "evidence_note": "26-year experience claim is not a continuous full-time employment interval; early employers and boundaries missing. Austin registrar role now separately identified at a 2004 observation; this residual placeholder is not an additional additive spell. Internship separately identified by personal2022 recollection; remaining earlier rotations still unknown. Royal Melbourne Hospital centre affiliation now separately retained at a2008 publication observation; paid appointment remains unconfirmed.",
       "counting_note": "Not counted: dates and/or substantive full-time status are insufficiently evidenced; year labels are not exact boundaries."
     },
     {
@@ -342,6 +342,25 @@
       ],
       "evidence_note": "First-person7September2022 speech identifies an internship26years earlier, when she joined AMA. Around1996 is arithmetic inference from a rounded recollection, not an exact appointment year; conflicts with later1997 education endpoint require reconciliation. No hospital, payroll contract, personal hours or tenure supplied. Her whole-life public-servant self-description is not employer-specific historical control evidence. Component of residual earlier medical-history placeholder, not additive.",
       "counting_note": "No named employer, dated interval or full-time evidence; no duration counted."
+    },
+    {
+      "spell_id": "290544-rmh-affiliation",
+      "employer": "Clinical Centre of Research Excellence in Infectious Diseases, Royal Melbourne Hospital (affiliation; salaried employer unconfirmed)",
+      "role": "Medical publication author; clinical/research appointment title unresolved",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "unknown",
+      "government_control_at_time": "unknown",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-wiley2008-pass2"
+      ],
+      "evidence_note": "Original2008 publisher individually associates M.R.Ananda-Rajah with this centre, giving an earlier named institutional affiliation. No employment contract or paid-role title supplied, and the28June2008 publication is an observation rather than a start/end date. Relation to prior Austin clinical training and later Alfred tenure remains unresolved. Does not assign coauthors’ employers or retrospective patient-cohort years to her work. Part of residual earlier medical history, not an additive full-time interval.",
+      "counting_note": "No paid appointment boundaries, hours or historical employer-control evidence; no headline years calculated."
     }
   ],
   "sources": [
@@ -544,6 +563,16 @@
       "source_type": "employer_annual_report",
       "locator": "Printedpage42/PDFindex43, Infectious Diseases, student project and Awards; screenshot inspected",
       "note": "Contemporaneous doctoral research and travel-award observations; grant awards are not payroll or paid-leave evidence."
+    },
+    {
+      "source_id": "src-wiley2008-pass2",
+      "url": "https://onlinelibrary.wiley.com/doi/10.1111/j.1445-5994.2008.01724.x",
+      "publisher": "Authors / Wiley, Internal Medicine Journal",
+      "title": "Diagnostic and therapeutic approach to persistent or recurrent fevers of unknown origin in adult stem cell transplantation and haematological malignancy,28June2008",
+      "retrieved": "2026-10-05",
+      "source_type": "professional_profile",
+      "locator": "Individual author block M.R.Ananda-Rajah, lines53–59; first-publication date line166",
+      "note": "Personally mapped Royal Melbourne Hospital Clinical Centre of Research Excellence affiliation; other authors’ Alfred, Westmead and Peter MacCallum entries are not hers. Affiliation and publication date do not establish salary, job title, hours, employer legal identity or appointment boundaries."
     }
   ],
   "research_notes": [
@@ -556,6 +585,7 @@
     "Third follow-up3October2026: repeated registrar, CV, hospital, LinkedIn and publication-affiliation searches found the existing2004 Austin point and Alfred affiliations from2009 onward, but no new personally bounded pre-2009 employer or rotation. A Royal Darwin Hospital registrar phrase in a multi-author guideline belongs to another author entry and was again rejected. Public LinkedIn indexing suppresses employer names/dates rather than exposing usable experience chronology. Institute resignation, fungalAi legal/pay relationship, clinical/research fractions, leave and substantive hours remain unresolved; advance the national cursor without repeating generic medical-biography searches.",
     "Fourth follow-up 4 October 2026: the official MRFF recipient table confirms Monash University as grant recipient, a 1 January 2019–31 December 2020 project window and $181,066 funding for the clinician-researcher project. These facts do not establish Ananda-Rajah's individual appointment, salary, hours or full-time fraction and do not change the structured employment interval. Targeted institute, fellowship, clinical-CV and resignation searches otherwise repeated the November2020–February2021 profile chronology and 2021 association; no new employment boundary. Advance pending appointment/payroll records rather than repeat generic biography searches.",
     "Follow-up2026-10-04: The authors’ 2019 conflict disclosure expressly calls fungalAi a nonprofit research group, resolving its earlier unknown category at that observation. Speaking fees were paid to her department, not assumed personal employment. Added omitted Sydney medical and Melbourne PhD study with self-reported month endpoints, scholarship evidence and explicit1996/1997 and2014/2016 completion-date discrepancies. Monash Health repository2014 thesis publication is not employee status or degree conferral. NHMRC funding is not NHMRC payroll. Direct PMC recaptcha respected; PubMed provided original indexed disclosure. No clinical/research hours or earlier employer boundaries recovered; totals remain unknown.",
-    "Follow-up 2026-10-05: added previously unidentified medical internship from a personal 2022 Hansard recollection, with rounded relative timing retained as inference only. Original AMREP2011 report corroborates doctoral research and travel awards without assuming attendance or clinical leave. Underpayment account establishes wage-bearing work at an unnamed workplace, not a new Alfred boundary or proof of full-time hours. 2018 employer health booklet confirms physician affiliation; its general full-time phrase concerns chronic-disease patients, not her employment status. Both engines returned no early named-hospital, rotation contract or personal FTE/leave record. Keep education discrepancy, named internship employer, research/clinical fractions and institute resignation as priority gaps."
+    "Follow-up 2026-10-05: added previously unidentified medical internship from a personal 2022 Hansard recollection, with rounded relative timing retained as inference only. Original AMREP2011 report corroborates doctoral research and travel awards without assuming attendance or clinical leave. Underpayment account establishes wage-bearing work at an unnamed workplace, not a new Alfred boundary or proof of full-time hours. 2018 employer health booklet confirms physician affiliation; its general full-time phrase concerns chronic-disease patients, not her employment status. Both engines returned no early named-hospital, rotation contract or personal FTE/leave record. Keep education discrepancy, named internship employer, research/clinical fractions and institute resignation as priority gaps.",
+    "Second targeted primary pass5October2026: original Wiley2008 author block personally maps Royal Melbourne Hospital infectious-diseases research-centre affiliation, distinct from other authors. Added as an unresolved affiliated clinical/research component of earlier medical history, without inventing paid employment, role title, full-time status, control or interval boundaries. JCU2008 MRSA conference repository confirms joint research on a2000–2007 patient cohort; cohort dates are not her tenure and repository hosting is not JCU employment. Wiley full article was accessible; alternative abstract endpoint returned403Forbidden, a source-only error. MJA2004 Austin remains supported, while internship hospital, transitions between Austin/Royal Melbourne/Alfred, clinical/research fractions and leave require personally bounded evidence. No total calculable."
   ]
 }
