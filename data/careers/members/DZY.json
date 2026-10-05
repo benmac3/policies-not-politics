@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/DZY",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-04",
+  "last_reviewed": "2026-10-05",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -267,7 +267,7 @@
       "role": "Member for Hindmarsh, later Adelaide",
       "start_date": "2016",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -307,7 +307,7 @@
       "role": "Board member",
       "start_date": "2014-02",
       "end_date": "2014-08",
-      "date_precision": "mixed",
+      "date_precision": "month",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "unknown",
@@ -347,7 +347,7 @@
       "role": "Second vice-president and board member",
       "start_date": "2021-04-09",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "day",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "unknown",
@@ -379,6 +379,25 @@
       ],
       "evidence_note": "Association board biography explicitly describes previous treasurer service. Appointment and departure dates, pay and hours unknown; do not infer that departure coincided with9April2021 vice-president election.",
       "counting_note": "Association governance excluded from substantive public/private employment totals; legal status, control and remuneration remain unknown."
+    },
+    {
+      "spell_id": "DZY-19",
+      "employer": "Polio Australia",
+      "role": "Parliamentary patron",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "nonprofit",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-16"
+      ],
+      "evidence_note": "Primary organisation patron page lists Georganas on retrieval. No appointment date, fees or hours. Parliamentary patronage does not establish substantive employment or government control. His chairing of the 2012 parliamentary polio inquiry does not date this separate patronage appointment.",
+      "counting_note": "Nonprofit patronage excluded from public/private full-time employment headlines; no assumption of unpaid or full-time status."
     }
   ],
   "sources": [
@@ -531,6 +550,16 @@
       "locator": "Steve Georganas: second vice-president and previous treasurer",
       "retrieved": "2026-10-04",
       "note": "Corroborates April2021 election and earlier treasurer service; does not date the earlier term, specify fees or establish uninterrupted service through retrieval."
+    },
+    {
+      "source_id": "src-16",
+      "url": "https://www.polioaustralia.org.au/parliamentary-patrons/",
+      "publisher": "Polio Australia",
+      "title": "Parliamentary Patrons",
+      "source_type": "employer",
+      "locator": "Steve Georganas patron listing; introductory paragraph and biography",
+      "retrieved": "2026-10-05",
+      "note": "Organisation identifies Georganas as a parliamentary patron. Appointment, departure, remuneration and hours are not specified. Current listing is an observation, not proof of uninterrupted tenure; other patron biographies contain outdated parliamentary titles."
     }
   ],
   "research_notes": [
@@ -542,6 +571,7 @@
     "Follow-up2026-10-02: primary union report resolves Statewide trustee and confirms branch receipt of fees, while exposing2013versusJuly2014start conflict. Adds previously unrecorded Electricity Industry Superannuation Scheme board endingAugust2014 with no board fees. No aggregate employee/FTE count assigned personally.",
     "Club primary indexed history establishes Adelaide Hellenic Lions presidency1991–1992. Glendi board remains unverified lead. Factory, taxi and insurer employers/hours remain unknown after targeted searches; current Guardian Insurance event attendance is not employment evidence.",
     "Follow-up2026-10-03: prior-year ASU operating report narrows EISS trustee-board service toFebruary–August2014 and independently confirms Statewide service fromJuly2014. It also calls Georganas a branch employee, consistent with the existing2013–2016ASU spell but not proof of full-time hours. Targeted insurer, taxi, factory, Thebarton and Statewide searches did not resolve the remaining employer or substantive-hours gaps.",
-    "Follow-up2026-10-04: Primary PADEE-WHIA press release establishes previously unrecorded second vice-president election on9April2021; association board biography also establishes earlier treasurer service with unknown endpoints. Both governance roles excluded from employment headlines; government legislators participating does not establish government control or a payroll appointment. Glendi festival board remains a secondary lead; Thebarton honorary-board register reproductions do not supply its endpoints. No insurer, factory, taxi payroll or personal hours identified."
+    "Follow-up2026-10-04: Primary PADEE-WHIA press release establishes previously unrecorded second vice-president election on9April2021; association board biography also establishes earlier treasurer service with unknown endpoints. Both governance roles excluded from employment headlines; government legislators participating does not establish government control or a payroll appointment. Glendi festival board remains a secondary lead; Thebarton honorary-board register reproductions do not supply its endpoints. No insurer, factory, taxi payroll or personal hours identified.",
+    "Follow-up2026-10-05: Polio Australia primary patron page establishes an additional parliamentary patronage role with unknown endpoints, fees and hours, excluded from employment totals. The page was readable after an earlier reader timeout. Targeted SGIC/SGIO underwriting, factory, taxi, Statewide and Glendi searches did not resolve substantive employer/hours gaps; sponsor lists and unrelated insurance litigation were not treated as employment. Glendi board remains secondary-only, while Thebarton register reproductions lack appointment/departure dates. Targeted older Polio patron searches returned no dating evidence; 2012 inquiry chairmanship is distinct from patronage. Retain all existing facts and unresolved totals."
   ]
 }
