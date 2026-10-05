@@ -6,7 +6,7 @@
   "snapshot_party": "One Nation",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/E5D",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-04",
+  "last_reviewed": "2026-10-05",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -281,6 +281,25 @@
       "evidence_note": "2011 local-government assembly speaker biography identifies longstanding membership; Joyce personally refers to work with the organisation in20October2020 House speech reproduced by OpenAustralia. Specific duties, branch, appointment/cessation and paid versus voluntary basis are not resolved. The earlier thesis claim of sixteen years and counselling is not adopted without the original interview. No employment is inferred merely from membership.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "E5D-vinnies"
+    },
+    {
+      "spell_id": "E5D-qld-acting-treasurer",
+      "employer": "National Party of Australia — Queensland",
+      "role": "Acting Treasurer",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "party_organisation",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-nga2013-treasurer-oct5"
+      ],
+      "evidence_note": "2013 ALGA institutional speaker biography identifies Acting Treasurer of Queensland Nationals concurrent with accountancy practice. Term boundaries, remuneration, weekly hours and exact overlap unreported; neither1998 practice start nor2004 election is adopted as a party-office boundary. Separate party organisational service from elected-office leadership and accountancy labour.",
+      "counting_note": "Party organisational work excluded from public/private headline; no paid full-time role inferred."
     }
   ],
   "sources": [
@@ -443,6 +462,16 @@
       "locator": "Opening paragraph",
       "note": "Joyce describes work with St Vincent de Paul in discussing domestic violence. No dates, hours, payment or specific counselling qualification. Original APH search was blocked by robots.txt; accessible labelled reproduction used.",
       "retrieved": "2026-10-03"
+    },
+    {
+      "source_id": "src-nga2013-treasurer-oct5",
+      "url": "https://infoweb.bayside.nsw.gov.au/Open/Rockdale%202012-2016/2013/5%20Rockdale%20Council%20Meeting%20-%2003%20April%202013.pdf",
+      "publisher": "Australian Local Government Association / Rockdale Council archive",
+      "title": "2013 National General Assembly speaker profiles in3April2013 council papers",
+      "source_type": "professional_profile",
+      "locator": "PDF p36/printed NGA brochurep7, Senator Barnaby Joyce profile",
+      "note": "Institutional speaker biography specifically identifies Acting Treasurer of Queensland Nationals concurrent with accountancy business. No exact office dates, pay or hours. Rounded business chronology not adopted.",
+      "retrieved": "2026-10-05"
     }
   ],
   "research_notes": [
@@ -456,7 +485,8 @@
     "Early accountancy-firm and American-multinational searches again yielded unnamed sequence, not employer identities/hours. A secondary blog quotes older Age Moree-nightclub account and SMH two-year Wicklow account; treat these as original-article leads, not proof of another employer or fixed two-year interval. UTas thesis mirror mentions sixteen years of St Vincent de Paul volunteering citing Fidler2006; original ABC21November2006 interview not retrieved, so charity detail remains a lead pending primary corroboration. Avoid repeating exhausted generic biography searches; next focus named venue archives, original interview and employer histories.",
     "Follow-up3October2026 locates independent2011 assembly biography and first-person2020 House speech confirming St Vincent de Paul activity; adds a separate excluded nonprofit record without adopting unverified sixteen-year duration or counselling title. Original ABC21November2006 URL https://www.abc.net.au/local/stories/2006/11/21/1793869.htm returned404; linked archive returned Internal Error. The Age2005 original Moree-bouncer article returned non-retryable reader error; not accessed through a restriction-bypassing mirror. Search click invalid-arguments errors were recovered by reading public Wikipedia source-link HTML; local missing bs4 recovered using Python standard-library HTMLParser. Further volunteer terms, venue chronology and unnamed accountant employers remain unresolved.",
     "Fourth follow-up4October2026 materially identifies Conagra as the previously unnamed American multinational: Joyce's first-person27November2024 House speech says he was a cost accountant there. The chartered accountancy firm, exact transition, payroll entity, hours and leave remain unresolved. Exact Wicklow and St Vincent de Paul searches repeated the two-year and sixteen-year secondary leads without primary term evidence; those durations were not adopted.",
-    "Follow-up2026-10-04: Targeted Conagra and chartered-firm identity queries surfaced a27June2013 Senate speech at https://www.openaustralia.org.au/senate/?gid=2013-06-27.149.1 corroborating the already identified multinational, without employee dates or payroll entity. Archived2013 council speaker biographies repeat the unnamed firm/three-year sequence, not appointment evidence.9September2026 House speech https://www.openaustralia.org.au/debates/?id=2026-09-09.132.1 distinguishes Joyce’s Reserve service from his grandfather’s full-time military service; relative hours are not attributed to Joyce. Current staff job advertisements concern employees of his office, not his own accountant hours. No materially new employment fact; defer generic biographies and seek actual historical firm or bank personnel records."
+    "Follow-up2026-10-04: Targeted Conagra and chartered-firm identity queries surfaced a27June2013 Senate speech at https://www.openaustralia.org.au/senate/?gid=2013-06-27.149.1 corroborating the already identified multinational, without employee dates or payroll entity. Archived2013 council speaker biographies repeat the unnamed firm/three-year sequence, not appointment evidence.9September2026 House speech https://www.openaustralia.org.au/debates/?id=2026-09-09.132.1 distinguishes Joyce’s Reserve service from his grandfather’s full-time military service; relative hours are not attributed to Joyce. Current staff job advertisements concern employees of his office, not his own accountant hours. No materially new employment fact; defer generic biographies and seek actual historical firm or bank personnel records.",
+    "Follow-up2026-10-05: Institutional2013 ALGA speaker biography identifies omitted Queensland Nationals Acting Treasurer office; added separately with unknown term/pay/hours and no practice-date substitution. Exact Conagra/chartered-firm and QIDC queries returned existing cost-accountant/unnamed firm narrative only. Indexed2012 original newspaper Conagra story corroborates known employer but not appointment/payroll; no paywall bypass or co-worker facts assigned. Wicklow part-time search found no hours. Corporate merger context remains distinct from personal payroll transition; next priority actual firm identification, bank personnel/control instrument and party office register."
   ],
   "open_questions": [
     "Which farms employed Joyce from 1989 to 1991, and what were the dates, hours and breaks, including any nightclub work?",
@@ -466,6 +496,7 @@
     "What were precise QIDC/Suncorp payroll and control transitions, working hours and leave within official 1994–1998 banking range, and how does the five-year narrative reconcile?",
     "When did Michael take over practice management, when did Barnaby cease personal client work, and what hours/leave applied before and after Senate commencement? ABR dates alone cannot answer.",
     "What were Wicklow Hotel employment dates, legal payroll entity and hours; was work during or after university, and were there separate Moree or other venues?",
-    "Which St Vincent de Paul conference, duties, dates and hours applied, and was this entirely voluntary? Original2006 interview remains unavailable; no sixteen-year interval inferred."
+    "Which St Vincent de Paul conference, duties, dates and hours applied, and was this entirely voluntary? Original2006 interview remains unavailable; no sixteen-year interval inferred.",
+    "What were Queensland Nationals Acting Treasurer appointment/cessation, remuneration and hours, and what exact overlap applied to the accountancy practice?"
   ]
 }
