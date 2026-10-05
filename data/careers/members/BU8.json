@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/BU8",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-04",
+  "last_reviewed": "2026-10-05",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -16,7 +16,7 @@
   "career_spells": [
     {
       "employer": "Coleman & Grieg",
-      "role": "Lawyer",
+      "role": "University-holiday law-firm worker; later legal work",
       "start_date": null,
       "end_date": null,
       "date_precision": "unknown",
@@ -27,9 +27,10 @@
       "government_control_at_time": "private",
       "counting_status": "insufficient_evidence",
       "source_ids": [
-        "src-5"
+        "src-5",
+        "src-holiday-legal-work"
       ],
-      "evidence_note": "His 2012 speech identifies brief practice in the mid-1990s. Exact years, hours and overlap with study or other firms unknown.",
+      "evidence_note": "His 2012 speech identifies brief practice in the mid-1990s. Exact years, hours and overlap with study or other firms unknown. Own18April2012speech explicitly says began work in university holidays at the Parramatta firm in early1990s, earlier than the mid1990slegal-practice summary. Earlier duties, qualified-lawyer status and pay/hours not supplied; no precise year or continuous spell inferred.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "BU8-01"
     },
@@ -377,12 +378,12 @@
       "category": "unknown",
       "headline_sector": "unknown",
       "government_control_at_time": "unknown",
-      "counting_status": "unclear",
+      "counting_status": "insufficient_evidence",
       "source_ids": [
         "src-13"
       ],
       "evidence_note": "Indexed CV lists May2008visit. Paid employment, hours and institutional control unverified; overlaps ANU umbrella, not additional counted time.",
-      "counting_note": "Visiting affiliation: remuneration, employment status and control unverified; not included in employment totals.",
+      "counting_note": "Visiting affiliation: remuneration, employment status and control unverified; not included in employment totals. Approved record-format status used; underlying uncertainty unchanged.",
       "spell_id": "BU8-18"
     }
   ],
@@ -526,6 +527,16 @@
       "locator": "Printedpp20–21; public indexed interview paragraphs on ANU resignation and eighteen-month Cook role",
       "retrieved": "2026-10-04",
       "note": "Initial PDF open retrieved front matter; targeted public index supplied career interview text. Follow-up open and screenshot returned403Forbidden, so no visual verification or complete PDF reading claimed. Interview reports eighteen months with Cook and resignation from ANU earlier in2010; no exact departure date or work hours."
+    },
+    {
+      "source_id": "src-holiday-legal-work",
+      "url": "https://www.andrewleigh.com/2484",
+      "publisher": "Andrew Leigh MP",
+      "title": "Five Science Breakthroughs That Could Change Politics,18April2012",
+      "source_type": "official_biography",
+      "locator": "Machine Intelligence subsection, university-holiday law-firm paragraph; retrievedline53",
+      "retrieved": "2026-10-05",
+      "note": "Direct first-person speech dates beginning work in university holidays at Parramatta Coleman and Greig to early1990s. Not exact years, qualified-lawyer status, pay/hours or full-time continuity."
     }
   ],
   "research_notes": [
@@ -539,6 +550,7 @@
     "Minter status subspells are portions of preserved umbrella, not additive jobs. Same-year full-time component lacks months/days and overlaps Kirby chronology; no duration totals justified. IFN visit is documented affiliation, not presumed paid employment.",
     "Remaining leads: retrieve complete CV or primary appointment records; reconcile court/Cook/Clifford chronology, ANU promotion/exit/leave/control, NYU/Melbourne visit dates, doctoral funding versus paid work, PPI salary and author contracts. Search results giving lecture dates are not visiting-employment dates.",
     "Follow-up 2026-10-04: repeated exact-phrase searches against both published CV locations for Coleman & Grieg, Clifford Chance, New York University and University of Melbourne. Results did not expose additional CV text or primary appointment records; the live personal biography still says only that he was an ANU professor before election. The existing index-only chronology is retained without inventing visit dates, paid status, ANU workload or departure boundaries.",
-    "Follow-up2026-10-04: Located contemporaneous employer magazine Margin, Summer2010 pp20–21. Interview reports eighteen months in Cook’s office and ANU resignation earlier that year to stand for parliament; added the duration and separation evidence without back-calculating dates or assuming full-time work. Initial PDF front matter accessible, subsequent text-open/screenshot403; targeted public search index supplied attributable career paragraphs, limitation explicit. A separate ANU quarterly PDF timed out400. Promotion, visiting posts and actual ANU workload/leave remain unresolved. Public index results about other professors and generic CV advice rejected."
+    "Follow-up2026-10-04: Located contemporaneous employer magazine Margin, Summer2010 pp20–21. Interview reports eighteen months in Cook’s office and ANU resignation earlier that year to stand for parliament; added the duration and separation evidence without back-calculating dates or assuming full-time work. Initial PDF front matter accessible, subsequent text-open/screenshot403; targeted public search index supplied attributable career paragraphs, limitation explicit. A separate ANU quarterly PDF timed out400. Promotion, visiting posts and actual ANU workload/leave remain unresolved. Public index results about other professors and generic CV advice rejected.",
+    "Follow-up2026-10-05: Recovered directly readable18April2012own speech identifying start of university-holiday work at Coleman and Greig,Parramatta,in early1990s. Refined existing spell role to include earlier student work without asserting lawyer qualification throughout or inventing numeric year/hours; material earlier career evidence. Current CV alternate again400Timeout fetching; narrow NYU/Melbourne/promotion queries exposed no new attributable appointment text, other scholars/father/citation results not adopted. Changed existing IFN counting_status unclear to approved insufficient_evidence under career-record-format, preserving all dates/payer/control uncertainty. ANU/Treasury overlaps, workload/control and firm transitions still prevent totals."
   ]
 }
