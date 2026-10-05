@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/I0N",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-04",
+  "last_reviewed": "2026-10-05",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -163,9 +163,9 @@
     {
       "employer": "Shop, Distributive and Allied Employees’ Association",
       "role": "Federal/national president",
-      "start_date": null,
-      "end_date": null,
-      "date_precision": "unknown",
+      "start_date": "1995",
+      "end_date": "2008-11-20",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "union",
@@ -174,9 +174,11 @@
       "counting_status": "excluded",
       "source_ids": [
         "src-3",
-        "src-9"
+        "src-9",
+        "src-13",
+        "src-14"
       ],
-      "evidence_note": "First speech and June 2007 trustee filing confirm national role. Dates and separate remuneration unresolved; overlaps branch employment.",
+      "evidence_note": "Primary union accounts give presidency commencement1995 and NSW Deductions2008–09 operating table specifies cessation20November2008, after Senate entry. National2006–07 note22 records $5,000 salary/fees in each of2006 and2007. National-office remuneration is separate from unknown branch salary; amounts do not establish full-time hours or any private/public counted years.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "I0N-08"
     },
@@ -185,7 +187,7 @@
       "role": "Director",
       "start_date": null,
       "end_date": "2008-07-01",
-      "date_precision": "mixed",
+      "date_precision": "day",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "unknown",
@@ -290,7 +292,7 @@
       "role": "Senator for South Australia; ministerial/parliamentary offices",
       "start_date": "2016-07-01",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "day",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -319,11 +321,33 @@
       "counting_status": "excluded",
       "source_ids": [
         "src-2",
-        "src-3"
+        "src-3",
+        "src-15",
+        "src-16"
       ],
-      "evidence_note": "Law degree and later study described; enrolment years, study load and union leave unknown.",
+      "evidence_note": "Law degree chronology remains unknown. Own2011speech explicitly identifies Harvard TUCP study with SteveHutchins in1984; own2017speech corroborates Kennedy School/Boston winter1984. Actual course duration and paid/unpaid union leave remain unknown; do not convert1984into a full year of study or employment.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "I0N-15"
+    },
+    {
+      "spell_id": "I0N-16",
+      "employer": "Shop, Distributive and Allied Employees’ Association",
+      "role": "National executive member",
+      "start_date": "1994",
+      "end_date": "2008",
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "union",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-13",
+        "src-14"
+      ],
+      "evidence_note": "Union national operating report gives1994–2008. Distinct from presidency commencing1995; exact executive exit date and separate remuneration unresolved. Overlaps branch employment and national presidency, not another additive job.",
+      "counting_note": "Excluded union governance; no headline public/private years."
     }
   ],
   "sources": [
@@ -452,10 +476,40 @@
       "publisher": "Shop, Distributive and Allied Employees’ Association / Fair Work Commission",
       "title": "SDA national financial report2008–2009",
       "source_type": "employer",
-      "locator": "PDF page4, section5 Superannuation Trustees",
-      "note": "Reports Geoff Williams replaced Don Farrell as a REST director effective24July2008. REST's own report separately gives Farrell's resignation as1July2008; the gap is preserved rather than converted into additional service.",
-      "retrieved": "2026-10-03",
+      "locator": "National operating report printed pp3–4 / PDF pp5–6; NSW Deductions operating report printed p4 / PDF p35",
+      "note": "National executive1994–2008 and presidency1995–2008; NSW Deductions table specifies presidency ended20November2008. REST replacement24July2008 retained, distinct from resignation1July2008.",
+      "retrieved": "2026-10-05",
       "source_id": "src-13"
+    },
+    {
+      "source_id": "src-14",
+      "url": "https://regorgs.fwc.gov.au/sites/default/files/migration/406/006n-fr2007-375.pdf",
+      "publisher": "SDA / Australian Industrial Registry",
+      "title": "SDA national financial report2006–2007",
+      "source_type": "employer",
+      "locator": "Printed pp3–4 and23 / PDF pp5–6 and25, operating report and related-party note22",
+      "note": "Executive membership since1994, national president elected1995; note22 reports Farrell national salary/fees $5,000 in each of2006 and2007, separate from unknown branch salary/hours.",
+      "retrieved": "2026-10-05"
+    },
+    {
+      "source_id": "src-15",
+      "url": "https://www.openaustralia.org.au/senate/?gid=2011-06-22.180.1",
+      "publisher": "Australian Senate, reproduced by OpenAustralia",
+      "title": "Valedictories — Don Farrell,22June2011",
+      "source_type": "government_record",
+      "locator": "7:05pm opening, 1984Harvard TUCP course with SteveHutchins",
+      "note": "First-person recollection expressly gives1984 as year of joint Harvard course; actual course dates/duration and union leave not given.",
+      "retrieved": "2026-10-05"
+    },
+    {
+      "source_id": "src-16",
+      "url": "https://www.openaustralia.org.au/senate/?gid=2017-11-30.132.1",
+      "publisher": "Australian Senate, reproduced by OpenAustralia",
+      "title": "Steve Hutchins condolence — Don Farrell,30November2017",
+      "source_type": "government_record",
+      "locator": "4:22pm Boston winter1984 and Kennedy School paragraphs",
+      "note": "Corroborates studying together at John F Kennedy School of Government in1984. Does not support substituting a Harvard Business School AMP or infer paid/unpaid leave.",
+      "retrieved": "2026-10-05"
     }
   ],
   "research_notes": [
@@ -467,6 +521,7 @@
     "Follow-up2026-10-02 adds1982Manila ACTU training assignment within SDA period from reliable secondary biography. Primary ACTU course/secondment records remain a specific lead. No additional duration or employer inferred.",
     "Targeted early mail/council/waiter employers, REST appointment, SDA national presidency and vineyard full-time searches found no usable new endpoints or hours; US historian, theatre and fuel-industry namesakes excluded. FWC2005annual-return web reader was inaccessible; this is a source gap, not a job-wide failure. Retain all prior gaps and null totals. Ordinary PDF download also returned TimeoutError: The read operation timed out.",
     "Follow-up2026-10-03: SDA national financial report says replacement REST director GeoffWilliams became effective24July2008, while REST's own report gives Farrell resignation1July2008. These can describe vacancy and replacement rather than conflicting service endpoints; preserve the primary REST resignation date and record the23-day board-seat transition gap. No appointment-start, personal pay or substantive-hours evidence found.",
-    "Follow-up2026-10-04: REST director-appointment and uncle-operated kiosk searches again located the existing resignation report and early-work account, but no appointment start, legal kiosk entity or personal hours. A 2024 AKBC conference speaker biography describes Harvard Business School Advanced Management Program, whereas his own 3September2008 first speech identifies Kennedy School of Government study. Preserve the first-person Kennedy School evidence; do not substitute the conference description or infer a second course, dates or union leave without corroboration. Searches also returned unrelated Harvard academics and another speaker’s UN work; those are not Farrell employment. Early postal/council/waiter identities, union breaks, trustee commencement and vineyard work allocation remain unresolved."
+    "Follow-up2026-10-04: REST director-appointment and uncle-operated kiosk searches again located the existing resignation report and early-work account, but no appointment start, legal kiosk entity or personal hours. A 2024 AKBC conference speaker biography describes Harvard Business School Advanced Management Program, whereas his own 3September2008 first speech identifies Kennedy School of Government study. Preserve the first-person Kennedy School evidence; do not substitute the conference description or infer a second course, dates or union leave without corroboration. Searches also returned unrelated Harvard academics and another speaker’s UN work; those are not Farrell employment. Early postal/council/waiter identities, union breaks, trustee commencement and vineyard work allocation remain unresolved.",
+    "Follow-up2026-10-05: expanded primary SDA2007/2009accounts resolve national-executive1994–2008 and national-presidency1995–20November2008; presidency continued after Senate entry. Personal national-office salary/fees$5,000 each2006/2007 established without full-time inference or attribution to branch salary. Own2011/2017Hansard supplies1984HarvardTUCP/Kennedy School study, addressing prior course-name discrepancy; course bounds and union leave still unknown. Early postal/council/waiter employer and REST-start searches returned occupation lists/namesakes, no new endpoints; Manila ACTU source still lacks primary secondment/payroll. Vineyard personal hours remain unresolved, totals null."
   ]
 }
