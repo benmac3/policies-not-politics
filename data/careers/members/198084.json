@@ -6,7 +6,7 @@
   "snapshot_party": "Liberal Party of Australia",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/198084",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-04",
+  "last_reviewed": "2026-10-05",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -55,9 +55,10 @@
         "src-3",
         "src-5",
         "src-6",
-        "src-12"
+        "src-12",
+        "src-13"
       ],
-      "evidence_note": "Official stated range retained. First speech2December2013 describes25years partnership, suggesting earlier involvement than1990 but insufficient to substitute a precise start. ABR confirms corresponding partnership/trading name at2000 only. A public2019 first-person electorate listing says he and Allan continued to operate and expand the family farm, conflicting with a clean2013 operational exit; the statement does not specify Rick's personal duties, hours or pay after entering parliament. Self-employment does not prove full-time.",
+      "evidence_note": "Official stated range retained. First speech2December2013 describes25years partnership, suggesting earlier involvement than1990 but insufficient to substitute a precise start. ABR confirms corresponding partnership/trading name at2000 only. A public2019 first-person electorate listing says he and Allan continued to operate and expand the family farm, conflicting with a clean2013 operational exit; the statement does not specify Rick's personal duties, hours or pay after entering parliament. Self-employment does not prove full-time. Primary ABR distinguishes old partnership43 577263863 from Indinup trading partnership98 090679527, which names R.J/T.M Wilson alongside Panther Enterprises and family until30June2017 registered-name change. This is legal-entity context, not proof of employment exit or continuity after2013.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "198084-02"
     },
@@ -209,7 +210,7 @@
       "role": "Member for OConnor",
       "start_date": "2013-09-07",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "day",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -261,6 +262,25 @@
       "evidence_note": "Official parliamentary biography public index lists both offices. No dates or pay/hours evidence; not a presumed continuous salaried role.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "198084-12"
+    },
+    {
+      "spell_id": "198084-13",
+      "employer": "Archie Wilson Nominees Pty Ltd; Panther Enterprises Pty Ltd",
+      "role": "Historical declared private-company directorships / pastoral-property trustees",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "private_enterprise",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-14"
+      ],
+      "evidence_note": "Historical44P/45P transcription identifies directorships and pastoral property held in trustee capacity. Exact appointment/cessation dates and operative pay/hours unavailable. Panther may connect to farm partnership in src-13; no second additive farm job inferred.",
+      "counting_note": "Governance excluded; no separate full-time employment duration."
     }
   ],
   "sources": [
@@ -315,13 +335,13 @@
       "source_id": "src-5"
     },
     {
-      "url": "https://abr.business.gov.au/ABN/View?abn=43577263863",
+      "url": "https://abr.business.gov.au/AbnHistory/View?id=43577263863",
       "publisher": "Australian Business Register",
       "title": "A.T Wilson & M.C Wilson & R.J Wilson & T.I Wilson",
       "source_type": "government_record",
-      "locator": "Public indexed entity/trading-name entry",
-      "note": "Indinup Pastoral Co trading-name entry15September2000. Consistent with family partnership; registration does not date employment. Historical-page open Internal Error.",
-      "retrieved": "2026-10-01",
+      "locator": "Entity,ABN/GST and trading-name history",
+      "note": "Full primary historical page recovered by ordinary HTTP200 after web Internal Error. Family partnership ABN active17April2000–3June2025; GST1July2000–31December2005. Early trading name RICHARD J WILSON PTNR INDINUP PASTORAL CO then Indinup. Registry dates are entity events, not employment.",
+      "retrieved": "2026-10-05",
       "source_id": "src-6"
     },
     {
@@ -383,6 +403,26 @@
       "note": "States that Rick and Allan continued to operate and expand the family farm. It does not identify Rick's post-entry duties, hours, remuneration or legal entity and is retained as conflicting evidence against a simple2013 operational cutoff.",
       "retrieved": "2026-10-03",
       "source_id": "src-12"
+    },
+    {
+      "source_id": "src-13",
+      "url": "https://abr.business.gov.au/AbnHistory/View?id=98090679527",
+      "publisher": "Australian Business Register",
+      "title": "Historical details ABN98 090 679 527,Indinup Pastoral Co",
+      "source_type": "government_record",
+      "locator": "Entity name history31October2004–30June2017 and later; business/trading names",
+      "retrieved": "2026-10-05",
+      "note": "Distinct family partnership includes Panther Enterprises Pty Ltd and A.T/M.C/R.J/T.I/T.M Wilson from31October2004 until name change30June2017 omitted R.J/T.M. Registry updates do not establish personal work cessation or exact partnership exit."
+    },
+    {
+      "source_id": "src-14",
+      "url": "https://shorted.com.au/politicians/rick-wilson",
+      "publisher": "Shorted",
+      "title": "Rick Wilson historical declared interests transcription",
+      "source_type": "other",
+      "locator": "Directorship/real-estate tables,44P/45P-labelled entries and original source links",
+      "retrieved": "2026-10-05",
+      "note": "Secondary source supplies previously omitted Archie Wilson Nominees and Panther Enterprises directorships; personal dates/work/pay unknown. Original linked44P/45P PDFs returned restricted URL; APH search blocked robots, not retried."
     }
   ],
   "research_notes": [
@@ -394,6 +434,7 @@
     "FarmWeekly detailed profile https://www.farmweekly.com.au/story/7812275/political-career-inspired-by-life-on-the-land/ returned (500) redirected to tollbit.farmweekly.com.au, non-retryable; not retried. ABR historical partnership view again unavailable. Other public parliamentary material remained usable.",
     "Targeted Muresk graduation/attendance, early farm and working-time searches did not recover exact years. US/Canadian namesakes and staff job vacancies discarded. Next leads: Muresk original graduation/attendance records, partnership and farm pay records, historical pre-study dates,2013operating exit versus retained financial interests, association role remuneration.",
     "Follow-up 2026-10-03: located a public2019 first-person electorate listing stating that Rick and Allan continued to operate and expand the family farm. This conflicts with treating the official1990–2013 self-employed range as a complete operational cutoff, but does not establish Rick's personal post-entry hours, pay or continuity; retained financial and possible operative involvement remain unresolved and are not added as full-time years.",
-    "Follow-up2026-10-04: Official parliamentary public index resolves earlier secondary leads for Katanning Branch presidency and OConnor Division treasury/presidency, added as excluded party offices without fabricated dates or remuneration. Muresk attendance/graduation and personal farm-hours/operating-exit searches yielded no new reliable dates. Foreign political, NASCAR, school and property namesakes and staff vacancies rejected. Farm ownership and continued2019operation do not establish personal full-time work."
+    "Follow-up2026-10-04: Official parliamentary public index resolves earlier secondary leads for Katanning Branch presidency and OConnor Division treasury/presidency, added as excluded party offices without fabricated dates or remuneration. Muresk attendance/graduation and personal farm-hours/operating-exit searches yielded no new reliable dates. Foreign political, NASCAR, school and property namesakes and staff vacancies rejected. Farm ownership and continued2019operation do not establish personal full-time work.",
+    "Follow-up2026-10-05: Recovered complete old Indinup ABR history by ordinaryHTTP200 and identified distinct later partnership98 090679527, naming R.J/T.M Wilson2004–2017 then registered-name change. Entity dates not employment boundaries. Added historical Archie Wilson Nominees/Panther Enterprises governance from explicitly secondary44P/45P transcription with originalPDF gaps; no operative full-time job invented. Muresk dates and personal farm hours/leave still unresolved. Next original governance declarations, farm contracts/payroll and alumni graduation register; exhausted generic/full-time foreign namesakes excluded."
   ]
 }
