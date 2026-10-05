@@ -6,12 +6,12 @@
   "snapshot_party": "Liberal Party of Australia",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/201906",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-04",
+  "last_reviewed": "2026-10-05",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
     "calculation_status": "not_calculable",
-    "note": "Additional primary club evidence places Young as Maroochydore principal byJune2016, conflicting with official2018 franchisee start. Public professional profile gives Good Guys managing director August2001–January2007 and separate Drummond director entries fromMay2007 at Maroochydore andJune2016 at West Gosford. Governance, ownership and operational work require separation; hours and gaps remain unknown, totals null."
+    "note": "Additional primary club evidence places Young as Maroochydore principal byJune2016, conflicting with official2018 franchisee start. Public professional profile gives Good Guys managing director August2001–January2007 and separate Drummond director entries fromMay2007 at Maroochydore andJune2016 at West Gosford. Governance, ownership and operational work require separation; hours and gaps remain unknown, totals null. Newly recovered parliamentary disclosures name two associated retail companies and report deletion of their directorships in a6February2024 notification, contradicting any assumption of current continuous directorship. Store allocation and actual cessation remain unresolved."
   },
   "career_spells": [
     {
@@ -338,7 +338,7 @@
       "role": "Member of the House of Representatives for Longman",
       "start_date": "2019-05-18",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "day",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -357,7 +357,7 @@
       "role": "Director / ownership interest distinct from operational franchise work",
       "start_date": "2007-05",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "month",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "private_enterprise",
@@ -369,9 +369,11 @@
         "src-7",
         "src-8",
         "src-9",
-        "src-11"
+        "src-11",
+        "src-register46-oct5",
+        "src-register47-oct5"
       ],
-      "evidence_note": "Young's public professional profile gives a Maroochydore Drummond Golf director entry fromMay2007 to present when retrieved3October2026. This conflicts with the official2018 franchisee start, while a club record identifies him as a Maroochydore principal byJune2016 and his first speech confirms retained interests inJuly2019. A profile's 'present' label, governance and ownership do not prove continuous operational work or full-time employment; legal entity, workload and any cessation remain unresolved. An undated Achievers Group testimonial corroborates Lawnton/Maroochydore ownership; its nearby2012 date belongs to another contributor and is not a Young employment date.",
+      "evidence_note": "Young's public professional profile gives a Maroochydore Drummond Golf director entry fromMay2007 to present when retrieved3October2026. This conflicts with the official2018 franchisee start, while a club record identifies him as a Maroochydore principal byJune2016 and his first speech confirms retained interests inJuly2019. A profile's 'present' label, governance and ownership do not prove continuous operational work or full-time employment; legal entity, workload and any cessation remain unresolved. An undated Achievers Group testimonial corroborates Lawnton/Maroochydore ownership; its nearby2012 date belongs to another contributor and is not a Young employment date. Primary register names associated retail companies and a6February2024 alteration removing their directorships. These do not securely allocate each company to a store or determine exact cessation; current profile present label is not accepted as proof governance continues. End remains unresolved rather than assigning notification day.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "201906-17"
     },
@@ -380,7 +382,7 @@
       "role": "Director / ownership interest distinct from operational franchise work",
       "start_date": "2016-06",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "month",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "private_enterprise",
@@ -389,11 +391,53 @@
       "counting_status": "insufficient_evidence",
       "source_ids": [
         "src-4",
-        "src-7"
+        "src-7",
+        "src-register46-oct5",
+        "src-register47-oct5"
       ],
-      "evidence_note": "Young's public professional profile gives a West Gosford Drummond Golf director entry fromJune2016 to present when retrieved3October2026. The official biography separately gives operational franchisee service in Gosford2016–2019, and the first speech confirms retained franchise interests inJuly2019. The current profile label and ownership/governance title do not establish continuous paid operational work, hours, leave or an employing entity.",
+      "evidence_note": "Young's public professional profile gives a West Gosford Drummond Golf director entry fromJune2016 to present when retrieved3October2026. The official biography separately gives operational franchisee service in Gosford2016–2019, and the first speech confirms retained franchise interests inJuly2019. The current profile label and ownership/governance title do not establish continuous paid operational work, hours, leave or an employing entity. Primary register names associated retail companies and a6February2024 alteration removing their directorships. These do not securely allocate each company to a store or determine exact cessation; current profile present label is not accepted as proof governance continues. End remains unresolved rather than assigning notification day.",
       "counting_note": "Governance or ownership alone is not counted as full-time employment; no headline years calculated.",
       "spell_id": "201906-18"
+    },
+    {
+      "spell_id": "201906-19",
+      "employer": "DG Lawnton Pty Ltd",
+      "role": "Declared company director and shareholder; retail governance",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "private_enterprise",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-register46-oct5",
+        "src-register47-oct5"
+      ],
+      "evidence_note": "Named in2019 and2022 declarations. Alteration signed6February2024 deletes the directorship. Exact appointment/cessation, store allocation and any operational paid role remain unresolved; governance notification date is not employment boundary.",
+      "counting_note": "Governance/ownership without established substantive employment excluded from headline; overlaps existing Drummond franchise spells, no additive years."
+    },
+    {
+      "spell_id": "201906-20",
+      "employer": "DG Lawnton Gosford Pty Ltd",
+      "role": "Declared company director and shareholder; retail governance",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "private_enterprise",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-register46-oct5",
+        "src-register47-oct5"
+      ],
+      "evidence_note": "Named in2019 and2022 declarations. Alteration signed6February2024 deletes the directorship. Exact appointment/cessation, store allocation and any operational paid role remain unresolved; governance notification date is not employment boundary.",
+      "counting_note": "Governance/ownership without established substantive employment excluded from headline; overlaps existing Drummond franchise spells, no additive years."
     }
   ],
   "sources": [
@@ -506,6 +550,26 @@
       "source_type": "first_person",
       "locator": "Business Workshop Testimonials; Terry Young owner attribution, retrieved lines263–265",
       "note": "Undated testimonial identifies Young as owner of Drummond Golf Lawnton and Maroochydore and reports helping organise a business conference. The adjacent June18,2012 date belongs to Sam Walter, not Young; no date inferred for Young or franchise ownership."
+    },
+    {
+      "source_id": "src-register46-oct5",
+      "url": "https://www.aph.gov.au/-/media/03_Senators_and_Members/32_Members/Register/46p/SZ/Young_46P.pdf",
+      "publisher": "Parliament of Australia / Terry Young",
+      "title": "46th Parliament statement of registrable interests",
+      "retrieved": "2026-10-05",
+      "source_type": "government_record",
+      "locator": "Pages2–4, shareholdings/trusts/directorships/income; page6 signature22July2019",
+      "note": "Names DG Lawnton P/L and DG Lawnton Gosford as retail directorships, plus associated golf-equipment unit trusts. Self income lists dividends, distributions and rent; spouse wage is not attributed to member. Ownership does not establish operational work."
+    },
+    {
+      "source_id": "src-register47-oct5",
+      "url": "https://www.aph.gov.au/-/media/03_Senators_and_Members/32_Members/Register/47P/SZ/Young_47P.pdf",
+      "publisher": "Parliament of Australia / Terry Young",
+      "title": "47th Parliament statement of registrable interests",
+      "retrieved": "2026-10-05",
+      "source_type": "government_record",
+      "locator": "Pages2–4, shareholdings/trusts/directorships/income; page10 alteration signed6February2024",
+      "note": "Names DG Lawnton P/L and DG Lawnton Gosford as retail directorships, plus associated golf-equipment unit trusts. 6February2024 notice deletes both directorships; notification is not necessarily cessation day and does not establish sale or payroll end."
     }
   ],
   "research_notes": [
@@ -519,6 +583,7 @@
     "Priority follow-up: Good Guys partnership sale in 2006 versus director end January 2007; 2016 Maroochydore principal versus official 2018 start; determine May 2007 and June 2016 director entities, acquisitions and working hours. Current ABN 43 648 661 330 is not assumed to be the historical employer.",
     "Searches for2013–2015work,Philips1995transition and explicitfull-timestatus found no sufficiently attributable evidence. NamesakeUSrealtor,policeofficer andacademic results excluded. PublicLinkedIn experience snippets became accessible without authentication on3October2026; only visible dates/titles used. TheOrg marks its recordUnverified and is not relied on for new facts.",
     "Follow-up2026-10-03: publicprofessionalprofile gives GoodGuysManagingDirector August2001–January2007, resolving the profile's month endpoint while preserving conflict with official2006 partnership end. It also separately identifies Drummond director entries fromMay2007 atMaroochydore andJune2016 atWestGosford. These governance/ownership entries are separated from official operational franchise spells; 'present' does not prove full-time work, and no additive years calculated.",
-    "Follow-up2026-10-04: Searched unexplained2013–15work, Philips1995–96transition and full-time evidence with both search engines. Undated supplier testimonial corroborates already-recorded ownership but does not date it: June18,2012 is Sam Walter’s testimonial. Namesake musician, US land-trust connection, Victorian ABNs and harness trainer not attributed. Official chronology and primary first speech repeat existing facts. No new employer, hours or date resolution; retain gaps and prioritise entity/operational role records over exhausted general biography queries."
+    "Follow-up2026-10-04: Searched unexplained2013–15work, Philips1995–96transition and full-time evidence with both search engines. Undated supplier testimonial corroborates already-recorded ownership but does not date it: June18,2012 is Sam Walter’s testimonial. Namesake musician, US land-trust connection, Victorian ABNs and harness trainer not attributed. Official chronology and primary first speech repeat existing facts. No new employer, hours or date resolution; retain gaps and prioritise entity/operational role records over exhausted general biography queries.",
+    "Follow-up2026-10-05: recovered primary46th/47th interests PDFs; named DG Lawnton and DG Lawnton Gosford company governance and associated retail trusts, and recorded deletion notice signed6February2024. Split named directorships from operational franchise jobs; notice date is not actual cessation or sale date. Added conflict to public profile present labels. Secondary4August2026 PoliticalGadgets names JustSpasSunshineCoast directorship; original48th PDF returned InternalError then robots.txt block, so retain as unverified lead, not adopted paid work. Exact company/store allocation, acquisition/sale, 2013–15work, hours and campaign leave remain unresolved. No full-time years calculated."
   ]
 }
