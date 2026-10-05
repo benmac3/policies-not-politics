@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/159771",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-04",
+  "last_reviewed": "2026-10-05",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -20,7 +20,7 @@
       "role": "BA (Honours), LLB and LLM student",
       "start_date": "1990",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "study",
@@ -123,9 +123,10 @@
         "src-member",
         "src-gt",
         "src-law-society",
-        "src-fto-ar"
+        "src-fto-ar",
+        "src-accc-2003-oct5"
       ],
-      "evidence_note": "Official chronology supports 2000–2010. The FTO 2008–09 report contemporaneously identifies corporate regulatory and commercial communications practice at Gilbert + Tobin alongside governance appointments. Removed election day as unsupported employment cessation. Exact appointment, promotion and cessation dates, ordinary hours, leave and campaign overlap remain unresolved.",
+      "evidence_note": "Official chronology supports 2000–2010. The FTO 2008–09 report contemporaneously identifies corporate regulatory and commercial communications practice at Gilbert + Tobin alongside governance appointments. Removed election day as unsupported employment cessation. Exact appointment, promotion and cessation dates, ordinary hours, leave and campaign overlap remain unresolved. A2September2003 Gilbert+Tobin fax in the ACCC public register identifies Rowland as the sender on an Optus regulatory matter, providing a contemporaneous observation of substantive client work. It does not establish a promotion date, weekly hours or a separate Optus employment contract.",
       "counting_note": "Private employment is well supported, but a senior title and year-only range do not prove full-time status or an exact interval."
     },
     {
@@ -191,9 +192,10 @@
         "src-ag-bio",
         "src-acma",
         "src-communities-ar",
-        "src-fto-ar"
+        "src-fto-ar",
+        "src-parklands2008-oct5"
       ],
-      "evidence_note": "Official biographies give 2007 commencement year. The Trust’s 2009–10 financial statements identify retirement on 7 July 2010. FTO contemporaneous biography corroborates the overlapping non-executive appointment and legal practice. Remuneration bands are pooled across members and cannot establish her precise payment or workload; appointment day remains unresolved.",
+      "evidence_note": "Official biographies give 2007 commencement year. The Trust’s 2009–10 financial statements identify retirement on 7 July 2010. FTO contemporaneous biography corroborates the overlapping non-executive appointment and legal practice. Remuneration bands are pooled across members and cannot establish her precise payment or workload; appointment day remains unresolved. The contemporaneous 2007–2008 financial statements explicitly list her appointment as 1 January 2008, the Trust activity commencement date. This differs from the retrospective official 2007 start year. Preserve that supported year pending clarification of appointment versus operational commencement or predecessor service; do not silently replace it or infer a reappointment. Day-level cessation remains7July2010. The new report pools remuneration and cannot establish her individual payment or hours.",
       "counting_note": "The non-executive public governance role is excluded from full-time employment totals."
     },
     {
@@ -551,6 +553,26 @@
       "locator": "Notable Leaders: The Hon Michelle Rowland MP; NSW Young Labor Secretary 1996",
       "retrieved": "2026-10-04",
       "note": "Party historical leadership list identifies secretary service in 1996. It does not establish exact commencement, cessation, pay or hours. Other displayed current ministerial and presidency labels are outdated and are not used to establish current offices."
+    },
+    {
+      "source_id": "src-parklands2008-oct5",
+      "url": "https://www.parliament.nsw.gov.au/tp/files/55434/dop_ar_2008_financials.pdf",
+      "publisher": "NSW Department of Planning / Western Sydney Parklands Trust",
+      "title": "Department of Planning Annual Report 2007–2008 — Financial Statements",
+      "retrieved": "2026-10-05",
+      "source_type": "government_record",
+      "locator": "Western Sydney Parklands Trust, Note12 Related Party Disclosures, printed201 / PDFpage117(index116), board appointment table",
+      "note": "Original PDF text names Michelle Rowland with date appointed1January2008; reporting-entity note says Trust commenced activities same day. Conflicts with official retrospective2007 start year, which is preserved pending appointment/predecessor evidence. Pooled remuneration bands not assigned to her. Screenshot retrieval returned non-retryable500 redirected artifact-access error; readable original PDF text retained."
+    },
+    {
+      "source_id": "src-accc-2003-oct5",
+      "url": "https://www.accc.gov.au/system/files/public-registers/documents/D03%2B34466.pdf",
+      "publisher": "Australian Competition and Consumer Commission public register / Gilbert + Tobin",
+      "title": "Gilbert + Tobin fax to ACCC regarding Optus internet notification,2September2003",
+      "retrieved": "2026-10-05",
+      "source_type": "government_record",
+      "locator": "PDFpage1(index0), dated fax header From Michelle Rowland and Optus matter description; visually inspected original image",
+      "note": "Contemporaneous firm letterhead confirms active regulatory-client work, not appointment boundary, seniority, ordinary hours or leave. Client Optus is not substituted for law-firm employer."
     }
   ],
   "research_notes": [
@@ -565,6 +587,7 @@
     "Second follow-up2October2026: health-service annual report materially narrows governance appointment and prior federal adviser/NRMA unit, plus LLM chronology; self-reported NSW Labor presidency added separately. Searches of supermarket identity,1996 university dates, electorate officeholder and NRMA full-time evidence did not resolve employer, hours or leave. Same-name medical alumni, beauty-business and US legal profiles excluded. Academic author-biography lead remains for qualification timing; party and board posts do not establish paid full-time service. Exact employment dates and overlaps remain priority gaps.",
     "Third follow-up3October2026 resolves Mark Latham MP as the federal officeholder for the1995–1999 staff interval by combining the official electorate-officer chronology, the contemporaneous health-service reference to advising a federal MP and an AFR author description naming Latham. Exact appointment dates, payroll entity/title, hours, leave and whether the whole interval was electorate-office based remain unresolved. Searches did not identify the Blacktown supermarket or improve private-employment hours; no headline total changed.",
     "Fourth follow-up4October2026 materially adds Rowland's first-person description of nights-and-weekends checkout work while funding high school and university law study. This supports a study-compatible work pattern and cautions against assuming full-time employment across1987–1995, but it does not provide weekly hours, exact dates, continuity, leave or the supermarket identity. Exact NRMA, Latham-office and board searches otherwise repeated official chronology; no headline total changed.",
-    "Follow-up2026-10-04: New primary party historical list resolves secretary service to an observation in1996 without manufacturing tenure boundaries or extending it to senior vice-presidency. Downloaded and text-searched the original NSW DPC2007–08 report: no Rowland match; generic women’s programmes do not establish her Premier’s Council appointment. Targeted admission/promotion and council searches returned existing biographies or namesakes, with no new legal employment hours or dates. Defer exhausted queries until a gazette, personnel record or council list is identified."
+    "Follow-up2026-10-04: New primary party historical list resolves secretary service to an observation in1996 without manufacturing tenure boundaries or extending it to senior vice-presidency. Downloaded and text-searched the original NSW DPC2007–08 report: no Rowland match; generic women’s programmes do not establish her Premier’s Council appointment. Targeted admission/promotion and council searches returned existing biographies or namesakes, with no new legal employment hours or dates. Defer exhausted queries until a gazette, personnel record or council list is identified.",
+    "2026-10-05 follow-up found original2007–08 Parklands financial appointment table explicitly listing1January2008, conflicting with retrospective official2007 start. Added discrepancy and source without silently replacing supported chronology; precise cessation remains7July2010. Visually inspected original2September2003 ACCC-filed G+T fax identifying Rowland on Optus regulatory matter, corroborating substantive legal duties. No private employment hours or leave resolved. S1 date queries returned unrelated2007 pages; no appointment gazette found. NSW PDF screenshot returned500 redirected artifact inaccessible/non-retryable; readable original text retained, not treated as job-wide error."
   ]
 }
