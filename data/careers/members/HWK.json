@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/HWK",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-04",
+  "last_reviewed": "2026-10-05",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -91,9 +91,11 @@
       "government_control_at_time": "public",
       "counting_status": "excluded",
       "source_ids": [
-        "src-4"
+        "src-4",
+        "src-12",
+        "src-17"
       ],
-      "evidence_note": "Government biography confirms membership during major mental health review before federal election. Advisory governance, not proof of substantive salaried public-service employment; fees and endpoints unresolved.",
+      "evidence_note": "Government biography confirms membership during major mental health review before federal election. DPC2006–07 remuneration note lists M Butler as entitled to board remuneration in that reporting year. Personal payment/amount, hours and appointment endpoints remain unknown. Advisory governance is separate from substantive salaried public-service employment.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "HWK-04"
     },
@@ -179,7 +181,7 @@
       "role": "Member for Port Adelaide, then Hindmarsh; ministerial and parliamentary offices",
       "start_date": "2007-11-24",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "day",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -253,6 +255,103 @@
       "evidence_note": "Named for entire reporting period1July2003–30June2004. Actual appointment and departure endpoints unknown; concurrent union governance, no additional employment years. Staff counts and remuneration are aggregated, not personal evidence.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "HWK-12"
+    },
+    {
+      "spell_id": "HWK-13",
+      "employer": "Government of South Australia — Industrial Relations Advisory Committee",
+      "role": "Member; separate documented appointment episode",
+      "start_date": "2000-12-21",
+      "end_date": null,
+      "date_precision": "day",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "public_service",
+      "headline_sector": "excluded",
+      "government_control_at_time": "public",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-13"
+      ],
+      "evidence_note": "Gazetted appointment starts 2000-12-21; scheduled expiry 2002-12-20, actual cessation unknown. Separate appointment episode; gaps between terms are not filled and continuous service is not inferred. Governance, not evidence of substantive full-time public employment.",
+      "counting_note": "Governance/advisory appointment excluded from employment headlines regardless of remuneration; no additive public/private years."
+    },
+    {
+      "spell_id": "HWK-14",
+      "employer": "Government of South Australia — Industrial Relations Advisory Committee",
+      "role": "Member; separate documented appointment episode",
+      "start_date": "2003-08-28",
+      "end_date": null,
+      "date_precision": "day",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "public_service",
+      "headline_sector": "excluded",
+      "government_control_at_time": "public",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-14"
+      ],
+      "evidence_note": "Gazetted appointment starts 2003-08-28; scheduled expiry 2005-08-27, actual cessation unknown. Separate appointment episode; gaps between terms are not filled and continuous service is not inferred. Governance, not evidence of substantive full-time public employment.",
+      "counting_note": "Governance/advisory appointment excluded from employment headlines regardless of remuneration; no additive public/private years."
+    },
+    {
+      "spell_id": "HWK-15",
+      "employer": "Government of South Australia — Industrial Relations Advisory Committee",
+      "role": "Member; separate documented appointment episode",
+      "start_date": "2006-02-16",
+      "end_date": null,
+      "date_precision": "day",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "public_service",
+      "headline_sector": "excluded",
+      "government_control_at_time": "public",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-15",
+        "src-12"
+      ],
+      "evidence_note": "Gazetted appointment starts 2006-02-16; scheduled expiry 2008-02-15, actual cessation unknown. Separate appointment episode; gaps between terms are not filled and continuous service is not inferred. Governance, not evidence of substantive full-time public employment. DPC2006–07 names M Butler among members entitled to remuneration; personal fees/hours not reported.",
+      "counting_note": "Governance/advisory appointment excluded from employment headlines regardless of remuneration; no additive public/private years."
+    },
+    {
+      "spell_id": "HWK-16",
+      "employer": "South Australian Tourism Commission",
+      "role": "Director / statutory board governance",
+      "start_date": "2003-09-20",
+      "end_date": null,
+      "date_precision": "day",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "public_service",
+      "headline_sector": "excluded",
+      "government_control_at_time": "public",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-16",
+        "src-17"
+      ],
+      "evidence_note": "Gazetted appointment starts20September2003 with scheduled expiry30September2005; actual cessation unknown. Statutory government board under1993Act; no evidence of substantive salaried employment, personal fees or full-time hours.",
+      "counting_note": "Governance/advisory appointment excluded from employment headlines regardless of remuneration; no additive public/private years."
+    },
+    {
+      "spell_id": "HWK-17",
+      "employer": "Unidentified gambling and vocational-training bodies",
+      "role": "Board memberships before Parliament; bodies/individual roles unresolved",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-17"
+      ],
+      "evidence_note": "2012conference biography explicitly reports board service in gambling and vocational training before Parliament, without naming organisations or tenure. Do not identify this with GamingCare, a particular training board or employment by those bodies without evidence.",
+      "counting_note": "Governance/advisory appointment excluded from employment headlines regardless of remuneration; no additive public/private years."
     }
   ],
   "sources": [
@@ -365,6 +464,66 @@
       "note": "Says secretary after1997; conflicts with eleven-year secretary recollection and requires original appointment evidence.",
       "retrieved": "2026-10-02",
       "source_id": "src-11"
+    },
+    {
+      "source_id": "src-12",
+      "url": "https://www.dpc.sa.gov.au/resources-and-publications/annual-reports/B17586",
+      "publisher": "Government of South Australia",
+      "title": "Department of the Premier and Cabinet annual report 2006–2007",
+      "source_type": "government_record",
+      "locator": "Note31, printed pp79–81 / PDF pp84–86, remuneration of board and committee members",
+      "note": "Names M Butler among Social Inclusion Board and Industrial Relations Advisory Committee members entitled to remuneration during the reporting year. Personal payment/amount and hours are not identified; aggregate fee bands cannot be allocated to him.",
+      "retrieved": "2026-10-05"
+    },
+    {
+      "source_id": "src-13",
+      "url": "https://governmentgazette.sa.gov.au/2000/December/2000_197.pdf",
+      "publisher": "Government of South Australia",
+      "title": "Government Gazette, 21 December 2000",
+      "source_type": "government_record",
+      "locator": "Printed p3691 / PDF p5; MWPR0047/00CS",
+      "note": "Appoints Mark Butler to Industrial Relations Advisory Committee from21December2000 until20December2002. Scheduled term is not proof of actual departure.",
+      "retrieved": "2026-10-05"
+    },
+    {
+      "source_id": "src-14",
+      "url": "https://www.governmentgazette.sa.gov.au/2003/August/2003_080.pdf",
+      "publisher": "Government of South Australia",
+      "title": "Government Gazette, 28 August 2003",
+      "source_type": "government_record",
+      "locator": "Printed p3354 / PDF p2; MIR-WPS0025/03CS",
+      "note": "Appoints Mark Butler to Industrial Relations Advisory Committee from28August2003 until27August2005; does not establish continuity with earlier or later appointment.",
+      "retrieved": "2026-10-05"
+    },
+    {
+      "source_id": "src-15",
+      "url": "https://www.governmentgazette.sa.gov.au/2006/February/2006_009.pdf",
+      "publisher": "Government of South Australia",
+      "title": "Government Gazette, 16 February 2006",
+      "source_type": "government_record",
+      "locator": "Printed p549 / PDF p3; MIR06/003CSSFW",
+      "note": "Appoints Mark Butler to Industrial Relations Advisory Committee from16February2006 until15February2008 pursuant to Fair Work Act1994. Actual exit unresolved.",
+      "retrieved": "2026-10-05"
+    },
+    {
+      "source_id": "src-16",
+      "url": "https://www.governmentgazette.sa.gov.au/2003/September/2003_083.pdf",
+      "publisher": "Government of South Australia",
+      "title": "Government Gazette, 4 September 2003",
+      "source_type": "government_record",
+      "locator": "Printed p3424 / PDF p2; MTOU14/03CS",
+      "note": "Appoints Mark Butler director of South Australian Tourism Commission from20September2003 until30September2005 pursuant to South Australian Tourism Commission Act1993. No personal pay/hours or actual cessation established.",
+      "retrieved": "2026-10-05"
+    },
+    {
+      "source_id": "src-17",
+      "url": "https://www.culturaldiversity.com.au/files/2012-Conference-program.pdf",
+      "publisher": "Cultural Diversity in Ageing",
+      "title": "Cultural Diversity in Ageing conference program, 7–8 June 2012",
+      "source_type": "employer",
+      "locator": "Printed p8 / PDF p10; keynote biography Mark Butler",
+      "note": "Retrospective speaker biography reports pre-parliament board work in tourism, gambling and vocational training. Unnamed gambling/training entities and appointments remain unidentified; no personal hours or pay evidence.",
+      "retrieved": "2026-10-05"
     }
   ],
   "research_notes": [
@@ -377,6 +536,7 @@
     "ABC secretary-after1997 chronology conflicts with eleven-year recollection; seek appointment/election return before splitting1992–2007. Student paralegal dates/hours and advisory board terms remain unknown after DBH, Social Inclusion, university and GamingCare searches.",
     "SA20November2007Hansard returned403; ordinary financial-report download timed out but web PDF text was readable. These source errors did not terminate research.",
     "Follow-up2026-10-03: targeted SocialInclusionBoard, Centre forWorkandLife, LHMUappointment and legal-officer searches found no new primary appointment instrument, payroll fact or personal hours. The restricted2015Advertiser article could not be opened; search results and derivative pages repeat a1996state-secretary and legal-officer narrative, while ABC retains 'after1997'. Without the underlying appointment return, the existing conflict was preserved and no exact transition added. Namesake academic and US profiles were excluded.",
-    "Follow-up2026-10-04: Inspected primaryAHA(SA)2006financial/operating report again for GamingCare lead: opening president report names JaneJeffreys GamingCare chair, not Butler. Derivative conference biography may concern distinct advisory committee or other period; do not merge roles or invent tenure. Exact SocialInclusionBoard/Gazette and Centre-for-Work-and-Life searches yielded no personal appointment endpoints;2005research-interview lead is an observation, not appointment. DBHparalegal and union-secretary chronology still unresolved by primary individual records; Cairns/Townsville solicitor and mental-health practitioner namesakes excluded. No new substantive career fact."
+    "Follow-up2026-10-04: Inspected primaryAHA(SA)2006financial/operating report again for GamingCare lead: opening president report names JaneJeffreys GamingCare chair, not Butler. Derivative conference biography may concern distinct advisory committee or other period; do not merge roles or invent tenure. Exact SocialInclusionBoard/Gazette and Centre-for-Work-and-Life searches yielded no personal appointment endpoints;2005research-interview lead is an observation, not appointment. DBHparalegal and union-secretary chronology still unresolved by primary individual records; Cairns/Townsville solicitor and mental-health practitioner namesakes excluded. No new substantive career fact.",
+    "Follow-up2026-10-05: primary DPC2006–07 accounts establish Social Inclusion Board remuneration entitlement and IR Advisory Committee membership; three Gazettes provide separate IRAC appointment starts/scheduled terms and another confirms Tourism Commission directorship. Actual exits not inferred from expiry; no gap filling or full-time/title inference. Conference2012 adds unnamed gambling/vocational-training governance requiring entity identification. Targeted searches for revocation/training board produced no individual evidence; US/Irish namesakes excluded. APH workplace inquiry witness page returned403; indexed industrial-officer lead remains unverified. DPC ordinary download403 recovered using accessible web PDF. Paralegal legal employer/dates/hours, union secretary chronology/leave and university advisory endpoints remain unresolved; retain null totals."
   ]
 }
