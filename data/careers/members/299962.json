@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/299962",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-04",
+  "last_reviewed": "2026-10-05",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -173,9 +173,10 @@
         "src-2",
         "src-3",
         "src-6",
-        "oct3-first"
+        "oct3-first",
+        "src-pm-doorstop2023-oct5"
       ],
-      "evidence_note": "Contemporaneous full-time statement linked to identified employer. Trustee's nonprofit status triggers current codebook exclusion, not public-sector classification. Doyle's 11 May 2023 first speech says she said goodbye to HESTA in mid-February, conflicting with the official biography's 5 April end; the exact official date is retained while possible campaign leave or later contractual cessation remains unresolved.",
+      "evidence_note": "Contemporaneous full-time statement linked to identified employer. Trustee's nonprofit status triggers current codebook exclusion, not public-sector classification. Doyle's 11 May 2023 first speech says she said goodbye to HESTA in mid-February, conflicting with the official biography's 5 April end; the exact official date is retained while possible campaign leave or later contractual cessation remains unresolved. Primary 17 February 2023 doorstop independently records her present-tense full-time-work statement and a finance-sector employment reference; employer allocation relies on separate named HESTA evidence. It does not resolve mid-February goodbye versus 5 April contractual cessation.",
       "counting_note": "Outside the two employment headlines under the codebook; retained as career context."
     },
     {
@@ -370,6 +371,44 @@
       ],
       "evidence_note": "Visible refresher issuedOctober2022. No course commencement or hours.",
       "counting_note": "Study/training excluded; no employment duration or work fraction inferred."
+    },
+    {
+      "spell_id": "299962-checkout",
+      "employer": "Employer not identified",
+      "role": "Checkout operator",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "unknown",
+      "government_control_at_time": "unknown",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-pm-doorstop2023-oct5"
+      ],
+      "evidence_note": "Own 17 February 2023 statement explicitly names this earlier work. Employer, dates, remuneration, hours and overlap with other early jobs are absent. No mapping to her unidentified first after-school job is established; do not add overlapping residual context as another duration.",
+      "counting_note": "Employer control, paid interval and substantive full-time status remain unverified."
+    },
+    {
+      "spell_id": "299962-cleaner",
+      "employer": "Employer not identified",
+      "role": "Cleaner",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "unknown",
+      "government_control_at_time": "unknown",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-pm-doorstop2023-oct5"
+      ],
+      "evidence_note": "Own 17 February 2023 statement explicitly names this earlier work. Employer, dates, remuneration, hours and overlap with other early jobs are absent. No mapping to her unidentified first after-school job is established; do not add overlapping residual context as another duration.",
+      "counting_note": "Employer control, paid interval and substantive full-time status remain unverified."
     }
   ],
   "sources": [
@@ -532,6 +571,16 @@
       "source_type": "professional_profile",
       "locator": "Visible Education and Licenses & Certifications sections",
       "note": "Named Victoria University education row2002–2002 with qualification label hidden; RG146 issuedMay2012(AIST), refresherSeptember2016(AIST) andOctober2022(ASFA). Issuance months are observations, not course commencement or continuous tenure."
+    },
+    {
+      "source_id": "src-pm-doorstop2023-oct5",
+      "url": "https://www.pm.gov.au/media/doorstop-interview-melbourne-1",
+      "publisher": "Prime Minister of Australia",
+      "title": "Melbourne doorstop transcript, 17 February 2023",
+      "retrieved": "2026-10-05",
+      "source_type": "government_record",
+      "locator": "Mary Doyle personal statement, paragraph beginning I have been a call centre worker, line 25; PM introductory finance-sector reference line 15",
+      "note": "Personal account includes checkout operator and cleaner work and present-tense full-time employment; names no earlier employer or dates. Full-time statement is not retrospective evidence for every job."
     }
   ],
   "research_notes": [
@@ -544,6 +593,7 @@
     "Follow-up2026-10-03: recovered the current first-speech transcript after the obsolete nested URL returned404. Added the previously omitted first after-school job and occasional bit-part acting, refined the ACTU role sequence, and recorded the mid-February HESTA goodbye against the official5 April cessation date without guessing leave or contract arrangements.",
     "Next leads: TAB/NEC/HBA employment hours and any changed contracts; exact absence and payroll-transfer boundaries; names and dates for early jobs/acting and whether music was paid; HESTA campaign leave or contractual cessation evidence. Historical sector resolution does not establish headline years.",
     "Fourth follow-up4October2026: primary/near-contemporaneous music records now resolve two previously unnamed bands: The Late Mail and The Beautiful Few. The Late Mail's own recording credits place Doyle as vocalist on material planned for a1996 second album, while arts coverage names her in The Beautiful Few's EP lineup. These are point-in-time creative-work observations, not proof of remuneration, continuous tenure or full-time hours. HBA/TAB/NEC and acting searches produced no contract or work-status evidence; unrelated same-name performers were rejected.",
-    "Follow-up2026-10-04: Added three official qualifications and three professional-profile certifications. Victoria University2002 institution attendance distinguished from unknown qualification conferral; RG146 issue months not treated as course starts. Employer/hour searches for TAB, NEC and HBA found no member-specific contracts or work fractions. American performers/students, Irish namesakes and New Zealand retirement facilities rejected; other people full-time statements not imported. Existing casual TAB episode, illness absence, music, acting and HESTA cessation conflict remain. Next contracts/leave records and institution qualification confirmation."
+    "Follow-up2026-10-04: Added three official qualifications and three professional-profile certifications. Victoria University2002 institution attendance distinguished from unknown qualification conferral; RG146 issue months not treated as course starts. Employer/hour searches for TAB, NEC and HBA found no member-specific contracts or work fractions. American performers/students, Irish namesakes and New Zealand retirement facilities rejected; other people full-time statements not imported. Existing casual TAB episode, illness absence, music, acting and HESTA cessation conflict remain. Next contracts/leave records and institution qualification confirmation.",
+    "Fifth follow-up 5 October 2026: recovered primary PM-hosted personal transcript naming previously omitted checkout-operator and cleaner work; added undated unknown-employer spells without assuming these are distinct from or concurrent with the residual first after-school job. It independently corroborates present-tense full-time work in February 2023, not the hours of earlier TAB/NEC/HBA or performance jobs. Both-engine early employer, HESTA leave and legal payroll searches returned no original contract, leave record or safer entity allocation; New Zealand retirement facilities and overseas candidates/actors were rejected. HESTA actual-work departure versus official contract end remains explicit; TAB privatisation, casual illness episode and music/acting pay remain unresolved. Next dated personal CV or publicly available employer records; no numerical headline change."
   ]
 }
