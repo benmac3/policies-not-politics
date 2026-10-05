@@ -6,7 +6,7 @@
   "snapshot_party": "Independent",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/256136",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-04",
+  "last_reviewed": "2026-10-05",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -76,7 +76,8 @@
       "source_ids": [
         "src-3",
         "src-6",
-        "src-7"
+        "src-7",
+        "src-2016-flexible-deal"
       ],
       "evidence_note": "First Australian playing period before 2017 sabbatical. Knee reconstructions disrupted 2013 and 2014 playing; paid injury leave versus contract interruption unresolved. University sponsorship does not make university the employer.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
@@ -97,9 +98,11 @@
       "source_ids": [
         "src-2",
         "src-3",
-        "src-4"
+        "src-4",
+        "src-2016-flexible-deal",
+        "src-2019-injury-transition"
       ],
-      "evidence_note": "Return to Australian rugby documented; exact contract cessation and injury absence terms unresolved.",
+      "evidence_note": "Return to Australian rugby documented; exact contract cessation and injury absence terms unresolved. Employer May2019 report identifies January calf injury and near three-month playing layoff, with continuing Canberra rehabilitation and team previews/reviews after last match. These are activity/absence facts, not verified paid-leave terms or cessation dates.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "256136-04"
     },
@@ -119,9 +122,11 @@
         "src-2",
         "src-3",
         "src-5",
-        "src-7"
+        "src-7",
+        "src-2016-flexible-deal",
+        "src-sabbatical-pay-lead"
       ],
-      "evidence_note": "National team career overlaps clubs, including 2017 Australian sabbatical; not an uninterrupted independent additional spell. Australian representation does not mean government employment. Legal employer/control and hours require contract/annual-report evidence.",
+      "evidence_note": "National team career overlaps clubs, including 2017 Australian sabbatical; not an uninterrupted independent additional spell. Australian representation does not mean government employment. Legal employer/control and hours require contract/annual-report evidence. ARU announcement records a flexible three-year commitment through2019, release from Australian duties in2017 and rejoining Brumbies ahead of2018. Sabbatical payment report is an unconfirmed original-source lead, not continuous full-time evidence.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "256136-05"
     },
@@ -618,6 +623,36 @@
       "locator": "Lines 64–81; two-year re-signing announcement",
       "note": "Contemporary report documents a further two-year Force agreement announced with debut selection. Does not identify effective dates, apprentice-to-senior transition, legal payer or contracted workload.",
       "retrieved": "2026-10-04"
+    },
+    {
+      "source_id": "src-2016-flexible-deal",
+      "url": "https://www.rugby.com.au/news/2016/03/15/pocock-commits-to-australian-rugby-until-2019",
+      "publisher": "Rugby Australia / ARU",
+      "title": "Pocock commits to Australian Rugby until 2019",
+      "source_type": "employer",
+      "locator": "15 March 2016; lines54–80, release and player/CEO statements",
+      "note": "Three-year Brumbies/ARU commitment through 2019 with release from Australian duties in2017 and return ahead of2018 season; remuneration and hours unstated.",
+      "retrieved": "2026-10-05"
+    },
+    {
+      "source_id": "src-2019-injury-transition",
+      "url": "https://www.rugby.com.au/news/2019/05/27/super-rugby-pocock-press-conference",
+      "publisher": "Rugby Australia",
+      "title": "Pocock doing everything to be fit for Rugby World Cup",
+      "source_type": "employer",
+      "locator": "28 May2019 report; lines47–85, calf injury/rehabilitation and continuing team contribution",
+      "note": "Calf injury began January2019; near three-month layoff by May, continued Canberra rehabilitation and team preview/review involvement. Last match is not a payroll cessation date.",
+      "retrieved": "2026-10-05"
+    },
+    {
+      "source_id": "src-sabbatical-pay-lead",
+      "url": "https://rugbylad.ie/this-is-how-much-david-pocock-will-be-paid-while-on-sabbatical/",
+      "publisher": "RugbyLAD",
+      "title": "This Is How Much David Pocock Will Be Paid While On Sabbatical",
+      "source_type": "news",
+      "locator": "4 December2016; lines45–53, linked WaToday report",
+      "note": "Lead only: cites WaToday for planned2017 payments. Original linked source returned Internal Error; report does not prove actual payment or full-time work.",
+      "retrieved": "2026-10-05"
     }
   ],
   "research_notes": [
@@ -631,6 +666,7 @@
     "Full tax-return iframe returned non-retryable500redirect to inaccessible rendered file; XML403. Only accessible ProPublica IRS-data summary used; hours and precise role boundaries remain unknown. No jobwide blocker. Ebook page establishes proceeds destination for current offer, not universal zero author income.",
     "Targeted project-director employer and rugby full-time/sabbatical searches did not establish contracts, actual hours, legal sporting employers or March/May/October2020endpoint reconciliation. Future primary leads: US2021/2022full officer schedules, Zimbabwe project payroll/annual reports, signed rugby agreements or employer announcements detailing leave; no inferred zero employment.",
     "Follow-up 2026-10-04: repeated exact-title searches for the frozen July2020–December2021 Project Director entry found only derivative reproductions of the title/date range. Rangelands' own team and news pages document Pocock's 2021 implementation work but do not call him Project Director, identify his payroll entity, state remuneration or give hours. The plausible Rangelands link therefore remains unmerged with the unidentified role.",
-    "Follow-up2026-10-04: Added primary Japanese club announcement with planned 1 December 2019 reporting date and retiring-player tenure/three-season statement, plus contemporaneous 2006 two-year Force extension. Kept aggregate spell boundaries unchanged: reporting, publication, last match and payroll cessation differ. Current ProPublica 2023/2024 collapsed compensation tables do not visibly expose David’s row; other officers’ remuneration cannot be assigned to him. Exact Project Director searches again yield the parliamentary title without a payroll identity. Remaining leads: actual contracts, sabbatical/injury terms, employer legal entities and full officer schedules; no full-time or zero-income inference."
+    "Follow-up2026-10-04: Added primary Japanese club announcement with planned 1 December 2019 reporting date and retiring-player tenure/three-season statement, plus contemporaneous 2006 two-year Force extension. Kept aggregate spell boundaries unchanged: reporting, publication, last match and payroll cessation differ. Current ProPublica 2023/2024 collapsed compensation tables do not visibly expose David’s row; other officers’ remuneration cannot be assigned to him. Exact Project Director searches again yield the parliamentary title without a payroll identity. Remaining leads: actual contracts, sabbatical/injury terms, employer legal entities and full officer schedules; no full-time or zero-income inference.",
+    "Follow-up2026-10-05: recovered primary2016 flexible-contract announcement and2019 injury/rehabilitation report. Added January2019 calf-injury onset, later playing layoff and continuing off-field team duties; last match remains distinct from employment end. Preserved all existing dates and unknown hours/control/pay. RugbyLAD cites inaccessible WaToday for proposed2017 sabbatical payments; source lead only, not proven payment. Exact Project Director searches and earlier rugby terms remain unresolved; overlapping rugby contracts cannot be summed. Source click Internal Error and one local wrong-key read were recovered, not terminal job-wide errors. No full-time totals manufactured."
   ]
 }
