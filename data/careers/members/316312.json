@@ -135,9 +135,11 @@
       "source_ids": [
         "src-council-country-mayors",
         "src-personal-bio",
-        "src-first-speech"
+        "src-first-speech",
+        "src-cma-honour-pass2",
+        "src-narrandera-cma2024-pass2"
       ],
-      "evidence_note": "Council release21November2022 gives delegate since2016, executive since2018, deputy chair since2020 and election as chair inNovember2022. Existing biography gives two years as chair;2024 cessation retained at year precision. Pay/hours and exact transition days unknown.",
+      "evidence_note": "Council release21November2022 gives delegate since2016, executive since2018, deputy chair since2020 and election as chair inNovember2022. Existing biography gives two years as chair;2024 cessation retained at year precision. Pay/hours and exact transition days unknown. Association honour roll dates deputy chair2021–22, conflicting with council2020 claim; preserve both. Narrandera mayor records successor election at15November2024 AGM, without proving exact earlier cessation. Voluntary capacity described by association, not personal all-duty remuneration proof.",
       "counting_note": "Association governance is excluded under the codebook."
     },
     {
@@ -344,6 +346,25 @@
       "evidence_note": "Public appointment biography identifies regional chair role. Dates, pay and contractual terms unknown; association governance excluded. Primary16May2024 AGM minutes thank outgoing chair Chaffey and elect Russell Webb as successor. End date records the observed chair handover at that meeting; original appointment date, formal legal cessation, pay and hours remain unknown.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "316312-murray-darling"
+    },
+    {
+      "spell_id": "316312-boilermaker-certificate",
+      "employer": "Training institution unidentified",
+      "role": "Boilermaker trade-certificate study, completed",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-trade-certificate-pass2"
+      ],
+      "evidence_note": "Own indexed post explicitly reports completion28years earlier and later family-business involvement. Relative recollection not converted into course or apprenticeship start/end. Training provider and formal qualification level remain unknown; not automatically TAFE NSW.",
+      "counting_note": "Study excluded; linked apprentice work already separately recorded, no duplicate paid duration."
     }
   ],
   "sources": [
@@ -516,6 +537,36 @@
       "source_type": "government_record",
       "locator": "Entity-name history, trading name and type; extracted5October2026",
       "note": "Gunnedah Industries trading name since23March2000; Hockings & Chaffey Family Trust renamed The Chaffey Family Trust on1February2007. Discretionary Trading Trust. Registration/name milestones do not date personal apprenticeship/ownership or legal employer."
+    },
+    {
+      "source_id": "src-trade-certificate-pass2",
+      "url": "https://www.instagram.com/p/DbrfCsgCdIw/",
+      "publisher": "Jamie Chaffey MP",
+      "title": "Boilermaker trade-certificate and family-business recollection",
+      "retrieved": "2026-10-05",
+      "source_type": "professional_profile",
+      "locator": "Legitimately public own-post search index; matching ownFacebook/LinkedIn repost text",
+      "note": "Explicit completed trade certificate;28years relative duration not converted into calendar date. Direct Instagram/Facebook returned Online fetch throttled; indexed own text used without circumventing restrictions."
+    },
+    {
+      "source_id": "src-cma-honour-pass2",
+      "url": "https://nswcountrymayors.com.au/about/",
+      "publisher": "Country Mayors Association of NSW Inc",
+      "title": "AboutCMA: Honour Roll",
+      "retrieved": "2026-10-05",
+      "source_type": "employer",
+      "locator": "Honour Roll: Chaffey chair2022/24,deputy2021/22; voluntary capacity description",
+      "note": "Association directly identifies historical roles; deputy start conflicts with2020 council release. Voluntary-capacity wording does not establish every duty unpaid."
+    },
+    {
+      "source_id": "src-narrandera-cma2024-pass2",
+      "url": "https://cdn.narrandera.nsw.gov.au/sites/default/files/2024-12/Ordinary%20Business%20Paper%20-%2010%20December%202024.pdf",
+      "publisher": "Narrandera Shire Council",
+      "title": "10December2024 Council agenda: November mayoral report",
+      "retrieved": "2026-10-05",
+      "source_type": "government_record",
+      "locator": "Printedp19: Friday15November2024 CMA AGM; printedp20 identifies November report",
+      "note": "Mayor records Chaffey stood down and Firman elected. Meeting milestone is not necessarily Chaffey formal resignation day; no payroll/hours."
     }
   ],
   "research_notes": [
@@ -531,7 +582,8 @@
     "Further2October pass: rechecked company timeline against traineeship/apprenticeship and2006 founding queries. Stripes2006/2007/2018 milestones and store locations are already captured. Company2000s joining claim still conflicts with first-speech elapsed-tenure implication; no registration or payroll record resolved it.1991 residence description does not establish a Woolworths appointment date. No material addition; defer generic Woolworths/Stripes biography searches pending original apprenticeship, contract or leave evidence.",
     "Third follow-up 2026-10-04: targeted Woolworths store-history, apprenticeship, Gunnedah Industries and Stripes managing-director searches repeated the first speech, candidate interview, company timeline and September 2024 handover already recorded. No apprenticeship registration, Woolworths appointment, individual hours, leave or legal payroll entity was found. No material enrichment counted; retain the company-timeline conflict and advance pending an original training, contract or personnel record.",
     "Follow-up2026-10-04: Primary Murray Darling Association Region11 AGM minutes establish outgoing chair handover to Russell Webb on16May2024, resolving an undated governance endpoint at day precision as a meeting milestone. The minutes explicitly thank Chaffey as chair and record successor election/acceptance; appointment date, formal legal cessation and personal remuneration remain unknown. Subsequent ordinary meeting lists Webb as chair and Chaffey attending as Gunnedah mayor. Apprenticeship-year query yielded no training record. Next: original apprenticeship registration, Woolworths personnel record, business contracts/hours and association appointment instrument; governance excluded.",
-    "Follow-up2026-10-05: primary ABR historical trading-name table resolves Gunnedah Industries trust entity and2007rename; primary parliamentary index links member’s joint-beneficiary interest. Retain personal payroll/apprentice boundaries unresolved and separate later company. Namoi council primary index reports23November2023resolution to discontinue activities from31December2023 and seek dissolution by30June2024; audit says Governor approval still required, so no unsupported chair end/dissolution assumed. Tamworth original release open403, individual source gap; original instrument/minutes remain leads. Woolworths/apprenticeship searches yielded existing biography without dates/hours."
+    "Follow-up2026-10-05: primary ABR historical trading-name table resolves Gunnedah Industries trust entity and2007rename; primary parliamentary index links member’s joint-beneficiary interest. Retain personal payroll/apprentice boundaries unresolved and separate later company. Namoi council primary index reports23November2023resolution to discontinue activities from31December2023 and seek dissolution by30June2024; audit says Governor approval still required, so no unsupported chair end/dissolution assumed. Tamworth original release open403, individual source gap; original instrument/minutes remain leads. Woolworths/apprenticeship searches yielded existing biography without dates/hours.",
+    "Second targeted pass adds omitted completed boilermaker trade-certificate study from own public-indexed post, leaving provider and dates unknown instead of subtracting28years. Association honour roll exposes deputy-chair2021–22 versus council2020 discrepancy; November2024 mayoral report dates successor election as AGM observation, not exact personal resignation. Namoi dissolution searches again supply proposals, not final instrument. Original social posts Online fetch throttled, source-specific; no same-route retry or controls bypass. Store/apprentice personal hours still unknown; preserve null totals."
   ],
   "open_questions": [
     "What were the exact start/end dates, hours and store transitions for the Woolworths management career?",
@@ -542,6 +594,7 @@
     "What legal entity employed the Gunnedah Industries apprentice, and when did apprenticeship, ownership and operating duties start/end? Resolve2000s company heading versus28-year first-person duration.",
     "What were Stripes payroll/directorship entities, hours, leave and overlap with2016–2024 elected duties? Does primary departure documentation corroborateSeptember2024?",
     "Were Nuclear Taskforce, Murray Darling Association or other investment-company duties remunerated, and what were their exact terms?",
-    "How did Hockings & Chaffey Family Trust / The Chaffey Family Trust and Gunnedah Industries(NW)PtyLtd relate to apprentice payroll and later operational roles; what trustee/transfer documents bridge them? Namoi board activities ceased by resolution from31December2023 but formal dissolution/personal term requires original instrument."
+    "How did Hockings & Chaffey Family Trust / The Chaffey Family Trust and Gunnedah Industries(NW)PtyLtd relate to apprentice payroll and later operational roles; what trustee/transfer documents bridge them? Namoi board activities ceased by resolution from31December2023 but formal dissolution/personal term requires original instrument.",
+    "Resolve Country Mayors deputy-chair2020 council claim versus association2021–22 honour roll, exact chair cessation, and boilermaker certificate provider/calendar completion against first-speech business duration."
   ]
 }
