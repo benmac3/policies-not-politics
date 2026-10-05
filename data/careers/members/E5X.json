@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/E5X",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-04",
+  "last_reviewed": "2026-10-05",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -226,7 +226,7 @@
       "role": "State conference delegate; national conference delegate and administrative committee member",
       "start_date": "1984",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "party_organisation",
@@ -245,7 +245,7 @@
       "role": "Senator for Tasmania",
       "start_date": "2005-07-01",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "day",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -342,6 +342,16 @@
       "note": "First-person public account by a briefly employed coworker identifies Polley as Murphy's electorate officer in May1997. It supplies an observation point and role, not her tenure boundaries or hours.",
       "retrieved": "2026-10-04",
       "source_id": "src-8"
+    },
+    {
+      "source_id": "src-tigers-corpus-lead",
+      "url": "https://www2.kumagaku.ac.jp/teacher/~judy/corpora/megumi/advocate.txt.WebConcordance/advocate.txt1.htm",
+      "publisher": "The Advocate, reproduced in Kumamoto Gakuen University teaching corpus",
+      "title": "Advocate corpus: Launceston Tigers SEABL withdrawal report",
+      "retrieved": "2026-10-05",
+      "source_type": "news",
+      "locator": "Lines293–298; quoted Tigers administrator Helen Polley",
+      "note": "Undated compiled newspaper text names Helen Polley as Launceston Tigers administrator. Newspaper dateline, direct identity bridge to senator, paid/volunteer status and exact role dates are not established. Retained as a new activity/employer lead pending original article or her own account; not encoded as verified employment."
     }
   ],
   "research_notes": [
@@ -354,6 +364,7 @@
     "Follow-up2026-10-02(non-material): targeted2005first-speech text, TerryAulich/ShayneMurphy office history,2003ministerial staff listing and earlier manufacturing/finance/transport employment. APH-targeted search returned Blocked by robots.txt, non-retryable; no retry. Searches on Tasmanian parliamentary/DPAC domains did not surface the contemporary staff listing. TasmanianTimes2006entry repeats existing Northern adviser lead, not new primary proof.",
     "Exact chronology results were Wikipedia mirrors, factsnippet and an unsourced contact-directory biography; excluded as independent corroboration. No new employer identity, term, full-time evidence or employment break resolved. Preserve sourced facts and uncertainties. Next follow-up requires accessible first speech or contemporary staff-list archive; defer repetitive broad searches until a new lead is available.",
     "Follow-up2026-10-04: a public first-person account by Paul Mallett, briefly employed in Senator Shayne Murphy's Launceston office in May1997, identifies Polley as the office's electorate officer. This materially resolves one senator and role at one observation month, but does not prove the Wikipedia1995–98 tenure, hours or leave. The other senator remains unresolved; the broad archived biography's reference to two senators in the1980s conflicts with the1997 observation and is preserved rather than rewritten.",
-    "Follow-up2026-10-04: Rechecked the identified11August2005first-speech daily PDF; web open again returned403Forbidden, so no transcript facts were extracted. Targeted Aulich/first-speech searches returned committee records, unrelated people and derivative chronologies rather than contemporaneous appointment evidence. Corrected the Murphy observation-only May1997 fields to unknown tenure boundaries, preserving the sourced May1997 role in the evidence note. This is a date-encoding correction and exhausted-source follow-up, not new employment evidence; no material progress or completed totals claimed. Next avenues remain contemporary senator/ministerial staff lists and an independently accessible first-speech transcript."
+    "Follow-up2026-10-04: Rechecked the identified11August2005first-speech daily PDF; web open again returned403Forbidden, so no transcript facts were extracted. Targeted Aulich/first-speech searches returned committee records, unrelated people and derivative chronologies rather than contemporaneous appointment evidence. Corrected the Murphy observation-only May1997 fields to unknown tenure boundaries, preserving the sourced May1997 role in the evidence note. This is a date-encoding correction and exhausted-source follow-up, not new employment evidence; no material progress or completed totals claimed. Next avenues remain contemporary senator/ministerial staff lists and an independently accessible first-speech transcript.",
+    "Follow-up 2026-10-05: discovered a specific new Launceston Tigers administrator lead in an openly hosted university teaching corpus reproducing Advocate newspaper text. Named HelenPolley at club withdrawal; no original dateline or direct identity bridge to senator, remuneration, volunteer status or actual term. Preserve source/locator for original-article/club-history follow-up rather than create a paid spell or assume nonprofit control. Exact original-first-speech/Aulich queries still returned derivative histories and unrelated speakers. New WA-tabled conference biography source returned403Forbidden, source-only; denied APHfirst-speech binary not retried. Prior Murphy observation preserved; industry employers and second senator remain unresolved."
   ]
 }
