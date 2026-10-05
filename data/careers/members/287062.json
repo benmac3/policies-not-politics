@@ -6,7 +6,7 @@
   "snapshot_party": "Liberal Party of Australia",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/287062",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-04",
+  "last_reviewed": "2026-10-05",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -137,9 +137,10 @@
         "src-8",
         "src-10",
         "src-12",
-        "src-13"
+        "src-13",
+        "src-16"
       ],
-      "evidence_note": "Official Reserve interval. A veteran-charity profile for his ambassador role says service included two Afghanistan sojourns; the contemporary July2011article identifies one deployment earlier in2011. Operational endpoints and continuous full-time duty are not established. Reserve membership is not full-time service; civilian leave and overlaps require reconstruction. Do not assign the whole year or treat two deployments as additive full-year employment.",
+      "evidence_note": "Official Reserve interval. A veteran-charity profile for his ambassador role says service included two Afghanistan sojourns; the contemporary July2011article identifies one deployment earlier in2011. Operational endpoints and continuous full-time duty are not established. Reserve membership is not full-time service; civilian leave and overlaps require reconstruction. Do not assign the whole year or treat two deployments as additive full-year employment.2007university honours account identifies South Australian Panel Leader,Australian Army Legal Corps, supporting9thBrigade; rank Lieutenant Colonel at that observation does not establish full-time duty.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "287062-06"
     },
@@ -205,7 +206,7 @@
       "role": "National board director",
       "start_date": "2013-06",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "month",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "nonprofit",
@@ -224,7 +225,7 @@
       "role": "Council governor; later deputy chair",
       "start_date": "2015",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "nonprofit",
@@ -243,7 +244,7 @@
       "role": "Legatee",
       "start_date": "2015",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "unpaid_work",
@@ -260,9 +261,9 @@
     {
       "employer": "St John Ambulance SA Ltd",
       "role": "President of operations",
-      "start_date": "2019",
+      "start_date": "2018-11",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "month",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "unpaid_work",
@@ -270,9 +271,10 @@
       "government_control_at_time": "private",
       "counting_status": "excluded",
       "source_ids": [
-        "src-7"
+        "src-7",
+        "src-15"
       ],
-      "evidence_note": "Public profile indexes this under Volunteer Experience; no full-time paid role inferred.",
+      "evidence_note": "Public profile indexes this under Volunteer Experience; no full-time paid role inferred.Contemporary2018/19institutional report explicitly places welcome/appointment inNovember2018; preferred over later profile2019label, discrepancy retained. End remains unknown.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "287062-13"
     },
@@ -301,7 +303,7 @@
       "role": "Senator for South Australia",
       "start_date": "2020-02-06",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "day",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -316,6 +318,63 @@
       "evidence_note": "Frozen first-service date preserved; parliamentary employment excluded from headline career sectors.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "287062-15"
+    },
+    {
+      "spell_id": "287062-16",
+      "employer": "South Australian Parliamentary Superannuation Board",
+      "role": "Board member",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "public_service",
+      "headline_sector": "excluded",
+      "government_control_at_time": "public",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-14"
+      ],
+      "evidence_note": "Named in2018financial report and certification as Legislative Council President. Board responsibilities receive no separate compensation; parliamentary salary is distinct. Appointment and end dates unresolved.",
+      "counting_note": "Governance/volunteering excluded from substantive employment totals; overlap not additive."
+    },
+    {
+      "spell_id": "287062-17",
+      "employer": "Disaster Relief Australia",
+      "role": "Volunteer",
+      "start_date": "2019",
+      "end_date": null,
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unpaid_work",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-7"
+      ],
+      "evidence_note": "Own public profile Volunteer Experience gives2019start; no exact endpoints/hours, current service not inferred from Present.",
+      "counting_note": "Governance/volunteering excluded from substantive employment totals; overlap not additive."
+    },
+    {
+      "spell_id": "287062-18",
+      "employer": "St John Ambulance SA Ltd",
+      "role": "Volunteer",
+      "start_date": "2009",
+      "end_date": null,
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unpaid_work",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-7"
+      ],
+      "evidence_note": "Own public profile lists general volunteering from2009 separately from board and operations titles. Roles overlap; no additive employment years.",
+      "counting_note": "Governance/volunteering excluded from substantive employment totals; overlap not additive."
     }
   ],
   "sources": [
@@ -384,9 +443,9 @@
       "publisher": "Andrew McLachlan / LinkedIn",
       "title": "Public professional profile",
       "source_type": "professional_profile",
-      "locator": "Indexed Volunteer Experience",
-      "note": "Indexed profile lists St John SA president of operations from 2019 and Legacy legatee from 2015. Direct access returned 999; other employment details not obtained.",
-      "retrieved": "2026-10-01",
+      "locator": "Publicly indexed Volunteer Experience: St John roles and Disaster Relief Australia",
+      "note": "Indexed profile lists St John SA president of operations from 2019 and Legacy legatee from 2015. Direct access returned 999; other employment details not obtained.Fresh indexed own-profile section adds Disaster Relief Australia volunteer from2019 and St John volunteer from2009. Present is not an independently verified current endpoint; no hours inferred. Direct reader999 retained.",
+      "retrieved": "2026-10-05",
       "source_id": "src-7"
     },
     {
@@ -448,6 +507,36 @@
       "note": "Identifies two Afghanistan sojourns during Army Reserve service. Provides no dates, duty fraction or civilian-employment leave and is not used to calculate years.",
       "retrieved": "2026-10-03",
       "source_id": "src-13"
+    },
+    {
+      "source_id": "src-14",
+      "url": "https://www.audit.sa.gov.au/sites/default/files/2022-10/Parliamentary_Superannuation_Scheme_2018.pdf",
+      "publisher": "Auditor-General of South Australia / Parliamentary Superannuation Scheme",
+      "title": "Parliamentary Superannuation Scheme financial report2018",
+      "source_type": "government_record",
+      "locator": "PDF21,note14 related parties and compensation; PDF22 certification",
+      "retrieved": "2026-10-05",
+      "note": "Names Hon Andrew McLachlan on Parliamentary Superannuation Board and signatory as Legislative Council President. Board duties receive no separate compensation; adjacent Manager Financial Services is Mark Carpinelli,not McLachlan."
+    },
+    {
+      "source_id": "src-15",
+      "url": "https://user-qbyfx2a.cld.bz/St-John-Ambulance-Australia-SA-Inc-Annual-Report-2018-20191",
+      "publisher": "St John Ambulance Australia SA Inc",
+      "title": "Annual Report2018/19",
+      "source_type": "employer",
+      "locator": "Printed29,Operations Commissioner report; linked from institution annual-reports page",
+      "retrieved": "2026-10-05",
+      "note": "States welcome as President of Operations Branch in November2018. Conflicts with own profile2019year label; contemporary institutional appointment month preferred with discrepancy preserved."
+    },
+    {
+      "source_id": "src-16",
+      "url": "https://www.adelaide.edu.au/adelaidean/binary2962/Adelaidean.pdf",
+      "publisher": "University of Adelaide",
+      "title": "Adelaidean,August2007,More Honours for our alumni",
+      "source_type": "employer",
+      "locator": "Publicly indexed honours paragraph,Lieutenant Colonel Andrew L McLachlan CSC",
+      "retrieved": "2026-10-05",
+      "note": "Identifies Army Legal Corps SA panel leadership and service supporting9thBrigade. Original link now redirects to successor university news; indexed historical paragraph used, no hours or deployment interval."
     }
   ],
   "research_notes": [
@@ -463,6 +552,7 @@
     "Johnston Withers1989–1991, Cosoff Cudmore Knox1993–1996, Sir Ross and Sir Keith Smith Fund2002–2011 and Liberal vice-president2010–2013 remain unverified directory leads. Artificial January endpoints from directory not used. Law Society2011author/subject index located but full article not obtained. Searches of primary employer, university, army and professional-profile combinations did not resolve identity or hours. No contacts collected or outreach.",
     "Namesake check: Friends of Port Willunga treasurer/retired Pedal PrixCEO has different accounting career; not assigned to senator. Full financial-services/employer sequence, university contract, deployment leave and StJohnchair date discrepancy remain follow-up needs.",
     "Follow-up2026-10-03: veteran-charity ambassador biography establishes that the Army Reserve career included two Afghanistan sojourns, while the already captured contemporary report dates only one observation to2011. Searches also located Australian Executor Trustees role descriptions and a December2010press attribution, but no independent primary bridge strong enough to assign the full1996–2011aggregate interval to that entity. Deployment dates, active-duty duration, civilian leave and financial-employer sequence remain unresolved.",
-    "Follow-up2026-10-04: Pursued a new contemporaneous StJohn2010–11annual-report lead as a potential primary bridge from finance executive to charity governor. Its indexed extract names him Treasurer, but the Yumpu reproduction requires JavaScript/robot verification and no full biography was obtained; no access controls bypassed. ICFS-to-executor,legal-firm and honours searches returned existing generic biographies or unverified directory entries, not an independently linked payroll history. SignalHire January endpoints and contacts not used. AET Europe software CEO and Sydney pharmacy academic are distinct identities; fund account ownership is not employment. Named regional legal employers,AWM/IOOF identity bridge,Reserve duty endpoints/civilian leave and university fraction remain unresolved."
+    "Follow-up2026-10-04: Pursued a new contemporaneous StJohn2010–11annual-report lead as a potential primary bridge from finance executive to charity governor. Its indexed extract names him Treasurer, but the Yumpu reproduction requires JavaScript/robot verification and no full biography was obtained; no access controls bypassed. ICFS-to-executor,legal-firm and honours searches returned existing generic biographies or unverified directory entries, not an independently linked payroll history. SignalHire January endpoints and contacts not used. AET Europe software CEO and Sydney pharmacy academic are distinct identities; fund account ownership is not employment. Named regional legal employers,AWM/IOOF identity bridge,Reserve duty endpoints/civilian leave and university fraction remain unresolved.",
+    "Contemporary StJohn annual report resolves operations-president start toNovember2018 with2019profile conflict retained. Primary2018audit adds uncompensated Parliamentary Superannuation Board governance; public own-profile adds Disaster Relief Australia and StJohn volunteering.2007primary honours identifies Army Legal Corps SA panel leadership,not full-time status. Targeted ICFS/AET/Army and legal-employer searches did not resolve finance identity bridge, regional payroll employers, military duty/leave or university fraction. Law Foundation2021three-year appointment remains original-register lead; derivative January dates not used."
   ]
 }
