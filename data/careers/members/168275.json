@@ -230,9 +230,10 @@
       "counting_status": "excluded",
       "source_ids": [
         "src-2",
-        "src-6"
+        "src-6",
+        "src-twu2013-pass2"
       ],
-      "evidence_note": "Board role confirmed including in March 2018. Appointment boundaries, employing trustee entity and workload unresolved; governance is not presumed full-time employment.",
+      "evidence_note": "Board role confirmed including in March 2018. Appointment boundaries, employing trustee entity and workload unresolved; governance is not presumed full-time employment. Original TWU2013 operating report independently names Anthony Sheldon as an employee-representative fund director and national reporting-unit nominee. This strengthens the retrospective trustee claim but supplies no personal appointment or cessation date.",
       "counting_note": "Excluded from the two employment headlines under the codebook."
     },
     {
@@ -333,6 +334,64 @@
       "evidence_note": "WorkCover annual report lists Sheldon among members at 30 June 2000. The Council’s collective appointment on 25 August 1998 and nominal three-year term do not establish his personal tenure. Advisory governance, fees and attendance do not prove substantive full-time employment.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "168275-workers-comp-council"
+    },
+    {
+      "spell_id": "168275-teacho",
+      "employer": "Transport Education Audit Health Compliance Organisation (TEACHO) Ltd, as named in2013 filing",
+      "role": "Director; nominee of TWU National Council",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "nonprofit",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-twu2013-pass2",
+        "src-teacho-about-pass2"
+      ],
+      "evidence_note": "The2013 operating report names Sheldon on this external board, whose purpose is safe and sustainable transport. Organisation original account identifies a not-for-profit company. Formation date2010 does not establish his appointment. Exact start/end, payment, hours and later changes in board membership unknown.",
+      "counting_note": "Governance appointment excluded; a board title and union nomination do not establish substantive full-time paid employment."
+    },
+    {
+      "spell_id": "168275-bluecard",
+      "employer": "Blue Card Training Pty Ltd",
+      "role": "Director; nominee of TWU National Council",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-twu2013-pass2"
+      ],
+      "evidence_note": "The2013 operating report identifies this directorship and says the company has no present activities and has applied for deregistration. An application is not completed deregistration or his own cessation. The current BlueCard training programme administered by TEACHO must not be assumed the same legal employment relationship. Exact tenure, ownership/control, pay and workload unresolved.",
+      "counting_note": "Governance appointment excluded; a board title and union nomination do not establish substantive full-time paid employment."
+    },
+    {
+      "spell_id": "168275-mclean",
+      "employer": "The McLean Forum Ltd",
+      "role": "Director",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-twu2013-pass2"
+      ],
+      "evidence_note": "The2013 operating report names Sheldon as director and describes a political action committee advocating for the union movement and transport workers. No actual tenure, contract, payment, hours or control instrument supplied; not assumed a registered political party or paid operational job. Current same-name ABN activation in2019 is not a personal appointment or company incorporation date.",
+      "counting_note": "Governance appointment excluded; a board title and union nomination do not establish substantive full-time paid employment."
     }
   ],
   "sources": [
@@ -455,6 +514,26 @@
       "locator": "13August2018, Sheldon steps down and continuing-work paragraphs",
       "retrieved": "2026-10-04",
       "note": "Original announcement directly corroborates August title transition and continued union work on government-project labour standards and on-demand economy. Publication day is not an independently documented payroll cessation or exact title-transfer instrument. Thirty years combines membership and work, not thirty paid years."
+    },
+    {
+      "source_id": "src-twu2013-pass2",
+      "url": "https://regorgs.fwc.gov.au/sites/default/files/migration/413/179v-fr2013-457.pdf",
+      "publisher": "Transport Workers Union of Australia, National Council / Fair Work Commission",
+      "title": "Financial report for year ended31December2013, lodged2014",
+      "retrieved": "2026-10-05",
+      "source_type": "annual_report",
+      "locator": "Operating Report sections5–6, PDF index7; National Committee tenure PDF index8",
+      "note": "Original filing names Anthony Sheldon on TWUSUPER, TEACHO, Blue Card Training and McLean Forum boards. Nominee and organisational-purpose descriptions retained; report year and filing/signature dates are not appointment boundaries. Full-time equivalent employee aggregates are not his individual hours."
+    },
+    {
+      "source_id": "src-teacho-about-pass2",
+      "url": "https://teacho.com.au/about-us/",
+      "publisher": "Transport Education Audit Compliance Health Organisation (TEACHO) Limited",
+      "title": "About us",
+      "retrieved": "2026-10-05",
+      "source_type": "employer",
+      "locator": "Opening organisation-purpose paragraph",
+      "note": "Original organisation account identifies not-for-profit company established with union, employer and academic support. Formation year not Sheldon appointment."
     }
   ],
   "research_notes": [
@@ -470,6 +549,7 @@
     "Third follow-up3October2026: repeated exact-name searches for the cleaning, bartending and waste employers, TWUSUPER appointment records and Harvard program timing returned only already recorded biographies and a2013 Hansard reference placing him on the super-fund board around2012. That approximate point-in-time was already retained as a lead and does not establish tenure. A Sydney Morning Herald archive URL for his2018 union departure was non-retrievable and public summaries added no employer, contract, hours or leave evidence. Existing facts and null totals remain unchanged.",
     "Fourth follow-up4October2026 narrowed queries to TWUSUPER appointment wording, the1998 NSW-secretary election, the1989 Liquor Trades role and early employer descriptions. Results were dominated by the same-name actor and US academic and returned no contemporary union return, trustee instrument, employer identity, contract, hours or leave. A secondary summary describing acting federal secretary in2006 does not improve the official2006 national-secretary chronology and was not added. The unresolved items now require union election/payroll archives, trustee registers or named early-employer records rather than another general exact-name search.",
     "Follow-up2026-10-04: Checked original13August2018 TWU transition announcement, which corroborates existing August handover and continuing union work; counted as corroborative follow-up, not material enrichment. It describes government-project labour standards but no government employment. Thirty-year membership/organising aggregate cannot date each paid role. Original Queensland archival clipping ordinary download returned HTTP403 Forbidden; no bypass attempted. Searches of trustee annual reports and historical names exposed successor/current directors and previously retained parliamentary comments without Sheldon appointment/cessation. Early cleaner/bar/waste employers and substantive dates remain open; full-time cleaner status retained without countable duration. Revisit only a trustee register, university conferral record, election return or named early employer archive.",
-    "2026-10-05 follow-up checked TWUSUPER appointed/resigned wording, Harvard2000 and early cleaning/hotel leads. S2 returns known biographies plus October2012 and May2013 Fletcher parliamentary observations, not trustee instruments or employment boundaries; the earlier observation does not resolve already retained2012 board lead. Same-name actor and US faculty syllabus excluded. Committee hearing hotel addresses are venues, not Sheldon employers. No named early cleaner/bar/waste employer, roster, personal union effective date or qualification conferral found. Retain explicitly full-time cleaner status without countable dates/control. Exhausted exact-name queries deferred until trustee/election/payroll archives or named-employer evidence appears."
+    "2026-10-05 follow-up checked TWUSUPER appointed/resigned wording, Harvard2000 and early cleaning/hotel leads. S2 returns known biographies plus October2012 and May2013 Fletcher parliamentary observations, not trustee instruments or employment boundaries; the earlier observation does not resolve already retained2012 board lead. Same-name actor and US faculty syllabus excluded. Committee hearing hotel addresses are venues, not Sheldon employers. No named early cleaner/bar/waste employer, roster, personal union effective date or qualification conferral found. Retain explicitly full-time cleaner status without countable dates/control. Exhausted exact-name queries deferred until trustee/election/payroll archives or named-employer evidence appears.",
+    "Second targeted primary pass2026-10-05: Shifted from exhausted trustee biography searches to original union financial filings. TWU2013 report newly names TEACHO, Blue Card Training and McLean Forum external directorships; added three governance spells with unknown boundaries/pay/hours and corroborated TWUSUPER employee-representative nomination. Original TEACHO account establishes nonprofit character.2016 filing again names fund directorship, no tenure endpoints. Pooled employee FTE and officers remuneration not allocated to him. Blue Card application for deregistration is not cessation; modern training programme and McLean2019 ABN activation do not prove personal dates. Ordinary FWC download timed out, recovered original reader text; no access restriction bypass or terminal job error. Seek historical board appointment/cessation and personal payroll records for the new governance gaps; early paid employers remain unresolved."
   ]
 }
