@@ -286,9 +286,9 @@
       "spell_id": "E5D-qld-acting-treasurer",
       "employer": "National Party of Australia — Queensland",
       "role": "Acting Treasurer",
-      "start_date": null,
-      "end_date": null,
-      "date_precision": "unknown",
+      "start_date": "2004",
+      "end_date": "2004",
+      "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "party_organisation",
@@ -296,10 +296,144 @@
       "government_control_at_time": "private",
       "counting_status": "excluded",
       "source_ids": [
-        "src-nga2013-treasurer-oct5"
+        "src-nga2013-treasurer-oct5",
+        "src-aph-party-pass2"
       ],
-      "evidence_note": "2013 ALGA institutional speaker biography identifies Acting Treasurer of Queensland Nationals concurrent with accountancy practice. Term boundaries, remuneration, weekly hours and exact overlap unreported; neither1998 practice start nor2004 election is adopted as a party-office boundary. Separate party organisational service from elected-office leadership and accountancy labour.",
+      "evidence_note": "2013 ALGA institutional speaker biography identifies Acting Treasurer of Queensland Nationals concurrent with accountancy practice. Term boundaries, remuneration, weekly hours and exact overlap unreported; neither1998 practice start nor2004 election is adopted as a party-office boundary. Separate party organisational service from elected-office leadership and accountancy labour. Official parliamentary biography independently resolves the acting-treasurer office to2004 at year precision; no exact days or payment stated. It is distinct from Assistant Treasurer2002–2005.",
       "counting_note": "Party organisational work excluded from public/private headline; no paid full-time role inferred."
+    },
+    {
+      "spell_id": "E5D-qld-assistant-treasurer",
+      "employer": "National Party of Australia — party organisation",
+      "role": "Assistant Treasurer (Queensland)",
+      "start_date": "2002",
+      "end_date": "2005",
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "party_organisation",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-aph-party-pass2"
+      ],
+      "evidence_note": "Official biography lists this office with the recorded year term; exact days, remuneration and hours unknown. Single-year entries do not establish service throughout that entire year. Open-ended from-year entries do not prove current continuation. Overlaps professional and other party roles.",
+      "counting_note": "Party organisational work is excluded. No separate full-time employment or additional duration inferred."
+    },
+    {
+      "spell_id": "E5D-qld-state-management",
+      "employer": "National Party of Australia — party organisation",
+      "role": "Queensland State Management Committee member",
+      "start_date": "2002",
+      "end_date": "2005",
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "party_organisation",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-aph-party-pass2"
+      ],
+      "evidence_note": "Official biography lists this office with the recorded year term; exact days, remuneration and hours unknown. Single-year entries do not establish service throughout that entire year. Open-ended from-year entries do not prove current continuation. Overlaps professional and other party roles.",
+      "counting_note": "Party organisational work is excluded. No separate full-time employment or additional duration inferred."
+    },
+    {
+      "spell_id": "E5D-charleville-warrego-offices",
+      "employer": "National Party of Australia — party organisation",
+      "role": "Charleville Branch chair and Warrego State Electorate Council vice-chair",
+      "start_date": "1995",
+      "end_date": "1995",
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "party_organisation",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-aph-party-pass2"
+      ],
+      "evidence_note": "Official biography lists this office with the recorded year term; exact days, remuneration and hours unknown. Single-year entries do not establish service throughout that entire year. Open-ended from-year entries do not prove current continuation. Overlaps professional and other party roles.",
+      "counting_note": "Party organisational work is excluded. No separate full-time employment or additional duration inferred."
+    },
+    {
+      "spell_id": "E5D-qld-conference-delegate",
+      "employer": "National Party of Australia — party organisation",
+      "role": "Queensland State Conference delegate",
+      "start_date": "1995",
+      "end_date": null,
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "party_organisation",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-aph-party-pass2"
+      ],
+      "evidence_note": "Official biography lists this office with the recorded year term; exact days, remuneration and hours unknown. Single-year entries do not establish service throughout that entire year. Open-ended from-year entries do not prove current continuation. Overlaps professional and other party roles.",
+      "counting_note": "Party organisational work is excluded. No separate full-time employment or additional duration inferred."
+    },
+    {
+      "spell_id": "E5D-central-council-delegate",
+      "employer": "National Party of Australia — party organisation",
+      "role": "Central Council delegate",
+      "start_date": "2000",
+      "end_date": null,
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "party_organisation",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-aph-party-pass2"
+      ],
+      "evidence_note": "Official biography lists this office with the recorded year term; exact days, remuneration and hours unknown. Single-year entries do not establish service throughout that entire year. Open-ended from-year entries do not prove current continuation. Overlaps professional and other party roles.",
+      "counting_note": "Party organisational work is excluded. No separate full-time employment or additional duration inferred."
+    },
+    {
+      "spell_id": "E5D-federal-council-member",
+      "employer": "National Party of Australia — party organisation",
+      "role": "Federal Council member",
+      "start_date": "2002",
+      "end_date": "2002",
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "party_organisation",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-aph-party-pass2"
+      ],
+      "evidence_note": "Official biography lists this office with the recorded year term; exact days, remuneration and hours unknown. Single-year entries do not establish service throughout that entire year. Open-ended from-year entries do not prove current continuation. Overlaps professional and other party roles.",
+      "counting_note": "Party organisational work is excluded. No separate full-time employment or additional duration inferred."
+    },
+    {
+      "spell_id": "E5D-st-george-chair",
+      "employer": "National Party of Australia — party organisation",
+      "role": "St George Branch chair (Queensland)",
+      "start_date": "2003",
+      "end_date": "2005",
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "party_organisation",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-aph-party-pass2"
+      ],
+      "evidence_note": "Official biography lists this office with the recorded year term; exact days, remuneration and hours unknown. Single-year entries do not establish service throughout that entire year. Open-ended from-year entries do not prove current continuation. Overlaps professional and other party roles.",
+      "counting_note": "Party organisational work is excluded. No separate full-time employment or additional duration inferred."
     }
   ],
   "sources": [
@@ -472,6 +606,16 @@
       "locator": "PDF p36/printed NGA brochurep7, Senator Barnaby Joyce profile",
       "note": "Institutional speaker biography specifically identifies Acting Treasurer of Queensland Nationals concurrent with accountancy business. No exact office dates, pay or hours. Rounded business chronology not adopted.",
       "retrieved": "2026-10-05"
+    },
+    {
+      "source_id": "src-aph-party-pass2",
+      "url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=e5d&print=1",
+      "publisher": "Parliament of Australia",
+      "title": "Barnaby Joyce parliamentary biography: party positions",
+      "retrieved": "2026-10-05",
+      "source_type": "official_biography",
+      "locator": "Party positions, public indexed text; corroborated2011 Parliamentary Handbook Joyce entry",
+      "note": "Primary public index supplies organisational offices and year terms. Full APH access blocked/restricted; no restriction bypass. Dates concern party office, not remuneration or accountancy labour."
     }
   ],
   "research_notes": [
@@ -486,7 +630,8 @@
     "Follow-up3October2026 locates independent2011 assembly biography and first-person2020 House speech confirming St Vincent de Paul activity; adds a separate excluded nonprofit record without adopting unverified sixteen-year duration or counselling title. Original ABC21November2006 URL https://www.abc.net.au/local/stories/2006/11/21/1793869.htm returned404; linked archive returned Internal Error. The Age2005 original Moree-bouncer article returned non-retryable reader error; not accessed through a restriction-bypassing mirror. Search click invalid-arguments errors were recovered by reading public Wikipedia source-link HTML; local missing bs4 recovered using Python standard-library HTMLParser. Further volunteer terms, venue chronology and unnamed accountant employers remain unresolved.",
     "Fourth follow-up4October2026 materially identifies Conagra as the previously unnamed American multinational: Joyce's first-person27November2024 House speech says he was a cost accountant there. The chartered accountancy firm, exact transition, payroll entity, hours and leave remain unresolved. Exact Wicklow and St Vincent de Paul searches repeated the two-year and sixteen-year secondary leads without primary term evidence; those durations were not adopted.",
     "Follow-up2026-10-04: Targeted Conagra and chartered-firm identity queries surfaced a27June2013 Senate speech at https://www.openaustralia.org.au/senate/?gid=2013-06-27.149.1 corroborating the already identified multinational, without employee dates or payroll entity. Archived2013 council speaker biographies repeat the unnamed firm/three-year sequence, not appointment evidence.9September2026 House speech https://www.openaustralia.org.au/debates/?id=2026-09-09.132.1 distinguishes Joyce’s Reserve service from his grandfather’s full-time military service; relative hours are not attributed to Joyce. Current staff job advertisements concern employees of his office, not his own accountant hours. No materially new employment fact; defer generic biographies and seek actual historical firm or bank personnel records.",
-    "Follow-up2026-10-05: Institutional2013 ALGA speaker biography identifies omitted Queensland Nationals Acting Treasurer office; added separately with unknown term/pay/hours and no practice-date substitution. Exact Conagra/chartered-firm and QIDC queries returned existing cost-accountant/unnamed firm narrative only. Indexed2012 original newspaper Conagra story corroborates known employer but not appointment/payroll; no paywall bypass or co-worker facts assigned. Wicklow part-time search found no hours. Corporate merger context remains distinct from personal payroll transition; next priority actual firm identification, bank personnel/control instrument and party office register."
+    "Follow-up2026-10-05: Institutional2013 ALGA speaker biography identifies omitted Queensland Nationals Acting Treasurer office; added separately with unknown term/pay/hours and no practice-date substitution. Exact Conagra/chartered-firm and QIDC queries returned existing cost-accountant/unnamed firm narrative only. Indexed2012 original newspaper Conagra story corroborates known employer but not appointment/payroll; no paywall bypass or co-worker facts assigned. Wicklow part-time search found no hours. Corporate merger context remains distinct from personal payroll transition; next priority actual firm identification, bank personnel/control instrument and party office register.",
+    "Second targeted pass2026-10-05 original official party-position index resolves Acting Treasurer2004 and supplies omitted Assistant Treasurer2002–2005, state management2002–2005 and branch/council/delegate offices; added excluded organisational spells with exact days/payment/hours unknown. Corroborating2011/2020 official handbook indexed terms agree; direct2020 PDF403 not bypassed. Chartered-firm/Conagra searches yielded known unnamed sequence only. AFR28April2005 public index states intention to retain50percent as silent partner, but original403: no actual cessation/share interval inferred and no archive used. Next meaningful evidence for private/public totals remains original firm identification, personal bank/payroll and practice-work records."
   ],
   "open_questions": [
     "Which farms employed Joyce from 1989 to 1991, and what were the dates, hours and breaks, including any nightclub work?",
@@ -497,6 +642,6 @@
     "When did Michael take over practice management, when did Barnaby cease personal client work, and what hours/leave applied before and after Senate commencement? ABR dates alone cannot answer.",
     "What were Wicklow Hotel employment dates, legal payroll entity and hours; was work during or after university, and were there separate Moree or other venues?",
     "Which St Vincent de Paul conference, duties, dates and hours applied, and was this entirely voluntary? Original2006 interview remains unavailable; no sixteen-year interval inferred.",
-    "What were Queensland Nationals Acting Treasurer appointment/cessation, remuneration and hours, and what exact overlap applied to the accountancy practice?"
+    "What were the exact days, remuneration and hours for the documented Queensland Nationals acting-treasurer2004, assistant-treasurer2002–2005 and other branch/council/committee offices; how did they overlap accountancy practice?"
   ]
 }
