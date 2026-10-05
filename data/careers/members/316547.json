@@ -45,19 +45,22 @@
       "start_date": null,
       "end_date": null,
       "date_precision": "unknown",
-      "employment_status": "unknown",
+      "employment_status": "part_time",
       "fte_fraction": null,
       "category": "public_service",
       "headline_sector": "public",
       "government_control_at_time": "public",
-      "counting_status": "insufficient_evidence",
+      "counting_status": "excluded",
       "source_ids": [
         "src-3",
         "src-4",
-        "src-5"
+        "src-5",
+        "src-attendant-parttime2025-pass2",
+        "src-attendant-bulletinpost-pass2",
+        "src-attendant-heraldo-pass2"
       ],
-      "evidence_note": "Rebello's member biography and first speech describe work as a parliamentary attendant sorting mail and supporting the House chamber. In a 2026 interview he said he was about 19, and a later post described the work as roughly ten years before 2025. Exact dates, hours, employment basis and leave are unpublished. Revisited member biography and speech confirm attendant/mail work but do not name employing department. Earlier record assigned Department of Parliamentary Services without an explicit supporting passage; retain that as a verification lead, not established employer identity.",
-      "counting_note": "Public employment is supported, but no countable full-time interval is established."
+      "evidence_note": "Rebello's member biography and first speech describe work as a parliamentary attendant sorting mail and supporting the House chamber. In a 2026 interview he said he was about 19, and a later post described the work as roughly ten years before 2025. Exact dates, hours, employment basis and leave are unpublished. Revisited member biography and speech confirm attendant/mail work but do not name employing department. Earlier record assigned Department of Parliamentary Services without an explicit supporting passage; retain that as a verification lead, not established employer identity. Contemporary5May2025 Gold Coast Bulletin indexed opening and publisher post explicitly describe parliamentary chamber assistance as a part-time job during university; the11May2025 O Heraldo reproduction preserves that description. Exact employer department, calendar boundaries, hours and leave remain unknown.",
+      "counting_note": "Explicit part-time parliamentary-attendant work is excluded from the substantive full-time headline measure; public sector identity does not make it countable."
     },
     {
       "spell_id": "316547-03",
@@ -652,6 +655,36 @@
       "source_type": "employer_record",
       "locator": "Opening paragraph We have acted; Market highlights — Royal Commissions",
       "note": "Employer primary page confirms firm acted as solicitors assisting for Bushfires Royal Commission. Together with report appendix and established KWM employment this supports assignment attribution to KWM; modern firm name is not retroactively substituted for2020name. No personal date/hours/leave supplied."
+    },
+    {
+      "source_id": "src-attendant-parttime2025-pass2",
+      "url": "https://www.goldcoastbulletin.com.au/news/leon-rebello-lnp-candidate-set-to-represent-gold-coast-seat-of-mcpherson-in-federal-parliament/news-story/83e0cad57c438a3bcf9921704a3736c6",
+      "publisher": "Gold Coast Bulletin",
+      "title": "Baby of the house: Leon Rebello profile,5May2025",
+      "retrieved": "2026-10-05",
+      "source_type": "news",
+      "locator": "Publicly indexed opening excerpt",
+      "note": "Explicitly calls parliamentary chamber service a part-time university job. Full result page showed cookies wall; no hidden article relied on."
+    },
+    {
+      "source_id": "src-attendant-bulletinpost-pass2",
+      "url": "https://www.facebook.com/goldcoastbulletin/photos/leon-rebello-once-poured-glasses-of-water-for-federal-mps-as-a-part-time-job-whi/1100190872151761/",
+      "publisher": "Gold Coast Bulletin",
+      "title": "Leon Rebello parliamentary attendant post",
+      "retrieved": "2026-10-05",
+      "source_type": "news",
+      "locator": "Publicly indexed publisher post",
+      "note": "Publisher own post repeats explicit part-time basis; no calendar boundaries or weekly hours."
+    },
+    {
+      "source_id": "src-attendant-heraldo-pass2",
+      "url": "https://www.mail-archive.com/goanet%40lists.goanet.org/msg151887.html",
+      "publisher": "O Heraldo via publicly archived Goanet repost",
+      "title": "Leon Gets The Gold,11May2025",
+      "retrieved": "2026-10-05",
+      "source_type": "news",
+      "locator": "Final career paragraph quoting Gold Coast Bulletin",
+      "note": "Contemporary reproduction independently preserves the same part-time description and mail/chamber tasks. Original link redirects to homepage; reproduction is transparently identified."
     }
   ],
   "research_notes": [
@@ -665,6 +698,7 @@
     "Source errors recovered/limited: old LinkedIn profile DisabledError; current profile999Unknown Status Code; ANU2018clerkshipguide400Unsupported content-type application/octet-stream; third-party post robots.txt fetch denied. Publicly indexed facts used only where explicit; no access-control bypass.",
     "Follow-up 2026-10-03: user-supplied screenshot of the public professional profile resolves KWM Graduate February–October2019 and Solicitor October2019–June2025 at month precision. Lawyers Weekly independently confirms the summer-clerk-to-Bishop-office sequence and temporary graduate-program deferral. Hours, leave, exact day boundaries, ACT admission date and the May–June2025 KWM/elected-office overlap remain unresolved; no full-time total calculated.",
     "Follow-up2026-10-04: First-person18April2025interview recovers pharmacist-assistant and tutor roles and full-time campaign from April2024. Employers, early-job dates/pay/hours and legal leave allocation remain unknown. Commonwealth royal-commission representation is a client-work observation, not proof of government payroll. Third-party unpaid-leave claim remains a lead; direct LinkedIn returned DisabledError and no quantitative deduction was adopted. Exact ACT admission, KWM daily boundaries and attendant department still unresolved.",
-    "Follow-up2026-10-05 materially enriched: original2020Royal Commission appendix, printed/PDFp45, visually inspected from public report copy, identifies Rebello under Solicitors Assisting rather than Office staff. Primary KWM practice history confirms firm supplied Bushfires solicitors assisting. Refined existing KWM role with nested2020assignment, explicitly separating commission/client from employer and retaining unknown personal assignment boundaries, hours and leave; no additive public-service years. Original search PDFs returned400content-length limits(19141850appendices/17636996report); ordinary original download timed out, PSU mirror404 and Blue Mountains verification wall. Accessible Volunteer Firefighters report copy recovered appendix without bypass. Pharmacy/tutoring employer and ACT admission searches repeat current material; third-party unpaid-campaign-leave text still lacks dated personal leave/return and does not resolve full-time legal duration."
+    "Follow-up2026-10-05 materially enriched: original2020Royal Commission appendix, printed/PDFp45, visually inspected from public report copy, identifies Rebello under Solicitors Assisting rather than Office staff. Primary KWM practice history confirms firm supplied Bushfires solicitors assisting. Refined existing KWM role with nested2020assignment, explicitly separating commission/client from employer and retaining unknown personal assignment boundaries, hours and leave; no additive public-service years. Original search PDFs returned400content-length limits(19141850appendices/17636996report); ordinary original download timed out, PSU mirror404 and Blue Mountains verification wall. Accessible Volunteer Firefighters report copy recovered appendix without bypass. Pharmacy/tutoring employer and ACT admission searches repeat current material; third-party unpaid-campaign-leave text still lacks dated personal leave/return and does not resolve full-time legal duration.",
+    "Second targeted follow-up 2026-10-05 materially enriched: original Gold Coast Bulletin article index and publisher social post explicitly establish part-time parliamentary attendant/chamber work while studying. O Heraldo11May2025 public reproduction corroborates the wording; original Herald link redirected to homepage and original Bulletin result displayed cookies wall, with limits recorded. Attendant basis changed unknown to part_time and exclusion applied without dates or weekly-hour inference. Goan family profiles identify parents employment only, not Leons pharmacy employer. Pharmacy/tutor and ACT admission queries otherwise returned existing account or unrelated Indian aviation/Goa-school namesakes. KWM personal hours, campaign leave, exact ACT admission and attendant department remain unresolved."
   ]
 }
