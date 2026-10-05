@@ -84,7 +84,7 @@
       "role": "Global public relations / chief-executive communications role",
       "start_date": null,
       "end_date": "2010-09",
-      "date_precision": "mixed",
+      "date_precision": "month",
       "employment_status": "full_time",
       "fte_fraction": null,
       "category": "private_enterprise",
@@ -118,9 +118,10 @@
       "source_ids": [
         "src-11",
         "src-12",
-        "src-15"
+        "src-15",
+        "src-biac-vicechair2015-pass2"
       ],
-      "evidence_note": "A public professional-profile aggregation reports Global Regulatory and Public Policy program leadership from September 2010 to October 2014 and Global Public Policy program leadership from October 2014 to September 2017. A 2017 IOE/Deloitte report independently identifies Jarrett as a Director of Deloitte Belgium and the Deloitte Global Public Policy Group, corroborating employer and function but not the full month sequence or hours.",
+      "evidence_note": "A public professional-profile aggregation reports Global Regulatory and Public Policy program leadership from September 2010 to October 2014 and Global Public Policy program leadership from October 2014 to September 2017. A 2017 IOE/Deloitte report independently identifies Jarrett as a Director of Deloitte Belgium and the Deloitte Global Public Policy Group, corroborating employer and function but not the full month sequence or hours. Association-hosted March2015 joint release supplies an earlier contemporaneous Deloitte Global Public Policy Group observation, without endorsing aggregation-only boundaries.",
       "counting_note": "Personal first-speech full-time statement supports status, but role boundaries, sector allocation and placement of six-month parental break remain unresolved; no total calculated."
     },
     {
@@ -150,7 +151,7 @@
       "role": "Director, Global Risk and Global Regulatory and Public Policy / Strategy, Innovation and Public Policy",
       "start_date": "2019-01",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "month",
       "employment_status": "full_time",
       "fte_fraction": null,
       "category": "private_enterprise",
@@ -331,6 +332,25 @@
       ],
       "evidence_note": "Original1999 committee report identifies1995 Aspley candidacy; ABC candidate guides confirm the later2022 and2025 Brisbane contests. These are separate campaigns, not a continuous1995–2025 job. Appointment/pay, campaign leave, weekly hours and exact campaign boundaries unknown.",
       "counting_note": "Political candidacy is excluded regardless of pay; campaign years do not date Deloitte employment or leave."
+    },
+    {
+      "spell_id": "298574-16",
+      "employer": "Business and Industry Advisory Committee to the OECD (BIAC)",
+      "role": "Vice-Chair, Employment, Labor and Social Affairs Committee",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "employer_association",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-biac-vicechair2015-pass2"
+      ],
+      "evidence_note": "Vice-chair role observed in23March2015 joint release. Committee governance concurrent with Deloitte; exact boundaries and remuneration unstated.",
+      "counting_note": "Excluded association governance; not a separate private/public employment interval."
     }
   ],
   "sources": [
@@ -553,6 +573,16 @@
       "note": "Contemporary Deloitte release identifies Madonna Jarrett as Director, Global Public Relations and CEO Communications, providing an earlier dated Deloitte observation but not a commencement date, legal employing entity or hours.",
       "retrieved": "2026-10-04",
       "source_id": "src-22"
+    },
+    {
+      "source_id": "src-biac-vicechair2015-pass2",
+      "url": "https://businessnz.org.nz/putting-all-our-ideas-to-work-women-and-entrepreneurship",
+      "publisher": "BusinessNZ / Business and Industry Advisory Committee to the OECD",
+      "title": "Putting ALL our Ideas to Work: Women and Entrepreneurship",
+      "retrieved": "2026-10-05",
+      "source_type": "other",
+      "locator": "23 March2015 media release, Jarrett quotation and ELSA footnote (lines175,184)",
+      "note": "Original association-hosted release identifies Deloitte Global Public Policy Group and BIAC Employment, Labor and Social Affairs Committee vice-chair. Observation only; no appointment/payroll boundaries or hours."
     }
   ],
   "research_notes": [
@@ -565,6 +595,7 @@
     "Validation caught pre-existing governance category outside approved vocabulary; volunteer board row recoded unpaid_work, still excluded. Local AssertionError resolved before commit.",
     "2026-10-03 follow-up: an August 2023 joint IOE-Deloitte report provides the latest primary Deloitte observation found and records a title change to Director, Strategy, Innovation and Public Policy, Deloitte Global. It does not establish uninterrupted service from January 2019, weekly hours, campaign leave or final cessation. Fresh Queensland parliamentary, Mater, historical government-office and Deloitte searches otherwise repeated existing facts or professional-profile aggregations; exact early employers and boundaries remain unresolved.",
     "2026-10-04 follow-up: a contemporary Deloitte IAS Plus release identifies Jarrett as Director, Global Public Relations and CEO Communications on 19 December 2005, moving the first primary Deloitte observation earlier than the January 2006 release. Exact-name searches for Mater radiography, the Victorian Financial Institutions Commission and Queensland Justice/Corrective Services produced only professional-profile aggregations already treated as leads, not original appointment or payroll evidence. Early employers, government-office boundaries, hours, the six-month parental break placement and Deloitte commencement remain unresolved.",
-    "Targeted follow-up2026-10-05: Added previously unseparated intermittent1995Aspley and2022/2025Brisbane candidacy, primary1999 parliamentary report corroborating the earlier contest. No continuous party job or campaign-induced Deloitte cessation inferred. Earlier Deloitte2001 query exposed only professional aggregations. Full-name/Madonna Camp historical search yielded no primary radiography, VFIC or ministerial personnel boundary. Original2000 Hansard identifies the alternative name, but its disputed current-job claim remains superseded by Braddy's correction. Next: hospital/vintage government personnel lists or original Deloitte role/leave records."
+    "Targeted follow-up2026-10-05: Added previously unseparated intermittent1995Aspley and2022/2025Brisbane candidacy, primary1999 parliamentary report corroborating the earlier contest. No continuous party job or campaign-induced Deloitte cessation inferred. Earlier Deloitte2001 query exposed only professional aggregations. Full-name/Madonna Camp historical search yielded no primary radiography, VFIC or ministerial personnel boundary. Original2000 Hansard identifies the alternative name, but its disputed current-job claim remains superseded by Braddy's correction. Next: hospital/vintage government personnel lists or original Deloitte role/leave records.",
+    "Targeted second follow-up2026-10-05: primary BusinessNZ/BIAC March2015 release corroborates Deloitte public-policy function and adds previously missing BIACcommittee vice-chair, excluded governance. Deloitte reportlink redirects with500/non-retryable sourceerror; no unseen report facts used. WebWire2005release independently repeats already-supported19December2005 role, not earlier start. CorporateWiki NewYorkdirector entry is a possible historicalfiling lead, not proof of personal payroll entity or employment. Mater/privatepractice,VFIC,government offices and parental-break placement remain unresolved."
   ]
 }
