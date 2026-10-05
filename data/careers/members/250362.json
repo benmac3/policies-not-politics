@@ -210,7 +210,7 @@
     {
       "spell_id": "250362-greens",
       "employer": "Australian Greens",
-      "role": "Member from 2004; candidate and later deputy leader",
+      "role": "Member from 2004; candidate and later deputy leader; South Sydney Greens convenor2010–2011 and NSW Women’s Working Group co-convenor2011–2013",
       "start_date": "2004",
       "end_date": null,
       "date_precision": "year",
@@ -222,9 +222,10 @@
       "counting_status": "excluded",
       "source_ids": [
         "src-greens",
-        "src-secondary"
+        "src-secondary",
+        "src-nsw-biography-pass2"
       ],
-      "evidence_note": "The secondary biography records membership from 2004 and candidacies in 2011 and 2012; the current party biography confirms party leadership. Remuneration, hours and overlaps are unresolved and party activity is not assumed to be employment.",
+      "evidence_note": "The secondary biography records membership from 2004 and candidacies in 2011 and 2012; the current party biography confirms party leadership. Remuneration, hours and overlaps are unresolved and party activity is not assumed to be employment. Official NSW biography gives the two convenor terms. They are subterms within party activity, with remuneration and hours unknown; they overlap UNSW employment and are not additive employment duration.",
       "counting_note": "Party activity is excluded under the codebook."
     },
     {
@@ -378,10 +379,12 @@
       "counting_status": "excluded",
       "source_ids": [
         "src-affidavit2023-oct3",
-        "src-orica2010-oct3"
+        "src-orica2010-oct3",
+        "src-orica-nov2009-pass2",
+        "src-orica-mar2010-pass2"
       ],
-      "evidence_note": "Affidavit14(a); contemporaneous newsletter refines start to November2005. Some affiliations unpaid, individual basis unknown. Advisory chair is not operational company employment.",
-      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "evidence_note": "Affidavit14(a); contemporaneous newsletter refines start to November2005. Some affiliations unpaid, individual basis unknown. Advisory chair is not operational company employment. Original10November2009 minutes item10.2 explicitly discuss whether the chair role should remain voluntary, supporting a voluntary basis at that stage; personal whole-term terms are not supplied.16March2010 minutes item8 record farewell, possible return as observer and agreement for council representatives to chair May/August meetings; item9.3 records her final expenses invoice and authorised reimbursement. Expenses reimbursement is not wages or an honorarium. These narrow the departure sequence to the March-to-May2010 meeting transition, but no exact legal cessation day is stated; year-level endpoint retained. No workload inferred from meeting start/end times.",
+      "counting_note": "Independent advisory governance excluded. Contemporary voluntary-role discussion and expense reimbursement do not establish paid operational employment or full-time hours.",
       "spell_id": "250362-orica-chair"
     },
     {
@@ -483,7 +486,7 @@
     {
       "spell_id": "250362-authorship-unallocated",
       "employer": "Author contracting/payroll entity unresolved; publishers include Federation Press and Allen & Unwin",
-      "role": "Coauthor of Environmental Decision-Making; memoir author",
+      "role": "Coauthor of Environmental Decision-Making; memoir author; commissioned environmental position-paper author",
       "start_date": null,
       "end_date": null,
       "date_precision": "unknown",
@@ -496,9 +499,10 @@
       "source_ids": [
         "src-federation-author-oct5",
         "src-allen-unwin-author-oct5",
-        "src-aph-publications-oct5"
+        "src-aph-publications-oct5",
+        "src-nsw-biography-pass2"
       ],
-      "evidence_note": "Publisher and official bibliographic records support2009 coauthored environmental book and2021 memoir. No author contract, pay/royalties, substantive hours or writing boundaries supplied. Publisher is not assumed payroll employer. Academic writing may be nested in university or consulting duties;2021 memoir overlaps Senate service. No separate continuous job or additional duration established.",
+      "evidence_note": "Publisher and official bibliographic records support2009 coauthored environmental book and2021 memoir. No author contract, pay/royalties, substantive hours or writing boundaries supplied. Publisher is not assumed payroll employer. Academic writing may be nested in university or consulting duties;2021 memoir overlaps Senate service. No separate continuous job or additional duration established. Official NSW bibliography identifies an October2009 position paper Achieving systemic change for sustainability through enabling effective Community Education and Engagement as commissioned by NSW Department of Environment, Climate Change and Water. This identifies a commissioning agency and output month, not payroll employer, paid consulting contract or writing interval. Original paper/contract not located; allocation to consulting, council or visiting university duties remains unknown.",
       "counting_note": "Employment/payment status and allocation unresolved; output publication dates do not establish countable employment."
     }
   ],
@@ -682,6 +686,36 @@
       "source_type": "official_biography",
       "locator": "Public index Publications section",
       "note": "Lists2009 coauthored book and2021 memoir. Output dates, not payroll evidence."
+    },
+    {
+      "source_id": "src-nsw-biography-pass2",
+      "url": "https://www.parliament.nsw.gov.au/members-and-electorates/members-and-ministers/members-details?memberId=101",
+      "publisher": "Parliament of New South Wales",
+      "title": "Dr Mehreen Faruqi former member biography",
+      "retrieved": "2026-10-05",
+      "source_type": "official_biography",
+      "locator": "Political party activity and Publications, renderedlines149–161",
+      "note": "Convenor terms and named October2009 commissioning agency. Dates for outputs/party subterms are not salaried-employment boundaries."
+    },
+    {
+      "source_id": "src-orica-nov2009-pass2",
+      "url": "https://www.orica.com/ArticleDocuments/811/20091110_CPRCMinutes.pdf.aspx",
+      "publisher": "HCB Community Participation and Review Committee / Orica public record",
+      "title": "CPRC minutes10November2009",
+      "retrieved": "2026-10-05",
+      "source_type": "employer",
+      "locator": "Printedp10of13, items10.1–10.2; public search-indexed original text",
+      "note": "Expense invoicing and question whether chair should remain voluntary; distinguishes voluntary governance from remuneration. Original public indexed text inspected, no individual wage or time commitment stated."
+    },
+    {
+      "source_id": "src-orica-mar2010-pass2",
+      "url": "https://www.orica.com/ArticleDocuments/811/20100316_CPRCminutes_Prev1.pdf.aspx",
+      "publisher": "HCB Community Participation and Review Committee / Orica public record",
+      "title": "CPRC minutes16March2010",
+      "retrieved": "2026-10-05",
+      "source_type": "employer",
+      "locator": "Printedpp1,3,8of10; attendance, items8and9.3; original reader and indexed page8 text",
+      "note": "Faruqi chair attendance, farewell and council interim chair agreement, final expense invoice. Initial open readable; subsequent page-offsetopen returned404. Indexed page8 text supplies detailed transition, without exact formal cessation day or salary."
     }
   ],
   "research_notes": [
@@ -700,7 +734,8 @@
     "Follow-up3October2026: publicly filed personal affidavit resolves NESPAK identity and omitted ERM employment, separates advisory affiliations and narrows acting directorship. Historical NESPAK account supports public control and contemporary3i release supports private ERM group ownership. Personal pay, hours, leave,2004 transitions and Australian payroll entity remain unresolved. Orica indexed newsletter adds November2005 chair start; direct403 not retried. NESPAK oversized web-reader failure recovered by authorized ordinary PDF download. No job-wide error or inferred full-time status. Additional precise roles from the affidavit are accounted for without copying unrelated court claims or family material.",
     "Fourth follow-up4October2026 targeted Sinclair Knight Merz1998/1999, ERM2004, Macquarie University and full-time campaign leads. Official parliamentary and first-party results repeated the recorded chronology. An SBS2018 interview says she lectured at Macquarie University, but no appointment, dates, payroll or corroborating employer record surfaced and the detailed2023 affidavit instead enumerates other employment; the claim remains an unassigned lead rather than a new spell. No evidence allocates the campaign full-time statement or resolves SKM leave/continuous hours. No material change; preserve null totals and exact open questions.",
     "Follow-up2026-10-04: Council-report route yielded a new22June2009 primary employment observation. Mosman2008/09 annual report describes managerial functions but contains no personal name/hours; not assigned as personal FT proof. Environmental Trust2008/09 report lists existing advisory membership with acting-director affiliation potentially carried forward; does not extend UNSW appointment. Government PDF screenshot500 redirects inaccessible to reader are individual-source errors. No new hours, leave or calendar boundaries; await personal employer documents.",
-    "2026-10-05 material follow-up adds author activity as an unallocated component from primary publisher and parliamentary bibliography:2009 environmental book coauthorship and2021 memoir. Unknown author contract/payment/hours; publisher not assumed employer, academic writing potentially nested and2021 overlaps Senate. No output date converted to job boundary. Macquarie institutional results show2023 elected-office panel participation, not an academic appointment; SBS wording remains uncorroborated, and stale course-author credits do not establish2008 paid work. Existing SKM1998/1999 conflict and leave/hours gaps retained. Allen&Unwin reader returned JavaScript shell, indexed public metadata only. Advance pending personal contracts or original full-time interval evidence."
+    "2026-10-05 material follow-up adds author activity as an unallocated component from primary publisher and parliamentary bibliography:2009 environmental book coauthorship and2021 memoir. Unknown author contract/payment/hours; publisher not assumed employer, academic writing potentially nested and2021 overlaps Senate. No output date converted to job boundary. Macquarie institutional results show2023 elected-office panel participation, not an academic appointment; SBS wording remains uncorroborated, and stale course-author credits do not establish2008 paid work. Existing SKM1998/1999 conflict and leave/hours gaps retained. Allen&Unwin reader returned JavaScript shell, indexed public metadata only. Advance pending personal contracts or original full-time interval evidence.",
+    "Second targeted primary pass2026-10-05: original NSW biography adds party convenor subterms and identifies DECCW as commissioner of October2009 environmental paper; neither proves salary or government employment. Original Orica CPRC2009/2010 minutes distinguish voluntary chair discussion and final expense reimbursement, and document farewell/council-interim transition across March–May2010. No exact personal last day inferred from meeting calendar. Council historical/commissioned-paper exact queries otherwise reproduce existing chronology; original writing contract and payroll allocation remain open. No FT totals; original SKM service/leave and council appointment records remain priorities."
   ],
   "open_questions": [
     "Who employed Faruqi as a structural engineer in Pakistan, on what dates and hours, and under what ownership?",
