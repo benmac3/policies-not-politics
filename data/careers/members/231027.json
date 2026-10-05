@@ -134,9 +134,10 @@
       "source_ids": [
         "src-1",
         "src-rabo2012",
-        "src-interest-lead"
+        "src-interest-lead",
+        "src-afi2014-pass2"
       ],
-      "evidence_note": "Bank education role could be episodic consultancy, not separate continuous full-time employment. End and contract relationship unverified. Employer15March2012 announcement specifically appoints Executive Development Program director after John Morris; broad APH1998 commencement cannot be applied to every programme.44P register secondary transcription describes occasional presentations; original unavailable. Not proof of continuous full-time work.",
+      "evidence_note": "Bank education role could be episodic consultancy, not separate continuous full-time employment. End and contract relationship unverified. Employer15March2012 announcement specifically appoints Executive Development Program director after John Morris; broad APH1998 commencement cannot be applied to every programme.44P register secondary transcription describes occasional presentations; original unavailable. Not proof of continuous full-time work. Original2014 conference profile says he ran farm leadership courses for Rabobank for13years before entering politics. This retrospective duration does not identify individual course dates, continuity, cessation, contract employer or ordinary weekly hours; do not back-calculate a2000 start or override APH1998 broad entry. Specific2012 Executive Development appointment remains separately represented within this umbrella.",
       "counting_note": "Dates, employer control and/or substantive full-time status remain insufficient for a duration calculation; unknown is not zero."
     },
     {
@@ -389,6 +390,25 @@
       ],
       "evidence_note": "Report places founding directorship in2010 and describes departure after a few months, without a verified personal cessation date. Article uses both singular and plural company names; legal name needs original filing. No operational job, remuneration or hours established.",
       "counting_note": "Corporate governance/ownership excluded from full-time employment headline absent separately supported substantive paid work; do not add concurrent consultancy time."
+    },
+    {
+      "spell_id": "231027-family-farming",
+      "employer": "Family farming business (legal entity unresolved)",
+      "role": "Active farming-business involvement; operational capacity unspecified",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "private_enterprise",
+      "headline_sector": "private",
+      "government_control_at_time": "private",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-afi2014-pass2"
+      ],
+      "evidence_note": "Original2014 speaker profile describes active involvement in family farming business while Member for Hume, distinct from merely owning farm shares. Does not name entity, specify duties/remuneration, contract or dates/hours. It cannot be automatically identified with Farm Partnerships Australia or Growth Farms Australia; potential overlap retained pending business documentation.",
+      "counting_note": "No sufficiently supported full-time interval; do not count passive ownership, infer self-employment or duplicate advisory/consulting spells."
     }
   ],
   "sources": [
@@ -561,6 +581,16 @@
       "source_type": "news",
       "locator": "JRAT International/Centaurus paragraphs and Resolution Manager section",
       "note": "Reports JRAT2004–2015 directorship, quotes Taylor confirming those years, and identifies Resolution founding-director role in2010. Embedded registry images were not readable through ordinary download(HTTP403); precise days remain secondary-only claims."
+    },
+    {
+      "source_id": "src-afi2014-pass2",
+      "url": "https://www.farminstitute.org.au/wp-content/uploads/2021/03/FAF2014_speakers.pdf",
+      "publisher": "Australian Farm Institute",
+      "title": "Funding Agriculture’s Future2014: Speaker Profiles",
+      "retrieved": "2026-10-05",
+      "source_type": "professional_profile",
+      "locator": "PDFindex1, Funding agribusiness: Angus Taylor MP biography",
+      "note": "States active family farming business involvement and13years running Rabobank farm leadership courses before politics. The2021 upload path is not activity date. Reader recovered PDF despite prior HTTP400; ordinary download403 was not bypassed."
     }
   ],
   "research_notes": [
@@ -574,6 +604,7 @@
     "Third follow-up3October2026: recovered the complete25July2001 ASX-hosted Colloqui/The Farmshed announcement previously available only as an index. It directly establishes Taylor acting as CEO of The Farmshed Pty Limited, discussing its professional advisory services and using a company contact, but remains only a point-in-time observation and supplies no start, end, hours, leave or McKinsey secondment terms. Renewed EAI, Farm Partnerships, Rabobank and PJP searches returned secondary corporate/governance dates or facts already recorded; no further employment boundary was adopted.",
     "Fourth follow-up4October2026: targeted Farmshed transition, Port Jackson Partners commencement and Rabobank searches recovered a2008 PJP submission hosted by the National Competition Council stating that Taylor worked at McKinsey1994–2001 and began with PJP in2002. This corroborates, but does not improve on, the already recorded employer report and month-level public profile dates. ASX search repeated the25July2001 Farmshed CEO point; no sale filing, secondment terms, individual hours, leave, exact CEO boundaries or accepted purchaser role emerged.",
     "Follow-up2026-10-04: Added missing JRAT/Centaurus and Resolution founding-director roles from identified investigative reporting, including quoted personal confirmation of JRAT2004–2015. Original extract images’ ordinary download returned403; exact-day secondary claims not adopted. Resolution legal-name variation and departure remain unresolved. Rural Press’s original18October2002 ASX address confirms Farmshed business sale, but company sale is not Taylor’s personal CEO end or accepted purchaser employment. No individual hours/leave established.",
-    "Follow-up 2026-10-05: targeted Farmshed CEO transition, Rabobank programme service and original Victorian Gas Market Taskforce report searches using both engines returned the existing 2001 ASX point, official chronology and derivative report citations. No accepted purchaser role, CEO boundary, teaching contract, consulting leave or full-time work interval emerged. Australian Farm Institute 2014 speaker-profile PDF https://www.farminstitute.org.au/wp-content/uploads/2021/03/FAF2014_speakers.pdf was an archival lead; retrieval returned HTTP400 Timeout fetching, so no contents or personal appointment fact claimed. Gas taskforce original remains unrecovered; do not use report publication as personal tenure. Other peoples press-secretary full-time wording and arbitrary January dates from derivative databases rejected. Existing ownership/governance roles remain separate from paid activity. Await original firm/personnel or programme contract records rather than repeat generic searches."
+    "Follow-up 2026-10-05: targeted Farmshed CEO transition, Rabobank programme service and original Victorian Gas Market Taskforce report searches using both engines returned the existing 2001 ASX point, official chronology and derivative report citations. No accepted purchaser role, CEO boundary, teaching contract, consulting leave or full-time work interval emerged. Australian Farm Institute 2014 speaker-profile PDF https://www.farminstitute.org.au/wp-content/uploads/2021/03/FAF2014_speakers.pdf was an archival lead; retrieval returned HTTP400 Timeout fetching, so no contents or personal appointment fact claimed. Gas taskforce original remains unrecovered; do not use report publication as personal tenure. Other peoples press-secretary full-time wording and arbitrary January dates from derivative databases rejected. Existing ownership/governance roles remain separate from paid activity. Await original firm/personnel or programme contract records rather than repeat generic searches.",
+    "Second targeted pass recovered originalAFI2014 speaker PDF through web reader; prior400source failure recovered, ordinary download403 not bypassed. Added omitted active family-farming involvement separately from shareholding/advisory entities and Rabobank13-year retrospective programme-duration evidence without back-calculated dates or FT inference. Gas taskforce queries repeated original-report citations, not personal boundaries. Family entity/pay/hours and actual programme contract dates remain open."
   ]
 }
