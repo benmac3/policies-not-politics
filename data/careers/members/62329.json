@@ -6,7 +6,7 @@
   "snapshot_party": "One Nation",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/62329",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-05",
+  "last_reviewed": "2026-10-06",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -155,8 +155,27 @@
         "src-grazier",
         "src-aaco2011"
       ],
-      "evidence_note": "Public profile gives Executive Chairman from April2020; company describes trading/investment/consulting, NSW hearing confirms role June2025 and March2026 interview continuing operation.2011 AACo report also calls him Matrix Principal/Executive Chairman, establishing earlier involvement. April2020 cannot be treated as first-ever Matrix work. Removed9May2026 election placeholder endpoint because it did not prove business cessation. Continuity, periods of operational work versus governance, hours and post-election activity remain unresolved.",
+      "evidence_note": "Public profile gives Executive Chairman from April2020; company describes trading/investment/consulting, NSW hearing confirms role June2025 and March2026 interview continuing operation.2011 AACo report also calls him Matrix Principal/Executive Chairman, establishing earlier involvement. April2020 cannot be treated as first-ever Matrix work. His26June2026 parliamentary declaration lists Matrix Commodities and Matrix Commodities Trading as dormant directorships while retaining shareholdings; this is a post-election status observation, not an exact operational cessation date. Separate declared consulting and commodity-trading income is recorded below because the contracting vehicle is unresolved. Continuity, operational hours and transition arrangements remain unresolved.",
       "counting_note": "A private self-employed/business role is supported, but hours and the relationship between election and continuing business activity are unresolved."
+    },
+    {
+      "spell_id": "62329-post-election-consulting",
+      "employer": "Self / contracting entity unresolved",
+      "role": "Consultant and commodity trader — post-election income observation",
+      "start_date": "2026-06-26",
+      "end_date": null,
+      "date_precision": "day",
+      "employment_status": "self_employed",
+      "fte_fraction": null,
+      "category": "private_enterprise",
+      "headline_sector": "private",
+      "government_control_at_time": "private",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-register2026-oct6"
+      ],
+      "evidence_note": "Statement submitted26June2026 declares consulting income and commodity-trading income via ADM Investor Services after election. It separately lists Matrix companies as dormant directorships, so this point observation is not assigned to Matrix payroll or treated as continuous from an earlier spell. Client, contracting entity, work dates, hours, leave and continuing status are unresolved.",
+      "counting_note": "A dated post-election income observation establishes continuing private economic activity, not a full-time interval or duration. Do not count from the observation day without term and hours evidence."
     },
     {
       "spell_id": "62329-waverley",
@@ -739,6 +758,16 @@
       "source_type": "government_record",
       "locator": "Newsline: Calcot makes progress payment; indexed original article text",
       "note": "Names President David Farley announcing early-spring2003 crop payment; confirms a contemporary operational role observation. Direct open supplied PDF metadata; screenshot/download access failed. No exact working-day, leave or full-time inference."
+    },
+    {
+      "source_id": "src-register2026-oct6",
+      "url": "https://interests-register-api-public.aph.gov.au/api/members/62329/statement/48",
+      "publisher": "Parliament of Australia — Register of Members’ Interests",
+      "title": "David Farley statement of registrable interests,48th Parliament",
+      "retrieved": "2026-10-06",
+      "source_type": "government_record",
+      "locator": "Submitted26June2026; pp2,4 and7: Matrix shareholdings, dormant directorships, consulting and commodity-trading income",
+      "note": "Member declaration distinguishes retained ownership/dormant Matrix directorships from current personal consulting and commodity-trading income. It does not state work hours, clients, contracting vehicle or operational cessation dates."
     }
   ],
   "research_notes": [
@@ -756,14 +785,15 @@
     "Follow-up4October2026 located a public Marquis Who's Who-derived biographical profile for David Dickson Farley. Its1982–1983 farm-manager,1983–1984 general-manager and1984–1987 joint-managing-director observations materially refine the Colly internal sequence. Its managing-director-from1987 claim conflicts with the existing1988 and1990 sources, so no promotion year was silently replaced. Exact dates, legal employer, hours, leave, Colly cessation and Visypak transition remain unresolved. Matrix and exact Visypak searches otherwise repeated known evidence; namesakes were excluded.",
     "Follow-up2026-10-04: original2009 annual report recovered after contract searches had repeated later summaries. Explicit full-time recruitment context establishes appointment basis; this supersedes earlier absent-full-time statements for AACo only.2010/2012/2013 reports document contractual continuity and refine subsidiary payroll evidence. Leave/hours changes remain unresolved; whole-career research stays blocked. Staff vacancies and aggregate FTE figures are not personal evidence.",
     "2026-10-05 nonmaterial follow-up: targeted Visypak transition, Calcot departure and AACo unpaid-leave queries produced no new work terms. Public court-authored federal order219 identifies underlying Kern County Farley v.Calcot,S-1500-CV-251326 as a specific employment-contract/termination evidence lead. Order inspected in public Justia reproduction; GovInfo counterpart index corroborates case reference but direct fetch returned DisabledError. Neither gives exact personal dates/hours; settlement and 2009 testimony do not extend employment or establish July2003 service. Existing USDA June successor observation retained without date arithmetic. Jonathan David Farley mathematician and US school namesake leave entries excluded. Advance to nsw-2 rather than repeat the exhausted biographies.",
-    "Second targeted primary pass2026-10-05 recovered USDA November/December2002 retrospective confirmation of actual Farley succession and May/June2003 operational president observation. Added explicit succession evidence beyond prior planned announcement without assigning Smith retirement as Farley payroll start. July/August2002 full-duty phrase is planned executive takeover, not full-time hours. Court-case exact-number/contract queries return existing federal summaries without original personal service agreement or termination date. Public PDF text was search indexed; original USDA links404/inaccessible, AgEcon/direct mirrors403, and NCBA screenshot redirect500; these are recorded source-access gaps, not a job-wide error. Colly/Visypak bounds, Calcot personal hours/last day and AACo individual leave remain unresolved. Next useful lead: accessible original contract or public underlying Kern County filing; general biography/court-summary routes exhausted."
+    "Second targeted primary pass2026-10-05 recovered USDA November/December2002 retrospective confirmation of actual Farley succession and May/June2003 operational president observation. Added explicit succession evidence beyond prior planned announcement without assigning Smith retirement as Farley payroll start. July/August2002 full-duty phrase is planned executive takeover, not full-time hours. Court-case exact-number/contract queries return existing federal summaries without original personal service agreement or termination date. Public PDF text was search indexed; original USDA links404/inaccessible, AgEcon/direct mirrors403, and NCBA screenshot redirect500; these are recorded source-access gaps, not a job-wide error. Colly/Visypak bounds, Calcot personal hours/last day and AACo individual leave remain unresolved. Next useful lead: accessible original contract or public underlying Kern County filing; general biography/court-summary routes exhausted.",
+    "Third targeted pass2026-10-06: the original parliamentary interests declaration submitted26June2026 resolves the previously open question of whether private economic activity continued after election. Farley declared consulting income and commodity-trading income via ADM Investor Services, while separately listing Matrix Commodities and Matrix Commodities Trading directorships as dormant and retaining their shareholdings. Recorded a dated post-election activity observation without assigning it to Matrix payroll, inferring full-time status or manufacturing a continuous interval. Exact campaign/elected-office leave, client, contracting vehicle, work hours and Matrix operational cessation remain unresolved."
   ],
   "open_questions": [
     "What were the legal employing entities, exact dates, hours and leave for F.S. Falkiner and each Colly Cotton role?",
     "Did Colly Cotton commence in 1982 or 1983, and when precisely did the CEO role end?",
     "What were the exact Calcot appointment and cessation dates, employment terms and Matrix overlap?",
     "When did Farley first begin paid work through Matrix, and what were his hours, ownership, client engagements and AACo/board/campaign overlaps?",
-    "Did Matrix work continue after election, and what leave or cessation arrangements applied?",
+    "When did Matrix operational work cease before the26June2026 dormant-directorship observation, and what campaign/elected-office leave or transition arrangements applied? Which entity generated the separately declared post-election consulting and commodity-trading income, with what hours?",
     "Were Waverley Mills and Speak Up 4 Water roles paid substantive employment or governance only?",
     "Were there unpaid leave, breaks or changes to full-time hours during AACo1December2009–31July2013, and can the individual payroll entity before2011 be confirmed? Full-time appointment is now supported.",
     "When precisely did Visypak employment and earlier Matrix operational work occur, and how did they overlap Colly/Calcot/AACo?",
