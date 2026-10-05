@@ -6,7 +6,7 @@
   "snapshot_party": "Liberal Party of Australia",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/HWO",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-04",
+  "last_reviewed": "2026-10-05",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -30,7 +30,8 @@
       "source_ids": [
         "src-aph",
         "src-secondary",
-        "src-defence-bio"
+        "src-defence-bio",
+        "src-own-current-oct5"
       ],
       "evidence_note": "The current official biography identifies both University of Sydney qualifications; the secondary biography says Army Reserve and retail work occurred while he was at university. Enrolment, completion dates, study load and work overlaps are unresolved.",
       "counting_note": "Study is excluded under the codebook."
@@ -53,7 +54,8 @@
         "src-secondary",
         "src-reserve-speech",
         "src-defence-bio",
-        "src-reserve2011-oct2"
+        "src-reserve2011-oct2",
+        "src-own-current-oct5"
       ],
       "evidence_note": "The official biography records Army Reserve service from 1995 to 2000 and identifies the corps, unit and rank. Training, paid-duty days, hours, breaks and overlap with study and retail work are unresolved; Reserve service is not assumed to be full-time. Government Defence biography and his own 2012 speech corroborate service and unit. The speech advocates Reserve service without specifying personal full-time duty; no full-time status inferred.",
       "counting_note": "Public military service is supported, but no substantive full-time interval or FTE is established."
@@ -84,7 +86,7 @@
       "role": "Electorate officer",
       "start_date": null,
       "end_date": "2001",
-      "date_precision": "mixed",
+      "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "political_staff",
@@ -166,7 +168,7 @@
       "role": "Member from 1995; NSW Young Liberal vice-president and president; federal Young Liberal president (2005–2006); party office-holder and campaign participant",
       "start_date": "1995",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "party_organisation",
@@ -272,6 +274,16 @@
       "note": "First-person corroboration of Reserve officer/unit service only; discussion of cadet training is not his own paid-duty record.",
       "retrieved": "2026-10-02",
       "source_id": "src-reserve2011-oct2"
+    },
+    {
+      "source_id": "src-own-current-oct5",
+      "url": "https://alexhawke.au/about-alex/",
+      "publisher": "Alex Hawke MP",
+      "title": "About Alex",
+      "source_type": "official_biography",
+      "locator": "Paragraph beginning Holding a Master",
+      "note": "Own biography corroborates masters qualification and Army Reserve affiliation without graduation, duty dates, paid-duty schedule or personal hours.",
+      "retrieved": "2026-10-05"
     }
   ],
   "research_notes": [
@@ -285,7 +297,8 @@
     "Second follow-up2October2026: targeted university graduation-year, Ross Cameron1999 employment, Woolworths personal hours and Lancers training/duty searches. No new date, employer or personal hours established.2011 own parliamentary speech repeats Reserve unit/officer service but discusses cadets generally; it does not supply his paid-duty schedule. DFWA Camaraderie vol46 no3 repeats1995–2000 with an erroneous Cowper electorate label, not new employment evidence.",
     "Search results for ADFA graduates and staff members graduating describe other people; no qualifications or hours attributed to Hawke. Current store-opening statement and prior inaccessible SMH profile provide no new verified terms. Own2015 assistant-treasurer announcement reader returned not-accessible error; other sources remained available. Next useful avenues remain primary payroll/commissioning/graduation records rather than broad duplicate biography searches. This pass records negative findings and corroboration only, not material enrichment.",
     "Third follow-up4October2026 used exact commissioning/unit, Woolworths assistant-manager, Ross Cameron office and University of Sydney graduation queries. Results repeated the existing1995–2000 Reserve affiliation, commissioned lieutenant/unit description and post-graduation staff sequence but supplied no commissioning day, paid-duty schedule, retail roster, qualification year or appointment/payroll record. A UK company officer and other namesakes were excluded. No material change; do not convert a six-year Reserve affiliation or part-time retail title into full-time service.",
-    "Follow-up2026-10-04: Followed exact full-name commissioning and original Defence/gazette and university-domain routes. Returned Hawke biographies repeat Reserve1995–2000 but no personal commissioning instrument/duty schedule; a2026 ship named Cape Hawke and older gazette namesakes are irrelevant. University results were general conferral instructions without a personal graduation record. Official staff queries repeated the known sequence; APH robots.txt block is individual-source error. Retail/staff search hits did not establish payroll or roster. No new FT, dates or leave; archive/primary person-level record required before revisiting."
+    "Follow-up2026-10-04: Followed exact full-name commissioning and original Defence/gazette and university-domain routes. Returned Hawke biographies repeat Reserve1995–2000 but no personal commissioning instrument/duty schedule; a2026 ship named Cape Hawke and older gazette namesakes are irrelevant. University results were general conferral instructions without a personal graduation record. Official staff queries repeated the known sequence; APH robots.txt block is individual-source error. Retail/staff search hits did not establish payroll or roster. No new FT, dates or leave; archive/primary person-level record required before revisiting.",
+    "Follow-up2026-10-05: Own current biography read and added as primary masters/Reserve corroboration; no graduation year or paid-duty schedule. Targeted first-job,1999 Cameron and own Woolworths/Army queries plus stronger-engine contemporary staff route produced existing secondary sequence and2007 New Matilda corroboration only. Staff members education and author Ted Bells fictional Alex Hawke are unrelated; no attribution. Original first-speech indexing still points obsolete2008 link, no new transcript evidence recovered. Retail-store opening is not personal employment. Generic biography routes exhausted; retain commissioning/duty records, retail payroll and staff appointment instruments as prerequisites for substantive follow-up."
   ],
   "open_questions": [
     "What were the exact University of Sydney enrolment and graduation dates and study/work overlaps?",
