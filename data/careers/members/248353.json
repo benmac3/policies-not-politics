@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/248353",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-04",
+  "last_reviewed": "2026-10-05",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -81,7 +81,7 @@
       "role": "Pharmacist, including work in Australia and Oxford, England",
       "start_date": null,
       "end_date": "2006",
-      "date_precision": "unknown",
+      "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "unknown",
@@ -266,7 +266,7 @@
       "role": "Candidate for Dobell",
       "start_date": null,
       "end_date": "2016-07-02",
-      "date_precision": "unknown",
+      "date_precision": "day",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "party_organisation",
@@ -346,7 +346,7 @@
       "role": "Volunteer",
       "start_date": "2020-09",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "month",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "unpaid_work",
@@ -360,6 +360,25 @@
       "evidence_note": "Professional profile lists Landcare volunteer fromSeptember2020 to present; earlier conference biography names Long Jetty. Month is self-reported, not independently confirmed. Volunteer work is excluded; no personal hours inferred.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "248353-landcare"
+    },
+    {
+      "spell_id": "248353-covid-vaccination",
+      "employer": "Unidentified vaccination service provider",
+      "role": "Pharmacist administering vaccinations during COVID — paid or voluntary basis unresolved",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "unknown",
+      "government_control_at_time": "unknown",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-covid-vaccination-oct5"
+      ],
+      "evidence_note": "In her17May2023 official press conference McBride states she gave jabs during COVID. The original transcript establishes personal clinical activity beyond a generic credential or policy appearance, but not employer, precise dates, pay, hours or regular appointment. Vaccination is recorded separately from pre-Parliament hospital roles; no continuous hospital employment, public employer or unpaid status inferred. Pandemic timing is not converted into invented2020–2022 boundaries.",
+      "counting_note": "No public/private full-time interval until employer, dates, substantive hours and paid/voluntary arrangement are supported. Any Parliament overlap remains excluded for elected service; do not double-count clinical and elected roles."
     }
   ],
   "sources": [
@@ -572,6 +591,16 @@
       "note": "Lists McBride grant3449 dollars for Adelaide Health Economics semester2,2015. Design-portfolio reproduction may be a draft; obtain original award/course records before asserting attendance or completion.",
       "retrieved": "2026-10-02",
       "source_id": "src-grant-portfolio-oct2"
+    },
+    {
+      "source_id": "src-covid-vaccination-oct5",
+      "url": "https://www.health.gov.au/ministers/the-hon-emma-mcbride-mp/media/assistant-minister-mcbride-press-conference-in-kurri-kurri-17-may-2023",
+      "publisher": "Australian Government Department of Health",
+      "title": "Assistant Minister McBride press conference, Kurri Kurri, 17 May 2023",
+      "source_type": "government_record",
+      "retrieved": "2026-10-05",
+      "locator": "Answer to What can pharmacists do to protect the viability of their business model; public reader line70",
+      "note": "First-person statement explicitly says she gave jabs during COVID. Does not identify service provider, dates, paid versus voluntary basis, hours or continuity. Generic pharmacy remuneration policy in the same transcript is not her personal pay."
     }
   ],
   "research_notes": [
@@ -585,7 +614,8 @@
     "Second follow-up2October2026 identifies NHS as overseas mental-health service setting and dates the separately recorded Landcare volunteering toSeptember2020. Public professional index adds short-course leads: pharmacy business management NSW1997; mental-health first aid2018; Woolcock nicotine-addiction/smoking-cessation and PSA immunisation2019; Surf Life Saving NSW bronze medallion2020. These do not date paid practice. A designer-hosted2015 SHPA handbook reproduction identifies a3449-dollar pharmacoeconomics grant for Adelaide Health Economics semester2; attendance/completion needs original evidence. Oxford/Forbes hospital, employer, graduation and full-time queries did not resolve employers or hours.1997 in the profile belongs to a course, not a verified degree graduation. Same-name UK technician, Scottish social-care manager and overseas researchers excluded. No totals calculated.",
     "3October2026 focused follow-up on original SHPA2015 award/course records, bank resignation and named early-pharmacy/Oxford employers found a public self-profile award entry corroborating Pharmacoeconomics Grant2015. No original SHPA grant record, funded-course attendance, leave, bank cessation day or early employer was established. Existing same-name researcher exclusions retained. This corroboration/search log is not counted as material employment enrichment; preserve original grant/course gap and avoid repeating these exhausted searches without a new lead.",
     "Fourth follow-up4October2026 used exact Oxford/NHS, Wyong Hospital and NSW Health queries. Results repeated the already recorded NHS setting, official Wyong title ranges, first-speech rounded chronology and 2011 bank-report observations. No NHS trust/agency, early pharmacy employer, hospital personnel boundary, hours or leave emerged; a same-name UK pharmacy technician was excluded.",
-    "Follow-up2026-10-04: New targeted avenue: contemporary pharmacy/formulary and Oxfordshire mental-health references, early-career 1999/2001/2003 publications and personal full-time wording. No attributable NHS trust, locum agency or early NSW employer emerged. Full-time search hits referred to other people, job advertisements or patients; do not transfer their hours to McBride. Clinical/conference material repeats Wyong and deputy-director chronology without personnel dates/leave. No original SHPA award attendance or funded-study leave identified; previously recorded grant remains a lead. Defer generic name and Oxford searches until an original employer or personnel lead is available."
+    "Follow-up2026-10-04: New targeted avenue: contemporary pharmacy/formulary and Oxfordshire mental-health references, early-career 1999/2001/2003 publications and personal full-time wording. No attributable NHS trust, locum agency or early NSW employer emerged. Full-time search hits referred to other people, job advertisements or patients; do not transfer their hours to McBride. Clinical/conference material repeats Wyong and deputy-director chronology without personnel dates/leave. No original SHPA award attendance or funded-study leave identified; previously recorded grant remains a lead. Defer generic name and Oxford searches until an original employer or personnel lead is available.",
+    "Follow-up2026-10-05: Original Department of Health17May2023 transcript records her personal COVID vaccination work, added as separately identified clinical activity with unknown employer, sector, dates, paid/voluntary basis and hours. Targeted vaccination-provider, volunteer and2013 campaign-leave searches through two engines did not resolve terms; unrelated US lawyer, UK consultant and pharmacy job adverts excluded. Pharmacy policy fee comparisons, campaign donations and grant amounts are not individual pay or work hours. Generic pandemic years not assigned as boundaries. Next useful route is a personally attributable vaccination-provider appointment or volunteer record and original hospital campaign-leave record. No headlines calculated. Recovered publishing helper state loss and parse/verification-shape errors while saving previous McBain record; remote tree hashes matched both validated local files before processing this member."
   ],
   "open_questions": [
     "Which employers, roles and dates correspond to the Forbes, North Sydney, Newtown, Berkeley Vale, Belmont and Oxford work, and were they public or private?",
@@ -599,6 +629,7 @@
     "Can hospital personnel records establish continuity, legal employer and leave across the 2011 administrative changes?",
     "Can bank records establish the exact 2013 directorship cessation and distinguish Wyong District Netball patronage from Central Coast Heart roles?",
     "Which NHS trust or locum agency employed McBride in the UK, with what dates and hours?",
-    "Can original SHPA2015 award and University of Adelaide records establish whether the funded Health Economics study occurred and whether it involved leave from hospital employment?"
+    "Can original SHPA2015 award and University of Adelaide records establish whether the funded Health Economics study occurred and whether it involved leave from hospital employment?",
+    "Which service provider engaged McBride to administer vaccinations during COVID, when, on what paid/voluntary basis and hours, and did it involve separate clinical employment alongside Parliament?"
   ]
 }
