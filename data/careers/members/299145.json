@@ -97,7 +97,7 @@
     },
     {
       "spell_id": "299145-bird-adviser",
-      "employer": "Office of the Hon. Sharon Bird MP (payroll entity unresolved)",
+      "employer": "Commonwealth of Australia — Office of the Hon. Sharon Bird MP",
       "role": "Senior policy and media adviser",
       "start_date": "2007-07",
       "end_date": "2022-03",
@@ -106,7 +106,7 @@
       "fte_fraction": null,
       "category": "political_staff",
       "headline_sector": "excluded",
-      "government_control_at_time": "unknown",
+      "government_control_at_time": "public",
       "counting_status": "excluded",
       "source_ids": [
         "src-snapshot",
@@ -114,9 +114,12 @@
         "src-first-speech",
         "src-abc",
         "src-education-speech2023",
-        "src-bird2010"
+        "src-bird2010",
+        "src-fwc2017-pass2",
+        "src-finance-ecg2018-pass2",
+        "src-finance-bargaining2021-pass2"
       ],
-      "evidence_note": "The frozen official biography records senior policy and media adviser work from 2005 to 2022. The public LinkedIn result refines the senior role to July 2007–March 2022 and lists the prior executive-assistant position separately. Her first speech confirms work across Bird's electorate and ministerial offices but does not identify when office context, title or payroll changed. Hours, leave and any campaign break remain unresolved. In4September2023 speech she explicitly describes university study in her30s while a full-time adviser. This establishes full-time work during an undated subperiod, not the entire2007–2022 role. Calendar course boundaries and leave remain unknown; no dates calculated from age.24June2010 Bird parliamentary statement independently identifies Byrnes as her staffer organising work-experience visits. No transfer to Justine Elliot’s office inferred from visit.",
+      "evidence_note": "The frozen official biography records senior policy and media adviser work from 2005 to 2022. The public LinkedIn result refines the senior role to July 2007–March 2022 and lists the prior executive-assistant position separately. Her first speech confirms work across Bird's electorate and ministerial offices but does not identify when office context, title or payroll changed. Hours, leave and any campaign break remain unresolved. In4September2023 speech she explicitly describes university study in her30s while a full-time adviser. This establishes full-time work during an undated subperiod, not the entire2007–2022 role. Calendar course boundaries and leave remain unknown; no dates calculated from age.24June2010 Bird parliamentary statement independently identifies Byrnes as her staffer organising work-experience visits. No transfer to Justine Elliot’s office inferred from visit. Primary2017FWC decision establishes Commonwealth MOP(S) employee status through named electorate-officer witness and personal payslip/account evidence;2018/2021Finance minutes independently identify Bird office. Generic electorate-officer classification coexists with profile adviser title, not a newly dated role transition. No whole-spell hours inferred.",
       "counting_note": "Political staff employment is excluded under the codebook."
     },
     {
@@ -200,6 +203,26 @@
       ],
       "evidence_note": "Dated participation observed16February2018: attendance list affiliates Alison Byrnes with Australian Labor Party; minutes document her contributions on inappropriate workplace behaviour and ergonomic equipment. Term boundaries and separate remuneration unknown. Likely staff representative duties within political employment, not evidence of new Finance/Defence departmental employment or direct ALP payroll.",
       "counting_note": "Political-staff representative activity separately visible but not added to Bird employment duration; no substantive hours or paid separate job inferred."
+    },
+    {
+      "spell_id": "299145-staff-bargaining",
+      "employer": "MOP(S) staff Employee Consultative Group and enterprise-agreement bargaining group; ASU affiliation",
+      "role": "Staff consultative and union bargaining representation",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "union",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-finance-ecg2018-pass2",
+        "src-finance-bargaining2021-pass2"
+      ],
+      "evidence_note": "Participation observed9February2018 and16April2021; term boundaries/pay unknown. Bird office explicitly identified in both. Representation is not separate salaried ASU or Finance work; may overlap existing staff/WHS duties.",
+      "counting_note": "Excluded representation, with no separately additive duration."
     }
   ],
   "sources": [
@@ -322,6 +345,36 @@
       "source_type": "government_record",
       "locator": "PDFp1 attendees; p3 Byrnes policy/workstation interventions",
       "note": "Primary minutes date committee participation under ALP affiliation. Finance/Defence documents discussed do not make Byrnes an employee of those departments. No separate pay, appointment dates or hours. Search title incorrectly says2016; actual document heading16February2018 controls."
+    },
+    {
+      "source_id": "src-fwc2017-pass2",
+      "url": "https://www.fwc.gov.au/documents/decisionssigned/html/2017fwca2103.htm",
+      "publisher": "Fair Work Commission",
+      "title": "[2017]FWCA2103: Commonwealth parliamentary staff enterprise agreement",
+      "retrieved": "2026-10-05",
+      "source_type": "government_record",
+      "locator": "Paragraphs1,3,6,9,21; hearings23–24March2017",
+      "note": "Names Byrnes as electorate-officer employee witness for ASU and records her own payslip/account evidence. General agreement FT38-hour provision is not her personal hours. Paragraph21 contains2017 email-year anomaly; paragraph9 and surrounding ballot chronology say2016."
+    },
+    {
+      "source_id": "src-finance-ecg2018-pass2",
+      "url": "https://maps.finance.gov.au/sites/default/files/2019-10/ecg_meeting_minutes_-_20180209.pdf",
+      "publisher": "Australian Department of Finance",
+      "title": "Employee Consultative Group meeting,9February2018",
+      "retrieved": "2026-10-05",
+      "source_type": "government_record",
+      "locator": "PDFp1 attendance andp2 guideline contributions",
+      "note": "Names Byrnes in Bird office; observed committee participation only. Search title2016 is erroneous; document heading controls."
+    },
+    {
+      "source_id": "src-finance-bargaining2021-pass2",
+      "url": "https://maps.finance.gov.au/sites/default/files/2021-05/Meeting16April.pdf",
+      "publisher": "Australian Department of Finance",
+      "title": "Parliamentary staff enterprise bargaining meeting,16April2021",
+      "retrieved": "2026-10-05",
+      "source_type": "government_record",
+      "locator": "PDFp1 present list: ASU(The Hon Sharon Bird MP), remote attendance",
+      "note": "Directly dates ASU bargaining representation and Bird affiliation. Not separate union payroll or new Finance employment."
     }
   ],
   "open_questions": [
@@ -343,6 +396,7 @@
     "Overseas artist, Ares employee charity fundraising and other people’s McDonald’s recollections excluded; generic university event attendance is not enrolment or employment. Future follow-up needs original graduation list, Martin cessation/other2002–2005 payroll record or identifiable outlet history; do not keep repeating generic biography/year queries. Full-time adviser study subperiod remains unlocated and all gaps retained.",
     "Third follow-up 2026-10-04: targeted University of Wollongong graduation and Master of Management records, Stephen Martin 2002–2005 transition material, and McDonald’s Corrimal/Wollongong outlet history. Results only repeated the current official biography, Martin’s parliamentary service and unrelated local sponsorship; none safely establishes Byrnes’s study dates, post-Martin activity or fast-food legal employer. No material enrichment counted. Generic location coincidence and other people’s outlet histories were not transferred; advance the nationwide queue pending an original graduation list, payroll record or identifiable employer document.",
     "Follow-up2026-10-04: Read Bird24June2010 Hansard reproduction: confirms existing staff affiliation, no new contract/hours boundaries. Graduation-year and2004-work searches produced overseas Duke graduate, Minnesota nurse, Melbourne Monash clinician and Michigan artist namesakes; no dates transferred. Candidate Q&A says nearly three decades of supporting MPs but does not resolve2002–2005 employers. Retain prior gaps; future progress requires original UOW graduation record or Martin/post-Martin payroll account, not repeated generic year searches.",
-    "Follow-up2026-10-05: primary Finance16February2018WHS minutes add previously omitted staff-committee representation, with ALP affiliation and documented interventions. Dated attendance is not appointment/end or a separate Finance/Defence job; retain unknown hours and no additive duration. Target ministerial staffing,2003transition and McDonald’s employer queries yielded existing court record and foreign namesakes; applicant-specific contract in1997judgment remains unassigned. Original2002–2005payroll and UOW course dates still required."
+    "Follow-up2026-10-05: primary Finance16February2018WHS minutes add previously omitted staff-committee representation, with ALP affiliation and documented interventions. Dated attendance is not appointment/end or a separate Finance/Defence job; retain unknown hours and no additive duration. Target ministerial staffing,2003transition and McDonald’s employer queries yielded existing court record and foreign namesakes; applicant-specific contract in1997judgment remains unassigned. Original2002–2005payroll and UOW course dates still required.",
+    "Second targeted pass found named primary2017FWC employee evidence plus2018ECG/2021bargaining minutes. Commonwealth MOP(S) employer/payroll context resolved for observed Bird employment; adds staff consultative/ASU bargaining activity with unknown terms/pay. Generic38-hour agreement provisions and other witnesses casual/leave evidence are not assigned personally. FWC paragraph21 year anomaly noted against paragraph9 ballot chronology. UOW searches still give current MP visits and Michigan artist, not study boundaries;2002–2005 gap and McDonald’s outlet unresolved."
   ]
 }
