@@ -27,13 +27,14 @@
       "employer": "Grace Brothers",
       "employment_status": "part_time",
       "end_date": null,
-      "evidence_note": "Full first-person account explicitly identifies part-time work at age 15. Retail employer named, exact employing entity and dates not established.",
+      "evidence_note": "Full first-person account explicitly identifies part-time work at age 15. Retail employer named, exact employing entity and dates not established. Green Island first-person transcript establishes both part-time jobs were already held when he finished his HSC exams; whether either continued after bank commencement is not stated.",
       "fte_fraction": null,
       "government_control_at_time": "private",
       "headline_sector": "private",
       "role": "School-age retail job; title unspecified",
       "source_ids": [
-        "src-vpta"
+        "src-vpta",
+        "src-green-island-school-transition"
       ],
       "spell_id": "R36-grace-brothers",
       "start_date": null
@@ -46,13 +47,14 @@
       "employer": "McDonald's (franchise/legal employer unidentified)",
       "employment_status": "part_time",
       "end_date": null,
-      "evidence_note": "Full first-person account explicitly identifies part-time work at age 15. Restaurant brand is not assumed to be legal employer.",
+      "evidence_note": "Full first-person account explicitly identifies part-time work at age 15. Restaurant brand is not assumed to be legal employer. Green Island first-person transcript establishes both part-time jobs were already held when he finished his HSC exams; whether either continued after bank commencement is not stated.",
       "fte_fraction": null,
       "government_control_at_time": "private",
       "headline_sector": "private",
       "role": "School-age job; title unspecified",
       "source_ids": [
-        "src-vpta"
+        "src-vpta",
+        "src-green-island-school-transition"
       ],
       "spell_id": "R36-mcdonalds",
       "start_date": null
@@ -65,7 +67,7 @@
       "employer": "Commonwealth Bank of Australia, Holme Building branch",
       "employment_status": "full_time",
       "end_date": "1981",
-      "evidence_note": "NAA and frozen occupations give year labels; PM's first-person speech establishes full-time commencement, branch and then-public ownership. Employer history dates privatisation to 1991–1996.",
+      "evidence_note": "NAA and frozen occupations give year labels; PM's first-person speech establishes full-time commencement, branch and then-public ownership. Employer history dates privatisation to 1991–1996. Green Island recollection places bank commencement on the Monday after his final HSC exam, which he thinks was a Thursday. This relative sequence is preserved without assigning a calendar day or month; no cessation or leave detail.",
       "fte_fraction": null,
       "government_control_at_time": "public",
       "headline_sector": "public",
@@ -74,7 +76,8 @@
         "src-snapshot",
         "src-naa",
         "src-pm",
-        "src-cba"
+        "src-cba",
+        "src-green-island-school-transition"
       ],
       "spell_id": "R36-cba",
       "start_date": "1980"
@@ -83,7 +86,7 @@
       "category": "study",
       "counting_note": "Excluded from full-time public/private employment headline under codebook; no additive duration calculated.",
       "counting_status": "excluded",
-      "date_precision": "mixed",
+      "date_precision": "year",
       "employer": "University of Sydney",
       "employment_status": "unknown",
       "end_date": "1984",
@@ -271,7 +274,7 @@
     "private_full_time_years": null,
     "public_full_time_years": null
   },
-  "last_reviewed": "2026-10-04",
+  "last_reviewed": "2026-10-05",
   "name": "ALBANESE, the Hon. Anthony Norman",
   "person_id": "R36",
   "research_notes": [
@@ -287,7 +290,8 @@
     "Second follow-up2026-10-02: searched university archive/conferral and alumni-magazine routes beyond prior VPTA/bank queries. Magazine independently repeatsBEc1985but does not resolve NAA1984or bank endpoints. Public derivative sites printing1January1980/1981are unsupported normalisations, not accepted dates. No new substantive employment fact; excluded from material-enrichment counts.",
     "AlumniPDFweb400size10485761+; indexed evidence only. Broad bank/VPTA avenues remain exhausted; next revisit should depend on newly public personnel/appointment record or accessible detailed chronology. No inference of zero private/full-time work; retain all gaps and advance.",
     "Follow-up 2026-10-04: fresh targeted searches of Prime Minister, National Archives, Sydney University and parliamentary records corroborated the existing bank, degree and Uren-office chronology but did not produce a personal appointment day, bank separation record, university-period employment or full-time evidence beyond the already recorded first-person statement. APH search also returned a non-retryable robots.txt block. No new facts promoted; retain blocked status and avoid another broad bank-date search until a personnel or appointment record appears.",
-    "Follow-up2026-10-04: Recovered fullVPTAfirst-person page after historicaltimeouts, preserving schooljobs. Newprimary2020interview lead identifies charityDJactivity and SouthSydneygovernance; contemporaryclubhistorian gives1999–2002directorship corroborated by PM1999recollection. Separately recorded occasionalmusicactivity and2017AMRAeventambassadorship without assuming unpaid/pay, datesorFT. Exactbankdate searches yielded unsupported socialmediaguesses, rejected. Bankhours alreadyexplicitFT, endpoints/breaks stillunknown; originalclubreports and personalemploymentchronology remain follow-ups."
+    "Follow-up2026-10-04: Recovered fullVPTAfirst-person page after historicaltimeouts, preserving schooljobs. Newprimary2020interview lead identifies charityDJactivity and SouthSydneygovernance; contemporaryclubhistorian gives1999–2002directorship corroborated by PM1999recollection. Separately recorded occasionalmusicactivity and2017AMRAeventambassadorship without assuming unpaid/pay, datesorFT. Exactbankdate searches yielded unsupported socialmediaguesses, rejected. Bankhours alreadyexplicitFT, endpoints/breaks stillunknown; originalclubreports and personalemploymentchronology remain follow-ups.",
+    "2026-10-05 new primary Green Island transcript gives relative school-to-CBA commencement sequence and confirms Grace Brothers/McDonalds part-time jobs already held at HSC completion. No calendar day inferred from remembered weekdays. NRL2021 board account corroborates existing1999–2002 interval but adds no payroll/hours; bank and political-employment exact boundaries still unresolved. Public FT total remains null."
   ],
   "research_status": "blocked",
   "snapshot_chamber": "Member",
@@ -434,6 +438,16 @@
       "locator": "Announcement and final Australian Music Retailers Association paragraph",
       "note": "Event ambassador for2017; organised by AMRA. Announcement date not contractual commencement; no employment, fee or FTE statement.",
       "retrieved": "2026-10-04"
+    },
+    {
+      "source_id": "src-green-island-school-transition",
+      "source_type": "primary_statement",
+      "publisher": "Anthony Albanese",
+      "title": "Press Conference — Green Island; recollection of school-to-bank transition",
+      "url": "https://anthonyalbanese.com.au/media-centre/press-conference-green-island",
+      "retrieved": "2026-10-05",
+      "locator": "Transcript paragraph beginning Society was also the case; web text lines181–182",
+      "note": "First-person recollection: final HSC exam thought to be Thursday, CBA commenced Monday; already held both part-time jobs. No calendar dates supplied; memory qualifier preserved."
     }
   ]
 }
