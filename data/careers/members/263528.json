@@ -6,7 +6,7 @@
   "snapshot_party": "Liberal Party of Australia",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/263528",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-04",
+  "last_reviewed": "2026-10-05",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -51,14 +51,15 @@
       "source_ids": [
         "src-4",
         "src-11",
-        "src-12"
+        "src-12",
+        "src-yangapi-2014-roadshow"
       ],
-      "evidence_note": "Imparja colleague and family testimony establish job and touring activity. Production/contract relationship with Yangapi and dates need clarification; broadcasting on Nine does not establish Nine employment. Contemporary Imparja nonprofit description requires historical corroboration.",
+      "evidence_note": "Imparja colleague and family testimony establish job and touring activity. Production/contract relationship with Yangapi and dates need clarification; broadcasting on Nine does not establish Nine employment. Contemporary Imparja nonprofit description requires historical corroboration. ICTV catalogue observes a specific July2014 APY Lands roadshow performance with Yangapi; not an exact Imparja appointment or continuous paid-employment boundary.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "263528-02"
     },
     {
-      "employer": "Yangapi Productions",
+      "employer": "Yangapi Productions Pty Ltd",
       "role": "Co-founder and executive director",
       "start_date": "2014-08",
       "end_date": "2019-06",
@@ -72,9 +73,11 @@
       "source_ids": [
         "src-2",
         "src-3",
-        "src-4"
+        "src-4",
+        "src-yangapi-abr-history",
+        "src-yangapi-2014-roadshow"
       ],
-      "evidence_note": "Public professional index supplies executive-director dates; council corroborates founder/director status and ABC describes nonprofit operation. Legal structure, remuneration and operational hours unknown; title alone not full-time.",
+      "evidence_note": "Public professional index supplies executive-director dates; council corroborates founder/director status and ABC describes nonprofit operation. Legal structure, remuneration and operational hours unknown; title alone not full-time. Primary ABR resolves corporate entity and charity concessions from19August2014 to26August2019, supporting nonprofit status during documented director span; private-company legal form does not negate registered charity history. ABN/GST/concession boundaries are not her work boundaries. ICTV catalogue records July2014 roadshow performance under Yangapi brand before corporate ABN registration; possible predecessor/trading relationship remains unresolved.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "263528-03"
     },
@@ -587,6 +590,26 @@
       "locator": "PDF page 21, printed page 21; Jacinta Price biography",
       "note": "Original 20280729-byte PDF downloaded through ordinary public access and text/rendered page inspected. Explicit by-election date10October2015; arts roles corroborated. Repeated 17-year consultancy/seven-year Yamba wording is rounded and not back-calculated into employment boundaries.",
       "retrieved": "2026-10-04"
+    },
+    {
+      "source_id": "src-yangapi-abr-history",
+      "url": "https://abr.business.gov.au/AbnHistory/View?id=73601151222",
+      "publisher": "Australian Business Register",
+      "title": "Historical details ABN73 601 151 222",
+      "source_type": "government_record",
+      "locator": "Entity name/type, ABN/GST and charity tax-concession history",
+      "note": "Ordinary public HTML200 downloaded15275bytes and parsed locally after web inaccessible. Yangapi Productions Pty Ltd; active19August2014–15October2021, charity concessions19August2014–26August2019. Registration/concession dates are not Price appointment/separation.",
+      "retrieved": "2026-10-05"
+    },
+    {
+      "source_id": "src-yangapi-2014-roadshow",
+      "url": "https://ictv.com.au/languages/pitjantjatjara?start=320",
+      "publisher": "Indigenous Community Television / PY Media",
+      "title": "Yamba the Honeyant and Jacinta talking about trachoma and snot",
+      "source_type": "employer",
+      "locator": "Public video catalogue description; lines100–103",
+      "note": "Names Price as Yangapi performer in July2014 APY Lands Yamba/Milpa roadshow, McAllan producer. Event predates later corporate ABN registration; brand activity is not proof of that company payroll, contract status or full-time hours. Video itself not viewed.",
+      "retrieved": "2026-10-05"
     }
   ],
   "research_notes": [
@@ -599,6 +622,7 @@
     "Follow-up2026-10-02: public court-file career summary adds previously unrecorded gallery/museum/art-organisation work and identifies consultancy as family business. CIS broader2016–2022involvement distinguished fromJuly2019director commencement; party testimony is not judicially established finding.",
     "Advance appointment announcement now date-located27November2020by index, exact employment start still unknown. Council cessation and deputy-start conflict retained. Underlying affidavit web400size-cap and curlHTTP403, CIS2021PDF403; accessible party summary and employer index used, no access bypass. Next leads: original affidavitcareerparagraphs9–16, named gallery/museum employers, CIS2016–19role and2022termination, council resignation minute. Hours and production contracts still unresolved.",
     "Follow-up 2026-10-04: official council history refines elected-office start to October 2015; a 13 July 2021 council agenda still lists Price as deputy mayor. Targeted cessation searches did not locate the resignation minute or exact end day. The secondary August 2021 endpoint is not promoted beyond year precision without the primary record.",
-    "Follow-up2026-10-04: Recovered two original council annual reports after individual web size-cap/403 results: ordinary public council downloads succeeded; extracted and visually checked2015–2016p21 and2016–2017p19. Named three previously unresolved arts employers/roles (Araluen assistant curator, MAGNT assistant curator, Desart project manager) and split them from residual umbrella without inferred dates/control/hours. Explicit10October2015council by-election refines elected start; cessation still year-only. Rounded17-year consultancy/seven-yearYamba text repeated across reports cannot be converted into start dates. Targeted museum/Desart/curator queries did not recover personal appointment dates. Next evidence individual institution staff/annual reports and production contracts."
+    "Follow-up2026-10-04: Recovered two original council annual reports after individual web size-cap/403 results: ordinary public council downloads succeeded; extracted and visually checked2015–2016p21 and2016–2017p19. Named three previously unresolved arts employers/roles (Araluen assistant curator, MAGNT assistant curator, Desart project manager) and split them from residual umbrella without inferred dates/control/hours. Explicit10October2015council by-election refines elected start; cessation still year-only. Rounded17-year consultancy/seven-yearYamba text repeated across reports cannot be converted into start dates. Targeted museum/Desart/curator queries did not recover personal appointment dates. Next evidence individual institution staff/annual reports and production contracts.",
+    "Follow-up2026-10-05: ordinary public ABR download resolves Yangapi Productions Pty Ltd and historical charity concessions19August2014–26August2019, strengthening nonprofit classification without equating registration to Price employment dates. ICTV catalogue specifically places her Yangapi roadshow performance in July2014 before corporate ABN registration, retained as event/predecessor lead without invented payroll or revised director start. Arts staff, consultancy and council exact cessation searches remain unresolved. Individual NT report DisabledError/council PDF Moved Permanently and ABR web inaccessible recovered/recorded; ABR HTTP200 local text used, missing bs4 parser recovered with standard library. No full-time status or added duration inferred."
   ]
 }
