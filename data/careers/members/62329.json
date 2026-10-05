@@ -6,7 +6,7 @@
   "snapshot_party": "One Nation",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/62329",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-04",
+  "last_reviewed": "2026-10-05",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -65,7 +65,7 @@
       "role": "Managing Director and Chief Executive Officer",
       "start_date": "1990",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "private_enterprise",
@@ -707,6 +707,16 @@
       "source_type": "employer",
       "locator": "Printedp30 (PDF34,one-based)",
       "note": "A.A.Company Pty Ltd named sole group employer and Farley’s continuing service agreement."
+    },
+    {
+      "source_id": "src-calcot-court-lead-oct5",
+      "url": "https://docs.justia.com/cases/federal/district-courts/california/caedce/1%3A2007cv00464/161071/219",
+      "publisher": "US District Court, Eastern District of California (Justia reproduction)",
+      "title": "Andrews Farms et al v. Calcot Ltd, document219,16February2010",
+      "retrieved": "2026-10-05",
+      "source_type": "government_record",
+      "locator": "Farley Litigation section, printedp8; renderedlines88–91",
+      "note": "Court-authored order identifies former Calcot CEO David Farley and underlying Kern County Farley v.Calcot,S-1500-CV-251326. Employment-contract/termination source lead, not exact personal hours or cessation date. Allegations are not adopted as adjudicated findings; settlement is not ongoing payroll."
     }
   ],
   "research_notes": [
@@ -722,7 +732,8 @@
     "Targeted AACo full-time/service-agreement queries returned remuneration and notice provisions, not personal contractual hours. Advertisements concern Farley’s staff; proposed abattoir full-time positions are workforce plans, not his status. Banking David Farley in World Bank/PPIAF2010 material is not identity-matched to agricultural executive and is excluded. Cotton Australia2011–12 anniversary-report mirror appears to contain historical board dates, but multi-column alignment and original report remain to verify; no date adopted. Further priority: original personal terms, Colly/Visypak transitions and consulting contracts.",
     "Follow-up3October2026 recovered the publicly linked2011/12 Cotton Australia anniversary PDF from its document mirror. Current organisation annual-report page links only2014/15 onward; the mirror reproduces the original designed report. Visual page20 inspection resolves the earlier multi-column ambiguity: Farley is in Directors and Chairmen with1991–1996, not staff. Refined existing Foundation/Cotton Australia governance term; remains excluded from full-time employment headlines and overlaps Colly work. No hours inferred. Visypak and personal AACo full-time queries yielded existing material only; retain appointment, leave and control questions. Next leads: original historical Colly/Visypak service documentation and personal AACo contract terms, not repeating the recovered honour-roll search.",
     "Follow-up4October2026 located a public Marquis Who's Who-derived biographical profile for David Dickson Farley. Its1982–1983 farm-manager,1983–1984 general-manager and1984–1987 joint-managing-director observations materially refine the Colly internal sequence. Its managing-director-from1987 claim conflicts with the existing1988 and1990 sources, so no promotion year was silently replaced. Exact dates, legal employer, hours, leave, Colly cessation and Visypak transition remain unresolved. Matrix and exact Visypak searches otherwise repeated known evidence; namesakes were excluded.",
-    "Follow-up2026-10-04: original2009 annual report recovered after contract searches had repeated later summaries. Explicit full-time recruitment context establishes appointment basis; this supersedes earlier absent-full-time statements for AACo only.2010/2012/2013 reports document contractual continuity and refine subsidiary payroll evidence. Leave/hours changes remain unresolved; whole-career research stays blocked. Staff vacancies and aggregate FTE figures are not personal evidence."
+    "Follow-up2026-10-04: original2009 annual report recovered after contract searches had repeated later summaries. Explicit full-time recruitment context establishes appointment basis; this supersedes earlier absent-full-time statements for AACo only.2010/2012/2013 reports document contractual continuity and refine subsidiary payroll evidence. Leave/hours changes remain unresolved; whole-career research stays blocked. Staff vacancies and aggregate FTE figures are not personal evidence.",
+    "2026-10-05 nonmaterial follow-up: targeted Visypak transition, Calcot departure and AACo unpaid-leave queries produced no new work terms. Public court-authored federal order219 identifies underlying Kern County Farley v.Calcot,S-1500-CV-251326 as a specific employment-contract/termination evidence lead. Order inspected in public Justia reproduction; GovInfo counterpart index corroborates case reference but direct fetch returned DisabledError. Neither gives exact personal dates/hours; settlement and 2009 testimony do not extend employment or establish July2003 service. Existing USDA June successor observation retained without date arithmetic. Jonathan David Farley mathematician and US school namesake leave entries excluded. Advance to nsw-2 rather than repeat the exhausted biographies."
   ],
   "open_questions": [
     "What were the legal employing entities, exact dates, hours and leave for F.S. Falkiner and each Colly Cotton role?",
@@ -735,6 +746,7 @@
     "When precisely did Visypak employment and earlier Matrix operational work occur, and how did they overlap Colly/Calcot/AACo?",
     "Can original Colly records resolve1988 versus1990 managing-director promotion and1982 versus1983 farm-manager commencement?",
     "What were term dates, remuneration and time commitment for the historical statutory/industry boards and advisory chair role?",
-    "Which contracting entity handled World Bank, federal-government and commodity-house consulting, when and with what hours; what were Namoi board term and short-course dates?"
+    "Which contracting entity handled World Bank, federal-government and commodity-house consulting, when and with what hours; what were Namoi board term and short-course dates?",
+    "Can the legitimately public underlying Kern County Farley v.Calcot,S-1500-CV-251326 employment-contract/termination exhibits establish actual commencement, cessation and personal hours? Federal document219 only identifies the underlying case, not those dates; no paid access or restricted retrieval authorised."
   ]
 }
