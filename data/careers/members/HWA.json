@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/HWA",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-04",
+  "last_reviewed": "2026-10-05",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -51,9 +51,10 @@
       "source_ids": [
         "src-5",
         "src-6",
-        "src-12"
+        "src-12",
+        "src-14"
       ],
-      "evidence_note": "Commercial US retailer. Report identifies five years and explicitly part-time work; no precise endpoints. Dismissal and reinstatement ruling create an unresolved break. Retrospective union-official post gives1999dismissal, conflicting with first-speech age19recollection; no precise endpoint selected until original commission record resolves chronology.",
+      "evidence_note": "Commercial US retailer. Report identifies five years and explicitly part-time work; no precise endpoints. Dismissal and reinstatement ruling create an unresolved break. Retrospective union-official post gives1999dismissal, conflicting with first-speech age19recollection; no precise endpoint selected until original commission record resolves chronology. Primary SDA institutional account also gives1999; this corroborates the later union retelling but does not resolve conflict with age-based first speech or establish reinstatement dates.",
       "counting_note": "Documented part-time work excluded from full-time headline; FTE unknown. Component of official 1994–1999 retail envelope, not extra elapsed time.",
       "spell_id": "HWA-02"
     },
@@ -110,9 +111,11 @@
       "government_control_at_time": "unknown",
       "counting_status": "insufficient_evidence",
       "source_ids": [
-        "src-1"
+        "src-1",
+        "src-15",
+        "src-16"
       ],
-      "evidence_note": "Official occupational entry supplies years but not employer, hours or subject. Studying at Flinders does not establish that university as employer.",
+      "evidence_note": "Official occupational entry supplies years but not employer, hours or subject. Studying at Flinders does not establish that university as employer. New2002 eyewitness-identification publication attributes an Amanda Rishworth to Flinders School of Psychology. This is a research-affiliation lead, not a verified link to the1998–99 paid appointment; identity bridge, contract, employer and hours remain unknown.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "HWA-05"
     },
@@ -248,7 +251,7 @@
       "role": "Member for Kingston",
       "start_date": "2007-11-24",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "day",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -268,7 +271,7 @@
       "role": "Volunteer club membership",
       "start_date": "2008",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "unpaid_work",
@@ -288,7 +291,7 @@
       "role": "Australian Labor Party State Executive (SA) member",
       "start_date": "2005",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "party_organisation",
@@ -451,6 +454,36 @@
       "source_type": "official_biography",
       "locator": "Party positions; indexed text",
       "note": "Official indexed party history names State Executive from2005and National Conference delegate2002/2004/2007. Direct opening returned Internal Error / Failed to fetch restricted URL. Open-ended listing does not establish continued paid employment."
+    },
+    {
+      "source_id": "src-14",
+      "url": "https://www.sda.au/sa-nt/news/congratulations-to-sda-member-amanda-rishworth-mp/",
+      "publisher": "Shop, Distributive and Allied Employees Association, SA/NT",
+      "title": "Congratulations to SDA member Amanda Rishworth MP",
+      "source_type": "employer",
+      "retrieved": "2026-10-05",
+      "locator": "Paragraphs beginning In1999 and Amanda did not accept",
+      "note": "Primary union retrospective says1999 dismissal and union intervention succeeded. Does not supply original commission decision/case number, precise interruption or employing company. Conflicting first-speech age19 chronology preserved."
+    },
+    {
+      "source_id": "src-15",
+      "url": "https://researchnow.flinders.edu.au/en/publications/the-confidence-accuracy-relationship-in-eyewitness-identification/",
+      "publisher": "Flinders University",
+      "title": "Brewer, Keast and A Rishworth2002 publication record",
+      "source_type": "employer",
+      "retrieved": "2026-10-05",
+      "locator": "Author list; Journal of Experimental Psychology:Applied8(1),44–56",
+      "note": "Research affiliation lead only: university publication index does not identify paid1998–99 research-assistant contract or confirm politician identity independently."
+    },
+    {
+      "source_id": "src-16",
+      "url": "https://www.researchgate.net/publication/11362552_The_confidence-accuracy_relationship_in_eyewitness_identification_The_effects_of_reflection_and_disconfirmation_on_correlation_and_calibration",
+      "publisher": "American Psychological Association, publisher preview on ResearchGate",
+      "title": "The confidence-accuracy relationship in eyewitness identification: effects of reflection and disconfirmation2002",
+      "source_type": "other",
+      "retrieved": "2026-10-05",
+      "locator": "Public publisher preview p44, author-affiliation and acknowledgment footnote",
+      "note": "Neil Brewer, Amber Keast and Amanda Rishworth attributed to School of Psychology, Flinders; ARC grants awarded to Brewer. Affiliation/funding do not establish individual payroll, work hours or appointment dates. Full paper requires author request; no outreach made."
     }
   ],
   "research_notes": [
@@ -464,6 +497,7 @@
     "Targeted FWC/Toys R Us, Sonder/Northern Division, Flinders research-assistant and university-president searches did not resolve legal employers, appointment hours or reinstatement case. Josh Peak retrospective1999dismissal date logged as conflict lead only. Original industrial commission decision and2005–07division staff records remain preferred next avenues.",
     "A multi-speaker FRSA conference result juxtaposes Rishworth with a research-assistant biography belonging elsewhere; no Murdoch Childrens position assigned. Ministerial interviews repeat broad psychology experience without employer evidence. All outstanding payroll/control/FT and chronology gaps retained.",
     "Follow-up2026-10-03: targeted searches for the Toys R Us Industrial Relations Commission matter, including AustLII/reinstatement variants, returned the already captured first-person account and later SDA/Future Women retellings but no original decision, case number or employing-company name. Northern Division and Flinders research-assistant searches likewise repeated the public profile without payroll or hours evidence. No exact break or reinstatement date was inferred.",
-    "Follow-up2026-10-04: Added omitted State Executive and discrete National Conference delegate roles from official indexed party history. Northern Division2006and research-assistant1998searches repeated generic biographies; no legal payroll identity/hours or original retail reinstatement decision. Unrelated speakers and mechanically generated January1dates rejected."
+    "Follow-up2026-10-04: Added omitted State Executive and discrete National Conference delegate roles from official indexed party history. Northern Division2006and research-assistant1998searches repeated generic biographies; no legal payroll identity/hours or original retail reinstatement decision. Unrelated speakers and mechanically generated January1dates rejected.",
+    "Follow-up2026-10-05: Added primary SDA1999dismissal retelling, retaining first-speech conflict and original commission-case gap. New Flinders publication index and APA public first-page preview identify Amanda Rishworth coauthor/psychology affiliation on2002paper and ARC grants to Neil Brewer; not payroll/1998–99research-assistant evidence. SARMAC2001programme and authorship/honours queries do not bridge employment identity or hours; no university employer inferred. Northern Division legal identity/control, psychology/training hours/overlap and union-president remuneration remain outstanding. Nonmaterial source follow-up, no newly completed record."
   ]
 }
