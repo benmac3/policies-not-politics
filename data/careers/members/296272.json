@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/296272",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-04",
+  "last_reviewed": "2026-10-05",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -113,9 +113,10 @@
         "src-2",
         "src-6",
         "src-7",
-        "src-19"
+        "src-19",
+        "src-27"
       ],
-      "evidence_note": "Contemporary2012and2017council records support role. An April2014audit agenda names Corporate Services, so portfolio changes/acting arrangements require follow-up.24 March2017farewell is not imposed as exact end.22April2014agenda explicitly credits Corporate Services portfolio; internal change/acting dates remain unresolved, not a second simultaneous full-time post.",
+      "evidence_note": "Contemporary2012and2017council records support role. An April2014audit agenda names Corporate Services, so portfolio changes/acting arrangements require follow-up.24 March2017farewell is not imposed as exact end.22April2014agenda explicitly credits Corporate Services portfolio; internal change/acting dates remain unresolved, not a second simultaneous full-time post.12August2014agenda additionally attributes Urban Services title; this may be acting work or an agenda error. Do not replace supported Community and Development role or infer three concurrent full-time jobs.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "296272-05"
     },
@@ -247,7 +248,7 @@
       "role": "Board member",
       "start_date": null,
       "end_date": "2022-06-14",
-      "date_precision": "mixed",
+      "date_precision": "day",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "nonprofit",
@@ -345,7 +346,7 @@
       "role": "Member for Boothby",
       "start_date": "2022-05-21",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "day",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -497,6 +498,25 @@
       ],
       "evidence_note": "Official start year; primary Trust report narrows retirement toJanuary2022 at end of its financial year. Not assumed30June, nor exact31January personal last day. Distinct from SA selection-panel/chair role; pay/hours unknown.",
       "counting_note": "Governance excluded from substantive public/private employment; no full-time years or additive overlaps inferred."
+    },
+    {
+      "spell_id": "296272-25",
+      "employer": "Belair Primary School",
+      "role": "Governing Council member",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "public_service",
+      "headline_sector": "excluded",
+      "government_control_at_time": "public",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-26"
+      ],
+      "evidence_note": "School newsletter names Louise Miller-Frost MP in2023governing council membership. No September2023appointment imported from derivative profile; personal fees and exact service endpoints unknown. Public SA government school, governance rather than teaching/ordinary employment.",
+      "counting_note": "Governance excluded from substantive public/private employment totals; overlap with parliamentary service not additive."
     }
   ],
   "sources": [
@@ -749,6 +769,26 @@
       "locator": "Publicly indexed achievements: Propel SA launch,formerly Eastern Business Enterprise Centre",
       "retrieved": "2026-10-04",
       "note": "Council identifies former EBEC as nonprofit. Later organisational character supports category, but historical control and personal director remuneration unknown; council funding is not control."
+    },
+    {
+      "source_id": "src-26",
+      "url": "https://belairps.sa.edu.au/wp-content/uploads/2023/12/Term-4-Week-9-151223.pdf",
+      "publisher": "Belair Primary School",
+      "title": "Newsletter, Term4 Week9,15December2023",
+      "source_type": "government_record",
+      "locator": "PDF page4, A message from our Governing Council, membership list",
+      "retrieved": "2026-10-05",
+      "note": "School names Louise Miller-Frost MP among2023governing council members. Observation not appointment interval; no teaching employment or personal working fraction inferred."
+    },
+    {
+      "source_id": "src-27",
+      "url": "https://www.burnside.sa.gov.au/files/assets/public/about-council/council-amp-committees/agendas-minutes-amp-workshops/council/2014/agendas/20140812_notice_of_meeting_and_agenda_12_august_2014.pdf",
+      "publisher": "City of Burnside",
+      "title": "Council agenda,12August2014",
+      "source_type": "government_record",
+      "locator": "Printed77,item14.6,author/general manager table,publicly indexed text",
+      "retrieved": "2026-10-05",
+      "note": "Names Louise Miller Frost as General Manager Urban Services on audit appointment item; portfolio/acting arrangement unresolved. Direct PDF reader403; indexed table only, no visual table verification."
     }
   ],
   "research_notes": [
@@ -763,6 +803,7 @@
     "Follow-up2026-10-02: first-person House speech confirms previously lead-only doctor recruitment work. Retained separately with possible duplication because exact employer/dates and relationship to existing SA Health posts are unresolved. Rounded15years not used to back-calculate career start or full-time totals.",
     "Primary council records confirm Corporate Services portfolio and add SAPHC representative governance/resignation beforeApril2017. Searches for early workforce/recruitment and SA Divisions history did not establish applicable payroll or full-time evidence. Burnside/West TorrensPDF403 and Probus502 treated as source gaps; narrow indexed evidence identified explicitly. Remaining health/council leave, board terms and private-sector gaps retained.",
     "Follow-up2026-10-03: public professional-profile indexing supplied a3-year9-month SA Divisions duration and fuller Primary Mental Health Care title. Because exact months and substantive hours remain unavailable, the profile duration was recorded as evidence but not converted into endpoints or headline years. Searches for a primary payroll record and for the Country Health doctor-recruitment role did not resolve those gaps.",
-    "Follow-up2026-10-04: AMC primary member table narrows council departure toJanuary2022. Trust primary annual report separately establishes national-board retirement at end of its31January2022financial year; month precision retained and SA chair role distinguished from National Chair. Official parliamentary indexing adds UCWB board membershipFebruary2010–April2017,EBEC2014–2017,EDA SA committee2015–2016,SA MET2020–2022,national Churchill board2021–2022,plus SAPHC deputy2015–2017. These omitted governance roles are separate from employee appointments and cannot resolve personal working fraction. Full AMC PDF exceeded tool length; APH403; narrow explicit indexed evidence recorded. Early health/recruitment employer and existing hours/leave gaps remain unresolved."
+    "Follow-up2026-10-04: AMC primary member table narrows council departure toJanuary2022. Trust primary annual report separately establishes national-board retirement at end of its31January2022financial year; month precision retained and SA chair role distinguished from National Chair. Official parliamentary indexing adds UCWB board membershipFebruary2010–April2017,EBEC2014–2017,EDA SA committee2015–2016,SA MET2020–2022,national Churchill board2021–2022,plus SAPHC deputy2015–2017. These omitted governance roles are separate from employee appointments and cannot resolve personal working fraction. Full AMC PDF exceeded tool length; APH403; narrow explicit indexed evidence recorded. Early health/recruitment employer and existing hours/leave gaps remain unresolved.",
+    "Primary school newsletter adds Belair governing council observation;2014council agenda adds disputed Urban Services portfolio attribution without manufacturing a second employment spell. ERA committees, UCWB subcommittees and mentoring dates appeared only in a derivative profile and remain leads pending own-profile/institutional confirmation. Council departmental staffing tables are planned position complements, not proof of personal fraction/leave; direct PDFs403. Targeted full-time and doctor-recruitment searches found no employment-contract evidence. Earlier health employer/hours, council acting arrangements and charity transition remain unresolved; no totals calculated."
   ]
 }
