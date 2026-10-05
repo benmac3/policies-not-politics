@@ -133,7 +133,7 @@
       "category": "study",
       "counting_note": "Excluded category under codebook; no FTE or additive duration inferred.",
       "counting_status": "excluded",
-      "date_precision": "mixed",
+      "date_precision": "year",
       "employer": "University of Sydney",
       "employment_status": "unknown",
       "end_date": "2008",
@@ -307,15 +307,34 @@
       "evidence_note": "2023 candidate biography identifies volunteering. No dated term, paid employment or full-time status inferred.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "315618-volunteer-homeless"
+    },
+    {
+      "spell_id": "315618-unallocated-full-time",
+      "employer": "Unidentified employer during study and first independent rental",
+      "role": "Unallocated full-time employment recalled in housing speech",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "full_time",
+      "fte_fraction": 1.0,
+      "category": "unknown",
+      "headline_sector": "unknown",
+      "government_control_at_time": "unknown",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-housing-2025-full-time"
+      ],
+      "evidence_note": "Own25August2025speech explicitly identifies full-time work alongside study when first renting in SouthHurstville. She separately describes practising-solicitor eligibility for a mortgage concession. No named employer, study programme, dates or leave record permits allocating this full-time statement to Sydney, ANMF, ETU, AHA or HospitalityLegal. This is an unallocated component of the existing career, not an additional additive job.",
+      "counting_note": "No duration or sector assigned; avoid double counting if later allocated to a documented spell."
     }
   ],
   "headline": {
     "calculation_status": "not_calculable",
-    "note": "Employment is documented but spell dates and full-time status are not established. University control and association-owned law-firm treatment require review. Union, employer-association, nonprofit, study and elected roles are not counted as private/public full-time employment. Unknown is not zero.",
+    "note": "Employment is documented but spell dates and full-time status are not established. University control and association-owned law-firm treatment require review. Union, employer-association, nonprofit, study and elected roles are not counted as private/public full-time employment. Unknown is not zero. Own2025speech establishes an unallocated full-time component; personal employer/date allocation is still required.",
     "private_full_time_years": null,
     "public_full_time_years": null
   },
-  "last_reviewed": "2026-10-04",
+  "last_reviewed": "2026-10-05",
   "name": "AMBIHAIPAHAR, Ashvini (Ash)",
   "person_id": "315618",
   "research_notes": [
@@ -334,7 +353,8 @@
     "Union/law-firm targeted searches supplied no new personal boundaries or hours. Do not infer law teaching from poorly punctuated secondary candidate summary; primary interview describes anatomy teaching and separate law degree. Next leads:2008–14schoolstaff directories/contracts, ANMFandETUlegalstaff transitions, AHA/HospitalityLegalappointments, Vinniescampaignleave.",
     "Further2October pass after nationwide follow-up: targeted2014/2019/2020 employer queries produced public ETU-pairedJanuary2014–December2020 profile interval, corroborated in employer identity by existing2018 FWC correspondence. No direct profile retry. New Vinnies Winter2025 magazine p24 calls her Metropolitan Regional Director while reporting election, but does not establish employment continued after election, departure date or campaign leave. ANMF/AHA/Hospitality Legal queries still no person-specific boundaries. Next seek union payroll/title transitions and leave records, and legal-firm appointment notice; do not derive ANMF dates from remaining gaps.",
     "Follow-up 2026-10-04: Fair Work Commission-filed correspondence establishes AHA NSW Senior Lawyer activity on 15 August 2022. Vinnies' April 2025 Broken Bay newsletter says an acting regional director had covered the role since February while Ambihaipahar was on leave, supplying the first primary campaign-leave evidence. Neither observation establishes appointment/cessation, hours, whether leave was paid or whether AHA and Hospitality Legal were separate jobs.",
-    "Follow-up2026-10-04: Recovered original StGeorgeCommunityTransport2021 and2022 reports, establishing earlier primary volunteer-board membership and own nearly-year tenure statement; reporting/compilation dates not converted into appointment days. ANMF/NSWNMAand2021HospitalityLegal searches found no personalemployment dates. FWC2019CEPUappearance only corroborates existingunionrole; sourcewebUnicodeerror and ordinaryHTTP403, no further retry. No substantiveFTpersonal evidence or unionsecondment/payroll proof; remainingunknowns retained."
+    "Follow-up2026-10-04: Recovered original StGeorgeCommunityTransport2021 and2022 reports, establishing earlier primary volunteer-board membership and own nearly-year tenure statement; reporting/compilation dates not converted into appointment days. ANMF/NSWNMAand2021HospitalityLegal searches found no personalemployment dates. FWC2019CEPUappearance only corroborates existingunionrole; sourcewebUnicodeerror and ordinaryHTTP403, no further retry. No substantiveFTpersonal evidence or unionsecondment/payroll proof; remainingunknowns retained.",
+    "2026-10-05 own25August2025housing speech newly establishes full-time work alongside study, employer/interval unallocated. No blanket FT inference for named roles. New Advoc8 indexed parliamentary lead says anatomy department about eight years, in tension with2008–14profile; full fetch returned non-retryable500redirect, so preserve existing dates and seek original Hansard before resolving. Targeted ANMF/AHA/HospitalityLegal queries added no payroll boundaries; job advertisements concern her staff and are not her own employment."
   ],
   "research_status": "blocked",
   "snapshot_chamber": "Member",
@@ -521,6 +541,16 @@
       "locator": "Printed/PDF pp18,21,38",
       "note": "Original report downloaded and relevant text inspected; p38 visually checked. Own statement says nearly a year since joining volunteer board. Chair and CEO also welcome her among new members; report compiled after financial year. Relative tenure is not back-calculated to a fabricated month/day.",
       "retrieved": "2026-10-04"
+    },
+    {
+      "source_id": "src-housing-2025-full-time",
+      "source_type": "primary_statement",
+      "publisher": "Ash Ambihaipahar MP",
+      "title": "Housing — 25 August2025",
+      "url": "https://ashmp.com.au/speeches/housing-25-aug-2025/",
+      "retrieved": "2026-10-05",
+      "locator": "First-person paragraph on South Hurstville rental, working while studying and solicitor mortgage concession; web lines16–17",
+      "note": "Own published parliamentary speech explicitly says worked full-time while studying when first moved from home. Employer and calendar interval absent. Solicitor mortgage reference is not treated as evidence that every concurrent or earlier job was full-time."
     }
   ]
 }
