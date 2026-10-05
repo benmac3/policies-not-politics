@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Greens",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/250156",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-04",
+  "last_reviewed": "2026-10-05",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -30,9 +30,10 @@
         "src-1",
         "src-2",
         "src-3",
-        "src-5"
+        "src-5",
+        "src-11"
       ],
-      "evidence_note": "Oral history recalls starting2015 or2016, not exact; contemporaneous2017 report identifies student taking study break. No paid university role established.",
+      "evidence_note": "Oral history recalls starting2015 or2016, not exact; contemporaneous2017 report identifies student taking study break. No paid university role established. Greens WA24December2017 retrospective confirms deferment when entering Senate, corroborating study break, with exact deferment date unknown.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "250156-01"
     },
@@ -102,7 +103,7 @@
       "role": "Membership officer",
       "start_date": "2011",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "party_organisation",
@@ -121,7 +122,7 @@
       "role": "Permanent representative",
       "start_date": "2012",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "party_organisation",
@@ -140,7 +141,7 @@
       "role": "Co-convener",
       "start_date": "2013",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "party_organisation",
@@ -178,7 +179,7 @@
       "role": "Senator for Western Australia",
       "start_date": "2017-11-10",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "day",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -226,9 +227,10 @@
       "government_control_at_time": "private",
       "counting_status": "excluded",
       "source_ids": [
-        "src-9"
+        "src-9",
+        "src-10"
       ],
-      "evidence_note": "Listed during2014/15 reporting year, independently in committee and related-party tables. Fiscal coverage is not exact personal tenure. Governance separate from staff employment; no personal pay or hours supplied.",
+      "evidence_note": "Listed during2014/15 reporting year, independently in committee and related-party tables. Fiscal coverage is not exact personal tenure. Governance separate from staff employment; no personal pay or hours supplied. Primary2016/17 report records retirement during that reporting year owing to other commitments. Cessation bounded to fiscal2016/17, not a single calendar year; end_date remains null because structure cannot represent that interval. No continuous tenure inferred between2014/15 and2016/17 observations.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "250156-11"
     },
@@ -342,6 +344,26 @@
       "locator": "Printed pp5–6 Committee of Management; p23 Self Advocacy and Peer Support; p41 Note7",
       "retrieved": "2026-10-04",
       "note": "Names Steele-John as ordinary management committee member and SAPS participant in transport-access work. Distinguished from named paid project staff; dates/hours and personal remuneration not specified."
+    },
+    {
+      "source_id": "src-10",
+      "url": "https://pwdwa.org/documents/annual_reports/Annual%20report_16_17.pdf",
+      "publisher": "People With Disabilities (WA) Inc",
+      "title": "Annual Report 2016–2017",
+      "source_type": "employer",
+      "locator": "Printed pp7–8 (PDF pp6–7), President report and Committee of Management; financial statements year ended30June2017",
+      "retrieved": "2026-10-05",
+      "note": "Management committee retirement during2016/17 reporting year, due to other commitments; no exact personal date or salary/hours supplied."
+    },
+    {
+      "source_id": "src-11",
+      "url": "https://greens.org.au/wa/magazine/our-new-senator",
+      "publisher": "Greens WA",
+      "title": "Our New Senator,24December2017",
+      "source_type": "other",
+      "locator": "Paragraph beginning He had to defer his university studies",
+      "retrieved": "2026-10-05",
+      "note": "Contemporaneous party account confirms university deferment on entering Senate, not exact deferment date or paid university work."
     }
   ],
   "research_notes": [
@@ -352,6 +374,7 @@
     "Searched earlier/later health-report references and appointment leads; no exact tenure or substantive full-time work recovered. Public professional profile https://au.linkedin.com/in/jordon-steele-john-656ba917a/ returned (999) Unknown Status Code. Official alternate annual-report PDF downloaded and extracted after web open/screenshot access failures. These are source-specific gaps, not terminal errors.",
     "Next leads: appointment and cessation minutes for Rockingham health council; 2014–15 and 2017–18 remuneration/appointments; other paid disability/youth projects and conference honoraria, precise education and leave history. No zero total inferred from absence of other identified employers.",
     "Follow-up 2026-10-03: targeted searches for the Rockingham health council appointment and pre-Senate advocacy employment recovered only the already-cited official 2015–16 and 2016–17 remuneration tables and generic contemporaneous advocate descriptions. No new appointment boundary, employer, remuneration or hours evidence was found. The source avenues were documented to avoid treating repeated search results as new evidence; the record remains unresolved.",
-    "Follow-up2026-10-04: Found2014/15 PWdWA primary report, naming management committee and SAPS membership. Roles excluded; employment not inferred. Health-council earlier/later tables still did not resolve exact tenure. City2014 minutes open Internal Error; indexed mention alone not assigned a Bushfire Council role without context. Further leads: PWdWA earlier/later annual and appointment records, personal payment terms, health-council minutes and education dates."
+    "Follow-up2026-10-04: Found2014/15 PWdWA primary report, naming management committee and SAPS membership. Roles excluded; employment not inferred. Health-council earlier/later tables still did not resolve exact tenure. City2014 minutes open Internal Error; indexed mention alone not assigned a Bushfire Council role without context. Further leads: PWdWA earlier/later annual and appointment records, personal payment terms, health-council minutes and education dates.",
+    "Follow-up2026-10-05: PWdWA2016/17 report adds management-committee retirement during that fiscal year; exact date not forced into2016 or2017. Party December2017 account corroborates university deferment. Attempted2015/16 report returned Internal Error from web tool; generic YDAN results concerned later guest speaking or other staff and do not prove pre-Senate employment. Next: original appointment/resignation minutes, personal pay/hours of advocacy projects and precise study/health-council dates. No headline zero inferred."
   ]
 }
