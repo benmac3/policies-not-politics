@@ -414,6 +414,25 @@
       ],
       "evidence_note": "Official month-level party office, separate from parliamentary service and charity employment. Paid/unpaid basis is unknown; party title does not establish a paid full-time job.",
       "counting_note": "Excluded party office under the codebook."
+    },
+    {
+      "spell_id": "316660-21",
+      "employer": "University of Melbourne / Pathways to Politics for Women (training providers)",
+      "role": "Pathways to Politics training participant/alum",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-pathways-2022-pass2"
+      ],
+      "evidence_note": "Provider confirms alum status and names Witty in2022 Victoria Speeches in Parliament photograph. A training-activity observation is not a full course range, a university appointment or elected office. No salary or hours established.",
+      "counting_note": "Excluded training.2022 point observation not converted into start/end dates or substantive full-time employment."
     }
   ],
   "sources": [
@@ -566,6 +585,26 @@
       "source_type": "official_biography",
       "locator": "Party positions: branch vice-president, November 2024 to May 2025",
       "note": "Public indexed official biography supplies month boundaries; direct open returned restricted URL. Party office is not automatically paid employment."
+    },
+    {
+      "source_id": "src-pathways-2022-pass2",
+      "url": "https://pathwaystopolitics.org.au/2025/alums-make-their-mark-in-historic-federal-election/",
+      "publisher": "Pathways to Politics for Women",
+      "title": "Alums make their mark in historic federal election",
+      "retrieved": "2026-10-05",
+      "source_type": "employer",
+      "locator": "Alumni account; photograph caption names Sarah Witty at Victoria Speeches in Parliament2022, line67",
+      "note": "Training provider identifies her as alum of University of Melbourne program and documents2022 training-speech activity. Exact enrolment/course boundaries not established; actual paid employment not inferred."
+    },
+    {
+      "source_id": "src-abn-candidate-pass2",
+      "url": "https://abr.business.gov.au/AbnHistory/View?id=69640695431",
+      "publisher": "Australian Business Register / ABN Lookup",
+      "title": "Historical details, ABN69 640 695 431 — candidate identity lead",
+      "retrieved": "2026-10-05",
+      "source_type": "government_record",
+      "locator": "Entity-name, ABN-status, location and business-name tables, lines38–69",
+      "note": "Sole-trader register matches full name Sarah Jane Witty and Richmond postcode, but no independent link yet ties registrant to member or her Subway/ballet activity. Candidate historical names and Property Foundation Club retained only as research leads; ABN active/cancel dates are registration milestones, not employment endpoints. No career spell assigned on this evidence."
     }
   ],
   "research_notes": [
@@ -580,6 +619,7 @@
     "2026-10-03 follow-up: two public professional-profile indexes consistently identify National Credit Insurance (new business/sales), Bank of Melbourne (local business manager) and Scottish Pacific/ScotPac (business development), and corroborate the Harcourts sales-executive and Subway owner/operator roles. Because their month ranges conflict materially, only employer and role identities were adopted; no synthetic boundaries or full-time inference was made. Fresh employer-domain searches did not locate appointment records, contracts or hours. Multiple primary Harcourts listings continue to support2010 activity only. Record remains blocked, totals null.",
     "2026-10-04 follow-up: narrow employer-by-employer searches recovered no primary personnel or appointment record. ContactOut and SignalHire continue to disagree materially on Harcourts, NCI, Bank of Melbourne and ScotPac month ranges, so none was adopted; Guardian and first-person-derived summaries confirm only the generic banking, insurance, Subway and ballet sequence. Decisive evidence remains archived employer staff pages, contracts/payroll, business/franchise registrations and the member's underlying professional profile. Record remains blocked.",
     "Follow-up2026-10-04: Targeted full-time and qualification queries returned job advertisements for staff in Witty’s parliamentary office, not her pre-parliamentary hours or education. Current direct professional-profile open returned(999)Unknown Status Code; no retry or access-control bypass. Existing earlier public profile evidence preserved, no new dates adopted. Corrected foster-care pay classification to unknown and one-sided date precision. Existing inconsistent commercial month ranges and overlapping nonprofit work remain unresolved. Next: employer personnel records, legally public franchise/ballet registrations and original self-reported education, rather than repeatedly searching the same contact indexes.",
-    "2026-10-05 follow-up: recovered the correct single-speaker first speech, adding previously omitted waiting-table work without employer/date/pay/hour assumptions and the official November 2024–May 2025 party branch vice-presidency as excluded office. Correct prior cursor name: Sarah Witty, not Julian Witty. Targeted Bank of Melbourne, NCI, ScotPac, PCA Families and Yarra personnel searches found no original payroll/boundary records. Contact indexes continue to conflict; their education leads (RMIT business diploma and short professional courses) remain unverified, not adopted as dated study spells. Northern Colorado/Aims academic and US banker namesakes excluded. No precise employment dates or full-time totals inferred; next useful avenues remain primary commercial personnel/franchise/ballet records and original education/individual workload evidence."
+    "2026-10-05 follow-up: recovered the correct single-speaker first speech, adding previously omitted waiting-table work without employer/date/pay/hour assumptions and the official November 2024–May 2025 party branch vice-presidency as excluded office. Correct prior cursor name: Sarah Witty, not Julian Witty. Targeted Bank of Melbourne, NCI, ScotPac, PCA Families and Yarra personnel searches found no original payroll/boundary records. Contact indexes continue to conflict; their education leads (RMIT business diploma and short professional courses) remain unverified, not adopted as dated study spells. Northern Colorado/Aims academic and US banker namesakes excluded. No precise employment dates or full-time totals inferred; next useful avenues remain primary commercial personnel/franchise/ballet records and original education/individual workload evidence.",
+    "Targeted second pass2026-10-05: primary Pathways to Politics provider confirms previously omitted University of Melbourne training/alum status and2022 Speeches in Parliament observation; added excluded study without inventing course boundaries or university payroll. Historical ABN69 640 695 431 names Sarah Jane Witty, earlier Sarah Pyke, Richmond postcode and Skin Min trading names/Property Foundation Club; full-name/location match alone does not independently identify this member or connect Subway/ballet, so retain candidate registration lead only with no attributed employer/spell or registration-to-employment date conversion. Employer-domain NCI and school-alumni searches yielded no appointments; business/franchise/ballet queries still general or conflicting contact indexes. US RV supplier and historical US/UK namesakes rejected. Large Pathways anniversary PDF returned400 Content length is too large:12984250; accessible provider HTML supplies training evidence. Still need identity link and underlying private-career personnel, hours and leave evidence; no totals calculated."
   ]
 }
