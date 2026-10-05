@@ -11,7 +11,7 @@
     "public_full_time_years": null,
     "private_full_time_years": null,
     "calculation_status": "not_calculable",
-    "note": "Full-time Commissioner appointment is supported; cessation refined to19February2016. Commencement day and leave remain unresolved. Concurrent consultancy and media hours are unknown; no additive or exact scalar totals."
+    "note": "Full-time Commissioner appointment and formal boundaries17February2014–19February2016 supported by original Attorney-General release and contemporary resignation interview. Leave/interruptions and other career hours remain unresolved; no additive or exact scalar totals."
   },
   "career_spells": [
     {
@@ -223,9 +223,9 @@
       "spell_id": "IMW-11",
       "employer": "Australian Human Rights Commission",
       "role": "Human Rights Commissioner",
-      "start_date": "2014-02",
+      "start_date": "2014-02-17",
       "end_date": "2016-02-19",
-      "date_precision": "mixed",
+      "date_precision": "day",
       "employment_status": "full_time",
       "fte_fraction": 1,
       "category": "public_service",
@@ -238,10 +238,11 @@
         "src-3",
         "src-4",
         "src-10",
-        "src-12"
+        "src-12",
+        "src-brandis-commencement-pass2"
       ],
-      "evidence_note": "Full-time status explicitly stated in Coalition primary response; AHRC employer biography supplies months. Commonwealth statutory executive office, not party/ministerial staff or merely an honorary board position. Retain month precision pending authoritative effective-date reconciliation. Contemporaneous ABC interview corroborates Friday19February2016 effective resignation, refining end date. February2014 commencement day and any leave remain unresolved.",
-      "counting_note": "Full-time public appointment supported, cessation19February2016 corroborated. Commencement remains month-only and leave unresolved; no first-of-month imputation or exact two-year scalar."
+      "evidence_note": "Full-time status explicitly stated in Coalition primary response. Commonwealth statutory executive office. Original Attorney-General release dated17February2014 explicitly says five-year appointment commenced that day, resolving the earlier month-only commencement; ABC introduction taking up post tomorrow is distinguished from formal effective appointment. Contemporaneous ABC resignation interview corroborates cessation19February2016. Whole-tenure leave and interruptions remain unresolved.",
+      "counting_note": "Full-time appointment and exact formal boundaries supported17February2014–19February2016. Calendar span is not automatically uninterrupted substantive full-time service; leave/interruptions and whole-career gaps unresolved, so no scalar total claimed."
     },
     {
       "spell_id": "IMW-12",
@@ -524,6 +525,26 @@
       ],
       "evidence_note": "First-person school-holiday family-business activity; remuneration, employment basis and dates unknown. Business context does not prove paid employment, self-employment or full-time hours.",
       "counting_note": "No calculable substantive full-time duration; dates, legal employer and/or hours unresolved."
+    },
+    {
+      "spell_id": "IMW-26",
+      "employer": "RMIT University (study institution; original scholarship confirmation unresolved)",
+      "role": "Doctoral study on carbon futures markets; reported PhD scholarship",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-doctoral-milestone-pass2",
+        "src-rmit-disclosure-pass2"
+      ],
+      "evidence_note": "Personal public post confirms doctoral research and first milestone. Interests transcription identifies RMIT scholarship with plannedNovember2025 expiry; enrolment, study-hours, interruptions and completion unestablished. Scholarship/study does not establish salaried university employment.",
+      "counting_note": "Excluded study. No conversion of relative post age, declaration or scholarship-expiry date into employment or study boundaries."
     }
   ],
   "sources": [
@@ -726,6 +747,36 @@
       "source_type": "professional_profile",
       "locator": "Childhood employment section: teenage waiter work and paper-round remuneration recollection",
       "note": "First-person account corroborates paper route and teenage waiting work. Approximate recalled paper-round pay is not an hours record. Whether waiter job equals reception-centre work unresolved; avoided adding overlapping duplicate spell."
+    },
+    {
+      "source_id": "src-brandis-commencement-pass2",
+      "url": "https://static1.1.sqspcdn.com/static/f/556710/24387374/1392622750867/Brandis_Wilson_Feb2014.pdf?token=uKHbgcIDIMSHVTtUve3krA8Y0bc%3D",
+      "publisher": "Attorney-General George Brandis; archived original release",
+      "title": "Human Rights Commissioner, media release, 17 February 2014",
+      "source_type": "government_record",
+      "locator": "Single-page original PDF, first and final paragraphs, lines5–6 and23–24",
+      "note": "Original signed-office release states Federal Executive Council appointment that morning and five-year appointment commencing today. Explicit effective-date wording resolves the previously month-only commencement; not merely announcement date.",
+      "retrieved": "2026-10-05"
+    },
+    {
+      "source_id": "src-doctoral-milestone-pass2",
+      "url": "https://www.linkedin.com/posts/timwilsonmp_mild-personal-update-today-i-passed-my-first-activity-7134831235352125440-Qq8L",
+      "publisher": "Tim Wilson / LinkedIn",
+      "title": "Personal doctoral milestone update",
+      "source_type": "professional_profile",
+      "locator": "Public post main text, lines15–21; displayed relative age2y",
+      "note": "First-person account confirms doctoral thesis on carbon futures and first milestone, without absolute enrolment/completion dates; relative age not converted to boundaries.",
+      "retrieved": "2026-10-05"
+    },
+    {
+      "source_id": "src-rmit-disclosure-pass2",
+      "url": "https://mail.openpolitics.au/48/tim-wilson",
+      "publisher": "Open Politics, transcribing parliamentary interests",
+      "title": "Tim Wilson declared interests, 48th Parliament",
+      "source_type": "reliable_secondary",
+      "locator": "Section14 Other Interests, self row; original parliamentary link WilsonT_48P.pdf",
+      "note": "Transcription identifies RMIT PhD scholarship expiringNovember2025. Original linked APH PDF returned403Forbidden and was not accessed. Declaration date3May2025 is not enrolment start; planned scholarship expiry not proof of completion. Aggregator says wording may be amended; original confirmation retained as gap.",
+      "retrieved": "2026-10-05"
     }
   ],
   "research_notes": [
@@ -740,6 +791,7 @@
     "2026-10-03 follow-up: current APH material resolves the previously generic AHPRA entry to the Victorian Nursing and Midwifery Board and dates it 2011–2013. Wilson's first-person parliamentary account on 4 February 2026 recalls service from 2010 until about 2013; because the start is approximate and conflicts with APH, both are documented and the official year range retained. This is excluded governance, not additional public-service employment. Fresh commencement-instrument, APEC-payroll and consulting-hours searches did not resolve those gaps; record remains blocked.",
     "2026-10-04 follow-up: a staff-history compilation records Wilson as Australian APEC Study Centre project manager and says he resigned in April 2006, refining the official 2006 endpoint to month precision. Exact electorate-office identity, APEC payroll/contract counterparty and hours, Human Rights Commissioner commencement instrument/leave, and private consulting hours remain unresolved. Narrow exact-name searches avoided prior oversized-result truncation; public-web avenues did not supply the decisive personnel or contracting records. Record remains blocked.",
     "Follow-up2026-10-04: Primary MONSU history clarifies Monyx joint ownership and2003 formation, raising a documented conflict with official2002 director start. Equal ownership does not prove board control; governance remains excluded. Added publisher-confirmed2020 book authorship with contract, pay and writing dates unknown. Own biography adds one-year initial Monash painting study before switching subjects, without absolute dates. Reconciled APEC year/month precision and source enums. Search full-time statements concerned other commissioners, not IPA employment. Next: historical Monyx incorporation/board instruments, commissioner effective appointment and leave, consulting contracts/hours, named electorate employer.",
-    "Follow-up 2026-10-05: Original31August2016 first speech and self-published9October2025 interview add omitted early newspaper delivery, reception-centre/teenage waiting, and school-holiday family-business lawn/timber work. Ages not converted into endpoints; hospitality descriptions provisionally grouped to avoid double counting. Employer entities, pay/hours and overlap remain gaps. Hosting society2018 biography supplied lead and corroboration. AHRC2013–14 new indexed asset path403; HTML year review gives activities without commencement day/leave. Dynamic Sunrise holdings in parliamentary interests identify current holding company, not proof of historical consultancy payroll; no entity or duration backcast. No totals calculated."
+    "Follow-up 2026-10-05: Original31August2016 first speech and self-published9October2025 interview add omitted early newspaper delivery, reception-centre/teenage waiting, and school-holiday family-business lawn/timber work. Ages not converted into endpoints; hospitality descriptions provisionally grouped to avoid double counting. Employer entities, pay/hours and overlap remain gaps. Hosting society2018 biography supplied lead and corroboration. AHRC2013–14 new indexed asset path403; HTML year review gives activities without commencement day/leave. Dynamic Sunrise holdings in parliamentary interests identify current holding company, not proof of historical consultancy payroll; no entity or duration backcast. No totals calculated.",
+    "Targeted second pass2026-10-05: original Attorney-General17February2014 release explicitly states the five-year appointment commenced that day; refined Human Rights Commissioner start to2014-02-17, distinguishing ABC tomorrow operational wording. Cessation19February2016 preserved; leave and interruptions still unknown and no calendar-span scalar adopted. Added previously omitted doctoral research from personal public LinkedIn milestone post plus Open Politics RMIT-scholarship transcription; linked original interests PDF403Forbidden, so institution/scholarship remains transparently secondary-confirmed and exact study dates/completion unknown. PlannedNovember2025 scholarship expiry is not a completion endpoint; new study excluded, not university payroll. February2016 ABC transcript says resignation rather than prospective preselection leave, not evidence that no other leave occurred. Consulting-full-time searches did not resolve hours, clients or overlaps; unknown totals retained."
   ]
 }
