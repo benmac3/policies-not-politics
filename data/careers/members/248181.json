@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/248181",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-05",
+  "last_reviewed": "2026-10-06",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -166,9 +166,9 @@
       "spell_id": "248181-newcastle-council",
       "employer": "Newcastle City Council",
       "role": "Councillor",
-      "start_date": "2008",
+      "start_date": "2008-09-23",
       "end_date": "2012",
-      "date_precision": "year",
+      "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -178,9 +178,11 @@
       "source_ids": [
         "src-secondary",
         "src-abc2022",
-        "src-weekly2022"
+        "src-weekly2022",
+        "src-newcastle-annual2012",
+        "src-nswec2008"
       ],
-      "evidence_note": "ABC2022 guide gives council term2008–2012;2022 interview confirms standing in2008. Exact election/cessation dates, remuneration, hours and electorate-office/campaign overlap remain unresolved. Earlier ABC2013 guide indexed2007 start conflicts with2008 and is not adopted.",
+      "evidence_note": "The NSW Electoral Commission records Claydon declared elected for Newcastle First Ward on 23 September 2008, and council's 2011–12 annual report describes her as first elected in September 2008. ABC2022 gives the term as 2008–2012; the council report records the next election on 8 September 2012 but does not state her legal cessation day. Remuneration, hours and electorate-office/campaign overlap remain unresolved. Earlier ABC2013 guide indexed2007 start conflicts with primary 2008 evidence and is not adopted.",
       "counting_note": "Elected local-government office is excluded under the codebook."
     },
     {
@@ -343,6 +345,40 @@
       ],
       "evidence_note": "Grierson’s19June2013 valedictory names Claydon as one of her campaign directors over time. Campaign year(s), pay, hours and overlap with parliamentary staff/council roles are unstated. The acknowledgement date is not the date of campaign work; do not merge with Claydon’s own2012–2013 candidature.",
       "counting_note": "Party/campaign work excluded. No separate payroll or additional elapsed employment time inferred."
+    },
+    {
+      "spell_id": "248181-small-business",
+      "employer": "Small-business employer or enterprise (identity unresolved)",
+      "role": "Work in small business (role unresolved)",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "unknown",
+      "government_control_at_time": "unknown",
+      "counting_status": "insufficient_evidence",
+      "source_ids": ["src-newcastle-annual2012"],
+      "evidence_note": "Newcastle Council's 2011–12 annual report biography says Claydon had worked in small business. It does not identify whether this was employment, self-employment or ownership, nor the entity, role, dates, hours, location or overlap with other work.",
+      "counting_note": "No employer, control classification or substantive full-time interval is established."
+    },
+    {
+      "spell_id": "248181-child-care",
+      "employer": "Child-care provider (identity unresolved)",
+      "role": "Child-care sector work (role unresolved)",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "unknown",
+      "government_control_at_time": "unknown",
+      "counting_status": "insufficient_evidence",
+      "source_ids": ["src-newcastle-annual2012"],
+      "evidence_note": "Newcastle Council's 2011–12 annual report biography says Claydon had worked in child care. It gives no provider, legal employer, role, dates, hours, employment status, location or overlap with the disability-services account.",
+      "counting_note": "No employer, control classification or substantive full-time interval is established."
     }
   ],
   "sources": [
@@ -505,6 +541,26 @@
       "source_type": "government_record",
       "locator": "5:57pm speech: staff thanks after August election",
       "note": "Names Claydon among staff. Donovan Harris, not Claydon, is named as2010 campaign director; his leave evidence cannot be transferred to her."
+    },
+    {
+      "source_id": "src-newcastle-annual2012",
+      "url": "https://newcastle.nsw.gov.au/Newcastle/media/Documents/Council/ECM_3798891_v1_Report-Attachment-A-2011-2012-Annual-Report.pdf",
+      "publisher": "City of Newcastle",
+      "title": "Vision to Action: Annual Report 2011/2012",
+      "retrieved": "2026-10-06",
+      "source_type": "government_record",
+      "locator": "Printed pp49–52: councillor profile, first-election month, sector biography, attendance and 2012 election date",
+      "note": "Contemporaneous council biography identifies prior small-business, child-care and disability-services work but supplies no employers, roles, dates or hours. Aggregate council expense figures are not personal remuneration evidence."
+    },
+    {
+      "source_id": "src-nswec2008",
+      "url": "https://pastvtr.elections.nsw.gov.au/LGE2008/result.Newcastle.html",
+      "publisher": "New South Wales Electoral Commission",
+      "title": "Newcastle City Council — First Ward 2008 result",
+      "retrieved": "2026-10-06",
+      "source_type": "government_record",
+      "locator": "Summary: Sharon Claydon declared elected to position 1 on 23 September 2008",
+      "note": "Primary election result establishes declaration date, not councillor hours, remuneration or unrelated employment transitions."
     }
   ],
   "research_notes": [
@@ -522,7 +578,8 @@
     "Third follow-up 2026-10-04: exact-name searches for the South Coast disability provider, group-home programme, Allan Morris staff service and Bunuba employment again returned only the existing secondary biography, parliamentary speeches and unattributed acknowledgements. A 2026 group-home speech concerns national policy and is not evidence about her former employer. No legal entity, contract, hours or boundary was established; no material enrichment counted. Restricted cultural records remain outside scope and the nationwide queue advances pending an original appointment, provider or commissioning record.",
     "Follow-up2026-10-04: Original Grierson2010 and2013 parliamentary statements now establish a dated staff association and omitted past campaign-director activity. Keep campaign years unknown:2010 expressly names Donovan Harris as director, whose annual leave is not Claydon’s. Morris term bounds, restricted Bunuba cultural material, provider identity and all hours remain unresolved. No new station/disability-employer personnel evidence surfaced; queue original appointments or commissioning records.",
     "Follow-up2026-10-05: targeted Helen Springs gardener,1990honours,2000Morris staff,Illawarra disability employer and Bunuba employment searches returned existing secondary chronology, generic current biographies and already-known thesis acknowledgements. No original personal employer, pay, hours or appointment dates. Electoral-results table1990 is not graduation; generic disability policy discussion is not past-provider identity. Restricted cultural work remains outside authorised public evidence; acknowledgements do not establish paid anthropology employment. Defer exhausted indexed biography routes pending original station/payroll, provider name and appointment/commission records; retain all unknowns.",
-    "Second targeted pass2026-10-05: author-form Claydon,Sharon thesis/catalogue and AIATSIS-specific public-index routes did not locate an original personal thesis/enrolment or paid commissioning record. Returned Bunuba grammar and ANU governance-thesis acknowledgements are other authors work and do not establish her employer, pay, qualification dates or hours. Public biography mirrors add no independent chronology. Record catalogue/author routes as exhausted pending an original accessible enrolment or commissioning record; restricted cultural records remain outside scope. No material enrichment."
+    "Second targeted pass2026-10-05: author-form Claydon,Sharon thesis/catalogue and AIATSIS-specific public-index routes did not locate an original personal thesis/enrolment or paid commissioning record. Returned Bunuba grammar and ANU governance-thesis acknowledgements are other authors work and do not establish her employer, pay, qualification dates or hours. Public biography mirrors add no independent chronology. Record catalogue/author routes as exhausted pending an original accessible enrolment or commissioning record; restricted cultural records remain outside scope. No material enrichment.",
+    "Third targeted pass2026-10-06 recovered Newcastle Council's contemporaneous2011–12 annual-report profile. It adds previously omitted small-business and child-care work but gives no entity, role, dates, hours or control, so both remain uncounted unknown-sector spells. The same report and NSWEC result replace year-only council commencement with the23September2008 declaration date; 8September2012 is the next election date, not automatically her legal cessation day. Council aggregate expense totals are not personal pay evidence."
   ],
   "open_questions": [
     "What were the exact University of Sydney enrolment, withdrawal, honours and PhD dates and study loads?",
@@ -533,6 +590,7 @@
     "What were the exact council, party-governance and campaign dates, remuneration and overlaps?",
     "Which Kimberley station operators employed her, and how do these roles relate to Helen Springs and anthropological fieldwork?",
     "Who commissioned or employed her for Bunuba boundary mapping and pastoralist/native-title negotiations, and on what dates and hours?",
-    "What were full EMILY’s List, support-group and patronage terms, and were any separate roles paid?"
+    "What were full EMILY’s List, support-group and patronage terms, and were any separate roles paid?",
+    "Which small business and child-care provider did Claydon work for, in what roles, dates and hours, and did either overlap her disability-services work?"
   ]
 }
