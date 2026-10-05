@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/55842",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-04",
+  "last_reviewed": "2026-10-05",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -187,9 +187,10 @@
         "src-1",
         "src-2",
         "src-9",
-        "src-winter-nov2024"
+        "src-winter-nov2024",
+        "src-mercury-august-return"
       ],
-      "evidence_note": "Five-month duration reported by ARN, but exact endpoints/hours not established; no month back-calculation. Same-year dates are not zero duration. New5November2024account describes him as former Meta director, supplying latest known cessation observation, not exact last-working date; no subtraction of five months to invent start.",
+      "evidence_note": "Five-month duration reported by ARN, but exact endpoints/hours not established; no month back-calculation. Same-year dates are not zero duration. New5November2024account describes him as former Meta director, supplying latest known cessation observation, not exact last-working date; no subtraction of five months to invent start. Follow-up Mercury indexed reporting supplies an August return-to-Hobart lead associated with Winter work. Publication timestamp/year remain insufficiently verified; geographic return is not necessarily first working day and does not establish Meta last working day. Formal endpoints unchanged.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "55842-08"
     },
@@ -198,7 +199,7 @@
       "role": "Adviser",
       "start_date": "2024",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "political_staff",
@@ -207,9 +208,10 @@
       "counting_status": "excluded",
       "source_ids": [
         "src-12",
-        "src-winter-nov2024"
+        "src-winter-nov2024",
+        "src-mercury-august-return"
       ],
-      "evidence_note": "Contemporary December 2024 reporting establishes employment in that year; beginning and end unknown. No assumed continuity to Senate commencement. New5November2024contemporary account establishes this role already held by that observation, earlier than previously recorded December2024. Exact appointment/end not inferred.",
+      "evidence_note": "Contemporary December 2024 reporting establishes employment in that year; beginning and end unknown. No assumed continuity to Senate commencement. New5November2024contemporary account establishes this role already held by that observation, earlier than previously recorded December2024. Exact appointment/end not inferred. Follow-up Mercury indexed reporting supplies an August return-to-Hobart lead associated with Winter work. Publication timestamp/year remain insufficiently verified; geographic return is not necessarily first working day and does not establish Meta last working day. Formal endpoints unchanged.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "55842-09"
     },
@@ -318,7 +320,7 @@
       "role": "Senator for Tasmania",
       "start_date": "2025-07-01",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "day",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -535,6 +537,16 @@
       "source_type": "news",
       "locator": "Further, bullet summarising Matthew Denholm Senate-preselection report",
       "note": "Author identifies Dowling as current adviser to Dean Winter and former Meta public-policy director. Earlier observation than recorded 2 December account, not actual appointment or cessation date. Underlying Australian report linked but not independently retrieved; reader comments not used."
+    },
+    {
+      "source_id": "src-mercury-august-return",
+      "url": "https://www.themercury.com.au/news/politics/federal-labor-plots-how-to-secure-marginal-seat-of-lyons-held-by-brian-mitchell/news-story/fbd39b1219d514f23a0ffbf247731f46",
+      "publisher": "Susan Bailey / The Mercury",
+      "title": "Rebecca White being courted for federal seat of Lyons",
+      "retrieved": "2026-10-05",
+      "source_type": "news",
+      "locator": "Publicly indexed Dowling paragraph; October 2024 photo caption",
+      "note": "Public index reports departure from Meta and return to Hobart in August to work for Dean Winter. Another indexed excerpt contains a 15 October 2024 photo caption, not a verified publication timestamp. Reader redirects to No Cookies; Herald Sun syndicated URL inaccessible. Exact publication date and the August year are not independently settled, so no formal month endpoint inferred."
     }
   ],
   "research_notes": [
@@ -548,6 +560,7 @@
     "Follow-up2026-10-02: fellow cadet Dean Winter parliamentary testimony adds individual-linked program evidence of full-time cadet work/part-time study. Cadet component recorded separately without invented dates or double-counting2002–2007aggregate. Analyst component and leave remain unresolved.",
     "Faraday historical Companies House index and primary Amp investment release examined; underlying2017accounts and2018confirmation statement failed with500redirect errors labelled non-retryable, not retried. Private investors identified, but full2017–2019control not proven. Targeted2019–2020and Winter/Meta transition searches did not resolve dates. Earlier statement that no full-time designation was found is superseded only for the undated cadet component.",
     "Follow-up 2026-10-04: the publicly indexed professional profile now exposes July 2002–April 2007 for the Tasmanian Treasury Policy Analyst entry, narrowing the aggregate Treasury interval without inventing the cadet-to-analyst transition. Targeted searches did not independently resolve the exact Faraday-to-VMware gap, private-role hours/leave, Meta endpoints or Winter-office end. A direct profile fetch returned status 999; only the search-indexed profile text was used.",
-    "Follow-up2026-10-04: Contemporary5November2024William Bowe account, summarising identified Australian reporter Matthew Denholm, establishes Winter adviser role already held and Meta role already former by that observation. This moves the available transition evidence earlier than2December without inventing month endpoints or back-calculating five-month duration. Data-broker November2024–May2025claim not adopted; unrelated SEC ownership tables and namesakes not attributed. Need dated personal/employer appointment, hours/leave and Treasury cadet component boundaries to support totals."
+    "Follow-up2026-10-04: Contemporary5November2024William Bowe account, summarising identified Australian reporter Matthew Denholm, establishes Winter adviser role already held and Meta role already former by that observation. This moves the available transition evidence earlier than2December without inventing month endpoints or back-calculating five-month duration. Data-broker November2024–May2025claim not adopted; unrelated SEC ownership tables and namesakes not attributed. Need dated personal/employer appointment, hours/leave and Treasury cadet component boundaries to support totals.",
+    "Follow-up 2026-10-05: tested the queued Susan Bailey Mercury/Herald Sun report. Public Mercury index independently exposes August Hobart return associated with Dean Winter work and a 15 October 2024 photo caption, but the actual publication timestamp/year is unverified. No August appointment or June Meta cessation encoded, no five-month back-calculation. Reader No Cookies redirect and inaccessible syndicated URL are source-level limitations. Exact-date searches returned unrelated namesakes or generic Meta pages, not corroborating personal records. Lead preserved with URL/locator/access notes; Treasury cadet dates, private hours/leave, Faraday control and 2019–20 gap remain unresolved."
   ]
 }
