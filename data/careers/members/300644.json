@@ -6,7 +6,7 @@
   "snapshot_party": "Liberal Party of Australia",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/300644",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-04",
+  "last_reviewed": "2026-10-05",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -157,7 +157,7 @@
       "role": "National practice leader, Indigenous business development",
       "start_date": "2009",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "private_enterprise",
@@ -257,7 +257,7 @@
     {
       "employer": "Indigenous Business Australia",
       "role": "Non-executive director",
-      "start_date": null,
+      "start_date": "2017-04-12",
       "end_date": "2019-08",
       "date_precision": "mixed",
       "employment_status": "unknown",
@@ -271,7 +271,7 @@
         "src-18",
         "src-21"
       ],
-      "evidence_note": "Primary annual reports establish governance and concurrent Voyages executive relationship. Full appointment sequence and director fees require table verification; board role excluded from employment headline. IBA2019–20report explicitly records August2019term completion; appointment start remains unresolved.",
+      "evidence_note": "Primary annual reports establish governance and concurrent Voyages executive relationship. Full appointment sequence and director fees require table verification; board role excluded from employment headline. IBA2019–20report explicitly records August2019term completion; appointment start remains unresolved. Follow-up primary search-indexed2016–17report printedp81 explicitly aligns Liddle name/profile with appointment12April2017. Scheduled11April2020expiry is not actual departure; preserve independently reported August2019cessation. Finance, Investment and Performance Committee membership is governance within this spell.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "300644-13"
     },
@@ -308,18 +308,19 @@
       "government_control_at_time": "unknown",
       "counting_status": "excluded",
       "source_ids": [
-        "src-10"
+        "src-10",
+        "src-24"
       ],
-      "evidence_note": "Governance, not evidence of academic/administrative employment. Term and pay unresolved; public funding alone not control evidence.",
+      "evidence_note": "Governance, not evidence of academic/administrative employment. Term and pay unresolved; public funding alone not control evidence. UniSA2006annual report identifies her as a new appointed community council member welcomed inFebruary2006; exact effective appointment and end remain unknown, so February is retained as an observation.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "300644-15"
     },
     {
       "employer": "University of Adelaide",
       "role": "Council member",
-      "start_date": null,
+      "start_date": "2014-01-01",
       "end_date": "2018-04-22",
-      "date_precision": "mixed",
+      "date_precision": "day",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "university",
@@ -328,9 +329,10 @@
       "counting_status": "excluded",
       "source_ids": [
         "src-6",
-        "src-11"
+        "src-11",
+        "src-25"
       ],
-      "evidence_note": "Historical financial report gives council resignation22 April2018. Later2019event biography still calls her member and is treated as stale for end date.2017committee resignation is distinct. Start and remuneration unresolved.",
+      "evidence_note": "Historical financial report gives council resignation22 April2018. Later2019event biography still calls her member and is treated as stale for end date.2017committee resignation is distinct. Start and remuneration unresolved. Primary2014annual report supplies1January2014joining date. Preserve22April2018resignation rather than the initial scheduled2016term expiry; later reappointment sequence remains unresolved.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "300644-16"
     },
@@ -347,9 +349,10 @@
       "government_control_at_time": "public",
       "counting_status": "excluded",
       "source_ids": [
-        "src-10"
+        "src-10",
+        "src-27"
       ],
-      "evidence_note": "Official biography confirms state housing-body governance; no executive employment inferred. Dates/remuneration unresolved.",
+      "evidence_note": "Official biography confirms state housing-body governance; no executive employment inferred. Dates/remuneration unresolved. Gazette16December2010 establishes a documented term commencing14January2011, scheduled through13January2014. Earlier service, reappointments and actual cessation unknown; no initial-career endpoint imposed from this one term.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "300644-17"
     },
@@ -358,7 +361,7 @@
       "role": "Non-executive director; Finance Committee chair; acting chair from1July2015",
       "start_date": "2010-11-20",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "day",
       "employment_status": "part_time",
       "fte_fraction": null,
       "category": "public_corporation",
@@ -437,7 +440,7 @@
       "role": "Senator for South Australia",
       "start_date": "2022-07-01",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "day",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -469,6 +472,25 @@
       "evidence_note": "AHL biography separately names this body alongside SA Housing Trust. Relationship/succession between bodies, dates, control and fees unresolved. Governance only; no additive employment years.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "300644-23"
+    },
+    {
+      "spell_id": "300644-24",
+      "employer": "South Australian Premier’s Council for Women",
+      "role": "Council member",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "public_service",
+      "headline_sector": "excluded",
+      "government_control_at_time": "public",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-26"
+      ],
+      "evidence_note": "SA2006–07financial report names Liddle in this council under members entitled to remuneration. Visual layout separates her from adjacent SA Classification Council list. Individual amount, receipt, appointment/departure and hours unknown.",
+      "counting_note": "Government advisory governance excluded from substantive public/private employment totals; entitlement does not prove payroll employee or full-time status."
     }
   ],
   "sources": [
@@ -567,9 +589,9 @@
       "publisher": "Indigenous Business Australia",
       "title": "Annual report 2016–17",
       "source_type": "government_record",
-      "locator": "Governance: board member biography, Kerrynne Liddle",
-      "note": "Indexed biography confirms IBA and earlier Tandanya, UniSA, SA Housing Trust and Aboriginal Hostels governance. Extract could not reliably align term dates to individual, so no borrowed neighbouring dates.",
-      "retrieved": "2026-10-01",
+      "locator": "Printedp81,right-hand Kerrynne Liddle profile, indexed appointment12April2017",
+      "note": "Primary public index explicitly associates Liddle profile with appointment12April2017; adjacent Rick Allert1December2014appointment not borrowed. DirectPDF403 prevents independent screenshot/full-table review. Scheduled11April2020expiry not actual cessation.",
+      "retrieved": "2026-10-05",
       "source_id": "src-10"
     },
     {
@@ -701,6 +723,46 @@
       "locator": "Presentation heading and paragraph beginning As a journalist",
       "retrieved": "2026-10-04",
       "note": "Contemporary event identifies Tandanya chair; first-person transcript states she wrote an Indigenous-newspaper feature earlier in2004. Newspaper name, pay, employment arrangement and exact dates absent. Sister’s police service is not her employment."
+    },
+    {
+      "source_id": "src-24",
+      "url": "https://unisa.edu.au/siteassets/about-unisa/docs/unisa-2006-annual-report",
+      "publisher": "University of South Australia",
+      "title": "Annual report2006",
+      "source_type": "government_record",
+      "locator": "Governance: Council welcome inFebruary2006; Council Members2006 appointed members",
+      "retrieved": "2026-10-05",
+      "note": "Primary indexed report names new community council member welcomedFebruary2006. Welcome is not an exact effective appointment date. Reader opened PDF but find/screenshot failed; ordinary download404."
+    },
+    {
+      "source_id": "src-25",
+      "url": "https://www.adelaide.edu.au/publications/ua/media/279/a-report-14.pdf",
+      "publisher": "University of Adelaide",
+      "title": "Annual report2014",
+      "source_type": "government_record",
+      "locator": "Printedp23,Changes to Council membership",
+      "retrieved": "2026-10-05",
+      "note": "Primary indexed report explicitly says Liddle joined1January2014; direct URL now redirects to successor university publications page. Not a staff appointment."
+    },
+    {
+      "source_id": "src-26",
+      "url": "https://www.agd.sa.gov.au/documents/annual-reports/2006-07-agd-annual-report.pdf",
+      "publisher": "SA Department of Justice / Attorney-General’s Department",
+      "title": "Annual report2006–07",
+      "source_type": "government_record",
+      "locator": "Printedp168/PDFp168,Note30 Premier’s Council for Women; original visual columns checked",
+      "retrieved": "2026-10-05",
+      "note": "Liddle named among members entitled to remuneration in2006–07; individual payment/amount unknown. Advisory role not ordinary employee service."
+    },
+    {
+      "source_id": "src-27",
+      "url": "https://www.governmentgazette.sa.gov.au/2010/December/2010_087.pdf",
+      "publisher": "Government of South Australia",
+      "title": "Government Gazette16December2010",
+      "source_type": "government_record",
+      "locator": "Printedp5653/PDFp3,SA Housing Trust Board of Management appointment",
+      "retrieved": "2026-10-05",
+      "note": "Appoints Liddle for term commencing14January2011; scheduled13January2014expiry not actual departure or proof of continuous service. Earlier appointments remain unresolved."
     }
   ],
   "research_notes": [
@@ -715,6 +777,7 @@
     "Follow-up2026-10-02: historical AHL report and estimates answer establish board initial appointment, part-time classification and acting-chair assignment; IBA report resolves August2019departure. AHL biography adds SA Affordable Housing Trust directorship and identifies inaugural Aboriginal Foundation SA membership, whose duties/dates/pay remain a lead.",
     "Santos primary EIS documents substantiate2012/2013work observations. SKM/Santos exact transition, ABC/commercial media dates and hours, consultancy periods, Voyages employment fraction and Ruston contract remain unresolved. IBA start-date search yielded unrelated neighbouring board appointments, which were not borrowed. No term-expiry date or aggregate director remuneration used as personal fact.",
     "Follow-up2026-10-03: searched exact-name combinations for SKM, Santos, Voyages and Precise Media Management. Results repeated the already captured September2010 SKM observation, May2018 Voyages start and2005 Precise Media Management partner description; no new primary evidence fixed an employment endpoint or substantive full-time status. Secondary claims that Santos began in2011 were not substituted for an exact employer appointment record.",
-    "Follow-up2026-10-04: Recovered a contemporary9September2004university-hosted presentation that identifies Tandanya chair and first-person Indigenous-newspaper feature writing earlier in2004. Newspaper/payroll, remuneration, personal hours and intervals remain unknown; writing may overlap consultancy. GPEx2021report search index still supplies appointment narrative only; ordinary download returned HTML and pdftotext reported missing trailer/xref, so no full-report dates invented. IBA2016–17direct PDF now403; retained existing indexed facts and did not bypass restriction. IBA commencement, commercial broadcaster employers/years, SKM/Santos transitions and Voyages working fraction remain unresolved."
+    "Follow-up2026-10-04: Recovered a contemporary9September2004university-hosted presentation that identifies Tandanya chair and first-person Indigenous-newspaper feature writing earlier in2004. Newspaper/payroll, remuneration, personal hours and intervals remain unknown; writing may overlap consultancy. GPEx2021report search index still supplies appointment narrative only; ordinary download returned HTML and pdftotext reported missing trailer/xref, so no full-report dates invented. IBA2016–17direct PDF now403; retained existing indexed facts and did not bypass restriction. IBA commencement, commercial broadcaster employers/years, SKM/Santos transitions and Voyages working fraction remain unresolved.",
+    "Follow-up2026-10-05: primary IBA indexed profile resolves12April2017board appointment; Adelaide2014report resolves1January2014Council start; SAJustice2006–07original table identifies previously unrecorded Premier’s Council for Women remuneration-entitled membership. Gazette records a Housing Trust appointment episode from14January2011; scheduled expiry retained as context, not actual departure. UniSAFebruary2006welcome is an observation rather than invented effective appointment. These are governance refinements, not additional counted employment. PDF403/404/redirect and screenshot failure limitations recorded; ABC/network/station employers and dates, SKM/Santos transition, business entities, Voyages working fraction and leave still unresolved."
   ]
 }
