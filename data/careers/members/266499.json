@@ -6,7 +6,7 @@
   "snapshot_party": "Liberal Party of Australia",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/266499",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-04",
+  "last_reviewed": "2026-10-05",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -28,9 +28,10 @@
       "government_control_at_time": "private",
       "counting_status": "insufficient_evidence",
       "source_ids": [
-        "src-2"
+        "src-2",
+        "src-wcp-parttime-oct5"
       ],
-      "evidence_note": "First job after commerce degree, before overseas travel and NAFM. No dates or hours supplied.",
+      "evidence_note": "First job after commerce degree, before overseas travel and NAFM. No dates or hours supplied. A separate first-person 2021 interview says she started work in 1992, but does not name the employer in that sentence; retained as earliest-career year lead without imposing it as this brokerage appointment boundary.",
       "counting_note": "Not counted: dates and/or substantive full-time status are insufficiently evidenced; year labels are not exact boundaries."
     },
     {
@@ -133,9 +134,10 @@
       "source_ids": [
         "src-1",
         "src-2",
-        "src-3"
+        "src-3",
+        "src-wcp-parttime-oct5"
       ],
-      "evidence_note": "Interview links first day to Lehman collapse but no independent appointment date; retain official year precision. Hours unknown.",
+      "evidence_note": "Interview links first day to Lehman collapse but no independent appointment date; retain official year precision. Hours unknown. First-person 2021 interview explicitly describes childcare and study workforce breaks followed by part-time work. It does not identify which employer/period was part-time or later changes; no wholesale full-time or part-time assignment is made to this spell.",
       "counting_note": "Not counted: dates and/or substantive full-time status are insufficiently evidenced; year labels are not exact boundaries."
     },
     {
@@ -200,9 +202,10 @@
         "src-2",
         "src-4",
         "src-5",
-        "oct2-rch"
+        "oct2-rch",
+        "src-wcp-parttime-oct5"
       ],
-      "evidence_note": "Trustee's contemporaneous accounts identify for-profit corporate reporting and paid employees. Do not automatically exclude as nonprofit or union employment because fund is member-benefit. Exact employment entity and full-time contract still need confirmation. Hospital2015–16 biography calls her senior industry policy adviser to AustralianSuper, corroborating role but not hours.",
+      "evidence_note": "Trustee's contemporaneous accounts identify for-profit corporate reporting and paid employees. Do not automatically exclude as nonprofit or union employment because fund is member-benefit. Exact employment entity and full-time contract still need confirmation. Hospital2015–16 biography calls her senior industry policy adviser to AustralianSuper, corroborating role but not hours. First-person 2021 interview explicitly describes childcare and study workforce breaks followed by part-time work. It does not identify which employer/period was part-time or later changes; no wholesale full-time or part-time assignment is made to this spell.",
       "counting_note": "Not counted: dates and/or substantive full-time status are insufficiently evidenced; year labels are not exact boundaries."
     },
     {
@@ -659,6 +662,16 @@
       "locator": "Indexed Biography, party positions and qualifications",
       "note": "Contemporary official biography corroborates education and Victorian party offices. Current parliamentary positions are not refreshed into the frozen roster.",
       "retrieved": "2026-10-04"
+    },
+    {
+      "source_id": "src-wcp-parttime-oct5",
+      "url": "https://www.wcpunimelb.com/woman-of-the-month/jane-hume",
+      "publisher": "Women in Commerce and Politics, University of Melbourne student organisation / Jane Hume interview",
+      "title": "Jane Hume, Woman of the Month interview, 2021",
+      "retrieved": "2026-10-05",
+      "source_type": "other",
+      "locator": "Q3, first-person account beginning I started work in 1992",
+      "note": "Personally states workforce commencement year, childcare/study breaks and subsequent part-time work. Interview gives year only, with no named employer allocation or exact break/status dates."
     }
   ],
   "research_notes": [
@@ -670,6 +683,8 @@
     "Searches of historical governance reports and public financial-services profiles did not resolve banking/policy FTE or six-year leave boundaries. Financial Standard profile was subscription-only; no bypass attempted. APH retirement-inquiry footnotes open returned Internal Error; indexed hearing reference remains a lead only.",
     "Next leads: individual employer appointment/FTE records for banking and AustralianSuper, original brokerage name, and six-year maternity-leave endpoints. Totals remain unknown; excluded governance is not employment.",
     "Follow-up2026-10-04: Hume's public professional profile refines her NAB private-banker role to August1998–June1999 (11 months). The month labels materially narrow one banking interval but do not establish exact start/end days, substantive full-time status or leave. Searches did not recover equivalent month-level evidence for NAFM, Rothschild, Deutsche Bank or AustralianSuper, and the six-year maternity-leave boundaries remain unresolved.",
-    "Follow-up2026-10-04: Recovered a previously omitted Menzies Research Centre directorship with exact25 January2018–7 June2019 boundaries in its2019 financial report. Added four official qualifications and eleven dated party offices separately from employment; no qualification dates inferred from derivative biographies. The2013 Couchman scholarship is an award, not proof of paid work or a dated study spell. Targeted indexed qualifications searches did not resolve banking FTE, exact leave endpoints or the brokerage employer. Next avenues remain employer appointment/FTE records and individual leave evidence. Both headline totals remain unknown."
+    "Follow-up2026-10-04: Recovered a previously omitted Menzies Research Centre directorship with exact25 January2018–7 June2019 boundaries in its2019 financial report. Added four official qualifications and eleven dated party offices separately from employment; no qualification dates inferred from derivative biographies. The2013 Couchman scholarship is an award, not proof of paid work or a dated study spell. Targeted indexed qualifications searches did not resolve banking FTE, exact leave endpoints or the brokerage employer. Next avenues remain employer appointment/FTE records and individual leave evidence. Both headline totals remain unknown.",
+    "2026-10-05 new hours evidence: personal WCP interview, Q3, says she returned part-time after childcare/study breaks and that directorships did not pay superannuation. Absence of superannuation is not proof of unpaid board service. Working year 1992 is a career commencement statement, not an exact day or independently named brokerage interval. Original status/leave records needed to allocate the partial-work periods; do not count all senior finance roles as full-time.",
+    "Follow-up 5 October 2026: added first-person 2021 interview supplying 1992 workforce-start year and explicit post-break part-time work, while leaving employer-specific allocation unknown. This is substantive hours/leave evidence, not a licence to mark all later jobs part-time or infer exact breaks. Targeted banking, father brokerage and AustralianSuper contract searches still lack payroll/FTE records. Current NAB policies and aggregate staff leave do not apply retrospectively to her; a 2015 witness-title observation does not establish appointment date. Next individual status/leave documentation and early brokerage name, rather than repeated senior-title biographies. No numerical total calculated."
   ]
 }
