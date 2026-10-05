@@ -156,7 +156,7 @@
       "role": "Senator for Queensland",
       "start_date": "2014-07-01",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "day",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -169,6 +169,25 @@
       ],
       "evidence_note": "Frozen roster commencement retained. Election in 2013 is not Senate service commencement; ministerial and parliamentary appointments excluded.",
       "counting_note": "Excluded from the two employment headlines under the codebook."
+    },
+    {
+      "spell_id": "245212-08",
+      "employer": "University of Queensland",
+      "role": "Bachelor of Arts; Bachelor of Economics(Honours)",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-uq-awards-pass2"
+      ],
+      "evidence_note": "Primary university alumni record lists Arts qualification2001 and Economics(Honours)2002. These are qualification-year observations; attendance start/end, conferral days, study load and overlap with work are unreported. No university employment inferred.",
+      "counting_note": "Study excluded from public/private employment headlines; qualification years do not create an employment interval."
     }
   ],
   "sources": [
@@ -341,6 +360,16 @@
       "retrieved": "2026-10-05",
       "locator": "Printed/PDFp6, first-speech Productivity Commission paragraphs",
       "note": "Public PDF downloaded and text extracted after web-reader400OK; reproduces first speech and names first Commission boss Ian Gibbs. No individual hours, leave or KPMG/Commission boundary statement."
+    },
+    {
+      "source_id": "src-uq-awards-pass2",
+      "url": "https://alumni.uq.edu.au/story/4913/senator-honourable-matthew-canavan",
+      "publisher": "University of Queensland",
+      "title": "Senator The Honourable Matthew Canavan alumni profile",
+      "retrieved": "2026-10-05",
+      "source_type": "official_biography",
+      "locator": "Qualifications: Bachelor of Arts2001; Bachelor of Economics(Honours)2002; page lines96–104",
+      "note": "Primary awarding institution gives qualification years, not enrolment boundaries or paid university work."
     }
   ],
   "research_notes": [
@@ -352,6 +381,7 @@
     "2026-10-02 follow-up: new primary newsletter and historical ownership/registry evidence clarify stock-camp duties and private host control. PC report-acknowledgement, employer chronology and precise KPMG transition searches did not resolve personal hours or 2007/2008 conflict. LinkedIn direct open again returned (999) Unknown Status Code; no bypass. Florida university IT-coordinator full-time record is a namesake; family bank/mining work is not his. Next leads: contemporary Miranda Downs placement/pay record; named PC appointment/separation or KPMG professional history. Keep stock-camp category/headline unknown pending remuneration/employment basis, and preserve PC date discrepancy.",
     "2026-10-03 follow-up: 2017 Australian Financial Review and 2018 Courier-Mail career profiles independently identify employment by Stanbroke Beef as a business analyst and a short stockhand stint at Miranda Downs. The private-enterprise employer and role are therefore coded, superseding the prior unknown-category host-only treatment. Neither source gives exact dates, hours, leave, employing legal entity or whether the stockhand work was separately contracted, so employment_status and duration remain unknown. Fresh Productivity Commission, KPMG and professional-profile searches found a 20 March 2003 Commission workshop observation and January 2008–January 2009 indexed LinkedIn KPMG dates, but neither resolves the APH date conflict or full-time status; no unsupported month boundary adopted.",
     "2026-10-04 follow-up (second nationwide pass): contemporaneous first-party releases materially refine the Stanbroke interval. On 7 May 2014 Canavan was described as working for Stanbroke Beef until his 1 July Senate start, and on 29 May the Miranda Downs stock-camp placement was stated to have lasted two weeks. These are adopted as an employment observation and duration, not exact calendar boundaries or full-time evidence. Employing legal entity, business-analyst commencement, pay basis, hours, leave and whether the placement was separately contracted remain unresolved; no headline duration is calculated.",
-    "Targeted follow-up2026-10-05: Targeted Commission appointment/KPMG and full-time searches did not resolve individual hours or2007/2008 boundary conflict. New first-party anniversary booklet retrieved as publicPDF by ordinary download after web-reader400OK, and text inspected. It reproduces the already-held first speech and names first Commission boss Ian Gibbs, but supplies no appointment instrument, personal working fraction, leave or KPMG interval. Its full-time example concerns hypothetical households, not Canavan. This is corroboration, not material enrichment or completion. Next useful lead is a dated original Commission/KPMG personnel record; avoid repeating the booklet and generic biographies."
+    "Targeted follow-up2026-10-05: Targeted Commission appointment/KPMG and full-time searches did not resolve individual hours or2007/2008 boundary conflict. New first-party anniversary booklet retrieved as publicPDF by ordinary download after web-reader400OK, and text inspected. It reproduces the already-held first speech and names first Commission boss Ian Gibbs, but supplies no appointment instrument, personal working fraction, leave or KPMG interval. Its full-time example concerns hypothetical households, not Canavan. This is corroboration, not material enrichment or completion. Next useful lead is a dated original Commission/KPMG personnel record; avoid repeating the booklet and generic biographies.",
+    "Targeted second pass: primary UQ alumni record adds previously omitted Arts2001/Economics(Honours)2002 qualification context, separated as excluded study with unknown attendance boundaries. KPMG-domain and dated Commission/employer searches do not establish legal employing entity, personal hours, leave or2007/2008 conflict. US Infotank/Citadel entrepreneur namesake rejected; ministerial staff evidence concerns others, not his earlier employment. Need individual Commission/KPMG appointment and service records; no totals inferred."
   ]
 }
