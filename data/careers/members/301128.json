@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/301128",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-04",
+  "last_reviewed": "2026-10-05",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -52,9 +52,10 @@
         "src-4",
         "oct2-genvic",
         "oct3-asu-2008",
-        "src-3"
+        "src-3",
+        "src-asu-ft2013-oct5"
       ],
-      "evidence_note": "Conference biography establishes organiser work from 2000. The regulator-filed office-holder list observes Darmanin as assistant branch secretary on 1 January 2008, while the exact promotion date remains unverified. The 2014-15 operating report records her as a full-time assistant branch secretary from 1 July to 25 July 2014, when she became branch executive president; do not treat the entire 2000-2014 span as one title or as proven full-time.",
+      "evidence_note": "Conference biography establishes organiser work from 2000. The regulator-filed office-holder list observes Darmanin as assistant branch secretary on 1 January 2008, while the exact promotion date remains unverified. The 2014-15 operating report records her as a full-time assistant branch secretary from 1 July to 25 July 2014, when she became branch executive president; do not treat the entire 2000-2014 span as one title or as proven full-time. Regulator-filed 2012–13 operating report also explicitly lists her as a full-time Assistant Branch Secretary from 1 July 2012 to 30 June 2013. This earlier bounded full-time period is not extrapolated over gaps or the entire 2000–2014 tenure. Union work remains excluded from narrow employment headlines.",
       "counting_note": "Outside the two employment headlines under the codebook; retained as career context."
     },
     {
@@ -91,9 +92,10 @@
       "counting_status": "excluded",
       "source_ids": [
         "src-1",
-        "src-2"
+        "src-2",
+        "src-asu-ft2013-oct5"
       ],
-      "evidence_note": "Trustee governance role; not automatically full-time work at superannuation fund.",
+      "evidence_note": "Trustee governance role; not automatically full-time work at superannuation fund. Branch 2012–13 report independently observes H.E.S.T. Australia Ltd/HESTA directorship; reporting-period start is not her appointment date.",
       "counting_note": "Outside the two employment headlines under the codebook; retained as career context."
     },
     {
@@ -440,9 +442,10 @@
       "government_control_at_time": "unknown",
       "counting_status": "excluded",
       "source_ids": [
-        "oct4-wheeler"
+        "oct4-wheeler",
+        "src-asu-ft2013-oct5"
       ],
-      "evidence_note": "Speaker biography identifies governance, without tenure or remuneration. Legal control unresolved.",
+      "evidence_note": "Speaker biography identifies governance, without tenure or remuneration. Legal control unresolved. Branch 2012–13 operating report confirms the named training-board role within that reporting period; no exact personal appointment or cessation date.",
       "counting_note": "Study or governance role excluded; no substantive full-time employment inferred."
     },
     {
@@ -693,6 +696,16 @@
       "locator": "Your Rights At Work paragraph",
       "note": "Own party biography places campaign coordination at Trades Hall in2006. Its secretary2017 claim conflicts with regulator record2018 and is not adopted.",
       "retrieved": "2026-10-04"
+    },
+    {
+      "source_id": "src-asu-ft2013-oct5",
+      "url": "https://regorgs.fwc.gov.au/sites/default/files/migration/341/052vvas-fr2013-382.pdf",
+      "publisher": "Australian Services Union, filed with Fair Work regulator",
+      "title": "Victorian/Tasmanian Authorities and Services Branch financial and operating report, year ended 30 June 2013",
+      "retrieved": "2026-10-05",
+      "source_type": "government_record",
+      "locator": "PDF page 20, Operating Report: Full-time Officers table; pages 19–20 governance tables",
+      "note": "Personal full-time Assistant Branch Secretary row, 1 July 2012–30 June 2013. Also observes HESTA and Community Services/Health Industry Training Board roles within reporting period; not individual appointment dates."
     }
   ],
   "research_notes": [
@@ -705,6 +718,7 @@
     "Follow-up2026-10-03: regulator records now observe the assistant-secretary title by1 January2008, establish the exact25 July2014 president transition, the exact26 June2018 branch-secretary transition and2 June2024 cessation, and directly label the secretary as a full-time officer for1 July2022–2 June2024. Union work remains outside the two headline sectors.",
     "Next follow-up: DPC appointment/secondment agreement or staff biography; primary election record for the original assistant-secretary appointment and evidence for work status outside the directly reported union intervals. Preserve headline nulls pending supported public FT interval; partial private job is not proof of zero lifetime FT work.",
     "Fourth follow-up4October2026: the Portable Long Service Authority's primary2023–24 financial table records Darmanin as a director only through27February2024, materially refining the prior inherited April2024 endpoint while documenting the conflict. This governance role remains excluded and supplies no public-service FTE. DPC/Trades Hall searches still produced only derivative or conference biographies; they repeat a2006 campaign/secondment narrative but do not identify DPC payroll, exact appointment dates or hours. Headline public years remain uncalculable.",
-    "Follow-up2026-10-04: Primary annual report corrects Trust for Nature chair period and supplies exact trustee term. Added two undated qualifications and training-board, AIST, IFM advisory and Authority audit/risk roles; recovered exact Authority appointment1 September2022. Trades Hall campaign2006 distinguished from DPC2016–2017 secondment. Same-name Olympic sailor education rejected. Parliament-hosted PDF DisabledError recovered through employer PDF; HESTA committee primary fetch Internal Error remains follow-up lead. DPC dates, hours and payroll remain unresolved."
+    "Follow-up2026-10-04: Primary annual report corrects Trust for Nature chair period and supplies exact trustee term. Added two undated qualifications and training-board, AIST, IFM advisory and Authority audit/risk roles; recovered exact Authority appointment1 September2022. Trades Hall campaign2006 distinguished from DPC2016–2017 secondment. Same-name Olympic sailor education rejected. Parliament-hosted PDF DisabledError recovered through employer PDF; HESTA committee primary fetch Internal Error remains follow-up lead. DPC dates, hours and payroll remain unresolved.",
+    "Fifth follow-up 5 October 2026: primary 2012–13 branch operating report supplies an additional bounded full-time assistant-secretary period and contemporary training-board/HESTA governance observations. Union full-time periods remain explicitly bounded and excluded from the two employment headlines. A new useful lead is her 10 February 2011 equal-remuneration witness statement (FWC exhibit ASU 63); index appeared in public search, but page access returned HTTP403 in both web and ordinary urllib retrieval, so contents and earlier employment facts were not invented. A scratch requests import failed with ModuleNotFoundError; standard-library retrieval recovered the attempted access, with no job-wide tool failure. DPC/Trades Hall searches repeated known secondment narrative without payroll or hours. Next seek legitimate available copy of ASU63 and original DPC secondment contract, not generic biography. No numerical change."
   ]
 }
