@@ -6,7 +6,7 @@
   "snapshot_party": "One Nation",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/266524",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-04",
+  "last_reviewed": "2026-10-05",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -188,7 +188,7 @@
       "role": "Co-founder, contract operations leader and management consultant",
       "start_date": "1994",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "year",
       "employment_status": "self_employed",
       "fte_fraction": null,
       "category": "private_enterprise",
@@ -249,7 +249,7 @@
       "role": "Project leader",
       "start_date": "2011",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "unpaid_work",
@@ -289,7 +289,7 @@
       "role": "Senator for Queensland",
       "start_date": "2019-07-01",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "day",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -321,6 +321,25 @@
       "evidence_note": "Director CV lists1987mission. Industry selection does not establish government employment; duration/pay unspecified. No additional paid interval counted.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "266524-15"
+    },
+    {
+      "spell_id": "266524-16",
+      "employer": "Self-directed voluntary research; organisation not specified",
+      "role": "Voluntary climate-policy research and advocacy",
+      "start_date": "2008",
+      "end_date": null,
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unpaid_work",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-bulletin2019-oct5"
+      ],
+      "evidence_note": "In March2019 first-person candidate interview Roberts dates commencement of voluntary research to2008 and reports eight years. Organisation, exact end, weekly hours and overlap with consulting/Galileo roles are unspecified. Eight-year description is retained without deriving calendar cessation. It overlaps later Galileo leadership and is not an additive employment period or proof that all paid work ended2008.",
+      "counting_note": "Explicit voluntary activity excluded from paid public/private employment totals; no inferred full-time hours or date subtraction."
     }
   ],
   "sources": [
@@ -413,6 +432,16 @@
       "note": "Contemporary mention of Roberts among Gordonstone management at previous day opening; observation not appointment/cessation date.",
       "retrieved": "2026-10-02",
       "source_id": "src-9"
+    },
+    {
+      "source_id": "src-bulletin2019-oct5",
+      "url": "https://fliphtml5.com/wjfs/yvim/The_Local_Bulletin_-_March_2019/17/",
+      "publisher": "The Local Bulletin / Malcolm Roberts",
+      "title": "Ten Minute Moments — Malcolm Roberts, March2019",
+      "retrieved": "2026-10-05",
+      "source_type": "professional_profile",
+      "locator": "Printedp17, When did you first get interested in politics? answer; published3March2019",
+      "note": "First-person candidate interview explicitly says voluntary climate-policy research started2008 and reports eight years. Does not give exact cessation, weekly hours or establish absence of all paid consultancy. Candidate identity explicitly names Pauline Hanson One Nation senator and Brookfield/Pullenvale background."
     }
   ],
   "research_notes": [
@@ -427,6 +456,7 @@
     "Attempted original judgment [1992]FCA896 via AustLII returned Internal Error; ATO ruling TR2024/3 returned403Forbidden. These source errors are not run blockers. Retrieve original92ATC4787/39FCR118 for exact cessation and appointment details.",
     "Continue with employer/client annual reports for Solid EnergySpringCreek,Iluka,Cumnock,ConsolidatedRutile; determine engagement dates, payer and hours. Industry mission and private-school public-company form cannot establish public employment. Post2008paid work and2017–19gap remain unresolved.",
     "Follow-up 2026-10-03: targeted searches for the original FCT v Roberts judgment, Solid Energy Spring Creek, Iluka USA, Glencore Cumnock, Consolidated Rutile and Conscious Pty Ltd returned the existing self-reported CV, unrelated namesakes or company material that did not name this Roberts. A 2015 company-letterhead item and current pecuniary-interest disclosures show continuing company association, not paid client work, hours or a continuous employment interval; no career field changed.",
-    "Follow-up2026-10-04: Original tax-judgment and Solid Energy/Iluka/Conscious/post2017consultancy searches recovered existing CVs, inconsistent derivative case citations and namesakes. ATO primary index confirms MI Roberts[1992]FCA896; JD Roberts[1992]FCA543 and Fletcher[1992]FCA586 concern different cases and were rejected. No additional employment boundary, individual client date, hours or leave established. Preserve July1988secondary cessation and record original judgment/period-specific client reports as remaining archival needs; no career field changed."
+    "Follow-up2026-10-04: Original tax-judgment and Solid Energy/Iluka/Conscious/post2017consultancy searches recovered existing CVs, inconsistent derivative case citations and namesakes. ATO primary index confirms MI Roberts[1992]FCA896; JD Roberts[1992]FCA543 and Fletcher[1992]FCA586 concern different cases and were rejected. No additional employment boundary, individual client date, hours or leave established. Preserve July1988secondary cessation and record original judgment/period-specific client reports as remaining archival needs; no career field changed.",
+    "Follow-up2026-10-05 materially enriched: first-person Local Bulletin March2019interview,p17, explicitly dates voluntary climate-policy research commencement to2008 and describes eight years. Added excluded unpaid activity with exact end/hours unknown, nested overlap warning for Galileo/consultancy; do not derive cessation by subtraction or conclude all consultancy ceased2008. Targeted Solid Energy/Cumnock/Iluka and tax-case searches still yield existing CV/case discussion, not client-specific appointments, leave or original judgment boundaries. Washington Post derivative paid-employment-gap claim traces News Corp; retain as corroboration lead only, not an exact work endpoint. USAlaska political adviser, UKITworker and psychiatrist namesakes rejected. No headline totals."
   ]
 }
