@@ -6,7 +6,7 @@
   "snapshot_party": "The Nationals",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/279991",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-04",
+  "last_reviewed": "2026-10-05",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -158,9 +158,10 @@
       "government_control_at_time": "public",
       "counting_status": "excluded",
       "source_ids": [
-        "src-secondary"
+        "src-secondary",
+        "src-aph-qualifications-oct2"
       ],
-      "evidence_note": "Secondary material citing North Sydney Council records the council term from 27 March 2004 to 13 September 2008. Remuneration, hours and overlap with legal practice are unresolved.",
+      "evidence_note": "Secondary material citing North Sydney Council records the council term from 27 March 2004 to 13 September 2008. Remuneration, hours and overlap with legal practice are unresolved. Official parliamentary biography indexed5October2026 instead gives2003–2007. These competing terms remain explicit pending contemporary council election/minutes evidence; retained secondary endpoints are not adjudicated facts.",
       "counting_note": "Elected local-government office is excluded under the codebook."
     },
     {
@@ -319,6 +320,25 @@
       ],
       "evidence_note": "Named public professional-profile narrative explicitly identifies Conaghan Legal,Manly and Sole Practitioner,General Legal Practice. This resolves the personal practice-name link previously sought. Calendar endpoints are not identity-safe from the available adjacent date snippets; July2003–August2005 remains an unmapped lead. Sole-trader ABN80527846642 is not independently linked to this practice merely by matching name. Component within overall2001–2019 solicitor history; overlap with Hunter/council remains unresolved.",
       "counting_note": "Self-employment and private practice supported; hours, dates and breaks unresolved. Do not add aggregate and component time."
+    },
+    {
+      "spell_id": "279991-probono-legal",
+      "employer": "Women’s shelters, youth groups and community legal centres (individual organisations unresolved)",
+      "role": "Pro-bono legal assistance",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unpaid_work",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-nsw-nationals-probono-oct5"
+      ],
+      "evidence_note": "Party biography explicitly describes pro-bono contributions over many years. These are unpaid professional services; recipients and calendar boundaries are not identified. May be nested within private practice; no separate paid employment inferred.",
+      "counting_note": "Unpaid work excluded; not additive to legal-practice employment."
     }
   ],
   "sources": [
@@ -487,9 +507,9 @@
       "publisher": "Australian Parliament",
       "title": "Mr Pat Conaghan MP — qualifications",
       "source_type": "official_biography",
-      "locator": "Qualifications and occupation before entering Federal Parliament",
-      "note": "LLB UNE and Diploma of Legal Practice College of Law NSW; no qualification dates. Frozen roster unchanged.",
-      "retrieved": "2026-10-02",
+      "locator": "Qualifications and occupation before entering Federal Parliament; Local Government service, public index",
+      "note": "LLB UNE and Diploma of Legal Practice College of Law NSW; no qualification dates. Frozen roster unchanged. Fresh official public index reports council service2003–2007, conflicting with the secondary27March2004–13September2008 term retained in the record. Direct403; no conflict resolved by assuming either endpoint.",
+      "retrieved": "2026-10-05",
       "source_id": "src-aph-qualifications-oct2"
     },
     {
@@ -501,6 +521,16 @@
       "locator": "Entity name; business-name and trading-name history",
       "note": "Registry names Patrick Conaghan and Conaghan Legal; no middle name or explicit MP link. Retained solely as an unconfirmed practice-history lead, not coded as this member employment.",
       "retrieved": "2026-10-03"
+    },
+    {
+      "source_id": "src-nsw-nationals-probono-oct5",
+      "url": "https://www.nswnationals.org.au/federal-team/pat-conaghan/",
+      "publisher": "NSW Nationals",
+      "title": "Pat Conaghan — About Pat",
+      "retrieved": "2026-10-05",
+      "source_type": "official_biography",
+      "locator": "About Pat, paragraphs2–4; rendered lines40–43",
+      "note": "First-party party biography explicitly describes pro-bono work for women’s shelters, youth groups and community legal centres. No named recipient organisation, dates or workload."
     }
   ],
   "research_notes": [
@@ -517,7 +547,8 @@
     "Earlier2001–2005 practice identity/terms, law-school dates and undercover assignment boundaries remain unresolved. UK civil servant, US lawyer and Macquarie geologist namesakes excluded. Public index used without authenticated profile or direct-access retry. May2019 cessation is month precision only and does not settle campaign leave, passive-income transition day or hours.",
     "Follow-up3October2026 tested earlier-practice identity via Conaghan Legal, sole-practitioner and2001–2005 searches on two public search engines. ABR80 527 846 642 names Patrick Conaghan, individual/sole trader, active2003–2009 and from2011; Conaghan Legal trading name from18November2003 and separately registered business name17February2004–19May2010. Identity link to this member remains unconfirmed; locality/name similarity is not sufficient. These registration milestones do not establish personal employment boundaries, continuity or hours. No new employer/date/full-time fact adopted. Public professional-profile index again exposed police sequence but not earlier sole-practice dates; existing dates retained. US and unrelated Australian namesakes excluded. Next useful avenue is a historical firm biography or professional directory explicitly pairing this member with Conaghan Legal; do not repeat broad name searches.",
     "Fourth follow-up 2026-10-04: exact-name searches for Conaghan Legal, Conaghan Hunter and Patrick John Conaghan again failed to produce a historical firm biography or directory explicitly pairing the member with the sole-trader ABN. ABR search output adds current NSW 2444 location, but matching name and locality still do not prove identity, operational work or personal hours. The 2018 Doyle’s listing only confirms the already recorded Conaghan Lawyers practice. No material enrichment counted; advance pending an identity-linked professional directory, admission/practice record or contract.",
-    "Follow-up2026-10-04: Newly indexed personal narrative explicitly identifies Conaghan Legal,Manly,Sole Practitioner,General Legal Practice, resolving the previously missing practice-name identity bridge. Original full layout remains unavailable999; adjacent July2003–August2005 snippet is not confidently mapped to that heading and therefore is not adopted as its dates. ABN80527846642 remains a separate unconfirmed legal-entity match. Added undated component within overall legal work, not additional summed time. Next historical firm/admission directory or full legitimately public profile layout for dates; hours and police boundaries unchanged."
+    "Follow-up2026-10-04: Newly indexed personal narrative explicitly identifies Conaghan Legal,Manly,Sole Practitioner,General Legal Practice, resolving the previously missing practice-name identity bridge. Original full layout remains unavailable999; adjacent July2003–August2005 snippet is not confidently mapped to that heading and therefore is not adopted as its dates. ABN80527846642 remains a separate unconfirmed legal-entity match. Added undated component within overall legal work, not additional summed time. Next historical firm/admission directory or full legitimately public profile layout for dates; hours and police boundaries unchanged.",
+    "2026-10-05 follow-up: NSW Nationals biography explicitly supports omitted pro-bono legal services to women’s shelters, youth groups and community legal centres; recorded undated unpaid component without assigning organisational employment. Fresh official parliamentary public index exposes council-term conflict2003–2007 versus secondary2004–2008; preserved existing endpoints with explicit competing evidence and new contemporary-council verification question. Targeted Manly practice/admission/undercover queries again exposed only the unmapped July2003–August2005 professional snippet, existing police sequence and unrelated Louisiana/New Jersey namesakes; no personal legal or police hours/endpoints adopted. Direct official page403 is a source access gap, not a job-wide failure. Advance pending identity-linked original professional layout and contemporary council records."
   ],
   "open_questions": [
     "What were the exact NSW Police appointment, transfer, promotion and cessation dates, hours and leave?",
@@ -529,6 +560,7 @@
     "Who employed him at Kempsey swimming pool, during which dates and hours?",
     "When did operational law work stop and passive company/director involvement begin, and did any legal work continue after election?",
     "What are the names and separate operational/ownership dates of all three practices, including any Conaghan Hunter connection, and how does the five-year Drug Enforcement account reconcile with frozen1993–1997?",
-    "Confirm legal payroll entities for Conaghan Hunter and the December2010–May2019 Conaghan Lawyers role, earlier2001–2005 practice, and personal hours/leave for each nested interval; establish College of Law dates."
+    "Confirm legal payroll entities for Conaghan Hunter and the December2010–May2019 Conaghan Lawyers role, earlier2001–2005 practice, and personal hours/leave for each nested interval; establish College of Law dates.",
+    "Resolve the council-term conflict: official biography2003–2007 versus secondary27March2004–13September2008 using contemporary North Sydney Council election/minutes evidence. Identify pro-bono recipients, dates and overlap with practice without turning unpaid services into paid employment."
   ]
 }
