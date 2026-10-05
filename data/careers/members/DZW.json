@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/DZW",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-04",
+  "last_reviewed": "2026-10-05",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -78,9 +78,10 @@
         "src-secondary",
         "src-alp-profile",
         "src-ifa2010",
-        "src-hansard2004-mirror-oct4"
+        "src-hansard2004-mirror-oct4",
+        "src-griffith-alumni-oct5"
       ],
-      "evidence_note": "The secondary biography records this Griffith University qualification. Dates, study load and overlap with police or later work are unresolved. First-party ALP biography and2010 ministerial speaker profile independently corroborate qualification, but still no date or load. First speech says she completed the diploma after leaving police, in the same year as her first child’s birth; no calendar year or study load stated.",
+      "evidence_note": "The secondary biography records this Griffith University qualification. Dates, study load and overlap with police or later work are unresolved. First-party ALP biography and2010 ministerial speaker profile independently corroborate qualification, but still no date or load. First speech says she completed the diploma after leaving police, in the same year as her first child’s birth; no calendar year or study load stated. Griffith University’s9June2022 alumni article independently corroborates the diploma, but gives no Elliot study dates or load.",
       "counting_note": "Study is excluded under the codebook."
     },
     {
@@ -89,7 +90,7 @@
       "role": "Member from 1995; Tweed Coast branch president, 2003–2004",
       "start_date": "1995",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "party_organisation",
@@ -335,6 +336,16 @@
       "source_type": "government_record",
       "locator": "Printed pages 15–19; employment passages pp16 and18 (PDF pages32 and34, one-based)",
       "note": "Complete official daily Hansard reproduction; cover and relevant page images retrieved; transcript inspected. Third-party host does not alter parliamentary authorship."
+    },
+    {
+      "source_id": "src-griffith-alumni-oct5",
+      "url": "https://news.griffith.edu.au/2022/06/09/griffith-alumni-take-their-seats-in-new-alp-government/",
+      "publisher": "Griffith University",
+      "title": "Griffith alumni take their seats in new ALP Government,9June2022",
+      "retrieved": "2026-10-05",
+      "source_type": "other",
+      "locator": "Paragraph naming other alumni appointed to portfolios; renderedline43",
+      "note": "Institution independently corroborates Elliot’s graduate diploma. Chalmers’s1996 first day is not Elliot’s enrolment date; no Elliot dates or study load supplied."
     }
   ],
   "research_notes": [
@@ -349,7 +360,8 @@
     "Second follow-up2October2026: no material enrichment counted. Recovered previously oversized14.1MB Echo volume20issue52 public PDF by ordinary download and text extraction; printedp15 corroborates existing years, not full-time status. Added ABC Gold Coast location context without inferring specific station or whole-service posting.",
     "First-speech search again yielded no accessible transcript: public Advoc8 page supplies first-speech date/summary but returned only page shell. No access controls bypassed. Police/juvenile-justice hours queries repeated broad biographies.1997–2002 remains unknown; family details and spouse’s police work are not her employment record. Future lead is personal QPS service/leave record, historical university completion material or complete public maiden speech, not repeating Echo recovery.",
     "Third follow-up4October2026 searched exact first-speech, police-to-youth-justice gap, appointment-title and university-history leads. Official parliamentary search was blocked by robots.txt, while accessible official and secondary indexes repeated only1990–1997 police service and2002–2003 conference-convenor work. The2010 speaker report says her husband supported the family as a stay-at-home father; this does not establish Elliot’s own work, leave or hours during1997–2002. Aggregator1January dates remain rejected. No material change; retain the gap pending a personal service, university or complete maiden-speech record.",
-    "Follow-up2026-10-04: recovered complete first speech through publicly hosted official daily Hansard. New duties and relative study/departure sequence added. No dates inferred from children’s ages; spouse’s full-time caring does not establish her hours. Gap still unresolved; earlier transcript-access blocker is recovered."
+    "Follow-up2026-10-04: recovered complete first speech through publicly hosted official daily Hansard. New duties and relative study/departure sequence added. No dates inferred from children’s ages; spouse’s full-time caring does not establish her hours. Gap still unresolved; earlier transcript-access blocker is recovered.",
+    "2026-10-05 nonmaterial follow-up: Griffith’s institutional alumni article independently corroborates the already supported diploma, without Elliot’s study dates or load. Targeted maiden-name Borsellino, police-to-study, conference-convenor casual basis and health-council term searches did not recover individual appointment/leave or1997–2002 chronology evidence. Neighbouring Chalmers1996 enrolment, spouse’s service and other representatives’ council roles were not transferred to Elliot. Preserve unknown hours/gaps; advance pending identity-linked service or university records."
   ],
   "open_questions": [
     "What were the exact Queensland Police appointment, posting, rank, hours, leave and cessation details?",
