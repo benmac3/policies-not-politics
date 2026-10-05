@@ -6,7 +6,7 @@
   "snapshot_party": "Liberal Party of Australia",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/243273",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-04",
+  "last_reviewed": "2026-10-05",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -76,7 +76,7 @@
         "src-12",
         "src-14"
       ],
-      "evidence_note": "Frozen biography describes entire interval as National Wine Centre CEO. Contemporary 1996 appointment was Manager, Wine and Food Tourism; Centre statutory body arose later. Retain aggregate without assigning all years to later employer. Components below are not additive. Contemporary1998conference account identifies a project-director role, supporting the need to separate project work from later CEO service. Extract insufficient to date separate employment spell.",
+      "evidence_note": "Frozen biography describes entire interval as National Wine Centre CEO. Contemporary 1996 appointment was Manager, Wine and Food Tourism; Centre statutory body arose later. Retain aggregate without assigning all years to later employer. Components below are not additive. Contemporary1998conference account identifies a project-director role, supporting the need to separate project work from later CEO service. Extract insufficient to date separate employment spell. Newly exposed1998answer identifies prior DAIS payroll and1July1998Centre contract start, disaggregated below; cannot assign whole1996–2002envelope to Centre or DAIS.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "243273-03"
     },
@@ -85,7 +85,7 @@
       "role": "Manager, Wine and Food Tourism",
       "start_date": "1996",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "unknown",
@@ -103,7 +103,7 @@
     {
       "employer": "National Wine Centre, South Australia",
       "role": "Chief executive officer",
-      "start_date": null,
+      "start_date": "1998-07-01",
       "end_date": "2002",
       "date_precision": "mixed",
       "employment_status": "unknown",
@@ -118,9 +118,10 @@
         "src-5",
         "src-6",
         "src-11",
-        "src-12"
+        "src-12",
+        "src-15"
       ],
-      "evidence_note": "CEO documented by 1999 committee evidence; actual start unresolved. Auditor-General establishes statutory ministerial control. Official end year 2002 retained; reported 2001 intention not to renew contract is not departure date. No hours inferred from CEO title. June1998Estimates answer already describes a National Wine Centre contract with two-year tenure. This establishes a contract by1998, but neither its first day nor CEO title throughout that term. Do not back-calculate endpoints or replace actual2002departure with contractual expiry.",
+      "evidence_note": "Statutory Centre subject to ministerial control (Auditor-General). Board resolved appointment27May1998; contemporary parliamentary answer specifies contract commencement1July1998, two-year tenure and planned DAIS staff transfer that day. Contractual start retained at day precision; actual first workday/leave not independently established. CEO observed in1999committee evidence. Official end year2002 retained;2001nonrenewal intention and two-year original contract expiry do not establish actual departure. Prior generic inference of no start date superseded by newly exposed primary contract terms. Salary package does not establish full-time hours.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "243273-05"
     },
@@ -152,7 +153,7 @@
       "role": "Continuing co-owner / director after Senate entry",
       "start_date": "2012",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "private_enterprise",
@@ -192,7 +193,7 @@
       "role": "Vice-president",
       "start_date": "2011",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "party_organisation",
@@ -211,7 +212,7 @@
       "role": "Senator for South Australia",
       "start_date": "2012-09-05",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "day",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -225,6 +226,26 @@
       "evidence_note": "Entered by casual-vacancy appointment. Federal ministerial/committee offices are part of elected service, not separate employment.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "243273-10"
+    },
+    {
+      "spell_id": "243273-11",
+      "employer": "South Australian Department for Administrative and Information Services (DAIS)",
+      "role": "National Wine Centre project work / monthly contract employee",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "public_service",
+      "headline_sector": "public",
+      "government_control_at_time": "public",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-12",
+        "src-14"
+      ],
+      "evidence_note": "Contemporary1998government answer explicitly names DAIS as prior contractual employer; annualised salary60000,super3600andcar allowance10135. Work on Centre project, exact contracted role title/start unknown. Board-approved transfer planned effective1July1998, not independently confirmed actual last workday; do not backdate DAIS to1996or assign executive-officer steering role automatically. Component of official wine-career envelope, not additional years.",
+      "counting_note": "Paid departmental contract supported; individual full-time hours/start/leave and actual transition remain unknown. No calculated years; overlapping aggregate/components not additive."
     }
   ],
   "sources": [
@@ -343,9 +364,9 @@
       "publisher": "Parliament of South Australia",
       "title": "Estimates Committee A answers,30June1998",
       "source_type": "government_record",
-      "locator": "Indexed answer beginning Ms Rustons contract with the National Wine Centre",
-      "note": "States contract tenure of two years. Direct PDF returned403Forbidden; indexed text does not identify commencement or full-time hours.",
-      "retrieved": "2026-10-02",
+      "locator": "Printed p273, Estimates Committee A answers16–19/23June1998, response on National Wine Centre CEO contract",
+      "note": "Fresh targeted public index exposes full answer: board appointment resolution27May1998, two-year contract from1July1998, previous DAIS monthly contract, $60000 salary/$3600super/$10135car allowance,1June1998letter approving staff transfer effective1July1998. Direct PDF earlier403; indexed evidence explicitly distinguished from inspected original contract. No individual hours or actual renewal/separation evidence.",
+      "retrieved": "2026-10-05",
       "source_id": "src-12"
     },
     {
@@ -367,6 +388,16 @@
       "note": "Contemporary project-director title corroboration; direct open InternalError. Exact employment boundaries and contractual employer not established from extract.",
       "retrieved": "2026-10-02",
       "source_id": "src-14"
+    },
+    {
+      "source_id": "src-15",
+      "url": "https://hansardsearch.parliament.sa.gov.au/daily/eca/1998-06-18/pdf/download",
+      "publisher": "Parliament of South Australia",
+      "title": "Estimates Committee A18June1998",
+      "source_type": "government_record",
+      "retrieved": "2026-10-05",
+      "locator": "Question on CEO appointment and Ingerson answer on press-conference notification",
+      "note": "Indexed text says Ingerson learned of appointment at that day’s press conference; announcement is not commencement. Reader403Forbidden; no bypass."
     }
   ],
   "research_notes": [
@@ -380,6 +411,7 @@
     "Follow-up2026-10-02:1996salary answer establishes remuneration and1998Estimates establishes a two-year National Wine Centre contract. Full contract, position description and renewal/separation papers remain necessary; contract tenure is not actual service duration or full-time evidence.",
     "Contemporary1998wine-tourism conference report provides project-director corroboration. Direct Emerald InternalError and new1998Hansard403 were source-specific; indexed extracts used transparently. Targeted contract,appointment,project-director anddrought searches did not resolve earlier work, exact transition, business breaks or hours. No unsupported full-time totals. Next priority original1998contract/annual report and contemporaneous drought business interviews.",
     "Follow-up2026-10-03: repeated exact-name contract, project-director, Wine and Food Tourism and Ruston's Roses drought searches located the already captured1998project-director observation, public LinkedIn's broad1996–2002National Wine Centre claim and secondary three-year drought narrative. None supplied a primary CEO commencement, contract renewal/separation date, drought suspension dates or substantive hours. The broad search avenue is recorded without promoting derivative chronology.",
-    "Follow-up2026-10-04: Targeted1997TourismCommission and1999appointment/2002contract searches returned previously captured1996salary answer,1999committee witness list and later parliamentary service. No original wine-centre contract, payroll transfer or separation record located. Renmark school references concern education/classmate Rick Burr, not evidence that Ruston was a teacher. Pre1987work remains unknown; institutional incorporation21August1997does not establish personal commencement. Continue next member rather than repeat exhausted broad project/drought queries."
+    "Follow-up2026-10-04: Targeted1997TourismCommission and1999appointment/2002contract searches returned previously captured1996salary answer,1999committee witness list and later parliamentary service. No original wine-centre contract, payroll transfer or separation record located. Renmark school references concern education/classmate Rick Burr, not evidence that Ruston was a teacher. Pre1987work remains unknown; institutional incorporation21August1997does not establish personal commencement. Continue next member rather than repeat exhausted broad project/drought queries.",
+    "Follow-up2026-10-05: Targeted contract query exposed fuller primary1998Estimates answer previously only indexed as two-year tenure: DAIS monthly payroll employer, salary/allowances, board27May1998resolution and contract start1July1998/approved transfer. Added separate DAIS component and refined CEO contractual start, leaving hours/first-lastworkingdays/renewals unknown.18Juneannouncement distinct from commencement. AustLII original1999committee PDF403 and SA18JunePDF403 source-specific, not terminal. Wine-centre board/past pre1987work and drought-hours queries still no personal appointment schedule; retain follow-up."
   ]
 }
