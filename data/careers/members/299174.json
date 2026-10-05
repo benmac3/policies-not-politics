@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/299174",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-04",
+  "last_reviewed": "2026-10-05",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -60,9 +60,9 @@
       "spell_id": "299174-consultancy",
       "employer": "Small business consultancy (legal entity and client names unresolved)",
       "role": "Business consultant / consultancy operator",
-      "start_date": null,
-      "end_date": null,
-      "date_precision": "unknown",
+      "start_date": "2019-03",
+      "end_date": "2022-05",
+      "date_precision": "month",
       "employment_status": "self_employed",
       "fte_fraction": null,
       "category": "private_enterprise",
@@ -71,15 +71,16 @@
       "counting_status": "insufficient_evidence",
       "source_ids": [
         "src-rdm2022-consult-oct4",
-        "src-ryde2019-consult-oct4"
+        "src-ryde2019-consult-oct4",
+        "src-profile-workdates-oct5"
       ],
-      "evidence_note": "First-person2022 campaign questionnaire says Laxale runs a small business consultancy separately from serving on boards. Original2018–19 council report independently describes current business-consultant activity. These are dated observations, not appointment/cessation boundaries. Consultancy entity, clients, payment, weekly hours, leave and overlap with family business/council/governance unknown. Self-employment is supported by operating a consultancy, without full-time inference.",
+      "evidence_note": "First-person2022 campaign questionnaire says Laxale runs a small business consultancy separately from serving on boards. Original2018–19 council report independently describes current business-consultant activity. These are dated observations, not appointment/cessation boundaries. Consultancy entity, clients, payment, weekly hours, leave and overlap with family business/council/governance unknown. Self-employment is supported by operating a consultancy, without full-time inference. Matching public professional experience index supplies March2019–May2022 sole-trader consultancy boundaries, provisionally retained at month precision. Exact days, hours and campaign leave absent; separate GFTH company index attributes interest to spouse/partner, so it is not assigned as his employer.",
       "counting_note": "Private commercial activity supported, but dates and substantive full-time hours absent; no headline duration or election cessation inferred."
     },
     {
       "spell_id": "299174-alp-activity",
       "employer": "Australian Labor Party — Eastwood branch",
-      "role": "Member and branch president",
+      "role": "Australian Labor Party member",
       "start_date": "2004",
       "end_date": null,
       "date_precision": "year",
@@ -92,7 +93,7 @@
       "source_ids": [
         "src-secondary"
       ],
-      "evidence_note": "The secondary biography reports Labor membership from 2004 and Eastwood branch presidency from 2008. No end date, remuneration, hours or employment relationship is stated; the two milestones are retained in one excluded party-activity spell rather than treated as employment.",
+      "evidence_note": "Secondary biography reports party membership from2004; no remuneration, hours or endpoint. Branch presidency is recorded separately with its own official boundaries.",
       "counting_note": "Party membership and organisational office are excluded under the codebook."
     },
     {
@@ -111,9 +112,10 @@
       "source_ids": [
         "src-member",
         "src-alp",
-        "src-secondary"
+        "src-secondary",
+        "src-aph-party-council-oct5"
       ],
-      "evidence_note": "Member and party biographies corroborate ten years in local government; the secondary chronology supplies election and resignation dates. The final interval overlaps federal service because resignation from council followed the federal election.",
+      "evidence_note": "Member and party biographies corroborate ten years in local government; the secondary chronology supplies election and resignation dates. The final interval overlaps federal service because resignation from council followed the federal election. Official indexed biography instead gives June2022 cessation, conflicting with recorded22July2022 resignation. Retain supported existing exact date pending original council resignation resolution.",
       "counting_note": "Local elected office is excluded under the codebook."
     },
     {
@@ -267,9 +269,9 @@
       "spell_id": "299174-venture-cafe",
       "employer": "Venture Café Sydney",
       "role": "Advisory Board member",
-      "start_date": null,
-      "end_date": null,
-      "date_precision": "unknown",
+      "start_date": "2018-07",
+      "end_date": "2021-09",
+      "date_precision": "month",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "nonprofit",
@@ -277,9 +279,10 @@
       "government_control_at_time": "private",
       "counting_status": "excluded",
       "source_ids": [
-        "src-secondary"
+        "src-secondary",
+        "src-profile-workdates-oct5"
       ],
-      "evidence_note": "The secondary biography reports advisory-board service but supplies no dates, remuneration, meeting load or employment relationship.",
+      "evidence_note": "The secondary biography reports advisory-board service but supplies no dates, remuneration, meeting load or employment relationship. Matching primary professional index provides July2018–September2021 board-service interval; month dates are self-reported, not company appointment instrument, and do not establish pay or hours.",
       "counting_note": "Advisory governance is excluded from the narrow employment headline."
     },
     {
@@ -348,7 +351,7 @@
       "role": "Executive Certificate for Elected Members",
       "start_date": null,
       "end_date": "2019-04",
-      "date_precision": "mixed",
+      "date_precision": "month",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "study",
@@ -367,7 +370,7 @@
       "role": "Company Directors Course",
       "start_date": null,
       "end_date": "2019-08",
-      "date_precision": "mixed",
+      "date_precision": "month",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "study",
@@ -386,7 +389,7 @@
       "role": "Chairing and Effective Meeting Procedures",
       "start_date": null,
       "end_date": "2019-09",
-      "date_precision": "mixed",
+      "date_precision": "month",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "study",
@@ -399,6 +402,25 @@
       "evidence_note": "Profile lists credential issued in this month; course commencement, duration and load unknown. Issue date is a completion marker, not a work interval.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "299174-lgnsw-course"
+    },
+    {
+      "spell_id": "299174-eastwood-president",
+      "employer": "Australian Labor Party — Eastwood branch",
+      "role": "Eastwood branch President",
+      "start_date": "2008",
+      "end_date": "2016",
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "party_organisation",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-aph-party-council-oct5"
+      ],
+      "evidence_note": "Official indexed parliamentary biography supplies2008–2016 presidency, resolving secondary open-ended wording. Exact days, remuneration and hours unknown; separate from2004 party membership.",
+      "counting_note": "Party membership and organisational office are excluded under the codebook."
     }
   ],
   "sources": [
@@ -571,6 +593,36 @@
       "retrieved": "2026-10-04",
       "locator": "Tell us more about you, first-person answer",
       "note": "Nearly20years in family business as board/private-sector experience; rounded duration does not identify operational dates or override frozen management spell."
+    },
+    {
+      "source_id": "src-profile-workdates-oct5",
+      "url": "https://au.linkedin.com/in/jeromelaxale",
+      "publisher": "LinkedIn / Jerome Laxale",
+      "title": "Public indexed professional experience",
+      "source_type": "professional_profile",
+      "retrieved": "2026-10-05",
+      "locator": "Private Consultant, Sole-Trader March2019–May2022; Venture Cafe Sydney July2018–September2021",
+      "note": "Matching member-controlled public index supplies month boundaries. Full profile not inspected; earlier direct999 remains an access limitation. Aggregator dates are not substituted for primary indexed terms."
+    },
+    {
+      "source_id": "src-aph-party-council-oct5",
+      "url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=299174",
+      "publisher": "Parliament of Australia",
+      "title": "Jerome Laxale biography, party and local-government service",
+      "source_type": "official_biography",
+      "retrieved": "2026-10-05",
+      "locator": "Party positions: Eastwood branch President2008–2016; Local government: councillor throughJune2022",
+      "note": "Official public indexed text; direct domain robots-blocked. Adds party office end and preserves disagreement with secondary July22 council resignation, without refreshing roster."
+    },
+    {
+      "source_id": "src-gfth-family-index-oct5",
+      "url": "https://plainpolitics.com.au/politicians/jerome-laxale/",
+      "publisher": "Plain Politics",
+      "title": "Jerome Laxale registrable interests transcription",
+      "source_type": "other",
+      "retrieved": "2026-10-05",
+      "locator": "Shareholdings lines51–57; directorships lines70–76",
+      "note": "Explicitly attributes GFTH Pty Ltd consultancy holding/directorship to spouse or partner, not member. Original declaration still required; cannot identify his consultancy employer from family holding."
     }
   ],
   "open_questions": [
@@ -580,7 +632,8 @@
     "Are earlier jobs or later business-consulting clients omitted from official occupations, and what are their dates and hours?",
     "Can primary records refine Venture Café, party and local-government chronology and paid/unpaid conditions?",
     "Which parliamentary office hosted the2004 ANU internship, on which exact dates, and with what remuneration, hours and study-credit arrangements?",
-    "What is the consultancy legal entity, exact commencement/cessation, clients, personal pay/hours and leave? Could GFTH Pty Ltd consultancy holding be linked through original declarations, and how does family-business governance extend beyond executive2017 endpoint?"
+    "What is the consultancy legal entity, exact commencement/cessation, clients, personal pay/hours and leave? Could GFTH Pty Ltd consultancy holding be linked through original declarations, and how does family-business governance extend beyond executive2017 endpoint?",
+    "Can original professional/employer records corroborate self-reported March2019–May2022 consultancy and July2018–September2021 Venture Cafe terms? GFTH is spouse/partner-attributed in public transcription, not established as his entity. Resolve official June2022 versus original reported July22 council resignation."
   ],
   "research_notes": [
     "2026-10-01 follow-up: official register resolves matching family company; historical LGP report reclassifies Associate Director as excluded governance, and LGNSW report refines StateCover appointment and establishes paid treasurer governance. No salary-to-hours conversion or external-board pay allocation made.",
@@ -589,6 +642,7 @@
     "Targeted family-business full-time searches yielded staff vacancies rather than personal hours, which were rejected. Council26June2018 agenda, printed pp49–50, reproduces Venture Cafe innovation partnership resolution but does not appoint Laxale personally to its board. PDF exceeded web-reader size limit; ordinary direct download and text extraction succeeded. Partnership funding/trial dates do not establish personal governance term. Next leads remain family payroll/hours, personal Venture Cafe appointment, internship host and original LGP appointment instruments.",
     "Follow-up3October2026 resolves ANIP internship year to2004 through original university anniversary publication. Targeted Venture Cafe search yielded a commercial aggregator claiming30June2018, without an original appointment instrument, so no exact date adopted. Council partnership date was already examined and is not personal appointment evidence. Full-time search again found staff vacancies, not personal working hours. No headline years calculated; future needs are original internship host record, Venture Cafe board minutes and family payroll/work-pattern evidence.",
     "Fourth follow-up4October2026 repeated exact ANIP2004 host-office, Venture Cafe Sydney board and family-business full-time searches. Results repeated the existing ANIP program attribution, organisation-level partnership and unrelated staff vacancies; no host, appointment instrument, personal payroll, hours or leave evidence emerged. Namesakes and organisation-level partnership material were excluded.",
-    "Follow-up2026-10-04: First-person2022 campaign answer and primary2018–19 council profile establish omitted consultancy work; separate unknown-date self-employed spell added. New1June2022 interview nearly20-year family-business wording is not substituted for2004–2017 executive interval; possible board continuation retained as gap.2025 local interview corroborates later consultancy. Public interests index GFTH Pty Ltd consultancy is only an original-register lead, not silently made payroll employer.2018–19 PDF reader content-size error and LGP2021 URL404 are source gaps; primary indexed profile and accessible personal testimony remain usable."
+    "Follow-up2026-10-04: First-person2022 campaign answer and primary2018–19 council profile establish omitted consultancy work; separate unknown-date self-employed spell added. New1June2022 interview nearly20-year family-business wording is not substituted for2004–2017 executive interval; possible board continuation retained as gap.2025 local interview corroborates later consultancy. Public interests index GFTH Pty Ltd consultancy is only an original-register lead, not silently made payroll employer.2018–19 PDF reader content-size error and LGP2021 URL404 are source gaps; primary indexed profile and accessible personal testimony remain usable.",
+    "Follow-up2026-10-05: Targeted current primary professional profile supplies consultancy March2019–May2022 and Venture Cafe July2018–September2021 month boundaries; no full-time claim or precise days. Official indexed biography supplies separate Eastwood presidency2008–2016 and June2022 councillor cessation conflicting with held22July date. Family-interest transcription explicitly assigns GFTH holding/directorship to spouse/partner; original declaration remains required and no member-employer linkage adopted. Contact aggregators and rounded tenure calculations not used as evidence. Personal hours, family payroll and original appointment instruments remain priorities."
   ]
 }
