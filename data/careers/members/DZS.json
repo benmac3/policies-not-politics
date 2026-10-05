@@ -6,12 +6,12 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/DZS",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-04",
+  "last_reviewed": "2026-10-05",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
     "calculation_status": "not_calculable",
-    "note": "The documented post-university career before federal Parliament consists of political staff employment and union work, alongside elected local office and council-association governance. Those categories are excluded from both headline sectors. Hours, exact transition dates and any earlier paid work remain unresolved; missing evidence is not zero."
+    "note": "The documented post-university career before federal Parliament consists of political staff employment and union work, alongside elected local office and council-association governance. Those categories are excluded from both headline sectors. Hours, exact transition dates and any earlier paid work remain unresolved; missing evidence is not zero. Publisher records also establish book authorship during federal service, with remuneration, contractual classification and working periods unknown; this does not establish private full-time years."
   },
   "career_spells": [
     {
@@ -289,6 +289,27 @@
       "evidence_note": "Official Handbook records party office; pay, hours and exact boundaries unknown. Overlaps study, staff, union and council roles; no additive full-time employment inferred.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "DZS-party-returning"
+    },
+    {
+      "spell_id": "DZS-authorship-unallocated",
+      "employer": "Not established; published by Melbourne University Publishing, Hachette Australia and Monash University Publishing (publishers are not proven employers)",
+      "role": "Book author — Hearts and Minds, The Money Men, On Charlatans and Labor People",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "unknown",
+      "government_control_at_time": "unknown",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-monash-author-books",
+        "src-monash-labor-people",
+        "src-mup-money-men"
+      ],
+      "evidence_note": "Publishers establish four authored books, with output years 2013, 2015 and 2021. The Money Men was published 3 August 2015 and Labor People 1 August 2021. These dates do not establish when writing or any paid contract began/ended. No advance, royalties, employer, employment relationship, full-time hours or leave evidence found. Work occurred during federal service; no additive full-time duration inferred.",
+      "counting_note": "Authorship alone does not establish paid private employment. Retain unknown category/control/hours and null boundaries pending contractual evidence; publication dates are not duration endpoints."
     }
   ],
   "sources": [
@@ -461,13 +482,44 @@
       "note": "The city manager says he commenced on 5 October 1999 and thanks then-mayor Chris Bowen for leading the council at the time. This is a dated office observation, not a mayoral appointment or cessation record.",
       "retrieved": "2026-10-04",
       "source_id": "src-fairfield-manager2022"
+    },
+    {
+      "source_id": "src-monash-author-books",
+      "url": "https://publishing.monash.edu/authors/chris-bowen/",
+      "publisher": "Monash University Publishing",
+      "title": "Chris Bowen — author biography",
+      "retrieved": "2026-10-05",
+      "source_type": "other",
+      "locator": "Author biography, three previous books",
+      "note": "Primary publisher identifies authorship of Hearts and Minds (2013), The Money Men (2015) and On Charlatans (2021). Publication years are outputs, not employment boundaries."
+    },
+    {
+      "source_id": "src-monash-labor-people",
+      "url": "https://publishing.monash.edu/product/labor-people/",
+      "publisher": "Monash University Publishing",
+      "title": "Labor People: The Stories of Six True Believers",
+      "retrieved": "2026-10-05",
+      "source_type": "other",
+      "locator": "Author and publication information; 1 August 2021",
+      "note": "Primary publisher confirms author identity and publication date, not pay, contract period or hours."
+    },
+    {
+      "source_id": "src-mup-money-men",
+      "url": "https://www.mup.com.au/books/the-money-men/9780522866605",
+      "publisher": "Melbourne University Publishing",
+      "title": "The Money Men: Australia’s Twelve Most Notable Treasurers",
+      "retrieved": "2026-10-05",
+      "source_type": "other",
+      "locator": "Publication information and author biography; 3 August 2015",
+      "note": "Primary publisher attributes research/interviews and authorship; no contract or working-hours evidence."
     }
   ],
   "open_questions": [
     "Did Bowen have paid employment before the 1994 Janice Crosio role or during university?",
     "What are the exact appointment dates, payroll entities, substantive hours, leave and campaign breaks for the 1994–2004 staff and union sequence?",
     "What were the exact term/remuneration arrangements for Fairfield Council, mayor and WSROC roles, and did any constitute separate paid employment?",
-    "When were the Griffith and UNE postgraduate qualifications undertaken, and did they overlap paid work?"
+    "When were the Griffith and UNE postgraduate qualifications undertaken, and did they overlap paid work?",
+    "What were the writing periods, remuneration/royalty contracts and work status for the four published books, and were they personal, parliamentary or other work?"
   ],
   "research_notes": [
     "Systematic follow-up2026-10-01; repaired missing required research_notes and preserved supported existing entries. Material correction:2000–2004 staff employer was Patrick Carl Scully, not Paul Scully. The frozen roster remains unchanged; the record documents resolution of the abbreviated historical name using primary sources.",
@@ -479,6 +531,7 @@
     "Early-job search again returns US electrician and the mixed leadership-candidate paper-run snippet; these remain unattributable. No private/public zero inferred. Prioritise original FSU1995–2000 staff/personnel reports,1994/2000/2004 appointment transitions and identifiable pre-university employer evidence for future follow-up; generic qualification biographies exhausted.",
     "Further2October pass: targeted FSU1998/1999 personnel/annual-report and1994 Crosio appointment searches returned only already-known1995–2000 union interval and retrospective biographies, not primary appointment/pay/leave documents. Acronym-only FSU results include Florida State University namesakes and are excluded. No new identifiable pre1994 employer found. Defer these exhausted indexed routes until an original union personnel report, dated appointment record or attributable first-person employment account becomes available; all existing unknowns retained.",
     "Follow-up 2026-10-04: Fairfield council's 2022 city-manager retirement statement supplies an exact 5 October 1999 observation that Bowen was then mayor and led the council, strengthening the year-level mayoral record without converting an observation into a cessation date. Council and FSU searches still did not produce election, resignation, payroll, hours or leave records.",
-    "Follow-up2026-10-04: Targeted1997–1998 FSU,1994 Crosio appointment, early-job and1999 mayoral-transition searches found no personal payroll or hours evidence. A derivative mayor table claims September1999 cessation but conflicts with council manager’s primary5October1999 observation; its unsourced month was not adopted. Bath engineering professor and US Stryker analyst are namesakes, not this member. Future priority is original1998–2000 council minutes and FSU personnel records; repeated biographies exhausted."
+    "Follow-up2026-10-04: Targeted1997–1998 FSU,1994 Crosio appointment, early-job and1999 mayoral-transition searches found no personal payroll or hours evidence. A derivative mayor table claims September1999 cessation but conflicts with council manager’s primary5October1999 observation; its unsourced month was not adopted. Bath engineering professor and US Stryker analyst are namesakes, not this member. Future priority is original1998–2000 council minutes and FSU personnel records; repeated biographies exhausted.",
+    "Follow-up2026-10-05: primary Monash and Melbourne publisher records add previously unrecorded book authorship (four outputs in2013/2015/2021), separately from elected office. Publisher names and publication dates are not treated as employer identities or employment endpoints; remuneration, hours and contract/control remain unknown. Targeted pre1994, FSU/Crosio and leave searches returned already-recorded biographies or namesakes without new personal terms. Private/public totals remain null; future leads are attributable early-job testimony and original employment/author contracts."
   ]
 }
