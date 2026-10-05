@@ -6,7 +6,7 @@
   "snapshot_party": "The Nationals",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/300134",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-05",
+  "last_reviewed": "2026-10-06",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -169,7 +169,7 @@
       "employer": "National Party of Australia — NSW",
       "role": "Lead Nationals Senate candidate",
       "start_date": "2021-06",
-      "end_date": "2022-07-01",
+      "end_date": "2022-05-21",
       "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
@@ -179,9 +179,10 @@
       "counting_status": "excluded",
       "source_ids": [
         "src-preselection",
-        "src-secondary-career"
+        "src-secondary-career",
+        "src-aec2022-cadell-pass3"
       ],
-      "evidence_note": "June 2021 reporting establishes preselection as the Nationals' lead Senate candidate. Pay, hours, formal employment status, campaign leave and overlap with Port of Newcastle are unresolved.",
+      "evidence_note": "June 2021 reporting establishes preselection as the Nationals' lead Senate candidate. The campaign endpoint is the 21 May 2022 election, not his later 1 July Senate commencement. The AEC announced the completed NSW Senate count on 20 June and scheduled formal declaration for 21 June; those post-election result milestones do not extend campaigning or prove paid work. Pay, hours, formal employment status, Port of Newcastle leave/cessation and activity from election day to Senate commencement remain unresolved.",
       "counting_note": "Party/campaign activity is excluded under the codebook."
     },
     {
@@ -511,6 +512,16 @@
       "source_type": "news",
       "locator": "Programme date and description naming Special Projects Director Ross Cadell",
       "note": "Accessible original broadcaster description confirms named port role inFebruary2022. Audio not transcribed or claimed as heard; observation is not a cessation or payroll record."
+    },
+    {
+      "source_id": "src-aec2022-cadell-pass3",
+      "url": "https://www.aec.gov.au/media/2022/06-20.htm",
+      "publisher": "Australian Electoral Commission",
+      "title": "New South Wales Senators have been decided",
+      "retrieved": "2026-10-06",
+      "source_type": "government_record",
+      "locator": "20 June 2022 announcement; successful candidates and formal declaration notice",
+      "note": "Names Cadell as the third successful NSW Senate candidate and dates completion of the count to 20 June, with formal declaration scheduled for 21 June. Result timing is distinct from election day, campaign activity and 1 July service commencement."
     }
   ],
   "open_questions": [
@@ -519,7 +530,7 @@
     "What work filled the gaps after Prodigy Motorsport and before NSW Nationals employment in 2010?",
     "What were the exact dates, hours and leave for the NSW Nationals organiser, campaign-manager and state-director roles?",
     "How should Port of Newcastle's 50/50 fund and foreign state-controlled ownership be treated under a future aggregate mixed-control rule, and was Cadell's role substantively full-time?",
-    "What were the Port cessation date and campaign leave arrangements between June 2021 preselection and Senate commencement?"
+    "What were the Port cessation date and campaign leave arrangements through the 21 May 2022 election, and what paid activity occurred between election day and Senate commencement?"
   ],
   "research_notes": [
     "Systematic follow-up2026-10-01; repaired missing research_notes. Added omitted bank work, employment by Greg Hansen, gaming, university/cadet/party history and declared company directorship. Added primary historical employer evidence and repaired incorrect motorsport URL. Full-time totals remain null.",
@@ -534,6 +545,7 @@
     "Third follow-up 2026-10-04: exact-name searches for the 2005 Newcastle Knights appointment, the Newcastle National Maritime Festival, Prodigy Motorsport and 2022 Port of Newcastle material returned only the derivative career chronology and already recorded contemporary article citations. No original employment notice, payroll entity, cessation, hours or leave record was located. No material enrichment counted; retain all gaps and advance pending original club, festival, bank/Hansen or port personnel evidence.",
     "Follow-up2026-10-04: Targeted Greg Hansen payroll, early bank employer, Prodigy commercial-director, 2006/2009 motorsport and festival/council searches repeated existing chronology without original personnel or contracting boundaries. A different public LinkedIn profile identifies a Zurich claims consultant/OnePath in Greater Sydney; no identity bridge to the senator was found, so it was not substituted for his unidentified early bank. Direct profile access returned (429) Too Many Requests through the web tool; no same-route retry. A December2005 supporter-forum essay mentions Sales and Marketing manager but is an unverified competition entry, not a reliable employer appointment record; do not refine title/date from it. Need original Knights payroll/annual reports, festival employment entity, Hansen contract and early bank record; commercial titles and role overlap still do not prove full-time status.",
     "Follow-up2026-10-05: original ABC14February2022programme description corroborates port role in existing2022end year without dating resignation or proving hours; no material gap resolution counted. Prodigy/Hansen/bank and port2022queries otherwise returned prior derivative chronology, current senatorial advocacy and Zurich-profile/nonspecific namesakes. Daily Cargo News original open returned DisabledError, a source-specific recovered gap; ABC accessible. Next useful leads remain original festival/Knights/motorsport contracts and port personal payroll/leave record; namesakes and staff-job adverts excluded.",
-    "Second targeted pass sought festival organisational/payroll identity and an attributable MotoGP arrangement rather than treating the port or sponsorship titles as full-time. Both engines returned the existing derivative chronology, Yoong release and unrelated event/motorsport posts; no original council/festival staff record or named MotoGP contract. No new personal facts adopted. The 2004 release financial contribution remains investment evidence, not salary. Broad bank/Hansen and Prodigy biography searches exhausted; advance pending original festival/club documents or Inside Track personal operational evidence."
+    "Second targeted pass sought festival organisational/payroll identity and an attributable MotoGP arrangement rather than treating the port or sponsorship titles as full-time. Both engines returned the existing derivative chronology, Yoong release and unrelated event/motorsport posts; no original council/festival staff record or named MotoGP contract. No new personal facts adopted. The 2004 release financial contribution remains investment evidence, not salary. Broad bank/Hansen and Prodigy biography searches exhausted; advance pending original festival/club documents or Inside Track personal operational evidence.",
+    "Third targeted pass2026-10-06 corrects the Senate campaign endpoint from parliamentary commencement to the 21May2022 election. AEC's completed-count announcement on20June and scheduled declaration on21June are result administration, not campaign employment or service commencement. This separates campaign, declaration and elected service without inventing pay, leave or post-election work. Port cessation and the 22May–30June transition remain unresolved."
   ]
 }
