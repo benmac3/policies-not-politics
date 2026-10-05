@@ -279,7 +279,7 @@
       "role": "Member for Rankin",
       "start_date": "2013-09-07",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "day",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -298,7 +298,7 @@
       "role": "BA and BCom with first-class honours in public policy",
       "start_date": null,
       "end_date": "1999",
-      "date_precision": "mixed",
+      "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "study",
@@ -317,7 +317,7 @@
       "role": "PhD in political science",
       "start_date": null,
       "end_date": "2004",
-      "date_precision": "mixed",
+      "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "study",
@@ -403,10 +403,51 @@
       "counting_status": "insufficient_evidence",
       "source_ids": [
         "src-15",
-        "src-16"
+        "src-16",
+        "src-historical-interests-pass2"
       ],
-      "evidence_note": "Publisher gives paperback release25September2017. Writing start/end, pay, contract, hours and overlap unknown; publisher not assumed an employer.",
+      "evidence_note": "Publisher gives paperback release25September2017. Writing start/end, pay, contract, hours and overlap unknown; publisher not assumed an employer. Historical public interests transcription reports royalties from the Mike Quigley co-authored book, all donated to local schools, with update label25September2017. Original45PPDF was not inspectable; this is secondary reported remuneration context, not verified contract terms, job dates or a salary.",
       "counting_note": "Author activity recorded for completeness; no paid full-time period established or added to headline."
+    },
+    {
+      "spell_id": "37998-21",
+      "employer": "Australian Institute of Company Directors — provider identified in secondary interests transcription",
+      "role": "Company director qualification / Company Directors Course",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-15",
+        "src-historical-interests-pass2"
+      ],
+      "evidence_note": "Own biography confirms company-director qualification. Historical public transcription reports AICD Company Directors Course fee for2016–2017year and associated membership/joining fee valid untilDecember2017. Underlying original declaration inaccessible, so provider/course detail is secondary reported. Fee and membership validity do not prove attendance dates, conferral date, study load or paid directorship.",
+      "counting_note": "Excluded study/training; no employment duration calculated."
+    },
+    {
+      "spell_id": "37998-22",
+      "employer": "The Monthly / Schwartz Media — commissioning/contracting entity unresolved",
+      "role": "Magazine contributor / author",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "unknown",
+      "government_control_at_time": "unknown",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-monthly-contributor-pass2",
+        "src-historical-interests-pass2"
+      ],
+      "evidence_note": "Publisher contributor page confirms Chalmers identity and attributed articles. Historical public interests transcription reports an author payment from The Monthly with update label12February2018; original declaration not inspected. This records contributor activity and secondary reported payment without assuming payroll, writing interval, continuous paid service or full-time hours. Later attributed articles do not prove continuation of the2018payment arrangement.",
+      "counting_note": "Contract, duties, dates and paid hours unresolved; no full-time employment duration inferred from authorship or payment disclosure."
     }
   ],
   "sources": [
@@ -569,6 +610,26 @@
       "retrieved": "2026-10-05",
       "locator": "Title/authors lines108–110 and specifications lines127–135",
       "note": "Publisher names Chalmers/Quigley and25September2017 paperback release. Publication date is not a writing or employment boundary; author contract/pay/hours unknown."
+    },
+    {
+      "source_id": "src-historical-interests-pass2",
+      "url": "https://icacpls.github.io/interests/jim-chalmers.html",
+      "publisher": "ICACpls public parliamentary interests transcription",
+      "title": "Jim Chalmers historical interests",
+      "retrieved": "2026-10-05",
+      "source_type": "reliable_secondary",
+      "locator": "Other Income lines67–68; Gifts lines82–83; linked45PsourcePDF",
+      "note": "Public transcription reports book royalties donated to local schools, Monthly author payment and AICD course/membership fees. Linked original https://www.aph.gov.au/~/media/03%20Senators%20and%20Members/32%20Members/Register/45p/CF/ChalmersJ_45P.pdf restricted in web reader and ordinary HTTP403Forbidden; original not inspected. Updated dates are declaration labels, not job dates."
+    },
+    {
+      "source_id": "src-monthly-contributor-pass2",
+      "url": "https://www.themonthly.com.au/contributor/jim-chalmers",
+      "publisher": "The Monthly / Schwartz Media",
+      "title": "Jim Chalmers contributor page",
+      "retrieved": "2026-10-05",
+      "source_type": "other",
+      "locator": "Contributor heading and attributed articles; page lines4–21",
+      "note": "Primary publisher confirms contributor identity and articles.2017 editors-note index additionally mentions Chalmers/Charlton automation essay; direct editors-note403. No employment contract or hours established."
     }
   ],
   "research_notes": [
@@ -580,6 +641,7 @@
     "2026-10-02 follow-up: added university-confirmed1999 Griffith and2004 ANU study completion and two distinct Griffith advisory roles documented in2023. Targeted CPR/June2007, ICAC exhibits, university tutoring and thesis searches did not establish individual hours, leave, full employment boundaries or third teaching employer. ANU repository item b582da33-8f37-402d-83e2-9b437bcd2fb6 and full metadata returned (403) Forbidden, so thesis acknowledgements not inspected. Guardian27March2014 article is a lead to June2007 CPR file notes; original ICAC exhibit not located and no date boundary changed. Orkney/acupuncture tutor namesakes excluded. Next useful avenues: publicly accessible thesis acknowledgements,2001 university appointment records and original CPR employer documentation; preserve earlier gaps and null totals.",
     "2026-10-03 follow-up: coded the Guardian's report of ICAC-tendered file notes as a dated June 2007 CPR employment observation and evidence of Australian Water Holdings lobbying duties. This improves the private-sector spell without treating a client assignment as a separate employer or inferring full-time status. Searches of ICAC, NSW Parliament, university biographies and thesis/tutoring references did not locate the original exhibit, the unidentified third teaching institution, appointment hours or exact CPR-to-Swan transition. A social-media snippet naming different universities conflicts with APH and was not adopted.",
     "2026-10-04 follow-up (second nationwide pass): targeted Operation Credo/ICAC exhibit searches found additional contemporaneous reporting that file notes tendered to ICAC described the 2007 Australian Water Holdings lobbying, but no accessible original exhibit or CPR personnel record. ICAC's public Operation Credo material discusses the broader investigation without naming Chalmers. University searches again support only ANU and University of Canberra tutoring; no reliable third institution, appointment fraction or hours surfaced. The June 2007 CPR observation remains unchanged. Revisit only if the tendered file note, CPR archive or university appointment record becomes accessible.",
-    "Targeted follow-up2026-10-05: New primary own biography and Black Inc. catalogue establish two previously omitted author activities: Glory Daze2013 and Changing Jobs with Mike Quigley, paperback release25September2017. Writing intervals, contract/pay/royalties and hours unknown; no publisher treated as employer or publication date as work boundary. Company-director qualification remains a provider/date lead. Targeted thesis/ICAC search returned no original CPR exhibit or attributable employment-hours record; UK acoustics/public-health and Flinders demography academics are namesakes and rejected. Avoid further generic thesis/CPR retries absent a new original document. Own linked MUPISBNpage404; own biography still establishes2013 publication."
+    "Targeted follow-up2026-10-05: New primary own biography and Black Inc. catalogue establish two previously omitted author activities: Glory Daze2013 and Changing Jobs with Mike Quigley, paperback release25September2017. Writing intervals, contract/pay/royalties and hours unknown; no publisher treated as employer or publication date as work boundary. Company-director qualification remains a provider/date lead. Targeted thesis/ICAC search returned no original CPR exhibit or attributable employment-hours record; UK acoustics/public-health and Flinders demography academics are namesakes and rejected. Avoid further generic thesis/CPR retries absent a new original document. Own linked MUPISBNpage404; own biography still establishes2013 publication.",
+    "Targeted second pass: own biography and historical secondary interests transcription refine director-course lead to reported AICD2016–17fee/membership, kept as excluded training without dates. Primary Monthly contributor page establishes additional writing activity; secondary register reports payment and coauthored-book royalties donated to schools. Original45Pdeclaration restricted/ordinary403; no original receipt or contract claimed. Publication/disclosure/course-year labels not employment boundaries; payroll, hours and third tutoring institution still unknown. British directors/acupuncture tutors excluded as namesakes."
   ]
 }
