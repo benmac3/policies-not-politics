@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/00AOU",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-04",
+  "last_reviewed": "2026-10-05",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -289,14 +289,14 @@
       "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
-      "category": "governance",
+      "category": "unknown",
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
       "source_ids": [
         "src-8"
       ],
-      "evidence_note": "Primary biography records this activity; pay and hours unstated. Open end does not establish continuing service.",
+      "evidence_note": "Primary biography records this activity; pay and hours unstated. Open end does not establish continuing service. Governance activity retained; unsupported governance enum corrected to approved unknown because remuneration/employment character is unverified. Exclusion retained.",
       "counting_note": "Excluded organisational or governance activity; no public/private years."
     },
     {
@@ -308,14 +308,14 @@
       "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
-      "category": "governance",
+      "category": "unknown",
       "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
       "source_ids": [
         "src-8"
       ],
-      "evidence_note": "Primary biography records this activity; pay and hours unstated. Open end does not establish continuing service.",
+      "evidence_note": "Primary biography records this activity; pay and hours unstated. Open end does not establish continuing service. Governance activity retained; unsupported governance enum corrected to approved unknown because remuneration/employment character is unverified. Exclusion retained.",
       "counting_note": "Excluded organisational or governance activity; no public/private years."
     },
     {
@@ -336,6 +336,25 @@
       ],
       "evidence_note": "Primary biography records this activity; pay and hours unstated. Open end does not establish continuing service.",
       "counting_note": "Excluded organisational or governance activity; no public/private years."
+    },
+    {
+      "spell_id": "00AOU-17",
+      "employer": "Adelaide University Union",
+      "role": "Board member",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "union",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-15"
+      ],
+      "evidence_note": "April1990On Dit contemporaneously identifies Wong as a board member and reproduces her jointly signed letter about7Marchstaff meeting. An observation during1990, not evidence of appointment/cessation. Later biographies suggestJuly1988election but original election/term record not located; no start assigned. Distinct from National Union of Students executive and paid industrial-officer work; remuneration unknown.",
+      "counting_note": "Student union governance separately excluded; no full-time employment inferred."
     }
   ],
   "sources": [
@@ -365,8 +384,8 @@
       "title": "Penny Wong honorary degree citation",
       "source_type": "official_biography",
       "locator": "public indexed citation, education and industrial officer paragraph",
-      "note": "Indexed primary text explicitly says part-time union work while studying and graduation in 1993. Direct PDF now redirects to staff services; no full PDF retrieved.",
-      "retrieved": "2026-10-01",
+      "note": "Indexed primary text explicitly says part-time union work while studying and graduation in 1993. Direct PDF now redirects to staff services; no full PDF retrieved. Fuller indexed citation reconfirmed: returnedAdelaide1996, solicitor for three years then unionlegalofficer; no exact payroll/working-hours statement.",
+      "retrieved": "2026-10-05",
       "source_id": "src-3"
     },
     {
@@ -478,6 +497,16 @@
       "retrieved": "2026-10-04",
       "locator": "Penny Wong speaker biography, line49",
       "note": "Names pre-parliament National Union of Students executive activity. Dates and remuneration unstated; 2001 Senate-entry shorthand does not replace frozen 2002 service start."
+    },
+    {
+      "source_id": "src-15",
+      "url": "https://digital.library.adelaide.edu.au/dspace/bitstream/2440/127715/1/OnDit1990_V58N6_Apr.pdf",
+      "publisher": "On Dit / University of Adelaide digital library",
+      "title": "On Dit, volume58 number6, April1990: Testing time for Union Board",
+      "retrieved": "2026-10-05",
+      "source_type": "other",
+      "locator": "Public indexed article and letter signed by eight board members including Penny Wong; paragraph about7March1990staff meeting",
+      "note": "Contemporaneous student publication names Penny Wong among Adelaide University Union board members. Indexed text retrieved; migrated bitstream reader has no text and ordinary old URL returns404. No election, term boundaries, remuneration or employment hours established."
     }
   ],
   "research_notes": [
@@ -490,6 +519,7 @@
     "Follow-up2026-10-02: predecessor employer now named Federated Furnishing Trade Society of Australasia from2023biography review; ANU archive history supports1993amalgamation context. Retain1990–1994aggregate and unknown status because student part-time component does not establish entire interval. No individual transfer date invented.",
     "Exact-name furnishing-union, legal-practice and first-job searches checked.2025Senate statement establishes membership only. Professional and speaker biographies repeat known sequence without contracts/hours. Remaining targeted leads: South Australian branch personnel records, historical Duncan and Hannon staff records,1994–1995gap and alleged1995–1996union advisory overlap. Archive description is public; underlying records require an access agreement and were not accessed. Private full-time totals remain unknown.",
     "Follow-up 2026-10-04: University of Adelaide's indexed citation explicitly places the move to Sydney and NSW government senior policy-adviser work in 1995; a contemporaneous November 1995 community newsletter independently names Wong as Minister Yeadon's senior adviser during the forest-policy dispute. Targeted official, university and exact-name searches found only secondary claims of a simultaneous CFMEU adviser role, with no separate payroll, contract, hours or boundaries. No duplicate union spell added. Government-office role remains political staff and excluded; private headline remains uncalculable.",
-    "Follow-up2026-10-04: Direct APH biography now retrieved, adding six previously omitted party/community governance intervals plus the later state-conference interval; Hawke Centre primary biography confirms National Union of Students executive activity, with dates and remuneration unknown. No new private legal hours, firm payroll or 1994–1995 job boundary established. Exact-name full-time, firm, gap and student-governance searches across both engines otherwise repeat biographies; court appearances do not establish continuous full-time work. Retain original employment evidence and unknown totals. Student union activity separately excluded, rather than inferred paid employment."
+    "Follow-up2026-10-04: Direct APH biography now retrieved, adding six previously omitted party/community governance intervals plus the later state-conference interval; Hawke Centre primary biography confirms National Union of Students executive activity, with dates and remuneration unknown. No new private legal hours, firm payroll or 1994–1995 job boundary established. Exact-name full-time, firm, gap and student-governance searches across both engines otherwise repeat biographies; court appearances do not establish continuous full-time work. Retain original employment evidence and unknown totals. Student union activity separately excluded, rather than inferred paid employment.",
+    "Follow-up2026-10-05: contemporaneousApril1990On Dit adds Adelaide University Union board service, separate from NUS executive and paid furnishing-union employment; dates/pay/hours unknown. July1988election lead remains secondary until original record located. Exact-name firm/hours/court searches and currentDBHprimary history repeat known practice without payroll boundaries; do not infer FT from counsel appearances. University indexed citation reconfirms1996return/three-year solicitor sequence. CCH-republished third-party chronology differs1999/2000transition; provenance not verified, original official years retained. Corrected existing unsupported governance enum to approved unknown for two committee activities, preserving descriptions/exclusion. Next seek historicalfirm/personnel records and union1994–95gap; totals remain unknown."
   ]
 }
