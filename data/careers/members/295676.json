@@ -6,7 +6,7 @@
   "snapshot_party": "Independent",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/295676",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-04",
+  "last_reviewed": "2026-10-05",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -345,7 +345,7 @@
       "role": "Founder and CEO",
       "start_date": "2014-01",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "month",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "nonprofit",
@@ -638,6 +638,25 @@
       ],
       "evidence_note": "AALA’s original 9 March 2022 speaker profile identifies Le as founder of her company DMP and describes video/storytelling services to established brands. This is evidence of commercial activity beyond passive ownership. The official interests and ABR indexed leads name Dawn Media Productions Pty Ltd, but linkage to the trading activity, contractual employer, pay, hours and precise start/end remain unresolved. DMP is recorded separately from the nonprofit DAWN network; neither the network’s January 2014 founding nor the frozen 2014–2022 unidentified business-owner interval is assigned wholesale to DMP.",
       "counting_note": "Potential overlap with the broader business-owner spell; no separately additive duration or full-time assumption. Ownership, advertised company services and company status do not establish a personal full-time interval."
+    },
+    {
+      "spell_id": "295676-sweh",
+      "employer": "South West Entrepreneurial Hub (SWEH)",
+      "role": "Founder of small-business community network",
+      "start_date": "2019",
+      "end_date": null,
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "nonprofit",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-sweh-primary-oct5"
+      ],
+      "evidence_note": "Original organisation biography identifies Le as founder in2019. Current page explicitly describes nonprofit purpose and volunteer support; individual pay/hours, exact founding day, endpoint, legal form/control history and relationship to DAWN/DMP unresolved. General volunteer model does not establish her personal volunteer appointment or paid status.",
+      "counting_note": "Community/network founding distinguished from commercial DMP services; no extra paid or full-time interval inferred."
     }
   ],
   "sources": [
@@ -880,6 +899,16 @@
       "retrieved": "2026-10-04",
       "locator": "Indexed Cabramatta by-election statement; Dai Le paragraph",
       "note": "Indexed original parliamentary statement names ABC Radio National social and history unit. Reader returned only Loading Hansard shell, so this is indexed text, not a fully rendered transcript. Political praise is not payroll evidence."
+    },
+    {
+      "source_id": "src-sweh-primary-oct5",
+      "url": "https://sweh.yohi.app/about-us/",
+      "publisher": "South West Entrepreneurial Hub",
+      "title": "About Us",
+      "source_type": "employer",
+      "retrieved": "2026-10-05",
+      "locator": "Opening paragraphs lines57–64",
+      "note": "Organisation names Dai Le as founder in2019 and describes itself as nonprofit powered by volunteers. No individual employment/pay/hours or legal/control history; current nonprofit wording not proof of historical corporate form."
     }
   ],
   "research_notes": [
@@ -893,7 +922,8 @@
     "Second follow-up2October2026 identifies omitted Beloka marketing role, resolves DAWN founding month and CRC appointment day/part-time status, and improves governance observations. All added activity remains uncounted; public/private totals remain unknown. CRC PDF reader failed internally but ordinary direct PDF download succeeded; table visually checked. Further leads: Beloka personnel/contract history, ABC hours and leave, unidentified2008–2014 work, DAWN legal entity and workload, and original STARTTS appointment. Do not substitute award dates, scheduled board expiry or annual-report observation dates for employment boundaries.",
     "Follow-up3October2026 resolves Multicultural NSW retirement5August2021 using visually checked original2021/22 report; adds previously omitted Global Sisters board and two ambassador affiliations. Beloka title searches yielded already-known award observations, not contract dates. STARTTS initial appointment remains unknown.2018/19 government dataset PDF returned404; later original report accessible. Public LinkedIn999 retained as source-access limitation; indexed board dates explicitly labelled. Next leads remain Beloka/ABC personnel records, STARTTS appointment, legal entity/workload of DAWN and unverified Global Sisters conditions.",
     "Fourth follow-up4October2026 finds contemporary ABC election-day reporting that identifies Le as an ABC journalist on18October2008 while she was the Cabramatta candidate. This establishes an ABC employment observation and campaign overlap on that date, but not exact cessation, hours, leave or campaign remuneration. Exact Beloka, STARTTS and DAWN Media Productions searches did not resolve their remaining term or workload gaps.",
-    "Follow-up2026-10-04: Original AALA March 2022 profile resolves DMP commercial video/storytelling activity; recorded distinct from DAWN nonprofit and broader unidentified ownership interval. Indexed NSW Hansard resolves Radio National unit; indexed public professional profile gives ECC NSW deputy-chair August 2011–August 2013, with 999 access limitation explicit. Original parliamentary 18 July 2024 alteration index lists deletion of company interests; reader restricted URL, and deletion is not an employment end. No exact company employment dates/hours, ABC hours/leave, Beloka terms or cancer-related breaks established."
+    "Follow-up2026-10-04: Original AALA March 2022 profile resolves DMP commercial video/storytelling activity; recorded distinct from DAWN nonprofit and broader unidentified ownership interval. Indexed NSW Hansard resolves Radio National unit; indexed public professional profile gives ECC NSW deputy-chair August 2011–August 2013, with 999 access limitation explicit. Original parliamentary 18 July 2024 alteration index lists deletion of company interests; reader restricted URL, and deletion is not an employment end. No exact company employment dates/hours, ABC hours/leave, Beloka terms or cancer-related breaks established.",
+    "Follow-up2026-10-05: New original SWEH organisation page establishes omitted small-business community-network founding in2019 and describes nonprofit volunteer model. Separate excluded spell added with individual pay/hours unknown; no DAWN/DMP chronology copied. Beloka title and ABC full-time searches returned already held award and first-cadetship evidence, not subsequent ABC hours. Commercial DMP site inaccessible; public profile999 and own Facebook post online-fetch throttled were individual source errors, not run-wide limits. Alternative original SWEH page accessible. Future priorities: ABC/Beloka contracts or work-pattern evidence, cancer-related actual work breaks, DMP legal-employer linkage and SWEH personal terms."
   ],
   "open_questions": [
     "What were the exact start/end dates, hours, leave and employment terms at the Liverpool City Champion, Fairfield City Champion and ABC, and how should the 1990 versus 1991 start discrepancy be resolved?",
@@ -907,6 +937,7 @@
     "Can original interest/company records distinguish Dawn Foundation, the DAWN network and Dawn Media Productions employment and ownership intervals?",
     "When did the Beloka Water CMO role begin/end, was it employment or consultancy, with what hours and breaks, and did it overlap the2014–2022 business-owner activity?",
     "What appointment instruments, remuneration and workload apply to Global Sisters March–November2015 board service, and what are the dates/pay basis and relationship of the two Cancer Council/Relay for Life ambassador roles?",
-    "When were DMP commercial services personally performed, for which legal entity and with what pay/hours; how do those intervals overlap the unidentified business-owner spell and nonprofit DAWN?"
+    "When were DMP commercial services personally performed, for which legal entity and with what pay/hours; how do those intervals overlap the unidentified business-owner spell and nonprofit DAWN?",
+    "What exact terms, personal pay/hours, legal form/control and relationship to DAWN/DMP apply to SWEH founding from2019? Current volunteer nonprofit model is not a personal appointment contract."
   ]
 }
