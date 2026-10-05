@@ -6,7 +6,7 @@
   "snapshot_party": "Liberal Party of Australia",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/256063",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-04",
+  "last_reviewed": "2026-10-05",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -62,7 +62,7 @@
     },
     {
       "spell_id": "256063-fsc-manager",
-      "employer": "Financial Services Council Ltd (previous organisation name requires period-specific verification)",
+      "employer": "Investment and Financial Services Association Limited / Financial Services Council Ltd (ABN82 080744163)",
       "role": "Policy Manager / Senior Policy Manager, Investment and Superannuation",
       "start_date": "2009",
       "end_date": "2014",
@@ -79,14 +79,15 @@
         "src-secondary",
         "src-fsc-departure",
         "src-fssuper2012",
-        "src-fsc-asx2013"
+        "src-fsc-asx2013",
+        "src-fsc-abr-history"
       ],
-      "evidence_note": "Official frozen biography supplies title and year endpoints. FSC describes itself as a peak body for financial-services member companies. Exact dates, title transitions, hours and leave are unresolved. Own2012 author biography identifies specific senior portfolio;26November2013 employer signature confirms Senior Policy Manager and legal entity. This does not date promotion within2009–2014 or prove hours. Organisation predecessor IFSA name requires historical transition confirmation.",
+      "evidence_note": "Official frozen biography supplies title and year endpoints. FSC describes itself as a peak body for financial-services member companies. Exact dates, title transitions, hours and leave are unresolved. Own2012 author biography identifies specific senior portfolio;26November2013 employer signature confirms Senior Policy Manager and legal entity. This does not date promotion within2009–2014 or prove hours. Organisation predecessor IFSA name requires historical transition confirmation. Follow-up5October2026: ABR legal entity-name history resolves predecessor as Investment and Financial Services Association Limited until10September2010, thereafter Financial Services Council Ltd, sameABN. Trading/brand announcements inJuly2010 are distinct from legal entity-name effective date; no new personal employment transition inferred.",
       "counting_note": "Employer-association work is excluded under the codebook."
     },
     {
       "spell_id": "256063-fsc-director",
-      "employer": "Financial Services Council",
+      "employer": "Financial Services Council Ltd (ABN82 080744163)",
       "role": "Director of Policy (also reported as Policy and Global Markets)",
       "start_date": "2014",
       "end_date": "2016-11",
@@ -101,7 +102,8 @@
         "src-snapshot",
         "src-fsc",
         "src-secondary",
-        "src-fsc-departure"
+        "src-fsc-departure",
+        "src-fsc-abr-history"
       ],
       "evidence_note": "Frozen official biography gave2014–2017. Employer announcement30September2016 says he resigned and would leave at end of November, corroborated by subsequent Menzies commencement. Endpoint revised to announced2016-11, retaining conflict explicitly; actual last paid day, leave and any continuing relationship into2017 remain unverified. Announcement confirms director appointment2014.",
       "counting_note": "Employer-association work is excluded under the codebook."
@@ -468,6 +470,26 @@
       ],
       "evidence_note": "Author biography explicitly places working-group engagement during2011; Treasury roster confirms FSC affiliation. Year identifies participation, not continuous year-long term. Representative duties may fall within FSC employment; no separate payroll inferred.",
       "counting_note": "Representative employer-association duties excluded and not added to FSC duration."
+    },
+    {
+      "spell_id": "256063-authorship-unallocated",
+      "employer": "Not established; Connor Court Publishing is a publisher, not proven employer; newspaper commissioning entities unresolved",
+      "role": "Author of Fit for Service, Bad Egg, Buraadja, Scrap Iron for Japan essay and newspaper contributions",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "unknown",
+      "government_control_at_time": "unknown",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-connor-author",
+        "src-party"
+      ],
+      "evidence_note": "Primary publisher identifies2017book,2018essay and regular AFR/Daily Telegraph/The Australian contributions. Party biography dates Bad Egg launchJune2020 and Buraadja launchMay2021. Output/launch dates are not employment endpoints. Authorship may overlap Menzies/BCA/Bragg PPC and Senate roles; no evidence allocates it to a separate paid employer, advance, royalty contract, hours or leave.",
+      "counting_note": "Remuneration and employment relationship remain unknown. Do not assume private full-time work, multiply publication projects into durations or treat political book content as party payroll."
     }
   ],
   "sources": [
@@ -506,7 +528,7 @@
       "url": "https://www.liberal.org.au/team/andrew-bragg",
       "publisher": "Liberal Party of Australia",
       "title": "Andrew Bragg",
-      "retrieved": "2026-09-18",
+      "retrieved": "2026-10-05",
       "source_type": "official_biography",
       "locator": "About Andrew",
       "note": "Corroborates career and 2017 Liberals & Nationals for Yes campaign leadership."
@@ -640,6 +662,26 @@
       "source_type": "employer",
       "locator": "PDFp1 signature block and organisation legal name",
       "note": "Original employer submission signed Senior Policy Manager; identifies Financial Services Council Ltd,ABN82080744163. This is a role observation, not appointment date."
+    },
+    {
+      "source_id": "src-fsc-abr-history",
+      "url": "https://abr.business.gov.au/AbnHistory/View?id=82080744163",
+      "publisher": "Australian Business Register",
+      "title": "Historical details ABN82 080744163",
+      "retrieved": "2026-10-05",
+      "source_type": "government_record",
+      "locator": "Entity-name history and entity type",
+      "note": "Investment and Financial Services Association Limited until10September2010, then Financial Services Council Ltd, sameABN/ACN. Australian public company is a corporate form, not government control."
+    },
+    {
+      "source_id": "src-connor-author",
+      "url": "https://www.connorcourtpublishing.com.au/Andrew-Bragg_bymfg_89-0-1.html",
+      "publisher": "Connor Court Publishing",
+      "title": "Andrew Bragg — author catalogue",
+      "retrieved": "2026-10-05",
+      "source_type": "other",
+      "locator": "Author biography and product list",
+      "note": "Primary publisher attributes2017Fit for Service,2018Scrap Iron for Japan essay and regular newspaper contributions; lists Bad Egg and Buraadja. No pay or employment terms."
     }
   ],
   "open_questions": [
@@ -651,7 +693,8 @@
     "Which Commonwealth department or political office employed him in2008–09, and on what hours?",
     "Who employed him in early orchard, cannery and dairy work, and when?",
     "What were the Woolworths traineeship store, exact dates, substantive hours and leave, and do EY payroll records confirm the profile January2007 start beyond the frozen2008-only entry?",
-    "Is the reported Chris Pearce adviser role the same as the profile September2008–October2009 Commonwealth spell? Obtain dated appointment/payroll evidence before resolving or treating it as distinct."
+    "Is the reported Chris Pearce adviser role the same as the profile September2008–October2009 Commonwealth spell? Obtain dated appointment/payroll evidence before resolving or treating it as distinct.",
+    "Were book/essay/newspaper contributions commissioned or remunerated; what were contract periods, hours and overlaps with existing jobs?"
   ],
   "research_notes": [
     "Systematic nationwide follow-up2026-10-01. Required research_notes added; supported existing spells preserved. Material additions: previously omitted Commonwealth advisory work and three early work activities; governance observations, education correction and stronger FSC/Menzies endpoints. No substantive full-time evidence found; totals remain null, not zero.",
@@ -664,6 +707,7 @@
     "Commonwealth adviser queries corroborate existing September2008–October2009 generic government description but still do not identify appointing office/department. Nick Sherry query returned unrelated Ann Sherry material, not evidence of staff employment. Orchard/cannery/dairy employers remain unresolved. Next targeted lead: actual Commonwealth appointment or CV naming department; Woolworths training and EY payroll/leave evidence.",
     "Further2October pass: targeted Treasury/Sherry/Commonwealth appointment and financial-crisis-duty queries found public profile duty descriptions but no employing office or personal hours. Employer-paired profile still explicitly gives September2008–October2009; a detached2008–10 snippet is not adopted as an employment boundary. Current senator-office job advertisements and Argent Advisory/APM namesakes excluded. Next avenue is an original Commonwealth appointment/CV naming the office; repeated generic advisory biographies exhausted. Duty detail and consistency correction only, no material gap resolution counted.",
     "Follow-up 2026-10-04: exact duty, Policy Adviser, Commonwealth and Woolworths searches again returned the public professional profile, 2014 conference biography and retrospective campaign material already recorded. A 2016 report describes only generic Commonwealth Government policy-adviser work during the financial crisis. No appointing office, payroll entity, hours or leave emerged. Do not infer Treasury or a ministerial office from policy subject matter; defer until an original appointment or CV appears.",
-    "Follow-up2026-10-04: Original2012 FS Super own-article biography names Chris Pearce adviser work; retained undated political-staff account as possibly the same2008–09 spell. No Howard-government service date inferred from MP description. Treasury confirms FSC representation on SMSF working group;2011 engagement explicitly supplied by biography. Added representative spell, legal FSC name and specific senior portfolio; no extra full-time duration. ContactOut ASX month dates remain unadopted without independent source. Target dated Pearce appointment/CV to reconcile, not generic Treasury duty searches."
+    "Follow-up2026-10-04: Original2012 FS Super own-article biography names Chris Pearce adviser work; retained undated political-staff account as possibly the same2008–09 spell. No Howard-government service date inferred from MP description. Treasury confirms FSC representation on SMSF working group;2011 engagement explicitly supplied by biography. Added representative spell, legal FSC name and specific senior portfolio; no extra full-time duration. ContactOut ASX month dates remain unadopted without independent source. Target dated Pearce appointment/CV to reconcile, not generic Treasury duty searches.",
+    "Follow-up2026-10-05: ABR historical name table resolves IFSA/FSC same legal employer across2009–2010; distinguish Julybrand announcement from10September2010 legal name change. Connor Court primary catalogue adds omitted book/essay/newspaper authorship, with output/launch dates kept outside employment endpoints. No pay, hours or separate employer inferred. Exact Pearce/Commonwealth appointment queries did not connect the undated named-office account to profile month endpoints; Woolworths/EY and consulting hours remain unknown."
   ]
 }
