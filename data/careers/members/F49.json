@@ -6,14 +6,33 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/F49",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-04",
+  "last_reviewed": "2026-10-05",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
     "calculation_status": "not_calculable",
-    "note": "Public and private full-time totals remain unknown: the departmental role classification and hours are unresolved; known party, political staff and elected-office work is excluded. Missing evidence is not zero."
+    "note": "Earlier private furniture-store sales now established; public and private full-time totals remain unknown. Departmental1998–2002role classification/hours and retail dates/hours remain unresolved. Party, political staff and elected work excluded; missing evidence is not zero."
   },
   "career_spells": [
+    {
+      "spell_id": "F49-09",
+      "employer": "Peter Hubbard’s Furniture Cupboard, Hobart (legal entity unverified)",
+      "role": "Furniture and waterbed salesperson; first job",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "private_enterprise",
+      "headline_sector": "private",
+      "government_control_at_time": "private",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-8"
+      ],
+      "evidence_note": "2014ABCidentity-matched interview quotes Brown naming this furniture-store firstjob; reporter says very early1980sHobart. Broad phrase not converted into1980/1981appointment or entire1980–84tenure. Private commercial store context established, historical legal payroll entity/control instruments, pay/hours/leave and exactboundaries unverified.",
+      "counting_note": "Previously omitted private retail employment retained with unknown full-time status and dates; no private year total or zero inferred."
+    },
     {
       "employer": "Australian Labor Party, Tasmanian branch",
       "role": "Administrative officer",
@@ -163,7 +182,7 @@
       "role": "Senator for Tasmania",
       "start_date": "2005-08-25",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "day",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -249,6 +268,16 @@
       "note": "Names Bryan Green as Primary Industries,Water and Environment Minister. Establishes portfolio holder at this point, not Brown individual employment contract or entire tenure.",
       "retrieved": "2026-10-02",
       "source_id": "src-7"
+    },
+    {
+      "source_id": "src-8",
+      "url": "https://www.abc.net.au/news/2014-12-18/the-former-lives-of-australian-politicians/5973234",
+      "publisher": "ABC News / Louise Yaxley; Carol Brown quoted interview",
+      "title": "MPs former lives,18December2014, The waterbed salesperson",
+      "retrieved": "2026-10-05",
+      "source_type": "news",
+      "locator": "The waterbed salesperson,lines210–224",
+      "note": "Identity-matched Tasmanian senator calls Peter Hubbards Furniture Cupboard her first job. Reporter places fine-furniture and waterbed sales in Hobart in very early1980s. No exact start/end or full-time terms."
     }
   ],
   "research_notes": [
@@ -261,6 +290,7 @@
     "Follow-up2026-10-02: targeted portfolio-services, DPAC1998–2002, minister-office and pre-Senate searches returned repeat biographies and namesakes, no personal classification/hours evidence. Contemporary proclamation identifies Bryan Green holding primary-industries portfolio in February2003, but does not independently establish Brown’s contract. No material employment gap resolved; excluded from enrichment count.",
     "Historical DPAC2001–02report URL located in a published bibliography: https://www.dpac.tas.gov.au/documents/annualreport/2001-2002/annualreport01-02.pdf ; web reader returned URL is not accessible via this tool. State Service Commissioner2001–02report gives agency aggregates, not Brown-specific terms. Next seek an accessible archived departmental staff/position record or2002ministerial staff schedule; preserve unknown status and2000party overlap.",
     "Follow-up2026-10-04: exact-name searches across government, parliamentary and university-indexed sources repeated the official chronology but supplied no person-specific DPAC classification, appointment instrument, hours or leave. The previously identified2001–02DPAC report URL returned HTTP404 on direct retrieval; no archived copy or ministerial-staff schedule was exposed. Searches for the2000acting party-secretary overlap and the2002–04office likewise produced no contract or boundary evidence. No dates, category or full-time status changed; advance while retaining these gaps.",
-    "Follow-up2026-10-04: New archival avenues checked: current DPAC annual-report navigation exposes only2020–21onwards, not the1998–2002departmental report required. The Commissioner for Public Employment1999–2000report is indexed at https://www.dpac.tas.gov.au/divisions/documents/psmo/documents/annual_reports/CPE_Annual_Report_9900.pdf but reports agency aggregates, not Brown individual classification/hours. A2019Service Tasmania style guide and2023gazette Portfolio Services Manager entries concern other/unnamed incumbents and cannot resolve her historical post. Exact-title searches otherwise repeat biographies and foreign namesakes; none promoted. Need historic DPAC staffing/appointment schedule, or public personal employment statement, before resolving category, hours and2000party-duty leave. No material fact changed."
+    "Follow-up2026-10-04: New archival avenues checked: current DPAC annual-report navigation exposes only2020–21onwards, not the1998–2002departmental report required. The Commissioner for Public Employment1999–2000report is indexed at https://www.dpac.tas.gov.au/divisions/documents/psmo/documents/annual_reports/CPE_Annual_Report_9900.pdf but reports agency aggregates, not Brown individual classification/hours. A2019Service Tasmania style guide and2023gazette Portfolio Services Manager entries concern other/unnamed incumbents and cannot resolve her historical post. Exact-title searches otherwise repeat biographies and foreign namesakes; none promoted. Need historic DPAC staffing/appointment schedule, or public personal employment statement, before resolving category, hours and2000party-duty leave. No material fact changed.",
+    "Follow-up2026-10-05: first-personABC2014interview names firstjob atPeterHubbardsFurnitureCupboard inHobart, selling furniture/waterbeds in veryearly1980s. Added omitted private retail episode with nullboundaries/unknownhours; no age or broadphrase converted to calendar endpoints. Exact-name store/ownership searches did not locate historical legal entity. DPACtitle/boundary searches repeat official1998–2002chronology without individual employmentclassification/hours/2000party-duty leave; original report/appointment gap remains. Next seek retailer personnel/legalname and historicDPACstaff schedule; no numerical total."
   ]
 }
