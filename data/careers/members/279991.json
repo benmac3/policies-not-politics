@@ -6,7 +6,7 @@
   "snapshot_party": "The Nationals",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/279991",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-05",
+  "last_reviewed": "2026-10-06",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -17,9 +17,9 @@
     {
       "employer": "Kempsey swimming pool (operating/payroll employer unresolved)",
       "role": "Grounds and facilities cleaner",
-      "start_date": null,
+      "start_date": "1995-03",
       "end_date": null,
-      "date_precision": "unknown",
+      "date_precision": "month",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "unknown",
@@ -224,10 +224,11 @@
       "source_ids": [
         "src-bona-clip",
         "src-bona-caption",
-        "src-first-speech"
+        "src-first-speech",
+        "src-linkedin-mp-oct6"
       ],
-      "evidence_note": "Public interview transcript explicitly says full time; publisher caption and first speech describe two years. Exact assignment boundaries and leave unverified. Nested within detective employment, not an additional independent job. Other police roles retain unknown hours.",
-      "counting_note": "Explicit full-time evidence exists for this subspell, but calendar dates/leave are unresolved. Do not convert rounded two-year narrative to precise headline years or double-count the parent detective spell.",
+      "evidence_note": "Public interview transcript explicitly says full time; publisher caption and first speech describe two years. A separately indexed LinkedIn profile titled for Pat Conaghan MP dates the start to March 1995, but its public snippet clips the endpoint after the word February. Direct access returned status999, so no endpoint year is inferred. Nested within detective employment, not an additional independent job. Other police roles retain unknown hours.",
+      "counting_note": "Explicit full-time evidence and a month-level start exist for this subspell, but the endpoint and leave are unresolved. Do not back-calculate an endpoint from the rounded two-year narrative or double-count the parent detective spell.",
       "spell_id": "279991-undercover-subspell"
     },
     {
@@ -397,6 +398,16 @@
       "source_type": "professional_profile",
       "locator": "Public search result title and employer summary",
       "note": "Publicly indexed profile corroborating criminal-defence work at Conaghan Lawyers; no authenticated access or scraping used."
+    },
+    {
+      "source_id": "src-linkedin-mp-oct6",
+      "url": "https://au.linkedin.com/in/pat-conaghan-mp",
+      "publisher": "LinkedIn",
+      "title": "Pat Conaghan — Federal Member for Cowper",
+      "retrieved": "2026-10-06",
+      "source_type": "professional_profile",
+      "locator": "Public search-index experience snippet: Undercover Operative; Date: March 1995 – February [endpoint clipped]",
+      "note": "Exact-name and MP-title profile supplies a March1995 start. Search output truncates the endpoint after February and direct open returned status999, so no end year is adopted and no access control was bypassed."
     },
     {
       "source_id": "src-preselection",
@@ -595,7 +606,8 @@
     "Fourth follow-up 2026-10-04: exact-name searches for Conaghan Legal, Conaghan Hunter and Patrick John Conaghan again failed to produce a historical firm biography or directory explicitly pairing the member with the sole-trader ABN. ABR search output adds current NSW 2444 location, but matching name and locality still do not prove identity, operational work or personal hours. The 2018 Doyle’s listing only confirms the already recorded Conaghan Lawyers practice. No material enrichment counted; advance pending an identity-linked professional directory, admission/practice record or contract.",
     "Follow-up2026-10-04: Newly indexed personal narrative explicitly identifies Conaghan Legal,Manly,Sole Practitioner,General Legal Practice, resolving the previously missing practice-name identity bridge. Original full layout remains unavailable999; adjacent July2003–August2005 snippet is not confidently mapped to that heading and therefore is not adopted as its dates. ABN80527846642 remains a separate unconfirmed legal-entity match. Added undated component within overall legal work, not additional summed time. Next historical firm/admission directory or full legitimately public profile layout for dates; hours and police boundaries unchanged.",
     "2026-10-05 follow-up: NSW Nationals biography explicitly supports omitted pro-bono legal services to women’s shelters, youth groups and community legal centres; recorded undated unpaid component without assigning organisational employment. Fresh official parliamentary public index exposes council-term conflict2003–2007 versus secondary2004–2008; preserved existing endpoints with explicit competing evidence and new contemporary-council verification question. Targeted Manly practice/admission/undercover queries again exposed only the unmapped July2003–August2005 professional snippet, existing police sequence and unrelated Louisiana/New Jersey namesakes; no personal legal or police hours/endpoints adopted. Direct official page403 is a source access gap, not a job-wide failure. Advance pending identity-linked original professional layout and contemporary council records.",
-    "Second targeted pass2026-10-05: recovered original archived2008 Tunks councillor directory and2006/2007 council annual report, independently linking Conaghan to Conaghan Hunter work contact during council service. Report records25meetings attended and6granted meeting absences; these are not private-practice leave. June2008 listing contradicts claimed2007 council cessation; personal endpoints remain disputed. Primary2003/2004 report dates March2004 council election and2008 page schedules September2008 poll, neither individually proves his exact term. Added primary sources and explicit overlap/leave distinction; no full-time years inferred."
+    "Second targeted pass2026-10-05: recovered original archived2008 Tunks councillor directory and2006/2007 council annual report, independently linking Conaghan to Conaghan Hunter work contact during council service. Report records25meetings attended and6granted meeting absences; these are not private-practice leave. June2008 listing contradicts claimed2007 council cessation; personal endpoints remain disputed. Primary2003/2004 report dates March2004 council election and2008 page schedules September2008 poll, neither individually proves his exact term. Added primary sources and explicit overlap/leave distinction; no full-time years inferred.",
+    "Third targeted pass2026-10-06: a newly surfaced exact-name LinkedIn profile titled for the Cowper MP dates the undercover-operative start to March1995. Its public result clips the endpoint after February and direct access returned status999; repeated exact-phrase searches did not expose the year. Start is therefore month precision while end remains unknown. The separate first-person two-year account is not used to manufacture February1997. Undercover work remains nested in the1993–1997 detective interval and no headline duration is calculated."
   ],
   "open_questions": [
     "What were the exact NSW Police appointment, transfer, promotion and cessation dates, hours and leave?",
@@ -603,7 +615,7 @@
     "Did Conaghan work for another legal employer before or alongside Conaghan Lawyers, and what were the exact practice dates, ownership, hours and leave?",
     "What were the council remuneration and hours and the legal-practice overlap?",
     "What were the campaign's paid status, hours and exact leave/cessation arrangements with the law practice?",
-    "What were the exact full-time undercover assignment dates and leave, and how did it sit within the1993–1997 detective period?",
+    "What was the exact endpoint and leave for the full-time undercover assignment beginning March1995, and how did it sit within the1993–1997 detective period?",
     "Who employed him at Kempsey swimming pool, during which dates and hours?",
     "When did operational law work stop and passive company/director involvement begin, and did any legal work continue after election?",
     "What are the names and separate operational/ownership dates of all three practices, including any Conaghan Hunter connection, and how does the five-year Drug Enforcement account reconcile with frozen1993–1997?",
