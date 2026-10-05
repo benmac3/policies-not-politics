@@ -6,7 +6,7 @@
   "snapshot_party": "Liberal Party of Australia",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/240756",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-04",
+  "last_reviewed": "2026-10-05",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -70,9 +70,10 @@
         "src-1",
         "src-2",
         "src-5",
-        "src-9"
+        "src-9",
+        "src-10"
       ],
-      "evidence_note": "Official aggregate career interval. Early Adelaide employer and return date not identified. Includes the separately documented Pasin Lee partnership component below; these rows must not be summed as separate careers. First-person2020House speech identifies Adelaide commercial-law work before criminal-law practice in Mount Gambier; transition date and earlier firms remain unknown.",
+      "evidence_note": "Official aggregate career interval. Early Adelaide employer and return date not identified. Includes the separately documented Pasin Lee partnership component below; these rows must not be summed as separate careers. First-person2020House speech identifies Adelaide commercial-law work before criminal-law practice in Mount Gambier; transition date and earlier firms remain unknown.24November2021first-person account explicitly inserts employment with a local Mount Gambier practitioner before own-firm establishment; this intermediate component is separately documented below and not additive.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "240756-03"
     },
@@ -94,9 +95,10 @@
         "src-3",
         "src-4",
         "src-7",
-        "src-8"
+        "src-8",
+        "src-10"
       ],
-      "evidence_note": "Personal biography identifies partnership and ABC confirms own practice in 2013. Start unknown: ABN/trading name begins 1 October 2009 but is not proof of first working day or predecessor practice. End year from official cessation of legal occupation, not an assumed election-day endpoint. Component of aggregate 2000–2013 row; avoid double counting. Follow-up: public professional profile independently lists personal Pasin Lee Lawyers experience2009–2013, so start year now supported. This does not equate ABR1October2009 with first working day.",
+      "evidence_note": "Personal biography identifies partnership and ABC confirms own practice in 2013. Start unknown: ABN/trading name begins 1 October 2009 but is not proof of first working day or predecessor practice. End year from official cessation of legal occupation, not an assumed election-day endpoint. Component of aggregate 2000–2013 row; avoid double counting. Follow-up: public professional profile independently lists personal Pasin Lee Lawyers experience2009–2013, so start year now supported. This does not equate ABR1October2009 with first working day.2021speech describes criminal-law majority and personal-injury cases billed upon successful resolution; unpaid unsuccessful matters are not an overall unpaid practice or evidence of full-time hours. No separate litigation-funder business inferred.",
       "counting_note": "Private partnership and year-level interval established; substantive full-time hours, precise endpoints and leave unresolved. Self-employment alone does not establish full-time status.",
       "spell_id": "240756-04"
     },
@@ -126,7 +128,7 @@
       "role": "Branch president, committee member/coordinator, state and federal offices",
       "start_date": "2007",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "party_organisation",
@@ -145,7 +147,7 @@
       "role": "Rural and Regional Council member; chair",
       "start_date": "2007",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "party_organisation",
@@ -165,7 +167,7 @@
       "role": "Member for Barker",
       "start_date": "2013-09-07",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "day",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -179,6 +181,25 @@
       "evidence_note": "Frozen first federal service retained; parliamentary and shadow minister roles excluded from employment headlines.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "240756-08"
+    },
+    {
+      "spell_id": "240756-09",
+      "employer": "Local Mount Gambier legal practitioner — identity unresolved",
+      "role": "Legal practitioner before establishing own firm",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "unknown",
+      "government_control_at_time": "unknown",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-10"
+      ],
+      "evidence_note": "First-person24November2021House speech establishes intermediate local-practitioner employment after Adelaide firm and before own practice. Component of aggregate2000–2013career, not a second additive interval. Payroll entity,individual hours,transition dates and leave unresolved.",
+      "counting_note": "No duration calculable; component and aggregate must not be summed."
     }
   ],
   "sources": [
@@ -271,6 +292,16 @@
       "note": "First-person account of commercial law firm in Adelaide followed by criminal-law work in Mount Gambier. Does not name firm or date transition.",
       "retrieved": "2026-10-02",
       "source_id": "src-9"
+    },
+    {
+      "source_id": "src-10",
+      "url": "https://www.openaustralia.org.au/debate/?id=2021-11-24.26.1",
+      "publisher": "Commonwealth Parliament / OpenAustralia transcript",
+      "title": "Corporations Amendment bill — Tony Pasin",
+      "source_type": "government_record",
+      "locator": "24November2021,1:09pm,opening career and personal-injury practice paragraphs",
+      "retrieved": "2026-10-05",
+      "note": "First-person account identifies intermediate employment with a local practitioner after large Adelaide firm and before own practice; personal-injury fees contingent on successful resolution. No employer names,dates,hours or separate fund business inferred."
     }
   ],
   "research_notes": [
@@ -283,6 +314,7 @@
     "Follow-up2026-10-02: indexed public professional profile supplies2009–2013Pasin Lee personal employment interval, narrowing previously unknown partnership start. Direct999, no restricted profile access attempted. Earlier note of unknown partnership start is superseded at year precision only.",
     "First-person House account narrows professional sequence to Adelaide commercial law then Mount Gambier criminal law. Employer-specific/court/Law Society queries did not identify pre2009firms or establish full-time status/leave. FWA2011case and2010Gazette name practice only, not a new personal start date. Further work should seek historical firm personnel listings or employer biographies rather than repeat broad biography searches.",
     "Follow-up2026-10-03: exact-name searches across Adelaide and Mount Gambier law-firm, solicitor and historical-employer combinations returned current biographies, the already captured Pasin Lee profile and unrelated court/news references. No primary personnel listing identified the pre2009legal employer sequence or substantive hours. The broad search avenue is recorded as exhausted pending a specific historical directory or firm archive lead.",
-    "Follow-up2026-10-04: Targeted historical court/counsel variants A Pasin and pre2009Pasin Lee references rather than only broad biography searches. Results again supplied the already-known2011FWA practice observation and ABR events, with no earlier personnel listing or individual hours. Other Pasin ABNs,US lawyers,Thai lawyer and property-industry executive are not identified as this member and were excluded. Allegations in a local personal blog are not reliable payroll evidence. Pre2009Adelaide/MountGambier firms, substantive hours and campaign leave remain unresolved; future follow-up requires a concrete historical Law Society directory or firm archive lead."
+    "Follow-up2026-10-04: Targeted historical court/counsel variants A Pasin and pre2009Pasin Lee references rather than only broad biography searches. Results again supplied the already-known2011FWA practice observation and ABR events, with no earlier personnel listing or individual hours. Other Pasin ABNs,US lawyers,Thai lawyer and property-industry executive are not identified as this member and were excluded. Allegations in a local personal blog are not reliable payroll evidence. Pre2009Adelaide/MountGambier firms, substantive hours and campaign leave remain unresolved; future follow-up requires a concrete historical Law Society directory or firm archive lead.",
+    "New first-person2021Hansard explicitly identifies an intermediate local-practitioner job between Adelaide firm and own practice; recorded as undated component with aggregate overlap warning. Own-practice contingent fee evidence does not establish hours or separate litigation-funder employment. Historical2006/2008court, Law Society and named-firm searches returned existingpractice/othermembers/namesakes without payroll names. Pre2009employer identities,working fraction and campaign leave remain gaps."
   ]
 }
