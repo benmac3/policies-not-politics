@@ -6,7 +6,7 @@
   "snapshot_party": "The Nationals",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/248895",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-04",
+  "last_reviewed": "2026-10-05",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -161,7 +161,7 @@
       "role": "Senior policy adviser to the Northern Territory Opposition Leader",
       "start_date": null,
       "end_date": "2011-03",
-      "date_precision": "mixed",
+      "date_precision": "month",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "political_staff",
@@ -301,9 +301,10 @@
       "source_ids": [
         "src-snapshot",
         "src-first-speech",
-        "src-member"
+        "src-member",
+        "src-riverine2023-oct5"
       ],
-      "evidence_note": "The frozen record supplies the title and portfolio but no dates. The first speech and member biography confirm service for Hogan. Appointment, cessation, payroll, hours, leave and overlap with the 2022 Senate campaign remain unresolved.",
+      "evidence_note": "The frozen record supplies the title and portfolio but no dates. The first speech and member biography confirm service for Hogan. Appointment, cessation, payroll, hours, leave and overlap with the 2022 Senate campaign remain unresolved. The Riverine Plains2022–2023 report independently observes work for the federal Shadow Minister for Trade and Tourism; this is a tenure observation, not an appointment boundary.",
       "counting_note": "Political-staff employment is excluded under the codebook."
     },
     {
@@ -492,7 +493,7 @@
       "role": "Campaign director",
       "start_date": null,
       "end_date": "2010",
-      "date_precision": "unknown",
+      "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "party_organisation",
@@ -523,6 +524,25 @@
       ],
       "evidence_note": "The college’s Winter 2025 newsletter records repeated volunteering as a BAM mentor later in her career. Individual years, dates and workload are unstated; no paid employment inferred.",
       "counting_note": "Separately displayed excluded activity; not added to public/private full-time employment headlines."
+    },
+    {
+      "spell_id": "248895-riverine-board",
+      "employer": "Riverine Plains",
+      "role": "Volunteer independent director",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unpaid_work",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-riverine2023-oct5"
+      ],
+      "evidence_note": "Primary 2022–2023 report lists a voluntary board, describes about two years of Penfold service and an intention to step down at the October2023 AGM. Exact appointment and actual cessation are unconfirmed; not converted to a continuous2021–2023 interval. CEO describes freely contributed time.",
+      "counting_note": "Volunteer governance excluded; no paid employment or full-time duration inferred."
     }
   ],
   "sources": [
@@ -755,6 +775,16 @@
       "source_type": "other",
       "locator": "Printed page5 / PDF page5, Alison Penfold elected MP for Lyne electorate",
       "note": "Original college PDF directly read by search reader; shell retrieval403 recovered with available reader. Names repeated BAM volunteering. Describes Futureye as most-recent role without dates, which conflicts with biographies naming later political staff roles; not treated as continuous consultancy through2025."
+    },
+    {
+      "source_id": "src-riverine2023-oct5",
+      "url": "https://20998586.fs1.hubspotusercontent-na1.net/hubfs/20998586/2023%20Riverine%20Plains%20Annual%20Report.pdf",
+      "publisher": "Riverine Plains",
+      "title": "Annual Report 2022–2023",
+      "retrieved": "2026-10-05",
+      "source_type": "employer",
+      "locator": "Printed pages9/10/18; PDF indexes5/6/10; chair, CEO and independent-director biography",
+      "note": "Original text and board-page screenshot read. Names volunteer independent director, about two years of tenure, intended October2023 AGM departure, and concurrent shadow trade/tourism staff work. Intended departure is not verified cessation."
     }
   ],
   "research_notes": [
@@ -770,6 +800,7 @@
     "Second follow-up2October2026 supplies month-level Woolworths and NFF contract boundaries, ANU study years and a separately excluded volunteer mentoring role. Public profile places a personal Camino pilgrimage inAugust–September2016. First-person Aurora interview describes walking after leaving a job in2016 and again in2019; retain these breaks rather than assume continuous work across transitions. A Littleproud-office indexed fragment givesMarch–May2018 without a clearly associated title; do not apply it to the entire chief-of-staff tenure, which contemporary August2018 reporting also observes. Exact title progression, later consultancy boundaries, ordinary hours and leave remain unresolved. Burgmann alumni1990–1992 residence is not degree completion. Search snippets and broad career narratives are not evidence of continuous full-time work.",
     "Third follow-up3October2026: contemporaneous ABC reporting separates Penfold's Terry Mills service into senior policy adviser before March2011 and announced chief-of-staff succession in March2011. The transition is retained at month precision because the article does not state the actual commencement day. Earlier appointment, later cessation, payroll, hours and leave remain unresolved. A separate first-speech account identifies her as Natasha Griggs's campaign director over the nine-month2010 campaign; it is a party-campaign lead rather than proof of paid employment and was not converted into an employment interval.",
     "Fourth follow-up4October2026 repeated exact Futureye, Woolworths, NFF and parliamentary-office queries. Results reproduced the already recorded January2021 Futureye observation, December2016 NFF media contact, temporary custodial description and Woolworths government-relations title. No new appointment boundary, payroll entity, hours, leave or title transition emerged; contact-data aggregator dates were not independently adopted.",
-    "Follow-up2026-10-04: Resolved previously retained 2010 Griggs campaign-director lead using contemporaneous House Hansard primary indexing and directly accessible transcription; added separately excluded party-campaign activity without inventing pay or nine-month start boundary. Original Winter2025 Burgmann newsletter also adds repeated BAM volunteer mentoring. Its most-recent Futureye wording is undated and does not prove current or continuous work through2025. Futureye tenure/hours remain gaps. Original PDF403s were recovered through available reader/transcription, not bypassed."
+    "Follow-up2026-10-04: Resolved previously retained 2010 Griggs campaign-director lead using contemporaneous House Hansard primary indexing and directly accessible transcription; added separately excluded party-campaign activity without inventing pay or nine-month start boundary. Original Winter2025 Burgmann newsletter also adds repeated BAM volunteer mentoring. Its most-recent Futureye wording is undated and does not prove current or continuous work through2025. Futureye tenure/hours remain gaps. Original PDF403s were recovered through available reader/transcription, not bypassed.",
+    "Follow-up2026-10-05: Original Riverine Plains2022–2023 annual report adds previously omitted volunteer independent directorship and corroborates shadow trade/tourism staff work. Approximate two-year tenure and prospective October2023 resignation are not exact appointment/actual cessation. Futureye/Reith/Woolworths searches did not resolve private working arrangements; UK swimming/company-secretary and counsellor namesakes excluded, current staff job adverts do not establish her own historical hours. Seek subsequent AGM/report for actual board cessation and original employer contracts for private work."
   ]
 }
