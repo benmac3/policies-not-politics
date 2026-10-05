@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/23497",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-05",
+  "last_reviewed": "2026-10-06",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -54,6 +54,44 @@
       ],
       "evidence_note": "A Greens publication identifies Berry as national secretary in 2004. Appointment endpoints, pay and hours are not established. Party honour roll now provides October2003 start and November2005 end. Its legend expressly allows known or presumed end dates, so November2005 retains that qualification; no personal pay/hours evidence.",
       "counting_note": "Party-organisation activity is excluded under the codebook."
+    },
+    {
+      "spell_id": "23497-cunningham-campaign-2001",
+      "employer": "Australian Greens — Cunningham campaign",
+      "role": "Candidate for Cunningham",
+      "start_date": "2001",
+      "end_date": "2001",
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "party_organisation",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-aec-cunningham2001"
+      ],
+      "evidence_note": "Official AEC results identify Berry as the Greens candidate for Cunningham at the 10 November 2001 federal election. The year denotes candidacy, not a paid or full-time campaign interval; preselection date, remuneration, hours and concurrent work are unknown.",
+      "counting_note": "Party and campaign activity is excluded under the codebook."
+    },
+    {
+      "spell_id": "23497-senate-campaign-2004",
+      "employer": "Australian Greens — New South Wales Senate campaign",
+      "role": "Senate candidate",
+      "start_date": "2004",
+      "end_date": "2004",
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "party_organisation",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-aec-senate2004"
+      ],
+      "evidence_note": "Official AEC results identify Berry as an Australian Greens NSW Senate candidate at the 9 October 2004 federal election. The year denotes candidacy, not a paid or full-time campaign interval; preselection date, remuneration, hours and overlaps with party, political-staff and Family Planning work are unknown.",
+      "counting_note": "Party and campaign activity is excluded under the codebook."
     },
     {
       "spell_id": "23497-organ-adviser",
@@ -423,6 +461,26 @@
       "note": "Contemporaneous party evidence for national secretary and adviser-to-Michael-Organ roles; appointment periods and paid status unresolved. Rechecked public indexed text2October2026: adjacent full-time campaign statement concerns John, not Carol; cannot establish Berry hours."
     },
     {
+      "source_id": "src-aec-cunningham2001",
+      "url": "https://results.aec.gov.au/10822/Website/NSWCUNN.htm",
+      "publisher": "Australian Electoral Commission",
+      "title": "2001 federal election results — Cunningham, NSW",
+      "retrieved": "2026-10-06",
+      "source_type": "government_record",
+      "locator": "Candidate first-preference table: BERRY, Carol, GRN",
+      "note": "Primary election result confirms the 2001 Cunningham candidacy; it does not state campaign start, pay or hours."
+    },
+    {
+      "source_id": "src-aec-senate2004",
+      "url": "https://results.aec.gov.au/12246/results/SenateStateFirstPrefs-12246-NSW.htm",
+      "publisher": "Australian Electoral Commission",
+      "title": "2004 federal election — NSW Senate first preferences by candidate",
+      "retrieved": "2026-10-06",
+      "source_type": "government_record",
+      "locator": "Australian Greens group: BERRY, Carol",
+      "note": "Primary election result confirms the 2004 NSW Senate candidacy; it does not state campaign start, pay or hours."
+    },
+    {
       "source_id": "src-secondary",
       "url": "https://www.thesaturdaypaper.com.au/news/politics/2025/07/05/class-2025-part-ii",
       "publisher": "The Saturday Paper",
@@ -562,6 +620,7 @@
     "Follow-up 2026-10-04: targeted Family Planning, Michael Organ, NDIA and campaign-leave searches yielded the same secondary 2002 campaign-advice account and undated employer interview already recorded. The interview page still exposes no publication date, and the 2002 account does not distinguish campaign advice from paid parliamentary staff employment. No source supplied Berry-specific hours or leave dates. Do not promote campaign milestones into payroll boundaries; retain the existing gaps and advance.",
     "Follow-up2026-10-04: Retrieved UNSW2018 case-review guide p2 and parliamentary annexure index. Added precise public-service portfolio and employer representation as corroboration, conservatively nonmaterial for run counts. The primary guide does not establish personal hours or a new employment spell. Parliamentary original returned web Internal Error / ordinary HTTP403; preserve indexed limitation. Family Planning, Organ and NDIA queries yielded no new personal boundaries or hours. Next target: historical personnel records rather than repeating biographies.",
     "2026-10-05 targeted historical FamilyPlanning legal-name route found NSW ABR FPAHealth2001–2006 and modern Australia brand registration2025, plus a distinct cancelled national incorporated entity. Neither identity is linked to Berry payroll, so employer remains unresolved rather than guessed. Public-service person-specific hours queries again returned US namesakes/general staffing, excluded. Nonmaterial corroboration/identity caution; sourceURLs and locators saved. Correct prior next-cursor label:23497 is Carol Berry, not Alison; id/file unchanged.",
-    "Second targeted pass sought contemporary FamilyPlanning/FPAHealth campaign or staff evidence linking Berry to the historical legal employer. Searches found general FPAHealth industrial agreement EA04/206 (15June2004, employer FPAHealthLtd) and health-service references, but none names Berry; agreement full-time provisions are not personal hours evidence and the employer identity remains unallocated. US physician/nurse and research-author namesakes rejected. NSW2008surrogacy report again identifies CIDExecutiveOfficer, consistent with recorded employment, not a new boundary. No source resolved FamilyPlanning payroll, Ombudsman/NDIA hours or leave; advance pending an individually named historical staff/campaign record."
+    "Second targeted pass sought contemporary FamilyPlanning/FPAHealth campaign or staff evidence linking Berry to the historical legal employer. Searches found general FPAHealth industrial agreement EA04/206 (15June2004, employer FPAHealthLtd) and health-service references, but none names Berry; agreement full-time provisions are not personal hours evidence and the employer identity remains unallocated. US physician/nurse and research-author namesakes rejected. NSW2008surrogacy report again identifies CIDExecutiveOfficer, consistent with recorded employment, not a new boundary. No source resolved FamilyPlanning payroll, Ombudsman/NDIA hours or leave; advance pending an individually named historical staff/campaign record.",
+    "Third targeted pass added two omitted, primary-confirmed Australian Greens candidacies: Cunningham in2001 and the NSW Senate in2004. These are excluded party/campaign activity and do not establish paid work, hours or campaign start. The2004 candidacy overlaps the existing national-secretary, Organ-adviser and FamilyPlanning chronology but is not summed. A reported2003 NSW Legislative Council candidacy remains a secondary lead pending an accessible official candidate record; no additional spell inferred."
   ]
 }
