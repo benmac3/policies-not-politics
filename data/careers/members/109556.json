@@ -6,7 +6,7 @@
   "snapshot_party": "Liberal Party of Australia",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/109556",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-04",
+  "last_reviewed": "2026-10-05",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -257,7 +257,7 @@
       "role": "Board member/company director",
       "start_date": null,
       "end_date": "2016",
-      "date_precision": "unknown",
+      "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "nonprofit",
@@ -299,7 +299,7 @@
       "role": "Board member/company director",
       "start_date": null,
       "end_date": "2016",
-      "date_precision": "unknown",
+      "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "nonprofit",
@@ -485,9 +485,10 @@
       "counting_status": "excluded",
       "source_ids": [
         "src-ramsay-2018",
-        "src-ramsay2019-index-oct3"
+        "src-ramsay2019-index-oct3",
+        "src-ramsay2024-oct5"
       ],
-      "evidence_note": "2018 directors report establishes governance during reporting period; original appointment and cessation unknown. Later resignation appears in search leads but was not independently resolved. Public indexed2019 financial report gives non-executive director appointment March2017 and Audit, Finance and Risk Committee service November2017–July2019. The latter is a committee subterm, not board resignation. Original2019 PDF now404; month appointment remains explicitly indexed-primary evidence pending full-page corroboration. Earlier nominations-committee description retained as supported prior evidence, not presumed same committee.",
+      "evidence_note": "2018 directors report establishes governance during reporting period; original appointment and cessation unknown. Later resignation appears in search leads but was not independently resolved. Public indexed2019 financial report gives non-executive director appointment March2017 and Audit, Finance and Risk Committee service November2017–July2019. The latter is a committee subterm, not board resignation. Original2019 PDF now404; month appointment remains explicitly indexed-primary evidence pending full-page corroboration. Earlier nominations-committee description retained as supported prior evidence, not presumed same committee. Accessible original2024 financial report independently confirms March2017 appointment and4of6 board meetings attended during2024. No exact board cessation or individual remuneration supplied; aggregate key-management pay not assigned.",
       "counting_note": "Governance/community/nonprofit role excluded; paid status not presumed.",
       "spell_id": "109556-ramsay-board"
     },
@@ -495,7 +496,7 @@
       "employer": "National Library of Australia",
       "role": "Council member; parliamentary representative",
       "start_date": "2016-11",
-      "end_date": null,
+      "end_date": "2021-06",
       "date_precision": "month",
       "employment_status": "unknown",
       "fte_fraction": null,
@@ -505,9 +506,10 @@
       "counting_status": "excluded",
       "source_ids": [
         "src-consilium",
-        "src-nla-2017-lead"
+        "src-nla-2017-lead",
+        "src-ramsay2024-oct5"
       ],
-      "evidence_note": "Professional biography dates election to November 2016; indexed official report specifies 10 November, pending full-page verification. Subsequent terms and cessation unresolved; governance overlaps elected office.",
+      "evidence_note": "Professional biography dates election to November 2016; indexed official report specifies 10 November, pending full-page verification. Subsequent terms and cessation unresolved; governance overlaps elected office. Original Ramsay2024 directors biography explicitly supplies National Library Council service November2016–June2021, resolving previously unknown cessation month. Exact cessation day, fees and intervening reappointments remain unknown.",
       "counting_note": "Governance/community/nonprofit role excluded; paid status not presumed.",
       "spell_id": "109556-nla"
     },
@@ -536,7 +538,7 @@
       "role": "Conference convener",
       "start_date": "2009",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "nonprofit",
@@ -849,6 +851,16 @@
       "retrieved": "2026-10-04",
       "locator": "Leeser speech at 3:57 pm, Hornsby Hospital paragraph",
       "note": "First-person statement specifies community participation committee before federal election. It does not establish commencement, cessation, remuneration or hospital operational employment."
+    },
+    {
+      "source_id": "src-ramsay2024-oct5",
+      "url": "https://acncpubfilesprodstorage.blob.core.windows.net/public/7addae91-3aaf-e811-a95e-000d3ad24c60-178a8ce3-6a8d-4356-8ae7-0f4dba5b6873-Financial%20Report-e73de8dd-3652-f011-877b-6045bdc48fdc-2024_RCWC_Annual_Financial_Report_%28Signed%29.pdf",
+      "publisher": "The Ramsay Centre for Western Civilisation Limited / ACNC",
+      "title": "Annual financial report year ended31December2024, signed30April2025",
+      "source_type": "employer",
+      "retrieved": "2026-10-05",
+      "locator": "PDF page5/printed page5 Julian Leeser biography; PDF page6 board meeting table; PDF page20 remuneration note5",
+      "note": "Original report confirms March2017 Ramsay appointment and National Library Council November2016–June2021 service; observed board attendance4of6 in2024. Aggregate key-management remuneration not allocated personally."
     }
   ],
   "research_notes": [
@@ -862,7 +874,8 @@
     "Second follow-up2October2026: primary financial-report index resolves Teach For Australia term; BCA2002 original identifies Executive Adviser title at Mallesons; PIAC reports add governance and conference service. Full-time searches returned unrelated lawyers and roles, not personal evidence. Python requests import unavailable, replaced by standard-library download; Teach For Australia download403 not retried. Reader source gaps remain explicitly labelled. Further priorities: court/Mallesons hours and leave, board instruments and Harvard/Menzies overlap. No new countable full-time interval.",
     "Follow-up3October2026 closes Mercy Public Hospitals board term at May2016 from original report and refines Ramsay board start to March2017 using clearly labelled indexed original financial report. Direct Ramsay2019 original404; local extraction consequently had no file, not a permission or account limit. Harvard searches repeat2006–07 without work pattern; no leave or full-time interval established. Record2013 Citizens No Case Committee national convener and specific Hornsby Hospital Community Participation Committee as further leads from professional/council publications; original employment terms still absent. Prior Mercy Health and Mercy Public Hospitals entries remain distinct pending legal appointment mapping.",
     "Fourth follow-up4October2026 repeated exact High Court associate, Menzies, ACU and Ramsay searches. Results reproduced the already recorded ACU2012–mid-2016 observations, Menzies/Harvard chronology and later biographical summaries; no personnel instrument, actual cessation day, hours, leave or accessible original Ramsay2019 report emerged. No existing boundary or total was changed.",
-    "Follow-up2026-10-04: Previously recorded new leads pursued: original co-author-hosted professional biography confirms distinct 2013 Citizens’ No Case Committee national-convener role, now added; first-person March 2017 House speech resolves Hornsby Hospital committee capacity. Court/Mallesons individual hours/date searches produced no personal employment instrument. A third-party mirror of Political Exchange Council 2010–13 report gives a June–July 2010 study-tour lead; original not located, so no leave deduction or employment boundary added. Remaining High Court/Mallesons hours and leave, Harvard/Menzies overlap and Ramsay scoping contract unresolved."
+    "Follow-up2026-10-04: Previously recorded new leads pursued: original co-author-hosted professional biography confirms distinct 2013 Citizens’ No Case Committee national-convener role, now added; first-person March 2017 House speech resolves Hornsby Hospital committee capacity. Court/Mallesons individual hours/date searches produced no personal employment instrument. A third-party mirror of Political Exchange Council 2010–13 report gives a June–July 2010 study-tour lead; original not located, so no leave deduction or employment boundary added. Remaining High Court/Mallesons hours and leave, Harvard/Menzies overlap and Ramsay scoping contract unresolved.",
+    "Follow-up2026-10-05: Accessible original Ramsay2024 financial report confirms March2017 appointment and resolves National Library Council cessation to June2021. Aggregate key-management remuneration and annual meeting attendance are not personal pay or full-time hours. Later index reports Ramsay resignation after education-spokesman appointment but no original cessation instrument found; retain unknown board endpoint and pursue2025 original report. Public fee transcription is a further original-declaration lead. Generic Harvard/UNSW queries yielded no work-pattern or graduation dates; do not adopt aggregator January1 placeholders or spouse barrister income."
   ],
   "open_questions": [
     "What were the exact dates, hours, leave and employment status for the High Court associateship and Mallesons solicitor role?",
@@ -876,6 +889,7 @@
     "Can separate Mercy Health and Mercy Public Hospitals appointments, teaching and community-governance dates and remuneration be established?",
     "What were the precise Hornsby-Kuring-Gai Hospital and Chinese Australian Forum capacities/terms, and did the BCA contribution involve a formal Mallesons secondment?",
     "Can a currently accessible original Ramsay2019 financial report corroborate indexed March2017 appointment and November2017–July2019 committee subterm, and establish actual board cessation rather than committee departure?",
-    "What appointment dates and terms apply to Hornsby Hospital Community Participation Committee membership and the 2013 Citizens’ No campaign, and did either alter ACU working hours?"
+    "What appointment dates and terms apply to Hornsby Hospital Community Participation Committee membership and the 2013 Citizens’ No campaign, and did either alter ACU working hours?",
+    "What exact day in June2021 ended National Library Council service? Original Ramsay2024 report resolves month; later reported Ramsay board resignation requires an original instrument or first-person dated announcement, not register deletion date."
   ]
 }
