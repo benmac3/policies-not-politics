@@ -6,7 +6,7 @@
   "snapshot_party": "Independent",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/26417",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-05",
+  "last_reviewed": "2026-10-06",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -222,6 +222,48 @@
       ],
       "evidence_note": "Official frozen biography supplies employer, title and year endpoints. Exact dates, employment/consultancy arrangement, hours and leave are unresolved. October2022 newsletter announces securing this advisory role; commencement was by then, not necessarily that month.",
       "counting_note": "Nonprofit employment is excluded under the codebook."
+    },
+    {
+      "spell_id": "26417-bradfield-campaign-2022",
+      "employer": "Community independent campaign for Bradfield",
+      "role": "Candidate for Bradfield",
+      "start_date": "2022-01-30",
+      "end_date": "2022-05-21",
+      "date_precision": "day",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "party_organisation",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-campaign-launch-2022",
+        "src-aec-bradfield-2022"
+      ],
+      "evidence_note": "Boele's first-party campaign page dates the formal campaign launch to 30 January 2022; final AEC results identify her as the independent Bradfield candidate at the 21 May 2022 federal election. These are campaign boundaries, not evidence of remuneration, full-time hours or an employing entity.",
+      "counting_note": "Campaign activity is excluded under the codebook."
+    },
+    {
+      "spell_id": "26417-shadow-representative",
+      "employer": "Office of Nicolette Boele, Shadow Representative for Bradfield",
+      "role": "Shadow Representative for Bradfield",
+      "start_date": "2022-08",
+      "end_date": "2025-05-03",
+      "date_precision": "mixed",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "party_organisation",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-shadow-office-sept2022",
+        "src-shadow-office-oct2022",
+        "src-shadow-office-funding2023",
+        "src-snapshot"
+      ],
+      "evidence_note": "First-party newsletters say Boele outlined the Shadow Representative plan on 6 August 2022 and identify an operating Gordon office by 27 October 2022; the office's exact commencement date, her remuneration and hours are not stated. A 30 April 2023 fundraising account says office operations were funded until the 2025 election but does not establish personal salary. The end boundary is her transition to elected office on 3 May 2025, not a claim that every campaign or advisory activity continued without a break.",
+      "counting_note": "Unelected political and campaign activity is excluded under the codebook; office funding is not personal employment evidence."
     },
     {
       "spell_id": "26417-house",
@@ -1026,10 +1068,60 @@
       "retrieved": "2026-10-05",
       "locator": "Qualifications and occupation; public indexed biography",
       "note": "Lists BMgmt(Tourism), BMgmt(Leisure) at UTS and CertEnv&Sci at Oxford Brookes. Original open returned403Forbidden; indexed qualification text retained, no course dates or graduate-level status inferred."
+    },
+    {
+      "source_id": "src-campaign-launch-2022",
+      "url": "https://cs.nicoletteboele.com.au/campaign_launch",
+      "publisher": "Nicolette Boele campaign",
+      "title": "Campaign Launch",
+      "source_type": "primary_statement",
+      "retrieved": "2026-10-06",
+      "locator": "Event description and When field",
+      "note": "Dates the formal 2022 community-independent campaign launch to Sunday 30 January; does not state pay or work hours."
+    },
+    {
+      "source_id": "src-aec-bradfield-2022",
+      "url": "https://results.aec.gov.au/27966/Website/HouseDivisionPage-27966-108.htm",
+      "publisher": "Australian Electoral Commission",
+      "title": "Bradfield, NSW — 2022 federal election results",
+      "source_type": "government",
+      "retrieved": "2026-10-06",
+      "locator": "Final two-candidate-preferred and first-preference results",
+      "note": "Official final results identify Boele as the independent candidate; election date is 21 May 2022. Candidacy does not prove paid or full-time work."
+    },
+    {
+      "source_id": "src-shadow-office-sept2022",
+      "url": "https://www.nicoletteboele.com.au/newsletter_sept2022",
+      "publisher": "Nicolette Boele",
+      "title": "BOELE-tin September 2022",
+      "source_type": "primary_statement",
+      "retrieved": "2026-10-06",
+      "locator": "Shadow Representative paragraph",
+      "note": "Says she outlined the Shadow Representative plan on 6 August 2022; this is not an exact office-commencement or payroll date."
+    },
+    {
+      "source_id": "src-shadow-office-oct2022",
+      "url": "https://www.nicoletteboele.com.au/newsletter_oct2022",
+      "publisher": "Nicolette Boele",
+      "title": "BOELE-tin October 2022",
+      "source_type": "primary_statement",
+      "retrieved": "2026-10-06",
+      "locator": "Office of Nicolette Boele paragraph",
+      "note": "Identifies an operating Shadow Representative office in Gordon by 27 October 2022; no personal remuneration or hours supplied."
+    },
+    {
+      "source_id": "src-shadow-office-funding2023",
+      "url": "https://www.nicoletteboele.com.au/political_fundraising_1",
+      "publisher": "Nicolette Boele",
+      "title": "2023 Fundraising Story, Part 1",
+      "source_type": "primary_statement",
+      "retrieved": "2026-10-06",
+      "locator": "30 April 2023 office-funding paragraph",
+      "note": "States that shadow-office operations were financially secure until the 2025 election; operational funding is not evidence of Boele's salary, hours or continuous employment."
     }
   ],
   "open_questions": [
-    "What employment or study filled the 1999–2000, 2004–2006, 2008–2009 and post-2023 periods, if any?",
+    "What employment or study filled the 1999–2000, 2004–2006 and 2008–2009 periods, and was any paid work undertaken alongside the 2022–2025 political office and campaign activity?",
     "What are the exact dates, substantive hours and leave/breaks for each listed role?",
     "Were the CEFC and IGCC roles secondments or contracts overlapping Banarra, and which entity controlled and paid the work?",
     "Was the Good Car Company advisory-board role remunerated employment, unpaid governance or another arrangement?",
@@ -1051,6 +1143,7 @@
     "Follow-up 2026-10-04: targeted CEFC, SEDA and Good Car Company searches returned the same parliamentary biography and later event profiles already captured. The 2025 RIAA biography still conflicts with the frozen 2024 Good Car endpoint and supplies no appointment or resignation record; CEFC results do not identify secondment/payroll or hours. No new fact promoted. Defer further generic searches until an original board filing, founding-team record or personnel document appears.",
     "Follow-up2026-10-04: Public profile index supplies nine omitted dated volunteer roles; original RIAA2018 and2020 biographies corroborate three and add PRI reference-group participation. Added separate excluded spells without assuming paid employment or government payroll. Intern-host assignments clarified, hours/payment unresolved. AICD ordinary membership and1999 leadership program are not employment evidence. No CEFC secondment or Good Car original filing found. Target original organisation rosters and historical trainee records; do not repeat generic biographies.",
     "2026-10-05 own updated biography newly records establishing an unnamed management consultancy; recorded as unallocated component because possible Banarra identity/ownership relation is unproven. Accessible17February2022interview supports RIAA departure/break without exact payroll date. Historical1998government-report acknowledgement supplies name/referee context only; not new employment or hours. SEDA/CEFC specific searches still no individual hours, leave or secondment. Full-bio old URL404; current own page recovered.",
-    "Second targeted pass adds three omitted tertiary qualification/study entries from primary parliamentary index and an unallocated hotel-management trainee component from own indexed1990award account. No course or employment endpoints inferred from award/scholarship years; training employer/pay/hours remain unknown. Direct parliamentary403 and LinkedIn999 limitations recorded. Banarra-founder and CEFC-secondment checks supplied no new contracting boundary; current MP staff job ads refer to staff, not Boele hours. Good Car board-versus-director conflict retained. Next target original hotel trainee award/employer or dated qualification records."
+    "Second targeted pass adds three omitted tertiary qualification/study entries from primary parliamentary index and an unallocated hotel-management trainee component from own indexed1990award account. No course or employment endpoints inferred from award/scholarship years; training employer/pay/hours remain unknown. Direct parliamentary403 and LinkedIn999 limitations recorded. Banarra-founder and CEFC-secondment checks supplied no new contracting boundary; current MP staff job ads refer to staff, not Boele hours. Good Car board-versus-director conflict retained. Next target original hotel trainee award/employer or dated qualification records.",
+    "Third targeted pass2026-10-06 adds the omitted 30January–21May2022 Bradfield candidacy and the subsequently documented Shadow Representative office through entry to Parliament. These close the activity chronology after RIAA without classifying campaign or shadow-office work as paid employment. First-party fundraising evidence concerns office operations, not personal remuneration or hours; 2025 campaigning is nested in the broader office activity rather than double-counted. Paid work alongside this political activity remains unresolved."
   ]
 }
