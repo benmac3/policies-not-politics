@@ -6,7 +6,7 @@
   "snapshot_party": "Liberal Party of Australia",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/11788",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-04",
+  "last_reviewed": "2026-10-05",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -348,15 +348,16 @@
       "date_precision": "month",
       "employment_status": "unknown",
       "fte_fraction": null,
-      "category": "unknown",
+      "category": "public_service",
       "headline_sector": "excluded",
       "government_control_at_time": "unknown",
       "counting_status": "excluded",
       "source_ids": [
         "src-8",
-        "src-profile2026"
+        "src-profile2026",
+        "src-vago-control2017-oct5"
       ],
-      "evidence_note": "Undated board service; paid/full-time employee status is not established. Dates now supplied by indexed public profile; not independently verified against appointment records.",
+      "evidence_note": "Reported board term July2014–July2017 remains based on public self-profile, not an appointment instrument. VAGO2016–17 state financial report, section1.1 and AppendixB FigureB6, explicitly treats Latrobe Regional Hospital as one of the consolidated state-controlled entities. The blank Significant state-controlled entity column denotes materiality, not absence of control. This establishes public control during2016–17, rather than inferring control from funding; whole-spell control remains unknown pending earlier historical corroboration. Board governance remains excluded, not clinical/staff employment; pay/hours unknown.",
       "counting_note": "Outside the two employment headlines under the codebook; retained as career context."
     },
     {
@@ -450,9 +451,10 @@
       "government_control_at_time": "unknown",
       "counting_status": "excluded",
       "source_ids": [
-        "src-profile2026"
+        "src-profile2026",
+        "src-rjip-plan2017-oct5"
       ],
-      "evidence_note": "Self-reported advisory appointment; paid employment and hours unverified.",
+      "evidence_note": "Self-reported advisory appointment; paid employment and hours unverified. September2017 local investment-plan reproduction independently names her among six members appointed by Senator Fiona Nash. Committee meetings12July,25July and9August2017 are organisational dates, not proof of individual attendance or appointment day.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "11788-22"
     },
@@ -889,6 +891,26 @@
       "source_type": "government_record",
       "locator": "7:22 pm contribution; leadership-program paragraph and Woorayl Lodge paragraph",
       "note": "First-person 2011 leadership-program participation and former Woorayl board service. The speech date is an observation, not a cessation date."
+    },
+    {
+      "source_id": "src-vago-control2017-oct5",
+      "url": "https://www.audit.vic.gov.au/report/auditor-generals-report-annual-financial-report-state-victoria-2016-17?section=32633--overview&show-sections=1",
+      "publisher": "Victorian Auditor-General",
+      "title": "Annual Financial Report of the State of Victoria2016–17: Auditor-General report",
+      "retrieved": "2026-10-05",
+      "source_type": "government_record",
+      "locator": "Section1.1,276 state-controlled entities; AppendixB/FigureB6/Department of Health and Human Services, Latrobe Regional Hospital row",
+      "note": "Historic consolidated control evidence2016–17. Materiality flag is distinct from whether an entity is controlled; no personal tenure or hours evidence."
+    },
+    {
+      "source_id": "src-rjip-plan2017-oct5",
+      "url": "https://www.readkong.com/page/regional-jobs-and-investment-packages-latrobe-valley-local-2366329",
+      "publisher": "Australian Government local investment plan, reproduced by Readkong",
+      "title": "Regional Jobs and Investment Packages: Latrobe Valley Local Investment Plan,September2017",
+      "retrieved": "2026-10-05",
+      "source_type": "government_record",
+      "locator": "Introduction, printedpage5 of24; membership/appointment and committee-meeting paragraphs",
+      "note": "Third-party reproduction of original government plan, transparently distinguished from live original. Corroborates role and appointing minister; does not establish personally bounded tenure or paid work."
     }
   ],
   "research_notes": [
@@ -902,6 +924,7 @@
     "Second follow-up2October2026: recovered omitted Russell Broadbent electorate-officer role from2018 career interview; identified family farm as equestrian business and July2016 Harvard study as possible leave/overlap requiring investigation. Corrected Woorayl employer spelling. Canadian Ontario Energy Board counsel and US Aldred-Crouch are namesakes;2023 mid-1990s Broadbent staff quote belongs John Pesutto, not Aldred. Source2018 relative departure statement/equivalent FCA name conflicts with established appointment notices; no dates overwritten. Original Australian Carbon Innovation PDF now404. Early regulatory and hospital searches yielded no new full-time/payroll evidence. Next pursue original Broadbent staff chronology, farm remuneration/dates, Simply Energy/Green Made Easy contracts/control and Fujitsu January/February2023 discrepancy. No totals or full-time assumptions added.",
     "Third follow-up3October2026: the full text of Aldred's public Fujitsu departure post is now accessible and supplies role-scope detail across cybersecurity, AI, defence and national security. Fujitsu regional CEO Graeme Beardsell's public reply independently corroborates her strategic engagement across academia, government and industry peak bodies. The page still renders only a relative age, so the existing January2025 end remains based on the separate April interview; it does not resolve January-versus-February2023 commencement or hours. Searches for early energy, ministerial and Broadbent records otherwise produced no reliable new boundary; the apparent mid-1990s Broadbent quote again belongs John Pesutto and was rejected.",
     "Fourth follow-up 4 October 2026: FCA succession reporting says Aldred exited in February 2023 and an acting CEO then served, conflicting with the inherited public-profile December 2022 endpoint while aligning with Fujitsu's separately reported February commencement. The later report is not an exact-day cessation instrument, so the existing structured date was not silently overwritten. Targeted early energy, Broadbent, farm and Fujitsu searches otherwise repeated existing material or unrelated namesakes; hours, leave, farm pay and the 2022–23 transition remain unresolved.",
-    "Follow-up2026-10-04: Added six omitted study entries and three federal advisory appointments from employer/speaker biographies and her own 2 September 2025 parliamentary speech. Bruce Billson’s employer statement resolves identity of the ministerial office without inventing exact dates. Woorayl service is expressly former by September 2025; actual cessation unknown. AICD direct maintenance redirect recorded; public index used. Early energy and historical Woorayl searches yielded no contracts or new hours. Study and advisory service remain excluded; Harvard July 2016 overlap requires leave evidence. Existing Fujitsu and FCA date conflicts preserved. Corrected one inherited source enum to news and elected-office day precision without changing facts."
+    "Follow-up2026-10-04: Added six omitted study entries and three federal advisory appointments from employer/speaker biographies and her own 2 September 2025 parliamentary speech. Bruce Billson’s employer statement resolves identity of the ministerial office without inventing exact dates. Woorayl service is expressly former by September 2025; actual cessation unknown. AICD direct maintenance redirect recorded; public index used. Early energy and historical Woorayl searches yielded no contracts or new hours. Study and advisory service remain excluded; Harvard July 2016 overlap requires leave evidence. Existing Fujitsu and FCA date conflicts preserved. Corrected one inherited source enum to news and elected-office day precision without changing facts.",
+    "Follow-up 2026-10-05: original VAGO2016–17 financial audit establishes state control of Latrobe Regional Hospital in that report year; public institution category refined while earlier whole-spell control remains unknown. Governance remains excluded. Local investment-plan reproduction independently corroborates federal committee appointment, without turning committee meeting dates into personal attendance or tenure. Fujitsu and Woorayl searches otherwise returned existing reported roles and conflicting January/February2023 transition evidence. No new personal hours, farm remuneration or leave record; preserve all conflicting dates and distinguish contemporaneous control from mere government funding. Seek hospital appointment/earlier control records and actual early energy/Fujitsu employment terms."
   ]
 }
