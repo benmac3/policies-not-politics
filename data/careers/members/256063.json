@@ -6,7 +6,7 @@
   "snapshot_party": "Liberal Party of Australia",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/256063",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-05",
+  "last_reviewed": "2026-10-06",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -277,24 +277,25 @@
       "counting_note": "Elected office is excluded under the codebook."
     },
     {
-      "employer": "Commonwealth of Australia — employing department or ministerial office unresolved",
+      "employer": "Office of the Hon. Chris Pearce MP (payroll entity unresolved)",
       "role": "Policy Adviser: financial services, superannuation and corporate governance",
       "start_date": "2008-09",
       "end_date": "2009-10",
       "date_precision": "month",
       "employment_status": "unknown",
       "fte_fraction": null,
-      "category": "unknown",
-      "headline_sector": "unknown",
+      "category": "political_staff",
+      "headline_sector": "excluded",
       "government_control_at_time": "unknown",
-      "counting_status": "insufficient_evidence",
+      "counting_status": "excluded",
       "source_ids": [
         "src-linkedin",
         "src-fix2014",
-        "src-fssuper2012"
+        "src-fssuper2012",
+        "src-pearce-aph"
       ],
-      "evidence_note": "Profile index gives month boundaries; contemporaneous biography corroborates government policy work. Cannot distinguish public-service employment, political staff or other engagement without employer/appointment evidence. Hours, leave and overlap with EY/FSC unresolved; no public years inferred. Further indexed profile text describes work on short-selling regulation and bank-deposit/wholesale-funding guarantees. Duties do not identify an appointing department or distinguish ministerial from public-service employment. New2012 own-article author biography identifies prior work for Chris Pearce MP, but does not explicitly connect that office to these profile month endpoints. Separate undated account retained as possible same spell; no department or public-service classification inferred.",
-      "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
+      "evidence_note": "This consolidation is an evidence-based inference, not an appointment-record finding. Public professional-profile text gives September2008–October2009 for a Commonwealth policy adviser covering financial services, superannuation and corporate governance. Bragg's own2012 author biography independently names prior adviser work for Chris Pearce MP with the same three-part portfolio. Parliament records Pearce as Shadow Minister for Financial Services, Superannuation and Corporate Law from22September2008 to8December2009, aligning with the profile period and duties. The former separate undated Pearce entry is therefore treated as the same spell. Exact appointment/payroll entity, hours, leave and transitions from EY/to FSC remain unresolved.",
+      "counting_note": "Political staff work is excluded under the codebook; no public headline duration is inferred.",
       "spell_id": "256063-commonwealth-adviser"
     },
     {
@@ -431,25 +432,6 @@
       "evidence_note": "Public professional-profile search index names employer, traineeship and February2002–February2003. Independently corroborates prior aggregator-only lead. Exact days, store/location, hours, pay and leave remain unknown; traineeship title does not establish full-time work.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "256063-woolworths"
-    },
-    {
-      "spell_id": "256063-pearce",
-      "employer": "Office of the Hon. Chris Pearce MP (payroll entity unresolved)",
-      "role": "Financial-services, superannuation and corporate-governance policy adviser",
-      "start_date": null,
-      "end_date": null,
-      "date_precision": "unknown",
-      "employment_status": "unknown",
-      "fte_fraction": null,
-      "category": "political_staff",
-      "headline_sector": "excluded",
-      "government_control_at_time": "unknown",
-      "counting_status": "excluded",
-      "source_ids": [
-        "src-fssuper2012"
-      ],
-      "evidence_note": "Author biography identifies advisory work to a named MP before FSC entry in2009. It does not date that work. Could describe the already-recorded2008–09 Commonwealth adviser spell; matching remains unresolved. Reference to Pearce as a Howard-government Treasury minister describes Pearce, not necessarily when Bragg served him.",
-      "counting_note": "Political staff excluded. Do not treat possible duplicate account as an additional employment duration."
     },
     {
       "spell_id": "256063-stronger-super",
@@ -682,6 +664,16 @@
       "source_type": "other",
       "locator": "Author biography and product list",
       "note": "Primary publisher attributes2017Fit for Service,2018Scrap Iron for Japan essay and regular newspaper contributions; lists Bad Egg and Buraadja. No pay or employment terms."
+    },
+    {
+      "source_id": "src-pearce-aph",
+      "url": "https://www.aph.gov.au/Senators_and_Members/Parliamentarian?MPID=A8W",
+      "publisher": "Parliament of Australia",
+      "title": "Hon Chris Pearce — former Member for Aston",
+      "retrieved": "2026-10-06",
+      "source_type": "official_biography",
+      "locator": "Parliamentary service and parliamentary party positions",
+      "note": "Records Pearce as Shadow Minister for Financial Services, Superannuation and Corporate Law from22September2008 to8December2009. This aligns with, but does not itself prove, Bragg's appointment or payroll dates."
     }
   ],
   "open_questions": [
@@ -690,10 +682,9 @@
     "What services, remuneration and substantive hours applied to Bragg PPC during the overlapping Senate campaign?",
     "What were the ANU and Macquarie study dates and any concurrent paid work?",
     "Was the announced November2016 FSC departure implemented, and what explains the frozen2017 endpoint?",
-    "Which Commonwealth department or political office employed him in2008–09, and on what hours?",
+    "What were the exact appointment/payroll entity, substantive hours, leave and transition arrangements for the inferred Chris Pearce office spell in September2008–October2009?",
     "Who employed him in early orchard, cannery and dairy work, and when?",
     "What were the Woolworths traineeship store, exact dates, substantive hours and leave, and do EY payroll records confirm the profile January2007 start beyond the frozen2008-only entry?",
-    "Is the reported Chris Pearce adviser role the same as the profile September2008–October2009 Commonwealth spell? Obtain dated appointment/payroll evidence before resolving or treating it as distinct.",
     "Were book/essay/newspaper contributions commissioned or remunerated; what were contract periods, hours and overlaps with existing jobs?"
   ],
   "research_notes": [
@@ -709,6 +700,7 @@
     "Follow-up 2026-10-04: exact duty, Policy Adviser, Commonwealth and Woolworths searches again returned the public professional profile, 2014 conference biography and retrospective campaign material already recorded. A 2016 report describes only generic Commonwealth Government policy-adviser work during the financial crisis. No appointing office, payroll entity, hours or leave emerged. Do not infer Treasury or a ministerial office from policy subject matter; defer until an original appointment or CV appears.",
     "Follow-up2026-10-04: Original2012 FS Super own-article biography names Chris Pearce adviser work; retained undated political-staff account as possibly the same2008–09 spell. No Howard-government service date inferred from MP description. Treasury confirms FSC representation on SMSF working group;2011 engagement explicitly supplied by biography. Added representative spell, legal FSC name and specific senior portfolio; no extra full-time duration. ContactOut ASX month dates remain unadopted without independent source. Target dated Pearce appointment/CV to reconcile, not generic Treasury duty searches.",
     "Follow-up2026-10-05: ABR historical name table resolves IFSA/FSC same legal employer across2009–2010; distinguish Julybrand announcement from10September2010 legal name change. Connor Court primary catalogue adds omitted book/essay/newspaper authorship, with output/launch dates kept outside employment endpoints. No pay, hours or separate employer inferred. Exact Pearce/Commonwealth appointment queries did not connect the undated named-office account to profile month endpoints; Woolworths/EY and consulting hours remain unknown.",
-    "Second targeted pass revisited the specific ChrisPearce named-office lead against2008/2009queries, without recovering a dated appointment linking it to the Commonwealth profile interval. Existing2012own-author account retained; Pearce former ministry descriptor still does not date Bragg service. Exact Woolworths/EY personal-hours queries yielded no direct evidence; current staff/other authors full-time wording excluded. ContactOut education lead to2012management programme requires primary corroboration, not adopted. No aggregate employer staffing or salary used as personal FT evidence. Advance pending original named appointment/CV or individual traineeship record; generic duty biographies exhausted."
+    "Second targeted pass revisited the specific ChrisPearce named-office lead against2008/2009queries, without recovering a dated appointment linking it to the Commonwealth profile interval. Existing2012own-author account retained; Pearce former ministry descriptor still does not date Bragg service. Exact Woolworths/EY personal-hours queries yielded no direct evidence; current staff/other authors full-time wording excluded. ContactOut education lead to2012management programme requires primary corroboration, not adopted. No aggregate employer staffing or salary used as personal FT evidence. Advance pending original named appointment/CV or individual traineeship record; generic duty biographies exhausted.",
+    "Third targeted pass2026-10-06 consolidates the duplicate Commonwealth-adviser and undated ChrisPearce-adviser accounts as one political-staff spell. This is an explicit inference from three independent alignments: the public profile's September2008–October2009 period and duties; Bragg's own2012 biography naming Pearce and the same portfolio; and Parliament's22September2008–8December2009 dates for Pearce's matching shadow portfolio. No appointment/payroll record was found, so exact legal employer, hours, leave and transition days remain open. The spell is excluded political staff, not public service, and no headline duration is calculated."
   ]
 }
