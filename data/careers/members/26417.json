@@ -6,7 +6,7 @@
   "snapshot_party": "Independent",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/26417",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-04",
+  "last_reviewed": "2026-10-05",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -176,9 +176,10 @@
       "source_ids": [
         "src-snapshot",
         "src-profile",
-        "src-riaa"
+        "src-riaa",
+        "src-fifth-estate-2022-resignation"
       ],
-      "evidence_note": "Official frozen biography supplies employer, broad title and year endpoints; a contemporaneous event profile expands the portfolio. Exact dates, title transitions, hours and leave are unresolved.",
+      "evidence_note": "Official frozen biography supplies employer, broad title and year endpoints; a contemporaneous event profile expands the portfolio. Exact dates, title transitions, hours and leave are unresolved. Accessible17February2022interview describes leaving after RIAA team growth and before first campaign; supports a break without setting exact resignation day or extending frozen2021endpoint.",
       "counting_note": "Membership-association/nonprofit employment is excluded under the codebook."
     },
     {
@@ -708,6 +709,25 @@
       ],
       "evidence_note": "RIAA employer profiles record group participation. Could be representative duties within RIAA; no independent employment, remuneration or term boundaries established.",
       "counting_note": "Do not double-count representative governance as separate employment."
+    },
+    {
+      "spell_id": "26417-consultancy-founder-unallocated",
+      "employer": "Unidentified management consultancy; possible relationship to Banarra unresolved",
+      "role": "Established consultancy on social and environmental risk",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "private_enterprise",
+      "headline_sector": "private",
+      "government_control_at_time": "private",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-own-consultancy-account"
+      ],
+      "evidence_note": "Own biography explicitly describes establishing a management consultancy after state-policy work. Does not name it, establish remuneration or personal legal-employment form, dates or hours. May describe already-recorded Banarra role; retained as unallocated component/identity lead, not assumed another employer or separate duration.",
+      "counting_note": "No additive duration; resolve identity and overlap before any counting."
     }
   ],
   "sources": [
@@ -900,6 +920,26 @@
       "source_type": "employer",
       "locator": "Nicolette Boele biography",
       "note": "Primary employer biography records PRI group, Brand Ethics interim board, Green Globe and Banksia judging. Repeated wording may be stale; publication is not appointment/cessation date."
+    },
+    {
+      "source_id": "src-own-consultancy-account",
+      "url": "https://www.nicoletteboele.com.au/about_nicolette",
+      "publisher": "Nicolette Boele MP",
+      "title": "About Nicolette — management-consultancy account",
+      "source_type": "primary_statement",
+      "retrieved": "2026-10-05",
+      "locator": "Career paragraph beginning Professionally; web lines95–96",
+      "note": "Own biography says she established a management consultancy. Name, ownership share, dates, remuneration and relationship to Banarra not supplied."
+    },
+    {
+      "source_id": "src-fifth-estate-2022-resignation",
+      "url": "https://thefifthestate.com.au/columns/news-from-the-front-desk/on-nicolette-boele-and-why-shes-running-for-bradfield-as-an-independent/",
+      "publisher": "The Fifth Estate",
+      "title": "On Nicolette Boele and why she is running for Bradfield,17February2022",
+      "source_type": "news",
+      "retrieved": "2026-10-05",
+      "locator": "RIAA volunteer-to-executive and resignation account; web lines250–257",
+      "note": "Accessible interview reports her explanation for leaving RIAA. Corroborates a career break before first2022campaign without exact resignation day or inference that every advisory assignment ceased."
     }
   ],
   "open_questions": [
@@ -923,6 +963,7 @@
     "Second follow-up2026-10-02: targeted CEFC site and external-affairs/secondment searches, SEDA and historical annual reports, Banarra2012 association and personal full-time/maternity searches. Retrieved ACF2006–07 report corroborates existing council role; no new personal hours, leave or employment endpoints. Full-time recruitment references concern her parliamentary assistant, not Boele. Derivative January1 CEFC dates not adopted. No material enrichment counted.",
     "Next revisit requires CEFC founding-team/contract records, original SEDA staff documentation or public contract/dated professional-profile evidence. Broad generic biographies and repeated exact-name secondment searches have yielded no additional evidence; retained all open gaps.",
     "Follow-up 2026-10-04: targeted CEFC, SEDA and Good Car Company searches returned the same parliamentary biography and later event profiles already captured. The 2025 RIAA biography still conflicts with the frozen 2024 Good Car endpoint and supplies no appointment or resignation record; CEFC results do not identify secondment/payroll or hours. No new fact promoted. Defer further generic searches until an original board filing, founding-team record or personnel document appears.",
-    "Follow-up2026-10-04: Public profile index supplies nine omitted dated volunteer roles; original RIAA2018 and2020 biographies corroborate three and add PRI reference-group participation. Added separate excluded spells without assuming paid employment or government payroll. Intern-host assignments clarified, hours/payment unresolved. AICD ordinary membership and1999 leadership program are not employment evidence. No CEFC secondment or Good Car original filing found. Target original organisation rosters and historical trainee records; do not repeat generic biographies."
+    "Follow-up2026-10-04: Public profile index supplies nine omitted dated volunteer roles; original RIAA2018 and2020 biographies corroborate three and add PRI reference-group participation. Added separate excluded spells without assuming paid employment or government payroll. Intern-host assignments clarified, hours/payment unresolved. AICD ordinary membership and1999 leadership program are not employment evidence. No CEFC secondment or Good Car original filing found. Target original organisation rosters and historical trainee records; do not repeat generic biographies.",
+    "2026-10-05 own updated biography newly records establishing an unnamed management consultancy; recorded as unallocated component because possible Banarra identity/ownership relation is unproven. Accessible17February2022interview supports RIAA departure/break without exact payroll date. Historical1998government-report acknowledgement supplies name/referee context only; not new employment or hours. SEDA/CEFC specific searches still no individual hours, leave or secondment. Full-bio old URL404; current own page recovered."
   ]
 }
