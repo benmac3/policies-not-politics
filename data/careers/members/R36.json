@@ -111,15 +111,16 @@
       "employer": "Office of the Hon. Tom Uren MP",
       "employment_status": "unknown",
       "end_date": "1989",
-      "evidence_note": "Parliamentary occupation identifies research work for Uren, rather than a nonpolitical public-service appointment; hours and legal payroll entity unverified.",
+      "evidence_note": "Parliamentary occupation identifies research work for Uren, rather than a nonpolitical public-service appointment. A 2022 report says a contemporaneous Uren staff list instead records Albanese as an electorate officer, not a Canberra-based ministerial adviser. The underlying staff list was not publicly retrieved, so both labels are retained and neither supplies hours or the legal payroll entity.",
       "fte_fraction": null,
       "government_control_at_time": "public",
       "headline_sector": "excluded",
-      "role": "Research officer",
+      "role": "Research officer / electorate officer (conflicting labels)",
       "source_ids": [
         "src-snapshot",
         "src-naa",
-        "src-nexus"
+        "src-nexus",
+        "src-australian-uren-staff-2022"
       ],
       "spell_id": "R36-uren",
       "start_date": "1985"
@@ -274,7 +275,7 @@
     "private_full_time_years": null,
     "public_full_time_years": null
   },
-  "last_reviewed": "2026-10-05",
+  "last_reviewed": "2026-10-06",
   "name": "ALBANESE, the Hon. Anthony Norman",
   "person_id": "R36",
   "research_notes": [
@@ -292,7 +293,8 @@
     "Follow-up 2026-10-04: fresh targeted searches of Prime Minister, National Archives, Sydney University and parliamentary records corroborated the existing bank, degree and Uren-office chronology but did not produce a personal appointment day, bank separation record, university-period employment or full-time evidence beyond the already recorded first-person statement. APH search also returned a non-retryable robots.txt block. No new facts promoted; retain blocked status and avoid another broad bank-date search until a personnel or appointment record appears.",
     "Follow-up2026-10-04: Recovered fullVPTAfirst-person page after historicaltimeouts, preserving schooljobs. Newprimary2020interview lead identifies charityDJactivity and SouthSydneygovernance; contemporaryclubhistorian gives1999–2002directorship corroborated by PM1999recollection. Separately recorded occasionalmusicactivity and2017AMRAeventambassadorship without assuming unpaid/pay, datesorFT. Exactbankdate searches yielded unsupported socialmediaguesses, rejected. Bankhours alreadyexplicitFT, endpoints/breaks stillunknown; originalclubreports and personalemploymentchronology remain follow-ups.",
     "2026-10-05 new primary Green Island transcript gives relative school-to-CBA commencement sequence and confirms Grace Brothers/McDonalds part-time jobs already held at HSC completion. No calendar day inferred from remembered weekdays. NRL2021 board account corroborates existing1999–2002 interval but adds no payroll/hours; bank and political-employment exact boundaries still unresolved. Public FT total remains null.",
-    "2026-10-05 targeted second pass after national review: inspected original club annual-report content via public mirror rather than repeating bank biography queries. 2013life membership is an honour, not paid employment or continuing1999–2002board service. Later MemberCo2006acquisition/control notes cannot define earlier legal employer or remuneration. Contemporary1999–2002board appointment/payroll reports remain unavailable in searches. Uren appointment and party1989ballot routes repeated known year chronology; exact personnel dates and bank breaks remain unresolved. No new substantive career spell or calculation. All13branch heads and main rechecked before new pass, unchanged except own qld2commits; no overlapping writer observed."
+    "2026-10-05 targeted second pass after national review: inspected original club annual-report content via public mirror rather than repeating bank biography queries. 2013life membership is an honour, not paid employment or continuing1999–2002board service. Later MemberCo2006acquisition/control notes cannot define earlier legal employer or remuneration. Contemporary1999–2002board appointment/payroll reports remain unavailable in searches. Uren appointment and party1989ballot routes repeated known year chronology; exact personnel dates and bank breaks remain unresolved. No new substantive career spell or calculation. All13branch heads and main rechecked before new pass, unchanged except own qld2commits; no overlapping writer observed.",
+    "Third national follow-up 2026-10-06: a new secondary report citing a contemporaneous Uren staff list conflicts with the official-biography label: it calls Albanese an electorate officer rather than a Canberra ministerial adviser/research officer. The original list was not publicly retrieved, so the record now preserves the role-title conflict without changing the political-staff category, year bounds, hours or totals. A newly identified ANU Noel Butlin archive inventory confirms the Commonwealth Bank Officers' Association deposit includes correspondence on terminations and engagements through1986; no person-level digitised record or Albanese match was exposed, so it is retained only as a bounded archival lead. Exact Uren payroll title, bank engagement/termination and breaks remain unresolved; no outreach undertaken."
   ],
   "research_status": "blocked",
   "snapshot_chamber": "Member",
@@ -459,6 +461,16 @@
       "source_type": "employer_record",
       "locator": "Printedp39–40(PDFp22), life-member list; financial notes describe2006share acquisition",
       "note": "Club annual report confirms2013life membership. This honour is not a new paid role or extension of1999–2002directorship. Later MemberCo legal/control arrangements cannot be transferred to historic board period."
+    },
+    {
+      "source_id": "src-australian-uren-staff-2022",
+      "url": "https://www.theaustralian.com.au/nation/politics/albanese-was-electorate-officer-not-ministerial-adviser-to-hardleft-mp-tom-uren/news-story/86301b36c8f982d665b6baeacfdf5efd",
+      "publisher": "The Australian",
+      "title": "Albanese was electorate officer, not ministerial adviser, to Uren",
+      "retrieved": "2026-10-06",
+      "source_type": "other",
+      "locator": "Search-indexed article summary, published15April2022",
+      "note": "Reports that a Uren staff list records Albanese as an electorate officer rather than a Canberra-based ministerial adviser. Underlying staff list not publicly retrieved; used only to preserve the title conflict, not as proof of hours, exact dates or payroll entity."
     }
   ]
 }
