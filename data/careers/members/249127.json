@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/249127",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-04",
+  "last_reviewed": "2026-10-05",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -60,7 +60,7 @@
       "role": "Member from 1994; state and federal Young Labor vice-president, 2003–2004; proxy delegate to ALP National Conference2004–2007; Environment,Planning and Natural Resources Committee2001–2002; NSW State Conference delegate2002–2016; Machinery Proxies Committee2003–2006; National Infrastructure Inquiry2005–2007; National Conference delegate2015; Charlton FEC member",
       "start_date": "1994",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "party_organisation",
@@ -81,7 +81,7 @@
       "start_date": "2000",
       "end_date": "2000",
       "date_precision": "year",
-      "employment_status": "unknown",
+      "employment_status": "part_time",
       "fte_fraction": null,
       "category": "political_staff",
       "headline_sector": "excluded",
@@ -89,9 +89,11 @@
       "counting_status": "excluded",
       "source_ids": [
         "src-snapshot",
-        "src-secondary"
+        "src-secondary",
+        "src-anu-program-pt-oct5",
+        "src-aspi-program-pt-oct5"
       ],
-      "evidence_note": "The frozen official extract and secondary biography record this role in 2000. Exact appointment/payroll dates, hours, leave and overlaps with Coles, study or CFMEU work are unresolved.",
+      "evidence_note": "The frozen official extract and secondary biography record this role in 2000. Exact appointment/payroll dates, hours, leave and overlaps with Coles, study or CFMEU work are unresolved. ANU2026 and ASPI2023 hosted ministerial biographies explicitly state part-time electorate-office work while studying. This resolves work status for this role only; fraction, calendar endpoints and Coles hours are not supplied.",
       "counting_note": "Political staff employment is excluded under the codebook."
     },
     {
@@ -343,6 +345,26 @@
       "source_type": "official_biography",
       "locator": "Author biography: Defence Materiel Adviser2008–2010",
       "note": "Member-authored article supplies portfolio-specific staff duties within existing2008–2011 Principal Policy Adviser spell. No separate Defence departmental employment assumed."
+    },
+    {
+      "source_id": "src-anu-program-pt-oct5",
+      "url": "https://asiapacific.anu.edu.au/sites/default/files/2026-04/Web_SoTP%202026%20Program%20Booklet_01042026.pdf",
+      "publisher": "Australian National University",
+      "title": "2026 State of the Pacific program booklet",
+      "retrieved": "2026-10-05",
+      "source_type": "official_biography",
+      "locator": "Printedp18, Pat Conroy biography opening paragraph; PDFpage19 visually checked",
+      "note": "Hosted ministerial speaker biography explicitly describes part-time electorate-office work during university study. No employment boundaries, fraction or Coles hours supplied."
+    },
+    {
+      "source_id": "src-aspi-program-pt-oct5",
+      "url": "https://ad-aspi.s3.ap-southeast-2.amazonaws.com/2023-09/ASPI_Disruption%20%26%20Deterrence%20Program.pdf?VersionId=vZxs2zD2809Y3ldgrn641SJeb.32fWN6",
+      "publisher": "Australian Strategic Policy Institute",
+      "title": "Disruption and Deterrence,2023 ASPI conference program",
+      "retrieved": "2026-10-05",
+      "source_type": "official_biography",
+      "locator": "Printedp18, speaker biography; PDFpage20, lines431–435",
+      "note": "Hosted ministerial speaker biography explicitly describes part-time electorate-office work during university study. No employment boundaries, fraction or Coles hours supplied."
     }
   ],
   "research_notes": [
@@ -356,12 +378,13 @@
     "Second follow-up2October2026 materially resolves candidacy start27July2013 from contemporary AAP reporting of the party announcement. Former-staffer wording also supplies departure-by observation for Combet office, without inventing an exact cessation day. Campaign end uses known7September election, not assumed payroll duration.",
     "Targeted Coles store/hours, AMWU transition and professional-profile searches yielded no new individual work terms. Customer-assistant recollections and existing2004–2008 economist interval recur. US author namesake and unrelated Coles security commentary excluded. Remaining work is personal appointment/leave and1995–2000 Coles payroll/hours evidence; union and political staff remain excluded.",
     "Third follow-up4October2026 used exact-name searches for the1995–2000 Coles customer-service role and the AMWU National Projects Officer/National Economist titles. Official and primary results repeated the frozen occupation sequence and the16May2005 National Projects Officer observation; a Productivity Commission submission also showed the AMWU title and work email but supplied no appointment/promotion boundary, hours or leave. No personal Coles payroll/store evidence surfaced, and namesakes were excluded. No material change; retain the unresolved questions rather than infer full-time status or exact dates.",
-    "Follow-up2026-10-04: New primary party-history index identifies previously omitted2004–2007 National Conference proxy delegation; original member-authored2015 article dates Defence Materiel adviser duties2008–2010 within existing Combet-office service. No separate Defence employer, continuous whole-year term or hours inferred. May2010 CCH stafflist corroborates Materiel and Science portfolio without appointment boundaries. Coles payroll/store and personal AMWU leave/hours remain missing; generic reports and other people’s contracts not transferred."
+    "Follow-up2026-10-04: New primary party-history index identifies previously omitted2004–2007 National Conference proxy delegation; original member-authored2015 article dates Defence Materiel adviser duties2008–2010 within existing Combet-office service. No separate Defence employer, continuous whole-year term or hours inferred. May2010 CCH stafflist corroborates Materiel and Science portfolio without appointment boundaries. Coles payroll/store and personal AMWU leave/hours remain missing; generic reports and other people’s contracts not transferred.",
+    "2026-10-05 material follow-up: ANU2026 State of the Pacific program, printedp18/PDFpage19 visually checked, explicitly describes part-time work in Anthony Albanese’s electorate office while studying. ASPI2023 conference program printedp18 corroborates the same status. Changed only that employment_status from unknown to part_time, leaving FTE fraction and frozen2000 boundaries unresolved. Coles hours are not inferred from this separate job. AMWU National Projects Officer queries repeated16May2005 and previously checked submission observations; no new appointment, leave or promotion boundary found. Retain blocked totals and advance."
   ],
   "open_questions": [
     "What were the exact Coles employer/store dates, hours, leave and overlap with study?",
     "What were the University of Sydney enrolment dates and load before the documented2000 honours graduation, and overlaps with paid employment?",
-    "What were the exact electorate-office, union and ministerial-staff appointment/payroll dates, hours and leave?",
+    "What were the exact electorate-office, union and ministerial-staff appointment/payroll dates, hours/fraction and leave?",
     "How did the 2000 electorate-office and CFMEU roles overlap or transition?",
     "What were the 2013 campaign and Greg Combet office leave/cessation arrangements?",
     "Were AMWU National Projects Officer and National Economist concurrent titles or sequential appointments, and on what exact date before May2008 did service cease?"
