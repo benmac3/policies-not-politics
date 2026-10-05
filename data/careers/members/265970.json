@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/265970",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-04",
+  "last_reviewed": "2026-10-05",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -91,9 +91,12 @@
         "src-3",
         "src-4",
         "src-6",
-        "src-7"
+        "src-7",
+        "src-11",
+        "src-12",
+        "src-13"
       ],
-      "evidence_note": "Official range retained;1998Westerly contribution corroborated by publisher. Client list, pay/hours and intermittent versus continuous work unresolved. Unpublished novels and later MP opinion pieces not automatically paid freelance employment.",
+      "evidence_note": "Official range retained;1998Westerly contribution corroborated by publisher. Client list, pay/hours and intermittent versus continuous work unresolved. Unpublished novels and later MP opinion pieces not automatically paid freelance employment. Full publisher1998issue records The Twice-Dreamed Panther and2000volume adds The Robert Parish Fiasco;1999announcement confirms1998PatriciaHackettPrize. Both issues state stories/articles minimum90dollars as general contributor policy; actual personal fee/receipt, work hours and duration are not established. No award or story duration converted into employment years.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "265970-04"
     },
@@ -318,7 +321,7 @@
       "role": "Member for Fremantle, re-elected at by-election",
       "start_date": "2018-07-28",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "day",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -331,6 +334,26 @@
       "evidence_note": "Separate post-gap tenure; gap not automatically employment or unemployment.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "265970-15"
+    },
+    {
+      "spell_id": "265970-16",
+      "employer": "In Emergency Press (legal entity and control unresolved)",
+      "role": "Editor-in-chief",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "unknown",
+      "government_control_at_time": "unknown",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-11",
+        "src-13"
+      ],
+      "evidence_note": "Contemporaneous publisher contributor biographies identify this editorial role in Summer1998 and2000. Identity linked through1998story/prize independently attributed to the parliamentarian and same biography in2000. These are two observations, not evidence of uninterrupted1998–2000service, employment versus self-publishing/volunteering, ownership, pay or hours. No title-based full-time inference.",
+      "counting_note": "Possible overlap with freelance writing and law work; no additional duration or headline years without contract/entity and personal hours evidence."
     }
   ],
   "sources": [
@@ -433,6 +456,36 @@
       "note": "First-person account identifies work for Dalkon Shield claimants and separate paralegal work in Helix insecticide class action. Neither employer nor dates/hours allocated.",
       "retrieved": "2026-10-02",
       "source_id": "src-10"
+    },
+    {
+      "source_id": "src-11",
+      "url": "https://westerlymag.com.au/wp-content/uploads/2016/02/WesterlyVol.43no.4.pdf",
+      "publisher": "Westerly Magazine",
+      "title": "Westerly 43:4, Summer 1998",
+      "source_type": "employer",
+      "locator": "Printed p144 (PDF p146), contributor biography; unnumbered contributor notes (PDF p5); story pp59–72",
+      "retrieved": "2026-10-05",
+      "note": "Publisher full PDF recovered by ordinary public download after web reader400 content-length error. Biography identifies In Emergency Press editor-in-chief; contributor policy lists stories/articles minimum90dollars, not proof of his actual fee or contract. Story is The Twice-Dreamed Panther, consistent with previously independently identified MP contribution."
+    },
+    {
+      "source_id": "src-12",
+      "url": "https://westerlymag.com.au/wp-content/uploads/2016/02/WesterlyVol.44no.1.pdf",
+      "publisher": "Westerly Magazine",
+      "title": "Westerly44:1, Autumn1999, Patricia Hackett Prize announcement",
+      "source_type": "employer",
+      "locator": "PDF p6, prize announcement",
+      "retrieved": "2026-10-05",
+      "note": "Publisher names Josh Wilson as1998prize winner for The Twice-Dreamed Panther. Prize amount not given; literary award not employment duration."
+    },
+    {
+      "source_id": "src-13",
+      "url": "https://westerlymag.com.au/wp-content/uploads/2016/02/45complete.pdf",
+      "publisher": "Westerly Magazine",
+      "title": "Westerly45,2000",
+      "source_type": "employer",
+      "locator": "Printed p197 (PDF p199), contributor biography; contents p4/PDF p6; The Robert Parish Fiasco pp7–19; contributor notes PDF p4",
+      "retrieved": "2026-10-05",
+      "note": "Joshua Wilson again identified as editor-in-chief at In Emergency Press and writer of ficto-criticism, with another named contribution. Published observation is not appointment start/end or continuous paid tenure. PDF recovered by ordinary public download after400content-length reader error."
     }
   ],
   "research_notes": [
@@ -446,6 +499,7 @@
     "Targeted law-firm/project searches did not resolve firm allocation or working-time fractions. Renew173 interview PDF https://renewportal.org.au/wp-content/uploads/Renew_173_high_res_ekad.pdf was indexed but web open returned (400) Content length is too large:34059609; ordinary local download returned HTTP Error403:Forbidden. Interview contents not relied on. MP reproduction https://www.joshwilson.org.au/2021/11/24/corporations-amendment-worsens-access-to-justice/ indexed but direct open Internal Error; accessible Hansard reproduction used.",
     "Next follow-up leads: court files/employer records connecting Dalkon Shield and Helix projects to named firm and dates; Curtin appointment fraction; freelance client/fee records; Asia Foundation contract and political-office leave;2018service-gap work. Part-time evidence remains unallocated, totals unresolved.",
     "Follow-up 2026-10-03: targeted searches combining Phillips Fox and Blake Dawson Waldron with the Dalkon Shield and Helix cattle class-action projects did not recover a reliable employer allocation or dates. Curtin associate-lecturer/travel-journalism searches repeated the official2001–2009 range without appointment fraction. The avenues were recorded as exhausted for this pass; no full-time inference or duplicate project spell added.",
-    "Follow-up2026-10-04: Follow-up targeted Curtin appointment/sessionality, personal study graduation, Asia Foundation contract/office leave, first newsagency employer and2018service-gap work. No attributable new employer/date/hour fields recovered.2014self-authored mission article contemporary reproduction corroborates already-recorded chronology, not pay/leave. Fremantle2021payment ledger names labour-hire Josh Wilson for engineering cover, with no identity link to the MP; do not attribute this namesake or third-party invoices to his employment. Sessional academic matches identify Rosemary or property academics, not Wilson. Historical client/fee contracts, Curtin appointment files and law-firm project allocation remain next leads; keep totals unknown."
+    "Follow-up2026-10-04: Follow-up targeted Curtin appointment/sessionality, personal study graduation, Asia Foundation contract/office leave, first newsagency employer and2018service-gap work. No attributable new employer/date/hour fields recovered.2014self-authored mission article contemporary reproduction corroborates already-recorded chronology, not pay/leave. Fremantle2021payment ledger names labour-hire Josh Wilson for engineering cover, with no identity link to the MP; do not attribute this namesake or third-party invoices to his employment. Sessional academic matches identify Rosemary or property academics, not Wilson. Historical client/fee contracts, Curtin appointment files and law-firm project allocation remain next leads; keep totals unknown.",
+    "Follow-up2026-10-05: ordinary public downloads recovered three large Westerly PDFs that the web reader rejected for content length (39778551,38800680,62972998bytes). Primary1998/2000contributor biographies add previously unrecorded In Emergency Press editor-in-chief observations;2000story adds a freelance-client output and1999notice independently confirms1998prize. General90dollarstory/article fee policy is payment context, not proof of his actual receipt, hours or continuous tenure. Exact-name press search found no legal entity/contract; Curtin/law-firm/Melbourne searches again supplied no personally attributable fraction or study dates. Keep totals unknown; next leads press publication/catalogue or contract, law-firm project allocation, Curtin personnel records and AsiaFoundation leave/pay."
   ]
 }
