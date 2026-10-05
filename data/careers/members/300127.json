@@ -103,9 +103,10 @@
         "src-6",
         "src-7",
         "src-10",
-        "src-housing2019-oct5"
+        "src-housing2019-oct5",
+        "src-retirement2021-pass2"
       ],
-      "evidence_note": "Professional and first-person profiles say Watson-Brown's practice merged with Architectus Brisbane in 2011, when she became design director, and that she later served as a design strategy leader after a national amalgamation. The Parliamentary Handbook records architectural work through 2021. Exact appointment and cessation dates, employing entity, hours and leave are not published. Employerpublication2March2017specificallycallsherDesignDirector. Nationalamalgamation/designstrategyleadertransitionstillundated; titledoesnotprovehours. The organiser program for Housing Futures on 26 July 2019 identifies her as Design Strategy Leader, Architectus Australia (Brisbane), presenting 443 Queen Street with the client representative. This establishes that later title by the event observation, without treating 26 July as appointment or amalgamation date. No second employer or additional paid interval is inferred.",
+      "evidence_note": "Professional and first-person profiles say Watson-Brown's practice merged with Architectus Brisbane in 2011, when she became design director, and that she later served as a design strategy leader after a national amalgamation. The Parliamentary Handbook records architectural work through 2021. Exact appointment and cessation dates, employing entity, hours and leave are not published. Employerpublication2March2017specificallycallsherDesignDirector. Nationalamalgamation/designstrategyleadertransitionstillundated; titledoesnotprovehours. The organiser program for Housing Futures on 26 July 2019 identifies her as Design Strategy Leader, Architectus Australia (Brisbane), presenting 443 Queen Street with the client representative. This establishes that later title by the event observation, without treating 26 July as appointment or amalgamation date. No second employer or additional paid interval is inferred. Contemporary11May2021profile reports she had recently retired from Architectus. This establishes retirement by that publication, but recently does not establish the actual last-paid date; structured end remains unknown pending employer/first-person terms.",
       "counting_note": "Private employment is supported, but a full-time duration cannot be established."
     },
     {
@@ -205,9 +206,10 @@
       "counting_status": "insufficient_evidence",
       "source_ids": [
         "src-6",
-        "src-9"
+        "src-9",
+        "src-woolmers1986-pass2"
       ],
-      "evidence_note": "2012first-personessayidentifiespartnershipafterClareemployment;2013essaydatesreturnfromTasmaniainsummer1990. Returnisnotnecessarilyformalpartnershipcessation; noexactboundaryinferred.",
+      "evidence_note": "2012first-personessayidentifiespartnershipafterClareemployment;2013essaydatesreturnfromTasmaniainsummer1990. Returnisnotnecessarilyformalpartnershipcessation; noexactboundaryinferred. Museum1986Woolmers study credits her drawings in the indexed title page. This corroborates Tasmanian professional activity but does not establish partnership appointment, museum payroll, project remuneration or actual drawing dates.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "300127-09"
     },
@@ -233,6 +235,25 @@
       "evidence_note": "2013first-personaccountidentifiesnewQueenslandpracticeafter1990returnfromTasmania;firstcommissionNgungunHouse. Professionalprofilesgive21yearsand2011merger. ThisdistinguishesaQueenslandstagefrom1981predecessorwithoutclaimingentitycontinuity. Earlyworkcombinedhomepractice/sharedchildcare; noquantifiedhoursorleave.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "300127-10"
+    },
+    {
+      "spell_id": "300127-11",
+      "employer": "University of Queensland",
+      "role": "Architecture teaching; exact appointment and pay basis unresolved",
+      "start_date": "2019",
+      "end_date": null,
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "university",
+      "headline_sector": "unknown",
+      "government_control_at_time": "unknown",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-retirement2021-pass2"
+      ],
+      "evidence_note": "11May2021ArchitectureAuprofile explicitly states architecture teaching at UQ since2019. This is substantive teaching activity distinct from honorary adjunct title. Separate appointment, remuneration, workload, continuity and cessation unresolved; do not apply unpaid-title policy to all possible teaching or infer payroll from teaching description.",
+      "counting_note": "No supported paid/full-time basis; no additional university employment duration or double count."
     }
   ],
   "sources": [
@@ -385,6 +406,26 @@
       "retrieved": "2026-10-05",
       "locator": "Program, 443 Queen Street case study; presenter heading",
       "note": "Contemporary organiser program identifies Watson Brown as Design Strategy Leader, Architectus Australia (Brisbane). Dated role observation, not employment appointment or remuneration proof."
+    },
+    {
+      "source_id": "src-retirement2021-pass2",
+      "url": "https://architectureau.com/articles/queensland-architect-to-run-for-federal-parliament/",
+      "publisher": "ArchitectureAu / Josh Harris",
+      "title": "Queensland architect to run for federal parliament,11May2021",
+      "retrieved": "2026-10-05",
+      "source_type": "news",
+      "locator": "Published11May2021; final biography paragraphs, retrieved lines113-114",
+      "note": "Contemporary profile states recently retired from Architectus and architecture teaching at UQ since2019. Retirement observation supplies latest known boundary, not exact cessation day/year. Teaching cannot be assumed covered by unpaid adjunct-title policy or assumed salaried/full-time."
+    },
+    {
+      "source_id": "src-woolmers1986-pass2",
+      "url": "https://www.qvmag.tas.gov.au/files/assets/qvmag/v/1/library/publications/research/woolmers.pdf",
+      "publisher": "Queen Victoria Museum,Launceston",
+      "title": "Woolmers: Blacksmith shop;Woolshed;Ciderhouse;Pumpinghouse — A Study,1986",
+      "retrieved": "2026-10-05",
+      "source_type": "government_record",
+      "locator": "Indexed title-page credits: Miranda Morris-Nunn study; drawings Elizabeth Watson-Brown and Gonzalo Ascui;1986; full PDF403Forbidden",
+      "note": "Original museum publication credits drawings; grant funding by Australian Heritage Commission does not prove direct public employment. Relationship to recorded Tasmanian partnership, pay/hours and work dates unresolved."
     }
   ],
   "research_notes": [
@@ -398,6 +439,7 @@
     "RecoveredArchitectureAuadvantage-of-sizeopen400Timeout; otherfirst-personandemployerpagesaccessible. Digitalarchivebodyempty; indexed1990claimcross-checkedagainstfirst-personprojectessay.",
     "Follow-up2026-10-03: officialUQprofile/currentdirectory still listAdjunctProfessor, conflictingwithHandbook2009–2021 endpoint. CurrentUQpolicy states titleholders receive no remuneration. Endsetunknown ratherthanclaimingcontinuous2009–presentservice; obtain appointment/renewal records to resolve any gap. No new Architectus cessation, hours, leave or 2021–2022 paid-work evidence found.",
     "Follow-up2026-10-04: Targeted early-practice and part-time-work searches found2017UQlecture transcript mirrored at https://studyres.com/doc/22010522/elizabeth-watson-brown-architect ; the part-time statement is EmilyJuckes speaking, not WatsonBrown. https://architectureau.com/articles/going-places/ (1January2006) state-government first-job passage is SandraKaji-O’Grady, not WatsonBrown. Neither adopted. Clare employer archive corroborates existing1980start; no new cessation/leave/hours. UQarchivedigital body still empty. Prior Architectus/2021–22gap remains.",
-    "2026-10-05 targeted follow-up: new primary organiser Housing Futures26July2019program dates the Architectus Australia design-strategy-leader title, previously undated transition. Added to existing nested Architectus spell, without event-date appointment or second employment. Early Morris-Nunn, Architectus2021cessation and part-time searches did not resolve hours or leave. 2024AIA/2026podcast summaries repeat broad chronology;2022project press can reuse historical quotes and is not payroll proof. Other architects and library interview respondents are not WatsonBrown. Legal employer/national transfer boundary and2021–2022paid-work gaps retained."
+    "2026-10-05 targeted follow-up: new primary organiser Housing Futures26July2019program dates the Architectus Australia design-strategy-leader title, previously undated transition. Added to existing nested Architectus spell, without event-date appointment or second employment. Early Morris-Nunn, Architectus2021cessation and part-time searches did not resolve hours or leave. 2024AIA/2026podcast summaries repeat broad chronology;2022project press can reuse historical quotes and is not payroll proof. Other architects and library interview respondents are not WatsonBrown. Legal employer/national transfer boundary and2021–2022paid-work gaps retained.",
+    "Targeted second follow-up5October2026: contemporary11May2021ArchitectureAuprofile now establishes Architectus retirement by publication without treating recently as exact last-paid date. It also supplies UQteaching since2019, distinguished from unpaid honorary-title evidence; separate pay/appointment/hours still unknown. New Queen Victoria Museum1986Woolmers title-page index credits architectural drawings; original PDF403Forbidden. Grant funding is not public employment, publication date not commission date, and Miranda Morris-Nunn authorship does not prove Robert Morris-Nunn partnership boundaries. Added contextual sources and teaching activity; retained no calculated full-time duration."
   ]
 }
