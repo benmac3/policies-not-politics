@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/ING",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-04",
+  "last_reviewed": "2026-10-05",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -161,7 +161,7 @@
       "role": "Service development consultant; health policy",
       "start_date": "2018-06",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "month",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "nonprofit",
@@ -559,6 +559,16 @@
       "note": "Local Canberra broadcaster identifies the supermarket banner as Shop Rite and says the store is now an IGA. It does not identify the location, legal employer, dates or hours; used with Gallagher's first-person role description.",
       "retrieved": "2026-10-04",
       "source_id": "src-20"
+    },
+    {
+      "source_id": "src-calvary-disclosure-log",
+      "url": "https://www.act.gov.au/open/foi-disclosure-logs/act-health-directorate-and-canberra-health-services-disclosure-logs",
+      "publisher": "ACT Government",
+      "title": "ACT Health disclosure log — HDFOI18/95",
+      "source_type": "government_record",
+      "locator": "HDFOI18/95row, application27September2018, decision26October2018, upload6November2018; retrievedline1497, FOI18-95DecisionLetter link868",
+      "retrieved": "2026-10-05",
+      "note": "Public log directly identifies correspondence-to-Gallagher scope fromMay2018, not her employment commencement. Valid returned link click failed Unable to resolve click call due to invalid arguments; underlying letter not read. Durable source lead only."
     }
   ],
   "research_notes": [
@@ -572,6 +582,7 @@
     "Targeted supermarket identity, Woden/People First historical governance, RSPCA resignation/annual-report and Calvary contract searches did not resolve remaining employer/hours/leave/tenure gaps. People First UK/business namesakes excluded. Canberra Times employment story returned non-retryable500redirect to inaccessible tollbit; ANU dinner profile inaccessible. No access-control bypass or jobwide stop.",
     "Further follow-up: Calvary appointment/separation and payroll record, RSPCA tenure/pay, Woden and People First historical reports, early supermarket/childcare names and hours, union leave and desk-to-organiser transition. National employment clarification does not turn charitable employment into ordinary public service.",
     "Follow-up2026-10-04: a local Canberra broadcaster's public indexed post identifies Gallagher's first supermarket banner as Shop Rite and says the store later became an IGA. Combined with Gallagher's first-person description, this materially narrows the employer label, but the store, legal payroll entity, dates, ownership at the time and hours remain unknown. Calvary, Woden and People First searches otherwise repeated established roles without contract or separation evidence.",
-    "Follow-up2026-10-04: Newly exposed RSPCA ACT2019–2020annual report board roster on printedp14 explicitly lists Gallagher until26November2019, resolving governance cessation at day precision independently of attendance counts. Exact appointment day and fees unresolved. ACT Health disclosure log identifies HDFOI18/95(26October2018decision;6Novemberupload) covering Calvary correspondence; tool link click returned Unable to resolve click call due to invalid arguments, so no decision-document facts claimed. Retain published disclosure lead for next follow-up. Calvary cessation/contract and earlier childcare/store/legal-employer hours remain unresolved. Ordinary urllib retrieval of the public ACT disclosure index also returned HTTPError HTTP Error403:Forbidden; no bypass attempted."
+    "Follow-up2026-10-04: Newly exposed RSPCA ACT2019–2020annual report board roster on printedp14 explicitly lists Gallagher until26November2019, resolving governance cessation at day precision independently of attendance counts. Exact appointment day and fees unresolved. ACT Health disclosure log identifies HDFOI18/95(26October2018decision;6Novemberupload) covering Calvary correspondence; tool link click returned Unable to resolve click call due to invalid arguments, so no decision-document facts claimed. Retain published disclosure lead for next follow-up. Calvary cessation/contract and earlier childcare/store/legal-employer hours remain unresolved. Ordinary urllib retrieval of the public ACT disclosure index also returned HTTPError HTTP Error403:Forbidden; no bypass attempted.",
+    "Follow-up2026-10-05: Reopened ACT Health disclosure log and located HDFOI18/95row and newly returned link868, but click again returned Unable to resolve click call due to invalid arguments. Added primary log citation/locator so next attempt can target published decision letter without repeating discovery. Log May2018scope is not appointment date; existing June2018commencement preserved. Exact-document searches did not recover letter or Calvary separation/hours. Shop Rite/IGA searches repeat broadcaster without store; Charnwood historical-shop and unrelated Irish/US ShopRite/person-name results not linked to Gallagher. No new factual employment interval/control/hours established; nonmaterial. Fresh ACT head2b4b4710efebd53399ad3dfe2a89d6506dd7eb04 unchanged, five assigned records intact,226/13coverage check and act assignment passed; no overlapping writer observed."
   ]
 }
