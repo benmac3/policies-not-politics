@@ -300,6 +300,25 @@
       ],
       "evidence_note": "Boyce's primary 2025 inquiry submission identifies this as one of his volunteer positions. It supplies no dates or remuneration and is not treated as paid employment. Volunteer nature retained in category/evidence; normalised employment_status to the approved unknown enum, not a paid-hours finding.",
       "counting_note": "Volunteer activity is excluded from public/private employment headlines."
+    },
+    {
+      "spell_id": "299498-15",
+      "employer": "Construction and mining employers/clients unidentified",
+      "role": "Construction-job work and mining-industry work; precise duties unresolved",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "unknown",
+      "government_control_at_time": "unknown",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-construction-mining2018-pass2"
+      ],
+      "evidence_note": "On16May2018 Boyce, describing himself as a welder by trade, states that he spent many years on large construction jobs throughout Australia and also worked in mining. This adds industry/geographic context beyond the recorded QGC pipeline. The source does not specify each duty, employer, pay basis, dates or hours; construction/mining may encompass the already recorded welding or earthmoving contracts and is not a separately additive tenure.",
+      "counting_note": "Dates, employer control and/or substantive full-time status remain insufficient for a duration calculation; unknown is not zero."
     }
   ],
   "sources": [
@@ -432,6 +451,16 @@
       "source_type": "other",
       "locator": "Boyce speech4:09pm, opening paragraph",
       "note": "Primary parliamentary speech republished: still an active partner in family grazing/farming, engineering and earthmoving businesses. Does not establish paid duties or full-time hours."
+    },
+    {
+      "source_id": "src-construction-mining2018-pass2",
+      "url": "https://documents.parliament.qld.gov.au/speeches/spk2018/Colin_Boyce-Callide-20180516-702739132475.pdf",
+      "publisher": "Queensland Parliament / Colin Boyce",
+      "title": "Local Government amendments speech,16May2018",
+      "retrieved": "2026-10-05",
+      "source_type": "government_record",
+      "locator": "PDF/printed page2, paragraph beginning personal experience; lines56–62",
+      "note": "Primary speech states many years on large construction jobs throughout Australia and work in mining. No named employer, project dates, paid hours or contracts."
     }
   ],
   "research_notes": [
@@ -443,6 +472,7 @@
     "2026-10-02 follow-up materially strengthens business-entity linkage with original indexed state2020 and federal2022 declarations, replacing reliance solely on2025 transcription. Full records not inspectable after403/restricted responses; no access bypass. State2018/2021 registers also surfaced as historical leads, not read. Searches of pipeline-employer names and Everest history yielded no attributable payroll/hours evidence. Farm/engineering/earthmoving may be shared trust/partnership activities; ownership is not continuous employment. Next leads:2018 original register, historical Everest contracts, QGC subcontractor personnel records and named rural-fire brigade. Existing sectors/totals unchanged.",
     "2026-10-03 follow-up: primary Queensland parliamentary inquiry submission explicitly resolves Rural Fire Brigade service as volunteer activity and adds a volunteer Taroom Kindergarten fundraising-coordinator role. Brigade identity and dates remain unknown. Fresh Everest, CE & TS Boyce, QGC-pipeline employer and brigade searches found no attributable payroll, contract, hours or commencement evidence; a 2026 press profile only repeated existing welding/farming facts. Business employment boundaries and all headline hours remain unresolved; blocked status and null totals retained.",
     "Follow-up2026-10-04: Primary2019 speech narrows brigade first-officer cessation to recently before27November2019; exact boundary retained unknown. Primary2023 speech supplies later active-business-partner snapshot despite sons management handover; no personal paid duties or hours inferred.2018 speech re-read supports ringer/shearer work but not unpaid status, correcting category to unknown. Everest/CE&TS/QGC employer and brigade identity searches found no attributable payroll, full-time, contract or leave evidence. All226 members now have an initial durable record and October4follow-up; none meets full specification. Next pass must use new recorded leads and least-recent follow-up chronology across all13batches, avoiding repeated exhausted general queries.",
-    "Follow-up2026-10-05: Targeted QGC welding employer/subcontractor, Everest historical corporate registry and rural-fire brigade identity. Own/party biographies repeat project client and business facts without payroll employer/hours.2019 state interests report index surfaced an earlier Everest trustee lead (https://www.parliament.qld.gov.au/Work-of-the-Assembly/Tabled-Papers/redirect/docs/2019/5619T1319.pdf), but direct open403 and individual entry not inspected; retain as lead, no earlier appointment boundary inferred. UK company-control cessation namesake and generic gas-project contractors not assigned to him. Normalised pre-existing volunteer employment_status enum for Kindergarten role to approved unknown while retaining explicit volunteer category/evidence, with no material career claim. Need readable original declaration or individual contracts/service records for further progress."
+    "Follow-up2026-10-05: Targeted QGC welding employer/subcontractor, Everest historical corporate registry and rural-fire brigade identity. Own/party biographies repeat project client and business facts without payroll employer/hours.2019 state interests report index surfaced an earlier Everest trustee lead (https://www.parliament.qld.gov.au/Work-of-the-Assembly/Tabled-Papers/redirect/docs/2019/5619T1319.pdf), but direct open403 and individual entry not inspected; retain as lead, no earlier appointment boundary inferred. UK company-control cessation namesake and generic gas-project contractors not assigned to him. Normalised pre-existing volunteer employment_status enum for Kindergarten role to approved unknown while retaining explicit volunteer category/evidence, with no material career claim. Need readable original declaration or individual contracts/service records for further progress.",
+    "Targeted second pass: readable original16May2018 speech adds Australian large-construction and mining work, with undated employer/contract context separated from existing family/QGC activity; no additive tenure or full-time inference.2019 original state declaration remains403Forbidden in web open. Focused employer/Everest queries found no attributable service contracts or paid hours; Guyana relay organiser namesake excluded. Need named project payroll or historical entity-linked contracts."
   ]
 }
