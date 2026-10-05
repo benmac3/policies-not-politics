@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/299145",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-04",
+  "last_reviewed": "2026-10-05",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -181,6 +181,25 @@
       "evidence_note": "First speech places course after leaving school and before first full-time party job.2023 speech corroborates sequence. Provider, qualification level, calendar dates and course load unknown.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "299145-business-course"
+    },
+    {
+      "spell_id": "299145-whs-representation",
+      "employer": "MOP(S) staff Work Health and Safety Committee; ALP representative affiliation, separate employing entity not established",
+      "role": "Committee participant / staff representation",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "political_staff",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-finance-whs2018"
+      ],
+      "evidence_note": "Dated participation observed16February2018: attendance list affiliates Alison Byrnes with Australian Labor Party; minutes document her contributions on inappropriate workplace behaviour and ergonomic equipment. Term boundaries and separate remuneration unknown. Likely staff representative duties within political employment, not evidence of new Finance/Defence departmental employment or direct ALP payroll.",
+      "counting_note": "Political-staff representative activity separately visible but not added to Bird employment duration; no substantive hours or paid separate job inferred."
     }
   ],
   "sources": [
@@ -293,6 +312,16 @@
       "source_type": "government_record",
       "locator": "Final paragraphs: staffer Alison Byrnes organising student visit",
       "note": "Read parliamentary speech reproduction. Bird identifies her own staffer; Paul Scully is expressly Elliot’s chief of staff. Visit to another minister office is not transfer of employer. No hours or payroll dates."
+    },
+    {
+      "source_id": "src-finance-whs2018",
+      "url": "https://maps.finance.gov.au/sites/default/files/2019-11/whs_committee_meeting_minutes_2018-02-16.pdf",
+      "publisher": "Australian Department of Finance, Ministerial and Parliamentary Services",
+      "title": "WHS Committee meeting minutes,16February2018",
+      "retrieved": "2026-10-05",
+      "source_type": "government_record",
+      "locator": "PDFp1 attendees; p3 Byrnes policy/workstation interventions",
+      "note": "Primary minutes date committee participation under ALP affiliation. Finance/Defence documents discussed do not make Byrnes an employee of those departments. No separate pay, appointment dates or hours. Search title incorrectly says2016; actual document heading16February2018 controls."
     }
   ],
   "open_questions": [
@@ -313,6 +342,7 @@
     "Second follow-up2026-10-02: targeted member professional-profile education index, UOW-domain graduation/Master queries, exact2003/2004 gap and McDonald’s searches yielded no new identity-safe employment fact. Profile repeats existing degree and Bird dates without graduation calendar boundaries. First-speech republication adds no new facts. No material enrichment counted.",
     "Overseas artist, Ares employee charity fundraising and other people’s McDonald’s recollections excluded; generic university event attendance is not enrolment or employment. Future follow-up needs original graduation list, Martin cessation/other2002–2005 payroll record or identifiable outlet history; do not keep repeating generic biography/year queries. Full-time adviser study subperiod remains unlocated and all gaps retained.",
     "Third follow-up 2026-10-04: targeted University of Wollongong graduation and Master of Management records, Stephen Martin 2002–2005 transition material, and McDonald’s Corrimal/Wollongong outlet history. Results only repeated the current official biography, Martin’s parliamentary service and unrelated local sponsorship; none safely establishes Byrnes’s study dates, post-Martin activity or fast-food legal employer. No material enrichment counted. Generic location coincidence and other people’s outlet histories were not transferred; advance the nationwide queue pending an original graduation list, payroll record or identifiable employer document.",
-    "Follow-up2026-10-04: Read Bird24June2010 Hansard reproduction: confirms existing staff affiliation, no new contract/hours boundaries. Graduation-year and2004-work searches produced overseas Duke graduate, Minnesota nurse, Melbourne Monash clinician and Michigan artist namesakes; no dates transferred. Candidate Q&A says nearly three decades of supporting MPs but does not resolve2002–2005 employers. Retain prior gaps; future progress requires original UOW graduation record or Martin/post-Martin payroll account, not repeated generic year searches."
+    "Follow-up2026-10-04: Read Bird24June2010 Hansard reproduction: confirms existing staff affiliation, no new contract/hours boundaries. Graduation-year and2004-work searches produced overseas Duke graduate, Minnesota nurse, Melbourne Monash clinician and Michigan artist namesakes; no dates transferred. Candidate Q&A says nearly three decades of supporting MPs but does not resolve2002–2005 employers. Retain prior gaps; future progress requires original UOW graduation record or Martin/post-Martin payroll account, not repeated generic year searches.",
+    "Follow-up2026-10-05: primary Finance16February2018WHS minutes add previously omitted staff-committee representation, with ALP affiliation and documented interventions. Dated attendance is not appointment/end or a separate Finance/Defence job; retain unknown hours and no additive duration. Target ministerial staffing,2003transition and McDonald’s employer queries yielded existing court record and foreign namesakes; applicant-specific contract in1997judgment remains unassigned. Original2002–2005payroll and UOW course dates still required."
   ]
 }
