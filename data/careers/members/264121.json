@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/264121",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-04",
+  "last_reviewed": "2026-10-05",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -20,7 +20,7 @@
       "role": "Kitchen assistant in residential aged care",
       "start_date": "2004",
       "end_date": null,
-      "date_precision": "unknown",
+      "date_precision": "year",
       "employment_status": "part_time",
       "fte_fraction": null,
       "category": "unknown",
@@ -38,9 +38,9 @@
       "spell_id": "264121-02",
       "employer": "Griffith University",
       "role": "Bachelor of Laws and Bachelor of Arts student",
-      "start_date": null,
+      "start_date": "2004",
       "end_date": "2009",
-      "date_precision": "mixed",
+      "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "study",
@@ -99,9 +99,10 @@
         "src-3",
         "src-4",
         "src-5",
-        "src-13"
+        "src-13",
+        "src-apec2018-oct5"
       ],
-      "evidence_note": "The official ministerial biography records legal work at Maurice Blackburn from 2014 to 2019. Wells' first speech describes private-sector workers' compensation practice, and party biographies add representation of people injured at work or on the road. The exact commencement, payroll cessation, hours, leave and campaign arrangements are not published; 18 May 2019 is an outer bound from election, not a proved employment endpoint. Public professional index gives August 2014–May 2019; these reported month boundaries supersede the earlier election-day proxy. No actual day, full-time label, maternity leave, campaign leave or overlap conclusion is available.",
+      "evidence_note": "The official ministerial biography records legal work at Maurice Blackburn from 2014 to 2019. Wells' first speech describes private-sector workers' compensation practice, and party biographies add representation of people injured at work or on the road. The exact commencement, payroll cessation, hours, leave and campaign arrangements are not published; 18 May 2019 is an outer bound from election, not a proved employment endpoint. Public professional index gives August 2014–May 2019; these reported month boundaries supersede the earlier election-day proxy. No actual day, full-time label, maternity leave, campaign leave or overlap conclusion is available. The official Political Exchange Council report names her as Maurice Blackburn lawyer in the July–August2018delegation list. It does not establish leave/payroll status during travel.",
       "counting_note": "Private legal employment is supported, but exact boundaries and substantive full-time evidence are insufficient."
     },
     {
@@ -110,7 +111,7 @@
       "role": "Volunteer co-founder",
       "start_date": "2015",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "unpaid_work",
@@ -129,7 +130,7 @@
       "role": "Member of the House of Representatives for Lilley",
       "start_date": "2019-05-18",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "day",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -184,6 +185,25 @@
       "evidence_note": "A contemporary parliamentary directory lists Wells as an Assistant Adviser in Ludwig's office, and a 21May2010 joint ministerial release names her as a media contact. Ludwig later confirms her among former staff. The directory and dated observation are not commencement or cessation evidence. Nested within the existing five-year political-staff umbrella; do not add durations.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "264121-08"
+    },
+    {
+      "spell_id": "264121-09",
+      "employer": "Australian Political Exchange Council delegation; host American Council of Young Political Leaders",
+      "role": "Leader, thirty-fourth Australian delegation to United States",
+      "start_date": "2018-07-21",
+      "end_date": "2018-08-01",
+      "date_precision": "day",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-apec2018-oct5"
+      ],
+      "evidence_note": "Official report supplies delegation travel interval and names Wells leader. These are exchange-activity dates, not appointment to paid employment. No salary, law-firm paid/unpaid leave, campaign break or concurrent work arrangements supplied.",
+      "counting_note": "Political exchange participation excluded; no additional headline employment years or automatic subtraction from legal employment."
     }
   ],
   "sources": [
@@ -313,7 +333,7 @@
       "title": "Public professional profile",
       "source_type": "professional_profile",
       "locator": "Public education and Maurice Blackburn experience entries",
-      "note": "Public page gives Griffith University2004–2009; indexed experience gives Maurice Blackburn August2014–May2019. Some experience fields remain redacted; no authenticated access or hidden fields used. Hours and leave not exposed.",
+      "note": "Public page gives Griffith University2004–2009; indexed experience gives Maurice Blackburn August2014–May2019. Some experience fields remain redacted; no authenticated access or hidden fields used. Hours and leave not exposed. Griffith2004–2009education entry freshly corroborated in public search index5October2026; structured start aligned with previously recorded evidence.",
       "retrieved": "2026-10-03",
       "source_id": "src-13"
     },
@@ -326,6 +346,16 @@
       "note": "Contemporary parliamentary-directory reproduction lists Ms Anika Wells as Assistant Adviser. It establishes a role observation, not appointment or cessation dates, hours or leave.",
       "retrieved": "2026-10-03",
       "source_id": "src-14"
+    },
+    {
+      "source_id": "src-apec2018-oct5",
+      "url": "https://www.auspolexchange.gov.au/sites/default/files/2021-05/apec_ar_16-19.pdf",
+      "publisher": "Australian Political Exchange Council",
+      "title": "Report2016–2019 — thirty-fourth delegation to United States",
+      "source_type": "government_record",
+      "retrieved": "2026-10-05",
+      "locator": "Printedp85,2018–2019section; delegation21July–1August2018",
+      "note": "Publicly indexed official report names Wells as delegation leader and Maurice Blackburn lawyer. Direct web open returned(400)Timeout fetching and ordinary download timed out. Indexed text used only for explicit visible role and trip dates, not missing contents."
     }
   ],
   "research_notes": [
@@ -338,6 +368,7 @@
     "Remaining: identify Daisy wing facility and ownership; establish kitchen/relief-diversional role chronology and hours; identify all ministerial offices and actual five-year boundaries; Maurice Blackburn contract, maternity/campaign leave and last paid day. Secondary relief-diversional role remains a lead needing better evidence.",
     "Source errors: archived Maurice Blackburn March2019 profile inaccessible via search tool. LinkedIn public page later became accessible for Griffith dates while experience remains partly redacted; public index used only for visible Maurice Blackburn months. Secondary claim of Wayne Swan staff service not independently established; campaign management does not prove ministerial employment.",
     "Follow-up2026-10-03: publicprofessionalprofile supplies Griffith2004–2009. A contemporary CCH parliamentary-directory reproduction identifies Wells as Assistant Adviser in Joe Ludwig's office, consistent with the 21May2010 government-release media contact and Ludwig's later valedictory. These are role observations, not employment boundaries. Other ministerial offices, the reported five-year interval, 2012–2014 work, hours and leave remain unresolved.",
-    "Follow-up2026-10-04: Reviewed Daisy-wing employer, relief-diversional and2011Ludwig leads. Healthdepartment14September2022speech confirms only unnamed nursing-home kitchen work. AgedCareInsite11August2022opinion https://www.agedcareinsite.com.au/2022/08/time-to-get-to-work-and-and-face-the-challenges-of-aged-care-reform-opinion/ repeats relief-diversional claim without direct interview or facility identity; retained lead, not adopted as a dated independent employment spell. May2010CCHrole already recorded. MauriceBlackburnhours/leave and additional ministerial offices remain unknown."
+    "Follow-up2026-10-04: Reviewed Daisy-wing employer, relief-diversional and2011Ludwig leads. Healthdepartment14September2022speech confirms only unnamed nursing-home kitchen work. AgedCareInsite11August2022opinion https://www.agedcareinsite.com.au/2022/08/time-to-get-to-work-and-and-face-the-challenges-of-aged-care-reform-opinion/ repeats relief-diversional claim without direct interview or facility identity; retained lead, not adopted as a dated independent employment spell. May2010CCHrole already recorded. MauriceBlackburnhours/leave and additional ministerial offices remain unknown.",
+    "2026-10-05 follow-up: added omitted21July–1August2018USpolitical-exchange delegation leadership from public indexed official APEC reportp85; employer list corroborates MauriceBlackburn lawyer but does not prove leave/pay. Aligned Griffith2004study start with already supported profile, freshly indexed. Daisywing/additionalLudwig roles remain unknown. ArchivedMarch2019employer profile returned ServerError (no code); APECdirectweb400Timeout and ordinary download TimeoutError: The read operation timed out. Nundah volunteer and Swan staff leads remain for primary corroboration; no hours, maternity/campaign leave or lastpaidday invented."
   ]
 }
