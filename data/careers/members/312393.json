@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/312393",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-04",
+  "last_reviewed": "2026-10-05",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -20,7 +20,7 @@
       "role": "Professional basketball player",
       "start_date": null,
       "end_date": "2005",
-      "date_precision": "mixed",
+      "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "private_enterprise",
@@ -126,7 +126,7 @@
       "role": "Queensland Basketball League player",
       "start_date": null,
       "end_date": "2018",
-      "date_precision": "mixed",
+      "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "unknown",
@@ -156,9 +156,11 @@
         "src-1",
         "src-5",
         "src-9",
-        "src-10"
+        "src-10",
+        "src-fentiman-may2023-oct5",
+        "src-pm-jul2024-oct5"
       ],
-      "evidence_note": "Smith's first speech says Together recruited him from a sport-and-recreation officer role and that he was happily organising for Together when approached to run for Parliament in 2024. His official site and Labor biography corroborate representing public-sector workers. Contemporary reporting identifies him as a Together Union organiser. The start date, exact 2025 cessation, hours, leave and candidate-period arrangements are not published.2025election is not evidence of union resignation; unsupported end removed.",
+      "evidence_note": "Smith's first speech says Together recruited him from a sport-and-recreation officer role and that he was happily organising for Together when approached to run for Parliament in 2024. His official site and Labor biography corroborate representing public-sector workers. Contemporary reporting identifies him as a Together Union organiser. The start date, exact 2025 cessation, hours, leave and candidate-period arrangements are not published.2025election is not evidence of union resignation; unsupported end removed. Queensland ministerial diary explicitly records him as Together Union organiser at a 26 May 2023 meeting. On 19 July 2024 he describes organising across Cardwell to the Torres Strait and supporting members during the Cyclone Jasper response. These dated observations narrow the known activity window but are not employment endpoints; continuity, remuneration arrangements and hours remain unverified.",
       "counting_note": "Union employment is excluded from the public/private headline totals."
     },
     {
@@ -187,7 +189,7 @@
       "role": "Member of the House of Representatives for Leichhardt",
       "start_date": "2025-05-03",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "day",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -376,6 +378,25 @@
       "start_date": "2009",
       "end_date": "2009",
       "evidence_note": "Publicly indexed secondary basketball history identifies the 2009 season with this club. Season year retained as activity precision only; not an entire calendar year of employment. Pay, exact dates, hours and overlaps with university, Cairns or other work unknown. Primary season-statistics page was inaccessible403."
+    },
+    {
+      "spell_id": "312393-19",
+      "employer": "Sandringham Sabres",
+      "role": "Big V basketball player",
+      "start_date": "2004",
+      "end_date": "2004",
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "unknown",
+      "government_control_at_time": "unknown",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-20"
+      ],
+      "evidence_note": "Publicly indexed Aussie Hoopla career history identifies the 2004 Big V season at Sandringham. Retained as a season observation only. A 2005 season appears in derivative encyclopaedia copies but is not independently established here; no extension to 2005. Payment, legal employing entity, control, contract boundaries and hours unresolved.",
+      "counting_note": "Playing a state-league season does not establish paid full-time work or an entire calendar year of employment. No headline years added."
     }
   ],
   "sources": [
@@ -577,7 +598,27 @@
       "source_type": "professional_profile",
       "retrieved": "2026-10-04",
       "locator": "Publicly indexed career paragraphs for Albury Wodonga2000 and Hobart2009",
-      "note": "Secondary basketball history names two state-league seasons. Full open timed out; primary GameDay season pages403. Playing season does not establish pay, control, contract or full-time workload."
+      "note": "Secondary basketball history names two state-league seasons. Full open timed out; primary GameDay season pages403. Playing season does not establish pay, control, contract or full-time workload. Retrieved indexed Sandringham 2004 paragraph again on 5 October 2026; full-page retrieval returned (400) Timeout fetching."
+    },
+    {
+      "source_id": "src-fentiman-may2023-oct5",
+      "url": "https://cabinet.qld.gov.au/ministers-portfolios/assets/diary/2023/may/shannon-fentiman-b.pdf",
+      "publisher": "Queensland Government",
+      "title": "Shannon Fentiman ministerial diary, 18–31 May 2023",
+      "source_type": "government_record",
+      "retrieved": "2026-10-05",
+      "locator": "PDF pages 4–5, meeting of 26 May 2023 with Cairns and Hinterland Hospital and Health Service and unions",
+      "note": "Names Matt Smith as Organiser, Together Union. Point-in-time role evidence, not appointment, cessation or full-time proof."
+    },
+    {
+      "source_id": "src-pm-jul2024-oct5",
+      "url": "https://www.pm.gov.au/media/press-conference-cairns-1",
+      "publisher": "Prime Minister of Australia",
+      "title": "Press conference — Cairns, 19 July 2024",
+      "source_type": "government_record",
+      "retrieved": "2026-10-05",
+      "locator": "Smith answers about union organising and Cyclone Jasper, transcript paragraphs beginning As an organiser and Giving an insight",
+      "note": "First-person account corroborates regional union work during the cyclone response; does not disclose payroll boundaries or hours."
     }
   ],
   "research_notes": [
@@ -592,6 +633,7 @@
     "Seek Queenslandagency,politicaloffice dates,Council appointmentanddeparture,unionstart/leave and4CAcontract. State/local decade claim is not a full-time interval.",
     "Source gaps: GameDay playerstats403Forbidden; APH403Forbidden; ParksLeisureconferencePDF403Forbidden; CairnsPostcookiepage; NZHeraldrobotsblocked. Other primary sources used; no bypass.",
     "Follow-up 2026-10-03: targeted searches for Cairns Regional Council appointment/cessation, the unidentified Queensland agency, Jim Turnour and Jan McLucas office dates, and Together appointment/leave returned existing speeches, current biographies, undated social posts or unrelated namesakes. No defensible date, title, hours, leave or employing-agency fact was added; retain the 2014–2020 Council observations and unknown boundaries.",
-    "Follow-up2026-10-04: Dedicated state-league lead pass adds Albury Wodonga2000 and Hobart2009 playing-season activity from indexed basketball history; payment, contract dates/hours and club legal control remain unknown. Primary GameDay pages403, CairnsPostcookiewall and history full-open400Timeout were source-only. Sandringham2004–05, Geelong/NorthMelbourne training roles and Marlins individual seasons retain primary/newspaper leads pending accessible corroboration. No date inferred from game counts or full calendar year counted. State agency, political-office and union gaps remain."
+    "Follow-up2026-10-04: Dedicated state-league lead pass adds Albury Wodonga2000 and Hobart2009 playing-season activity from indexed basketball history; payment, contract dates/hours and club legal control remain unknown. Primary GameDay pages403, CairnsPostcookiewall and history full-open400Timeout were source-only. Sandringham2004–05, Geelong/NorthMelbourne training roles and Marlins individual seasons retain primary/newspaper leads pending accessible corroboration. No date inferred from game counts or full calendar year counted. State agency, political-office and union gaps remain.",
+    "2026-10-05 targeted follow-up: new Queensland ministerial diary names Together organiser on 26 May 2023; first-person July 2024 PM transcript corroborates regional organising during Cyclone Jasper. Added Sandringham 2004 season from indexed secondary specialist history, explicitly not paid/full-time or 2005 proof. Two engines searched union/state-sport roles and Sandringham seasons; full Aussie Hoopla open returned (400) Timeout fetching. Actor, rowing executive and overseas union namesakes excluded; employment endpoints, hours and leave remain unknown."
   ]
 }
