@@ -6,7 +6,7 @@
   "snapshot_party": "Liberal Party of Australia",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/264449",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-04",
+  "last_reviewed": "2026-10-05",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -33,7 +33,8 @@
         "src-6",
         "src-7",
         "src-9",
-        "src-5"
+        "src-5",
+        "src-10"
       ],
       "evidence_note": "Official year-level progression corroborated by first speech and contemporary candidate guide. Historical report supports privately governed Australian partnership; consulting for governments would not make employee public-sector. Promotion boundaries and hours unknown. Three adjacent roles are one employer career; avoid double-counting boundary years. No full-time inference from seniority. Adjacent professional-profile rangeMarch2014–December2016is a lead, but its role label was not exposed in the retrieved excerpt, so structured analyst endpoints remain year precision.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
@@ -58,7 +59,8 @@
         "src-6",
         "src-7",
         "src-9",
-        "src-5"
+        "src-5",
+        "src-10"
       ],
       "evidence_note": "Official year-level progression corroborated by first speech and contemporary candidate guide. Historical report supports privately governed Australian partnership; consulting for governments would not make employee public-sector. Promotion boundaries and hours unknown. Three adjacent roles are one employer career; avoid double-counting boundary years. No full-time inference from seniority. Public self-reported professional profile now dates senior analystJanuary2017–June2018. June2018end is finer compatible evidence. Official2016start conflicts with profileJanuary2017, so preserve official start year and explicitly retain conflict pending personnel evidence; do not imply a confirmed2016–2017overlap or adjust adjacent roles automatically.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
@@ -82,7 +84,8 @@
         "src-3",
         "src-6",
         "src-7",
-        "src-9"
+        "src-9",
+        "src-10"
       ],
       "evidence_note": "Official year-level progression corroborated by first speech and contemporary candidate guide. Historical report supports privately governed Australian partnership; consulting for governments would not make employee public-sector. Promotion boundaries and hours unknown. Three adjacent roles are one employer career; avoid double-counting boundary years. No full-time inference from seniority.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
@@ -215,7 +218,7 @@
       "role": "Senator for Tasmania",
       "start_date": "2019-07-01",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "day",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -321,6 +324,16 @@
       "note": "First-person law studies and risk advisory work in Hobart; no hours.",
       "retrieved": "2026-10-01",
       "source_id": "src-9"
+    },
+    {
+      "source_id": "src-10",
+      "url": "https://www.aph.gov.au/-/media/05_About_Parliament/54_Parliamentary_Depts/544_Parliamentary_Library/Handbook/handbook_46th_parliament_part_2b.pdf?hash=9B84631FC4CA66028E4E51B0577108E4D698A8BE&la=en",
+      "publisher": "Parliament of Australia",
+      "title": "46thParliament ParliamentaryHandbook2020,part2b",
+      "retrieved": "2026-10-05",
+      "source_type": "official_biography",
+      "locator": "Printedp64,Chandler qualifications/occupations and partypositions; public indexed text",
+      "note": "Historicalhandbook independently shows analyst2014–16,senior2016–18,clientmanager2018–19. Preserves2016vs2017seniorstartconflict; no hours/leave or finer endpoints."
     }
   ],
   "research_notes": [
@@ -333,6 +346,7 @@
     "Follow-up2026-10-02: primary professional index narrows senior-analyst end toJune2018and exposesJanuary2017start conflicting with official2016. Retain both explicitly; no inventedJulyclient-manager start. AdjacentMarch2014–December2016unlabelledrange and aggregate5years3months are not used to invent full-time total.",
     "Bushby staff chronology, student governance and campaign-leave searches gave no new attributable contract/hours evidence. Full-time search results in Mandarin concern unrelated job advertisements, not Chandler; Our Watch annual-report event list separates board chair from invited Senator, so no directorship inferred. Direct LinkedIn429Too Many Requests not retried; indexed primary evidence available. Next seek promotion letter, employment hours/leave and Bushby office records.",
     "Follow-up2026-10-04: targeted public-profile, Deloitte, client-manager, Bushby-office and campaign searches repeated the official role sequence and the already recordedJanuary2017–June2018senior-analyst range. No safely attributable client-manager month endpoints, substantive hours, campaign leave, employing entity or Bushby contract dates were exposed. The aggregate five-year-three-month profile duration was not converted into inferred boundaries. No material fact changed; retain gaps and advance.",
-    "Follow-up2026-10-04: Targeted public-profile role-label/month and campaign-leave searches failed to expose Chandler own analyst or client-manager fields; returned unrelated professional profiles and current jobs for her staff instead. Staff full-time advertisements are not her Deloitte terms. Contemporaneous February2016 Young Liberal executive statement repeats prior Bushby employment and current analyst status already recorded, but no finer paid-staff dates or promotion/hours evidence. Maintained official2016 versus profileJanuary2017 senior-analyst start discrepancy. Need original Deloitte personnel/appointment evidence or readable dated public CV; no additional fact promoted and no invented cessation on election day."
+    "Follow-up2026-10-04: Targeted public-profile role-label/month and campaign-leave searches failed to expose Chandler own analyst or client-manager fields; returned unrelated professional profiles and current jobs for her staff instead. Staff full-time advertisements are not her Deloitte terms. Contemporaneous February2016 Young Liberal executive statement repeats prior Bushby employment and current analyst status already recorded, but no finer paid-staff dates or promotion/hours evidence. Maintained official2016 versus profileJanuary2017 senior-analyst start discrepancy. Need original Deloitte personnel/appointment evidence or readable dated public CV; no additional fact promoted and no invented cessation on election day.",
+    "Follow-up2026-10-05: historical2020ParliamentaryHandbookp64 independently preserves2016senior-analyst start, so existing2016officialvsJanuary2017public-profile conflict remains genuine/unresolved. Current publicprofile index masks work labels/months; targeted analyst/clientmanager monthqueries returned unrelatedforeign professionals, not Chandler. August2018Boweaccount describes riskadvisorymanager but adds no exactpromotion/contracthours/leave. Bushby2013query confirmscampaignprize not paidstafftenure; not converted tojobdate. Retain existingyears/June2018end/unknownFT; seek personnelletter or attributable detailedCV rather than extrapolatingfiveyears threemonths. Nonmaterial corroboration only."
   ]
 }
