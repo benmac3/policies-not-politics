@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/83M",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-04",
+  "last_reviewed": "2026-10-05",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -20,7 +20,7 @@
       "role": "Bachelor of Arts in Communications (Honours) student",
       "start_date": null,
       "end_date": "1993",
-      "date_precision": "mixed",
+      "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "study",
@@ -187,9 +187,10 @@
       "source_ids": [
         "src-snapshot",
         "src-aph-current",
-        "src-directory"
+        "src-directory",
+        "src-maternity2007-oct5"
       ],
-      "evidence_note": "The frozen roster, current Parliament profile and Australian Government Directory establish continuous House service from 3 October 1998.",
+      "evidence_note": "The frozen roster, current Parliament profile and Australian Government Directory establish continuous House service from 3 October 1998. The June2007 Procedure Committee report records approved House maternity leave6February–5April2001 and8February–17March2005. These are parliamentary attendance-leave periods within continuing elected service, not proof of zero constituency work, unpaid leave, a break in membership or nonparliamentary employment.",
       "counting_note": "Federal elected office is excluded under the codebook."
     },
     {
@@ -451,6 +452,16 @@
       "source_type": "government_record",
       "locator": "Original statement PDFpages2,4,5: section2(ii) trustee; section10 personal publication royalties; section13 patron/ambassador roles; accompanying alteration signed23August2022",
       "note": "Directly retrieved original PDF text identifies self row, distinct from spouse/dependants. Publication unnamed; exact role dates/pay/workload unstated. PDF screenshot retrieval failed with restricted URL; available original text was preserved without bypass."
+    },
+    {
+      "source_id": "src-maternity2007-oct5",
+      "url": "https://aphref.aph.gov.au/house/committee/proc/nursingmothers/report/fullreport.pdf",
+      "publisher": "House of Representatives Standing Committee on Procedure",
+      "title": "Options for nursing mothers, June2007",
+      "retrieved": "2026-10-05",
+      "source_type": "government_record",
+      "locator": "Table1.2 Leave approved by the House for maternity purposes, printed page9 / PDF index18; paragraph1.44 on page8",
+      "note": "Original report text and table screenshot retrieved through parliamentary archive; contemporary HTML restricted URL. Table sourced to Votes and Proceedings records approved House leave, not payroll leave or complete cessation of all parliamentary duties."
     }
   ],
   "research_notes": [
@@ -464,6 +475,7 @@
     "Second follow-up2October2026: targeted UTS/Vertigo archive, Women’s Officer pay/year, Macquarie completion, domestic-violence-unit appointment and Childs-office chronology queries did not yield defensible dates or hours. Inside Story14March2023 biography review (https://insidestory.org.au/jane-austens-prime-minister/) describes the women’s-officer role as during honours, a useful possible explanation of previously conflicting degree/office sequence; retain as a lead pending contemporary student-association records, not proof of a1992 or1993 appointment. Crikey29January2004 delegate table labels the government role professional officer (https://www.crikey.com.au/2004/01/29/the-whos-who-of-national-conference/) without dates or payroll confirmation. Tim Ayres13June2023 tribute confirms Childs service in her early twenties but cannot date it precisely. No new bounded paid employment, leave or full-time evidence. Preserve existing facts and prioritize original student-association and public-service/personnel records over repeated broad biographies.",
     "Third follow-up3October2026: targeted UTS repository/archive, 1992 Women’s Officer and Childs chronology searches found no contemporary student-association election, payroll or appointment record. A Facebook search snippet claims 1992 but is an uncertain recollection and is not adopted; the existing UTS honours completion remains 1993. Australian Women’s Register and Crikey results repeat already recorded role sequence/title evidence without dates or hours. Childs’s later parliamentary service endpoint is not substituted for Plibersek’s personal staff cessation. No substantive career fact changed.",
     "Fourth follow-up4October2026: a directly accessible February2009 South Sydney Herald profile materially refines the NSW role to domestic-violence research and creation of publications and confirms the transition sequence into Bruce Childs's staff. It does not supply payroll title, appointment boundary, hours or leave. Fresh UTS repository, student-handbook and exact senator-office searches otherwise returned unrelated academic PDFs, existing secondary chronology and no personnel record; the 10September1997 end of Childs's Senate service remains only an outer bound, not Plibersek's personal cessation date.",
-    "Follow-up2026-10-04: Original 47th-Parliament interests declaration adds Jessie Street Trust trusteeship, CLAN patronage and Life Education NSW ambassadorship, separately excluded charitable roles. It also establishes personal publication royalties donated to Wayside Chapel and Exodus Foundation, but the publication is unnamed; Upturn remuneration remains unconfirmed and no royalty receipt is converted into a work interval. Current Vertigo web archive did not expose a1990s election/payroll record. Original PDF text available; screenshot restricted-URL errors were individual-source gaps, not terminal."
+    "Follow-up2026-10-04: Original 47th-Parliament interests declaration adds Jessie Street Trust trusteeship, CLAN patronage and Life Education NSW ambassadorship, separately excluded charitable roles. It also establishes personal publication royalties donated to Wayside Chapel and Exodus Foundation, but the publication is unnamed; Upturn remuneration remains unconfirmed and no royalty receipt is converted into a work interval. Current Vertigo web archive did not expose a1990s election/payroll record. Original PDF text available; screenshot restricted-URL errors were individual-source gaps, not terminal.",
+    "Follow-up2026-10-05: Primary June2007 House committee report materially supplies two approved parliamentary maternity-leave windows in2001/2005. Attendance leave is not cessation of membership or proven cessation of all duties; narrow headline totals unchanged. Publication-credit/year-specific NSW unit searches cross-checked with both engines did not identify a1990s authored publication or personal appointment; unit formation and senator term dates remain organisational outer context. No private PR consultancy is adopted from an inconsistent foreign-language derivative biography. Seek actual student-association payroll/NSW appointment and publication contracts for unresolved employment; original HTML restricted retrieval recovered via official report PDF."
   ]
 }
