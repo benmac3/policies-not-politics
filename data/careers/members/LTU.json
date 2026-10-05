@@ -151,7 +151,7 @@
     {
       "spell_id": "LTU-06",
       "employer": "Australian Nursing Federation",
-      "role": "Assistant federal secretary",
+      "role": "Assistant federal secretary; acting federal secretary observation in 2003",
       "start_date": "2002",
       "end_date": "2008",
       "date_precision": "year",
@@ -169,9 +169,10 @@
         "oct2-return",
         "oct2-poverty",
         "oct2-alias",
-        "oct2-anmj"
+        "oct2-anmj",
+        "src-pc-acting2003-pass2"
       ],
-      "evidence_note": "APH and union retrospective say 2002; first speech says elected in 2003, and ACTU 2010 biography also uses 2003 for elected official. Preserve conflict, no unsupported precise transition date. Contemporaneous return still lists Denis Jones in this office on5 February2003; Cowin signs as assistant secretary7 April2003. This narrows the observed office transition but not nursing cessation or payroll commencement. Official2002 year retained as disputed pending appointment record.",
+      "evidence_note": "APH and union retrospective say 2002; first speech says elected in 2003, and ACTU 2010 biography also uses 2003 for elected official. Preserve conflict, no unsupported precise transition date. Contemporaneous return still lists Denis Jones in this office on5 February2003; Cowin signs as assistant secretary7 April2003. This narrows the observed office transition but not nursing cessation or payroll commencement. Official2002 year retained as disputed pending appointment record. Original Productivity Commission submission dated 10 June 2003 (received 16 June) is signed Ged Cowin, Acting Federal Secretary. Record this acting-duty observation within the assistant-secretary period without moving the separately evidenced April 2008 permanent appointment or adding overlapping years. Acting appointment boundaries, pay, hours and nursing cessation remain unknown.",
       "counting_note": "Excluded from the two employment headlines under the codebook."
     },
     {
@@ -653,6 +654,16 @@
       "source_type": "employer",
       "locator": "Dated heading and first two paragraphs",
       "note": "Primary member organisation announces resignation in response to April 2017 visa changes; month-level cessation retained, exact resignation day and first appointment unknown."
+    },
+    {
+      "source_id": "src-pc-acting2003-pass2",
+      "url": "https://assets.pc.gov.au/inquiries/completed/workers-compensation/submissions/australian_nursing_federation/sub070.pdf",
+      "publisher": "Australian Nursing Federation / Productivity Commission",
+      "title": "Workers’ compensation and occupational health and safety frameworks submission, 10 June 2003",
+      "retrieved": "2026-10-05",
+      "source_type": "government_record",
+      "locator": "PDF p1 letter date 10 June 2003 and receipt stamp 16 June 2003; pp3–4 signature and title",
+      "note": "Original inquiry submission signed by Ged Cowin as Acting Federal Secretary. This is a dated acting-role observation, not the start of the permanent federal secretary appointment or an additional employment interval."
     }
   ],
   "research_notes": [
@@ -668,6 +679,7 @@
     "APH submission direct open Internal Error and AWPA report403; official indexed cover usable. No exact nursing start/cessation, aged-care employer, hours changes or leave recovered. Next:2003 election/appointment result and Austin cessation record; aged-care provider; earliest Cbus/HESTA appointments; Skills Australia/AWPA appointment terms.",
     "Follow-up2026-10-04: Kearney's public professional profile refines the later Austin Health employment envelope to January1999–April2003 (4 years 4 months), surrounding the official2000–2002 deputy-director range. This materially improves boundaries but does not establish title-transition days, full-time continuity, hours or leave and cannot be applied to her separately evidenced Austin nursing in the1980s. Aged-care provider identity and earlier nursing boundaries remain unresolved.",
     "Follow-up2026-10-04: Cbus2011/12 indexed employer report resolves directorship commencement to August2011, with2012/13 indexed report independently consistent. Added omitted BEd, unfinished economics study, RG146 qualification and AWPA governance. Failed PDF opens were source-level errors recovered via readable indexed report; no access-control bypass or full-document visual claim. Austin/aged-care boundaries, nursing continuity/leave and2002/2003 union transition remain unresolved. Skills Australia appointment searches recovered AWPA membership observation but no exact original tenure.",
-    "2026-10-05 follow-up: new government December 2016 membership publication and ACTU 21 April 2017 resignation release establish omitted skilled-migration advisory council governance, ending April 2017 with first appointment and exact resignation day unknown. Secondary 2012 appointment and 2015 reappointment leads suggest a reconstitution gap; original 2012 ParlInfo open unavailable and 2015 Nine open403, so no synthetic continuous tenure adopted. Austin/Cowin 1998 and 2003 union-election queries found no nursing or paid-appointment instrument; HESTA early-start search found later commentary only. Full-time nursing envelope/leave, aged-care employer, transition conflict and HESTA appointment remain unresolved. Correction: preceding Wood checkpoint said all 25 VIC-2 assignments visited prematurely; this Kearney follow-up now makes 25/25 distinct current-pass records verified after publishing, not 25 complete. Next national follow-up uses oldest full-pass checkpoint WA-1, then plan order; existing completed records not restarted."
+    "2026-10-05 follow-up: new government December 2016 membership publication and ACTU 21 April 2017 resignation release establish omitted skilled-migration advisory council governance, ending April 2017 with first appointment and exact resignation day unknown. Secondary 2012 appointment and 2015 reappointment leads suggest a reconstitution gap; original 2012 ParlInfo open unavailable and 2015 Nine open403, so no synthetic continuous tenure adopted. Austin/Cowin 1998 and 2003 union-election queries found no nursing or paid-appointment instrument; HESTA early-start search found later commentary only. Full-time nursing envelope/leave, aged-care employer, transition conflict and HESTA appointment remain unresolved. Correction: preceding Wood checkpoint said all 25 VIC-2 assignments visited prematurely; this Kearney follow-up now makes 25/25 distinct current-pass records verified after publishing, not 25 complete. Next national follow-up uses oldest full-pass checkpoint WA-1, then plan order; existing completed records not restarted.",
+    "Second targeted primary-source pass: original ANF submission to the Productivity Commission, dated 10 June 2003 and received 16 June, is signed Ged Cowin as Acting Federal Secretary (PDF pp3–4). Added this acting-duty observation to the assistant-secretary spell; no new permanent appointment boundary, nursing endpoint, payroll hours or additional years inferred. The official 2002 versus first-person 2003 transition conflict remains unresolved. Correct VIC2 assignment count is 25, as confirmed by career_batches --check and --batch vic-2. National heads audited 07:45:03 UTC: 226 initial, 226 unresolved, 0 missing/complete; no overlapping writer observed."
   ]
 }
