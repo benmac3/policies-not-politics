@@ -228,9 +228,10 @@
       "government_control_at_time": "private",
       "counting_status": "excluded",
       "source_ids": [
-        "src-interests47p"
+        "src-interests47p",
+        "src-jessie2019-pass2"
       ],
-      "evidence_note": "Original parliamentary disclosure section2(ii) lists her personally as trustee of the charitable trust, which awards an annual grant to a community organisation. Disclosure is not appointment or cessation evidence; exact tenure, pay, hours and leave unknown.",
+      "evidence_note": "Original parliamentary disclosure section2(ii) lists her personally as trustee of the charitable trust, which awards an annual grant to a community organisation. Disclosure is not appointment or cessation evidence; exact tenure, pay, hours and leave unknown. Original Trust31May2019 lunch invitation hosted by Australian Human Rights Commission lists her among trustees, adding a dated observation only, not a personal appointment or cessation date.",
       "counting_note": "Charitable trustee, patron or ambassador activity displayed separately and excluded from narrow employment headlines."
     },
     {
@@ -256,9 +257,9 @@
       "spell_id": "83M-life-education",
       "employer": "Life Education NSW",
       "role": "Ambassador",
-      "start_date": null,
+      "start_date": "2017",
       "end_date": null,
-      "date_precision": "unknown",
+      "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "nonprofit",
@@ -266,9 +267,11 @@
       "government_control_at_time": "private",
       "counting_status": "excluded",
       "source_ids": [
-        "src-interests47p"
+        "src-interests47p",
+        "src-interests45p-pass2",
+        "src-lifeed2017-pass2"
       ],
-      "evidence_note": "Original parliamentary disclosure section13 names this ambassador role. Exact dates, remuneration and workload unstated; not inferred to be operational paid employment.",
+      "evidence_note": "Original parliamentary disclosure section13 names this ambassador role. Exact dates, remuneration and workload unstated; not inferred to be operational paid employment. Original45th-Parliament alteration indexed by Parliament explicitly declares appointment in2017, signed19December2017 and received2January2018. Appointment year is adopted; signature/receipt not appointment days. Original Life Education2016–2017 annual report independently marks her as a new ambassador that financial year. Exact day, remuneration, workload and end still unknown.",
       "counting_note": "Charitable trustee, patron or ambassador activity displayed separately and excluded from narrow employment headlines."
     }
   ],
@@ -462,6 +465,36 @@
       "source_type": "government_record",
       "locator": "Table1.2 Leave approved by the House for maternity purposes, printed page9 / PDF index18; paragraph1.44 on page8",
       "note": "Original report text and table screenshot retrieved through parliamentary archive; contemporary HTML restricted URL. Table sourced to Votes and Proceedings records approved House leave, not payroll leave or complete cessation of all parliamentary duties."
+    },
+    {
+      "source_id": "src-interests45p-pass2",
+      "url": "https://www.aph.gov.au/-/media/03_Senators_and_Members/32_Members/Register/45p/OR/PlibersekT_45P.pdf",
+      "publisher": "Parliament of Australia",
+      "title": "Tanya Plibersek — interests alteration,45th Parliament",
+      "retrieved": "2026-10-05",
+      "source_type": "government_record",
+      "locator": "Public original PDF index: Life Education NSW appointment2017; alteration signed19December2017; registry received2January2018",
+      "note": "Original parliamentary indexed text explicitly gives appointment year. Direct reader returned403 Forbidden; not bypassed. Signature/registry dates are not appointment dates; independently corroborated by organisation2016–2017 report."
+    },
+    {
+      "source_id": "src-lifeed2017-pass2",
+      "url": "https://www.lifeed.org.au/wp-content/uploads/2022/02/Life-Education-NSW_Annual-Report-201617.pdf",
+      "publisher": "Life Education NSW",
+      "title": "Annual Report2016–2017",
+      "retrieved": "2026-10-05",
+      "source_type": "employer",
+      "locator": "Our community: Our ambassadors, P entries, PDF index17 / printed18; list acknowledges2016–2017 financial-year ambassadors",
+      "note": "Original readable PDF labels Tanya Plibersek MP New. No exact appointment date or working arrangement."
+    },
+    {
+      "source_id": "src-jessie2019-pass2",
+      "url": "https://humanrights.gov.au/sites/default/files/jst_invite_2019.pdf",
+      "publisher": "Jessie Street Trust / Australian Human Rights Commission",
+      "title": "Jessie Street Trust annual lunch invitation,31May2019",
+      "retrieved": "2026-10-05",
+      "source_type": "other",
+      "locator": "PDF index0, Trustees list and event date",
+      "note": "Original organisation invitation lists Plibersek trustee. Point-in-time observation; no payroll, hours or appointment boundaries."
     }
   ],
   "research_notes": [
@@ -476,6 +509,7 @@
     "Third follow-up3October2026: targeted UTS repository/archive, 1992 Women’s Officer and Childs chronology searches found no contemporary student-association election, payroll or appointment record. A Facebook search snippet claims 1992 but is an uncertain recollection and is not adopted; the existing UTS honours completion remains 1993. Australian Women’s Register and Crikey results repeat already recorded role sequence/title evidence without dates or hours. Childs’s later parliamentary service endpoint is not substituted for Plibersek’s personal staff cessation. No substantive career fact changed.",
     "Fourth follow-up4October2026: a directly accessible February2009 South Sydney Herald profile materially refines the NSW role to domestic-violence research and creation of publications and confirms the transition sequence into Bruce Childs's staff. It does not supply payroll title, appointment boundary, hours or leave. Fresh UTS repository, student-handbook and exact senator-office searches otherwise returned unrelated academic PDFs, existing secondary chronology and no personnel record; the 10September1997 end of Childs's Senate service remains only an outer bound, not Plibersek's personal cessation date.",
     "Follow-up2026-10-04: Original 47th-Parliament interests declaration adds Jessie Street Trust trusteeship, CLAN patronage and Life Education NSW ambassadorship, separately excluded charitable roles. It also establishes personal publication royalties donated to Wayside Chapel and Exodus Foundation, but the publication is unnamed; Upturn remuneration remains unconfirmed and no royalty receipt is converted into a work interval. Current Vertigo web archive did not expose a1990s election/payroll record. Original PDF text available; screenshot restricted-URL errors were individual-source gaps, not terminal.",
-    "Follow-up2026-10-05: Primary June2007 House committee report materially supplies two approved parliamentary maternity-leave windows in2001/2005. Attendance leave is not cessation of membership or proven cessation of all duties; narrow headline totals unchanged. Publication-credit/year-specific NSW unit searches cross-checked with both engines did not identify a1990s authored publication or personal appointment; unit formation and senator term dates remain organisational outer context. No private PR consultancy is adopted from an inconsistent foreign-language derivative biography. Seek actual student-association payroll/NSW appointment and publication contracts for unresolved employment; original HTML restricted retrieval recovered via official report PDF."
+    "Follow-up2026-10-05: Primary June2007 House committee report materially supplies two approved parliamentary maternity-leave windows in2001/2005. Attendance leave is not cessation of membership or proven cessation of all duties; narrow headline totals unchanged. Publication-credit/year-specific NSW unit searches cross-checked with both engines did not identify a1990s authored publication or personal appointment; unit formation and senator term dates remain organisational outer context. No private PR consultancy is adopted from an inconsistent foreign-language derivative biography. Seek actual student-association payroll/NSW appointment and publication contracts for unresolved employment; original HTML restricted retrieval recovered via official report PDF.",
+    "Second targeted primary pass2026-10-05: Original45th-Parliament alteration index explicitly dates Life Education ambassador appointment2017, independently corroborated as New by original2016–2017 organisation report. Narrowed start to2017 only;19December signature and2January registry receipt not employment/appointment days. Added original Jessie Street Trust31May2019 invitation observation, not a start/end. Parliamentary direct PDF and CLAN report reader returned source-specific403/retrieval error; no access bypass. Trust current profile retains obsolete minister title, so not used as dated current tenure. Paid employment, charitable workload, NSW unit and student-association personnel gaps remain unresolved."
   ]
 }
