@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/309484",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-04",
+  "last_reviewed": "2026-10-05",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -353,9 +353,10 @@
       "counting_status": "excluded",
       "source_ids": [
         "src-1",
-        "src-first"
+        "src-first",
+        "src-early-secretary-oct5"
       ],
-      "evidence_note": "Official qualifications list supports award/institution, without attendance or completion dates. Mt Eliza scholarship1995 does not by itself establish course start/end. TAFE study distinct from brief teaching job.",
+      "evidence_note": "Official qualifications list supports award/institution, without attendance or completion dates. Mt Eliza scholarship1995 does not by itself establish course start/end. TAFE study distinct from brief teaching job. Personal February 2025 speech places entry to TAFE in her mid-20s after secretary work, without an exact enrolment or completion date; no date calculated from age.",
       "counting_note": "Study or pro bono service excluded; no employment duration or leave inference."
     },
     {
@@ -436,6 +437,44 @@
       ],
       "evidence_note": "Official honours give1994 scholarship. Exact exchange dates, host, duration, pay and employment leave unknown; year not a full-year interval.",
       "counting_note": "Study or pro bono service excluded; no employment duration or leave inference."
+    },
+    {
+      "spell_id": "309484-early-secretary",
+      "employer": "Employer unspecified",
+      "role": "Secretary",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "unknown",
+      "government_control_at_time": "unknown",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-early-secretary-oct5"
+      ],
+      "evidence_note": "First-person speech says she worked for several years as a secretary before entering TAFE in her mid-20s. Employer, precise boundaries, remuneration terms, substantive hours and historical control unknown. No automatic mapping to derivative Sussan/Marc Besen claims.",
+      "counting_note": "Insufficient employer/control, interval and full-time evidence."
+    },
+    {
+      "spell_id": "309484-disability-volunteer",
+      "employer": "Disability-sector organisation unspecified",
+      "role": "Volunteer working with young people",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unpaid_work",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-early-secretary-oct5"
+      ],
+      "evidence_note": "Personal speech explicitly identifies volunteering before TAFE. Organisation, dates and hours unknown; kept distinct from paid secretary work and later community-sector employment.",
+      "counting_note": "No full-time duration calculated; unknown dates and hours. Volunteering excluded."
     }
   ],
   "sources": [
@@ -638,6 +677,26 @@
       "source_type": "employer",
       "locator": "Printed p14 / PDF page8, Major Partners; text and screenshot checked",
       "note": "Names Mary Grech and Jodie Belyea for training under major pro bono and in-kind providers. This is not a paid staff list; report interval is not a personal tenure boundary. Ordinary download403; web PDF extraction and page image accessible."
+    },
+    {
+      "source_id": "src-early-secretary-oct5",
+      "url": "https://www.openaustralia.org.au/debate/?id=2025-02-04.133.1",
+      "publisher": "OpenAustralia reproducing House Hansard",
+      "title": "Jodie Belyea, Free TAFE Bill, 4 February 2025",
+      "retrieved": "2026-10-05",
+      "source_type": "government_record",
+      "locator": "6:13 pm, opening paragraphs, lines 28–30",
+      "note": "Personal account distinguishes earlier secretary work, disability-sector volunteering and later TAFE study; no named employer or hours."
+    },
+    {
+      "source_id": "src-community-pay-oct5",
+      "url": "https://www.openaustralia.org.au/debates/?id=2024-09-09.202.1",
+      "publisher": "OpenAustralia reproducing House Hansard",
+      "title": "Jodie Belyea, Gender Equality, 9 September 2024",
+      "retrieved": "2026-10-05",
+      "source_type": "government_record",
+      "locator": "5:51 pm, lines 90–91",
+      "note": "Describes 32 years of community-sector professional roles and comparatively lower earnings; rounded career recollection does not date or establish hours for individual jobs."
     }
   ],
   "research_notes": [
@@ -649,6 +708,7 @@
     "Second follow-up2October2026: recovered Glen Eira Council newsletters from Victorian Collections, establishing youth-services staff observations July1997/November1999 and coordinator title March2001. Publication months retained as observations rather than fabricated employment endpoints. No FT fraction supplied; volunteer course obligations belong to volunteers. CfC contemporary organisation website confirms Anglicare hosting now but post-election event attendance cannot prove2018 payroll; prior2018 submission remains stronger historical lead. Family Life2020 community-change title corroborated in secondary reporting, no new boundaries. Next inspect Glen Eira staff appointment/departure and council-amalgamation records, Frankston coordinator contract, CfC2018 original submission, Chisholm pay/dates and early corporate work. No totals calculated.",
     "Third follow-up3October2026: member-issued Winter2024 newsletter identifies previously omitted Mission Australia employment, separately from Anglicare and Family Life. It gives no role, date or hours, so a distinct undated nonprofit spell is retained without affecting headline totals. Targeted searches did not resolve the Sussan/Marc Besen derivative claim, council appointment boundaries, Frankston legal employer, Chisholm dates or full-time fractions. The newsletter's35-year cross-sector summary is too broad for interval calculation.",
     "Mt Eliza Business School scholarship1995 is recorded as support/recognition, not a salaried employer or assumed attendance boundary for the undated graduate certificate.",
-    "Follow-up2026-10-04: Added previously omitted pro bono Fitted for Work training from2010–11 institutional annual report; visual layout confirms Major Partners pro bono/in-kind heading. Sussan is a separate supporter, not her verified employer. Added four official qualifications and Rotary1994 study exchange, retaining unknown attendance/completion and leave; Mt Eliza1995 scholarship not assumed course boundary. Ordinary Fitted for Work and AHRC submissions returnHTTP403; web PDF text/image recovered the former, AHRC remains inaccessible. Connectus/Frankston/CfC payroll identity and substantive hours remain unresolved."
+    "Follow-up2026-10-04: Added previously omitted pro bono Fitted for Work training from2010–11 institutional annual report; visual layout confirms Major Partners pro bono/in-kind heading. Sussan is a separate supporter, not her verified employer. Added four official qualifications and Rotary1994 study exchange, retaining unknown attendance/completion and leave; Mt Eliza1995 scholarship not assumed course boundary. Ordinary Fitted for Work and AHRC submissions returnHTTP403; web PDF text/image recovered the former, AHRC remains inaccessible. Connectus/Frankston/CfC payroll identity and substantive hours remain unresolved.",
+    "Fifth follow-up 5 October 2026: recovered first-person February 2025 parliamentary evidence of omitted early secretary employment and disability-sector volunteering; added separate undated spells without assigning the uncorroborated Sussan/Besen employer lead. Her September 2024 speech independently describes 32 years of community-sector roles and earnings but does not allocate paid terms, full-time status or exact intervals across named employers. Broad 35-year biography and rounded 32-year recollection are not additive sector totals. Both-engine targeted early-employer/Connectus searches produced no original personnel record resolving payroll identity; Frankston, CfC and Connectus legal employer, Chisholm teaching dates, leave and hours remain unresolved. Next seek dated original employer appointments or legitimately public full CV; no headline totals manufactured."
   ]
 }
