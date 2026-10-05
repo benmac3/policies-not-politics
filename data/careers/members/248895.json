@@ -529,9 +529,9 @@
       "spell_id": "248895-riverine-board",
       "employer": "Riverine Plains",
       "role": "Volunteer independent director",
-      "start_date": null,
+      "start_date": "2021-10",
       "end_date": null,
-      "date_precision": "unknown",
+      "date_precision": "month",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "unpaid_work",
@@ -539,9 +539,11 @@
       "government_control_at_time": "private",
       "counting_status": "excluded",
       "source_ids": [
-        "src-riverine2023-oct5"
+        "src-riverine2023-oct5",
+        "src-linkedin-riverine-pass2",
+        "src-riverine2024-pass2"
       ],
-      "evidence_note": "Primary 2022–2023 report lists a voluntary board, describes about two years of Penfold service and an intention to step down at the October2023 AGM. Exact appointment and actual cessation are unconfirmed; not converted to a continuous2021–2023 interval. CEO describes freely contributed time.",
+      "evidence_note": "Primary 2022–2023 report lists a voluntary board, describes about two years of Penfold service and an intention to step down at the October2023 AGM. Exact appointment and actual cessation are unconfirmed; not converted to a continuous2021–2023 interval. CEO describes freely contributed time. New public self-reported volunteer entry supplies October2021 start at month precision. Its Present label conflicts with original2023 prospective departure and absence from the original2024 board/current report list; not adopted as continuing service. 2024 board report signed24October2024 lists only current board and two new members appointed27October2023, without naming Penfold cessation. These others appointment dates are not assigned as her end date.",
       "counting_note": "Volunteer governance excluded; no paid employment or full-time duration inferred."
     }
   ],
@@ -785,6 +787,26 @@
       "source_type": "employer",
       "locator": "Printed pages9/10/18; PDF indexes5/6/10; chair, CEO and independent-director biography",
       "note": "Original text and board-page screenshot read. Names volunteer independent director, about two years of tenure, intended October2023 AGM departure, and concurrent shadow trade/tourism staff work. Intended departure is not verified cessation."
+    },
+    {
+      "source_id": "src-linkedin-riverine-pass2",
+      "url": "https://au.linkedin.com/in/alison-penfold",
+      "publisher": "Alison Penfold / LinkedIn",
+      "title": "Public professional profile — Riverine Plains volunteer directorship",
+      "retrieved": "2026-10-05",
+      "source_type": "professional_profile",
+      "locator": "Public indexed Volunteer Experience, Director, Riverine Plains Inc — Oct2021–Present",
+      "note": "Self-reported October2021 commencement only. Current Present label and computed platform duration not used to override contrary employer chronology; direct restricted page not accessed or bypassed."
+    },
+    {
+      "source_id": "src-riverine2024-pass2",
+      "url": "https://riverineplains.org.au/hubfs/Riverine%20Plains%20Annual%20Report%202024.pdf?hsLang=en-au",
+      "publisher": "Riverine Plains",
+      "title": "Annual Report 2023–2024",
+      "retrieved": "2026-10-05",
+      "source_type": "employer",
+      "locator": "Printed page9 Chair report,14–15 Board report (PDF indexes5 and8); signed24October2024; printed28–29 current volunteer board",
+      "note": "Original retrieved and financial-board page visually checked after encoded PDF text. Penfold not listed; other new members dated27October2023. This is no personal dated cessation instrument. Separate hosted2023 report shell returned403; public publisher copy retrieved without bypass."
     }
   ],
   "research_notes": [
@@ -801,6 +823,7 @@
     "Third follow-up3October2026: contemporaneous ABC reporting separates Penfold's Terry Mills service into senior policy adviser before March2011 and announced chief-of-staff succession in March2011. The transition is retained at month precision because the article does not state the actual commencement day. Earlier appointment, later cessation, payroll, hours and leave remain unresolved. A separate first-speech account identifies her as Natasha Griggs's campaign director over the nine-month2010 campaign; it is a party-campaign lead rather than proof of paid employment and was not converted into an employment interval.",
     "Fourth follow-up4October2026 repeated exact Futureye, Woolworths, NFF and parliamentary-office queries. Results reproduced the already recorded January2021 Futureye observation, December2016 NFF media contact, temporary custodial description and Woolworths government-relations title. No new appointment boundary, payroll entity, hours, leave or title transition emerged; contact-data aggregator dates were not independently adopted.",
     "Follow-up2026-10-04: Resolved previously retained 2010 Griggs campaign-director lead using contemporaneous House Hansard primary indexing and directly accessible transcription; added separately excluded party-campaign activity without inventing pay or nine-month start boundary. Original Winter2025 Burgmann newsletter also adds repeated BAM volunteer mentoring. Its most-recent Futureye wording is undated and does not prove current or continuous work through2025. Futureye tenure/hours remain gaps. Original PDF403s were recovered through available reader/transcription, not bypassed.",
-    "Follow-up2026-10-05: Original Riverine Plains2022–2023 annual report adds previously omitted volunteer independent directorship and corroborates shadow trade/tourism staff work. Approximate two-year tenure and prospective October2023 resignation are not exact appointment/actual cessation. Futureye/Reith/Woolworths searches did not resolve private working arrangements; UK swimming/company-secretary and counsellor namesakes excluded, current staff job adverts do not establish her own historical hours. Seek subsequent AGM/report for actual board cessation and original employer contracts for private work."
+    "Follow-up2026-10-05: Original Riverine Plains2022–2023 annual report adds previously omitted volunteer independent directorship and corroborates shadow trade/tourism staff work. Approximate two-year tenure and prospective October2023 resignation are not exact appointment/actual cessation. Futureye/Reith/Woolworths searches did not resolve private working arrangements; UK swimming/company-secretary and counsellor namesakes excluded, current staff job adverts do not establish her own historical hours. Seek subsequent AGM/report for actual board cessation and original employer contracts for private work.",
+    "Second targeted primary pass2026-10-05: Recovered next original Riverine Plains2023–2024 report; board financial page visually checked. Penfold absent from current roster, new members appointed27October2023, report signed24October2024. Neither other appointments nor absent name establishes her actual cessation, so end remains unknown. Newly indexed first-party volunteer entry narrows her start toOctober2021; Present label not accepted against contrary employer chronology. Original2023 intention remains distinguished from completed resignation. No private hours or staff boundaries resolved; future useful lead is original2023 AGM retirement minute rather than another undated board list."
   ]
 }
