@@ -49,9 +49,10 @@
       "counting_status": "insufficient_evidence",
       "source_ids": [
         "src-3",
-        "src-19"
+        "src-19",
+        "src-qls-candidate-pass2"
       ],
-      "evidence_note": "Contemporaneous2015 interview independently records2009 admission and earlier private practice. Employer identities, dates and hours remain unknown. Prior LinkedIn citation withdrawn as identity mismatch.",
+      "evidence_note": "Contemporaneous2015 interview independently records2009 admission and earlier private practice. Employer identities, dates and hours remain unknown. Prior LinkedIn citation withdrawn as identity mismatch. Self-authored 2015 professional biography describes multiple firm settings without naming prior employers.",
       "counting_note": "Private-sector work is supported, but the interval and substantive full-time status are not sufficiently evidenced for a duration."
     },
     {
@@ -69,9 +70,10 @@
       "counting_status": "excluded",
       "source_ids": [
         "src-3",
-        "src-5"
+        "src-5",
+        "src-launch-announcement-pass2"
       ],
-      "evidence_note": "Contemporaneous reporting states that Cook joined as a full-time lawyer in 2012, became principal solicitor in 2013, and was the former principal solicitor when Cook Legal launched in late 2015. Exact appointment and cessation dates remain open.",
+      "evidence_note": "Contemporaneous reporting states that Cook joined as a full-time lawyer in 2012, became principal solicitor in 2013, and was the former principal solicitor when Cook Legal launched in late 2015. Exact appointment and cessation dates remain open. Her 20 November 2015 announcement states resignation had been tendered, with prospective last day 4 December. Preserve year-only cessation until actual last day is confirmed.",
       "counting_note": "Nonprofit employment is reported separately and excluded from the public/private headline under the current codebook."
     },
     {
@@ -92,9 +94,11 @@
         "src-5",
         "src-6",
         "src-24",
-        "src-26"
+        "src-26",
+        "src-launch-announcement-pass2",
+        "src-firm-team-pass2"
       ],
-      "evidence_note": "The specialist domestic-violence firm had launched by 8 December 2015 and Cook was its director, principal and sole lawyer. Queensland Law Society records identify her as Director and Principal Lawyer in 2016–17, and DVConnect records Kara Cook of Cook Legal holding a fundraiser on 2 November 2017. A first-person Griffith transcript describes opening her own practice after gaining industry experience and records responsibility for managing others, supporting substantive owner-practitioner duties but not weekly hours. Cessation, leave and overlap with council service are unresolved.",
+      "evidence_note": "The specialist domestic-violence firm had launched by 8 December 2015 and Cook was its director, principal and sole lawyer. Queensland Law Society records identify her as Director and Principal Lawyer in 2016–17, and DVConnect records Kara Cook of Cook Legal holding a fundraiser on 2 November 2017. A first-person Griffith transcript describes opening her own practice after gaining industry experience and records responsibility for managing others, supporting substantive owner-practitioner duties but not weekly hours. Cessation, leave and overlap with council service are unresolved. Primary announcement planned opening 7 December 2015; later director/team observation on 7 February 2017 corroborates operation. Prospective date does not upgrade actual start to day precision.",
       "counting_note": "The private business is established, but substantive full-time duration cannot be calculated safely."
     },
     {
@@ -113,9 +117,10 @@
       "source_ids": [
         "src-6",
         "src-7",
-        "src-19"
+        "src-19",
+        "src-qls-candidate-pass2"
       ],
-      "evidence_note": "Society annual reports document Cook on council in 2016-17 and record her resignation during 2017-18. This governance role is not treated as a separate full-time employment spell. March2015 interview dates council membership from2014.",
+      "evidence_note": "Society annual reports document Cook on council in 2016-17 and record her resignation during 2017-18. This governance role is not treated as a separate full-time employment spell. March2015 interview dates council membership from2014. September 2015 recollection says elected two years earlier; not converted to a precise appointment, retaining published 2014 membership boundary.",
       "counting_note": "Employer/professional-association governance is excluded from the two employment headlines."
     },
     {
@@ -319,6 +324,63 @@
       "evidence_note": "University-confirmed completion year; commencement/load unknown.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "316537-15"
+    },
+    {
+      "employer": "Queensland Law Foundation",
+      "role": "Director",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "nonprofit",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-qls-candidate-pass2"
+      ],
+      "evidence_note": "Directorship observed September 2015. Governance; boundaries, remuneration and hours unstated.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "316537-16"
+    },
+    {
+      "employer": "Queensland Law Society; Law Council of Australia; Women Lawyers Association of Queensland",
+      "role": "Professional committees and working groups",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "employer_association",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-qls-candidate-pass2"
+      ],
+      "evidence_note": "2015 statement identifies Family Law, Management, domestic violence, legal assistance and young lawyer committees. Non-additive governance umbrella; no paid executive job inferred.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "316537-17"
+    },
+    {
+      "employer": "Women Lawyers Association of Queensland; Griffith University; Melanoma Institute of Australia; Womens Legal Service Queensland",
+      "role": "Mentoring and fundraising",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unpaid_work",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-qls-candidate-pass2"
+      ],
+      "evidence_note": "Activities described in spare time September 2015; undated volunteer/community umbrella, not separate paid jobs.",
+      "counting_note": "Excluded category; not added to public/private employment headlines.",
+      "spell_id": "316537-18"
     }
   ],
   "sources": [
@@ -591,6 +653,36 @@
       "retrieved": "2026-10-05",
       "locator": "Public indexed Appendix2: District Court Associates as at30June2009, printedp54, KaraCook / CFWallQC(Southport)",
       "note": "Indexed original court staff list names Cook and judge at dated census. Direct web open and independently started ordinary public download both returned403; no fullPDF obtained or visually inspected, and no further access retry."
+    },
+    {
+      "source_id": "src-launch-announcement-pass2",
+      "url": "https://www.linkedin.com/pulse/cooklegal-expert-domestic-violence-family-law-firm-kara-cook",
+      "publisher": "Kara Cook",
+      "title": "COOKLEGAL - Expert Domestic Violence & Family Law Firm",
+      "retrieved": "2026-10-05",
+      "source_type": "professional_profile",
+      "locator": "20 November 2015; resignation and planned last day/commencement paragraphs",
+      "note": "Primary announcement: resignation already tendered, prospective final day 4 December and launch 7 December 2015. Announcement does not prove actual last day; existing December launch evidence retained."
+    },
+    {
+      "source_id": "src-qls-candidate-pass2",
+      "url": "https://www.linkedin.com/pulse/kara-cook-qls-vice-president-kara-cook",
+      "publisher": "Kara Cook",
+      "title": "Kara Cook for QLS Vice President",
+      "retrieved": "2026-10-05",
+      "source_type": "professional_profile",
+      "locator": "26 September 2015; activity list and short biography",
+      "note": "Self-authored legal professional statement; records governance and community activity, not weekly paid hours."
+    },
+    {
+      "source_id": "src-firm-team-pass2",
+      "url": "https://www.linkedin.com/pulse/cooklegal-welcomes-solicitor-julie-george-kara-cook",
+      "publisher": "Kara Cook / Cook Legal",
+      "title": "COOKLEGAL welcomes Solicitor Julie George",
+      "retrieved": "2026-10-05",
+      "source_type": "professional_profile",
+      "locator": "7 February 2017; opening appointment paragraphs",
+      "note": "Primary active-firm observation names Cook as director in legal team; colleagues appointments and histories are not Cook employment dates or hours."
     }
   ],
   "research_notes": [
@@ -601,6 +693,7 @@
     "2026-10-02 follow-up corrected namesake LinkedIn attribution;2009 admission is independently supported by2015 interview. Added judicial associate role, early service/governance and degree years; dated CHQ board accurately and revised BRQ to2023–24 with exact endpoints still open. Lawyers Weekly page displayed zero-free-articles banner but returned article text; no login, payment or bypass used. June2024 D’Ath diary open returned Internal Error; separate accessible Nicholls diary and employer annual report used. Cook Legal founder/sole-lawyer wording describes launch only:2016 reporting documents later consultant appointments, so do not assume sole staffing throughout. Priorprivatefirmname,hours,CookLegalcessation and council overlap still unresolved. Council April2023 official endpoint versus May2023 secondary reports also needs primary council minutes. None of these additions establishes headline full-time duration.",
     "2026-10-03 follow-up: official Griffith interview transcripts add first-person evidence that WLS volunteering occurred throughout the degree and included client interviewing, and that Cook also completed a Semester in Practice placement. The placement host, dates, paid basis and hours are not supplied, so it is retained as study context rather than a fabricated job. Cook also describes opening her own practice after industry experience and managing others, strengthening substantive Cook Legal owner-practitioner duties but not full-time hours. Searches of council records, judicial-associate archives and legal directories did not identify the earlier family-law firm, exact court dates or Cook Legal cessation. Next: admission/practising-certificate archive, named family-law firm, Cook Legal closure or transfer record, and primary council resignation minutes.",
     "2026-10-04 follow-up: Brisbane City Council's annual report resolves the council endpoint to 2 April 2023 and reports remuneration, while DVConnect supplies a dated Cook Legal observation on 2 November 2017. These records do not establish Cook Legal cessation, weekly hours or whether the practice continued during council service. Searches targeting the Judge Clive Wall associateship, pre-WLS family-law firm and practising-certificate history did not expose an original personnel/register record. Next decisive evidence remains a court appointment record, named prior-firm personnel record, practising-certificate archive or Cook Legal closure/transfer record.",
-    "Targeted follow-up2026-10-05: New public index of originalDistrictCourt2008–09annualreport names Cook as JudgeCFWallQC(Southport) associate at30June2009, resolving a dated primary personnel observation. Direct webPDF403 and concurrently initiated ordinarydownload also403; no fullPDF/visualinspection or further retry. The dated staff-list heading and names are visible in indexed primaryextract only. Neither the 2015one-year recollection nor this census establishes personal appointment/cessation days or hours.2009–10search returns unrelated USjudges and derivativeyearbook; Berkeleysecond-yearlawstudentKaraCook is not thismember. Earlier privatefirm, CookLegalcessation/transfer and weeklyhours remain unresolved. A2022FriendsInLaw podcast is a fresh primaryinterview lead for later targeted follow-up, not listened to in thiscommit."
+    "Targeted follow-up2026-10-05: New public index of originalDistrictCourt2008–09annualreport names Cook as JudgeCFWallQC(Southport) associate at30June2009, resolving a dated primary personnel observation. Direct webPDF403 and concurrently initiated ordinarydownload also403; no fullPDF/visualinspection or further retry. The dated staff-list heading and names are visible in indexed primaryextract only. Neither the 2015one-year recollection nor this census establishes personal appointment/cessation days or hours.2009–10search returns unrelated USjudges and derivativeyearbook; Berkeleysecond-yearlawstudentKaraCook is not thismember. Earlier privatefirm, CookLegalcessation/transfer and weeklyhours remain unresolved. A2022FriendsInLaw podcast is a fresh primaryinterview lead for later targeted follow-up, not listened to in thiscommit.",
+    "Targeted second follow-up 2026-10-05: original November 2015 launch post distinguishes tendered resignation from planned last day 4 December and planned firm opening 7 December; no invented actual-day precision. February 2017 own-firm announcement corroborates active director/legal-team work. September 2015 professional statement supplies previously missing Foundation directorship, committee governance and mentoring/fundraising, all excluded. Prior private firms remain unnamed; third-party staff histories and US/UK Cook Legal closure results rejected. Friends in Law episode landing page inspected, but audio not listened to and no unseen transcript facts used. Revisit original court appointment, firm closure/transfer, CEO contract and personal leave/hours evidence."
   ]
 }
