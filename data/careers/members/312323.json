@@ -16,7 +16,7 @@
   "career_spells": [
     {
       "spell_id": "312323-01",
-      "employer": "Reconciliation South Australia",
+      "employer": "Reconciliation South Australia Incorporated — ABN67 732 207 418; individual employing arrangement to confirm",
       "role": "Executive director and state manager",
       "start_date": "2006",
       "end_date": "2008",
@@ -29,9 +29,10 @@
       "counting_status": "excluded",
       "source_ids": [
         "src-1",
-        "src-5"
+        "src-5",
+        "src-reconciliationsa-abn-pass2"
       ],
-      "evidence_note": "Reconciliation body employment recorded at year precision. Historical employing entity and government-control arrangements need confirmation; do not conflate it with a government Aboriginal Affairs department.",
+      "evidence_note": "Reconciliation body employment recorded at year precision. Historical employing entity and government-control arrangements need confirmation; do not conflate it with a government Aboriginal Affairs department. ABR historical register identifies this incorporated organisation from24May2002 and current employer financial-report materials corroborate the ABN. This supplies a historical legal-entity lead rather than proof of her individual contract. ACNC registration2012 and later tax concessions are not projected backwards to resolve2006–08control; category/control remain as previously recorded pending contemporary governance evidence.",
       "counting_note": "Excluded from the two employment headlines under the codebook."
     },
     {
@@ -377,6 +378,25 @@
       "evidence_note": "2020 school profile records alumni involvement; role, dates and paid basis not established. Separate from later college-board service. Primary2021and2024reports list her on the alumni committee, refining generic involvement without assuming continuous service or pay. Unnamed2024part-time alumni employee is not her.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "312323-18"
+    },
+    {
+      "spell_id": "312323-19",
+      "employer": "Amnesty International — branch/entity unspecified",
+      "role": "Volunteer, high-school activism context",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unpaid_work",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-candidate-activism-pass2"
+      ],
+      "evidence_note": "Attributed first-person candidate statement11April2025 explicitly names volunteering for Amnesty International as part of high-school activism. No calendar dates, branch, contract or hours supplied; not a paid job or degree-derived employment interval.",
+      "counting_note": "Explicit volunteer activity excluded from employment headlines."
     }
   ],
   "sources": [
@@ -569,6 +589,26 @@
       "retrieved": "2026-10-05",
       "locator": "Renee career biography, line350; transcript inspected for working-hours/break evidence",
       "note": "Original podcast page corroborates full-time Deputy CEO observation already held from15February2023episode. No whole2018–2023hours or leave conclusion derived."
+    },
+    {
+      "source_id": "src-reconciliationsa-abn-pass2",
+      "url": "https://abr.business.gov.au/AbnHistory/View?id=67732207418",
+      "publisher": "Australian Business Register",
+      "title": "Historical details ABN67 732 207 418 Reconciliation South Australia Incorporated",
+      "retrieved": "2026-10-05",
+      "source_type": "government_record",
+      "locator": "Entity name/status24May2002; Other Incorporated Entity; ACNC registration3December2012",
+      "note": "Historical entity identifier supported by original Reconciliation SA financial statements on employer corporate-information page. ABN/charity administrative dates are not employment boundaries or retrospective proof of government control."
+    },
+    {
+      "source_id": "src-candidate-activism-pass2",
+      "url": "https://westender.com.au/meet-the-candidate-renee-coffey-labor-for-griffith/",
+      "publisher": "Renee Coffey candidate statement reproduced by Westender",
+      "title": "Meet the Candidate Renee Coffey,11April2025",
+      "retrieved": "2026-10-05",
+      "source_type": "professional_profile",
+      "locator": "First-person My activism paragraph, line43",
+      "note": "Attributed original first-person statement explicitly identifies Amnesty volunteering; also youth Corroboree2000speaker and local Yes23campaign assistance. No paid work terms."
     }
   ],
   "research_notes": [
@@ -581,6 +621,7 @@
     "2026-10-02 follow-up: added2000 commencement for unresolved government-work umbrella,1998 youth founding and separately dated UniSA/UNSW/Stanford study. Seven-year public-service claim still lacks employer-by-employer boundaries and hours. Recovered2008–09 Library annual report but no person match. UQ repository UQ:319766 returned (403) Forbidden;2006 thesis remains a verification lead, not adopted graduation date. Historical2018 professional biography and2020 school profile do not resolve AIEF promotion/start boundaries, government employment conditions or2025 charity cessation. Next: early Queensland departmental staff records, historical Reconciliation SA employment/control and dated public CV. Existing supported facts and null totals retained.",
     "2026-10-03 follow-up: search indexing exposed UQ's primary repository metadata for the 2006 honours thesis and the public LinkedIn profile's January 2004–December 2006 Reconciliation Queensland interval. The latter is coded as volunteering because Coffey's first speech explicitly describes that activity as volunteer work; it is not added to employment totals. The possible 2006 overlap with Reconciliation South Australia remains unresolved. Searches of Queensland Government, State Library, Education, Reconciliation SA, Kookaburra Kids and successor records did not identify the missing departments, public-service hours or exact charity cessation. A March 2025 self-report says she had recently stepped down and names a successor managing director, but no exact cessation day is inferred.",
     "2026-10-04 follow-up (second nationwide pass): employer annual reports materially refine the AIEF title sequence: Programs Director in the 2010 and 2011 reports and Projects Director in 2013, following the 2009 report's Pathways Director listing. These are employer snapshots, not exact promotion dates, hours or proof of a pre-2010 commencement; APH's 2010 overall start remains retained. Kookaburra searches repeated the March 2023 appointment and a March 2025 'recently stepped down' statement without an exact cessation day. Government department identities and person-specific public-service hours remain unresolved.",
-    "Targeted follow-up2026-10-05: Original CHAC2021annual report, with board/control pages rendered and visually inspected, resolves board commencement26October2021, voluntary service and nonprofitCollegePtyLtdchurchownership.2021and2024reports name Coffey alumni committee activity; the unnamed2024part-time coordinator and other staff leave rows are not assigned to her. Original OvercomingMS transcript/profile corroborates the existing February2023full-time DeputyCEO observation, but no whole-period hours or parental-leave interval. Government-department identity,2000–2006hours, ReconciliationSAcontrol and Kookaburraactualexit remain unresolved. Clinical/family details omitted as unrelated to employment; case-story authorship is a follow-up lead without inferred pay."
+    "Targeted follow-up2026-10-05: Original CHAC2021annual report, with board/control pages rendered and visually inspected, resolves board commencement26October2021, voluntary service and nonprofitCollegePtyLtdchurchownership.2021and2024reports name Coffey alumni committee activity; the unnamed2024part-time coordinator and other staff leave rows are not assigned to her. Original OvercomingMS transcript/profile corroborates the existing February2023full-time DeputyCEO observation, but no whole-period hours or parental-leave interval. Government-department identity,2000–2006hours, ReconciliationSAcontrol and Kookaburraactualexit remain unresolved. Clinical/family details omitted as unrelated to employment; case-story authorship is a follow-up lead without inferred pay.",
+    "Targeted second pass: primary ABR history identifies Reconciliation South Australia Incorporated ABN67 732 207 418 from2002, corroborated by employer financial-statement identity; individual contract and historical control still unresolved.2012ACNCregistration not projected backwards. Original attributed candidate statement adds explicit Amnesty volunteer activity, excluded. Public LinkedIn direct reader999UnknownStatusCode; title/2000–04snippet cannot resolve departmental entity/hours. Current RSAcorporate page only provides2020onwardreports; government departments and substantive public-work hours remain unknown."
   ]
 }
