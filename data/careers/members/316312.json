@@ -6,7 +6,7 @@
   "snapshot_party": "The Nationals",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/316312",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-05",
+  "last_reviewed": "2026-10-06",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -82,7 +82,7 @@
       "employer": "Gunnedah Shire Council",
       "role": "Councillor and Mayor",
       "start_date": "2016-09",
-      "end_date": "2024",
+      "end_date": "2024-09-14",
       "date_precision": "mixed",
       "employment_status": "unknown",
       "fte_fraction": null,
@@ -94,9 +94,11 @@
         "src-personal-bio",
         "src-nationals",
         "src-first-speech",
-        "src-candidate-profile"
+        "src-candidate-profile",
+        "src-gunnedah-ar2024-pass3",
+        "src-nswec-lge2024-pass3"
       ],
-      "evidence_note": "The Nationals biography gives election to council in September 2016, immediate election as mayor, a full term to 2021, and re-election as councillor and mayor in 2021. Chaffey's first speech and current biography state that he served eight years as mayor; his April 2025 interview describes him as the former mayor. The exact 2024 cessation day, remuneration and working hours are unresolved.",
+      "evidence_note": "The Nationals biography gives election to council in September 2016, immediate election as mayor, a full term to 2021, and re-election as councillor and mayor in 2021. Chaffey's first speech and current biography state that he served eight years as mayor; his April 2025 interview describes him as the former mayor. Council's 2023–24 annual report says the elected members' fixed term ran until the September 2024 local-government election, and the NSW Electoral Commission dates that election to 14 September 2024. Chaffey did not contest it. End records the fixed-term election boundary; exact commencement day, remuneration and working hours remain unresolved.",
       "counting_note": "Elected local-government office is excluded under the codebook."
     },
     {
@@ -567,6 +569,26 @@
       "source_type": "government_record",
       "locator": "Printedp19: Friday15November2024 CMA AGM; printedp20 identifies November report",
       "note": "Mayor records Chaffey stood down and Firman elected. Meeting milestone is not necessarily Chaffey formal resignation day; no payroll/hours."
+    },
+    {
+      "source_id": "src-gunnedah-ar2024-pass3",
+      "url": "https://www.gunnedah.nsw.gov.au/index.php/council/the-future-of-gunnedah/annual-reports/preview?path=2023-24%2BAnnual%2BReport%2B-%2BAdopted%2B20%2BNovember%2B2024.pdf",
+      "publisher": "Gunnedah Shire Council",
+      "title": "Annual Report 2023–24",
+      "retrieved": "2026-10-06",
+      "source_type": "government_record",
+      "locator": "Printed p7, Our elected members",
+      "note": "Names Chaffey as mayor and states all councillors' fixed term ran until the September 2024 local-government election. It does not establish personal hours or remuneration."
+    },
+    {
+      "source_id": "src-nswec-lge2024-pass3",
+      "url": "https://elections.nsw.gov.au/getmedia/79609978-6b6d-45a6-9a7c-2f49498c269f/lge24-election-report-part-1.pdf",
+      "publisher": "NSW Electoral Commission",
+      "title": "Report on the conduct of the 2024 NSW Local Government elections, part one",
+      "retrieved": "2026-10-06",
+      "source_type": "government_record",
+      "locator": "Executive summary: elections conducted Saturday 14 September 2024",
+      "note": "Supplies the exact statewide election day used to resolve the council fixed-term boundary; it is not evidence of campaign pay or business cessation."
     }
   ],
   "research_notes": [
@@ -583,12 +605,13 @@
     "Third follow-up 2026-10-04: targeted Woolworths store-history, apprenticeship, Gunnedah Industries and Stripes managing-director searches repeated the first speech, candidate interview, company timeline and September 2024 handover already recorded. No apprenticeship registration, Woolworths appointment, individual hours, leave or legal payroll entity was found. No material enrichment counted; retain the company-timeline conflict and advance pending an original training, contract or personnel record.",
     "Follow-up2026-10-04: Primary Murray Darling Association Region11 AGM minutes establish outgoing chair handover to Russell Webb on16May2024, resolving an undated governance endpoint at day precision as a meeting milestone. The minutes explicitly thank Chaffey as chair and record successor election/acceptance; appointment date, formal legal cessation and personal remuneration remain unknown. Subsequent ordinary meeting lists Webb as chair and Chaffey attending as Gunnedah mayor. Apprenticeship-year query yielded no training record. Next: original apprenticeship registration, Woolworths personnel record, business contracts/hours and association appointment instrument; governance excluded.",
     "Follow-up2026-10-05: primary ABR historical trading-name table resolves Gunnedah Industries trust entity and2007rename; primary parliamentary index links member’s joint-beneficiary interest. Retain personal payroll/apprentice boundaries unresolved and separate later company. Namoi council primary index reports23November2023resolution to discontinue activities from31December2023 and seek dissolution by30June2024; audit says Governor approval still required, so no unsupported chair end/dissolution assumed. Tamworth original release open403, individual source gap; original instrument/minutes remain leads. Woolworths/apprenticeship searches yielded existing biography without dates/hours.",
-    "Second targeted pass adds omitted completed boilermaker trade-certificate study from own public-indexed post, leaving provider and dates unknown instead of subtracting28years. Association honour roll exposes deputy-chair2021–22 versus council2020 discrepancy; November2024 mayoral report dates successor election as AGM observation, not exact personal resignation. Namoi dissolution searches again supply proposals, not final instrument. Original social posts Online fetch throttled, source-specific; no same-route retry or controls bypass. Store/apprentice personal hours still unknown; preserve null totals."
+    "Second targeted pass adds omitted completed boilermaker trade-certificate study from own public-indexed post, leaving provider and dates unknown instead of subtracting28years. Association honour roll exposes deputy-chair2021–22 versus council2020 discrepancy; November2024 mayoral report dates successor election as AGM observation, not exact personal resignation. Namoi dissolution searches again supply proposals, not final instrument. Original social posts Online fetch throttled, source-specific; no same-route retry or controls bypass. Store/apprentice personal hours still unknown; preserve null totals.",
+    "Third targeted pass2026-10-06 resolves the council/mayoral fixed-term end to14September2024 by combining Council's annual-report statement that the term ran until the September election with the NSW Electoral Commission's exact election day. Chaffey did not contest the election. This is an elected-office boundary, not a business/campaign payroll date; September business handover and campaign start remain month precision. Exact2016 commencement day, hours and remuneration remain unknown."
   ],
   "open_questions": [
     "What were the exact start/end dates, hours and store transitions for the Woolworths management career?",
     "Did the family-business role overlap with the entire 2016–2024 mayoral term, and if so at what workload?",
-    "What were the dates, remuneration and hours for the Chamber, Namoi Unlimited, Country Mayors Association and Local Government NSW roles?",
+    "What were the dates, remuneration and hours for the Chamber, Namoi Unlimited, Country Mayors Association and Local Government NSW roles, and what was the exact September 2016 council commencement day?",
     "What were the AICD study dates and load?",
     "Was the September 2024–May 2025 full-time campaign paid, and what was the exact start date?",
     "What legal entity employed the Gunnedah Industries apprentice, and when did apprenticeship, ownership and operating duties start/end? Resolve2000s company heading versus28-year first-person duration.",
