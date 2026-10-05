@@ -48,9 +48,10 @@
       "counting_status": "insufficient_evidence",
       "source_ids": [
         "src-2",
-        "src-7"
+        "src-7",
+        "src-darwin-firstyear-pass2"
       ],
-      "evidence_note": "First-person school identification, institutional government history; payroll employer details and dates unresolved.",
+      "evidence_note": "First-person school identification, institutional government history; payroll employer details and dates unresolved. A16March2015 speech identifies Darwin as her first teaching year, explicitly1985 but also28years earlier (arithmetically1987). Conflict unresolved; no start date entered.",
       "counting_note": "Dates, employer control and/or substantive full-time status remain insufficient for a duration calculation; unknown is not zero."
     },
     {
@@ -69,9 +70,10 @@
       "source_ids": [
         "src-1",
         "src-2",
-        "src-9"
+        "src-9",
+        "src-vic-teaching-duration-pass2"
       ],
-      "evidence_note": "School named; historical employing entity and dates require verification. Government institutional history establishes public control; exact departmental payroll name at personal appointment still unknown.",
+      "evidence_note": "School named; historical employing entity and dates require verification. Government institutional history establishes public control; exact departmental payroll name at personal appointment still unknown. In2023 she retrospectively describes27years in Victorian state education, without school allocations, continuity or substantive hours; no back-calculated appointment or FTE.",
       "counting_note": "Dates, employer control and/or substantive full-time status remain insufficient for a duration calculation; unknown is not zero."
     },
     {
@@ -93,9 +95,10 @@
         "src-3",
         "src-11",
         "src-10",
-        "src-12"
+        "src-12",
+        "src-vic-teaching-duration-pass2"
       ],
-      "evidence_note": "Assistant-principal presence in2008 is attested. ABC News directly identified Ryan as Galvin Park's acting principal on22November2010; the2011–2014 school strategic-plan cover also names her in that role but has blank date/signature fields. These are dated observations, not appointment boundaries or evidence she held the role throughout the plan. Roles are grouped to avoid double counting. Government institutional history establishes public control; exact departmental payroll name, hours and transitions remain unknown.",
+      "evidence_note": "Assistant-principal presence in2008 is attested. ABC News directly identified Ryan as Galvin Park's acting principal on22November2010; the2011–2014 school strategic-plan cover also names her in that role but has blank date/signature fields. These are dated observations, not appointment boundaries or evidence she held the role throughout the plan. Roles are grouped to avoid double counting. Government institutional history establishes public control; exact departmental payroll name, hours and transitions remain unknown. In2023 she retrospectively describes27years in Victorian state education, without school allocations, continuity or substantive hours; no back-calculated appointment or FTE.",
       "counting_note": "Dates, employer control and/or substantive full-time status remain insufficient for a duration calculation; unknown is not zero."
     },
     {
@@ -118,9 +121,10 @@
         "src-5",
         "src-6",
         "src-13",
-        "oct5-deecd-directory"
+        "oct5-deecd-directory",
+        "src-vic-teaching-duration-pass2"
       ],
-      "evidence_note": "Public-school principal before election; 2013 name change established. In a farewell report published5August2013 Ryan said she had spent 18 months at the school. Back-calculating that rounded statement supports an approximate early-2012 commencement and therefore a2012 start year only; it does not establish an exact appointment or resignation day, leave, or substantive full-time terms. Departmental South-Western Victoria Region Term2 2013 directory, updated13May2013 and reproduced by StudyLib, lists Joanne Ryan as principal of government school3987, Moonee Ponds Primary. This independently supplies a dated administrative observation earlier than July preselection, not appointment start/end, substantive weekly hours or leave.",
+      "evidence_note": "Public-school principal before election; 2013 name change established. In a farewell report published5August2013 Ryan said she had spent 18 months at the school. Back-calculating that rounded statement supports an approximate early-2012 commencement and therefore a2012 start year only; it does not establish an exact appointment or resignation day, leave, or substantive full-time terms. Departmental South-Western Victoria Region Term2 2013 directory, updated13May2013 and reproduced by StudyLib, lists Joanne Ryan as principal of government school3987, Moonee Ponds Primary. This independently supplies a dated administrative observation earlier than July preselection, not appointment start/end, substantive weekly hours or leave. In2023 she retrospectively describes27years in Victorian state education, without school allocations, continuity or substantive hours; no back-calculated appointment or FTE.",
       "counting_note": "Dates, employer control and/or substantive full-time status remain insufficient for a duration calculation; unknown is not zero."
     },
     {
@@ -200,6 +204,25 @@
       "evidence_note": "First speech recounts this work before discussing teaching degree begun1980. No employer, exact endpoints, control or hours; do not infer a full year or full-time status.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "249224-09"
+    },
+    {
+      "spell_id": "249224-10",
+      "employer": "Netball team / club unidentified",
+      "role": "Saturday-morning netball coach",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-darwin-firstyear-pass2"
+      ],
+      "evidence_note": "Own16March2015 speech mentions coaching a small netball team on Saturday mornings. Club, pay, contract and work boundaries unknown. Activity observation during parliamentary service, without demonstrated employment.",
+      "counting_note": "Retained as community activity; no paid full-time employment established."
     }
   ],
   "sources": [
@@ -342,6 +365,26 @@
       "retrieved": "2026-10-05",
       "locator": "Government Schools table,printedp59,school3987; directory updated13May2013",
       "note": "Mirrored departmental directory names Joanne Ryan as Moonee Ponds Primary principal. Government school identity matches3987. Text reproduction inspected, not original PDF or certified personnel record."
+    },
+    {
+      "source_id": "src-darwin-firstyear-pass2",
+      "url": "https://www.openaustralia.org.au/debate/?id=2015-03-16.170.1",
+      "publisher": "House of Representatives Hansard / OpenAustralia",
+      "title": "Australian Broadcasting Corporation debate,16March2015,1:10pm",
+      "retrieved": "2026-10-05",
+      "source_type": "government_record",
+      "locator": "First teaching year paragraph and Saturday netball coaching paragraph",
+      "note": "First-person Darwin teaching recollection contains1985 versus28years-ago inconsistency. Also observes coaching; no pay/hours terms."
+    },
+    {
+      "source_id": "src-vic-teaching-duration-pass2",
+      "url": "https://www.openaustralia.org.au/debate/?id=2023-03-06.174.1",
+      "publisher": "House of Representatives Hansard / OpenAustralia",
+      "title": "Teachers debate,6March2023,12:11pm",
+      "retrieved": "2026-10-05",
+      "source_type": "government_record",
+      "locator": "Ryan contribution,27years in state education and classroom workload discussion",
+      "note": "Retrospective Victorian teaching duration; rounded duration and illustrative student/class counts do not establish continuous personal full-time employment or school boundaries. Other speakers’ full-time statistics not assigned to Ryan."
     }
   ],
   "research_notes": [
@@ -353,6 +396,7 @@
     "2026-10-03 follow-up recovered the original farewell report's indexed quotation: on5August2013 Ryan said she had spent18 months at Moonee Ponds. The rounded duration supports a2012 start year by explicit back-calculation (approximately early2012), but not a day/month boundary or full-time-hours inference. ABC News independently observes her as Galvin Park acting principal on22November2010, narrowing that leadership chronology without establishing appointment endpoints. Repeated Darwin, Laverton and departmental staffing searches did not establish appointment dates, hours, leave or exact payroll entities. Early packing/sales employers and teaching breaks remain unknown; no headline duration calculated.",
     "2026-10-04 follow-up: exact-name searches for Laverton High and Galvin Park around the unresolved teaching transition found the first speech and derivative summaries only. No school annual report, departmental appointment list, payroll record, hours or leave evidence surfaced; similarly named educators were excluded. Generic web search is exhausted for this pass. Victorian and Northern Territory education personnel archives, school annual reports and service-history records remain decisive for Darwin/Laverton/Galvin Park boundaries and continuity. No substantive fact changed and no full-time duration was inferred.",
     "Follow-up2026-10-04: Qualification and early Darwin/Laverton appointment searches produced no new personal course boundaries, payroll, hours or leave. Full-time remedial-teacher records from New York and Buffalo faculty profiles are other people, not this member. Direct parliamentary biography open returned403 Forbidden; existing supported facts retained without attempting restricted access. Search results discussing other politicians or local birth-register names were not career evidence. No substantive change beyond precision consistency; teaching start, transitions, breaks and early packing/sales employer identities remain unresolved. Next evidence should be school/departmental staffing archives, rather than another generic biography pass.",
-    "2026-10-05 archive follow-up adds departmental Term2 2013 directory (updated13May2013,printedp59,public StudyLib text mirror) naming her principal at school3987. Role/school identity matches independent histories, but directory date is only an observation; no contract boundaries, hours or leave inferred. A principals-association mirror titled Executive2008 carries Created3August2017 inside directory, so it is not adopted as2008 tenure proof; original dating remains unresolved. Darwin/Laverton and early packing/sales appointments still missing. Next original regional directory/school annual reports and personnel history, not generic biographies."
+    "2026-10-05 archive follow-up adds departmental Term2 2013 directory (updated13May2013,printedp59,public StudyLib text mirror) naming her principal at school3987. Role/school identity matches independent histories, but directory date is only an observation; no contract boundaries, hours or leave inferred. A principals-association mirror titled Executive2008 carries Created3August2017 inside directory, so it is not adopted as2008 tenure proof; original dating remains unresolved. Darwin/Laverton and early packing/sales appointments still missing. Next original regional directory/school annual reports and personnel history, not generic biographies.",
+    "Second targeted follow-up2026-10-05: newly located2015 Hansard identifies Darwin first teaching year but contains1985/28-years-ago inconsistency, retained unresolved instead of inventing a start. Added previously omitted Saturday netball coaching with unknown club/pay/dates.2023 speech reports27years Victorian state education; no school allocation, continuity, hours or appointment back-calculated from rounded duration or illustrative workload. School/date queries otherwise repeat known material. Next Darwin service-history/yearbook1985–1987, Victorian school appointment/leave and earlier employer records; no employment total calculated."
   ]
 }
