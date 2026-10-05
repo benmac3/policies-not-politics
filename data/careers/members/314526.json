@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/314526",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-04",
+  "last_reviewed": "2026-10-05",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -141,11 +141,31 @@
       "spell_id": "314526-05"
     },
     {
+      "employer": "Department of Education, Tasmania; school/posting unresolved",
+      "role": "Literacy and Numeracy Intervention",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "public_service",
+      "headline_sector": "public",
+      "government_control_at_time": "public",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-5",
+        "src-literacy-hansard2026"
+      ],
+      "evidence_note": "Public professional-profile index explicitly maps this role to Department of Education, Tasmania. Own March2026Hansard corroborates literacy-intervention work across several school levels but does not assign the department, school or dates. This is a role component potentially within the already recorded Riverside/Prospect teaching appointments, not proof of a distinct additional contract. No neighboring profile date or unlabelled qualification year assigned.",
+      "counting_note": "No extra duration added over named Tasmanian school roles; department/title mapping does not prove full-time hours, exact tenure or absence of leave.",
+      "spell_id": "314526-14"
+    },
+    {
       "employer": "Indie Education / Indie School Launceston, contract entity to verify",
       "role": "Teacher",
       "start_date": null,
       "end_date": "2025",
-      "date_precision": "mixed",
+      "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "nonprofit",
@@ -267,7 +287,7 @@
       "role": "Member for Bass",
       "start_date": "2025-05-03",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "day",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -329,9 +349,9 @@
       "publisher": "Jess Teesdale / LinkedIn",
       "title": "Public professional profile",
       "source_type": "professional_profile",
-      "locator": "Public search-index Experience entries; Ramingining Classroom Teacher April2011–June2015; Senior Teacher:English as an Additional Language/Dialect, Department of Education Northern Territory, February2018–July2021",
-      "note": "Matched by Launceston, Indie School and teaching background. Visible workplaces include Prospect High, Riverside Primary, Anula Primary and Ramingining. Employment dates/titles mostly absent. Direct open 999 Unknown Status Code; no authentication attempted. Follow-up targeted index now exposes Department of Education Northern Territory Classroom Teacher April2011–June2015, Ramingining. Other role titles visible without reliable employer/date mapping; not assigned speculatively. Full-time status absent. Follow-up public search-index extract now explicitly maps the senior-teacher title, NT department and February2018–July2021; no school inferred from neighboring entries.",
-      "retrieved": "2026-10-04",
+      "locator": "Public search-index Experience entries; Ramingining Classroom Teacher April2011–June2015; Senior Teacher:English as an Additional Language/Dialect, Department of Education Northern Territory, February2018–July2021; explicitly indexed Literacy and Numeracy Intervention, Department of Education, Tasmania",
+      "note": "Matched by Launceston, Indie School and teaching background. Visible workplaces include Prospect High, Riverside Primary, Anula Primary and Ramingining. Employment dates/titles mostly absent. Direct open 999 Unknown Status Code; no authentication attempted. Follow-up targeted index now exposes Department of Education Northern Territory Classroom Teacher April2011–June2015, Ramingining. Other role titles visible without reliable employer/date mapping; not assigned speculatively. Full-time status absent. Follow-up public search-index extract now explicitly maps the senior-teacher title, NT department and February2018–July2021; no school inferred from neighboring entries. Follow-up index explicitly maps Literacy and Numeracy Intervention to Department of Education, Tasmania, without school or dates. Adjacent2021–2022unlabelled education entry is not employment timing.",
+      "retrieved": "2026-10-05",
       "source_id": "src-5"
     },
     {
@@ -453,6 +473,16 @@
       "note": "Confirms voluntary Parkrun, National Trust, basketball and adult English teaching.",
       "retrieved": "2026-10-01",
       "source_id": "src-17"
+    },
+    {
+      "source_id": "src-literacy-hansard2026",
+      "url": "https://www.openaustralia.org.au/debates/?id=2026-03-10.140.1",
+      "publisher": "Parliament of Australia via OpenAustralia",
+      "title": "Jess Teesdale, Education, 10 March 2026",
+      "retrieved": "2026-10-05",
+      "source_type": "government_record",
+      "locator": "4:50pm opening paragraph, line28",
+      "note": "Own pre-parliament teaching and many years literacy-intervention work from prep through year12 and beyond. Does not map this work to a single school, date, hours or employer; other community programmes discussed are not her former employers."
     }
   ],
   "research_notes": [
@@ -466,6 +496,7 @@
     "Other indexed titles include Inclusive Education(Support)Teacher, Literacy and Numeracy Intervention, and Senior Teacher:English as an Additional Language/Dialect. Search snippets do not consistently map titles to schools/dates; retained as leads rather than false precision. Anula snippet mentions1year6months but lacks anchored calendar dates. No new school annual-report staff entry located.",
     "Do not re-open previously999-blocked profile or use personlookup/contact aggregators. Further follow-up: independently corroborate Ramingining boundaries, obtain attributable Anula/other NT and Tasmanian transfer dates, and resolve Indie unpaid campaign leave. Public profile remained incomplete; study years not assigned to unlabeled qualifications.",
     "Follow-up2026-10-04: exact-name searches for Anula, Riverside, Prospect and Indie employment repeated the existing workplace sequence. The indexed professional profile still exposes only an unanchored1year6month Anula duration, not calendar endpoints; social posts concern later school visits, not employment. Contemporary December2024 reporting confirms intended unpaid Indie leave but not the actual leave start or contract end. No transfer boundary, substantive hours or additional employer was inferred.",
-    "Follow-up2026-10-04: Public professional-profile index now explicitly maps Senior Teacher:English as an Additional Language/Dialect to Department of Education Northern Territory, February2018–July2021. Added a distinct public-service appointment with self-reported month boundaries; no school identity, substantive hours, leave or full-time duration inferred. Other title/date searches returned unrelated generic2015documents and were rejected. Existing December2024 leave announcement remains prospective; no actual leave boundary or Indie resignation date resolved. Follow up independent NT appointment/staff records and full-time/leave evidence."
+    "Follow-up2026-10-04: Public professional-profile index now explicitly maps Senior Teacher:English as an Additional Language/Dialect to Department of Education Northern Territory, February2018–July2021. Added a distinct public-service appointment with self-reported month boundaries; no school identity, substantive hours, leave or full-time duration inferred. Other title/date searches returned unrelated generic2015documents and were rejected. Existing December2024 leave announcement remains prospective; no actual leave boundary or Indie resignation date resolved. Follow up independent NT appointment/staff records and full-time/leave evidence.",
+    "Follow-up 2026-10-05: newly explicit public-profile mapping identifies Literacy and Numeracy Intervention role with Department of Education,Tasmania. Added undated role component with strict non-addition over potentially overlapping Riverside/Prospect appointments; school, actual component dates/hours remain unknown. Own10March2026Hansard confirms years of literacy intervention prep throughyear12/beyond, without employer allocation. Adjacentunlabelled2021–2022education is not work timing. FT/social search snippets concerned staff/commenters or educator-sector wages, not her personal hours; rejected. Anula, Indie actual unpaid leave and other NT posts still unresolved. Corrected previous checkpoint first-name transcription Gavin to frozen Jess; no roster change."
   ]
 }
