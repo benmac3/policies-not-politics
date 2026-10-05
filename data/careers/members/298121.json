@@ -251,9 +251,12 @@
       "government_control_at_time": "unknown",
       "counting_status": "excluded",
       "source_ids": [
-        "src-pathways"
+        "src-pathways",
+        "src-pathways-unsw-oct5",
+        "src-pathways-contemporaneous-pass2",
+        "src-pathways-ahri-pass2"
       ],
-      "evidence_note": "Institution identifies the 2021 cohort. Participation does not establish paid work or full-time study.",
+      "evidence_note": "Contemporaneous24May2022 program account, March2022 UNSW news and UNSW Australian Human Rights Institute identify Sitou as an inaugural NSW2021 cohort participant. The institute distinguishes a February2022 alumni reception from the2021 course and the later2022 course. The9May2023 UNSW impact page instead says inaugural program in2022; preserve that conflicting statement as source discrepancy, not evidence of a second course. Cohort year supports2021 year precision, not exact enrolment/completion dates or workload. Leadership/campaigning training is study, not employment.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "298121-12"
     },
@@ -296,25 +299,6 @@
       ],
       "evidence_note": "UNSW speaker biography identifies Sitou as a Mosaic founder while working in university media. The university’s March2019 application names her as co-chair at the March2019 launch; this is a dated service observation, not her appointment date. SAGE records that the network was created in2018, but does not individually date her founding or chair service. Staff-network leadership is documented separately from her substantive media job. Sources do not establish separate remuneration, hours or cessation. The application also confirms she had participated in the VC Sponsorship Program by March2019; this is professional development, not another job.",
       "counting_note": "Governance/association activity within a university staff network is excluded from the employment headlines; do not double-count it as separate full-time university employment or infer unpaid status from silence."
-    },
-    {
-      "spell_id": "298121-pathways-training",
-      "employer": "UNSW Sydney — Pathways to Politics for Women (NSW)",
-      "role": "Leadership and political-skills program participant/alumna",
-      "start_date": null,
-      "end_date": null,
-      "date_precision": "unknown",
-      "employment_status": "unknown",
-      "fte_fraction": null,
-      "category": "study",
-      "headline_sector": "excluded",
-      "government_control_at_time": "unknown",
-      "counting_status": "excluded",
-      "source_ids": [
-        "src-pathways-unsw-oct5"
-      ],
-      "evidence_note": "The program provider identifies Sitou as an alumna of the inaugural NSW program in2022. Leadership, campaigning, speechwriting and constitutional-system training are educational activities; cohort year is an observation, not exact personal enrolment/completion dates. Individual hours, load and overlap with political office unknown.",
-      "counting_note": "Training is excluded; provider relationship does not establish a separate paid university employment spell."
     }
   ],
   "sources": [
@@ -516,7 +500,27 @@
       "retrieved": "2026-10-05",
       "source_type": "employer",
       "locator": "Shift toward gender parity section: Sally Sitou described as alumna of inaugural NSW program in2022; program skills and hybrid delivery paragraphs",
-      "note": "Provider identifies participation in2022 Pathways to Politics for Women program. No personal attendance dates, hours, study load or employment contract."
+      "note": "Provider identifies participation in2022 Pathways to Politics for Women program. No personal attendance dates, hours, study load or employment contract. Conflicts with contemporaneous provider and institute2021 cohort accounts; retained as discrepancy, not independent2022 training spell."
+    },
+    {
+      "source_id": "src-pathways-contemporaneous-pass2",
+      "url": "https://pathwaystopolitics.org.au/2022/sally-sitou-wins-reid/",
+      "publisher": "Pathways to Politics",
+      "title": "Brave and bold: Pathways to Politics alum Sally Sitou wins federal seat of Reid, 24 May 2022",
+      "retrieved": "2026-10-05",
+      "source_type": "professional_profile",
+      "locator": "Opening biographical paragraph",
+      "note": "Original program account explicitly identifies inaugural NSW cohort in2021."
+    },
+    {
+      "source_id": "src-pathways-ahri-pass2",
+      "url": "https://www.humanrights.unsw.edu.au/research/advocacy/pathway-to-politics-program-for-women",
+      "publisher": "UNSW Australian Human Rights Institute",
+      "title": "Pathway to Politics Program for Women",
+      "retrieved": "2026-10-05",
+      "source_type": "professional_profile",
+      "locator": "Sitou quotation attribution and 2021 participants section",
+      "note": "Names Sitou as2021 alumna; distinguishes February2022 reception from2021 cohort and later2022 program."
     }
   ],
   "research_notes": [
@@ -530,6 +534,7 @@
     "Third follow-up3October2026: repeated exact-name searches for the pre-2009 Parliament House employer, Jason Clare appointment boundaries, AusAID Samoa contract and University of Sydney parental-leave/return evidence. Contemporary ACYD again establishes a2010 Australian Government policy-adviser point and one year in Beijing in2008 but does not name the employing office or add boundaries beyond existing spells. A University of Sydney April2014 conference program credits media-outreach advice, consistent with the documented2013 start but not a contract, hours or leave record. The paid-parental-leave speech supplies no dates beyond the already recorded14-month absence. No new supported employer, boundary, hours or leave allocation found; advance the cursor and avoid repeating these queries without a new archive or employer record.",
     "Fourth follow-up4October2026 narrowed searches to Penny Wong/Parliament House, 2007 employment, Jason Clare appointment timing and AusAID Samoa media work. Results repeated the existing first-person Parliament House recollection, Whitlam biography and DFAT review annex. A 2025 social-media thank-you to Penny Wong does not identify her earlier employer and was not used to infer staff service. No appointment instrument, payroll entity, contract boundary, hours or leave allocation was found. Further progress requires parliamentary staffing records, AusAID personnel material or University of Sydney employment/leave documentation; repeated biography queries are exhausted.",
     "Follow-up2026-10-04: New university SAGE application documents Mosaic co-chair service at the March2019 launch, distinct from media employment; UNSW biography supports founding. Network creation2018 is not an individual appointment date. VC sponsorship is training, not another employer. Personal dates, pay/hours and cessation remain unknown. Co-founder CV retrieval returned HTTP503 and web find Internal Error; not used to fabricate a2018 appointment. AYAD and early staffing queries repeat earlier evidence; retain recorded gaps.",
-    "2026-10-05 follow-up added previously omitted2022 UNSW Pathways to Politics training from original provider account naming Sitou as alumna. Educational activity excluded, no exact personal course dates/hours inferred. Both engines parental-leave/Samoa contract/2013 university/first-job searches repeated known leave speeches, AusAID review and biography. Other peoples first jobs and arbitrary1January dates in derivative database rejected. No exact leave/return workload, AusAID contract or early Parliament House employer resolved; preserve chronological leave-attribution caveat and null totals."
+    "2026-10-05 follow-up added previously omitted2022 UNSW Pathways to Politics training from original provider account naming Sitou as alumna. Educational activity excluded, no exact personal course dates/hours inferred. Both engines parental-leave/Samoa contract/2013 university/first-job searches repeated known leave speeches, AusAID review and biography. Other peoples first jobs and arbitrary1January dates in derivative database rejected. No exact leave/return workload, AusAID contract or early Parliament House employer resolved; preserve chronological leave-attribution caveat and null totals.",
+    "Second targeted pass corrected duplicate training representation: original24May2022 program account and UNSW Human Rights Institute establish2021 cohort and distinguish February2022 alumni reception. Retain2023 impact-page2022 statement as explicit conflict; consolidate into supported2021 training spell rather than infer two courses. Samoa query repeated DFAT interview list and photographs without contract/hour/boundary evidence; no totals or leave allocation inferred."
   ]
 }
