@@ -326,6 +326,25 @@
       ],
       "evidence_note": "Own25August2025speech explicitly identifies full-time work alongside study when first renting in SouthHurstville. She separately describes practising-solicitor eligibility for a mortgage concession. No named employer, study programme, dates or leave record permits allocating this full-time statement to Sydney, ANMF, ETU, AHA or HospitalityLegal. This is an unallocated component of the existing career, not an additional additive job.",
       "counting_note": "No duration or sector assigned; avoid double counting if later allocated to a documented spell."
+    },
+    {
+      "category": "study",
+      "counting_note": "Study excluded; qualification does not establish paid work or full-time service.",
+      "counting_status": "excluded",
+      "date_precision": "unknown",
+      "employer": "Institution not specified in council report",
+      "employment_status": "unknown",
+      "end_date": null,
+      "evidence_note": "Council biography confirms qualification. Institution, commencement, completion and study load absent; no institution inferred from separate Juris Doctor degree.",
+      "fte_fraction": null,
+      "government_control_at_time": "unknown",
+      "headline_sector": "excluded",
+      "role": "Graduate Certificate in Professional Legal Practice student",
+      "source_ids": [
+        "src-grc-ar2023-pass2"
+      ],
+      "spell_id": "315618-plp-study",
+      "start_date": null
     }
   ],
   "headline": {
@@ -354,7 +373,8 @@
     "Further2October pass after nationwide follow-up: targeted2014/2019/2020 employer queries produced public ETU-pairedJanuary2014–December2020 profile interval, corroborated in employer identity by existing2018 FWC correspondence. No direct profile retry. New Vinnies Winter2025 magazine p24 calls her Metropolitan Regional Director while reporting election, but does not establish employment continued after election, departure date or campaign leave. ANMF/AHA/Hospitality Legal queries still no person-specific boundaries. Next seek union payroll/title transitions and leave records, and legal-firm appointment notice; do not derive ANMF dates from remaining gaps.",
     "Follow-up 2026-10-04: Fair Work Commission-filed correspondence establishes AHA NSW Senior Lawyer activity on 15 August 2022. Vinnies' April 2025 Broken Bay newsletter says an acting regional director had covered the role since February while Ambihaipahar was on leave, supplying the first primary campaign-leave evidence. Neither observation establishes appointment/cessation, hours, whether leave was paid or whether AHA and Hospitality Legal were separate jobs.",
     "Follow-up2026-10-04: Recovered original StGeorgeCommunityTransport2021 and2022 reports, establishing earlier primary volunteer-board membership and own nearly-year tenure statement; reporting/compilation dates not converted into appointment days. ANMF/NSWNMAand2021HospitalityLegal searches found no personalemployment dates. FWC2019CEPUappearance only corroborates existingunionrole; sourcewebUnicodeerror and ordinaryHTTP403, no further retry. No substantiveFTpersonal evidence or unionsecondment/payroll proof; remainingunknowns retained.",
-    "2026-10-05 own25August2025housing speech newly establishes full-time work alongside study, employer/interval unallocated. No blanket FT inference for named roles. New Advoc8 indexed parliamentary lead says anatomy department about eight years, in tension with2008–14profile; full fetch returned non-retryable500redirect, so preserve existing dates and seek original Hansard before resolving. Targeted ANMF/AHA/HospitalityLegal queries added no payroll boundaries; job advertisements concern her staff and are not her own employment."
+    "2026-10-05 own25August2025housing speech newly establishes full-time work alongside study, employer/interval unallocated. No blanket FT inference for named roles. New Advoc8 indexed parliamentary lead says anatomy department about eight years, in tension with2008–14profile; full fetch returned non-retryable500redirect, so preserve existing dates and seek original Hansard before resolving. Targeted ANMF/AHA/HospitalityLegal queries added no payroll boundaries; job advertisements concern her staff and are not her own employment.",
+    "Second targeted pass: council annual report2022/23 p73 adds previously omitted Graduate Certificate in Professional Legal Practice as excluded study, institution/dates unknown. Over-nine-year solicitor summary is not allocated or back-calculated among ETU/ANMF/AHA/Hospitality employment. Primary UTS profile reconfirmed2013 enrolment, not graduation; council oath26 September2022 distinguished from countback election. Targeted first-speech/eight-year-anatomy searches returned no original supporting transcript; conflicting lead retained, no calendar or FT inference. Existing full-time housing statement remains unallocated to employer/date; leave and legal-hour gaps persist."
   ],
   "research_status": "blocked",
   "snapshot_chamber": "Member",
@@ -551,6 +571,16 @@
       "retrieved": "2026-10-05",
       "locator": "First-person paragraph on South Hurstville rental, working while studying and solicitor mortgage concession; web lines16–17",
       "note": "Own published parliamentary speech explicitly says worked full-time while studying when first moved from home. Employer and calendar interval absent. Solicitor mortgage reference is not treated as evidence that every concurrent or earlier job was full-time."
+    },
+    {
+      "source_id": "src-grc-ar2023-pass2",
+      "url": "https://embed-rech-01.dialog.cm/georgesriver/docs/grc_annual_report_2023_online",
+      "publisher": "Georges River Council",
+      "title": "Annual report 2022/23",
+      "source_type": "government",
+      "retrieved": "2026-10-05",
+      "locator": "Printed p73, councillor biography; web lines2547–2568",
+      "note": "Council-issued report confirms Graduate Certificate in Professional Legal Practice and solicitor work exceeding nine years. Does not identify qualification institution/dates or allocate legal tenure among employers or specify hours. Oath on26 September2022 is distinct from election date."
     }
   ]
 }
