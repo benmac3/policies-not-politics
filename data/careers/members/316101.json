@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/316101",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-04",
+  "last_reviewed": "2026-10-05",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -28,9 +28,10 @@
       "counting_status": "insufficient_evidence",
       "source_ids": [
         "src-1",
-        "src-2"
+        "src-2",
+        "src-21"
       ],
-      "evidence_note": "Official overall career interval; component spells must not be added to this umbrella. Early employer(s) before 2008 unresolved.",
+      "evidence_note": "Official overall career interval; component spells must not be added to this umbrella. Early employer(s) before 2008 unresolved. Own first speech recalls nine overseas working years without identifying precise transitions; not summed as additional employment.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "316101-01"
     },
@@ -68,9 +69,10 @@
       "counting_status": "insufficient_evidence",
       "source_ids": [
         "src-4",
-        "src-7"
+        "src-7",
+        "src-20"
       ],
-      "evidence_note": "Confirmed by LK announcement and November 2012 employer listing; exact endpoints unknown.",
+      "evidence_note": "Employer-contributed article dated23September2010 and November2012 Law Update author/contact establish Al Tamimi affiliation at those observations. Exact employment start/end and hours unknown; do not convert observations to continuous tenure.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "316101-03"
     },
@@ -111,7 +113,8 @@
         "src-5",
         "src-10",
         "src-11",
-        "src-15"
+        "src-15",
+        "src-21"
       ],
       "evidence_note": "Public professional profile supplies years; primary government confirms employment. ASC Pty Ltd Commonwealth control is distinct from transferred shipbuilding subsidiary. Payroll entity, exact months, hours and leave need verification.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
@@ -143,7 +146,7 @@
       "role": "Special counsel, construction, projects and infrastructure",
       "start_date": "2022",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "private_enterprise",
@@ -162,7 +165,7 @@
       "role": "Special counsel; later principal",
       "start_date": "2022",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "private_enterprise",
@@ -244,7 +247,7 @@
       "role": "Volunteer director; aviation safety committee chair",
       "start_date": null,
       "end_date": "2025-05-15",
-      "date_precision": "mixed",
+      "date_precision": "day",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "unpaid_work",
@@ -254,7 +257,8 @@
       "source_ids": [
         "src-3",
         "src-12",
-        "src-14"
+        "src-14",
+        "src-21"
       ],
       "evidence_note": "Volunteer status explicit in own biography; resignation date from reproduced register. Start and committee endpoints unresolved; not counted as paid nonprofit employment.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
@@ -275,7 +279,7 @@
       "source_ids": [
         "src-2"
       ],
-      "evidence_note": "Official month-precision interval; concurrent with law career.",
+      "evidence_note": "Official month-precision interval; concurrent with law career. Employer2024CV lists Audit & Risk, St Peters Childcare Centre and Board Executive committee service; dates/pay for committee roles unknown and concurrent council governance is not another job.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "316101-13"
     },
@@ -305,7 +309,7 @@
       "role": "Member for Sturt",
       "start_date": "2025-05-03",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "day",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -334,11 +338,69 @@
       "counting_status": "excluded",
       "source_ids": [
         "src-2",
-        "src-3"
+        "src-3",
+        "src-22"
       ],
-      "evidence_note": "CV completion years: BA 2004, law degree and legal practice diploma 2005, LLM 2012, directors course 2021. Teaching masters and language diploma dates unresolved. Completion dates are not whole study intervals.",
+      "evidence_note": "CV completion years: BA 2004, law degree and legal practice diploma 2005, LLM 2012, directors course 2021. Teaching masters and language diploma dates unresolved. Completion dates are not whole study intervals. Own15September2026speech expressly dates LLB commencement March2001; this is separate from broader university attendance, not proof of study/employment hours.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "316101-16"
+    },
+    {
+      "spell_id": "316101-17",
+      "employer": "Chartered Institute of Arbitrators",
+      "role": "UAE young members chair; global young members steering committee; honorary secretary",
+      "start_date": "2013-01",
+      "end_date": null,
+      "date_precision": "month",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "nonprofit",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-5"
+      ],
+      "evidence_note": "Public professional profile dates UAE young members chair Jan2013, global steering committee Jan2014 and honorary secretary May2014. Offices may overlap; no separate salaries/hours proven. Present labels not current-continuity evidence; endpoints unknown. Professional-association governance excluded.",
+      "counting_note": "Excluded association/unpaid role; no headline years."
+    },
+    {
+      "spell_id": "316101-18",
+      "employer": "Dubai International Arbitration Centre panel / individual arbitration appointments",
+      "role": "Panel member; sole arbitrator on cases",
+      "start_date": "2011-04",
+      "end_date": null,
+      "date_precision": "month",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unknown",
+      "headline_sector": "unknown",
+      "government_control_at_time": "unknown",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-5"
+      ],
+      "evidence_note": "Own professional profile reports panel start Apr2011 and sole-arbitrator cases. Centre is not presumed payroll employer; case dates/pay and current appointments unknown. May overlap law practice, not independent full-time tenure.",
+      "counting_note": "Case/panel role lacks contractual employer, pay, hours and end evidence; no years calculated or added to firm career."
+    },
+    {
+      "spell_id": "316101-19",
+      "employer": "Nonna’s Cucina; unidentified local netball club",
+      "role": "Volunteer meal-delivery driver and community volunteer",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "unpaid_work",
+      "headline_sector": "excluded",
+      "government_control_at_time": "unknown",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-21"
+      ],
+      "evidence_note": "First speech explicitly describes her meal-delivery volunteering and volunteering through stepdaughter’s local netball club. Actual starts/ends unknown; these are unpaid community roles, not paid driving or sporting employment.",
+      "counting_note": "Excluded association/unpaid role; no headline years."
     }
   ],
   "sources": [
@@ -387,9 +449,9 @@
       "publisher": "Claire Clutterham / LinkedIn",
       "title": "Professional profile",
       "source_type": "professional_profile",
-      "locator": "Public search-index experience excerpt: Deputy General Counsel, ASC Pty Ltd",
-      "note": "Indexed years 2017–2021. Direct profile returned 999 Unknown Status Code; no inference from unrelated job advertisements on profile.",
-      "retrieved": "2026-10-01",
+      "locator": "Public search-index experience excerpt (ASC) and Organizations section",
+      "note": "ASC indexed years2017–2021 retained. Organizations section supplies CIArb offices and DIAC panel month starts. Present labels may be stale; departure and current continuity not established. Direct profile unavailable; unrelated vacancies and other people’s posts are not evidence about her hours.",
+      "retrieved": "2026-10-05",
       "source_id": "src-5"
     },
     {
@@ -407,9 +469,9 @@
       "publisher": "Al Tamimi & Company",
       "title": "Law Update, November 2012",
       "source_type": "employer",
-      "locator": "Indexed arbitration contact listing for Claire Clutterham",
-      "note": "Contemporary employer contact corroborates role. Full PDF open returned 400 Content length is too large: 17933613; narrow indexed evidence only.",
-      "retrieved": "2026-10-01",
+      "locator": "PDF p22, Arbitration article by Claire Clutterham",
+      "note": "Ordinary authorised public download recovered the previously oversized17,933,613-byte PDF; page22 lists Claire Clutterham, Arbitration, and her tamimi.com contact. November2012 is an observation, not appointment bounds.",
+      "retrieved": "2026-10-05",
       "source_id": "src-7"
     },
     {
@@ -531,6 +593,36 @@
       "note": "Clutterham declares salary from employer LK Law during the return period, identifies her LK workplace and legal work, and declares RFDS/East Waste directorships. The search interface did not expose the return's signed date, so it is an observation within the councillor/LK overlap and not used as an exact endpoint or hours finding.",
       "retrieved": "2026-10-03",
       "source_id": "src-19"
+    },
+    {
+      "source_id": "src-20",
+      "url": "https://www.legal500.com/intelligence/united-arab-emirates/litigation-mediation-arbitration/methods-of-dispute-resolution-series-%E2%80%93-arbitration",
+      "publisher": "Al Tamimi & Company, reproduced by Legal500",
+      "title": "Methods of Dispute Resolution Series — Arbitration, 23 September2010",
+      "source_type": "employer",
+      "locator": "Dated Al Tamimi & Company contribution, author Claire Clutterham",
+      "note": "Contemporaneous firm-authored publication associates Clutterham with Al Tamimi in September2010; publication date not employment start.",
+      "retrieved": "2026-10-05"
+    },
+    {
+      "source_id": "src-21",
+      "url": "https://www.openaustralia.org.au/debate/?id=2025-07-23.130.1",
+      "publisher": "House of Representatives, reproduced by OpenAustralia",
+      "title": "Claire Clutterham first speech, 23 July2025",
+      "source_type": "government_record",
+      "locator": "4:32pm, overseas career/ASC and community volunteering paragraphs",
+      "note": "Own recollection of nine years working as a lawyer overseas and five years at ASC, without exact endpoints/hours. Identifies volunteering for stepdaughter’s netball club and Nonna’s Cucina delivery driving; RFDS volunteer directorship corroborated.",
+      "retrieved": "2026-10-05"
+    },
+    {
+      "source_id": "src-22",
+      "url": "https://www.openaustralia.org.au/debate/?id=2026-09-15.154.2",
+      "publisher": "House of Representatives, reproduced by OpenAustralia",
+      "title": "Gaudron tribute, Claire Clutterham, 15 September2026",
+      "source_type": "government_record",
+      "locator": "Claire Clutterham at7:12pm, law study opening",
+      "note": "Explicit law degree commencement March2001, second university year. Narrative of legal practice gives no individual employment fraction.",
+      "retrieved": "2026-10-05"
     }
   ],
   "research_notes": [
@@ -542,6 +634,7 @@
     "Follow-up2026-10-02 resolves Leo Cussen legal entity and charity classification using historical ABR and education regulator. February2024 conference corroborates teaching during LK employment; exact hours/contracts remain unknown. LK special-counsel-to-principal progression narrowed by dated observations only.",
     "Targeted2005–2008 and insurance-litigation searches expose public-profile fragments but no defensible employer-to-date linkage. No employer guessed from unrelated profiles. RFDS appointment searches found no primary start date. Overseas transitions, ASC/Boeing hours and campaign leave remain unresolved.",
     "Follow-up2026-10-03: official council ordinary-return text establishes that LK Law paid salary during the return period and separately identifies directorships. Salary evidence confirms paid legal employment but does not establish full-time status, exact endpoints or campaign leave; no headline years inferred. The PDF open returned DisabledError after indexed text was retrieved.",
-    "Follow-up2026-10-04: Targeted first-employer (2005–2008), RFDS appointment-year, overseas-transition and personal ASC full-time searches found no defensible new interval or hours evidence. Current personal/party biographies provide broad legal and community-service summaries; they are not dates or contracts. The Legal500 arbitration author lead and dated employer CV corroborate legal practice but do not identify the missing early payroll employer. No dates inferred from the council or RFDS entity history; previous supported facts retained. Overseas firm transitions, campaign leave, teaching contracts and RFDS commencement remain follow-up needs. A search response was truncated by output size; smaller searches recovered usable results, not a job-wide limit."
+    "Follow-up2026-10-04: Targeted first-employer (2005–2008), RFDS appointment-year, overseas-transition and personal ASC full-time searches found no defensible new interval or hours evidence. Current personal/party biographies provide broad legal and community-service summaries; they are not dates or contracts. The Legal500 arbitration author lead and dated employer CV corroborate legal practice but do not identify the missing early payroll employer. No dates inferred from the council or RFDS entity history; previous supported facts retained. Overseas firm transitions, campaign leave, teaching contracts and RFDS commencement remain follow-up needs. A search response was truncated by output size; smaller searches recovered usable results, not a job-wide limit.",
+    "Follow-up2026-10-05: recovered public employer2012PDF by ordinary download and dated2010firm-contributed article, narrowing Al Tamimi observations without invented endpoints. Public profile exposes omitted CIArb offices and DIAC panel/case work; Present labels not assumed current. First speech adds unpaid Nonna’s Cucina/netball volunteering; September2026Hansard expressly dates law-study commencement March2001. Council return now404 on ordinary download, web reader inaccessible; retain previously supported salary evidence rather than erase it. Early2005–2008 firm, overseas transitions, RFDS start and ASC/Boeing/Sparke/LK hours/leave remain unresolved after targeted searches; vacancy adverts concern staff, not member."
   ]
 }
