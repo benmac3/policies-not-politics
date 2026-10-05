@@ -6,7 +6,7 @@
   "snapshot_party": "The Nationals",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/286535",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-04",
+  "last_reviewed": "2026-10-05",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -20,7 +20,7 @@
       "role": "Farm worker, owner and manager",
       "start_date": null,
       "end_date": "2010",
-      "date_precision": "mixed",
+      "date_precision": "year",
       "employment_status": "self_employed",
       "fte_fraction": null,
       "category": "private_enterprise",
@@ -76,9 +76,11 @@
         "src-3",
         "src-5",
         "src-9",
-        "src-10"
+        "src-10",
+        "src-13",
+        "src-ecq2012-oct5"
       ],
-      "evidence_note": "Whitsunday Regional Council's 2021-22 annual report says Willcox was first elected in 2012 as Division 6 councillor and was sworn in as mayor on 4 April 2016. The exact 2012 commencement day is not stated in the sources reviewed. Deputy-mayor duties March 2013–March 2016 are recorded separately within this council service; no additive duration.",
+      "evidence_note": "Whitsunday Regional Council's 2021-22 annual report says Willcox was first elected in 2012 as Division 6 councillor and was sworn in as mayor on 4 April 2016. The exact 2012 commencement day is not stated in the sources reviewed. Deputy-mayor duties March 2013–March 2016 are recorded separately within this council service; no additive duration. Fresh APH indexed text gives councillor service March2012–March2013, followed by deputy mayor; ECQ election report records polling28April2012 and Willcox as successful Division6 candidate. March commencement therefore remains a source discrepancy, not an adopted refined start. Existing year-level start retained pending post-election declaration/minutes.",
       "counting_note": "Local elected office is excluded."
     },
     {
@@ -131,7 +133,7 @@
       "role": "Member of the House of Representatives for Dawson",
       "start_date": "2022-05-21",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "day",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -377,6 +379,16 @@
       "source_type": "government_record",
       "locator": "Entity and business names",
       "note": "ABNactive3February2010; Koorelah Farms business name8April2024. Does not prove Willcox worked for Born Farms or establish2010sale day."
+    },
+    {
+      "source_id": "src-ecq2012-oct5",
+      "url": "https://www.ecq.qld.gov.au/__data/assets/pdf_file/0019/2665/2012-Local-Government-Elections-Report.pdf",
+      "publisher": "Electoral Commission of Queensland",
+      "title": "2012 Queensland Local Government Elections Report",
+      "retrieved": "2026-10-05",
+      "source_type": "government_record",
+      "locator": "Printed pages9 and502 (PDF pages11 and504), polling date and Whitsunday Division6 result",
+      "note": "Primary report records elections on28April2012 and Willcox successful for Division6. This conflicts with March2012 councillor commencement in indexed APH biography; no unsupported swearing-in day assigned."
     }
   ],
   "research_notes": [
@@ -389,6 +401,7 @@
     "Investment leads from register transcription: A & R Land, AJRW Investments, A & R Property Development, AR Supa Management, A & R Willcox, JSTW Holdings, JSTW Properties, OAG Properties, OAG Investments, R & A Corporation, Rayand, Rayandwill, Rayandwill Holdings, Rayandwill Investments, Rayandwill Properties, Rayandwill Land and JSTW Land. Obtain original disclosures and appointment/work evidence before treating these trustee/passive-investment directorships as substantive jobs; Bowen Farmers Transport dividends alone prove no employment.",
     "Source gaps: original https://www.aph.gov.au/-/media/03_Senators_and_Members/32_Members/Register/48p/SZ/Willcox.pdf returned403Forbidden; publicLinkedIn directopen InternalError, visibleindexed deputy datesused. Farm legal identities,startdates,hours and2010sale/2012counciltransition remain unresolved.",
     "Follow-up2026-10-03: official13April2022councilminutes establish campaign-related mayoral leave from2pm11April and approved absences for three meetings through11May. Minutes do not state leave endpoint, mayoral remuneration or farm/investment work, so no broader cessation or full-time inference made. Searches for named farming entities returned interest disclosures and existing profiles, not work boundaries.",
-    "Follow-up2026-10-04: Resolved named Koorelah Farms managing-director stage1996–2010 from official indexed biography. ABR identifies associated trust/trading name and later BornFarms name; avoided assigning successor registration dates as personal employment. Earlier work and investment management remain undated; no full-time years inferred."
+    "Follow-up2026-10-04: Resolved named Koorelah Farms managing-director stage1996–2010 from official indexed biography. ABR identifies associated trust/trading name and later BornFarms name; avoided assigning successor registration dates as personal employment. Earlier work and investment management remain undated; no full-time years inferred.",
+    "Follow-up2026-10-05: targeted Koorelah/full-time, historical farm and BowenFarmersTransport/investment searches supplied no personal hours or legal employment boundary. Signet supplier case study names no Willcox; Governor-General31March2017 program distinguishes MayorWillcox from farm hostWayneBorn, so visits do not imply ongoing farm employment. New ECQ2012 primary report identifies Division6 win at28April poll, conflicting with APH March2012 start; preserved year start and documented discrepancy pending swearing-in record. Full-time search hits for TasmaniaFootballClub and UKJohnson&Johnson are homonyms, and MPstaff vacancy advertisements describe employees, not him. MacrossanAmiet directopen400Timeout; indexed profile corroborates existing2010sale but no new personal dates. No headline calculated."
   ]
 }
