@@ -6,7 +6,7 @@
   "snapshot_party": "Liberal Party of Australia",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/316547",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-04",
+  "last_reviewed": "2026-10-05",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -86,7 +86,7 @@
     {
       "spell_id": "316547-04",
       "employer": "King & Wood Mallesons",
-      "role": "Solicitor, specialising in foreign investment law",
+      "role": "Solicitor, foreign investment law; member of Solicitors Assisting team for2020Bushfires Royal Commission",
       "start_date": "2019-10",
       "end_date": "2025-06",
       "date_precision": "month",
@@ -105,9 +105,11 @@
         "src-16",
         "src-12",
         "src-18",
-        "src-19"
+        "src-19",
+        "src-rc-appendix2020-oct5",
+        "src-kwm-inquiries-oct5"
       ],
-      "evidence_note": "The official biography says only 'Solicitor'. Rebello and party profiles identify King & Wood Mallesons and foreign-investment specialization; a March 2025 Lawyers Weekly profile says he had worked there for the past six years and remained a solicitor while campaigning. A user-supplied screenshot of his public professional profile displays Solicitor, October2019–June2025, after the separately recorded graduate program. Public first-person post confirms admission in ACT Supreme Court, but only relative publication age is accessible. Hours, leave, secondments, exact day boundaries and the May–June2025 overlap with elected office remain unresolved. April2025 interview describes practising law retrospectively and full-time candidacy since April2024, so KWM profile-title tenure cannot establish continuous active work through June2025. He also reports acting for the Commonwealth during the Bushfire Royal Commission; employer/secondment and dates of that assignment are unconfirmed, not assumed to be public employment.",
+      "evidence_note": "The official biography says only 'Solicitor'. Rebello and party profiles identify King & Wood Mallesons and foreign-investment specialization; a March 2025 Lawyers Weekly profile says he had worked there for the past six years and remained a solicitor while campaigning. A user-supplied screenshot of his public professional profile displays Solicitor, October2019–June2025, after the separately recorded graduate program. Public first-person post confirms admission in ACT Supreme Court, but only relative publication age is accessible. Hours, leave, secondments, exact day boundaries and the May–June2025 overlap with elected office remain unresolved. April2025 interview describes practising law retrospectively and full-time candidacy since April2024, so KWM profile-title tenure cannot establish continuous active work through June2025. His first-person account of Bushfires Royal Commission work is now corroborated by its28October2020Appendix2, printed p45, which lists him specifically under Solicitors Assisting. KWM primary practice history confirms the firm supplied solicitors assisting; attribution to his established KWM employment is supported by these combined sources. This is a nested2020legal assignment, not an additional duration or proof of government payroll/secondment. Personal assignment start/end, hours and leave remain unknown; Commission-wide dates are not substituted for his boundaries.",
       "counting_note": "Substantive private legal work and month boundaries are supported, but unknown hours, leave and overlap with elected office prevent treating the whole interval as countable full-time work."
     },
     {
@@ -137,7 +139,7 @@
       "role": "Member for McPherson",
       "start_date": "2025-05-03",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "day",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -215,7 +217,7 @@
       "role": "Membership Director",
       "start_date": "2022",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "unpaid_work",
@@ -423,7 +425,7 @@
     {
       "start_date": "2024-04",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "month",
       "employment_status": "full_time",
       "fte_fraction": 1.0,
       "category": "party_organisation",
@@ -630,6 +632,26 @@
       "retrieved": "2026-10-04",
       "locator": "18April2025, Tell us a little about yourself answers",
       "note": "First-person answers identify pharmacist-assistant and tutor work, Commonwealth Bushfire Royal Commission representation and full-time candidacy since April2024. Does not identify early employers, pay/hours or exact legal leave boundaries."
+    },
+    {
+      "source_id": "src-rc-appendix2020-oct5",
+      "url": "https://www.royalcommission.gov.au/system/files/2020-12/Royal%20Commission%20into%20National%20Natural%20Disaster%20Arrangements%20-%20Appendices%20%20%5Baccessible%5D.pdf",
+      "publisher": "Royal Commission into National Natural Disaster Arrangements",
+      "title": "Appendices28October2020 — Appendix2Commission Team",
+      "retrieved": "2026-10-05",
+      "source_type": "government_record",
+      "locator": "Printed/PDFp45, right-hand Solicitors Assisting column, Leon Rebello",
+      "note": "Primary report original linked at https://www.royalcommission.gov.au/natural-disasters/report. Search original failed400Content length is too large:19141850; ordinary original download timed out. Public unmodified report copy downloaded from https://volunteerfirefighters.org.au/wp-content/uploads/2020/10/Royal-Commission-into-National-Natural-Disaster-Arrangements-Appendices-accessible.pdf; p45 text and rendered layout inspected. Rebello belongs to Solicitors Assisting, distinct from Office of the Royal Commission. Does not give individual assignment dates, hours or payroll."
+    },
+    {
+      "source_id": "src-kwm-inquiries-oct5",
+      "url": "https://www.mallesons.com/au/en/expertise/practices/dispute-resolution-and-litigation/commissions-and-inquiries.html",
+      "publisher": "Mallesons(formerly King & Wood Mallesons)",
+      "title": "Commissions and Inquiries",
+      "retrieved": "2026-10-05",
+      "source_type": "employer_record",
+      "locator": "Opening paragraph We have acted; Market highlights — Royal Commissions",
+      "note": "Employer primary page confirms firm acted as solicitors assisting for Bushfires Royal Commission. Together with report appendix and established KWM employment this supports assignment attribution to KWM; modern firm name is not retroactively substituted for2020name. No personal date/hours/leave supplied."
     }
   ],
   "research_notes": [
@@ -642,6 +664,7 @@
     "Further leads: KWM graduate versus solicitor dates and final cessation; exact ACT admission roll; parliamentary-attendant employer department and hours;2015–16exchange leave; Wallace/clerkship overlap; client work and campaign leave. A third-party LinkedIn post by Raagulan Pathy claims unpaid campaign leave but full post robots-denied; treat as unverified lead, not a quantified deduction.",
     "Source errors recovered/limited: old LinkedIn profile DisabledError; current profile999Unknown Status Code; ANU2018clerkshipguide400Unsupported content-type application/octet-stream; third-party post robots.txt fetch denied. Publicly indexed facts used only where explicit; no access-control bypass.",
     "Follow-up 2026-10-03: user-supplied screenshot of the public professional profile resolves KWM Graduate February–October2019 and Solicitor October2019–June2025 at month precision. Lawyers Weekly independently confirms the summer-clerk-to-Bishop-office sequence and temporary graduate-program deferral. Hours, leave, exact day boundaries, ACT admission date and the May–June2025 KWM/elected-office overlap remain unresolved; no full-time total calculated.",
-    "Follow-up2026-10-04: First-person18April2025interview recovers pharmacist-assistant and tutor roles and full-time campaign from April2024. Employers, early-job dates/pay/hours and legal leave allocation remain unknown. Commonwealth royal-commission representation is a client-work observation, not proof of government payroll. Third-party unpaid-leave claim remains a lead; direct LinkedIn returned DisabledError and no quantitative deduction was adopted. Exact ACT admission, KWM daily boundaries and attendant department still unresolved."
+    "Follow-up2026-10-04: First-person18April2025interview recovers pharmacist-assistant and tutor roles and full-time campaign from April2024. Employers, early-job dates/pay/hours and legal leave allocation remain unknown. Commonwealth royal-commission representation is a client-work observation, not proof of government payroll. Third-party unpaid-leave claim remains a lead; direct LinkedIn returned DisabledError and no quantitative deduction was adopted. Exact ACT admission, KWM daily boundaries and attendant department still unresolved.",
+    "Follow-up2026-10-05 materially enriched: original2020Royal Commission appendix, printed/PDFp45, visually inspected from public report copy, identifies Rebello under Solicitors Assisting rather than Office staff. Primary KWM practice history confirms firm supplied Bushfires solicitors assisting. Refined existing KWM role with nested2020assignment, explicitly separating commission/client from employer and retaining unknown personal assignment boundaries, hours and leave; no additive public-service years. Original search PDFs returned400content-length limits(19141850appendices/17636996report); ordinary original download timed out, PSU mirror404 and Blue Mountains verification wall. Accessible Volunteer Firefighters report copy recovered appendix without bypass. Pharmacy/tutoring employer and ACT admission searches repeat current material; third-party unpaid-campaign-leave text still lacks dated personal leave/return and does not resolve full-time legal duration."
   ]
 }
