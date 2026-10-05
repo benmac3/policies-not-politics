@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/23497",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-04",
+  "last_reviewed": "2026-10-05",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -29,9 +29,10 @@
       "counting_status": "excluded",
       "source_ids": [
         "src-speech",
-        "src-linkedin"
+        "src-linkedin",
+        "src-family-planning-nsw-abr-history"
       ],
-      "evidence_note": "First speech calls this one of her first jobs and describes reproductive-rights campaign work. Dates, hours and the employer's then-current legal name remain unresolved. Follow-up2026-10-02: public professional-profile search index explicitly associates Family Planning Australia with January2004–December2005. Month precision retained; overlaps with Greens office, Organ adviser observation and December2005 PIAC commencement are unresolved, not added as separate full-time duration. Historical legal name, hours and breaks still unknown.",
+      "evidence_note": "First speech calls this one of her first jobs and describes reproductive-rights campaign work. Dates, hours and the employer's then-current legal name remain unresolved. Follow-up2026-10-02: public professional-profile search index explicitly associates Family Planning Australia with January2004–December2005. Month precision retained; overlaps with Greens office, Organ adviser observation and December2005 PIAC commencement are unresolved, not added as separate full-time duration. Historical legal name, hours and breaks still unknown. Historical ABR identifies FPAHealth as NSW entity name in2001–2006, with modern FamilyPlanningAustralia business-name registration only from2025. A separate historical national incorporated entity shares the brand. Personal evidence has not linked Berry to either legal entity; modern brand is retained as reported, not silently rewritten.",
       "counting_note": "Nonprofit employment is excluded under the codebook; no full-time duration inferred."
     },
     {
@@ -530,6 +531,16 @@
       "source_type": "government_record",
       "locator": "Printed p2 acknowledgements and suggested citation",
       "note": "Read primary guide. Reference Group includes Carol Berry, NSW Ombudsman. No personal pay, hours, appointment dates or separate employing relationship supplied."
+    },
+    {
+      "source_id": "src-family-planning-nsw-abr-history",
+      "url": "https://abr.business.gov.au/AbnHistory/View?id=75000026335",
+      "publisher": "Australian Business Register",
+      "title": "Family Planning NSW historical ABN details75000026335",
+      "source_type": "government_record",
+      "retrieved": "2026-10-05",
+      "locator": "Entity/trading-name tables and charity-tax-concession history; web lines43–46,63,79–89",
+      "note": "NSW entity used FPA Health in2001–2006; Family Planning Australia registered business name from22September2025. This is an employer-identity lead, not a matched personal payroll record. ABR all-name search also lists a separate cancelled Family Planning Australia Incorporated ABN20860935679; historical page unavailable. Do not assume the modern NSW brand identifies her2004–05legal employer."
     }
   ],
   "open_questions": [
@@ -549,6 +560,7 @@
     "Next targeted leads: historical2004–05 Family Planning personnel/annual reports, Michael Organ office records and contemporaneous pay/hours evidence for Ombudsman/NDIA. Do not repeat generic biographies or interpret general staff policies as Berry employment status.",
     "Further2October pass: PIAC2008 staff appendix already captured, no new personal-hours evidence. Green magazine Issue13 p11 clarifies adjacent full-time campaign wording describes John, not Berry. Organ office notice titled New MP's office up and running (ParlInfo media/pressrel/EJW86) publicly indexes Berry as lawyer/former Cunningham candidate, but full text returned (403) Forbidden and indexed context did not establish exact employment commencement. Retain as lead without converting notice date into start. Southern Highlands Express19February2025 retrospectively reports advising Organ during2002 election, which does not distinguish campaign advice from paid parliamentary employment. Historical Family Planning legal identity and public-service hours remain open; no substantive fact newly resolved in this pass.",
     "Follow-up 2026-10-04: targeted Family Planning, Michael Organ, NDIA and campaign-leave searches yielded the same secondary 2002 campaign-advice account and undated employer interview already recorded. The interview page still exposes no publication date, and the 2002 account does not distinguish campaign advice from paid parliamentary staff employment. No source supplied Berry-specific hours or leave dates. Do not promote campaign milestones into payroll boundaries; retain the existing gaps and advance.",
-    "Follow-up2026-10-04: Retrieved UNSW2018 case-review guide p2 and parliamentary annexure index. Added precise public-service portfolio and employer representation as corroboration, conservatively nonmaterial for run counts. The primary guide does not establish personal hours or a new employment spell. Parliamentary original returned web Internal Error / ordinary HTTP403; preserve indexed limitation. Family Planning, Organ and NDIA queries yielded no new personal boundaries or hours. Next target: historical personnel records rather than repeating biographies."
+    "Follow-up2026-10-04: Retrieved UNSW2018 case-review guide p2 and parliamentary annexure index. Added precise public-service portfolio and employer representation as corroboration, conservatively nonmaterial for run counts. The primary guide does not establish personal hours or a new employment spell. Parliamentary original returned web Internal Error / ordinary HTTP403; preserve indexed limitation. Family Planning, Organ and NDIA queries yielded no new personal boundaries or hours. Next target: historical personnel records rather than repeating biographies.",
+    "2026-10-05 targeted historical FamilyPlanning legal-name route found NSW ABR FPAHealth2001–2006 and modern Australia brand registration2025, plus a distinct cancelled national incorporated entity. Neither identity is linked to Berry payroll, so employer remains unresolved rather than guessed. Public-service person-specific hours queries again returned US namesakes/general staffing, excluded. Nonmaterial corroboration/identity caution; sourceURLs and locators saved. Correct prior next-cursor label:23497 is Carol Berry, not Alison; id/file unchanged."
   ]
 }
