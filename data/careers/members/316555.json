@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/316555",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-04",
+  "last_reviewed": "2026-10-05",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -107,9 +107,10 @@
       "source_ids": [
         "src-1",
         "src-2",
-        "src-3"
+        "src-3",
+        "src-11"
       ],
-      "evidence_note": "Official month dates; first speech describes organising laboratory/mining-service workers, not employment by those laboratories. Hours unknown.",
+      "evidence_note": "Official month dates; first speech describes organising laboratory/mining-service workers, not employment by those laboratories. Hours unknown. Contemporary20March2014 Hansard corroborates current AMWU employment, not quantified working time.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "316555-05"
     },
@@ -138,7 +139,7 @@
       "role": "Bachelor of Arts student",
       "start_date": null,
       "end_date": "2018",
-      "date_precision": "mixed",
+      "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "study",
@@ -165,9 +166,10 @@
       "government_control_at_time": "private",
       "counting_status": "excluded",
       "source_ids": [
-        "src-2"
+        "src-2",
+        "src-11"
       ],
-      "evidence_note": "Held during university years; tenure and paid/unpaid basis not stated.",
+      "evidence_note": "Held during university years; tenure and paid/unpaid basis not stated. March2014 Hansard independently identifies her as one of the women presidents; demonstrates role held by then, not exact start/end.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "316555-08"
     },
@@ -210,9 +212,10 @@
         "src-4",
         "src-5",
         "src-9",
-        "src-10"
+        "src-10",
+        "src-12"
       ],
-      "evidence_note": "July2022 start,2025 state/federal campaign direction; July2025 first speech addresses successors. A public first-person post during the November2023 WA Labor conference states that she took a short break from maternity leave and identifies her son as four months old, establishing leave at that observation but not its start, employment terms or end. Full-time return to work in April2024 is directly self-reported later. Because leave boundaries and the rest of the tenure's working pattern remain unresolved, retain unknown status for the unsplit whole spell. Enterprise agreement representation does not establish a second Perth Trades Hall job. Party describes her as outgoing on30June2025; exact cessation not established, so year-level end retained.",
+      "evidence_note": "July2022 start,2025 state/federal campaign direction; July2025 first speech addresses successors. A public first-person post during the November2023 WA Labor conference states that she took a short break from maternity leave and identifies her son as four months old, establishing leave at that observation but not its start, employment terms or end. Full-time return to work in April2024 is directly self-reported later. Because leave boundaries and the rest of the tenure's working pattern remain unresolved, retain unknown status for the unsplit whole spell. Enterprise agreement representation does not establish a second Perth Trades Hall job. Party describes her as outgoing on30June2025; exact cessation not established, so year-level end retained. Marshall15August2023 speech identifies Whiteaker setting up Rockingham campaign before taking maternity leave and Cayoun acting secretary bringing campaign home. This bounds leave earlier than already recorded November2023 observation, without exact start.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "316555-10"
     },
@@ -221,7 +224,7 @@
       "role": "Senator for Western Australia",
       "start_date": "2025-07-01",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "day",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -255,6 +258,44 @@
       "evidence_note": "First paid job reported from age15, with Thursday-night and one weekend-day shifts. Describes reliance on penalty rates into university years. Age and school sequence not converted into calendar dates. Total weekly hours, casual/part-time contract and any later changes unknown; no full-time interval supported. Subway brand is identified; historical employing franchise entity/control requires verification.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "316555-12"
+    },
+    {
+      "spell_id": "316555-13",
+      "employer": "Australian Labor Party, Western Australian branch",
+      "role": "Acting State Secretary",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "party_organisation",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-13"
+      ],
+      "evidence_note": "Interview study identifies acting capacity in early2020 within assistant-secretary tenure. Temporary term boundaries unknown; overlaps parent role, not another additive job or permanent2022 start.",
+      "counting_note": "Excluded category; not additional headline employment years."
+    },
+    {
+      "spell_id": "316555-14",
+      "employer": "Australian Institute of Company Directors",
+      "role": "Education / course not specified",
+      "start_date": "2019",
+      "end_date": "2019",
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "study",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-6"
+      ],
+      "evidence_note": "Public professional index explicitly lists institution and2019–2019 education. Course title/completion and personal days unknown; registration not director employment.",
+      "counting_note": "Excluded category; not additional headline employment years."
     }
   ],
   "sources": [
@@ -313,9 +354,9 @@
       "publisher": "Ellie Whiteaker / LinkedIn",
       "title": "Public professional profile indexed extract",
       "source_type": "professional_profile",
-      "locator": "Search-indexed UnionsWA entry and Assistant State Secretary and Deputy Campaign Director entry",
-      "note": "Public index corroborates August2012–March2013 UnionsWA. Direct profile open returned Internal Error; no authenticated scraping or additional fields inferred. Follow-up public index specifies WA Labor May2018–July2022 assistant-secretary/deputy-campaign-director tenure. Direct access remains unavailable; no unexposed fields inferred.",
-      "retrieved": "2026-10-04",
+      "locator": "Search-indexed UnionsWA entry and Assistant State Secretary and Deputy Campaign Director entry; Education, Australian Institute of Company Directors2019",
+      "note": "Public index corroborates August2012–March2013 UnionsWA. Direct profile open returned Internal Error; no authenticated scraping or additional fields inferred. Follow-up public index specifies WA Labor May2018–July2022 assistant-secretary/deputy-campaign-director tenure. Direct access remains unavailable; no unexposed fields inferred. Public index now explicitly identifies AICD education2019; neighbouring2012–2016 and2013 entries omit institutions and are not assigned to UWA/Monash. Direct profile429 Too Many Requests, not retried.",
+      "retrieved": "2026-10-05",
       "source_id": "src-6"
     },
     {
@@ -357,6 +398,36 @@
       "note": "Public first-person post associated with the November2023 WA Labor conference establishes maternity leave at that observation. It does not state leave commencement, contractual status or end date.",
       "retrieved": "2026-10-03",
       "source_id": "src-10"
+    },
+    {
+      "source_id": "src-11",
+      "url": "https://www.parliament.wa.gov.au/Hansard/hansard.nsf/0/4a79a902d7c320c848257ca5001cb25c/%24FILE/A39%20S1%2020140320%20p1711d-1712a.pdf",
+      "publisher": "Parliament of Western Australia",
+      "title": "Assembly Hansard20March2014,EMILY’s List awards",
+      "source_type": "parliamentary_speech",
+      "locator": "Printed p1712,Whiteaker award/Young Labor presidency/AMWU employment paragraph",
+      "retrieved": "2026-10-05",
+      "note": "Official publicly indexed passage read; full PDF returned403 via web and ordinary request. Presidency observation byMarch2014, exact tenure not stated."
+    },
+    {
+      "source_id": "src-12",
+      "url": "https://www.parliament.wa.gov.au/Hansard/hansard.nsf/0/cfcb1b03ad0d578748258ac80018cbbc/%24FILE/A41%20S1%2020230815%20p3773c-3777a.pdf",
+      "publisher": "Parliament of Western Australia",
+      "title": "Magenta Marshall inaugural speech,15August2023",
+      "source_type": "parliamentary_speech",
+      "locator": "Printed p3776,co-campaign directors and maternity leave paragraph",
+      "retrieved": "2026-10-05",
+      "note": "Publicly indexed original Hansard distinguishes Whiteaker initial campaign work from acting-secretary Cayoun after maternity leave. Exact leave boundary unavailable; alternate first-speech PDF403."
+    },
+    {
+      "source_id": "src-13",
+      "url": "https://academic.oup.com/pa/article/77/1/46/6966531",
+      "publisher": "Parliamentary Affairs / Oxford University Press",
+      "title": "Party on Remote Ground: Disengaging and Disappearing?",
+      "source_type": "other",
+      "locator": "Section3,paragraph introducing Whiteaker interview in early2020",
+      "retrieved": "2026-10-05",
+      "note": "Original interview study identifies acting WA ALP state secretary during early2020; temporary acting observation not permanent July2022 appointment or exact term."
     }
   ],
   "research_notes": [
@@ -368,6 +439,7 @@
     "Follow-up searches for internship/Cook dates, assistant-secretary appointment and party cessation did not resolve personal hours or payroll endpoints. Public30June2025 party post supplies outgoing-status observation only; exact11July2022 appointment remains an unverified secondary lead until original dated announcement is accessible.",
     "LinkedIn open999, APH Hansard source403 and Instagram Online fetch throttled were individual access gaps; no repeated access-control attempts. Next leads: historical Subway Baldivis franchise/payroll identity and tenure, labour-movement internship records, Cook relief dates, union and party leave/full-time evidence. No employment attributed from other speakers or shared social posts.",
     "Follow-up 2026-10-03: a public first-person LinkedIn post establishes that maternity leave was active at the November2023 WA Labor State Conference, while the already-cited later speech fixes return to full-time work in April2024. The leave start and exact return date remain unknown, so no continuous full-time party tenure is inferred. Searches did not recover new internship/Cook-relief dates or Subway franchise records.",
-    "Follow-up2026-10-04: Public professional index refines assistant-state-secretary start from2018 to May2018. Subway franchise identity, internship/Cook dates and personal union/staff working time remain unresolved after targeted searches. Exact11July2022 appointment still depends on original party announcement; secondary repetition is not promoted to primary evidence. Existing maternity-leave observation and April2024 return preserved."
+    "Follow-up2026-10-04: Public professional index refines assistant-state-secretary start from2018 to May2018. Subway franchise identity, internship/Cook dates and personal union/staff working time remain unresolved after targeted searches. Exact11July2022 appointment still depends on original party announcement; secondary repetition is not promoted to primary evidence. Existing maternity-leave observation and April2024 return preserved.",
+    "Follow-up2026-10-05: Original indexed WA Hansard places Young Labor presidency byMarch2014 and maternity leave before completion of2023 Rockingham campaign, not exact dates. Original interview research identifies temporary acting-state-secretary capacity early2020; separate overlapping spell added. Public professional index adds AICD education2019; unnamed neighbouring entries not attributed. PDFs403 and profile429 are source access gaps, not terminal; no immediate retry of429. Subway franchise, internship/Cook dates, personal working hours and exact leave endpoints remain open."
   ]
 }
