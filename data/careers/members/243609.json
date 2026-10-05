@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/243609",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-04",
+  "last_reviewed": "2026-10-05",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -107,7 +107,7 @@
       "role": "Member for Scullin",
       "start_date": "2013-09-07",
       "end_date": null,
-      "date_precision": "unknown",
+      "date_precision": "day",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -138,6 +138,25 @@
       ],
       "evidence_note": "Contemporaneous24June2010report names Giles in this organisational office. Observation date is not appointment date; cessation and remuneration unknown.",
       "counting_note": "Political organisational role excluded from public/private employment headlines; not inferred full-time salaried employment."
+    },
+    {
+      "spell_id": "243609-alp-trustee",
+      "employer": "Australian Labor Party, Victorian Branch",
+      "role": "Party officer and trustee",
+      "start_date": "2006",
+      "end_date": null,
+      "date_precision": "year",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "party_organisation",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-aph-party-office-oct5"
+      ],
+      "evidence_note": "Official biography lists party officer and trustee from 2006. Exact appointment/cessation and remuneration unknown. Kept separate from paid legal work and ministerial staffing; could overlap existing faction secretary office and is not additional employment duration.",
+      "counting_note": "Party organisation offices excluded from employment headlines; no paid or full-time status inferred."
     }
   ],
   "sources": [
@@ -240,6 +259,16 @@
       "source_type": "other",
       "locator": "Andrew Giles paragraph and parliamentary-group co-chairs",
       "note": "Organisation profile identifies Ether guitar activity in1990s and parliamentary co-chair. Neither implies separate paid employment."
+    },
+    {
+      "source_id": "src-aph-party-office-oct5",
+      "url": "https://www.aph.gov.au/Senators%20and%20Members/Parliamentarian.aspx?MPID=243609",
+      "publisher": "Australian Parliament",
+      "title": "Hon Andrew Giles MP official biography",
+      "retrieved": "2026-10-05",
+      "source_type": "official_biography",
+      "locator": "Biography, Party positions: Party Officer and Trustee from 2006",
+      "note": "Official start year for the party offices; neither exact appointment date, pay nor hours is stated."
     }
   ],
   "research_notes": [
@@ -251,6 +280,7 @@
     "Follow-up2026-10-03: repeated targeted searches of Victorian parliamentary/government records, legal-employer material, Tampa representation, ministerial roles and contemporary election coverage. An official2026 D'Ambrosio statement reconfirms Giles was among her ministerial staff, and retrospective reporting says Jennings recruited him from law, but neither supplies an appointment boundary, hours or the sequence among legal and political roles. The existing April2010 observation remains the narrowest reliable D'Ambrosio anchor; no new spell boundary or full-time inference adopted.",
     "Next leads: archived firm appointment/departure notices and legitimate professional CV; Victorian ministerial staffing records for Jennings/D’Ambrosio; electorate-office appointment evidence. Full-time, leave and exact legal-work boundaries remain unknown; no numerical headline calculated.",
     "2026-10-04 Amnesty organisation profile describes Giles playing guitar in Ether in1990s with James Cecil; exact period, pay and professional employment status unknown, retained as activity lead rather than a new paid-employment assumption. Amnesty parliamentary co-chair is within parliamentary service. No unrelated university/Cure Brain Cancer namesake job adopted.",
-    "Follow-up2026-10-04: Contemporaneous2010report resolves acting nature and relative Jennings→D’Ambrosio chief-of-staff sequence and adds previously omitted Socialist Left secretary office. Legal appointment, unnamed electorate-office and hours remain unresolved. No start/day boundaries or paid music assumed."
+    "Follow-up2026-10-04: Contemporaneous2010report resolves acting nature and relative Jennings→D’Ambrosio chief-of-staff sequence and adds previously omitted Socialist Left secretary office. Legal appointment, unnamed electorate-office and hours remain unresolved. No start/day boundaries or paid music assumed.",
+    "Follow-up 5 October 2026: official parliamentary biography supplies a previously omitted party officer/trustee start year, 2006, now retained as excluded political context with pay and hours unknown. Firm appointment/earlier electorate-office searches across both engines still produce no individual full-time contract or legal-work boundary. UK solicitor Andrew John Giles and Andrew Grech firm-management biographies are different people; staff employed by Giles are not his own earlier jobs. The known 2000–2001 Holding Redlich litigation observations and 2012–2013 Slater and Gordon year labels are preserved. Generic firm history and current government-client work do not prove personal public employment or full-time hours. Next useful evidence is an archived individual Australian firm CV/appointment notice or named electorate-office contract. Headline totals remain unknown."
   ]
 }
