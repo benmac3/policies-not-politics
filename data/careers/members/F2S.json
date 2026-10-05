@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/F2S",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-04",
+  "last_reviewed": "2026-10-05",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -114,10 +114,10 @@
     },
     {
       "employer": "Katherine West Health Board Aboriginal Corporation",
-      "role": "Founding chief executive / director and inaugural chair",
-      "start_date": null,
-      "end_date": null,
-      "date_precision": "unknown",
+      "role": "Founding chief executive / director",
+      "start_date": "1997",
+      "end_date": "2000",
+      "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "nonprofit",
@@ -128,9 +128,10 @@
         "src-2",
         "src-5",
         "src-7",
-        "src-20"
+        "src-20",
+        "src-15"
       ],
-      "evidence_note": "Pre-2001 health leadership. Sources distinguish CEO/director and founding chair imperfectly; paid executive versus governance terms need separation. Mid-1990s description not exact endpoints. Employer 2005–06 report independently names her first CEO; 1997–98 vice-chair dates belong to Helen Morris. Executive and inaugural-chair terms remain unresolved.",
+      "evidence_note": "Employer anniversary CEO list explicitly dates Scrymgour1997–2000. Calendar-year precision only; no continuous full-time or exact appointment day inferred. Existing founding-chair account preserved separately as an unresolved governance claim; executive and chair terms not merged. Trial work may overlap; legal payroll/secondment and remuneration remain unconfirmed.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "F2S-06"
     },
@@ -206,7 +207,7 @@
       "role": "Head of Aboriginal and Torres Strait Islander Strategy and Community Programs",
       "start_date": "2012",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "year",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "nonprofit",
@@ -464,6 +465,29 @@
       ],
       "evidence_note": "Named in 2013–14 employer report board roster, printed p15 index. Individual term and remuneration unavailable; reporting year not assigned as employment bounds. Full source access limitation explicit.",
       "counting_note": "Governance kept separate from substantive employment; no public/private headline duration."
+    },
+    {
+      "employer": "Katherine West Health Board Aboriginal Corporation",
+      "role": "Inaugural chair — unresolved biographical claim",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "nonprofit",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-2",
+        "src-5",
+        "src-7",
+        "src-20",
+        "src-15"
+      ],
+      "evidence_note": "Menzies biography describes inaugural chair; employer historical accounts identify Jack Little as founding chair and Scrymgour first CEO. Preserved disputed governance claim separately pending original board minutes; CEO1997–2000 dates not assigned to chairmanship. No confirmed additional job or paid/continuous tenure.",
+      "counting_note": "Governance claim excluded; does not add employment years or establish salary.",
+      "spell_id": "F2S-23"
     }
   ],
   "sources": [
@@ -610,11 +634,11 @@
     {
       "url": "https://www.kwhb.com.au/wp-content/uploads/2024/01/KWHB-AR_INTERNALS_2022_DIGITAL_-Jan-2024.pdf",
       "publisher": "Katherine West Health Board",
-      "title": "Annual report2022",
+      "title": "Katherine West Health Board annual report2022–2023",
       "source_type": "employer",
-      "locator": "Indexed historical account mentioning1997and Mr Little",
-      "note": "Index records Scrymgour seeking Little assistance for regional community engagement in1997. Direct web400size20198058; whole report not inspected. Activity observation, not employment boundary.",
-      "retrieved": "2026-10-02",
+      "locator": "PDF page31, printed58–59, anniversary timeline/CEO list; PDF page3, printed2–3 history",
+      "note": "Ordinary public original PDF200 downloaded20198058bytes after previous web size cap. Text and rendered page31 inspected: CEO list explicitly gives Scrymgour1997–2000. Director/CEO duration differs from undated inaugural-chair claim; hours and exact days absent.",
+      "retrieved": "2026-10-05",
       "source_id": "src-15"
     },
     {
@@ -697,6 +721,7 @@
     "Follow-up2026-10-02: contemporaneous Red Cross appointment reproduced inOctober2012Tiwi Times establishes national-head title and2012commencement, materially clarifying the frozen Research Council conflict. Exact termination and whether any separateResearchCouncilrole existed remain unresolved; no duplicate public years.",
     "Employer historical report index adds1997Katherine West engagement observation; Red Cross biography names trial executive officer. KWHBfullreportweb400size20198058; only index used. Next useful records: Red Cross2012–14staff departures, Wurli2013–15appointment announcement, Katherine West1997–2001executive contract and payroll, Tiwi2019separation and NLCJuly2021leave evidence. No individual full-time proof found.",
     "Follow-up 2026-10-04: official Tiwi council agenda contains Scrymgour's 26 April 2019 last CEO report, refining the council end to April 2019 and corroborating the 2015 commencement interval. Exact final working day, transition overlap and individual hours remain unresolved; no headline total calculated.",
-    "Follow-up2026-10-04: University history establishes Wurli return in2013 at year precision; Governor-General confirms CEO20June2014. Original Lifeline2012–13 report establishes unpaid director2November2012–27March2013 and nested committee dates. Added separately observed CDU and NACCHO governance, with remuneration/terms unknown and NACCHO indexed-only403 limitation. KWHB2005–06 confirms firstCEO but vice-chair1997–98 belongs to Helen Morris. Early employment, individual hours, Red Cross cessation, executive/governance separation and NLC leave remain gaps; no totals. Recovered Lifeline extraction timeout via ordinary official download; oldhost502 and NACCHO403 are source-specific, not terminal."
+    "Follow-up2026-10-04: University history establishes Wurli return in2013 at year precision; Governor-General confirms CEO20June2014. Original Lifeline2012–13 report establishes unpaid director2November2012–27March2013 and nested committee dates. Added separately observed CDU and NACCHO governance, with remuneration/terms unknown and NACCHO indexed-only403 limitation. KWHB2005–06 confirms firstCEO but vice-chair1997–98 belongs to Helen Morris. Early employment, individual hours, Red Cross cessation, executive/governance separation and NLC leave remain gaps; no totals. Recovered Lifeline extraction timeout via ordinary official download; oldhost502 and NACCHO403 are source-specific, not terminal.",
+    "Follow-up2026-10-05: recovered original20.2MB Katherine West2022–2023 employer report by ordinary public download after previous web size cap; text and rendered anniversary page31 inspected. CEO list explicitly supplies1997–2000, refining executive spell at year precision. Separated retained inaugural-chair claim with unknown dates because employer accounts name Jack Little; no chair term assigned from CEO dates. Preserved all supported early jobs and disputed frozen ARC/RedCross claim. University honorary citation only repeats broad employment/study, not individual hours. No false full-time inference from community GP staffing. Next targeted records original CEO contract, trial secondment/payroll, chair minutes, early administrative appointments, RedCross cessation and NLCleave."
   ]
 }
