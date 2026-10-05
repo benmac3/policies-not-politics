@@ -6,12 +6,12 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/245392",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-04",
+  "last_reviewed": "2026-10-05",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
     "calculation_status": "not_calculable",
-    "note": "Army public employment is established but service category, precise dates and breaks remain unresolved. Nonprofit, political staff, reserve affiliation and study are separated; no supported full-time headline totals yet."
+    "note": "Army public employment and an undated full-time Reserve-unit component are established, but interval allocation, precise dates and breaks remain unresolved. Nonprofit, political staff, reserve affiliation and study are separated; no supported full-time headline totals yet."
   },
   "career_spells": [
     {
@@ -282,6 +282,25 @@
       "evidence_note": "Self-described public profile gives months and volunteer title. Affiliation/activity span, not proof of continuous work or20full-time years; overlaps co-founder record and other employment without addition.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "245392-13"
+    },
+    {
+      "employer": "Australian Army",
+      "role": "Full-time Army member in a Reserve unit — undated component",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "full_time",
+      "fte_fraction": 1.0,
+      "category": "public_service",
+      "headline_sector": "public",
+      "government_control_at_time": "public",
+      "counting_status": "insufficient_evidence",
+      "source_ids": [
+        "src-2017-full-time-reserve-unit"
+      ],
+      "evidence_note": "Explicit first-person full-time Army work, distinct from Reserve membership. No dates, precise unit or link to either frozen service interval supplied. Component of existing Army history, not an additional additive job; do not assign full-time status to all1990–2001 or2005–2008.",
+      "counting_note": "Individual full-time work supported; dates, leave and allocation within overlapping Army umbrella remain insufficient for duration. No additional years calculated.",
+      "spell_id": "245392-14"
     }
   ],
   "sources": [
@@ -404,6 +423,16 @@
       "note": "Corroborates Army officer service in Timor-Leste 2005–2008; does not establish substantive hours or exact payroll periods.",
       "retrieved": "2026-10-01",
       "source_id": "src-12"
+    },
+    {
+      "source_id": "src-2017-full-time-reserve-unit",
+      "url": "https://www.openaustralia.org.au/debate/?id=2017-09-13.172.1",
+      "publisher": "OpenAustralia.org reproducing House Hansard",
+      "title": "Defence Legislation Amendment (2017 Measures No.1), 13 September2017",
+      "source_type": "government_record",
+      "locator": "12:38pm Luke Gosling contribution; lines198–210, especially204",
+      "note": "Own statement distinguishes being a reservist from working as a full-time Army member in a Reserve unit. Dates/unit of that specific full-time work not identified. Linked primary Hansard403Forbidden.",
+      "retrieved": "2026-10-05"
     }
   ],
   "research_notes": [
@@ -416,6 +445,7 @@
     "Follow-up2026-10-02: public professional index independently establishes RAHC managerOctober2008–April2010 and charity volunteer operations roleJuly2002–June2022. Earlier broker-only RAHC lead now primary-corroborated; broker-only VinniesJanuary2010–January2011 remains unadopted.",
     "Targeted employer/annual-report and Army full-time searches returned later charity supporter records or general recruiting commentary, not individual historic hours. Another former soldier memoir describes own regular service and work with Gosling; its service conditions cannot be attributed to Gosling. Civilian overlap and regular/reserve dates remain open. Next leads: originalRAHC2008–10staff reports, Vinnies2010–11appointment record, Defence individual service-category chronology.",
     "Follow-up 2026-10-04: the public index for Gosling's own professional profile now directly exposes the Vinnies entry as Chief Executive Officer, St Vincent de Paul Society (NT) Inc,2010–2011. This corroborates the frozen year range and resolves the legal organisation name, but not exact boundaries, hours or overlap with RAHC and presidential advisory work. Targeted Vinnies annual-report searches did not recover a contemporaneous appointment notice.",
-    "Follow-up2026-10-04: Targeted RAHC2009 staff/manager, Vinnies2010/2011 appointment and individual military-full-time searches did not recover primary employment boundaries or hours. The 1July2024 debate search snippet juxtaposes Gosling with a not-full-time-soldier statement; full debate speaker attribution shows that statement belongs to Bob Katter (OpenAustralia debate2024-07-01.92.2 lines385–420), so no workload fact added to Gosling. Another serviceman’s regular-duty memoir and current recruiting totals cannot establish his service category. The public professional broker’s January2010–January2011 Vinnies range remains unadopted without primary confirmation. Accessible biographies still corroborate existing broad chronology. Advance rather than repeat exhausted searches; next productive leads original employer appointment/separation notices and individual Defence category records."
+    "Follow-up2026-10-04: Targeted RAHC2009 staff/manager, Vinnies2010/2011 appointment and individual military-full-time searches did not recover primary employment boundaries or hours. The 1July2024 debate search snippet juxtaposes Gosling with a not-full-time-soldier statement; full debate speaker attribution shows that statement belongs to Bob Katter (OpenAustralia debate2024-07-01.92.2 lines385–420), so no workload fact added to Gosling. Another serviceman’s regular-duty memoir and current recruiting totals cannot establish his service category. The public professional broker’s January2010–January2011 Vinnies range remains unadopted without primary confirmation. Accessible biographies still corroborate existing broad chronology. Advance rather than repeat exhausted searches; next productive leads original employer appointment/separation notices and individual Defence category records.",
+    "Follow-up2026-10-05: identity-checked13September2017 House speech supplies explicit own full-time Army work in a Reserve unit, separately from reservist membership. Recorded undated full-time component, not automatic full-time status for either frozen service interval or additional summed years. Specific unit/dates/leave remain unknown. Original linked Hansard403Forbidden; accessible transcript attributes this statement to Gosling, unlike previous Katter false-positive. RAHC/Vinnies searches added no exact appointment or workload evidence. Continue targeted service-category chronology and original employer notices; null totals retained."
   ]
 }
