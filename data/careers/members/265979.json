@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/265979",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-04",
+  "last_reviewed": "2026-10-05",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -107,9 +107,9 @@
       "spell_id": "265979-private-practices",
       "employer": "Freelander paediatric practices in Campbelltown and Camden; Pebema P/L identified as medical-practice company (earlier entities unresolved)",
       "role": "Paediatrician and practice operator",
-      "start_date": "1984",
+      "start_date": "1984-02-01",
       "end_date": null,
-      "date_precision": "year",
+      "date_precision": "day",
       "employment_status": "self_employed",
       "fte_fraction": null,
       "category": "private_enterprise",
@@ -122,15 +122,19 @@
         "src-own-bio",
         "src-interests48-oct2",
         "src-interests46-oct2",
-        "src-interests45-oct4"
+        "src-interests45-oct4",
+        "src-practice-speech-oct5",
+        "src-medicare-date-oct5",
+        "src-practice-duration-oct5",
+        "src-bio-2024-oct5"
       ],
-      "evidence_note": "Campbelltown City Council says he moved to the region as a locum in the early1980s and grew paediatric practices in Campbelltown and Camden; the secondary biography places establishment in1984. Legal entities, opening/closing dates, hours, staff, ownership and allocation against public-hospital work are unresolved. Election is not treated as exact cessation: a public transcription of the45th Parliament interests return records Pebema P/L medical-practice-company income on27September2016, after the2July election. This proves an income observation, not personal clinical work or its duration. The2025 primary interests statement identifies his directorship in Pebema and describes it as a defunct medical-practice company, now a superannuation trustee; the2019 transcription already uses that description. These observations identify a practice entity and later ceased-operation condition, not incorporation, full operating interval or exact clinical cessation. No assumption that Pebema operated throughout the1984-onwards career; end remains null because exact closure is unknown.",
+      "evidence_note": "Campbelltown City Council says he moved to the region as a locum in the early1980s and grew paediatric practices in Campbelltown and Camden; the secondary biography places establishment in1984. Legal entities, opening/closing dates, hours, staff, ownership and allocation against public-hospital work are unresolved. Election is not treated as exact cessation: a public transcription of the45th Parliament interests return records Pebema P/L medical-practice-company income on27September2016, after the2July election. This proves an income observation, not personal clinical work or its duration. The2025 primary interests statement identifies his directorship in Pebema and describes it as a defunct medical-practice company, now a superannuation trustee; the2019 transcription already uses that description. These observations identify a practice entity and later ceased-operation condition, not incorporation, full operating interval or exact clinical cessation. No assumption that Pebema operated throughout the1984-onwards career; end remains null because exact closure is unknown. Opening refined to1February1984: member-hosted9October2025 speech says practice began the same day Medicare started, and Services Australia supplies the calendar date. This is an explicitly sourced two-document date linkage, not assumed from graduation or election. Public2024-file biography says first Campbelltown/Camden clinics opened that day. The25March2026 speech describes40years running private practice; this rounded description is retained as a conflict/clarification lead against the2019 defunct-company observation, not used to assign2024 cessation or continuity. Pebema may represent only one operating entity.",
       "counting_note": "Private self-employment is supported, but hours, precise dates and overlap prevent an exact full-time total."
     },
     {
       "spell_id": "265979-uws-lecturer",
       "employer": "University of Western Sydney (now Western Sydney University)",
-      "role": "Lecturer",
+      "role": "Lecturer; later public biography describes Associate Professor",
       "start_date": null,
       "end_date": null,
       "date_precision": "unknown",
@@ -143,9 +147,10 @@
       "source_ids": [
         "src-secondary",
         "src-own-bio",
-        "src-gplink-2021"
+        "src-gplink-2021",
+        "src-bio-2024-oct5"
       ],
-      "evidence_note": "The secondary biography records lecturing at the university during his medical career. Appointment dates, title, payroll, remuneration, hours and overlaps are unresolved. Own biography and 2021 GP Link introduction corroborate lecturing, without appointment boundaries or paid/honorary status.",
+      "evidence_note": "The secondary biography records lecturing at the university during his medical career. Appointment dates, title, payroll, remuneration, hours and overlaps are unresolved. Own biography and 2021 GP Link introduction corroborate lecturing, without appointment boundaries or paid/honorary status. Publicly hosted member-styled biography with2024 file name describes teaching as Associate Professor at WSU Campbelltown; promotion/appointment date, paid versus honorary classification and payroll not established. No new date or working-time inference.",
       "counting_note": "University employment is excluded from the narrow public/private headline under the current codebook."
     },
     {
@@ -382,6 +387,46 @@
       "note": "Committee operated April2020–31March2022. Biography gives1986–2013 head-of-paediatrics service; this corroborates one account but does not independently resolve conflicting1990 start. Committee life is not necessarily personal membership term.",
       "retrieved": "2026-10-02",
       "source_id": "src-nhmrc-members-oct2"
+    },
+    {
+      "source_id": "src-practice-speech-oct5",
+      "url": "https://drmikefreelander.com.au/mike-s-media/speeches/federation-chamber-bills-appropriation-bill-no-1-2025-2026-consideration-in-detail/",
+      "publisher": "Mike Freelander MP",
+      "title": "Appropriation Bill consideration in detail, 9 October 2025",
+      "source_type": "official_biography",
+      "locator": "Opening paragraph",
+      "note": "First-person account dates practice opening to the same day Medicare started; no hours or cessation date.",
+      "retrieved": "2026-10-05"
+    },
+    {
+      "source_id": "src-medicare-date-oct5",
+      "url": "https://www.servicesaustralia.gov.au/about-medicare?context=60092",
+      "publisher": "Services Australia",
+      "title": "About Medicare",
+      "source_type": "government_record",
+      "locator": "Introductory history paragraph; updated11September2025",
+      "note": "Medicare commenced1February1984. Combined with first-person same-day opening statement this supports practice-opening date, not payroll or full-time service.",
+      "retrieved": "2026-10-05"
+    },
+    {
+      "source_id": "src-practice-duration-oct5",
+      "url": "https://www.openaustralia.org.au/debate/?id=2026-03-25.136.1",
+      "publisher": "OpenAustralia Hansard transcription",
+      "title": "Mike Freelander, Health Legislation Amendment Bill speech25March2026",
+      "source_type": "other",
+      "locator": "6:58pm contribution, paragraph beginning I started my private practice",
+      "note": "First-person parliamentary speech corroborates same-day opening and describes running practice for40years. Rounded duration conflicts with defunct-company disclosures; no end date calculated.",
+      "retrieved": "2026-10-05"
+    },
+    {
+      "source_id": "src-bio-2024-oct5",
+      "url": "https://static1.squarespace.com/static/65e9285f70a1bb67f9c0446e/t/6763a16886c3f417269b1053/1734582634987/Dr%2BMike%2BBio%2B2024.pdf",
+      "publisher": "Publicly hosted Mike Freelander biography",
+      "title": "Dr Mike Bio2024",
+      "source_type": "other",
+      "locator": "PDF p1 opening-clinic paragraph; p2 final paragraph",
+      "note": "Member-styled public biography corroborates same-day1984 clinic opening and describes teaching as Associate Professor at WSU Campbelltown. File name suggests2024 but publication/appointment date and original publisher not established; corroboration rather than payroll proof.",
+      "retrieved": "2026-10-05"
     }
   ],
   "research_notes": [
@@ -396,7 +441,8 @@
     "Targeted visiting-medical-officer, full-time, resignation and legal-entity searches did not establish clinical hours or a personnel resignation day. A2019 first-person newsletter independently confirms volunteer status. Original45P disclosure link was restricted in web reader; current public48P PDF downloaded successfully when the reader itself could not open it. ABR view failed; commercial registry search was not used to infer employment. Next priority: original2016–19 practice accounts/closure record, hospital employment appointment terms and early residency dates.",
     "Follow-up3October2026: targeted Royal North Shore residency,1979, head-of-paediatrics1986, NSW Health1984 and Pebema cessation searches returned the already known residency sequence,1986 versus1990 conflict and practice-declaration lead. NHMRC and GP Link corroborate1986; ALP biography still gives1990. Repetition does not resolve the conflict or show individual hours. No new substantive employment fact added. Do not rerun these generic queries absent a personnel/annual-report or closure-document lead; current unresolved priorities unchanged.",
     "Fourth follow-up4October2026 found a public transcription of the45th Parliament interests return recording Pebema P/L medical-practice-company income on27September2016. This materially confirms that election did not itself prove all private-practice income had ended, while not establishing post-election clinical work, hours, the income period or closure. Targeted original hospital/personnel and Pebema searches otherwise repeated the1986/1990 conflict and later defunct-company disclosures. Preserve the null practice endpoint and seek the original return or accounts before assigning a cessation date.",
-    "Follow-up2026-10-04: Inspected full public RACP2022 transcript and recovered member-hosted inaugural speech14September2016 after APH reader Internal Error. Both corroborate known clinical/training sequence; rounded36/37-year statements are not appointment dates or FT evidence. Hospital clinical directory is accessible but retains pre2022 development wording, so retrieval date does not prove current personal activity. Service opening hours are not his roster. No net hours, personnel instrument, Pebema closure or new employer established. These particular transcripts/directories are now exhausted pending original payroll, clinic records or dated practice accounts."
+    "Follow-up2026-10-04: Inspected full public RACP2022 transcript and recovered member-hosted inaugural speech14September2016 after APH reader Internal Error. Both corroborate known clinical/training sequence; rounded36/37-year statements are not appointment dates or FT evidence. Hospital clinical directory is accessible but retains pre2022 development wording, so retrieval date does not prove current personal activity. Service opening hours are not his roster. No net hours, personnel instrument, Pebema closure or new employer established. These particular transcripts/directories are now exhausted pending original payroll, clinic records or dated practice accounts.",
+    "Follow-up2026-10-05: Refined private-clinic opening to1February1984 by explicit same-day statement in member-hosted9October2025 speech plus Services Australia Medicare history. Added later Associate Professor title observation with publication/appointment and honorary/payroll uncertainty. March2026 rounded40-year practice account conflicts with2019 defunct-company disclosure; retained as unresolved, no calculated end or FT continuity. Generic Pebema and personnel searches repeated existing evidence; two Medicare speech URLs returned reader Internal Error, recovered with another own dated speech. Seek practice entity succession and WSU appointment instrument rather than repeating generic biography queries."
   ],
   "open_questions": [
     "What were the exact Children's Hospital training appointments, dates, hours and leave from 1978 to 1984?",
@@ -407,6 +453,7 @@
     "Did any paid private medical work continue after election, separately from the documented voluntary clinics?",
     "What were the Royal North Shore residency dates and its transition to Royal Alexandra training?",
     "Did Campbelltown departmental leadership begin in 1986 or 1990, and why do the primary biographies differ?",
-    "When did Pebema P/L operate the clinical practice and cease that activity, which earlier entities preceded it, and what dates/hours applied to Freelander’s paid clinical work separately from later fund trusteeship?"
+    "When did Pebema P/L operate the clinical practice and cease that activity, which earlier entities preceded it, and what dates/hours applied to Freelander’s paid clinical work separately from later fund trusteeship?",
+    "How does the2026 description of40years operating private practice reconcile with Pebema being defunct by the2019 disclosure; did different entities or volunteer work account for this wording? What instrument establishes WSU Associate Professor appointment and paid/honorary status?"
   ]
 }
