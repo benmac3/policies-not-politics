@@ -56,7 +56,7 @@
     {
       "spell_id": "140590-03",
       "employer": "Harvard University",
-      "role": "Master of Public Policy student",
+      "role": "Master of Public Policy student; From Harvard Square to the Oval Office participant in2008",
       "start_date": "2006",
       "end_date": "2008",
       "date_precision": "year",
@@ -70,9 +70,11 @@
         "src-1",
         "src-4",
         "src-10",
-        "oct4-fulbright"
+        "oct4-fulbright",
+        "src-harvard-oval-pass2",
+        "src-harvard-program-pass2"
       ],
-      "evidence_note": "Her public professional profile dates the two-year Harvard Kennedy School MPP to 2006–2008; a 2023 first-person government interview independently says she studied at Harvard for two years. Year precision does not establish exact enrolment or graduation days. Fulbright itself corroborates the2006 scholarship; public profile supplies2006–2008 course years. Scholarship does not establish salary or work FTE.",
+      "evidence_note": "Her public professional profile dates the two-year Harvard Kennedy School MPP to 2006–2008; a 2023 first-person government interview independently says she studied at Harvard for two years. Year precision does not establish exact enrolment or graduation days. Fulbright itself corroborates the2006 scholarship; public profile supplies2006–2008 course years. Scholarship does not establish salary or work FTE. Harvard WAPPP alumni list independently identifies her2008 Oval Office cohort. The university describes this as co-curricular political training; no paid appointment or exact2008 attendance dates inferred from current programme arrangements.",
       "counting_note": "Excluded from the two employment headlines under the codebook."
     },
     {
@@ -173,9 +175,10 @@
         "src-3",
         "src-6",
         "src-8",
-        "oct5-marngarr-registry"
+        "oct5-marngarr-registry",
+        "src-marngarr-2011-pass2"
       ],
-      "evidence_note": "APH names employer and year; event biography says nine months in Arnhem Land. This does not establish nine paid months at Marngarr or whether it was a secondment/volunteer placement. December2013 first speech places nine-month residence two years earlier, consistent with2011. ALP page instead says2010; retain APH2011 while recording conflict. Still no payroll/secondment evidence. ABR historical record identifies the candidate legal host Marngarr Resource Centre Aboriginal Corporation, an Other Incorporated Entity active from6May2008 in the relevant Northern Territory location. Name/location alignment is an inference; personal employment/payroll linkage remains unconfirmed. Charity registration begins20January2016 and cannot alone retrospectively settle nonprofit purpose or government control in2011. ABN commencement is not her work start.",
+      "evidence_note": "APH names employer and year; event biography says nine months in Arnhem Land. This does not establish nine paid months at Marngarr or whether it was a secondment/volunteer placement. December2013 first speech places nine-month residence two years earlier, consistent with2011. ALP page instead says2010; retain APH2011 while recording conflict. Still no payroll/secondment evidence. ABR historical record identifies the candidate legal host Marngarr Resource Centre Aboriginal Corporation, an Other Incorporated Entity active from6May2008 in the relevant Northern Territory location. Name/location alignment is an inference; personal employment/payroll linkage remains unconfirmed. Charity registration begins20January2016 and cannot alone retrospectively settle nonprofit purpose or government control in2011. ABN commencement is not her work start. Contemporary2011 Garma programme describes this corporation’s community-development purpose, Indigenous leadership and relationship with Gumatj. It strengthens the historical host identity/context but supplies neither her personal contract nor formal government-control or nonprofit rules; category/control remain unknown.",
       "counting_note": "Dates, employer control and/or substantive full-time status remain insufficient for a duration calculation; unknown is not zero."
     },
     {
@@ -386,6 +389,36 @@
       "retrieved": "2026-10-05",
       "locator": "Entity name, entity type, ABN status, location history and charity-registration tables",
       "note": "Marngarr Resource Centre Aboriginal Corporation: incorporated entity active from6May2008 inNT0880; charity registration from20January2016. Matching unusual name/location offers a candidate legal host, not proof of personal payroll or historical nonprofit/government control in2011."
+    },
+    {
+      "source_id": "src-harvard-oval-pass2",
+      "url": "https://www.hks.harvard.edu/centers/wappp/for-students/harvard-square-oval-office/meet-our-alums",
+      "publisher": "Harvard Kennedy School",
+      "title": "WAPPP Alumni Serving in Government",
+      "retrieved": "2026-10-05",
+      "source_type": "other",
+      "locator": "Clare O’Neil entry, publicly indexed primary page",
+      "note": "Identifies Oval Office2008 cohort. Direct page returned403; indexed university text retrieved. Programme participation is study, not employment."
+    },
+    {
+      "source_id": "src-harvard-program-pass2",
+      "url": "https://www.hks.harvard.edu/centers/wappp/for-students/harvard-square-oval-office",
+      "publisher": "Harvard Kennedy School",
+      "title": "From Harvard Square to the Oval Office",
+      "retrieved": "2026-10-05",
+      "source_type": "other",
+      "locator": "Opening programme description, indexed text",
+      "note": "Co-curricular political training for graduate students. Current February–May schedule does not establish her2008 attendance boundaries."
+    },
+    {
+      "source_id": "src-marngarr-2011-pass2",
+      "url": "https://yyf.com.au/wp-content/uploads/2022/11/Complete_programme_2011_small.pdf",
+      "publisher": "Yothu Yindi Foundation / Marngarr Resource Centre Aboriginal Corporation",
+      "title": "2011 Garma Festival programme,5–8August2011",
+      "retrieved": "2026-10-05",
+      "source_type": "other",
+      "locator": "An introduction to Marngarr, printedp41 / PDFp40",
+      "note": "Contemporary organisational account describes community development, Indigenous leadership and sister organisation relationship with Gumatj. It does not name O’Neil, establish payroll, or settle formal control/nonprofit status. CDEP programme participation is not public ownership."
     }
   ],
   "research_notes": [
@@ -397,6 +430,7 @@
     "2026-10-03 follow-up: own public professional profile dates the two-year Harvard MPP2006–2008 and discloses previously omitted Springvale Community Aid and Advice Bureau board service2002–2006 and Jesuit Social Services board service2004–2006. Governance is retained but excluded without inferring pay. A first-person2023 government transcript says McKinsey lasted just under four years, while contemporaneous Guardian reporting observed her still at McKinsey on12August2013; these materially strengthen but do not complete the2009–2013 chronology. They do not resolve start/departure days, hours, leave or whether the2011 Marngarr work was McKinsey-paid, seconded, volunteer or separately employed. NYSE internship pay/hours and earlier student work remain unresolved; no employment years calculated.",
     "2026-10-04 follow-up: narrow exact-name searches for Marngarr plus McKinsey/secondment found the current APH entry, historical Parliamentary Handbooks and derivative biographies, but no employment contract, payroll, leave, secondment or volunteer-status evidence. The nine-month Arnhem Land residence remains a residence/activity duration, not a measured paid interval; no source connects it to McKinsey payroll. Search was deliberately narrowed after the earlier oversized-query issue. Generic web search for this overlap is exhausted for this pass; Marngarr corporate/archival records and McKinsey personnel or social-impact placement files are the decisive avenues. No substantive fact changed and totals remain null.",
     "Follow-up2026-10-04: Fulbright Australia primary scholar biography newly confirms Monash study in2003 and2006 Harvard scholarship. Review identified2006–2008 wrongly attached to the Monash spell despite its evidence note saying dates unknown: removed those unsupported Monash boundaries and placed the already-supported2006–2008 profile dates on the Harvard spell. No exact enrolment/graduation days inferred. This materially corrects education chronology and corroborates overlap with council service. No new evidence resolves McKinsey/Marngarr payroll, leave or substantive full-time terms. Unknown employment totals retained; archive-placement and personnel evidence remain next avenues.",
-    "2026-10-05 follow-up adds original ABR history for the candidate Marngarr legal host: incorporated entity active2008 onward inNT0880, charity registration only2016. Name/location linkage is explicitly inferential and does not establish her payroll employer,2011 nonprofit purpose/control, paid placement, leave or hours. NT2014–15 grants identify the organisation but are outside the work year and cannot establish personal employment or public control. One search engine returned irrelevant rule-book results; discarded, not an exhaustive archive search. Next distinct evidence:2010–11 corporation rulebook/annual return and personal placement agreement, not later charity status or grant-funded jobs. Existing2010/2011 conflict and null totals retained."
+    "2026-10-05 follow-up adds original ABR history for the candidate Marngarr legal host: incorporated entity active2008 onward inNT0880, charity registration only2016. Name/location linkage is explicitly inferential and does not establish her payroll employer,2011 nonprofit purpose/control, paid placement, leave or hours. NT2014–15 grants identify the organisation but are outside the work year and cannot establish personal employment or public control. One search engine returned irrelevant rule-book results; discarded, not an exhaustive archive search. Next distinct evidence:2010–11 corporation rulebook/annual return and personal placement agreement, not later charity status or grant-funded jobs. Existing2010/2011 conflict and null totals retained.",
+    "Second targeted follow-up2026-10-05: original2011 Garma programme supplies contemporaneous Marngarr corporate identity, community purpose and leadership, strengthening host context without personal payroll or formal control rules. Harvard primary alumni index newly identifies2008 Oval Office co-curricular training, retained within study; current programme dates are not historical attendance dates. Direct alumni page403 recovered indexed text. Exact-name Marngarr/secondment/Jawun/leave searches yielded known handbooks, unrelated placements and namesakes; no McKinsey leave, secondment or paid-host agreement. Own biography reiterates NYSE, Treasury and Arnhem activities without missing terms. Next distinct avenue remains personal2010–11 placement agreement or archived corporation annual return/rulebook; retain date conflict, unknown hours and null totals."
   ]
 }
