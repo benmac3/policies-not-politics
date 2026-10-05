@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/DYW",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-04",
+  "last_reviewed": "2026-10-05",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -26,7 +26,7 @@
       "category": "private_enterprise",
       "headline_sector": "private",
       "government_control_at_time": "private",
-      "counting_status": "not_counted",
+      "counting_status": "insufficient_evidence",
       "source_ids": [
         "src-snapshot",
         "src-nsw-parliament",
@@ -47,7 +47,7 @@
       "category": "private_enterprise",
       "headline_sector": "private",
       "government_control_at_time": "private",
-      "counting_status": "not_counted",
+      "counting_status": "insufficient_evidence",
       "source_ids": [
         "src-snapshot",
         "src-nsw-parliament",
@@ -171,7 +171,7 @@
       "category": "private_enterprise",
       "headline_sector": "private",
       "government_control_at_time": "private",
-      "counting_status": "not_counted",
+      "counting_status": "insufficient_evidence",
       "source_ids": [
         "src-snapshot",
         "src-minister",
@@ -544,6 +544,8 @@
     "ABR previously inaccessible now retrieved: Aticus Pty Ltd private-company legal spelling and identifiers confirmed, but register supplies no Burke directorship/contract details; historical1996–97 work remains separately sourced. Current Ben Richards site and2010 press link support a lead, not exact employment or incorporation boundaries. Benevolent-foundation searches still mix membership declarations and cinema-industry namesake; no identity claim added. Next follow-up: individual retail roster/leave, Aticus operational/pay evidence, original1990s advocacy contracts and2004 transition.",
     "Further2October pass: targeted Aticus/Atticus with cofounders Richards and D’Cruz, and Euthanasia No remuneration/1995–97 queries. Results recycle the already-recorded2010 cofounder report and1996–97 parliamentary biography; no original business payroll/operational record. Historical academic account dates formation of Euthanasia No to20July1995, but organisation formation is not a personal paid-employment commencement and is not substituted for existing year precision. No additional personal hours/pay evidence; further progress requires original contracts, staff records or dated attributable account. Namesake firefighter employment and article-advertised full-time jobs excluded.",
     "Follow-up 2026-10-04: renewed exact-name searches found the official 1996 Euthanasia Laws inquiry identifying Burke as executive director and secondary accounts repeating the Atticus cofounding and 1997 SDA transition, but no personal contract, remuneration, operational hours or exact appointment/resignation record. Organisation formation and winding-up dates are not substituted for personal employment boundaries. Retail casual status and years remain as previously supported; advance pending original staff or company records.",
-    "Follow-up2026-10-04: Followed original Lakemba presidency/register and20May2003 college Hansard leads. Linked44th-register web error Failed to fetch restricted URL; ordinary register and NSW daily PDF HTTP403 Forbidden. Dynamic NSW page lacked historical text. Secondary CCH May2010 compilation repeats college presidency and1993 Young Labor service, but does not establish terms; no new boundaries adopted. Secondary register extraction has visibly misassigned fields, so retained Lakemba identity lead without merging with unnamed2003 foundation. Linking Hearts page discusses2019 ambassador cohorts but visible text does not identify Burke’s personal appointment; index lead retained, no invented cohort/date. Cinema-industry namesake excluded. Future lead: inspect original register and college/party rosters when available."
+    "Follow-up2026-10-04: Followed original Lakemba presidency/register and20May2003 college Hansard leads. Linked44th-register web error Failed to fetch restricted URL; ordinary register and NSW daily PDF HTTP403 Forbidden. Dynamic NSW page lacked historical text. Secondary CCH May2010 compilation repeats college presidency and1993 Young Labor service, but does not establish terms; no new boundaries adopted. Secondary register extraction has visibly misassigned fields, so retained Lakemba identity lead without merging with unnamed2003 foundation. Linking Hearts page discusses2019 ambassador cohorts but visible text does not identify Burke’s personal appointment; index lead retained, no invented cohort/date. Cinema-industry namesake excluded. Future lead: inspect original register and college/party rosters when available.",
+    "Follow-up2026-10-05: targeted Lakemba benevolent presidency, college term and1996Aticus queries in two search engines returned the existing secondary register extraction,2003speech,May2010CCH compilation and retrospective government biography; no original appointment/payroll or term evidence. Current register membership is not a presidency term or proof of identity with the unnamed2003foundation. Cinema-industry namesake again excluded. No new facts promoted or exact dates/hours inferred. Further useful avenues remain original44th-register pages, college board rosters and personal Aticus/advocacy contracts; broad indexed biographies exhausted.",
+    "Validation5October2026 recovered a pre-existing unsupported counting_status value not_counted in three retail/company spells. Normalised to approved insufficient_evidence; dates, classification, unknown hours, counting rationale and null headline totals unchanged. Helper AssertionError was a recovered local validation error, not a usage or execution limit."
   ]
 }
