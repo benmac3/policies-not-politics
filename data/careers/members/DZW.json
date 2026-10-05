@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/DZW",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-05",
+  "last_reviewed": "2026-10-06",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -169,9 +169,9 @@
     {
       "employer": "Tweed Coastal Committee / Fingal Head Community Association",
       "role": "Fingal Head community representative",
-      "start_date": null,
+      "start_date": "2003-05-07",
       "end_date": null,
-      "date_precision": "unknown",
+      "date_precision": "day",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "nonprofit",
@@ -180,10 +180,12 @@
       "counting_status": "excluded",
       "source_ids": [
         "src-ifa2010",
+        "src-coastal-appointment-oct6",
         "src-coastal2003",
-        "src-coastal-dec2003"
+        "src-coastal-dec2003",
+        "src-coastal-resignation-oct6"
       ],
-      "evidence_note": "Council minutes record attendance13August2003 and10December2003 as Fingal Head representative. These are observations within an unknown term, not its endpoints. Community representation on council committee does not establish council payroll employment.",
+      "evidence_note": "Tweed Shire Council's7May2003 meeting resolved to accept Justine Elliot as the Fingal Head community representative, establishing the appointment start. Council minutes record attendance13August and10December2003. A2February2005 council agenda reports that the now-federal member had advised her resignation, establishing cessation by that observation but not the resignation's exact date. End remains null rather than treating the reporting date as the cessation day. Community representation does not establish council payroll employment.",
       "counting_note": "Community representation/governance or membership is excluded from employment totals; no independent substantive full-time work established.",
       "spell_id": "DZW-coastal-committee"
     },
@@ -288,6 +290,26 @@
       "source_id": "src-coastal-dec2003"
     },
     {
+      "source_id": "src-coastal-appointment-oct6",
+      "url": "https://www.tweed.nsw.gov.au/files/assets/public/documents/council/council-meetings/archived/2003/ordinaryagenda7may2003.pdf",
+      "publisher": "Tweed Shire Council",
+      "title": "Ordinary Council meeting agenda,7May2003",
+      "retrieved": "2026-10-06",
+      "source_type": "government_record",
+      "locator": "Public indexed council resolution accepting Justine Elliot to the Tweed Coastal Committee as Fingal Head community representative",
+      "note": "Primary council resolution establishes appointment on7May2003. Direct PDF fetch returned403; indexed official text supplied the resolution and no access control was bypassed."
+    },
+    {
+      "source_id": "src-coastal-resignation-oct6",
+      "url": "https://www.tweed.nsw.gov.au/files/assets/public/v/1/documents/council/council-meetings/archived/2005/ordinaryagenda2february2005.pdf",
+      "publisher": "Tweed Shire Council",
+      "title": "Ordinary Council meeting agenda,2February2005",
+      "retrieved": "2026-10-06",
+      "source_type": "government_record",
+      "locator": "Public indexed Coastal Committee text reporting Justine Elliot had advised her resignation",
+      "note": "Primary council record establishes cessation by the reporting observation, not the resignation's exact day. Direct PDF fetch returned403; no access control was bypassed."
+    },
+    {
       "url": "https://alp.org.au/our-people/our-people/justine-elliot/",
       "publisher": "Australian Labor Party",
       "title": "Justine Elliot, Member for Richmond",
@@ -362,7 +384,8 @@
     "Third follow-up4October2026 searched exact first-speech, police-to-youth-justice gap, appointment-title and university-history leads. Official parliamentary search was blocked by robots.txt, while accessible official and secondary indexes repeated only1990–1997 police service and2002–2003 conference-convenor work. The2010 speaker report says her husband supported the family as a stay-at-home father; this does not establish Elliot’s own work, leave or hours during1997–2002. Aggregator1January dates remain rejected. No material change; retain the gap pending a personal service, university or complete maiden-speech record.",
     "Follow-up2026-10-04: recovered complete first speech through publicly hosted official daily Hansard. New duties and relative study/departure sequence added. No dates inferred from children’s ages; spouse’s full-time caring does not establish her hours. Gap still unresolved; earlier transcript-access blocker is recovered.",
     "2026-10-05 nonmaterial follow-up: Griffith’s institutional alumni article independently corroborates the already supported diploma, without Elliot’s study dates or load. Targeted maiden-name Borsellino, police-to-study, conference-convenor casual basis and health-council term searches did not recover individual appointment/leave or1997–2002 chronology evidence. Neighbouring Chalmers1996 enrolment, spouse’s service and other representatives’ council roles were not transferred to Elliot. Preserve unknown hours/gaps; advance pending identity-linked service or university records.",
-    "Second targeted pass2026-10-05: searched original Northern Rivers health-council appointments and examined NSWHealth2002/2003 https://www.health.nsw.gov.au/publications/Publications/Annual-Report-2002-03/Annual-Report-2002-03.pdf and2003/2004 https://www.health.nsw.gov.au/publications/Publications/Annual-Report-2003-04/Annual-Report-2003-04.pdf. Extracted text contains no Elliot personal entry; organisational budgets/hours cannot establish her community council term or operational payroll. A2022smoking-cessation research-team namesake with NSWHealth affiliation lacks identity link and is not assigned to MP. No health-governance dates or1997–2002 work/leave gap resolved. Regional original council minutes/appointment record remains the next useful avenue; repeat general biography routes exhausted."
+    "Second targeted pass2026-10-05: searched original Northern Rivers health-council appointments and examined NSWHealth2002/2003 https://www.health.nsw.gov.au/publications/Publications/Annual-Report-2002-03/Annual-Report-2002-03.pdf and2003/2004 https://www.health.nsw.gov.au/publications/Publications/Annual-Report-2003-04/Annual-Report-2003-04.pdf. Extracted text contains no Elliot personal entry; organisational budgets/hours cannot establish her community council term or operational payroll. A2022smoking-cessation research-team namesake with NSWHealth affiliation lacks identity link and is not assigned to MP. No health-governance dates or1997–2002 work/leave gap resolved. Regional original council minutes/appointment record remains the next useful avenue; repeat general biography routes exhausted.",
+    "Third targeted pass2026-10-06: recovered the original Tweed Shire Council appointment resolution: on7May2003 council accepted Elliot as the Fingal Head representative on its Coastal Committee. A separate2February2005 council agenda reports that she had advised resignation after becoming the federal member. Start is exact; end remains unknown because the later record is only a cessation-by observation. Direct PDFs returned403, while public indexed official text exposed the relevant resolutions; no bypass attempted. The community role remains excluded governance and does not establish remuneration, hours or council payroll."
   ],
   "open_questions": [
     "What were the exact Queensland Police appointment, posting, rank, hours, leave and cessation details?",
@@ -371,7 +394,7 @@
     "What were the exact Juvenile Justice appointment, employment basis, hours, leave and cessation details?",
     "What paid work or campaign activity occurred from the 2003 role ending until election on 9 October 2004?",
     "Was the Tweed Coast branch presidency remunerated, and how did it overlap public employment and campaigning?",
-    "What were appointment/cessation dates and remuneration, if any, for the health council and coastal committee representative roles?",
+    "What was the exact Coastal Committee resignation date before the2February2005 reporting observation, and what were the health-council appointment/cessation dates and remuneration, if any, for either representative role?",
     "Can a public QPS service or university completion record establish dates, hours and the remaining 1997–2002 chronology? Complete first speech recovered; it supplies relative sequence, not calendar boundaries."
   ]
 }
