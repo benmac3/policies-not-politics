@@ -134,7 +134,7 @@
     {
       "spell_id": "265979-uws-lecturer",
       "employer": "University of Western Sydney (now Western Sydney University)",
-      "role": "Lecturer; later public biography describes Associate Professor",
+      "role": "Lecturer; Honorary Associate Professor, School of Medicine (observed2020)",
       "start_date": null,
       "end_date": null,
       "date_precision": "unknown",
@@ -148,15 +148,16 @@
         "src-secondary",
         "src-own-bio",
         "src-gplink-2021",
-        "src-bio-2024-oct5"
+        "src-bio-2024-oct5",
+        "src-nhmrc-doi2020-pass2"
       ],
-      "evidence_note": "The secondary biography records lecturing at the university during his medical career. Appointment dates, title, payroll, remuneration, hours and overlaps are unresolved. Own biography and 2021 GP Link introduction corroborate lecturing, without appointment boundaries or paid/honorary status. Publicly hosted member-styled biography with2024 file name describes teaching as Associate Professor at WSU Campbelltown; promotion/appointment date, paid versus honorary classification and payroll not established. No new date or working-time inference.",
+      "evidence_note": "The secondary biography records lecturing at the university during his medical career. Appointment dates, title, payroll, remuneration, hours and overlaps are unresolved. Own biography and 2021 GP Link introduction corroborate lecturing, without appointment boundaries or paid/honorary status. Publicly hosted member-styled biography with2024 file name describes teaching as Associate Professor at WSU Campbelltown; promotion/appointment date, paid versus honorary classification and payroll not established. No new date or working-time inference. NHMRC2020 interests declaration explicitly describes the associate-professor position as honorary and without financial benefit, resolving status at that observation. This is not a retrospective classification of all earlier lecturing; appointment/promotion boundaries remain unknown.",
       "counting_note": "University employment is excluded from the narrow public/private headline under the current codebook."
     },
     {
       "spell_id": "265979-voluntary-clinics",
-      "employer": "Campbelltown Hospital",
-      "role": "Volunteer paediatric clinician",
+      "employer": "Campbelltown and Camden Hospitals / NSW public health system",
+      "role": "Honorary medical officer at both hospitals; volunteer Campbelltown paediatric clinician",
       "start_date": "2016",
       "end_date": null,
       "date_precision": "year",
@@ -169,9 +170,10 @@
       "source_ids": [
         "src-secondary",
         "src-gplink-2021",
-        "src-newsletter2019-oct2"
+        "src-newsletter2019-oct2",
+        "src-nhmrc-doi2020-pass2"
       ],
-      "evidence_note": "Secondary material cites his public statement that he continued regular voluntary clinics after entering Parliament in 2016. Frequency, exact dates and any reimbursements are unresolved; the work is expressly described as voluntary. First-person GP Link interview independently establishes ongoing Campbelltown clinical activity in November 2021, but does not itself state remuneration or frequency; unpaid classification still rests on the earlier explicit voluntary-clinic account. November2019 own newsletter provides direct first-person corroboration of former employee/current volunteer status at Campbelltown Hospital. It does not give personal hours or exact conversion date.",
+      "evidence_note": "Secondary material cites his public statement that he continued regular voluntary clinics after entering Parliament in 2016. Frequency, exact dates and any reimbursements are unresolved; the work is expressly described as voluntary. First-person GP Link interview independently establishes ongoing Campbelltown clinical activity in November 2021, but does not itself state remuneration or frequency; unpaid classification still rests on the earlier explicit voluntary-clinic account. November2019 own newsletter provides direct first-person corroboration of former employee/current volunteer status at Campbelltown Hospital. It does not give personal hours or exact conversion date. NHMRC2020 personal declaration names honorary medical-officer positions at both Campbelltown and Camden, with no financial benefit and a semi-regular no-cost Campbelltown clinic. It does not document Camden clinic frequency, dates of either appointment or continuous hours.",
       "counting_note": "Unpaid work is excluded under the codebook."
     },
     {
@@ -427,6 +429,16 @@
       "locator": "PDF p1 opening-clinic paragraph; p2 final paragraph",
       "note": "Member-styled public biography corroborates same-day1984 clinic opening and describes teaching as Associate Professor at WSU Campbelltown. File name suggests2024 but publication/appointment date and original publisher not established; corroboration rather than payroll proof.",
       "retrieved": "2026-10-05"
+    },
+    {
+      "source_id": "src-nhmrc-doi2020-pass2",
+      "url": "https://www.nhmrc.gov.au/sites/default/files/2020-05/NCHRAC%20DOI%20-%20updated%2028%20April%202020.pdf",
+      "publisher": "National Health and Medical Research Council / Michael Freelander",
+      "title": "NCHRAC declarations of interest, updated28April2020",
+      "retrieved": "2026-10-05",
+      "source_type": "government_record",
+      "locator": "Printed/PDFp12, Michael Freelander table; screenshot visually verified",
+      "note": "Personal declaration distinguishes honorary university and hospital positions from paid employment. Sandra Eades full-time row above belongs to a different member and is not attributed to Freelander."
     }
   ],
   "research_notes": [
@@ -442,7 +454,8 @@
     "Follow-up3October2026: targeted Royal North Shore residency,1979, head-of-paediatrics1986, NSW Health1984 and Pebema cessation searches returned the already known residency sequence,1986 versus1990 conflict and practice-declaration lead. NHMRC and GP Link corroborate1986; ALP biography still gives1990. Repetition does not resolve the conflict or show individual hours. No new substantive employment fact added. Do not rerun these generic queries absent a personnel/annual-report or closure-document lead; current unresolved priorities unchanged.",
     "Fourth follow-up4October2026 found a public transcription of the45th Parliament interests return recording Pebema P/L medical-practice-company income on27September2016. This materially confirms that election did not itself prove all private-practice income had ended, while not establishing post-election clinical work, hours, the income period or closure. Targeted original hospital/personnel and Pebema searches otherwise repeated the1986/1990 conflict and later defunct-company disclosures. Preserve the null practice endpoint and seek the original return or accounts before assigning a cessation date.",
     "Follow-up2026-10-04: Inspected full public RACP2022 transcript and recovered member-hosted inaugural speech14September2016 after APH reader Internal Error. Both corroborate known clinical/training sequence; rounded36/37-year statements are not appointment dates or FT evidence. Hospital clinical directory is accessible but retains pre2022 development wording, so retrieval date does not prove current personal activity. Service opening hours are not his roster. No net hours, personnel instrument, Pebema closure or new employer established. These particular transcripts/directories are now exhausted pending original payroll, clinic records or dated practice accounts.",
-    "Follow-up2026-10-05: Refined private-clinic opening to1February1984 by explicit same-day statement in member-hosted9October2025 speech plus Services Australia Medicare history. Added later Associate Professor title observation with publication/appointment and honorary/payroll uncertainty. March2026 rounded40-year practice account conflicts with2019 defunct-company disclosure; retained as unresolved, no calculated end or FT continuity. Generic Pebema and personnel searches repeated existing evidence; two Medicare speech URLs returned reader Internal Error, recovered with another own dated speech. Seek practice entity succession and WSU appointment instrument rather than repeating generic biography queries."
+    "Follow-up2026-10-05: Refined private-clinic opening to1February1984 by explicit same-day statement in member-hosted9October2025 speech plus Services Australia Medicare history. Added later Associate Professor title observation with publication/appointment and honorary/payroll uncertainty. March2026 rounded40-year practice account conflicts with2019 defunct-company disclosure; retained as unresolved, no calculated end or FT continuity. Generic Pebema and personnel searches repeated existing evidence; two Medicare speech URLs returned reader Internal Error, recovered with another own dated speech. Seek practice entity succession and WSU appointment instrument rather than repeating generic biography queries.",
+    "Second targeted primary pass2026-10-05: NHMRC2020 original personal declaration visually verified onPDFp12 resolves honorary/no-financial-benefit basis of WSU associate-professor role at that observation, and identifies Camden alongside Campbelltown honorary medical-officer activity. Earlier lecturer pay and appointment boundaries remain unknown; no hours inferred from the adjacent different members full-time row. Retain private-clinic closure/company-succession and hospital payroll gaps. Next useful evidence is an original university appointment instrument or dated hospital honorary register rather than repeated biography search."
   ],
   "open_questions": [
     "What were the exact Children's Hospital training appointments, dates, hours and leave from 1978 to 1984?",
@@ -454,6 +467,7 @@
     "What were the Royal North Shore residency dates and its transition to Royal Alexandra training?",
     "Did Campbelltown departmental leadership begin in 1986 or 1990, and why do the primary biographies differ?",
     "When did Pebema P/L operate the clinical practice and cease that activity, which earlier entities preceded it, and what dates/hours applied to Freelander’s paid clinical work separately from later fund trusteeship?",
-    "How does the2026 description of40years operating private practice reconcile with Pebema being defunct by the2019 disclosure; did different entities or volunteer work account for this wording? What instrument establishes WSU Associate Professor appointment and paid/honorary status?"
+    "How does the2026 description of40years operating private practice reconcile with Pebema being defunct by the2019 disclosure; did different entities or volunteer work account for this wording? What instrument establishes WSU Associate Professor appointment and paid/honorary status?",
+    "What instrument dates the honorary WSU associate-professor appointment and distinguishes earlier lecturing pay; when did the separate Camden honorary medical-officer role begin/end?"
   ]
 }
