@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/DZS",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-05",
+  "last_reviewed": "2026-10-06",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -211,6 +211,26 @@
       ],
       "evidence_note": "Qualifications and institutions are corroborated, but enrolment/completion dates and study load are unresolved. No employment status is inferred from study. UNE now explicitly states diploma completion in2018, during federal service. This combined spell retains unknown overall boundaries because the Griffith interval is unresolved;2018 is not applied to both qualifications.",
       "counting_note": "Study is excluded under the codebook."
+    },
+    {
+      "spell_id": "DZS-prospect-campaign-2004",
+      "employer": "Australian Labor Party — Prospect campaign",
+      "role": "Preselected candidate and candidate for Prospect",
+      "start_date": "2003",
+      "end_date": "2004-10-09",
+      "date_precision": "mixed",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "party_organisation",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-prospect-preselection-2003",
+        "src-aec-prospect-2004"
+      ],
+      "evidence_note": "Carl Scully told the NSW Legislative Assembly on 5 December 2003 that his staff member Bowen had been preselected for Prospect, establishing candidacy by that observation but not the exact preselection date. Final AEC results identify Bowen as the elected Labor candidate at the 9 October 2004 federal election. Remuneration, campaign hours and leave from the Scully office are unresolved.",
+      "counting_note": "Party and campaign activity is excluded under the codebook and is not added to the overlapping political-staff spell."
     },
     {
       "spell_id": "DZS-house",
@@ -512,11 +532,31 @@
       "source_type": "other",
       "locator": "Publication information and author biography; 3 August 2015",
       "note": "Primary publisher attributes research/interviews and authorship; no contract or working-hours evidence."
+    },
+    {
+      "source_id": "src-prospect-preselection-2003",
+      "url": "https://www.parliament.nsw.gov.au/parliamentary-business/hansard/hansard-full-details?id=HANSARD-1323879322-31513&section=HANSARD-1323879322-31487",
+      "publisher": "Parliament of New South Wales",
+      "title": "Legislative Assembly Hansard, 5 December 2003",
+      "retrieved": "2026-10-06",
+      "source_type": "government_record",
+      "locator": "Carl Scully valedictory remarks naming staff member Chris Bowen",
+      "note": "Primary parliamentary statement says Bowen had been preselected for the federal seat of Prospect by 5 December 2003; it does not provide the preselection day, campaign pay, hours or staff leave."
+    },
+    {
+      "source_id": "src-aec-prospect-2004",
+      "url": "https://results.aec.gov.au/12246/results/HouseDivisionFirstPrefsByVoteType-12246-142.htm",
+      "publisher": "Australian Electoral Commission",
+      "title": "Prospect first preferences by vote type — 2004 federal election",
+      "retrieved": "2026-10-06",
+      "source_type": "government_record",
+      "locator": "Final Prospect candidate result",
+      "note": "Official final results identify Chris Bowen as the elected Labor candidate. The 2004 federal election was held on 9 October 2004; candidacy does not establish paid or full-time work."
     }
   ],
   "open_questions": [
     "Did Bowen have paid employment before the 1994 Janice Crosio role or during university?",
-    "What are the exact appointment dates, payroll entities, substantive hours, leave and campaign breaks for the 1994–2004 staff and union sequence?",
+    "What are the exact appointment dates, payroll entities, substantive hours, leave and campaign breaks for the 1994–2004 staff and union sequence, including the 2003–2004 Prospect campaign overlap?",
     "What were the exact term/remuneration arrangements for Fairfield Council, mayor and WSROC roles, and did any constitute separate paid employment?",
     "When were the Griffith and UNE postgraduate qualifications undertaken, and did they overlap paid work?",
     "What were the writing periods, remuneration/royalty contracts and work status for the four published books, and were they personal, parliamentary or other work?"
@@ -533,6 +573,7 @@
     "Follow-up 2026-10-04: Fairfield council's 2022 city-manager retirement statement supplies an exact 5 October 1999 observation that Bowen was then mayor and led the council, strengthening the year-level mayoral record without converting an observation into a cessation date. Council and FSU searches still did not produce election, resignation, payroll, hours or leave records.",
     "Follow-up2026-10-04: Targeted1997–1998 FSU,1994 Crosio appointment, early-job and1999 mayoral-transition searches found no personal payroll or hours evidence. A derivative mayor table claims September1999 cessation but conflicts with council manager’s primary5October1999 observation; its unsourced month was not adopted. Bath engineering professor and US Stryker analyst are namesakes, not this member. Future priority is original1998–2000 council minutes and FSU personnel records; repeated biographies exhausted.",
     "Follow-up2026-10-05: primary Monash and Melbourne publisher records add previously unrecorded book authorship (four outputs in2013/2015/2021), separately from elected office. Publisher names and publication dates are not treated as employer identities or employment endpoints; remuneration, hours and contract/control remain unknown. Targeted pre1994, FSU/Crosio and leave searches returned already-recorded biographies or namesakes without new personal terms. Private/public totals remain null; future leads are attributable early-job testimony and original employment/author contracts.",
-    "Second targeted early-job pass checked full context of THE25February2024 Fairfield hub report. Its trolley-collector first-job quote belongs to Jason Clare, not Chris Bowen; do not misattribute adjacent search excerpts. Foreign electrician, ceramics, medical-physics and finance namesakes rejected. FSU-specific historical-report queries did not locate personal appointment/pay/hours; union representation is not bank employment. Existing1991university and1994–2004staff/union/council facts preserved; no new employment adopted. Exhausted generic first-job route advanced; next only original council minutes or personal union contract/author remuneration lead."
+    "Second targeted early-job pass checked full context of THE25February2024 Fairfield hub report. Its trolley-collector first-job quote belongs to Jason Clare, not Chris Bowen; do not misattribute adjacent search excerpts. Foreign electrician, ceramics, medical-physics and finance namesakes rejected. FSU-specific historical-report queries did not locate personal appointment/pay/hours; union representation is not bank employment. Existing1991university and1994–2004staff/union/council facts preserved; no new employment adopted. Exhausted generic first-job route advanced; next only original council minutes or personal union contract/author remuneration lead.",
+    "Third targeted pass2026-10-06 adds the omitted Prospect candidacy: a primary NSW Hansard observation establishes preselection by5December2003 and final AEC results establish election on9October2004. The exact preselection date, campaign remuneration/hours and Scully-office leave remain unknown. The campaign is excluded political activity and overlaps, rather than replaces or extends, the political-staff spell. A separate post-election Hansard search result describes a staff send-off but the original PDF timed out and no exact payroll cessation was inferred."
   ]
 }
