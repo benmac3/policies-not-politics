@@ -95,9 +95,10 @@
         "src-1",
         "src-2",
         "src-3",
-        "src-first"
+        "src-first",
+        "src-churchill-report-pass2"
       ],
-      "evidence_note": "Business/community advocacy body, not municipal public service. APH exact departure retained despite earlier news reporting resignation. First speech explicitly describes business-funded advocacy body, corroborating association exclusion.",
+      "evidence_note": "Business/community advocacy body, not municipal public service. APH exact departure retained despite earlier news reporting resignation. First speech explicitly describes business-funded advocacy body, corroborating association exclusion. Final fellowship report explicitly calls Committee his employer at2020 award, but its planned travel leave did not occur then; actual travel was postponed until parliamentary service. No CEO absence or paid-leave duration subtracted on the basis of award year.",
       "counting_note": "Outside the two employment headlines under the codebook; retained as career context."
     },
     {
@@ -275,9 +276,10 @@
       "counting_status": "excluded",
       "source_ids": [
         "src-churchill2023",
-        "src-hansard2023"
+        "src-hansard2023",
+        "src-churchill-report-pass2"
       ],
-      "evidence_note": "2020 award is distinct from2023 study. June news anticipates travel; August speech discusses completed European visits. Exact departure/return and leave unknown; year labels represent an event within2023, not continuous annual study.",
+      "evidence_note": "2020 award is distinct from2023 study. June news anticipates travel; August speech discusses completed European visits. Exact departure/return and leave unknown; year labels represent an event within2023, not continuous annual study. Original final report,signed20March2024,states planned Committee-employer travel leave was delayed by COVID until he had changed to parliamentary service. Actual revised study destinations were Germany,United Kingdom,Sweden and Finland; planned North America visits were dropped for parliamentary time constraints. This corrects any interpretation of the Trust profile’s Canada/USA destinations as completed attendance and excludes an assumed CEO-period study break. Report does not supply departure/return dates or precise parliamentary leave allocation.",
       "counting_note": "Study is excluded; no employment years or leave deductions inferred."
     }
   ],
@@ -431,6 +433,16 @@
       "source_type": "government_record",
       "locator": "9:42 am, second paragraph, line 29",
       "note": "Explicit personal full-time-work recollection during regional MBA, distinct from later discussion of medical students. Employer and precise personal interval not named."
+    },
+    {
+      "source_id": "src-churchill-report-pass2",
+      "url": "https://churchilltrust.my.salesforce-sites.com/api/services/apexrest/v1/image/?Id=069RF000007Vbk7YAC&forceDownload=Yes",
+      "publisher": "Sam Birrell / Winston Churchill Memorial Trust",
+      "title": "To observe world’s best practice in co-operation between industry and secondary education,Churchill Fellowship final report,signed20March2024",
+      "retrieved": "2026-10-05",
+      "source_type": "professional_profile",
+      "locator": "Printed p3/PDFindex2 signed date;p4/index3 Acknowledgements;p5/index4 Introduction",
+      "note": "Trust profile Download Report link retrieved by ordinary HTTP200 download when web reader rejected application/force-download MIME type. First-person actual itinerary and delayed study leave, not payroll or employment-hours evidence."
     }
   ],
   "research_notes": [
@@ -443,6 +455,7 @@
     "Third follow-up3October2026: repeated targeted searches for Netafim, Croptec/Wayne Skinner, MBA and full-time terms returned the same La Trobe testimonial and broad14-year agronomist descriptions, but no employment contract, hours or employer-specific full-time statement. The MBA2015–2017 window crosses the February/March2016 change from Netafim to Committee for Greater Shepparton, so the testimonial cannot be allocated safely to the whole Netafim interval or used to calculate headline years. No reliable evidence resolved the one-month boundary discrepancies, Ardmona legal employer or vineyard pay. No material record or numerical change.",
     "Fourth follow-up4October2026: targeted searches for Netafim full-time status, Wayne Skinner Rural Supplies/Croptec, agronomy contracts and the2016 CEO transition returned known chronology or point-in-time observations only. A Victorian irrigation resource names Birrell at Netafim in April2009 and a council archive names him Committee CEO on6May2016, both within already supported official intervals and neither supplying hours or appointment boundaries. Apparent full-time search hits again referred to other people, not Birrell, and were rejected. The Netafim/Croptec employment fractions, MBA-related leave, month-boundary conflicts, Ardmona legal employer and vineyard pay remain unresolved; no numerical change.",
     "Follow-up2026-10-04: Added four previously unrecorded study periods: unfinished arts degree, Dookie agricultural degree with university-supported2002 degree year, Fairley Leadership completion2013 and Churchill study undertaken2023 rather than award year2020. Own2023 Hansard narrows sequence but supplies no employment hours. Churchill profile verification wall and LinkedIn999 respected; primary university PDF and Hansard provide usable evidence. Next seek agronomy contracts/leave, exact early-work/study boundaries, Ardmona legal employer and vineyard pay. Headlines unchanged.",
-    "Fifth follow-up 5 October 2026: added explicit personal full-time-work recollection from March 2023 Hansard during the regional MBA. Retained at study context because the speech supplies no employer or exact paid boundaries; no blanket full-time inference across either agronomy job or Committee CEO service. Both-engine early agronomy, Netafim and farm searches returned already documented chronology, irrelevant same-name people or observations within known envelopes. Early employer month conflicts, Ardmona employer, vineyard pay, leave and employer-specific full-time intervals remain unresolved. ABC candidate snippets mentioning a deputy mayor concern another candidate, not Birrell; no council employment transferred. Next seek original Netafim/Croptec appointment and leave records, not repeated generic biography."
+    "Fifth follow-up 5 October 2026: added explicit personal full-time-work recollection from March 2023 Hansard during the regional MBA. Retained at study context because the speech supplies no employer or exact paid boundaries; no blanket full-time inference across either agronomy job or Committee CEO service. Both-engine early agronomy, Netafim and farm searches returned already documented chronology, irrelevant same-name people or observations within known envelopes. Early employer month conflicts, Ardmona employer, vineyard pay, leave and employer-specific full-time intervals remain unresolved. ABC candidate snippets mentioning a deputy mayor concern another candidate, not Birrell; no council employment transferred. Next seek original Netafim/Croptec appointment and leave records, not repeated generic biography.",
+    "Second targeted primary pass5October2026: recovered Churchill Trust original signed final report via publisher Download Report link. Web reader returned400Unsupported content-type:application/force-download; ordinary downloadHTTP200 recovered PDF without access-control change. First-person acknowledgements establish planned Committee-employer study leave was delayed until parliamentary service, not a2020 CEO career break. Introduction confirms actual European-only itinerary, dropping planned North America because of parliamentary time constraints; recorded distinction prevents profile destinations being misread as completed attendance. Signed20March2024 is report date, not tour endpoint. Agronomy/MBA queries return known biography/profile and unrelated Wayne Skinner namesakes, with no employer-specific FT allocation or month-conflict resolution. No employment totals calculated; seek original agronomy contracts and leave rather than general repeated biography."
   ]
 }
