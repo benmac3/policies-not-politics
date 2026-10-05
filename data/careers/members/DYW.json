@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/DYW",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-05",
+  "last_reviewed": "2026-10-06",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -242,6 +242,27 @@
       ],
       "evidence_note": "Official parliamentary biographies provide exact service dates. Committee and officeholder duties are nested within this elected service. Any campaign period or other work between resignation and federal election is unresolved.",
       "counting_note": "Elected office is excluded under the codebook."
+    },
+    {
+      "spell_id": "DYW-watson-2004-campaign",
+      "employer": "Australian Labor Party / Tony Burke federal election campaign (payroll entity unresolved)",
+      "role": "Candidate for Watson",
+      "start_date": "2004-06-24",
+      "end_date": "2004-10-09",
+      "date_precision": "day",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "party_organisation",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-nsw-lc-ar2004-pass3",
+        "src-cch2010-pass3",
+        "src-aec2004-watson-pass3"
+      ],
+      "evidence_note": "The NSW Legislative Council annual report establishes Burke's resignation on 24 June 2004. A later CCH Parliament profile says he resigned in June 2004 to contest Watson, and the AEC 2004 division profile records him as the member elected at the 9 October 2004 election. The day-bounded interval therefore records political candidacy/campaign activity, not proven paid employment. Exact preselection, campaign commencement before resignation, remuneration, weekly hours, payroll entity and any concurrent work remain unknown.",
+      "counting_note": "Election candidacy and campaign activity are excluded under the codebook; no public- or private-sector full-time duration is inferred."
     },
     {
       "spell_id": "DYW-house",
@@ -659,6 +680,36 @@
       "source_type": "government_record",
       "locator": "Indexed Hansard section Adult and community education, Burke at10.19p.m.; direct HTML displays Loading Hansard",
       "note": "First-person course completion account; exact enrolment/completion dates not supplied."
+    },
+    {
+      "source_id": "src-nsw-lc-ar2004-pass3",
+      "url": "https://www.parliament.nsw.gov.au/_media/documents/lc/annual-reports/03-04-annual-report-vol-2-committees.pdf",
+      "publisher": "Parliament of New South Wales",
+      "title": "Legislative Council Annual Report 2004, volume 2",
+      "retrieved": "2026-10-06",
+      "source_type": "government_record",
+      "locator": "Printed p15 note 4 and p42 note 20",
+      "note": "Records Burke's resignation from the Legislative Council on 24 June 2004; it does not establish campaign pay, hours or other work."
+    },
+    {
+      "source_id": "src-cch2010-pass3",
+      "url": "https://paperzz.com/doc/8310374/cch-parliament",
+      "publisher": "CCH Parliament",
+      "title": "CCH Parliament, updated May 2010",
+      "retrieved": "2026-10-06",
+      "source_type": "other",
+      "locator": "Tony Burke profile, extracted lines 1706-1722",
+      "note": "Retrospective profile says Burke resigned from the NSW Legislative Council in June 2004 to contest the federal seat of Watson. It does not identify remuneration, payroll or hours."
+    },
+    {
+      "source_id": "src-aec2004-watson-pass3",
+      "url": "https://results.aec.gov.au/12246/results/HouseDivisionProfile-12246-251.htm",
+      "publisher": "Australian Electoral Commission",
+      "title": "2004 federal election division profile: Watson",
+      "retrieved": "2026-10-06",
+      "source_type": "government_record",
+      "locator": "Division profile: elected member Burke, T (ALP); member elected at the 2004 election",
+      "note": "Confirms Burke was elected for Watson at the 9 October 2004 federal election; candidacy does not prove paid campaign employment."
     }
   ],
   "open_questions": [
@@ -667,7 +718,7 @@
     "Was work for Euthanasia No!, the Australian Republican Movement and Aticus paid employment, contracting or governance, and how did the 1995–1997 roles overlap?",
     "What is the verified corporate name and registration history for Aticus/Atticus Pty Ltd, and did the directorship involve substantive full-time work?",
     "What were the exact SDA appointment/cessation dates, hours and leave, including any overlap with the 2003 state election campaign?",
-    "Was there paid employment or campaigning between resignation from the NSW Legislative Council on 24 June 2004 and federal election on 9 October 2004?",
+    "Was the now-documented 24 June–9 October 2004 Watson campaign paid, what were the hours/payroll entity, and was there any concurrent employment?",
     "What are the exact college, Lakemba and party terms and remuneration, and is Lakemba Benevolent Association the same entity as the unnamed2003foundation or later declared Bowling Club Benevolent Society?"
   ],
   "research_notes": [
@@ -685,6 +736,7 @@
     "Follow-up2026-10-04: Followed original Lakemba presidency/register and20May2003 college Hansard leads. Linked44th-register web error Failed to fetch restricted URL; ordinary register and NSW daily PDF HTTP403 Forbidden. Dynamic NSW page lacked historical text. Secondary CCH May2010 compilation repeats college presidency and1993 Young Labor service, but does not establish terms; no new boundaries adopted. Secondary register extraction has visibly misassigned fields, so retained Lakemba identity lead without merging with unnamed2003 foundation. Linking Hearts page discusses2019 ambassador cohorts but visible text does not identify Burke’s personal appointment; index lead retained, no invented cohort/date. Cinema-industry namesake excluded. Future lead: inspect original register and college/party rosters when available.",
     "Follow-up2026-10-05: targeted Lakemba benevolent presidency, college term and1996Aticus queries in two search engines returned the existing secondary register extraction,2003speech,May2010CCH compilation and retrospective government biography; no original appointment/payroll or term evidence. Current register membership is not a presidency term or proof of identity with the unnamed2003foundation. Cinema-industry namesake again excluded. No new facts promoted or exact dates/hours inferred. Further useful avenues remain original44th-register pages, college board rosters and personal Aticus/advocacy contracts; broad indexed biographies exhausted.",
     "Validation5October2026 recovered a pre-existing unsupported counting_status value not_counted in three retail/company spells. Normalised to approved insufficient_evidence; dates, classification, unknown hours, counting rationale and null headline totals unchanged. Helper AssertionError was a recovered local validation error, not a usage or execution limit.",
-    "Second targeted pass recovered readable primary NSW biography: adds bowling-club presidency and party appointments, dates college presidency2000, YoungLabor1993–94 and WatsonFEC1992. Named Lakemba Benevolent Association2000 added without assuming identity with unnamed2003foundation or unreliable later register extraction. Historical to-present wording is not a 2026 tenure claim. Own indexed20May2003Hansard additionally establishes previously omitted language/cooking short-course study; no dates or hours inferred. Individual retail/Aticus/SDA contracts remain absent; advance to next member with null headline totals."
+    "Second targeted pass recovered readable primary NSW biography: adds bowling-club presidency and party appointments, dates college presidency2000, YoungLabor1993–94 and WatsonFEC1992. Named Lakemba Benevolent Association2000 added without assuming identity with unnamed2003foundation or unreliable later register extraction. Historical to-present wording is not a 2026 tenure claim. Own indexed20May2003Hansard additionally establishes previously omitted language/cooking short-course study; no dates or hours inferred. Individual retail/Aticus/SDA contracts remain absent; advance to next member with null headline totals.",
+    "Third targeted pass2026-10-06 resolves the activity, but not employment, in the previously open24June–9October2004 interval. NSW Parliament supplies the exact state resignation, CCH says the purpose was to contest Watson, and AEC confirms election at the endpoint. Added one excluded campaign spell; no pay, hours, payroll entity, preselection date or concurrent work inferred. Retail, political-staff, Aticus/advocacy, SDA and governance employment gaps remain unresolved."
   ]
 }
