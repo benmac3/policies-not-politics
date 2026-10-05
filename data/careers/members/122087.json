@@ -6,12 +6,12 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/122087",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-04",
+  "last_reviewed": "2026-10-05",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
     "calculation_status": "not_calculable",
-    "note": "ABC and SBS/NITV public broadcasting, private freelance work and concurrent part-time school employment are documented. Precise dates, full-time status and breaks remain unresolved, so public/private totals are null."
+    "note": "ABC and SBS/NITV public broadcasting, private freelance work and concurrent part-time nonprofit school employment are documented. Precise dates, full-time status and breaks remain unresolved, so public/private totals are null."
   },
   "career_spells": [
     {
@@ -134,17 +134,20 @@
       "date_precision": "year",
       "employment_status": "part_time",
       "fte_fraction": null,
-      "category": "unknown",
-      "headline_sector": "private",
+      "category": "nonprofit",
+      "headline_sector": "excluded",
       "government_control_at_time": "private",
       "counting_status": "excluded",
       "source_ids": [
         "src-3",
         "src-4",
         "src-11",
-        "src-15"
+        "src-15",
+        "src-riverview-2017-transfer",
+        "src-riverview-historical-charity",
+        "src-riverview-new-company"
       ],
-      "evidence_note": "Employer’s 2016 departure list supplies year span/title; contemporary 2014 interview explicitly says part-time. Independent Jesuit school; historical nonprofit legal form and payroll entity unresolved. Not coded private enterprise solely because non-government. Current school governance page names Saint Ignatius’ College Riverview Limited as staff employer, but its historic applicability to 2013–2016 is not established; historical payroll entity remains unconfirmed.",
+      "evidence_note": "Employer’s 2016 departure list supplies year span/title; contemporary 2014 interview explicitly says part-time. Independent Jesuit school; historical nonprofit legal form and payroll entity unresolved. Not coded private enterprise solely because non-government. Current school governance page names Saint Ignatius’ College Riverview Limited as staff employer, but its historic applicability to 2013–2016 is not established; historical payroll entity remains unconfirmed. Historical ABR names the college-trading unincorporated Jesuit trustees entity and charity concessions covering2013–2016. College December2017 report identifies Jesuit-governed unincorporated operation before2December2017 transfer; current limited company registered later in2017. Supports historical nonprofit classification; individual payroll contract remains uninspected.",
       "counting_note": "Documented part-time school work excluded from full-time headlines; exact fraction and boundaries unknown.",
       "spell_id": "122087-06"
     },
@@ -362,6 +365,36 @@
       "locator": "Lines 276–284; incorporated entity and staff employment statement",
       "note": "Current page identifies Saint Ignatius’ College Riverview Limited as entity conducting college and employing staff. Does not establish its operation or payroll responsibility during McCarthy’s 2013–2016 service; not projected backward.",
       "retrieved": "2026-10-04"
+    },
+    {
+      "source_id": "src-riverview-2017-transfer",
+      "url": "https://d122d2wjqead0l.cloudfront.net/AP/NSW/Riverview/uploads/Website/the%20ignatian/the%20ignatian%20-%20pdf%20downloads/ignatian_dec-2017.pdf",
+      "publisher": "Saint Ignatius College Riverview",
+      "title": "The Ignatian, December2017: Incorporation, a new era for Riverview",
+      "source_type": "employer",
+      "locator": "PDF page7(index6), printed7; Council chair John Wilcox; lines322–345",
+      "note": "College operated as unincorporated entity under Jesuit Province before operation transfer to Riverview Limited on2December2017. Historical structure, not employee-specific payroll proof.",
+      "retrieved": "2026-10-05"
+    },
+    {
+      "source_id": "src-riverview-historical-charity",
+      "url": "https://abr.business.gov.au/AbnHistory/View?id=54448559588",
+      "publisher": "Australian Business Register",
+      "title": "Historical details ABN54 448 559 588",
+      "source_type": "government_record",
+      "locator": "Entity/trading name and charity tax-concession history; lines38–67",
+      "note": "Trustees of Jesuit Fathers—St Ignatius College Riverview, other unincorporated entity; college trading name from2000, charity concessions1July2000–1December2017. Registration spans are not McCarthy employment dates.",
+      "retrieved": "2026-10-05"
+    },
+    {
+      "source_id": "src-riverview-new-company",
+      "url": "https://abr.business.gov.au/AbnHistory/View?id=68621312990",
+      "publisher": "Australian Business Register",
+      "title": "Historical details ABN68 621 312 990",
+      "source_type": "government_record",
+      "locator": "Entity/ABN/charity history; lines34–52",
+      "note": "Riverview Limited ABN and charity status begin25August2017, later than McCarthy2013–2016 service. Current employer statement cannot be projected backward.",
+      "retrieved": "2026-10-05"
     }
   ],
   "research_notes": [
@@ -374,6 +407,7 @@
     "Follow-up2026-10-02: public professional index refines ABC1989-01–2005-04 and SBS/NITV2012-12–2016-04. These month endpoints do not resolve1997community-work overlap, leave or hours. Part-time snippet appears beside another profile entry; not attributed to broadcaster employment.",
     "Direct professional profile returned(429)Too Many Requests; not retried. Existing part-time school evidence preserved. Targeted school historical legal-form, community centre and freelance-business searches did not yield new identity-safe primary boundaries. Next leads: broadcaster personnel/annual-report references to1997leave, school2013–16financial/legal reports and Malarndirri Media contemporary client records.",
     "Follow-up 2026-10-04: a refreshed public index for McCarthy's own professional profile exposes an April2016 start for freelance journalism at Malarndirri Media, immediately after the separately indexed April2016 SBS/NITV endpoint. The business form, clients, hours and end remain unavailable; July2016 parliamentary service is not used as an automatic consultancy cessation date.",
-    "Follow-up2026-10-04: Added first-person government-hosted 2025 community-radio chronology, explicitly flagging tentative1993/1995/mid-1990s versus gallery1997 conflict without inventing employment dates. Original2017SBS interview identifies her own media consultancy, refining status to self-employed; legal form, clients, hours and cessation unknown. Current school legal-employer statement recorded solely as a historical lead, not applied retrospectively. Targeted ABN/business/1997leave queries yielded no individual contract or leave record. Next productive leads contemporaneous BRACS/community project records, ABC personnel leave chronology and 2013–2016 school legal/payroll reports."
+    "Follow-up2026-10-04: Added first-person government-hosted 2025 community-radio chronology, explicitly flagging tentative1993/1995/mid-1990s versus gallery1997 conflict without inventing employment dates. Original2017SBS interview identifies her own media consultancy, refining status to self-employed; legal form, clients, hours and cessation unknown. Current school legal-employer statement recorded solely as a historical lead, not applied retrospectively. Targeted ABN/business/1997leave queries yielded no individual contract or leave record. Next productive leads contemporaneous BRACS/community project records, ABC personnel leave chronology and 2013–2016 school legal/payroll reports.",
+    "Follow-up2026-10-05: recovered primary historical Jesuit school structure and ABR charity history. Riverview was unincorporated under Jesuit governance until2December2017 transfer; trustees/college trading entity charity concessions cover2013–2016, whereas current Riverview Limited registration startsAugust2017. Refined school category to nonprofit/excluded; preserved documented part-time status, dates and unknown individual payroll/fraction. No backward assignment of later company as employer. Community-radio1993/1995/1997 chronology and consultancy clients/legal form remain unresolved; current policy media and unrelated B102.9 radio station excluded. No new full-time total."
   ]
 }
