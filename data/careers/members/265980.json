@@ -6,7 +6,7 @@
   "snapshot_party": "Centre Alliance",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/265980",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-04",
+  "last_reviewed": "2026-10-05",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -29,9 +29,10 @@
       "source_ids": [
         "src-1",
         "src-2",
-        "src-3"
+        "src-3",
+        "src-17"
       ],
-      "evidence_note": "Official handbook identifies law firms and locations, not legal entities, dates, hours or control history. Aggregate is not an invented sequence of three dated jobs.",
+      "evidence_note": "Official handbook identifies law firms and locations, not legal entities, dates, hours or control history. Aggregate is not an invented sequence of three dated jobs. First-person local interview supplies sequence: moved to Darwin at endJanuary1991, then studied/took night classes and obtained an unnamed law-firm job before eventually returning to SA. Relocation date not converted into an employment start; firm identity, dates and hours remain unknown.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "265980-01"
     },
@@ -124,7 +125,7 @@
       "role": "National Executive Officer",
       "start_date": "2012-04",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "month",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "nonprofit",
@@ -234,7 +235,7 @@
       "role": "Member for Mayo",
       "start_date": "2018-07-28",
       "end_date": null,
-      "date_precision": "mixed",
+      "date_precision": "day",
       "employment_status": "unknown",
       "fte_fraction": null,
       "category": "elected_office",
@@ -429,6 +430,16 @@
       "source_type": "news",
       "locator": "Indexed first-person passage, part-time legal researcher for Isobel Redmond",
       "note": "Public indexed interview describes the legal-research role as part-time. Full page returned Internal Error: URL is not accessible via this tool; chronology beyond visible passage not imported."
+    },
+    {
+      "source_id": "src-17",
+      "url": "https://www.hillswanderer.com.au/people/the-woman-behind-the-politics/",
+      "publisher": "Hills Wanderer / Joseph Moore",
+      "title": "The woman behind the politics, personal interview",
+      "source_type": "news",
+      "retrieved": "2026-10-05",
+      "locator": "Paragraphs on January1991Darwin move, study/night classes and law-firm job",
+      "note": "First-person sequence places unnamed Darwin law-firm work after move endJanuary1991. Move date is not first workday; firms/contract/hours/return-to-SAdate absent. Other listed employers Michelin/Mitsubishi concern her father, not her."
     }
   ],
   "research_notes": [
@@ -443,6 +454,7 @@
     "Targeted law-firm,department,Youth Connections andHYPA searches did not yield legal-practice employers or appointment records. Public profile nearbyDec2014–Jun2016date range remains unassigned lead; verify full dated experience and2014–16employerannual reports. Departmental andHYPA envelopes may overlap; do not sum them.",
     "Recovered local extraction errors: ModuleNotFoundError: No module named bs4; standard-library fetch returned HTTP Error403:Forbidden. Accessible web transcript supplied departmental evidence; no access controls bypassed. Profile liked-post Executive Director appointment belongs to another person, not Sharkie.",
     "Follow-up2026-10-03: exact-name searches for Adelaide/Darwin/Queensland law firms, Youth Connections and HYPA donor relations returned existing public-profile titles and April–May2014ABC observations. A secondary biography says the HYPA senior-manager transition followed program defunding at end-December2014, but no primary appointment or payroll record fixed Sharkie's personal endpoint/start. No program date was imposed as an employment boundary; law-firm identities and hours remain unresolved.",
-    "Follow-up2026-10-04: Contemporaneous2016report resolves Briggs role to six-month service within2008; indexed first-person2016interview supports part-time legal research for Redmond. No months/FTE invented. Original SYC2015staff/payroll and law-firm searches did not resolve remaining employer/hours gaps; Wikipedia repetitions and unrelated researcher results not promoted."
+    "Follow-up2026-10-04: Contemporaneous2016report resolves Briggs role to six-month service within2008; indexed first-person2016interview supports part-time legal research for Redmond. No months/FTE invented. Original SYC2015staff/payroll and law-firm searches did not resolve remaining employer/hours gaps; Wikipedia repetitions and unrelated researcher results not promoted.",
+    "Follow-up2026-10-05: Newly checked Hills Wanderer first-person interview supplies early Darwin job sequence after endJanuary1991move but no firm, employment boundary or hours. Added qualitative corroboration; relocation not employment commencement and father’s Michelin/Mitsubishijobs not attributed. Exact law-firm/maiden-name Rebekha Che and SYC2014–15staff/report queries did not yield personal contracts or payroll. DCSI/HYPAhours/overlap, network hosting vs payroll and parliamentary-break employment remain unknown. Nonmaterial follow-up, no new dated job/totals."
   ]
 }
