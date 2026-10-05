@@ -159,9 +159,13 @@
       "counting_status": "excluded",
       "source_ids": [
         "src-secondary",
-        "src-aph-qualifications-oct2"
+        "src-aph-qualifications-oct2",
+        "src-council-2008-pass2",
+        "src-council-ar2007-pass2",
+        "src-council-ar2004-pass2",
+        "src-council-election2008-pass2"
       ],
-      "evidence_note": "Secondary material citing North Sydney Council records the council term from 27 March 2004 to 13 September 2008. Remuneration, hours and overlap with legal practice are unresolved. Official parliamentary biography indexed5October2026 instead gives2003–2007. These competing terms remain explicit pending contemporary council election/minutes evidence; retained secondary endpoints are not adjudicated facts.",
+      "evidence_note": "Secondary material citing North Sydney Council records the council term from 27 March 2004 to 13 September 2008. Remuneration, hours and overlap with legal practice are unresolved. Official parliamentary biography indexed5October2026 instead gives2003–2007. These competing terms remain explicit pending contemporary council election/minutes evidence; retained secondary endpoints are not adjudicated facts. Second targeted pass: archived20June2008 primary council directory names him as Tunks councillor, independently conflicting with2007 cessation.2006/2007 report printedpp10–12 names him and records25council meetings attended with6leave-of-absence occasions. These are meeting-level council absences, not lawyer employment breaks. Primary2003/2004 report p67 dates council election27March2004;2008 election page schedules13September2008 poll. Personal election/cessation remains unproven; existing secondary endpoints retained with conflict, not silently upgraded to adjudicated primary dates. Individual payment not established by aggregate allowances.",
       "counting_note": "Elected local-government office is excluded under the codebook."
     },
     {
@@ -258,9 +262,11 @@
       "government_control_at_time": "private",
       "counting_status": "insufficient_evidence",
       "source_ids": [
-        "src-mp-profile-oct2"
+        "src-mp-profile-oct2",
+        "src-council-2008-pass2",
+        "src-council-ar2007-pass2"
       ],
-      "evidence_note": "Public profile dates senior-partner role August2005–December2010. Subspell within overall2001–2019 solicitor record; never add aggregate and component durations. Personal hours, breaks and precise legal entity unresolved. December2010 overlap is month precision, not proven simultaneous full-time work.",
+      "evidence_note": "Public profile dates senior-partner role August2005–December2010. Subspell within overall2001–2019 solicitor record; never add aggregate and component durations. Personal hours, breaks and precise legal entity unresolved. December2010 overlap is month precision, not proven simultaneous full-time work. Contemporary council2006/2007 annual report p10 and archived20June2008 directory identify his Conaghan Hunter work contact. Independent primary corroboration of practice association during council service; contact details do not establish legal payroll entity, personal full-time hours or appointment boundaries. Council meeting leave does not establish lawyer leave.",
       "counting_note": "Dates, substantive full-time status and/or leave remain insufficiently evidenced; no headline years calculated.",
       "spell_id": "279991-hunter"
     },
@@ -531,6 +537,46 @@
       "source_type": "official_biography",
       "locator": "About Pat, paragraphs2–4; rendered lines40–43",
       "note": "First-party party biography explicitly describes pro-bono work for women’s shelters, youth groups and community legal centres. No named recipient organisation, dates or workload."
+    },
+    {
+      "source_id": "src-council-2008-pass2",
+      "url": "https://web.archive.org/web/20080620224520/http://www.northsydney.nsw.gov.au/www/html/2114-tunks-ward-councillors.asp",
+      "publisher": "North Sydney Council, archived by Internet Archive",
+      "title": "Tunks Ward councillors, archived20June2008",
+      "retrieved": "2026-10-05",
+      "source_type": "government_record",
+      "locator": "Patrick Conaghan listing and work contact",
+      "note": "Archived council page names Conaghan and his Conaghan Hunter work contact; dated observation, not personal term boundaries."
+    },
+    {
+      "source_id": "src-council-ar2007-pass2",
+      "url": "https://web.archive.org/web/20080802013907if_/http://www.northsydney.nsw.gov.au/resources/documents/AnnualReport_2006_2007.pdf",
+      "publisher": "North Sydney Council, archived by Internet Archive",
+      "title": "North Sydney Council Annual Report2006/2007",
+      "retrieved": "2026-10-05",
+      "source_type": "government_record",
+      "locator": "Printedpp10–12: councillors, attendance and allowances",
+      "note": "Lists Conaghan and practice-domain work contact;25meetings attended and6leave-of-absence occasions. This is council-meeting leave, not legal-practice leave. Aggregate councillor allowances do not quantify his personal payment."
+    },
+    {
+      "source_id": "src-council-ar2004-pass2",
+      "url": "https://web.archive.org/web/20080802014320if_/http://www.northsydney.nsw.gov.au/resources/documents/AnnualReport_2003_2004.pdf",
+      "publisher": "North Sydney Council, archived by Internet Archive",
+      "title": "North Sydney Council Annual Report2003/2004",
+      "retrieved": "2026-10-05",
+      "source_type": "government_record",
+      "locator": "Printedp67: Open Government, council elections",
+      "note": "Dates council election27March2004 and inductionApril; no personal Conaghan appointment statement."
+    },
+    {
+      "source_id": "src-council-election2008-pass2",
+      "url": "https://web.archive.org/web/20080701182829/http://www.northsydney.nsw.gov.au/www/html/5642-local-government-election-2008.asp",
+      "publisher": "North Sydney Council, archived by Internet Archive",
+      "title": "Local Government Election2008",
+      "retrieved": "2026-10-05",
+      "source_type": "government_record",
+      "locator": "Local Government Elections opening paragraph",
+      "note": "Scheduled poll13September2008; not itself proof of Conaghan actual cessation."
     }
   ],
   "research_notes": [
@@ -548,7 +594,8 @@
     "Follow-up3October2026 tested earlier-practice identity via Conaghan Legal, sole-practitioner and2001–2005 searches on two public search engines. ABR80 527 846 642 names Patrick Conaghan, individual/sole trader, active2003–2009 and from2011; Conaghan Legal trading name from18November2003 and separately registered business name17February2004–19May2010. Identity link to this member remains unconfirmed; locality/name similarity is not sufficient. These registration milestones do not establish personal employment boundaries, continuity or hours. No new employer/date/full-time fact adopted. Public professional-profile index again exposed police sequence but not earlier sole-practice dates; existing dates retained. US and unrelated Australian namesakes excluded. Next useful avenue is a historical firm biography or professional directory explicitly pairing this member with Conaghan Legal; do not repeat broad name searches.",
     "Fourth follow-up 2026-10-04: exact-name searches for Conaghan Legal, Conaghan Hunter and Patrick John Conaghan again failed to produce a historical firm biography or directory explicitly pairing the member with the sole-trader ABN. ABR search output adds current NSW 2444 location, but matching name and locality still do not prove identity, operational work or personal hours. The 2018 Doyle’s listing only confirms the already recorded Conaghan Lawyers practice. No material enrichment counted; advance pending an identity-linked professional directory, admission/practice record or contract.",
     "Follow-up2026-10-04: Newly indexed personal narrative explicitly identifies Conaghan Legal,Manly,Sole Practitioner,General Legal Practice, resolving the previously missing practice-name identity bridge. Original full layout remains unavailable999; adjacent July2003–August2005 snippet is not confidently mapped to that heading and therefore is not adopted as its dates. ABN80527846642 remains a separate unconfirmed legal-entity match. Added undated component within overall legal work, not additional summed time. Next historical firm/admission directory or full legitimately public profile layout for dates; hours and police boundaries unchanged.",
-    "2026-10-05 follow-up: NSW Nationals biography explicitly supports omitted pro-bono legal services to women’s shelters, youth groups and community legal centres; recorded undated unpaid component without assigning organisational employment. Fresh official parliamentary public index exposes council-term conflict2003–2007 versus secondary2004–2008; preserved existing endpoints with explicit competing evidence and new contemporary-council verification question. Targeted Manly practice/admission/undercover queries again exposed only the unmapped July2003–August2005 professional snippet, existing police sequence and unrelated Louisiana/New Jersey namesakes; no personal legal or police hours/endpoints adopted. Direct official page403 is a source access gap, not a job-wide failure. Advance pending identity-linked original professional layout and contemporary council records."
+    "2026-10-05 follow-up: NSW Nationals biography explicitly supports omitted pro-bono legal services to women’s shelters, youth groups and community legal centres; recorded undated unpaid component without assigning organisational employment. Fresh official parliamentary public index exposes council-term conflict2003–2007 versus secondary2004–2008; preserved existing endpoints with explicit competing evidence and new contemporary-council verification question. Targeted Manly practice/admission/undercover queries again exposed only the unmapped July2003–August2005 professional snippet, existing police sequence and unrelated Louisiana/New Jersey namesakes; no personal legal or police hours/endpoints adopted. Direct official page403 is a source access gap, not a job-wide failure. Advance pending identity-linked original professional layout and contemporary council records.",
+    "Second targeted pass2026-10-05: recovered original archived2008 Tunks councillor directory and2006/2007 council annual report, independently linking Conaghan to Conaghan Hunter work contact during council service. Report records25meetings attended and6granted meeting absences; these are not private-practice leave. June2008 listing contradicts claimed2007 council cessation; personal endpoints remain disputed. Primary2003/2004 report dates March2004 council election and2008 page schedules September2008 poll, neither individually proves his exact term. Added primary sources and explicit overlap/leave distinction; no full-time years inferred."
   ],
   "open_questions": [
     "What were the exact NSW Police appointment, transfer, promotion and cessation dates, hours and leave?",
