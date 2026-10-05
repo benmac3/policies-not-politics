@@ -100,9 +100,10 @@
         "src-3",
         "src-9",
         "src-10",
-        "src-12"
+        "src-12",
+        "src-interests46-pass2"
       ],
-      "evidence_note": "Littleproud's official site identifies business ownership in Warwick. His 2016 interests register records a shareholding in Mr Rental Southern Downs Pty Ltd and his spouse's wage from the company. In 2017 Hansard he described himself as a former retail small-business owner, while 2018 reporting and a speech described current ownership and four employees. These sources establish ownership but leave his operational hours, commencement, cessation and overlap with banking/elected office unresolved. First speech confirms joint investment and local employees in2016, not his personal full-time operational work.",
+      "evidence_note": "Littleproud's official site identifies business ownership in Warwick. His 2016 interests register records a shareholding in Mr Rental Southern Downs Pty Ltd and his spouse's wage from the company. In 2017 Hansard he described himself as a former retail small-business owner, while 2018 reporting and a speech described current ownership and four employees. These sources establish ownership but leave his operational hours, commencement, cessation and overlap with banking/elected office unresolved. First speech confirms joint investment and local employees in2016, not his personal full-time operational work. The 46th Parliament statement also lists the rental-company shareholding in2019; this is an ownership observation, not a personal work interval.",
       "counting_note": "Ownership is not automatically substantive full-time employment; no countable operating interval is established."
     },
     {
@@ -164,6 +165,63 @@
       "evidence_note": "Contemporaneous2011 government flood chronology and14April2011 news identify president. These are observations, not appointment/cessation boundaries; pay/hours unknown.",
       "counting_note": "Excluded category; not added to public/private employment headlines.",
       "spell_id": "265585-07"
+    },
+    {
+      "spell_id": "265585-08",
+      "employer": "Kelwick Pty Ltd; Kelwick Holdings Pty Ltd appears separately in shareholdings",
+      "role": "Registered director, private family investments",
+      "start_date": null,
+      "end_date": "2021-02-18",
+      "date_precision": "day",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "private_enterprise",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-interests46-pass2"
+      ],
+      "evidence_note": "The primary2019 statement lists Kelwick Pty Ltd in section4 and a Kelwick Holdings Pty Ltd shareholder/director entry in section1; no assumption is made that the entities are identical. The alteration signed26March2021 expressly states Kelwick Pty Ltd directorship ceased18February2021. Start, remuneration, operating work and hours remain unknown.",
+      "counting_note": "Governance/patron role only; no substantive employment basis demonstrated. Excluded from full-time employment totals."
+    },
+    {
+      "spell_id": "265585-09",
+      "employer": "Yaralan Pty Ltd",
+      "role": "Registered director, private family investments",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "private_enterprise",
+      "headline_sector": "excluded",
+      "government_control_at_time": "private",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-interests46-pass2"
+      ],
+      "evidence_note": "Primary2019 statement lists Yaralan directorship. A26March2021 alteration also lists it as an addition, which does not establish a new appointment date or uninterrupted tenure. Remuneration, start/end and operating work remain unknown.",
+      "counting_note": "Governance/patron role only; no substantive employment basis demonstrated. Excluded from full-time employment totals."
+    },
+    {
+      "spell_id": "265585-10",
+      "employer": "Canterbury-Bankstown Bulldogs club",
+      "role": "Patron",
+      "start_date": null,
+      "end_date": null,
+      "date_precision": "unknown",
+      "employment_status": "unknown",
+      "fte_fraction": null,
+      "category": "nonprofit",
+      "headline_sector": "excluded",
+      "government_control_at_time": "nonprofit",
+      "counting_status": "excluded",
+      "source_ids": [
+        "src-interests46-pass2"
+      ],
+      "evidence_note": "Primary alteration signed25May2021 declares club patronage. Signature is an observation rather than appointment boundary; remuneration and hours are not stated.",
+      "counting_note": "Governance/patron role only; no substantive employment basis demonstrated. Excluded from full-time employment totals."
     }
   ],
   "sources": [
@@ -316,6 +374,16 @@
       "note": "Contemporary candidate interview identifies a 1995 NAB Nanango posting, the sequence of regional banking locations, an approximately 2000 move to Warwick and current May 2016 Suncorp regional-manager employment. Relative timing is not converted to an exact boundary.",
       "retrieved": "2026-10-03",
       "source_id": "src-15"
+    },
+    {
+      "source_id": "src-interests46-pass2",
+      "url": "https://www.aph.gov.au/-/media/03_Senators_and_Members/32_Members/Register/46p/KN/Littleproud_46P.pdf",
+      "publisher": "Parliament of Australia",
+      "title": "David Littleproud: 46th Parliament statement and alterations of registrable interests",
+      "retrieved": "2026-10-05",
+      "source_type": "government_record",
+      "locator": "PDF pp2-3 sections1 and4; p8 alteration signed26March2021; p9 signed25May2021",
+      "note": "Primary shareholding and private-family-investment directorship observations, explicit Kelwick cessation and club patron declaration. Filing dates are not appointments."
     }
   ],
   "research_notes": [
@@ -327,6 +395,7 @@
     "2026-10-02 follow-up: first speech and historical government flood records reviewed; omitted Warwick Chamber presidency added. No FT basis found for bank titles. FarmOnline15June2011 appointment article redirected to inaccessible tollbit endpoint:500 non-retryable; no bypass attempted. Warwick23October2015 preselection article403; Allora7April2011PDF400timeout. These source gaps did not block other research. June2011 publication date cannot establish exact appointment date; retained year boundaries. Mr Rental franchisee material concerns spouse, not proof of his operational hours. Cotton employer, NAB/Suncorp payroll and bank/business overlaps remain follow-up needs.",
     "2026-10-03 follow-up: a contemporary 14May2016 candidate interview provides a 1995 NAB Nanango observation, Littleproud's first-person regional posting sequence and an approximately 2000 move to Warwick, plus a late observation of current Suncorp regional-manager employment during candidacy. Relative timing is not converted into exact transfer or payroll boundaries. Hours, leave, campaign arrangements, cotton employer and business-operation overlap remain unresolved.",
     "2026-10-04 follow-up: targeted Suncorp appointment, late-2016 cessation, NAB transfer, cotton-employer and Mr Rental searches repeated the existing year-level chronology and 14 May 2016 Suncorp observation. A Treasury biography's statement that he had owned a Warwick small business and forged an agribusiness career over the preceding 20 years is too aggregated to establish a business commencement or continuous operating interval. No employer record established hours, leave, exact payroll boundaries, campaign arrangements or personal operating work at the rental company; no career field changed.",
-    "2026-10-05 employer-record follow-up: targeted Suncorp and original Allora 2011 archive searches did not surface a bank personnel record. The 7April2011 Allora PDF (https://www.alloraadvertiser.com/papers/Past%20Allora%20Advertisers/AAApr0711.pdf) returned502 Bad Gateway from search open; its index repeats the already recorded chamber role. Public business-interest indexes corroborate existing company ownership and spouse wages, not his personal operational work. Searches pairing the member with full-time work returned staff vacancies or third-party jobs rather than evidence about his bank hours. No appointment day, bank cessation/campaign leave, cotton employer or rental operating interval established. Preserve supported chronology; next follow-up requires original bank personnel/appointment notices or personal company-operation evidence, not another generic biography search."
+    "2026-10-05 employer-record follow-up: targeted Suncorp and original Allora 2011 archive searches did not surface a bank personnel record. The 7April2011 Allora PDF (https://www.alloraadvertiser.com/papers/Past%20Allora%20Advertisers/AAApr0711.pdf) returned502 Bad Gateway from search open; its index repeats the already recorded chamber role. Public business-interest indexes corroborate existing company ownership and spouse wages, not his personal operational work. Searches pairing the member with full-time work returned staff vacancies or third-party jobs rather than evidence about his bank hours. No appointment day, bank cessation/campaign leave, cotton employer or rental operating interval established. Preserve supported chronology; next follow-up requires original bank personnel/appointment notices or personal company-operation evidence, not another generic biography search.",
+    "Second targeted follow-up 2026-10-05: original 46th Parliament interests PDF reviewed. Added private-investment company directorships and club patronage, preserving ambiguity between Kelwick and Kelwick Holdings and between the 2019 Yaralan declaration and 2021 addition. Kelwick cessation18February2021 is explicitly recorded, without inventing commencement or pay. Rental shareholding is observed in2019 but does not prove personal operating employment. Employer-domain and exact rental-name searches did not identify bank payroll terms or personal rental hours; unrelated ABR returns and father Brian Littleproud interests were excluded. Banking hours, campaign leave, cotton employer and company-operation overlaps remain unresolved."
   ]
 }
