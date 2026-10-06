@@ -6,7 +6,7 @@
   "snapshot_party": "Australian Labor Party",
   "snapshot_source": "https://handbook.aph.gov.au/parliamentarians/168275",
   "research_status": "blocked",
-  "last_reviewed": "2026-10-05",
+  "last_reviewed": "2026-10-06",
   "headline": {
     "public_full_time_years": null,
     "private_full_time_years": null,
@@ -231,9 +231,10 @@
       "source_ids": [
         "src-2",
         "src-6",
-        "src-twu2013-pass2"
+        "src-twu2013-pass2",
+        "src-twu2011-oct6"
       ],
-      "evidence_note": "Board role confirmed including in March 2018. Appointment boundaries, employing trustee entity and workload unresolved; governance is not presumed full-time employment. Original TWU2013 operating report independently names Anthony Sheldon as an employee-representative fund director and national reporting-unit nominee. This strengthens the retrospective trustee claim but supplies no personal appointment or cessation date.",
+      "evidence_note": "Board role confirmed including in March 2018. Appointment boundaries, employing trustee entity and workload unresolved; governance is not presumed full-time employment. Original TWU2011 financial report, signed in April2012, names Anthony Sheldon as a TWUSUPER trustee and provides a dated observation at 31December2011. The TWU2013 operating report independently names him as an employee-representative fund director and national reporting-unit nominee. These observations strengthen the retrospective trustee claim but do not establish appointment or cessation dates, personal fees, hours or continuous service between observations.",
       "counting_note": "Excluded from the two employment headlines under the codebook."
     },
     {
@@ -545,6 +546,16 @@
       "source_type": "annual_report",
       "locator": "Directors Report printed p3 / PDF index2, complete reporting-period director list; p4 benefits paragraph",
       "note": "Visually read scanned original PDF after text reader returned zero lines. Sheldon is absent from all2023 directors, while other board members and their own dated changes are listed. No personal cessation date, replacement or2013–2022 continuity inferred;2023 no-benefits statement applies to that year directors, not retrospectively to Sheldon."
+    },
+    {
+      "source_id": "src-twu2011-oct6",
+      "url": "https://regorgs.fwc.gov.au/sites/default/files/migration/413/179v-fr2011-2870.pdf",
+      "publisher": "Transport Workers Union of Australia, National Council / Fair Work Commission",
+      "title": "Financial report for year ended 31 December 2011",
+      "retrieved": "2026-10-06",
+      "source_type": "annual_report",
+      "locator": "Operating report point5, signed10April2012; Anthony Sheldon and Michael Kaine named as TWU Superannuation fund trustees",
+      "note": "Original registered-organisation filing supplies a dated31December2011 trustee observation. It does not state Sheldon's appointment, cessation, individual fees, hours or continuous tenure. Employee totals and other officers' reporting periods are not attributed to him personally."
     }
   ],
   "research_notes": [
@@ -562,6 +573,7 @@
     "Follow-up2026-10-04: Checked original13August2018 TWU transition announcement, which corroborates existing August handover and continuing union work; counted as corroborative follow-up, not material enrichment. It describes government-project labour standards but no government employment. Thirty-year membership/organising aggregate cannot date each paid role. Original Queensland archival clipping ordinary download returned HTTP403 Forbidden; no bypass attempted. Searches of trustee annual reports and historical names exposed successor/current directors and previously retained parliamentary comments without Sheldon appointment/cessation. Early cleaner/bar/waste employers and substantive dates remain open; full-time cleaner status retained without countable duration. Revisit only a trustee register, university conferral record, election return or named early employer archive.",
     "2026-10-05 follow-up checked TWUSUPER appointed/resigned wording, Harvard2000 and early cleaning/hotel leads. S2 returns known biographies plus October2012 and May2013 Fletcher parliamentary observations, not trustee instruments or employment boundaries; the earlier observation does not resolve already retained2012 board lead. Same-name actor and US faculty syllabus excluded. Committee hearing hotel addresses are venues, not Sheldon employers. No named early cleaner/bar/waste employer, roster, personal union effective date or qualification conferral found. Retain explicitly full-time cleaner status without countable dates/control. Exhausted exact-name queries deferred until trustee/election/payroll archives or named-employer evidence appears.",
     "Second targeted primary pass2026-10-05: Shifted from exhausted trustee biography searches to original union financial filings. TWU2013 report newly names TEACHO, Blue Card Training and McLean Forum external directorships; added three governance spells with unknown boundaries/pay/hours and corroborated TWUSUPER employee-representative nomination. Original TEACHO account establishes nonprofit character.2016 filing again names fund directorship, no tenure endpoints. Pooled employee FTE and officers remuneration not allocated to him. Blue Card application for deregistration is not cessation; modern training programme and McLean2019 ABN activation do not prove personal dates. Ordinary FWC download timed out, recovered original reader text; no access restriction bypass or terminal job error. Seek historical board appointment/cessation and personal payroll records for the new governance gaps; early paid employers remain unresolved.",
-    "Same-member follow-up before advancing: original TEACHO2023 scanned audited report recovered by ordinary download and visually inspected. Complete reporting-period directors list omits Sheldon, so no ongoing2023 tenure inferred from2013 evidence. Actual cessation remains unknown; other directors appointment dates and2023 no-benefits statement not transferred to his prior service. This additional commit enriches the same distinct Sheldon record and does not add another processed person. Cursor remains Shoebridge."
+    "Same-member follow-up before advancing: original TEACHO2023 scanned audited report recovered by ordinary download and visually inspected. Complete reporting-period directors list omits Sheldon, so no ongoing2023 tenure inferred from2013 evidence. Actual cessation remains unknown; other directors appointment dates and2023 no-benefits statement not transferred to his prior service. This additional commit enriches the same distinct Sheldon record and does not add another processed person. Cursor remains Shoebridge.",
+    "Third targeted pass2026-10-06: Followed exact TEACHO, Blue Card Training, McLean Forum and TWUSUPER appointment routes. Recovered original TWU2011 registered-organisation financial report naming Sheldon as a TWUSUPER trustee at31December2011, earlier than the previously retained2012 parliamentary observation. Added the dated point-in-time source without manufacturing an appointment start or continuous tenure through2018. The filing's aggregate employee numbers and later trustee-fee income are not personal hours or remuneration. Other queries returned the2013 filing and Blue Card investments/liquidation rather than personal board boundaries. Early paid employers, exact trustee appointment/cessation and governance workloads remain unresolved."
   ]
 }
