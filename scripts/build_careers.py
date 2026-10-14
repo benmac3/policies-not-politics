@@ -47,7 +47,9 @@ def main():
             "public_full_time_years": headline.get("public_full_time_years"),
             "private_full_time_years": headline.get("private_full_time_years"),
             "calculation_status": headline.get("calculation_status"),
-            "calculation_note": headline.get("note", "")
+            "calculation_note": headline.get("note", ""),
+            "linkedin_url": record.get("linkedin", {}).get("url"),
+            "linkedin_status": record.get("linkedin", {}).get("status", "not_researched")
         })
         for spell in record.get("career_spells", []):
             row = dict(spell)
@@ -61,7 +63,8 @@ def main():
     with (ROOT / "data/career-summary.csv").open("w", newline="") as f:
         fields = [
             "person_id", "name", "state", "chamber", "party", "research_status",
-            "public_full_time_years", "private_full_time_years", "calculation_status", "calculation_note"
+            "public_full_time_years", "private_full_time_years", "calculation_status", "calculation_note",
+            "linkedin_url", "linkedin_status"
         ]
         writer = csv.DictWriter(f, fieldnames=fields)
         writer.writeheader()
