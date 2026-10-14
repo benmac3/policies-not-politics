@@ -1,0 +1,394 @@
+# Australian federal election timeline | review edition 2026-10-06
+# UTF-8; pipe-delimited sections. Seat maps use CODE:INTEGER separated by spaces.
+# Blank chamber = not contested, never a zero-seat chamber. Source definitions are in @sources.
+@sources
+id|title|url|authority|scope
+AEC_DATES|AEC: Election dates 1901–present|https://www.aec.gov.au/elections/federal_elections/election-dates.htm|primary|Federal election polling dates
+AEC_BY|AEC: By-elections and supplementary elections|https://www.aec.gov.au/elections/supplementary_by_elections/|primary|By-election dates and party results; scheduled dates for unopposed returns
+PL2010|Stephen Barber, Federal election results 1901–2010, Parliamentary Library (PRSA mirror)|https://prsa.org.au/federal_elections_to_2010_parl_library.pdf|primary_mirror|Detailed House tables pp19–64; national House summary p120; Senate seats won p136; full Senate composition pp139–142
+H2013|AEC 2013 House party representation|https://results.aec.gov.au/17496/Website/HousePartyRepresentationLeading-17496.htm|primary|2013 results and 2010 previous-election column
+H2019|AEC 2019 House party representation|https://results.aec.gov.au/24310/Website/HousePartyRepresentationLeading-24310.htm|primary|2019 results and 2016 previous-election column
+H2022|AEC 2022 House party representation|https://results.aec.gov.au/27966/Website/HousePartyRepresentationLeading-27966.htm|primary|2022 final House results
+H2025|AEC 2025 House party representation|https://results.aec.gov.au/31496/Website/HousePartyRepresentationLeading-31496.htm|primary|2025 final House results
+S2013|2013 Australian Senate election: original returns and annulment|https://en.wikipedia.org/wiki/2013_Australian_Senate_election|secondary|Original 2013 Senate returns; WA component was annulled
+S2014|AEC 2014 Western Australian Senate election|https://results.aec.gov.au/17875/Website/SenateSenatorsElected-17875-WA.htm|primary|Fresh election for six WA Senate places
+S2016|AEC 2016 Senators elected|https://results.aec.gov.au/20499/Website/SenateSenatorsElected-20499.htm|primary|Original returns, not later disqualification recounts
+S2019|AEC 2019 Senators elected|https://results.aec.gov.au/24310/Website/SenateSenatorsElected-24310.htm|primary|Candidate party affiliations; joint tickets split by successful candidate
+S2022|AEC 2022 Senators elected|https://results.aec.gov.au/27966/Website/SenateSenatorsElected-27966.htm|primary|Candidate party affiliations; joint tickets split by successful candidate
+S2025|AEC 2025 Senators elected|https://results.aec.gov.au/31496/Website/SenateSenatorsElected-31496.htm|primary|Candidate party affiliations; joint tickets split by successful candidate
+C2019|2019 Australian federal election: Senate result|https://en.wikipedia.org/wiki/2019_Australian_federal_election|secondary|Result projection including continuing senators; before Australian Conservatives deregistration
+C2022|2022 Australian Senate election|https://en.wikipedia.org/wiki/2022_Australian_Senate_election|secondary|Full-chamber result projection; labels reconciled to candidate affiliations
+C2025|2025 Australian Senate election|https://en.wikipedia.org/wiki/2025_Australian_Senate_election|secondary|Full-chamber result projection at polling-date affiliations, before subsequent defections
+PM_LIST|List of prime ministers of Australia|https://en.wikipedia.org/wiki/List_of_prime_ministers_of_Australia|secondary|Day-level chronology; Forde discrepancy overridden by NAA
+NMA_PM|National Museum: Prime Ministers of Australia|https://www.nma.gov.au/explore/features/prime-ministers|primary|Prime ministers and historical profiles
+NAA_FORDE|National Archives: Francis Forde, during office|https://www.naa.gov.au/explore-collection/australias-prime-ministers/francis-forde/during-office|primary|Sworn in 6 July 1945, the day after Curtin's death
+DPM_LIST|Deputy Prime Minister of Australia|https://en.wikipedia.org/wiki/Deputy_Prime_Minister_of_Australia|secondary|Formal office appointments and vacancies from 1968; not ordinary acting arrangements
+MINISTRY|Prime Minister: Your Ministry|https://www.pm.gov.au/your-ministry|primary|Albanese and Marles incumbency checked 6 October 2026
+BY_DETAIL|List of Australian federal by-elections|https://en.wikipedia.org/wiki/List_of_Australian_federal_by-elections|secondary|Member names; actual unopposed return dates; historical affiliation discrepancies and annulments
+FARRER2026|AEC 2026 Farrer by-election|https://www.aec.gov.au/Elections/supplementary_by_elections/2026-farrer/index.htm|primary|9 May poll; David Farley elected for One Nation
+S1963|Senate biography: Kenneth Morris|https://biography.senate.gov.au/morris-kenneth-james/|primary|Queensland casual-vacancy poll: Liberal gain from Labor
+S1966|1966 Australian Senate election|https://en.wikipedia.org/wiki/1966_Australian_Senate_election|secondary|Six casual vacancies in four states: Liberal 3, Country 1, Labor 2; net Liberal loss to Labor in WA
+S1969|Senate biography: Donald Newton Cameron|https://biography.senate.gov.au/cameron-donald-newton/|primary|SA casual-vacancy poll: Labor gain from Liberal
+S1969V|Senate biography: Ivor Greenwood|https://biography.senate.gov.au/greenwood-ivor-john/|primary|Victoria casual-vacancy poll: Liberal hold
+S1972|Senate biography: Neville Bonner|https://biography.senate.gov.au/bonner-neville-thomas/|primary|Queensland casual-vacancy poll: Liberal hold
+S1908|Senate biography: Joseph Vardon|https://biography.senate.gov.au/joseph-vardon/|primary|Vardon elected Anti-Socialist after original return and intervening appointment were voided
+D2025|AEC 2025 federal election timetable|https://www.aec.gov.au/Elections/federal_elections/2025/timetable.htm|primary|National polling day 3 May 2025
+@parties
+code|name|family
+ALP|Australian Labor Party|labor
+PROT|Protectionist Party|protectionist
+FT|Free Trade Party|liberal
+AS|Anti-Socialist Party (Free Trade successor)|liberal
+CLIB|Commonwealth Liberal Party (1909–1917)|liberal
+NAT|Nationalist Party|liberal
+NLAB|National Labor Party|labor_split
+UAP31|United Australia Party (1931–1945)|liberal
+LIB|Liberal Party of Australia (modern)|liberal
+CP|Country Party|country
+NCP|National Country Party|country
+NP|National Party / The Nationals|country
+LNP|Liberal National Party of Queensland|country
+CLP|Country Liberal Party (Northern Territory)|country
+GRN|Australian Greens (includes historical Greens WA grouping)|green
+DLP|Democratic Labor / Anti-Communist Labor (source-era label)|labor_split
+DEM|Australian Democrats|democrat
+LM|Liberal Movement|democrat
+NDP|Nuclear Disarmament Party|other
+ON|One Nation|other
+FFP|Family First Party|other
+PUP|Palmer United Party|other
+UAP22|United Australia Party (contemporary; distinct from UAP31)|other
+KAP|Katter's Australian Party|other
+NXT|Nick Xenophon Team|other
+CA|Centre Alliance|other
+DP|David Pocock|other
+JLN|Jacqui Lambie Network|other
+LDP|Liberal Democratic Party|other
+AMEP|Australian Motoring Enthusiast Party|other
+ASP|Australian Sports Party|other
+DHJP|Derryn Hinch's Justice Party|other
+AC|Australian Conservatives|other
+AV|Australia's Voice|other
+IND|Independents (not one political party)|independent
+OTH|Other, as grouped by source (unresolved affiliation)|unresolved
+INDLAB|Independent Labor|independent
+RT|Revenue Tariff Party|other
+INDPROT|Independent Protectionist|independent
+WAP|Western Australian Party|other
+INDNAT|Independent Nationalist|independent
+NF|Nationalist–Farmers (source label)|country
+FS|Farmers and Settlers Association|country
+VFU|Victorian Farmers' Union|country
+LU|Liberal Union|liberal
+CPP|Country Progressive Party|country
+LLAB|Lang Labor|labor_split
+EC|Emergency Committee (South Australia)|liberal
+ACP|Australian Country Party (separate source category)|country
+LCL|Liberal and Country League|liberal
+FCP|Federal Country Party|country
+SCP|State Country Party|country
+INDUAP|Independent United Australia|independent
+LCP|Liberal Country Party (source label)|liberal
+UCP|United Country Party|country
+NCLAB|Non-Communist Labor|labor_split
+CNP|Country National Party|country
+QCP|Queensland Country Party|country
+@general
+date|house|senate_elected|senate_full|notes
+1901-03-29|ALP:14 PROT:31 FT:28 INDLAB:1 OTH:1|ALP:8 PROT:11 FT:17|ALP:8 PROT:11 FT:17|Polling occurred 29–30 March. House detailed table p19 preferred to conflicting summary p120. Remaining Other seat is not assigned a party.
+1903-12-16|ALP:23 PROT:26 FT:25 RT:1|ALP:10 PROT:3 FT:4 IND:2|ALP:14 PROT:8 FT:12 IND:2|
+1906-12-12|ALP:26 PROT:16 AS:27 INDPROT:4 WAP:2|ALP:5 PROT:2 AS:11|ALP:15 PROT:4 AS:15 IND:2|
+1910-04-13|ALP:43 CLIB:31 OTH:1|ALP:18|ALP:23 CLIB:13|
+1913-05-31|ALP:37 CLIB:38|ALP:11 CLIB:7|ALP:29 CLIB:7|
+1914-09-05|ALP:42 CLIB:32 OTH:1|ALP:31 CLIB:5|ALP:31 CLIB:5|Double dissolution. Detailed source counts an Other member separately.
+1917-05-05|ALP:22 NAT:53|NAT:18|ALP:12 NAT:24|
+1919-12-13|ALP:26 NAT:37 INDNAT:1 NF:3 FS:1 VFU:5 CP:2|ALP:1 NAT:18|ALP:1 NAT:35|
+1922-12-16|ALP:30 NAT:26 LU:5 CP:14 OTH:1|ALP:11 NAT:8|ALP:12 NAT:24|Includes Northern Territory member with restricted voting rights. Bruce succeeded Hughes on 9 February 1923, after coalition negotiations.
+1925-11-14|ALP:24 NAT:37 CP:14 OTH:1|NAT:18 CP:4|ALP:8 NAT:24 CP:4|Northern Territory polling was separately scheduled; national date used here.
+1928-11-17|ALP:32 NAT:29 CP:13 CPP:1 OTH:1|ALP:7 NAT:10 CP:2|ALP:7 NAT:25 CP:4|Northern Territory polled on 8 December.
+1929-10-12|ALP:47 NAT:14 CP:10 OTH:5|||House only. Northern Territory polled on 7 December. Five Other affiliations remain grouped by source.
+1931-12-19|ALP:15 UAP31:34 CP:16 LLAB:4 EC:6 OTH:1|ALP:3 UAP31:12 CP:3|ALP:10 UAP31:22 CP:4|Emergency Committee retained as separate source category.
+1934-09-15|ALP:18 UAP31:27 NAT:1 CP:12 ACP:2 LCL:5 LLAB:9 OTH:1|UAP31:14 CP:4|ALP:3 UAP31:26 CP:7|Northern Territory polled on 22 September. Historical state factions retained.
+1937-10-23|ALP:29 UAP31:28 CP:12 FCP:1 SCP:3 INDUAP:1 OTH:1|ALP:16 UAP31:3|ALP:16 UAP31:16 CP:4|Northern Territory polled on 30 October.
+1940-09-21|ALP:32 UAP31:23 CP:10 LCP:2 UCP:1 NCLAB:4 OTH:3|ALP:3 UAP31:13 CP:3|ALP:17 UAP31:16 CP:3|
+1943-08-21|ALP:49 UAP31:12 CP:8 LCL:1 CNP:1 QCP:1 OTH:3|ALP:19|ALP:22 UAP31:12 CP:2|
+1946-09-28|ALP:43 LIB:15 CP:12 LCL:2 LLAB:1 OTH:2|ALP:16 LIB:3|ALP:33 LIB:2 CP:1|
+1949-12-10|ALP:48 LIB:55 CP:19 OTH:1|ALP:19 LIB:19 CP:4|ALP:34 LIB:21 CP:5|Chamber expansion. Historical summary groupings include some state affiliates within Liberal/Country totals.
+1951-04-28|ALP:54 LIB:52 CP:17|ALP:28 LIB:26 CP:6|ALP:28 LIB:26 CP:6|Double dissolution.
+1954-05-29|ALP:59 LIB:47 CP:17|||House only.
+1955-12-10|ALP:49 LIB:57 CP:18|ALP:12 LIB:13 CP:4 DLP:1|ALP:28 LIB:24 CP:6 DLP:2|DLP label includes the source's Anti-Communist Labor category.
+1958-11-22|ALP:47 LIB:58 CP:19|ALP:15 LIB:13 CP:3 DLP:1|ALP:26 LIB:25 CP:7 DLP:2|
+1961-12-09|ALP:62 LIB:45 CP:17|ALP:14 LIB:12 CP:4 IND:1|ALP:28 LIB:24 CP:6 DLP:1 IND:1|Territory members' voting restrictions mean total seats are not a confidence-vote calculation.
+1963-11-30|ALP:52 LIB:52 CP:20|LIB:1|ALP:27 LIB:25 CP:6 DLP:1 IND:1|House general election plus one Queensland Senate casual-vacancy poll: Kenneth Morris (LIB) replaced George Whiteside (ALP). Senate delta ALP -1; LIB +1. Full Senate reconstructed from the 1961 benchmark and this transfer; review required.
+1966-11-26|ALP:41 LIB:61 CP:21 IND:1|LIB:3 CP:1 ALP:2|ALP:28 LIB:22 CP:7 DLP:2 IND:1|House general election plus six Senate casual-vacancy polls in NSW, Victoria, Queensland and WA. Net Senate delta LIB -1; ALP +1 (Laurie Wilkinson replaced Reg Withers in WA). Other five places retained by their parties. Full Senate uses the secondary special-election table.
+1969-10-25|ALP:59 LIB:46 CP:20|LIB:1 ALP:1|ALP:28 LIB:20 CP:7 DLP:4 IND:1|House general election plus Senate casual-vacancy polls in Victoria and SA. Ivor Greenwood (LIB) held Victoria; Don Cameron (ALP) defeated Martin Cameron (LIB) in SA. Net Senate delta LIB -1; ALP +1. Full Senate reconstructed from the 1967 benchmark and this transfer; review required.
+1972-12-02|ALP:67 LIB:38 CP:20|LIB:1||House general election plus Queensland Senate casual-vacancy poll: Neville Bonner (LIB) retained the seat. No Senate party transfer. Contemporary full Senate not independently verified; the 1970 benchmark is available separately. Hume supplementary poll occurred on this same day and is included in House totals.
+1974-05-18|ALP:66 LIB:40 CP:21|ALP:29 LIB:23 CP:6 LM:1 IND:1|ALP:29 LIB:23 CP:6 LM:1 IND:1|Double dissolution. Country summary incorporates some state-party labels.
+1975-12-13|ALP:36 LIB:68 NCP:22 CLP:1|ALP:27 LIB:27 NCP:7 CLP:1 LM:1 IND:1|ALP:27 LIB:27 NCP:7 CLP:1 LM:1 IND:1|Double dissolution; first territory senators. Fraser had already become PM on 11 November.
+1977-12-10|ALP:38 LIB:67 NCP:18 CLP:1|ALP:14 LIB:16 NCP:1 CLP:1 DEM:2|ALP:26 LIB:29 NCP:5 CLP:1 DEM:2 IND:1|
+1980-10-18|ALP:51 LIB:54 NCP:19 CLP:1|ALP:15 LIB:12 NCP:2 CLP:1 DEM:3 IND:1|ALP:27 LIB:27 NCP:3 CLP:1 DEM:5 IND:1|
+1983-03-05|ALP:75 LIB:33 NP:17|ALP:30 LIB:23 NP:4 CLP:1 DEM:5 IND:1|ALP:30 LIB:23 NP:4 CLP:1 DEM:5 IND:1|Double dissolution.
+1984-12-01|ALP:82 LIB:44 NP:21 CLP:1|ALP:20 LIB:16 NP:3 CLP:1 DEM:5 NDP:1|ALP:34 LIB:27 NP:5 CLP:1 DEM:7 NDP:1 IND:1|Senate expansion to 76. Full composition checked against Parliamentary Library table.
+1987-07-11|ALP:86 LIB:43 NP:19|ALP:32 LIB:27 NP:6 CLP:1 DEM:7 NDP:1 IND:2|ALP:32 LIB:27 NP:6 CLP:1 DEM:7 NDP:1 IND:2|Double dissolution.
+1990-03-24|ALP:78 LIB:55 NP:14 IND:1|ALP:15 LIB:16 NP:2 CLP:1 DEM:5 GRN:1|ALP:32 LIB:29 NP:4 CLP:1 DEM:8 GRN:1 IND:1|
+1993-03-13|ALP:80 LIB:49 NP:16 IND:2|ALP:17 LIB:15 NP:3 CLP:1 DEM:2 GRN:1 IND:1|ALP:30 LIB:30 NP:5 CLP:1 DEM:7 GRN:2 IND:1|House totals include the deferred Dickson poll held on 17 April. 
+1996-03-02|ALP:49 LIB:75 NP:18 CLP:1 IND:5|ALP:14 LIB:17 NP:2 CLP:1 DEM:5 GRN:1|ALP:29 LIB:31 NP:5 CLP:1 DEM:7 GRN:2 IND:1|
+1998-10-03|ALP:67 LIB:64 NP:16 IND:1|ALP:17 LIB:15 NP:1 CLP:1 DEM:4 ON:1 IND:1|ALP:29 LIB:31 NP:3 CLP:1 DEM:9 GRN:1 ON:1 IND:1|House totals include the deferred Newcastle poll held on 21 November. 
+2001-11-10|ALP:65 LIB:68 NP:13 CLP:1 IND:3|ALP:14 LIB:17 NP:2 CLP:1 DEM:4 GRN:2|ALP:28 LIB:31 NP:3 CLP:1 DEM:8 GRN:2 ON:1 IND:2|
+2004-10-09|ALP:60 LIB:74 NP:12 CLP:1 IND:3|ALP:16 LIB:17 NP:3 CLP:1 GRN:2 FFP:1|ALP:28 LIB:33 NP:5 CLP:1 DEM:4 GRN:4 FFP:1|
+2007-11-24|ALP:83 LIB:55 NP:10 IND:2|ALP:18 LIB:15 NP:2 CLP:1 GRN:3 IND:1|ALP:32 LIB:32 NP:4 CLP:1 GRN:5 FFP:1 IND:1|
+2010-08-21|ALP:72 LIB:44 LNP:21 NP:7 CLP:1 GRN:1 IND:4|ALP:15 LIB:14 NP:3 CLP:1 DLP:1 GRN:6|ALP:31 LIB:28 NP:5 CLP:1 GRN:9 DLP:1 IND:1|House uses AEC 2013 previous-election column (LNP separate). Senate uses Parliamentary Library caucus grouping: LNP folded into Liberal/National. Do not compare these labels as identical measures.
+2013-09-07|ALP:55 LIB:58 LNP:22 NP:9 CLP:1 GRN:1 KAP:1 PUP:1 IND:2|ALP:12 LIB:12 NP:1 LNP:3 CLP:1 GRN:4 PUP:2 LDP:1 FFP:1 AMEP:1 ASP:1 IND:1|ALP:25 LIB:23 NP:3 LNP:6 CLP:1 GRN:10 PUP:2 LDP:1 FFP:1 DLP:1 AMEP:1 ASP:1 IND:1|Original Senate recount return; six WA places later annulled. Full Senate is a superseded projection, not a chamber that took office. Use 2014 rerun for valid replacement outcome.
+2016-07-02|ALP:69 LIB:45 LNP:21 NP:10 GRN:1 NXT:1 KAP:1 IND:2|ALP:26 LIB:21 NP:3 LNP:5 CLP:1 GRN:9 ON:4 NXT:3 LDP:1 FFP:1 JLN:1 DHJP:1|ALP:26 LIB:21 NP:3 LNP:5 CLP:1 GRN:9 ON:4 NXT:3 LDP:1 FFP:1 JLN:1 DHJP:1|Double dissolution. Original elected returns; later section 44 disqualification recounts are not substituted. House verified against AEC 2019 previous-election column.
+2019-05-18|ALP:68 LIB:44 LNP:23 NP:10 GRN:1 CA:1 KAP:1 IND:3|ALP:13 LIB:14 NP:1 LNP:3 CLP:1 GRN:6 ON:1 JLN:1|ALP:26 LIB:26 NP:2 LNP:6 CLP:1 GRN:9 ON:2 CA:2 JLN:1 AC:1|Full Senate is an election-result projection at polling-date affiliation; Australian Conservatives deregistered before July. Not a live or July composition.
+2022-05-21|ALP:77 LIB:27 LNP:21 NP:10 GRN:4 CA:1 KAP:1 IND:10|ALP:15 LIB:10 NP:2 LNP:2 CLP:1 GRN:6 ON:1 UAP22:1 DP:1 JLN:1|ALP:26 LIB:23 NP:3 LNP:5 CLP:1 GRN:12 ON:2 JLN:2 UAP22:1 DP:1|Full Senate is the result projection including continuing senators, not a current-membership tally.
+2025-05-03|ALP:94 LIB:18 LNP:16 NP:9 GRN:1 CA:1 KAP:1 IND:10|ALP:16 LIB:10 LNP:2 CLP:1 GRN:6 ON:3 DP:1 JLN:1|ALP:28 LIB:20 NP:2 LNP:4 CLP:1 GRN:11 ON:4 JLN:1 UAP22:1 DP:1 AV:1 IND:2|Full Senate uses winners plus continuing senators at polling-date affiliation. Later defections (including Dorinda Cox) and party changes are excluded. This is not the current Senate.
+@senate_only
+date|house|senate_elected|senate_full|notes
+1953-05-09||ALP:17 LIB:13 CP:2|ALP:29 LIB:26 CP:5|Senate only.
+1964-12-05||ALP:14 LIB:11 CP:3 DLP:2|ALP:27 LIB:23 CP:7 DLP:2 IND:1|Senate only.
+1967-11-25||ALP:13 LIB:10 CP:4 DLP:2 IND:1|ALP:27 LIB:21 CP:7 DLP:4 IND:1|Senate only.
+1970-11-21||ALP:14 LIB:11 CP:2 DLP:3 IND:2|ALP:26 LIB:21 CP:5 DLP:5 IND:3|Senate only.
+@senate_rerun
+date|house|senate_elected|senate_full|notes
+2014-04-05||LIB:3 ALP:1 GRN:1 PUP:1|ALP:25 LIB:23 NP:3 LNP:6 CLP:1 GRN:10 PUP:3 LDP:1 FFP:1 DLP:1 AMEP:1 IND:1|WA only: six places replacing the annulled 2013 WA return. National full-chamber projection incorporates the other states' 2013 results. Do not add these six to the 2013 total of forty.
+@leadership
+date|office|person|party|note
+1901-01-01|PM|Edmund Barton|PROT|Initial appointment at Federation, before the first election.
+1903-09-24|PM|Alfred Deakin|PROT|
+1904-04-27|PM|Chris Watson|ALP|
+1904-08-18|PM|George Reid|FT|
+1905-07-05|PM|Alfred Deakin|PROT|
+1908-11-13|PM|Andrew Fisher|ALP|
+1909-06-02|PM|Alfred Deakin|CLIB|
+1910-04-29|PM|Andrew Fisher|ALP|
+1913-06-24|PM|Joseph Cook|CLIB|
+1914-09-17|PM|Andrew Fisher|ALP|
+1915-10-27|PM|Billy Hughes|ALP|Party shown at accession. Later National Labor and Nationalist affiliation changes did not change the PM's identity.
+1923-02-09|PM|Stanley Bruce|NAT|Government formation following the December 1922 election.
+1929-10-22|PM|James Scullin|ALP|
+1932-01-06|PM|Joseph Lyons|UAP31|
+1939-04-07|PM|Earle Page|CP|Caretaker appointment following Lyons's death.
+1939-04-26|PM|Robert Menzies|UAP31|
+1941-08-29|PM|Arthur Fadden|CP|
+1941-10-07|PM|John Curtin|ALP|
+1945-07-05|PM|| |Curtin died; substantive office vacant until Forde was sworn in on 6 July. Acting continuity is not counted as a substantive appointment.
+1945-07-06|PM|Frank Forde|ALP|NAA confirms 6 July, overriding an inconsistent 5 July in the secondary list.
+1945-07-13|PM|Ben Chifley|ALP|
+1949-12-19|PM|Robert Menzies|LIB|
+1966-01-26|PM|Harold Holt|LIB|
+1967-12-19|PM|John McEwen|CP|Caretaker appointment after Holt's disappearance. The death/presumption date is not substituted for the new appointment date.
+1968-01-10|PM|John Gorton|LIB|
+1968-01-10|DPM|John McEwen|CP|First holder of the formally created office. Earlier de facto deputies are outside this edition.
+1971-02-05|DPM|Doug Anthony|CP|
+1971-03-10|PM|William McMahon|LIB|
+1972-12-05|PM|Gough Whitlam|ALP|
+1972-12-05|DPM|Lance Barnard|ALP|
+1974-06-12|DPM|Jim Cairns|ALP|
+1975-07-02|DPM|||Office vacant after Cairns's dismissal.
+1975-07-14|DPM|Frank Crean|ALP|
+1975-11-11|PM|Malcolm Fraser|LIB|Appointed after Whitlam's dismissal; the election followed on 13 December.
+1975-11-11|DPM|||Office vacant during the initial change of government.
+1975-11-12|DPM|Doug Anthony|NCP|DPM appointment was the day after Fraser's PM appointment.
+1983-03-11|PM|Bob Hawke|ALP|
+1983-03-11|DPM|Lionel Bowen|ALP|
+1990-04-04|DPM|Paul Keating|ALP|
+1991-06-03|DPM|Brian Howe|ALP|
+1991-12-20|PM|Paul Keating|ALP|
+1995-06-20|DPM|Kim Beazley|ALP|
+1996-03-11|PM|John Howard|LIB|
+1996-03-11|DPM|Tim Fischer|NP|
+1999-07-20|DPM|John Anderson|NP|
+2005-07-06|DPM|Mark Vaile|NP|
+2007-12-03|PM|Kevin Rudd|ALP|
+2007-12-03|DPM|Julia Gillard|ALP|
+2010-06-24|PM|Julia Gillard|ALP|
+2010-06-24|DPM|Wayne Swan|ALP|
+2013-06-27|PM|Kevin Rudd|ALP|
+2013-06-27|DPM|Anthony Albanese|ALP|
+2013-09-18|PM|Tony Abbott|LIB|
+2013-09-18|DPM|Warren Truss|NP|
+2015-09-15|PM|Malcolm Turnbull|LIB|
+2016-02-18|DPM|Barnaby Joyce|NP|
+2017-10-27|DPM|||Office vacant following Joyce's disqualification.
+2017-12-06|DPM|Barnaby Joyce|NP|Reappointed after winning the New England by-election.
+2018-02-26|DPM|Michael McCormack|NP|
+2018-08-24|PM|Scott Morrison|LIB|
+2021-06-22|DPM|Barnaby Joyce|NP|
+2022-05-23|PM|Anthony Albanese|ALP|Incumbency checked against the official ministry on 6 October 2026.
+2022-05-23|DPM|Richard Marles|ALP|Incumbency checked against the official ministry on 6 October 2026.
+@by_elections
+date|division|before|after|outgoing|incoming|note
+2026-05-09|Farrer|LIB|ON|Sussan Ley|David Farley|AEC declaration 28 May 2026.
+2024-04-13|Cook|LIB|LIB|Scott Morrison|Simon Kennedy|
+2024-03-02|Dunkley|ALP|ALP|Peta Murphy|Jodie Belyea|
+2023-07-15|Fadden|LNP|LNP|Stuart Robert|Cameron Caldwell|
+2023-04-01|Aston|LIB|ALP|Alan Tudge|Mary Doyle|
+2020-11-28|Groom|LNP|LNP|John McVeigh|Garth Hamilton|
+2020-07-04|Eden-Monaro|ALP|ALP|Mike Kelly|Kristy McBain|
+2018-10-20|Wentworth|LIB|IND|Malcolm Turnbull|Kerryn Phelps|
+2018-07-28|Braddon|ALP|ALP|Justine Keay|Justine Keay|Section 44 resignation.
+2018-07-28|Fremantle|ALP|ALP|Josh Wilson|Josh Wilson|Section 44 resignation.
+2018-07-28|Longman|ALP|ALP|Susan Lamb|Susan Lamb|Section 44 resignation.
+2018-07-28|Mayo|CA|CA|Rebekha Sharkie|Rebekha Sharkie|AEC lists CA (XEN); party renamed before the vacancy. No seat transfer between parties.
+2018-07-28|Perth|ALP|ALP|Tim Hammond|Patrick Gorman|
+2018-03-17|Batman|ALP|ALP|David Feeney|Ged Kearney|Section 44 resignation.
+2017-12-16|Bennelong|LIB|LIB|John Alexander|John Alexander|Section 44 resignation.
+2017-12-02|New England|NP|NP|Barnaby Joyce|Barnaby Joyce|Section 44 disqualification.
+2015-12-05|North Sydney|LIB|LIB|Joe Hockey|Trent Zimmerman|
+2015-09-19|Canning|LIB|LIB|Don Randall|Andrew Hastie|
+2014-02-08|Griffith|ALP|ALP|Kevin Rudd|Terri Butler|
+2009-12-05|Higgins|LIB|LIB|Peter Costello|Kelly O'Dwyer|
+2009-12-05|Bradfield|LIB|LIB|Brendan Nelson|Paul Fletcher|
+2008-09-06|Lyne|NP|IND|Mark Vaile|Rob Oakeshott|
+2008-09-06|Mayo|LIB|LIB|Alexander Downer|Jamie Briggs|
+2008-06-28|Gippsland|NP|NP|Peter McGauran|Darren Chester|
+2005-03-19|Werriwa|ALP|ALP|Mark Latham|Chris Hayes|
+2002-10-19|Cunningham|ALP|GRN|Stephen Martin|Michael Organ|
+2001-07-14|Aston|LIB|LIB|Peter Nugent|Chris Pearce|
+2001-03-17|Ryan|LIB|ALP|John Moore|Leonie Short|
+2000-08-12|Isaacs|ALP|ALP|Greg Wilton|Ann Corcoran|
+1999-11-06|Holt|ALP|ALP|Gareth Evans|Anthony Byrne|
+1997-02-01|Fraser|ALP|ALP|John Langmore|Steve Dargavel|
+1996-10-19|Lindsay|LIB|LIB|Jackie Kelly|Jackie Kelly|Original election void for ineligibility.
+1996-06-15|Blaxland|ALP|ALP|Paul Keating|Michael Hatton|
+1995-04-08|Wentworth|LIB|LIB|John Hewson|Andrew Thomson|
+1995-03-25|Canberra|ALP|LIB|Ros Kelly|Brendan Smyth|
+1994-11-19|Kooyong|LIB|LIB|Andrew Peacock|Petro Georgiou|
+1994-03-26|Mackellar|LIB|LIB|Jim Carlton|Bronwyn Bishop|
+1994-03-26|Warringah|LIB|LIB|Michael MacKellar|Tony Abbott|
+1994-03-19|Bonython|ALP|ALP|Neal Blewett|Martyn Evans|
+1994-03-12|Fremantle|ALP|ALP|John Dawkins|Carmen Lawrence|
+1994-01-29|Werriwa|ALP|ALP|John Kerin|Mark Latham|
+1992-04-11|Wills|ALP|IND|Bob Hawke|Phil Cleary|Result subsequently annulled; initial return shown, not an enduring seat allocation.
+1991-05-11|Menzies|LIB|LIB|Neil Brown|Kevin Andrews|
+1989-04-15|Gwydir|NP|NP|Ralph Hunt|John Anderson|
+1988-10-08|Oxley|ALP|ALP|Bill Hayden|Les Scott|
+1988-04-09|Groom|NP|LIB|Tom McVeigh|Bill Taylor|Transfer within the usual Coalition grouping, not an opposition gain.
+1988-03-26|Port Adelaide|ALP|ALP|Mick Young|Rod Sawford|
+1988-02-06|Adelaide|ALP|LIB|Chris Hurford|Mike Pratt|
+1986-02-08|Scullin|ALP|ALP|Harry Jenkins Sr|Harry Jenkins|
+1984-02-18|Corangamite|LIB|LIB|Tony Street|Stewart McArthur|
+1984-02-18|Hughes|ALP|ALP|Les Johnson|Robert Tickner|
+1984-02-18|Richmond|NP|NP|Doug Anthony|Charles Blunt|
+1983-11-05|Moreton|LIB|LIB|James Killen|Don Cameron|
+1983-05-28|Bruce|LIB|LIB|Billy Snedden|Ken Aldred|
+1983-05-07|Wannon|LIB|LIB|Malcolm Fraser|David Hawker|
+1982-12-04|Flinders|LIB|LIB|Phillip Lynch|Peter Reith|
+1982-03-13|Lowe|LIB|ALP|William McMahon|Michael Maher|
+1981-04-11|Wentworth|LIB|LIB|Bob Ellicott|Peter Coleman|
+1981-02-21|Boothby|LIB|LIB|John McLeay|Steele Hall|
+1981-02-21|Curtin|LIB|LIB|Victor Garland|Allan Rocher|
+1981-02-21|McPherson|LIB|LIB|Eric Robinson|Peter White|
+1979-06-23|Grayndler|ALP|ALP|Frank Stewart|Leo McLeay|
+1978-09-23|Werriwa|ALP|ALP|Gough Whitlam|John Kerin|
+1977-10-15|Cunningham|ALP|ALP|Rex Connor|Stewart West|15 October per AEC; secondary list's 25 October is not used.
+1975-06-28|Bass|ALP|LIB|Lance Barnard|Kevin Newman|
+1973-09-22|Parramatta|LIB|LIB|Nigel Bowen|Philip Ruddock|
+1971-03-20|Murray|CP|CP|John McEwen|Bruce Lloyd|
+1970-09-19|Chisholm|LIB|LIB|Wilfrid Kent Hughes|Tony Staley|
+1970-05-30|Australian Capital Territory|ALP|ALP|Jim Fraser|Kep Enderby|
+1969-06-07|Bendigo|ALP|ALP|Noel Beaton|David Kennedy|
+1969-06-07|Gwydir|CP|CP|Ian Allan|Ralph Hunt|
+1969-04-19|Curtin|LIB|LIB|Paul Hasluck|Victor Garland|
+1968-02-24|Higgins|LIB|LIB|Harold Holt|John Gorton|
+1967-09-30|Capricornia|ALP|ALP|George Gray|Doug Everingham|
+1967-07-22|Corio|LIB|ALP|Hubert Opperman|Gordon Scholes|
+1966-04-02|Kooyong|LIB|LIB|Robert Menzies|Andrew Peacock|
+1966-02-26|Dawson|CP|ALP|George Shaw|Rex Patterson|
+1965-02-27|Riverina|CP|CP|Hugh Roberton|Bill Armstrong|
+1964-12-05|Robertson|LIB|LIB|Roger Dean|William Bridges-Maxwell|
+1964-06-20|Angas|LIB|LIB|Alick Downer|Geoffrey Giles|
+1964-06-20|Parramatta|LIB|LIB|Garfield Barwick|Nigel Bowen|
+1964-02-15|Denison|LIB|LIB|Athol Townley|Adrian Gibson|
+1963-09-28|East Sydney|ALP|ALP|Eddie Ward|Len Devine|
+1963-06-01|Grey|ALP|ALP|Edgar Russell|Jack Mortimer|
+1962-09-01|Batman|ALP|ALP|Alan Bird|Sam Benson|
+1960-12-10|Higinbotham|LIB|LIB|Frank Timson|Don Chipp|
+1960-11-05|Calare|LIB|CP|John Howse|John England|Transfer within the usual Coalition grouping.
+1960-07-16|Balaclava|LIB|LIB|Percy Joske|Ray Whittorn|
+1960-07-16|Bendigo|ALP|ALP|Percy Clarey|Noel Beaton|
+1960-04-09|Hunter|ALP|ALP|H V Evatt|Bert James|
+1960-04-09|La Trobe|LIB|LIB|Richard Casey|John Jess|
+1958-03-08|Parramatta|LIB|LIB|Howard Beale|Garfield Barwick|
+1957-09-14|Richmond|CP|CP|Larry Anthony|Doug Anthony|14 September per AEC; secondary list's 15 September is not used.
+1956-12-08|Wentworth|LIB|LIB|Eric Harrison|Les Bury|
+1956-10-13|Barker|LIB|LIB|Archie Cameron|Jim Forbes|
+1956-04-11|Cunningham|ALP|ALP|Billy Davies|Victor Kearney|Unopposed return 11 April; AEC scheduled poll 28 April. No ballot held.
+1955-05-21|Cook|ALP|ALP|Tom Sheehan|Jim Cope|
+1953-12-19|Gwydir|CP|CP|Thomas Treloar|Ian Allan|
+1953-08-29|Corangamite|LIB|LIB|Allan McDonald|Dan Mackinnon|
+1953-08-29|Lang|ALP|ALP|Dan Mulcahy|Frank Stewart|
+1953-05-09|Dalley|ALP|ALP|Sol Rosevear|Arthur Greenup|
+1952-12-20|Bradfield|LIB|LIB|Billy Hughes|Harry Turner|
+1952-11-29|Werriwa|ALP|ALP|Bert Lazzarini|Gough Whitlam|
+1952-10-18|Flinders|LIB|ALP|Rupert Ryan|Keith Ewert|
+1952-03-22|Lyne|CP|CP|Jim Eggins|Philip Lucock|
+1951-07-28|Balaclava|LIB|LIB|Thomas White|Percy Joske|
+1951-07-28|Macquarie|ALP|ALP|Ben Chifley|Tony Luchetti|
+1946-03-30|Henty|IND|LIB|Arthur Coles|Jo Gullett|
+1946-02-09|Wimmera|IND|CP|Alexander Wilson|Winton Turnbull|AEC groups CP (CP); departing Wilson was independent Country. Before-vacancy affiliation follows BY_DETAIL; discrepancy requires review.
+1945-08-18|Fremantle|ALP|ALP|John Curtin|Kim Beazley|
+1941-05-24|Boothby|UAP31|UAP31|John Price|Grenfell Price|
+1940-12-21|Swan|CP|CP|Henry Gregory|Thomas Marwick|
+1940-11-16|Kalgoorlie|ALP|ALP|Albert Green|Herbert Johnson|
+1940-03-02|Corio|UAP31|ALP|Richard Casey|John Dedman|
+1939-05-27|Wilmot|UAP31|ALP|Joseph Lyons|Lancelot Spurr|
+1939-05-20|Griffith|ALP|ALP|Frank Baker|William Conelan|AEC's FLP previous label is Federal Labor, not a separate party transfer here.
+1938-12-10|Wakefield|UAP31|ALP|Charles Hawker|Sydney McHugh|
+1937-05-08|Gwydir|CP|ALP|Aubrey Abbott|William Scully|
+1936-12-19|Darling Downs|UAP31|CP|Littleton Groom|Arthur Fadden|
+1936-12-12|Kennedy|ALP|ALP|Darby Riordan|Bill Riordan|
+1935-08-17|Fawkner|UAP31|UAP31|George Maxwell|Harold Holt|
+1935-06-01|Newcastle|ALP|ALP|David Watkins|David Watkins|
+1933-11-11|Flinders|UAP31|UAP31|Stanley Bruce|James Fairbairn|
+1932-02-06|East Sydney|UAP31|LLAB|John Clasby|Eddie Ward|
+1931-03-07|East Sydney|ALP|ALP|John West|Eddie Ward|
+1931-01-31|Parkes|ALP|NAT|Edward McTiernan|Charles Marr|
+1929-12-14|Franklin|IND|ALP|William McWilliams|Charles Frost|
+1929-08-03|Balaclava|NAT|NAT|William Watt|Thomas White|
+1928-09-03|Wide Bay|NAT|CP|Edward Corser|Bernard Corser|Unopposed return 3 September; AEC scheduled poll 22 September. No ballot held.
+1928-06-16|Martin|NAT|NAT|Herbert Pratten|Graham Pratten|
+1927-05-21|Warringah|NAT|NAT|Granville Ryrie|Archdale Parkhill|
+1927-02-26|Dalley|ALP|ALP|William Mahony|Ted Theodore|
+1926-03-06|Eden-Monaro|NAT|NAT|Austin Chapman|John Perkins|
+1922-02-18|Yarra|ALP|ALP|Frank Tudor|James Scullin|
+1921-12-10|Parramatta|NAT|NAT|Joseph Cook|Herbert Pratten|
+1921-09-03|West Sydney|ALP|ALP|T J Ryan|William Lambert|
+1921-07-30|Maranoa|ALP|CP|Jim Page|James Hunter|
+1920-12-18|Kalgoorlie|ALP|NAT|Hugh Mahon|George Foley|Following Mahon's expulsion from the House.
+1920-07-10|Ballaarat|NAT|ALP|Edwin Kerby|Charles McGrath|Original election void.
+1919-09-20|Echuca|NAT|VFU|Albert Palmer|William Hill|
+1918-12-14|Corangamite|NAT|VFU|Chester Manifold|William Gibson|
+1918-10-26|Swan|NAT|ALP|John Forrest|Edwin Corboy|
+1918-05-11|Flinders|NAT|NAT|William Irvine|Stanley Bruce|
+1917-10-27|Grampians|NAT|NAT|Carty Salmon|Edmund Jowett|AEC lists NAT (LIB). The party merger preceded the vacancy; no by-election party transfer under the before-vacancy convention.
+1917-06-30|Darwin|NAT|NAT|Charles Howroyd|William Spence|
+1915-12-11|Wide Bay|ALP|CLIB|Andrew Fisher|Edward Corser|
+1915-05-06|Dalley|ALP|ALP|Robert Howe|William Mahony|Unopposed return 6 May; AEC scheduled poll 15 May. No ballot held.
+1915-02-20|Grampians|ALP|CLIB|Edward Jolley|Carty Salmon|
+1915-02-06|Bendigo|ALP|ALP|John Arthur|Alfred Hampson|
+1914-01-10|Adelaide|ALP|ALP|Ernest Roberts|George Edwin Yates|
+1913-12-22|Kalgoorlie|ALP|ALP|Charlie Frazer|Hugh Mahon|Unopposed return 22 December 1913; AEC scheduled poll 17 January 1914. No ballot held.
+1912-06-01|Werriwa|ALP|ALP|David Hall|Benjamin Bennett|
+1911-11-11|Boothby|ALP|CLIB|Lee Batchelor|David Gordon|
+1911-03-11|North Sydney|CLIB|CLIB|George Edwards|Granville Ryrie|
+1911-02-08|Batman|ALP|ALP|Henry Beard|Frank Brennan|
+1910-08-24|Kooyong|CLIB|CLIB|William Knox|Robert Best|
+1909-08-28|Wakefield|IND|CLIB|Frederick Holder|Richard Foster|AEC groups Anti-Socialist (Anti-Socialist). Before-vacancy and winner affiliations follow BY_DETAIL; discrepancy requires review.
+1908-06-13|Adelaide|PROT|ALP|Charles Kingston|Ernest Roberts|
+1907-07-10|Echuca|AS|AS|Albert Palmer|Albert Palmer|Original election void. AEC labels PROT (PROT), conflicting with BY_DETAIL's Anti-Socialist affiliation; requires review.
+1904-05-18|Riverina|FT|PROT|Robert Blackwood|John Chanter|Original election void.
+1904-03-30|Melbourne|PROT|ALP|Malcolm McEacharn|William Maloney|Original election void.
+1904-02-26|Wilmot|FT|FT|Edward Braddon|Norman Cameron|
+1903-09-04|East Sydney|FT|FT|George Reid|George Reid|
+1902-03-26|Tasmania|FT|FT|Frederick Piesse|William Hartnoll|
+1901-09-14|Darling Downs|PROT|PROT|William Henry Groom|Littleton Groom|
+@senate_special
+date|house|senate_elected|senate_full|notes
+1908-02-15||AS:1||South Australian supplementary Senate poll: Joseph Vardon won. Restored the party of the original 1906 winner after that return and James O'Loghlin's intervening Labor appointment were voided. Not a normal casual-vacancy appointment. Full chamber on this date not independently verified.
+@supplementary
+date|division|general_id|note
+1972-12-02|Hume|general-1972|Supplementary poll on the general-election date; included in its aggregate House results. Not an additional seat.
+1993-04-17|Dickson|general-1993|Deferred poll completing the general election; already included in the aggregate House result. Not an additional seat or a by-election.
+1998-11-21|Newcastle|general-1998|Deferred poll completing the general election; already included in the aggregate House result. Not an additional seat or a by-election.
