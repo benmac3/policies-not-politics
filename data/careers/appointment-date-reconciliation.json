@@ -1,0 +1,3386 @@
+{
+  "version": 1,
+  "checked": "2026-10-15",
+  "method": "Date-only reconciliation from public search-index excerpts. Direct profile retrieval was unavailable; no access controls bypassed.",
+  "coverage": {
+    "attributable_personal_profiles_reviewed": 174,
+    "existing_occupational_records_considered": 2349,
+    "employer_specific_queries": 1438,
+    "note": "Includes governance and elected appointments returned incidentally; study and unbound date lists not accepted. Supplementary role searches also performed.",
+    "profile_scope_person_ids": [
+      "R36",
+      "11788",
+      "298839",
+      "13050",
+      "315618",
+      "290544",
+      "16913",
+      "315478",
+      "282981",
+      "309484",
+      "23497",
+      "288713",
+      "25813",
+      "26417",
+      "299498",
+      "256063",
+      "263427",
+      "30484",
+      "F49",
+      "230531",
+      "DYW",
+      "300129",
+      "HWK",
+      "299145",
+      "300134",
+      "245212",
+      "I0M",
+      "316312",
+      "264449",
+      "300006",
+      "I8M",
+      "IPZ",
+      "281503",
+      "HWL",
+      "316101",
+      "312323",
+      "263547",
+      "00AOL",
+      "297964",
+      "HWM",
+      "279991",
+      "249127",
+      "316537",
+      "312871",
+      "296215",
+      "301128",
+      "53517",
+      "316935",
+      "55842",
+      "299962",
+      "HWG",
+      "62329",
+      "I0N",
+      "250362",
+      "316550",
+      "ING",
+      "295588",
+      "324140",
+      "261393",
+      "DZY",
+      "257613",
+      "243609",
+      "74519",
+      "245392",
+      "259819",
+      "315154",
+      "296331",
+      "282335",
+      "I0U",
+      "260805",
+      "ZN4",
+      "86256",
+      "218019",
+      "266499",
+      "91219",
+      "298574",
+      "LTU",
+      "267506",
+      "249147",
+      "101351",
+      "00AMR",
+      "102376",
+      "306168",
+      "250026",
+      "249764",
+      "299150",
+      "299174",
+      "295676",
+      "109556",
+      "BU8",
+      "300644",
+      "300130",
+      "112096",
+      "265585",
+      "HWQ",
+      "298800",
+      "121628",
+      "281988",
+      "248353",
+      "122087",
+      "219646",
+      "123072",
+      "217241",
+      "281513",
+      "207825",
+      "JKM",
+      "287062",
+      "296272",
+      "M3E",
+      "277110",
+      "132880",
+      "263528",
+      "138932",
+      "140590",
+      "140651",
+      "283585",
+      "240756",
+      "144138",
+      "144732",
+      "248895",
+      "147140",
+      "83M",
+      "249308",
+      "300122",
+      "316547",
+      "298840",
+      "HWA",
+      "157125",
+      "159771",
+      "243273",
+      "297660",
+      "299623",
+      "282997",
+      "F2S",
+      "265980",
+      "274506",
+      "168275",
+      "169119",
+      "276714",
+      "241710",
+      "281603",
+      "312393",
+      "286042",
+      "265990",
+      "250156",
+      "175696",
+      "299352",
+      "264170",
+      "231027",
+      "314526",
+      "210911",
+      "182468",
+      "282212",
+      "300639",
+      "315434",
+      "300147",
+      "316818",
+      "265967",
+      "252157",
+      "245759",
+      "193430",
+      "281688",
+      "264121",
+      "224102",
+      "316555",
+      "286535",
+      "265970",
+      "198084",
+      "IMW",
+      "316660",
+      "00AOU",
+      "E0F",
+      "201906",
+      "HWB"
+    ]
+  },
+  "matches": [
+    {
+      "person_id": "11788",
+      "spell_id": "11788-18",
+      "source_record_commit": "31611291763edffc33e09aa2aae4443aecfab83d",
+      "expected": {
+        "employer": "Lifeline Gippsland",
+        "role": "Board member",
+        "start_date": "2010",
+        "end_date": "2013",
+        "date_precision": "year"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment date range; matched to existing record, without adding profile attributes.",
+      "match_note": "Existing employer/role and date-period context reviewed. No internal promotion boundary inferred.",
+      "indexed_dates": {
+        "start_date": "2010",
+        "end_date": "2013",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "290544",
+      "spell_id": "290544-04",
+      "source_record_commit": "31611291763edffc33e09aa2aae4443aecfab83d",
+      "expected": {
+        "employer": "JAMA Network Open",
+        "role": "Statistical and methods reviewer",
+        "start_date": "2019-07",
+        "end_date": "2022-08",
+        "date_precision": "month"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment date range; matched to existing record, without adding profile attributes.",
+      "match_note": "Existing employer/role and date-period context reviewed. No internal promotion boundary inferred.",
+      "indexed_dates": {
+        "start_date": "2019-07",
+        "end_date": "2022-08",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "282981",
+      "spell_id": "282981-09",
+      "source_record_commit": "d4ae396843b45759a983079271bba2bd52aa6294",
+      "expected": {
+        "employer": "Paint Place Group of Stores / Paint Place Group Limited — contracting entity to confirm",
+        "role": "National business development manager",
+        "start_date": "2015-01",
+        "end_date": "2018-10",
+        "date_precision": "month"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment date range; matched to existing record, without adding profile attributes.",
+      "match_note": "Existing employer/role and date-period context reviewed. No internal promotion boundary inferred.",
+      "indexed_dates": {
+        "start_date": "2015-01",
+        "end_date": "2018-10",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "309484",
+      "spell_id": "309484-03",
+      "source_record_commit": "31611291763edffc33e09aa2aae4443aecfab83d",
+      "expected": {
+        "employer": "Anglicare Victoria",
+        "role": "Partnerships coordinator",
+        "start_date": "2015",
+        "end_date": "2017",
+        "date_precision": "year"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment date range; matched to existing record, without adding profile attributes.",
+      "match_note": "Existing employer/role and date-period context reviewed. No internal promotion boundary inferred.",
+      "indexed_dates": {
+        "start_date": "2015-09",
+        "end_date": "2017-07",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "23497",
+      "spell_id": "23497-ombudsman",
+      "source_record_commit": "4e867a2390078558e215c1412c084c783dd21ca8",
+      "expected": {
+        "employer": "NSW Ombudsman",
+        "role": "Principal Project Officer, Practice Reform, Disability Reportable Incidents Division; disability-sector oversight",
+        "start_date": "2013-12",
+        "end_date": "2018-03",
+        "date_precision": "month"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment date range; matched to existing record, without adding profile attributes.",
+      "match_note": "Existing employer/role and date-period context reviewed. No internal promotion boundary inferred.",
+      "indexed_dates": {
+        "start_date": "2013-12",
+        "end_date": "2018-03",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "288713",
+      "spell_id": "288713-01",
+      "source_record_commit": "31611291763edffc33e09aa2aae4443aecfab83d",
+      "expected": {
+        "employer": "Wayne Skinner Rural Supplies Pty Ltd / Croptec",
+        "role": "Agronomist",
+        "start_date": "2002-02",
+        "end_date": "2008-09",
+        "date_precision": "month"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment date range; matched to existing record, without adding profile attributes.",
+      "match_note": "Existing employer/role and date-period context reviewed. No internal promotion boundary inferred.",
+      "indexed_dates": {
+        "start_date": "2002-01",
+        "end_date": "2008-08",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "288713",
+      "spell_id": "288713-04",
+      "source_record_commit": "31611291763edffc33e09aa2aae4443aecfab83d",
+      "expected": {
+        "employer": "Committee for Greater Shepparton",
+        "role": "Chief executive officer",
+        "start_date": "2016-03-01",
+        "end_date": "2021-12-24",
+        "date_precision": "day"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment date range; matched to existing record, without adding profile attributes.",
+      "match_note": "Existing employer/role and date-period context reviewed. No internal promotion boundary inferred.",
+      "indexed_dates": {
+        "start_date": "2016-03",
+        "end_date": "2022-01",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "25813",
+      "spell_id": "25813-03",
+      "source_record_commit": "c32069c4484d7e33ad992b685a4b51292b29021c",
+      "expected": {
+        "employer": "Wilmoth Field Warne Lawyers",
+        "role": "Commercial lawyer",
+        "start_date": "2003",
+        "end_date": "2005",
+        "date_precision": "year"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment date range; matched to existing record, without adding profile attributes.",
+      "match_note": "Existing employer/role and date-period context reviewed. No internal promotion boundary inferred.",
+      "indexed_dates": {
+        "start_date": "2003",
+        "end_date": "2005",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "25813",
+      "spell_id": "25813-09",
+      "source_record_commit": "c32069c4484d7e33ad992b685a4b51292b29021c",
+      "expected": {
+        "employer": "Architects Registration Board of Victoria",
+        "role": "Board member, Consumer Affairs nominee",
+        "start_date": "2006-09",
+        "end_date": "2012-06-30",
+        "date_precision": "mixed"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment date range; matched to existing record, without adding profile attributes.",
+      "match_note": "Existing employer/role and date-period context reviewed. No internal promotion boundary inferred.",
+      "indexed_dates": {
+        "start_date": "2006",
+        "end_date": "2012",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "25813",
+      "spell_id": "25813-13",
+      "source_record_commit": "c32069c4484d7e33ad992b685a4b51292b29021c",
+      "expected": {
+        "employer": "Community Care Tasmania",
+        "role": "Board member",
+        "start_date": "2017-09",
+        "end_date": null,
+        "date_precision": "month"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment date range; matched to existing record, without adding profile attributes.",
+      "match_note": "Existing employer/role and date-period context reviewed. No internal promotion boundary inferred.",
+      "indexed_dates": {
+        "start_date": "2017",
+        "end_date": null,
+        "end_label": "Present"
+      }
+    },
+    {
+      "person_id": "256063",
+      "spell_id": "256063-candidate",
+      "source_record_commit": "4e867a2390078558e215c1412c084c783dd21ca8",
+      "expected": {
+        "employer": "Liberal Party of Australia / Senate campaign (payroll entity unresolved)",
+        "role": "Endorsed Liberal candidate for the Senate",
+        "start_date": "2018-12",
+        "end_date": "2019-07",
+        "date_precision": "month"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment date range; matched to existing record, without adding profile attributes.",
+      "match_note": "Existing employer/role and date-period context reviewed. No internal promotion boundary inferred.",
+      "indexed_dates": {
+        "start_date": "2018-12",
+        "end_date": "2019-07",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "256063",
+      "spell_id": "256063-woolworths",
+      "source_record_commit": "4e867a2390078558e215c1412c084c783dd21ca8",
+      "expected": {
+        "employer": "Woolworths Limited",
+        "role": "Management traineeship",
+        "start_date": "2002-02",
+        "end_date": "2003-02",
+        "date_precision": "month"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment date range; matched to existing record, without adding profile attributes.",
+      "match_note": "Existing employer/role and date-period context reviewed. No internal promotion boundary inferred.",
+      "indexed_dates": {
+        "start_date": "2002-02",
+        "end_date": "2003-02",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "30484",
+      "spell_id": "30484-08",
+      "source_record_commit": "e5a302c8ab0ea2d437c9f6b8d75dcb6e576a6285",
+      "expected": {
+        "employer": "Ideas Department",
+        "role": "Operations and general manager",
+        "start_date": "1996",
+        "end_date": "1998",
+        "date_precision": "year"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment date range; matched to existing record, without adding profile attributes.",
+      "match_note": "Existing employer/role and date-period context reviewed. No internal promotion boundary inferred.",
+      "indexed_dates": {
+        "start_date": "1996",
+        "end_date": "1998",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "00AOL",
+      "spell_id": "00AOL-12",
+      "source_record_commit": "c32069c4484d7e33ad992b685a4b51292b29021c",
+      "expected": {
+        "employer": "Australian Senate",
+        "role": "Senator for Tasmania, first service period",
+        "start_date": "2002-02-04",
+        "end_date": "2016-07-02",
+        "date_precision": "day"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment date range; matched to existing record, without adding profile attributes.",
+      "match_note": "Existing employer/role and date-period context reviewed. No internal promotion boundary inferred.",
+      "indexed_dates": {
+        "start_date": "2002",
+        "end_date": "2016-07",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "HWM",
+      "spell_id": "HWM-13",
+      "source_record_commit": "c32069c4484d7e33ad992b685a4b51292b29021c",
+      "expected": {
+        "employer": "Australian Labor Party (Tasmania)",
+        "role": "State secretary",
+        "start_date": "2006",
+        "end_date": "2007",
+        "date_precision": "year"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment date range; matched to existing record, without adding profile attributes.",
+      "match_note": "Existing employer/role and date-period context reviewed. No internal promotion boundary inferred.",
+      "indexed_dates": {
+        "start_date": "2006-02",
+        "end_date": "2007-11",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "245392",
+      "spell_id": "245392-03",
+      "source_record_commit": "0beffcb5d27fa831de3f51227a86ab994ba1d3c3",
+      "expected": {
+        "employer": "Australian Army, Timor-Leste",
+        "role": "Military officer",
+        "start_date": "2005",
+        "end_date": "2008",
+        "date_precision": "year"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment date range; matched to existing record, without adding profile attributes.",
+      "match_note": "Existing employer/role and date-period context reviewed. No internal promotion boundary inferred.",
+      "indexed_dates": {
+        "start_date": "2005",
+        "end_date": "2008",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "267506",
+      "spell_id": "267506-clayton-utz",
+      "source_record_commit": "c4c5a071208baffdff72af19c96e735c29a692a3",
+      "expected": {
+        "employer": "Clayton Utz",
+        "role": "Paralegal / graduate lawyer specialising in mergers and acquisitions",
+        "start_date": "2005-12",
+        "end_date": "2007-05",
+        "date_precision": "month"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment date range; matched to existing record, without adding profile attributes.",
+      "match_note": "Existing employer/role and date-period context reviewed. No internal promotion boundary inferred.",
+      "indexed_dates": {
+        "start_date": "2005-12",
+        "end_date": "2007-05",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "249147",
+      "spell_id": "249147-01",
+      "source_record_commit": "e5a302c8ab0ea2d437c9f6b8d75dcb6e576a6285",
+      "expected": {
+        "employer": "iiNet",
+        "role": "Senior customer service officer",
+        "start_date": "2000",
+        "end_date": "2002",
+        "date_precision": "year"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment date range; matched to existing record, without adding profile attributes.",
+      "match_note": "Existing employer/role and date-period context reviewed. No internal promotion boundary inferred.",
+      "indexed_dates": {
+        "start_date": "2000",
+        "end_date": "2002",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "299174",
+      "spell_id": "299174-family-business",
+      "source_record_commit": "c4c5a071208baffdff72af19c96e735c29a692a3",
+      "expected": {
+        "employer": "Laxale's Hair & Beauty Supplies Pty Ltd",
+        "role": "General Manager and Director",
+        "start_date": "2004-11",
+        "end_date": "2017-11",
+        "date_precision": "month"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment date range; matched to existing record, without adding profile attributes.",
+      "match_note": "Existing employer/role and date-period context reviewed. No internal promotion boundary inferred.",
+      "indexed_dates": {
+        "start_date": "2004-11",
+        "end_date": "2017-11",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "300130",
+      "spell_id": "300130-01",
+      "source_record_commit": "e5a302c8ab0ea2d437c9f6b8d75dcb6e576a6285",
+      "expected": {
+        "employer": "Royal Malaysia Police",
+        "role": "Police constable",
+        "start_date": "1980",
+        "end_date": "1981",
+        "date_precision": "year"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment date range; matched to existing record, without adding profile attributes.",
+      "match_note": "Existing employer/role and date-period context reviewed. No internal promotion boundary inferred.",
+      "indexed_dates": {
+        "start_date": "1980-06",
+        "end_date": "1981-12",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "219646",
+      "spell_id": "219646-riverina-group-editor",
+      "source_record_commit": "c4c5a071208baffdff72af19c96e735c29a692a3",
+      "expected": {
+        "employer": "Riverina Media Group",
+        "role": "Group Editor",
+        "start_date": "1996",
+        "end_date": "2002-02",
+        "date_precision": "mixed"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment date range; matched to existing record, without adding profile attributes.",
+      "match_note": "Existing employer/role and date-period context reviewed. No internal promotion boundary inferred.",
+      "indexed_dates": {
+        "start_date": "1996",
+        "end_date": "2002",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "219646",
+      "spell_id": "219646-daily-editor",
+      "source_record_commit": "c4c5a071208baffdff72af19c96e735c29a692a3",
+      "expected": {
+        "employer": "The Daily Advertiser / Riverina Media Group",
+        "role": "Editor",
+        "start_date": "1992-03-01",
+        "end_date": "2002-02",
+        "date_precision": "mixed"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment date range; matched to existing record, without adding profile attributes.",
+      "match_note": "Existing employer/role and date-period context reviewed. No internal promotion boundary inferred.",
+      "indexed_dates": {
+        "start_date": "1992",
+        "end_date": "2002",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "207825",
+      "spell_id": "207825-04",
+      "source_record_commit": "225891e6ceffde053b0322105d63966be45021ea",
+      "expected": {
+        "employer": "Monash University, Faculty of Education, Gippsland campus",
+        "role": "Lecturer; professional-experience unit coordinator",
+        "start_date": "2009",
+        "end_date": "2010",
+        "date_precision": "year"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment date range; matched to existing record, without adding profile attributes.",
+      "match_note": "Existing employer/role and date-period context reviewed. No internal promotion boundary inferred.",
+      "indexed_dates": {
+        "start_date": "2008",
+        "end_date": "2010",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "263528",
+      "spell_id": "263528-03",
+      "source_record_commit": "0beffcb5d27fa831de3f51227a86ab994ba1d3c3",
+      "expected": {
+        "employer": "Yangapi Productions Pty Ltd",
+        "role": "Co-founder and executive director",
+        "start_date": "2014-08",
+        "end_date": "2019-06",
+        "date_precision": "month"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment date range; matched to existing record, without adding profile attributes.",
+      "match_note": "Existing employer/role and date-period context reviewed. No internal promotion boundary inferred.",
+      "indexed_dates": {
+        "start_date": "2014-08",
+        "end_date": "2019-06",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "283585",
+      "spell_id": "283585-02",
+      "source_record_commit": "59c24659fccc4ca8db78de7f5add0bebd665bb3d",
+      "expected": {
+        "employer": "Terravision Pty Ltd",
+        "role": "Electronic technician",
+        "start_date": "1996-01",
+        "end_date": "1999-12",
+        "date_precision": "month"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment date range; matched to existing record, without adding profile attributes.",
+      "match_note": "Existing employer/role and date-period context reviewed. No internal promotion boundary inferred.",
+      "indexed_dates": {
+        "start_date": "1996-01",
+        "end_date": "1999-12",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "243273",
+      "spell_id": "243273-01",
+      "source_record_commit": "b991e331f9c3f1b73c0f34cb0602242d490170f2",
+      "expected": {
+        "employer": "Office of Peter Arnold MP, South Australian Parliament",
+        "role": "Electorate officer",
+        "start_date": "1987",
+        "end_date": "1993",
+        "date_precision": "year"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment date range; matched to existing record, without adding profile attributes.",
+      "match_note": "Existing employer/role and date-period context reviewed. No internal promotion boundary inferred.",
+      "indexed_dates": {
+        "start_date": "2022-06",
+        "end_date": null,
+        "end_label": "Present"
+      }
+    },
+    {
+      "person_id": "282212",
+      "spell_id": "282212-01",
+      "source_record_commit": "225891e6ceffde053b0322105d63966be45021ea",
+      "expected": {
+        "employer": "Australian Broadcasting Corporation",
+        "role": "Television and radio news journalist",
+        "start_date": "2002",
+        "end_date": "2008",
+        "date_precision": "year"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment date range; matched to existing record, without adding profile attributes.",
+      "match_note": "Existing employer/role and date-period context reviewed. No internal promotion boundary inferred.",
+      "indexed_dates": {
+        "start_date": "2002-06",
+        "end_date": "2008-09",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "316818",
+      "spell_id": "316818-01",
+      "source_record_commit": "b991e331f9c3f1b73c0f34cb0602242d490170f2",
+      "expected": {
+        "employer": "Drakes Supermarkets (profile label; earlier local operator to verify)",
+        "role": "Casual retail assistant",
+        "start_date": "2018-10",
+        "end_date": "2022-10",
+        "date_precision": "month"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment date range; matched to existing record, without adding profile attributes.",
+      "match_note": "Existing employer/role and date-period context reviewed. No internal promotion boundary inferred.",
+      "indexed_dates": {
+        "start_date": "2018-10",
+        "end_date": "2022-10",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "193430",
+      "spell_id": "193430-01",
+      "source_record_commit": "225891e6ceffde053b0322105d63966be45021ea",
+      "expected": {
+        "employer": "Mallesons Stephen Jaques",
+        "role": "Solicitor",
+        "start_date": "2003-02",
+        "end_date": "2005-02",
+        "date_precision": "month"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment date range; matched to existing record, without adding profile attributes.",
+      "match_note": "Existing employer/role and date-period context reviewed. No internal promotion boundary inferred.",
+      "indexed_dates": {
+        "start_date": "2003-02",
+        "end_date": "2005-02",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "IMW",
+      "spell_id": "IMW-04",
+      "source_record_commit": "225891e6ceffde053b0322105d63966be45021ea",
+      "expected": {
+        "employer": "Australian APEC Study Centre, then associated with Monash University",
+        "role": "Development project manager",
+        "start_date": "2004",
+        "end_date": "2006-04",
+        "date_precision": "mixed"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment date range; matched to existing record, without adding profile attributes.",
+      "match_note": "Existing employer/role and date-period context reviewed. No internal promotion boundary inferred.",
+      "indexed_dates": {
+        "start_date": "2004",
+        "end_date": "2006",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "HWL",
+      "spell_id": "HWL-transurban",
+      "source_record_commit": "4e867a2390078558e215c1412c084c783dd21ca8",
+      "expected": {
+        "employer": "Transurban",
+        "role": "Manager of Corporate Relations",
+        "start_date": "2003",
+        "end_date": "2007",
+        "date_precision": "year"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment date range; matched to existing record, without adding profile attributes.",
+      "match_note": "Existing employer/role and date-period context reviewed. No internal promotion boundary inferred.",
+      "indexed_dates": {
+        "start_date": "2003",
+        "end_date": "2007",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "301128",
+      "spell_id": "301128-07",
+      "source_record_commit": "31611291763edffc33e09aa2aae4443aecfab83d",
+      "expected": {
+        "employer": "Australian Services Union, Victorian and Tasmanian Branch",
+        "role": "Branch secretary",
+        "start_date": "2018-06-26",
+        "end_date": "2024-06-02",
+        "date_precision": "day"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment date range; matched to existing record, without adding profile attributes.",
+      "match_note": "Existing employer/role and date-period context reviewed. No internal promotion boundary inferred.",
+      "indexed_dates": {
+        "start_date": "2018-05",
+        "end_date": "2024-06",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "316550",
+      "spell_id": "316550-05",
+      "source_record_commit": "e5a302c8ab0ea2d437c9f6b8d75dcb6e576a6285",
+      "expected": {
+        "employer": "Electrical Trades Union, WA Branch",
+        "role": "Industrial officer",
+        "start_date": "2024-07",
+        "end_date": "2025-05",
+        "date_precision": "month"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment date range; matched to existing record, without adding profile attributes.",
+      "match_note": "Existing employer/role and date-period context reviewed. No internal promotion boundary inferred.",
+      "indexed_dates": {
+        "start_date": "2024-07",
+        "end_date": "2025-05",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "266499",
+      "spell_id": "266499-03",
+      "source_record_commit": "31611291763edffc33e09aa2aae4443aecfab83d",
+      "expected": {
+        "employer": "National Australia Bank",
+        "role": "Private banker",
+        "start_date": "1998-08",
+        "end_date": "1999-06",
+        "date_precision": "month"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment date range; matched to existing record, without adding profile attributes.",
+      "match_note": "Existing employer/role and date-period context reviewed. No internal promotion boundary inferred.",
+      "indexed_dates": {
+        "start_date": "1998-08",
+        "end_date": "1999-06",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "249764",
+      "spell_id": "249764-02",
+      "source_record_commit": "98d8508ec3b69df5d34071ca228f8c7c9a57972b",
+      "expected": {
+        "employer": "National Australia Bank",
+        "role": "Supervisor",
+        "start_date": "1985",
+        "end_date": "2007",
+        "date_precision": "year"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment date range; matched to existing record, without adding profile attributes.",
+      "match_note": "Existing employer/role and date-period context reviewed. No internal promotion boundary inferred.",
+      "indexed_dates": {
+        "start_date": "1985-02",
+        "end_date": "2007-03",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "281988",
+      "spell_id": "281988-clark-rideaux",
+      "source_record_commit": "c4c5a071208baffdff72af19c96e735c29a692a3",
+      "expected": {
+        "employer": "Clark Rideaux Lawyers",
+        "role": "Senior Associate",
+        "start_date": "2009-07",
+        "end_date": "2013-02",
+        "date_precision": "month"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment date range; matched to existing record, without adding profile attributes.",
+      "match_note": "Existing employer/role and date-period context reviewed. No internal promotion boundary inferred.",
+      "indexed_dates": {
+        "start_date": "2009-07",
+        "end_date": "2013-02",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "248895",
+      "spell_id": "248895-vaile-staff",
+      "source_record_commit": "a7b5c9e1fe26cf70360915ed116298457083ae5e",
+      "expected": {
+        "employer": "Office of the Hon. Mark Vaile MP",
+        "role": "Political staff member (exact progression unresolved)",
+        "start_date": "2004",
+        "end_date": "2006",
+        "date_precision": "year"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment date range; matched to existing record, without adding profile attributes.",
+      "match_note": "Existing employer/role and date-period context reviewed. No internal promotion boundary inferred.",
+      "indexed_dates": {
+        "start_date": "2004",
+        "end_date": "2006",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "147140",
+      "spell_id": "147140-shoalhaven-council",
+      "source_record_commit": "a7b5c9e1fe26cf70360915ed116298457083ae5e",
+      "expected": {
+        "employer": "Shoalhaven City Council",
+        "role": "Human Resources Officer",
+        "start_date": "1996",
+        "end_date": "1997",
+        "date_precision": "year"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment date range; matched to existing record, without adding profile attributes.",
+      "match_note": "Existing employer/role and date-period context reviewed. No internal promotion boundary inferred.",
+      "indexed_dates": {
+        "start_date": "1996",
+        "end_date": "1997",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "282997",
+      "spell_id": "282997-06",
+      "source_record_commit": "98d8508ec3b69df5d34071ca228f8c7c9a57972b",
+      "expected": {
+        "employer": "Mallesons Stephen Jaques, now King & Wood Mallesons, Brisbane",
+        "role": "Senior associate",
+        "start_date": "2005",
+        "end_date": "2007",
+        "date_precision": "year"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment date range; matched to existing record, without adding profile attributes.",
+      "match_note": "Existing employer/role and date-period context reviewed. No internal promotion boundary inferred.",
+      "indexed_dates": {
+        "start_date": "2005",
+        "end_date": "2007",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "175696",
+      "spell_id": "175696-05",
+      "source_record_commit": "a7b5c9e1fe26cf70360915ed116298457083ae5e",
+      "expected": {
+        "employer": "Olympic Winter Institute of Australia",
+        "role": "Independent non-executive director, later term",
+        "start_date": "2013-11-22",
+        "end_date": "2019-05-27",
+        "date_precision": "day"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment date range; matched to existing record, without adding profile attributes.",
+      "match_note": "Existing employer/role and date-period context reviewed. No internal promotion boundary inferred.",
+      "indexed_dates": {
+        "start_date": "2014",
+        "end_date": "2019-05",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "282212",
+      "spell_id": "282212-02",
+      "source_record_commit": "225891e6ceffde053b0322105d63966be45021ea",
+      "expected": {
+        "employer": "Oxfam Australia",
+        "role": "Media adviser / media coordinator",
+        "start_date": "2008",
+        "end_date": "2010",
+        "date_precision": "year"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment date range; matched to existing record, without adding profile attributes.",
+      "match_note": "Existing employer/role and date-period context reviewed. No internal promotion boundary inferred.",
+      "indexed_dates": {
+        "start_date": "2008-10",
+        "end_date": "2010-10",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "245759",
+      "spell_id": "245759-03",
+      "source_record_commit": "98d8508ec3b69df5d34071ca228f8c7c9a57972b",
+      "expected": {
+        "employer": "Federal Court of Australia",
+        "role": "Associate to the Hon. Peter Gray",
+        "start_date": "1999",
+        "end_date": "2000",
+        "date_precision": "year"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment date range; matched to existing record, without adding profile attributes.",
+      "match_note": "Existing employer/role and date-period context reviewed. No internal promotion boundary inferred.",
+      "indexed_dates": {
+        "start_date": "1999-06",
+        "end_date": "2000-06",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "193430",
+      "spell_id": "193430-02",
+      "source_record_commit": "225891e6ceffde053b0322105d63966be45021ea",
+      "expected": {
+        "employer": "Office of Senator Stephen Conroy",
+        "role": "Deputy chief of staff",
+        "start_date": "2005-02",
+        "end_date": "2007-07",
+        "date_precision": "month"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment date range; matched to existing record, without adding profile attributes.",
+      "match_note": "Existing employer/role and date-period context reviewed. No internal promotion boundary inferred.",
+      "indexed_dates": {
+        "start_date": "2005-02",
+        "end_date": "2007-07",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "201906",
+      "spell_id": "201906-02",
+      "source_record_commit": "98d8508ec3b69df5d34071ca228f8c7c9a57972b",
+      "expected": {
+        "employer": "James Saddlery, Brendale",
+        "role": "Factory hand",
+        "start_date": "1984",
+        "end_date": "1984",
+        "date_precision": "year"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment date range; matched to existing record, without adding profile attributes.",
+      "match_note": "Existing employer/role and date-period context reviewed. No internal promotion boundary inferred.",
+      "indexed_dates": {
+        "start_date": "1984-03",
+        "end_date": "1984-06",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "245212",
+      "spell_id": "245212-04",
+      "source_record_commit": "d4ae396843b45759a983079271bba2bd52aa6294",
+      "expected": {
+        "employer": "Office of Senator Barnaby Joyce",
+        "role": "Chief of staff",
+        "start_date": "2010",
+        "end_date": "2013",
+        "date_precision": "year"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment date range; matched to existing record, without adding profile attributes.",
+      "match_note": "Existing employer/role and date-period context reviewed. No internal promotion boundary inferred.",
+      "indexed_dates": {
+        "start_date": "2010-03",
+        "end_date": "2013-07",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "316101",
+      "spell_id": "316101-03",
+      "source_record_commit": "b991e331f9c3f1b73c0f34cb0602242d490170f2",
+      "expected": {
+        "employer": "Al Tamimi & Company",
+        "role": "Arbitration lawyer, Dubai",
+        "start_date": null,
+        "end_date": null,
+        "date_precision": "unknown"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment date range; matched to existing record, without adding profile attributes.",
+      "match_note": "Existing employer/role and date-period context reviewed. No internal promotion boundary inferred.",
+      "indexed_dates": {
+        "start_date": "2008",
+        "end_date": "2013",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "279991",
+      "spell_id": "279991-lawyers-subspell",
+      "source_record_commit": "4e867a2390078558e215c1412c084c783dd21ca8",
+      "expected": {
+        "employer": "Conaghan Lawyers (legal payroll link to Conaghan Lawyers Pty Ltd not separately established)",
+        "role": "Senior Solicitor; criminal-defence solicitor advocate",
+        "start_date": "2010-12",
+        "end_date": "2019-05",
+        "date_precision": "month"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment date range; matched to existing record, without adding profile attributes.",
+      "match_note": "Existing employer/role and date-period context reviewed. No internal promotion boundary inferred.",
+      "indexed_dates": {
+        "start_date": "2010-12",
+        "end_date": "2019-05",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "316935",
+      "spell_id": "316935-04",
+      "source_record_commit": "c32069c4484d7e33ad992b685a4b51292b29021c",
+      "expected": {
+        "employer": "Australian Taxation Office",
+        "role": "Tax officer",
+        "start_date": "2005",
+        "end_date": "2018",
+        "date_precision": "year"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment date range; matched to existing record, without adding profile attributes.",
+      "match_note": "Existing employer/role and date-period context reviewed. No internal promotion boundary inferred.",
+      "indexed_dates": {
+        "start_date": "2017-05",
+        "end_date": "2019-05",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "316550",
+      "spell_id": "316550-06",
+      "source_record_commit": "e5a302c8ab0ea2d437c9f6b8d75dcb6e576a6285",
+      "expected": {
+        "employer": "United Professional Firefighters Union",
+        "role": "Industrial officer / lawyer; title transitions unconfirmed",
+        "start_date": null,
+        "end_date": null,
+        "date_precision": "unknown"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment date range; matched to existing record, without adding profile attributes.",
+      "match_note": "Existing employer/role and date-period context reviewed. No internal promotion boundary inferred.",
+      "indexed_dates": {
+        "start_date": "2022-06",
+        "end_date": "2024-06",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "296331",
+      "spell_id": "296331-08",
+      "source_record_commit": "b991e331f9c3f1b73c0f34cb0602242d490170f2",
+      "expected": {
+        "employer": "University of South Australia",
+        "role": "Director, Centre for Participation and Community Engagement; interim Head, UniSA College",
+        "start_date": "2009-10",
+        "end_date": "2010-10",
+        "date_precision": "month"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment date range; matched to existing record, without adding profile attributes.",
+      "match_note": "Existing employer/role and date-period context reviewed. No internal promotion boundary inferred.",
+      "indexed_dates": {
+        "start_date": "2009-10",
+        "end_date": "2010-10",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "299174",
+      "spell_id": "299174-parramatta-river",
+      "source_record_commit": "c4c5a071208baffdff72af19c96e735c29a692a3",
+      "expected": {
+        "employer": "Parramatta River Catchment Group",
+        "role": "Chair",
+        "start_date": "2015-09",
+        "end_date": "2017-10",
+        "date_precision": "month"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment date range; matched to existing record, without adding profile attributes.",
+      "match_note": "Existing employer/role and date-period context reviewed. No internal promotion boundary inferred.",
+      "indexed_dates": {
+        "start_date": "2015-09",
+        "end_date": "2017-10",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "281988",
+      "spell_id": "281988-symons-phillips",
+      "source_record_commit": "c4c5a071208baffdff72af19c96e735c29a692a3",
+      "expected": {
+        "employer": "Symons Phillips Lawyers",
+        "role": "Associate",
+        "start_date": "2009-01",
+        "end_date": "2009-07",
+        "date_precision": "month"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment date range; matched to existing record, without adding profile attributes.",
+      "match_note": "Existing employer/role and date-period context reviewed. No internal promotion boundary inferred.",
+      "indexed_dates": {
+        "start_date": "2009-01",
+        "end_date": "2009-07",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "296272",
+      "spell_id": "296272-04",
+      "source_record_commit": "b991e331f9c3f1b73c0f34cb0602242d490170f2",
+      "expected": {
+        "employer": "City of Port Adelaide Enfield",
+        "role": "Director, Community Development",
+        "start_date": "2010-01",
+        "end_date": "2012-02",
+        "date_precision": "month"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment date range; matched to existing record, without adding profile attributes.",
+      "match_note": "Existing employer/role and date-period context reviewed. No internal promotion boundary inferred.",
+      "indexed_dates": {
+        "start_date": "2010-01",
+        "end_date": "2012-02",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "283585",
+      "spell_id": "283585-05",
+      "source_record_commit": "59c24659fccc4ca8db78de7f5add0bebd665bb3d",
+      "expected": {
+        "employer": "Garden City Christian Church",
+        "role": "Youth leader",
+        "start_date": "2003",
+        "end_date": "2007",
+        "date_precision": "year"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment date range; matched to existing record, without adding profile attributes.",
+      "match_note": "Existing employer/role and date-period context reviewed. No internal promotion boundary inferred.",
+      "indexed_dates": {
+        "start_date": "2003-01",
+        "end_date": "2008-07",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "248895",
+      "spell_id": "248895-truss-office",
+      "source_record_commit": "a7b5c9e1fe26cf70360915ed116298457083ae5e",
+      "expected": {
+        "employer": "Office of the Hon. Warren Truss MP",
+        "role": "Political staff member (exact progression unresolved)",
+        "start_date": null,
+        "end_date": null,
+        "date_precision": "unknown"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment date range; matched to existing record, without adding profile attributes.",
+      "match_note": "Existing employer/role and date-period context reviewed. No internal promotion boundary inferred.",
+      "indexed_dates": {
+        "start_date": "1999",
+        "end_date": "2004",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "316547",
+      "spell_id": "316547-08",
+      "source_record_commit": "98d8508ec3b69df5d34071ca228f8c7c9a57972b",
+      "expected": {
+        "employer": "King & Wood Mallesons",
+        "role": "Summer clerk",
+        "start_date": "2016-11",
+        "end_date": "2017-02",
+        "date_precision": "month"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment date range; matched to existing record, without adding profile attributes.",
+      "match_note": "Existing employer/role and date-period context reviewed. No internal promotion boundary inferred.",
+      "indexed_dates": {
+        "start_date": "2016-11",
+        "end_date": "2017-02",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "276714",
+      "spell_id": "276714-03",
+      "source_record_commit": "863605913761765b5d53ea5f82fe0f8ae9b7da1d",
+      "expected": {
+        "employer": "Slough Borough Council, United Kingdom",
+        "role": "Council employee — public-service improvement targets",
+        "start_date": "2001",
+        "end_date": "2002",
+        "date_precision": "year"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment date range; matched to existing record, without adding profile attributes.",
+      "match_note": "Existing employer/role and date-period context reviewed. No internal promotion boundary inferred.",
+      "indexed_dates": {
+        "start_date": "2001",
+        "end_date": "2002",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "175696",
+      "spell_id": "175696-06",
+      "source_record_commit": "a7b5c9e1fe26cf70360915ed116298457083ae5e",
+      "expected": {
+        "employer": "Sport Australia Hall of Fame",
+        "role": "Independent non-executive director",
+        "start_date": "2015",
+        "end_date": null,
+        "date_precision": "year"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment date range; matched to existing record, without adding profile attributes.",
+      "match_note": "Existing employer/role and date-period context reviewed. No internal promotion boundary inferred.",
+      "indexed_dates": {
+        "start_date": "2015-03",
+        "end_date": "2019-05",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "231027",
+      "spell_id": "231027-03",
+      "source_record_commit": "a7b5c9e1fe26cf70360915ed116298457083ae5e",
+      "expected": {
+        "employer": "Port Jackson Partners",
+        "role": "Director and strategy/business consultant",
+        "start_date": "2002-11",
+        "end_date": "2013-07",
+        "date_precision": "month"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment date range; matched to existing record, without adding profile attributes.",
+      "match_note": "Existing employer/role and date-period context reviewed. No internal promotion boundary inferred.",
+      "indexed_dates": {
+        "start_date": "2002-11",
+        "end_date": "2013-07",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "231027",
+      "spell_id": "231027-01",
+      "source_record_commit": "a7b5c9e1fe26cf70360915ed116298457083ae5e",
+      "expected": {
+        "employer": "McKinsey & Company",
+        "role": "Management consultant, later partner",
+        "start_date": "1994-03",
+        "end_date": "2001-01",
+        "date_precision": "month"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment date range; matched to existing record, without adding profile attributes.",
+      "match_note": "Existing employer/role and date-period context reviewed. No internal promotion boundary inferred.",
+      "indexed_dates": {
+        "start_date": "1994-03",
+        "end_date": "2001-01",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "314526",
+      "spell_id": "314526-06",
+      "source_record_commit": "c32069c4484d7e33ad992b685a4b51292b29021c",
+      "expected": {
+        "employer": "Indie Education / Indie School Launceston, contract entity to verify",
+        "role": "Teacher",
+        "start_date": null,
+        "end_date": "2025",
+        "date_precision": "year"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment date range; matched to existing record, without adding profile attributes.",
+      "match_note": "Existing employer/role and date-period context reviewed. No internal promotion boundary inferred.",
+      "indexed_dates": {
+        "start_date": "2024-02",
+        "end_date": null,
+        "end_label": "Present"
+      }
+    },
+    {
+      "person_id": "264121",
+      "spell_id": "264121-04",
+      "source_record_commit": "98d8508ec3b69df5d34071ca228f8c7c9a57972b",
+      "expected": {
+        "employer": "Maurice Blackburn Lawyers",
+        "role": "Lawyer specialising in workers' compensation and road-injury matters",
+        "start_date": "2014-08",
+        "end_date": "2019-05",
+        "date_precision": "month"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment date range; matched to existing record, without adding profile attributes.",
+      "match_note": "Existing employer/role and date-period context reviewed. No internal promotion boundary inferred.",
+      "indexed_dates": {
+        "start_date": "2014-08",
+        "end_date": "2019-05",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "201906",
+      "spell_id": "201906-03",
+      "source_record_commit": "98d8508ec3b69df5d34071ca228f8c7c9a57972b",
+      "expected": {
+        "employer": "Glenfords Power Tools",
+        "role": "Storeperson and sales assistant",
+        "start_date": "1984",
+        "end_date": "1986",
+        "date_precision": "year"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment date range; matched to existing record, without adding profile attributes.",
+      "match_note": "Existing employer/role and date-period context reviewed. No internal promotion boundary inferred.",
+      "indexed_dates": {
+        "start_date": "1984-07",
+        "end_date": "1986-01",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "316101",
+      "spell_id": "316101-04",
+      "source_record_commit": "b991e331f9c3f1b73c0f34cb0602242d490170f2",
+      "expected": {
+        "employer": "Clifford Chance",
+        "role": "Lawyer / senior associate, Dubai",
+        "start_date": null,
+        "end_date": null,
+        "date_precision": "unknown"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment date range; matched to existing record, without adding profile attributes.",
+      "match_note": "Existing employer/role and date-period context reviewed. No internal promotion boundary inferred.",
+      "indexed_dates": {
+        "start_date": "2013",
+        "end_date": "2016",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "301128",
+      "spell_id": "301128-04",
+      "source_record_commit": "31611291763edffc33e09aa2aae4443aecfab83d",
+      "expected": {
+        "employer": "HESTA",
+        "role": "Board member",
+        "start_date": "2013",
+        "end_date": "2017",
+        "date_precision": "year"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment date range; matched to existing record, without adding profile attributes.",
+      "match_note": "Existing employer/role and date-period context reviewed. No internal promotion boundary inferred.",
+      "indexed_dates": {
+        "start_date": "2013",
+        "end_date": "2017-12",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "316935",
+      "spell_id": "316935-06",
+      "source_record_commit": "c32069c4484d7e33ad992b685a4b51292b29021c",
+      "expected": {
+        "employer": "Community and Public Sector Union, PSU Group",
+        "role": "Work health and safety lead organiser",
+        "start_date": "2023",
+        "end_date": "2025",
+        "date_precision": "year"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment date range; matched to existing record, without adding profile attributes.",
+      "match_note": "Existing employer/role and date-period context reviewed. No internal promotion boundary inferred.",
+      "indexed_dates": {
+        "start_date": "2023-09",
+        "end_date": "2025-05",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "250362",
+      "spell_id": "250362-port-council",
+      "source_record_commit": "c4c5a071208baffdff72af19c96e735c29a692a3",
+      "expected": {
+        "employer": "Port Macquarie-Hastings Council",
+        "role": "Manager, Natural Resources and Environmental Engineer",
+        "start_date": "2001-08",
+        "end_date": "2004-08",
+        "date_precision": "month"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment date range; matched to existing record, without adding profile attributes.",
+      "match_note": "Existing employer/role and date-period context reviewed. No internal promotion boundary inferred.",
+      "indexed_dates": {
+        "start_date": "2001-07",
+        "end_date": "2004-08",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "74519",
+      "spell_id": "74519-04",
+      "source_record_commit": "e5a302c8ab0ea2d437c9f6b8d75dcb6e576a6285",
+      "expected": {
+        "employer": "United Voice, national office, Sydney",
+        "role": "Director of Public Affairs",
+        "start_date": "2014",
+        "end_date": "2015",
+        "date_precision": "year"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment date range; matched to existing record, without adding profile attributes.",
+      "match_note": "Existing employer/role and date-period context reviewed. No internal promotion boundary inferred.",
+      "indexed_dates": {
+        "start_date": "2014",
+        "end_date": "2015",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "296331",
+      "spell_id": "296331-09",
+      "source_record_commit": "b991e331f9c3f1b73c0f34cb0602242d490170f2",
+      "expected": {
+        "employer": "Office of the Hon. Mark Butler MP",
+        "role": "Chief of staff",
+        "start_date": "2010-09",
+        "end_date": "2016-10",
+        "date_precision": "month"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment date range; matched to existing record, without adding profile attributes.",
+      "match_note": "Existing employer/role and date-period context reviewed. No internal promotion boundary inferred.",
+      "indexed_dates": {
+        "start_date": "2010-09",
+        "end_date": "2016-10",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "LTU",
+      "spell_id": "LTU-08",
+      "source_record_commit": "225891e6ceffde053b0322105d63966be45021ea",
+      "expected": {
+        "employer": "Australian Council of Trade Unions",
+        "role": "President",
+        "start_date": "2010-07-01",
+        "end_date": "2018",
+        "date_precision": "mixed"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment date range; matched to existing record, without adding profile attributes.",
+      "match_note": "Existing employer/role and date-period context reviewed. No internal promotion boundary inferred.",
+      "indexed_dates": {
+        "start_date": "2010-07",
+        "end_date": "2018-03",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "299150",
+      "spell_id": "299150-05",
+      "source_record_commit": "e5a302c8ab0ea2d437c9f6b8d75dcb6e576a6285",
+      "expected": {
+        "employer": "Beelu Forest Distilling Company Pty Ltd",
+        "role": "Managing director / founder",
+        "start_date": "2021-04",
+        "end_date": null,
+        "date_precision": "month"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment date range; matched to existing record, without adding profile attributes.",
+      "match_note": "Existing employer/role and date-period context reviewed. No internal promotion boundary inferred.",
+      "indexed_dates": {
+        "start_date": "2021-04",
+        "end_date": null,
+        "end_label": "Present"
+      }
+    },
+    {
+      "person_id": "109556",
+      "spell_id": "109556-mallesons",
+      "source_record_commit": "c4c5a071208baffdff72af19c96e735c29a692a3",
+      "expected": {
+        "employer": "Mallesons Stephen Jaques (now King & Wood Mallesons)",
+        "role": "Solicitor; Executive Adviser",
+        "start_date": "2002",
+        "end_date": "2004",
+        "date_precision": "year"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment date range; matched to existing record, without adding profile attributes.",
+      "match_note": "Existing employer/role and date-period context reviewed. No internal promotion boundary inferred.",
+      "indexed_dates": {
+        "start_date": "2002",
+        "end_date": "2004",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "296272",
+      "spell_id": "296272-05",
+      "source_record_commit": "b991e331f9c3f1b73c0f34cb0602242d490170f2",
+      "expected": {
+        "employer": "City of Burnside",
+        "role": "General manager, Community and Development; Corporate Services",
+        "start_date": "2012-02",
+        "end_date": "2017-03",
+        "date_precision": "month"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment date range; matched to existing record, without adding profile attributes.",
+      "match_note": "Existing employer/role and date-period context reviewed. No internal promotion boundary inferred.",
+      "indexed_dates": {
+        "start_date": "2012-02",
+        "end_date": "2017-04",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "159771",
+      "spell_id": "159771-parklands-trust",
+      "source_record_commit": "a7b5c9e1fe26cf70360915ed116298457083ae5e",
+      "expected": {
+        "employer": "Western Sydney Parklands Trust",
+        "role": "Non-executive director",
+        "start_date": "2007",
+        "end_date": "2010-07-07",
+        "date_precision": "mixed"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment date range; matched to existing record, without adding profile attributes.",
+      "match_note": "Existing employer/role and date-period context reviewed. No internal promotion boundary inferred.",
+      "indexed_dates": {
+        "start_date": "2007",
+        "end_date": "2010",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "274506",
+      "spell_id": "274506-pmc",
+      "source_record_commit": "a7b5c9e1fe26cf70360915ed116298457083ae5e",
+      "expected": {
+        "employer": "Department of the Prime Minister and Cabinet",
+        "role": "Assistant Secretary and acting First Assistant Secretary, International Division",
+        "start_date": "2010-01",
+        "end_date": "2012",
+        "date_precision": "mixed"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment date range; matched to existing record, without adding profile attributes.",
+      "match_note": "Existing employer/role and date-period context reviewed. No internal promotion boundary inferred.",
+      "indexed_dates": {
+        "start_date": "2010-01",
+        "end_date": "2012-01",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "182468",
+      "spell_id": "182468-03",
+      "source_record_commit": "a7b5c9e1fe26cf70360915ed116298457083ae5e",
+      "expected": {
+        "employer": "Australian Labor Party, NSW",
+        "role": "General secretary",
+        "start_date": "2008-10",
+        "end_date": "2010",
+        "date_precision": "mixed"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment date range; matched to existing record, without adding profile attributes.",
+      "match_note": "Existing employer/role and date-period context reviewed. No internal promotion boundary inferred.",
+      "indexed_dates": {
+        "start_date": "2008-10",
+        "end_date": "2010-08",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "316818",
+      "spell_id": "316818-04",
+      "source_record_commit": "b991e331f9c3f1b73c0f34cb0602242d490170f2",
+      "expected": {
+        "employer": "Health Partners, South Australian mutual insurer (Health Partners Limited; individual contract not seen)",
+        "role": "Customer Experience Support",
+        "start_date": "2023-12",
+        "end_date": "2024-06",
+        "date_precision": "month"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment date range; matched to existing record, without adding profile attributes.",
+      "match_note": "Existing employer/role and date-period context reviewed. No internal promotion boundary inferred.",
+      "indexed_dates": {
+        "start_date": "2023-12",
+        "end_date": "2024-06",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "265967",
+      "spell_id": "265967-08",
+      "source_record_commit": "98d8508ec3b69df5d34071ca228f8c7c9a57972b",
+      "expected": {
+        "employer": "Sunshine Coast Children's Therapy Centre",
+        "role": "President",
+        "start_date": null,
+        "end_date": null,
+        "date_precision": "unknown"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment date range; matched to existing record, without adding profile attributes.",
+      "match_note": "Existing employer/role and date-period context reviewed. No internal promotion boundary inferred.",
+      "indexed_dates": {
+        "start_date": "2009-01",
+        "end_date": "2011-09",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "316555",
+      "spell_id": "316555-05",
+      "source_record_commit": "59c24659fccc4ca8db78de7f5add0bebd665bb3d",
+      "expected": {
+        "employer": "Australian Manufacturing Workers Union",
+        "role": "Organiser",
+        "start_date": "2013-03",
+        "end_date": "2016-07",
+        "date_precision": "month"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment date range; matched to existing record, without adding profile attributes.",
+      "match_note": "Existing employer/role and date-period context reviewed. No internal promotion boundary inferred.",
+      "indexed_dates": {
+        "start_date": "2013-03",
+        "end_date": "2016-07",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "286535",
+      "spell_id": "286535-10",
+      "source_record_commit": "98d8508ec3b69df5d34071ca228f8c7c9a57972b",
+      "expected": {
+        "employer": "Koorelah Farms; employing/trustee legal entity to confirm",
+        "role": "Managing director",
+        "start_date": "1996",
+        "end_date": "2010",
+        "date_precision": "year"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment date range; matched to existing record, without adding profile attributes.",
+      "match_note": "Existing employer/role and date-period context reviewed. No internal promotion boundary inferred.",
+      "indexed_dates": {
+        "start_date": "1996",
+        "end_date": "2010",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "201906",
+      "spell_id": "201906-04",
+      "source_record_commit": "98d8508ec3b69df5d34071ca228f8c7c9a57972b",
+      "expected": {
+        "employer": "Errol Stewarts, Strathpine",
+        "role": "Sales assistant",
+        "start_date": "1986",
+        "end_date": "1988",
+        "date_precision": "year"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment date range; matched to existing record, without adding profile attributes.",
+      "match_note": "Existing employer/role and date-period context reviewed. No internal promotion boundary inferred.",
+      "indexed_dates": {
+        "start_date": "1986-01",
+        "end_date": "1988-12",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "316101",
+      "spell_id": "316101-05",
+      "source_record_commit": "b991e331f9c3f1b73c0f34cb0602242d490170f2",
+      "expected": {
+        "employer": "ASC Pty Ltd",
+        "role": "Deputy general counsel",
+        "start_date": "2017",
+        "end_date": "2021",
+        "date_precision": "year"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment date range; matched to existing record, without adding profile attributes.",
+      "match_note": "Existing employer/role and date-period context reviewed. No internal promotion boundary inferred.",
+      "indexed_dates": {
+        "start_date": "2017",
+        "end_date": "2021",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "297964",
+      "spell_id": "297964-macquarie-support",
+      "source_record_commit": "4e867a2390078558e215c1412c084c783dd21ca8",
+      "expected": {
+        "employer": "Macquarie University",
+        "role": "Support Academic",
+        "start_date": "2014-03",
+        "end_date": "2014-06",
+        "date_precision": "month"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment date range; matched to existing record, without adding profile attributes.",
+      "match_note": "Existing employer/role and date-period context reviewed. No internal promotion boundary inferred.",
+      "indexed_dates": {
+        "start_date": "2014-03",
+        "end_date": "2014-06",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "91219",
+      "spell_id": "91219-integral",
+      "source_record_commit": "c4c5a071208baffdff72af19c96e735c29a692a3",
+      "expected": {
+        "employer": "Integral Energy",
+        "role": "Corporate Affairs Manager",
+        "start_date": "1999",
+        "end_date": "2004",
+        "date_precision": "year"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment date range; matched to existing record, without adding profile attributes.",
+      "match_note": "Existing employer/role and date-period context reviewed. No internal promotion boundary inferred.",
+      "indexed_dates": {
+        "start_date": "1999",
+        "end_date": "2004",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "249147",
+      "spell_id": "249147-06",
+      "source_record_commit": "e5a302c8ab0ea2d437c9f6b8d75dcb6e576a6285",
+      "expected": {
+        "employer": "Commonwealth Director of Public Prosecutions",
+        "role": "Prosecutor; later Principal Federal Prosecutor",
+        "start_date": "2006",
+        "end_date": "2011",
+        "date_precision": "year"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment date range; matched to existing record, without adding profile attributes.",
+      "match_note": "Existing employer/role and date-period context reviewed. No internal promotion boundary inferred.",
+      "indexed_dates": {
+        "start_date": "2006-10",
+        "end_date": "2011-03",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "102376",
+      "spell_id": "102376-08",
+      "source_record_commit": "e5a302c8ab0ea2d437c9f6b8d75dcb6e576a6285",
+      "expected": {
+        "employer": "Sexual and Reproductive Health Western Australia",
+        "role": "Volunteer board member",
+        "start_date": "2008-03",
+        "end_date": "2014-04",
+        "date_precision": "month"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment date range; matched to existing record, without adding profile attributes.",
+      "match_note": "Existing employer/role and date-period context reviewed. No internal promotion boundary inferred.",
+      "indexed_dates": {
+        "start_date": "2008-03",
+        "end_date": "2014-04",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "299174",
+      "spell_id": "299174-statecover",
+      "source_record_commit": "c4c5a071208baffdff72af19c96e735c29a692a3",
+      "expected": {
+        "employer": "StateCover Mutual Limited",
+        "role": "Non-Executive Director and Risk Committee Chair",
+        "start_date": "2018-09-10",
+        "end_date": "2022-06",
+        "date_precision": "mixed"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment date range; matched to existing record, without adding profile attributes.",
+      "match_note": "Existing employer/role and date-period context reviewed. No internal promotion boundary inferred.",
+      "indexed_dates": {
+        "start_date": "2018-09",
+        "end_date": "2022-06",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "138932",
+      "spell_id": "138932-06",
+      "source_record_commit": "98d8508ec3b69df5d34071ca228f8c7c9a57972b",
+      "expected": {
+        "employer": "Barton Deakin (Queensland)",
+        "role": "Managing Director",
+        "start_date": "2011-11",
+        "end_date": "2012-11",
+        "date_precision": "month"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment date range; matched to existing record, without adding profile attributes.",
+      "match_note": "Existing employer/role and date-period context reviewed. No internal promotion boundary inferred.",
+      "indexed_dates": {
+        "start_date": "2011-11",
+        "end_date": "2012-11",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "248895",
+      "spell_id": "248895-woolworths",
+      "source_record_commit": "a7b5c9e1fe26cf70360915ed116298457083ae5e",
+      "expected": {
+        "employer": "Woolworths Group",
+        "role": "Government Relations Manager; observed acting Head of Government Relations",
+        "start_date": "2016-12",
+        "end_date": "2018-03",
+        "date_precision": "month"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment date range; matched to existing record, without adding profile attributes.",
+      "match_note": "Existing employer/role and date-period context reviewed. No internal promotion boundary inferred.",
+      "indexed_dates": {
+        "start_date": "2016-12",
+        "end_date": "2018-03",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "147140",
+      "spell_id": "147140-uow",
+      "source_record_commit": "a7b5c9e1fe26cf70360915ed116298457083ae5e",
+      "expected": {
+        "employer": "University of Wollongong, Shoalhaven Campus",
+        "role": "Commerce Tutor teaching management, finance and leadership",
+        "start_date": "2002",
+        "end_date": "2015",
+        "date_precision": "year"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment date range; matched to existing record, without adding profile attributes.",
+      "match_note": "Existing employer/role and date-period context reviewed. No internal promotion boundary inferred.",
+      "indexed_dates": {
+        "start_date": "2002",
+        "end_date": "2015-10",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "241710",
+      "spell_id": "241710-05",
+      "source_record_commit": "59c24659fccc4ca8db78de7f5add0bebd665bb3d",
+      "expected": {
+        "employer": "Office of Minister for Justice and Customs",
+        "role": "Special adviser",
+        "start_date": "2002",
+        "end_date": "2002",
+        "date_precision": "year"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment date range; matched to existing record, without adding profile attributes.",
+      "match_note": "Existing employer/role and date-period context reviewed. No internal promotion boundary inferred.",
+      "indexed_dates": {
+        "start_date": "2002",
+        "end_date": "2002-10",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "182468",
+      "spell_id": "182468-04",
+      "source_record_commit": "a7b5c9e1fe26cf70360915ed116298457083ae5e",
+      "expected": {
+        "employer": "Mallesons Stephen Jaques",
+        "role": "Solicitor / senior consultant",
+        "start_date": "2010-09",
+        "end_date": "2011-07",
+        "date_precision": "month"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment date range; matched to existing record, without adding profile attributes.",
+      "match_note": "Existing employer/role and date-period context reviewed. No internal promotion boundary inferred.",
+      "indexed_dates": {
+        "start_date": "2010-09",
+        "end_date": "2011-07",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "300147",
+      "spell_id": "300147-06",
+      "source_record_commit": "225891e6ceffde053b0322105d63966be45021ea",
+      "expected": {
+        "employer": "Office of Senator James Paterson",
+        "role": "Electorate officer / adviser",
+        "start_date": "2016-03",
+        "end_date": "2016-09",
+        "date_precision": "month"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment date range; matched to existing record, without adding profile attributes.",
+      "match_note": "Existing employer/role and date-period context reviewed. No internal promotion boundary inferred.",
+      "indexed_dates": {
+        "start_date": "2016-03",
+        "end_date": "2016-09",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "316555",
+      "spell_id": "316555-06",
+      "source_record_commit": "59c24659fccc4ca8db78de7f5add0bebd665bb3d",
+      "expected": {
+        "employer": "Office of Senator Louise Pratt",
+        "role": "Electorate officer",
+        "start_date": "2016-07",
+        "end_date": "2018-05",
+        "date_precision": "month"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment date range; matched to existing record, without adding profile attributes.",
+      "match_note": "Existing employer/role and date-period context reviewed. No internal promotion boundary inferred.",
+      "indexed_dates": {
+        "start_date": "2016-07",
+        "end_date": "2018-05",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "IMW",
+      "spell_id": "IMW-14",
+      "source_record_commit": "225891e6ceffde053b0322105d63966be45021ea",
+      "expected": {
+        "employer": "Dynamic Sunrise Consulting",
+        "role": "Principal consultant between parliamentary terms",
+        "start_date": "2022",
+        "end_date": "2025",
+        "date_precision": "year"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment date range; matched to existing record, without adding profile attributes.",
+      "match_note": "Existing employer/role and date-period context reviewed. No internal promotion boundary inferred.",
+      "indexed_dates": {
+        "start_date": "2022-05",
+        "end_date": "2025-05",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "300006",
+      "spell_id": "300006-08",
+      "source_record_commit": "e5a302c8ab0ea2d437c9f6b8d75dcb6e576a6285",
+      "expected": {
+        "employer": "Anglicare WA",
+        "role": "Director, Innovation and Strategy",
+        "start_date": "2017",
+        "end_date": "2022",
+        "date_precision": "year"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment date range; matched to existing record, without adding profile attributes.",
+      "match_note": "Existing employer/role and date-period context reviewed. No internal promotion boundary inferred.",
+      "indexed_dates": {
+        "start_date": "2017-10",
+        "end_date": "2022-01",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "301128",
+      "spell_id": "301128-09",
+      "source_record_commit": "31611291763edffc33e09aa2aae4443aecfab83d",
+      "expected": {
+        "employer": "Vision Super",
+        "role": "Chair",
+        "start_date": "2021-07-01",
+        "end_date": "2024-05-10",
+        "date_precision": "day"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment date range; matched to existing record, without adding profile attributes.",
+      "match_note": "Existing employer/role and date-period context reviewed. No internal promotion boundary inferred.",
+      "indexed_dates": {
+        "start_date": "2021-07",
+        "end_date": "2024-06",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "282335",
+      "spell_id": "282335-07",
+      "source_record_commit": "31611291763edffc33e09aa2aae4443aecfab83d",
+      "expected": {
+        "employer": "Hume Medicare Local",
+        "role": "Company director",
+        "start_date": "2012",
+        "end_date": "2015",
+        "date_precision": "year"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment date range; matched to existing record, without adding profile attributes.",
+      "match_note": "Existing employer/role and date-period context reviewed. No internal promotion boundary inferred.",
+      "indexed_dates": {
+        "start_date": "2012-07",
+        "end_date": "2015-07",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "266499",
+      "spell_id": "266499-07",
+      "source_record_commit": "31611291763edffc33e09aa2aae4443aecfab83d",
+      "expected": {
+        "employer": "Royal Children's Hospital, Melbourne",
+        "role": "Non-executive director; Community Advisory Committee chair; Finance Committee member",
+        "start_date": "2011",
+        "end_date": "2016-05-09",
+        "date_precision": "mixed"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment date range; matched to existing record, without adding profile attributes.",
+      "match_note": "Existing employer/role and date-period context reviewed. No internal promotion boundary inferred.",
+      "indexed_dates": {
+        "start_date": "2011-07",
+        "end_date": "2016-05",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "298800",
+      "spell_id": "298800-14",
+      "source_record_commit": "59c24659fccc4ca8db78de7f5add0bebd665bb3d",
+      "expected": {
+        "employer": "The Climate Reality Project",
+        "role": "Presenter",
+        "start_date": "2009",
+        "end_date": "2022",
+        "date_precision": "year"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment date range; matched to existing record, without adding profile attributes.",
+      "match_note": "Existing employer/role and date-period context reviewed. No internal promotion boundary inferred.",
+      "indexed_dates": {
+        "start_date": "2018",
+        "end_date": "2020",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "122087",
+      "spell_id": "122087-07",
+      "source_record_commit": "0beffcb5d27fa831de3f51227a86ab994ba1d3c3",
+      "expected": {
+        "employer": "Malarndirri Media",
+        "role": "Freelance journalist",
+        "start_date": "2016-04",
+        "end_date": "2016",
+        "date_precision": "mixed"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment date range; matched to existing record, without adding profile attributes.",
+      "match_note": "Existing employer/role and date-period context reviewed. No internal promotion boundary inferred.",
+      "indexed_dates": {
+        "start_date": "2016-04",
+        "end_date": "2016-06",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "296272",
+      "spell_id": "296272-07",
+      "source_record_commit": "b991e331f9c3f1b73c0f34cb0602242d490170f2",
+      "expected": {
+        "employer": "St Vincent de Paul Society (SA) Inc.",
+        "role": "Chief executive officer",
+        "start_date": "2020-03-10",
+        "end_date": "2021-09",
+        "date_precision": "mixed"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment date range; matched to existing record, without adding profile attributes.",
+      "match_note": "Existing employer/role and date-period context reviewed. No internal promotion boundary inferred.",
+      "indexed_dates": {
+        "start_date": "2020-03",
+        "end_date": "2021-09",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "301128",
+      "spell_id": "301128-tfnboard",
+      "source_record_commit": "31611291763edffc33e09aa2aae4443aecfab83d",
+      "expected": {
+        "employer": "Trust for Nature (Victoria)",
+        "role": "Trustee",
+        "start_date": "2022-05-03",
+        "end_date": "2024-04-19",
+        "date_precision": "day"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment date range; matched to existing record, without adding profile attributes.",
+      "match_note": "Existing employer/role and date-period context reviewed. No internal promotion boundary inferred.",
+      "indexed_dates": {
+        "start_date": "2022-05",
+        "end_date": "2024-06",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "296331",
+      "spell_id": "296331-12",
+      "source_record_commit": "b991e331f9c3f1b73c0f34cb0602242d490170f2",
+      "expected": {
+        "employer": "Wentworth Group of Concerned Scientists",
+        "role": "Executive director",
+        "start_date": "2018-11",
+        "end_date": "2019-08",
+        "date_precision": "month"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment date range; matched to existing record, without adding profile attributes.",
+      "match_note": "Existing employer/role and date-period context reviewed. No internal promotion boundary inferred.",
+      "indexed_dates": {
+        "start_date": "2018-12",
+        "end_date": "2019-08",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "282335",
+      "spell_id": "282335-08",
+      "source_record_commit": "31611291763edffc33e09aa2aae4443aecfab83d",
+      "expected": {
+        "employer": "Karolinska Institutet, Sweden",
+        "role": "Postdoctoral fellow",
+        "start_date": "2014-04",
+        "end_date": "2014-11",
+        "date_precision": "month"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment date range; matched to existing record, without adding profile attributes.",
+      "match_note": "Existing employer/role and date-period context reviewed. No internal promotion boundary inferred.",
+      "indexed_dates": {
+        "start_date": "2014-01",
+        "end_date": "2014-12",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "109556",
+      "spell_id": "109556-acu",
+      "source_record_commit": "c4c5a071208baffdff72af19c96e735c29a692a3",
+      "expected": {
+        "employer": "Australian Catholic University",
+        "role": "Director, Government Policy and Strategy; senior executive",
+        "start_date": "2012-07",
+        "end_date": "2016",
+        "date_precision": "mixed"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment date range; matched to existing record, without adding profile attributes.",
+      "match_note": "Existing employer/role and date-period context reviewed. No internal promotion boundary inferred.",
+      "indexed_dates": {
+        "start_date": "2012",
+        "end_date": "2016",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "248895",
+      "spell_id": "248895-littleproud-office",
+      "source_record_commit": "a7b5c9e1fe26cf70360915ed116298457083ae5e",
+      "expected": {
+        "employer": "Office of the Hon. David Littleproud MP",
+        "role": "Chief of Staff",
+        "start_date": null,
+        "end_date": null,
+        "date_precision": "unknown"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment date range; matched to existing record, without adding profile attributes.",
+      "match_note": "Existing employer/role and date-period context reviewed. No internal promotion boundary inferred.",
+      "indexed_dates": {
+        "start_date": "2018-05",
+        "end_date": "2019-06",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "282212",
+      "spell_id": "282212-08",
+      "source_record_commit": "225891e6ceffde053b0322105d63966be45021ea",
+      "expected": {
+        "employer": "National Disability Insurance Agency",
+        "role": "Director, media and communications",
+        "start_date": "2015-07",
+        "end_date": "2015-11",
+        "date_precision": "month"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment date range; matched to existing record, without adding profile attributes.",
+      "match_note": "Existing employer/role and date-period context reviewed. No internal promotion boundary inferred.",
+      "indexed_dates": {
+        "start_date": "2015-07",
+        "end_date": "2015-11",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "245759",
+      "spell_id": "245759-09",
+      "source_record_commit": "98d8508ec3b69df5d34071ca228f8c7c9a57972b",
+      "expected": {
+        "employer": "Maurice Blackburn Lawyers",
+        "role": "Senior associate",
+        "start_date": "2012",
+        "end_date": "2016",
+        "date_precision": "year"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment date range; matched to existing record, without adding profile attributes.",
+      "match_note": "Existing employer/role and date-period context reviewed. No internal promotion boundary inferred.",
+      "indexed_dates": {
+        "start_date": "2012-10",
+        "end_date": "2016-06",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "316660",
+      "spell_id": "316660-13",
+      "source_record_commit": "225891e6ceffde053b0322105d63966be45021ea",
+      "expected": {
+        "employer": "UDIA Victoria",
+        "role": "Awards for Excellence submissions committee",
+        "start_date": "2019-04",
+        "end_date": "2019-12",
+        "date_precision": "month"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment date range; matched to existing record, without adding profile attributes.",
+      "match_note": "Existing employer/role and date-period context reviewed. No internal promotion boundary inferred.",
+      "indexed_dates": {
+        "start_date": "2019-04",
+        "end_date": "2019-12",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "300006",
+      "spell_id": "300006-13",
+      "source_record_commit": "e5a302c8ab0ea2d437c9f6b8d75dcb6e576a6285",
+      "expected": {
+        "employer": "Next25",
+        "role": "Board member",
+        "start_date": "2013-03",
+        "end_date": "2022-01-22",
+        "date_precision": "mixed"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment date range; matched to existing record, without adding profile attributes.",
+      "match_note": "Existing employer/role and date-period context reviewed. No internal promotion boundary inferred.",
+      "indexed_dates": {
+        "start_date": "2013-03",
+        "end_date": "2022-01",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "301128",
+      "spell_id": "301128-11",
+      "source_record_commit": "31611291763edffc33e09aa2aae4443aecfab83d",
+      "expected": {
+        "employer": "Portable Long Service Leave Authority",
+        "role": "Board member",
+        "start_date": "2022-09-01",
+        "end_date": "2024-02-27",
+        "date_precision": "day"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment date range; matched to existing record, without adding profile attributes.",
+      "match_note": "Existing employer/role and date-period context reviewed. No internal promotion boundary inferred.",
+      "indexed_dates": {
+        "start_date": "2022-09",
+        "end_date": "2024-04",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "266499",
+      "spell_id": "266499-09",
+      "source_record_commit": "31611291763edffc33e09aa2aae4443aecfab83d",
+      "expected": {
+        "employer": "AustralianSuper (trustee AustralianSuper Pty Ltd)",
+        "role": "Senior strategic policy adviser",
+        "start_date": "2015",
+        "end_date": "2016",
+        "date_precision": "year"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment date range; matched to existing record, without adding profile attributes.",
+      "match_note": "Existing employer/role and date-period context reviewed. No internal promotion boundary inferred.",
+      "indexed_dates": {
+        "start_date": "2015-06",
+        "end_date": "2016-06",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "299174",
+      "spell_id": "299174-venture-cafe",
+      "source_record_commit": "c4c5a071208baffdff72af19c96e735c29a692a3",
+      "expected": {
+        "employer": "Venture Café Sydney",
+        "role": "Advisory Board member",
+        "start_date": "2018-07",
+        "end_date": "2021-09",
+        "date_precision": "month"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment date range; matched to existing record, without adding profile attributes.",
+      "match_note": "Existing employer/role and date-period context reviewed. No internal promotion boundary inferred.",
+      "indexed_dates": {
+        "start_date": "2018-07",
+        "end_date": "2021-09",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "132880",
+      "spell_id": "132880-08",
+      "source_record_commit": "225891e6ceffde053b0322105d63966be45021ea",
+      "expected": {
+        "employer": "Nous Group",
+        "role": "Senior consultant",
+        "start_date": "2008-06",
+        "end_date": "2010-11",
+        "date_precision": "month"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment date range; matched to existing record, without adding profile attributes.",
+      "match_note": "Existing employer/role and date-period context reviewed. No internal promotion boundary inferred.",
+      "indexed_dates": {
+        "start_date": "2008-06",
+        "end_date": "2010-11",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "140590",
+      "spell_id": "140590-11",
+      "source_record_commit": "225891e6ceffde053b0322105d63966be45021ea",
+      "expected": {
+        "employer": "Springvale Community Aid and Advice Bureau Incorporated",
+        "role": "Board member",
+        "start_date": "2002",
+        "end_date": "2006",
+        "date_precision": "year"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment date range; matched to existing record, without adding profile attributes.",
+      "match_note": "Existing employer/role and date-period context reviewed. No internal promotion boundary inferred.",
+      "indexed_dates": {
+        "start_date": "2002",
+        "end_date": "2006",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "175696",
+      "spell_id": "175696-11",
+      "source_record_commit": "a7b5c9e1fe26cf70360915ed116298457083ae5e",
+      "expected": {
+        "employer": "NSW Bar Association",
+        "role": "Councillor; health, sport and recreation committee chair",
+        "start_date": "2010",
+        "end_date": "2013",
+        "date_precision": "year"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment date range; matched to existing record, without adding profile attributes.",
+      "match_note": "Existing employer/role and date-period context reviewed. No internal promotion boundary inferred.",
+      "indexed_dates": {
+        "start_date": "2010",
+        "end_date": "2013",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "IMW",
+      "spell_id": "IMW-11",
+      "source_record_commit": "225891e6ceffde053b0322105d63966be45021ea",
+      "expected": {
+        "employer": "Australian Human Rights Commission",
+        "role": "Human Rights Commissioner",
+        "start_date": "2014-02-17",
+        "end_date": "2016-02-19",
+        "date_precision": "day"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment date range; matched to existing record, without adding profile attributes.",
+      "match_note": "Existing employer/role and date-period context reviewed. No internal promotion boundary inferred.",
+      "indexed_dates": {
+        "start_date": "2014",
+        "end_date": "2016",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "301128",
+      "spell_id": "301128-12",
+      "source_record_commit": "31611291763edffc33e09aa2aae4443aecfab83d",
+      "expected": {
+        "employer": "Super Members Council of Australia",
+        "role": "Board member",
+        "start_date": "2023-11",
+        "end_date": "2024-05",
+        "date_precision": "month"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment date range; matched to existing record, without adding profile attributes.",
+      "match_note": "Existing employer/role and date-period context reviewed. No internal promotion boundary inferred.",
+      "indexed_dates": {
+        "start_date": "2023-11",
+        "end_date": "2024-05",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "282335",
+      "spell_id": "282335-10",
+      "source_record_commit": "31611291763edffc33e09aa2aae4443aecfab83d",
+      "expected": {
+        "employer": "St Catherine's, Wangaratta",
+        "role": "Board member",
+        "start_date": "2016",
+        "end_date": "2019",
+        "date_precision": "year"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment date range; matched to existing record, without adding profile attributes.",
+      "match_note": "Existing employer/role and date-period context reviewed. No internal promotion boundary inferred.",
+      "indexed_dates": {
+        "start_date": "2016-12",
+        "end_date": null,
+        "end_label": "Present"
+      }
+    },
+    {
+      "person_id": "249147",
+      "spell_id": "249147-10",
+      "source_record_commit": "e5a302c8ab0ea2d437c9f6b8d75dcb6e576a6285",
+      "expected": {
+        "employer": "Law Access Limited",
+        "role": "Inaugural chairperson; director",
+        "start_date": null,
+        "end_date": "2017-12",
+        "date_precision": "month"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment date range; matched to existing record, without adding profile attributes.",
+      "match_note": "Existing employer/role and date-period context reviewed. No internal promotion boundary inferred.",
+      "indexed_dates": {
+        "start_date": "2014-12",
+        "end_date": "2017-12",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "101351",
+      "spell_id": "101351-14",
+      "source_record_commit": "225891e6ceffde053b0322105d63966be45021ea",
+      "expected": {
+        "employer": "Special Broadcasting Service",
+        "role": "Director, strategy and communications; later corporate affairs",
+        "start_date": "2012-05-21",
+        "end_date": "2015-07",
+        "date_precision": "mixed"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment date range; matched to existing record, without adding profile attributes.",
+      "match_note": "Existing employer/role and date-period context reviewed. No internal promotion boundary inferred.",
+      "indexed_dates": {
+        "start_date": "2012",
+        "end_date": "2015",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "296272",
+      "spell_id": "296272-10",
+      "source_record_commit": "b991e331f9c3f1b73c0f34cb0602242d490170f2",
+      "expected": {
+        "employer": "Therapeutic Goods Administration, Advisory Committee on Vaccines",
+        "role": "Committee member",
+        "start_date": "2017",
+        "end_date": "2018",
+        "date_precision": "year"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment date range; matched to existing record, without adding profile attributes.",
+      "match_note": "Existing employer/role and date-period context reviewed. No internal promotion boundary inferred.",
+      "indexed_dates": {
+        "start_date": "2017-01",
+        "end_date": "2018-12",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "132880",
+      "spell_id": "132880-09",
+      "source_record_commit": "225891e6ceffde053b0322105d63966be45021ea",
+      "expected": {
+        "employer": "Pottinger",
+        "role": "Director, Policy",
+        "start_date": "2012-09",
+        "end_date": "2014-04",
+        "date_precision": "month"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment date range; matched to existing record, without adding profile attributes.",
+      "match_note": "Existing employer/role and date-period context reviewed. No internal promotion boundary inferred.",
+      "indexed_dates": {
+        "start_date": "2012-09",
+        "end_date": "2014-04",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "IMW",
+      "spell_id": "IMW-16",
+      "source_record_commit": "225891e6ceffde053b0322105d63966be45021ea",
+      "expected": {
+        "employer": "Alfred Health",
+        "role": "Board director",
+        "start_date": "2011",
+        "end_date": "2014-06-30",
+        "date_precision": "mixed"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment date range; matched to existing record, without adding profile attributes.",
+      "match_note": "Existing employer/role and date-period context reviewed. No internal promotion boundary inferred.",
+      "indexed_dates": {
+        "start_date": "2011",
+        "end_date": "2014",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "316660",
+      "spell_id": "316660-15",
+      "source_record_commit": "225891e6ceffde053b0322105d63966be45021ea",
+      "expected": {
+        "employer": "Permanent Care and Adoptive Families",
+        "role": "Non-executive director",
+        "start_date": "2019-10",
+        "end_date": null,
+        "date_precision": "month"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment date range; matched to existing record, without adding profile attributes.",
+      "match_note": "Existing employer/role and date-period context reviewed. No internal promotion boundary inferred.",
+      "indexed_dates": {
+        "start_date": "2019-10",
+        "end_date": null,
+        "end_label": "Present"
+      }
+    },
+    {
+      "person_id": "201906",
+      "spell_id": "201906-11",
+      "source_record_commit": "98d8508ec3b69df5d34071ca228f8c7c9a57972b",
+      "expected": {
+        "employer": "The Good Guys, Morayfield",
+        "role": "Joint-venture partner and managing director",
+        "start_date": "2001-08",
+        "end_date": "2007-01",
+        "date_precision": "month"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment date range; matched to existing record, without adding profile attributes.",
+      "match_note": "Existing employer/role and date-period context reviewed. No internal promotion boundary inferred.",
+      "indexed_dates": {
+        "start_date": "2001-08",
+        "end_date": "2007-01",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "300006",
+      "spell_id": "300006-14",
+      "source_record_commit": "e5a302c8ab0ea2d437c9f6b8d75dcb6e576a6285",
+      "expected": {
+        "employer": "Awesome Arts",
+        "role": "Board member",
+        "start_date": "2014-05",
+        "end_date": "2016-07",
+        "date_precision": "month"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment date range; matched to existing record, without adding profile attributes.",
+      "match_note": "Existing employer/role and date-period context reviewed. No internal promotion boundary inferred.",
+      "indexed_dates": {
+        "start_date": "2014-05",
+        "end_date": "2016-07",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "297660",
+      "spell_id": "297660-17",
+      "source_record_commit": "225891e6ceffde053b0322105d63966be45021ea",
+      "expected": {
+        "employer": "University of Melbourne",
+        "role": "Honorary clinical professor",
+        "start_date": null,
+        "end_date": null,
+        "date_precision": "unknown"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment date range; matched to existing record, without adding profile attributes.",
+      "match_note": "Existing employer/role and date-period context reviewed. No internal promotion boundary inferred.",
+      "indexed_dates": {
+        "start_date": "2016-04",
+        "end_date": "2021-12",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "316660",
+      "spell_id": "316660-16",
+      "source_record_commit": "225891e6ceffde053b0322105d63966be45021ea",
+      "expected": {
+        "employer": "Yarra City Council",
+        "role": "Business Advisory Group member",
+        "start_date": "2019-10",
+        "end_date": null,
+        "date_precision": "month"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment date range; matched to existing record, without adding profile attributes.",
+      "match_note": "Existing employer/role and date-period context reviewed. No internal promotion boundary inferred.",
+      "indexed_dates": {
+        "start_date": "2019-10",
+        "end_date": null,
+        "end_label": "Present"
+      }
+    },
+    {
+      "person_id": "101351",
+      "spell_id": "101351-16",
+      "source_record_commit": "225891e6ceffde053b0322105d63966be45021ea",
+      "expected": {
+        "employer": "Victorian Multicultural Commission",
+        "role": "Commissioner and regional advisory council chair",
+        "start_date": "2015",
+        "end_date": "2016-02-07",
+        "date_precision": "mixed"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment date range; matched to existing record, without adding profile attributes.",
+      "match_note": "Existing employer/role and date-period context reviewed. No internal promotion boundary inferred.",
+      "indexed_dates": {
+        "start_date": "2015",
+        "end_date": "2016",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "297660",
+      "spell_id": "297660-18",
+      "source_record_commit": "225891e6ceffde053b0322105d63966be45021ea",
+      "expected": {
+        "employer": "Monash University",
+        "role": "Adjunct clinical professor",
+        "start_date": null,
+        "end_date": null,
+        "date_precision": "unknown"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment date range; matched to existing record, without adding profile attributes.",
+      "match_note": "Existing employer/role and date-period context reviewed. No internal promotion boundary inferred.",
+      "indexed_dates": {
+        "start_date": "2016-01",
+        "end_date": "2021-12",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "175696",
+      "spell_id": "175696-kemp-strang",
+      "source_record_commit": "a7b5c9e1fe26cf70360915ed116298457083ae5e",
+      "expected": {
+        "employer": "Kemp Strang",
+        "role": "Legal-practice role (title unresolved in accessible excerpt)",
+        "start_date": "2007-10",
+        "end_date": "2008-04",
+        "date_precision": "month"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment date range; matched to existing record, without adding profile attributes.",
+      "match_note": "Existing employer/role and date-period context reviewed. No internal promotion boundary inferred.",
+      "indexed_dates": {
+        "start_date": "2007-10",
+        "end_date": "2008-04",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "138932",
+      "spell_id": "138932-07",
+      "source_record_commit": "98d8508ec3b69df5d34071ca228f8c7c9a57972b",
+      "expected": {
+        "employer": "Ted O'Brien & Associates / Visible Hand Consulting (Edward Lynam O'Brien, sole trader)",
+        "role": "Managing Director / consultant",
+        "start_date": "2014-02",
+        "end_date": null,
+        "date_precision": "month"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment date range; matched to existing record, without adding profile attributes.",
+      "match_note": "Existing employer/role and date-period context reviewed. No internal promotion boundary inferred.",
+      "indexed_dates": {
+        "start_date": "2014-02",
+        "end_date": null,
+        "end_label": "Present"
+      }
+    },
+    {
+      "person_id": "297660",
+      "spell_id": "297660-19",
+      "source_record_commit": "225891e6ceffde053b0322105d63966be45021ea",
+      "expected": {
+        "employer": "Murdoch Children’s Research Institute",
+        "role": "Honorary fellow manager",
+        "start_date": null,
+        "end_date": "2021",
+        "date_precision": "year"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment date range; matched to existing record, without adding profile attributes.",
+      "match_note": "Existing employer/role and date-period context reviewed. No internal promotion boundary inferred.",
+      "indexed_dates": {
+        "start_date": "2006-06",
+        "end_date": "2021-12",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "175696",
+      "spell_id": "175696-ski-snowboard-director",
+      "source_record_commit": "a7b5c9e1fe26cf70360915ed116298457083ae5e",
+      "expected": {
+        "employer": "Ski and Snowboard Association of Australia",
+        "role": "Director",
+        "start_date": "2002",
+        "end_date": "2006",
+        "date_precision": "year"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment date range; matched to existing record, without adding profile attributes.",
+      "match_note": "Existing employer/role and date-period context reviewed. No internal promotion boundary inferred.",
+      "indexed_dates": {
+        "start_date": "2002",
+        "end_date": "2006",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "296272",
+      "spell_id": "296272-25",
+      "source_record_commit": "b991e331f9c3f1b73c0f34cb0602242d490170f2",
+      "expected": {
+        "employer": "Belair Primary School",
+        "role": "Governing Council member",
+        "start_date": null,
+        "end_date": null,
+        "date_precision": "unknown"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment date range; matched to existing record, without adding profile attributes.",
+      "match_note": "Existing employer/role and date-period context reviewed. No internal promotion boundary inferred.",
+      "indexed_dates": {
+        "start_date": "2023-09",
+        "end_date": null,
+        "end_label": "Present"
+      }
+    },
+    {
+      "person_id": "309484",
+      "spell_id": "309484-01",
+      "source_record_commit": "31611291763edffc33e09aa2aae4443aecfab83d",
+      "expected": {
+        "employer": "Connectus / Premier's Drug Prevention Council project (legal employer unresolved)",
+        "role": "Executive manager",
+        "start_date": "2005",
+        "end_date": "2007",
+        "date_precision": "year"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment start/end dates from supplementary role search.",
+      "match_note": "Existing appointment identified; no new employer, role or employment-status data collected.",
+      "indexed_dates": {
+        "start_date": "2005-02",
+        "end_date": "2007-07",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "309484",
+      "spell_id": "309484-02",
+      "source_record_commit": "31611291763edffc33e09aa2aae4443aecfab83d",
+      "expected": {
+        "employer": "Jobs Australia Foundation",
+        "role": "Executive manager",
+        "start_date": "2010",
+        "end_date": "2015",
+        "date_precision": "year"
+      },
+      "checked": "2026-10-15",
+      "retrieval_method": "public_search_index",
+      "source_locator": "Indexed appointment start/end dates from supplementary role search.",
+      "match_note": "Existing appointment identified; no new employer, role or employment-status data collected.",
+      "indexed_dates": {
+        "start_date": "2010-01",
+        "end_date": "2015-03",
+        "end_label": null
+      }
+    }
+  ],
+  "unassigned_ranges": [
+    {
+      "person_id": "26417",
+      "candidate_spell_id": "26417-acf",
+      "checked": "2026-10-15",
+      "status": "scope_unresolved",
+      "reason": "Different or unidentified appointment at the same organisation.",
+      "indexed_dates": {
+        "start_date": "2006",
+        "end_date": "2009",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "282997",
+      "candidate_spell_id": "282997-02",
+      "checked": "2026-10-15",
+      "status": "scope_unresolved",
+      "reason": "Employer-wide range spans several existing Allens appointments.",
+      "indexed_dates": {
+        "start_date": "1992",
+        "end_date": "2005",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "274506",
+      "candidate_spell_id": "274506-dfat-graduate",
+      "checked": "2026-10-15",
+      "status": "scope_unresolved",
+      "reason": "Employer-wide range spans several diplomatic postings.",
+      "indexed_dates": {
+        "start_date": "1999-02",
+        "end_date": "2017-12",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "281688",
+      "candidate_spell_id": "281688-06",
+      "checked": "2026-10-15",
+      "status": "scope_unresolved",
+      "reason": "Range spans executive and later patron roles.",
+      "indexed_dates": {
+        "start_date": "2011",
+        "end_date": "2025-08",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "300006",
+      "candidate_spell_id": "300006-02",
+      "checked": "2026-10-15",
+      "status": "scope_unresolved",
+      "reason": "Indexed interval does not establish the same existing appointment.",
+      "indexed_dates": {
+        "start_date": "2016-07",
+        "end_date": "2016-12",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "62329",
+      "candidate_spell_id": "62329-colly-farm",
+      "checked": "2026-10-15",
+      "status": "scope_unresolved",
+      "reason": "Employer-wide range spans operational and chief-executive roles.",
+      "indexed_dates": {
+        "start_date": "1983-01",
+        "end_date": "2000-01",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "260805",
+      "candidate_spell_id": "260805-02",
+      "checked": "2026-10-15",
+      "status": "scope_unresolved",
+      "reason": "ADFA subperiod cannot replace combined ADFA and Duntroon chronology.",
+      "indexed_dates": {
+        "start_date": "2003-01",
+        "end_date": "2005-12",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "HWA",
+      "candidate_spell_id": "HWA-07",
+      "checked": "2026-10-15",
+      "status": "scope_unresolved",
+      "reason": "Organisation range does not isolate representative and training appointments.",
+      "indexed_dates": {
+        "start_date": "2001",
+        "end_date": "2007",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "266499",
+      "candidate_spell_id": "266499-04",
+      "checked": "2026-10-15",
+      "status": "scope_unresolved",
+      "reason": "Range may describe a subrole within combined manager/key-account record.",
+      "indexed_dates": {
+        "start_date": "2002-10",
+        "end_date": "2002-12",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "282335",
+      "candidate_spell_id": "282335-04",
+      "checked": "2026-10-15",
+      "status": "scope_unresolved",
+      "reason": "Several university appointments; range lacks a discrete role locator.",
+      "indexed_dates": {
+        "start_date": "2015-03",
+        "end_date": "2019-03",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "91219",
+      "candidate_spell_id": "91219-cepu-leadership",
+      "checked": "2026-10-15",
+      "status": "scope_unresolved",
+      "reason": "Several union offices; range lacks a discrete role locator.",
+      "indexed_dates": {
+        "start_date": "2006",
+        "end_date": "2010",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "138932",
+      "candidate_spell_id": "138932-05",
+      "checked": "2026-10-15",
+      "status": "scope_unresolved",
+      "reason": "Employer-wide range does not isolate component appointments.",
+      "indexed_dates": {
+        "start_date": "2001-01",
+        "end_date": "2011-11",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "248895",
+      "candidate_spell_id": "248895-mills-senior-policy-adviser",
+      "checked": "2026-10-15",
+      "status": "scope_unresolved",
+      "reason": "Combined staff range crosses a documented promotion.",
+      "indexed_dates": {
+        "start_date": "2009-03",
+        "end_date": "2011-09",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "243273",
+      "candidate_spell_id": "243273-05",
+      "checked": "2026-10-15",
+      "status": "scope_unresolved",
+      "reason": "Wine-centre range does not isolate planning work from CEO appointment.",
+      "indexed_dates": {
+        "start_date": "1996",
+        "end_date": "2002",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "282997",
+      "candidate_spell_id": "282997-07",
+      "checked": "2026-10-15",
+      "status": "scope_unresolved",
+      "reason": "PanAust range spans separately coded ownership/control spells.",
+      "indexed_dates": {
+        "start_date": "2007-02",
+        "end_date": "2019-02",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "243273",
+      "candidate_spell_id": "243273-06",
+      "checked": "2026-10-15",
+      "status": "scope_unresolved",
+      "reason": "Business range spans active operator and later continuing ownership.",
+      "indexed_dates": {
+        "start_date": "2003",
+        "end_date": "2015",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "276714",
+      "candidate_spell_id": "276714-05",
+      "checked": "2026-10-15",
+      "status": "scope_unresolved",
+      "reason": "Employer date range and existing role boundary require scope review.",
+      "indexed_dates": {
+        "start_date": "2004",
+        "end_date": "2007",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "175696",
+      "candidate_spell_id": "175696-10",
+      "checked": "2026-10-15",
+      "status": "scope_unresolved",
+      "reason": "Organisation range does not identify the existing tribunal appointment.",
+      "indexed_dates": {
+        "start_date": "2010",
+        "end_date": "2019-05",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "201906",
+      "candidate_spell_id": "201906-09",
+      "checked": "2026-10-15",
+      "status": "scope_unresolved",
+      "reason": "Philips range does not isolate subsidiary/role appointments.",
+      "indexed_dates": {
+        "start_date": "1997-01",
+        "end_date": "2001-01",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "274506",
+      "candidate_spell_id": "274506-swg",
+      "checked": "2026-10-15",
+      "status": "scope_unresolved",
+      "reason": "Director/partner boundaries require scope review.",
+      "indexed_dates": {
+        "start_date": "2023-02",
+        "end_date": "2023-12",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "241710",
+      "candidate_spell_id": "241710-09",
+      "checked": "2026-10-15",
+      "status": "scope_unresolved",
+      "reason": "Employer range and existing role boundary require scope review.",
+      "indexed_dates": {
+        "start_date": "2009",
+        "end_date": "2010",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "241710",
+      "candidate_spell_id": "241710-10",
+      "checked": "2026-10-15",
+      "status": "scope_unresolved",
+      "reason": "Company range and ownership/consulting boundary require scope review.",
+      "indexed_dates": {
+        "start_date": "2010",
+        "end_date": "2012-04",
+        "end_label": null
+      }
+    },
+    {
+      "person_id": "316101",
+      "candidate_spell_id": "316101-08",
+      "checked": "2026-10-15",
+      "status": "scope_unresolved",
+      "reason": "Combined principal/special-counsel range does not identify promotion boundaries.",
+      "indexed_dates": {
+        "start_date": "2022-11",
+        "end_date": "2025-05",
+        "end_label": null
+      }
+    }
+  ]
+}
