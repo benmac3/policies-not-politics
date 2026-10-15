@@ -2,6 +2,7 @@
 import csv
 import json
 from pathlib import Path
+from reconcile_appointment_dates import apply_reconciliation
 
 ROOT = Path(__file__).resolve().parents[1]
 MEMBERS = ROOT / "data/careers/members"
@@ -28,7 +29,7 @@ def load_records():
     ids = [r["person_id"] for r in records]
     if len(ids) != len(set(ids)):
         raise SystemExit("Duplicate person_id in career records")
-    return records
+    return apply_reconciliation(records)
 
 
 def main():
